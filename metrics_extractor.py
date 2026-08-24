@@ -1,9 +1,10 @@
 """
 metrics_extractor.py - Financial & OpEx KPI extraction and calculation engine.
-Extracts:
-  - Revenue, Gross Profit, Gross Margin %, Operating Income, Net Income
-  - R&D Expenses, CapEx, Operating Cash Flow, Free Cash Flow
-  - Total Headcount (FTE), Revenue per Employee, Gross Profit per Employee
+Extracts & benchmarks:
+  - Revenue, Gross Profit, Gross Margin %, Operating Income, Operating Margin %, Net Income, Net Margin %
+  - R&D Expenses, R&D % of Revenue, R&D per Employee
+  - Total Headcount (FTE), Headcount YoY Growth
+  - Productivity: Revenue/Employee, Gross Profit/Employee, Operating Income/Employee, Net Income/Employee
   - Value vs. Volume Sales Breakdown (EUV, ArFi, Other DUV, M&I)
 """
 import os
@@ -12,7 +13,6 @@ import json
 import glob
 from typing import Dict, List, Optional
 
-# Default curated, audited benchmark baseline for ASML and semiconductor giants
 BUILTIN_BENCHMARKS = {
     "asml": {
         "company_name": "ASML Holding N.V.",
@@ -62,10 +62,6 @@ class FinancialMetricsExtractor:
         os.makedirs(self.metrics_dir, exist_ok=True)
 
     def extract_from_markdown(self, ticker: str) -> Dict:
-        """
-        Parses Markdown files in data/parsed_md/{ticker}/ to extract financial tables & metrics.
-        Falls back to built-in benchmark if text extraction is sparse.
-        """
         ticker = ticker.lower()
         md_pattern = os.path.join(self.parsed_md_dir, ticker, "*.md")
         md_files = glob.glob(md_pattern)
@@ -90,27 +86,22 @@ class FinancialMetricsExtractor:
             }
         })
 
-        # Try to parse additional years or values from markdown tables
         for md_file in md_files:
             try:
                 with open(md_file, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                # Extract year from filename (e.g. ASML_2024_20-F.md)
                 match = re.search(r"(\d{4})", os.path.basename(md_file))
                 if match:
-                    year_str = match.group(1)
-                    year = int(year_str)
+                    year = int(match.group(1))
                     if year not in metrics["years"]:
                         metrics["years"].append(year)
                         metrics["years"].sort()
             except Exception as e:
                 print(f"Error reading {md_file}: {e}")
 
-        # Compute calculated productivity metrics
         self.compute_productivity_metrics(metrics)
 
-        # Save to JSON
         out_json = os.path.join(self.metrics_dir, f"{ticker}_metrics.json")
         with open(out_json, "w", encoding="utf-8") as f:
             json.dump(metrics, f, ensure_ascii=False, indent=2)
@@ -119,10 +110,6 @@ class FinancialMetricsExtractor:
 
     @staticmethod
     def compute_productivity_metrics(data: Dict):
-        """
-        Calculates YoY Growth, Revenue per Employee, Gross Profit per Employee,
-        Operating Income per Employee, and Margins.
-        """
         financials = data.get("financials", {})
         years = sorted([int(y) for y in financials.keys()])
         data["years"] = years
@@ -134,51 +121,59 @@ class FinancialMetricsExtractor:
             gp = fin.get("gross_profit", 0)
             op = fin.get("operating_income", 0)
             ni = fin.get("net_income", 0)
+            rd = fin.get("rd_expense", 0)
             hc = fin.get("headcount", 0)
 
-            # Margins
+            # Margins & Ratios
             fin["gross_margin"] = round((gp / rev * 100), 2) if rev else fin.get("gross_margin", 0.0)
             fin["operating_margin"] = round((op / rev * 100), 2) if rev else 0.0
             fin["net_margin"] = round((ni / rev * 100), 2) if rev else 0.0
+            fin["rd_pct_rev"] = round((rd / rev * 100), 2) if rev else 0.0
 
-            # Productivity (per employee, in thousands if data is in millions)
+            # Productivity Metrics (per employee, in exact currency)
             if hc > 0:
-                fin["rev_per_emp"] = round((rev * 1000000) / hc, 0) # in actual currency
+                fin["rev_per_emp"] = round((rev * 1000000) / hc, 0)
                 fin["gp_per_emp"] = round((gp * 1000000) / hc, 0)
                 fin["op_per_emp"] = round((op * 1000000) / hc, 0)
                 fin["ni_per_emp"] = round((ni * 1000000) / hc, 0)
+                fin["rd_per_emp"] = round((rd * 1000000) / hc, 0)
             else:
                 fin["rev_per_emp"] = 0
                 fin["gp_per_emp"] = 0
                 fin["op_per_emp"] = 0
                 fin["ni_per_emp"] = 0
+                fin["rd_per_emp"] = 0
 
             # YoY Comparisons
             if prev_fin:
                 prev_rev = prev_fin.get("revenue", 0)
                 prev_gp = prev_fin.get("gross_profit", 0)
                 prev_op = prev_fin.get("operating_income", 0)
+                prev_ni = prev_fin.get("net_income", 0)
+                prev_rd = prev_fin.get("rd_expense", 0)
                 prev_hc = prev_fin.get("headcount", 0)
 
                 fin["rev_growth_yoy"] = round(((rev - prev_rev) / prev_rev * 100), 2) if prev_rev else 0.0
                 fin["gp_growth_yoy"] = round(((gp - prev_gp) / prev_gp * 100), 2) if prev_gp else 0.0
                 fin["op_growth_yoy"] = round(((op - prev_op) / prev_op * 100), 2) if prev_op else 0.0
+                fin["ni_growth_yoy"] = round(((ni - prev_ni) / prev_ni * 100), 2) if prev_ni else 0.0
+                fin["rd_growth_yoy"] = round(((rd - prev_rd) / prev_rd * 100), 2) if prev_rd else 0.0
                 fin["hc_growth_yoy"] = round(((hc - prev_hc) / prev_hc * 100), 2) if prev_hc else 0.0
                 fin["gm_diff_pp"] = round(fin["gross_margin"] - prev_fin.get("gross_margin", 0.0), 2)
+                fin["op_diff_pp"] = round(fin["operating_margin"] - prev_fin.get("operating_margin", 0.0), 2)
             else:
                 fin["rev_growth_yoy"] = None
                 fin["gp_growth_yoy"] = None
                 fin["op_growth_yoy"] = None
+                fin["ni_growth_yoy"] = None
+                fin["rd_growth_yoy"] = None
                 fin["hc_growth_yoy"] = None
                 fin["gm_diff_pp"] = None
+                fin["op_diff_pp"] = None
 
             prev_fin = fin
 
     def get_metrics(self, ticker: str) -> Dict:
-        """Loads cached metrics JSON or extracts fresh from Markdown"""
         ticker = ticker.lower()
-        json_path = os.path.join(self.metrics_dir, f"{ticker}_metrics.json")
-        if os.path.exists(json_path):
-            with open(json_path, "r", encoding="utf-8") as f:
-                return json.load(f)
+        # Always run extract_from_markdown to ensure fresh computation of all ratios & new metrics
         return self.extract_from_markdown(ticker)

@@ -25,7 +25,7 @@
                         Financial & OpEx Strategic Dashboard
                         <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2 py-0.5 rounded-full font-medium">一步到位 Workflow</span>
                     </h1>
-                    <p class="text-xs text-slate-400">CompaniesMarketCap 爬蟲 ➔ 20-F/10-K PDF ➔ Markdown 轉換 ➔ 人均產值戰略對齊</p>
+                    <p class="text-xs text-slate-400">CompaniesMarketCap 爬蟲 ➔ 20-F/10-K PDF ➔ Markdown 轉換 ➔ 人均產值 & 研發獲利全景戰略對齊</p>
                 </div>
             </div>
             
@@ -91,109 +91,180 @@
             </div>
         </section>
 
-        <!-- 2. Strategic KPI Summary Cards -->
-        <section class="grid grid-cols-2 md:grid-cols-4 gap-4" id="kpiCards">
-            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-4 shadow-sm">
-                <p class="text-xs text-slate-400 font-medium">最新營業收入 (Revenue)</p>
-                <div class="flex items-baseline gap-2 mt-1">
-                    <span class="text-2xl font-bold text-white" id="kpiRevenue">€32,500M</span>
-                    <span class="text-xs font-semibold text-emerald-400" id="kpiRevenueYoY">+15.0% YoY</span>
+        <!-- 2. Strategic KPI Summary Cards (6 KPIs) -->
+        <section class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3" id="kpiCards">
+            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-3.5 shadow-sm">
+                <p class="text-[11px] text-slate-400 font-medium truncate">營業收入 Revenue</p>
+                <div class="flex items-baseline gap-1.5 mt-1">
+                    <span class="text-xl font-bold text-white" id="kpiRevenue">€32,500M</span>
                 </div>
-                <p class="text-[11px] text-slate-500 mt-1">GAAP 官方審計財報數據</p>
+                <p class="text-[10px] font-semibold text-emerald-400 mt-0.5" id="kpiRevenueYoY">+15.0% YoY</p>
             </div>
 
-            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-4 shadow-sm">
-                <p class="text-xs text-slate-400 font-medium">毛利率 (Gross Margin %)</p>
-                <div class="flex items-baseline gap-2 mt-1">
-                    <span class="text-2xl font-bold text-blue-400" id="kpiGrossMargin">52.0%</span>
-                    <span class="text-xs font-semibold text-emerald-400" id="kpiMarginDiff">+0.7 pp</span>
+            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-3.5 shadow-sm">
+                <p class="text-[11px] text-slate-400 font-medium truncate">毛利率 Gross Margin %</p>
+                <div class="flex items-baseline gap-1.5 mt-1">
+                    <span class="text-xl font-bold text-emerald-400" id="kpiGrossMargin">52.0%</span>
                 </div>
-                <p class="text-[11px] text-slate-500 mt-1">2030 目標: 56% ~ 60%</p>
+                <p class="text-[10px] font-semibold text-emerald-400 mt-0.5" id="kpiMarginDiff">+0.7 pp</p>
             </div>
 
-            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-4 shadow-sm">
-                <p class="text-xs text-slate-400 font-medium">全球員工總數 (Headcount)</p>
-                <div class="flex items-baseline gap-2 mt-1">
-                    <span class="text-2xl font-bold text-amber-400" id="kpiHeadcount">44,800</span>
-                    <span class="text-xs font-semibold text-slate-400" id="kpiHeadcountPlateau">進入高原期</span>
+            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-3.5 shadow-sm">
+                <p class="text-[11px] text-slate-400 font-medium truncate">營業利益 Operating Income</p>
+                <div class="flex items-baseline gap-1.5 mt-1">
+                    <span class="text-xl font-bold text-cyan-400" id="kpiOpIncome">€10,560M</span>
                 </div>
-                <p class="text-[11px] text-slate-500 mt-1">人均產值成長的核心槓桿</p>
+                <p class="text-[10px] font-semibold text-cyan-400 mt-0.5" id="kpiOpMargin">利益率: 32.5%</p>
             </div>
 
-            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-4 shadow-sm">
-                <p class="text-xs text-slate-400 font-medium">人均營收 (Revenue / FTE)</p>
-                <div class="flex items-baseline gap-2 mt-1">
-                    <span class="text-2xl font-bold text-purple-400" id="kpiRevPerEmp">€725.4K</span>
-                    <span class="text-xs font-semibold text-emerald-400" id="kpiRevPerEmpYoY">+13.8% YoY</span>
+            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-3.5 shadow-sm">
+                <p class="text-[11px] text-slate-400 font-medium truncate">研發費用 R&D Expense</p>
+                <div class="flex items-baseline gap-1.5 mt-1">
+                    <span class="text-xl font-bold text-rose-400" id="kpiRdExpense">€4,650M</span>
                 </div>
-                <p class="text-[11px] text-slate-500 mt-1">數位自動化與精益 (OpEx) 轉化</p>
+                <p class="text-[10px] font-semibold text-rose-400 mt-0.5" id="kpiRdPct">佔營收 14.3%</p>
+            </div>
+
+            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-3.5 shadow-sm">
+                <p class="text-[11px] text-slate-400 font-medium truncate">員工總數 Total Headcount</p>
+                <div class="flex items-baseline gap-1.5 mt-1">
+                    <span class="text-xl font-bold text-amber-400" id="kpiHeadcount">44,800</span>
+                </div>
+                <p class="text-[10px] text-slate-400 mt-0.5" id="kpiHeadcountPlateau">高原期 (+1.0% YoY)</p>
+            </div>
+
+            <div class="bg-slate-800 border border-slate-700/80 rounded-xl p-3.5 shadow-sm">
+                <p class="text-[11px] text-slate-400 font-medium truncate">人均毛利 GP per FTE</p>
+                <div class="flex items-baseline gap-1.5 mt-1">
+                    <span class="text-xl font-bold text-purple-400" id="kpiGpPerEmp">€377.2K</span>
+                </div>
+                <p class="text-[10px] font-semibold text-purple-400 mt-0.5" id="kpiGpPerEmpYoY">+15.5% YoY</p>
             </div>
         </section>
 
-        <!-- 3. The 50/50 Strategic Split Section -->
+        <!-- 3. Visual Charts Grid (6 Full Charts) -->
+        
+        <!-- Row 1: 50/50 Strategic Pivot & Comprehensive Per-Employee Productivity -->
         <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-            <!-- Left 50%: Macro Financials & Inflection Point -->
+            <!-- Chart 1: The Pivot (Headcount vs Gross Margin %) -->
             <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
                 <div>
-                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-3">
+                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                         <h3 class="text-sm font-bold text-white flex items-center gap-2">
-                            <span class="w-2.5 h-2.5 rounded-full bg-blue-500"></span>
-                            左面板 (50%)：人力拐點與毛利率大勢 (The Pivot)
+                            <i class="fa-solid fa-users-viewfinder text-blue-400"></i>
+                            圖表 1：人力高原拐點與毛利率走勢 (The Pivot)
                         </h3>
-                        <span class="text-xs text-slate-400">Headcount vs Gross Margin %</span>
+                        <span class="text-xs text-blue-400 bg-blue-500/10 px-2 py-0.5 rounded">Headcount vs Gross Margin</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed mb-3">
-                        <strong class="text-blue-400">核心洞察：</strong> 員工人數在 2024 年後進入約 4.4 萬人的高原期，為達成 2030 年毛利率 56%-60% 目標，企業必須停止依賴人力堆疊，全力透過精益營運卓越（OpEx）拉升人均產值。
+                    <p class="text-xs text-slate-300 leading-relaxed mb-2">
+                        <strong class="text-blue-400">戰略解讀：</strong> 全球員工人數在 2024 年後卡在約 44,000 人高原期，未來的毛利率突破（目標 56%-60%）完全取決於營運卓越（OpEx）與自動化人均產值拉升。
                     </p>
                 </div>
                 <div id="chartInflection" class="w-full h-80"></div>
             </div>
 
-            <!-- Right 50%: Productivity Multipliers & Lean Maturity -->
+            <!-- Chart 2: Per-Employee Productivity Multi-Metrics -->
             <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
                 <div>
-                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-3">
+                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                         <h3 class="text-sm font-bold text-white flex items-center gap-2">
-                            <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
-                            右面板 (50%)：人均產值趨勢與營運卓越階梯
+                            <i class="fa-solid fa-person-digging text-purple-400"></i>
+                            圖表 2：人均產值全景深度分析 (Revenue / GP / OpIncome per FTE)
                         </h3>
-                        <span class="text-xs text-slate-400">Revenue & Profit per Employee</span>
+                        <span class="text-xs text-purple-400 bg-purple-500/10 px-2 py-0.5 rounded">Productivity Trio</span>
                     </div>
-                    <p class="text-xs text-slate-300 leading-relaxed mb-3">
-                        <strong class="text-emerald-400">精益槓桿：</strong> 透過標準化 SOP 與 Python/n8n 數位自動化工具消滅浪費（Muda），使人均毛利在高原期實現複利增長。
+                    <p class="text-xs text-slate-300 leading-relaxed mb-2">
+                        <strong class="text-purple-400">精益槓桿：</strong> 同時追蹤【人均營收】、【人均毛利】與【人均營業利益】，量化每一位員工產生的實質現金與利潤價值。
                     </p>
                 </div>
                 <div id="chartProductivity" class="w-full h-80"></div>
             </div>
         </section>
 
-        <!-- 4. Value vs. Volume Sales Breakdown Section -->
-        <section class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg">
-            <div class="flex flex-wrap items-center justify-between border-b border-slate-700 pb-3 mb-4 gap-2">
+        <!-- Row 2: Operating Profitability & R&D Investment Intensity -->
+        <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <!-- Chart 3: Operating Income & Profitability Margins -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
                 <div>
-                    <h3 class="text-base font-bold text-white flex items-center gap-2">
-                        <i class="fa-solid fa-boxes-stacked text-orange-400"></i>
-                        銷售結構不對稱性分析 (Value-vs-Volume Paradox)
-                    </h3>
-                    <p class="text-xs text-slate-400 mt-0.5">左邊是銷售金額（價值維度），右邊是出貨實體台數（物流/製造負荷維度）</p>
+                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
+                        <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                            <i class="fa-solid fa-sack-dollar text-emerald-400"></i>
+                            圖表 3：營業利益與獲利能力趨勢 (Operating Income & Margins)
+                        </h3>
+                        <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded">Operating Leverage</span>
+                    </div>
+                    <p class="text-xs text-slate-300 leading-relaxed mb-2">
+                        <strong class="text-emerald-400">營運槓桿：</strong> 觀察營業利益（Operating Income）與淨利（Net Income）的擴張速度，以及營業利益率（Operating Margin %）走勢。
+                    </p>
                 </div>
-                <div class="flex items-center gap-3 text-xs">
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded" style="background-color: #1A365D;"></span> EUV (尖端)</span>
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded" style="background-color: #00A3E0;"></span> ArFi (主力)</span>
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded" style="background-color: #90CDF4;"></span> Other DUV (成熟)</span>
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded" style="background-color: #ED8936;"></span> M&I (檢測)</span>
-                </div>
+                <div id="chartProfitability" class="w-full h-80"></div>
             </div>
-            <div id="chartSalesBreakdown" class="w-full h-96"></div>
+
+            <!-- Chart 4: R&D Expense & R&D Intensity (% of Revenue) -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div>
+                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
+                        <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                            <i class="fa-solid fa-microchip text-rose-400"></i>
+                            圖表 4：研發支出與技術護城河強度 (R&D Expense & Intensity)
+                        </h3>
+                        <span class="text-xs text-rose-400 bg-rose-500/10 px-2 py-0.5 rounded">R&D Commitment</span>
+                    </div>
+                    <p class="text-xs text-slate-300 leading-relaxed mb-2">
+                        <strong class="text-rose-400">技術護城河：</strong> 追蹤研發費用規模（€M）與研發佔營收比重（R&D as % of Revenue），評估先進製程（如 High-NA EUV）的持續研發轉換率。
+                    </p>
+                </div>
+                <div id="chartRdIntensity" class="w-full h-80"></div>
+            </div>
         </section>
 
-        <!-- 5. Master Financial & Productivity Audited Table -->
+        <!-- Row 3: YoY Growth Dynamics & Value vs Volume Sales Breakdown -->
+        <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <!-- Chart 5: YoY Growth Multi-Dynamics (Rev vs GP vs HC Growth) -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div>
+                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
+                        <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                            <i class="fa-solid fa-arrow-trend-up text-amber-400"></i>
+                            圖表 5：利潤 vs. 人力成長增速對比 (YoY Growth Dynamics)
+                        </h3>
+                        <span class="text-xs text-amber-400 bg-amber-500/10 px-2 py-0.5 rounded">Growth Triangulation</span>
+                    </div>
+                    <p class="text-xs text-slate-300 leading-relaxed mb-2">
+                        <strong class="text-amber-400">三元交叉審計：</strong> 驗證「營收增速 > 員工人數增速」之健康擴張特徵，確保利潤成長非由單純人力暴增所驅動。
+                    </p>
+                </div>
+                <div id="chartGrowthDynamics" class="w-full h-80"></div>
+            </div>
+
+            <!-- Chart 6: Value vs. Volume Sales Breakdown -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div>
+                    <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
+                        <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                            <i class="fa-solid fa-boxes-stacked text-orange-400"></i>
+                            圖表 6：銷售結構不對稱性 (Value-vs-Volume Paradox)
+                        </h3>
+                        <span class="text-xs text-orange-400 bg-orange-500/10 px-2 py-0.5 rounded">EUV / ArFi / DUV / M&I</span>
+                    </div>
+                    <p class="text-xs text-slate-300 leading-relaxed mb-2">
+                        <strong class="text-orange-400">結構分拆：</strong> 尖端 EUV 貢獻主要營收金額，而成熟 DUV 與檢測機台佔據工廠 90% 物流與調試負荷。
+                    </p>
+                </div>
+                <div id="chartSalesBreakdown" class="w-full h-80"></div>
+            </div>
+        </section>
+
+        <!-- 4. Master Financial & Productivity Audited Table -->
         <section class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg">
             <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-4">
-                <h3 class="text-base font-bold text-white flex items-center gap-2">
-                    <i class="fa-solid fa-table-list text-blue-400"></i>
-                    官方審計綜合財務與人均產值數據表 (Master Financial & OpEx Table)
-                </h3>
+                <div>
+                    <h3 class="text-base font-bold text-white flex items-center gap-2">
+                        <i class="fa-solid fa-table-list text-blue-400"></i>
+                        官方審計全維度財務、研發與人均產值數據表 (Master Financial & OpEx Table)
+                    </h3>
+                    <p class="text-xs text-slate-400 mt-0.5">涵蓋 Revenue, GP, OpIncome, NetIncome, R&D, Headcount, Productivity 及各項 YoY 與利潤率</p>
+                </div>
                 <button id="exportCsvBtn" class="bg-slate-700 hover:bg-slate-600 text-xs text-slate-200 px-3 py-1.5 rounded-lg transition-all flex items-center gap-1">
                     <i class="fa-solid fa-file-csv"></i> 匯出 CSV
                 </button>
@@ -202,25 +273,23 @@
                 <table class="w-full text-xs text-left" id="masterTable">
                     <thead class="bg-slate-900/80 text-slate-400 font-semibold border-b border-slate-700">
                         <tr id="tableHeaderRow">
-                            <th class="py-3 px-4">指標 (Metric / Unit)</th>
-                            <!-- Dynamic Years -->
+                            <th class="py-3 px-4">指標項目 (Metric / Unit)</th>
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-slate-700/60 text-slate-200" id="tableBody">
-                        <!-- Dynamic Rows -->
                     </tbody>
                 </table>
             </div>
         </section>
 
-        <!-- 6. Parsed Markdown Browser & Previewer -->
+        <!-- 5. Parsed Markdown Browser & Previewer -->
         <section class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg">
             <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-4">
                 <h3 class="text-base font-bold text-white flex items-center gap-2">
                     <i class="fa-brands fa-markdown text-sky-400 text-lg"></i>
                     解析產出 Markdown 檔案瀏覽與預覽 (Parsed Reports)
                 </h3>
-                <span class="text-xs text-slate-400">可直接複製給 LLM (Gemini / Claude / ChatGPT) 進行深度分析</span>
+                <span class="text-xs text-slate-400">可直接複製給 LLM (Gemini / Claude / ChatGPT) 進行深度提問</span>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4">
                 <div class="md:col-span-4 bg-slate-900/80 rounded-xl p-3 border border-slate-700 max-h-80 overflow-y-auto" id="mdFileList">
@@ -238,7 +307,7 @@
             </div>
         </section>
 
-        <!-- Bottom Banner: Compounding Formula -->
+        <!-- Bottom Banner -->
         <footer class="bg-gradient-to-r from-blue-900/40 via-indigo-900/40 to-slate-900/40 border border-blue-500/20 rounded-2xl p-4 text-center">
             <p class="text-sm font-semibold text-blue-300">
                 ⚡ 營運卓越複利公式：<span class="font-mono text-amber-300 font-bold">(1.01)³⁶⁵ = 37.8x</span> — <span class="text-slate-300 italic">"Excellence is not an act, but a habit."</span>

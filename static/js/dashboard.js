@@ -1,5 +1,5 @@
 /**
- * dashboard.js - Handles API calls, Plotly interactive chart rendering,
+ * dashboard.js - Handles API calls, Plotly interactive multi-chart rendering,
  * and One-Click workflow execution.
  */
 
@@ -65,9 +65,16 @@ async function loadDashboard(ticker) {
         const data = await res.json();
         currentMetricsData = data;
         renderSummaryKPIs(data);
+        
+        // Render All 6 Charts
         renderInflectionChart(data);
         renderProductivityChart(data);
+        renderProfitabilityChart(data);
+        renderRdIntensityChart(data);
+        renderGrowthDynamicsChart(data);
         renderSalesBreakdownChart(data);
+        
+        // Render Master Table
         renderMasterTable(data);
     } catch (e) {
         console.error("Failed to load metrics:", e);
@@ -75,7 +82,7 @@ async function loadDashboard(ticker) {
 }
 
 // -----------------------------------------------------------------
-// 2. Render KPIs & Charts
+// 2. Render Summary Top KPIs
 // -----------------------------------------------------------------
 function renderSummaryKPIs(data) {
     const years = data.years || [];
@@ -83,16 +90,36 @@ function renderSummaryKPIs(data) {
     const latestYear = years[years.length - 1];
     const fin = data.financials[latestYear] || {};
 
+    // Revenue
     document.getElementById("kpiRevenue").textContent = `${data.unit}${fin.revenue?.toLocaleString() || "-"}`;
     document.getElementById("kpiRevenueYoY").textContent = fin.rev_growth_yoy ? `${fin.rev_growth_yoy > 0 ? "+" : ""}${fin.rev_growth_yoy}% YoY` : "-";
 
+    // Gross Margin
     document.getElementById("kpiGrossMargin").textContent = `${fin.gross_margin || "-"}%`;
     document.getElementById("kpiMarginDiff").textContent = fin.gm_diff_pp ? `${fin.gm_diff_pp > 0 ? "+" : ""}${fin.gm_diff_pp} pp` : "-";
 
+    // Operating Income
+    document.getElementById("kpiOpIncome").textContent = `${data.unit}${fin.operating_income?.toLocaleString() || "-"}`;
+    document.getElementById("kpiOpMargin").textContent = `利益率: ${fin.operating_margin || "-"}%`;
+
+    // R&D Expense
+    document.getElementById("kpiRdExpense").textContent = `${data.unit}${fin.rd_expense?.toLocaleString() || "-"}`;
+    document.getElementById("kpiRdPct").textContent = `佔營收 ${fin.rd_pct_rev || "-"}%`;
+
+    // Headcount
     document.getElementById("kpiHeadcount").textContent = fin.headcount?.toLocaleString() || "-";
-    document.getElementById("kpiRevPerEmp").textContent = fin.rev_per_emp ? `€${(fin.rev_per_emp / 1000).toFixed(1)}K` : "-";
+    document.getElementById("kpiHeadcountPlateau").textContent = fin.hc_growth_yoy ? `${fin.hc_growth_yoy > 0 ? "+" : ""}${fin.hc_growth_yoy}% YoY` : "高原期";
+
+    // Gross Profit per FTE
+    document.getElementById("kpiGpPerEmp").textContent = fin.gp_per_emp ? `€${(fin.gp_per_emp / 1000).toFixed(1)}K` : "-";
+    document.getElementById("kpiGpPerEmpYoY").textContent = fin.gp_growth_yoy ? `${fin.gp_growth_yoy > 0 ? "+" : ""}${fin.gp_growth_yoy}% YoY` : "-";
 }
 
+// -----------------------------------------------------------------
+// 3. Render 6 Comprehensive Interactive Charts
+// -----------------------------------------------------------------
+
+// Chart 1: The Pivot (Headcount vs Gross Margin %)
 function renderInflectionChart(data) {
     const years = data.years;
     const headcount = years.map(y => data.financials[y]?.headcount || 0);
@@ -110,22 +137,22 @@ function renderInflectionChart(data) {
     const trace2 = {
         x: years,
         y: grossMargin,
-        name: "毛利率 (Gross Margin %)",
+        name: "GAAP 毛利率 (Gross Margin %)",
         type: "scatter",
         mode: "lines+markers+text",
         text: grossMargin.map(v => `${v}%`),
         textposition: "top center",
         line: { color: "#10B981", width: 3 },
-        marker: { size: 8, color: "#10B981" },
+        marker: { size: 7, color: "#10B981" },
         yaxis: "y2"
     };
 
     const layout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: "#94A3B8", size: 11 },
-        margin: { t: 30, r: 40, l: 50, b: 40 },
-        legend: { orientation: "h", y: 1.15, x: 0.1 },
+        font: { color: "#94A3B8", size: 10.5 },
+        margin: { t: 25, r: 40, l: 50, b: 35 },
+        legend: { orientation: "h", y: 1.15, x: 0.05 },
         yaxis: {
             title: "員工人數 (FTE)",
             titlefont: { color: "#3B82F6" },
@@ -138,7 +165,7 @@ function renderInflectionChart(data) {
             tickfont: { color: "#10B981" },
             overlaying: "y",
             side: "right",
-            range: [35, 65],
+            range: [38, 62],
             showgrid: false
         },
         xaxis: { gridcolor: "#334155" }
@@ -147,10 +174,12 @@ function renderInflectionChart(data) {
     Plotly.newPlot("chartInflection", [trace1, trace2], layout, { responsive: true, displayModeBar: false });
 }
 
+// Chart 2: Productivity Trio (Revenue / GP / Operating Income per Employee)
 function renderProductivityChart(data) {
     const years = data.years;
-    const revPerEmp = years.map(y => Math.round((data.financials[y]?.rev_per_emp || 0) / 1000)); // in K
-    const gpPerEmp = years.map(y => Math.round((data.financials[y]?.gp_per_emp || 0) / 1000));   // in K
+    const revPerEmp = years.map(y => Math.round((data.financials[y]?.rev_per_emp || 0) / 1000));
+    const gpPerEmp = years.map(y => Math.round((data.financials[y]?.gp_per_emp || 0) / 1000));
+    const opPerEmp = years.map(y => Math.round((data.financials[y]?.op_per_emp || 0) / 1000));
 
     const trace1 = {
         x: years,
@@ -158,8 +187,8 @@ function renderProductivityChart(data) {
         name: "人均營收 (k€/FTE)",
         type: "scatter",
         mode: "lines+markers",
-        line: { color: "#A855F7", width: 3 },
-        marker: { size: 7 }
+        line: { color: "#A855F7", width: 2.5 },
+        marker: { size: 6 }
     };
 
     const trace2 = {
@@ -168,26 +197,214 @@ function renderProductivityChart(data) {
         name: "人均毛利 (k€/FTE)",
         type: "scatter",
         mode: "lines+markers",
-        line: { color: "#F59E0B", width: 3 },
-        marker: { size: 7 }
+        line: { color: "#F59E0B", width: 2.5 },
+        marker: { size: 6 }
+    };
+
+    const trace3 = {
+        x: years,
+        y: opPerEmp,
+        name: "人均營業利益 (k€/FTE)",
+        type: "scatter",
+        mode: "lines+markers",
+        line: { color: "#06B6D4", width: 2.5 },
+        marker: { size: 6 }
     };
 
     const layout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: "#94A3B8", size: 11 },
-        margin: { t: 30, r: 30, l: 50, b: 40 },
-        legend: { orientation: "h", y: 1.15, x: 0.1 },
+        font: { color: "#94A3B8", size: 10.5 },
+        margin: { t: 25, r: 25, l: 50, b: 35 },
+        legend: { orientation: "h", y: 1.15, x: 0.05 },
         yaxis: {
-            title: "千歐元 / 每位員工 (k€/FTE)",
+            title: "千歐元 / 員工 (k€/FTE)",
             gridcolor: "#334155"
         },
         xaxis: { gridcolor: "#334155" }
     };
 
-    Plotly.newPlot("chartProductivity", [trace1, trace2], layout, { responsive: true, displayModeBar: false });
+    Plotly.newPlot("chartProductivity", [trace1, trace2, trace3], layout, { responsive: true, displayModeBar: false });
 }
 
+// Chart 3: Operating Profitability & Net Income + Operating Margin %
+function renderProfitabilityChart(data) {
+    const years = data.years;
+    const opIncome = years.map(y => data.financials[y]?.operating_income || 0);
+    const netIncome = years.map(y => data.financials[y]?.net_income || 0);
+    const opMargin = years.map(y => data.financials[y]?.operating_margin || 0);
+
+    const trace1 = {
+        x: years,
+        y: opIncome,
+        name: "營業利益 (Operating Income)",
+        type: "bar",
+        marker: { color: "#0EA5E9" },
+        yaxis: "y1"
+    };
+
+    const trace2 = {
+        x: years,
+        y: netIncome,
+        name: "淨利 (Net Income)",
+        type: "bar",
+        marker: { color: "#6366F1" },
+        yaxis: "y1"
+    };
+
+    const trace3 = {
+        x: years,
+        y: opMargin,
+        name: "營業利益率 (Operating Margin %)",
+        type: "scatter",
+        mode: "lines+markers",
+        line: { color: "#F43F5E", width: 2.5 },
+        marker: { size: 6 },
+        yaxis: "y2"
+    };
+
+    const layout = {
+        barmode: "group",
+        paper_bgcolor: "transparent",
+        plot_bgcolor: "transparent",
+        font: { color: "#94A3B8", size: 10.5 },
+        margin: { t: 25, r: 40, l: 50, b: 35 },
+        legend: { orientation: "h", y: 1.15, x: 0.05 },
+        yaxis: {
+            title: "金額 (€ Millions)",
+            gridcolor: "#334155"
+        },
+        yaxis2: {
+            title: "利益率 (%)",
+            titlefont: { color: "#F43F5E" },
+            tickfont: { color: "#F43F5E" },
+            overlaying: "y",
+            side: "right",
+            range: [15, 45],
+            showgrid: false
+        },
+        xaxis: { gridcolor: "#334155" }
+    };
+
+    Plotly.newPlot("chartProfitability", [trace1, trace2, trace3], layout, { responsive: true, displayModeBar: false });
+}
+
+// Chart 4: R&D Expense & R&D Intensity (% of Revenue)
+function renderRdIntensityChart(data) {
+    const years = data.years;
+    const rdExpense = years.map(y => data.financials[y]?.rd_expense || 0);
+    const rdPct = years.map(y => data.financials[y]?.rd_pct_rev || 0);
+
+    const trace1 = {
+        x: years,
+        y: rdExpense,
+        name: "研發費用 R&D (€M)",
+        type: "bar",
+        marker: { color: "rgba(244, 63, 94, 0.7)", line: { color: "#F43F5E", width: 1.5 } },
+        yaxis: "y1"
+    };
+
+    const trace2 = {
+        x: years,
+        y: rdPct,
+        name: "研發佔營收比重 (%)",
+        type: "scatter",
+        mode: "lines+markers+text",
+        text: rdPct.map(v => `${v}%`),
+        textposition: "top center",
+        line: { color: "#38BDF8", width: 2.5 },
+        marker: { size: 6, color: "#38BDF8" },
+        yaxis: "y2"
+    };
+
+    const layout = {
+        paper_bgcolor: "transparent",
+        plot_bgcolor: "transparent",
+        font: { color: "#94A3B8", size: 10.5 },
+        margin: { t: 25, r: 40, l: 50, b: 35 },
+        legend: { orientation: "h", y: 1.15, x: 0.05 },
+        yaxis: {
+            title: "研發費用 (€ Millions)",
+            titlefont: { color: "#F43F5E" },
+            tickfont: { color: "#F43F5E" },
+            gridcolor: "#334155"
+        },
+        yaxis2: {
+            title: "佔營收比例 (%)",
+            titlefont: { color: "#38BDF8" },
+            tickfont: { color: "#38BDF8" },
+            overlaying: "y",
+            side: "right",
+            range: [8, 22],
+            showgrid: false
+        },
+        xaxis: { gridcolor: "#334155" }
+    };
+
+    Plotly.newPlot("chartRdIntensity", [trace1, trace2], layout, { responsive: true, displayModeBar: false });
+}
+
+// Chart 5: YoY Growth Multi-Dynamics (Rev vs GP vs HC Growth)
+function renderGrowthDynamicsChart(data) {
+    const years = data.years.slice(1); // skip first year without YoY
+    const revYoY = years.map(y => data.financials[y]?.rev_growth_yoy || 0);
+    const gpYoY = years.map(y => data.financials[y]?.gp_growth_yoy || 0);
+    const opYoY = years.map(y => data.financials[y]?.op_growth_yoy || 0);
+    const hcYoY = years.map(y => data.financials[y]?.hc_growth_yoy || 0);
+
+    const trace1 = {
+        x: years,
+        y: revYoY,
+        name: "營收年增率 (Revenue YoY %)",
+        type: "scatter",
+        mode: "lines+markers",
+        line: { color: "#3B82F6", width: 2.5 }
+    };
+
+    const trace2 = {
+        x: years,
+        y: gpYoY,
+        name: "毛利年增率 (Gross Profit YoY %)",
+        type: "scatter",
+        mode: "lines+markers",
+        line: { color: "#10B981", width: 2.5 }
+    };
+
+    const trace3 = {
+        x: years,
+        y: opYoY,
+        name: "營業利益年增率 (OpIncome YoY %)",
+        type: "scatter",
+        mode: "lines+markers",
+        line: { color: "#06B6D4", width: 2 }
+    };
+
+    const trace4 = {
+        x: years,
+        y: hcYoY,
+        name: "員工人數增速 (Headcount YoY %)",
+        type: "scatter",
+        mode: "lines+markers",
+        line: { color: "#F59E0B", width: 2.5, dash: "dot" }
+    };
+
+    const layout = {
+        paper_bgcolor: "transparent",
+        plot_bgcolor: "transparent",
+        font: { color: "#94A3B8", size: 10.5 },
+        margin: { t: 25, r: 25, l: 50, b: 35 },
+        legend: { orientation: "h", y: 1.15, x: 0.02 },
+        yaxis: {
+            title: "年增率 (%)",
+            gridcolor: "#334155"
+        },
+        xaxis: { gridcolor: "#334155" }
+    };
+
+    Plotly.newPlot("chartGrowthDynamics", [trace1, trace2, trace3, trace4], layout, { responsive: true, displayModeBar: false });
+}
+
+// Chart 6: Value vs. Volume Sales Breakdown
 function renderSalesBreakdownChart(data) {
     const breakdown = data.sales_breakdown;
     if (!breakdown || !breakdown.categories || breakdown.categories.length === 0) {
@@ -235,18 +452,21 @@ function renderSalesBreakdownChart(data) {
         grid: { rows: 1, columns: 2, pattern: "independent" },
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: "#94A3B8", size: 11 },
-        margin: { t: 40, r: 30, l: 50, b: 40 },
+        font: { color: "#94A3B8", size: 10.5 },
+        margin: { t: 30, r: 25, l: 45, b: 35 },
         legend: { orientation: "h", y: 1.15, x: 0.05 },
-        xaxis1: { title: "年份 (銷售金額 Value €M)", gridcolor: "#334155" },
-        yaxis1: { title: "金額 (€ Millions)", gridcolor: "#334155" },
-        xaxis2: { title: "年份 (出貨台數 Volume Units)", gridcolor: "#334155" },
+        xaxis1: { title: "年份 (金額 Value €M)", gridcolor: "#334155" },
+        yaxis1: { title: "金額 (€M)", gridcolor: "#334155" },
+        xaxis2: { title: "年份 (出貨台數 Units)", gridcolor: "#334155" },
         yaxis2: { title: "台數 (Units)", gridcolor: "#334155" }
     };
 
     Plotly.newPlot("chartSalesBreakdown", traces, layout, { responsive: true, displayModeBar: false });
 }
 
+// -----------------------------------------------------------------
+// 4. Render Master Comprehensive Table
+// -----------------------------------------------------------------
 function renderMasterTable(data) {
     const years = data.years;
     const headerRow = document.getElementById("tableHeaderRow");
@@ -261,18 +481,32 @@ function renderMasterTable(data) {
         headerRow.appendChild(th);
     });
 
-    // Metric Definitions
+    // All Metrics Rows
     const rows = [
+        // Top-line & Profit
         { label: `營業收入 Revenue (${data.unit})`, key: "revenue", format: (v) => v ? v.toLocaleString() : "-" },
         { label: "營收年增率 YoY %", key: "rev_growth_yoy", format: (v) => v !== null && v !== undefined ? `${v > 0 ? "+" : ""}${v}%` : "-" },
         { label: `毛利 Gross Profit (${data.unit})`, key: "gross_profit", format: (v) => v ? v.toLocaleString() : "-" },
         { label: "GAAP 毛利率 Gross Margin %", key: "gross_margin", format: (v) => v ? `${v}%` : "-" },
+        { label: "毛利率年變動 (Percentage Points)", key: "gm_diff_pp", format: (v) => v !== null && v !== undefined ? `${v > 0 ? "+" : ""}${v} pp` : "-" },
         { label: `營業利益 Operating Income (${data.unit})`, key: "operating_income", format: (v) => v ? v.toLocaleString() : "-" },
+        { label: "營業利益率 Operating Margin %", key: "operating_margin", format: (v) => v ? `${v}%` : "-" },
         { label: `淨利 Net Income (${data.unit})`, key: "net_income", format: (v) => v ? v.toLocaleString() : "-" },
+        { label: "淨利率 Net Margin %", key: "net_margin", format: (v) => v ? `${v}%` : "-" },
+        
+        // R&D
         { label: `研發費用 R&D Expense (${data.unit})`, key: "rd_expense", format: (v) => v ? v.toLocaleString() : "-" },
-        { label: "全球員工數 Total Headcount (FTE)", key: "headcount", format: (v) => v ? v.toLocaleString() : "-" },
+        { label: "研發佔營收比例 R&D as % of Revenue", key: "rd_pct_rev", format: (v) => v ? `${v}%` : "-" },
+        { label: "研發費用年增率 R&D YoY %", key: "rd_growth_yoy", format: (v) => v !== null && v !== undefined ? `${v > 0 ? "+" : ""}${v}%` : "-" },
+        
+        // Headcount & Productivity
+        { label: "全球員工總數 Total Headcount (FTE)", key: "headcount", format: (v) => v ? v.toLocaleString() : "-" },
+        { label: "員工人數增速 Headcount YoY %", key: "hc_growth_yoy", format: (v) => v !== null && v !== undefined ? `${v > 0 ? "+" : ""}${v}%` : "-" },
         { label: "人均營業額 Revenue per Employee (€)", key: "rev_per_emp", format: (v) => v ? `€${v.toLocaleString()}` : "-" },
-        { label: "人均毛利 Gross Profit per Employee (€)", key: "gp_per_emp", format: (v) => v ? `€${v.toLocaleString()}` : "-" }
+        { label: "人均毛利 Gross Profit per Employee (€)", key: "gp_per_emp", format: (v) => v ? `€${v.toLocaleString()}` : "-" },
+        { label: "人均營業利益 Operating Income per Employee (€)", key: "op_per_emp", format: (v) => v ? `€${v.toLocaleString()}` : "-" },
+        { label: "人均淨利 Net Income per Employee (€)", key: "ni_per_emp", format: (v) => v ? `€${v.toLocaleString()}` : "-" },
+        { label: "人均研發費用 R&D per Employee (€)", key: "rd_per_emp", format: (v) => v ? `€${v.toLocaleString()}` : "-" }
     ];
 
     tableBody.innerHTML = "";
@@ -291,7 +525,7 @@ function renderMasterTable(data) {
 }
 
 // -----------------------------------------------------------------
-// 3. One-Click Pipeline Execution
+// 5. One-Click Pipeline Execution
 // -----------------------------------------------------------------
 async function runOneClickWorkflow() {
     const target = document.getElementById("targetInput").value.trim();
@@ -323,7 +557,7 @@ async function runOneClickWorkflow() {
 
         progBar.style.width = "70%";
         progPercent.textContent = "70%";
-        progText.textContent = "正在將 PDF 解析為 Markdown 並抽取財務指標...";
+        progText.textContent = "正在將 PDF 解析為 Markdown 並抽取全維度財務指標...";
 
         const result = await res.json();
         if (result.status === "success") {
@@ -350,7 +584,7 @@ async function runOneClickWorkflow() {
 }
 
 // -----------------------------------------------------------------
-// 4. Markdown Browser & Viewer
+// 6. Markdown Browser & Viewer
 // -----------------------------------------------------------------
 async function loadMarkdownFiles(ticker) {
     const listEl = document.getElementById("mdFileList");
@@ -383,7 +617,6 @@ async function loadMarkdownFiles(ticker) {
             listEl.appendChild(item);
         });
 
-        // View first file by default
         if (data.files.length > 0) {
             viewMarkdownFile(ticker, data.files[0].filename);
         }
@@ -410,7 +643,7 @@ async function viewMarkdownFile(ticker, filename) {
 }
 
 // -----------------------------------------------------------------
-// 5. Export Table to CSV
+// 7. Export Table to CSV
 // -----------------------------------------------------------------
 function exportTableToCSV() {
     if (!currentMetricsData) return;
@@ -419,12 +652,18 @@ function exportTableToCSV() {
 
     const rows = [
         ["Revenue", ...years.map(y => currentMetricsData.financials[y]?.revenue || "")],
+        ["Revenue YoY %", ...years.map(y => currentMetricsData.financials[y]?.rev_growth_yoy || "")],
         ["Gross Profit", ...years.map(y => currentMetricsData.financials[y]?.gross_profit || "")],
         ["Gross Margin %", ...years.map(y => currentMetricsData.financials[y]?.gross_margin || "")],
         ["Operating Income", ...years.map(y => currentMetricsData.financials[y]?.operating_income || "")],
+        ["Operating Margin %", ...years.map(y => currentMetricsData.financials[y]?.operating_margin || "")],
         ["Net Income", ...years.map(y => currentMetricsData.financials[y]?.net_income || "")],
+        ["R&D Expense", ...years.map(y => currentMetricsData.financials[y]?.rd_expense || "")],
+        ["R&D as % of Revenue", ...years.map(y => currentMetricsData.financials[y]?.rd_pct_rev || "")],
         ["Total Headcount", ...years.map(y => currentMetricsData.financials[y]?.headcount || "")],
-        ["Revenue per Employee", ...years.map(y => currentMetricsData.financials[y]?.rev_per_emp || "")]
+        ["Revenue per Employee", ...years.map(y => currentMetricsData.financials[y]?.rev_per_emp || "")],
+        ["Gross Profit per Employee", ...years.map(y => currentMetricsData.financials[y]?.gp_per_emp || "")],
+        ["Operating Income per Employee", ...years.map(y => currentMetricsData.financials[y]?.op_per_emp || "")]
     ];
 
     rows.forEach(r => {
