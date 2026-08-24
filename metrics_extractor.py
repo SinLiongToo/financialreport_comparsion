@@ -402,6 +402,45 @@ class FinancialMetricsExtractor:
 
             prev_fin = fin
 
+        # Generate dynamic quantitative insights for any company
+        cls_insights = data.get("insights", {})
+        if not cls_insights.get("en") or "extracted from" in cls_insights.get("en", {}).get("pivot", ""):
+            latest_y = str(years[-1]) if years else None
+            if latest_y and latest_y in financials:
+                lf = financials[latest_y]
+                rev = lf.get("revenue", 0)
+                gm = lf.get("gross_margin", 0)
+                op = lf.get("operating_income", 0)
+                op_m = lf.get("operating_margin", 0)
+                rd = lf.get("rd_expense", 0)
+                rd_p = lf.get("rd_pct_rev", 0)
+                hc = lf.get("headcount", 0)
+                r_emp = lf.get("rev_per_emp", 0)
+                gp_emp = lf.get("gp_per_emp", 0)
+                r_yoy = lf.get("rev_growth_yoy", 0)
+                hc_yoy = lf.get("hc_growth_yoy", 0)
+                unit = data.get("unit", "$M")
+                c_name = data.get("company_name", data.get("ticker", "Company"))
+
+                data["insights"] = {
+                    "en": {
+                        "pivot": f"{c_name} workforce scaled to {hc:,} FTEs with GAAP Gross Margin at {gm}%. As hiring normalizes, operational excellence and process automation drive future profitability.",
+                        "productivity": f"Human capital productivity reached {unit[0]}{r_emp:,.0f}/FTE in revenue and {unit[0]}{gp_emp:,.0f}/FTE in gross profit, quantifying lean transformation velocity.",
+                        "leverage": f"Operating income reached {unit}{op:,} ({op_m}% margin), reflecting operating leverage and unit cost discipline.",
+                        "rd": f"R&D commitment stood at {unit}{rd:,} ({rd_p}% of revenue), sustaining technological differentiation and core product moat.",
+                        "growth": f"Revenue grew at {r_yoy}% YoY compared to headcount change of {hc_yoy}% YoY, validating productivity expansion.",
+                        "breakdown": f"Segment disaggregation across primary operating divisions and target end-market portfolios."
+                    },
+                    "zh": {
+                        "pivot": f"{c_name} 員工總數達 {hc:,} 人，GAAP 毛利率為 {gm}%。隨著人力擴張進入成熟期，精益營運與流程自動化成為推升利潤之核心動能。",
+                        "productivity": f"人均營收達 {unit[0]}{r_emp:,.0f}/人，人均毛利達 {unit[0]}{gp_emp:,.0f}/人，具體量化營運卓越與自動化之實質回報。",
+                        "leverage": f"營業利益達 {unit}{op:,}（營業利益率 {op_m}%），展現良好的營運槓桿與成本控管紀律。",
+                        "rd": f"研發投入達 {unit}{rd:,}（佔營收 {rd_p}%），持續鞏固技術護城河與核心產品競爭力。",
+                        "growth": f"營收年增率為 {r_yoy}%，員工人數增速為 {hc_yoy}%，驗證人均產值之實質擴張。",
+                        "breakdown": f"各主要業務板塊與終端市場之營收與出貨結構分拆。"
+                    }
+                }
+
     def get_metrics(self, ticker: str) -> Dict:
         ticker = ticker.lower()
         return self.extract_from_markdown(ticker)
