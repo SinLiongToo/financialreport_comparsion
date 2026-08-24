@@ -906,7 +906,7 @@ async function handleRunWorkflow() {
     }, 600);
 
     try {
-        const payload = { target: input, years: parseInt(years) };
+        const payload = { target: input, years: parseInt(years), freq: CURRENT_FREQ };
         const res = await fetch("/api/run-workflow", {
             method: "POST",
             headers: { "Content-Type": "application/json" },

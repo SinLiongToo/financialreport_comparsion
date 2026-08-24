@@ -30,7 +30,8 @@ class AnnualReportWorkflow:
         target: str,
         n_years: int = 5,
         max_pages_per_pdf: Optional[int] = 50,
-        progress_callback: Optional[Callable[[str, float], None]] = None
+        progress_callback: Optional[Callable[[str, float], None]] = None,
+        freq: str = "annual"
     ) -> Dict:
         """
         Executes the full pipeline step-by-step with real-time progress reporting.
@@ -43,11 +44,16 @@ class AnnualReportWorkflow:
                 progress_callback(stage_name, pct)
             print(f"[{pct:.0f}%] {stage_name}")
 
+        is_q = freq == "quarterly" or "quarterly" in target.lower() or "10-q" in target.lower()
+        actual_freq = "quarterly" if is_q else "annual"
+        period_label = f"{n_years * 4} quarterly reports" if is_q else f"{n_years} annual reports"
+
         # Step 1: Crawl & Download
-        report(f"Step 1/4: Fetching and downloading {n_years} annual reports for {ticker.upper()}...", 10)
+        report(f"Step 1/4: Fetching and downloading {period_label} for {ticker.upper()}...", 10)
         download_results = self.crawler.download_reports(
             target=target,
             n_years=n_years,
+            freq=actual_freq,
             progress_callback=lambda msg, cur, tot: report(f"Downloading [{cur}/{tot}]: {msg}", 10 + (cur/tot)*30)
         )
 
@@ -68,7 +74,7 @@ class AnnualReportWorkflow:
 
         # Step 3: Extract Metrics & Financial KPIs
         report(f"Step 3/4: Extracting financial and operational KPIs from parsed Markdown...", 85)
-        metrics = self.extractor.extract_from_markdown(ticker)
+        metrics = self.extractor.extract_from_markdown(ticker, freq=actual_freq)
 
         # Step 4: Summary & Dashboard Preparation
         report(f"Step 4/4: Dashboard payload ready!", 100)

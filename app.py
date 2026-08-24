@@ -64,10 +64,12 @@ def run_workflow_api():
     max_pages = req_data.get("max_pages", 30)
 
     try:
+        freq = req_data.get("freq", "annual").lower()
         result = workflow.run_pipeline(
             target=target,
             n_years=years,
-            max_pages_per_pdf=max_pages
+            max_pages_per_pdf=max_pages,
+            freq=freq
         )
         if isinstance(result, dict):
             result["success"] = result.get("status") == "success" or True

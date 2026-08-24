@@ -154,7 +154,8 @@ class AnnualReportCrawler:
         target: str,
         n_years: int = 5,
         year_range: Optional[Tuple[int, int]] = None,
-        progress_callback: Optional[Callable[[str, int, int], None]] = None
+        progress_callback: Optional[Callable[[str, int, int], None]] = None,
+        freq: str = "annual"
     ) -> List[Dict]:
         """
         Downloads annual report PDFs for the specified company.
@@ -171,7 +172,9 @@ class AnnualReportCrawler:
             min_y, max_y = year_range
             selected_reports = [r for r in reports if min_y <= r["year"] <= max_y]
         else:
-            selected_reports = reports[:n_years]
+            is_q = freq == "quarterly" or "quarterly" in target.lower() or any(r.get("quarter") for r in reports)
+            limit = n_years * 4 if is_q else n_years
+            selected_reports = reports[:limit]
 
         downloaded_results = []
         total = len(selected_reports)
