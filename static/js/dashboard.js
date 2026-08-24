@@ -82,6 +82,13 @@ document.addEventListener("DOMContentLoaded", () => {
 function setupEventListeners() {
     document.getElementById("companySelect").addEventListener("change", (e) => {
         currentTicker = e.target.value;
+        // Two-way synchronization: update target input box when selecting a company
+        const targetInput = document.getElementById("targetInput");
+        if (currentTicker === "ASML") {
+            targetInput.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
+        } else {
+            targetInput.value = currentTicker.toLowerCase();
+        }
         loadDashboard(currentTicker);
         loadMarkdownFiles(currentTicker);
     });

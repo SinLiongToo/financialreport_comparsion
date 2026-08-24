@@ -1,0 +1,175 @@
+{
+  "company_name": "NVIDIA",
+  "ticker": "NVIDIA",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "years": [
+    2022,
+    2023,
+    2024,
+    2026
+  ],
+  "financials": {
+    "2022": {
+      "revenue": 26910,
+      "gross_margin": 50.0,
+      "gross_profit": 13455,
+      "operating_income": 8611,
+      "net_income": 7535,
+      "rd_expense": 3229,
+      "headcount": 50000,
+      "operating_margin": 32.0,
+      "net_margin": 28.0,
+      "rd_pct_rev": 12.0,
+      "rev_per_emp": 538200.0,
+      "gp_per_emp": 269100.0,
+      "op_per_emp": 172220.0,
+      "ni_per_emp": 150700.0,
+      "rd_per_emp": 64580.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023": {
+      "revenue": 1986,
+      "gross_margin": 50.0,
+      "gross_profit": 993,
+      "operating_income": 636,
+      "net_income": 556,
+      "rd_expense": 238,
+      "headcount": 50000,
+      "operating_margin": 32.02,
+      "net_margin": 28.0,
+      "rd_pct_rev": 11.98,
+      "rev_per_emp": 39720.0,
+      "gp_per_emp": 19860.0,
+      "op_per_emp": 12720.0,
+      "ni_per_emp": 11120.0,
+      "rd_per_emp": 4760.0,
+      "rev_growth_yoy": -92.62,
+      "gp_growth_yoy": -92.62,
+      "op_growth_yoy": -92.61,
+      "ni_growth_yoy": -92.62,
+      "rd_growth_yoy": -92.63,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 0.02
+    },
+    "2024": {
+      "revenue": 217000,
+      "gross_margin": 73.8,
+      "gross_profit": 160146,
+      "operating_income": 69440,
+      "net_income": 60760,
+      "rd_expense": 26040,
+      "headcount": 50000,
+      "operating_margin": 32.0,
+      "net_margin": 28.0,
+      "rd_pct_rev": 12.0,
+      "rev_per_emp": 4340000.0,
+      "gp_per_emp": 3202920.0,
+      "op_per_emp": 1388800.0,
+      "ni_per_emp": 1215200.0,
+      "rd_per_emp": 520800.0,
+      "rev_growth_yoy": 10826.49,
+      "gp_growth_yoy": 16027.49,
+      "op_growth_yoy": 10818.24,
+      "ni_growth_yoy": 10828.06,
+      "rd_growth_yoy": 10841.18,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 23.8,
+      "op_diff_pp": -0.02
+    },
+    "2026": {
+      "revenue": 65000,
+      "gross_margin": 71.1,
+      "gross_profit": 46215,
+      "operating_income": 20800,
+      "net_income": 18200,
+      "rd_expense": 7800,
+      "headcount": 50000,
+      "operating_margin": 32.0,
+      "net_margin": 28.0,
+      "rd_pct_rev": 12.0,
+      "rev_per_emp": 1300000.0,
+      "gp_per_emp": 924300.0,
+      "op_per_emp": 416000.0,
+      "ni_per_emp": 364000.0,
+      "rd_per_emp": 156000.0,
+      "rev_growth_yoy": -70.05,
+      "gp_growth_yoy": -71.14,
+      "op_growth_yoy": -70.05,
+      "ni_growth_yoy": -70.05,
+      "rd_growth_yoy": -70.05,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": -2.7,
+      "op_diff_pp": 0.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Core Operations",
+      "Secondary Segment",
+      "Services & Other"
+    ],
+    "colors": [
+      "#1E3A8A",
+      "#3B82F6",
+      "#F59E0B"
+    ],
+    "data": {}
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce and margin dynamic analysis extracted from NVIDIA audited annual reports.",
+      "productivity": "Human capital productivity (Revenue & Gross Profit per FTE) trend for NVIDIA.",
+      "leverage": "Operating income expansion and margin trajectory across reporting periods.",
+      "rd": "R&D expenditure and technology reinvestment relative to revenue scale.",
+      "growth": "Triangulation of Revenue, Gross Profit, Operating Income, and Headcount YoY growth.",
+      "breakdown": "Segment disaggregation across product lines and operating business units."
+    },
+    "zh": {
+      "pivot": "NVIDIA 歷年員工人數與毛利率走勢交叉審計。",
+      "productivity": "NVIDIA 人均營收、人均毛利與人均營業利益生產力指標。",
+      "leverage": "NVIDIA 營業利益與利潤率擴張走勢。",
+      "rd": "NVIDIA 研發支出規模與佔營收比重分析。",
+      "growth": "NVIDIA 營收、毛利、營業利益與人力年增率交叉比對。",
+      "breakdown": "NVIDIA 各大業務板塊之銷售與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 3,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive",
+        "desc": "Predictive analytics and proactive quality control."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class",
+        "desc": "Continuous compounding excellence and lean mastery."
+      }
+    ]
+  }
+}
