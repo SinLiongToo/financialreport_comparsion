@@ -818,39 +818,84 @@ class FinancialMetricsExtractor:
     @staticmethod
     def parse_quarterly_financials(text: str, period_key: str) -> Dict:
         """
-        Robustly parses single-quarter Revenue, Gross Profit, Operating Income, Net Income, R&D from 10-Q Markdown text.
+        Table-aware and multi-line robust parser for single-quarter Form 10-Q Markdown text.
+        Accurately distinguishes Gross Profit from Cost of Revenue across all Markdown table formats.
         """
         fin = {}
         lines = text.split("\n")
         
-        start_idx = 0
-        for idx, l in enumerate(lines):
-            clean = l.strip().lower()
-            if any(k in clean for k in ["net revenue", "total revenue", "net sales", "revenue"]) and len(clean) < 35:
-                nearby = "\n".join(lines[idx:idx+10])
-                if re.search(r"\b\d{1,3}(?:,\d{3})+(?:\.\d+)?\b|\b\d{3,6}\b", nearby):
-                    start_idx = idx
-                    break
-                    
-        sub_lines = lines[start_idx:start_idx+150]
-        
-        def extract_first_num(metric_names, max_lines_ahead=8):
-            for i, l in enumerate(sub_lines):
-                clean = l.strip().lower()
-                if any(m.lower() == clean or m.lower() in clean for m in metric_names):
-                    ahead_text = "\n".join(sub_lines[i+1:i+1+max_lines_ahead])
-                    nums = re.findall(r"\b(?:\()?([\d,]+(?:\.\d+)?)(?:\))?\b", ahead_text)
-                    for n in nums:
-                        val = float(n.replace(",", ""))
+        # 1. First Pass: Table-aware row extraction (for standard Markdown tables with pipes)
+        for l in lines:
+            if "|" in l:
+                row = [col.strip() for col in l.split("|") if col.strip() and col.strip() != "---"]
+                if not row:
+                    continue
+                header = row[0].lower().strip()
+                
+                nums = []
+                for col in row[1:]:
+                    clean_col = col.replace(",", "").replace("(", "").replace(")", "").replace("$", "").replace("€", "").strip()
+                    try:
+                        val = float(clean_col)
                         if val > 5 and val not in [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]:
-                            return val
-            return None
+                            nums.append(val)
+                    except ValueError:
+                        pass
+                if not nums:
+                    continue
+                first_val = nums[0]
+                
+                if header in ["revenue", "total revenue", "net revenue", "total net sales", "net sales", "total revenues"]:
+                    if "revenue" not in fin:
+                        fin["revenue"] = first_val
+                elif header in ["gross profit", "total gross profit", "gross margin dollars", "gross margin"]:
+                    if "gross_profit" not in fin:
+                        fin["gross_profit"] = first_val
+                elif header in ["research and development", "r&d", "research & development", "research and development expense"]:
+                    if "rd_expense" not in fin:
+                        fin["rd_expense"] = first_val
+                elif header in ["operating income (loss)", "operating income", "income from operations", "operating profit"]:
+                    if "operating_income" not in fin:
+                        fin["operating_income"] = first_val
+                elif header in ["net income (loss)", "net income", "net profit", "net income (loss) attributable to stockholders"]:
+                    if "net_income" not in fin:
+                        fin["net_income"] = first_val
 
-        fin["revenue"] = extract_first_num(["Net revenue", "Total revenue", "Revenue", "Total net sales", "Net sales"])
-        fin["gross_profit"] = extract_first_num(["Gross profit", "Gross margin dollars", "Gross margin", "Total gross profit"])
-        fin["rd_expense"] = extract_first_num(["Research and development", "R&D", "Research & development"])
-        fin["operating_income"] = extract_first_num(["Operating income", "Operating profit", "Income from operations", "Operating income (loss)"])
-        fin["net_income"] = extract_first_num(["Net income", "Net profit", "Net income (loss)"])
+        # 2. Second Pass: Non-table multi-line layout scanner (e.g. AMD format)
+        if not fin.get("revenue") or not fin.get("gross_profit"):
+            start_idx = 0
+            for idx, l in enumerate(lines):
+                clean = l.strip().lower()
+                if any(k in clean for k in ["net revenue", "total revenue", "net sales", "revenue"]) and len(clean) < 35:
+                    nearby = "\n".join(lines[idx:idx+10])
+                    if re.search(r"\b\d{1,3}(?:,\d{3})+(?:\.\d+)?\b|\b\d{3,6}\b", nearby):
+                        start_idx = idx
+                        break
+                        
+            sub_lines = lines[start_idx:start_idx+150]
+            
+            def extract_first_num(metric_names, max_lines_ahead=8):
+                for i, l in enumerate(sub_lines):
+                    clean = l.strip().lower()
+                    if any(m.lower() == clean or m.lower() in clean for m in metric_names):
+                        ahead_text = "\n".join(sub_lines[i+1:i+1+max_lines_ahead])
+                        nums = re.findall(r"\b(?:\()?([\d,]+(?:\.\d+)?)(?:\))?\b", ahead_text)
+                        for n in nums:
+                            val = float(n.replace(",", ""))
+                            if val > 5 and val not in [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]:
+                                return val
+                return None
+
+            if not fin.get("revenue"):
+                fin["revenue"] = extract_first_num(["Net revenue", "Total revenue", "Revenue", "Total net sales", "Net sales"])
+            if not fin.get("gross_profit"):
+                fin["gross_profit"] = extract_first_num(["Gross profit", "Gross margin dollars", "Gross margin", "Total gross profit"])
+            if not fin.get("rd_expense"):
+                fin["rd_expense"] = extract_first_num(["Research and development", "R&D", "Research & development"])
+            if not fin.get("operating_income"):
+                fin["operating_income"] = extract_first_num(["Operating income", "Operating profit", "Income from operations", "Operating income (loss)"])
+            if not fin.get("net_income"):
+                fin["net_income"] = extract_first_num(["Net income", "Net profit", "Net income (loss)"])
 
         if fin.get("revenue") and fin["revenue"] > 0:
             if fin.get("gross_profit") is not None:
