@@ -521,9 +521,9 @@ function renderCharts(data) {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
         font: { color: fontColor, size: 11 },
-        margin: { l: 45, r: 45, t: 30, b: isQuarterly ? 55 : 35 },
+        margin: { l: 45, r: 45, t: 45, b: isQuarterly ? 55 : 35 },
         hovermode: "x unified",
-        legend: { orientation: "h", y: 1.15, x: 0, font: { size: 10 } },
+        legend: { orientation: "h", y: 1.14, x: 0, font: { size: 10.5 } },
         xaxis: {
             categoryorder: "array",
             categoryarray: sortedYears,
@@ -779,9 +779,9 @@ function renderComparisonView(companiesData) {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
         font: { color: fontColor, size: 11 },
-        margin: { l: 50, r: 35, t: 30, b: isQuarterly ? 55 : 40 },
+        margin: { l: 50, r: 35, t: 45, b: isQuarterly ? 55 : 40 },
         hovermode: "x unified",
-        legend: { orientation: "h", y: 1.18, x: 0, font: { size: 10 } },
+        legend: { orientation: "h", y: 1.14, x: 0, font: { size: 10.5 } },
         xaxis: {
             categoryorder: "array",
             categoryarray: sortedAllPeriods,
