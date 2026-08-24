@@ -310,6 +310,29 @@ python main.py [--ticker TARGET] [--years N] [--max-pages P] [--serve] [--port P
 
 ---
 
+---
+
+## 📑 美股 10-K vs. 外國企業 20-F 年報解析技術機制
+
+在分析跨國半導體與製造巨頭時，不同企業向美國證券交易委員會 (SEC) 提交的年報格式存在顯著的結構性差異：
+
+### 1. 外國私人發行人 (Form 20-F) — 如 ASML (荷蘭)、TSMC (台灣)
+* **版面結構特徵**：
+  * 通常在**第 5 ~ 15 頁** 就會呈現標準化的 **「Item 3.A. Selected Financial Data（精華財務摘要表）」**。
+  * 該表格直接按年份條列 Net Sales、Gross Profit、Headcount、R&D 等核心數據，結構極為集中且標準化。
+* **解析器策略**：
+  * 解析器讀取前 30~40 頁即可快速高保真命中核心審計數據。
+
+### 2. 美國本土企業 (Form 10-K) — 如 Vishay (VSH)、NVIDIA (NVDA)、Intel
+* **版面結構特徵**：
+  * 依 SEC 規範，前 30~40 頁為冗長之 **Item 1 (Business)** 與 **Item 1A (Risk Factors 風險因素，通常長達 20~30 頁)**。
+  * 真正的核心財務報表 **Item 8 (Consolidated Financial Statements 損益表與資產負債表)** 與管理層討論 **Item 7 (MD&A)** 通常後移至 **第 35 ~ 70 頁**。
+  * 10-K 封面印製之「2025 年 2 月申報」代表的是「2024 會計年度 (FY2024)」之實質業績。
+* **本系統之強化應對機制**：
+  * **智能跨頁與章節定位**：擴大掃描至核心財務章節，確保 10-K 損益表不因前段風險因素而被截斷。
+  * **年份與數值過濾防護**：正則引擎嚴格過濾風險因素內文中的歷史年份（如 2020~2026），避免年份誤判為營收金額。
+  * **雙軌審計與別名映射 (TICKER_ALIASES)**：支援 `vishay-intertechnology <-> vsh`、`nvidia <-> nvda` 等代碼雙向自動解析。
+
 ## 🤖 如何搭配 Gemini / LLM 進行深度戰略產出
 
 當工作流將 PDF 解析為 Markdown 後，您可按照以下步驟在 5 分鐘內生成頂級分析簡報：

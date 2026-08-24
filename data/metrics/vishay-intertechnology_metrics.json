@@ -1,33 +1,30 @@
 {
-  "company_name": "Vishay Intertechnology, Inc.",
-  "ticker": "VSH",
+  "company_name": "VISHAY-INTERTECHNOLOGY",
+  "ticker": "VISHAY-INTERTECHNOLOGY",
   "currency": "USD (Millions)",
   "unit": "$M",
   "years": [
-    2020,
     2021,
     2022,
-    2023,
-    2024,
-    2025
+    2023
   ],
   "financials": {
-    "2020": {
-      "revenue": 2502,
-      "gross_profit": 597,
-      "operating_income": 188,
-      "net_income": 123,
-      "rd_expense": 65,
-      "headcount": 22600,
-      "gross_margin": 23.86,
-      "operating_margin": 7.51,
-      "net_margin": 4.92,
-      "rd_pct_rev": 2.6,
-      "rev_per_emp": 110708.0,
-      "gp_per_emp": 26416.0,
-      "op_per_emp": 8319.0,
-      "ni_per_emp": 5442.0,
-      "rd_per_emp": 2876.0,
+    "2021": {
+      "revenue": 35000,
+      "gross_margin": 50.0,
+      "gross_profit": 17500,
+      "operating_income": 11200,
+      "net_income": 9800,
+      "rd_expense": 4200,
+      "headcount": 50000,
+      "operating_margin": 32.0,
+      "net_margin": 28.0,
+      "rd_pct_rev": 12.0,
+      "rev_per_emp": 700000.0,
+      "gp_per_emp": 350000.0,
+      "op_per_emp": 224000.0,
+      "ni_per_emp": 196000.0,
+      "rd_per_emp": 84000.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -37,234 +34,86 @@
       "gm_diff_pp": null,
       "op_diff_pp": null
     },
-    "2021": {
-      "revenue": 3240,
-      "gross_profit": 882,
-      "operating_income": 432,
-      "net_income": 298,
-      "rd_expense": 72,
-      "headcount": 23800,
-      "gross_margin": 27.22,
-      "operating_margin": 13.33,
-      "net_margin": 9.2,
-      "rd_pct_rev": 2.22,
-      "rev_per_emp": 136134.0,
-      "gp_per_emp": 37059.0,
-      "op_per_emp": 18151.0,
-      "ni_per_emp": 12521.0,
-      "rd_per_emp": 3025.0,
-      "rev_growth_yoy": 29.5,
-      "gp_growth_yoy": 47.74,
-      "op_growth_yoy": 129.79,
-      "ni_growth_yoy": 142.28,
-      "rd_growth_yoy": 10.77,
-      "hc_growth_yoy": 5.31,
-      "gm_diff_pp": 3.36,
-      "op_diff_pp": 5.82
-    },
     "2022": {
-      "revenue": 3497,
-      "gross_profit": 1057,
-      "operating_income": 590,
-      "net_income": 428,
-      "rd_expense": 80,
-      "headcount": 23900,
-      "gross_margin": 30.23,
-      "operating_margin": 16.87,
-      "net_margin": 12.24,
-      "rd_pct_rev": 2.29,
-      "rev_per_emp": 146318.0,
-      "gp_per_emp": 44226.0,
-      "op_per_emp": 24686.0,
-      "ni_per_emp": 17908.0,
-      "rd_per_emp": 3347.0,
-      "rev_growth_yoy": 7.93,
-      "gp_growth_yoy": 19.84,
-      "op_growth_yoy": 36.57,
-      "ni_growth_yoy": 43.62,
-      "rd_growth_yoy": 11.11,
-      "hc_growth_yoy": 0.42,
-      "gm_diff_pp": 3.01,
-      "op_diff_pp": 3.54
+      "revenue": 2021,
+      "gross_margin": 49.98,
+      "gross_profit": 1010,
+      "operating_income": 647,
+      "net_income": 566,
+      "rd_expense": 243,
+      "headcount": 50000,
+      "operating_margin": 32.01,
+      "net_margin": 28.01,
+      "rd_pct_rev": 12.02,
+      "rev_per_emp": 40420.0,
+      "gp_per_emp": 20200.0,
+      "op_per_emp": 12940.0,
+      "ni_per_emp": 11320.0,
+      "rd_per_emp": 4860.0,
+      "rev_growth_yoy": -94.23,
+      "gp_growth_yoy": -94.23,
+      "op_growth_yoy": -94.22,
+      "ni_growth_yoy": -94.22,
+      "rd_growth_yoy": -94.21,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": -0.02,
+      "op_diff_pp": 0.01
     },
     "2023": {
-      "revenue": 3434,
-      "gross_profit": 951,
-      "operating_income": 440,
-      "net_income": 331,
-      "rd_expense": 85,
-      "headcount": 23500,
-      "gross_margin": 27.69,
-      "operating_margin": 12.81,
-      "net_margin": 9.64,
-      "rd_pct_rev": 2.48,
-      "rev_per_emp": 146128.0,
-      "gp_per_emp": 40468.0,
-      "op_per_emp": 18723.0,
-      "ni_per_emp": 14085.0,
-      "rd_per_emp": 3617.0,
-      "rev_growth_yoy": -1.8,
-      "gp_growth_yoy": -10.03,
-      "op_growth_yoy": -25.42,
-      "ni_growth_yoy": -22.66,
-      "rd_growth_yoy": 6.25,
-      "hc_growth_yoy": -1.67,
-      "gm_diff_pp": -2.54,
-      "op_diff_pp": -4.06
-    },
-    "2024": {
-      "revenue": 3105,
-      "gross_profit": 683,
-      "operating_income": 175,
-      "net_income": 96,
-      "rd_expense": 88,
-      "headcount": 23000,
-      "gross_margin": 22.0,
-      "operating_margin": 5.64,
-      "net_margin": 3.09,
-      "rd_pct_rev": 2.83,
-      "rev_per_emp": 135000.0,
-      "gp_per_emp": 29696.0,
-      "op_per_emp": 7609.0,
-      "ni_per_emp": 4174.0,
-      "rd_per_emp": 3826.0,
-      "rev_growth_yoy": -9.58,
-      "gp_growth_yoy": -28.18,
-      "op_growth_yoy": -60.23,
-      "ni_growth_yoy": -71.0,
-      "rd_growth_yoy": 3.53,
-      "hc_growth_yoy": -2.13,
-      "gm_diff_pp": -5.69,
-      "op_diff_pp": -7.17
-    },
-    "2025": {
-      "revenue": 3350,
-      "gross_profit": 820,
-      "operating_income": 280,
-      "net_income": 185,
-      "rd_expense": 92,
-      "headcount": 23200,
-      "gross_margin": 24.48,
-      "operating_margin": 8.36,
-      "net_margin": 5.52,
-      "rd_pct_rev": 2.75,
-      "rev_per_emp": 144397.0,
-      "gp_per_emp": 35345.0,
-      "op_per_emp": 12069.0,
-      "ni_per_emp": 7974.0,
-      "rd_per_emp": 3966.0,
-      "rev_growth_yoy": 7.89,
-      "gp_growth_yoy": 20.06,
-      "op_growth_yoy": 60.0,
-      "ni_growth_yoy": 92.71,
-      "rd_growth_yoy": 4.55,
-      "hc_growth_yoy": 0.87,
-      "gm_diff_pp": 2.48,
-      "op_diff_pp": 2.72
+      "revenue": 42000,
+      "gross_margin": 50.0,
+      "gross_profit": 21000,
+      "operating_income": 13440,
+      "net_income": 11760,
+      "rd_expense": 5040,
+      "headcount": 50000,
+      "operating_margin": 32.0,
+      "net_margin": 28.0,
+      "rd_pct_rev": 12.0,
+      "rev_per_emp": 840000.0,
+      "gp_per_emp": 420000.0,
+      "op_per_emp": 268800.0,
+      "ni_per_emp": 235200.0,
+      "rd_per_emp": 100800.0,
+      "rev_growth_yoy": 1978.18,
+      "gp_growth_yoy": 1979.21,
+      "op_growth_yoy": 1977.28,
+      "ni_growth_yoy": 1977.74,
+      "rd_growth_yoy": 1974.07,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 0.02,
+      "op_diff_pp": -0.01
     }
   },
   "sales_breakdown": {
     "categories": [
-      "MOSFETs & Power Diodes",
-      "Optoelectronics & ICs",
-      "Resistors & Inductors (Passives)",
-      "Capacitors"
+      "Core Operations",
+      "Secondary Segment",
+      "Services & Other"
     ],
     "colors": [
       "#1E3A8A",
-      "#0284C7",
-      "#059669",
-      "#D97706"
+      "#3B82F6",
+      "#F59E0B"
     ],
-    "data": {
-      "2021": {
-        "value": [
-          1280,
-          410,
-          970,
-          580
-        ],
-        "volume": [
-          14000,
-          3200,
-          22000,
-          8500
-        ]
-      },
-      "2022": {
-        "value": [
-          1430,
-          440,
-          1027,
-          600
-        ],
-        "volume": [
-          15200,
-          3400,
-          23500,
-          8900
-        ]
-      },
-      "2023": {
-        "value": [
-          1390,
-          420,
-          1014,
-          610
-        ],
-        "volume": [
-          14800,
-          3300,
-          22800,
-          8700
-        ]
-      },
-      "2024": {
-        "value": [
-          1210,
-          380,
-          935,
-          580
-        ],
-        "volume": [
-          13500,
-          2900,
-          21000,
-          8200
-        ]
-      },
-      "2025": {
-        "value": [
-          1340,
-          410,
-          990,
-          610
-        ],
-        "volume": [
-          14500,
-          3100,
-          22500,
-          8600
-        ]
-      }
-    }
+    "data": {}
   },
   "insights": {
     "en": {
-      "pivot": "Global manufacturing workforce stabilized around 23,000 FTEs across automotive & industrial discrete fab networks. Gross margin oscillates between 22.0%-30.2% driven by inventory cycles.",
-      "productivity": "Revenue per FTE tracks at $135K-$150K with Gross Profit per FTE around $30K-$44K, reflecting high-volume discrete component manufacturing economics.",
-      "leverage": "Operating income reflects classic cyclical leverage, scaling from $175M during inventory correction to $590M during automotive component supercycles.",
-      "rd": "R&D investment maintained at $88M-$92M (2.7% of revenue) to advance automotive-grade SiC diodes, power MOSFETs, and high-reliability passives.",
-      "growth": "Revenue (-9.6% in 2024) and Headcount (-2.1%) reflect disciplined capacity management through global industrial inventory destocking.",
-      "breakdown": "MOSFETs, Diodes, and Passives represent the diversified industrial backbone, supplying critical electrification components to EV, aerospace, and energy infrastructure."
+      "pivot": "VISHAY-INTERTECHNOLOGY workforce scaled to 50,000 FTEs with GAAP Gross Margin at 50.0%. As hiring normalizes, operational excellence and process automation drive future profitability.",
+      "productivity": "Human capital productivity reached $840,000/FTE in revenue and $420,000/FTE in gross profit, quantifying lean transformation velocity.",
+      "leverage": "Operating income reached $M13,440 (32.0% margin), reflecting operating leverage and unit cost discipline.",
+      "rd": "R&D commitment stood at $M5,040 (12.0% of revenue), sustaining technological differentiation and core product moat.",
+      "growth": "Revenue grew at 1978.18% YoY compared to headcount change of 0.0% YoY, validating productivity expansion.",
+      "breakdown": "Segment disaggregation across primary operating divisions and target end-market portfolios."
     },
     "zh": {
-      "pivot": "全球製造員工數穩定於約 2.3 萬人，涵蓋車用與工控分離式元件產線。毛利率在 22.0% 至 30.2% 區間隨產業庫存週期波動。",
-      "productivity": "人均營收維持於 $135K-$150K，人均毛利約 $30K-$44K，反映龐大出貨量之被動元件與分離式半導體製造成本結構。",
-      "leverage": "營業利益展現典型的週期性營運槓桿，在車用與能源基建強勁需求期可達 $590M。",
-      "rd": "研發支出維持在 $88M-$92M（佔營收 2.7%），專注於車規級碳化矽 (SiC) 二極體、功率 MOSFET 與高可靠度被動元件。",
-      "growth": "2024 年營收與人力微調反映全球工控與車用供應鏈庫存去化之嚴謹產能調節。",
-      "breakdown": "MOSFET、二極體與被動元件（電阻/電感/電容）構成龐大的多角化基石，深植於電動車、航太與綠能電網應用。"
+      "pivot": "VISHAY-INTERTECHNOLOGY 員工總數達 50,000 人，GAAP 毛利率為 50.0%。隨著人力擴張進入成熟期，精益營運與流程自動化成為推升利潤之核心動能。",
+      "productivity": "人均營收達 $840,000/人，人均毛利達 $420,000/人，具體量化營運卓越與自動化之實質回報。",
+      "leverage": "營業利益達 $M13,440（營業利益率 32.0%），展現良好的營運槓桿與成本控管紀律。",
+      "rd": "研發投入達 $M5,040（佔營收 12.0%），持續鞏固技術護城河與核心產品競爭力。",
+      "growth": "營收年增率為 1978.18%，員工人數增速為 0.0%，驗證人均產值之實質擴張。",
+      "breakdown": "各主要業務板塊與終端市場之營收與出貨結構分拆。"
     }
   },
   "lean_maturity": {
@@ -272,28 +121,28 @@
     "levels": [
       {
         "level": 1,
-        "name": "Discrete Component Fab",
-        "desc": "Standard fab line tracking."
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
       },
       {
         "level": 2,
-        "name": "Automotive Q101 Standard",
-        "desc": "IATF 16949 & AEC-Q certification control."
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
       },
       {
         "level": 3,
-        "name": "Smart Factory Automation",
-        "desc": "Automated visual defect inspection and inventory flow."
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
       },
       {
         "level": 4,
-        "name": "Agile Silicon & Passives Trinity",
-        "desc": "Real-time demand forecasting and flexible capacity allocation."
+        "name": "Level 4: Predictive",
+        "desc": "Predictive analytics and proactive quality control."
       },
       {
         "level": 5,
-        "name": "World-Class Discrete Moat",
-        "desc": "Zero-defect compounding velocity with (1.01)^365 = 37.8x."
+        "name": "Level 5: World-Class",
+        "desc": "Continuous compounding excellence and lean mastery."
       }
     ]
   }
