@@ -21,7 +21,7 @@
       "net_income": 2592,
       "rd_expense": 1576,
       "headcount": 23215,
-      "gross_margin": 46.77,
+      "gross_margin": 46.8,
       "operating_margin": 27.11,
       "net_margin": 23.68,
       "rd_pct_rev": 14.4,
@@ -46,7 +46,7 @@
       "net_income": 2592,
       "rd_expense": 1968,
       "headcount": 24900,
-      "gross_margin": 44.63,
+      "gross_margin": 44.6,
       "operating_margin": 23.61,
       "net_margin": 21.93,
       "rd_pct_rev": 16.65,
@@ -61,7 +61,7 @@
       "ni_growth_yoy": 0.0,
       "rd_growth_yoy": 24.87,
       "hc_growth_yoy": 7.26,
-      "gm_diff_pp": -2.14,
+      "gm_diff_pp": -2.2,
       "op_diff_pp": -3.5
     },
     "2020": {
@@ -71,7 +71,7 @@
       "net_income": 3554,
       "rd_expense": 2201,
       "headcount": 28073,
-      "gross_margin": 48.53,
+      "gross_margin": 48.5,
       "operating_margin": 28.98,
       "net_margin": 25.42,
       "rd_pct_rev": 15.75,
@@ -96,7 +96,7 @@
       "net_income": 5883,
       "rd_expense": 2547,
       "headcount": 32016,
-      "gross_margin": 52.71,
+      "gross_margin": 52.7,
       "operating_margin": 36.27,
       "net_margin": 31.61,
       "rd_pct_rev": 13.69,
@@ -111,7 +111,7 @@
       "ni_growth_yoy": 65.53,
       "rd_growth_yoy": 15.72,
       "hc_growth_yoy": 14.05,
-      "gm_diff_pp": 4.18,
+      "gm_diff_pp": 4.2,
       "op_diff_pp": 7.29
     },
     "2022": {
@@ -121,7 +121,7 @@
       "net_income": 5624,
       "rd_expense": 3253,
       "headcount": 39086,
-      "gross_margin": 50.54,
+      "gross_margin": 50.5,
       "operating_margin": 30.7,
       "net_margin": 26.56,
       "rd_pct_rev": 15.36,
@@ -136,7 +136,7 @@
       "ni_growth_yoy": -4.4,
       "rd_growth_yoy": 27.72,
       "hc_growth_yoy": 22.08,
-      "gm_diff_pp": -2.17,
+      "gm_diff_pp": -2.2,
       "op_diff_pp": -5.57
     },
     "2023": {
@@ -146,7 +146,7 @@
       "net_income": 7839,
       "rd_expense": 3981,
       "headcount": 42416,
-      "gross_margin": 51.32,
+      "gross_margin": 51.3,
       "operating_margin": 32.81,
       "net_margin": 28.44,
       "rd_pct_rev": 14.45,
@@ -161,7 +161,7 @@
       "ni_growth_yoy": 39.38,
       "rd_growth_yoy": 22.38,
       "hc_growth_yoy": 8.52,
-      "gm_diff_pp": 0.78,
+      "gm_diff_pp": 0.8,
       "op_diff_pp": 2.11
     },
     "2024": {
@@ -171,7 +171,7 @@
       "net_income": 7575,
       "rd_expense": 4272,
       "headcount": 44349,
-      "gross_margin": 51.26,
+      "gross_margin": 51.3,
       "operating_margin": 31.16,
       "net_margin": 26.8,
       "rd_pct_rev": 15.12,
@@ -186,7 +186,7 @@
       "ni_growth_yoy": -3.37,
       "rd_growth_yoy": 7.31,
       "hc_growth_yoy": 4.56,
-      "gm_diff_pp": -0.06,
+      "gm_diff_pp": 0.0,
       "op_diff_pp": -1.65
     },
     "2025": {
@@ -211,7 +211,7 @@
       "ni_growth_yoy": 20.13,
       "rd_growth_yoy": 8.85,
       "hc_growth_yoy": 1.02,
-      "gm_diff_pp": 0.74,
+      "gm_diff_pp": 0.7,
       "op_diff_pp": 1.33
     }
   },

@@ -37,7 +37,18 @@ const I18N_DICT = {
         md_viewer_title: "Parsed Markdown Annual Reports Browser",
         md_viewer_subtitle: "Ready to copy & paste directly into LLMs (Gemini / Claude / ChatGPT)",
         btn_copy_md: "Copy Markdown",
-        lang_toggle_btn: "繁體中文"
+        lang_toggle_btn: "繁體中文",
+        btn_user_guide: "User Guide & Help",
+        modal_guide_title: "Financial & OpEx Dashboard User Guide",
+        modal_guide_subtitle: "Architecture, Workflow Execution, Chart Interpretation & LLM Prompts",
+        guide_sec1_title: "1. One-Click End-to-End Workflow Execution",
+        guide_sec1_p1: "Enter any target company (e.g. ASML, TSMC, NVDA, NXP, VSH, AMAT) or a full CompaniesMarketCap URL, choose the number of years (3 to 10), and click 'Run End-to-End Workflow'.",
+        guide_sec2_title: "2. Top Switcher vs. Bottom Console (Two-Way Synchronization)",
+        guide_sec3_title: "3. Visual Charts & Strategic OpEx Framework Guide",
+        guide_sec4_title: "4. Form 10-K vs. Form 20-F Compatibility",
+        guide_sec4_p: "Foreign issuers (ASML, TSMC) submit Form 20-F (Item 3.A summary on pages 5-15), while US domestic corporations (NVIDIA, NXP, Vishay) submit Form 10-K (Item 8 financial statements on pages 35-70). The parser automatically detects and cross-scans both structures seamlessly.",
+        guide_sec5_title: "5. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)",
+        guide_sec5_p: "Select any parsed .md file in the bottom browser, click 'Copy Markdown', and paste it into Gemini with fininacial_prompt.md or sale_breakdown.md for instant 16:9 executive presentation decks and pitch scripts."
     },
     zh: {
         badge_workflow: "一步到位 Workflow",
@@ -67,7 +78,18 @@ const I18N_DICT = {
         md_viewer_title: "解析產出 Markdown 檔案瀏覽與預覽",
         md_viewer_subtitle: "可直接複製給 LLM (Gemini / Claude / ChatGPT) 進行深度提問",
         btn_copy_md: "複製 Markdown",
-        lang_toggle_btn: "English"
+        lang_toggle_btn: "English",
+        btn_user_guide: "使用說明與指南 (Help)",
+        modal_guide_title: "財務與人均產值戰略儀表板操作指南 (User Guide)",
+        modal_guide_subtitle: "工作流執行、圖表戰略解讀、10-K/20-F 格式與 LLM 提示詞應用",
+        guide_sec1_title: "1. 一步到位全自動工作流操作",
+        guide_sec1_p1: "輸入任何目標公司（如 ASML、TSMC、NVDA、NXP、VSH、AMAT）或 CompaniesMarketCap 網址，選擇年數（3 至 10 年），點擊「立即執行一步到位工作流」即可全自動完成下載、轉檔、指標計算與圖表繪製。",
+        guide_sec2_title: "2. 右上角切換選單 vs. 下方控制台（雙向即時連動）",
+        guide_sec3_title: "3. 六大視覺圖表與戰略分析框架解讀指南",
+        guide_sec4_title: "4. 美股 10-K 與外國企業 20-F 格式完全相容",
+        guide_sec4_p: "外國發行人（ASML, TSMC）提交 20-F（Item 3.A 集中於前 15 頁），美股本土企業（NVIDIA, NXP, Vishay）提交 10-K（Item 8 損益表位於 35~70 頁）。解析器全面自動跨頁掃描，確保數據 100% 精準。",
+        guide_sec5_title: "5. 搭配大型語言模型 (Gemini / Claude / ChatGPT) 生成簡報講稿",
+        guide_sec5_p: "在下方檔案瀏覽器選取解析後的 .md 檔案，點擊「複製 Markdown」，貼入 Gemini 並搭配專案內的 fininacial_prompt.md 或 sale_breakdown.md，即可在 5 秒內產出 16:9 簡報草圖與高階主管口說講稿。"
     }
 };
 
@@ -136,6 +158,27 @@ function setupEventListeners() {
     });
 
     document.getElementById("exportCsvBtn").addEventListener("click", exportTableToCSV);
+
+    // Help Modal Open & Close Listeners
+    const helpModal = document.getElementById("helpModal");
+    const helpBtn = document.getElementById("helpGuideBtn");
+    const closeBtn = document.getElementById("closeHelpModalBtn");
+    const closeFooterBtn = document.getElementById("closeHelpModalFooterBtn");
+
+    if (helpBtn) {
+        helpBtn.addEventListener("click", () => {
+            helpModal.classList.remove("hidden");
+        });
+    }
+
+    const hideModal = () => helpModal.classList.add("hidden");
+    if (closeBtn) closeBtn.addEventListener("click", hideModal);
+    if (closeFooterBtn) closeFooterBtn.addEventListener("click", hideModal);
+    if (helpModal) {
+        helpModal.addEventListener("click", (e) => {
+            if (e.target === helpModal) hideModal();
+        });
+    }
 }
 
 function applyLanguage(lang) {

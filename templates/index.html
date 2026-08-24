@@ -14,7 +14,7 @@
 </head>
 <body class="bg-slate-900 text-slate-100 min-h-screen">
     <!-- Header -->
-    <header class="bg-slate-800 border-b border-slate-700 sticky top-0 z-50 shadow-md">
+    <header class="bg-slate-800 border-b border-slate-700 sticky top-0 z-40 shadow-md">
         <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap justify-between items-center gap-4">
             <div class="flex items-center space-x-3">
                 <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-blue-500/30">
@@ -29,8 +29,14 @@
                 </div>
             </div>
             
-            <!-- Quick Actions & Language Switcher -->
-            <div class="flex items-center space-x-3">
+            <!-- Quick Actions, User Guide & Language Switcher -->
+            <div class="flex items-center space-x-2.5">
+                <!-- Help / User Guide Button -->
+                <button id="helpGuideBtn" class="bg-indigo-600/30 hover:bg-indigo-600/50 border border-indigo-500/40 text-indigo-200 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5 shadow-sm">
+                    <i class="fa-solid fa-book-open text-indigo-400"></i>
+                    <span data-i18n="btn_user_guide">User Guide & Help</span>
+                </button>
+
                 <!-- Language Toggle -->
                 <button id="langToggleBtn" class="bg-slate-700 hover:bg-slate-600 border border-slate-600 text-slate-200 px-2.5 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5">
                     <i class="fa-solid fa-globe text-blue-400"></i>
@@ -42,6 +48,8 @@
                     <option value="ASML">ASML Holding N.V.</option>
                     <option value="TSMC">TSMC (2330 / TSM)</option>
                     <option value="NVDA">NVIDIA Corporation</option>
+                    <option value="NXP">NXP Semiconductors (NXPI)</option>
+                    <option value="VSH">Vishay Intertechnology (VSH)</option>
                 </select>
 
                 <!-- Refresh Button -->
@@ -61,7 +69,7 @@
                     <i class="fa-solid fa-wand-magic-sparkles text-amber-400"></i>
                     <span data-i18n="panel_title">One-Click Automated Workflow Console</span>
                 </h2>
-                <span class="text-xs text-slate-400" data-i18n="panel_subtitle">Supports URL or Ticker (e.g. ASML, TSMC, NVDA, NXP)</span>
+                <span class="text-xs text-slate-400" data-i18n="panel_subtitle">Supports URL or Ticker (e.g. ASML, TSMC, NVDA, NXP, VSH)</span>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-12 gap-4">
@@ -325,6 +333,120 @@
             </p>
         </footer>
     </main>
+
+    <!-- ========================================================================= -->
+    <!-- Interactive Help / User Guide Modal -->
+    <!-- ========================================================================= -->
+    <div id="helpModal" class="fixed inset-0 z-50 bg-black/75 backdrop-blur-sm hidden flex items-center justify-center p-4">
+        <div class="bg-slate-800 border border-slate-700 rounded-2xl max-w-4xl w-full max-h-[90vh] flex flex-col shadow-2xl overflow-hidden">
+            <!-- Modal Header -->
+            <div class="px-6 py-4 border-b border-slate-700 flex justify-between items-center bg-slate-850">
+                <div class="flex items-center gap-3">
+                    <div class="w-8 h-8 rounded-lg bg-indigo-600 flex items-center justify-center text-white">
+                        <i class="fa-solid fa-book-open text-sm"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-base font-bold text-white" data-i18n="modal_guide_title">Financial & OpEx Dashboard User Guide</h3>
+                        <p class="text-xs text-slate-400" data-i18n="modal_guide_subtitle">Architecture, Workflow Execution, Chart Interpretation & LLM Prompts</p>
+                    </div>
+                </div>
+                <button id="closeHelpModalBtn" class="text-slate-400 hover:text-white text-lg p-1.5 rounded-lg hover:bg-slate-700 transition-colors">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <!-- Modal Content (Scrollable) -->
+            <div class="px-6 py-5 overflow-y-auto space-y-6 text-xs text-slate-300 leading-relaxed">
+                
+                <!-- Section 1: Workflow Steps -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                    <h4 class="text-sm font-bold text-blue-400 flex items-center gap-2">
+                        <i class="fa-solid fa-wand-magic-sparkles"></i>
+                        <span data-i18n="guide_sec1_title">1. One-Click End-to-End Workflow Execution</span>
+                    </h4>
+                    <p data-i18n="guide_sec1_p1">Enter any target company (e.g. <code>ASML</code>, <code>TSMC</code>, <code>NVDA</code>, <code>NXP</code>, <code>VSH</code>, <code>AMAT</code>) or a full CompaniesMarketCap URL, choose the number of years (3 to 10), and click <strong>"Run End-to-End Workflow"</strong>.</p>
+                    <div class="grid grid-cols-1 md:grid-cols-4 gap-2 pt-2 text-[11px]">
+                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
+                            <strong class="text-amber-400 block mb-1">Step 1: Download</strong>
+                            Automated PDF crawling with sub-second caching.
+                        </div>
+                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
+                            <strong class="text-blue-400 block mb-1">Step 2: Parse to MD</strong>
+                            Extracts text and GitHub markdown tables.
+                        </div>
+                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
+                            <strong class="text-emerald-400 block mb-1">Step 3: Extract KPIs</strong>
+                            Computes Productivity ratios (Rev/FTE, GP/FTE).
+                        </div>
+                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
+                            <strong class="text-purple-400 block mb-1">Step 4: Visualize</strong>
+                            Refreshes 6 interactive Plotly charts & tables.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 2: Two-Way Synchronization -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                    <h4 class="text-sm font-bold text-amber-400 flex items-center gap-2">
+                        <i class="fa-solid fa-arrows-rotate"></i>
+                        <span data-i18n="guide_sec2_title">2. Top Switcher vs. Bottom Console (Two-Way Synchronization)</span>
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-[11px]">
+                        <div class="bg-slate-800 p-3 rounded-lg border border-slate-700">
+                            <strong class="text-white block mb-1">Top-Right Dropdown (Company Switcher)</strong>
+                            Use this to instantly view and toggle between <strong>already-processed companies</strong> in 0.1 seconds without re-downloading.
+                        </div>
+                        <div class="bg-slate-800 p-3 rounded-lg border border-slate-700">
+                            <strong class="text-white block mb-1">Bottom Console (Pipeline Console)</strong>
+                            Use this to download and process <strong>new companies</strong> or change the target history length (e.g. 10 years).
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Section 3: Chart Interpretations -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-3">
+                    <h4 class="text-sm font-bold text-emerald-400 flex items-center gap-2">
+                        <i class="fa-solid fa-chart-pie"></i>
+                        <span data-i18n="guide_sec3_title">3. Visual Charts & Strategic OpEx Framework Guide</span>
+                    </h4>
+                    <div class="space-y-2 text-[11px]">
+                        <p><strong>• Chart 1: The Pivot (Headcount vs GM %)</strong> — Identifies when workforce expansion plateaus and margin expansion shifts to automated operational excellence.</p>
+                        <p><strong>• Chart 2: Productivity Trio (Rev / GP / OpIncome per FTE)</strong> — Quantifies human capital efficiency and automation return on investment (ROI).</p>
+                        <p><strong>• Chart 3: Operating Leverage (OpIncome & Margins)</strong> — Evaluates fixed-cost absorption and profitability resilience across cyclical demand swings.</p>
+                        <p><strong>• Chart 4: R&D Commitment (Expense & % of Revenue)</strong> — Analyzes technological differentiation and moat reinvestment intensity.</p>
+                        <p><strong>• Chart 5: Growth Dynamics (YoY Triangulation)</strong> — Compares Revenue YoY, GP YoY, and OpIncome YoY against Headcount growth to ensure profitable expansion.</p>
+                        <p><strong>• Chart 6: Value vs. Volume Paradox</strong> — Disaggregates product mix between high-margin flagship lines and physical factory throughput volume.</p>
+                    </div>
+                </div>
+
+                <!-- Section 4: 10-K vs 20-F -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                    <h4 class="text-sm font-bold text-cyan-400 flex items-center gap-2">
+                        <i class="fa-solid fa-file-invoice-dollar"></i>
+                        <span data-i18n="guide_sec4_title">4. Form 10-K vs. Form 20-F Compatibility</span>
+                    </h4>
+                    <p data-i18n="guide_sec4_p">Foreign issuers (ASML, TSMC) submit <strong>Form 20-F</strong> (Item 3.A summary on pages 5-15), while US domestic corporations (NVIDIA, NXP, Vishay) submit <strong>Form 10-K</strong> (Item 8 financial statements on pages 35-70). The parser automatically detects and cross-scans both structures seamlessly.</p>
+                </div>
+
+                <!-- Section 5: LLM Integration -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                    <h4 class="text-sm font-bold text-purple-400 flex items-center gap-2">
+                        <i class="fa-solid fa-brain"></i>
+                        <span data-i18n="guide_sec5_title">5. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)</span>
+                    </h4>
+                    <p data-i18n="guide_sec5_p">Select any parsed <code>.md</code> file in the bottom browser, click <strong>"Copy Markdown"</strong>, and paste it into Gemini with <code>fininacial_prompt.md</code> or <code>sale_breakdown.md</code> for instant 16:9 executive presentation decks and pitch scripts.</p>
+                </div>
+
+            </div>
+
+            <!-- Modal Footer -->
+            <div class="px-6 py-3 bg-slate-850 border-t border-slate-700 flex justify-end">
+                <button id="closeHelpModalFooterBtn" class="bg-slate-700 hover:bg-slate-600 text-white px-4 py-1.5 rounded-xl text-xs font-semibold transition-colors">
+                    Close Guide
+                </button>
+            </div>
+        </div>
+    </div>
 
     <!-- Custom Dashboard Logic -->
     <script src="/static/js/dashboard.js"></script>

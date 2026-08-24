@@ -19,7 +19,7 @@
       "net_income": 123,
       "rd_expense": 65,
       "headcount": 22600,
-      "gross_margin": 23.86,
+      "gross_margin": 23.9,
       "operating_margin": 7.51,
       "net_margin": 4.92,
       "rd_pct_rev": 2.6,
@@ -44,7 +44,7 @@
       "net_income": 298,
       "rd_expense": 72,
       "headcount": 23800,
-      "gross_margin": 27.22,
+      "gross_margin": 27.2,
       "operating_margin": 13.33,
       "net_margin": 9.2,
       "rd_pct_rev": 2.22,
@@ -59,7 +59,7 @@
       "ni_growth_yoy": 142.28,
       "rd_growth_yoy": 10.77,
       "hc_growth_yoy": 5.31,
-      "gm_diff_pp": 3.36,
+      "gm_diff_pp": 3.3,
       "op_diff_pp": 5.82
     },
     "2022": {
@@ -69,7 +69,7 @@
       "net_income": 428,
       "rd_expense": 80,
       "headcount": 23900,
-      "gross_margin": 30.23,
+      "gross_margin": 30.2,
       "operating_margin": 16.87,
       "net_margin": 12.24,
       "rd_pct_rev": 2.29,
@@ -84,7 +84,7 @@
       "ni_growth_yoy": 43.62,
       "rd_growth_yoy": 11.11,
       "hc_growth_yoy": 0.42,
-      "gm_diff_pp": 3.01,
+      "gm_diff_pp": 3.0,
       "op_diff_pp": 3.54
     },
     "2023": {
@@ -94,7 +94,7 @@
       "net_income": 331,
       "rd_expense": 85,
       "headcount": 23500,
-      "gross_margin": 27.69,
+      "gross_margin": 27.7,
       "operating_margin": 12.81,
       "net_margin": 9.64,
       "rd_pct_rev": 2.48,
@@ -109,7 +109,7 @@
       "ni_growth_yoy": -22.66,
       "rd_growth_yoy": 6.25,
       "hc_growth_yoy": -1.67,
-      "gm_diff_pp": -2.54,
+      "gm_diff_pp": -2.5,
       "op_diff_pp": -4.06
     },
     "2024": {
@@ -134,7 +134,7 @@
       "ni_growth_yoy": -71.0,
       "rd_growth_yoy": 3.53,
       "hc_growth_yoy": -2.13,
-      "gm_diff_pp": -5.69,
+      "gm_diff_pp": -5.7,
       "op_diff_pp": -7.17
     },
     "2025": {
@@ -144,7 +144,7 @@
       "net_income": 185,
       "rd_expense": 92,
       "headcount": 23200,
-      "gross_margin": 24.48,
+      "gross_margin": 24.5,
       "operating_margin": 8.36,
       "net_margin": 5.52,
       "rd_pct_rev": 2.75,
@@ -159,7 +159,7 @@
       "ni_growth_yoy": 92.71,
       "rd_growth_yoy": 4.55,
       "hc_growth_yoy": 0.87,
-      "gm_diff_pp": 2.48,
+      "gm_diff_pp": 2.5,
       "op_diff_pp": 2.72
     }
   },
