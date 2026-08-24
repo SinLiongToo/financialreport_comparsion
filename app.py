@@ -122,5 +122,24 @@ def get_markdown_content(ticker, filename):
         content = f.read()
     return jsonify({"filename": filename, "content": content})
 
+@app.route("/api/compare", methods=["GET"])
+def get_compare_metrics():
+    """Batch API for Multi-Company Comparison"""
+    tickers_param = request.args.get("tickers", "")
+    if not tickers_param:
+        tickers = ["asml", "tsmc", "nvda", "nxp", "vsh"]
+    else:
+        tickers = [t.strip().lower() for t in tickers_param.split(",") if t.strip()]
+    
+    results = {}
+    for t in tickers:
+        try:
+            m = extractor.get_metrics(t)
+            results[t] = m
+        except Exception as e:
+            results[t] = {"error": str(e)}
+    
+    return jsonify({"success": True, "companies": results})
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
