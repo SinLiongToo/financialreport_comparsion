@@ -494,8 +494,8 @@ function updateInsightsText(data) {
 // Render 6 Single View Plotly Charts
 // -----------------------------------------------------------------------------
 function renderCharts(data) {
-    const years = data.years;
-    const fin = data.financials;
+    const years = data.years || [];
+    const fin = data.financials || {};
     const unit = data.unit || "$M";
     const currSym = unit.includes("€") ? "€" : "$";
 
@@ -503,13 +503,35 @@ function renderCharts(data) {
     const fontColor = isLight ? "#475569" : "#94a3b8";
     const gridColor = isLight ? "#e2e8f0" : "#334155";
 
+    // Chronologically sort years / quarters
+    const sortedYears = [...years].map(String).sort((a, b) => {
+        const parseKey = (str) => {
+            const parts = String(str).trim().split(/\s+/);
+            const year = parseInt(parts[0]) || 0;
+            const qMap = { "Q1": 1, "Q2": 2, "Q3": 3, "Q4": 4 };
+            const q = parts[1] ? (qMap[parts[1].toUpperCase()] || 0) : 0;
+            return year * 10 + q;
+        };
+        return parseKey(a) - parseKey(b);
+    });
+
+    const isQuarterly = sortedYears.some(p => p.includes("Q"));
+
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
         font: { color: fontColor, size: 11 },
-        margin: { l: 45, r: 45, t: 30, b: 35 },
+        margin: { l: 45, r: 45, t: 30, b: isQuarterly ? 55 : 35 },
         hovermode: "x unified",
-        legend: { orientation: "h", y: 1.15, x: 0, font: { size: 10 } }
+        legend: { orientation: "h", y: 1.15, x: 0, font: { size: 10 } },
+        xaxis: {
+            categoryorder: "array",
+            categoryarray: sortedYears,
+            tickangle: isQuarterly ? -45 : 0,
+            automargin: true,
+            showgrid: true,
+            gridcolor: gridColor
+        }
     };
 
     // Chart 1: The Pivot (Headcount vs GM %)
@@ -733,13 +755,41 @@ function renderComparisonView(companiesData) {
     const fontColor = isLight ? "#475569" : "#94a3b8";
     const gridColor = isLight ? "#e2e8f0" : "#334155";
 
+    // 1. Extract & Chronologically sort all unique periods across all selected companies
+    const allPeriodsSet = new Set();
+    tickers.forEach(t => {
+        const c = companiesData[t];
+        (c.years || []).forEach(y => allPeriodsSet.add(String(y)));
+    });
+
+    const sortedAllPeriods = Array.from(allPeriodsSet).sort((a, b) => {
+        const parseKey = (str) => {
+            const parts = String(str).trim().split(/\s+/);
+            const year = parseInt(parts[0]) || 0;
+            const qMap = { "Q1": 1, "Q2": 2, "Q3": 3, "Q4": 4 };
+            const q = parts[1] ? (qMap[parts[1].toUpperCase()] || 0) : 0;
+            return year * 10 + q;
+        };
+        return parseKey(a) - parseKey(b);
+    });
+
+    const isQuarterly = sortedAllPeriods.some(p => p.includes("Q"));
+
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
         font: { color: fontColor, size: 11 },
-        margin: { l: 45, r: 45, t: 30, b: 35 },
+        margin: { l: 50, r: 35, t: 30, b: isQuarterly ? 55 : 40 },
         hovermode: "x unified",
-        legend: { orientation: "h", y: 1.15, x: 0, font: { size: 10 } }
+        legend: { orientation: "h", y: 1.18, x: 0, font: { size: 10 } },
+        xaxis: {
+            categoryorder: "array",
+            categoryarray: sortedAllPeriods,
+            tickangle: isQuarterly ? -45 : 0,
+            automargin: true,
+            showgrid: true,
+            gridcolor: gridColor
+        }
     };
 
     // 1. Chart A: Gross Margin % Trajectory
