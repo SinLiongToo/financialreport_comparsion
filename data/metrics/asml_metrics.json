@@ -1,0 +1,308 @@
+{
+  "company_name": "ASML Holding N.V.",
+  "ticker": "ASML",
+  "currency": "EUR (Millions)",
+  "unit": "€M",
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2018": {
+      "revenue": 10944,
+      "gross_profit": 5119,
+      "operating_income": 2967,
+      "net_income": 2592,
+      "rd_expense": 1576,
+      "headcount": 23215,
+      "gross_margin": 46.77,
+      "operating_margin": 27.11,
+      "net_margin": 23.68,
+      "rev_per_emp": 471419.0,
+      "gp_per_emp": 220504.0,
+      "op_per_emp": 127805.0,
+      "ni_per_emp": 111652.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null
+    },
+    "2019": {
+      "revenue": 11820,
+      "gross_profit": 5275,
+      "operating_income": 2791,
+      "net_income": 2592,
+      "rd_expense": 1968,
+      "headcount": 24900,
+      "gross_margin": 44.63,
+      "operating_margin": 23.61,
+      "net_margin": 21.93,
+      "rev_per_emp": 474699.0,
+      "gp_per_emp": 211847.0,
+      "op_per_emp": 112088.0,
+      "ni_per_emp": 104096.0,
+      "rev_growth_yoy": 8.0,
+      "gp_growth_yoy": 3.05,
+      "op_growth_yoy": -5.93,
+      "hc_growth_yoy": 7.26,
+      "gm_diff_pp": -2.14
+    },
+    "2020": {
+      "revenue": 13979,
+      "gross_profit": 6784,
+      "operating_income": 4051,
+      "net_income": 3554,
+      "rd_expense": 2201,
+      "headcount": 28073,
+      "gross_margin": 48.53,
+      "operating_margin": 28.98,
+      "net_margin": 25.42,
+      "rev_per_emp": 497952.0,
+      "gp_per_emp": 241656.0,
+      "op_per_emp": 144302.0,
+      "ni_per_emp": 126599.0,
+      "rev_growth_yoy": 18.27,
+      "gp_growth_yoy": 28.61,
+      "op_growth_yoy": 45.15,
+      "hc_growth_yoy": 12.74,
+      "gm_diff_pp": 3.9
+    },
+    "2021": {
+      "revenue": 18611,
+      "gross_profit": 9809,
+      "operating_income": 6750,
+      "net_income": 5883,
+      "rd_expense": 2547,
+      "headcount": 32016,
+      "gross_margin": 52.71,
+      "operating_margin": 36.27,
+      "net_margin": 31.61,
+      "rev_per_emp": 581303.0,
+      "gp_per_emp": 306378.0,
+      "op_per_emp": 210832.0,
+      "ni_per_emp": 183752.0,
+      "rev_growth_yoy": 33.14,
+      "gp_growth_yoy": 44.59,
+      "op_growth_yoy": 66.63,
+      "hc_growth_yoy": 14.05,
+      "gm_diff_pp": 4.18
+    },
+    "2022": {
+      "revenue": 21173,
+      "gross_profit": 10700,
+      "operating_income": 6501,
+      "net_income": 5624,
+      "rd_expense": 3253,
+      "headcount": 39086,
+      "gross_margin": 50.54,
+      "operating_margin": 30.7,
+      "net_margin": 26.56,
+      "rev_per_emp": 541703.0,
+      "gp_per_emp": 273755.0,
+      "op_per_emp": 166326.0,
+      "ni_per_emp": 143888.0,
+      "rev_growth_yoy": 13.77,
+      "gp_growth_yoy": 9.08,
+      "op_growth_yoy": -3.69,
+      "hc_growth_yoy": 22.08,
+      "gm_diff_pp": -2.17
+    },
+    "2023": {
+      "revenue": 27559,
+      "gross_profit": 14142,
+      "operating_income": 9042,
+      "net_income": 7839,
+      "rd_expense": 3981,
+      "headcount": 42416,
+      "gross_margin": 51.32,
+      "operating_margin": 32.81,
+      "net_margin": 28.44,
+      "rev_per_emp": 649731.0,
+      "gp_per_emp": 333412.0,
+      "op_per_emp": 213174.0,
+      "ni_per_emp": 184812.0,
+      "rev_growth_yoy": 30.16,
+      "gp_growth_yoy": 32.17,
+      "op_growth_yoy": 39.09,
+      "hc_growth_yoy": 8.52,
+      "gm_diff_pp": 0.78
+    },
+    "2024": {
+      "revenue": 28263,
+      "gross_profit": 14488,
+      "operating_income": 8806,
+      "net_income": 7575,
+      "rd_expense": 4272,
+      "headcount": 44349,
+      "gross_margin": 51.26,
+      "operating_margin": 31.16,
+      "net_margin": 26.8,
+      "rev_per_emp": 637286.0,
+      "gp_per_emp": 326682.0,
+      "op_per_emp": 198561.0,
+      "ni_per_emp": 170804.0,
+      "rev_growth_yoy": 2.55,
+      "gp_growth_yoy": 2.45,
+      "op_growth_yoy": -2.61,
+      "hc_growth_yoy": 4.56,
+      "gm_diff_pp": -0.06
+    },
+    "2025": {
+      "revenue": 32500,
+      "gross_profit": 16900,
+      "operating_income": 10560,
+      "net_income": 9100,
+      "rd_expense": 4650,
+      "headcount": 44800,
+      "gross_margin": 52.0,
+      "operating_margin": 32.49,
+      "net_margin": 28.0,
+      "rev_per_emp": 725446.0,
+      "gp_per_emp": 377232.0,
+      "op_per_emp": 235714.0,
+      "ni_per_emp": 203125.0,
+      "rev_growth_yoy": 14.99,
+      "gp_growth_yoy": 16.65,
+      "op_growth_yoy": 19.92,
+      "hc_growth_yoy": 1.02,
+      "gm_diff_pp": 0.74
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "EUV (0.33 & High NA)",
+      "ArFi (Immersion DUV)",
+      "Other DUV (Dry/KrF/i-Line)",
+      "Metrology & Inspection (M&I)"
+    ],
+    "colors": [
+      "#1A365D",
+      "#00A3E0",
+      "#90CDF4",
+      "#ED8936"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          4464,
+          4398,
+          1421,
+          620
+        ],
+        "volume": [
+          31,
+          68,
+          159,
+          137
+        ]
+      },
+      "2021": {
+        "value": [
+          6299,
+          5321,
+          2033,
+          856
+        ],
+        "volume": [
+          42,
+          81,
+          186,
+          178
+        ]
+      },
+      "2022": {
+        "value": [
+          7002,
+          5845,
+          2601,
+          1020
+        ],
+        "volume": [
+          54,
+          84,
+          207,
+          214
+        ]
+      },
+      "2023": {
+        "value": [
+          9145,
+          8312,
+          4453,
+          1092
+        ],
+        "volume": [
+          53,
+          125,
+          271,
+          241
+        ]
+      },
+      "2024": {
+        "value": [
+          8300,
+          7950,
+          4800,
+          1150
+        ],
+        "volume": [
+          48,
+          110,
+          265,
+          235
+        ]
+      },
+      "2025": {
+        "value": [
+          11200,
+          8900,
+          4950,
+          1350
+        ],
+        "volume": [
+          60,
+          120,
+          280,
+          260
+        ]
+      }
+    }
+  },
+  "lean_maturity": {
+    "current_level": 3,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Idling & Reactive",
+        "desc": "Manual data silos, fire-fighting culture, high scrap rates."
+      },
+      {
+        "level": 2,
+        "name": "Standardized",
+        "desc": "Basic 5S, baseline SOPs, reactive defect tracking."
+      },
+      {
+        "level": 3,
+        "name": "Accelerating",
+        "desc": "CPK simulation, digital tracking (n8n/Python), cross-fab alignment."
+      },
+      {
+        "level": 4,
+        "name": "Predictive & Agile",
+        "desc": "Real-time AI yield prediction, self-healing automation, zero Muda."
+      },
+      {
+        "level": 5,
+        "name": "Full Throttle Excellence",
+        "desc": "Benchmark OpEx, (1.01)^365 = 37.8x compounding operational velocity."
+      }
+    ]
+  }
+}
