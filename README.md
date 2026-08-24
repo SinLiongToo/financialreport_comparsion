@@ -9,8 +9,9 @@
 
 1. [專案緣起與核心價值](#-專案緣起與核心價值)
 2. [一步到位工作流架構 (Workflow Architecture)](#-一步到位工作流架構-workflow-architecture)
-3. [核心功能特色](#-核心功能特色)
-4. [專案目錄與檔案職責說明](#-專案目錄與檔案職責說明)
+3. [核心工作流中樞：workflow.py 深度解析](#-核心工作流中樞workflowpy-深度解析-pipeline-orchestrator)
+4. [核心功能特色](#-核心功能特色)
+5. [專案目錄與檔案職責說明](#-專案目錄與檔案職責說明)
 5. [安裝與前置準備 (Installation)](#-安裝與前置準備-installation)
 6. [詳細使用指南 (Usage Guide)](#-詳細使用指南-usage-guide)
    - [模式一：互動式 Web 儀表板 (推薦)](#模式一互動式-web-儀表板-推薦)
@@ -67,6 +68,73 @@ flowchart TD
         SaveMD --> Step5[5. 線上 Markdown 預覽器<br/>一鍵複製給 Gemini/Claude Prompt]
     end
 `
+
+---
+
+---
+
+## ⚙️ 核心工作流中樞：`workflow.py` 深度解析 (Pipeline Orchestrator)
+
+`workflow.py` 是整個系統的**核心中樞大腦（Central Orchestrator）**。它負責將底層分散的爬蟲、PDF 解析與財務計算引擎組裝成一條「全自動、非同步、具備進度反饋」的一體化流水線。
+
+### 1. `AnnualReportWorkflow` 類別職責
+
+```
+                    ┌────────────────────────────────────────────────────────┐
+                    │               workflow.py (中樞調度大腦)                │
+                    └──────────────────────────┬─────────────────────────────┘
+                                               │
+               ┌───────────────────────────────┼───────────────────────────────┐
+               ▼                               ▼                               ▼
+       crawler.py (爬蟲)              pdf_parser.py (解析)          metrics_extractor.py (指標)
+  • 取得 20-F/10-K 清單            • PyMuPDF 串流文本提取          • 計算人均營收/毛利/營業利益
+  • 批次下載 PDF 至 downloads/     • pdfplumber 表格轉 Markdown    • 產出 6 大圖表與 KPI 結構
+```
+
+### 2. 四大執行階段與運作機制 (`run_pipeline`)
+
+當透過 Web 儀表板點擊「立即執行」或透過 CLI 執行時，`workflow.py` 會依序執行以下 4 個階段：
+
+1. **階段一：智能爬取與下載 (進度 10% ~ 40%)**
+   - 呼叫 `crawler.download_reports()`。
+   - 自動解析目標網址或代碼，過濾出近 $N$ 年的 20-F / 10-K 報告。
+   - 具備**檔案快取防重試機制**：若 PDF 已經下載且大小大於 10KB，則直接複用，避免重複耗時下載。
+2. **階段二：高保真 PDF 轉 Markdown (進度 45% ~ 80%)**
+   - 呼叫 `parser.parse_pdf()`。
+   - 逐頁提取財務章節與損益表/資產負債表，將 PDF 原始表格轉換為標準 GitHub Markdown 表格（`| col | col |`）。
+   - 儲存至 `data/parsed_md/{ticker}/{ticker}_{year}_{type}.md`。
+3. **階段三：財務指標抽取與產值計算 (進度 85% ~ 95%)**
+   - 呼叫 `extractor.extract_from_markdown()`。
+   - 自動提取 Revenue, Gross Profit, Operating Income, R&D Expense 與 Headcount。
+   - 即時計算人均產值三合一指標（Rev/Emp, GP/Emp, OpIncome/Emp）與各項 YoY 年增率。
+   - 產出前端專用的 `data/metrics/{ticker}_metrics.json`。
+4. **階段四：資料封裝與回傳 (進度 100%)**
+   - 封裝下載統計、解析檔案路徑、總耗時（秒數）與指標數據，即時回傳給 Web 前端以重新渲染所有 Plotly 圖表。
+
+### 3. Python 程式碼直接調用範例
+
+如果您想在自己的 Python 腳本或 Jupyter Notebook 中調用工作流，只需三行代碼：
+
+```python
+from workflow import AnnualReportWorkflow
+
+# 初始化工作流引擎
+wf = AnnualReportWorkflow(data_root="data")
+
+# 定義進度回調函數 (可選)
+def my_progress(msg, percent):
+    print(f"[{percent:.0f}%] {msg}")
+
+# 一鍵執行 ASML 近 5 年財報下載與解析
+result = wf.run_pipeline(
+    target="https://companiesmarketcap.com/asml/annual-reports-20f/",
+    n_years=5,
+    max_pages_per_pdf=40,
+    progress_callback=my_progress
+)
+
+print(f"完成！耗時: {result['elapsed_seconds']}s，已處理 {result['downloaded_count']} 份財報。")
+```
 
 ---
 

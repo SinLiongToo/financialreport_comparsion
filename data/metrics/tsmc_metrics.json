@@ -1,0 +1,43 @@
+{
+  "company_name": "TSMC",
+  "ticker": "TSMC",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "years": [],
+  "financials": {},
+  "sales_breakdown": {
+    "categories": [],
+    "colors": [],
+    "data": {}
+  },
+  "lean_maturity": {
+    "current_level": 3,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive",
+        "desc": "Predictive analytics and proactive quality control."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class",
+        "desc": "Continuous compounding excellence and lean mastery."
+      }
+    ]
+  }
+}
