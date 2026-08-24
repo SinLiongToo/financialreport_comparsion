@@ -1,9 +1,10 @@
 """
 metrics_extractor.py - Financial & OpEx KPI extraction and calculation engine.
 Supports:
-  - Audited Semiconductor Benchmarks: ASML, TSMC (2330/TSM), NVDA, NXP, AMAT
+  - Audited Semiconductor Benchmarks: ASML, TSMC, NVDA, NXP, AMAT
+  - Company-specific Strategic Insights (The Pivot, Productivity, Leverage, R&D, Value vs Volume) in EN & ZH
   - Dynamic Markdown Financial Table & Text Regex Extractor for any company
-  - Computes Revenue/GP/OpIncome/R&D per Employee, YoY growth rates, Margins, and Value-vs-Volume breakdown
+  - Auto-scaling metric calculations without hardcoded bounds
 """
 import os
 import re
@@ -38,6 +39,24 @@ BUILTIN_BENCHMARKS = {
                 "2023": {"value": [9145, 8312, 4453, 1092], "volume": [53, 125, 271, 241]},
                 "2024": {"value": [8300, 7950, 4800, 1150], "volume": [48, 110, 265, 235]},
                 "2025": {"value": [11200, 8900, 4950, 1350], "volume": [60, 120, 280, 260]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Global workforce plateaued around 44,000 FTEs post-2024. Reaching the 2030 gross margin target of 56%-60% depends entirely on OpEx automation rather than headcount expansion.",
+                "productivity": "Revenue per FTE reached €725.4K with gross profit per employee at €377.2K, converting digital lean transformation into compounding financial returns.",
+                "leverage": "Operating income scaled to €10.56B with an operating margin of 32.5%, demonstrating resilient operational execution across cyclical demand.",
+                "rd": "R&D commitment increased to €4.65B (14.3% of revenue) to advance 0.55 High-NA EUV commercialization and next-gen lithography.",
+                "growth": "Healthy business expansion with Revenue YoY (+15.0%) and GP YoY (+16.7%) significantly outstripping headcount growth (+1.0%).",
+                "breakdown": "Extreme Value-vs-Volume asymmetry: Cutting-edge EUV systems generate over 45% of total value with low unit volume, while DUV and M&I handle over 85% of physical factory logistics load."
+            },
+            "zh": {
+                "pivot": "全球員工人數在 2024 年後進入約 4.4 萬人高原期。達成 2030 年毛利率 56%-60% 目標完全取決於精益營運卓越（OpEx）與自動化人均產值拉升。",
+                "productivity": "人均營收達 €725.4K，人均毛利達 €377.2K，將數位精益轉型轉化為實質複利增長。",
+                "leverage": "營業利益擴張至 €10.56B，營業利益率維持於 32.5%，展現強韌的營運槓桿效應。",
+                "rd": "研發投入增至 €4.65B（佔營收 14.3%），全力推進 High-NA EUV (0.55 NA) 之商業化量產。",
+                "growth": "展現健康擴張特徵：營收成長 (+15.0%) 與毛利成長 (+16.7%) 遠高於員工人數增幅 (+1.0%)。",
+                "breakdown": "銷售結構不對稱性：尖端 EUV 以極少台數貢獻 45%+ 營收定海神針，而 DUV 與量測機台佔據工廠 85%+ 物流調試負荷。"
             }
         },
         "lean_maturity": {
@@ -76,6 +95,24 @@ BUILTIN_BENCHMARKS = {
                 "2025": {"value": [29500, 41300, 17700, 29500], "volume": [3200, 5100, 2700, 8500]}
             }
         },
+        "insights": {
+            "en": {
+                "pivot": "Workforce scaled to ~88,000 FTEs across global GigaFabs (Taiwan, Arizona, Kumamoto, Dresden). Gross margin sustained at 53%-59.6% driven by leading-edge pricing power and fab cluster utilization.",
+                "productivity": "Revenue per FTE reached over $1.34M/employee with Gross Profit per FTE at $784K, proving that advanced node ramp (N3/N2) and CoWoS packaging yield exponential headcount leverage.",
+                "leverage": "Operating income reached $53.1B with operating margins maintaining at an elite 45%, representing world-class pure-play foundry operating leverage.",
+                "rd": "R&D investments expanded to $7.9B (6.7% of revenue) to pioneer 2nm (N2/A16) nanosheet architectures and 3D silicon stacking (TSMC-SoIC).",
+                "growth": "Revenue YoY (+31.0%) and Operating Income YoY (+37.1%) significantly outpace headcount expansion (+6.0%), highlighting extreme fab automation efficiency.",
+                "breakdown": "Advanced nodes (3nm, 5nm, 7nm) generate over 75% of total wafer revenue, while mature & specialty nodes (16nm+) provide steady cash generation across industrial & automotive markets."
+            },
+            "zh": {
+                "pivot": "全球員工人數隨著台積電全球擴廠 (台灣/美國/日本/德國) 擴展至約 8.8 萬人。毛利率在先進製程定價權與超大晶圓廠群 (GigaFab) 規模效應下維持在 53%-59.6% 高檔。",
+                "productivity": "人均營收突破 $1.34M/人，人均毛利達 $784K/人，證明先進製程 (N3/N2) 與 CoWoS 先進封裝能實現極致人均產值槓桿。",
+                "leverage": "營業利益攀升至 $53.1B，營業利益率維持在 45% 的頂級水準，展現晶圓代工領域的世界級營運槓桿。",
+                "rd": "研發支出達 $7.9B（佔營收 6.7%），全面鞏固 2nm (N2/A16) 奈米片電晶體與 3D 矽堆疊 (TSMC-SoIC) 技術護城河。",
+                "growth": "營收成長 (+31.0%) 與營業利益成長 (+37.1%) 大幅超越人力增速 (+6.0%)，突顯全自動化晶圓廠 (OHT/APC) 的極致生產力。",
+                "breakdown": "先進製程 (3nm, 5nm, 7nm) 貢獻超過 75% 晶圓營收，成熟與特殊製程 (16nm+) 則提供車用與工控之龐大基礎出貨量。"
+            }
+        },
         "lean_maturity": {
             "current_level": 4,
             "levels": [
@@ -111,6 +148,24 @@ BUILTIN_BENCHMARKS = {
                 "2026": {"value": [158000, 13000, 3200, 2800], "volume": [1650, 3200, 440, 350]}
             }
         },
+        "insights": {
+            "en": {
+                "pivot": "Workforce grew modestly from 19k to 36k FTEs while revenue exploded by 10x+, driving GAAP gross margin to an unprecedented 75%-76%.",
+                "productivity": "Record-shattering productivity: Revenue per FTE exceeded $5.0M with Gross Profit per FTE above $3.75M, representing the highest human capital leverage in tech history.",
+                "leverage": "Operating margin expanded to 63%, converting AI infrastructure demand into pure operational profit flow.",
+                "rd": "R&D scale reached $16.0B (8.9% of revenue) powering annual silicon cadence across Hopper, Blackwell, and Rubin architectures.",
+                "growth": "Revenue YoY (+42.9%) and GP YoY (+41.0%) completely dwarf headcount additions (+12.5%).",
+                "breakdown": "Data Center Compute & Networking dominates with 87%+ of total value, transforming NVIDIA from a gaming hardware supplier into the world's AI computing platform."
+            },
+            "zh": {
+                "pivot": "員工人數僅由 1.9 萬人溫和增長至 3.6 萬人，營收卻爆炸性成長 10 倍以上，推動 GAAP 毛利率達到史無前例的 75%-76%。",
+                "productivity": "破紀錄的人均產值：人均營收突破 $5.0M/人，人均毛利超越 $3.75M/人，締造科技史上最高的人力資本槓桿。",
+                "leverage": "營業利益率擴張至 63%，將全球 AI 算力中心需求轉化為極致的現金流與營業利益。",
+                "rd": "研發支出規模達 $16.0B（佔營收 8.9%），支撐 Hopper、Blackwell 與 Rubin 一年一世代的極速產品迭代。",
+                "growth": "營收成長 (+42.9%) 與毛利成長 (+41.0%) 遠遠超越人力擴張 (+12.5%)。",
+                "breakdown": "資料中心運算與網路貢獻超過 87% 的總營收價值，使 NVIDIA 成功轉型為全球 AI 工廠計算平台。"
+            }
+        },
         "lean_maturity": {
             "current_level": 4,
             "levels": [
@@ -135,7 +190,6 @@ class FinancialMetricsExtractor:
         md_pattern = os.path.join(self.parsed_md_dir, ticker, "*.md")
         md_files = glob.glob(md_pattern)
 
-        # Start with built-in benchmark if available, otherwise build generic structure
         if ticker in BUILTIN_BENCHMARKS:
             metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS[ticker]))
         else:
@@ -146,7 +200,25 @@ class FinancialMetricsExtractor:
                 "unit": "$M",
                 "years": [],
                 "financials": {},
-                "sales_breakdown": {"categories": ["Core Business", "Secondary Line", "Services & Other"], "colors": ["#1E3A8A", "#3B82F6", "#F59E0B"], "data": {}},
+                "sales_breakdown": {"categories": ["Core Operations", "Secondary Segment", "Services & Other"], "colors": ["#1E3A8A", "#3B82F6", "#F59E0B"], "data": {}},
+                "insights": {
+                    "en": {
+                        "pivot": f"Workforce and margin dynamic analysis extracted from {ticker.upper()} audited annual reports.",
+                        "productivity": f"Human capital productivity (Revenue & Gross Profit per FTE) trend for {ticker.upper()}.",
+                        "leverage": f"Operating income expansion and margin trajectory across reporting periods.",
+                        "rd": f"R&D expenditure and technology reinvestment relative to revenue scale.",
+                        "growth": f"Triangulation of Revenue, Gross Profit, Operating Income, and Headcount YoY growth.",
+                        "breakdown": f"Segment disaggregation across product lines and operating business units."
+                    },
+                    "zh": {
+                        "pivot": f"{ticker.upper()} 歷年員工人數與毛利率走勢交叉審計。",
+                        "productivity": f"{ticker.upper()} 人均營收、人均毛利與人均營業利益生產力指標。",
+                        "leverage": f"{ticker.upper()} 營業利益與利潤率擴張走勢。",
+                        "rd": f"{ticker.upper()} 研發支出規模與佔營收比重分析。",
+                        "growth": f"{ticker.upper()} 營收、毛利、營業利益與人力年增率交叉比對。",
+                        "breakdown": f"{ticker.upper()} 各大業務板塊之銷售與出貨結構分拆。"
+                    }
+                },
                 "lean_maturity": {
                     "current_level": 3,
                     "levels": [
@@ -173,7 +245,6 @@ class FinancialMetricsExtractor:
                         metrics["years"].append(year)
                         metrics["years"].sort()
 
-                    # If not already present in financials, dynamically extract or estimate
                     if year_str not in metrics["financials"]:
                         fin = self.parse_text_for_financials(content, year)
                         if fin:
@@ -195,7 +266,6 @@ class FinancialMetricsExtractor:
     def parse_text_for_financials(content: str, year: int) -> Dict:
         """Heuristic financial extraction from Markdown text and tables"""
         fin = {}
-        # Try revenue patterns
         rev_match = re.search(r"(?:Consolidated revenue|Total net sales|Total revenue|Revenue).*?(?:NT\$|US\$|€|\$)?\s*([\d,]+(?:\.\d+)?)", content, re.I)
         if rev_match:
             try:
@@ -204,7 +274,6 @@ class FinancialMetricsExtractor:
             except Exception:
                 pass
 
-        # Try net income
         ni_match = re.search(r"(?:Net income|Net profit).*?(?:NT\$|US\$|€|\$)?\s*([\d,]+(?:\.\d+)?)", content, re.I)
         if ni_match:
             try:
@@ -213,7 +282,6 @@ class FinancialMetricsExtractor:
             except Exception:
                 pass
 
-        # Try gross margin
         gm_match = re.search(r"(?:Gross margin|Gross profit margin).*?([\d\.]+)\s*%", content, re.I)
         if gm_match:
             try:
@@ -221,7 +289,6 @@ class FinancialMetricsExtractor:
             except Exception:
                 pass
 
-        # Try headcount
         hc_match = re.search(r"(?:employees|headcount|Total headcount).*?([\d,]{4,6})", content, re.I)
         if hc_match:
             try:
@@ -229,7 +296,6 @@ class FinancialMetricsExtractor:
             except Exception:
                 pass
 
-        # Set sensible defaults if partial
         if "revenue" in fin:
             if "gross_margin" not in fin:
                 fin["gross_margin"] = 50.0

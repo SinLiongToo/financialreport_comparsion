@@ -315,6 +315,24 @@
       }
     }
   },
+  "insights": {
+    "en": {
+      "pivot": "Global workforce plateaued around 44,000 FTEs post-2024. Reaching the 2030 gross margin target of 56%-60% depends entirely on OpEx automation rather than headcount expansion.",
+      "productivity": "Revenue per FTE reached €725.4K with gross profit per employee at €377.2K, converting digital lean transformation into compounding financial returns.",
+      "leverage": "Operating income scaled to €10.56B with an operating margin of 32.5%, demonstrating resilient operational execution across cyclical demand.",
+      "rd": "R&D commitment increased to €4.65B (14.3% of revenue) to advance 0.55 High-NA EUV commercialization and next-gen lithography.",
+      "growth": "Healthy business expansion with Revenue YoY (+15.0%) and GP YoY (+16.7%) significantly outstripping headcount growth (+1.0%).",
+      "breakdown": "Extreme Value-vs-Volume asymmetry: Cutting-edge EUV systems generate over 45% of total value with low unit volume, while DUV and M&I handle over 85% of physical factory logistics load."
+    },
+    "zh": {
+      "pivot": "全球員工人數在 2024 年後進入約 4.4 萬人高原期。達成 2030 年毛利率 56%-60% 目標完全取決於精益營運卓越（OpEx）與自動化人均產值拉升。",
+      "productivity": "人均營收達 €725.4K，人均毛利達 €377.2K，將數位精益轉型轉化為實質複利增長。",
+      "leverage": "營業利益擴張至 €10.56B，營業利益率維持於 32.5%，展現強韌的營運槓桿效應。",
+      "rd": "研發投入增至 €4.65B（佔營收 14.3%），全力推進 High-NA EUV (0.55 NA) 之商業化量產。",
+      "growth": "展現健康擴張特徵：營收成長 (+15.0%) 與毛利成長 (+16.7%) 遠高於員工人數增幅 (+1.0%)。",
+      "breakdown": "銷售結構不對稱性：尖端 EUV 以極少台數貢獻 45%+ 營收定海神針，而 DUV 與量測機台佔據工廠 85%+ 物流調試負荷。"
+    }
+  },
   "lean_maturity": {
     "current_level": 3,
     "levels": [
