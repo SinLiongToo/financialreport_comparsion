@@ -1,104 +1,286 @@
-# 企業年度財報下載、PDF 轉 Markdown 與營運卓越 (OpEx) 戰略儀表板
+# 📊 企業年度財報下載、PDF 轉 Markdown 與營運卓越 (OpEx) 戰略儀表板
 
-本專案是一套模組化、**一步到位 (One-Click, End-to-End)** 的企業年度財務報告自動化工作流系統。專為半導體與高科技產業分析、營運卓越（OpEx）主管及財務戰略評估打造。
-
----
-
-## 🌟 核心功能特色
-
-1. **智能爬蟲與下載器 (`crawler.py`)**：
-   - 支援 CompaniesMarketCap 網址（如 `https://companiesmarketcap.com/asml/annual-reports-20f/`）或股票代碼（如 `ASML`, `TSMC`, `NVDA`, `NXP`）。
-   - 自動抓取歷史 20-F、10-K 或年度報告 PDF 列表。
-   - 使用者可自訂下載年數 $N$（如近 3 年、5 年、8 年、10 年）。
-   
-2. **PDF 轉 Markdown 結構化解析器 (`pdf_parser.py`)**：
-   - 採用 `fitz (PyMuPDF)` 與 `pdfplumber` 雙引擎。
-   - 保留章節層級（Header H1-H4）、正文段落，並將財務報表表格完整轉為 GitHub Markdown Table 格式。
-   - 產出檔案儲存於 `data/parsed_md/{ticker}/`，方便直接提供給大型語言模型（LLM）深入提問。
-
-3. **財務與人均產值指標抽取引擎 (`metrics_extractor.py`)**：
-   - 自動提取並計算：
-     - **基礎財務**：Revenue, Gross Profit, Gross Margin %, Operating Income, Net Income, R&D Expense.
-     - **人力與人均產值 (The Pivot)**：Total Headcount, Revenue per Employee, Gross Profit per Employee.
-     - **銷售結構不對稱性 (Value-vs-Volume)**：尖端產品（EUV）、主力產品（ArFi）、成熟產品（Other DUV）與檢測設備（M&I）之金額與出貨台數堆疊對比。
-     - **精益營運成熟度模型 (Lean Maturity Model)**：Level 1 到 Level 5 評級。
-
-4. **互動式 Web 戰略儀表板 (`app.py` / `templates/index.html`)**：
-   - **50/50 戰略對齊版面**：左側展示「人力高原與毛利率走勢」，右側展示「人均產值提升曲線」。
-   - **銷售結構雙面板圖表**：金額佔比 vs. 實體台數佔比。
-   - **Master 綜合數據表**：包含 YoY 增長率與利潤率。
-   - **線上 Markdown 預覽器**：在瀏覽器中直接預覽與複製已解析的 Markdown 內容。
+> **一步到位 (One-Click, End-to-End) 企業財務審計與精益營運戰略分析工作流**
+> 專為半導體與高科技產業分析師、高階經理人（JG 10+ / Director）、製造營運卓越（OpEx）主管打造的自動化軍火庫。
 
 ---
 
-## 📁 專案目錄結構
+## 📑 目錄
 
-```
+1. [專案緣起與核心價值](#-專案緣起與核心價值)
+2. [一步到位工作流架構 (Workflow Architecture)](#-一步到位工作流架構-workflow-architecture)
+3. [核心功能特色](#-核心功能特色)
+4. [專案目錄與檔案職責說明](#-專案目錄與檔案職責說明)
+5. [安裝與前置準備 (Installation)](#-安裝與前置準備-installation)
+6. [詳細使用指南 (Usage Guide)](#-詳細使用指南-usage-guide)
+   - [模式一：互動式 Web 儀表板 (推薦)](#模式一互動式-web-儀表板-推薦)
+   - [模式二：命令列 (CLI) 批次處理](#模式二命令列-cli-批次處理)
+7. [四大核心戰略分析框架](#-四大核心戰略分析框架)
+   - [1. 人力與毛利率黃金交叉點 (The Pivot)](#1-人力與毛利率黃金交叉點-the-pivot)
+   - [2. 人均產值量化指標 (Productivity Metrics)](#2-人均產值量化指標-productivity-metrics)
+   - [3. 銷售結構不對稱性 (Value-vs-Volume Paradox)](#3-銷售結構不對稱性-value-vs-volume-paradox)
+   - [4. 營運轉型成熟度模型 (Lean Maturity Model)](#4-營運轉型成熟度模型-lean-maturity-model)
+8. [如何搭配 Gemini / LLM 進行深度戰略產出](#-如何搭配-gemini--llm-進行深度戰略產出)
+9. [常見問題與故障排除 (FAQ)](#-常見問題與故障排除-faq)
+10. [最新修復與優化 (Change Log)](#-最新修復與優化-change-log)
+11. [Git History Log](#-git-history-log)
+
+---
+
+## 💡 專案緣起與核心價值
+
+在半導體與高科技巨頭（如 **ASML, TSMC, NVDA, NXP, AMAT**）的戰略評估或高階面試中，常見三大痛點：
+1. **資料收集瑣碎**：手動搜尋、下載歷年 20-F / 10-K 動輒數百頁的 PDF 耗時費力。
+2. **AI 無法直接吞吐厚重 PDF 表格**：傳統 PDF 轉換往往遺失表格結構，導致 LLM 讀取財務數據時產生幻覺或數字對不齊。
+3. **「財務歸財務、精益營運歸精益」的部門牆**：一般財務分析只看營收成長，忽略了**員工人數高原期（Headcount Plateau）**下的**人均產值**與**製造物流負荷（Volume Load）**。
+
+**本專案提供「一步到位」解法：**
+輸入任意公司的 CompaniesMarketCap 網址或股票代碼，系統自動完成 **「爬取 ➔ 下載 PDF ➔ 轉結構化 Markdown ➔ 抽取指標 ➔ 50/50 戰略儀表板視覺化」** 全自動閉環。
+
+---
+
+## 🔄 一步到位工作流架構 (Workflow Architecture)
+
+`mermaid
+flowchart TD
+    Start([使用者輸入目標<br/>例如: ASML, TSMC, NVDA 或網址]) --> Step1[1. AnnualReportCrawler<br/>智能爬蟲模組]
+    
+    subgraph S1 [階段一：爬取與下載]
+        Step1 --> FetchList[解析頁面 20-F / 10-K 列表]
+        FetchList --> DownloadPDF[下載 N 年官方審計 PDF 至 data/downloads/]
+    end
+    
+    subgraph S2 [階段二：PDF 高保真解析]
+        DownloadPDF --> Step2[2. PDFToMarkdownParser<br/>PyMuPDF + pdfplumber 雙引擎]
+        Step2 --> ExtractTable[提取章節階層與 GitHub Markdown 表格]
+        ExtractTable --> SaveMD[儲存 .md 檔至 data/parsed_md/]
+    end
+    
+    subgraph S3 [階段三：指標抽取與計算]
+        SaveMD --> Step3[3. FinancialMetricsExtractor<br/>財務與人均產值計算引擎]
+        Step3 --> CalcMetrics[計算 Revenue/GP/OI per Employee<br/>與 YoY % / Margin Diff]
+        CalcMetrics --> SaveJSON[產出結構化指標 data/metrics/*.json]
+    end
+    
+    subgraph S4 [階段四：戰略儀表板與 AI 對齊]
+        SaveJSON --> Step4[4. Web Dashboard (Flask + Plotly)<br/>50/50 戰略圖表與 Master KPI 表格]
+        SaveMD --> Step5[5. 線上 Markdown 預覽器<br/>一鍵複製給 Gemini/Claude Prompt]
+    end
+`
+
+---
+
+## ✨ 核心功能特色
+
+| 功能模組 | 功能描述 | 效益與價值 |
+| :--- | :--- | :--- |
+| **🌐 智能爬蟲 (crawler.py)** | 支援 CompaniesMarketCap 網址與純 Ticker 輸入，自動判斷 20-F/10-K/Annual Reports。 | 自動過濾重複下載、支援自訂年數 $（如近 3/5/8/10 年）。 |
+| **📑 PDF 轉 Markdown (pdf_parser.py)** | 結合 PyMuPDF（快速文字串流）與 pdfplumber（精準表格抽取）。 | 將財報內的損益表、資產負債表轉為標準 Markdown 表格，杜絕表格跑版。 |
+| **📐 指標抽取引擎 (metrics_extractor.py)** | 自動計算 Revenue per Employee、Gross Margin %、YoY 成長率與產品線分拆。 | 內建已審計基準庫，支援與新解析 Markdown 交叉驗證。 |
+| **🖥️ 互動式 Web Dashboard (pp.py)** | 現代化深色儀表板，整合 Plotly 互動圖表與 Master 綜合審計表格。 | 具備 50/50 戰略對齊版面、Value vs Volume 雙面板圖、CSV 一鍵匯出。 |
+| **📋 內建 AI 提示詞軍火庫 (.md)** | 隨附 ininacial_prompt.md、prompt_Financial Report.md、sale_breakdown.md。 | 將解析出的 Markdown 檔案直接餵給 Gemini，5 分鐘產出高階簡報。 |
+
+---
+
+## 📁 專案目錄與檔案職責說明
+
+`
 FINICIAL ANNUAL REPORT DOWNLOAD TO MD_dashboard/
-├── crawler.py           # 爬蟲模組：爬取 companiesmarketcap 財報列表並下載 PDF
-├── pdf_parser.py        # 解析模組：將 PDF 轉為結構化 Markdown (包含表格排版)
-├── metrics_extractor.py # 指標模組：自 MD 提取財務數據、人均產值與產品分拆
-├── workflow.py          # 工作流模組：串接爬蟲、解析、指標提取之一步到位核心
-├── app.py               # Web 伺服器：Flask 後端 REST API
-├── main.py              # CLI 入口與快速啟動腳本
-├── templates/
-│   └── index.html       # 戰略儀表板前端頁面 (Plotly + TailwindCSS)
-├── static/
-│   ├── css/style.css    # 樣式表
-│   └── js/dashboard.js  # Plotly 互動圖表與非同步工作流邏輯
-├── data/
-│   ├── downloads/       # 下載的原始 PDF 存放區
-│   ├── parsed_md/       # 轉換後的 Markdown 檔案
-│   └── metrics/         # 結構化 JSON 指標數據
-├── fininacial_prompt.md # 財務與營運卓越萬用分析 Prompt
-├── prompt_Financial Report.md # 深度半導體財報審計 Prompt
-└── sale_breakdown.md    # 銷售結構不對稱性分析 Prompt
-```
+├── 📄 crawler.py              # 爬蟲模組：負責向 CompaniesMarketCap 抓取財報清單並下載 PDF
+├── 📄 pdf_parser.py           # 解析模組：將 PDF 檔案轉換為結構化 Markdown（保留標題與表格）
+├── 📄 metrics_extractor.py    # 指標模組：自 Markdown/數據中計算人均產值、利潤率與銷售分拆
+├── 📄 workflow.py             # 核心工作流：串接下載、解析、指標計算之「一步到位」引擎
+├── 📄 app.py                  # Web 伺服器：基於 Flask 提供 RESTful API 與 Dashboard 路由
+├── 📄 main.py                 # CLI 命令列入口與快速啟動腳本
+├── 📄 requirements.txt        # 專案 Python 依賴套件清單
+├── 📁 templates/
+│   └── 📄 index.html          # 前端儀表板 HTML（整合 TailwindCSS, Plotly, FontAwesome）
+├── 📁 static/
+│   ├── 📁 css/
+│   │   └── 📄 style.css       # 儀表板自訂捲軸與視覺樣式
+│   └── 📁 js/
+│       └── 📄 dashboard.js    # 前端邏輯：非同步 API 呼叫、Plotly 圖表渲染、Markdown 預覽
+├── 📁 data/                   # 數據存放目錄 (依公司分類)
+│   ├── 📁 downloads/          # 下載的原始 20-F / 10-K PDF 檔案存放區 (例如: data/downloads/asml/)
+│   ├── 📁 parsed_md/          # 轉換後的 Markdown 檔案存放區 (例如: data/parsed_md/asml/)
+│   └── 📁 metrics/            # 提取後的結構化 JSON 指標數據 (例如: data/metrics/asml_metrics.json)
+├── 📄 fininacial_prompt.md    # 萬用企業「營運卓越與財務戰略」雙合一 Prompt 範本
+├── 📄 prompt_Financial Report.md # 深度半導體財報審計與人均產值分析 Prompt
+└── 📄 sale_breakdown.md       # 銷售結構不對稱性 (Value-vs-Volume) 深度分析與視覺化 Prompt
+`
 
 ---
 
-## 🚀 快速開始 (Quick Start)
+## 💻 安裝與前置準備 (Installation)
 
-### 1. 安裝必要依賴套件
+### 1. 環境需求
+* **Python**: 3.9 或以上版本
+* **作業系統**: Windows 10/11, macOS, Linux
 
-```bash
-pip install flask pymupdf pdfplumber beautifulsoup4 pandas
-```
+### 2. 安裝依賴套件
+在專案根目錄開啟終端機（PowerShell 或 Terminal），執行：
 
-### 2. 一鍵啟動 Web 儀表板
+`ash
+pip install -r requirements.txt
+`
 
-```bash
+*(主要套件包含：lask, pymupdf, pdfplumber, eautifulsoup4, pandas, plotly)*
+
+---
+
+## 🚀 詳細使用指南 (Usage Guide)
+
+### 模式一：互動式 Web 儀表板 (推薦)
+
+#### 步驟 1：啟動伺服器
+`ash
 python main.py --serve
-```
-開啟瀏覽器訪問 `http://127.0.0.1:5000` 即可使用圖形化介面執行一步到位工作流！
+`
+終端機會顯示：
+`
+🚀 Starting Web Dashboard on http://127.0.0.1:5000...
+`
 
-### 3. 命令列 (CLI) 操作方式
+#### 步驟 2：開啟瀏覽器訪問
+打開瀏覽器進入：**http://127.0.0.1:5000**
 
-- **下載並解析 ASML 近 5 年財報**：
-  ```bash
+#### 步驟 3：圖形化介面操作三步驟
+1. **輸入目標**：
+   - 貼上 CompaniesMarketCap 網址（例如：https://companiesmarketcap.com/asml/annual-reports-20f/）
+   - 或直接輸入公司代號（例如：ASML、TSMC、NVDA、NXP）。
+2. **選擇年數**：下拉選單選擇欲分析的年數（預設近 5 年，可選 3/5/8/10 年）。
+3. **點擊「立即執行一步到位工作流」**：
+   - 系統將在背景自動完成：**下載 PDF ➔ 解析成 Markdown ➔ 抽取指標 ➔ 更新所有圖表**。
+   - 進度條即時顯示各階段完成百分比。
+
+#### 步驟 4：儀表板視覺化瀏覽
+* **頂部 KPI 卡片**：即時呈現最新營收、YoY 成長率、毛利率、員工人數與人均營收。
+* **50/50 戰略對齊圖**：
+  * **左側**：員工人數高原曲線 vs. 毛利率走勢。
+  * **右側**：人均營收 (Revenue/FTE) 與人均毛利 (Gross Profit/FTE) 趨勢。
+* **Value vs. Volume 銷售結構雙面板圖**：左邊為產品金額佔比，右邊為出貨實體台數。
+* **Master 財務數據表**：點擊右上角「匯出 CSV」可下載結構化表格。
+* **Markdown 即時預覽器**：左側點選解析後的 .md 檔案，右側即時檢視全文，並提供一鍵「複製 Markdown」按鈕。
+
+---
+
+### 模式二：命令列 (CLI) 批次處理
+
+適合需要批次下載或無介面伺服器環境執行：
+
+#### 基本語法
+`ash
+python main.py [--ticker TARGET] [--years N] [--max-pages P] [--serve] [--port PORT]
+`
+
+#### 參數說明
+| 參數名稱 | 縮寫 | 預設值 | 說明 |
+| :--- | :--- | :--- | :--- |
+| --ticker | -t | ASML 網址 | 目標公司代號或 CompaniesMarketCap URL |
+| --years | -n | 5 | 欲下載與解析的歷史財報年數 $ |
+| --max-pages | | 40 | 每一份 PDF 轉換為 Markdown 的最大頁數（避免轉換非必要附錄） |
+| --serve | -s | False | 啟動 Web 儀表板伺服器模式 |
+| --port | -p | 5000 | Web 伺服器連接埠 |
+
+#### CLI 使用範例
+
+- **範例 1：一鍵下載並解析 ASML 近 5 年 20-F 財報**
+  `ash
   python main.py --ticker https://companiesmarketcap.com/asml/annual-reports-20f/ --years 5
-  ```
-- **下載並解析指定公司代碼 (例如 TSMC / NVDA / NXP)**：
-  ```bash
+  `
+
+- **範例 2：下載台積電 (TSMC) 近 3 年年報**
+  `ash
   python main.py --ticker tsmc --years 3
-  ```
+  `
+
+- **範例 3：以自訂 Port 8080 啟動 Web 儀表板**
+  `ash
+  python main.py --serve --port 8080
+  `
+
+---
+
+## 🧠 四大核心戰略分析框架
+
+本專案不僅僅是爬蟲工具，背後封裝了高階主管評估半導體與製造巨頭的四大戰略框架：
+
+### 1. 人力與毛利率黃金交叉點 (The Pivot)
+* **核心理論**：當企業規模擴大到一定程度，員工人數會進入高原期（如 ASML 在 2024 年後維持在約 4.4 萬人）。
+* **戰略解讀**：若未來毛利率目標要拉升至 56%-60%，「靠塞人拉產能」的時代已結束，成長動能完全轉移至**自動化流程**與**精益營運卓越（OpEx）**。
+
+### 2. 人均產值量化指標 (Productivity Metrics)
+* **計算公式**：
+  	ext{Revenue per Employee} = rac{	ext{總營收 (Revenue)}}{	ext{期末員工總數 (Headcount)}}
+  	ext{Gross Profit per Employee} = rac{	ext{毛利 (Gross Profit)}}{	ext{期末員工總數 (Headcount)}}
+* **戰略解讀**：將製造廠的數位轉型（如 CPK 自動監控、n8n 流程自動化）直接量化為人均毛利增長，證明精益專案的財務回報。
+
+### 3. 銷售結構不對稱性 (Value-vs-Volume Paradox)
+* **核心維度**：
+  * **價值維度 (Value %)**：尖端產品（如 EUV）台數極少，卻貢獻 45%+ 的營收，為毛利定海神針。
+  * **數量維度 (Volume %)**：量測與成熟機台（M&I / DUV）台數龐大，佔據工廠 90% 的物流與調試負荷。
+* **戰略解讀**：工廠必須採取「雙軌精益戰略（Dual-Track Lean）」── 尖端機台主打「首檢即對（First Time Right）」，成熟機台主打「消滅搬運與等待浪費（Muda）」。
+
+### 4. 營運轉型成熟度模型 (Lean Maturity Model)
+* **Level 1 (Idling & Reactive)**：資料孤島、被動救火、報表手動填寫。
+* **Level 2 (Standardized)**：基礎 5S、標準作業程序 (SOP)、異常追蹤。
+* **Level 3 (Accelerating)**：流程數位化、Python/n8n 自動追蹤、跨廠區數據對齊。
+* **Level 4 (Predictive & Agile)**：AI 即時良率預測、自動回饋控制、零 Muda。
+* **Level 5 (Full Throttle Excellence)**：世界級標竿營運，每日持續改善複利：1.01^{365} = 37.8	imes$。
+
+---
+
+## 🤖 如何搭配 Gemini / LLM 進行深度戰略產出
+
+當工作流將 PDF 解析為 Markdown 後，您可按照以下步驟在 5 分鐘內生成頂級分析簡報：
+
+1. **開啟 Web 儀表板**，於下方「解析產出 Markdown 檔案瀏覽器」點擊目標檔案（例如 ASML_2025_20-F.md），點選 **「複製 Markdown」**。
+2. **打開 Gemini / Claude / ChatGPT**。
+3. **複製本專案隨附的 Prompt**：
+   - 財務與人均產值全方位分析 ➔ 複製 [ininacial_prompt.md](file:///c:/Users/tu-hs/OneDrive/%E6%96%87%E4%BB%B6/2022_0308_MASA/2022-0708/Projects_antigravity/FINICIAL%20ANNUAL%20REPORT%20DOWNLOAD%20TO%20MD_dashboard/fininacial_prompt.md)
+   - 半導體製造細節審計 ➔ 複製 [prompt_Financial Report.md](file:///c:/Users/tu-hs/OneDrive/%E6%96%87%E4%BB%B6/2022_0308_MASA/2022-0708/Projects_antigravity/FINICIAL%20ANNUAL%20REPORT%20DOWNLOAD%20TO%20MD_dashboard/prompt_Financial%20Report.md)
+   - 產品線銷售不對稱性分析 ➔ 複製 [sale_breakdown.md](file:///c:/Users/tu-hs/OneDrive/%E6%96%87%E4%BB%B6/2022_0308_MASA/2022-0708/Projects_antigravity/FINICIAL%20ANNUAL%20REPORT%20DOWNLOAD%20TO%20MD_dashboard/sale_breakdown.md)
+4. 將剛才複製的 Markdown 內容貼入 Prompt 中的「輸入資料來源」區塊，即可直接獲得：
+   - 專業產業評論（Industry Commentary）
+   - 16:9 簡報視覺草圖規劃
+   - 60 秒高階面試英文口說講稿（Executive Pitch）
+
+---
+
+## ❓ 常見問題與故障排除 (FAQ)
+
+**Q1：下載時出現逾時或連線失敗？**
+- 答：crawler.py 已內建 User-Agent 偽裝與 60 秒 Timeout 機制。若目標伺服器連線繁忙，可重試一次或直接將手動下載的 PDF 放置於 data/downloads/{ticker}/ 目錄下，系統會自動辨識並進行 Markdown 轉換。
+
+**Q2：財報頁數太多（如 300 頁），轉換 Markdown 會很久嗎？**
+- 答：預設 --max-pages 設定為 40-50 頁（已涵蓋核心財務報表、業務分拆與員工數據章節）。如需全文轉換，可在 CLI 傳入 --max-pages 300 或設為 None。
+
+**Q3：如何新增其他公司的自訂數據或產品分拆？**
+- 答：可在 metrics_extractor.py 中的 BUILTIN_BENCHMARKS 字典內新增該公司的歷年數據與產品分類顏色，系統將自動套用至儀表板。
 
 ---
 
 ## 📝 最新修復與優化 (Change Log)
 
+- **v1.1.0 (2026-08-24)**：
+  - 深度擴充與優化 README.md 說明文件，增補系統架構圖 (Mermaid)、四大人均產值戰略框架、完整 CLI 參數表、圖形化操作指南與 FAQ。
+  - 新增 
+equirements.txt 依賴管理檔案，簡化環境安裝流程。
+  - 優化 Markdown 解析器之表格排版格式，確保與各類大型語言模型 (LLM) 提示詞完美對齊。
+
 - **v1.0.0 (2026-08-24)**：
   - 建立專案 Git 版本控制與標準目錄架構。
-  - 完成 `AnnualReportCrawler`：支援 CompaniesMarketCap 20-F / 10-K / Annual Reports 列表自動抓取與防重試下載機制。
-  - 完成 `PDFToMarkdownParser`：結合 PyMuPDF 與 pdfplumber 進行高保真表格抽取與章節排版。
-  - 完成 `FinancialMetricsExtractor`：內建 ASML 歷史審計基準資料庫與人均產值計算公式。
-  - 完成 `AnnualReportWorkflow`：提供一鍵式「下載 ➔ 轉 MD ➔ 算指標 ➔ 產出 Dashboard」全流程。
+  - 完成 AnnualReportCrawler：支援 CompaniesMarketCap 20-F / 10-K / Annual Reports 列表自動抓取與防重試下載機制。
+  - 完成 PDFToMarkdownParser：結合 PyMuPDF 與 pdfplumber 進行高保真表格抽取與章節排版。
+  - 完成 FinancialMetricsExtractor：內建 ASML 歷史審計基準資料庫與人均產值計算公式。
+  - 完成 AnnualReportWorkflow：提供一鍵式「下載 ➔ 轉 MD ➔ 算指標 ➔ 產出 Dashboard」全流程。
   - 完成現代化 Web Dashboard 介面（50/50 戰略對齊視圖、Value-vs-Volume 對比圖、Master KPI 表格與 Markdown 即時預覽器）。
 
 ---
 
 ## 📜 Git History Log
 
-```
+`
+* commit v1.1.0 - docs: expand comprehensive documentation, workflow architecture, usage guides, and requirements
 * commit v1.0.0 - feat: initialize financial annual report crawler, pdf-to-markdown parser and strategic OpEx dashboard workflow
-```
+`
