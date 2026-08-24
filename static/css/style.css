@@ -1,15 +1,125 @@
-/* Custom Style Tweaks for Financial Dashboard */
+/* style.css - Custom Theme & Layout Styles */
+
+/* Custom Scrollbar */
 ::-webkit-scrollbar {
     width: 6px;
     height: 6px;
 }
 ::-webkit-scrollbar-track {
-    background: #0f172a;
+    background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-    background: #334155;
-    border-radius: 3px;
+    background: #475569;
+    border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #475569;
+    background: #64748b;
+}
+
+/* Transitions */
+body, header, section, div, table, th, td, pre, button, select, input {
+    transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease;
+}
+
+/* ========================================================================= */
+/* LIGHT THEME OVERRIDES (Triggered when body has .light-theme class)         */
+/* ========================================================================= */
+body.light-theme {
+    background-color: #f8fafc !important;
+    color: #1e293b !important;
+}
+
+body.light-theme header {
+    background-color: #ffffff !important;
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme header .bg-slate-800\/90 {
+    background-color: #ffffff !important;
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme section,
+body.light-theme .bg-slate-800,
+body.light-theme .bg-slate-800\/80,
+body.light-theme .bg-slate-800\/90 {
+    background-color: #ffffff !important;
+    border-color: #e2e8f0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05) !important;
+}
+
+body.light-theme .bg-slate-900,
+body.light-theme .bg-slate-900\/60,
+body.light-theme .bg-slate-900\/80,
+body.light-theme .bg-slate-900\/90 {
+    background-color: #f1f5f9 !important;
+    border-color: #cbd5e1 !important;
+    color: #0f172a !important;
+}
+
+body.light-theme .border-slate-700,
+body.light-theme .border-slate-700\/60,
+body.light-theme .border-slate-700\/80,
+body.light-theme .border-slate-600 {
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme .text-slate-100,
+body.light-theme .text-slate-200,
+body.light-theme .text-white {
+    color: #0f172a !important;
+}
+
+body.light-theme .text-slate-300 {
+    color: #334155 !important;
+}
+
+body.light-theme .text-slate-400 {
+    color: #64748b !important;
+}
+
+body.light-theme .text-slate-500 {
+    color: #94a3b8 !important;
+}
+
+body.light-theme input,
+body.light-theme select {
+    background-color: #ffffff !important;
+    border-color: #cbd5e1 !important;
+    color: #0f172a !important;
+}
+
+body.light-theme table thead {
+    background-color: #f8fafc !important;
+    color: #475569 !important;
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme table tbody tr {
+    border-color: #f1f5f9 !important;
+}
+
+body.light-theme table tbody tr:hover {
+    background-color: #f8fafc !important;
+}
+
+body.light-theme #helpModal .bg-slate-800 {
+    background-color: #ffffff !important;
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme #helpModal .bg-slate-850 {
+    background-color: #f8fafc !important;
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme #helpModal .bg-slate-900\/60 {
+    background-color: #f8fafc !important;
+    border-color: #e2e8f0 !important;
+}
+
+body.light-theme pre {
+    background-color: #f8fafc !important;
+    color: #1e293b !important;
+    border-color: #e2e8f0 !important;
 }

@@ -10,6 +10,7 @@
  */
 
 let CURRENT_LANGUAGE = "en";
+let CURRENT_THEME = localStorage.getItem("app_theme") || "dark";
 let GLOBAL_METRICS_DATA = null;
 let COMPARISON_DATA = null;
 let ACTIVE_VIEW = "single"; // "single" | "compare"
@@ -32,6 +33,8 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
         btn_user_guide: "User Guide & Help",
+        theme_light: "Light",
+        theme_dark: "Dark",
         btn_refresh: "Reload",
         tab_single_view: "Single Company Deep Dive",
         tab_compare_view: "Multi-Company Peer Comparison",
@@ -92,6 +95,8 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
         btn_user_guide: "使用說明與指南 (Help)",
+        theme_light: "明亮模式",
+        theme_dark: "暗黑模式",
         btn_refresh: "重新載入",
         tab_single_view: "單一公司深入分析",
         tab_compare_view: "多公司橫向對比模組",
@@ -155,12 +160,49 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function initDashboard() {
+    applyTheme(CURRENT_THEME);
     setupEventListeners();
+    setupThemeToggle();
     setupTabs();
     setupHelpModal();
     applyLanguage(CURRENT_LANGUAGE);
     await loadCompaniesList();
     await loadDashboardData();
+}
+
+function applyTheme(theme) {
+    CURRENT_THEME = theme;
+    localStorage.setItem("app_theme", theme);
+    const body = document.body;
+    const icon = document.getElementById("themeIcon");
+    const label = document.getElementById("themeLabel");
+
+    if (theme === "light") {
+        body.classList.add("light-theme");
+        if (icon) icon.className = "fa-solid fa-moon text-indigo-400";
+        if (label) label.textContent = CURRENT_LANGUAGE === "zh" ? "暗黑模式" : "Dark";
+    } else {
+        body.classList.remove("light-theme");
+        if (icon) icon.className = "fa-solid fa-sun text-amber-300";
+        if (label) label.textContent = CURRENT_LANGUAGE === "zh" ? "明亮模式" : "Light";
+    }
+
+    // Re-render active charts with updated theme colors if data exists
+    if (GLOBAL_METRICS_DATA && ACTIVE_VIEW === "single") {
+        renderCharts(GLOBAL_METRICS_DATA);
+    } else if (COMPARISON_DATA && ACTIVE_VIEW === "compare") {
+        renderComparisonView(COMPARISON_DATA);
+    }
+}
+
+function setupThemeToggle() {
+    const btn = document.getElementById("themeToggleBtn");
+    if (btn) {
+        btn.addEventListener("click", () => {
+            const nextTheme = CURRENT_THEME === "dark" ? "light" : "dark";
+            applyTheme(nextTheme);
+        });
+    }
 }
 
 function setupTabs() {
@@ -424,10 +466,14 @@ function renderCharts(data) {
     const unit = data.unit || "$M";
     const currSym = unit.includes("€") ? "€" : "$";
 
+    const isLight = CURRENT_THEME === "light";
+    const fontColor = isLight ? "#475569" : "#94a3b8";
+    const gridColor = isLight ? "#e2e8f0" : "#334155";
+
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: "#94a3b8", size: 11 },
+        font: { color: fontColor, size: 11 },
         margin: { l: 45, r: 45, t: 30, b: 35 },
         hovermode: "x unified",
         legend: { orientation: "h", y: 1.15, x: 0, font: { size: 10 } }
@@ -448,7 +494,7 @@ function renderCharts(data) {
     };
     Plotly.newPlot("chartInflection", [trace1_1, trace1_2], {
         ...commonLayout,
-        yaxis: { title: "Headcount (FTE)", showgrid: true, gridcolor: "#334155", autorange: true },
+        yaxis: { title: "Headcount (FTE)", showgrid: true, gridcolor: gridColor, autorange: true },
         yaxis2: { title: "Gross Margin %", overlaying: "y", side: "right", showgrid: false, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
@@ -463,7 +509,7 @@ function renderCharts(data) {
 
     Plotly.newPlot("chartProductivity", [trace2_1, trace2_2, trace2_3], {
         ...commonLayout,
-        yaxis: { title: `Productivity (k${currSym} / FTE)`, showgrid: true, gridcolor: "#334155", autorange: true, tickprefix: currSym }
+        yaxis: { title: `Productivity (k${currSym} / FTE)`, showgrid: true, gridcolor: gridColor, autorange: true, tickprefix: currSym }
     }, { responsive: true, displayModeBar: false });
 
     // Chart 3: Operating Profitability & Leverage
@@ -478,7 +524,7 @@ function renderCharts(data) {
     Plotly.newPlot("chartProfitability", [trace3_1, trace3_2, trace3_3], {
         ...commonLayout,
         barmode: "group",
-        yaxis: { title: `Profit (${unit})`, showgrid: true, gridcolor: "#334155", autorange: true },
+        yaxis: { title: `Profit (${unit})`, showgrid: true, gridcolor: gridColor, autorange: true },
         yaxis2: { title: "Op Margin %", overlaying: "y", side: "right", showgrid: false, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
@@ -491,7 +537,7 @@ function renderCharts(data) {
 
     Plotly.newPlot("chartRdIntensity", [trace4_1, trace4_2], {
         ...commonLayout,
-        yaxis: { title: `R&D (${unit})`, showgrid: true, gridcolor: "#334155", autorange: true },
+        yaxis: { title: `R&D (${unit})`, showgrid: true, gridcolor: gridColor, autorange: true },
         yaxis2: { title: "R&D % of Rev", overlaying: "y", side: "right", showgrid: false, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
@@ -509,7 +555,7 @@ function renderCharts(data) {
 
     Plotly.newPlot("chartGrowthDynamics", [trace5_1, trace5_2, trace5_3, trace5_4], {
         ...commonLayout,
-        yaxis: { title: "Growth Rate (%)", showgrid: true, gridcolor: "#334155", autorange: true, ticksuffix: "%" }
+        yaxis: { title: "Growth Rate (%)", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
     // Chart 6: Value vs Volume Sales Breakdown
@@ -545,9 +591,9 @@ function renderCharts(data) {
         grid: { rows: 1, columns: 2, pattern: "independent" },
         barmode: "stack",
         xaxis: { domain: [0, 0.46], title: `Value (${unit})` },
-        yaxis: { title: unit, showgrid: true, gridcolor: "#334155", autorange: true },
+        yaxis: { title: unit, showgrid: true, gridcolor: gridColor, autorange: true },
         xaxis2: { domain: [0.54, 1.0], title: "Volume (Units / Systems)" },
-        yaxis2: { title: "Units / Systems", showgrid: true, gridcolor: "#334155", autorange: true }
+        yaxis2: { title: "Units / Systems", showgrid: true, gridcolor: gridColor, autorange: true }
     };
 
     Plotly.newPlot("chartSalesBreakdown", [...tracesValue, ...tracesVolume], layout6, { responsive: true, displayModeBar: false });
@@ -650,10 +696,14 @@ function renderComparisonView(companiesData) {
     const tickers = Object.keys(companiesData);
     if (tickers.length === 0) return;
 
+    const isLight = CURRENT_THEME === "light";
+    const fontColor = isLight ? "#475569" : "#94a3b8";
+    const gridColor = isLight ? "#e2e8f0" : "#334155";
+
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: "#94a3b8", size: 11 },
+        font: { color: fontColor, size: 11 },
         margin: { l: 45, r: 45, t: 30, b: 35 },
         hovermode: "x unified",
         legend: { orientation: "h", y: 1.15, x: 0, font: { size: 10 } }
@@ -673,7 +723,7 @@ function renderComparisonView(companiesData) {
 
     Plotly.newPlot("chartCompareGM", tracesGM, {
         ...commonLayout,
-        yaxis: { title: "Gross Margin %", showgrid: true, gridcolor: "#334155", autorange: true, ticksuffix: "%" }
+        yaxis: { title: "Gross Margin %", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
     // 2. Chart B: Rev & GP per FTE
@@ -690,7 +740,7 @@ function renderComparisonView(companiesData) {
 
     Plotly.newPlot("chartCompareProductivity", tracesProductivity, {
         ...commonLayout,
-        yaxis: { title: "Rev / FTE ($k)", showgrid: true, gridcolor: "#334155", autorange: true, tickprefix: "$" }
+        yaxis: { title: "Rev / FTE ($k)", showgrid: true, gridcolor: gridColor, autorange: true, tickprefix: "$" }
     }, { responsive: true, displayModeBar: false });
 
     // 3. Chart C: Operating Margin %
@@ -707,7 +757,7 @@ function renderComparisonView(companiesData) {
 
     Plotly.newPlot("chartCompareOpMargin", tracesOpMargin, {
         ...commonLayout,
-        yaxis: { title: "Operating Margin %", showgrid: true, gridcolor: "#334155", autorange: true, ticksuffix: "%" }
+        yaxis: { title: "Operating Margin %", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
     // 4. Chart D: R&D Intensity % of Revenue
@@ -724,7 +774,7 @@ function renderComparisonView(companiesData) {
 
     Plotly.newPlot("chartCompareRD", tracesRD, {
         ...commonLayout,
-        yaxis: { title: "R&D % of Rev", showgrid: true, gridcolor: "#334155", autorange: true, ticksuffix: "%" }
+        yaxis: { title: "R&D % of Rev", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
     // 5. Render Comparison Master Table
