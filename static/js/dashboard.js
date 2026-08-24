@@ -500,8 +500,8 @@ function renderCharts(data) {
     const currSym = unit.includes("€") ? "€" : "$";
 
     const isLight = CURRENT_THEME === "light";
-    const fontColor = isLight ? "#475569" : "#94a3b8";
-    const gridColor = isLight ? "#e2e8f0" : "#334155";
+    const fontColor = isLight ? "#1e293b" : "#94a3b8";
+    const gridColor = isLight ? "#cbd5e1" : "#334155";
 
     // Chronologically sort years / quarters
     const sortedYears = [...years].map(String).sort((a, b) => {
@@ -752,8 +752,8 @@ function renderComparisonView(companiesData) {
     if (tickers.length === 0) return;
 
     const isLight = CURRENT_THEME === "light";
-    const fontColor = isLight ? "#475569" : "#94a3b8";
-    const gridColor = isLight ? "#e2e8f0" : "#334155";
+    const fontColor = isLight ? "#1e293b" : "#94a3b8";
+    const gridColor = isLight ? "#cbd5e1" : "#334155";
 
     // 1. Extract & Chronologically sort all unique periods across all selected companies
     const allPeriodsSet = new Set();
