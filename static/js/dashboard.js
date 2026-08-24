@@ -164,6 +164,7 @@ async function loadCompanyList() {
             if (comp === "ASML") opt.textContent = "ASML Holding N.V.";
             else if (comp === "TSMC") opt.textContent = "TSMC (2330 / TSM)";
             else if (comp === "NVDA") opt.textContent = "NVIDIA Corporation";
+            else if (comp === "NXP" || comp === "NXP-SEMICONDUCTORS" || comp === "NXPI") opt.textContent = "NXP Semiconductors (NXPI)";
             else if (comp === "VSH" || comp === "VISHAY-INTERTECHNOLOGY") opt.textContent = "Vishay Intertechnology (VSH)";
             else opt.textContent = comp;
             select.appendChild(opt);

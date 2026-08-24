@@ -40,7 +40,7 @@ def get_companies():
                 canonical_set.add(FinancialMetricsExtractor.canonical_ticker(item).upper())
 
     # Map NVDA to NVIDIA display value if desired, but keep clean list
-    ordered_priority = ["ASML", "TSMC", "NVDA"]
+    ordered_priority = ["ASML", "TSMC", "NVDA", "NXP", "VSH"]
     final_list = [c for c in ordered_priority if c in canonical_set]
     for c in sorted(canonical_set):
         if c not in final_list:
