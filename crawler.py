@@ -12,6 +12,26 @@ from typing import List, Dict, Optional, Tuple, Callable
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
+
+TICKER_SLUGS = {
+    "nvda": ["nvidia", "nvda"],
+    "nvidia": ["nvidia", "nvda"],
+    "tsmc": ["taiwan-semiconductor-manufacturing", "tsmc", "2330"],
+    "2330": ["taiwan-semiconductor-manufacturing", "tsmc"],
+    "asml": ["asml"],
+    "nxp": ["nxp-semiconductors", "nxp", "nxpi"],
+    "nxpi": ["nxp-semiconductors", "nxp", "nxpi"],
+    "nxp-semiconductors": ["nxp-semiconductors", "nxp"],
+    "vsh": ["vishay-intertechnology", "vishay", "vsh"],
+    "vishay": ["vishay-intertechnology", "vishay", "vsh"],
+    "vishay-intertechnology": ["vishay-intertechnology", "vishay", "vsh"],
+    "amd": ["advanced-micro-devices", "amd"],
+    "intc": ["intel", "intc"],
+    "intel": ["intel", "intc"],
+    "qcom": ["qualcomm", "qcom"],
+    "qualcomm": ["qualcomm", "qcom"]
+}
+
 class AnnualReportCrawler:
     BASE_URL = "https://companiesmarketcap.com"
 
@@ -45,17 +65,23 @@ class AnnualReportCrawler:
         return ticker, "annual-reports"
 
     def get_report_urls(self, ticker: str, preferred_type: Optional[str] = None) -> List[str]:
-        """Generate candidate URLs for fetching annual reports"""
+        """Generate candidate URLs for fetching reports with slug resolution"""
         candidates = []
-        if preferred_type:
-            candidates.append(f"{self.BASE_URL}/{ticker}/{preferred_type}/")
-        # Add common variants
-        candidates.extend([
-            f"{self.BASE_URL}/{ticker}/annual-reports-20f/",
-            f"{self.BASE_URL}/{ticker}/annual-reports/",
-            f"{self.BASE_URL}/{ticker}/annual-reports-10k/"
-        ])
-        # Deduplicate
+        slugs = TICKER_SLUGS.get(ticker.lower(), [ticker.lower()])
+        
+        for slug in slugs:
+            if preferred_type:
+                candidates.append(f"{self.BASE_URL}/{slug}/{preferred_type}/")
+            
+            # Add common variants (both annual and quarterly)
+            candidates.extend([
+                f"{self.BASE_URL}/{slug}/quarterly-reports-10q/",
+                f"{self.BASE_URL}/{slug}/quarterly-reports/",
+                f"{self.BASE_URL}/{slug}/annual-reports-20f/",
+                f"{self.BASE_URL}/{slug}/annual-reports/",
+                f"{self.BASE_URL}/{slug}/annual-reports-10k/"
+            ])
+            
         seen = set()
         unique = []
         for url in candidates:

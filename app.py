@@ -4,7 +4,7 @@ app.py - Interactive Web Dashboard & API Server for Financial & OpEx Annual Repo
 import os
 import json
 import glob
-from flask import Flask, render_template, request, jsonify, send_file
+from flask import Flask, render_template, request, jsonify, Response, stream_with_context, send_file
 from workflow import AnnualReportWorkflow
 from metrics_extractor import FinancialMetricsExtractor, BUILTIN_BENCHMARKS, TICKER_ALIASES
 
@@ -54,6 +54,57 @@ def get_metrics(ticker):
     freq = request.args.get("freq", "annual").lower()
     data = extractor.get_metrics(ticker, freq=freq)
     return jsonify(data)
+
+
+@app.route("/api/run-workflow-stream", methods=["GET"])
+def run_workflow_stream():
+    """Real-time SSE progress stream for one-click workflow execution"""
+    target = request.args.get("target") or request.args.get("url") or request.args.get("ticker") or "https://companiesmarketcap.com/asml/annual-reports-20f/"
+    years = int(request.args.get("years", 5))
+    freq = request.args.get("freq", "annual").lower()
+    max_pages = int(request.args.get("max_pages", 30))
+
+    def event_stream():
+        import queue
+        q = queue.Queue()
+
+        def progress_cb(msg, pct):
+            q.put({"status": "progress", "percent": round(pct, 1), "message": msg})
+
+        import threading
+        result_holder = {}
+
+        def worker():
+            try:
+                res = workflow.run_pipeline(
+                    target=target,
+                    n_years=years,
+                    max_pages_per_pdf=max_pages,
+                    progress_callback=progress_cb,
+                    freq=freq
+                )
+                if isinstance(res, dict):
+                    res["success"] = True
+                result_holder["result"] = res
+                q.put({"status": "completed", "percent": 100, "message": "Workflow completed successfully!", "result": res})
+            except Exception as e:
+                result_holder["error"] = str(e)
+                q.put({"status": "error", "percent": 100, "message": f"Error: {str(e)}"})
+
+        t = threading.Thread(target=worker)
+        t.start()
+
+        while t.is_alive() or not q.empty():
+            try:
+                item = q.get(timeout=0.5)
+                yield f"data: {json.dumps(item)}\n\n"
+                if item.get("status") in ["completed", "error"]:
+                    break
+            except queue.Empty:
+                # Keep-alive heartbeat
+                yield f": heartbeat\n\n"
+
+    return Response(stream_with_context(event_stream()), mimetype="text/event-stream")
 
 @app.route("/api/run-workflow", methods=["POST"])
 def run_workflow_api():

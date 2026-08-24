@@ -940,52 +940,56 @@ async function handleRunWorkflow() {
     runBtn.disabled = true;
     runBtn.classList.add("opacity-50", "cursor-not-allowed");
 
-    let progress = 10;
-    progressBar.style.width = `${progress}%`;
-    progressPercent.textContent = `${progress}%`;
-    progressText.textContent = "Connecting to filings repository...";
+    progressBar.style.width = "5%";
+    progressPercent.textContent = "5%";
+    progressText.textContent = "Connecting to SEC / filings server...";
 
-    const interval = setInterval(() => {
-        if (progress < 90) {
-            progress += 15;
-            progressBar.style.width = `${progress}%`;
-            progressPercent.textContent = `${progress}%`;
-            if (progress >= 30 && progress < 60) progressText.textContent = "Downloading audited financial reports...";
-            else if (progress >= 60 && progress < 85) progressText.textContent = "Parsing tables & extracting OpEx metrics...";
+    const streamUrl = `/api/run-workflow-stream?target=${encodeURIComponent(input)}&years=${encodeURIComponent(years)}&freq=${encodeURIComponent(CURRENT_FREQ)}&_t=${Date.now()}`;
+    const eventSource = new EventSource(streamUrl);
+
+    eventSource.onmessage = async (event) => {
+        if (!event.data) return;
+        try {
+            const data = JSON.parse(event.data);
+            if (data.status === "progress") {
+                const pct = Math.min(Math.max(data.percent, 5), 98);
+                progressBar.style.width = `${pct}%`;
+                progressPercent.textContent = `${Math.round(pct)}%`;
+                progressText.textContent = data.message;
+            } else if (data.status === "completed") {
+                eventSource.close();
+                progressBar.style.width = "100%";
+                progressPercent.textContent = "100%";
+                progressText.textContent = "Workflow completed successfully!";
+
+                await loadCompaniesList();
+                const finalTicker = data.result?.ticker || input;
+                document.getElementById("companySelect").value = finalTicker.toUpperCase();
+                await loadDashboardData(finalTicker);
+
+                setTimeout(() => {
+                    progressContainer.classList.add("hidden");
+                    progressBar.style.width = "0%";
+                    runBtn.disabled = false;
+                    runBtn.classList.remove("opacity-50", "cursor-not-allowed");
+                }, 2000);
+            } else if (data.status === "error") {
+                eventSource.close();
+                progressText.textContent = data.message || "An error occurred during execution.";
+                runBtn.disabled = false;
+                runBtn.classList.remove("opacity-50", "cursor-not-allowed");
+            }
+        } catch (err) {
+            console.error("Error parsing SSE data:", err);
         }
-    }, 600);
+    };
 
-    try {
-        const payload = { target: input, years: parseInt(years), freq: CURRENT_FREQ };
-        const res = await fetch("/api/run-workflow", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(payload)
-        });
-        const result = await res.json();
-        clearInterval(interval);
-
-        progressBar.style.width = "100%";
-        progressPercent.textContent = "100%";
-        progressText.textContent = (result.success || result.status === "success") ? "Workflow completed successfully!" : "Workflow finished with notices.";
-
-        await loadCompaniesList();
-        const finalTicker = result.ticker || input;
-        document.getElementById("companySelect").value = finalTicker.toUpperCase();
-        await loadDashboardData(finalTicker);
-
-        setTimeout(() => {
-            progressContainer.classList.add("hidden");
-            progressBar.style.width = "0%";
-            runBtn.disabled = false;
-            runBtn.classList.remove("opacity-50", "cursor-not-allowed");
-        }, 2000);
-    } catch (e) {
-        clearInterval(interval);
-        progressText.textContent = `Error: ${e.message}`;
+    eventSource.onerror = (err) => {
+        eventSource.close();
+        progressText.textContent = "Stream connection closed.";
         runBtn.disabled = false;
         runBtn.classList.remove("opacity-50", "cursor-not-allowed");
-    }
+    };
 }
 
 async function loadMarkdownFiles(ticker) {
