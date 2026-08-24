@@ -80,22 +80,39 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function setupEventListeners() {
-    document.getElementById("companySelect").addEventListener("change", (e) => {
+    document.getElementById("companySelect").addEventListener("change", async (e) => {
         currentTicker = e.target.value;
         // Two-way synchronization: update target input box when selecting a company
         const targetInput = document.getElementById("targetInput");
         if (currentTicker === "ASML") {
             targetInput.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
+        } else if (currentTicker === "NVDA") {
+            targetInput.value = "nvidia";
         } else {
             targetInput.value = currentTicker.toLowerCase();
         }
-        loadDashboard(currentTicker);
-        loadMarkdownFiles(currentTicker);
+        await loadDashboard(currentTicker);
+        await loadMarkdownFiles(currentTicker);
     });
 
-    document.getElementById("refreshBtn").addEventListener("click", () => {
-        loadDashboard(currentTicker);
-        loadMarkdownFiles(currentTicker);
+    document.getElementById("refreshBtn").addEventListener("click", async () => {
+        const refreshBtn = document.getElementById("refreshBtn");
+        const icon = refreshBtn.querySelector("i");
+        if (icon) icon.classList.add("fa-spin");
+
+        const sel = document.getElementById("companySelect");
+        if (sel && sel.value) {
+            currentTicker = sel.value;
+        }
+
+        await loadCompanyList();
+        if (sel) sel.value = currentTicker;
+        await loadDashboard(currentTicker);
+        await loadMarkdownFiles(currentTicker);
+
+        setTimeout(() => {
+            if (icon) icon.classList.remove("fa-spin");
+        }, 500);
     });
 
     document.getElementById("langToggleBtn").addEventListener("click", () => {
@@ -158,7 +175,8 @@ async function loadCompanyList() {
 
 async function loadDashboard(ticker) {
     try {
-        const res = await fetch(`/api/metrics/${ticker}`);
+        const timestamp = Date.now();
+        const res = await fetch(`/api/metrics/${ticker}?_t=${timestamp}`, { cache: "no-store" });
         if (!res.ok) throw new Error("Metrics not found");
         const data = await res.json();
         currentMetricsData = data;
