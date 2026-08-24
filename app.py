@@ -51,7 +51,8 @@ def get_companies():
 @app.route("/api/metrics/<ticker>", methods=["GET"])
 def get_metrics(ticker):
     """Returns structured financial & OpEx metrics for dashboard charts"""
-    data = extractor.get_metrics(ticker)
+    freq = request.args.get("freq", "annual").lower()
+    data = extractor.get_metrics(ticker, freq=freq)
     return jsonify(data)
 
 @app.route("/api/run-workflow", methods=["POST"])
@@ -125,6 +126,7 @@ def get_markdown_content(ticker, filename):
 @app.route("/api/compare", methods=["GET"])
 def get_compare_metrics():
     """Batch API for Multi-Company Comparison"""
+    freq = request.args.get("freq", "annual").lower()
     tickers_param = request.args.get("tickers", "")
     if not tickers_param:
         tickers = ["asml", "tsmc", "nvda", "nxp", "vsh"]
@@ -134,12 +136,12 @@ def get_compare_metrics():
     results = {}
     for t in tickers:
         try:
-            m = extractor.get_metrics(t)
+            m = extractor.get_metrics(t, freq=freq)
             results[t] = m
         except Exception as e:
             results[t] = {"error": str(e)}
     
-    return jsonify({"success": True, "companies": results})
+    return jsonify({"success": True, "freq": freq, "companies": results})
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)

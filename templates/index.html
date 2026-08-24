@@ -31,7 +31,19 @@
             
             <!-- Quick Actions, User Guide & Language Switcher -->
             <div class="flex items-center space-x-2.5">
-                                <!-- Light / Dark Theme Toggle Button -->
+                                                <!-- Frequency Switcher (Annual vs Quarterly) -->
+                <div class="bg-slate-700/80 p-0.5 rounded-lg border border-slate-600 flex items-center">
+                    <button id="freqAnnualBtn" class="bg-blue-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1 shadow-sm">
+                        <i class="fa-solid fa-calendar"></i>
+                        <span data-i18n="freq_annual">Annual (10-K)</span>
+                    </button>
+                    <button id="freqQuarterlyBtn" class="text-slate-300 hover:text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1">
+                        <i class="fa-solid fa-bolt text-amber-400"></i>
+                        <span data-i18n="freq_quarterly">Quarterly (10-Q)</span>
+                    </button>
+                </div>
+
+                <!-- Light / Dark Theme Toggle Button -->
                 <button id="themeToggleBtn" class="bg-slate-700 hover:bg-slate-600 border border-slate-600 text-amber-300 hover:text-amber-200 px-2.5 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5 shadow-sm" title="Toggle Light/Dark Theme">
                     <i id="themeIcon" class="fa-solid fa-sun"></i>
                     <span id="themeLabel" class="hidden sm:inline">Light</span>

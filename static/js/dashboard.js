@@ -11,6 +11,7 @@
 
 let CURRENT_LANGUAGE = "en";
 let CURRENT_THEME = localStorage.getItem("app_theme") || "dark";
+let CURRENT_FREQ = "annual"; // "annual" | "quarterly"
 let GLOBAL_METRICS_DATA = null;
 let COMPARISON_DATA = null;
 let ACTIVE_VIEW = "single"; // "single" | "compare"
@@ -35,6 +36,9 @@ const I18N_DICT = {
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
+        freq_annual: "Annual (10-K)",
+        freq_quarterly: "Quarterly (10-Q)",
+        label_time_horizon: "Horizon (N Periods)",
         btn_refresh: "Reload",
         tab_single_view: "Single Company Deep Dive",
         tab_compare_view: "Multi-Company Peer Comparison",
@@ -97,6 +101,9 @@ const I18N_DICT = {
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
+        freq_annual: "年度 (10-K)",
+        freq_quarterly: "季度 (10-Q/6-K)",
+        label_time_horizon: "分析週期長度 (N 期)",
         btn_refresh: "重新載入",
         tab_single_view: "單一公司深入分析",
         tab_compare_view: "多公司橫向對比模組",
@@ -163,11 +170,37 @@ async function initDashboard() {
     applyTheme(CURRENT_THEME);
     setupEventListeners();
     setupThemeToggle();
+    setupFrequencyToggle();
     setupTabs();
     setupHelpModal();
     applyLanguage(CURRENT_LANGUAGE);
     await loadCompaniesList();
     await loadDashboardData();
+}
+
+function setupFrequencyToggle() {
+    const btnAnnual = document.getElementById("freqAnnualBtn");
+    const btnQuarterly = document.getElementById("freqQuarterlyBtn");
+
+    if (btnAnnual && btnQuarterly) {
+        btnAnnual.addEventListener("click", () => {
+            if (CURRENT_FREQ === "annual") return;
+            CURRENT_FREQ = "annual";
+            btnAnnual.className = "bg-blue-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1 shadow-sm";
+            btnQuarterly.className = "text-slate-300 hover:text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1";
+            if (ACTIVE_VIEW === "single") loadDashboardData();
+            else loadComparisonData();
+        });
+
+        btnQuarterly.addEventListener("click", () => {
+            if (CURRENT_FREQ === "quarterly") return;
+            CURRENT_FREQ = "quarterly";
+            btnQuarterly.className = "bg-amber-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1 shadow-sm";
+            btnAnnual.className = "text-slate-300 hover:text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1";
+            if (ACTIVE_VIEW === "single") loadDashboardData();
+            else loadComparisonData();
+        });
+    }
 }
 
 function applyTheme(theme) {
@@ -402,7 +435,7 @@ async function loadCompaniesList() {
 async function loadDashboardData(targetCompany = null) {
     try {
         const company = targetCompany || document.getElementById("companySelect").value || "ASML";
-        const res = await fetch(`/api/metrics/${company.toLowerCase()}?_t=${Date.now()}`, { cache: "no-store" });
+        const res = await fetch(`/api/metrics/${company.toLowerCase()}?freq=${CURRENT_FREQ}&_t=${Date.now()}`, { cache: "no-store" });
         const data = await res.json();
         
         GLOBAL_METRICS_DATA = data;
@@ -681,7 +714,7 @@ async function loadComparisonData() {
 
     try {
         const tickersParam = checkedBoxes.join(",");
-        const res = await fetch(`/api/compare?tickers=${tickersParam}&_t=${Date.now()}`, { cache: "no-store" });
+        const res = await fetch(`/api/compare?tickers=${tickersParam}&freq=${CURRENT_FREQ}&_t=${Date.now()}`, { cache: "no-store" });
         const json = await res.json();
         if (json.success && json.companies) {
             COMPARISON_DATA = json.companies;
