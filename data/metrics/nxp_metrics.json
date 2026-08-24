@@ -1,6 +1,6 @@
 {
   "company_name": "NXP Semiconductors N.V.",
-  "ticker": "NXP",
+  "ticker": "NXP-SEMICONDUCTORS",
   "currency": "USD (Millions)",
   "unit": "$M",
   "years": [
@@ -9,7 +9,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "financials": {
     "2020": {
@@ -161,6 +162,29 @@
       "hc_growth_yoy": 1.49,
       "gm_diff_pp": 1.4,
       "op_diff_pp": 1.6
+    },
+    "2026": {
+      "revenue": 3496,
+      "gross_profit": 2002,
+      "operating_income": 1071,
+      "net_income": 782,
+      "gross_margin": 57.27,
+      "operating_margin": 30.64,
+      "net_margin": 22.37,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 0,
+      "gp_per_emp": 0,
+      "op_per_emp": 0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -74.1,
+      "gp_growth_yoy": -73.98,
+      "op_growth_yoy": -71.67,
+      "ni_growth_yoy": -73.03,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 0.27,
+      "op_diff_pp": 2.64
     }
   },
   "sales_breakdown": {

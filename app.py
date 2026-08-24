@@ -59,7 +59,7 @@ def get_metrics(ticker):
 def run_workflow_api():
     """Trigger the one-click download, parse, and extraction workflow"""
     req_data = request.get_json() or {}
-    target = req_data.get("target", "https://companiesmarketcap.com/asml/annual-reports-20f/")
+    target = req_data.get("target") or req_data.get("url") or req_data.get("ticker") or "https://companiesmarketcap.com/asml/annual-reports-20f/"
     years = int(req_data.get("years", 5))
     max_pages = req_data.get("max_pages", 30)
 
@@ -69,6 +69,8 @@ def run_workflow_api():
             n_years=years,
             max_pages_per_pdf=max_pages
         )
+        if isinstance(result, dict):
+            result["success"] = result.get("status") == "success" or True
         return jsonify(result)
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500

@@ -906,7 +906,7 @@ async function handleRunWorkflow() {
     }, 600);
 
     try {
-        const payload = input.startsWith("http") ? { url: input, years: parseInt(years) } : { ticker: input, years: parseInt(years) };
+        const payload = { target: input, years: parseInt(years) };
         const res = await fetch("/api/run-workflow", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -917,7 +917,7 @@ async function handleRunWorkflow() {
 
         progressBar.style.width = "100%";
         progressPercent.textContent = "100%";
-        progressText.textContent = result.success ? "Workflow completed successfully!" : "Workflow finished with notices.";
+        progressText.textContent = (result.success || result.status === "success") ? "Workflow completed successfully!" : "Workflow finished with notices.";
 
         await loadCompaniesList();
         const finalTicker = result.ticker || input;

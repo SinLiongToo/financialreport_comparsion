@@ -97,18 +97,25 @@ class AnnualReportCrawler:
         for row in rows:
             text = row.get_text(separator=" ", strip=True)
             # Find year
-            year_match = re.search(r"\b(19\d\d|20\d\d)\b", text)
+            year_match = re.search(r"(?:FY)?(19\d\d|20\d\d)", text, re.I)
             if not year_match:
                 continue
             year = int(year_match.group(1))
 
+            # Quarter check
+            q_match = re.search(r"\b(Q[1-4])\b", text, re.I)
+            quarter = q_match.group(1).upper() if q_match else None
+
             # Report title & type
             h2 = row.find(["h2", "h3", "h4", "strong"])
-            title = h2.get_text(strip=True) if h2 else f"Annual Report {year}"
+            title = h2.get_text(strip=True) if h2 else (f"Quarterly Report {year} {quarter}" if quarter else f"Annual Report {year}")
             
-            if "20-F" in text or "20-f" in used_url or "20-F" in title:
+            is_q = "quarterly" in (used_url or "").lower() or bool(quarter)
+            if "20-F" in text or "20-f" in (used_url or "") or "20-F" in title:
                 report_type = "20-F"
-            elif "10-K" in text or "10-k" in used_url or "10-K" in title:
+            elif "10-Q" in text or "10-q" in (used_url or "") or is_q:
+                report_type = "10-Q"
+            elif "10-K" in text or "10-k" in (used_url or "") or "10-K" in title:
                 report_type = "10-K"
             else:
                 report_type = "Annual Report"
@@ -131,6 +138,7 @@ class AnnualReportCrawler:
                 reports.append({
                     "ticker": ticker,
                     "year": year,
+                    "quarter": quarter,
                     "title": title,
                     "report_type": report_type,
                     "pdf_url": pdf_url,
@@ -170,8 +178,12 @@ class AnnualReportCrawler:
 
         for idx, item in enumerate(selected_reports, start=1):
             year = item["year"]
+            quarter = item.get("quarter")
             clean_type = item["report_type"].replace(" ", "_")
-            filename = f"{ticker.upper()}_{year}_{clean_type}.pdf"
+            if quarter:
+                filename = f"{ticker.upper()}_{year}_{quarter}_{clean_type}.pdf"
+            else:
+                filename = f"{ticker.upper()}_{year}_{clean_type}.pdf"
             file_path = os.path.join(ticker_dir, filename)
 
             msg = f"Downloading [{idx}/{total}] {filename}..."
