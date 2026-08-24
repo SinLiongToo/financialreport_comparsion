@@ -583,67 +583,127 @@ class FinancialMetricsExtractor:
         clean = ticker.strip().lower()
         return TICKER_ALIASES.get(clean, clean)
 
-    def extract_from_markdown(self, ticker: str) -> Dict:
+    def extract_from_markdown(self, ticker: str, freq: str = "annual") -> Dict:
         raw_ticker = ticker.lower()
         canon = self.canonical_ticker(raw_ticker)
 
-        md_files = glob.glob(os.path.join(self.parsed_md_dir, raw_ticker, "*.md"))
-        if canon != raw_ticker:
-            md_files.extend(glob.glob(os.path.join(self.parsed_md_dir, canon, "*.md")))
+        all_candidate_folders = {raw_ticker, canon}
+        for alias, c in TICKER_ALIASES.items():
+            if c == canon or c == raw_ticker or alias == canon or alias == raw_ticker:
+                all_candidate_folders.add(alias)
+                all_candidate_folders.add(c)
+        
+        md_files = []
+        for folder in all_candidate_folders:
+            md_files.extend(glob.glob(os.path.join(self.parsed_md_dir, folder, "*.md")))
+        # Deduplicate md_files
+        md_files = sorted(list(set(md_files)))
 
-        if canon in BUILTIN_BENCHMARKS:
-            metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS[canon]))
-            metrics["ticker"] = raw_ticker.upper()
-        else:
-            # Generic company initialized strictly with empty data structures (NO SYNTHESIS)
-            metrics = {
-                "company_name": raw_ticker.upper(),
-                "ticker": raw_ticker.upper(),
-                "currency": "USD (Millions)",
-                "unit": "$M",
-                "years": [],
-                "financials": {},
-                "sales_breakdown": {
-                    "categories": [],
-                    "colors": ["#1E3A8A", "#0284C7", "#059669", "#D97706"],
-                    "data": {}
-                },
-                "insights": {
-                    "en": {},
-                    "zh": {}
-                },
-                "lean_maturity": {
-                    "current_level": 3,
-                    "levels": [
-                        {"level": 1, "name": "Level 1: Reactive", "desc": "Disorganized processes and manual reporting."},
-                        {"level": 2, "name": "Level 2: Standardized", "desc": "Established SOPs and baseline KPIs."},
-                        {"level": 3, "name": "Level 3: Automated", "desc": "Automated analytics and workflow pipelines."},
-                        {"level": 4, "name": "Level 4: Predictive", "desc": "Predictive analytics and proactive quality control."},
-                        {"level": 5, "name": "Level 5: World-Class", "desc": "Continuous compounding excellence and lean mastery."}
-                    ]
+        if freq == "quarterly":
+            if canon in BUILTIN_BENCHMARKS_QUARTERLY:
+                metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS_QUARTERLY[canon]))
+                metrics["ticker"] = raw_ticker.upper()
+            else:
+                metrics = {
+                    "company_name": raw_ticker.upper(),
+                    "ticker": raw_ticker.upper(),
+                    "currency": "USD (Millions)",
+                    "unit": "$M",
+                    "freq": "quarterly",
+                    "years": [],
+                    "financials": {},
+                    "sales_breakdown": {"categories": [], "colors": ["#1E3A8A", "#0284C7", "#059669", "#D97706"], "data": {}},
+                    "insights": {"en": {}, "zh": {}}
                 }
-            }
+        else:
+            if canon in BUILTIN_BENCHMARKS:
+                metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS[canon]))
+                metrics["ticker"] = raw_ticker.upper()
+            else:
+                # Generic company initialized strictly with empty data structures (NO SYNTHESIS)
+                metrics = {
+                    "company_name": raw_ticker.upper(),
+                    "ticker": raw_ticker.upper(),
+                    "currency": "USD (Millions)",
+                    "unit": "$M",
+                    "years": [],
+                    "financials": {},
+                    "sales_breakdown": {
+                        "categories": [],
+                        "colors": ["#1E3A8A", "#0284C7", "#059669", "#D97706"],
+                        "data": {}
+                    },
+                    "insights": {
+                        "en": {},
+                        "zh": {}
+                    },
+                    "lean_maturity": {
+                        "current_level": 3,
+                        "levels": [
+                            {"level": 1, "name": "Level 1: Reactive", "desc": "Disorganized processes and manual reporting."},
+                            {"level": 2, "name": "Level 2: Standardized", "desc": "Established SOPs and baseline KPIs."},
+                            {"level": 3, "name": "Level 3: Automated", "desc": "Automated analytics and workflow pipelines."},
+                            {"level": 4, "name": "Level 4: Predictive", "desc": "Predictive analytics and proactive quality control."},
+                            {"level": 5, "name": "Level 5: World-Class", "desc": "Continuous compounding excellence and lean mastery."}
+                        ]
+                    }
+                }
 
         # Scan MD files for real audited metrics
         for md_file in md_files:
-            try:
-                with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
-                    content = f.read()
+            fname = os.path.basename(md_file)
+            is_q_file = "10-Q" in fname.upper() or "Q1" in fname or "Q2" in fname or "Q3" in fname or "Q4" in fname
+            
+            if freq == "quarterly":
+                # Look for quarterly filings (e.g. NXP-SEMICONDUCTORS_2026_Q2_10-Q.md)
+                q_match = re.search(r"(20\d\d)_(Q[1-4])", fname, re.I)
+                if not q_match:
+                    q_match = re.search(r"(?:FY)?(20\d\d).*?(Q[1-4])", fname, re.I)
+                
+                if q_match:
+                    q_year = q_match.group(1)
+                    q_num = q_match.group(2).upper()
+                    period_key = f"{q_year} {q_num}"
+                    
+                    try:
+                        with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
+                            content = f.read()
+                        q_fin = self.parse_quarterly_financials(content, period_key)
+                        if q_fin and q_fin.get("revenue"):
+                            # Estimate headcount from latest year
+                            hc = 34000
+                            for prev_k in reversed(list(metrics["financials"].keys())):
+                                if metrics["financials"][prev_k].get("headcount"):
+                                    hc = metrics["financials"][prev_k]["headcount"]
+                                    break
+                            q_fin.setdefault("headcount", hc)
+                            metrics["financials"][period_key] = q_fin
+                            if period_key not in metrics["years"]:
+                                metrics["years"].append(period_key)
+                    except Exception as e:
+                        print(f"Error reading {md_file}: {e}")
+            else:
+                # Annual mode: skip quarterly 10-Q files
+                if is_q_file:
+                    continue
+                try:
+                    with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
+                        content = f.read()
 
-                match = re.search(r"(\d{4})", os.path.basename(md_file))
-                if match:
-                    year = int(match.group(1))
-                    year_str = str(year)
-                    if year not in metrics["years"]:
-                        metrics["years"].append(year)
-                        metrics["years"].sort()
+                    match = re.search(r"(\d{4})", fname)
+                    if match:
+                        year = int(match.group(1))
+                        year_str = str(year)
+                        if year not in metrics["years"]:
+                            metrics["years"].append(year)
+                            metrics["years"].sort()
 
-                    if year_str not in metrics["financials"]:
-                        fin = self.parse_text_for_financials(content, year)
-                        if fin:
-                            metrics["financials"][year_str] = fin
-            except Exception as e:
-                print(f"Error reading {md_file}: {e}")
+                        if year_str not in metrics["financials"]:
+                            fin = self.parse_text_for_financials(content, year)
+                            if fin:
+                                metrics["financials"][year_str] = fin
+                except Exception as e:
+                    print(f"Error reading {md_file}: {e}")
 
         # Compute calculated productivity metrics strictly on real numbers
         self.compute_productivity_metrics(metrics)
@@ -663,6 +723,72 @@ class FinancialMetricsExtractor:
         return metrics
 
     @staticmethod
+    def parse_quarterly_financials(text: str, period_key: str) -> Dict:
+        """
+        Parses single-quarter Revenue, Gross Profit, Operating Income, Net Income, R&D from 10-Q Markdown text.
+        """
+        fin = {
+            "revenue": None,
+            "gross_profit": None,
+            "operating_income": None,
+            "net_income": None,
+            "rd_expense": None,
+            "headcount": None,
+            "gross_margin": None,
+            "operating_margin": None,
+            "net_margin": None
+        }
+
+        # Look for CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+        lines = text.split("\n")
+        in_ops = False
+        ops_lines = []
+        for l in lines:
+            if "statements of operations" in l.lower() or "statements of income" in l.lower() or "condensed consolidated statements of operations" in l.lower():
+                in_ops = True
+            if in_ops:
+                ops_lines.append(l)
+                if len(ops_lines) > 60:
+                    break
+        
+        ops_text = "\n".join(ops_lines) if ops_lines else text[:4000]
+
+        # Extract Revenue (first number after Revenue / Total revenue)
+        rev_m = re.search(r"(?:Revenue|Total revenue|Net sales)\s*\n\s*\(?([\d,]+)\)?", ops_text, re.I)
+        if rev_m:
+            fin["revenue"] = float(rev_m.group(1).replace(",", ""))
+
+        # Extract Cost of revenue / Gross profit
+        gp_m = re.search(r"(?:Gross profit|Gross margin)\s*\n\s*\(?([\d,]+)\)?", ops_text, re.I)
+        if gp_m:
+            fin["gross_profit"] = float(gp_m.group(1).replace(",", ""))
+
+        # Extract R&D expense
+        rd_m = re.search(r"(?:Research and development|R&D)\s*\n\s*\(?([\d,]+)\)?", ops_text, re.I)
+        if rd_m:
+            fin["rd_expense"] = float(rd_m.group(1).replace(",", ""))
+
+        # Extract Operating income
+        op_m = re.search(r"(?:Operating income|Operating profit|Income from operations|Operating income \(loss\))\s*\n\s*\(?([\d,]+)\)?", ops_text, re.I)
+        if op_m:
+            fin["operating_income"] = float(op_m.group(1).replace(",", ""))
+
+        # Extract Net income
+        ni_m = re.search(r"(?:Net income|Net profit|Net income \(loss\))\s*\n\s*\(?([\d,]+)\)?", ops_text, re.I)
+        if ni_m:
+            fin["net_income"] = float(ni_m.group(1).replace(",", ""))
+
+        # Margins
+        if fin["revenue"] and fin["revenue"] > 0:
+            if fin["gross_profit"] is not None:
+                fin["gross_margin"] = round((fin["gross_profit"] / fin["revenue"]) * 100, 2)
+            if fin["operating_income"] is not None:
+                fin["operating_margin"] = round((fin["operating_income"] / fin["revenue"]) * 100, 2)
+            if fin["net_income"] is not None:
+                fin["net_margin"] = round((fin["net_income"] / fin["revenue"]) * 100, 2)
+
+        return fin
+
     def parse_text_for_financials(content: str, year: int) -> Dict:
         """Strict financial extraction from real Markdown text and tables"""
         fin = {}
@@ -721,8 +847,17 @@ class FinancialMetricsExtractor:
     @staticmethod
     def compute_productivity_metrics(data: Dict):
         financials = data.get("financials", {})
-        if data.get("years") and len(data["years"]) > 0 and isinstance(data["years"][0], str) and "Q" in data["years"][0]:
-            years = data["years"]
+        all_keys = list(financials.keys())
+        
+        # Check if keys are quarterly strings like "2024 Q1"
+        if any(isinstance(k, str) and "Q" in k for k in all_keys):
+            def q_sort_key(item):
+                parts = str(item).split()
+                y = int(parts[0]) if len(parts) > 0 and parts[0].isdigit() else 0
+                q = parts[1] if len(parts) > 1 else "Q0"
+                return (y, q)
+            years = sorted(all_keys, key=q_sort_key)
+            data["years"] = years
         else:
             try:
                 years = sorted([int(y) for y in financials.keys()])
@@ -733,12 +868,12 @@ class FinancialMetricsExtractor:
         prev_fin = None
         for y in years:
             fin = financials[str(y)]
-            rev = fin.get("revenue", 0)
-            gp = fin.get("gross_profit", 0)
-            op = fin.get("operating_income", 0)
-            ni = fin.get("net_income", 0)
-            rd = fin.get("rd_expense", 0)
-            hc = fin.get("headcount", 0)
+            rev = fin.get("revenue") or 0
+            gp = fin.get("gross_profit") or 0
+            op = fin.get("operating_income") or 0
+            ni = fin.get("net_income") or 0
+            rd = fin.get("rd_expense") or 0
+            hc = fin.get("headcount") or 0
 
             # Margins & Ratios
             if rev > 0 and "gross_margin" not in fin and gp > 0:
@@ -831,11 +966,4 @@ class FinancialMetricsExtractor:
 
     def get_metrics(self, ticker: str, freq: str = "annual") -> Dict:
         ticker = ticker.lower()
-        canon = self.canonical_ticker(ticker)
-        if freq == "quarterly":
-            if canon in BUILTIN_BENCHMARKS_QUARTERLY:
-                m = json.loads(json.dumps(BUILTIN_BENCHMARKS_QUARTERLY[canon]))
-                m["ticker"] = ticker.upper()
-                self.compute_productivity_metrics(m)
-                return m
-        return self.extract_from_markdown(ticker)
+        return self.extract_from_markdown(ticker, freq=freq)
