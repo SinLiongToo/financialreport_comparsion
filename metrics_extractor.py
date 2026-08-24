@@ -1,6 +1,7 @@
 """
 metrics_extractor.py - Financial & OpEx KPI extraction and calculation engine.
 Supports:
+  - Canonical Ticker Alias Normalization (e.g., nvidia <-> nvda, tsmc <-> tsm, 2330)
   - Audited Semiconductor Benchmarks: ASML, TSMC, NVDA, NXP, AMAT
   - Company-specific Strategic Insights (The Pivot, Productivity, Leverage, R&D, Value vs Volume) in EN & ZH
   - Dynamic Markdown Financial Table & Text Regex Extractor for any company
@@ -11,6 +12,18 @@ import re
 import json
 import glob
 from typing import Dict, List, Optional
+
+TICKER_ALIASES = {
+    "nvidia": "nvda",
+    "nvda": "nvda",
+    "tsmc": "tsmc",
+    "tsm": "tsmc",
+    "2330": "tsmc",
+    "asml": "asml",
+    "nxp": "nxp",
+    "nxpi": "nxp",
+    "amat": "amat"
+}
 
 BUILTIN_BENCHMARKS = {
     "asml": {
@@ -185,17 +198,28 @@ class FinancialMetricsExtractor:
         self.parsed_md_dir = parsed_md_dir
         os.makedirs(self.metrics_dir, exist_ok=True)
 
-    def extract_from_markdown(self, ticker: str) -> Dict:
-        ticker = ticker.lower()
-        md_pattern = os.path.join(self.parsed_md_dir, ticker, "*.md")
-        md_files = glob.glob(md_pattern)
+    @classmethod
+    def canonical_ticker(cls, ticker: str) -> str:
+        """Resolves ticker aliases (e.g. nvidia -> nvda, tsm -> tsmc)"""
+        clean = ticker.strip().lower()
+        return TICKER_ALIASES.get(clean, clean)
 
-        if ticker in BUILTIN_BENCHMARKS:
-            metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS[ticker]))
+    def extract_from_markdown(self, ticker: str) -> Dict:
+        raw_ticker = ticker.lower()
+        canon = self.canonical_ticker(raw_ticker)
+
+        # Check markdown files under both raw_ticker and canon directories
+        md_files = glob.glob(os.path.join(self.parsed_md_dir, raw_ticker, "*.md"))
+        if canon != raw_ticker:
+            md_files.extend(glob.glob(os.path.join(self.parsed_md_dir, canon, "*.md")))
+
+        if canon in BUILTIN_BENCHMARKS:
+            metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS[canon]))
+            metrics["ticker"] = raw_ticker.upper()
         else:
             metrics = {
-                "company_name": ticker.upper(),
-                "ticker": ticker.upper(),
+                "company_name": raw_ticker.upper(),
+                "ticker": raw_ticker.upper(),
                 "currency": "USD (Millions)",
                 "unit": "$M",
                 "years": [],
@@ -203,20 +227,20 @@ class FinancialMetricsExtractor:
                 "sales_breakdown": {"categories": ["Core Operations", "Secondary Segment", "Services & Other"], "colors": ["#1E3A8A", "#3B82F6", "#F59E0B"], "data": {}},
                 "insights": {
                     "en": {
-                        "pivot": f"Workforce and margin dynamic analysis extracted from {ticker.upper()} audited annual reports.",
-                        "productivity": f"Human capital productivity (Revenue & Gross Profit per FTE) trend for {ticker.upper()}.",
+                        "pivot": f"Workforce and margin dynamic analysis extracted from {raw_ticker.upper()} audited annual reports.",
+                        "productivity": f"Human capital productivity (Revenue & Gross Profit per FTE) trend for {raw_ticker.upper()}.",
                         "leverage": f"Operating income expansion and margin trajectory across reporting periods.",
                         "rd": f"R&D expenditure and technology reinvestment relative to revenue scale.",
                         "growth": f"Triangulation of Revenue, Gross Profit, Operating Income, and Headcount YoY growth.",
                         "breakdown": f"Segment disaggregation across product lines and operating business units."
                     },
                     "zh": {
-                        "pivot": f"{ticker.upper()} 歷年員工人數與毛利率走勢交叉審計。",
-                        "productivity": f"{ticker.upper()} 人均營收、人均毛利與人均營業利益生產力指標。",
-                        "leverage": f"{ticker.upper()} 營業利益與利潤率擴張走勢。",
-                        "rd": f"{ticker.upper()} 研發支出規模與佔營收比重分析。",
-                        "growth": f"{ticker.upper()} 營收、毛利、營業利益與人力年增率交叉比對。",
-                        "breakdown": f"{ticker.upper()} 各大業務板塊之銷售與出貨結構分拆。"
+                        "pivot": f"{raw_ticker.upper()} 歷年員工人數與毛利率走勢交叉審計。",
+                        "productivity": f"{raw_ticker.upper()} 人均營收、人均毛利與人均營業利益生產力指標。",
+                        "leverage": f"{raw_ticker.upper()} 營業利益與利潤率擴張走勢。",
+                        "rd": f"{raw_ticker.upper()} 研發支出規模與佔營收比重分析。",
+                        "growth": f"{raw_ticker.upper()} 營收、毛利、營業利益與人力年增率交叉比對。",
+                        "breakdown": f"{raw_ticker.upper()} 各大業務板塊之銷售與出貨結構分拆。"
                     }
                 },
                 "lean_maturity": {
@@ -231,7 +255,7 @@ class FinancialMetricsExtractor:
                 }
             }
 
-        # Dynamic regex and text extraction from parsed Markdown files
+        # Scan MD files
         for md_file in md_files:
             try:
                 with open(md_file, "r", encoding="utf-8") as f:
@@ -255,10 +279,11 @@ class FinancialMetricsExtractor:
         # Compute calculated productivity metrics
         self.compute_productivity_metrics(metrics)
 
-        # Save to JSON
-        out_json = os.path.join(self.metrics_dir, f"{ticker}_metrics.json")
-        with open(out_json, "w", encoding="utf-8") as f:
-            json.dump(metrics, f, ensure_ascii=False, indent=2)
+        # Save to JSON for both raw_ticker and canon
+        for t in {raw_ticker, canon}:
+            out_json = os.path.join(self.metrics_dir, f"{t}_metrics.json")
+            with open(out_json, "w", encoding="utf-8") as f:
+                json.dump(metrics, f, ensure_ascii=False, indent=2)
 
         return metrics
 

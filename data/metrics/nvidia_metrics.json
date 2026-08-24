@@ -1,31 +1,33 @@
 {
-  "company_name": "NVIDIA",
+  "company_name": "NVIDIA Corporation",
   "ticker": "NVIDIA",
   "currency": "USD (Millions)",
   "unit": "$M",
   "years": [
+    2021,
     2022,
     2023,
     2024,
+    2025,
     2026
   ],
   "financials": {
-    "2022": {
-      "revenue": 26910,
-      "gross_margin": 50.0,
-      "gross_profit": 13455,
-      "operating_income": 8611,
-      "net_income": 7535,
-      "rd_expense": 3229,
-      "headcount": 50000,
-      "operating_margin": 32.0,
-      "net_margin": 28.0,
-      "rd_pct_rev": 12.0,
-      "rev_per_emp": 538200.0,
-      "gp_per_emp": 269100.0,
-      "op_per_emp": 172220.0,
-      "ni_per_emp": 150700.0,
-      "rd_per_emp": 64580.0,
+    "2021": {
+      "revenue": 16675,
+      "gross_profit": 10475,
+      "operating_income": 4532,
+      "net_income": 4332,
+      "rd_expense": 3924,
+      "headcount": 18975,
+      "gross_margin": 62.82,
+      "operating_margin": 27.18,
+      "net_margin": 25.98,
+      "rd_pct_rev": 23.53,
+      "rev_per_emp": 878788.0,
+      "gp_per_emp": 552042.0,
+      "op_per_emp": 238841.0,
+      "ni_per_emp": 228300.0,
+      "rd_per_emp": 206798.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -35,140 +37,249 @@
       "gm_diff_pp": null,
       "op_diff_pp": null
     },
+    "2022": {
+      "revenue": 26914,
+      "gross_profit": 17475,
+      "operating_income": 10041,
+      "net_income": 9752,
+      "rd_expense": 5268,
+      "headcount": 22473,
+      "gross_margin": 64.93,
+      "operating_margin": 37.31,
+      "net_margin": 36.23,
+      "rd_pct_rev": 19.57,
+      "rev_per_emp": 1197615.0,
+      "gp_per_emp": 777600.0,
+      "op_per_emp": 446803.0,
+      "ni_per_emp": 433943.0,
+      "rd_per_emp": 234415.0,
+      "rev_growth_yoy": 61.4,
+      "gp_growth_yoy": 66.83,
+      "op_growth_yoy": 121.56,
+      "ni_growth_yoy": 125.12,
+      "rd_growth_yoy": 34.25,
+      "hc_growth_yoy": 18.43,
+      "gm_diff_pp": 2.11,
+      "op_diff_pp": 10.13
+    },
     "2023": {
-      "revenue": 1986,
-      "gross_margin": 50.0,
-      "gross_profit": 993,
-      "operating_income": 636,
-      "net_income": 556,
-      "rd_expense": 238,
-      "headcount": 50000,
-      "operating_margin": 32.02,
-      "net_margin": 28.0,
-      "rd_pct_rev": 11.98,
-      "rev_per_emp": 39720.0,
-      "gp_per_emp": 19860.0,
-      "op_per_emp": 12720.0,
-      "ni_per_emp": 11120.0,
-      "rd_per_emp": 4760.0,
-      "rev_growth_yoy": -92.62,
-      "gp_growth_yoy": -92.62,
-      "op_growth_yoy": -92.61,
-      "ni_growth_yoy": -92.62,
-      "rd_growth_yoy": -92.63,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": 0.0,
-      "op_diff_pp": 0.02
+      "revenue": 26974,
+      "gross_profit": 15356,
+      "operating_income": 4224,
+      "net_income": 4368,
+      "rd_expense": 7339,
+      "headcount": 26196,
+      "gross_margin": 56.93,
+      "operating_margin": 15.66,
+      "net_margin": 16.19,
+      "rd_pct_rev": 27.21,
+      "rev_per_emp": 1029699.0,
+      "gp_per_emp": 586196.0,
+      "op_per_emp": 161246.0,
+      "ni_per_emp": 166743.0,
+      "rd_per_emp": 280157.0,
+      "rev_growth_yoy": 0.22,
+      "gp_growth_yoy": -12.13,
+      "op_growth_yoy": -57.93,
+      "ni_growth_yoy": -55.21,
+      "rd_growth_yoy": 39.31,
+      "hc_growth_yoy": 16.57,
+      "gm_diff_pp": -8.0,
+      "op_diff_pp": -21.65
     },
     "2024": {
-      "revenue": 217000,
-      "gross_margin": 73.8,
-      "gross_profit": 160146,
-      "operating_income": 69440,
-      "net_income": 60760,
-      "rd_expense": 26040,
-      "headcount": 50000,
-      "operating_margin": 32.0,
-      "net_margin": 28.0,
-      "rd_pct_rev": 12.0,
-      "rev_per_emp": 4340000.0,
-      "gp_per_emp": 3202920.0,
-      "op_per_emp": 1388800.0,
-      "ni_per_emp": 1215200.0,
-      "rd_per_emp": 520800.0,
-      "rev_growth_yoy": 10826.49,
-      "gp_growth_yoy": 16027.49,
-      "op_growth_yoy": 10818.24,
-      "ni_growth_yoy": 10828.06,
-      "rd_growth_yoy": 10841.18,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": 23.8,
-      "op_diff_pp": -0.02
+      "revenue": 60922,
+      "gross_profit": 44301,
+      "operating_income": 32972,
+      "net_income": 29760,
+      "rd_expense": 8675,
+      "headcount": 29600,
+      "gross_margin": 72.72,
+      "operating_margin": 54.12,
+      "net_margin": 48.85,
+      "rd_pct_rev": 14.24,
+      "rev_per_emp": 2058176.0,
+      "gp_per_emp": 1496655.0,
+      "op_per_emp": 1113919.0,
+      "ni_per_emp": 1005405.0,
+      "rd_per_emp": 293074.0,
+      "rev_growth_yoy": 125.85,
+      "gp_growth_yoy": 188.49,
+      "op_growth_yoy": 680.59,
+      "ni_growth_yoy": 581.32,
+      "rd_growth_yoy": 18.2,
+      "hc_growth_yoy": 12.99,
+      "gm_diff_pp": 15.79,
+      "op_diff_pp": 38.46
+    },
+    "2025": {
+      "revenue": 126000,
+      "gross_profit": 95760,
+      "operating_income": 79380,
+      "net_income": 71820,
+      "rd_expense": 12500,
+      "headcount": 32000,
+      "gross_margin": 76.0,
+      "operating_margin": 63.0,
+      "net_margin": 57.0,
+      "rd_pct_rev": 9.92,
+      "rev_per_emp": 3937500.0,
+      "gp_per_emp": 2992500.0,
+      "op_per_emp": 2480625.0,
+      "ni_per_emp": 2244375.0,
+      "rd_per_emp": 390625.0,
+      "rev_growth_yoy": 106.82,
+      "gp_growth_yoy": 116.16,
+      "op_growth_yoy": 140.75,
+      "ni_growth_yoy": 141.33,
+      "rd_growth_yoy": 44.09,
+      "hc_growth_yoy": 8.11,
+      "gm_diff_pp": 3.28,
+      "op_diff_pp": 8.88
     },
     "2026": {
-      "revenue": 65000,
-      "gross_margin": 71.1,
-      "gross_profit": 46215,
-      "operating_income": 20800,
-      "net_income": 18200,
-      "rd_expense": 7800,
-      "headcount": 50000,
-      "operating_margin": 32.0,
-      "net_margin": 28.0,
-      "rd_pct_rev": 12.0,
-      "rev_per_emp": 1300000.0,
-      "gp_per_emp": 924300.0,
-      "op_per_emp": 416000.0,
-      "ni_per_emp": 364000.0,
-      "rd_per_emp": 156000.0,
-      "rev_growth_yoy": -70.05,
-      "gp_growth_yoy": -71.14,
-      "op_growth_yoy": -70.05,
-      "ni_growth_yoy": -70.05,
-      "rd_growth_yoy": -70.05,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": -2.7,
+      "revenue": 180000,
+      "gross_profit": 135000,
+      "operating_income": 113400,
+      "net_income": 102600,
+      "rd_expense": 16000,
+      "headcount": 36000,
+      "gross_margin": 75.0,
+      "operating_margin": 63.0,
+      "net_margin": 57.0,
+      "rd_pct_rev": 8.89,
+      "rev_per_emp": 5000000.0,
+      "gp_per_emp": 3750000.0,
+      "op_per_emp": 3150000.0,
+      "ni_per_emp": 2850000.0,
+      "rd_per_emp": 444444.0,
+      "rev_growth_yoy": 42.86,
+      "gp_growth_yoy": 40.98,
+      "op_growth_yoy": 42.86,
+      "ni_growth_yoy": 42.86,
+      "rd_growth_yoy": 28.0,
+      "hc_growth_yoy": 12.5,
+      "gm_diff_pp": -1.0,
       "op_diff_pp": 0.0
     }
   },
   "sales_breakdown": {
     "categories": [
-      "Core Operations",
-      "Secondary Segment",
-      "Services & Other"
+      "Compute & Networking (Data Center/AI)",
+      "Graphics (GeForce Gaming/RTX)",
+      "Professional Visualization",
+      "Automotive & Robotics"
     ],
     "colors": [
-      "#1E3A8A",
-      "#3B82F6",
-      "#F59E0B"
+      "#16A34A",
+      "#22C55E",
+      "#86EFAC",
+      "#EAB308"
     ],
-    "data": {}
+    "data": {
+      "2023": {
+        "value": [
+          15014,
+          9067,
+          1544,
+          903
+        ],
+        "volume": [
+          120,
+          2500,
+          310,
+          150
+        ]
+      },
+      "2024": {
+        "value": [
+          47405,
+          10447,
+          1553,
+          1091
+        ],
+        "volume": [
+          450,
+          2700,
+          320,
+          190
+        ]
+      },
+      "2025": {
+        "value": [
+          110000,
+          11500,
+          2300,
+          1700
+        ],
+        "volume": [
+          1100,
+          2900,
+          380,
+          260
+        ]
+      },
+      "2026": {
+        "value": [
+          158000,
+          13000,
+          3200,
+          2800
+        ],
+        "volume": [
+          1650,
+          3200,
+          440,
+          350
+        ]
+      }
+    }
   },
   "insights": {
     "en": {
-      "pivot": "Workforce and margin dynamic analysis extracted from NVIDIA audited annual reports.",
-      "productivity": "Human capital productivity (Revenue & Gross Profit per FTE) trend for NVIDIA.",
-      "leverage": "Operating income expansion and margin trajectory across reporting periods.",
-      "rd": "R&D expenditure and technology reinvestment relative to revenue scale.",
-      "growth": "Triangulation of Revenue, Gross Profit, Operating Income, and Headcount YoY growth.",
-      "breakdown": "Segment disaggregation across product lines and operating business units."
+      "pivot": "Workforce grew modestly from 19k to 36k FTEs while revenue exploded by 10x+, driving GAAP gross margin to an unprecedented 75%-76%.",
+      "productivity": "Record-shattering productivity: Revenue per FTE exceeded $5.0M with Gross Profit per FTE above $3.75M, representing the highest human capital leverage in tech history.",
+      "leverage": "Operating margin expanded to 63%, converting AI infrastructure demand into pure operational profit flow.",
+      "rd": "R&D scale reached $16.0B (8.9% of revenue) powering annual silicon cadence across Hopper, Blackwell, and Rubin architectures.",
+      "growth": "Revenue YoY (+42.9%) and GP YoY (+41.0%) completely dwarf headcount additions (+12.5%).",
+      "breakdown": "Data Center Compute & Networking dominates with 87%+ of total value, transforming NVIDIA from a gaming hardware supplier into the world's AI computing platform."
     },
     "zh": {
-      "pivot": "NVIDIA 歷年員工人數與毛利率走勢交叉審計。",
-      "productivity": "NVIDIA 人均營收、人均毛利與人均營業利益生產力指標。",
-      "leverage": "NVIDIA 營業利益與利潤率擴張走勢。",
-      "rd": "NVIDIA 研發支出規模與佔營收比重分析。",
-      "growth": "NVIDIA 營收、毛利、營業利益與人力年增率交叉比對。",
-      "breakdown": "NVIDIA 各大業務板塊之銷售與出貨結構分拆。"
+      "pivot": "員工人數僅由 1.9 萬人溫和增長至 3.6 萬人，營收卻爆炸性成長 10 倍以上，推動 GAAP 毛利率達到史無前例的 75%-76%。",
+      "productivity": "破紀錄的人均產值：人均營收突破 $5.0M/人，人均毛利超越 $3.75M/人，締造科技史上最高的人力資本槓桿。",
+      "leverage": "營業利益率擴張至 63%，將全球 AI 算力中心需求轉化為極致的現金流與營業利益。",
+      "rd": "研發支出規模達 $16.0B（佔營收 8.9%），支撐 Hopper、Blackwell 與 Rubin 一年一世代的極速產品迭代。",
+      "growth": "營收成長 (+42.9%) 與毛利成長 (+41.0%) 遠遠超越人力擴張 (+12.5%)。",
+      "breakdown": "資料中心運算與網路貢獻超過 87% 的總營收價值，使 NVIDIA 成功轉型為全球 AI 工廠計算平台。"
     }
   },
   "lean_maturity": {
-    "current_level": 3,
+    "current_level": 4,
     "levels": [
       {
         "level": 1,
-        "name": "Level 1: Reactive",
-        "desc": "Disorganized processes and manual reporting."
+        "name": "Fabless GPU Design",
+        "desc": "Manual validation pipelines."
       },
       {
         "level": 2,
-        "name": "Level 2: Standardized",
-        "desc": "Established SOPs and baseline KPIs."
+        "name": "CUDA Ecosystem Scale",
+        "desc": "Hardware-software integrated testing."
       },
       {
         "level": 3,
-        "name": "Level 3: Automated",
-        "desc": "Automated analytics and workflow pipelines."
+        "name": "AI Supercluster Automation",
+        "desc": "DGX/Blackwell automated verification & testing."
       },
       {
         "level": 4,
-        "name": "Level 4: Predictive",
-        "desc": "Predictive analytics and proactive quality control."
+        "name": "Full-Stack AI Factory",
+        "desc": "NVIDIA Omniverse Digital Twin manufacturing coordination."
       },
       {
         "level": 5,
-        "name": "Level 5: World-Class",
-        "desc": "Continuous compounding excellence and lean mastery."
+        "name": "World-Class Sovereign AI Scale",
+        "desc": "Excellence in compute density with (1.01)^365 = 37.8x compounding."
       }
     ]
   }
