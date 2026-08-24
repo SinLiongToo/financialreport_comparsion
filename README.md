@@ -359,7 +359,13 @@ python main.py [--ticker TARGET] [--years N] [--max-pages P] [--serve] [--port P
 - 答：預設 --max-pages 設定為 40-50 頁（已涵蓋核心財務報表、業務分拆與員工數據章節）。如需全文轉換，可在 CLI 傳入 --max-pages 300 或設為 None。
 
 **Q3：如何新增其他公司的自訂數據或產品分拆？**
-- 答：可在 metrics_extractor.py 中的 BUILTIN_BENCHMARKS 字典內新增該公司的歷年數據與產品分類顏色，系統將自動套用至儀表板。
+- 答：可在 `metrics_extractor.py` 中的 `BUILTIN_BENCHMARKS` 字典內新增該公司的歷年數據與產品分類顏色，系統將自動套用至儀表板。
+
+**Q4：為何部分公司（如 ASML）會包含 2021 年以前（2018 ~ 2020）的歷史數據？**
+- 答：
+  1. **SEC 法定多年度比較表規範 (3-Year & 5-Year Comparative Rule)**：依據美國證券交易委員會 (SEC) 規範，所有在美上市企業（包含 Form 20-F 外國發行人 ASML/TSMC 與 Form 10-K 美國本土企業），每一份年報內的 `Item 3.A Selected Financial Data` 與財務報表**依法必須同時披露過去 3 至 5 年的完整審計數字**。例如在下載的 `ASML_2021_20-F.pdf` 年報中，第 6~15 頁便已完整包含 2018、2019、2020、2021 年的官方營收、毛利、研發費用、員工總數與 EUV 機台出貨台數。
+  2. **Parser 跨年度回溯萃取機制**：系統之 Markdown Parser 在解析單份年報時，會自動捕捉法定比較報表內的歷史數據欄位，因此能自動回溯出 2018 年起的官方真實審計數值。
+  3. **跨週期長期營運槓桿分析 (Long-Term OpEx Benchmark)**：為了完整評估半導體景氣循環（從 2018 年 EUV 商業化初期 ➔ 2021 年晶片大缺貨 ➔ 2024 年 High-NA EUV 量產），基準庫收錄了 ASML 2018 ~ 2025 完整 8 年官方數據，確保「圖表 1: The Pivot 人力拐點」具備高度參考價值的跨週期全景。
 
 ---
 
