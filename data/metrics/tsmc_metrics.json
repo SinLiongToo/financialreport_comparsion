@@ -1,42 +1,281 @@
 {
-  "company_name": "TSMC",
+  "company_name": "Taiwan Semiconductor Manufacturing Co. (TSMC)",
   "ticker": "TSMC",
   "currency": "USD (Millions)",
   "unit": "$M",
-  "years": [],
-  "financials": {},
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 45505,
+      "gross_profit": 24163,
+      "operating_income": 19230,
+      "net_income": 17600,
+      "rd_expense": 3720,
+      "headcount": 56831,
+      "gross_margin": 53.1,
+      "operating_margin": 42.26,
+      "net_margin": 38.68,
+      "rd_pct_rev": 8.17,
+      "rev_per_emp": 800707.0,
+      "gp_per_emp": 425173.0,
+      "op_per_emp": 338372.0,
+      "ni_per_emp": 309690.0,
+      "rd_per_emp": 65457.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 56820,
+      "gross_profit": 29319,
+      "operating_income": 23240,
+      "net_income": 21350,
+      "rd_expense": 4465,
+      "headcount": 65152,
+      "gross_margin": 51.6,
+      "operating_margin": 40.9,
+      "net_margin": 37.57,
+      "rd_pct_rev": 7.86,
+      "rev_per_emp": 872114.0,
+      "gp_per_emp": 450009.0,
+      "op_per_emp": 356704.0,
+      "ni_per_emp": 327695.0,
+      "rd_per_emp": 68532.0,
+      "rev_growth_yoy": 24.87,
+      "gp_growth_yoy": 21.34,
+      "op_growth_yoy": 20.85,
+      "ni_growth_yoy": 21.31,
+      "rd_growth_yoy": 20.03,
+      "hc_growth_yoy": 14.64,
+      "gm_diff_pp": -1.5,
+      "op_diff_pp": -1.36
+    },
+    "2022": {
+      "revenue": 75880,
+      "gross_profit": 45224,
+      "operating_income": 37560,
+      "net_income": 34070,
+      "rd_expense": 5472,
+      "headcount": 73090,
+      "gross_margin": 59.6,
+      "operating_margin": 49.5,
+      "net_margin": 44.9,
+      "rd_pct_rev": 7.21,
+      "rev_per_emp": 1038172.0,
+      "gp_per_emp": 618744.0,
+      "op_per_emp": 513887.0,
+      "ni_per_emp": 466138.0,
+      "rd_per_emp": 74867.0,
+      "rev_growth_yoy": 33.54,
+      "gp_growth_yoy": 54.25,
+      "op_growth_yoy": 61.62,
+      "ni_growth_yoy": 59.58,
+      "rd_growth_yoy": 22.55,
+      "hc_growth_yoy": 12.18,
+      "gm_diff_pp": 8.0,
+      "op_diff_pp": 8.6
+    },
+    "2023": {
+      "revenue": 69300,
+      "gross_profit": 37700,
+      "operating_income": 29520,
+      "net_income": 26880,
+      "rd_expense": 5850,
+      "headcount": 76478,
+      "gross_margin": 54.4,
+      "operating_margin": 42.6,
+      "net_margin": 38.79,
+      "rd_pct_rev": 8.44,
+      "rev_per_emp": 906143.0,
+      "gp_per_emp": 492952.0,
+      "op_per_emp": 385993.0,
+      "ni_per_emp": 351474.0,
+      "rd_per_emp": 76493.0,
+      "rev_growth_yoy": -8.67,
+      "gp_growth_yoy": -16.64,
+      "op_growth_yoy": -21.41,
+      "ni_growth_yoy": -21.1,
+      "rd_growth_yoy": 6.91,
+      "hc_growth_yoy": 4.64,
+      "gm_diff_pp": -5.2,
+      "op_diff_pp": -6.9
+    },
+    "2024": {
+      "revenue": 90080,
+      "gross_profit": 50535,
+      "operating_income": 38734,
+      "net_income": 36520,
+      "rd_expense": 6580,
+      "headcount": 83000,
+      "gross_margin": 56.1,
+      "operating_margin": 43.0,
+      "net_margin": 40.54,
+      "rd_pct_rev": 7.3,
+      "rev_per_emp": 1085301.0,
+      "gp_per_emp": 608855.0,
+      "op_per_emp": 466675.0,
+      "ni_per_emp": 440000.0,
+      "rd_per_emp": 79277.0,
+      "rev_growth_yoy": 29.99,
+      "gp_growth_yoy": 34.05,
+      "op_growth_yoy": 31.21,
+      "ni_growth_yoy": 35.86,
+      "rd_growth_yoy": 12.48,
+      "hc_growth_yoy": 8.53,
+      "gm_diff_pp": 1.7,
+      "op_diff_pp": 0.4
+    },
+    "2025": {
+      "revenue": 118000,
+      "gross_profit": 69030,
+      "operating_income": 53100,
+      "net_income": 48500,
+      "rd_expense": 7900,
+      "headcount": 88000,
+      "gross_margin": 58.5,
+      "operating_margin": 45.0,
+      "net_margin": 41.1,
+      "rd_pct_rev": 6.69,
+      "rev_per_emp": 1340909.0,
+      "gp_per_emp": 784432.0,
+      "op_per_emp": 603409.0,
+      "ni_per_emp": 551136.0,
+      "rd_per_emp": 89773.0,
+      "rev_growth_yoy": 30.99,
+      "gp_growth_yoy": 36.6,
+      "op_growth_yoy": 37.09,
+      "ni_growth_yoy": 32.8,
+      "rd_growth_yoy": 20.06,
+      "hc_growth_yoy": 6.02,
+      "gm_diff_pp": 2.4,
+      "op_diff_pp": 2.0
+    }
+  },
   "sales_breakdown": {
-    "categories": [],
-    "colors": [],
-    "data": {}
+    "categories": [
+      "3nm (N3 / N3E / N3P)",
+      "5nm (N5 / N4P)",
+      "7nm (N7 / N6)",
+      "Mature & Specialty (16nm+)"
+    ],
+    "colors": [
+      "#1E3A8A",
+      "#2563EB",
+      "#60A5FA",
+      "#F59E0B"
+    ],
+    "data": {
+      "2021": {
+        "value": [
+          0,
+          10795,
+          17614,
+          28411
+        ],
+        "volume": [
+          0,
+          1800,
+          3100,
+          8100
+        ]
+      },
+      "2022": {
+        "value": [
+          0,
+          19728,
+          20487,
+          35665
+        ],
+        "volume": [
+          0,
+          2900,
+          3300,
+          8800
+        ]
+      },
+      "2023": {
+        "value": [
+          4158,
+          22869,
+          13167,
+          29106
+        ],
+        "volume": [
+          500,
+          3300,
+          2200,
+          7800
+        ]
+      },
+      "2024": {
+        "value": [
+          16214,
+          31528,
+          14412,
+          27926
+        ],
+        "volume": [
+          1800,
+          4200,
+          2400,
+          8100
+        ]
+      },
+      "2025": {
+        "value": [
+          29500,
+          41300,
+          17700,
+          29500
+        ],
+        "volume": [
+          3200,
+          5100,
+          2700,
+          8500
+        ]
+      }
+    }
   },
   "lean_maturity": {
-    "current_level": 3,
+    "current_level": 4,
     "levels": [
       {
         "level": 1,
-        "name": "Level 1: Reactive",
-        "desc": "Disorganized processes and manual reporting."
+        "name": "Standardized Foundry",
+        "desc": "High yield baseline SOPs."
       },
       {
         "level": 2,
-        "name": "Level 2: Standardized",
-        "desc": "Established SOPs and baseline KPIs."
+        "name": "GigaFab Automation",
+        "desc": "OHT automatic material handling & fab clustering."
       },
       {
         "level": 3,
-        "name": "Level 3: Automated",
-        "desc": "Automated analytics and workflow pipelines."
+        "name": "Digital Twin Optimization",
+        "desc": "APC (Advanced Process Control) and real-time FDC defect tracking."
       },
       {
         "level": 4,
-        "name": "Level 4: Predictive",
-        "desc": "Predictive analytics and proactive quality control."
+        "name": "AI SuperFab & CoWoS Velocity",
+        "desc": "Closed-loop 3DIC advanced packaging automation, zero-waste fab."
       },
       {
         "level": 5,
-        "name": "Level 5: World-Class",
-        "desc": "Continuous compounding excellence and lean mastery."
+        "name": "Global Trinity OpEx Benchmark",
+        "desc": "Multi-region Fab excellence (Taiwan/AZ/Kumamoto/Dresden) with (1.01)^365 = 37.8x compounding."
       }
     ]
   }

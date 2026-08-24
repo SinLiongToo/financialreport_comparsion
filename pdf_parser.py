@@ -1,6 +1,7 @@
 """
 pdf_parser.py - Converts Annual Report PDFs to structured, clean Markdown (.md) files.
 Extracts text hierarchy, financial statement tables, notes, and metadata.
+Includes caching to avoid re-parsing already-converted markdown files.
 """
 import os
 import re
@@ -20,7 +21,6 @@ class PDFToMarkdownParser:
         if not table or len(table) < 1:
             return ""
 
-        # Filter out empty rows
         clean_rows = []
         for row in table:
             if not row:
@@ -32,18 +32,15 @@ class PDFToMarkdownParser:
         if not clean_rows:
             return ""
 
-        # Determine column count
         col_count = max(len(r) for r in clean_rows)
         if col_count == 0:
             return ""
 
-        # Normalize row lengths
         normalized = []
         for r in clean_rows:
             padded = r + [""] * (col_count - len(r))
             normalized.append(padded)
 
-        # Header row & separator
         header = normalized[0]
         header_line = "| " + " | ".join(header) + " |"
         sep_line = "| " + " | ".join(["---"] * col_count) + " |"
@@ -59,10 +56,12 @@ class PDFToMarkdownParser:
         pdf_path: str,
         max_pages: Optional[int] = None,
         extract_tables: bool = True,
+        force_reparse: bool = False,
         progress_callback: Optional[Callable[[str, int, int], None]] = None
     ) -> Dict:
         """
         Parses a single PDF into structured Markdown text and saves it as .md file.
+        Skips re-parsing if markdown file already exists and is valid, unless force_reparse=True.
         """
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"PDF not found: {pdf_path}")
@@ -70,13 +69,28 @@ class PDFToMarkdownParser:
         filename = os.path.basename(pdf_path)
         base_name = os.path.splitext(filename)[0]
         
-        # Derive ticker subfolder
         parts = base_name.split("_")
         ticker = parts[0].lower() if len(parts) > 1 else "default"
         ticker_out_dir = os.path.join(self.output_base_dir, ticker)
         os.makedirs(ticker_out_dir, exist_ok=True)
         
         out_md_path = os.path.join(ticker_out_dir, f"{base_name}.md")
+
+        # Caching: If .md already exists and size > 1000 bytes
+        if not force_reparse and os.path.exists(out_md_path) and os.path.getsize(out_md_path) > 1000:
+            if progress_callback:
+                progress_callback(f"Cached {base_name}.md ready", 1, 1)
+            return {
+                "source_pdf": pdf_path,
+                "output_md": out_md_path,
+                "filename": f"{base_name}.md",
+                "ticker": ticker,
+                "total_pages": 0,
+                "processed_pages": 0,
+                "char_count": os.path.getsize(out_md_path),
+                "file_size": os.path.getsize(out_md_path),
+                "status": "cached"
+            }
 
         doc = fitz.open(pdf_path)
         total_pages = len(doc)
@@ -89,7 +103,6 @@ class PDFToMarkdownParser:
         md_content.append(f"- **Parsed Pages**: {pages_to_process}\n")
         md_content.append("---\n")
 
-        # Open pdfplumber for table extraction if enabled
         plumber_doc = None
         if extract_tables:
             try:
@@ -104,14 +117,11 @@ class PDFToMarkdownParser:
 
             md_content.append(f"\n## Page {page_idx + 1}\n")
 
-            # Extract tables first if pdfplumber is active
-            has_table = False
             if plumber_doc and page_idx < len(plumber_doc.pages):
                 try:
                     p_page = plumber_doc.pages[page_idx]
                     tables = p_page.extract_tables()
                     if tables:
-                        has_table = True
                         for t_idx, tbl in enumerate(tables):
                             t_md = self.table_to_markdown(tbl)
                             if t_md.strip():
@@ -119,15 +129,13 @@ class PDFToMarkdownParser:
                 except Exception:
                     pass
 
-            # Extract text blocks via PyMuPDF
             page = doc[page_idx]
-            blocks = page.get_text("blocks") # list of (x0, y0, x1, y1, text, block_no, block_type)
+            blocks = page.get_text("blocks")
             
             for b in blocks:
                 text = b[4].strip()
                 if not text:
                     continue
-                # Simple heading heuristic: short lines in upper case or title case
                 lines = text.split("\n")
                 if len(lines) == 1 and len(text) < 80 and not text.endswith("."):
                     if text.isupper():
@@ -153,31 +161,6 @@ class PDFToMarkdownParser:
             "total_pages": total_pages,
             "processed_pages": pages_to_process,
             "char_count": len(full_md),
-            "file_size": os.path.getsize(out_md_path)
+            "file_size": os.path.getsize(out_md_path),
+            "status": "parsed"
         }
-
-    def batch_parse_directory(
-        self,
-        pdf_dir: str,
-        max_pages_per_doc: Optional[int] = None,
-        progress_callback: Optional[Callable[[str, int, int], None]] = None
-    ) -> List[Dict]:
-        """
-        Parses all PDFs in a directory to Markdown.
-        """
-        results = []
-        pdf_files = [f for f in os.listdir(pdf_dir) if f.lower().endswith(".pdf")]
-        total = len(pdf_files)
-        
-        for idx, f in enumerate(pdf_files, start=1):
-            pdf_path = os.path.join(pdf_dir, f)
-            try:
-                res = self.parse_pdf(
-                    pdf_path,
-                    max_pages=max_pages_per_doc,
-                    progress_callback=progress_callback
-                )
-                results.append(res)
-            except Exception as e:
-                print(f"Error parsing {f}: {e}")
-        return results

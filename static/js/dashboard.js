@@ -110,8 +110,9 @@ function renderSummaryKPIs(data) {
     document.getElementById("kpiHeadcount").textContent = fin.headcount?.toLocaleString() || "-";
     document.getElementById("kpiHeadcountPlateau").textContent = fin.hc_growth_yoy ? `${fin.hc_growth_yoy > 0 ? "+" : ""}${fin.hc_growth_yoy}% YoY` : "高原期";
 
+    const curSym = (data.currency && data.currency.includes("EUR")) ? "€" : "$";
     // Gross Profit per FTE
-    document.getElementById("kpiGpPerEmp").textContent = fin.gp_per_emp ? `€${(fin.gp_per_emp / 1000).toFixed(1)}K` : "-";
+    document.getElementById("kpiGpPerEmp").textContent = fin.gp_per_emp ? `${curSym}${(fin.gp_per_emp / 1000).toFixed(1)}K` : "-";
     document.getElementById("kpiGpPerEmpYoY").textContent = fin.gp_growth_yoy ? `${fin.gp_growth_yoy > 0 ? "+" : ""}${fin.gp_growth_yoy}% YoY` : "-";
 }
 
@@ -184,7 +185,7 @@ function renderProductivityChart(data) {
     const trace1 = {
         x: years,
         y: revPerEmp,
-        name: "人均營收 (k€/FTE)",
+        name: `人均營收 (${(data.currency && data.currency.includes("EUR")) ? "k€" : "k$"}/FTE)`,
         type: "scatter",
         mode: "lines+markers",
         line: { color: "#A855F7", width: 2.5 },
@@ -194,7 +195,7 @@ function renderProductivityChart(data) {
     const trace2 = {
         x: years,
         y: gpPerEmp,
-        name: "人均毛利 (k€/FTE)",
+        name: `人均毛利 (${(data.currency && data.currency.includes("EUR")) ? "k€" : "k$"}/FTE)`,
         type: "scatter",
         mode: "lines+markers",
         line: { color: "#F59E0B", width: 2.5 },
@@ -204,7 +205,7 @@ function renderProductivityChart(data) {
     const trace3 = {
         x: years,
         y: opPerEmp,
-        name: "人均營業利益 (k€/FTE)",
+        name: `人均營業利益 (${(data.currency && data.currency.includes("EUR")) ? "k€" : "k$"}/FTE)`,
         type: "scatter",
         mode: "lines+markers",
         line: { color: "#06B6D4", width: 2.5 },
@@ -218,7 +219,7 @@ function renderProductivityChart(data) {
         margin: { t: 25, r: 25, l: 50, b: 35 },
         legend: { orientation: "h", y: 1.15, x: 0.05 },
         yaxis: {
-            title: "千歐元 / 員工 (k€/FTE)",
+            title: `千${(data.currency && data.currency.includes("EUR")) ? "歐元" : "美元"} / 員工 (${(data.currency && data.currency.includes("EUR")) ? "k€" : "k$"}/FTE)`,
             gridcolor: "#334155"
         },
         xaxis: { gridcolor: "#334155" }
@@ -271,7 +272,7 @@ function renderProfitabilityChart(data) {
         margin: { t: 25, r: 40, l: 50, b: 35 },
         legend: { orientation: "h", y: 1.15, x: 0.05 },
         yaxis: {
-            title: "金額 (€ Millions)",
+            title: `金額 (${data.unit})`,
             gridcolor: "#334155"
         },
         yaxis2: {
@@ -298,7 +299,7 @@ function renderRdIntensityChart(data) {
     const trace1 = {
         x: years,
         y: rdExpense,
-        name: "研發費用 R&D (€M)",
+        name: `研發費用 R&D (${data.unit})`,
         type: "bar",
         marker: { color: "rgba(244, 63, 94, 0.7)", line: { color: "#F43F5E", width: 1.5 } },
         yaxis: "y1"
@@ -324,7 +325,7 @@ function renderRdIntensityChart(data) {
         margin: { t: 25, r: 40, l: 50, b: 35 },
         legend: { orientation: "h", y: 1.15, x: 0.05 },
         yaxis: {
-            title: "研發費用 (€ Millions)",
+            title: `研發費用 (${data.unit})`,
             titlefont: { color: "#F43F5E" },
             tickfont: { color: "#F43F5E" },
             gridcolor: "#334155"
