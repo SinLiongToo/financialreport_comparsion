@@ -1,0 +1,4126 @@
+# Annual Report: MICRON-TECHNOLOGY_2024_Q3_10-Q
+
+- **Source File**: `MICRON-TECHNOLOGY_2024_Q3_10-Q.pdf`
+- **Total Pages**: 65
+- **Parsed Pages**: 30
+
+---
+
+
+## Page 1
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+FORM 10-Q
+
+(Mark One)
+ 
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+#### For the quarterly period ended May 30, 2024
+
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+#### For the transition period from            to
+
+
+#### Commission file number 1-10658
+
+Micron Technology, Inc.
+
+(Exact name of registrant as specified in its charter)
+Delaware
+75-1618004
+(State or other jurisdiction of incorporation or organization)
+(IRS Employer Identification No.)
+Address of principal executive offices, including zip code
+8000 S. Federal Way, Boise, Idaho 83716-9632
+Registrant’s telephone number, including area code
+(208) 368-4000
+
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+MU
+Nasdaq Global Select Market
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+
+Yes☒
+No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+
+Yes☒
+No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,”
+“accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer
+Accelerated Filer
+Non-Accelerated Filer
+Smaller Reporting Company
+Emerging Growth Company
+☒
+☐
+☐
+☐
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section
+13(a) of the Exchange Act.
+☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes☐
+No ☒
+
+The number of outstanding shares of the registrant’s common stock as of June 20, 2024 was 1,108,841,326.
+
+
+## Page 2
+
+### Table 2.1
+
+| Introduction |  | 3 |
+| --- | --- | --- |
+| PART I. Financial Information |  |  |
+| Item 1. | Financial Statements: | 5 |
+|  | Consolidated Statements of Operations | 5 |
+|  | Consolidated Statements of Comprehensive Income (Loss) | 6 |
+|  | Consolidated Balance Sheets | 7 |
+|  | Consolidated Statements of Changes in Equity | 8 |
+|  | Consolidated Statements of Cash Flows | 10 |
+|  | Notes to Consolidated Financial Statements | 11 |
+| Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations | 28 |
+|  | Results of Operations | 30 |
+|  | Liquidity and Capital Resources | 34 |
+| Item 3. | Quantitative and Qualitative Disclosures about Market Risk | 37 |
+| Item 4. | Controls and Procedures | 37 |
+| PART II. Other Information |  |  |
+| Item 1. | Legal Proceedings | 38 |
+| Item 1A. | Risk Factors | 39 |
+| Item 2. | Unregistered Sales of Equity Securities and Use of Proceeds | 58 |
+| Item 5. | Other Information | 59 |
+| Item 6. | Exhibits | 60 |
+| Signatures |  | 61 |
+
+
+
+#### Table of Contents
+
+Introduction
+3
+PART I. Financial Information
+
+Item 1.
+Financial Statements:
+5
+Consolidated Statements of Operations
+5
+Consolidated Statements of Comprehensive Income  (Loss)
+6
+Consolidated Balance Sheets
+7
+Consolidated Statements of Changes in Equity
+8
+Consolidated Statements of Cash Flows
+10
+Notes to Consolidated Financial Statements
+11
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+28
+Results of Operations
+30
+Liquidity and Capital Resources
+34
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+37
+Item 4.
+Controls and Procedures
+37
+PART II. Other Information
+
+Item 1.
+Legal Proceedings
+38
+Item 1A.
+Risk Factors
+39
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+58
+Item 5.
+Other Information
+59
+Item 6.
+Exhibits
+60
+Signatures
+61
+
+
+#### 2
+
+
+## Page 3
+
+### Table 3.1
+
+| 2024 Term Loan A | Senior Term Loan A due October 2024, repaid January 12, 2024 |  | 2041 Notes | 3.366% Senior Notes due November 2041 |
+| --- | --- | --- | --- | --- |
+| 2025 Term Loan A | Senior Term Loan A due November 2025, repaid May 29, 2024 |  | 2051 Notes | 3.477% Senior Notes due November 2051 |
+| 2026 Term Loan A | Senior Term Loan A due November 2026 |  | CAC | China’s Cyberspace Administration |
+| 2027 Term Loan A | Senior Term Loan A due November 2027 |  | EBITDA | Earnings before interest, taxes, depreciation, and amortization |
+| 2026 Notes | 4.975% Senior Notes due February 2026 |  | EUV | Extreme ultraviolet lithography |
+| 2027 Notes | 4.185% Senior Notes due February 2027 |  | HBM | High-bandwidth memory, a stacked DRAM technology optimized for memory- bandwidth intensive applications |
+| 2028 Notes | 5.375% Senior Notes due April 2028 |  | LPDRAM | Low-power DRAM |
+| 2029 A Notes | 5.327% Senior Notes due February 2029 |  | MCP | Multichip packaged solutions with managed NAND and LPDRAM |
+| 2029 B Notes | 6.750% Senior Notes due November 2029 |  | Micron | Micron Technology, Inc. (Parent Company) |
+| 2030 Notes | 4.663% Senior Notes due February 2030 |  | NRV | Net realizable value |
+| 2031 Notes | 5.300% Senior Notes due January 2031 |  | Revolving Credit Facility | $2.5 billion Revolving Credit Facility due May 2026 |
+| 2032 Green Bonds | 2.703% Senior Notes due April 2032 |  | SOFR | Secured Overnight Financing Rate |
+| 2033 A Notes | 5.875% Senior Notes due February 2033 |  | SSD | Solid state drive |
+| 2033 B Notes | 5.875% Senior Notes due September 2033 |  |  |  |
+
+
+
+#### Table of Contents
+
+
+#### Definitions of Commonly Used Terms
+
+As used herein, “we,” “our,” “us,” and similar terms include Micron Technology, Inc. and its consolidated subsidiaries, unless the context indicates otherwise. Abbreviations, terms, or acronyms are commonly used or found in multiple
+locations throughout this report and include the following:
+
+Term
+Definition
+Term
+Definition
+
+2024 Term Loan A
+Senior Term Loan A due October 2024, repaid January 12, 2024
+2041 Notes
+3.366% Senior Notes due November 2041
+2025 Term Loan A
+Senior Term Loan A due November 2025, repaid May 29, 2024
+2051 Notes
+3.477% Senior Notes due November 2051
+2026 Term Loan A
+Senior Term Loan A due November 2026
+CAC
+China’s Cyberspace Administration
+2027 Term Loan A
+Senior Term Loan A due November 2027
+EBITDA
+Earnings before interest, taxes, depreciation, and amortization
+2026 Notes
+4.975% Senior Notes due February 2026
+EUV
+Extreme ultraviolet lithography
+2027 Notes
+4.185% Senior Notes due February 2027
+HBM
+High-bandwidth memory, a stacked DRAM technology optimized for memory-
+bandwidth intensive applications
+2028 Notes
+5.375% Senior Notes due April 2028
+LPDRAM
+Low-power DRAM
+2029 A Notes
+5.327% Senior Notes due February 2029
+MCP
+Multichip packaged solutions with managed NAND and LPDRAM
+2029 B Notes
+6.750% Senior Notes due November 2029
+Micron
+Micron Technology, Inc. (Parent Company)
+2030 Notes
+4.663% Senior Notes due February 2030
+NRV
+Net realizable value
+2031 Notes
+5.300% Senior Notes due January 2031
+Revolving Credit Facility
+$2.5 billion Revolving Credit Facility due May 2026
+2032 Green Bonds
+2.703% Senior Notes due April 2032
+SOFR
+Secured Overnight Financing Rate
+2033 A Notes
+5.875% Senior Notes due February 2033
+SSD
+Solid state drive
+2033 B Notes
+5.875% Senior Notes due September 2033
+
+We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and
+operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the
+data economy, enabling advances in artificial intelligence (AI) and compute-intensive applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.
+
+Micron, Crucial, any associated logos, and all other Micron trademarks are the property of Micron. Other product names or trademarks that are not owned by Micron are for identification purposes only and may be the trademarks of
+their respective owners.
+
+
+### 3 | 2024 Q3 10-Q
+
+
+## Page 4
+
+
+#### Table of Contents
+
+
+#### Available Information
+
+Investors and others should note that we announce material financial information about our business and products through a variety of means, including our investor relations website (investors.micron.com), filings with the U.S.
+Securities and Exchange Commission (“SEC”), press releases, public conference calls, blog posts (micron.com/about/blog), and webcasts. We use these channels to achieve broad, non-exclusionary distribution of information to the
+public and for complying with our disclosure obligations under Regulation FD. Therefore, we encourage investors, the media, and others interested in our company to review the information we post on such channels.
+
+
+#### Forward-Looking Statements
+
+This Form 10-Q contains trend information and other forward-looking statements that involve a number of risks and uncertainties. Such forward-looking statements may be identified by words such as "anticipate," "expect," "intend,"
+"committed," "plan," "opportunities," "future," "believe," "target," "on track," "estimate," "continue," "likely," "may," "will," "would," "should," "could," and variations of such words and similar expressions. However, the absence of these
+words or similar expressions does not mean that a statement is not forward-looking. Specific forward-looking statements include, but are not limited to, statements such as those made regarding potential change in our effective tax
+rate; the timing for construction and ramping of production for new memory manufacturing fabs in the United States; receipt and maintenance of government incentives; the payment of future cash dividends; market conditions and
+profitability in our industry; our DRAM and NAND market share; the impact of the Cyberspace Administration of China decision; capital spending in 2024; and the sufficiency of our cash and investments. Our actual results could differ
+materially from our historical results and those discussed in the forward-looking statements. Factors that could cause actual results to differ materially include, but are not limited to, those identified in “Part II. Other Information – Item
+1A. Risk Factors.”
+
+
+#### 4
+
+
+## Page 5
+
+### Table 5.1
+
+|  | Quarter ended |  | Nine months ended |
+| --- | --- | --- | --- |
+
+
+
+### Table 5.2
+
+| Revenue | $ | 6,811 | $ | 3,752 |  | $ | 17,361 | $ | 11,530 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of goods sold | 4,979 |  | 4,420 |  |  | 14,485 |  | 12,511 |  |
+| Gross margin | 1,832 |  | (668) |  |  | 2,876 |  | (981) |  |
+| Research and development | 850 |  | 758 |  |  | 2,527 |  | 2,395 |  |
+| Selling, general, and administrative | 291 |  | 219 |  |  | 834 |  | 701 |  |
+| Restructure and asset impairments | — |  | 68 |  |  | — |  | 167 |  |
+| Other operating (income) expense, net | (28) |  | 48 |  |  | (267) |  | 29 |  |
+| Operating income (loss) | 719 |  | (1,761) |  |  | (218) |  | (4,273) |  |
+| Interest income | 136 |  | 127 |  |  | 398 |  | 334 |  |
+| Interest expense | (150) |  | (119) |  |  | (426) |  | (259) |  |
+| Other non-operating income (expense), net | 10 |  | — |  |  | (24) |  | (2) |  |
+|  | 715 |  | (1,753) |  |  | (270) |  | (4,200) |  |
+| Income tax (provision) benefit | (377) |  | (139) |  |  | 172 |  | (201) |  |
+| Equity in net income (loss) of equity method investees | (6) |  | (4) |  |  | (11) |  | (2) |  |
+| Net income (loss) | $ | 332 | $ | (1,896) |  | $ | (109) | $ | (4,403) |
+| Earnings (loss) per share |  |  |  |  |  |  |  |  |  |
+| Basic | $ | 0.30 | $ | (1.73) |  | $ | (0.10) | $ | (4.03) |
+| Diluted | 0.30 |  | (1.73) |  |  | (0.10) |  | (4.03) |  |
+| Number of shares used in per share calculations |  |  |  |  |  |  |  |  |  |
+| Basic | 1,107 |  | 1,094 |  |  | 1,104 |  | 1,092 |  |
+| Diluted | 1,123 |  | 1,094 |  |  | 1,104 |  | 1,092 |  |
+
+
+
+#### Table of Contents
+
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+
+Micron Technology, Inc.
+Consolidated Statements of Operations
+
+(In millions, except per share amounts)
+(Unaudited)
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Revenue
+$
+6,811 $
+3,752 
+$
+17,361 $
+11,530 
+Cost of goods sold
+4,979 
+4,420 
+14,485 
+12,511 
+Gross margin
+1,832 
+(668)
+2,876 
+(981)
+
+Research and development
+850 
+758 
+2,527 
+2,395 
+Selling, general, and administrative
+291 
+219 
+834 
+701 
+Restructure and asset impairments
+— 
+68 
+— 
+167 
+Other operating (income) expense, net
+(28)
+48 
+(267)
+29 
+Operating income (loss)
+719 
+(1,761)
+(218)
+(4,273)
+
+Interest income
+136 
+127 
+398 
+334 
+Interest expense
+(150)
+(119)
+(426)
+(259)
+Other non-operating income (expense), net
+10 
+— 
+(24)
+(2)
+715 
+(1,753)
+(270)
+(4,200)
+
+Income tax (provision) benefit
+(377)
+(139)
+172 
+(201)
+Equity in net income (loss) of equity method investees
+(6)
+(4)
+(11)
+(2)
+
+Net income (loss)
+$
+332 $
+(1,896)
+$
+(109) $
+(4,403)
+
+
+#### Earnings (loss) per share
+
+Basic
+$
+0.30 $
+(1.73)
+$
+(0.10) $
+(4.03)
+Diluted
+0.30 
+(1.73)
+(0.10)
+(4.03)
+
+
+#### Number of shares used in per share calculations
+
+Basic
+1,107 
+1,094 
+1,104 
+1,092 
+Diluted
+1,123 
+1,094 
+1,104 
+1,092
+
+See accompanying notes to consolidated financial statements.
+
+
+### 5 | 2024 Q3 10-Q
+
+
+## Page 6
+
+### Table 6.1
+
+| Net income (loss) | $ | 332 | $ | (1,896) |  | $ | (109) | $ | (4,403) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss), net of tax |  |  |  |  |  |  |  |  |  |
+| Gains (losses) on derivative instruments | (47) |  | 22 |  |  | (14) |  | 222 |  |
+| Pension liability adjustments | (1) |  | (2) |  |  | (2) |  | (1) |  |
+| Unrealized gains (losses) on investments | 1 |  | 12 |  |  | 17 |  | — |  |
+| Foreign currency translation adjustments | — |  | 1 |  |  | — |  | (1) |  |
+| Other comprehensive income (loss) | (47) |  | 33 |  |  | 1 |  | 220 |  |
+| Total comprehensive income (loss) | $ | 285 | $ | (1,863) |  | $ | (108) | $ | (4,183) |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Statements of Comprehensive Income (Loss)
+
+(In millions)
+(Unaudited)
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Net income (loss)
+$
+332 $
+(1,896)
+$
+(109) $
+(4,403)
+
+
+#### Other comprehensive income (loss), net of tax
+
+Gains (losses) on derivative instruments
+(47)
+22 
+(14)
+222 
+Pension liability adjustments
+(1)
+(2)
+(2)
+(1)
+Unrealized gains (losses) on investments
+1 
+12 
+17 
+— 
+Foreign currency translation adjustments
+— 
+1 
+— 
+(1)
+Other comprehensive income (loss)
+(47)
+33 
+1 
+220
+
+Total comprehensive income (loss)
+$
+285 $
+(1,863)
+$
+(108) $
+(4,183)
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 6
+
+
+## Page 7
+
+### Table 7.1
+
+| Assets |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cash and equivalents | $ | 7,594 | $ | 8,577 |
+| Short-term investments | 785 |  | 1,017 |  |
+| Receivables | 5,131 |  | 2,443 |  |
+| Inventories | 8,512 |  | 8,387 |  |
+| Other current assets | 1,297 |  | 820 |  |
+| Total current assets | 23,319 |  | 21,244 |  |
+| Long-term marketable investments | 775 |  | 844 |  |
+| Property, plant, and equipment | 37,926 |  | 37,928 |  |
+| Operating lease right-of-use assets | 660 |  | 666 |  |
+| Intangible assets | 413 |  | 404 |  |
+| Deferred tax assets | 597 |  | 756 |  |
+| Goodwill | 1,150 |  | 1,150 |  |
+| Other noncurrent assets | 1,415 |  | 1,262 |  |
+| Total assets | $ | 66,255 | $ | 64,254 |
+| Liabilities and equity |  |  |  |  |
+| Accounts payable and accrued expenses | $ | 5,145 | $ | 3,958 |
+| Current debt | 398 |  | 278 |  |
+| Other current liabilities | 1,297 |  | 529 |  |
+| Total current liabilities | 6,840 |  | 4,765 |  |
+| Long-term debt | 12,860 |  | 13,052 |  |
+| Noncurrent operating lease liabilities | 609 |  | 603 |  |
+| Noncurrent unearned government incentives | 672 |  | 727 |  |
+| Other noncurrent liabilities | 1,049 |  | 987 |  |
+| Total liabilities | 22,030 |  | 20,134 |  |
+| Commitments and contingencies |  |  |  |  |
+| Shareholders’ equity |  |  |  |  |
+| Common stock, $0.10 par value, 3,000 shares authorized, 1,250 shares issued and 1,109 outstanding (1,239 shares issued and 1,098 outstanding as of August 31, 2023) | 125 |  | 124 |  |
+| Additional capital | 11,794 |  | 11,036 |  |
+| Retained earnings | 40,169 |  | 40,824 |  |
+| Treasury stock, 141 shares held (141 shares as of August 31, 2023) | (7,552) |  | (7,552) |  |
+| Accumulated other comprehensive income (loss) | (311) |  | (312) |  |
+| Total equity | 44,225 |  | 44,120 |  |
+| Total liabilities and equity | $ | 66,255 | $ | 64,254 |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Balance Sheets
+
+(In millions, except par value amounts)
+(Unaudited)
+
+
+#### As of
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### August 31,
+
+
+#### 2023
+
+Assets
+Cash and equivalents
+$
+7,594 $
+8,577 
+Short-term investments
+785 
+1,017 
+Receivables
+5,131 
+2,443 
+Inventories
+8,512 
+8,387 
+Other current assets
+1,297 
+820 
+Total current assets
+23,319 
+21,244 
+Long-term marketable investments
+775 
+844 
+Property, plant, and equipment
+37,926 
+37,928 
+Operating lease right-of-use assets
+660 
+666 
+Intangible assets
+413 
+404 
+Deferred tax assets
+597 
+756 
+Goodwill
+1,150 
+1,150 
+Other noncurrent assets
+1,415 
+1,262
+
+Total assets
+$
+66,255 $
+64,254
+
+Liabilities and equity
+Accounts payable and accrued expenses
+$
+5,145 $
+3,958 
+Current debt
+398 
+278 
+Other current liabilities
+1,297 
+529 
+Total current liabilities
+6,840 
+4,765 
+Long-term debt
+12,860 
+13,052 
+Noncurrent operating lease liabilities
+609 
+603 
+Noncurrent unearned government incentives
+672 
+727 
+Other noncurrent liabilities
+1,049 
+987 
+Total liabilities
+22,030 
+20,134
+
+
+#### Commitments and contingencies
+
+
+#### Shareholders’ equity
+
+Common stock, $0.10 par value, 3,000 shares authorized, 1,250 shares issued and 1,109 outstanding (1,239 shares issued and 1,098 outstanding as of August 31, 2023)
+125 
+124 
+Additional capital
+11,794 
+11,036 
+Retained earnings
+40,169 
+40,824 
+Treasury stock, 141 shares held (141 shares as of August 31, 2023)
+(7,552)
+(7,552)
+Accumulated other comprehensive income (loss)
+(311)
+(312)
+Total equity
+44,225 
+44,120
+
+Total liabilities and equity
+$
+66,255 $
+64,254
+
+See accompanying notes to consolidated financial statements.
+
+
+### 7 | 2024 Q3 10-Q
+
+
+## Page 8
+
+### Table 8.1
+
+| Balance at August 31, 2023 | 1,239 | $ | 124 | $ | 11,036 | $ | 40,824 | $ | (7,552) | $ | (312) | $ | 44,120 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net income (loss) | — | — |  | — |  | (1,234) |  | — |  | — |  | (1,234) |  |
+| Other comprehensive income (loss), net | — | — |  | — |  | — |  | — |  | 52 |  | 52 |  |
+| Stock issued under stock plans | 8 | — |  | 9 |  | — |  | — |  | — |  | 9 |  |
+| Stock-based compensation expense | — | — |  | 188 |  | — |  | — |  | — |  | 188 |  |
+| Repurchase of stock - withholdings on employee equity awards | (2) | — |  | (16) |  | (105) |  | — |  | — |  | (121) |  |
+| Dividends and dividend equivalents declared ($0.115 per share) | — | — |  | — |  | (129) |  | — |  | — |  | (129) |  |
+| Balance at November 30, 2023 | 1,245 | $ | 124 | $ | 11,217 | $ | 39,356 | $ | (7,552) | $ | (260) | $ | 42,885 |
+| Net income (loss) | — | — |  | — |  | 793 |  | — |  | — |  | 793 |  |
+| Other comprehensive income (loss), net | — | — |  | — |  | — |  | — |  | (4) |  | (4) |  |
+| Stock issued under stock plans | 3 | 1 |  | 136 |  | — |  | — |  | — |  | 137 |  |
+| Stock-based compensation expense | — | — |  | 213 |  | — |  | — |  | — |  | 213 |  |
+| Repurchase of stock - withholdings on employee equity awards | — | — |  | (2) |  | (22) |  | — |  | — |  | (24) |  |
+| Dividends and dividend equivalents declared ($0.115 per share) | — | — |  | — |  | (130) |  | — |  | — |  | (130) |  |
+| Balance at February 29, 2024 | 1,248 | $ | 125 | $ | 11,564 | $ | 39,997 | $ | (7,552) | $ | (264) | $ | 43,870 |
+| Net income (loss) | — | — |  | — |  | 332 |  | — |  | — |  | 332 |  |
+| Other comprehensive income (loss), net | — | — |  | — |  | — |  | — |  | (47) |  | (47) |  |
+| Stock issued under stock plans | 2 | — |  | 14 |  | — |  | — |  | — |  | 14 |  |
+| Stock-based compensation expense | — | — |  | 219 |  | — |  | — |  | — |  | 219 |  |
+| Repurchase of stock - withholdings on employee equity awards | — | — |  | (3) |  | (30) |  | — |  | — |  | (33) |  |
+| Dividends and dividend equivalents declared ($0.115 per share) | — | — |  | — |  | (130) |  | — |  | — |  | (130) |  |
+| Balance at May 30, 2024 | 1,250 | $ | 125 | $ | 11,794 | $ | 40,169 | $ | (7,552) | $ | (311) | $ | 44,225 |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Statements of Changes in Equity
+
+(In millions, except per share amounts)
+(Unaudited)
+
+
+#### Common Stock
+
+
+#### Additional
+
+
+#### Capital
+
+Retained
+Earnings
+Treasury Stock
+
+
+#### Accumulated Other
+
+
+#### Comprehensive
+
+
+#### Income (Loss)
+
+
+#### Total Shareholders’
+
+Equity
+Number
+of Shares
+Amount
+
+Balance at August 31, 2023
+1,239$
+124 $
+11,036 $
+40,824 $
+(7,552) $
+(312) $
+44,120 
+Net income (loss)
+— 
+— 
+— 
+(1,234)
+— 
+— 
+(1,234)
+Other comprehensive income (loss), net
+— 
+— 
+— 
+— 
+— 
+52 
+52 
+Stock issued under stock plans
+8
+— 
+9 
+— 
+— 
+— 
+9 
+Stock-based compensation expense
+— 
+— 
+188 
+— 
+— 
+— 
+188 
+Repurchase of stock - withholdings on employee equity awards
+(2)
+— 
+(16)
+(105)
+— 
+— 
+(121)
+Dividends and dividend equivalents declared ($ 0.115 per share)
+— 
+— 
+— 
+(129)
+— 
+— 
+(129)
+Balance at November 30, 2023
+1,245$
+124 $
+11,217 $
+39,356 $
+(7,552) $
+(260) $
+42,885 
+Net income (loss)
+— 
+— 
+— 
+793 
+— 
+— 
+793 
+Other comprehensive income (loss), net
+— 
+— 
+— 
+— 
+— 
+(4)
+(4)
+Stock issued under stock plans
+3
+1 
+136 
+— 
+— 
+— 
+137 
+Stock-based compensation expense
+— 
+— 
+213 
+— 
+— 
+— 
+213 
+Repurchase of stock - withholdings on employee equity awards
+— 
+— 
+(2)
+(22)
+— 
+— 
+(24)
+Dividends and dividend equivalents declared ($ 0.115 per share)
+— 
+— 
+— 
+(130)
+— 
+— 
+(130)
+Balance at February 29, 2024
+1,248$
+125 $
+11,564 $
+39,997 $
+(7,552) $
+(264) $
+43,870 
+Net income (loss)
+— 
+— 
+— 
+332 
+— 
+— 
+332 
+Other comprehensive income (loss), net
+— 
+— 
+— 
+— 
+— 
+(47)
+(47)
+Stock issued under stock plans
+2 
+— 
+14 
+— 
+— 
+— 
+14 
+Stock-based compensation expense
+— 
+— 
+219 
+— 
+— 
+— 
+219 
+Repurchase of stock - withholdings on employee equity awards
+— 
+— 
+(3)
+(30)
+— 
+— 
+(33)
+Dividends and dividend equivalents declared ($ 0.115 per share)
+— 
+— 
+— 
+(130)
+— 
+— 
+(130)
+
+Balance at May 30, 2024
+1,250$
+125 $
+11,794 $
+40,169 $
+(7,552) $
+(311) $
+44,225
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 8
+
+
+## Page 9
+
+### Table 9.1
+
+| Balance at September 1, 2022 | 1,226 | $ | 123 | $ | 10,197 | $ | 47,274 | $ | (7,127) | $ | (560) | $ | 49,907 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net income (loss) | — | — |  | — |  | (195) |  | — |  | — |  | (195) |  |
+| Other comprehensive income (loss), net | — | — |  | — |  | — |  | — |  | 87 |  | 87 |  |
+| Stock issued under stock plans | 8 | — |  | 7 |  | — |  | — |  | — |  | 7 |  |
+| Stock-based compensation expense | — | — |  | 146 |  | — |  | — |  | — |  | 146 |  |
+| Repurchase of stock - repurchase program | — | — |  | — |  | — |  | (425) |  | — |  | (425) |  |
+| Repurchase of stock - withholdings on employee equity awards | (2) | — |  | (15) |  | (80) |  | — |  | — |  | (95) |  |
+| Dividends and dividend equivalents declared ($0.115 per share) | — | — |  | — |  | (126) |  | — |  | — |  | (126) |  |
+| Balance at December 1, 2022 | 1,232 | $ | 123 | $ | 10,335 | $ | 46,873 | $ | (7,552) | $ | (473) | $ | 49,306 |
+| Net income (loss) | — | — |  | — |  | (2,312) |  | — |  | — |  | (2,312) |  |
+| Other comprehensive income (loss), net | — | — |  | — |  | — |  | — |  | 100 |  | 100 |  |
+| Stock issued under stock plans | 3 | — |  | 142 |  | — |  | — |  | — |  | 142 |  |
+| Stock-based compensation expense | — | — |  | 157 |  | — |  | — |  | — |  | 157 |  |
+| Repurchase of stock - withholdings on employee equity awards | — | — |  | (1) |  | (7) |  | — |  | — |  | (8) |  |
+| Dividends and dividend equivalents declared ($0.115 per share) | — | — |  | — |  | (128) |  | — |  | — |  | (128) |  |
+| Balance at March 2, 2023 | 1,235 | $ | 123 | $ | 10,633 | $ | 44,426 | $ | (7,552) | $ | (373) | $ | 47,257 |
+| Net income (loss) | — | — |  | — |  | (1,896) |  | — |  | — |  | (1,896) |  |
+| Other comprehensive income (loss), net | — | — |  | — |  | — |  | — |  | 33 |  | 33 |  |
+| Stock issued under stock plans | 1 | 1 |  | 6 |  | — |  | — |  | — |  | 7 |  |
+| Stock-based compensation expense | — | — |  | 145 |  | — |  | — |  | — |  | 145 |  |
+| Repurchase of stock - withholdings on employee equity awards | — | — |  | (2) |  | (11) |  | — |  | — |  | (13) |  |
+| Dividends and dividend equivalents declared ($0.115 per share) | — | — |  | — |  | (128) |  | — |  | — |  | (128) |  |
+| Balance at June 1, 2023 | 1,236 | $ | 124 | $ | 10,782 | $ | 42,391 | $ | (7,552) | $ | (340) | $ | 45,405 |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Statements of Changes in Equity
+
+(In millions, except per share amounts)
+(Unaudited)
+
+
+#### Common Stock
+
+
+#### Additional
+
+
+#### Capital
+
+Retained
+Earnings
+Treasury Stock
+
+
+#### Accumulated Other
+
+
+#### Comprehensive
+
+
+#### Income (Loss)
+
+
+#### Total Shareholders’
+
+Equity
+Number
+of Shares
+Amount
+
+Balance at September 1, 2022
+1,226 $
+123 $
+10,197 $
+47,274 $
+(7,127) $
+(560) $
+49,907 
+Net income (loss)
+— 
+— 
+— 
+(195)
+— 
+— 
+(195)
+Other comprehensive income (loss), net
+— 
+— 
+— 
+— 
+— 
+87 
+87 
+Stock issued under stock plans
+8
+— 
+7 
+— 
+— 
+— 
+7 
+Stock-based compensation expense
+— 
+— 
+146 
+— 
+— 
+— 
+146 
+Repurchase of stock - repurchase program
+— 
+— 
+— 
+— 
+(425)
+— 
+(425)
+Repurchase of stock - withholdings on employee equity awards
+(2)
+— 
+(15)
+(80)
+— 
+— 
+(95)
+Dividends and dividend equivalents declared ($ 0.115 per share)
+— 
+— 
+— 
+(126)
+— 
+— 
+(126)
+Balance at December 1, 2022
+1,232$
+123 $
+10,335 $
+46,873 $
+(7,552) $
+(473) $
+49,306 
+Net income (loss)
+— 
+— 
+— 
+(2,312)
+— 
+— 
+(2,312)
+Other comprehensive income (loss), net
+— 
+— 
+— 
+— 
+— 
+100 
+100 
+Stock issued under stock plans
+3
+— 
+142 
+— 
+— 
+— 
+142 
+Stock-based compensation expense
+— 
+— 
+157 
+— 
+— 
+— 
+157 
+Repurchase of stock - withholdings on employee equity awards
+— 
+— 
+(1)
+(7)
+— 
+— 
+(8)
+Dividends and dividend equivalents declared ($ 0.115 per share)
+— 
+— 
+— 
+(128)
+— 
+— 
+(128)
+Balance at March 2, 2023
+1,235$
+123 $
+10,633 $
+44,426 $
+(7,552) $
+(373) $
+47,257 
+Net income (loss)
+— 
+— 
+— 
+(1,896)
+— 
+— 
+(1,896)
+Other comprehensive income (loss), net
+— 
+— 
+— 
+— 
+— 
+33 
+33 
+Stock issued under stock plans
+1 
+1 
+6 
+— 
+— 
+— 
+7 
+Stock-based compensation expense
+— 
+— 
+145 
+— 
+— 
+— 
+145 
+Repurchase of stock - withholdings on employee equity awards
+— 
+— 
+(2)
+(11)
+— 
+— 
+(13)
+Dividends and dividend equivalents declared ($ 0.115 per share)
+— 
+— 
+— 
+(128)
+— 
+— 
+(128)
+
+Balance at June 1, 2023
+1,236$
+124 $
+10,782 $
+42,391 $
+(7,552) $
+(340) $
+45,405
+
+See accompanying notes to consolidated financial statements.
+
+
+### 9 | 2024 Q3 10-Q
+
+
+## Page 10
+
+### Table 10.1
+
+| Cash flows from operating activities |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Net income (loss) | $ | (109) | $ | (4,403) |
+| Adjustments to reconcile net income (loss) to net cash provided by operating activities: |  |  |  |  |
+| Depreciation expense and amortization of intangible assets | 5,794 |  | 5,819 |  |
+| Stock-based compensation | 620 |  | 448 |  |
+| Provision to write-down inventories to net realizable value | — |  | 1,831 |  |
+| Change in operating assets and liabilities: |  |  |  |  |
+| Receivables | (2,562) |  | 2,728 |  |
+| Inventories | (125) |  | (3,406) |  |
+| Other current assets | (435) |  | (35) |  |
+| Accounts payable and accrued expenses | 846 |  | (1,113) |  |
+| Other current liabilities | 769 |  | (677) |  |
+| Other | 304 |  | 118 |  |
+| Net cash provided by operating activities | 5,102 |  | 1,310 |  |
+| Cash flows from investing activities |  |  |  |  |
+| Expenditures for property, plant, and equipment | (5,266) |  | (6,215) |  |
+| Purchases of available-for-sale securities | (1,110) |  | (496) |  |
+| Proceeds from maturities and sales of available-for-sale securities | 1,433 |  | 1,192 |  |
+| Proceeds from government incentives | 267 |  | 248 |  |
+| Other | (35) |  | (90) |  |
+| Net cash provided by (used for) investing activities | (4,711) |  | (5,361) |  |
+| Cash flows from financing activities |  |  |  |  |
+| Repayments of debt | (1,816) |  | (706) |  |
+| Payments of dividends to shareholders | (384) |  | (378) |  |
+| Payments on equipment purchase contracts | (127) |  | (112) |  |
+| Repurchases of common stock - repurchase program | — |  | (425) |  |
+| Proceeds from issuance of debt | 999 |  | 6,716 |  |
+| Other | (40) |  | — |  |
+| Net cash provided by (used for) financing activities | (1,368) |  | 5,095 |  |
+| Effect of changes in currency exchange rates on cash, cash equivalents, and restricted cash | (15) |  | (13) |  |
+| Net increase (decrease) in cash, cash equivalents, and restricted cash | (992) |  | 1,031 |  |
+| Cash, cash equivalents, and restricted cash at beginning of period | 8,656 |  | 8,339 |  |
+| Cash, cash equivalents, and restricted cash at end of period | $ | 7,664 | $ | 9,370 |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Statements of Cash Flows
+
+(In millions)
+(Unaudited)
+
+
+#### Nine months ended
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Cash flows from operating activities
+Net income (loss)
+$
+(109) $
+(4,403)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+ 
+ 
+Depreciation expense and amortization of intangible assets
+5,794 
+5,819 
+Stock-based compensation
+620 
+448 
+Provision to write-down inventories to net realizable value
+— 
+1,831 
+Change in operating assets and liabilities:
+ 
+ 
+Receivables
+(2,562)
+2,728 
+Inventories
+(125)
+(3,406)
+Other current assets
+(435)
+(35)
+Accounts payable and accrued expenses
+846 
+(1,113)
+Other current liabilities
+769 
+(677)
+Other
+304 
+118 
+Net cash provided by operating activities
+5,102 
+1,310
+
+Cash flows from investing activities
+ 
+ 
+Expenditures for property, plant, and equipment
+(5,266)
+(6,215)
+Purchases of available-for-sale securities
+(1,110)
+(496)
+Proceeds from maturities and sales of available-for-sale securities
+1,433 
+1,192 
+Proceeds from government incentives
+267 
+248 
+Other
+(35)
+(90)
+Net cash provided by (used for) investing activities
+(4,711)
+(5,361)
+
+Cash flows from financing activities
+ 
+ 
+Repayments of debt
+(1,816)
+(706)
+Payments of dividends to shareholders
+(384)
+(378)
+Payments on equipment purchase contracts
+(127)
+(112)
+Repurchases of common stock - repurchase program
+— 
+(425)
+Proceeds from issuance of debt
+999 
+6,716 
+Other
+(40)
+— 
+Net cash provided by (used for) financing activities
+(1,368)
+5,095
+
+Effect of changes in currency exchange rates on cash, cash equivalents, and restricted cash
+(15)
+(13)
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+(992)
+1,031 
+Cash, cash equivalents, and restricted cash at beginning of period
+8,656 
+8,339 
+Cash, cash equivalents, and restricted cash at end of period
+$
+7,664 $
+9,370
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 10
+
+
+## Page 11
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(All tabular amounts in millions, except per share amounts)
+(Unaudited)
+
+
+#### Significant Accounting Policies
+
+For a discussion of our significant accounting policies, see “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Significant Accounting Policies” of our Annual Report on Form
+10-K for the year ended August 31, 2023. There have been no changes to our significant accounting policies since our Annual Report on Form 10-K for the year ended August 31, 2023.
+
+
+#### Basis of Presentation
+
+The accompanying consolidated financial statements include the accounts of Micron Technology, Inc. and our consolidated subsidiaries and have been prepared in accordance with accounting principles generally accepted in the
+United States of America (“U.S. GAAP”) consistent in all material respects with those applied in our Annual Report on Form 10-K for the year ended August 31, 2023.
+
+In the opinion of our management, the accompanying unaudited consolidated financial statements contain all necessary adjustments, consisting of a normal recurring nature, to fairly state the financial information set forth herein.
+Certain reclassifications have been made to prior period amounts to conform to current period presentation.
+
+Our fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31. Fiscal years 2024 and 2023 each contain 52 weeks. All period references are to our fiscal periods unless otherwise indicated.
+ These interim
+financial statements should be read in conjunction with the consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the year ended August 31, 2023.
+
+
+#### Variable Interest Entities
+
+A number of special purpose entities (the "Lease SPEs") were created by a third-party to facilitate equipment lease financing transactions between us and financial institutions that fund the lease financing transactions ("Financing
+Entities"). Neither we nor the Financing Entities have an equity interest in the Lease SPEs. The Lease SPEs are variable interest entities because their equity is not sufficient to permit them to finance their activities without additional
+support from the Financing Entities and because the third-party equity holder lacks characteristics of a controlling financial interest. By design, the arrangements with the Lease SPEs are merely financing vehicles and we do not bear
+any significant risks from variable interests with the Lease SPEs. We have determined that we do not have the power to direct the activities of the Lease SPEs that most significantly impact their economic performance and we do not
+consolidate the Lease SPEs. As of May 30, 2024, we had approximately $600 million of financial lease liabilities and right-of-use assets under these arrangements.
+
+
+### 11 | 2024 Q3 10-Q
+
+
+## Page 12
+
+### Table 12.1
+
+| Cash | $ | 6,355 | $ | — | $ | — | $ | 6,355 |  | $ | 5,771 | $ | — | $ | — | $ | 5,771 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Level 1(2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds | 570 |  | — |  | — |  | 570 |  |  | 1,629 |  | — |  | — |  | 1,629 |  |
+| Level 2(3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Certificates of deposit | 554 |  | 6 |  | — |  | 560 |  |  | 1,172 |  | 25 |  | — |  | 1,197 |  |
+| Corporate bonds | — |  | 454 |  | 418 |  | 872 |  |  | — |  | 737 |  | 437 |  | 1,174 |  |
+| Asset-backed securities | — |  | 42 |  | 337 |  | 379 |  |  | — |  | 15 |  | 387 |  | 402 |  |
+| Commercial paper | 56 |  | 130 |  | — |  | 186 |  |  | — |  | 109 |  | — |  | 109 |  |
+| Government securities | 59 |  | 153 |  | 20 |  | 232 |  |  | 5 |  | 131 |  | 20 |  | 156 |  |
+|  | 7,594 |  | $ | 785 | $ | 775 | $ | 9,154 |  | 8,577 |  | $ | 1,017 | $ | 844 | $ | 10,438 |
+| Restricted cash(4) | 70 |  |  |  |  |  |  |  |  | 79 |  |  |  |  |  |  |  |
+|  | $ | 7,664 |  |  |  |  |  |  |  | $ | 8,656 |  |  |  |  |  |  |
+
+
+
+#### Table of Contents
+
+
+#### Cash and Investments
+
+All of our short-term investments and long-term marketable investments were classified as available-for-sale as of the dates noted below. Cash and equivalents and the fair values of our available-for-sale investments, which
+approximated amortized costs, were as follows:
+
+As of May 30, 2024
+As of August 31, 2023
+Cash and
+Equivalents
+
+Short-term
+Investments
+
+
+#### Long-term Marketable
+
+Investments
+Total Fair Value
+
+Cash and
+Equivalents
+
+Short-term
+Investments
+
+
+#### Long-term Marketable
+
+Investments
+Total Fair Value
+
+Cash
+$
+6,355 $
+— $
+— $
+6,355 
+$
+5,771 $
+— $
+— $
+5,771 
+Level 1
+
+Money market funds
+570 
+— 
+— 
+570 
+1,629 
+— 
+— 
+1,629 
+Level 2
+
+Certificates of deposit
+554 
+6 
+— 
+560 
+1,172 
+25 
+— 
+1,197 
+Corporate bonds
+— 
+454 
+418 
+872 
+— 
+737 
+437 
+1,174 
+Asset-backed securities
+— 
+42 
+337 
+379 
+— 
+15 
+387 
+402 
+Commercial paper
+56 
+130 
+— 
+186 
+— 
+109 
+— 
+109 
+Government securities
+59 
+153 
+20 
+232 
+5 
+131 
+20 
+156
+
+7,594 $
+785 $
+775 $
+9,154 
+8,577 $
+1,017 $
+844 $
+10,438 
+Restricted cash
+70 
+79
+
+Cash, cash equivalents, and restricted cash
+$
+7,664 
+$
+8,656
+
+The maturities of long-term marketable investments primarily range from  one to five years, except for asset-backed securities which are not due at a single maturity date.
+The fair value of Level 1 securities is measured based on quoted prices in active markets for identical assets.
+The fair value of Level 2 securities is measured using information obtained from pricing services, which obtain quoted market prices for similar instruments, non-binding market consensus prices that are corroborated by observable
+market data, or various other methodologies, to determine the appropriate value at the measurement date. We perform supplemental analysis to validate information obtained from these pricing services. No adjustments were made
+to the fair values indicated by such pricing information as of May 30, 2024 or August 31, 2023.
+Restricted cash is included in other current assets and other noncurrent assets and primarily relates to certain government incentives received prior to being earned and for which restrictions lapse upon achieving certain
+performance conditions or which will be returned if performance conditions are not met.
+
+Gross realized gains and losses from sales of available-for-sale securities were not significant for any period presented.
+
+
+#### Non-marketable Equity Investments
+
+In addition to the amounts included in the table above, we had $ 192 million and $218 million of non-marketable equity investments without a readily determinable fair value that were included in other noncurrent assets as of May 30,
+2024 and August 31, 2023, respectively. We recognized a net loss in other non-operating income (expense) on our non-marketable investments of $29 million for the first nine months of 2024. The amounts recognized for the other
+periods presented were not significant. Our non-marketable equity investments are recorded at fair value on a non-recurring basis and classified as Level 3.
+
+(1)
+(1)
+
+
+#### (2)
+
+
+#### (3)
+
+
+#### (4)
+
+
+#### (1)
+
+
+#### (2)
+
+
+#### (3)
+
+
+#### (4)
+
+
+#### 12
+
+
+## Page 13
+
+### Table 13.1
+
+| Trade receivables | $ 4,416 | $ 2,048 |
+| --- | --- | --- |
+| Government incentives | 340 | 105 |
+| Income and other taxes | 208 | 194 |
+| Other | 167 | 96 |
+|  | $ 5,131 | $ 2,443 |
+
+
+### Table 13.2
+
+| Finished goods $ | 1,280 | $ 1,616 |
+| --- | --- | --- |
+| Work in process | 6,542 | 6,111 |
+| Raw materials and supplies | 690 | 660 |
+| $ | 8,512 | $ 8,387 |
+
+
+### Table 13.3
+
+| Land | $ 284 | $ 283 |
+| --- | --- | --- |
+| Buildings | 19,134 | 17,967 |
+| Equipment(1) | 68,426 | 65,555 |
+| Construction in progress(2) | 3,351 | 2,464 |
+| Software | 1,346 | 1,316 |
+|  | 92,541 | 87,585 |
+| Accumulated depreciation | (54,615) | (49,657) |
+|  | $ 37,926 | $ 37,928 |
+
+
+### Table 13.4
+
+| Product and process technology | $ | 662 | $ | (260) | $ | 402 |  | $ | 613 | $ (209) | $ 404 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other | 11 |  | — |  | 11 |  |  | — |  | — | — |
+|  | $ | 673 | $ | (260) | $ | 413 |  | $ | 613 | $ (209) | $ 404 |
+
+
+
+#### Table of Contents
+
+
+#### Receivables
+
+
+#### As of
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### August 31,
+
+
+#### 2023
+
+Trade receivables
+$
+4,416 $
+2,048 
+Government incentives
+340 
+105 
+Income and other taxes
+208 
+194 
+Other
+167 
+96 
+$
+5,131 $
+2,443
+
+
+#### Inventories
+
+
+#### As of
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### August 31,
+
+
+#### 2023
+
+Finished goods
+$
+1,280 $
+1,616 
+Work in process
+6,542 
+6,111 
+Raw materials and supplies
+690 
+660 
+$
+8,512 $
+8,387
+
+
+#### Property, Plant, and Equipment
+
+
+#### As of
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### August 31,
+
+
+#### 2023
+
+Land
+$
+284 $
+283 
+Buildings
+19,134 
+17,967 
+Equipment
+68,426 
+65,555 
+Construction in progress
+3,351 
+2,464 
+Software
+1,346 
+1,316 
+ 
+92,541 
+87,585 
+Accumulated depreciation
+(54,615)
+(49,657)
+
+$
+37,926 $
+37,928
+
+Includes costs related to equipment not placed into service of $ 1.77 billion as of May 30, 2024 and $ 2.91 billion as of August 31, 2023.
+Includes building-related construction, tool installation, and software costs for assets not placed into service.
+
+
+#### Intangible Assets
+
+As of May 30, 2024
+As of August 31, 2023
+Gross
+Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Net Carrying
+
+
+#### Amount
+
+Gross
+Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Net Carrying
+
+
+#### Amount
+
+Product and process technology
+$
+662 $
+(260) $
+402 
+$
+613 $
+(209) $
+404 
+Other
+11 
+— 
+11 
+— 
+— 
+— 
+$
+673 $
+(260) $
+413 
+$
+613 $
+(209) $
+404
+
+
+#### (1)
+
+
+#### (2)
+
+
+#### (1)
+
+
+#### (2)
+
+
+### 13 | 2024 Q3 10-Q
+
+
+## Page 14
+
+### Table 14.1
+
+| Finance lease cost |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Amortization of right-of-use asset | $ | 52 | $ | 28 | $ 121 | $ | 77 |
+| Interest on lease liability | 18 |  | 6 |  | 48 | 18 |  |
+| Operating lease cost(1) | 35 |  | 34 |  | 103 | 101 |  |
+|  | $ | 105 | $ | 68 | $ 272 | $ | 196 |
+
+
+### Table 14.2
+
+| Cash flows used for operating activities |  |  |  |
+| --- | --- | --- | --- |
+| Finance leases | $ 41 | $ | 17 |
+| Operating leases | 98 | 91 |  |
+| Cash flows used for financing activities – Finance leases | 99 | 79 |  |
+| Noncash acquisitions of right-of-use assets |  |  |  |
+| Finance leases | 758 | 354 |  |
+| Operating leases | 48 | 35 |  |
+
+
+### Table 14.3
+
+| Finance lease right-of-use assets (included in property, plant, and equipment) | $ | 1,944 | $ | 1,311 |  |
+| --- | --- | --- | --- | --- | --- |
+| Current operating lease liabilities (included in accounts payable and accrued expenses) | 68 |  |  | 66 |  |
+| Weighted-average remaining lease term (in years) |  |  |  |  |  |
+| Finance leases | 8 |  |  | 9 |  |
+| Operating leases | 10 |  |  | 11 |  |
+| Weighted-average discount rate |  |  |  |  |  |
+| Finance leases | 4.78 |  | % | 3.86 | % |
+| Operating leases | 3.37 |  | % | 3.21 | % |
+
+
+
+#### Table of Contents
+
+In the first nine months of 2024 and 2023, we capitalized $ 60 million and $72 million, respectively, for product and process technology with weighted-average useful lives of 10 years and 9 years, respectively. Amortization expense was
+$61 million and $66 million for the first nine months of 2024 and 2023, respectively. Expected amortization expense is $ 21 million for the remainder of 2024, $63 million for 2025, $53 million for 2026, $49 million for 2027, and $47 million
+for 2028.
+
+
+#### Leases
+
+
+#### The components of lease cost are presented below:
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### Finance lease cost
+
+Amortization of right-of-use asset
+$
+52 $
+28 
+$
+121 $
+77 
+Interest on lease liability
+18 
+6 
+48 
+18 
+Operating lease cost
+35 
+34 
+103 
+101 
+$
+105 $
+68 
+$
+272 $
+196
+
+Operating lease cost includes short-term and variable lease expenses, which were not material for the periods presented.
+
+
+#### Supplemental cash flow information related to leases was as follows:
+
+
+#### Nine months ended
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### Cash flows used for operating activities
+
+Finance leases
+$
+41 $
+17 
+Operating leases
+98 
+91 
+Cash flows used for financing activities – Finance leases
+99 
+79 
+Noncash acquisitions of right-of-use assets
+
+Finance leases
+758 
+354 
+Operating leases
+48 
+35
+
+
+#### Supplemental balance sheet information related to leases was as follows:
+
+
+#### As of
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### August 31,
+
+
+#### 2023
+
+Finance lease right-of-use assets (included in property, plant, and equipment)
+$
+1,944 
+$
+1,311 
+Current operating lease liabilities (included in accounts payable and accrued expenses)
+68 
+66
+
+
+#### Weighted-average remaining lease term (in years)
+
+Finance leases
+8
+9
+Operating leases
+10
+11
+Weighted-average discount rate
+
+Finance leases
+4.78 %
+3.86 %
+Operating leases
+3.37 %
+3.21 %
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 14
+
+
+## Page 15
+
+### Table 15.1
+
+| Remainder of 2024 | $ | 95 | $ | 9 |
+| --- | --- | --- | --- | --- |
+| 2025 | 368 |  | 86 |  |
+| 2026 | 351 |  | 88 |  |
+| 2027 | 341 |  | 86 |  |
+| 2028 | 328 |  | 80 |  |
+| 2029 and thereafter | 778 |  | 468 |  |
+| Less imputed interest | (335) |  | (140) |  |
+|  | $ | 1,926 | $ | 677 |
+
+
+### Table 15.2
+
+| Accounts payable | $ | 1,951 | $ | 1,725 |
+| --- | --- | --- | --- | --- |
+| Property, plant, and equipment | 1,663 |  | 1,419 |  |
+| Salaries, wages, and benefits | 909 |  | 367 |  |
+| Income and other taxes | 121 |  | 67 |  |
+| Other | 501 |  | 380 |  |
+|  | $ | 5,145 | $ | 3,958 |
+
+
+
+#### Table of Contents
+
+As of May 30, 2024, maturities of lease liabilities by fiscal year were as follows:
+For the year ending
+Finance Leases
+Operating Leases
+
+Remainder of 2024
+$
+95 $
+9 
+2025
+368 
+86 
+2026
+351 
+88 
+2027
+341 
+86 
+2028
+328 
+80 
+2029 and thereafter
+778 
+468 
+Less imputed interest
+(335)
+(140)
+$
+1,926 $
+677
+
+The table above excludes obligations for leases that have been executed but have not yet commenced. As of May 30, 2024, excluded obligations consisted of $ 704 million of finance lease obligations over a weighted-average period of
+14 years for gas supply arrangements deemed to contain embedded leases and equipment leases. We will recognize right-of-use assets and associated lease liabilities at the time such assets become available for our use.
+
+
+#### Accounts Payable and Accrued Expenses
+
+
+#### As of
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### August 31,
+
+
+#### 2023
+
+Accounts payable
+$
+1,951 $
+1,725 
+Property, plant, and equipment
+1,663 
+1,419 
+Salaries, wages, and benefits
+909 
+367 
+Income and other taxes
+121 
+67 
+Other
+501 
+380 
+$
+5,145 $
+3,958
+
+
+### 15 | 2024 Q3 10-Q
+
+
+## Page 16
+
+### Table 16.1
+
+| 2026 Term Loan A | 6.791 | % | 6.93 | % | $ | 49 | $ | 884 | $ | 933 | $ | 49 | $ | 921 | $ | 970 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2027 Term Loan A | 6.916 | % | 7.05 | % | 57 |  | 1,021 |  | 1,078 |  | 57 |  | 1,063 |  | 1,120 |  |
+| 2026 Notes | 4.975 | % | 5.07 | % | — |  | 499 |  | 499 |  | — |  | 499 |  | 499 |  |
+| 2027 Notes(1) | 4.185 | % | 4.27 | % | — |  | 800 |  | 800 |  | — |  | 798 |  | 798 |  |
+| 2028 Notes | 5.375 | % | 5.52 | % | — |  | 597 |  | 597 |  | — |  | 596 |  | 596 |  |
+| 2029 A Notes | 5.327 | % | 5.40 | % | — |  | 698 |  | 698 |  | — |  | 697 |  | 697 |  |
+| 2029 B Notes | 6.750 | % | 6.54 | % | — |  | 1,262 |  | 1,262 |  | — |  | 1,263 |  | 1,263 |  |
+| 2030 Notes | 4.663 | % | 4.73 | % | — |  | 847 |  | 847 |  | — |  | 846 |  | 846 |  |
+| 2031 Notes | 5.300 | % | 5.41 | % | — |  | 994 |  | 994 |  | — |  | — |  | — |  |
+| 2032 Green Bonds | 2.703 | % | 2.77 | % | — |  | 995 |  | 995 |  | — |  | 995 |  | 995 |  |
+| 2033 A Notes | 5.875 | % | 5.96 | % | — |  | 745 |  | 745 |  | — |  | 745 |  | 745 |  |
+| 2033 B Notes | 5.875 | % | 6.01 | % | — |  | 891 |  | 891 |  | — |  | 890 |  | 890 |  |
+| 2041 Notes | 3.366 | % | 3.41 | % | — |  | 497 |  | 497 |  | — |  | 497 |  | 497 |  |
+| 2051 Notes | 3.477 | % | 3.52 | % | — |  | 496 |  | 496 |  | — |  | 496 |  | 496 |  |
+| 2024 Term Loan A | N/A |  | N/A |  | — |  | — |  | — |  | — |  | 587 |  | 587 |  |
+| 2025 Term Loan A | N/A |  | N/A |  | — |  | — |  | — |  | — |  | 1,050 |  | 1,050 |  |
+| Finance lease obligations | N/A |  | 4.78 | % | 292 |  | 1,634 |  | 1,926 |  | 172 |  | 1,109 |  | 1,281 |  |
+|  |  |  |  |  | $ | 398 | $ | 12,860 | $ | 13,258 | $ | 278 | $ | 13,052 | $ | 13,330 |
+
+
+### Table 16.2
+
+| Issuance |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2031 Notes | January 12, 2024 | $ | 1,000 $ | 993 | $ | 993 |
+| Prepayments |  |  |  |  |  |  |
+| 2024 Term Loan A | January 12, 2024 | (588) |  | (587) | (588) |  |
+| 2025 Term Loan A | January 12, 2024 | (402) |  | (401) | (402) |  |
+| 2025 Term Loan A | May 29, 2024 | (650) |  | (649) | (650) |  |
+|  |  | $ | (640)$ | (644) | $ | (647) |
+
+
+
+#### Table of Contents
+
+
+#### Debt
+
+As of May 30, 2024
+As of August 31, 2023
+Net Carrying Amount
+Net Carrying Amount
+Stated Rate
+Effective Rate
+Current
+Long-Term
+Total
+Current
+Long-Term
+Total
+
+2026 Term Loan A
+6.791 %
+6.93 % $
+49 $
+884 $
+933 
+$
+49 $
+921 $
+970 
+2027 Term Loan A
+6.916 %
+7.05 %
+57 
+1,021 
+1,078 
+57 
+1,063 
+1,120 
+2026 Notes
+4.975 %
+5.07 %
+— 
+499 
+499 
+— 
+499 
+499 
+2027 Notes
+4.185 %
+4.27 %
+— 
+800 
+800 
+— 
+798 
+798 
+2028 Notes
+5.375 %
+5.52 %
+— 
+597 
+597 
+— 
+596 
+596 
+2029 A Notes
+5.327 %
+5.40 %
+— 
+698 
+698 
+— 
+697 
+697 
+2029 B Notes
+6.750 %
+6.54 %
+— 
+1,262 
+1,262 
+— 
+1,263 
+1,263 
+2030 Notes
+4.663 %
+4.73 %
+— 
+847 
+847 
+— 
+846 
+846 
+2031 Notes
+5.300 %
+5.41 %
+— 
+994 
+994 
+— 
+— 
+— 
+2032 Green Bonds
+2.703 %
+2.77 %
+— 
+995 
+995 
+— 
+995 
+995 
+2033 A Notes
+5.875 %
+5.96 %
+— 
+745 
+745 
+— 
+745 
+745 
+2033 B Notes
+5.875 %
+6.01 %
+— 
+891 
+891 
+— 
+890 
+890 
+2041 Notes
+3.366 %
+3.41 %
+— 
+497 
+497 
+— 
+497 
+497 
+2051 Notes
+3.477 %
+3.52 %
+— 
+496 
+496 
+— 
+496 
+496 
+2024 Term Loan A
+N/A
+N/A
+— 
+— 
+— 
+— 
+587 
+587 
+2025 Term Loan A
+N/A
+N/A
+— 
+— 
+— 
+— 
+1,050 
+1,050 
+Finance lease obligations
+N/A
+4.78 %
+292 
+1,634 
+1,926 
+172 
+1,109 
+1,281
+
+$
+398 $
+12,860 $
+13,258 
+$
+278 $
+13,052 $
+13,330
+
+In 2021, we entered into fixed-to-floating interest rate swaps on the 2027 Notes with an aggregate $ 900 million notional amount equal to the principal amount of the 2027 Notes. The resulting variable interest paid is at a rate equal to
+SOFR plus approximately 3.33%. The fixed-to-floating interest rate swaps are accounted for as fair value hedges, and as a result, the carrying values of our 2027 Notes reflect adjustments in fair value.
+
+
+#### Debt Activity
+
+The table below presents the effects of debt financing and prepayment activities in the first nine months of 2024:
+
+
+#### Transaction Date
+
+
+#### Increase (Decrease) in
+
+
+#### Principal
+
+
+#### Increase (Decrease) in
+
+
+#### Carrying Value
+
+
+#### Increase (Decrease) in
+
+
+#### Cash
+
+
+#### Issuance
+
+2031 Notes
+January 12, 2024
+$
+1,000 $
+993 $
+993 
+Prepayments
+
+2024 Term Loan A
+January 12, 2024
+(588)
+(587)
+(588)
+2025 Term Loan A
+January 12, 2024
+(402)
+(401)
+(402)
+2025 Term Loan A
+May 29, 2024
+(650)
+(649)
+(650)
+$
+(640) $
+(644) $
+(647)
+
+
+#### 2031 Notes
+
+On January 12, 2024, we issued $ 1.00 billion principal amount of senior unsecured 2031 Notes in a public offering. The 2031 Notes bear interest at a rate of 5.300% per year and will mature on January 15, 2031. Issuance costs and
+debt discount for the 2031 Notes were $7 million.
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 16
+
+
+## Page 17
+
+### Table 17.1
+
+| Remainder of 2024 | $ | 27 |
+| --- | --- | --- |
+| 2025 | 107 |  |
+| 2026 | 607 |  |
+| 2027 | 1,780 |  |
+| 2028 | 1,493 |  |
+| 2029 and thereafter | 7,450 |  |
+| Unamortized issuance costs, discounts, and premium, net | (34) |  |
+| Hedge accounting fair value adjustment | (98) |  |
+|  | $ | 11,332 |
+
+
+
+#### Table of Contents
+
+We may redeem the 2031 Notes, in whole or in part, at our option prior to their maturity dates at a redemption price equal to the greater of (i) 
+100% of the principal amount of the notes to be redeemed and (ii) the present value of the
+remaining scheduled payments of principal and interest, plus accrued interest in each case. We may also redeem the 2031 Notes, in whole or in part, at a price equal to par two months prior to maturity in accordance with the terms of
+the 2031 Notes.
+
+The 2031 Notes contain covenants that, among other things, limit, in certain circumstances, our ability and/or the ability of our restricted subsidiaries (which are generally domestic subsidiaries in which we own at least 
+80% of the votin
+stock and which own principal property, as defined in the indenture governing the 2031 Notes) to (1) create or incur certain liens; (2) enter into certain sale and lease-back transactions; and (3) consolidate with or merge with or into, or
+convey, transfer, or lease all or substantially all of our properties and assets, to another entity. These covenants are subject to a number of limitations and exceptions. Additionally, if a change of control triggering event occurs, as
+defined in the indenture governing the 2031 Notes, we will be required to offer to purchase the 2031 Notes at 101% of the outstanding aggregate principal amount plus accrued interest up to the purchase date.
+
+
+#### Revolving Credit Facility
+
+As of May 30, 2024, no amounts were outstanding under the Revolving Credit Facility and $ 2.50 billion was available to us. Under the Revolving Credit Facility, borrowings would generally bear interest at a rate equal to adjusted term
+SOFR plus 1.00% to 1.75%, depending on our corporate credit ratings. Adjusted term SOFR for the Revolving Credit Facility agreement is the SOFR benchmark plus a credit spread adjustment ranging from approximately 
+0.11% to
+0.43% depending on the applicable interest period selected. Any amounts outstanding under the Revolving Credit Facility would mature in May 2026 and amounts borrowed may be prepaid without penalty.
+
+The Revolving Credit Facility requires us to maintain, on a consolidated basis, a leverage ratio of total indebtedness to adjusted EBITDA, as defined in the Revolving Credit Facility and calculated as of the last day of each fiscal quarter,
+not to exceed 3.25 to 1.00. On March 27, 2023, we amended the Revolving Credit Facility to provide that in lieu of the foregoing leverage ratio, during the fourth quarter of 2023 and each quarter of 2024, we will be required to maintain,
+on a consolidated basis, a net leverage ratio of total net indebtedness to adjusted EBITDA, as defined in the Revolving Credit Facility and calculated as of the last day of each fiscal quarter, not to exceed 3.25 to 1.00. Alternatively, for
+up to three of such five quarters, we may elect to comply with a requirement of minimum liquidity, as defined in the Revolving Credit Facility, of not less than $5.0 billion. Each of the leverage ratio and net leverage ratio maximums, as
+applicable, is subject to a temporary four quarter increase in such ratio to 3.75 to 1.00 following certain material acquisitions. Through the third quarter of 2024, we complied with these requirements under the Revolving Credit Facility.
+
+
+#### Maturities of Notes Payable
+
+As of May 30, 2024, maturities of notes payable by fiscal year were as follows:
+Remainder of 2024
+$
+27 
+2025
+107 
+2026
+607 
+2027
+1,780 
+2028
+1,493 
+2029 and thereafter
+7,450 
+Unamortized issuance costs, discounts, and premium, net
+(34)
+Hedge accounting fair value adjustment
+(98)
+$
+11,332
+
+
+### 17 | 2024 Q3 10-Q
+
+
+## Page 18
+
+
+#### Table of Contents
+
+
+#### Contingencies
+
+We are currently a party to legal actions other than those described below arising from the normal course of business, none of which are expected to have a material adverse effect on our business, results of operations, or financial
+condition.
+
+
+#### Patent Matters
+
+As is typical in the semiconductor and other high-tech industries, from time to time, others have asserted, and may in the future assert, that our products or manufacturing processes infringe upon their intellectual property rights. A
+description of certain claims is below.
+
+On April 28, 2021, Netlist, Inc. (“Netlist”) filed two patent infringement actions against Micron, Micron Semiconductor Products, Inc. (“MSP”), and Micron Technology Texas, LLC (“MTEC”) in the U.S. District Court for the Western
+District of Texas. The first complaint alleges that one U.S. patent is infringed by certain of our non-volatile dual in-line memory modules. The second complaint alleges that three U.S. patents are infringed by certain of our load-reduced
+dual in-line memory modules (“LRDIMMs”). Each complaint seeks injunctive relief, damages, attorneys’ fees, and costs. On March 31, 2022, Netlist filed a patent infringement complaint against Micron and Micron Semiconductor
+Germany, GmbH in Dusseldorf Regional Court alleging that two German patents are infringed by certain of our LRDIMMs. The complaint seeks damages, costs, and injunctive relief.
+
+On June 10, 2022, Netlist filed a patent infringement complaint against Micron, MSP, and MTEC in the U.S. District Court for the Eastern District of Texas (“E.D. Tex.”) alleging that 
+six U.S. patents are infringed by certain of our
+memory modules and HBM products. On August 1, 2022, Netlist filed a second patent infringement complaint against the same defendants in E.D. Tex. alleging that one U.S. patent is infringed by certain of our LRDIMMs. On August
+15, 2022, Netlist amended the second complaint to assert that two additional U.S. patents are infringed by certain of our LRDIMMs. The complaints in E.D. Tex. seek injunctive relief, damages, and attorneys’ fees. On May 23, 2024,
+following a four-day trial regarding the second complaint filed by Netlist in the E.D. Tex., a jury rendered a verdict that Micron’s memory modules infringe two asserted patents — U.S. Patent No. 7,619,912 (“the ‘912 patent”) and U.S.
+Patent No. 11,093,417 (“the ‘417 patent”) — and found that Micron should pay $425 million for infringement of the ‘912 patent and $ 20 million for infringement of the ‘417 patent. Micron expects to appeal the verdict. On April 17, 2024,
+the Patent Trial and Appeal Board (“PTAB”) of the United States Patent and Trademark Office (“USPTO”) issued a final written decision (“FWD”) finding unpatentable the sole asserted claim of the ‘912 patent. Netlist has sought review
+of that ruling by the Director of the USPTO. If the Director upholds the FWD, and the United States Court of Appeals for the Federal Circuit subsequently affirms the FWD, then the affirmed FWD will preclude any pending actions
+asserting infringement of the ‘912 patent (including any infringement verdict that is subject to an ongoing appeal). The PTAB’s final written decision regarding whether all claims of the ‘417 patent are also unpatentable is expected to be
+issued on or before August 2, 2024.
+
+On August 16, 2022, Sonrai Memory Ltd. filed a patent infringement complaint against Micron in the U.S. District Court for the Western District of Texas. The complaint alleges that 
+two U.S. patents are infringed by certain SSD and
+NAND flash products. The complaint seeks damages, attorneys’ fees, and costs.
+
+On January 23, 2023, Besang Inc. filed a patent infringement complaint against Micron in the U.S. District Court for the Eastern District of Texas. The complaint alleges that 
+one U.S. patent is infringed by certain of our 3D NAND and
+SSD products. The complaint seeks an injunction, damages, attorneys’ fees, and costs.
+
+On November 9, 2023, Yangtze Memory Technologies Company, Ltd. (“YMTC”) filed a patent infringement complaint against Micron and one of its subsidiaries in the U.S. District Court for the Northern District of California. The
+complaint alleges that eight U.S. patents are infringed by certain of our 3D NAND products. The complaint seeks an injunction, damages, attorneys’ fees, and costs. On January 22, 2024, Micron Semiconductor (Shanghai) Co., Ltd.
+(“MSS”) was served with three patent infringement complaints filed by YMTC in Beijing Intellectual Property Court and on February 27, 2024, Micron Technology, Inc. (“MTI”) was served with the same complaints. The complaints
+assert that MTI and MSS infringed three Chinese patents owned by YMTC by importing, selling, offering for sale, and assisting others to sell certain 3D NAND products and SSDs in China. The complaint seeks an injunction, damages,
+attorneys’ fees, and costs.
+
+
+#### 18
+
+
+## Page 19
+
+
+#### Table of Contents
+
+On June 3, 2024, MimirIP LLC (“MimirIP”) submitted a complaint to the United States International Trade Commission (“ITC”) alleging that certain of Micron’s DRAM and NAND products infringe 
+six patents owned by MimirIP. The
+complaint requests the ITC to institute an investigation of such alleged infringement pursuant to Section 337 of the Tariff Act of 1930 and to issue a permanent limited exclusion order barring from entry into the United States such
+allegedly infringing DRAM and NAND devices and electronic devices containing the same produced by several alleged customers of Micron.
+
+On June 3, 2024, MimirIP filed a complaint against Micron, two of its subsidiaries, and certain alleged customers of Micron in the E.D. Tex. alleging that the same 
+six patents as are asserted in the ITC are infringed by certain of
+Micron’s DRAM and NAND products. The complaint seeks damages, attorneys’ fees, and costs.
+
+On June 4, 2024, MimirIP filed a second complaint against Micron, two of its subsidiaries, and certain alleged customers of Micron in the E.D. Tex. alleging that 
+six additional patents are infringed by certain of Micron’s DRAM and
+NAND products. The complaint seeks damages, attorneys’ fees, and costs.
+
+The above lawsuits pertain to substantially all of our DRAM, NAND, and other memory and storage products we manufacture, which account for substantially all of our revenue.
+
+
+#### Antitrust Matters
+
+On May 15, 2018, the Chinese State Administration for Market Regulation (“SAMR”) notified Micron that it was investigating potential collusion and other anticompetitive conduct by DRAM suppliers in China. On May 31, 2018, SAMR
+made unannounced visits to our sales offices in Beijing, Shanghai, and Shenzhen to seek certain information as part of its investigation. We are cooperating with SAMR in its investigation.
+
+
+#### Other Matters
+
+In the normal course of business, we are a party to a variety of agreements pursuant to which we may be obligated to indemnify another party. It is not possible to predict the maximum potential amount of future payments under these
+types of agreements due to the conditional nature of our obligations and the unique facts and circumstances involved in each particular agreement. Historically, our payments under these types of agreements have not had a material
+adverse effect on our business, results of operations, or financial condition.
+
+
+#### Contingency Assessment
+
+We are unable to predict the outcome of any of the matters noted above and cannot make a reasonable estimate of the potential loss or range of possible losses. A determination that our products or manufacturing processes infringe
+the intellectual property rights of others or entering into a license agreement covering such intellectual property could result in significant liability and/or require us to make material changes to our products and/or manufacturing
+processes. Any of the foregoing, as well as the resolution of any other legal matter noted above, could have a material adverse effect on our business, results of operations, or financial condition.
+
+
+#### Equity
+
+
+#### Common Stock Repurchases
+
+In May 2018, our Board of Directors authorized the discretionary repurchase of up to $ 10 billion of our outstanding common stock through open-market purchases, block trades, privately-negotiated transactions, derivative transactions,
+and/or pursuant to Rule 10b5-1 trading plans. The repurchase authorization has no expiration date, does not obligate us to acquire any common stock, and is subject to market conditions and our ongoing determination of the best use
+of available cash. No shares were repurchased under this authorization in the first nine months of 2024. Through May 30, 2024, we had repurchased an aggregate of $ 6.89 billion under the authorization. Amounts repurchased are
+included in treasury stock.
+
+
+### 19 | 2024 Q3 10-Q
+
+
+## Page 20
+
+### Table 20.1
+
+| As of August 31, 2023 | $ | (304) | $ | (41) | $ | 36 | $ | (3) | $ | (312) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (151) |  | 16 |  | — |  | — |  | (135) |  |
+| Amount reclassified out of accumulated other comprehensive income (loss) | 139 |  | — |  | (3) |  | — |  | 136 |  |
+| Tax effects | (2) |  | 1 |  | 1 |  | — |  | — |  |
+| Other comprehensive income (loss) | (14) |  | 17 |  | (2) |  | — |  | 1 |  |
+| As of May 30, 2024 | $ | (318) | $ | (24) | $ | 34 | $ | (3) | $ | (311) |
+
+
+### Table 20.2
+
+| Notes | $ | 11,037 | $ | 11,332 |  | $ | 11,549 | $ | 12,049 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Dividends
+
+We paid dividends of $128 million ($0.115 per share), $127 million ($0.115 per share), and $129 million ($0.115 per share) in the third, second, and first quarters of 2024, respectively. On June 26, 2024, our Board of Directors declared
+a quarterly dividend of $0.115 per share, payable in cash on July 23, 2024, to shareholders of record as of the close of business on July 8, 2024.
+
+
+#### Accumulated Other Comprehensive Income (Loss)
+
+Changes in accumulated other comprehensive income (loss) by component for the nine months ended May 30, 2024 were as follows:
+
+Gains (Losses) on
+Derivative Instruments
+
+Unrealized Gains
+(Losses) on Investments
+
+
+#### Pension Liability
+
+
+#### Adjustments
+
+Cumulative Foreign
+Currency Translation
+
+Adjustment
+Total
+
+As of August 31, 2023
+$
+(304) $
+(41) $
+36 $
+(3) $
+(312)
+Other comprehensive income (loss) before reclassifications
+(151)
+16 
+— 
+— 
+(135)
+Amount reclassified out of accumulated other comprehensive income (loss)
+139 
+— 
+(3)
+— 
+136 
+Tax effects
+(2)
+1 
+1 
+— 
+— 
+Other comprehensive income (loss)
+(14)
+17 
+(2)
+— 
+1
+
+As of May 30, 2024
+$
+(318) $
+(24) $
+34 $
+(3) $
+(311)
+
+
+#### Fair Value Measurements
+
+The estimated fair values and carrying values of our outstanding debt instruments were as follows:
+
+As of May 30, 2024
+As of August 31, 2023
+Fair
+Value
+
+
+#### Carrying
+
+
+#### Value
+
+Fair
+Value
+
+
+#### Carrying
+
+
+#### Value
+
+Notes
+$
+11,037 $
+11,332 
+$
+11,549 $
+12,049
+
+The fair values of our debt instruments were estimated based on Level 2 inputs, including the trading price of our notes when available, discounted cash flows, and interest rates based on similar debt issued by parties with credit
+ratings similar to ours.
+
+
+#### 20
+
+
+## Page 21
+
+### Table 21.1
+
+| As of May 30, 2024 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Derivative instruments with hedge accounting designation |  |  |  |  |  |  |
+| Cash flow currency hedges | $ | 4,177 | $ | 2 | $ | (234) |
+| Cash flow commodity hedges | 458 |  | 25 |  | (4) |  |
+| Fair value interest rate hedges | 900 |  | — |  | (98) |  |
+| Derivative instruments without hedge accounting designation |  |  |  |  |  |  |
+| Non-designated currency hedges | 1,964 |  | 4 |  | (12) |  |
+|  |  |  | $ | 31 | $ | (348) |
+| As of August 31, 2023 |  |  |  |  |  |  |
+| Derivative instruments with hedge accounting designation |  |  |  |  |  |  |
+| Cash flow currency hedges | $ | 3,873 | $ | 16 | $ | (180) |
+| Cash flow commodity hedges | 331 |  | 45 |  | — |  |
+| Fair value interest rate hedges | 900 |  | — |  | (100) |  |
+| Derivative instruments without hedge accounting designation |  |  |  |  |  |  |
+| Non-designated currency hedges | 1,839 |  | 2 |  | (17) |  |
+|  |  |  | $ | 63 | $ | (297) |
+
+
+### Table 21.2
+
+| Gain (loss) from cash flow hedges in accumulated other comprehensive income (loss) | $ | (99) | $ | (40) | $ | (142 | )$ | 88 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gain (loss) excluded from effectiveness testing in cost of goods sold | (35) |  | (26) |  |  | (105 | ) (71) |  |
+| Gain (loss) reclassified from accumulated other comprehensive income (loss) to earnings, primarily to cost of goods sold | (39) |  | (77) |  |  | (139 | ) (199) |  |
+
+
+
+#### Table of Contents
+
+
+#### Derivative Instruments
+
+
+#### Notional or Contractual
+
+
+#### Amount
+
+
+#### Fair Value of
+
+Assets
+Liabilities
+
+As of May 30, 2024
+Derivative instruments with hedge accounting designation
+
+Cash flow currency hedges
+$
+4,177 $
+2 $
+(234)
+Cash flow commodity hedges
+458 
+25 
+(4)
+Fair value interest rate hedges
+900 
+— 
+(98)
+
+
+#### Derivative instruments without hedge accounting designation
+
+Non-designated currency hedges
+1,964 
+4 
+(12)
+$
+31 $
+(348)
+
+As of August 31, 2023
+Derivative instruments with hedge accounting designation
+
+Cash flow currency hedges
+$
+3,873 $
+16 $
+(180)
+    Cash flow commodity hedges
+331 
+45 
+— 
+    Fair value interest rate hedges
+900 
+— 
+(100)
+
+
+#### Derivative instruments without hedge accounting designation
+
+Non-designated currency hedges
+1,839 
+2 
+(17)
+$
+63 $
+(297)
+
+Included in receivables and other noncurrent assets.
+Included in accounts payable and accrued expenses and other noncurrent liabilities.
+
+
+#### Derivative Instruments with Hedge Accounting Designation
+
+Cash Flow Hedges: We utilize forward and swap contracts that generally mature within two years designated as cash flow hedges to minimize our exposure to changes in currency exchange rates or commodity prices for certain
+capital expenditures and manufacturing costs. Forward and swap contracts are measured at fair value based on market-based observable inputs including market spot and forward rates, interest rates, and credit-risk spreads (Level 2).
+
+
+#### The effects of cash flow hedging activities were as follows:
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Gain (loss) from cash flow hedges in accumulated other comprehensive income (loss)
+$
+(99) $
+(40)
+$
+(142) $
+88 
+Gain (loss) excluded from effectiveness testing in cost of goods sold
+(35)
+(26)
+(105)
+(71)
+Gain (loss) reclassified from accumulated other comprehensive income (loss) to earnings, primarily to cost of goods
+sold
+(39)
+(77)
+(139)
+(199)
+
+As of May 30, 2024, we expect to reclassify $ 168 million of pre-tax losses related to cash flow hedges from accumulated other comprehensive income (loss) into earnings in the next 12 months.
+
+(1)
+(2)
+
+
+#### (1)
+
+
+#### (2)
+
+
+### 21 | 2024 Q3 10-Q
+
+
+## Page 22
+
+### Table 22.1
+
+| Restricted stock award shares granted | 12 |  | 14 |  |
+| --- | --- | --- | --- | --- |
+| Weighted-average grant-date fair value per share | $ | 69.02 | $ | 54.13 |
+
+
+
+#### Table of Contents
+
+Fair Value Hedges: We utilize fixed-to-floating interest rate swaps designated as fair value hedges to minimize certain exposures to changes in the fair value of fixed-rate debt that result from fluctuations in benchmark interest rates.
+Interest rate swaps are measured at fair value based on market-based observable inputs including interest rates and credit-risk spreads (Level 2). The changes in the fair values of derivatives designated as fair value hedges and the
+offsetting changes in the underlying fair values of the hedged items are both recognized in earnings. When a derivative is no longer designated as a fair value hedge for any reason, including termination and maturity, the remaining
+unamortized difference between the carrying value of the hedged item at that time and the face value of the hedged item is amortized to earnings over the remaining life of the hedged item, or immediately if the hedged item has
+matured or been extinguished. The effects of fair value hedges on our consolidated statements of operations, recognized in interest expense, were not significant for the periods presented.
+
+
+#### Derivative Instruments without Hedge Accounting Designation
+
+Currency Derivatives: We generally utilize a rolling hedge strategy with currency forward contracts that mature within three months to hedge our exposures of monetary assets and liabilities from changes in currency exchange rates.
+At the end of each reporting period, monetary assets and liabilities denominated in currencies other than the U.S. dollar are remeasured into U.S. dollars and the associated outstanding forward contracts are marked to
+market. Currency forward contracts are valued at fair values based on the middle of bid and ask prices of dealers or exchange quotations (Level 2). Realized and unrealized gains and losses on derivative instruments without hedge
+accounting designation as well as the changes in the underlying monetary assets and liabilities from changes in currency exchange rates are included in other non-operating income (expense), net. The amounts recognized for
+derivative instruments without hedge accounting designation were not significant for the periods presented. We do not use derivative instruments for speculative purposes.
+
+
+#### Equity Plans
+
+As of May 30, 2024, 72 million shares of our common stock were available for future awards under our equity plans, including 12 million shares approved for issuance under our employee stock purchase plan (“ESPP”).
+
+
+#### Restricted Stock and Restricted Stock Units (“Restricted Stock Awards”)
+
+
+#### Restricted Stock Awards activity is summarized as follows:
+
+
+#### Nine months ended
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Restricted stock award shares granted
+12
+14
+Weighted-average grant-date fair value per share
+$
+69.02 $
+54.13
+
+
+#### Employee Stock Purchase Plan (“ESPP”)
+
+For each six-month ESPP offering period that ended in the second quarter of 2024 and 2023, employees purchased 2 million and 3 million shares, respectively, at a share price of $ 60.68 and $52.45, respectively.
+
+
+#### 22
+
+
+## Page 23
+
+### Table 23.1
+
+| Stock-based compensation expense by caption |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of goods sold | $ | 80 | $ | 61 |  | $ | 227 | $ | 137 |
+| Research and development | 77 |  | 57 |  |  | 222 |  | 169 |  |
+| Selling, general, and administrative | 60 |  | 34 |  |  | 159 |  | 107 |  |
+| Restructure | — |  | (4) |  |  | — |  | (6) |  |
+|  | $ | 217 | $ | 148 |  | $ | 608 | $ | 407 |
+| Stock-based compensation expense by type of award |  |  |  |  |  |  |  |  |  |
+| Restricted stock awards | $ | 201 | $ | 129 |  | $ | 555 | $ | 354 |
+| ESPP | 16 |  | 19 |  |  | 53 |  | 53 |  |
+|  | $ | 217 | $ | 148 |  | $ | 608 | $ | 407 |
+
+
+
+#### Table of Contents
+
+
+#### Stock-based Compensation Expense
+
+Stock-based compensation expense recognized in our statements of operations is presented below. Stock-based compensation expense of $ 100 million and $88 million was capitalized and remained in inventory as of May 30, 2024
+and August 31, 2023, respectively.
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### Stock-based compensation expense by caption
+
+Cost of goods sold
+$
+80 $
+61 
+$
+227 $
+137 
+Research and development
+77 
+57 
+222 
+169 
+Selling, general, and administrative
+60 
+34 
+159 
+107 
+Restructure
+— 
+(4)
+— 
+(6)
+$
+217 $
+148 
+$
+608 $
+407
+
+
+#### Stock-based compensation expense by type of award
+
+Restricted stock awards
+$
+201 $
+129 
+$
+555 $
+354 
+ESPP
+16 
+19 
+53 
+53 
+$
+217 $
+148 
+$
+608 $
+407
+
+As of May 30, 2024, $1.51 billion of total unrecognized compensation costs for unvested awards, before the effect of any future forfeitures, was expected to be recognized through the third quarter of 2028, resulting in a weighted-
+average period of 1.3 years.
+
+
+### 23 | 2024 Q3 10-Q
+
+
+## Page 24
+
+### Table 24.1
+
+| DRAM | $ | 4,692 | $ | 2,672 | $ | 12,277 | $ | 8,223 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| NAND | 2,065 |  | 1,013 |  | 4,862 |  | 3,001 |  |
+| Other (primarily NOR) | 54 |  | 67 |  | 222 |  | 306 |  |
+|  | $ | 6,811 | $ | 3,752 | $ | 17,361 | $ | 11,530 |
+
+
+### Table 24.2
+
+| Employee severance | $ | — | $ | 70 | $ | — | $ | 163 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Asset impairments and other asset-related costs | — |  | 1 |  | — |  | 9 |  |
+| Other | — |  | (3) |  | — |  | (5) |  |
+|  | $ | — | $ | 68 | $ | — | $ | 167 |
+
+
+
+#### Table of Contents
+
+
+#### Revenue and Customer Contract Liabilities
+
+
+#### Revenue by Technology
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+DRAM
+$
+4,692 $
+2,672 
+$
+12,277 $
+8,223 
+NAND
+2,065 
+1,013 
+4,862 
+3,001 
+Other (primarily NOR)
+54 
+67 
+222 
+306 
+$
+6,811 $
+3,752 
+$
+17,361 $
+11,530
+
+See “Segment and Other Information” for disclosure of disaggregated revenue by market segment.
+
+Revenue is primarily recognized at a point in time when control of the promised goods is transferred to our customers in an amount that reflects the consideration we expect to be entitled to in exchange for those goods. Substantially
+all contracts with our customers are short-term in duration at fixed, negotiated prices with payment generally due shortly after delivery. From time to time, we have contracts with initial terms that include performance obligations that
+extend beyond one year. As of May 30, 2024, our future performance obligations beyond one year were $141 million, which included customer prepayments and other contract liabilities. Customer prepayments made to secure product
+supply in future periods and other contract liabilities were $756 million as of May 30, 2024, of which $ 615 million was reported in other current liabilities and the remainder in other noncurrent liabilities.
+
+As of May 30, 2024 and August 31, 2023, other current liabilities also included $ 617 million and $453 million, respectively, for estimates of consideration payable to customers including estimates for pricing adjustments and returns.
+
+
+#### Restructure and Asset Impairments
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Employee severance
+$
+— $
+70 
+$
+— $
+163 
+Asset impairments and other asset-related costs
+— 
+1 
+— 
+9 
+Other
+— 
+(3)
+— 
+(5)
+$
+— $
+68 
+$
+— $
+167
+
+In 2023, we initiated a restructure plan in response to challenging industry conditions (the “2023 Restructure Plan”). Under the 2023 Restructure Plan, we reduced our headcount by approximately 
+15% by the end of calendar 2023,
+through a combination of voluntary attrition and personnel reductions. The plan was substantially completed in 2023.
+
+
+#### 24
+
+
+## Page 25
+
+### Table 25.1
+
+| (Gain) loss on disposition of property, plant, and equipment | $ | (38) | $ | (24) |  | $ | (63) | $ (46) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patent cross-license agreement gain | — |  | — |  |  | (200) |  | — |
+| Litigation settlement | — |  | 68 |  |  | — |  | 68 |
+| Other | 10 |  | 4 |  |  | (4) |  | 7 |
+|  | $ | (28) | $ | 48 |  | $ | (267) | $ 29 |
+
+
+### Table 25.2
+
+| Income (loss) before taxes | $ | 715 |  | $ | (1,753) |  |  | $ | (270) | $ | (4,200) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Income tax (provision) benefit | (377) |  |  | (139) |  |  |  | 172 |  |  | (201) |  |
+| Effective tax rate | 52.7 |  | % | (7.9) |  | % |  | 63.7 |  | % | (4.8) | % |
+
+
+
+#### Table of Contents
+
+
+#### Other Operating (Income) Expense, Net
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+(Gain) loss on disposition of property, plant, and equipment
+$
+(38) $
+(24)
+$
+(63) $
+(46)
+Patent cross-license agreement gain
+— 
+— 
+(200)
+— 
+Litigation settlement
+— 
+68 
+— 
+68 
+Other
+10 
+4 
+(4)
+7 
+$
+(28) $
+48 
+$
+(267) $
+29
+
+
+#### Income Taxes
+
+
+#### Our income tax (provision) benefit consisted of the following:
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Income (loss) before taxes
+$
+715 
+$
+(1,753)
+$
+(270)
+$
+(4,200)
+Income tax (provision) benefit
+(377)
+(139)
+172 
+(201)
+Effective tax rate
+52.7 %
+(7.9)%
+63.7 %
+(4.8)%
+
+In the first quarter of 2024, our tax expense was based on actual results for jurisdictions where small changes in our projected pre-tax income would have caused significant changes in the estimated annual effective tax rate. With our
+improved fiscal 2024 outlook, we were able to estimate a more reliable annual effective tax rate and have reverted to a global annual effective tax rate method for all jurisdictions beginning in the second quarter of 2024.
+
+The changes in our effective tax rate for the third quarter and first nine months of 2024 as compared to the third quarter and first nine months of 2023 were primarily due to changes in profitability and discrete items primarily related to
+tax return filings.
+
+We operate in a number of jurisdictions outside the United States, including Singapore, where we have tax incentive arrangements. These incentives expire, in whole or in part, at various dates through 2034 and are conditional, in part,
+upon meeting certain business operations and employment thresholds. As a result of the low level of profitability and the geographic mix of income, the benefit from tax incentive arrangements was not material for the periods
+presented.
+
+As of May 30, 2024, other current assets included $ 539 million related to income taxes.
+
+
+### 25 | 2024 Q3 10-Q
+
+
+## Page 26
+
+### Table 26.1
+
+| Net income (loss) – Basic and Diluted | $ | 332 | $ | (1,896) |  | $ | (109) | $ | (4,403) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Weighted-average common shares outstanding – Basic | 1,107 |  | 1,094 |  |  | 1,104 |  | 1,092 |  |
+| Dilutive effect of equity plans | 16 |  | — |  |  | — |  | — |  |
+| Weighted-average common shares outstanding – Diluted | 1,123 |  | 1,094 |  |  | 1,104 |  | 1,092 |  |
+| Earnings (loss) per share |  |  |  |  |  |  |  |  |  |
+| Basic | $ | 0.30 | $ | (1.73) |  | $ | (0.10) | $ | (4.03) |
+| Diluted | 0.30 |  | (1.73) |  |  | (0.10) |  | (4.03) |  |
+
+
+
+#### Table of Contents
+
+
+#### Earnings Per Share
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Net income (loss) – Basic and Diluted
+$
+332 $
+(1,896)
+$
+(109) $
+(4,403)
+
+Weighted-average common shares outstanding – Basic
+1,107 
+1,094 
+1,104 
+1,092 
+Dilutive effect of equity plans
+16 
+— 
+— 
+—
+
+Weighted-average common shares outstanding – Diluted
+1,123 
+1,094 
+1,104 
+1,092
+
+
+#### Earnings (loss) per share
+
+Basic
+$
+0.30 $
+(1.73)
+$
+(0.10) $
+(4.03)
+Diluted
+0.30 
+(1.73)
+(0.10)
+(4.03)
+
+Antidilutive potential common shares excluded from the computation of diluted earnings per share, that could dilute basic earnings per share in the future, were 1 million and 31 million for the third quarter and first nine months of 2024,
+respectively, and were 31 million and 33 million for the third quarter and first nine months of 2023, respectively.
+
+
+#### Segment and Other Information
+
+Segment information reported herein is consistent with how it is reviewed and evaluated by our chief operating decision maker. We have the following four business units, which are our reportable segments:
+
+Compute and Networking Business Unit (“CNBU”): Includes memory products and solutions sold into the client, cloud server, enterprise, graphics, and networking markets.
+Mobile Business Unit (“MBU”): Includes memory and storage products sold into the smartphone and other mobile-device markets.
+Embedded Business Unit (“EBU”): Includes memory and storage products and solutions sold into the automotive, industrial, and consumer markets.
+Storage Business Unit (“SBU”): Includes SSDs and component-level solutions sold into the enterprise and cloud, client, and consumer storage markets.
+
+Certain operating expenses directly associated with the activities of a specific segment are charged to that segment. Other indirect operating income and expenses are generally allocated to segments based on their respective
+percentage of cost of goods sold or forecasted wafer production. We do not identify or report internally our assets (other than goodwill) or capital expenditures by segment, nor do we allocate gains and losses from equity method
+investments, interest, other non-operating income or expense items, or taxes to segments.
+
+
+#### 26
+
+
+## Page 27
+
+### Table 27.1
+
+| Revenue |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CNBU | $ | 2,573 | $ | 1,389 |  | $ | 6,495 | $ | 4,510 |
+| MBU | 1,588 |  | 819 |  |  | 4,479 |  | 2,419 |  |
+| EBU | 1,294 |  | 912 |  |  | 3,442 |  | 2,777 |  |
+| SBU | 1,353 |  | 627 |  |  | 2,911 |  | 1,814 |  |
+| All Other | 3 |  | 5 |  |  | 34 |  | 10 |  |
+|  | $ | 6,811 | $ | 3,752 |  | $ | 17,361 | $ | 11,530 |
+| Operating income (loss) |  |  |  |  |  |  |  |  |  |
+| CNBU | $ | 442 | $ | (337) |  | $ | 73 | $ | (182) |
+| MBU | 301 |  | (478) |  |  | (395) |  | (1,017) |  |
+| EBU | 124 |  | 65 |  |  | 133 |  | 347 |  |
+| SBU | 76 |  | (601) |  |  | (631) |  | (1,215) |  |
+| All Other | (2) |  | 2 |  |  | 23 |  | 6 |  |
+|  | 941 |  | (1,349) |  |  | (797) |  | (2,061) |  |
+| Unallocated |  |  |  |  |  |  |  |  |  |
+| Stock-based compensation | (217) |  | (151) |  |  | (608) |  | (413) |  |
+| Restructure and asset impairments | — |  | (68) |  |  | — |  | (167) |  |
+| Provision to write-down inventories to net realizable value | — |  | (401) |  |  | — |  | (1,831) |  |
+| Lower costs from sale of inventory written down in prior periods | — |  | 281 |  |  | 987 |  | 281 |  |
+| Patent cross-license agreement gain | — |  | — |  |  | 200 |  | — |  |
+| Litigation settlement | — |  | (68) |  |  | — |  | (68) |  |
+| Other | (5) |  | (5) |  |  | — |  | (14) |  |
+|  | (222) |  | (412) |  |  | 579 |  | (2,212) |  |
+| Operating income (loss) | $ | 719 | $ | (1,761) |  | $ | (218) | $ | (4,273) |
+
+
+### Table 27.2
+
+| Mobile | 25 | % | 20 | % |
+| --- | --- | --- | --- | --- |
+| Automotive, industrial, and consumer | 20 | % | 25 | % |
+| Enterprise and cloud server | 20 | % | 20 | % |
+| Client and graphics | 15 | % | 20 | % |
+| SSDs and other storage | 15 | % | 15 | % |
+
+
+
+#### Table of Contents
+
+Quarter ended
+Nine months ended
+May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+
+#### Revenue
+
+CNBU
+$
+2,573 $
+1,389 
+$
+6,495 $
+4,510 
+MBU
+1,588 
+819 
+4,479 
+2,419 
+EBU
+1,294 
+912 
+3,442 
+2,777 
+SBU
+1,353 
+627 
+2,911 
+1,814 
+All Other
+3 
+5 
+34 
+10 
+$
+6,811 $
+3,752 
+$
+17,361 $
+11,530
+
+
+#### Operating income (loss)
+
+CNBU
+$
+442 $
+(337)
+$
+73 $
+(182)
+MBU
+301 
+(478)
+(395)
+(1,017)
+EBU
+124 
+65 
+133 
+347 
+SBU
+76 
+(601)
+(631)
+(1,215)
+All Other
+(2)
+2 
+23 
+6 
+941 
+(1,349)
+(797)
+(2,061)
+
+
+#### Unallocated
+
+Stock-based compensation
+(217)
+(151)
+(608)
+(413)
+Restructure and asset impairments
+— 
+(68)
+— 
+(167)
+Provision to write-down inventories to net realizable value
+— 
+(401)
+— 
+(1,831)
+Lower costs from sale of inventory written down in prior periods
+— 
+281 
+987 
+281 
+Patent cross-license agreement gain
+— 
+— 
+200 
+— 
+Litigation settlement
+— 
+(68)
+— 
+(68)
+Other
+(5)
+(5)
+— 
+(14)
+(222)
+(412)
+579 
+(2,212)
+
+Operating income (loss)
+$
+719 $
+(1,761)
+$
+(218) $
+(4,273)
+
+
+#### Certain Concentrations
+
+Revenue by end market as an approximate percentage of total revenue is presented in the table below:
+
+
+#### Nine months ended
+
+
+#### May 30,
+
+
+#### 2024
+
+
+#### June 1,
+
+
+#### 2023
+
+Mobile
+25 %
+20 %
+Automotive, industrial, and consumer
+20 %
+25 %
+Enterprise and cloud server
+20 %
+20 %
+Client and graphics
+15 %
+20 %
+SSDs and other storage
+15 %
+15 %
+
+Revenue from one customer, which is a distributor, was 11% of total revenue for the first nine months of 2024. No customer accounted for 10% or more of total revenue for the first nine months of 2023.
+
+
+### 27 | 2024 Q3 10-Q
+
+
+## Page 28
+
+
+#### Table of Contents
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the year ended August 31, 2023. All period references are to our fiscal
+periods unless otherwise indicated. Our fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31. Fiscal 2024 and 2023 each contain 52 weeks. All tabular dollar amounts are in millions, except per share
+amounts.
+
+
+#### Overview
+
+We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and
+operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the
+data economy, enabling advances in artificial intelligence (AI) and compute-intensive applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.
+
+We manufacture our products at wholly-owned facilities and also utilize subcontractors for certain manufacturing processes. Our global network of manufacturing centers of excellence not only allows us to benefit from scale while
+streamlining processes and operations, but it also brings together some of the world’s brightest talent to work on the most advanced memory technology. Centers of excellence bring expertise together in one location, providing an
+efficient support structure for end-to-end manufacturing, with quicker cycle times, in partnership with teams such as research and development (“R&D”), product development, human resources, procurement, and supply chain. For our
+locations in Singapore and Taiwan, this is also a combination of bringing fabrication and back-end manufacturing together. We make significant investments to develop proprietary product and process technology, which generally
+increases bit density per wafer and reduces per-bit manufacturing costs of each generation of product. We continue to introduce new generations of products that offer improved performance characteristics, including higher data
+transfer rates, advanced packaging solutions, lower power consumption, improved read/write reliability, and increased memory density.
+
+We face intense competition in the semiconductor memory and storage markets. To remain competitive we must continuously develop and implement new products and technologies and decrease manufacturing costs in spite of
+ongoing inflationary cost pressures. Our success is largely dependent on obtaining returns on our R&D investments, efficient utilization of our manufacturing infrastructure, development and integration of advanced product and process
+technologies, market acceptance of our diversified portfolio of semiconductor-based memory and storage solutions, and efficient capital spending.
+
+
+#### Product Technologies
+
+Our product portfolio of memory and storage solutions, advanced solutions, and storage platforms is based on our high-performance semiconductor memory and storage technologies, including DRAM, NAND, and NOR. We sell our
+products into various markets through our business units in numerous forms, including components, modules, SSDs, managed NAND, MCPs, HBM, and wafers. Our system-level solutions, including SSDs and managed NAND,
+combine NAND, a controller, firmware, and in some cases DRAM.
+
+DRAM: DRAM products are dynamic random access memory semiconductor devices with low latency that provide high-speed data retrieval with a variety of performance characteristics. DRAM products lose content when power is
+turned off (“volatile”) and are most commonly used in client, cloud server, enterprise, networking, graphics, industrial, and automotive markets. LPDRAM products, which are engineered to meet standards for performance and power
+consumption, are sold into smartphone and other mobile-device markets (including client markets for Chromebooks, notebook PCs, and gaming consoles), as well as into the automotive, industrial, consumer, and datacenter markets.
+HBM is a stacked DRAM technology optimized for memory-bandwidth intensive applications.
+
+
+#### 28
+
+
+## Page 29
+
+
+#### Table of Contents
+
+NAND: NAND products are non-volatile, re-writeable semiconductor storage devices that provide high-capacity, low-cost storage with a variety of performance characteristics. NAND is used in SSDs for the enterprise and cloud, client,
+consumer, and automotive markets and in removable storage markets. Managed NAND is used in smartphones and other mobile devices, and in consumer, automotive, and embedded markets. Low-density NAND is ideal for
+applications like automotive, surveillance, machine-to-machine, automation, printer, and home networking.
+
+NOR: NOR products are non-volatile, re-writable semiconductor memory devices that provide fast read speeds. NOR is most commonly used for reliable code storage (e.g., boot, application, operating system, and execute-in-place
+code in an embedded system) and for frequently changing small data storage and is ideal for automotive, industrial, and consumer applications.
+
+
+#### Industry Conditions
+
+The memory and storage industry environment deteriorated sharply in the fourth quarter of 2022 and through 2023 due to weak demand in many end markets combined with global and macroeconomic challenges and lower demand
+resulting from customer actions to reduce inventory levels. This led to significant reductions in average selling prices for both DRAM and NAND and reductions in bit shipments for DRAM, resulting in declines in revenue across all our
+business segments and nearly all our end markets. For the first nine months of 2024, increasing demand growth, driven in part by deployment of artificial intelligence and mostly normal customer inventories, combined with industry-
+wide supply discipline, resulted in an improved industry supply and demand balance. As a result, we have experienced improvements in pricing and margins in 2024.
+
+We reduced capital expenditures and wafer starts for both DRAM and NAND in response to challenging market conditions that began in the latter part of 2022 and increased levels of our inventories. In the first quarter of 2024, we
+recognized $165 million of period costs due to wafer start reductions. In the second and third quarters of 2024, fabrication facility underutilization was reduced and principally related to legacy manufacturing capacity, accordingly period
+costs were not significant. In addition, to improve capital efficiency, we have redeployed equipment from older technology nodes to support conversions to leading-edge nodes. Since the number of wafer processing steps is higher for
+leading-edge nodes, this approach has resulted in a meaningful structural reduction in DRAM and NAND wafer capacity. We are now fully utilized on our high-volume manufacturing nodes where we are maximizing output against the
+structurally lowered capacity. We believe this approach to node migration and consequent wafer capacity reduction is an industry-wide phenomenon.
+
+
+#### Impact of China Cyberspace Administration Decision
+
+On March 31, 2023, China’s Cyberspace Administration (the “CAC”) notified us that it was conducting a cybersecurity review of our products sold in China. On May 21, 2023, we received notice that the CAC had concluded its review
+and decided that our products presented a cybersecurity risk. As such, the CAC determined that critical information infrastructure operators in China may not purchase Micron products. The CAC decision has impacted our business,
+particularly in the domestic data center and networking markets in China, and we have been working to mitigate that impact. Our goal is to retain our worldwide DRAM and NAND market share.
+
+
+### 29 | 2024 Q3 10-Q
+
+
+## Page 30
+
+### Table 30.1
+
+|  | Third Quarter |  |  |  | Second Quarter |  |  |  | Third Quarter |  |  |  | Nine months ended |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2024 |  |  |  | 2024 |  |  |  | 2023 |  |  |  | 2024 |  |  |  | 2023 |  |  |  |
+| Revenue | $ | 6,811 | 100 | % | $ | 5,824 | 100 | % | $ | 3,752 | 100 | % | $ | 17,361 | 100 | % | $ | 11,530 | 100 | % |
+| Cost of goods sold | 4,979 |  | 73 | % | 4,745 |  | 81 | % | 4,420 |  | 118 | % | 14,485 |  | 83 | % | 12,511 |  | 109 | % |
+| Gross margin | 1,832 |  | 27 | % | 1,079 |  | 19 | % | (668) |  | (18) | % | 2,876 |  | 17 | % | (981) |  | (9) | % |
+| Research and development | 850 |  | 12 | % | 832 |  | 14 | % | 758 |  | 20 | % | 2,527 |  | 15 | % | 2,395 |  | 21 | % |
+| Selling, general, and administrative | 291 |  | 4 | % | 280 |  | 5 | % | 219 |  | 6 | % | 834 |  | 5 | % | 701 |  | 6 | % |
+| Restructure and asset impairments | — |  | — | % | — |  | — | % | 68 |  | 2 | % | — |  | — | % | 167 |  | 1 | % |
+| Other operating (income) expense, net | (28) |  | — | % | (224) |  | (4) | % | 48 |  | 1 | % | (267) |  | (2) | % | 29 |  | — | % |
+| Operating income (loss) | 719 |  | 11 | % | 191 |  | 3 | % | (1,761) |  | (47) | % | (218) |  | (1) | % | (4,273) |  | (37) | % |
+| Interest income (expense), net | (14) |  | — | % | (14) |  | — | % | 8 |  | — | % | (28) |  | — | % | 75 |  | 1 | % |
+| Other non-operating income (expense), net | 10 |  | — | % | (7) |  | — | % | — |  | — | % | (24) |  | — | % | (2) |  | — | % |
+| Income tax (provision) benefit | (377) |  | (6) | % | 622 |  | 11 | % | (139) |  | (4) | % | 172 |  | 1 | % | (201) |  | (2) | % |
+| Equity in net income (loss) of equity method investees | (6) |  | — | % | 1 |  | — | % | (4) |  | — | % | (11) |  | — | % | (2) |  | — | % |
+| Net income (loss) | $ | 332 | 5 | % | $ | 793 | 14 | % | $ | (1,896) | (51) | % | $ | (109) | (1) | % | $ | (4,403) | (38) | % |
+
+
+
+#### Table of Contents
+
+
+#### Results of Operations
+
+
+#### Consolidated Results
+
+Third Quarter
+Second Quarter
+Third Quarter
+Nine months ended
+2024
+2024
+2023
+2024
+2023
+
+Revenue
+$
+6,811 
+100 % $
+5,824 
+100 % $
+3,752 
+100 % $
+17,361 
+100 % $
+11,530 
+100 %
+Cost of goods sold
+4,979 
+73 %
+4,745 
+81 %
+4,420 
+118 %
+14,485 
+83 %
+12,511 
+109 %
+Gross margin
+1,832 
+27 %
+1,079 
+19 %
+(668)
+(18)%
+2,876 
+17 %
+(981)
+(9)%
+
+Research and development
+850 
+12 %
+832 
+14 %
+758 
+20 %
+2,527 
+15 %
+2,395 
+21 %
+Selling, general, and administrative
+291 
+4 %
+280 
+5 %
+219 
+6 %
+834 
+5 %
+701 
+6 %
+Restructure and asset impairments
+— 
+— %
+— 
+— %
+68 
+2 %
+— 
+— %
+167 
+1 %
+Other operating (income) expense, net
+(28)
+— %
+(224)
+(4)%
+48 
+1 %
+(267)
+(2)%
+29 
+— %
+Operating income (loss)
+719 
+11 %
+191 
+3 %
+(1,761)
+(47)%
+(218)
+(1)%
+(4,273)
+(37)%
+
+Interest income (expense), net
+(14)
+— %
+(14)
+— %
+8 
+— %
+(28)
+— %
+75 
+1 %
+Other non-operating income (expense), net
+10 
+— %
+(7)
+— %
+— 
+— %
+(24)
+— %
+(2)
+— %
+Income tax (provision) benefit
+(377)
+(6)%
+622 
+11 %
+(139)
+(4)%
+172 
+1 %
+(201)
+(2)%
+Equity in net income (loss) of equity method investees
+(6)
+— %
+1 
+— %
+(4)
+— %
+(11)
+— %
+(2)
+— %
+
+Net income (loss)
+$
+332 
+5 % $
+793 
+14 % $
+(1,896)
+(51)% $
+(109)
+(1)% $
+(4,403)
+(38)%
+
+Total Revenue: Total revenue for the third quarter and first nine months of 2024 was impacted by the factors described in the section titled “Industry Conditions” above. These conditions drove significant quarterly declines in average
+selling prices throughout 2023 and a subsequent recovery of average selling prices in the first three quarters of 2024.
+
+Total revenue for the third quarter of 2024 increased 17% as compared to the second quarter of 2024 due to increases in sales of both DRAM and NAND products.
+
+•
+Sales of DRAM products in the third quarter of 2024 increased 13% as compared to the second quarter of 2024 primarily due to increases in average selling prices by approximately 20%, partially offset by a mid-single-digit
+percent range decrease in bit shipments.
+•
+Sales of NAND products in the third quarter of 2024 increased 32% as compared to the second quarter of 2024 primarily due to an approximate 20% increase in average selling prices and a high-single-digit percent range
+increase in bit shipments.
+
+Total revenue for the third quarter of 2024 increased 82% as compared to the third quarter of 2023 due to increases in sales of both DRAM and NAND products.
+
+•
+Sales of DRAM products in the third quarter of 2024 increased 76% as compared to the third quarter of 2023 primarily due to a mid-30% range increase in both average selling prices and bit shipments.
+•
+Sales of NAND products in the third quarter of 2024 increased 104% as compared to the third quarter of 2023 primarily due to a low-60% range increase in average selling prices and a high-20% range increase in bit
+shipments.
+
+
+#### 30

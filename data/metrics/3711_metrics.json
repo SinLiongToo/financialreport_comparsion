@@ -1,0 +1,259 @@
+{
+  "company_name": "ASE Technology Holding Co., Ltd.",
+  "ticker": "ASE",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 18500,
+      "gross_profit": 3034,
+      "operating_income": 1276,
+      "net_income": 940,
+      "rd_expense": 680,
+      "headcount": 95000,
+      "gross_margin": 16.4,
+      "operating_margin": 6.9,
+      "net_margin": 5.08,
+      "rd_pct_rev": 3.68,
+      "rev_per_emp": 194737.0,
+      "gp_per_emp": 31937.0,
+      "op_per_emp": 13432.0,
+      "ni_per_emp": 9895.0,
+      "rd_per_emp": 7158.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 20500,
+      "gross_profit": 3977,
+      "operating_income": 1948,
+      "net_income": 2320,
+      "rd_expense": 810,
+      "headcount": 100000,
+      "gross_margin": 19.4,
+      "operating_margin": 9.5,
+      "net_margin": 11.32,
+      "rd_pct_rev": 3.95,
+      "rev_per_emp": 205000.0,
+      "gp_per_emp": 39770.0,
+      "op_per_emp": 19480.0,
+      "ni_per_emp": 23200.0,
+      "rd_per_emp": 8100.0,
+      "rev_growth_yoy": 10.81,
+      "gp_growth_yoy": 31.08,
+      "op_growth_yoy": 52.66,
+      "ni_growth_yoy": 146.81,
+      "rd_growth_yoy": 19.12,
+      "hc_growth_yoy": 5.26,
+      "gm_diff_pp": 3.0,
+      "op_diff_pp": 2.6
+    },
+    "2022": {
+      "revenue": 22400,
+      "gross_profit": 4502,
+      "operating_income": 2464,
+      "net_income": 2080,
+      "rd_expense": 870,
+      "headcount": 102000,
+      "gross_margin": 20.1,
+      "operating_margin": 11.0,
+      "net_margin": 9.29,
+      "rd_pct_rev": 3.88,
+      "rev_per_emp": 219608.0,
+      "gp_per_emp": 44137.0,
+      "op_per_emp": 24157.0,
+      "ni_per_emp": 20392.0,
+      "rd_per_emp": 8529.0,
+      "rev_growth_yoy": 9.27,
+      "gp_growth_yoy": 13.2,
+      "op_growth_yoy": 26.49,
+      "ni_growth_yoy": -10.34,
+      "rd_growth_yoy": 7.41,
+      "hc_growth_yoy": 2.0,
+      "gm_diff_pp": 0.7,
+      "op_diff_pp": 1.5
+    },
+    "2023": {
+      "revenue": 18200,
+      "gross_profit": 2876,
+      "operating_income": 1292,
+      "net_income": 1020,
+      "rd_expense": 830,
+      "headcount": 98000,
+      "gross_margin": 15.8,
+      "operating_margin": 7.1,
+      "net_margin": 5.6,
+      "rd_pct_rev": 4.56,
+      "rev_per_emp": 185714.0,
+      "gp_per_emp": 29347.0,
+      "op_per_emp": 13184.0,
+      "ni_per_emp": 10408.0,
+      "rd_per_emp": 8469.0,
+      "rev_growth_yoy": -18.75,
+      "gp_growth_yoy": -36.12,
+      "op_growth_yoy": -47.56,
+      "ni_growth_yoy": -50.96,
+      "rd_growth_yoy": -4.6,
+      "hc_growth_yoy": -3.92,
+      "gm_diff_pp": -4.3,
+      "op_diff_pp": -3.9
+    },
+    "2024": {
+      "revenue": 19300,
+      "gross_profit": 3204,
+      "operating_income": 1448,
+      "net_income": 1150,
+      "rd_expense": 880,
+      "headcount": 99000,
+      "gross_margin": 16.6,
+      "operating_margin": 7.5,
+      "net_margin": 5.96,
+      "rd_pct_rev": 4.56,
+      "rev_per_emp": 194949.0,
+      "gp_per_emp": 32364.0,
+      "op_per_emp": 14626.0,
+      "ni_per_emp": 11616.0,
+      "rd_per_emp": 8889.0,
+      "rev_growth_yoy": 6.04,
+      "gp_growth_yoy": 11.4,
+      "op_growth_yoy": 12.07,
+      "ni_growth_yoy": 12.75,
+      "rd_growth_yoy": 6.02,
+      "hc_growth_yoy": 1.02,
+      "gm_diff_pp": 0.8,
+      "op_diff_pp": 0.4
+    },
+    "2025": {
+      "revenue": 21800,
+      "gross_profit": 3815,
+      "operating_income": 1853,
+      "net_income": 1520,
+      "rd_expense": 960,
+      "headcount": 101000,
+      "gross_margin": 17.5,
+      "operating_margin": 8.5,
+      "net_margin": 6.97,
+      "rd_pct_rev": 4.4,
+      "rev_per_emp": 215842.0,
+      "gp_per_emp": 37772.0,
+      "op_per_emp": 18347.0,
+      "ni_per_emp": 15050.0,
+      "rd_per_emp": 9505.0,
+      "rev_growth_yoy": 12.95,
+      "gp_growth_yoy": 19.07,
+      "op_growth_yoy": 27.97,
+      "ni_growth_yoy": 32.17,
+      "rd_growth_yoy": 9.09,
+      "hc_growth_yoy": 2.02,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": 1.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Packaging (Bumping / FlipChip / 2.5D / CoWoS-S)",
+      "Electronic Manufacturing Services (EMS)",
+      "Testing (Wafer & Final Test)",
+      "Material & Others"
+    ],
+    "colors": [
+      "#0284C7",
+      "#059669",
+      "#D97706",
+      "#64748B"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          9850,
+          7520,
+          1630,
+          300
+        ],
+        "volume": [
+          12500,
+          6800,
+          3200,
+          950
+        ]
+      },
+      "2025": {
+        "value": [
+          11400,
+          8100,
+          1950,
+          350
+        ],
+        "volume": [
+          14200,
+          7200,
+          3800,
+          1020
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce scaled around ~100,000 FTEs across global OSAT & EMS factory networks. Advanced packaging (VIPack / 2.5D / Fan-Out) is driving gross margin expansion towards 17.5%-20.0%.",
+      "productivity": "Revenue per FTE tracks at $195K-$216K with Gross Profit per employee at $32K-$38K, reflecting massive high-volume semiconductor assembly and test economics.",
+      "leverage": "Operating income scales past $1.45B-$1.85B (7.5%-8.5% margin) as AI chip packaging utilization ramps.",
+      "rd": "R&D investment reached $880M-$960M (4.5% of revenue) to pioneer CoWoS-compatible advanced packaging, optical co-packaging (CPO), and multi-die 3D integration.",
+      "growth": "Advanced packaging revenue surging double-digits driven by AI accelerator and high-performance compute (HPC) demand.",
+      "breakdown": "Semiconductor Packaging & Testing accounts for over 59% of revenue value and the primary profit generator, complemented by high-volume EMS assembly."
+    },
+    "zh": {
+      "pivot": "全球員工人數維持於約 10 萬人規模。先進封裝 (VIPack / 2.5D / 扇出型封裝 / CoWoS) 帶動毛利率回升至 17.5%-20.0%。",
+      "productivity": "人均營收約 $195K-$216K，人均毛利約 $32K-$38K，精確呈現全球封測第一大廠的高產能產值結構。",
+      "leverage": "營業利益攀升至 $14.5 億-$18.5 億美元（營業利益率 7.5%-8.5%），受惠於 AI 晶片封裝產能滿載。",
+      "rd": "研發支出達 $8.8 億-$9.6 億美元（佔營收 4.5%），全力佈局光學共封裝 (CPO) 與異質整合 3D IC 技術。",
+      "growth": "先進封裝與測試營收在 AI 伺服器與高效能運算帶動下展現雙位數強勁成長。",
+      "breakdown": "半導體封裝與測試佔據超過 59% 總產值與主要獲利來源，EMS 電子代工則提供龐大出貨基石。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "OSAT Assembly SOP",
+        "desc": "Standard IC packaging and test operations."
+      },
+      {
+        "level": 2,
+        "name": "Smart Factory Automation",
+        "desc": "Automated material transfer and visual inspection."
+      },
+      {
+        "level": 3,
+        "name": "VIPack Advanced Integration",
+        "desc": "CoWoS-compatible 2.5D/3DIC packaging pipeline."
+      },
+      {
+        "level": 4,
+        "name": "AI SuperFab Packaging Velocity",
+        "desc": "Closed-loop yield optimization and substrate synchronization."
+      },
+      {
+        "level": 5,
+        "name": "Global OSAT Benchmark",
+        "desc": "Industry-leading operational excellence with (1.01)^365 = 37.8x compounding."
+      }
+    ]
+  }
+}

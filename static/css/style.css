@@ -235,3 +235,62 @@ body.light-theme pre {
     color: #0f172a !important;
     border-color: #cbd5e1 !important;
 }
+
+/* ========================================================================= */
+/* PLOTLY HOVER TOOLTIPS & LEGEND HIGH-CONTRAST LEGIBILITY ENHANCEMENTS      */
+/* ========================================================================= */
+.js-plotly-plot .plotly .hoverlayer {
+    pointer-events: none !important;
+}
+
+/* Force dark, crisp background on all hover boxes (never white!) */
+.js-plotly-plot .plotly .hoverlayer path,
+.js-plotly-plot .plotly .hoverlayer rect,
+.js-plotly-plot .plotly .hoverlayer .hovertext path,
+.js-plotly-plot .plotly .hoverlayer .hovertext rect,
+.js-plotly-plot .plotly .hoverlayer g.hovertext path,
+.js-plotly-plot .plotly .hoverlayer g.hovertext rect {
+    fill: #090d16 !important;
+    fill-opacity: 0.98 !important;
+    stroke: #3b82f6 !important;
+    stroke-width: 1.5px !important;
+    rx: 6px !important;
+    ry: 6px !important;
+}
+
+/* Force bright, crisp text with distinct hierarchy */
+.js-plotly-plot .plotly .hoverlayer text,
+.js-plotly-plot .plotly .hoverlayer .hovertext text,
+.js-plotly-plot .plotly .hoverlayer tspan {
+    fill: #ffffff !important;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.8) !important;
+}
+
+/* Force dark tooltip even in light theme for ultra high contrast */
+body.light-theme .js-plotly-plot .plotly .hoverlayer path,
+body.light-theme .js-plotly-plot .plotly .hoverlayer rect,
+body.light-theme .js-plotly-plot .plotly .hoverlayer .hovertext path,
+body.light-theme .js-plotly-plot .plotly .hoverlayer .hovertext rect {
+    fill: #0f172a !important;
+    fill-opacity: 0.98 !important;
+    stroke: #2563eb !important;
+    stroke-width: 1.5px !important;
+}
+
+body.light-theme .js-plotly-plot .plotly .hoverlayer text,
+body.light-theme .js-plotly-plot .plotly .hoverlayer tspan {
+    fill: #ffffff !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+}
+
+/* Legend items styling */
+.js-plotly-plot .plotly .legend text {
+    font-weight: 700 !important;
+    letter-spacing: 0.02em !important;
+}
+
+

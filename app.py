@@ -12,6 +12,13 @@ app = Flask(__name__)
 workflow = AnnualReportWorkflow()
 extractor = FinancialMetricsExtractor()
 
+@app.after_request
+def add_header(response):
+    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate, max-age=0'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = '0'
+    return response
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -40,7 +47,7 @@ def get_companies():
                 canonical_set.add(FinancialMetricsExtractor.canonical_ticker(item).upper())
 
     # Map NVDA to NVIDIA display value if desired, but keep clean list
-    ordered_priority = ["ASML", "TSMC", "NVDA", "NXP", "VSH"]
+    ordered_priority = ["ASML", "TSMC", "NVDA", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH"]
     final_list = [c for c in ordered_priority if c in canonical_set]
     for c in sorted(canonical_set):
         if c not in final_list:

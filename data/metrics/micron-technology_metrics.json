@@ -1,0 +1,259 @@
+{
+  "company_name": "Micron Technology, Inc.",
+  "ticker": "MU",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 21435,
+      "gross_profit": 6561,
+      "operating_income": 3005,
+      "net_income": 2687,
+      "rd_expense": 2627,
+      "headcount": 40000,
+      "gross_margin": 30.61,
+      "operating_margin": 14.02,
+      "net_margin": 12.54,
+      "rd_pct_rev": 12.26,
+      "rev_per_emp": 535875.0,
+      "gp_per_emp": 164025.0,
+      "op_per_emp": 75125.0,
+      "ni_per_emp": 67175.0,
+      "rd_per_emp": 65675.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 27705,
+      "gross_profit": 10928,
+      "operating_income": 5801,
+      "net_income": 5861,
+      "rd_expense": 2788,
+      "headcount": 43000,
+      "gross_margin": 39.44,
+      "operating_margin": 20.94,
+      "net_margin": 21.16,
+      "rd_pct_rev": 10.06,
+      "rev_per_emp": 644302.0,
+      "gp_per_emp": 254140.0,
+      "op_per_emp": 134907.0,
+      "ni_per_emp": 136302.0,
+      "rd_per_emp": 64837.0,
+      "rev_growth_yoy": 29.25,
+      "gp_growth_yoy": 66.56,
+      "op_growth_yoy": 93.04,
+      "ni_growth_yoy": 118.12,
+      "rd_growth_yoy": 6.13,
+      "hc_growth_yoy": 7.5,
+      "gm_diff_pp": 8.83,
+      "op_diff_pp": 6.92
+    },
+    "2022": {
+      "revenue": 30758,
+      "gross_profit": 14115,
+      "operating_income": 7025,
+      "net_income": 8690,
+      "rd_expense": 3195,
+      "headcount": 48000,
+      "gross_margin": 45.89,
+      "operating_margin": 22.84,
+      "net_margin": 28.25,
+      "rd_pct_rev": 10.39,
+      "rev_per_emp": 640792.0,
+      "gp_per_emp": 294062.0,
+      "op_per_emp": 146354.0,
+      "ni_per_emp": 181042.0,
+      "rd_per_emp": 66562.0,
+      "rev_growth_yoy": 11.02,
+      "gp_growth_yoy": 29.16,
+      "op_growth_yoy": 21.1,
+      "ni_growth_yoy": 48.27,
+      "rd_growth_yoy": 14.6,
+      "hc_growth_yoy": 11.63,
+      "gm_diff_pp": 6.45,
+      "op_diff_pp": 1.9
+    },
+    "2023": {
+      "revenue": 15540,
+      "gross_profit": -1416,
+      "operating_income": -4769,
+      "net_income": -5833,
+      "rd_expense": 3047,
+      "headcount": 43000,
+      "gross_margin": -9.11,
+      "operating_margin": -30.69,
+      "net_margin": -37.54,
+      "rd_pct_rev": 19.61,
+      "rev_per_emp": 361395.0,
+      "gp_per_emp": -32930.0,
+      "op_per_emp": -110907.0,
+      "ni_per_emp": -135651.0,
+      "rd_per_emp": 70860.0,
+      "rev_growth_yoy": -49.48,
+      "gp_growth_yoy": -110.03,
+      "op_growth_yoy": -167.89,
+      "ni_growth_yoy": -167.12,
+      "rd_growth_yoy": -4.63,
+      "hc_growth_yoy": -10.42,
+      "gm_diff_pp": -55.0,
+      "op_diff_pp": -53.53
+    },
+    "2024": {
+      "revenue": 25111,
+      "gross_profit": 5948,
+      "operating_income": 1178,
+      "net_income": 778,
+      "rd_expense": 3371,
+      "headcount": 44000,
+      "gross_margin": 23.69,
+      "operating_margin": 4.69,
+      "net_margin": 3.1,
+      "rd_pct_rev": 13.42,
+      "rev_per_emp": 570705.0,
+      "gp_per_emp": 135182.0,
+      "op_per_emp": 26773.0,
+      "ni_per_emp": 17682.0,
+      "rd_per_emp": 76614.0,
+      "rev_growth_yoy": 61.59,
+      "gp_growth_yoy": -520.06,
+      "op_growth_yoy": -124.7,
+      "ni_growth_yoy": -113.34,
+      "rd_growth_yoy": 10.63,
+      "hc_growth_yoy": 2.33,
+      "gm_diff_pp": 32.8,
+      "op_diff_pp": 35.38
+    },
+    "2025": {
+      "revenue": 38500,
+      "gross_profit": 15400,
+      "operating_income": 10780,
+      "net_income": 9240,
+      "rd_expense": 3800,
+      "headcount": 46000,
+      "gross_margin": 40.0,
+      "operating_margin": 28.0,
+      "net_margin": 24.0,
+      "rd_pct_rev": 9.87,
+      "rev_per_emp": 836957.0,
+      "gp_per_emp": 334783.0,
+      "op_per_emp": 234348.0,
+      "ni_per_emp": 200870.0,
+      "rd_per_emp": 82609.0,
+      "rev_growth_yoy": 53.32,
+      "gp_growth_yoy": 158.91,
+      "op_growth_yoy": 815.11,
+      "ni_growth_yoy": 1087.66,
+      "rd_growth_yoy": 12.73,
+      "hc_growth_yoy": 4.55,
+      "gm_diff_pp": 16.31,
+      "op_diff_pp": 23.31
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Compute & Networking (DRAM / HBM3E)",
+      "Mobile (LPDDR5X / UFS)",
+      "Embedded (Automotive / Industrial)",
+      "Storage (NAND SSD)"
+    ],
+    "colors": [
+      "#2563EB",
+      "#059669",
+      "#D97706",
+      "#7C3AED"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          10400,
+          6100,
+          4800,
+          3811
+        ],
+        "volume": [
+          4200,
+          3100,
+          2400,
+          1800
+        ]
+      },
+      "2025": {
+        "value": [
+          18500,
+          8200,
+          6100,
+          5700
+        ],
+        "volume": [
+          5600,
+          3800,
+          2700,
+          2200
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce disciplined at ~44,000-46,000 FTEs while HBM3E and high-density DDR5 memory supercycle expanded gross margin from -9.11% in FY2023 (severe memory inventory write-down downcycle) to 40.0%+ in FY2025.",
+      "productivity": "Revenue per FTE surged to $837K with Gross Profit per employee at $335K, demonstrating massive cyclical and operational leverage recovery.",
+      "leverage": "Operating income rebounded dramatically to $10.78B (28.0% margin) powered by pricing power in generative AI memory.",
+      "rd": "R&D investment scaled to $3.37B-$3.80B (9.9% of revenue) advancing 1-beta/1-gamma EUV DRAM and 232-layer/G9 3D NAND nodes.",
+      "growth": "Compute & Networking segment surged over 75%+ YoY driven by HBM3E adoption across NVIDIA GB200 clusters.",
+      "breakdown": "DRAM products (Compute & Mobile) generate over 71% of total value, serving as the core earnings powerhouse."
+    },
+    "zh": {
+      "pivot": "員工人數自景氣谷底自律控制於 4.4 萬-4.6 萬人，HBM3E 高頻寬記憶體與高容量 DDR5 驅動毛利率自 FY2023 嚴峻的記憶體庫存跌價損失谷底 (-9.11%) 大幅反彈突破 40.0%。",
+      "productivity": "人均營收飆升至 $837K/人，人均毛利達 $335K/人，展現強大的記憶體週期與營運槓桿彈性。",
+      "leverage": "營業利益由虧轉盈大幅攀升至 $107.8 億美元（營業利益率 28.0%），受惠於生成式 AI 記憶體定價權。",
+      "rd": "研發支出擴大至 $33.7 億-$38 億美元（佔營收 9.9%），全面推進 1-gamma EUV DRAM 與 232 層 3D NAND。",
+      "growth": "運算與網路事業部在 HBM3E 與伺服器記憶體帶動下呈現 75%+ 爆發性年增長。",
+      "breakdown": "DRAM 產品（資料中心與行動端）貢獻超過 71% 總產值，為推動獲利復甦之核心支柱。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Memory Fab Baseline",
+        "desc": "Standard wafer fab processing SOPs."
+      },
+      {
+        "level": 2,
+        "name": "Automated Die Stacking",
+        "desc": "Automated TSV via alignment for 8-high/12-high HBM."
+      },
+      {
+        "level": 3,
+        "name": "EUV Node Transition",
+        "desc": "1-beta/1-gamma EUV process control integration."
+      },
+      {
+        "level": 4,
+        "name": "AI Memory SuperFab",
+        "desc": "Closed-loop test and high-yield HBM packaging synchronization."
+      },
+      {
+        "level": 5,
+        "name": "World-Class Memory Benchmark",
+        "desc": "Extreme yield compounding with (1.01)^365 = 37.8x operational velocity."
+      }
+    ]
+  }
+}

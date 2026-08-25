@@ -29,7 +29,29 @@ TICKER_SLUGS = {
     "intc": ["intel", "intc"],
     "intel": ["intel", "intc"],
     "qcom": ["qualcomm", "qcom"],
-    "qualcomm": ["qualcomm", "qcom"]
+    "qualcomm": ["qualcomm", "qcom"],
+    "goog": ["alphabet-google", "google", "googl", "goog"],
+    "googl": ["alphabet-google", "google", "googl", "goog"],
+    "google": ["alphabet-google", "google", "googl", "goog"],
+    "alphabet": ["alphabet-google", "google", "googl", "goog"],
+    "alphabet-google": ["alphabet-google", "google", "googl", "goog"],
+    "aapl": ["apple", "aapl"],
+    "apple": ["apple", "aapl"],
+    "apple-inc": ["apple", "aapl"],
+    "ase": ["ase-group", "asx", "ase"],
+    "asx": ["ase-group", "asx", "ase"],
+    "ase-group": ["ase-group", "asx", "ase"],
+    "3711": ["ase-group", "asx", "ase"],
+    "mu": ["micron-technology", "micron", "mu"],
+    "micron": ["micron-technology", "micron", "mu"],
+    "micron-technology": ["micron-technology", "micron", "mu"],
+    "klac": ["kla", "kla-corporation", "klac"],
+    "kla": ["kla", "kla-corporation", "klac"],
+    "kla-tencor": ["kla", "kla-corporation", "klac"],
+    "kla-corporation": ["kla", "kla-corporation", "klac"],
+    "ter": ["teradyne", "ter"],
+    "teradyne": ["teradyne", "ter"],
+    "teradyne-inc": ["teradyne", "ter"]
 }
 
 class AnnualReportCrawler:

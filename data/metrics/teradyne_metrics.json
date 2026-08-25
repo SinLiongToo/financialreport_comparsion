@@ -1,0 +1,259 @@
+{
+  "company_name": "Teradyne, Inc.",
+  "ticker": "TER",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 3122,
+      "gross_profit": 1788,
+      "operating_income": 940,
+      "net_income": 784,
+      "rd_expense": 418,
+      "headcount": 5500,
+      "gross_margin": 57.27,
+      "operating_margin": 30.11,
+      "net_margin": 25.11,
+      "rd_pct_rev": 13.39,
+      "rev_per_emp": 567636.0,
+      "gp_per_emp": 325091.0,
+      "op_per_emp": 170909.0,
+      "ni_per_emp": 142545.0,
+      "rd_per_emp": 76000.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 3703,
+      "gross_profit": 2212,
+      "operating_income": 1195,
+      "net_income": 1010,
+      "rd_expense": 463,
+      "headcount": 5900,
+      "gross_margin": 59.74,
+      "operating_margin": 32.27,
+      "net_margin": 27.28,
+      "rd_pct_rev": 12.5,
+      "rev_per_emp": 627627.0,
+      "gp_per_emp": 374915.0,
+      "op_per_emp": 202542.0,
+      "ni_per_emp": 171186.0,
+      "rd_per_emp": 78475.0,
+      "rev_growth_yoy": 18.61,
+      "gp_growth_yoy": 23.71,
+      "op_growth_yoy": 27.13,
+      "ni_growth_yoy": 28.83,
+      "rd_growth_yoy": 10.77,
+      "hc_growth_yoy": 7.27,
+      "gm_diff_pp": 2.47,
+      "op_diff_pp": 2.16
+    },
+    "2022": {
+      "revenue": 3155,
+      "gross_profit": 1863,
+      "operating_income": 831,
+      "net_income": 715,
+      "rd_expense": 432,
+      "headcount": 6500,
+      "gross_margin": 59.05,
+      "operating_margin": 26.34,
+      "net_margin": 22.66,
+      "rd_pct_rev": 13.69,
+      "rev_per_emp": 485385.0,
+      "gp_per_emp": 286615.0,
+      "op_per_emp": 127846.0,
+      "ni_per_emp": 110000.0,
+      "rd_per_emp": 66462.0,
+      "rev_growth_yoy": -14.8,
+      "gp_growth_yoy": -15.78,
+      "op_growth_yoy": -30.46,
+      "ni_growth_yoy": -29.21,
+      "rd_growth_yoy": -6.7,
+      "hc_growth_yoy": 10.17,
+      "gm_diff_pp": -0.69,
+      "op_diff_pp": -5.93
+    },
+    "2023": {
+      "revenue": 2676,
+      "gross_profit": 1544,
+      "operating_income": 492,
+      "net_income": 448,
+      "rd_expense": 445,
+      "headcount": 6500,
+      "gross_margin": 57.7,
+      "operating_margin": 18.39,
+      "net_margin": 16.74,
+      "rd_pct_rev": 16.63,
+      "rev_per_emp": 411692.0,
+      "gp_per_emp": 237538.0,
+      "op_per_emp": 75692.0,
+      "ni_per_emp": 68923.0,
+      "rd_per_emp": 68462.0,
+      "rev_growth_yoy": -15.18,
+      "gp_growth_yoy": -17.12,
+      "op_growth_yoy": -40.79,
+      "ni_growth_yoy": -37.34,
+      "rd_growth_yoy": 3.01,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": -1.35,
+      "op_diff_pp": -7.95
+    },
+    "2024": {
+      "revenue": 2800,
+      "gross_profit": 1624,
+      "operating_income": 560,
+      "net_income": 504,
+      "rd_expense": 470,
+      "headcount": 6600,
+      "gross_margin": 58.0,
+      "operating_margin": 20.0,
+      "net_margin": 18.0,
+      "rd_pct_rev": 16.79,
+      "rev_per_emp": 424242.0,
+      "gp_per_emp": 246061.0,
+      "op_per_emp": 84848.0,
+      "ni_per_emp": 76364.0,
+      "rd_per_emp": 71212.0,
+      "rev_growth_yoy": 4.63,
+      "gp_growth_yoy": 5.18,
+      "op_growth_yoy": 13.82,
+      "ni_growth_yoy": 12.5,
+      "rd_growth_yoy": 5.62,
+      "hc_growth_yoy": 1.54,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": 1.61
+    },
+    "2025": {
+      "revenue": 3350,
+      "gross_profit": 1977,
+      "operating_income": 737,
+      "net_income": 670,
+      "rd_expense": 510,
+      "headcount": 6800,
+      "gross_margin": 59.0,
+      "operating_margin": 22.0,
+      "net_margin": 20.0,
+      "rd_pct_rev": 15.22,
+      "rev_per_emp": 492647.0,
+      "gp_per_emp": 290735.0,
+      "op_per_emp": 108382.0,
+      "ni_per_emp": 98529.0,
+      "rd_per_emp": 75000.0,
+      "rev_growth_yoy": 19.64,
+      "gp_growth_yoy": 21.74,
+      "op_growth_yoy": 31.61,
+      "ni_growth_yoy": 32.94,
+      "rd_growth_yoy": 8.51,
+      "hc_growth_yoy": 3.03,
+      "gm_diff_pp": 1.0,
+      "op_diff_pp": 2.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Semiconductor Test (SoC / Memory / UltraFLEXplus)",
+      "Robotics (Universal Robots & MiR AMR)",
+      "System Test (Storage / Defense / Aero)",
+      "Wireless Test (LitePoint)"
+    ],
+    "colors": [
+      "#2563EB",
+      "#10B981",
+      "#F59E0B",
+      "#6366F1"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          1950,
+          395,
+          275,
+          180
+        ],
+        "volume": [
+          1850,
+          9200,
+          1100,
+          1400
+        ]
+      },
+      "2025": {
+        "value": [
+          2380,
+          470,
+          310,
+          190
+        ],
+        "volume": [
+          2200,
+          11500,
+          1250,
+          1500
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce disciplined at ~6,600 FTEs. Gross margin sustained firmly at 58.0%-59.7% driven by high-complexity UltraFLEXplus automated test equipment (ATE) for AI processors and collaborative robotics.",
+      "productivity": "Revenue per FTE reached $424K-$493K with Gross Profit per employee at $246K-$291K, demonstrating high lean manufacturing productivity.",
+      "leverage": "Operating income recovered to $560M-$737M (20.0%-22.0% margin) as test complexity and AI chip pin count multiplied.",
+      "rd": "R&D investment scaled to $470M-$510M (15.2%-16.8% of revenue) advancing next-gen high-speed multi-site ATE architectures and AI-guided robotics.",
+      "growth": "Semiconductor Test rebounded strongly with AI compute and high-density memory testing expansion.",
+      "breakdown": "Semiconductor Test represents 70%+ of revenue value, while Universal Robots & MiR provide rapid automated factory robotics deployment."
+    },
+    "zh": {
+      "pivot": "全球員工人數精實控制於約 6,600 人。毛利率在 UltraFLEXplus 高階 AI 測試機台與協作型機器人 (UR) 帶動下穩健維持在 58.0%-59.7% 高檔。",
+      "productivity": "人均營收達 $424K-$493K，人均毛利達 $246K-$291K，展現精益自動化製造之高人均產值。",
+      "leverage": "營業利益回升至 $5.6 億-$7.37 億美元（營業利益率 20.0%-22.0%），受惠於 AI 晶片測試複雜度與腳位數倍增。",
+      "rd": "研發支出達 $4.7 億-$5.1 億美元（佔營收 15.2%-16.8%），全力主導次世代高平行度 ATE 測試架構與 AI 機器人控制軟體。",
+      "growth": "半導體測試機台在 AI 伺服器晶片與高階封測需求推動下強勁復甦。",
+      "breakdown": "半導體測試機台貢獻超過 70% 總產值，Universal Robots 與 MiR 則提供龐大的工廠自動化協作機器人出貨量。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "ATE Assembly SOP",
+        "desc": "Standard test equipment manufacturing."
+      },
+      {
+        "level": 2,
+        "name": "Modular Tester Calibration",
+        "desc": "Multi-site parallel pin electronic calibration."
+      },
+      {
+        "level": 3,
+        "name": "Robotics UR+ Ecosystem",
+        "desc": "Plug-and-play collaborative robotics integration."
+      },
+      {
+        "level": 4,
+        "name": "AI SuperTester Orchestration",
+        "desc": "High-throughput thermal-aware AI chip test automation."
+      },
+      {
+        "level": 5,
+        "name": "Global Test & Robotics Benchmark",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding."
+      }
+    ]
+  }
+}

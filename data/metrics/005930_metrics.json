@@ -1,0 +1,233 @@
+{
+  "company_name": "Samsung Electronics Co., Ltd.",
+  "ticker": "SAMSUNG",
+  "currency": "USD ($M)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2021": {
+      "revenue": 244400,
+      "gross_profit": 98950,
+      "operating_income": 45100,
+      "net_income": 34880,
+      "rd_expense": 19750,
+      "headcount": 266000,
+      "gross_margin": 40.49,
+      "operating_margin": 18.45,
+      "net_margin": 14.27,
+      "rd_pct_rev": 8.08,
+      "rev_per_emp": 918797.0,
+      "gp_per_emp": 371992.0,
+      "op_per_emp": 169549.0,
+      "ni_per_emp": 131128.0,
+      "rd_per_emp": 74248.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2022": {
+      "revenue": 233900,
+      "gross_profit": 86530,
+      "operating_income": 33590,
+      "net_income": 43110,
+      "rd_expense": 19270,
+      "headcount": 270000,
+      "gross_margin": 36.99,
+      "operating_margin": 14.36,
+      "net_margin": 18.43,
+      "rd_pct_rev": 8.24,
+      "rev_per_emp": 866296.0,
+      "gp_per_emp": 320481.0,
+      "op_per_emp": 124407.0,
+      "ni_per_emp": 159667.0,
+      "rd_per_emp": 71370.0,
+      "rev_growth_yoy": -4.3,
+      "gp_growth_yoy": -12.55,
+      "op_growth_yoy": -25.52,
+      "ni_growth_yoy": 23.6,
+      "rd_growth_yoy": -2.43,
+      "hc_growth_yoy": 1.5,
+      "gm_diff_pp": -3.5,
+      "op_diff_pp": -4.09
+    },
+    "2023": {
+      "revenue": 198390,
+      "gross_profit": 60840,
+      "operating_income": 5050,
+      "net_income": 11880,
+      "rd_expense": 21680,
+      "headcount": 268000,
+      "gross_margin": 30.67,
+      "operating_margin": 2.55,
+      "net_margin": 5.99,
+      "rd_pct_rev": 10.93,
+      "rev_per_emp": 740261.0,
+      "gp_per_emp": 227015.0,
+      "op_per_emp": 18843.0,
+      "ni_per_emp": 44328.0,
+      "rd_per_emp": 80896.0,
+      "rev_growth_yoy": -15.18,
+      "gp_growth_yoy": -29.69,
+      "op_growth_yoy": -84.97,
+      "ni_growth_yoy": -72.44,
+      "rd_growth_yoy": 12.51,
+      "hc_growth_yoy": -0.74,
+      "gm_diff_pp": -6.32,
+      "op_diff_pp": -11.81
+    },
+    "2024": {
+      "revenue": 220440,
+      "gross_profit": 83740,
+      "operating_income": 23810,
+      "net_income": 21100,
+      "rd_expense": 22860,
+      "headcount": 270000,
+      "gross_margin": 37.99,
+      "operating_margin": 10.8,
+      "net_margin": 9.57,
+      "rd_pct_rev": 10.37,
+      "rev_per_emp": 816444.0,
+      "gp_per_emp": 310148.0,
+      "op_per_emp": 88185.0,
+      "ni_per_emp": 78148.0,
+      "rd_per_emp": 84667.0,
+      "rev_growth_yoy": 11.11,
+      "gp_growth_yoy": 37.64,
+      "op_growth_yoy": 371.49,
+      "ni_growth_yoy": 77.61,
+      "rd_growth_yoy": 5.44,
+      "hc_growth_yoy": 0.75,
+      "gm_diff_pp": 7.32,
+      "op_diff_pp": 8.25
+    },
+    "2025": {
+      "revenue": 241740,
+      "gross_profit": 96670,
+      "operating_income": 31740,
+      "net_income": 26450,
+      "rd_expense": 25000,
+      "headcount": 272000,
+      "gross_margin": 39.99,
+      "operating_margin": 13.13,
+      "net_margin": 10.94,
+      "rd_pct_rev": 10.34,
+      "rev_per_emp": 888750.0,
+      "gp_per_emp": 355404.0,
+      "op_per_emp": 116691.0,
+      "ni_per_emp": 97243.0,
+      "rd_per_emp": 91912.0,
+      "rev_growth_yoy": 9.66,
+      "gp_growth_yoy": 15.44,
+      "op_growth_yoy": 33.31,
+      "ni_growth_yoy": 25.36,
+      "rd_growth_yoy": 9.36,
+      "hc_growth_yoy": 0.74,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 2.33
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Device Solutions (Memory/Foundry/LSI)",
+      "Mobile eXperience & Networks (MX)",
+      "Visual Display & Digital Appliances",
+      "Samsung Display (SDC)"
+    ],
+    "colors": [
+      "#1428A0",
+      "#00A9E0",
+      "#71C5E8",
+      "#00205B"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          80500,
+          82400,
+          33260,
+          24280
+        ],
+        "volume": [
+          37,
+          37,
+          15,
+          11
+        ]
+      },
+      "2025": {
+        "value": [
+          98000,
+          85600,
+          33800,
+          24340
+        ],
+        "volume": [
+          40,
+          35,
+          14,
+          11
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Memory cycle rebound restored gross margin from 30.7% in 2023 to 38.0%-40.0% in 2024/2025 across 270k global workforce.",
+      "productivity": "Revenue per FTE recovered to ~$816K-$889K with DS semiconductor division leading operational leverage expansion.",
+      "leverage": "Operating profit surged from $5.05B in 2023 to $23.8B in 2024 and heading toward $31.7B in 2025.",
+      "rd": "R&D expenditure scaled to record $22.9B-$25.0B (~10.3% of revenue) accelerating HBM3E/HBM4, 2nm GAA Foundry, and Galaxy AI ecosystem.",
+      "growth": "Server DDR5, enterprise SSD, and HBM memory shipments lead the semiconductor revenue re-acceleration.",
+      "breakdown": "Device Solutions (Semiconductor) and Mobile MX together generate >74% of total corporate revenues."
+    },
+    "zh": {
+      "pivot": "記憶體週期強勁復甦，帶動集團毛利率由 2023 年谷底的 30.7% 強勁反彈回 38.0%-40.0% 水準。",
+      "productivity": "全球 27 萬員工之人均營收回升至約 81.6 萬～88.9 萬美元/人，半導體事業部 (DS) 貢獻主要營運槓桿。",
+      "leverage": "營業利益由 2023 年谷底的 50.5 億美元大幅反彈至 2024 年的 238.1 億美元，2025 年邁向 317.4 億美元。",
+      "rd": "研發支出擴大至創紀錄的 228.6 億～250 億美元（佔營收 10.3%），全面推進 HBM3E/HBM4、2nm GAA 晶圓代工與 Galaxy AI 生態。",
+      "growth": "伺服器高階 DDR5、企業級 SSD 與 HBM 需求推升半導體營收大幅年增。",
+      "breakdown": "半導體事業群 (DS) 與行動通訊 (MX) 合計貢獻超過 74% 集團營收。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Mass Assembly & Component Sourcing",
+        "desc": "Standard consumer electronics mass production line."
+      },
+      {
+        "level": 2,
+        "name": "Automated Mega-Fab Cleanroom",
+        "desc": "Automated material handling systems (AMHS) and DRAM/NAND wafer fab scaling."
+      },
+      {
+        "level": 3,
+        "name": "Smart Factory & Global SCM Network",
+        "desc": "End-to-end global supply chain visibility and automated packaging."
+      },
+      {
+        "level": 4,
+        "name": "AI Mega-Cluster & GAA Wafer Substrate",
+        "desc": "AI-driven yield prediction, 3nm/2nm GAA gate fabrication, and advanced HBM stacking."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Semiconductor & Device Superconglomerate",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding manufacturing velocity."
+      }
+    ]
+  }
+}

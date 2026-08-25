@@ -10,7 +10,7 @@
     <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
     <!-- FontAwesome CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/style.css?v={{ range(10000, 99999) | random }}">
 </head>
 <body class="bg-slate-900 text-slate-100 min-h-screen">
     <!-- Header -->
@@ -202,14 +202,19 @@
             <!-- Row 1: The Pivot & Productivity Trio -->
             <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <!-- Chart 1: The Pivot -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-users-viewfinder text-blue-400"></i>
                                 <span data-i18n="chart1_title">Chart 1: Headcount vs. Gross Margin % (The Pivot)</span>
                             </h3>
-                            <span class="text-xs text-blue-400 bg-blue-500/10 px-2 py-0.5 rounded font-mono">Headcount vs GM %</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-blue-400 bg-blue-500/10 px-2 py-0.5 rounded font-mono">Headcount vs GM %</span>
+                                <button type="button" data-chart="chartInflection" data-title="chart1_title" data-badge="Headcount vs GM %" data-insight="insightPivotText" data-icon="fa-users-viewfinder" onclick="zoomChart('chartInflection', 'chart1_title', 'Headcount vs GM %', 'insightPivotText', 'fa-users-viewfinder')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-blue-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-blue-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
                         <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightPivotText">
                             Loading strategic insight...
@@ -219,14 +224,19 @@
                 </div>
 
                 <!-- Chart 2: Productivity Trio -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-person-digging text-purple-400"></i>
                                 <span data-i18n="chart2_title">Chart 2: Human Capital Productivity Trio (Rev / GP / OpIncome per FTE)</span>
                             </h3>
-                            <span class="text-xs text-purple-400 bg-purple-500/10 px-2 py-0.5 rounded font-mono">Productivity Trio</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-purple-400 bg-purple-500/10 px-2 py-0.5 rounded font-mono">Productivity Trio</span>
+                                <button type="button" data-chart="chartProductivity" data-title="chart2_title" data-badge="Productivity Trio" data-insight="insightProductivityText" data-icon="fa-person-digging" onclick="zoomChart('chartProductivity', 'chart2_title', 'Productivity Trio', 'insightProductivityText', 'fa-person-digging')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-purple-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-purple-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
                         <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightProductivityText">
                             Loading productivity insight...
@@ -239,14 +249,19 @@
             <!-- Row 2: Operating Profitability & R&D Investment Intensity -->
             <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <!-- Chart 3: Operating Leverage -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-sack-dollar text-emerald-400"></i>
                                 <span data-i18n="chart3_title">Chart 3: Operating Profitability & Leverage (OpIncome & Margins)</span>
                             </h3>
-                            <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded font-mono">Operating Leverage</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded font-mono">Operating Leverage</span>
+                                <button type="button" data-chart="chartProfitability" data-title="chart3_title" data-badge="Operating Leverage" data-insight="insightLeverageText" data-icon="fa-sack-dollar" onclick="zoomChart('chartProfitability', 'chart3_title', 'Operating Leverage', 'insightLeverageText', 'fa-sack-dollar')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-emerald-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-emerald-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
                         <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightLeverageText">
                             Loading operational leverage insight...
@@ -256,14 +271,19 @@
                 </div>
 
                 <!-- Chart 4: R&D Intensity -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-rose-400">
                                 <i class="fa-solid fa-microchip mr-1.5"></i>
                                 <span data-i18n="chart4_title">Chart 4: R&D Expense & Technology Moat Intensity</span>
                             </h3>
-                            <span class="text-xs text-rose-400 bg-rose-500/10 px-2 py-0.5 rounded font-mono">R&D Commitment</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-rose-400 bg-rose-500/10 px-2 py-0.5 rounded font-mono">R&D Commitment</span>
+                                <button type="button" data-chart="chartRdIntensity" data-title="chart4_title" data-badge="R&D Commitment" data-insight="insightRdText" data-icon="fa-microchip" onclick="zoomChart('chartRdIntensity', 'chart4_title', 'R&D Commitment', 'insightRdText', 'fa-microchip')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-rose-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-rose-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
                         <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightRdText">
                             Loading R&D investment insight...
@@ -276,14 +296,19 @@
             <!-- Row 3: Growth Dynamics & Value-vs-Volume Sales Breakdown -->
             <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <!-- Chart 5: Growth Dynamics -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-arrow-trend-up text-amber-400"></i>
                                 <span data-i18n="chart5_title">Chart 5: Profit vs. Headcount Growth Dynamics (YoY Triangulation)</span>
                             </h3>
-                            <span class="text-xs text-amber-400 bg-amber-500/10 px-2 py-0.5 rounded font-mono">Growth Dynamics</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-amber-400 bg-amber-500/10 px-2 py-0.5 rounded font-mono">Growth Dynamics</span>
+                                <button type="button" data-chart="chartGrowthDynamics" data-title="chart5_title" data-badge="Growth Dynamics" data-insight="insightGrowthText" data-icon="fa-arrow-trend-up" onclick="zoomChart('chartGrowthDynamics', 'chart5_title', 'Growth Dynamics', 'insightGrowthText', 'fa-arrow-trend-up')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-amber-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-amber-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
                         <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightGrowthText">
                             Loading growth dynamics insight...
@@ -293,14 +318,19 @@
                 </div>
 
                 <!-- Chart 6: Value vs. Volume Sales Breakdown -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-boxes-stacked text-orange-400"></i>
                                 <span data-i18n="chart6_title">Chart 6: Value-vs-Volume Sales Asymmetry Breakdown</span>
                             </h3>
-                            <span class="text-xs text-orange-400 bg-orange-500/10 px-2 py-0.5 rounded font-mono">Value vs Volume</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-orange-400 bg-orange-500/10 px-2 py-0.5 rounded font-mono">Value vs Volume</span>
+                                <button type="button" data-chart="chartSalesBreakdown" data-title="chart6_title" data-badge="Value vs Volume" data-insight="insightBreakdownText" data-icon="fa-boxes-stacked" onclick="zoomChart('chartSalesBreakdown', 'chart6_title', 'Value vs Volume', 'insightBreakdownText', 'fa-boxes-stacked')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-orange-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-orange-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
                         <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightBreakdownText">
                             Loading sales structure insight...
@@ -393,16 +423,21 @@
             <!-- 4 Comparative Benchmark Charts -->
             <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <!-- Comparison Chart 1: Gross Margin % Trajectory -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-percent text-emerald-400"></i>
                                 <span data-i18n="compare_chart1_title">Gross Margin % Trajectory Benchmark</span>
                             </h3>
-                            <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded font-mono">Margin Power</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded font-mono">Margin Power</span>
+                                <button type="button" data-chart="chartCompareGM" data-title="compare_chart1_title" data-badge="Margin Power" data-insight="compare_chart1_desc" data-icon="fa-percent" onclick="zoomChart('chartCompareGM', 'compare_chart1_title', 'Margin Power', 'compare_chart1_desc', 'fa-percent')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-emerald-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-emerald-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
-                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart1_desc">
+                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart1_desc" id="compare_chart1_desc">
                             Cross-company pricing power comparison: Leading-edge semiconductors (NVDA, TSMC) vs. equipment (ASML) vs. automotive (NXP) vs. passives (VSH).
                         </p>
                     </div>
@@ -410,16 +445,21 @@
                 </div>
 
                 <!-- Comparison Chart 2: Rev & GP per FTE -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-person-digging text-purple-400"></i>
                                 <span data-i18n="compare_chart2_title">Revenue & Gross Profit per FTE Benchmark ($)</span>
                             </h3>
-                            <span class="text-xs text-purple-400 bg-purple-500/10 px-2 py-0.5 rounded font-mono">Productivity ROI</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-purple-400 bg-purple-500/10 px-2 py-0.5 rounded font-mono">Productivity ROI</span>
+                                <button type="button" data-chart="chartCompareProductivity" data-title="compare_chart2_title" data-badge="Productivity ROI" data-insight="compare_chart2_desc" data-icon="fa-person-digging" onclick="zoomChart('chartCompareProductivity', 'compare_chart2_title', 'Productivity ROI', 'compare_chart2_desc', 'fa-person-digging')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-purple-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-purple-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
-                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart2_desc">
+                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart2_desc" id="compare_chart2_desc">
                             Human capital leverage: Quantifying revenue and gross margin generated per full-time employee across different business models.
                         </p>
                     </div>
@@ -427,16 +467,21 @@
                 </div>
 
                 <!-- Comparison Chart 3: Operating Margin % -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-sack-dollar text-cyan-400"></i>
                                 <span data-i18n="compare_chart3_title">Operating Margin % & Profitability Benchmark</span>
                             </h3>
-                            <span class="text-xs text-cyan-400 bg-cyan-500/10 px-2 py-0.5 rounded font-mono">Operating Leverage</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-cyan-400 bg-cyan-500/10 px-2 py-0.5 rounded font-mono">Operating Leverage</span>
+                                <button type="button" data-chart="chartCompareOpMargin" data-title="compare_chart3_title" data-badge="Operating Leverage" data-insight="compare_chart3_desc" data-icon="fa-sack-dollar" onclick="zoomChart('chartCompareOpMargin', 'compare_chart3_title', 'Operating Leverage', 'compare_chart3_desc', 'fa-sack-dollar')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-cyan-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-cyan-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
-                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart3_desc">
+                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart3_desc" id="compare_chart3_desc">
                             Pure operational profitability: Evaluates operating efficiency and OpEx discipline through cyclical semiconductor demand fluctuations.
                         </p>
                     </div>
@@ -444,16 +489,21 @@
                 </div>
 
                 <!-- Comparison Chart 4: R&D Intensity % of Revenue -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
                                 <i class="fa-solid fa-microchip text-rose-400"></i>
                                 <span data-i18n="compare_chart4_title">R&D Intensity (% of Revenue) Moat Benchmark</span>
                             </h3>
-                            <span class="text-xs text-rose-400 bg-rose-500/10 px-2 py-0.5 rounded font-mono">Technology Moat</span>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-rose-400 bg-rose-500/10 px-2 py-0.5 rounded font-mono">Technology Moat</span>
+                                <button type="button" data-chart="chartCompareRD" data-title="compare_chart4_title" data-badge="Technology Moat" data-insight="compare_chart4_desc" data-icon="fa-microchip" onclick="zoomChart('chartCompareRD', 'compare_chart4_title', 'Technology Moat', 'compare_chart4_desc', 'fa-microchip')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-rose-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-rose-400 pointer-events-none"></i>
+                                </button>
+                            </div>
                         </div>
-                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart4_desc">
+                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart4_desc" id="compare_chart4_desc">
                             Reinvestment intensity: Highlighting R&D allocation to pioneer next-generation architectures (High-NA EUV, 2nm, Blackwell, SDV).
                         </p>
                     </div>
@@ -504,6 +554,51 @@
             </p>
         </footer>
     </main>
+
+    <!-- ========================================================================= -->
+    <!-- Interactive Chart Zoom / Fullscreen Modal (一鍵放大 / 縮回) -->
+    <!-- ========================================================================= -->
+    <div id="chartZoomModal" class="fixed inset-0 z-[9999] bg-black/85 backdrop-blur-md flex items-center justify-center p-3 md:p-6 transition-all duration-200" style="display: none;">
+        <div class="bg-slate-900 border border-slate-700 rounded-2xl w-full max-w-6xl h-[90vh] flex flex-col shadow-2xl overflow-hidden animate-in fade-in zoom-in-95 duration-200" id="chartZoomModalCard">
+            <!-- Modal Header -->
+            <div class="px-6 py-3.5 border-b border-slate-800 flex flex-wrap justify-between items-center bg-slate-950/80 gap-3">
+                <div class="flex items-center gap-3">
+                    <div class="w-8 h-8 rounded-lg bg-blue-600/20 border border-blue-500/30 flex items-center justify-center text-blue-400">
+                        <i id="zoomModalIcon" class="fa-solid fa-chart-line text-sm"></i>
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2">
+                            <h3 id="zoomModalTitle" class="text-base font-bold text-white tracking-wide">Chart Inspection</h3>
+                            <span id="zoomModalBadge" class="text-xs px-2 py-0.5 rounded font-mono bg-blue-500/10 text-blue-400 border border-blue-500/20">Metric</span>
+                        </div>
+                        <p id="zoomModalSubtitle" class="text-xs text-slate-400 mt-0.5 max-w-2xl truncate">Strategic insight & high-resolution analytics</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-2">
+                    <button id="downloadZoomChartBtn" class="bg-slate-800 hover:bg-slate-700 text-slate-200 hover:text-white px-3 py-1.5 rounded-lg border border-slate-700 transition-all text-xs font-semibold flex items-center gap-1.5 shadow-sm" title="下載高解析度 PNG 圖檔">
+                        <i class="fa-solid fa-camera text-blue-400"></i> <span data-i18n="btn_download_image">下載高清圖檔 (PNG)</span>
+                    </button>
+                    <button id="closeZoomModalBtn" class="bg-blue-600/20 hover:bg-blue-600/30 text-blue-300 hover:text-white px-3 py-1.5 rounded-lg border border-blue-500/40 transition-all text-xs font-semibold flex items-center gap-1.5 shadow-sm" title="一鍵縮回 (ESC)">
+                        <i class="fa-solid fa-compress"></i> <span data-i18n="btn_shrink_chart">一鍵縮回 (ESC)</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Modal Body (Full Enlarged Canvas) -->
+            <div class="flex-1 w-full p-4 overflow-hidden flex flex-col justify-between bg-slate-900/50">
+                <div id="zoomedChartCanvas" class="w-full h-full min-h-[450px]"></div>
+            </div>
+
+            <!-- Modal Footer (Insight Bar) -->
+            <div class="px-6 py-2.5 bg-slate-950 border-t border-slate-800 flex items-center justify-between text-xs text-slate-400">
+                <div class="flex items-center gap-2 truncate">
+                    <i class="fa-solid fa-lightbulb text-amber-400 shrink-0"></i>
+                    <span id="zoomModalInsight" class="truncate text-slate-300">Strategic insight</span>
+                </div>
+                <span class="text-slate-500 font-mono hidden md:inline shrink-0 ml-4" data-i18n="zoom_modal_esc_hint">按 ESC 或點擊背景縮回</span>
+            </div>
+        </div>
+    </div>
 
     <!-- ========================================================================= -->
     <!-- Interactive Help / User Guide Modal -->
@@ -629,6 +724,169 @@
     </div>
 
     <!-- Custom Dashboard Logic -->
-    <script src="/static/js/dashboard.js"></script>
+    <script src="/static/js/dashboard.js?v={{ range(10000, 99999) | random }}"></script>
+
+    <!-- Inline Robust Chart Zoom Controller -->
+    <script>
+    (function() {
+        window.closeZoomModal = function() {
+            const modal = document.getElementById("chartZoomModal");
+            if (modal) {
+                modal.style.display = "none";
+                document.body.style.overflow = "";
+                try { Plotly.purge("zoomedChartCanvas"); } catch (e) {}
+            }
+        };
+
+        window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconClass) {
+            try {
+                const modal = document.getElementById("chartZoomModal");
+                if (!modal) return;
+
+                // 1. Instantly display modal
+                modal.style.display = "flex";
+                document.body.style.overflow = "hidden";
+
+                // 2. Set title & badge text
+                const titleEl = document.getElementById("zoomModalTitle");
+                const badgeEl = document.getElementById("zoomModalBadge");
+                const iconEl = document.getElementById("zoomModalIcon");
+                const subtitleEl = document.getElementById("zoomModalSubtitle");
+                const insightEl = document.getElementById("zoomModalInsight");
+
+                let titleText = titleKey || "Chart Inspection";
+                if (window.I18N_DICTS && window.CURRENT_LANGUAGE && window.I18N_DICTS[window.CURRENT_LANGUAGE]) {
+                    titleText = window.I18N_DICTS[window.CURRENT_LANGUAGE][titleKey] || titleText;
+                }
+                if (titleEl) titleEl.textContent = titleText;
+                if (badgeEl) badgeEl.textContent = badgeText || "Metric";
+                if (iconEl) iconEl.className = "fa-solid " + (iconClass || "fa-chart-line") + " text-sm";
+
+                let insightText = "";
+                const insightDom = document.getElementById(insightKeyOrId);
+                if (insightDom) {
+                    insightText = insightDom.textContent.trim();
+                } else if (window.I18N_DICTS && window.CURRENT_LANGUAGE && window.I18N_DICTS[window.CURRENT_LANGUAGE] && window.I18N_DICTS[window.CURRENT_LANGUAGE][insightKeyOrId]) {
+                    insightText = window.I18N_DICTS[window.CURRENT_LANGUAGE][insightKeyOrId];
+                } else {
+                    insightText = insightKeyOrId || "";
+                }
+                if (subtitleEl) subtitleEl.textContent = insightText;
+                if (insightEl) insightEl.textContent = insightText;
+
+                // 3. Render enlarged Plotly chart
+                const srcEl = document.getElementById(chartId);
+                if (!srcEl || (!srcEl.data && !srcEl._fullData)) {
+                    document.getElementById("zoomedChartCanvas").innerHTML = '<div class="flex items-center justify-center h-full text-slate-400 text-sm">Rendering high-resolution chart...</div>';
+                    setTimeout(function() { window.zoomChart(chartId, titleKey, badgeText, insightKeyOrId, iconClass); }, 150);
+                    return;
+                }
+
+                const rawTraces = srcEl.data || srcEl._fullData || [];
+                const cleanTraces = rawTraces.map(function(t) {
+                    var copy = {};
+                    for (var k in t) {
+                        if (!k.startsWith("_")) copy[k] = t[k];
+                    }
+                    return copy;
+                });
+
+                const isLight = document.documentElement.classList.contains("light") || (window.CURRENT_THEME === "light");
+                const fontColor = isLight ? "#1e293b" : "#e2e8f0";
+                const gridColor = isLight ? "#cbd5e1" : "#334155";
+
+                const cleanLayout = {
+                    paper_bgcolor: "transparent",
+                    plot_bgcolor: "transparent",
+                    font: { color: fontColor, size: 13 },
+                    margin: { l: 70, r: 70, t: 50, b: 65 },
+                    hovermode: "x unified",
+                    autosize: true,
+                    legend: { orientation: "h", y: 1.12, x: 0, font: { size: 12, color: fontColor } }
+                };
+
+                if (srcEl.layout) {
+                    if (srcEl.layout.barmode) cleanLayout.barmode = srcEl.layout.barmode;
+                    if (srcEl.layout.xaxis) {
+                        cleanLayout.xaxis = {
+                            showgrid: true,
+                            gridcolor: gridColor,
+                            automargin: true
+                        };
+                        if (srcEl.layout.xaxis.title) {
+                            cleanLayout.xaxis.title = typeof srcEl.layout.xaxis.title === 'string' ? srcEl.layout.xaxis.title : (srcEl.layout.xaxis.title.text || '');
+                        }
+                    }
+                    if (srcEl.layout.yaxis) {
+                        cleanLayout.yaxis = {
+                            showgrid: true,
+                            gridcolor: gridColor,
+                            autorange: true,
+                            tickprefix: srcEl.layout.yaxis.tickprefix,
+                            ticksuffix: srcEl.layout.yaxis.ticksuffix
+                        };
+                        if (srcEl.layout.yaxis.title) {
+                            cleanLayout.yaxis.title = typeof srcEl.layout.yaxis.title === 'string' ? srcEl.layout.yaxis.title : (srcEl.layout.yaxis.title.text || '');
+                        }
+                    }
+                    if (srcEl.layout.yaxis2) {
+                        cleanLayout.yaxis2 = {
+                            overlaying: "y",
+                            side: "right",
+                            showgrid: false,
+                            autorange: true,
+                            tickprefix: srcEl.layout.yaxis2.tickprefix,
+                            ticksuffix: srcEl.layout.yaxis2.ticksuffix
+                        };
+                        if (srcEl.layout.yaxis2.title) {
+                            cleanLayout.yaxis2.title = typeof srcEl.layout.yaxis2.title === 'string' ? srcEl.layout.yaxis2.title : (srcEl.layout.yaxis2.title.text || '');
+                        }
+                    }
+                }
+
+                Plotly.newPlot("zoomedChartCanvas", cleanTraces, cleanLayout, {
+                    responsive: true,
+                    displayModeBar: true,
+                    displaylogo: false
+                }).then(function() {
+                    setTimeout(function() { Plotly.Plots.resize("zoomedChartCanvas"); }, 60);
+                });
+            } catch (err) {
+                console.error("zoomChart error:", err);
+            }
+        };
+
+        // Event listener setup for modal buttons
+        document.addEventListener("DOMContentLoaded", function() {
+            var closeBtn = document.getElementById("closeZoomModalBtn");
+            if (closeBtn) closeBtn.onclick = window.closeZoomModal;
+
+            var modal = document.getElementById("chartZoomModal");
+            if (modal) {
+                modal.onclick = function(e) {
+                    if (e.target === modal) window.closeZoomModal();
+                };
+            }
+
+            var downloadBtn = document.getElementById("downloadZoomChartBtn");
+            if (downloadBtn) {
+                downloadBtn.onclick = function() {
+                    var titleEl = document.getElementById("zoomModalTitle");
+                    var cleanTitle = (titleEl ? titleEl.textContent.trim() : "chart").replace(/[^a-zA-Z0-9_\u4e00-\u9fa5]/g, "_");
+                    Plotly.downloadImage("zoomedChartCanvas", {
+                        format: "png",
+                        width: 1920,
+                        height: 1080,
+                        filename: cleanTitle + "_HD"
+                    });
+                };
+            }
+
+            document.addEventListener("keydown", function(e) {
+                if (e.key === "Escape") window.closeZoomModal();
+            });
+        });
+    })();
+    </script>
 </body>
 </html>

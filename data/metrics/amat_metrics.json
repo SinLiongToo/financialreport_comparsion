@@ -1,0 +1,253 @@
+{
+  "company_name": "Applied Materials, Inc.",
+  "ticker": "AMAT",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 17202,
+      "gross_profit": 7695,
+      "operating_income": 4371,
+      "net_income": 3619,
+      "rd_expense": 2239,
+      "headcount": 24000,
+      "gross_margin": 44.73,
+      "operating_margin": 25.41,
+      "net_margin": 21.04,
+      "rd_pct_rev": 13.02,
+      "rev_per_emp": 716750.0,
+      "gp_per_emp": 320625.0,
+      "op_per_emp": 182125.0,
+      "ni_per_emp": 150792.0,
+      "rd_per_emp": 93292.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 23063,
+      "gross_profit": 10901,
+      "operating_income": 6888,
+      "net_income": 5888,
+      "rd_expense": 2501,
+      "headcount": 27000,
+      "gross_margin": 47.27,
+      "operating_margin": 29.87,
+      "net_margin": 25.53,
+      "rd_pct_rev": 10.84,
+      "rev_per_emp": 854185.0,
+      "gp_per_emp": 403741.0,
+      "op_per_emp": 255111.0,
+      "ni_per_emp": 218074.0,
+      "rd_per_emp": 92630.0,
+      "rev_growth_yoy": 34.07,
+      "gp_growth_yoy": 41.66,
+      "op_growth_yoy": 57.58,
+      "ni_growth_yoy": 62.7,
+      "rd_growth_yoy": 11.7,
+      "hc_growth_yoy": 12.5,
+      "gm_diff_pp": 2.54,
+      "op_diff_pp": 4.46
+    },
+    "2022": {
+      "revenue": 25785,
+      "gross_profit": 11986,
+      "operating_income": 7788,
+      "net_income": 6525,
+      "rd_expense": 2800,
+      "headcount": 33000,
+      "gross_margin": 46.48,
+      "operating_margin": 30.2,
+      "net_margin": 25.31,
+      "rd_pct_rev": 10.86,
+      "rev_per_emp": 781364.0,
+      "gp_per_emp": 363212.0,
+      "op_per_emp": 236000.0,
+      "ni_per_emp": 197727.0,
+      "rd_per_emp": 84848.0,
+      "rev_growth_yoy": 11.8,
+      "gp_growth_yoy": 9.95,
+      "op_growth_yoy": 13.07,
+      "ni_growth_yoy": 10.82,
+      "rd_growth_yoy": 11.96,
+      "hc_growth_yoy": 22.22,
+      "gm_diff_pp": -0.79,
+      "op_diff_pp": 0.33
+    },
+    "2023": {
+      "revenue": 26517,
+      "gross_profit": 12404,
+      "operating_income": 7654,
+      "net_income": 6856,
+      "rd_expense": 3047,
+      "headcount": 34000,
+      "gross_margin": 46.78,
+      "operating_margin": 28.86,
+      "net_margin": 25.86,
+      "rd_pct_rev": 11.49,
+      "rev_per_emp": 779912.0,
+      "gp_per_emp": 364824.0,
+      "op_per_emp": 225118.0,
+      "ni_per_emp": 201647.0,
+      "rd_per_emp": 89618.0,
+      "rev_growth_yoy": 2.84,
+      "gp_growth_yoy": 3.49,
+      "op_growth_yoy": -1.72,
+      "ni_growth_yoy": 5.07,
+      "rd_growth_yoy": 8.82,
+      "hc_growth_yoy": 3.03,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": -1.34
+    },
+    "2024": {
+      "revenue": 27175,
+      "gross_profit": 12908,
+      "operating_income": 7853,
+      "net_income": 7180,
+      "rd_expense": 3175,
+      "headcount": 34500,
+      "gross_margin": 47.5,
+      "operating_margin": 28.9,
+      "net_margin": 26.42,
+      "rd_pct_rev": 11.68,
+      "rev_per_emp": 787681.0,
+      "gp_per_emp": 374145.0,
+      "op_per_emp": 227623.0,
+      "ni_per_emp": 208116.0,
+      "rd_per_emp": 92029.0,
+      "rev_growth_yoy": 2.48,
+      "gp_growth_yoy": 4.06,
+      "op_growth_yoy": 2.6,
+      "ni_growth_yoy": 4.73,
+      "rd_growth_yoy": 4.2,
+      "hc_growth_yoy": 1.47,
+      "gm_diff_pp": 0.72,
+      "op_diff_pp": 0.04
+    },
+    "2025": {
+      "revenue": 29500,
+      "gross_profit": 14160,
+      "operating_income": 8700,
+      "net_income": 7950,
+      "rd_expense": 3400,
+      "headcount": 35500,
+      "gross_margin": 48.0,
+      "operating_margin": 29.49,
+      "net_margin": 26.95,
+      "rd_pct_rev": 11.53,
+      "rev_per_emp": 830986.0,
+      "gp_per_emp": 398873.0,
+      "op_per_emp": 245070.0,
+      "ni_per_emp": 223944.0,
+      "rd_per_emp": 95775.0,
+      "rev_growth_yoy": 8.56,
+      "gp_growth_yoy": 9.7,
+      "op_growth_yoy": 10.79,
+      "ni_growth_yoy": 10.72,
+      "rd_growth_yoy": 7.09,
+      "hc_growth_yoy": 2.9,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 0.59
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Semiconductor Systems",
+      "Applied Global Services (AGS)",
+      "Display and Adjacent Markets"
+    ],
+    "colors": [
+      "#0056B3",
+      "#28A745",
+      "#FFC107"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          19850,
+          6150,
+          1175
+        ],
+        "volume": [
+          73,
+          23,
+          4
+        ]
+      },
+      "2025": {
+        "value": [
+          21800,
+          6450,
+          1250
+        ],
+        "volume": [
+          74,
+          22,
+          4
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce disciplined at ~34.5k FTEs with gross margin reaching 47.5%, proving high pricing power in GAA (Gate-All-Around) and Advanced Packaging.",
+      "productivity": "Revenue per FTE reached $788K with gross profit per employee at $374K and operating income per FTE at $228K.",
+      "leverage": "Operating income stabilized at $7.85B (28.9% margin) expanding toward $8.7B in FY2025.",
+      "rd": "R&D investment scaled to $3.18B-$3.40B (11.5%-11.7% of revenue) accelerating Backside Power Delivery (BSPDN) and Hybrid Bonding.",
+      "growth": "Advanced Packaging and ICAPS (IoT, Communications, Auto, Power, Sensors) provide resilient multi-node growth.",
+      "breakdown": "Semiconductor Systems generates 73% of corporate revenue, complemented by high-recurring revenue AGS service contracts (23%)."
+    },
+    "zh": {
+      "pivot": "員工人數穩定於 3.45 萬人水準，毛利率維持在 47.5% 高檔，展現在 GAA (全環繞柵極) 與先進封裝領域的強大定價能力。",
+      "productivity": "人均營收達 78.8 萬美元/人，人均毛利達 37.4 萬美元/人，人均營業利益達 22.8 萬美元/人。",
+      "leverage": "營業利益維持於 78.5 億美元（營業利益率 28.9%），2025 財年邁向 87 億美元。",
+      "rd": "研發支出達 31.8 億-34.0 億美元（佔營收 11.5%-11.7%），主導晶圓背部供電 (BSPDN) 與混合鍵合 (Hybrid Bonding) 材料工程技術。",
+      "growth": "先進封裝與 ICAPS 成熟節點設備提供穩健的抗週期成長動能。",
+      "breakdown": "半導體前段製程設備佔營收 73%，搭配高經常性營收的全球服務部 (AGS) 佔 23%。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Single-Wafer Processing Chamber",
+        "desc": "Standard CVD/PVD deposition tooling."
+      },
+      {
+        "level": 2,
+        "name": "Integrated Materials Solution (IMS)",
+        "desc": "Multi-chamber high-vacuum cluster platform integration."
+      },
+      {
+        "level": 3,
+        "name": "Digital Fab & AGS Telemetry",
+        "desc": "Predictive maintenance algorithms and subscription-based spares replenishment."
+      },
+      {
+        "level": 4,
+        "name": "AIx (Actionable Insight Accelerator)",
+        "desc": "Machine learning electron microscopy and in-situ recipe optimization."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Materials Engineering Supercluster",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding engineering velocity."
+      }
+    ]
+  }
+}

@@ -1,0 +1,7823 @@
+# Annual Report: TERADYNE_2021_Q2_10-Q
+
+- **Source File**: `TERADYNE_2021_Q2_10-Q.pdf`
+- **Total Pages**: 46
+- **Parsed Pages**: 30
+
+---
+
+
+## Page 1
+
+
+#### Table of Contents
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+
+#### Washington, D.C. 20549
+
+
+### FORM 10-Q
+
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+
+#### For the quarterly period ended July 4, 2021
+
+OR
+ 
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+
+#### For the transition period from                      to
+
+
+#### Commission File No. 001-06462
+
+TERADYNE, INC.
+
+
+#### (Exact name of registrant as specified in its charter)
+
+Massachusetts
+ 
+04-2272148
+(State or Other Jurisdiction of
+Incorporation or Organization)
+
+(I.R.S. Employer
+Identification No.)
+
+
+#### 600 Riverpark Drive, North Reading,
+
+Massachusetts
+ 
+01864
+(Address of Principal Executive Offices)
+ 
+(Zip Code)
+
+978-370-2700
+(Registrant’s Telephone Number, Including Area Code)
+
+
+#### Securities registered pursuant to Section 12(b) of the Act:
+
+
+#### Title of each class
+
+Trading
+Symbol(s)
+
+
+#### Name of each exchange
+
+on which registered
+Common Stock, par value $0.125 per share  
+TER
+ 
+Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and
+(2) has been subject to the filing requirements for the past 90 days.    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit such files)    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company”, and
+“emerging growth company” in Rule 12b-2 of the Exchange Act (check one):
+ 
+Large accelerated filer
+ ☒
+  Accelerated filer
+ ☐
+
+Non-accelerated filer
+ ☐
+  Emerging growth company  ☐
+
+
+#### Smaller reporting company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+
+
+## Page 2
+
+The number of shares outstanding of the registrant’s only class of Common Stock as of August 2, 2021  was 164,973,199 shares.
+
+
+## Page 3
+
+
+#### Table of Contents
+
+TERADYNE, INC.
+
+INDEX
+ 
+ 
+   
+  Page
+
+
+### PART I. FINANCIAL INFORMATION
+
+
+#### Item 1.   Financial Statements (Unaudited):
+
+
+#### Condensed Consolidated Balance Sheets as of July 4, 2021 and December 31, 2020
+
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended July 4, 2021 and June 28, 2020
+
+Condensed Consolidated Statements of Comprehensive Income for the Three and Six Months Ended July 4, 2021 and June 28, 2020
+
+Condensed Consolidated Statements of Shareholders’ Equity for the Three and Six Months Ended July 4, 2021 and June 28, 2020
+
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended July 4, 2021 and June 28, 2020
+
+
+#### Notes to Condensed Consolidated Financial Statements
+
+Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+#### Item 3.   Quantitative and Qualitative Disclosures about Market Risk
+
+
+#### Item 4.   Controls and Procedures
+
+
+### PART II. OTHER INFORMATION
+
+
+#### Item 1.   Legal Proceedings
+
+
+#### Item 1A.  Risk Factors
+
+
+#### Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds
+
+
+#### Item 4.   Mine Safety Disclosures
+
+
+#### Item 6.   Exhibits
+
+
+## Page 4
+
+### Table 4.1
+
+| ASSETS |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.2
+
+| Cash and cash equivalents |  | $ | 954,441 |  | $ | 914,121 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.3
+
+| Accounts receivable, less allowance for credit losses of $1,931 and $2,034 at July 4, 2021 and December 31, 2020, respectively |  |  | 868,457 |  |  | 497,506 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.4
+
+| Prepayments and other current assets |  |  | 368,315 |  |  | 259,338 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.5
+
+| Property, plant and equipment, net |  |  | 395,395 |  |  | 394,800 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.6
+
+| Marketable securities |  |  | 181,560 |  |  | 117,980 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.7
+
+| Retirement plans assets |  |  | 17,170 |  |  | 17,468 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.8
+
+| Acquired intangible assets, net |  |  | 88,121 |  |  | 100,939 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.9
+
+| Total assets |  | $ | 4,000,922 |  | $ | 3,652,346 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.10
+
+| Current liabilities: |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.11
+
+| Accrued employees’ compensation and withholdings |  |  | 205,717 |  |  | 220,321 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.12
+
+| Other accrued liabilities |  |  | 146,484 |  |  | 77,581 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.13
+
+| Income taxes payable |  |  | 93,876 |  |  | 80,728 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.14
+
+| Total current liabilities |  |  | 985,362 |  |  | 700,871 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.15
+
+| Long-term deferred revenue and customer advances |  |  | 58,534 |  |  | 58,359 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.16
+
+| Long-term other accrued liabilities |  |  | 19,387 |  |  | 19,352 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.17
+
+| Long-term operating lease liabilities |  |  | 49,066 |  |  | 42,073 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.18
+
+| Debt |  |  | 143,618 |  |  | 376,768 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.19
+
+| Commitments and contingencies |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.20
+
+| Convertible common shares |  |  | 21,386 |  |  | 3,787 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.21
+
+| Common stock, $0.125 par value, 1,000,000 shares authorized; 165,444 and 166,123 shares issued and outstanding at July 4, 2021 and December 31, 2020, respectively |  |  | 20,680 |  |  | 20,765 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.22
+
+| Accumulated other comprehensive income |  |  | 15,322 |  |  | 33,516 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 4.23
+
+| Total shareholders’ equity |  |  | 2,493,256 |  |  | 2,207,018 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+PART I
+ 
+Item 1:
+Financial Statements
+
+TERADYNE, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+
+#### (Unaudited)
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+(in thousands, except per share amount)
+ 
+ASSETS
+  
+  
+   
+  
+ 
+Current assets:
+  
+  
+   
+  
+ 
+Cash and cash equivalents
+  
+$
+954,441   
+$
+914,121 
+Marketable securities
+  
+ 
+282,121   
+ 
+522,280 
+Accounts receivable, less allowance for credit losses of $ 1,931 and $2,034 at July 4, 2021
+
+and December 31, 2020, respectively
+  
+ 
+868,457   
+ 
+497,506 
+Inventories, net
+  
+ 
+226,138   
+ 
+222,189 
+Prepayments and other current assets
+  
+ 
+368,315   
+ 
+259,338
+
+Total current assets
+  
+ 
+2,699,472   
+ 
+2,415,434 
+Property, plant and equipment, net
+  
+ 
+395,395   
+ 
+394,800 
+Operating lease right-of-use assets, net
+  
+ 
+61,849   
+ 
+54,569 
+Marketable securities
+  
+ 
+181,560   
+ 
+117,980 
+Deferred tax assets
+  
+ 
+94,438   
+ 
+87,913 
+Retirement plans assets
+  
+ 
+17,170   
+ 
+17,468 
+Other assets
+  
+ 
+21,320   
+ 
+9,384 
+Acquired intangible assets, net
+  
+ 
+88,121   
+ 
+100,939 
+Goodwill
+  
+ 
+441,597   
+ 
+453,859
+
+Total assets
+  
+$
+4,000,922   
+$
+3,652,346
+
+LIABILITIES
+  
+  
+   
+  
+ 
+Current liabilities:
+  
+  
+   
+  
+ 
+Accounts payable
+  
+$
+156,103   
+$
+133,663 
+Accrued employees’ compensation and withholdings
+  
+ 
+205,717   
+ 
+220,321 
+Deferred revenue and customer advances
+  
+ 
+148,882   
+ 
+134,662 
+Other accrued liabilities
+  
+ 
+146,484   
+ 
+77,581 
+Operating lease liabilities
+  
+ 
+20,539   
+ 
+20,573 
+Income taxes payable
+  
+ 
+93,876   
+ 
+80,728 
+Current debt
+  
+ 
+213,761   
+ 
+33,343
+
+Total current liabilities
+  
+ 
+985,362   
+ 
+700,871 
+Retirement plans liabilities
+  
+ 
+154,311   
+ 
+151,140 
+Long-term deferred revenue and customer advances
+  
+ 
+58,534   
+ 
+58,359 
+Long-term contingent consideration
+  
+ 
+—     
+ 
+7,227 
+Long-term other accrued liabilities
+  
+ 
+19,387   
+ 
+19,352 
+Deferred tax liabilities
+  
+ 
+8,961   
+ 
+10,821 
+Long-term operating lease liabilities
+  
+ 
+49,066   
+ 
+42,073 
+Long-term incomes taxes payable
+  
+ 
+67,041   
+ 
+74,930 
+Debt
+  
+ 
+143,618   
+ 
+376,768 
+Total liabilities
+  
+ 
+1,486,280   
+ 
+1,441,541
+
+Commitments and contingencies
+  
+ 
+   
+ 
+ 
+Mezzanine equity:
+  
+  
+   
+  
+ 
+Convertible common shares
+  
+ 
+21,386   
+ 
+3,787 
+SHAREHOLDERS’ EQUITY
+  
+  
+   
+  
+ 
+Common stock, $0.125 par value, 1,000,000 shares authorized; 165,444 and 166,123 shares
+
+issued and outstanding at July 4, 2021 and December 31, 2020, respectively
+  
+ 
+20,680   
+ 
+20,765 
+Additional paid-in capital
+  
+ 
+1,772,302   
+ 
+1,765,323 
+Accumulated other comprehensive income
+  
+ 
+15,322   
+ 
+33,516 
+Retained earnings
+  
+ 
+684,952   
+ 
+387,414
+
+Total shareholders’ equity
+  
+ 
+2,493,256   
+ 
+2,207,018
+
+Total liabilities, convertible common shares and shareholders’ equity
+  
+$
+4,000,922   
+$
+3,652,346
+
+The accompanying notes, together with the Notes to Consolidated Financial Statements included in Teradyne’s
+
+Annual Report on Form 10-K for the year ended December 31, 2020, are an integral part of the condensed
+
+consolidated financial statements.
+
+
+#### 1
+
+
+## Page 5
+
+### Table 5.1
+
+| Revenues: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.2
+
+| Services |  |  | 133,783 |  |  |  | 104,031 |  |  |  | 254,881 |  |  |  | 197,480 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.3
+
+| Cost of revenues: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.4
+
+| Cost of services |  |  | 49,894 |  |  |  | 44,456 |  |  |  | 102,098 |  |  |  | 83,265 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.5
+
+| Gross profit |  |  | 646,989 |  |  |  | 471,473 |  |  |  | 1,108,607 |  |  |  | 877,023 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.6
+
+| Selling and administrative |  |  | 140,187 |  |  |  | 113,259 |  |  |  | 269,984 |  |  |  | 224,647 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.7
+
+| Acquired intangible assets amortization |  |  | 5,402 |  |  |  | 8,941 |  |  |  | 10,938 |  |  |  | 18,832 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.8
+
+| Total operating expenses |  |  | 258,117 |  |  |  | 253,524 |  |  |  | 486,722 |  |  |  | 452,356 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.9
+
+| Non-operating (income) expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.10
+
+| Interest expense |  |  | 5,566 |  |  |  | 6,043 |  |  |  | 11,569 |  |  |  | 11,594 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.11
+
+| Income before income taxes |  |  | 384,026 |  |  |  | 217,291 |  |  |  | 608,019 |  |  |  | 414,359 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.12
+
+| Net income |  | $ | 328,319 |  |  | $ | 188,908 |  |  | $ | 533,831 |  |  | $ | 365,098 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.13
+
+| Basic |  | $ | 1.98 |  |  | $ | 1.14 |  |  | $ | 3.21 |  |  | $ | 2.20 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.14
+
+| Weighted average common shares—basic |  |  | 165,995 |  |  |  | 165,789 |  |  |  | 166,243 |  |  |  | 166,189 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 5.15
+
+| Cash dividend declared per common share |  | $ | 0.10 |  |  | $ | 0.10 |  |  | $ | 0.20 |  |  | $ | 0.20 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+TERADYNE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+#### (Unaudited)
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands, except per share amount)
+ 
+Revenues:
+    
+    
+    
+    
+ 
+Products
+  $
+951,945  $734,630  $1,612,453  $1,345,536 
+Services
+   
+133,783   104,031   
+254,881   
+197,480
+
+Total revenues
+   1,085,728   838,661   1,867,334   1,543,016 
+Cost of revenues:
+    
+    
+    
+    
+ 
+Cost of products
+   
+388,845   322,732   
+656,629   
+582,728 
+Cost of services
+   
+49,894   
+44,456   
+102,098   
+83,265
+
+
+#### Total cost of revenues (exclusive of acquired intangible assets amortization
+
+shown separately below)
+   
+438,739   367,188   
+758,727   
+665,993
+
+Gross profit
+   
+646,989   471,473   1,108,607   
+877,023 
+Operating expenses:
+    
+    
+    
+    
+ 
+Selling and administrative
+   
+140,187   113,259   
+269,984   
+224,647 
+Engineering and development
+   
+110,021   
+94,102   
+210,423   
+179,261 
+Acquired intangible assets amortization
+   
+5,402   
+8,941   
+10,938   
+18,832 
+Restructuring and other
+   
+2,507   
+37,222   
+(4,623)   
+29,616
+
+Total operating expenses
+   
+258,117   253,524   
+486,722   
+452,356
+
+Income from operations
+   
+388,872   217,949   
+621,885   
+424,667 
+Non-operating (income) expense:
+    
+    
+    
+    
+ 
+Interest income
+   
+(633)   
+(1,368)   
+(1,441)   
+(4,119) 
+Interest expense
+   
+5,566   
+6,043   
+11,569   
+11,594 
+Other (income) expense, net
+   
+(87)   
+(4,017)   
+3,738   
+2,833
+
+Income before income taxes
+   
+384,026   217,291   
+608,019   
+414,359 
+Income tax provision
+   
+55,707   
+28,383   
+74,188   
+49,261
+
+Net income
+  $
+328,319  $188,908  $
+533,831  $
+365,098
+
+Net income per common share:
+    
+    
+    
+    
+ 
+Basic
+  $
+1.98  $
+1.14  $
+3.21  $
+2.20
+
+Diluted
+  $
+1.76  $
+1.05  $
+2.85  $
+2.02
+
+Weighted average common shares—basic
+   
+165,995   165,789   
+166,243   
+166,189
+
+Weighted average common shares—diluted
+   
+186,750   180,257   
+187,245   
+180,497
+
+Cash dividend declared per common share
+  $
+0.10  $
+0.10  $
+0.20  $
+0.20
+
+The accompanying notes, together with the Notes to Consolidated Financial Statements included in Teradyne’s
+
+Annual Report on Form 10-K for the year ended December 31, 2020, are an integral part of the condensed
+
+consolidated financial statements.
+
+
+#### 2
+
+
+## Page 6
+
+### Table 6.1
+
+| Net income |  | $ | 328,319 |  |  | $ | 188,908 |  |  | $ | 533,831 |  |  | $ | 365,098 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 6.2
+
+| Foreign currency translation adjustment, net of tax of $0, $0, $0, $0, respectively |  |  | 5,150 |  |  |  | 15,805 |  |  |  | (15,974 | ) |  |  | 7,026 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 6.3
+
+| Unrealized gains (losses) on marketable securities arising during period, net of tax of $436, $1,084, $(472), $1,271, respectively |  |  | 1,494 |  |  |  | 3,793 |  |  |  | (1,776 | ) |  |  | 4,830 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 6.4
+
+|  |  |  | 1,497 |  |  |  | 2,810 |  |  |  | (2,217 | ) |  |  | 3,331 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 6.5
+
+| Amortization of prior service credit, net of tax of $0, $0, $(1), $(1), respectively |  |  | (2 | ) |  |  | (2 | ) |  |  | (3 | ) |  |  | (3 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 6.6
+
+| Comprehensive income |  | $ | 334,964 |  |  | $ | 207,521 |  |  | $ | 515,637 |  |  | $ | 375,452 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+TERADYNE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+#### (Unaudited)
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Net income
+  $328,319  $188,908  $533,831  $365,098 
+Other comprehensive income, net of tax:
+    
+    
+    
+    
+ 
+Foreign currency translation adjustment, net of tax of $ 0, $0, $0, $0, respectively
+   
+5,150   
+15,805   (15,974)   
+7,026 
+Available-for-sale marketable securities:
+    
+    
+    
+    
+ 
+Unrealized gains (losses) on marketable securities arising during period, net of tax
+
+of $436, $1,084, $(472), $1,271, respectively
+   
+1,494   
+3,793   
+(1,776)   
+4,830 
+Less: Reclassification adjustment for losses (gains) included in net income, net of
+
+tax of $2, $(277), $(121), $(421), respectively
+   
+3   
+(983)   
+(441)   
+(1,499)
+
+1,497   
+2,810   
+(2,217)   
+3,331 
+Defined benefit post-retirement plan:
+    
+    
+    
+    
+ 
+Amortization of prior service credit, net of tax of $ 0, $0, $(1), $(1), respectively
+   
+(2)   
+(2)   
+(3)   
+(3)
+
+Other comprehensive income (loss)
+   
+6,645   
+18,613   (18,194)   
+10,354
+
+Comprehensive income
+  $334,964  $207,521  $515,637  $375,452
+
+The accompanying notes, together with the Notes to Consolidated Financial Statements included in Teradyne’s
+
+Annual Report on Form 10-K for the year ended December 31, 2020, are an integral part of the condensed
+
+consolidated financial statements.
+
+
+#### 3
+
+
+## Page 7
+
+### Table 7.1
+
+| Three Months Ended July 4, 2021 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.2
+
+| Net issuance of common stock under stock-based plans |  |  |  |  | 215 |  |  |  | 27 |  |  |  | 14,283 |  |  |  |  |  |  |  |  |  |  |  | 14,310 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.3
+
+| Repurchase of common stock |  |  |  |  | (1,190 | ) |  |  | (149 | ) |  |  |  |  |  |  |  |  |  |  | (155,846 | ) |  |  | (155,995 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.4
+
+| Settlements of convertible notes |  |  |  |  | 367 |  |  |  | 46 |  |  |  | 45,977 |  |  |  |  |  |  |  |  |  |  |  | 46,023 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.5
+
+| Convertible common shares |  |  | 20,153 |  |  |  |  |  |  |  |  |  | (20,153 | ) |  |  |  |  |  |  |  |  |  |  | (20,153 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.6
+
+| Other comprehensive income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6,645 |  |  |  |  |  |  |  | 6,645 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.7
+
+| Three Months Ended June 28, 2020 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.8
+
+| Net issuance of common stock under stock-based plans |  |  |  |  | 41 |  |  |  | 5 |  |  |  | (451 | ) |  |  |  |  |  |  |  |  |  |  | (446 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.9
+
+| Repurchase of common stock |  |  |  |  | (173 | ) |  |  | (22 | ) |  |  |  |  |  |  |  |  |  |  | (6,379 | ) |  |  | (6,401 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.10
+
+| Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 188,908 |  |  |  | 188,908 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.11
+
+| Balance, June 28, 2020 |  | $ | — |  | 165,806 |  |  | $ | 20,725 |  |  | $ | 1,730,716 |  |  | $ | (8,500 | ) |  | $ | 1,610 |  |  | $ | 1,744,551 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.12
+
+| Balance, December 31, 2020 |  | $ | 3,787 |  | 166,123 |  |  | $ | 20,765 |  |  | $ | 1,765,323 |  |  | $ | 33,516 |  |  | $ | 387,414 |  |  | $ | 2,207,018 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.13
+
+| Stock-based compensation expense |  |  |  |  |  |  |  |  |  |  |  |  | 25,874 |  |  |  |  |  |  |  |  |  |  |  | 25,874 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.14
+
+| Cash dividends ($0.20 per share) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (33,305 | ) |  |  | (33,305 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.15
+
+| Exercise of convertible notes hedge call options |  |  |  |  | (1,589 | ) |  |  | (199 | ) |  |  | (205,014 | ) |  |  |  |  |  |  |  |  |  |  | (205,213 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.16
+
+| Net income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 533,831 |  |  |  | 533,831 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.17
+
+| Balance, July 4, 2021 |  | $ | 21,386 |  | 165,444 |  |  | $ | 20,680 |  |  | $ | 1,772,302 |  |  | $ | 15,322 |  |  | $ | 684,952 |  |  | $ | 2,493,256 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.18
+
+| Balance, December 31, 2019 |  | $ | — |  | 166,410 |  |  | $ | 20,801 |  |  | $ | 1,720,129 |  |  | $ | (18,854 | ) |  | $ | (241,918 | ) |  | $ | 1,480,158 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.19
+
+| Stock-based compensation expense |  |  |  |  |  |  |  |  |  |  |  |  | 21,083 |  |  |  |  |  |  |  |  |  |  |  | 21,083 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.20
+
+| Cash dividends ($0.20 per share) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (33,295 | ) |  |  | (33,295 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 7.21
+
+| Other comprehensive income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10,354 |  |  |  |  |  |  |  | 10,354 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+TERADYNE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CONVERTIBLE COMMON SHARES
+
+
+### AND SHAREHOLDERS’ EQUITY
+
+(Unaudited)
+ 
+ 
+   
+   
+Shareholders’ Equity
+
+
+#### Convertible
+
+
+#### Common
+
+
+#### Shares
+
+
+#### Value
+
+
+#### Common
+
+Stock
+Shares
+
+Common
+Stock Par
+
+
+#### Value
+
+
+#### Additional
+
+Paid-in
+Capital
+
+
+#### Accumulated
+
+Other
+Comprehensive
+
+
+#### Income (Loss)
+
+Retained
+Earnings
+(Accumulated
+
+
+#### Deficit)
+
+Total
+Shareholders’
+
+Equity
+ 
+ 
+   
+   
+(in thousands)
+ 
+Three Months Ended July 4, 2021
+    
+     
+    
+    
+    
+    
+    
+ 
+Balance, April 4, 2021
+  $
+1,233    166,419  $ 20,802  $1,765,971  $
+8,677  $
+529,103  $ 2,324,553 
+Net issuance of common stock under
+
+stock-based plans
+    
+    
+215   
+27   
+14,283    
+    
+   
+14,310 
+Stock-based compensation expense
+    
+     
+    
+   
+12,515    
+    
+   
+12,515 
+Repurchase of common stock
+    
+    
+(1,190)   
+(149)    
+    
+   
+(155,846)   
+(155,995) 
+Cash dividends ($0.10 per share)
+    
+     
+    
+    
+    
+   
+(16,624)   
+(16,624) 
+Settlements of convertible notes
+    
+    
+367   
+46   
+45,977    
+    
+   
+46,023 
+Exercise of convertible notes hedge call
+
+options
+    
+    
+(367)   
+(46)   
+(46,291)    
+    
+   
+(46,337) 
+Convertible common shares
+   
+20,153     
+    
+   
+(20,153)    
+    
+   
+(20,153) 
+Net income
+    
+     
+    
+    
+    
+   
+328,319   
+328,319 
+Other comprehensive income
+    
+     
+    
+    
+   
+6,645    
+   
+6,645
+
+Balance, July 4, 2021
+  $
+21,386    165,444  $ 20,680  $1,772,302  $
+15,322  $
+684,952  $ 2,493,256
+
+Three Months Ended June 28, 2020
+    
+     
+    
+    
+    
+    
+    
+ 
+Balance, March 29, 2020
+  $
+—      165,938  $ 20,742  $1,721,367  $
+(27,113)  $
+(164,323)  $ 1,550,673 
+Net issuance of common stock under
+
+stock-based plans
+    
+    
+41   
+5   
+(451)    
+    
+   
+(446) 
+Stock-based compensation expense
+    
+     
+    
+   
+9,800    
+    
+   
+9,800 
+Repurchase of common stock
+    
+    
+(173)   
+(22)    
+    
+   
+(6,379)   
+(6,401) 
+Cash dividends ($0.10 per share)
+    
+     
+    
+    
+    
+   
+(16,596)   
+(16,596) 
+Net income
+    
+     
+    
+    
+    
+   
+188,908   
+188,908 
+Other comprehensive income
+    
+     
+    
+    
+   
+18,613    
+   
+18,613
+
+Balance, June 28, 2020
+  $
+—      165,806  $ 20,725  $1,730,716  $
+(8,500)  $
+1,610  $ 1,744,551
+
+Six Months Ended July 4, 2021
+    
+     
+    
+    
+    
+    
+    
+ 
+Balance, December 31, 2020
+  $
+3,787    166,123  $ 20,765  $1,765,323  $
+33,516  $
+387,414  $ 2,207,018 
+Net issuance of common stock under
+
+stock-based plans
+    
+    
+885   
+111   
+211    
+    
+   
+322 
+Stock-based compensation expense
+    
+     
+    
+   
+25,874    
+    
+   
+25,874 
+Repurchase of common stock
+    
+    
+(1,564)   
+(196)    
+    
+   
+(202,988)   
+(203,184) 
+Cash dividends ($0.20 per share)
+    
+     
+    
+    
+    
+   
+(33,305)   
+(33,305) 
+Settlements of convertible notes
+    
+    
+1,589   
+199   
+203,507    
+    
+   
+203,706 
+Exercise of convertible notes hedge call
+
+options
+    
+    
+(1,589)   
+(199)   
+(205,014)    
+    
+   
+(205,213) 
+Convertible common shares
+   
+17,599     
+    
+   
+(17,599)    
+    
+   
+(17,599) 
+Net income
+    
+     
+    
+    
+    
+   
+533,831   
+533,831 
+Other comprehensive loss
+    
+     
+    
+    
+   
+(18,194)    
+   
+(18,194)
+
+Balance, July 4, 2021
+  $
+21,386    165,444  $ 20,680  $1,772,302  $
+15,322  $
+684,952  $ 2,493,256
+
+Six Months Ended June 28, 2020
+    
+     
+    
+    
+    
+    
+    
+ 
+Balance, December 31, 2019
+  $
+—    166,410  $ 20,801  $1,720,129  $
+(18,854)  $
+(241,918)  $ 1,480,158 
+Net issuance of common stock under
+
+stock-based plans
+    
+    
+913   
+114   
+(10,496)    
+    
+   
+(10,382) 
+Stock-based compensation expense
+    
+     
+    
+   
+21,083    
+    
+   
+21,083 
+Repurchase of common stock
+    
+    
+(1,517)   
+(190)    
+    
+   
+(88,275)   
+(88,465) 
+Cash dividends ($0.20 per share)
+    
+     
+    
+    
+    
+   
+(33,295)   
+(33,295) 
+Net income
+    
+     
+    
+    
+    
+   
+365,098   
+365,098 
+Other comprehensive income
+    
+     
+    
+    
+   
+10,354    
+   
+10,354
+
+Balance, June 28, 2020
+  $
+—      165,806  $ 20,725  $1,730,716  $
+(8,500)  $
+1,610  $ 1,744,551
+
+The accompanying notes, together with the Notes to Consolidated Financial Statements included in Teradyne’s
+
+Annual Report on Form 10-K for the year ended December 31, 2020, are an integral part of the condensed
+
+consolidated financial statements.
+
+
+#### 4
+
+
+## Page 8
+
+### Table 8.1
+
+| Cash flows from operating activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.2
+
+| Adjustments to reconcile net income from operations to net cash provided by operating activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.3
+
+| Stock-based compensation |  |  | 23,231 |  |  |  | 21,367 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.4
+
+| Loss on convertible debt conversion |  |  | 5,244 |  |  |  | — |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.5
+
+| Contingent consideration adjustment |  |  | (7,227 | ) |  |  | 19,239 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.6
+
+| Deferred taxes |  |  | (800 | ) |  |  | (7,163 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.7
+
+| Other |  |  | 199 |  |  |  | 523 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.8
+
+| Accounts receivable |  |  | (372,698 | ) |  |  | (331,040 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.9
+
+| Prepayments and other assets |  |  | (117,416 | ) |  |  | (49,479 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.10
+
+| Deferred revenue and customer advances |  |  | 15,189 |  |  |  | 28,655 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.11
+
+| Income taxes |  |  | (2,628 | ) |  |  | 37,842 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.12
+
+| Cash flows from investing activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.13
+
+| Purchases of marketable securities |  |  | (398,086 | ) |  |  | (299,548 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.14
+
+| Proceeds from sales of marketable securities |  |  | 116,112 |  |  |  | 26,661 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.15
+
+| Proceeds from life insurance |  |  | — |  |  |  | 546 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.16
+
+| Cash flows from financing activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.17
+
+| Repurchase of common stock |  |  | (196,584 | ) |  |  | (88,465 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.18
+
+| Dividend payments |  |  | (33,271 | ) |  |  | (33,266 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.19
+
+| Payments of contingent consideration |  |  | — |  |  |  | (8,852 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.20
+
+| Effects of exchange rate changes on cash and cash equivalents |  |  | (489 | ) |  |  | (925 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.21
+
+| Cash and cash equivalents at beginning of period |  |  | 914,121 |  |  |  | 773,924 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 8.22
+
+| Non-cash investing activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+TERADYNE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+ 
+ 
+  
+For the Six Months Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Cash flows from operating activities:
+    
+  
+  
+ 
+Net income
+  $ 533,831  
+$ 365,098 
+Adjustments to reconcile net income from operations to net cash provided by operating activities:
+    
+  
+  
+ 
+Depreciation
+   
+45,848  
+ 
+38,305 
+Stock-based compensation
+   
+23,231  
+ 
+21,367 
+Amortization
+   
+19,343  
+ 
+26,234 
+Loss on convertible debt conversion
+   
+5,244  
+ 
+—   
+Provision for excess and obsolete inventory
+   
+3,625  
+ 
+9,637 
+Contingent consideration adjustment
+   
+(7,227)  
+ 
+19,239 
+Gains on investments
+   
+(4,650)  
+ 
+(469) 
+Deferred taxes
+   
+(800)  
+ 
+(7,163) 
+Retirement plans actuarial gains
+   
+(627)  
+ 
+(99) 
+Other
+   
+199  
+ 
+523 
+Changes in operating assets and liabilities, net of business acquired:
+    
+  
+  
+ 
+Accounts receivable
+   (372,698)  
+ (331,040) 
+Inventories
+   
+19,908  
+ 
+(3,728) 
+Prepayments and other assets
+   (117,416)  
+ 
+(49,479) 
+Accounts payable and other liabilities
+   
+86,790  
+ 113,578 
+Deferred revenue and customer advances
+   
+15,189  
+ 
+28,655 
+Retirement plans contributions
+   
+(2,739)  
+ 
+(2,501) 
+Income taxes
+   
+(2,628)  
+ 
+37,842
+
+Net cash provided by operating activities
+   244,423  
+ 265,999
+
+Cash flows from investing activities:
+    
+  
+  
+ 
+Purchases of property, plant and equipment
+   
+(73,957)  
+ 
+(84,014) 
+Purchases of marketable securities
+   (398,086)  
+ (299,548) 
+Proceeds from maturities of marketable securities
+   460,213  
+ 182,984 
+Proceeds from sales of marketable securities
+   116,112  
+ 
+26,661 
+Purchase of investment and acquisition of business
+   
+(12,000)  
+ 
+149 
+Proceeds from life insurance
+   
+—    
+ 
+546
+
+Net cash provided by (used for) investing activities
+   
+92,282  
+ (173,222)
+
+Cash flows from financing activities:
+    
+  
+  
+ 
+Issuance of common stock under stock purchase and stock option plans
+   
+32,581  
+ 
+12,757 
+Repurchase of common stock
+   (196,584)  
+ 
+(88,465) 
+Payments of convertible debt principal
+   
+(66,828)  
+ 
+—   
+Dividend payments
+   
+(33,271)  
+ 
+(33,266) 
+Payments related to net settlement of employee stock compensation awards
+   
+(31,794)  
+ 
+(22,519) 
+Payments of contingent consideration
+   
+—    
+ 
+(8,852)
+
+Net cash used for financing activities
+   (295,896)  
+ (140,345)
+
+Effects of exchange rate changes on cash and cash equivalents
+   
+(489)  
+ 
+(925)
+
+Increase (decrease) in cash and cash equivalents
+   
+40,320  
+ 
+(48,493) 
+Cash and cash equivalents at beginning of period
+   914,121  
+ 773,924
+
+Cash and cash equivalents at end of period
+  $ 954,441  
+$ 725,431
+
+Non-cash investing activities:
+    
+  
+  
+ 
+Capital expenditures incurred but not yet paid:
+  $
+4,503  
+$
+6,281
+
+The accompanying notes, together with the Notes to Consolidated Financial Statements included in Teradyne’s
+
+Annual Report on Form 10-K for the year ended December 31, 2020, are an integral part of the condensed
+
+consolidated financial statements.
+
+
+#### 5
+
+
+## Page 9
+
+
+#### Table of Contents
+
+TERADYNE, INC.
+
+
+### NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+
+#### (Unaudited)
+
+
+### A. THE COMPANY
+
+Teradyne, Inc. (“Teradyne”) is a leading global supplier of automation equipment for test and industrial applications. Teradyne designs,
+develops, manufactures and sells automatic test systems used to test semiconductors, wireless products, data storage and complex
+electronics systems in many industries including consumer electronics, wireless, automotive, industrial, computing, communications, and
+aerospace and defense industries. Teradyne’s industrial automation products include collaborative robotic arms, autonomous mobile robots,
+and advanced robotic control software used by global manufacturing, logistics and light industrial customers to improve quality, increase
+manufacturing and material handling efficiency and decrease manufacturing and logistics costs. Teradyne’s automatic test equipment and
+industrial automation products and services include:
+ 
+ 
+•
+ semiconductor test (“Semiconductor Test”) systems;
+
+•
+ storage and system level test (“Storage Test”) systems, defense/aerospace (“Defense/Aerospace”) test instrumentation and
+
+systems, and circuit-board test and inspection (“Production Board Test”) systems (collectively these products represent
+“System Test”);
+ 
+ 
+•
+ wireless test (“Wireless Test”) systems; and
+ 
+ 
+•
+ industrial automation (“Industrial Automation”) products.
+
+
+### B. ACCOUNTING POLICIES
+
+
+#### Basis of Presentation
+
+The consolidated interim financial statements include the accounts of Teradyne and its wholly owned subsidiaries. All significant
+intercompany balances and transactions have been eliminated. These interim financial statements are unaudited and reflect all normal
+recurring adjustments that are, in the opinion of management, necessary for the fair statement of such interim financial statements. Certain
+prior year amounts were reclassified to conform to the current year presentation. The December 31, 2020 condensed consolidated balance
+sheet data was derived from audited financial statements but does not include all disclosures required by United States of America generally
+accepted accounting principles (“U.S. GAAP”) for complete financial statements. The accompanying financial information should be read in
+conjunction with the consolidated financial statements and notes thereto contained in Teradyne’s Annual Report on Form 10-K, filed with the
+U.S. Securities and Exchange Commission (“SEC”) on February 22, 2021, for the year ended December 31, 2020.
+
+
+#### Preparation of Financial Statements and Use of Estimates
+
+The preparation of consolidated financial statements requires management to make estimates and judgments that affect the amounts of
+assets, liabilities, revenues and expenses, and related disclosures of contingent liabilities. On an on-going basis, management evaluates its
+estimates, including those related to inventories, investments, goodwill, intangible and other long-lived assets, accounts receivable, income
+taxes, deferred tax assets and liabilities, pensions, warranties, contingent consideration liabilities, and loss contingencies. Management bases
+its estimates on historical experience and on appropriate and customary assumptions that are believed to be reasonable under the
+circumstances, the results of which form the basis for making judgements about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Due to the COVID-19 pandemic, there has been uncertainty and disruption in the global economy and our
+markets. Management is not aware of any specific event or circumstance that would require an update to its estimates or judgments or a
+revision of the carrying value of its assets or liabilities as of August 6, 2021, the date of issuance of this Quarterly Report on Form 10-Q.
+These estimates may change, as new events occur and additional information is obtained. Actual results may differ significantly from these
+estimates under different assumptions or conditions.
+
+
+### C. RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+In August 2020, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2020-06 – “Debt—
+Debt with Conversion and Other Options and Derivatives and Hedging - Contracts in Entity’s Own Equity,” which simplifies the accounting for
+convertible debt instruments by reducing the number of accounting models and the number of embedded conversion features that could be
+recognized separately from the primary contract. This ASU requires a convertible debt instrument to be accounted for as a single liability
+measured at its amortized cost, as long as no other features require bifurcation and recognition as derivatives. This ASU requires an entity to
+use the if-converted method in the diluted earnings per share calculation for convertible instruments. This ASU will be effective for Teradyne
+on January 1, 2022. This ASU permits the use of either the modified retrospective or fully retrospective method of transition. Teradyne is
+evaluating the effects of the adoption of this ASU on its financial statements.
+
+
+#### 6
+
+
+## Page 10
+
+### Table 10.1
+
+| For the Three Months Ended July 4, 2021 (1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.2
+
+| Point in Time | $ | 675,958 | $ | 84,232 | $ | 88,197 | $ | 74,412 | $ | 15,091 | $ | — |  | $ | 51,619 | $ | (146 | ) | $ | 989,363 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.3
+
+| Total | $ | 741,670 | $ | 92,306 | $ | 104,819 | $ | 76,077 | $ | 15,900 | $ | 209 |  | $ | 54,893 | $ | (146 | ) | $ | 1,085,728 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.4
+
+| Asia Pacific | $ | 710,995 | $ | 87,151 | $ | 61,230 | $ | 18,044 | $ | 2,439 | $ | — |  | $ | 45,802 | $ | — |  | $ | 925,661 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.5
+
+| Europe, Middle East and Africa |  | 9,011 |  | 1,483 |  | 7,333 |  | 33,225 |  | 6,564 |  | — |  |  | 1,984 |  | — |  |  | 59,600 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.6
+
+| For the Three Months Ended June 28, 2020 (1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.7
+
+| Point in Time | $ | 520,496 | $ | 80,032 | $ | 57,741 | $ | 41,804 | $ | 11,196 | $ | 3,408 |  | $ | 46,347 | $ | (253 | ) | $ | 760,771 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.8
+
+| Total | $ | 574,573 | $ | 84,574 | $ | 71,806 | $ | 43,551 | $ | 11,272 | $ | 3,953 |  | $ | 49,185 | $ | (253 | ) | $ | 838,661 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.9
+
+| Asia Pacific | $ | 547,700 | $ | 82,492 | $ | 38,656 | $ | 14,279 | $ | 1,232 | $ | — |  | $ | 41,907 | $ | — |  | $ | 726,266 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.10
+
+| Europe, Middle East and Africa |  | 10,622 |  | 1,227 |  | 4,656 |  | 17,908 |  | 7,650 |  | — |  |  | 1,925 |  | — |  |  | 43,988 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.11
+
+| For the Six Months Ended July 4, 2021 (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.12
+
+| Point in Time | $ | 1,040,148 | $ | 186,124 | $ | 207,511 | $ | 138,419 | $ | 29,155 | $ | (120 | ) | $ | 89,499 | $ | (289 | ) | $ | 1,690,447 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.13
+
+| Total | $ | 1,161,900 | $ | 200,139 | $ | 237,656 | $ | 141,678 | $ | 30,031 | $ | 428 |  | $ | 95,791 | $ | (289 | ) | $ | 1,867,334 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.14
+
+| Asia Pacific | $ | 1,098,231 | $ | 191,200 | $ | 160,750 | $ | 35,877 | $ | 5,886 | $ | — |  | $ | 79,334 | $ | — |  | $ | 1,571,278 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.15
+
+| Europe, Middle East and Africa |  | 21,226 |  | 1,847 |  | 12,991 |  | 62,840 |  | 12,095 |  | — |  |  | 3,581 |  | — |  |  | 114,580 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.16
+
+| For the Six Months Ended June 28, 2020 (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.17
+
+| Point in Time | $ | 868,542 | $ | 159,429 | $ | 158,453 | $ | 89,306 | $ | 20,293 | $ | 4,532 |  | $ | 87,403 | $ | (253 | ) | $ | 1,387,705 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.18
+
+| Total | $ | 974,713 | $ | 168,923 | $ | 187,882 | $ | 93,248 | $ | 20,410 | $ | 5,423 |  | $ | 92,670 | $ | (253 | ) | $ | 1,543,016 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.19
+
+| Asia Pacific | $ | 910,433 | $ | 158,601 | $ | 118,674 | $ | 25,195 | $ | 2,825 | $ | — |  | $ | 79,711 | $ | — |  | $ | 1,295,439 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 10.20
+
+| Europe, Middle East and Africa |  | 30,643 |  | 2,571 |  | 12,424 |  | 41,945 |  | 11,730 |  | — |  |  | 2,918 |  | — |  |  | 102,231 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+### D. INVESTMENT IN OTHER COMPANY
+
+On June 1, 2021, Teradyne invested $12.0 million in MachineMetrics, Inc. (“MachineMetrics”), a private company that develops and sells
+products to improve manufacturing performance through automated machine data collection, alerting, and analytics. Teradyne’s investment in
+MachineMetrics aligns with its strategy of providing and investing in leading edge products for automating industrial production processes in
+growing markets. The investment was recorded at cost and is evaluated for impairment or an indication of changes in fair value resulting from
+observable price changes in orderly transactions for the identical or similar investment of the same issuer on a quarterly basis. At July 4,
+2021, the value of the investment was $12.0 million, and there was no change during the three months ended July 4, 2021.
+
+
+### E. REVENUE
+
+
+#### Disaggregation of Revenue
+
+The following table provides information about disaggregated revenue by timing of revenue recognition, primary geographical market,
+and major product lines.
+ 
+ 
+ 
+Semiconductor Test
+   
+  
+Industrial Automation
+
+
+#### System on-
+
+a-Chip
+  Memory
+
+
+#### System
+
+
+#### Test
+
+
+#### Universal
+
+
+#### Robots
+
+Mobile
+Industrial
+
+
+#### Robots   AutoGuide
+
+
+#### Wireless
+
+
+#### Test
+
+
+#### Corporate
+
+and
+Other
+  
+Total
+ 
+ 
+ 
+(in thousands)
+ 
+For the Three Months Ended July 4, 2021 (1)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Timing of Revenue Recognition
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Point in Time
+ $
+675,958  $ 84,232  $ 88,197  $ 74,412  $15,091  $
+—    $51,619  $
+(146)  $
+989,363 
+Over Time
+  
+65,712   
+8,074   
+16,622   
+1,665   
+809   
+209   
+3,274   
+—     
+96,365 
+Total
+ $
+741,670  $ 92,306  $104,819  $ 76,077  $15,900  $
+209  $54,893  $
+(146)  $1,085,728
+
+Geographical Market
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Asia Pacific
+ $
+710,995  $ 87,151  $ 61,230  $ 18,044  $ 2,439  $
+—    $45,802  $
+—    $
+925,661 
+Americas
+  
+21,664   
+3,672   
+36,256   
+24,808   
+6,897   
+209   
+7,107   
+(146)   
+100,467 
+Europe, Middle East and Africa
+  
+9,011   
+1,483   
+7,333   
+33,225   
+6,564   
+—     
+1,984   
+—     
+59,600 
+Total
+ $
+741,670  $ 92,306  $104,819  $ 76,077  $15,900  $
+209  $54,893  $
+(146)  $1,085,728 
+For the Three Months Ended June 28, 2020 (1)   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Timing of Revenue Recognition
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Point in Time
+ $
+520,496  $ 80,032  $ 57,741  $ 41,804  $11,196  $
+3,408  $46,347  $
+(253)  $
+760,771 
+Over Time
+  
+54,077   
+4,542   
+14,065   
+1,747   
+76   
+545   
+2,838   
+—     
+77,890 
+Total
+ $
+574,573  $ 84,574  $ 71,806  $ 43,551  $11,272  $
+3,953  $49,185  $
+(253)  $
+838,661
+
+Geographical Market
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Asia Pacific
+ $
+547,700  $ 82,492  $ 38,656  $ 14,279  $ 1,232  $
+—    $41,907  $
+—    $
+726,266 
+Americas
+  
+16,251   
+855   
+28,494   
+11,364   
+2,390   
+3,953   
+5,353   
+(253)   
+68,407 
+Europe, Middle East and Africa
+  
+10,622   
+1,227   
+4,656   
+17,908   
+7,650   
+—     
+1,925   
+—     
+43,988 
+Total
+ $
+574,573  $ 84,574  $ 71,806  $ 43,551  $11,272  $
+3,953  $49,185  $
+(253)  $
+838,661 
+For the Six Months Ended July 4, 2021 (2)
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Timing of Revenue Recognition
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Point in Time
+ $1,040,148  $186,124  $207,511  $138,419  $29,155  $
+(120)  $89,499  $
+(289)  $1,690,447 
+Over Time
+  
+121,752   
+14,015   
+30,145   
+3,259   
+876   
+548   
+6,292   
+—     
+176,887 
+Total
+ $1,161,900  $200,139  $237,656  $141,678  $30,031  $
+428  $95,791  $
+(289)  $1,867,334
+
+Geographical Market
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Asia Pacific
+ $1,098,231  $191,200  $160,750  $ 35,877  $ 5,886  $
+—    $79,334  $
+—    $1,571,278 
+Americas
+  
+42,443   
+7,092   
+63,915   
+42,961   12,050   
+428   12,876   
+(289)   
+181,476 
+Europe, Middle East and Africa
+  
+21,226   
+1,847   
+12,991   
+62,840   12,095   
+—     
+3,581   
+—     
+114,580 
+Total
+ $1,161,900  $200,139  $237,656  $141,678  $30,031  $
+428  $95,791  $
+(289)  $1,867,334 
+For the Six Months Ended June 28, 2020 (2)
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Timing of Revenue Recognition
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Point in Time
+ $
+868,542  $159,429  $158,453  $ 89,306  $20,293  $
+4,532  $87,403  $
+(253)  $1,387,705 
+Over Time
+  
+106,171   
+9,494   
+29,429   
+3,942   
+117   
+891   
+5,267   
+—     
+155,311 
+Total
+ $
+974,713  $168,923  $187,882  $ 93,248  $20,410  $
+5,423  $92,670  $
+(253)  $1,543,016
+
+Geographical Market
+   
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Asia Pacific
+ $
+910,433  $158,601  $118,674  $ 25,195  $ 2,825  $
+—    $79,711  $
+—    $1,295,439 
+Americas
+  
+33,637   
+7,751   
+56,784   
+26,108   
+5,855   
+5,423   10,041   
+(253)   
+145,346 
+Europe, Middle East and Africa
+  
+30,643   
+2,571   
+12,424   
+41,945   11,730   
+—     
+2,918   
+—     
+102,231 
+Total
+ $
+974,713  $168,923  $187,882  $ 93,248  $20,410  $
+5,423  $92,670  $
+(253)  $1,543,016
+
+
+#### 7
+
+
+## Page 11
+
+### Table 11.1
+
+| Raw material |  | $ | 117,339 |  | $ | 114,133 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 11.2
+
+| Finished goods |  |  | 70,915 |  |  | 82,648 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+(1)
+Includes $4.2 million and $2.5 million in 2021 and 2020, respectively, for leases of Teradyne’s systems recognized outside Accounting
+Standards Codification (“ASC”) 606 “Revenue from Contracts with Customers.”
+(2)
+Includes $7.3 million and $4.3 million in 2021 and 2020, respectively, for leases of Teradyne’s systems recognized outside ASC 606
+“Revenue from Contracts with Customers .”
+
+
+#### Contract Balances
+
+During the three and six months ended July 4, 2021, Teradyne recognized $ 22.0 million and $49.6 million, respectively, that was
+previously included within the deferred revenue and customer advances balances at the beginning of the period. During the three and six
+months ended June 28, 2020, Teradyne recognized $21.1 million and $60.6 million, respectively, that was previously included within the
+deferred revenue and customer advances balances. This revenue primarily relates to undelivered hardware, extended warranties, training,
+application support, and post contract support. Each of these represents a distinct performance obligation. As of July 4, 2021, Teradyne has
+$1,276.0 million of unsatisfied performance obligations. Teradyne expects to recognize 94% of the remaining performance obligations in the
+next 12 months and 6% in 1-3 years.
+
+
+#### Accounts Receivable
+
+Teradyne sells certain trade accounts receivables on a non-recourse basis to third-party financial institutions pursuant to factoring
+agreements. Teradyne accounts for these transactions as sales of receivables and presents cash proceeds as cash provided by operating
+activities in the consolidated statements of cash flows. Total trade accounts receivable sold under the factoring agreements were $7.6 million
+and $50.0 million for the three months ended July 4, 2021 and June 28, 2020, respectively, and $ 14.9 million and $96.8 million for the six
+months ended July 4, 2021 and June 28, 2020, respectively. Factoring fees for the sales of receivables were recorded in interest expense and
+were not material.
+
+
+### F. INVENTORIES
+
+Inventories, net consisted of the following at July 4, 2021 and December 31, 2020:
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Raw material
+  
+$117,339   
+$
+114,133 
+Work-in-process
+  
+ 
+37,884   
+ 
+25,408 
+Finished goods
+  
+ 
+70,915   
+ 
+82,648
+
+$226,138   
+$
+222,189
+
+Inventory reserves at July 4, 2021 and December 31, 2020 were $ 106.9 million and $110.6 million, respectively.
+
+
+### G. FINANCIAL INSTRUMENTS
+
+
+#### Cash Equivalents
+
+Teradyne considers all highly liquid investments with maturities of three months or less at the date of acquisition to be cash equivalents.
+
+
+#### Marketable Securities
+
+Teradyne’s available-for-sale debt securities are classified as Level 2 and equity and debt mutual funds are classified as Level 1.
+Contingent consideration is classified as Level 3. The vast majority of Level 2 securities are fixed income securities priced by third party pricing
+vendors. These pricing vendors utilize the most recent observable market information in pricing these securities or, if specific prices are not
+available, use other observable inputs like market transactions involving identical or comparable securities.
+
+During the three and six months ended July 4, 2021 and June 28, 2020, there were no transfers in or out of Level 1, Level 2, or Level 3
+financial instruments.
+
+Realized gains recorded in the three and six months ended July 4, 2021 were $ 0.9 million and $2.0 million, respectively. Realized gains
+recorded in the three and six months ended June 28, 2020 were $1.6 million and $3.0 million, respectively. Realized losses recorded in the
+three and six months ended June 28, 2020 were $0.1 million and $0.2 million, respectively. Realized gains and losses are included in other
+(income) expense, net.
+
+Unrealized gains on equity securities recorded in the three and six months ended July 4, 2021 were $ 2.0 million and $3.3 million,
+respectively. Unrealized losses on equity securities recorded in the three and six months ended July 4, 2021 were $0.7 million. Unrealized
+gains on equity securities recorded in the three and six months ended June 28, 2020 were $3.7 million. Unrealized losses on equity securities
+recorded in the six months ended June 28, 2020 were $6.0 million. Unrealized gains and losses on equity securities are included in other
+(income) expense, net. Unrealized gains and losses on available-for-sale debt securities are included in accumulated other comprehensive
+income (loss).
+
+
+#### 8
+
+
+## Page 12
+
+### Table 12.1
+
+| Assets |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.2
+
+| Cash equivalents |  |  | 373,113 |  |  | 12,698 |  |  | — |  |  | 385,811 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.3
+
+| Commercial paper |  |  | — |  |  | 225,415 |  |  | — |  |  | 225,415 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.4
+
+| Corporate debt securities |  |  | — |  |  | 85,294 |  |  | — |  |  | 85,294 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.5
+
+| U.S. government agency securities |  |  | — |  |  | 4,508 |  |  | — |  |  | 4,508 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.6
+
+| Non-U.S. government securities |  |  | — |  |  | 616 |  |  | — |  |  | 616 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.7
+
+| Mutual funds |  |  | 36,158 |  |  | — |  |  | — |  |  | 36,158 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.8
+
+| Derivative assets |  |  | — |  |  | 25 |  |  | — |  |  | 25 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.9
+
+| Liabilities |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.10
+
+| Total |  | $ | — |  | $ | 365 |  | $ | — |  | $ | 365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.11
+
+| Assets |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.12
+
+| Marketable securities |  |  | — |  |  | 282,121 |  |  | — |  |  | 282,121 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.13
+
+| Prepayments and other current assets |  |  | — |  |  | 25 |  |  | — |  |  | 25 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.14
+
+| Liabilities |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 12.15
+
+| Total |  | $ | — |  | $ | 365 |  | $ | — |  | $ | 365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+The cost of securities sold is based on average cost.
+
+The following table sets forth by fair value hierarchy Teradyne’s financial assets and liabilities that were measured at fair value on a
+recurring basis as of July 4, 2021 and December 31, 2020.
+
+
+#### July 4, 2021
+
+
+#### Quoted Prices
+
+in Active
+Markets for
+
+Identical
+Instruments
+
+
+#### (Level 1)
+
+
+#### Significant
+
+Other
+Observable
+
+Inputs
+(Level 2)
+
+Significant
+Unobservable
+
+Inputs
+(Level 3)
+   
+Total
+ 
+ 
+  
+(in thousands)
+ 
+Assets
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Cash
+  
+$
+568,630   
+$
+—     
+$
+—     
+$
+568,630 
+Cash equivalents
+  
+ 
+373,113   
+ 
+12,698   
+ 
+—     
+ 
+385,811 
+Available-for-sale securities:
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Commercial paper
+  
+ 
+—     
+ 225,415   
+ 
+—     
+ 
+225,415 
+U.S. Treasury securities
+  
+ 
+—     
+ 102,316   
+ 
+—     
+ 
+102,316 
+Corporate debt securities
+  
+ 
+—     
+ 
+85,294   
+ 
+—     
+ 
+85,294 
+Debt mutual funds
+  
+ 
+8,030   
+ 
+—     
+ 
+—     
+ 
+8,030 
+U.S. government agency securities
+  
+ 
+—     
+ 
+4,508   
+ 
+—     
+ 
+4,508 
+Certificates of deposit and time deposits
+  
+ 
+—     
+ 
+1,344   
+ 
+—     
+ 
+1,344 
+Non-U.S. government securities
+  
+ 
+—     
+ 
+616   
+ 
+—     
+ 
+616 
+Equity securities:
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Mutual funds
+  
+ 
+36,158   
+ 
+—     
+ 
+—     
+ 
+36,158
+
+$
+985,931   
+$ 432,191   
+$
+—     
+$1,418,122 
+Derivative assets
+  
+ 
+—     
+ 
+25   
+ 
+—     
+ 
+25
+
+Total
+  
+$
+985,931   
+$ 432,216   
+$
+—     
+$1,418,147
+
+Liabilities
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Derivative liabilities
+  
+ 
+—     
+ 
+365   
+ 
+—     
+ 
+365
+
+Total
+  
+$
+—     
+$
+365   
+$
+—     
+$
+365
+
+Reported as follows:
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+ 
+  
+(Level 1)
+   
+(Level 2)    
+(Level 3)
+   
+Total
+ 
+ 
+  
+(in thousands)
+ 
+Assets
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Cash and cash equivalents
+  
+$
+941,743   
+$
+12,698   
+$
+—     
+$
+954,441 
+Marketable securities
+  
+ 
+—     
+ 282,121   
+ 
+—     
+ 
+282,121 
+Long-term marketable securities
+  
+ 
+44,188   
+ 137,372   
+ 
+—     
+ 
+181,560 
+Prepayments and other current assets
+  
+ 
+—     
+ 
+25   
+ 
+—     
+ 
+25
+
+Total
+  
+$
+985,931   
+$ 432,216   
+$
+—     
+$1,418,147
+
+Liabilities
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Other current liabilities
+  
+$
+—     
+$
+365   
+$
+—     
+$
+365
+
+Total
+  
+$
+—     
+$
+365   
+$
+—     
+$
+365
+
+
+#### 9
+
+
+## Page 13
+
+### Table 13.1
+
+| Assets |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.2
+
+| Cash equivalents |  |  | 347,768 |  |  | 123,187 |  |  | — |  |  | 470,955 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.3
+
+| U.S. Treasury securities |  |  | — |  |  | 258,304 |  |  | — |  |  | 258,304 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.4
+
+| Corporate debt securities |  |  | — |  |  | 83,615 |  |  | — |  |  | 83,615 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.5
+
+| U.S. government agency securities |  |  | — |  |  | 4,339 |  |  | — |  |  | 4,339 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.6
+
+| Non-U.S. government securities |  |  | — |  |  | 625 |  |  | — |  |  | 625 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.7
+
+| Equity mutual funds |  |  | 29,420 |  |  | — |  |  | — |  |  | 29,420 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.8
+
+| Derivative assets |  |  | — |  |  | 95 |  |  | — |  |  | 95 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.9
+
+| Liabilities |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.10
+
+| Derivative liabilities |  |  | — |  |  | 504 |  |  | — |  |  | 504 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.11
+
+| Reported as follows: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.12
+
+| Assets |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.13
+
+| Marketable securities |  |  | — |  |  | 522,280 |  |  | — |  |  | 522,280 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.14
+
+| Prepayments and other current assets |  |  | — |  |  | 95 |  |  | — |  |  | 95 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.15
+
+| Liabilities |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 13.16
+
+| Long-term contingent consideration |  |  | — |  |  | — |  |  | 7,227 |  |  | 7,227 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### December 31, 2020
+
+
+#### Quoted Prices
+
+in Active
+Markets for
+
+Identical
+Instruments
+
+
+#### (Level 1)
+
+
+#### Significant
+
+Other
+Observable
+
+Inputs
+(Level 2)
+
+Significant
+Unobservable
+
+Inputs
+(Level 3)
+   
+Total
+ 
+ 
+  
+(in thousands)
+ 
+Assets
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Cash
+  
+$
+443,166   
+$
+—     
+$
+—     
+$
+443,166 
+Cash equivalents
+  
+ 
+347,768   
+ 123,187   
+ 
+—     
+ 
+470,955 
+Available-for-sale securities:
+  
+  
+   
+  
+   
+  
+   
+ 
+—   
+U.S. Treasury securities
+  
+ 
+—     
+ 258,304   
+ 
+—     
+ 
+258,304 
+Commercial paper
+  
+ 
+—     
+ 254,413   
+ 
+—     
+ 
+254,413 
+Corporate debt securities
+  
+ 
+—     
+ 
+83,615   
+ 
+—     
+ 
+83,615 
+Debt mutual funds
+  
+ 
+8,565   
+ 
+—     
+ 
+—     
+ 
+8,565 
+U.S. government agency securities
+  
+ 
+—     
+ 
+4,339   
+ 
+—     
+ 
+4,339 
+Certificates of deposit and time deposits
+  
+ 
+—     
+ 
+979   
+ 
+—     
+ 
+979 
+Non-U.S. government securities
+  
+ 
+—     
+ 
+625   
+ 
+—     
+ 
+625 
+Equity securities:
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Equity mutual funds
+  
+ 
+29,420   
+ 
+—     
+ 
+—     
+ 
+29,420
+
+$
+828,919   
+$ 725,462   
+$
+—     
+$1,554,381 
+Derivative assets
+  
+ 
+—     
+ 
+95   
+ 
+—     
+ 
+95
+
+Total
+  
+$
+828,919   
+$ 725,557   
+$
+—     
+$1,554,476
+
+Liabilities
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Contingent consideration
+  
+$
+—     
+$
+—     
+$
+7,227   
+$
+7,227 
+Derivative liabilities
+  
+ 
+—     
+ 
+504   
+ 
+—     
+ 
+504
+
+Total
+  
+$
+—     
+$
+504   
+$
+7,227   
+$
+7,731
+
+Reported as follows:
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+ 
+  
+(Level 1)
+   
+(Level 2)    
+(Level 3)
+   
+Total
+ 
+ 
+  
+(in thousands)
+ 
+Assets
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Cash and cash equivalents
+  
+$
+790,934   
+$ 123,187   
+$
+—     
+$
+914,121 
+Marketable securities
+  
+ 
+—     
+ 522,280   
+ 
+—     
+ 
+522,280 
+Long-term marketable securities
+  
+ 
+37,985   
+ 
+79,995   
+ 
+—     
+ 
+117,980 
+Prepayments and other current assets
+  
+ 
+—     
+ 
+95   
+ 
+—     
+ 
+95
+
+Total
+  
+$
+828,919   
+$ 725,557   
+$
+—     
+$1,554,476
+
+Liabilities
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Other accrued liabilities
+  
+$
+—     
+$
+504   
+$
+—     
+$
+504 
+Long-term contingent consideration
+  
+ 
+—     
+ 
+—     
+ 
+7,227   
+ 
+7,227
+
+Total
+  
+$
+—     
+$
+504   
+$
+7,227   
+$
+7,731
+
+
+#### 10
+
+
+## Page 14
+
+### Table 14.1
+
+| Balance at beginning of period |  | $ | — |  | $ | 20,472 |  | $ | 7,227 |  |  | $ | 39,705 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 14.2
+
+| Foreign currency impact |  |  | — |  |  | 6 |  |  | — |  |  |  | (355) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 14.3
+
+| Balance at end of period |  | $ | — |  | $ | 49,737 |  | $ | — |  |  | $ | 49,737 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 14.4
+
+| Assets |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 14.5
+
+| Marketable securities |  |  | 463,681 |  |  | 463,681 |  |  | 640,260 |  |  | 640,260 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 14.6
+
+| Liabilities |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 14.7
+
+| Derivative liabilities |  |  | 365 |  |  | 365 |  |  | 504 |  |  | 504 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Changes in the fair value of Level 3 contingent consideration for the three months ended July 4, 2021 and June 28, 2020 were as
+follows:
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Balance at beginning of period
+  
+$
+—     
+$
+20,472   
+$ 7,227   $39,705 
+Fair value adjustment (a)(b)
+  
+ 
+—     
+ 
+29,259   
+ (7,227)    19,239 
+Foreign currency impact
+  
+ 
+—     
+ 
+6   
+ 
+—      
+(355) 
+Payments (c)
+  
+ 
+—     
+ 
+—     
+ 
+—      (8,852)
+
+Balance at end of period
+  
+$
+—     
+$
+49,737   
+$
+—     $49,737
+
+(a)
+In the six months ended July 4, 2021, the fair value of contingent consideration for the earn-outs in connection with the acquisition of
+AutoGuide was reduced to zero, which resulted in a benefit of $7.2 million, primarily due to a decrease in forecasted revenues and
+earnings before interest and taxes. As of July 4, 2021, the maximum amount of contingent consideration that could be paid in connection
+with the acquisition of AutoGuide is $100.2 million. The remaining earn-out periods end on December 31, 2021 and December 31, 2022.
+The sellers of AutoGuide have filed an arbitration claim against Teradyne related to allegations of non-compliance with its earn-out
+obligations. The ultimate amount of contingent consideration for the earn-outs in connection with the acquisition of AutoGuide may be
+affected by the outcome of the arbitration (see
+Note R: “Commitments and Contingencies”). 
+(b)
+In the three and six months ended June 28, 2020, the fair value of contingent consideration for the earn-outs in connection with the
+acquisition of Mobile Industrial Robots (“MiR”) decreased by $0.6 million and $3.6 million, respectively, due to lower forecasted results. In
+the three and six months ended June 28, 2020, the fair value of contingent consideration for the earn-outs in connection with the
+acquisition of AutoGuide increased by $29.9 million and $22.8 million, respectively, due to higher forecasted results.
+(c)
+In the six months ended June 28, 2020, Teradyne paid $ 8.9 million of contingent consideration for the earn-out in connection with the
+acquisition of MiR.
+
+The carrying amounts and fair values of Teradyne’s financial instruments at July 4, 2021 and December 31, 2020 were as follows:
+
+July 4, 2021
+   
+December 31, 2020
+ 
+ 
+  
+Carrying Value   
+Fair Value    
+Carrying Value   
+Fair Value  
+ 
+  
+(in thousands)
+ 
+Assets
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Cash and cash equivalents
+  
+$
+954,441   
+$
+954,441   
+$
+914,121   
+$
+914,121 
+Marketable securities
+  
+ 
+463,681   
+ 
+463,681   
+ 
+640,260   
+ 
+640,260 
+Derivative assets
+  
+ 
+25   
+ 
+25   
+ 
+95   
+ 
+95 
+Liabilities
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Contingent consideration
+  
+ 
+—     
+ 
+—     
+ 
+7,227   
+ 
+7,227 
+Derivative liabilities
+  
+ 
+365   
+ 
+365   
+ 
+504   
+ 
+504 
+Convertible debt (1)
+  
+ 
+357,379   
+ 1,595,912   
+ 
+410,111   
+ 1,739,553 
+ 
+(1)
+The carrying value represents the bifurcated debt component only, while the level 2 fair value is based on quoted market prices for the
+convertible note, which includes the equity conversion features.
+
+The fair values of accounts receivable, net and accounts payable approximate the carrying value due to the short-term nature of these
+instruments.
+
+
+#### 11
+
+
+## Page 15
+
+### Table 15.1
+
+| Commercial paper |  | $ | 225,409 |  | $ | 7 |  | $ | (1 | ) |  | $ | 225,415 |  | $ | 19,194 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.2
+
+| Corporate debt securities |  |  | 79,586 |  |  | 5,814 |  |  | (106 | ) |  |  | 85,294 |  |  | 38,694 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.3
+
+| U.S. government agency securities |  |  | 4,490 |  |  | 22 |  |  | (4 | ) |  |  | 4,508 |  |  | 1,308 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.4
+
+| Non-U.S. government securities |  |  | 616 |  |  | — |  |  | — |  |  |  | 616 |  |  | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.5
+
+| Marketable securities |  | $ | 282,061 |  | $ | 93 |  | $ | (33 | ) |  | $ | 282,121 |  | $ | 59,990 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.6
+
+|  |  | $ | 421,469 |  | $ | 6,684 |  | $ | (630 | ) |  | $ | 427,523 |  | $ | 131,946 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.7
+
+| U.S. Treasury securities |  | $ | 257,132 |  | $ | 1,330 |  | $ | (158 | ) |  | $ | 258,304 |  | $ | 17,243 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.8
+
+| Corporate debt securities |  |  | 76,129 |  |  | 7,539 |  |  | (53 | ) |  |  | 83,615 |  |  | 39,896 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.9
+
+| U.S. government agency securities |  |  | 4,294 |  |  | 46 |  |  | (1 | ) |  |  | 4,339 |  |  | 1,106 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.10
+
+| Non-U.S. government securities |  |  | 625 |  |  | — |  |  | — |  |  |  | 625 |  |  | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.11
+
+| Marketable securities |  | $ | 522,228 |  | $ | 92 |  | $ | (40 | ) |  | $ | 522,280 |  | $ | 61,806 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 15.12
+
+|  |  | $ | 601,976 |  | $ | 9,077 |  | $ | (213 | ) |  | $ | 610,840 |  | $ | 70,418 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+The following table summarizes the composition of available-for-sale marketable securities at July 4, 2021:
+ 
+ 
+  
+July 4, 2021
+ 
+ 
+  
+Available-for-Sale
+
+
+#### Cost
+
+
+#### Unrealized
+
+
+#### Gain
+
+
+#### Unrealized
+
+
+#### (Loss)
+
+
+#### Fair Market
+
+
+#### Value
+
+
+#### Fair Market
+
+Value of
+Investments
+with Unrealized
+
+Losses
+ 
+ 
+  
+(in thousands)
+ 
+Commercial paper
+  
+$225,409   
+$
+7   
+$
+(1)  
+$ 225,415   
+$
+19,194 
+U.S. Treasury securities
+  
+ 102,068   
+ 
+767   
+ 
+(519)  
+ 102,316   
+ 
+72,750 
+Corporate debt securities
+  
+ 
+79,586   
+ 
+5,814   
+ 
+(106)  
+ 
+85,294   
+ 
+38,694 
+Debt mutual funds
+  
+ 
+7,956   
+ 
+74   
+ 
+—    
+ 
+8,030   
+ 
+—   
+U.S. government agency securities
+  
+ 
+4,490   
+ 
+22   
+ 
+(4)  
+ 
+4,508   
+ 
+1,308 
+Certificates of deposit and time deposits
+  
+ 
+1,344   
+ 
+—     
+ 
+—    
+ 
+1,344   
+ 
+—   
+Non-U.S. government securities
+  
+ 
+616   
+ 
+—     
+ 
+—    
+ 
+616   
+ 
+—
+
+$421,469   
+$
+6,684   
+$
+(630)  
+$ 427,523   
+$
+131,946
+
+
+#### Reported as follows:
+
+
+#### Cost
+
+
+#### Unrealized
+
+
+#### Gain
+
+
+#### Unrealized
+
+
+#### (Loss)
+
+
+#### Fair Market
+
+
+#### Value
+
+
+#### Fair Market
+
+Value of
+Investments
+with Unrealized
+
+Losses
+ 
+ 
+  
+(in thousands)
+ 
+Marketable securities
+  
+$282,061   
+$
+93   
+$
+(33)  
+$ 282,121   
+$
+59,990 
+Long-term marketable securities
+  
+ 139,408   
+ 
+6,591   
+ 
+(597)  
+ 145,402   
+ 
+71,956
+
+$421,469   
+$
+6,684   
+$
+(630)  
+$ 427,523   
+$
+131,946
+
+The following table summarizes the composition of available-for-sale marketable securities at December 31, 2020:
+ 
+ 
+  
+December 31, 2020
+ 
+ 
+  
+Available-for-Sale
+
+
+#### Cost
+
+
+#### Unrealized
+
+
+#### Gain
+
+
+#### Unrealized
+
+
+#### (Loss)
+
+
+#### Fair Market
+
+
+#### Value
+
+
+#### Fair Market
+
+Value of
+Investments
+with Unrealized
+
+Losses
+ 
+ 
+  
+(in thousands)
+ 
+U.S. Treasury securities
+  
+$257,132   
+$
+1,330   
+$
+(158)  
+$ 258,304   
+$
+17,243 
+Commercial paper
+  
+ 254,404   
+ 
+10   
+ 
+(1)  
+ 254,413   
+ 
+12,173 
+Corporate debt securities
+  
+ 
+76,129   
+ 
+7,539   
+ 
+(53)  
+ 
+83,615   
+ 
+39,896 
+Debt mutual funds
+  
+ 
+8,413   
+ 
+152   
+ 
+—    
+ 
+8,565   
+ 
+—   
+U.S. government agency securities
+  
+ 
+4,294   
+ 
+46   
+ 
+(1)  
+ 
+4,339   
+ 
+1,106 
+Certificates of deposit and time deposits
+  
+ 
+979   
+ 
+—     
+ 
+—    
+ 
+979   
+ 
+—   
+Non-U.S. government securities
+  
+ 
+625   
+ 
+—     
+ 
+—    
+ 
+625   
+ 
+—
+
+$601,976   
+$
+9,077   
+$
+(213)  
+$ 610,840   
+$
+70,418
+
+
+#### Reported as follows:
+
+
+#### Cost
+
+
+#### Unrealized
+
+
+#### Gain
+
+
+#### Unrealized
+
+
+#### (Loss)
+
+
+#### Fair Market
+
+
+#### Value
+
+
+#### Fair Market
+
+Value of
+Investments
+with Unrealized
+
+Losses
+ 
+ 
+  
+(in thousands)
+ 
+Marketable securities
+  
+$522,228   
+$
+92   
+$
+(40)  
+$ 522,280   
+$
+61,806 
+Long-term marketable securities
+  
+ 
+79,748   
+ 
+8,985   
+ 
+(173)  
+ 
+88,560   
+ 
+8,612
+
+$601,976   
+$
+9,077   
+$
+(213)  
+$ 610,840   
+$
+70,418
+
+As of July 4, 2021 and December 31, 2020, the fair market value of investments with unrealized losses less than one year totaled
+$130.7 million and $70.4 million, respectively. As of July 4, 2021, the fair market value of investments with unrealized losses for greater than
+one year totaled $1.3 million.
+
+
+#### 12
+
+
+## Page 16
+
+### Table 16.1
+
+| Due within one year |  | $282,061 |  | $ | 282,121 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 16.2
+
+| Due after 5 years through 10 years |  | 6,089 |  |  | 6,585 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 16.3
+
+| Total |  | $413,513 |  | $ | 419,493 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 16.4
+
+| Derivatives not designated as hedging instruments: |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 16.5
+
+| Foreign exchange contracts |  | Other current liabilities |  |  | (365 | ) |  |  | (504 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 16.6
+
+| Derivatives not designated as hedging instruments: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Teradyne reviews its investments to identify and evaluate investments that have an indication of possible impairment. Based on this
+review, Teradyne determined that the unrealized losses related to these investments at July 4, 2021 and December 31, 2020 were not other
+than temporary.
+
+The contractual maturities of investments in available-for-sale securities held at July 4, 2021 were as follows:
+
+
+#### July 4, 2021
+
+
+#### Cost
+
+
+#### Fair Market
+
+Value
+ 
+ 
+  
+(in thousands)
+ 
+Due within one year
+  
+$282,061   
+$ 282,121 
+Due after 1 year through 5 years
+  
+ 
+90,625   
+ 
+90,940 
+Due after 5 years through 10 years
+  
+ 
+6,089   
+ 
+6,585 
+Due after 10 years
+  
+ 
+34,738   
+ 
+39,847
+
+Total
+  
+$413,513   
+$ 419,493
+
+Contractual maturities of investments in available-for-sale securities held at July 4, 2021 exclude debt mutual funds with a fair market
+value of $8.0 million, as they do not have a contractual maturity date.
+
+
+#### Derivatives
+
+Teradyne conducts business in a number of foreign countries with certain transactions denominated in local currencies. The purpose of
+Teradyne’s foreign currency management is to minimize the effect of exchange rate fluctuations on certain foreign currency denominated
+monetary assets and liabilities. Teradyne does not use derivative financial instruments for trading or speculative purposes.
+
+To minimize the effect of exchange rate fluctuations associated with the remeasurement of monetary assets and liabilities denominated
+in foreign currencies, Teradyne enters into foreign currency forward contracts. The change in fair value of these derivatives is recorded
+directly in earnings and is used to offset the change in value of monetary assets and liabilities denominated in foreign currencies.
+
+The notional amount of foreign currency forward contracts at July 4, 2021 and December 31, 2020 was $ 206.9 million and $152.9 million,
+respectively.
+
+Gains and losses on foreign currency forward contracts and foreign currency remeasurement gains and losses on monetary assets and
+liabilities are included in other (income) expense, net.
+
+The following table summarizes the fair value of derivative instruments as of July 4, 2021 and December 31, 2020:
+
+
+#### Balance Sheet
+
+
+#### Location
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+ 
+   
+(in thousands)
+ 
+Derivatives not designated as hedging instruments:
+  
+  
+   
+  
+   
+ 
+ 
+ 
+Foreign exchange contracts
+  
+ Prepayments
+   
+$
+25   
+$
+95 
+Foreign exchange contracts
+  
+ Other current liabilities   
+ (365)   
+ 
+(504)
+
+Total derivatives
+  
+  
+   
+$(340)   
+$
+(409)
+
+The following table summarizes the effect of derivative instruments recognized in the statement of operations for the three and six
+months ended July 4, 2021 and June 28, 2020:
+
+
+#### Location of Losses (Gains)
+
+Recognized in
+Statement of Operations
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+   
+   
+(in thousands)
+ 
+Derivatives not designated as hedging instruments:
+    
+     
+     
+     
+     
+ 
+Foreign exchange contracts
+   Other (income) expense, net   $ 1,531   $
+470   $3,650   $ 4,481 
+ 
+(1)
+The table does not reflect the corresponding gains and losses from the remeasurement of the monetary assets and liabilities
+denominated in foreign currencies.
+(2)
+For the three and six months ended July 4, 2021, net gains from the remeasurement of monetary assets and liabilities denominated in
+foreign currencies were $0.1 million and $0.3 million, respectively.
+
+
+#### 13
+
+
+## Page 17
+
+
+#### Table of Contents
+
+(3)
+For the three months ended June 28, 2020, net losses from the remeasurement of monetary assets and liabilities denominated in
+foreign currencies were $0.4 million. For the six months ended June 28, 2020, net gains from the remeasurement of monetary assets
+and liabilities denominated in foreign currencies were $1.6 million.
+
+See Note H: “Debt” regarding derivatives related to the convertible senior notes.
+
+
+### H. DEBT
+
+
+#### Convertible Senior Notes
+
+On December 12, 2016, Teradyne completed a private offering of $ 460.0 million aggregate principal amount of 1.25% convertible senior
+unsecured notes (the “Notes”) due December 15, 2023 and received net proceeds, after issuance costs, of approximately $ 450.8 million,
+$33.0 million of which was used to pay the net cost of the convertible note hedge transactions and $ 50.1 million of which was used to
+repurchase 2.0 million shares of Teradyne’s common stock under its existing stock repurchase program from purchasers of the Notes in
+privately negotiated transactions effected through one of the initial purchasers or its affiliates conducted concurrently with the pricing of the
+Note offering. The Notes will mature on December 15, 2023, unless earlier repurchased or converted. The Notes bear interest from
+December 12, 2016 at a rate of 1.25% per year payable semiannually in arrears on June 15 and December 15 of each year.  The Notes will be
+convertible at the option of the noteholders at any time prior to the close of business on the business day immediately preceding September
+15, 2023, only under the following circumstances: (1) during any calendar quarter beginning after March 31, 2017 (and only during such
+calendar quarter), if the closing sale price of Teradyne’s common stock, for at least 20 trading days (whether or not consecutive) during a
+period of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than 130% of
+the conversion price on each applicable trading day; (2) during the five business day period after any five consecutive trading day period (the
+“measurement period”) in which the trading price (as defined in the Indenture) per $1,000 principal amount of Notes for each trading day of
+the measurement period was less than 98% of the product of the closing sale price of the Teradyne’s common stock and the conversion rate
+on each such trading day; and (3) upon the occurrence of specified corporate events. On or after September 15, 2023 until the close of
+business on the second scheduled trading day immediately preceding the maturity date, holders may convert their Notes at any time,
+regardless of the foregoing circumstances. Teradyne may satisfy its conversion obligation by paying or delivering cash, shares of its common
+stock or a combination of cash and shares of its common stock, at Teradyne’s election. As of July 4, 2021, the conversion price was
+approximately $31.54 per share of Teradyne’s common stock. The conversion rate is subject to adjustment under certain circumstances. As of
+August 6, 2021, fifty-five holders had exercised the option to convert $ 302.0 million worth of Notes.
+
+Concurrent with the offering of the Notes, Teradyne entered into convertible note hedge transactions (the “Note Hedge Transactions”)
+with the initial purchasers or their affiliates (the “Option Counterparties”). The Note Hedge Transactions cover, subject to customary anti-
+dilution adjustments, the number of shares of the common stock that underlie the Notes, with a strike price equal to the conversion price of the
+Notes of $31.54. The Note Hedge Transactions cover, subject to customary anti-dilution adjustments, approximately 12.5 million shares of
+Teradyne’s common stock.
+
+Separately and concurrent with the pricing of the Notes, Teradyne entered into warrant transactions with the Option Counterparties (the
+“Warrant Transactions”) in which it sold net-share-settled (or, at its election subject to certain conditions, cash-settled) warrants to the Option
+Counterparties. The Warrant Transactions currently cover, subject to customary anti-dilution adjustments, approximately 14.6 million shares of
+common stock. As of July 4, 2021, the strike price of the warrants was approximately $39.58 per share. The strike price is subject to
+adjustment under certain circumstances. The Warrant Transactions could have a dilutive effect to Teradyne’s common stock to the extent that
+the market price per share of Teradyne’s common stock, as measured under the terms of the Warrant Transactions, exceeds the applicable
+strike price of the warrants.
+
+The Note Hedge Transactions are expected to reduce the potential dilution to Teradyne’s common stock upon any conversion of the
+Notes. However, the Warrant Transactions could separately have a dilutive effect to the extent that the market value per share of Teradyne’s
+common stock exceeds the applicable strike price of the warrant. The net cost of the Note Hedge Transactions, after being partially offset by
+the proceeds from the sale of the warrants, was approximately $33.0 million.
+
+In connection with establishing their initial hedge of these convertible note hedge and warrant transactions, the Option Counterparties
+have entered into various derivative transactions with respect to Teradyne’s common stock and/or purchased shares of Teradyne’s common
+stock or other securities, including the Notes, concurrent with, or shortly after, the pricing of the Notes. In addition, the Option Counterparties
+may modify their hedge positions by entering into or unwinding various derivative transactions with respect to Teradyne’s common stock or by
+selling Teradyne’s common stock or other securities, including the Notes, in secondary market transactions (and may do so during any
+observation period related to the conversion of the Notes). These activities could adversely affect the value of Teradyne’s common stock and
+the Notes.
+
+Teradyne considered the guidance of ASC 815-40, “Derivatives and Hedging—Contracts in Entity’s Own Equity,”  and concluded that the
+convertible note hedge is both indexed to Teradyne’s common stock and should be classified in stockholders’
+
+
+#### 14
+
+
+## Page 18
+
+### Table 18.1
+
+| Debt principal |  | $ | 393,142 |  | $ | 459,971 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 18.2
+
+| Net carrying amount of convertible debt |  | $ | 357,379 |  | $ | 410,111 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 18.3
+
+| Current debt |  | $ | 213,761 |  | $ | 33,343 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 18.4
+
+| Net carrying amount of convertible debt |  | $ | 357,379 |  | $ | 410,111 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 18.5
+
+| Contractual interest expense on the coupon |  | $ | 1,072 |  |  | $ | 1,438 |  | $ | 2,311 | $ | 2,875 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 18.6
+
+| Total interest expense on the convertible debt |  | $ | 4,583 |  |  | $ | 5,277 |  | $ | 9,658 | $ | 10,506 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+equity in its statements of financial position. The convertible note hedge is considered indexed to Teradyne’s common stock as the terms of
+the Note Hedge Transactions do not contain an exercise contingency and the settlement amount equals the difference between the fair value
+of a fixed number of Teradyne’s shares and a fixed strike price. Because the only variable that can affect the settlement amount is Teradyne’s
+stock price, which is an input to the fair value of a fixed-for-fixed option contract, the convertible note hedge is considered indexed to
+Teradyne’s common stock.
+
+Teradyne assessed whether the convertible note hedge should be classified as equity under ASC 815-40. In the Note Hedge
+Transactions contract the settlement terms permit net cash settlement or net share settlement, at the option of Teradyne. Therefore, the
+criteria as set forth in ASC 815-40 were evaluated by Teradyne. In reviewing the criteria, Teradyne noted the following: (1) the convertible note
+hedge does not require Teradyne to issue shares; (2) there is no requirement to net cash settle the convertible note hedge for failure to make
+timely filings with the SEC; (3) in the case of termination, the convertible note hedge is settled in the same consideration as the holders of the
+underlying stock; (4) the counterparty does not have rights that rank higher than those of a shareholder of the stock underlying the convertible
+note hedge; and (5) there is no requirement to post collateral. Based on its analysis of those criteria, Teradyne concluded that the convertible
+note hedge should be recorded in equity and no further adjustment should be made in future periods to adjust the value of the convertible note
+hedge.
+
+Teradyne analyzed the Warrant Transactions under ASC 815-40, “Derivatives and Hedging—Contracts in Entity’s Own Equity,”  and
+other relevant literature, and determined that it met the criteria for classification as an equity transaction and is considered indexed to
+Teradyne’s common stock. As a result, Teradyne recorded the proceeds from the warrants as an increase to additional paid-in capital.
+Teradyne does not recognize subsequent changes in fair value of the warrants in its financial statements.
+
+The provisions of ASC 470-20, “Debt with Conversion and Other Options,” are applicable to the Notes. ASC 470-20 requires Teradyne to
+separately account for the liability (debt) and equity (conversion feature) components of the Notes in a manner that reflects Teradyne’s
+nonconvertible debt borrowing rate at the date of issuance when interest cost is recognized in subsequent periods. Teradyne allocated
+$100.8 million of the $460.0 million principal amount of the Notes to the equity component, which represents a discount to the debt and will be
+amortized to interest expense using the effective interest method through December 2023. Accordingly, Teradyne’s effective annual interest
+rate on the Notes will be approximately 5.0%. The Notes are classified as long-term debt in the balance sheet based on their December 15,
+2023 maturity date, except for the conversions that occurred during the second quarter of 2021, which are included in current debt. Debt
+issuance costs of approximately $7.2 million are amortized to interest expense using the effective interest method over the seven-year term of
+the Notes. As of July 4, 2021, debt issuance costs were approximately $2.4 million.
+
+The below tables represent the key components of Teradyne’s convertible senior notes:
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Debt principal
+  
+$393,142   
+$
+459,971 
+Unamortized discount
+  
+ 
+35,763   
+ 
+49,860
+
+Net carrying amount of convertible debt
+  
+$357,379   
+$
+410,111
+
+
+#### Reported as follows:
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Current debt
+  
+$213,761   
+$
+33,343 
+Long-term debt
+  
+ 143,618   
+ 
+376,768
+
+Net carrying amount of convertible debt
+  
+$357,379   
+$
+410,111
+
+For the Three Months Ended
+   
+For the Six Months Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Contractual interest expense on the coupon
+  
+$
+1,072   
+$
+1,438   
+$
+2,311   
+$
+2,875 
+Amortization of the discount component and debt issue fees
+
+recognized as interest expense
+  
+ 
+3,511   
+ 
+3,839   
+ 
+7,347   
+ 
+7,631
+
+Total interest expense on the convertible debt
+  
+$
+4,583   
+$
+5,277   
+$
+9,658   
+$
+10,506
+
+As of July 4, 2021, the remaining unamortized discount was $ 35.8 million, which will be amortized over 2.5 years using the effective
+interest rate method. The carrying amount of the equity component was $100.8 million.
+
+
+#### 15
+
+
+## Page 19
+
+### Table 19.1
+
+| Contract manufacturer and supplier prepayments |  | $ | 320,111 |  | $ | 212,286 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 19.2
+
+| Prepaid taxes |  |  | 13,017 |  |  | 9,361 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 19.3
+
+| Total prepayments |  | $ | 359,410 |  | $ | 250,092 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+As of July 4, 2021, the conversion price was approximately $ 31.54 per share and the if-converted value of the notes was
+$1,602.2 million.
+
+During the six months ended July 4, 2021, certain debt holders elected to convert $ 66.8 million of debt principal. The conversion of the
+debt was settled in cash for principal amount and in shares for the excess of conversion value over principal amount. The 1.6 million shares
+issued to the debt holders were received from exercising the convertible notes hedge call options.
+
+Additional conversions of approximately $235.2 million of debt principal will occur in the third quarter of 2021. The liability component is
+included in current debt and the equity component is included in convertible common shares.
+
+
+#### Revolving Credit Facility
+
+On May 1, 2020, Teradyne entered into a credit agreement (the “Credit Agreement”) with Truist Bank, as administrative agent and
+collateral agent, and the lenders party thereto. The Credit Agreement provides for a three-year, senior secured revolving credit facility of
+$400.0 million (the “Credit Facility”). The Credit Agreement further provides that, subject to customary conditions, Teradyne may seek to
+obtain from existing or new lenders incremental commitments under the Credit Facility in an aggregate principal amount not to exceed
+$150.0 million.
+
+Proceeds from the Credit Facility may be used for general corporate purposes and working capital. Teradyne incurred $ 3.5 million in
+costs related to the revolving credit facility. These costs are being amortized over the three-year term of the revolving credit facility and are
+included in interest expense in the statement of operations. As of August 6, 2021, Teradyne has not borrowed any funds under the Credit
+Facility.
+
+The interest rates applicable to loans under the Credit Facility are, at Teradyne’s option, equal to either a base rate plus a margin
+ranging from 0.50% to 1.25% per annum or LIBOR, a minimum of 0.75%, plus a margin ranging from 1.50% to 2.25% per annum, based on
+the consolidated leverage ratio of Teradyne. In addition, Teradyne will pay a commitment fee on the unused portion of the commitments under
+the Credit Facility ranging from 0.25% to 0.40% per annum, based on the then applicable consolidated leverage ratio.
+
+Teradyne is not required to repay any loans under the Credit Facility prior to maturity, subject to certain customary exceptions. Teradyne
+is permitted to prepay all or any portion of the loans under the Credit Facility prior to maturity without premium or penalty, other than
+customary LIBOR breakage costs.
+
+The Credit Agreement contains customary events of default, representations, warranties and affirmative and negative covenants that,
+among other things, limit Teradyne’s ability to sell assets, grant liens on assets, incur other secured indebtedness and make certain
+investments and restricted payments, all subject to exceptions set forth in the Credit Agreement. The Credit Agreement also requires
+Teradyne to satisfy two financial ratios measured as of the end of each fiscal quarter: a consolidated leverage ratio and an interest coverage
+ratio.
+
+The Credit Facility is guaranteed by certain of Teradyne’s domestic subsidiaries and collateralized by assets of Teradyne and such
+subsidiaries, including a pledge of 65% of the capital stock of certain foreign subsidiaries.
+
+As of August 6, 2021, Teradyne was in compliance with all covenants.
+
+
+### I. PREPAYMENTS
+
+Prepayments consist of the following and are included in prepayments and other assets on the balance sheet:
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Contract manufacturer and supplier prepayments
+  
+$320,111   
+$
+212,286 
+Prepaid maintenance and other services
+  
+ 
+16,848   
+ 
+13,116 
+Prepaid taxes
+  
+ 
+13,017   
+ 
+9,361 
+Other prepayments
+  
+ 
+9,434   
+ 
+15,329
+
+Total prepayments
+  
+$359,410   
+$
+250,092
+
+
+#### 16
+
+
+## Page 20
+
+### Table 20.1
+
+| Maintenance, service and training |  | $ | 83,557 |  | $ | 77,654 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 20.2
+
+| Customer advances, undelivered elements and other |  |  | 60,334 |  |  | 63,438 |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 20.3
+
+| Balance at beginning of period |  | $ | 23,893 |  |  | $ | 10,971 |  |  | $ | 16,633 |  |  | $ | 8,996 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 20.4
+
+| Accruals related to pre-existing warranties |  |  | (3,450 | ) |  |  | 356 |  |  |  | (3,003 | ) |  |  | 1,412 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 20.5
+
+| Balance at end of period |  | $ | 25,676 |  |  | $ | 13,016 |  |  | $ | 25,676 |  |  | $ | 13,016 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 20.6
+
+| Balance at beginning of period |  | $ | 53,908 |  |  | $ | 33,503 |  |  | $ | 51,929 |  |  | $ | 30,677 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 20.7
+
+| Recognition of extended warranty deferred revenue |  |  | (6,673 | ) |  |  | (4,775 | ) |  |  | (12,209 | ) |  |  | (9,549 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+### J. DEFERRED REVENUE AND CUSTOMER ADVANCES
+
+Deferred revenue and customer advances consist of the following and are included in short and long-term deferred revenue and
+customer advances on the balance sheet:
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### December 31,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Maintenance, service and training
+  
+$ 83,557   
+$
+77,654 
+Extended warranty
+  
+ 
+63,525   
+ 
+51,929 
+Customer advances, undelivered elements and other
+  
+ 
+60,334   
+ 
+63,438
+
+Total deferred revenue and customer advances
+  
+$207,416   
+$
+193,021
+
+
+### K. PRODUCT WARRANTY
+
+Teradyne generally provides a one-year warranty on its products, commencing upon installation, acceptance or shipment. A provision is
+recorded upon revenue recognition to cost of revenues for estimated warranty expense based on historical experience. Related costs are
+charged to the warranty accrual as incurred. The balance below is included in other accrued liabilities.
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Balance at beginning of period
+  
+$23,893   $10,971   $ 16,633   $ 8,996 
+Accruals for warranties issued during the period
+  
+ 10,197    
+6,200    22,078    11,267 
+Accruals related to pre-existing warranties
+  
+ (3,450)    
+356    
+(3,003)    
+1,412 
+Settlements made during the period
+  
+ (4,964)    (4,511)    (10,032)    (8,659)
+
+Balance at end of period
+  
+$25,676   $13,016   $ 25,676   $13,016
+
+When Teradyne receives revenue for extended warranties, beyond one year, it is deferred and recognized on a straight-line basis over
+the contract period. Related costs are expensed as incurred. The balance below is included in short and long-term deferred revenue and
+customer advances.
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Balance at beginning of period
+  
+$53,908   $33,503   $ 51,929   $30,677 
+Deferral of new extended warranty revenue
+  
+ 16,290    11,450    23,805    19,050 
+Recognition of extended warranty deferred revenue
+  
+ (6,673)    (4,775)    (12,209)    (9,549)
+
+Balance at end of period
+  
+$63,525   $40,178   $ 63,525   $40,178
+
+
+### L. STOCK-BASED COMPENSATION
+
+Under Teradyne’s stock compensation plans, Teradyne grants service-based restricted stock units, performance-based restricted stock
+units and stock options, and employees are eligible to purchase Teradyne’s common stock through its Employee Stock Purchase Plan
+(“ESPP”).
+
+Service-based restricted stock unit awards granted to employees vest in equal annual installments over four years. Restricted stock unit
+awards granted to non-employee directors vest after a one-year period, with 100% of the award vesting on the earlier of (a) the first
+anniversary of the grant date or (b) the date of the following year’s annual meeting of shareholders. Teradyne expenses the cost of the
+restricted stock unit awards subject to service-based vesting, which is determined to be the fair market value of the shares at the date of grant,
+ratably over the period during which the restrictions lapse.
+
+Performance-based restricted stock units (“PRSUs”) granted to Teradyne’s executive officers may have a performance metric based on
+relative total shareholder return (“TSR”). Teradyne’s three-year TSR performance is measured against the New York Stock Exchange
+(“NYSE”) Composite Index. The final number of TSR PRSUs that vest will vary based upon the level of performance achieved from 0% to
+200% of the target shares. The TSR PRSUs will vest upon the three-year anniversary of the grant date. The TSR PRSUs are valued using a
+Monte Carlo simulation model. The number of units expected to be earned, based upon the achievement of the TSR market condition, is
+factored into the grant date Monte Carlo valuation. Compensation expense is recognized on a straight-
+
+
+#### 17
+
+
+## Page 21
+
+### Table 21.1
+
+| Risk-free interest rate |  | 0.2% |  | 1.5% |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 21.2
+
+| NYSE Composite Index volatility-historical |  | 22.9% |  | 11.4% |
+| --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+line basis over the shorter of the three-year service period or the period from the grant to the date described in the retirement provisions
+below. Compensation expense for executive officers meeting the retirement provisions prior to the grant date is recognized during the year
+following the grant. Compensation expense is recognized regardless of the eventual number of units that are earned based upon the market
+condition, provided the executive officer remains an employee at the end of the three-year period. Compensation expense is reversed if at any
+time during the three-year service period the executive officer is no longer an employee, subject to the retirement and termination eligibility
+provisions noted below.
+
+PRSUs granted to Teradyne’s executive officers may also have a performance metric based on three-year cumulative non-GAAP profit
+before interest and tax (“PBIT”) as a percent of Teradyne’s revenue. Non-GAAP PBIT is a financial measure equal to GAAP income from
+operations less restructuring and other, net; amortization of acquired intangible assets; acquisition and divestiture related charges or credits;
+pension actuarial gains and losses; non-cash convertible debt interest expense; and other non-recurring gains and charges. The final number
+of PBIT PRSUs that vest will vary based upon the level of performance achieved from 0% to 200% of the target shares. The PBIT PRSUs will
+vest upon the three-year anniversary of the grant date. Compensation expense is recognized on a straight-line basis over the shorter of the
+three-year service period or the period from the grant date to the date described in the retirement provisions below. Compensation expense
+for executive officers meeting the retirement provisions prior to the grant date is recognized during the year following the grant. Compensation
+expense is recognized based on the number of units that are earned based upon the three-year Teradyne PBIT as a percent of Teradyne’s
+revenue, provided the executive officer remains an employee at the end of the three-year period subject to the retirement and termination
+eligibility provisions noted below.
+
+If a PRSU recipient’s employment ends prior to the determination of the performance percentage due to (1) permanent disability or death
+or (2) retirement or termination other than for cause, after attaining both at least age sixty and at least ten years of service, then all or a portion
+of the recipient’s PRSUs (based on the actual performance percentage achieved on the determination date) will vest on the date the
+performance percentage is determined. Except as set forth in the preceding sentence, no PRSUs will vest if the executive officer is no longer
+an employee at the end of the three-year period.
+
+Stock options to purchase Teradyne’s common stock at 100% of the fair market value on the grant date vest in equal annual installments
+over four years from the grant date and have a maximum term of seven years.
+
+During the six months ended July 4, 2021 and June 28, 2020, Teradyne granted 0.3 million and 0.4 million of service-based restricted
+stock unit awards to employees at a weighted average grant date fair value of $113.23 and $70.52, respectively, and 0.1 million of service-
+based restricted stock unit awards to non-employee directors at a weighted average grant date fair value of $127.77 and $64.99, respectively.
+
+During the six months ended July 4, 2021 and June 28, 2020, Teradyne granted 0.1 million of PBIT PRSUs with a grant date fair value of
+$113.65 and $70.94, respectively.
+
+During the six months ended July 4, 2021 and June 28, 2020, Teradyne granted 0.1 million of TSR PRSUs, with a grant date fair value
+of $125.02 and $89.93, respectively. The fair value was estimated using the Monte Carlo simulation model with the following assumptions:
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+Risk-free interest rate
+  
+0.2% 
+1.5%
+Teradyne volatility-historical
+  
+43.9% 
+34.9%
+NYSE Composite Index volatility-historical
+  
+22.9% 
+11.4%
+Dividend yield
+  
+0.4% 
+0.6%
+
+Expected volatility was based on the historical volatility of Teradyne’s stock and the NYSE Composite Index over the most recent three-
+year period. The risk-free interest rate was determined using the U.S. Treasury yield curve in effect at the time of grant. Dividend yield was
+based upon an estimated annual dividend amount of $0.40 per share divided by Teradyne’s stock price on the grant date of $ 113.48 for the
+2021 grant and an estimated annual dividend amount of $0.40 per share divided by Teradyne’s stock price on the grant date of $ 72.10 for the
+2020 grant.
+
+
+#### 18
+
+
+## Page 22
+
+### Table 22.1
+
+| Expected life (years) |  | 5.0 |  | 5.0 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 22.2
+
+| Volatility-historical |  | 37.8% |  | 31.6% |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 22.3
+
+| Six Months Ended July 4, 2021 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.4
+
+| Other comprehensive loss before reclassifications, net of tax of $0, $(472), $0, respectively |  |  | (15,974 | ) |  |  | (1,776 | ) |  |  | — |  |  |  | (17,750) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.5
+
+| Net current period other comprehensive loss, net of tax of $0, $(593), $(1), respectively |  |  | (15,974 | ) |  |  | (2,217 | ) |  |  | ( | 3) |  |  | (18,194) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.6
+
+| Six Months Ended June 28, 2020 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.7
+
+| Other comprehensive income before reclassifications, net of tax of $0, $1,271, $0, respectively |  |  | 7,026 |  |  |  | 4,830 |  |  |  | — |  |  |  | 11,856 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.8
+
+| Net current period other comprehensive income (loss), net of tax of $0, $850, $(1), respectively |  |  | 7,026 |  |  |  | 3,331 |  |  |  | ( | 3) |  |  | 10,354 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.9
+
+| Available-for-sale marketable securities: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.10
+
+| Defined benefit post-retirement plan: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 22.11
+
+| Total reclassifications, net of tax of $(2), $277, $122, $422, respectively |  | $ | (1 | ) |  | $ | 985 |  | $ | 444 |  | $ | 1,502 |  | Net income |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+During the six months ended July 4, 2021 and June 28, 2020, Teradyne granted 0.1 million of service-based stock options to executive
+officers at a weighted average grant date fair value of $36.60 and $20.67, respectively.
+
+The fair value of stock options was estimated using the Black-Scholes option-pricing model with the following assumptions:
+
+For the Six Months Ended
+ 
+  
+July 4, 2021  
+June 28, 2020
+Expected life (years)
+  
+5.0
+ 
+5.0
+Risk-free interest rate
+  
+0.4%
+ 
+1.6%
+Volatility-historical
+  
+37.8%
+ 
+31.6%
+Dividend yield
+  
+0.4%
+ 
+0.6%
+
+Teradyne determined the stock options’ expected life based upon historical exercise data for executive officers, the age of the executive
+officers and the terms of the stock option grant. Volatility was determined using historical volatility for a period equal to the expected life. The
+risk-free interest rate was determined using the U.S. Treasury yield curve in effect at the time of grant. Dividend yield was based upon an
+estimated annual dividend amount of $0.40 per share divided by Teradyne’s stock price on the grant date of $ 113.48 for the 2021 grant and
+an estimated annual dividend amount of $0.40 per share divided by Teradyne’s stock price on the grant date of $ 72.10 for the 2020 grant.
+
+
+### M. ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+
+Changes in accumulated other comprehensive income (loss), which are presented net of tax, consist of the following:
+
+Foreign
+Currency
+Translation
+Adjustment
+
+
+#### Unrealized
+
+Gains
+(Losses)
+
+on
+Marketable
+
+
+#### Securities
+
+Retirement
+Plans Prior
+
+
+#### Service
+
+Credit
+   
+Total
+ 
+ 
+  
+(in thousands)
+ 
+Six Months Ended July 4, 2021
+  
+  
+  
+  
+Balance at December 31, 2020, net of tax of $0, $1,910, $(1,126), respectively
+  
+$
+25,389   
+$
+6,954   
+$
+1,173   
+$ 33,516 
+Other comprehensive loss before reclassifications, net of tax of $ 0, $(472),
+
+$0, respectively
+  
+ 
+(15,974)   
+ 
+(1,776)   
+ 
+—      
+ (17,750) 
+Amounts reclassified from accumulated other comprehensive income, net
+
+of tax of $0, $(121), $(1), respectively
+  
+ 
+—      
+ 
+(441)   
+ 
+(3)   
+ 
+(444)
+
+
+#### Net current period other comprehensive loss, net of tax of $ 0, $(593), $(1),
+
+respectively
+  
+ 
+(15,974)   
+ 
+(2,217)   
+ 
+(3)   
+ (18,194)
+
+Balance at July 4, 2021, net of tax of $ 0, $1,317, $(1,127), respectively
+  
+$
+9,415   
+$
+4,737   
+$
+1,170   
+$ 15,322
+
+Six Months Ended June 28, 2020
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Balance at December 31, 2019, net of tax of $0, $946, $(1,124), respectively
+  
+$ (23,514)   
+$
+3,480   
+$
+1,180   
+$(18,854) 
+Other comprehensive income before reclassifications, net of tax of $0,
+
+$1,271, $0, respectively
+  
+ 
+7,026   
+ 
+4,830   
+ 
+—      
+ 11,856 
+Amounts reclassified from accumulated other comprehensive income, net
+
+of tax of $0, $(421), $(1), respectively
+  
+ 
+—      
+ 
+(1,499)   
+ 
+(3)   
+ 
+(1,502)
+
+
+#### Net current period other comprehensive income (loss), net of tax of $ 0,
+
+$850, $(1), respectively
+  
+ 
+7,026   
+ 
+3,331   
+ 
+(3)   
+ 10,354
+
+Balance at June 28, 2020, net of tax of $ 0, $1,796, $(1,125), respectively
+  
+$ (16,488)   
+$
+6,811   
+$
+1,177   
+$ (8,500)
+
+Reclassifications out of accumulated other comprehensive income (loss) to the statement of operations for the three and six months
+ended July 4, 2021 and June 28, 2020 were as follows:
+
+
+#### Details about Accumulated Other Comprehensive Income (Loss) Components
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### Affected Line Item
+
+
+#### in the Statements
+
+
+#### of Operations
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+    
+ 
+ 
+  
+(in thousands)
+    
+ 
+Available-for-sale marketable securities:
+   
+ 
+    
+     
+     
+     
+ 
+Unrealized (losses) gains, net of tax of $( 2), $277, $121, $421,
+
+respectively
+  $
+(3)  $
+983   $ 441   $
+1,499
+
+Other (income)
+expense, net
+
+Defined benefit post-retirement plan:
+   
+ 
+    
+     
+     
+     
+ 
+Amortization of prior service credit, net of tax of $ 0, $0, $1, $1,
+
+respectively
+   
+2   
+2    
+3    
+3    (a)
+
+Total reclassifications, net of tax of $(2), $277, $122, $422, respectively
+  $
+(1)  $
+985   $ 444   $
+1,502    Net income
+
+(a) The amortization of prior service credit is included in the computation of net periodic postretirement benefit cost. See Note Q: “Retirement Plans.”
+
+
+#### 19
+
+
+## Page 23
+
+### Table 23.1
+
+| Balance at December 31, 2020 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.2
+
+| Accumulated impairment losses |  |  | — |  | ( | 148,183 | ) |  | (353,843 | ) |  |  | (260,540) |  |  | (762,566 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.3
+
+| Foreign currency translation adjustment |  |  | (12,191) |  |  | — |  |  | — |  |  |  | (71) |  |  | (12,262 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.4
+
+| Goodwill |  |  | 421,561 |  |  | 158,699 |  |  | 361,819 |  |  |  | 262,084 |  |  | 1,204,163 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.5
+
+|  |  | $ | 421,561 |  | $ | 10,516 |  | $ | 7,976 |  |  | $ | 1,544 |  | $ | 441,597 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.6
+
+| Balance at July 4, 2021 |  |  | (in thousands) |
+| --- | --- | --- | --- |
+
+
+
+### Table 23.7
+
+| Customer relationships |  |  | 57,739 |  |  | (47,780 | ) |  |  | 191 |  |  | 10,150 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.8
+
+| Total intangible assets |  | $ | 400,406 |  | $ | (309,787 | ) |  | $ | (2,498 | ) |  | $ 88,121 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.9
+
+| Developed technology |  | $ | 272,547 |  | $ | (210,479 | ) |  | $ | (1,610 | ) |  | $ 60,458 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.10
+
+| Tradenames and trademarks |  |  | 70,120 |  |  | (42,344 | ) |  |  | 685 |  |  | 28,461 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 23.11
+
+| 2021(remainder) |  | $ | 10,636 |
+| --- | --- | --- | --- |
+
+
+
+### Table 23.12
+
+| 2023 |  |  | 20,084 |
+| --- | --- | --- | --- |
+
+
+
+### Table 23.13
+
+| 2025 |  |  | 11,756 |
+| --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+### N. GOODWILL AND ACQUIRED INTANGIBLE ASSETS
+
+
+#### Goodwill
+
+Teradyne performs its annual goodwill impairment test as required under the provisions of ASC 350-10, “Intangibles—Goodwill and
+Other” on December 31 of each fiscal year unless interim indicators of impairment exist. Goodwill is considered impaired when the net book
+value of a reporting unit exceeds its estimated fair value.
+
+The changes in the carrying amount of goodwill by reportable segments for the six months ended July 4, 2021, were as follows:
+
+Industrial
+Automation
+
+
+#### System
+
+
+#### Test
+
+
+#### Wireless
+
+
+#### Test
+
+
+#### Semiconductor
+
+Test
+  
+Total
+ 
+ 
+  
+(in thousands)
+ 
+Balance at December 31, 2020
+    
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Goodwill
+  $ 433,752  
+$ 158,699  
+$ 361,819  
+$
+262,155  
+$1,216,425 
+Accumulated impairment losses
+   
+—     
+ (148,183)  
+ (353,843)  
+ 
+(260,540)  
+ 
+(762,566)
+
+433,752  
+ 
+10,516  
+ 
+7,976  
+ 
+1,615  
+ 
+453,859 
+Foreign currency translation adjustment
+   
+(12,191)  
+ 
+—     
+ 
+—     
+ 
+(71)  
+ 
+(12,262)
+
+Balance at July 4, 2021
+    
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Goodwill
+   
+421,561  
+ 158,699  
+ 361,819  
+ 
+262,084  
+ 1,204,163 
+Accumulated impairment losses
+   
+—     
+ (148,183)  
+ (353,843)  
+ 
+(260,540)  
+ 
+(762,566)
+
+$ 421,561  
+$
+10,516  
+$
+7,976  
+$
+1,544  
+$
+441,597
+
+
+#### Intangible Assets
+
+Teradyne reviews long-lived assets for impairment whenever events or changes in business circumstances indicate that the carrying
+amount of the assets may not be fully recoverable or that the useful lives of these assets are no longer appropriate.
+
+Amortizable intangible assets consist of the following and are included in intangible assets, net on the balance sheet:
+
+Gross
+Carrying
+
+
+#### Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Foreign Currency
+
+Translation
+Adjustment
+
+Net
+Carrying
+
+Amount  
+Balance at July 4, 2021
+  
+ 
+(in thousands)
+ 
+Developed technology
+  
+$272,547   
+$
+(216,820)   
+$
+(2,779)   
+$ 52,948 
+Customer relationships
+  
+ 
+57,739   
+ 
+(47,780)   
+ 
+191   
+ 
+10,150 
+Tradenames and trademarks
+  
+ 
+70,120   
+ 
+(45,187)   
+ 
+90   
+ 
+25,023
+
+Total intangible assets
+  
+$400,406   
+$
+(309,787)   
+$
+(2,498)   
+$ 88,121
+
+Balance at December 31, 2020
+  
+  
+   
+  
+   
+ 
+ 
+   
+  
+ 
+Developed technology
+  
+$272,547   
+$
+(210,479)   
+$
+(1,610)   
+$ 60,458 
+Customer relationships
+  
+ 
+66,239   
+ 
+(54,524)   
+ 
+305   
+ 
+12,020 
+Tradenames and trademarks
+  
+ 
+70,120   
+ 
+(42,344)   
+ 
+685   
+ 
+28,461
+
+Total intangible assets
+  
+$408,906   
+$
+(307,347)   
+$
+(620)   
+$100,939
+
+Aggregate intangible asset amortization expense was $ 5.4 million and $10.9 million, respectively, for the three and six months ended
+July 4, 2021 and $8.9 million and $18.8 million, respectively, for the three and six months ended June 28, 2020.
+
+Estimated intangible asset amortization expense for each of the five succeeding fiscal years is as follows:
+
+Year
+  
+Amortization Expense 
+ 
+  
+(in thousands)
+ 
+2021(remainder)
+  
+$
+10,636 
+2022
+  
+ 
+20,570 
+2023
+  
+ 
+20,084 
+2024
+  
+ 
+19,776 
+2025
+  
+ 
+11,756 
+Thereafter
+  
+ 
+5,299
+
+
+#### 20
+
+
+## Page 24
+
+### Table 24.1
+
+| Net income for basic and diluted net income per share |  | $ | 328,319 |  | $ | 188,908 |  | $ | 533,831 |  | $ | 365,098 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 24.2
+
+| Effect of dilutive potential common shares: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 24.3
+
+| Convertible note hedge warrant shares (2) |  |  | 10,073 |  |  | 5,824 |  |  | 9,751 |  |  | 5,658 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 24.4
+
+| Stock options |  |  | 78 |  |  | 132 |  |  | 93 |  |  | 133 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 24.5
+
+| Dilutive potential common shares |  |  | 20,755 |  |  | 14,468 |  |  | 21,002 |  |  | 14,308 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 24.6
+
+| Net income per common share-basic |  | $ | 1.98 |  | $ | 1.14 |  | $ | 3.21 |  | $ | 2.20 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+### O. NET INCOME PER COMMON SHARE
+
+The following table sets forth the computation of basic and diluted net income per common share:
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands, except per share amounts)
+ 
+Net income for basic and diluted net income per share   $328,319   $188,908   $533,831   $365,098
+
+Weighted average common shares-basic
+   165,995    165,789    166,243    166,189 
+Effect of dilutive potential common shares:
+    
+     
+     
+     
+ 
+Incremental shares from assumed conversion of
+
+convertible notes (1)
+   
+9,578    
+7,599    
+9,944    
+7,466 
+Convertible note hedge warrant shares (2)
+   
+10,073    
+5,824    
+9,751    
+5,658 
+Restricted stock units
+   
+1,015    
+913    
+1,205    
+1,038 
+Stock options
+   
+78    
+132    
+93    
+133 
+Employee stock purchase plan
+   
+11    
+—       
+9    
+13
+
+Dilutive potential common shares
+   
+20,755    
+14,468    
+21,002    
+14,308
+
+Weighted average common shares-diluted
+   186,750    180,257    187,245    180,497
+
+Net income per common share-basic
+  $
+1.98   $
+1.14   $
+3.21   $
+2.20
+
+Net income per common share-diluted
+  $
+1.76   $
+1.05   $
+2.85   $
+2.02
+
+(1)
+Incremental shares from assumed conversion of the convertible notes were calculated using the difference between the average
+Teradyne stock price for the period and the conversion price of $31.54, multiplied by 12.7 million shares. The result of this calculation,
+representing the total intrinsic value of the convertible debt, was divided by the average Teradyne stock price for the period.
+(2)
+Convertible notes hedge warrant shares were calculated using the difference between the average Teradyne stock price for the period
+and the warrant price of $39.58, multiplied by 14.6 million shares. The result of this calculation, representing the total intrinsic value of
+the warrant, was divided by the average Teradyne stock price for the period.
+
+The computation of diluted net income per common share for the three and six months ended June 28, 2020 excludes the effect of the
+potential vesting of 0.1 million and 0.2 million, respectively, of restricted stock units because the effect would have been anti-dilutive.
+
+
+### P. RESTRUCTURING AND OTHER
+
+During the three months ended July 4, 2021, Teradyne recorded a charge of $ 1.7 million for an increase in environmental and legal
+liabilities, $0.4 million of severance charges primarily in Industrial Automation and $ 0.4 million for other expenses.
+
+During the three months ended June 28, 2020, Teradyne recorded a charge of $ 29.9 million for the increase in the fair value of the
+AutoGuide contingent consideration liability, a $4.0 million contract termination settlement charge, $3.1 million of acquisition related
+compensation and expenses, and $0.8 million of other expenses, partially offset by a $ 0.6 million gain for the decrease in the fair value of the
+MiR contingent consideration liability.
+
+During the six months ended July 4, 2021, Teradyne recorded a gain of $ 7.2 million for the decrease in the fair value of the AutoGuide
+contingent consideration liability, partially offset by a charge of $1.7 million for an increase in environmental and legal liabilities, $ 0.6 million of
+severance charges primarily in Industrial Automation and $0.3 million for other expenses.
+
+During the six months ended June 28, 2020, Teradyne recorded a $ 22.8 million charge for the increase in the fair value of the
+AutoGuide contingent consideration liabilities, $4.5 million of acquisition related compensation and expenses, a $ 4.0 million contract
+termination settlement charge, $1.1 million of other expenses, and $ 0.8 million of severance charges primarily in Semiconductor Test, partially
+offset by a $3.6 million gain for the decrease in the fair value of the MiR contingent consideration liability.
+
+
+### Q. RETIREMENT PLANS
+
+ASC 715, “Compensation—Retirement Benefits” requires an employer with a defined benefit plan or other postretirement benefit plan to
+recognize an asset or a liability on its balance sheet for the overfunded or underfunded status of the plan. The pension asset or liability
+represents a difference between the fair value of the pension plan’s assets and the projected benefit obligation at December 31. Teradyne
+uses a December 31 measurement date for all of its plans.
+
+
+#### Defined Benefit Pension Plans
+
+Teradyne has defined benefit pension plans covering a portion of domestic employees and employees of certain non-U.S. subsidiaries.
+Benefits under these plans are based on employees’ years of service and compensation. Teradyne’s funding policy is to
+
+
+#### 21
+
+
+## Page 25
+
+### Table 25.1
+
+| Service cost |  | $ | 452 |  |  | $ | 245 |  | $ | 433 |  | $ 208 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.2
+
+| Expected return on plan assets |  |  | (936 | ) |  |  | (17) |  |  | (1,232) |  | (15 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.3
+
+| Total net periodic pension cost |  | $ | 212 |  |  | $ | 316 |  | $ | 904 |  | $ 312 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.4
+
+| Service cost |  | $ | 905 |  |  | $ | 491 |  | $ | 866 |  | $ 417 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.5
+
+| Expected return on plan assets |  |  | (1,872 | ) |  |  | (33) |  |  | (2,464) |  | (31 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.6
+
+| Total net periodic pension cost |  | $ | 829 |  |  | $ | 633 |  | $ | 1,627 |  | $ 624 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.7
+
+| Service cost |  | $ | 17 |  |  | $ 17 |  |  | $ | 33 | $ | 28 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.8
+
+| Amortization of prior service credit |  |  | (2 | ) |  | (2 | ) |  |  | (4 | ) | (4 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 25.9
+
+| Total net periodic postretirement benefit credit |  | $ | (172 | ) |  | $ (206 | ) |  | $ | (114 | ) $ | (135 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+make contributions to these plans in accordance with local laws and to the extent that such contributions are tax deductible. The assets of the
+U.S. qualified pension plan consist primarily of fixed income and equity securities. In addition, Teradyne has unfunded qualified foreign plans
+as well as an unfunded supplemental executive defined benefit plan in the United States to provide retirement benefits in excess of levels
+allowed by the Employment Retirement Income Security Act (“ERISA”) and the Internal Revenue Code (“IRC”).
+
+In the six months ended July 4, 2021, and June 28, 2020, Teradyne contributed $ 1.7 million and $1.4 million, respectively, to the U.S.
+supplemental executive defined benefit pension plan and $0.5 million and $0.4 million, respectively to certain qualified pension plans for non-
+U.S. subsidiaries.
+
+For the three and six months ended July 4, 2021 and June 28, 2020, Teradyne’s net periodic pension cost was comprised of the
+following:
+
+For the Three Months Ended
+ 
+ 
+  
+July 4, 2021
+   
+June 28, 2020
+
+United
+States
+   
+Foreign
+
+United
+States
+   
+Foreign 
+ 
+  
+(in thousands)
+ 
+Service cost
+  
+$
+452   
+$
+245   
+$
+433   
+$
+208 
+Interest cost
+  
+ 
+1,096   
+ 
+88   
+ 
+1,523   
+ 
+119 
+Expected return on plan assets
+  
+ 
+(936)   
+ 
+(17)   
+ 
+(1,232)   
+ 
+(15) 
+Net actuarial (gain) loss
+  
+ 
+(400)   
+ 
+—      
+ 
+180   
+ 
+—
+
+Total net periodic pension cost
+  
+$
+212   
+$
+316   
+$
+904   
+$
+312
+
+For the Six Months Ended
+ 
+ 
+  
+July 4, 2021
+   
+June 28, 2020
+ 
+ 
+  
+UnitedStates   
+Foreign   
+UnitedStates   
+Foreign 
+ 
+  
+(in thousands)
+ 
+Service cost
+  
+$
+905   
+$
+491   
+$
+866   
+$
+417 
+Interest cost
+  
+ 
+2,196   
+ 
+175   
+ 
+3,045   
+ 
+238 
+Expected return on plan assets
+  
+ 
+(1,872)   
+ 
+(33)   
+ 
+(2,464)   
+ 
+(31) 
+Net actuarial (gain) loss
+  
+ 
+(400)   
+ 
+—      
+ 
+180   
+ 
+—
+
+Total net periodic pension cost
+  
+$
+829   
+$
+633   
+$
+1,627   
+$
+624
+
+
+#### Postretirement Benefit Plan
+
+In addition to receiving pension benefits, Teradyne employees in the United States who meet early retirement eligibility requirements as
+of their termination dates may participate in Teradyne’s Welfare Plan, which includes medical and dental benefits up to age 65. Death benefits
+provide a fixed sum to retirees’ survivors and are available to all retirees. Substantially all of Teradyne’s current U.S. employees could
+become eligible for these benefits, and the existing benefit obligation relates primarily to those employees.
+
+For the three and six months ended July 4, 2021 and June 28, 2020, Teradyne’s net periodic postretirement benefit credit was
+comprised of the following:
+
+
+#### For the Three
+
+
+#### Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Service cost
+  
+$
+17   
+$
+17   
+$
+33   
+$
+28 
+Interest cost
+  
+ 
+41   
+ 
+58   
+ 
+85   
+ 
+120 
+Amortization of prior service credit
+  
+ 
+(2)   
+ 
+(2)   
+ 
+(4)   
+ 
+(4) 
+Net actuarial gain
+  
+ (228)   
+ 
+(279)   
+ (228)   
+ 
+(279)
+
+Total net periodic postretirement benefit credit
+  
+$(172)   
+$
+(206)   
+$(114)   
+$
+(135)
+
+
+### R. COMMITMENTS AND CONTINGENCIES
+
+
+#### Purchase Commitments
+
+As of July 4, 2021, Teradyne had entered into purchase commitments for certain components and materials. The purchase
+commitments covered by the agreements aggregate to approximately $770.0 million, of which $754.3 million is for less than one year.
+
+
+#### 22
+
+
+## Page 26
+
+### Table 26.1
+
+| U.S. statutory federal tax rate |  | 21.0 | % |  |  | 21.0 | % |  | 21.0 | % |  |  | 21.0 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 26.2
+
+| International provisions of the U.S. Tax Cuts and Jobs Act of 2017 |  | (1.7 | ) |  |  | (1.9 | ) |  | (1.6 | ) |  |  | (1.1 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 26.3
+
+| Discrete benefit related to equity compensation |  | (0.2 | ) |  |  | (0.1 | ) |  | (2.4 | ) |  |  | (2.0 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 26.4
+
+| Effective tax rate |  | 14.5 | % |  |  | 13.1 | % |  | 12.2 | % |  |  | 11.9 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Legal Claims
+
+Teradyne is subject to various legal proceedings and claims which have arisen in the ordinary course of business such as, but not
+limited to, patent, employment, commercial and environmental matters. Teradyne believes that it has meritorious defenses against all pending
+claims and intends to vigorously contest them. While it is not possible to predict or determine the outcomes of any pending claims or to provide
+possible ranges of losses that may arise, Teradyne believes the potential losses associated with all of these actions are unlikely to have a
+material adverse effect on its business, financial position or results of operations.
+
+On March 8, 2021, Industrial Automation LLC submitted a demand for arbitration against Teradyne and AutoGuide in Wilmington,
+Delaware alleging that Teradyne and AutoGuide breached certain provisions of the Membership Interests Purchase Agreement (the
+“Purchase Agreement”), dated as of October 18, 2019, among Industrial Automation LLC, Teradyne and AutoGuide. The arbitration demand
+seeks full acceleration of the maximum earnout amount payable under the Purchase Agreement, or $106.9 million, for the alleged breach of
+the earnout provisions of the Purchase Agreement. On March 26, 2021, Teradyne and AutoGuide filed an answer denying that Teradyne and
+AutoGuide breached any provisions of the Purchase Agreement. The arbitration hearing is scheduled for March 21, 2022. While it is not
+possible at this stage to predict the outcome of the arbitration, Teradyne and AutoGuide intend to vigorously defend against the Industrial
+Automation LLC claims.
+
+
+### S. INCOME TAXES
+
+A reconciliation of the United States federal statutory corporate tax rate to Teradyne’s effective tax rate was as follows:
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+U.S. statutory federal tax rate
+  
+ 21.0%  
+ 
+21.0%  
+ 21.0%  
+ 
+21.0% 
+Foreign taxes
+  
+ 
+(4.3)  
+ 
+(4.6)  
+ (4.5)  
+ 
+(5.1) 
+International provisions of the U.S. Tax Cuts and Jobs Act of 2017
+  
+ 
+(1.7)  
+ 
+(1.9)  
+ (1.6)  
+ 
+(1.1) 
+Tax credits
+  
+ 
+(1.2)  
+ 
+(1.4)  
+ (1.2)  
+ 
+(1.6) 
+Discrete benefit related to equity compensation
+  
+ 
+(0.2)  
+ 
+(0.1)  
+ (2.4)  
+ 
+(2.0) 
+Other, net
+  
+ 
+0.9 
+ 
+ 
+0.1 
+ 
+ 
+0.9 
+ 
+ 
+0.7
+
+Effective tax rate
+  
+ 14.5%  
+ 
+13.1%  
+ 12.2%  
+ 
+11.9%
+
+On a quarterly basis, Teradyne evaluates the realizability of the deferred tax assets by jurisdiction and assesses the need for a valuation
+allowance. As of July 4, 2021, Teradyne believes that it will ultimately realize the deferred tax assets recorded on the condensed consolidated
+balance sheet. However, should Teradyne believe that it is more-likely-than-not that the deferred tax assets would not be realized, the tax
+provision would increase in the period in which Teradyne determined that the realizability was not likely. Teradyne considers the probability of
+future taxable income and historical profitability, among other factors, in assessing the realizability of the deferred tax assets.
+
+As of July 4, 2021 and December 31, 2020, Teradyne had $ 16.6 million and $17.9 million, respectively, of reserves for uncertain tax
+positions. The $1.3 million net decrease in reserves for uncertain tax positions is primarily related to U.S. state research and development
+credits generated in prior years, as well as U.S. federal research and development credits generated in the current year.
+
+As of July 4, 2021, Teradyne estimates that it is reasonably possible that the balance of unrecognized tax benefits may decrease
+approximately $1.6 million in the next twelve months because of a lapse of statutes of limitation. The estimated decrease relates to loss
+carryforwards, research credits and U.S. manufacturing activities deductions.
+
+Teradyne recognizes interest and penalties related to income tax matters in income tax expense. As of July 4, 2021 and December 31,
+2020, $1.4 million and $1.2 million, respectively, of interest and penalties were accrued for uncertain tax positions. For the six months ended
+July 4, 2021 and June 28, 2020, expense of $0.2 million and $0.3 million, respectively, was recorded for interest and penalties related to
+income tax items.
+
+Teradyne qualifies for a tax holiday in Singapore by fulfilling the requirements of an agreement with the Singapore Economic
+Development Board under which certain headcount and spending requirements must be met. The tax savings due to the tax holiday for the
+six months ended July 4, 2021 was $15.9 million, or $0.08 per diluted share. The tax savings due to the tax holiday for the six months ended
+June 28, 2020 was $13.6 million, or $0.08 per diluted share. In November 2020, Teradyne entered into an agreement with the Singapore
+Economic Development Board which extended its Singapore tax holiday under substantially similar terms to the agreement which expired on
+December 31, 2020. The new tax holiday is scheduled to expire on December 31, 2025.
+
+
+#### 23
+
+
+## Page 27
+
+### Table 27.1
+
+| Three Months Ended July 4, 2021 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.2
+
+| Income (loss) before income taxes (1)(2) |  |  | 337,302 |  |  | 33,954 |  |  | (9,837 | ) |  |  | 21,472 |  |  | 1,135 |  |  |  | 384,026 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.3
+
+| Three Months Ended June 28, 2020 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.4
+
+| Income (loss) before income taxes (1)(2) |  |  | 228,787 |  |  | 19,193 |  |  | (11,403 | ) |  |  | 14,482 |  |  | (33,768 | ) |  |  | 217,291 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.5
+
+| Six Months Ended July 4, 2021 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.6
+
+| Income (loss) before income taxes (1)(2) |  |  | 513,670 |  |  | 85,015 |  |  | (22,804 | ) |  |  | 31,088 |  |  | 1,050 |  |  |  | 608,019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.7
+
+| Six Months Ended June 28, 2020 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 27.8
+
+| Income (loss) before income taxes (1)(2) |  |  | 382,603 |  |  | 67,600 |  |  | (26,738 | ) |  |  | 24,702 |  |  | (33,808 | ) |  |  | 414,359 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+### T. SEGMENT INFORMATION
+
+Teradyne has four reportable segments (Semiconductor Test, System Test, Industrial Automation and Wireless Test). Each of the
+reportable segments is also an individual operating segment.
+
+The Semiconductor Test segment includes operations related to the design, manufacturing and marketing of semiconductor test
+products and services. The System Test segment includes operations related to the design, manufacturing and marketing of products and
+services for defense/aerospace instrumentation test, storage and system level test, and circuit-board test. The Industrial Automation segment
+includes operations related to the design, manufacturing and marketing of collaborative robotic arms, autonomous mobile robots and
+advanced robotic control software. The Wireless Test segment includes operations related to the design, manufacturing and marketing of
+wireless test products and services. Each operating segment has a segment manager who is directly accountable to and maintains regular
+contact with Teradyne’s chief operating decision maker (Teradyne’s chief executive officer) to discuss operating activities, financial results,
+forecasts, and plans for the segment.
+
+Teradyne evaluates performance based on several factors, of which the primary financial measure is business segment income (loss)
+before income taxes. The accounting policies of the business segments in effect are described in Note B: “Accounting Policies” in Teradyne’s
+Annual Report on Form 10-K for the year ended December 31, 2020.
+
+Segment information for the three and six months ended July 4, 2021 and June 28, 2020 is as follows:
+
+
+#### Semiconductor
+
+
+#### Test
+
+
+#### System
+
+
+#### Test
+
+Industrial
+Automation
+
+
+#### Wireless
+
+
+#### Test
+
+
+#### Corporate
+
+and
+Other
+  
+Consolidated 
+ 
+  
+(in thousands)
+
+Three Months Ended July 4, 2021
+    
+     
+     
+  
+  
+     
+  
+  
+ 
+Revenues
+  $
+833,976   $104,819   $
+92,186  
+$ 54,893   $
+(146)  
+$ 1,085,728 
+Income (loss) before income taxes (1)(2)
+   
+337,302    
+33,954    
+(9,837)  
+ 
+21,472    
+1,135  
+ 
+384,026 
+Total assets (3)
+   
+1,518,941    146,296    
+687,022  
+ 117,702    1,530,961  
+ 4,000,922
+
+Three Months Ended June 28, 2020
+    
+     
+     
+  
+  
+     
+  
+  
+ 
+Revenues
+  $
+659,147   $ 71,806   $
+58,776  
+$ 49,185   $
+(253)  
+$
+838,661 
+Income (loss) before income taxes (1)(2)
+   
+228,787    
+19,193    
+(11,403)  
+ 
+14,482    
+(33,768)  
+ 
+217,291 
+Total assets (3)
+   
+1,192,355    126,164    
+662,103  
+ 108,066    1,160,501  
+ 3,249,189
+
+Six Months Ended July 4, 2021
+    
+     
+     
+  
+  
+     
+  
+  
+ 
+Revenues
+  $
+1,362,039   $237,656   $ 172,137  
+$ 95,791   $
+(289)  
+$ 1,867,334 
+Income (loss) before income taxes (1)(2)
+   
+513,670    
+85,015    
+(22,804)  
+ 
+31,088    
+1,050  
+ 
+608,019 
+Total assets (3)
+   
+1,518,941    146,296    
+687,022  
+ 117,702    1,530,961  
+ 4,000,922
+
+Six Months Ended June 28, 2020
+    
+     
+     
+  
+  
+     
+  
+  
+ 
+Revenues
+  $
+1,143,636   $187,882   $ 119,081  
+$ 92,670   $
+(253)  
+$ 1,543,016 
+Income (loss) before income taxes (1)(2)
+   
+382,603    
+67,600    
+(26,738)  
+ 
+24,702    
+(33,808)  
+ 
+414,359 
+Total assets (3)
+   
+1,192,355    126,164    
+662,103  
+ 108,066    1,160,501  
+ 3,249,189 
+ 
+(1)
+Included in Corporate and Other are: contingent consideration adjustments, loss on convertible debt conversions, interest income,
+interest expense, net foreign exchange gains (losses), pension, intercompany eliminations and acquisition related: (a) charges; (b) legal
+fees; (c) compensation.
+(2)
+Included in income (loss) before taxes are charges and credits related to restructuring and other, loss on convertible debt conversions
+and inventory charges.
+(3)
+Total assets are attributable to each segment. Corporate assets consist of cash and cash equivalents, marketable securities and certain
+other assets.
+
+
+#### 24
+
+
+## Page 28
+
+### Table 28.1
+
+| Semiconductor Test: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 28.2
+
+| Restructuring and other - contract termination settlement charge |  |  | — |  |  | 4,000 |  |  |  | — |  |  |  | 4,000 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 28.3
+
+| Restructuring and other - acquisition related expenses and compensation |  | $ | — |  | $ | — |  |  | $ | 550 |  |  | $ | 790 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 28.4
+
+| Wireless: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 28.5
+
+| Corporate and Other: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 28.6
+
+| Other (income) expense, net - loss on convertible debt conversion |  |  | 1,175 |  |  | — |  |  |  | 5,244 |  |  |  | — |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 28.7
+
+| Restructuring and other - acquisition related expenses and compensation |  |  | — |  |  | 2,974 |  |  |  | (513 | ) |  |  | 3,715 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Included in each segment are charges and credits in the following line items in the statements of operations:
+
+
+#### For the Three Months
+
+
+#### Ended
+
+
+#### For the Six Months
+
+
+#### Ended
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+
+#### 2020
+
+
+#### July 4,
+
+
+#### 2021
+
+
+#### June 28,
+
+2020
+ 
+ 
+  
+(in thousands)
+ 
+Semiconductor Test:
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Cost of revenues - inventory charge
+  
+$
+—      
+$
+3,799   
+$ 1,234   
+$ 6,825 
+Restructuring and other - contract termination settlement charge
+  
+ 
+—      
+ 
+4,000   
+ 
+—      
+ 
+4,000 
+Industrial Automation:
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Restructuring and other - acquisition related expenses and compensation
+  
+$
+—      
+$
+—      
+$
+550   
+$
+790 
+Cost of revenues - inventory charge
+  
+ 
+—      
+ 
+—      
+ 1,285   
+ 
+—    
+Wireless:
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Cost of revenues - inventory charge
+  
+$
+—      
+$
+1,582   
+$
+672   
+$ 2,155 
+Corporate and Other:
+  
+  
+   
+  
+   
+  
+   
+  
+ 
+Restructuring and other - other
+  
+$ 1,700   
+$
+750   
+$ 1,846   
+$
+750 
+Other (income) expense, net - loss on convertible debt conversion
+  
+ 1,175   
+ 
+—      
+ 5,244   
+ 
+—    
+Restructuring and other - AutoGuide contingent consideration adjustment
+  
+ 
+—      
+ 
+29,927   
+ (7,227)   
+ 22,785 
+Restructuring and other - acquisition related expenses and compensation
+  
+ 
+—      
+ 
+2,974   
+ 
+(513)   
+ 
+3,715 
+Restructuring and other - MiR contingent consideration adjustment
+  
+ 
+—      
+ 
+(668)   
+ 
+—      
+ (3,546)
+
+
+### U. SHAREHOLDERS’ EQUITY
+
+
+#### Stock Repurchase Program
+
+In January 2021, Teradyne’s Board of Directors cancelled the January 2020 repurchase program and approved a new repurchase
+program for up to $2.0 billion of common stock. Teradyne intends to repurchase a minimum of $ 600 million in 2021.
+
+During the six months ended July 4, 2021, Teradyne repurchased 1.6 million shares of common stock for $196.6 million at an average
+price of $125.69 per share. During the six months ended June 28, 2020, Teradyne repurchased 1.5 million shares of common stock for $88.5
+million at an average price of $58.33 per share.
+
+The total price includes commissions and is recorded as a reduction to retained earnings.
+
+
+#### Dividend
+
+Holders of Teradyne’s common stock are entitled to receive dividends when they are declared by Teradyne’s Board of Directors.
+
+In January and May 2021 and 2020, Teradyne’s Board of Directors declared a quarterly cash dividend of $ 0.10 per share. Dividend
+payments for each of the three and six months ended July 4, 2021 and June 28, 2020 were $16.6 million and $33.3 million, respectively.
+
+While Teradyne declared a quarterly cash dividend and authorized a share repurchase program, it may reduce or eliminate the cash
+dividend or share repurchase program in the future. Future cash dividends and stock repurchases are subject to the discretion of Teradyne’s
+Board of Directors, which will consider, among other things, Teradyne’s earnings, capital requirements and financial condition.
+
+
+#### 25
+
+
+## Page 29
+
+
+#### Table of Contents
+
+Item 2:
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Statements in this Quarterly Report on Form 10-Q which are not historical facts, so called “forward-looking statements,” are made
+pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended. Investors are cautioned that all
+forward-looking statements involve risks and uncertainties, including those detailed in our filings with the Securities and Exchange
+Commission. See also Part II, Item 1A of this Quarterly Report on Form 10-Q and Part I, Item 1A “Risk Factors” in our Annual Report on Form
+10-K for the year ended December 31, 2020. Readers are cautioned not to place undue reliance on these forward-looking statements which
+reflect management’s analysis only as of the date hereof. We assume no obligation to update these forward-looking statements to reflect
+actual results or changes in factors or assumptions affecting forward-looking statements, except as may be required by law.
+
+
+#### Overview
+
+We are a leading global supplier of automation equipment for test and industrial applications. We design, develop, manufacture and sell
+automatic test systems used to test semiconductors, wireless products, data storage and complex electronics systems in many industries
+including the consumer electronics, wireless, automotive, industrial, computing, communications, and aerospace and defense industries. Our
+industrial automation products include collaborative robotic arms, autonomous mobile robots (“AMRs”) and advanced robotic control software
+used by global manufacturing, logistics and light industrial customers to improve quality, increase manufacturing and material handling
+efficiency and decrease manufacturing and logistics costs. Our automatic test equipment and industrial automation products and services
+include:
+ 
+ 
+•
+ semiconductor test (“Semiconductor Test”) systems;
+
+•
+ storage and system level test (“Storage Test”) systems, defense/aerospace (“Defense/Aerospace”) test instrumentation and
+
+systems and circuit-board test and inspection (“Production Board Test”) systems (collectively these products represent
+“System Test”);
+ 
+ 
+•
+ wireless test (“Wireless Test”) systems; and
+ 
+ 
+•
+ industrial automation (“Industrial Automation”) products.
+
+The market for our test products is concentrated with a limited number of significant customers accounting for a substantial portion of the
+purchases of test equipment. A few customers drive significant demand for our test products both through direct sales and sales to the
+customers’ supply partners. We expect that sales of our test products will continue to be concentrated with a limited number of significant
+customers for the foreseeable future.
+
+Industrial Automation segment consists of Universal Robots A/S (“UR”), a leading supplier of collaborative robotic arms, Mobile Industrial
+Robots A/S (“MiR”), a leading maker of AMRs for industrial applications and AutoGuide, LLC (“AutoGuide”), a maker of high payload AMRs.
+The market for our industrial automation segment products is dependent on the adoption of new automation technologies by large
+manufacturers as well as small and medium enterprises (SMEs) throughout the world.
+
+Our strategy is to focus on profitably growing market share in our test businesses, the introduction of differentiated products that target
+growth segments, and accelerating growth through continued investment in our Industrial Automation businesses. We plan to execute on our
+strategy while balancing capital allocations between returning capital to our shareholders through dividends and stock repurchases and using
+capital for opportunistic acquisitions.
+
+
+#### Impact of the COVID-19 Pandemic on our Business
+
+The novel coronavirus (COVID-19) pandemic resulted in government authorities implementing numerous measures in an effort to
+contain the spread of the virus, such as travel bans and restrictions, limitations on gatherings or social distancing requirements, quarantines,
+shelter-in-place orders, and business limitations and shutdowns. These measures have impacted our day-to-day operations and disrupted our
+business, workforce and operations, as well as the operations of our customers, contract manufacturers and suppliers. We are continuing to
+monitor the rapidly evolving situation regarding the COVID-19 pandemic and the availability and impact of vaccinations globally. However, we
+are unable to accurately predict the full impact of COVID-19, which will depend on future developments that are highly uncertain and cannot
+be predicted with accuracy, including, but not limited to, any new surges in areas where we do business, the availability of vaccinations, any
+further government actions to contain the virus or treat its impact, and how quickly and to what extent normal economic and operating
+conditions can resume.
+
+
+#### 26
+
+
+## Page 30
+
+
+#### Table of Contents
+
+
+#### Health and Safety
+
+In response to the COVID-19 pandemic, we have taken proactive, aggressive action to protect the health and safety of our employees,
+customers, contract manufacturers and suppliers and we have complied with all government orders around the globe. The spread of COVID-
+19 has caused us to modify our business practices, including implementing social distancing protocols, suspending employee travel, requiring
+most employees to work remotely, cancelling physical participation in meetings, and extensively and frequently disinfecting our workspaces.
+Around the world, many of our employees are working from home. However, some of our engineering, operations, supply line and customer
+support teams must be on-site at our or our customers’ facilities. We are providing those on-site employees with the necessary protective
+resources and procedures to minimize their exposure risk. We may take further actions as may be required or recommended by government
+authorities or that we determine are in the best interests of our employees, customers, contract manufacturers and suppliers.
+
+
+#### Operations
+
+We believe the COVID-19 pandemic, and the numerous measures implemented by authorities in response, has adversely impacted our
+results of operations, including by increasing costs, but we cannot accurately estimate the amount of the impact to our second quarter of 2021
+financial results or to our future financial results. In addition, the pandemic has disrupted our contract manufacturers and suppliers, and has
+resulted in some instances in short-term cost increases to meet customer demand. While the duration and severity of the pandemic may
+further impact our workforce and operations, as well as those of our customers, contract manufacturers and suppliers, we expect that our
+manufacturing facilities will remain operational, at sufficient capacity to support production demand. We are monitoring our operations closely
+in an effort to avoid any potential productivity loss caused by responses to the COVID-19 pandemic.
+
+
+#### Supply
+
+We have not experienced any significant impacts or interruptions to our supply chain as a result of the COVID-19 pandemic. However,
+our suppliers have faced and may continue to face difficulties maintaining operations in light of government-ordered restrictions, including
+social distancing requirements and shelter-in-place mandates. Our supply chain team, and our suppliers, overcame numerous supply,
+production, and logistics obstacles in 2020 and the first half of 2021, but there is no assurance we or they will be able to do so in the future.
+Although we regularly monitor the financial health of companies in our supply chain, financial hardship on our suppliers or sub-suppliers
+caused by the COVID-19 pandemic could disrupt our ability to obtain components required to manufacture our products, adversely affecting
+our operations and in some instances result in higher costs and delays, both for obtaining components and shipping finished goods to
+customers, which could harm our profitability, make our products less competitive, or cause our customers to seek alternative suppliers.
+
+
+#### Demand
+
+The COVID-19 pandemic has significantly increased economic uncertainty in our markets. Demand for our Test products was strong
+throughout 2020 and in the first half of 2021. Our Industrial Automation business, however, experienced a significant decline in demand
+through the first half of 2020 due to COVID-19 related shutdowns affecting global manufacturing but demand recovered in the second half of
+2020 from the low point in the second quarter and continued to recover in the first half of 2021. The COVID-19 pandemic could cause further
+global economic disruption that could cause demand for our products to decline, which would adversely affect our business.
+
+
+#### Liquidity
+
+Although there is continued uncertainty related to the impact of the COVID-19 pandemic on our future results, we believe our business
+model and our current cash reserves leave us well-positioned to manage our business through this crisis. We have a strong balance sheet as
+well as an operating model that we believe is capable of flexing up and down with extreme demand swings while still remaining profitable.
+Based on our analysis, we believe our existing balances of cash and cash equivalents and our currently anticipated operating cash flows will
+be sufficient to meet our working capital needs and other capital and liquidity requirements for the next twelve months. However, due to the
+uncertainty related to the future impact of the COVID-19 pandemic, in order to bolster our liquidity position, on May 1, 2020 we entered into a
+credit agreement providing for a three-year, senior secured revolving credit facility of $400 million as further described in Note H: “Debt.” As of
+August 6, 2021, we have not borrowed any funds under the credit facility.
+
+We are continuing to monitor the evolving situation regarding the COVID-19 pandemic, the availability of vaccinations where we do
+business and guidance from government authorities around the world. In these circumstances, there may be developments outside our control
+requiring us to adjust our operating plan. As a result, given the uncertain nature of this situation, we are not able to accurately predict the full
+extent of the impact of COVID-19 on our business, financial condition, results of operations, liquidity, or cash flows in the future. In addition,
+see Part II—Item 1A, “Risk Factors,” included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2020 for our risk
+factors regarding risks associated with the COVID-19 pandemic.
+
+
+#### 27

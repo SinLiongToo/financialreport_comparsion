@@ -1,0 +1,259 @@
+{
+  "company_name": "Advanced Micro Devices, Inc. (AMD)",
+  "ticker": "AMD",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 9763,
+      "gross_profit": 4347,
+      "operating_income": 1369,
+      "net_income": 2490,
+      "rd_expense": 1983,
+      "headcount": 12600,
+      "gross_margin": 44.52,
+      "operating_margin": 14.02,
+      "net_margin": 25.5,
+      "rd_pct_rev": 20.31,
+      "rev_per_emp": 774841.0,
+      "gp_per_emp": 345000.0,
+      "op_per_emp": 108651.0,
+      "ni_per_emp": 197619.0,
+      "rd_per_emp": 157381.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 16434,
+      "gross_profit": 7929,
+      "operating_income": 3648,
+      "net_income": 3162,
+      "rd_expense": 2845,
+      "headcount": 15500,
+      "gross_margin": 48.25,
+      "operating_margin": 22.2,
+      "net_margin": 19.24,
+      "rd_pct_rev": 17.31,
+      "rev_per_emp": 1060258.0,
+      "gp_per_emp": 511548.0,
+      "op_per_emp": 235355.0,
+      "ni_per_emp": 204000.0,
+      "rd_per_emp": 183548.0,
+      "rev_growth_yoy": 68.33,
+      "gp_growth_yoy": 82.4,
+      "op_growth_yoy": 166.47,
+      "ni_growth_yoy": 26.99,
+      "rd_growth_yoy": 43.47,
+      "hc_growth_yoy": 23.02,
+      "gm_diff_pp": 3.73,
+      "op_diff_pp": 8.18
+    },
+    "2022": {
+      "revenue": 23601,
+      "gross_profit": 10603,
+      "operating_income": 1264,
+      "net_income": 1320,
+      "rd_expense": 5005,
+      "headcount": 25000,
+      "gross_margin": 44.93,
+      "operating_margin": 5.36,
+      "net_margin": 5.59,
+      "rd_pct_rev": 21.21,
+      "rev_per_emp": 944040.0,
+      "gp_per_emp": 424120.0,
+      "op_per_emp": 50560.0,
+      "ni_per_emp": 52800.0,
+      "rd_per_emp": 200200.0,
+      "rev_growth_yoy": 43.61,
+      "gp_growth_yoy": 33.72,
+      "op_growth_yoy": -65.35,
+      "ni_growth_yoy": -58.25,
+      "rd_growth_yoy": 75.92,
+      "hc_growth_yoy": 61.29,
+      "gm_diff_pp": -3.32,
+      "op_diff_pp": -16.84
+    },
+    "2023": {
+      "revenue": 22680,
+      "gross_profit": 10444,
+      "operating_income": 401,
+      "net_income": 854,
+      "rd_expense": 5872,
+      "headcount": 26000,
+      "gross_margin": 46.05,
+      "operating_margin": 1.77,
+      "net_margin": 3.77,
+      "rd_pct_rev": 25.89,
+      "rev_per_emp": 872308.0,
+      "gp_per_emp": 401692.0,
+      "op_per_emp": 15423.0,
+      "ni_per_emp": 32846.0,
+      "rd_per_emp": 225846.0,
+      "rev_growth_yoy": -3.9,
+      "gp_growth_yoy": -1.5,
+      "op_growth_yoy": -68.28,
+      "ni_growth_yoy": -35.3,
+      "rd_growth_yoy": 17.32,
+      "hc_growth_yoy": 4.0,
+      "gm_diff_pp": 1.12,
+      "op_diff_pp": -3.59
+    },
+    "2024": {
+      "revenue": 25785,
+      "gross_profit": 13280,
+      "operating_income": 2043,
+      "net_income": 1850,
+      "rd_expense": 6378,
+      "headcount": 26500,
+      "gross_margin": 51.5,
+      "operating_margin": 7.92,
+      "net_margin": 7.17,
+      "rd_pct_rev": 24.74,
+      "rev_per_emp": 973019.0,
+      "gp_per_emp": 501132.0,
+      "op_per_emp": 77094.0,
+      "ni_per_emp": 69811.0,
+      "rd_per_emp": 240679.0,
+      "rev_growth_yoy": 13.69,
+      "gp_growth_yoy": 27.15,
+      "op_growth_yoy": 409.48,
+      "ni_growth_yoy": 116.63,
+      "rd_growth_yoy": 8.62,
+      "hc_growth_yoy": 1.92,
+      "gm_diff_pp": 5.45,
+      "op_diff_pp": 6.15
+    },
+    "2025": {
+      "revenue": 34500,
+      "gross_profit": 18630,
+      "operating_income": 5175,
+      "net_income": 4650,
+      "rd_expense": 7500,
+      "headcount": 27000,
+      "gross_margin": 54.0,
+      "operating_margin": 15.0,
+      "net_margin": 13.48,
+      "rd_pct_rev": 21.74,
+      "rev_per_emp": 1277778.0,
+      "gp_per_emp": 690000.0,
+      "op_per_emp": 191667.0,
+      "ni_per_emp": 172222.0,
+      "rd_per_emp": 277778.0,
+      "rev_growth_yoy": 33.8,
+      "gp_growth_yoy": 40.29,
+      "op_growth_yoy": 153.3,
+      "ni_growth_yoy": 151.35,
+      "rd_growth_yoy": 17.59,
+      "hc_growth_yoy": 1.89,
+      "gm_diff_pp": 2.5,
+      "op_diff_pp": 7.08
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Data Center (EPYC / Instinct MI300)",
+      "Client (Ryzen CPUs)",
+      "Gaming (Radeon / Console SoCs)",
+      "Embedded (Xilinx FPGA)"
+    ],
+    "colors": [
+      "#DC2626",
+      "#F97316",
+      "#FBBF24",
+      "#4B5563"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          12579,
+          4837,
+          3687,
+          4682
+        ],
+        "volume": [
+          1100,
+          2400,
+          1800,
+          950
+        ]
+      },
+      "2025": {
+        "value": [
+          19500,
+          6200,
+          4100,
+          4700
+        ],
+        "volume": [
+          1600,
+          2700,
+          1900,
+          980
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce scaled to ~26,500 FTEs following Xilinx integration. Data Center AI GPU accelerator (Instinct MI300/MI325) ramp expanded gross margins past 51.5%-54.0%.",
+      "productivity": "Revenue per FTE reached $973K with gross profit per employee at $501K, proving compounding operational leverage in datacenter compute.",
+      "leverage": "Operating income rebounded sharply to $2.04B in 2024 and $5.18B in 2025 as enterprise and AI datacenter mix expanded.",
+      "rd": "R&D investment scaled past $6.38B-$7.50B (24.7% of revenue) accelerating next-generation ROCm software and Zen 5 / RDNA 4 architectures.",
+      "growth": "Data Center segment revenue surged over 100%+ YoY driven by generative AI demand.",
+      "breakdown": "Data Center represents over 56% of total revenue value, leading AMD's transformation into an AI computing titan."
+    },
+    "zh": {
+      "pivot": "完成賽靈思 (Xilinx) 整合後全球員工規模穩定於 2.65 萬人，資料中心 Instinct MI300 AI 晶片量產推升毛利率突破 51.5%-54.0%。",
+      "productivity": "人均營收達 $973K/人，人均毛利達 $501K/人，展現資料中心高效能運算之高槓桿回報。",
+      "leverage": "營業利益在 2024 年回升至 $2.04B 並於 2025 年攀升至 $5.18B，受惠於 AI 伺服器高毛利營收組合。",
+      "rd": "研發支出擴大至 $6.38B-$7.50B（佔營收 24.7%），全面推進 ROCm 開源生態系與 Zen 5 微架構。",
+      "growth": "資料中心事業部在生成式 AI 帶動下呈現三位數百分比年增長。",
+      "breakdown": "資料中心佔據超過 56% 總產值，成為推動 AMD 轉型為 AI 算力巨頭的核心引擎。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Fabless Design SOP",
+        "desc": "Standard fabless chip design flows."
+      },
+      {
+        "level": 2,
+        "name": "CoWoS & Chiplet Advanced Packaging",
+        "desc": "Multi-die modular packaging synchronization with TSMC."
+      },
+      {
+        "level": 3,
+        "name": "ROCm Open Ecosystem Acceleration",
+        "desc": "Automated open-source ML framework integration."
+      },
+      {
+        "level": 4,
+        "name": "Hyperscale AI Cluster Orchestration",
+        "desc": "End-to-end multi-node MI300X deployment validation."
+      },
+      {
+        "level": 5,
+        "name": "Global AI Computing Benchmark",
+        "desc": "Compounding operational excellence with (1.01)^365 = 37.8x execution."
+      }
+    ]
+  }
+}

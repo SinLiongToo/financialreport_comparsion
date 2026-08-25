@@ -1,0 +1,265 @@
+{
+  "company_name": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 386064,
+      "gross_profit": 152757,
+      "operating_income": 22899,
+      "net_income": 21331,
+      "rd_expense": 42740,
+      "headcount": 1298000,
+      "gross_margin": 39.57,
+      "operating_margin": 5.93,
+      "net_margin": 5.53,
+      "rd_pct_rev": 11.07,
+      "rev_per_emp": 297430.0,
+      "gp_per_emp": 117686.0,
+      "op_per_emp": 17642.0,
+      "ni_per_emp": 16434.0,
+      "rd_per_emp": 32928.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 469822,
+      "gross_profit": 197478,
+      "operating_income": 24879,
+      "net_income": 33364,
+      "rd_expense": 56052,
+      "headcount": 1608000,
+      "gross_margin": 42.03,
+      "operating_margin": 5.3,
+      "net_margin": 7.1,
+      "rd_pct_rev": 11.93,
+      "rev_per_emp": 292178.0,
+      "gp_per_emp": 122810.0,
+      "op_per_emp": 15472.0,
+      "ni_per_emp": 20749.0,
+      "rd_per_emp": 34858.0,
+      "rev_growth_yoy": 21.7,
+      "gp_growth_yoy": 29.28,
+      "op_growth_yoy": 8.65,
+      "ni_growth_yoy": 56.41,
+      "rd_growth_yoy": 31.15,
+      "hc_growth_yoy": 23.88,
+      "gm_diff_pp": 2.46,
+      "op_diff_pp": -0.63
+    },
+    "2022": {
+      "revenue": 513983,
+      "gross_profit": 225152,
+      "operating_income": 12248,
+      "net_income": -2722,
+      "rd_expense": 73213,
+      "headcount": 1541000,
+      "gross_margin": 43.81,
+      "operating_margin": 2.38,
+      "net_margin": -0.53,
+      "rd_pct_rev": 14.24,
+      "rev_per_emp": 333539.0,
+      "gp_per_emp": 146108.0,
+      "op_per_emp": 7948.0,
+      "ni_per_emp": -1766.0,
+      "rd_per_emp": 47510.0,
+      "rev_growth_yoy": 9.4,
+      "gp_growth_yoy": 14.01,
+      "op_growth_yoy": -50.77,
+      "ni_growth_yoy": -108.16,
+      "rd_growth_yoy": 30.62,
+      "hc_growth_yoy": -4.17,
+      "gm_diff_pp": 1.78,
+      "op_diff_pp": -2.92
+    },
+    "2023": {
+      "revenue": 574785,
+      "gross_profit": 270046,
+      "operating_income": 36852,
+      "net_income": 30425,
+      "rd_expense": 85622,
+      "headcount": 1525000,
+      "gross_margin": 46.98,
+      "operating_margin": 6.41,
+      "net_margin": 5.29,
+      "rd_pct_rev": 14.9,
+      "rev_per_emp": 376908.0,
+      "gp_per_emp": 177079.0,
+      "op_per_emp": 24165.0,
+      "ni_per_emp": 19951.0,
+      "rd_per_emp": 56146.0,
+      "rev_growth_yoy": 11.83,
+      "gp_growth_yoy": 19.94,
+      "op_growth_yoy": 200.88,
+      "ni_growth_yoy": -1217.74,
+      "rd_growth_yoy": 16.95,
+      "hc_growth_yoy": -1.04,
+      "gm_diff_pp": 3.17,
+      "op_diff_pp": 4.03
+    },
+    "2024": {
+      "revenue": 638000,
+      "gross_profit": 309430,
+      "operating_income": 60000,
+      "net_income": 48500,
+      "rd_expense": 91000,
+      "headcount": 1530000,
+      "gross_margin": 48.5,
+      "operating_margin": 9.4,
+      "net_margin": 7.6,
+      "rd_pct_rev": 14.26,
+      "rev_per_emp": 416993.0,
+      "gp_per_emp": 202242.0,
+      "op_per_emp": 39216.0,
+      "ni_per_emp": 31699.0,
+      "rd_per_emp": 59477.0,
+      "rev_growth_yoy": 11.0,
+      "gp_growth_yoy": 14.58,
+      "op_growth_yoy": 62.81,
+      "ni_growth_yoy": 59.41,
+      "rd_growth_yoy": 6.28,
+      "hc_growth_yoy": 0.33,
+      "gm_diff_pp": 1.52,
+      "op_diff_pp": 2.99
+    },
+    "2025": {
+      "revenue": 710000,
+      "gross_profit": 351450,
+      "operating_income": 72000,
+      "net_income": 58000,
+      "rd_expense": 98000,
+      "headcount": 1550000,
+      "gross_margin": 49.5,
+      "operating_margin": 10.14,
+      "net_margin": 8.17,
+      "rd_pct_rev": 13.8,
+      "rev_per_emp": 458065.0,
+      "gp_per_emp": 226742.0,
+      "op_per_emp": 46452.0,
+      "ni_per_emp": 37419.0,
+      "rd_per_emp": 63226.0,
+      "rev_growth_yoy": 11.29,
+      "gp_growth_yoy": 13.58,
+      "op_growth_yoy": 20.0,
+      "ni_growth_yoy": 19.59,
+      "rd_growth_yoy": 7.69,
+      "hc_growth_yoy": 1.31,
+      "gm_diff_pp": 1.0,
+      "op_diff_pp": 0.74
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Online & Physical Stores",
+      "Third-Party Seller Services",
+      "AWS (Cloud)",
+      "Advertising Services",
+      "Subscription & Other"
+    ],
+    "colors": [
+      "#FF9900",
+      "#146EB4",
+      "#232F3E",
+      "#00A8E1",
+      "#5271FF"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          275000,
+          155000,
+          107000,
+          56000,
+          45000
+        ],
+        "volume": [
+          43,
+          24,
+          17,
+          9,
+          7
+        ]
+      },
+      "2025": {
+        "value": [
+          298000,
+          175000,
+          125000,
+          64000,
+          48000
+        ],
+        "volume": [
+          42,
+          25,
+          18,
+          9,
+          6
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Regionalized fulfillment network reduced cost-to-serve while AWS and Advertising expanded corporate gross margin from 42.0% to 48.5%.",
+      "productivity": "Revenue per FTE reached $417K across 1.53M global workforce, with warehouse robotics and automation driving compounding labor efficiency.",
+      "leverage": "Operating income skyrocketed from $12.2B in 2022 to $60B in 2024 and expanding past $72B in 2025 (10.1% margin).",
+      "rd": "Technology & Content investment scaled to $91B-$98B, powering AWS Bedrock generative AI, Trainium 2 silicon, and robotics automation.",
+      "growth": "AWS re-accelerated to ~19% YoY growth while High-Margin Advertising grew >24% YoY.",
+      "breakdown": "AWS and Advertising contribute >65% of total corporate operating profit despite representing ~26% of revenue."
+    },
+    "zh": {
+      "pivot": "物流區域化改革大幅降低單件履約成本，結合 AWS 與高毛利廣告業務，將集團毛利率由 42.0% 推升至 48.5%。",
+      "productivity": "全球 153 萬員工之人均營收提升至 41.7 萬美元/人，倉儲機器人與 AI 排程顯著推升生產力。",
+      "leverage": "營業利益由 2022 年低谷的 122 億美元爆發至 2024 年的 600 億美元，2025 年邁向 720 億美元（營業利益率突破 10.1%）。",
+      "rd": "技術與內容研發投資達 910 億-980 億美元，全面擴建 AWS Bedrock 生成式 AI 平台與 Trainium 2 自研晶片。",
+      "growth": "AWS 營收年增率重回接近 19%，高毛利廣告業務維持 >24% 高速成長。",
+      "breakdown": "AWS 雲端與數位廣告合計貢獻超過 65% 的營業利潤，為集團核心造血引擎。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 5,
+    "levels": [
+      {
+        "level": 1,
+        "name": "National Monolithic Fulfillment",
+        "desc": "Standard central warehouse picking and ground shipping."
+      },
+      {
+        "level": 2,
+        "name": "Kiva Automated Guided Vehicles (AGV)",
+        "desc": "Automated warehouse grid transport and barcode telemetry."
+      },
+      {
+        "level": 3,
+        "name": "Regionalized Inbound Architecture",
+        "desc": "8-region decoupled logistics nodes with localized inventory placement."
+      },
+      {
+        "level": 4,
+        "name": "Robotics (Proteus/Sparrow) & AWS Trainium AI",
+        "desc": "Autonomous mobile robotics, custom silicon inference, and Bedrock foundational workflows."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Global Commerce & Cloud Superstructure",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding supply chain velocity."
+      }
+    ]
+  }
+}

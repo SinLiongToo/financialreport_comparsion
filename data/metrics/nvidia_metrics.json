@@ -1,6 +1,6 @@
 {
   "company_name": "NVIDIA Corporation",
-  "ticker": "NVIDIA",
+  "ticker": "NVDA",
   "currency": "USD (Millions)",
   "unit": "$M",
   "years": [
@@ -19,7 +19,7 @@
       "net_income": 4332,
       "rd_expense": 3924,
       "headcount": 18975,
-      "gross_margin": 62.82,
+      "gross_margin": 62.8,
       "operating_margin": 27.18,
       "net_margin": 25.98,
       "rd_pct_rev": 23.53,
@@ -44,7 +44,7 @@
       "net_income": 9752,
       "rd_expense": 5268,
       "headcount": 22473,
-      "gross_margin": 64.93,
+      "gross_margin": 64.9,
       "operating_margin": 37.31,
       "net_margin": 36.23,
       "rd_pct_rev": 19.57,
@@ -59,7 +59,7 @@
       "ni_growth_yoy": 125.12,
       "rd_growth_yoy": 34.25,
       "hc_growth_yoy": 18.43,
-      "gm_diff_pp": 2.11,
+      "gm_diff_pp": 2.1,
       "op_diff_pp": 10.13
     },
     "2023": {
@@ -69,7 +69,7 @@
       "net_income": 4368,
       "rd_expense": 7339,
       "headcount": 26196,
-      "gross_margin": 56.93,
+      "gross_margin": 56.9,
       "operating_margin": 15.66,
       "net_margin": 16.19,
       "rd_pct_rev": 27.21,
@@ -94,7 +94,7 @@
       "net_income": 29760,
       "rd_expense": 8675,
       "headcount": 29600,
-      "gross_margin": 72.72,
+      "gross_margin": 72.7,
       "operating_margin": 54.12,
       "net_margin": 48.85,
       "rd_pct_rev": 14.24,
@@ -109,7 +109,7 @@
       "ni_growth_yoy": 581.32,
       "rd_growth_yoy": 18.2,
       "hc_growth_yoy": 12.99,
-      "gm_diff_pp": 15.79,
+      "gm_diff_pp": 15.8,
       "op_diff_pp": 38.46
     },
     "2025": {
@@ -134,7 +134,7 @@
       "ni_growth_yoy": 141.33,
       "rd_growth_yoy": 44.09,
       "hc_growth_yoy": 8.11,
-      "gm_diff_pp": 3.28,
+      "gm_diff_pp": 3.3,
       "op_diff_pp": 8.88
     },
     "2026": {
@@ -177,12 +177,40 @@
       "#EAB308"
     ],
     "data": {
+      "2021": {
+        "value": [
+          6696,
+          7759,
+          1053,
+          1167
+        ],
+        "volume": [
+          80,
+          2100,
+          260,
+          110
+        ]
+      },
+      "2022": {
+        "value": [
+          10613,
+          12462,
+          2110,
+          1729
+        ],
+        "volume": [
+          95,
+          2400,
+          290,
+          130
+        ]
+      },
       "2023": {
         "value": [
           15014,
           9067,
           1544,
-          903
+          1350
         ],
         "volume": [
           120,
@@ -196,7 +224,7 @@
           47405,
           10447,
           1553,
-          1091
+          1517
         ],
         "volume": [
           450,
@@ -210,7 +238,7 @@
           110000,
           11500,
           2300,
-          1700
+          2200
         ],
         "volume": [
           1100,
@@ -224,7 +252,7 @@
           158000,
           13000,
           3200,
-          2800
+          5800
         ],
         "volume": [
           1650,

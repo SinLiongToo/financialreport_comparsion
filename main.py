@@ -13,10 +13,14 @@ def main():
     parser.add_argument("--max-pages", type=int, default=40, help="Max pages per PDF to convert to Markdown")
     parser.add_argument("--serve", "-s", action="store_true", help="Launch the Flask Web Dashboard")
     parser.add_argument("--port", "-p", type=int, default=5000, help="Port for web dashboard")
+    parser.add_argument("--export-static", action="store_true", help="Export standalone HTML for GitHub Pages and offline use")
 
     args = parser.parse_args()
 
-    if args.serve:
+    if args.export_static:
+        from export_standalone import export_standalone
+        export_standalone()
+    elif args.serve:
         from app import app
         print(f"\n🚀 Starting Web Dashboard on http://127.0.0.1:{args.port}...")
         app.run(host="0.0.0.0", port=args.port, debug=False)

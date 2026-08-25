@@ -19,15 +19,42 @@ let ACTIVE_VIEW = "single"; // "single" | "compare"
 const COMPANY_COLORS = {
     "asml": "#00A3E0",
     "tsmc": "#EF4444",
-    "nvda": "#22C55E",
-    "nxp": "#F59E0B",
-    "nxpi": "#F59E0B",
-    "vsh": "#8B5CF6",
-    "vishay": "#8B5CF6",
-    "amat": "#EC4899"
+    "nvda": "#10B981",
+    "googl": "#3B82F6",
+    "google": "#3B82F6",
+    "aapl": "#CBD5E1",
+    "apple": "#CBD5E1",
+    "amd": "#F43F5E",
+    "mu": "#38BDF8",
+    "micron": "#38BDF8",
+    "klac": "#F59E0B",
+    "kla": "#F59E0B",
+    "ter": "#818CF8",
+    "teradyne": "#818CF8",
+    "ase": "#14B8A6",
+    "asx": "#14B8A6",
+    "3711": "#14B8A6",
+    "nxp": "#FB923C",
+    "nxpi": "#FB923C",
+    "vsh": "#A855F7",
+    "vishay": "#A855F7",
+    "msft": "#0284C7",
+    "microsoft": "#0284C7",
+    "amat": "#EC4899",
+    "applied-materials": "#EC4899",
+    "meta": "#6366F1",
+    "meta-platforms": "#6366F1",
+    "amazon": "#F97316",
+    "amzn": "#F97316",
+    "palantir": "#06B6D4",
+    "pltr": "#06B6D4",
+    "advantest": "#E11D48",
+    "6857": "#E11D48",
+    "samsung": "#60A5FA",
+    "005930": "#60A5FA"
 };
 
-const DEFAULT_PALETTE = ["#00A3E0", "#EF4444", "#22C55E", "#F59E0B", "#8B5CF6", "#EC4899", "#14B8A6", "#3B82F6"];
+const DEFAULT_PALETTE = ["#00A3E0", "#EF4444", "#10B981", "#F59E0B", "#A855F7", "#EC4899", "#14B8A6", "#3B82F6", "#F97316", "#06B6D4", "#E11D48", "#818CF8", "#38BDF8"];
 
 const I18N_DICT = {
     en: {
@@ -93,7 +120,11 @@ const I18N_DICT = {
         compare_chart4_desc: "Reinvestment intensity: Highlighting R&D allocation to pioneer next-generation architectures (High-NA EUV, 2nm, Blackwell, SDV).",
         compare_table_title: "Cross-Company Peer Benchmark Matrix (Latest Audited Year)",
         compare_table_subtitle: "Side-by-side comparison of Revenue, Profitability, Headcount, and Human Capital Productivity",
-        btn_export_compare_csv: "Export Comparison CSV"
+        btn_export_compare_csv: "Export Comparison CSV",
+        btn_zoom_chart: "Zoom In",
+        btn_shrink_chart: "Shrink (ESC)",
+        btn_download_image: "Download HD PNG",
+        zoom_modal_esc_hint: "Press ESC or click backdrop to shrink"
     },
     zh: {
         badge_workflow: "一步到位工作流",
@@ -158,7 +189,11 @@ const I18N_DICT = {
         compare_chart4_desc: "技術護城河再投資力度：展現推動次世代架構 (High-NA EUV, 2nm, Blackwell, SDV) 的研發資源承諾。",
         compare_table_title: "跨公司基準對比矩陣 (最新官方審計年度)",
         compare_table_subtitle: "並排檢視各公司營收、毛利、營業利益、全球員工人數與人均產值指標",
-        btn_export_compare_csv: "匯出對比 CSV 報表"
+        btn_export_compare_csv: "匯出對比 CSV 報表",
+        btn_zoom_chart: "一鍵放大",
+        btn_shrink_chart: "一鍵縮回 (ESC)",
+        btn_download_image: "下載高清圖檔 (PNG)",
+        zoom_modal_esc_hint: "按 ESC 或點擊背景縮回"
     }
 };
 
@@ -173,6 +208,7 @@ async function initDashboard() {
     setupFrequencyToggle();
     setupTabs();
     setupHelpModal();
+    setupChartZoomModal();
     applyLanguage(CURRENT_LANGUAGE);
     await loadCompaniesList();
     await loadDashboardData();
@@ -285,6 +321,243 @@ function setupHelpModal() {
     }
 }
 
+let CURRENT_ZOOMED_CHART_ID = null;
+
+function setupChartZoomModal() {
+    const zoomModal = document.getElementById("chartZoomModal");
+    const closeBtn = document.getElementById("closeZoomModalBtn");
+    const downloadBtn = document.getElementById("downloadZoomChartBtn");
+
+    if (closeBtn) {
+        closeBtn.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            window.closeZoomModal();
+        });
+    }
+    if (zoomModal) {
+        zoomModal.addEventListener("click", (e) => {
+            if (e.target === zoomModal) window.closeZoomModal();
+        });
+    }
+    if (downloadBtn) {
+        downloadBtn.addEventListener("click", () => {
+            const canvas = document.getElementById("zoomedChartCanvas");
+            if (canvas && (canvas.data || canvas._fullData)) {
+                const titleEl = document.getElementById("zoomModalTitle");
+                const cleanTitle = (titleEl ? titleEl.textContent.trim() : "chart").replace(/[^a-zA-Z0-9_\u4e00-\u9fa5]/g, "_");
+                Plotly.downloadImage("zoomedChartCanvas", {
+                    format: "png",
+                    width: 1920,
+                    height: 1080,
+                    filename: `${cleanTitle}_HD`
+                });
+            }
+        });
+    }
+
+    // Attach click listener directly to all .chart-expand-btn buttons
+    document.querySelectorAll(".chart-expand-btn").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const chartId = btn.getAttribute("data-chart");
+            const titleKey = btn.getAttribute("data-title");
+            const badge = btn.getAttribute("data-badge");
+            const insight = btn.getAttribute("data-insight");
+            const icon = btn.getAttribute("data-icon");
+            if (chartId) {
+                window.zoomChart(chartId, titleKey, badge, insight, icon);
+            }
+        });
+    });
+
+    // Global ESC key listener to shrink/close zoom modal
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+            const zoomModal = document.getElementById("chartZoomModal");
+            if (zoomModal && zoomModal.style.display !== "none") {
+                window.closeZoomModal();
+            }
+        }
+    });
+}
+
+// Safe cloner to avoid "TypeError: Converting circular structure to JSON" with Plotly internal references
+function safeClone(obj, depth = 0) {
+    if (depth > 5) return null;
+    if (obj === null || typeof obj !== "object") return obj;
+    if (Array.isArray(obj)) {
+        return obj.map(item => safeClone(item, depth + 1));
+    }
+    const copy = {};
+    for (const key in obj) {
+        if (Object.prototype.hasOwnProperty.call(obj, key)) {
+            if (key.startsWith("_") || key === "scene" || key === "_module" || key === "_context" || key === "_fullLayout") {
+                continue; // Skip Plotly internal circular references
+            }
+            try {
+                copy[key] = safeClone(obj[key], depth + 1);
+            } catch (e) {
+                // Ignore any property that cannot be cloned
+            }
+        }
+    }
+    return copy;
+}
+
+window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconClass) {
+    try {
+        const modal = document.getElementById("chartZoomModal");
+        if (!modal) {
+            console.error("chartZoomModal element not found in DOM");
+            return;
+        }
+
+        CURRENT_ZOOMED_CHART_ID = chartId;
+        const titleEl = document.getElementById("zoomModalTitle");
+        const badgeEl = document.getElementById("zoomModalBadge");
+        const iconEl = document.getElementById("zoomModalIcon");
+        const subtitleEl = document.getElementById("zoomModalSubtitle");
+        const insightEl = document.getElementById("zoomModalInsight");
+
+        // Title & badge setup with i18n
+        const dict = I18N_DICT[CURRENT_LANGUAGE] || {};
+        const titleText = dict[titleKey] || titleKey || "Chart Inspection";
+        if (titleEl) titleEl.textContent = titleText;
+        if (badgeEl) badgeEl.textContent = badgeText || "Metric";
+        if (iconEl) iconEl.className = `fa-solid ${iconClass || 'fa-chart-line'} text-sm`;
+
+        // Insight description setup
+        let insightText = "";
+        const insightDom = document.getElementById(insightKeyOrId);
+        if (insightDom) {
+            insightText = insightDom.textContent.trim();
+        } else if (dict[insightKeyOrId]) {
+            insightText = dict[insightKeyOrId];
+        } else {
+            insightText = insightKeyOrId || "";
+        }
+        if (subtitleEl) subtitleEl.textContent = insightText;
+        if (insightEl) insightEl.textContent = insightText;
+
+        // Display modal immediately
+        modal.style.display = "flex";
+        document.body.style.overflow = "hidden";
+
+        const srcEl = document.getElementById(chartId);
+        if (!srcEl) {
+            console.warn("Chart element not found:", chartId);
+            return;
+        }
+
+        const rawData = srcEl.data || srcEl._fullData;
+        if (!rawData || rawData.length === 0) {
+            console.warn("Chart data not yet ready on element:", chartId);
+            document.getElementById("zoomedChartCanvas").innerHTML = '<div class="flex items-center justify-center h-full text-slate-400 text-sm">Rendering high-resolution chart...</div>';
+            setTimeout(() => {
+                const retryEl = document.getElementById(chartId);
+                if (retryEl && (retryEl.data || retryEl._fullData)) {
+                    window.zoomChart(chartId, titleKey, badgeText, insightKeyOrId, iconClass);
+                }
+            }, 100);
+            return;
+        }
+
+        // Deep clone traces and layout safely without JSON.stringify circular crashes
+        const srcData = safeClone(rawData);
+        const srcLayout = safeClone(srcEl.layout) || {};
+
+        const isLight = CURRENT_THEME === "light";
+        const fontColor = isLight ? "#1e293b" : "#f1f5f9";
+        const gridColor = isLight ? "#cbd5e1" : "#334155";
+
+        const isMultiTrace = (srcData && srcData.length > 4);
+
+        // Adjust layout for immersive high-resolution presentation
+        srcLayout.autosize = true;
+        delete srcLayout.height;
+        delete srcLayout.width;
+        srcLayout.margin = {
+            t: isMultiTrace ? 40 : 65,
+            r: isMultiTrace ? 170 : 40,
+            l: 65,
+            b: 60
+        };
+
+        if (srcLayout.font) {
+            srcLayout.font.size = 12.5;
+            srcLayout.font.color = fontColor;
+        }
+        if (srcLayout.xaxis && srcLayout.xaxis.title) {
+            if (typeof srcLayout.xaxis.title === "object") srcLayout.xaxis.title.font = { size: 13.5, color: fontColor };
+        }
+        if (srcLayout.yaxis && srcLayout.yaxis.title) {
+            if (typeof srcLayout.yaxis.title === "object") srcLayout.yaxis.title.font = { size: 13.5, color: fontColor };
+        }
+        if (srcLayout.yaxis2 && srcLayout.yaxis2.title) {
+            if (typeof srcLayout.yaxis2.title === "object") srcLayout.yaxis2.title.font = { size: 13.5, color: fontColor };
+        }
+        if (srcLayout.legend) {
+            srcLayout.legend.orientation = isMultiTrace ? "v" : "h";
+            srcLayout.legend.x = isMultiTrace ? 1.02 : 0;
+            srcLayout.legend.y = isMultiTrace ? 1 : 1.15;
+            srcLayout.legend.xanchor = "left";
+            srcLayout.legend.yanchor = isMultiTrace ? "top" : "bottom";
+            srcLayout.legend.font = { size: 12.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" };
+            srcLayout.legend.bgcolor = isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)";
+            srcLayout.legend.bordercolor = isLight ? "rgba(203, 213, 225, 0.9)" : "rgba(71, 85, 105, 0.9)";
+            srcLayout.legend.borderwidth = 1;
+        }
+        srcLayout.hovermode = "closest";
+        srcLayout.hoverlabel = {
+            bgcolor: isLight ? "#ffffff" : "#0f172a",
+            bordercolor: isLight ? "#cbd5e1" : "#3b82f6",
+            font: {
+                color: isLight ? "#0f172a" : "#f8fafc",
+                size: 13,
+                family: "Inter, system-ui, sans-serif"
+            },
+            namelength: -1
+        };
+
+        // Plot into zoomed canvas with full interactive tools
+        Plotly.newPlot("zoomedChartCanvas", srcData, srcLayout, {
+            responsive: true,
+            displayModeBar: true,
+            displaylogo: false,
+            modeBarButtonsToRemove: ['sendDataToCloud']
+        }).then(() => {
+            setTimeout(() => {
+                Plotly.Plots.resize("zoomedChartCanvas");
+            }, 50);
+        });
+    } catch (err) {
+        console.error("Error in zoomChart:", err);
+    }
+};
+
+window.closeZoomModal = function() {
+    try {
+        const modal = document.getElementById("chartZoomModal");
+        if (modal) {
+            modal.style.display = "none";
+            document.body.style.overflow = "";
+            try {
+                Plotly.purge("zoomedChartCanvas");
+            } catch (e) {}
+            if (CURRENT_ZOOMED_CHART_ID) {
+                try {
+                    Plotly.Plots.resize(CURRENT_ZOOMED_CHART_ID);
+                } catch (e) {}
+                CURRENT_ZOOMED_CHART_ID = null;
+            }
+        }
+    } catch (err) {
+        console.error("Error in closeZoomModal:", err);
+    }
+};
+
 function setupEventListeners() {
     const langBtn = document.getElementById("langToggleBtn");
     if (langBtn) {
@@ -351,10 +624,17 @@ function syncTargetInputWithTicker(ticker) {
     if (!input) return;
     const t = ticker.toLowerCase();
     if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
-    else if (t === "tsmc") input.value = "https://companiesmarketcap.com/tsmc/annual-reports/";
+    else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/annual-reports/";
     else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/annual-reports/";
-    else if (t === "nxp" || t === "nxpi") input.value = "https://companiesmarketcap.com/nxp-semiconductors/annual-reports/";
-    else if (t === "vsh" || t === "vishay") input.value = "https://companiesmarketcap.com/vishay-intertechnology/annual-reports/";
+    else if (t === "googl" || t === "google" || t === "goog" || t === "alphabet") input.value = "https://companiesmarketcap.com/alphabet-google/annual-reports/";
+    else if (t === "amd") input.value = "https://companiesmarketcap.com/amd/annual-reports/";
+    else if (t === "aapl" || t === "apple") input.value = "https://companiesmarketcap.com/apple/annual-reports/";
+    else if (t === "ase" || t === "asx" || t === "ase-group" || t === "3711") input.value = "https://companiesmarketcap.com/ase-group/annual-reports/";
+    else if (t === "mu" || t === "micron" || t === "micron-technology") input.value = "https://companiesmarketcap.com/micron-technology/annual-reports/";
+    else if (t === "klac" || t === "kla" || t === "kla-tencor") input.value = "https://companiesmarketcap.com/kla/annual-reports/";
+    else if (t === "ter" || t === "teradyne") input.value = "https://companiesmarketcap.com/teradyne/annual-reports/";
+    else if (t === "nxp" || t === "nxpi" || t === "nxp-semiconductors") input.value = "https://companiesmarketcap.com/nxp-semiconductors/annual-reports/";
+    else if (t === "vsh" || t === "vishay" || t === "vishay-intertechnology") input.value = "https://companiesmarketcap.com/vishay-intertechnology/annual-reports/";
     else input.value = ticker.toUpperCase();
 }
 
@@ -370,13 +650,43 @@ function applyLanguage(lang) {
 }
 
 // -----------------------------------------------------------------------------
+// Helper: Check if running in Standalone / Static GitHub Pages Mode
+// -----------------------------------------------------------------------------
+function isStandaloneMode() {
+    return (typeof window.STATIC_METRICS_DB !== "undefined" && window.STATIC_METRICS_DB !== null) ||
+           location.protocol === "file:" ||
+           window.location.hostname.endsWith("github.io");
+}
+
+// -----------------------------------------------------------------------------
 // Load Company Dropdown & Compare Checkboxes
 // -----------------------------------------------------------------------------
 async function loadCompaniesList() {
     try {
-        const res = await fetch(`/api/companies?_t=${Date.now()}`, { cache: "no-store" });
-        const data = await res.json();
-        if (data.companies && data.companies.length > 0) {
+        let companies = [];
+        if (isStandaloneMode() && window.STATIC_METRICS_DB) {
+            const rawKeys = Object.keys(window.STATIC_METRICS_DB);
+            const canonicalSet = new Set();
+            rawKeys.forEach(k => {
+                const item = window.STATIC_METRICS_DB[k];
+                if (item && item.ticker) {
+                    canonicalSet.add(item.ticker.toUpperCase());
+                } else {
+                    canonicalSet.add(k.toUpperCase());
+                }
+            });
+            const orderedPriority = ["ASML", "TSMC", "NVDA", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "MSFT", "AMAT", "META", "AMZN", "PLTR", "ADVANTEST", "SAMSUNG"];
+            companies = orderedPriority.filter(c => canonicalSet.has(c));
+            canonicalSet.forEach(c => {
+                if (!companies.includes(c)) companies.push(c);
+            });
+        } else {
+            const res = await fetch(`/api/companies?_t=${Date.now()}`, { cache: "no-store" });
+            const data = await res.json();
+            companies = data.companies || [];
+        }
+
+        if (companies && companies.length > 0) {
             const select = document.getElementById("companySelect");
             const currentVal = select.value;
             select.innerHTML = "";
@@ -385,14 +695,28 @@ async function loadCompaniesList() {
                 "ASML": "ASML Holding N.V.",
                 "TSMC": "TSMC (2330 / TSM)",
                 "NVDA": "NVIDIA Corporation",
+                "GOOGL": "Alphabet Inc. (Google)",
+                "AAPL": "Apple Inc. (AAPL)",
+                "AMD": "Advanced Micro Devices (AMD)",
+                "MU": "Micron Technology (MU)",
+                "KLAC": "KLA Corporation (KLAC)",
+                "TER": "Teradyne, Inc. (TER)",
+                "ASE": "ASE Technology (3711 / ASX)",
                 "NXP": "NXP Semiconductors (NXPI)",
-                "VSH": "Vishay Intertechnology (VSH)"
+                "VSH": "Vishay Intertechnology (VSH)",
+                "MSFT": "Microsoft Corporation (MSFT)",
+                "AMAT": "Applied Materials (AMAT)",
+                "META": "Meta Platforms (META)",
+                "AMZN": "Amazon.com, Inc. (AMZN)",
+                "PLTR": "Palantir Technologies (PLTR)",
+                "ADVANTEST": "Advantest Corp. (6857)",
+                "SAMSUNG": "Samsung Electronics (005930)"
             };
 
             const chkGrid = document.getElementById("compareCheckboxGrid");
             if (chkGrid) chkGrid.innerHTML = "";
 
-            data.companies.forEach((comp) => {
+            companies.forEach((comp) => {
                 const upper = comp.toUpperCase();
                 const opt = document.createElement("option");
                 opt.value = upper;
@@ -413,7 +737,7 @@ async function loadCompaniesList() {
                 }
             });
 
-            if (data.companies.map(c => c.toUpperCase()).includes(currentVal)) {
+            if (companies.map(c => c.toUpperCase()).includes(currentVal)) {
                 select.value = currentVal;
             }
 
@@ -435,8 +759,17 @@ async function loadCompaniesList() {
 async function loadDashboardData(targetCompany = null) {
     try {
         const company = targetCompany || document.getElementById("companySelect").value || "ASML";
-        const res = await fetch(`/api/metrics/${company.toLowerCase()}?freq=${CURRENT_FREQ}&_t=${Date.now()}`, { cache: "no-store" });
-        const data = await res.json();
+        let data = null;
+
+        if (isStandaloneMode() && window.STATIC_METRICS_DB) {
+            const key = company.toLowerCase();
+            data = window.STATIC_METRICS_DB[key] ||
+                   window.STATIC_METRICS_DB[key.replace("-platforms", "").replace("alphabet-", "")] ||
+                   Object.values(window.STATIC_METRICS_DB)[0];
+        } else {
+            const res = await fetch(`/api/metrics/${company.toLowerCase()}?freq=${CURRENT_FREQ}&_t=${Date.now()}`, { cache: "no-store" });
+            data = await res.json();
+        }
         
         GLOBAL_METRICS_DATA = data;
         
@@ -520,10 +853,28 @@ function renderCharts(data) {
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11 },
-        margin: { l: 45, r: 45, t: 45, b: isQuarterly ? 55 : 35 },
-        hovermode: "x unified",
-        legend: { orientation: "h", y: 1.14, x: 0, font: { size: 10.5 } },
+        font: { color: fontColor, size: 11, family: "Inter, system-ui, sans-serif" },
+        margin: { l: 45, r: 45, t: 55, b: isQuarterly ? 55 : 35 },
+        hovermode: "closest",
+        legend: {
+            orientation: "h",
+            y: 1.15,
+            x: 0,
+            font: { size: 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
+            bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
+            borderwidth: 1
+        },
+        hoverlabel: {
+            bgcolor: isLight ? "#0f172a" : "#090d16",
+            bordercolor: "#3b82f6",
+            font: {
+                color: "#ffffff",
+                size: 13,
+                family: "Inter, system-ui, sans-serif"
+            },
+            namelength: -1
+        },
         xaxis: {
             categoryorder: "array",
             categoryarray: sortedYears,
@@ -540,12 +891,14 @@ function renderCharts(data) {
 
     const trace1_1 = {
         x: years, y: headcounts, name: "Headcount (FTE)",
-        type: "bar", marker: { color: "#3B82F6", opacity: 0.8 }, yaxis: "y"
+        type: "bar", marker: { color: "#3B82F6", opacity: 0.85 }, yaxis: "y",
+        hovertemplate: "<b>Headcount (FTE)</b><br>Period: %{x}<br>Headcount: <b>%{y:,.0f} 人</b><extra></extra>"
     };
     const trace1_2 = {
         x: years, y: grossMargins, name: "Gross Margin %",
-        type: "scatter", mode: "lines+markers", line: { color: "#10B981", width: 3 },
-        marker: { size: 7 }, yaxis: "y2"
+        type: "scatter", mode: "lines+markers", line: { color: "#10B981", width: 3.5 },
+        marker: { size: 8, color: "#10B981" }, yaxis: "y2",
+        hovertemplate: "<b>Gross Margin %</b><br>Period: %{x}<br>毛利率: <b>%{y:.2f}%</b><extra></extra>"
     };
     Plotly.newPlot("chartInflection", [trace1_1, trace1_2], {
         ...commonLayout,
@@ -558,9 +911,24 @@ function renderCharts(data) {
     const gpPerEmp = years.map(y => (fin[y]?.gp_per_emp || 0) / 1000);
     const opPerEmp = years.map(y => (fin[y]?.op_per_emp || 0) / 1000);
 
-    const trace2_1 = { x: years, y: revPerEmp, name: `Rev/FTE (k${currSym})`, type: "scatter", mode: "lines+markers", line: { color: "#60A5FA", width: 2 } };
-    const trace2_2 = { x: years, y: gpPerEmp, name: `GP/FTE (k${currSym})`, type: "scatter", mode: "lines+markers", line: { color: "#A855F7", width: 3 } };
-    const trace2_3 = { x: years, y: opPerEmp, name: `OpIncome/FTE (k${currSym})`, type: "scatter", mode: "lines+markers", line: { color: "#34D399", width: 2 } };
+    const trace2_1 = {
+        x: years, y: revPerEmp, name: `Rev/FTE (k${currSym})`,
+        type: "scatter", mode: "lines+markers", line: { color: "#60A5FA", width: 3 },
+        marker: { size: 7 },
+        hovertemplate: `<b>人均營收 (Rev/FTE)</b><br>Period: %{x}<br>數值: <b>%{y:,.0f} k${currSym}</b><extra></extra>`
+    };
+    const trace2_2 = {
+        x: years, y: gpPerEmp, name: `GP/FTE (k${currSym})`,
+        type: "scatter", mode: "lines+markers", line: { color: "#A855F7", width: 3.5 },
+        marker: { size: 8 },
+        hovertemplate: `<b>人均毛利 (GP/FTE)</b><br>Period: %{x}<br>數值: <b>%{y:,.0f} k${currSym}</b><extra></extra>`
+    };
+    const trace2_3 = {
+        x: years, y: opPerEmp, name: `OpIncome/FTE (k${currSym})`,
+        type: "scatter", mode: "lines+markers", line: { color: "#34D399", width: 3 },
+        marker: { size: 7 },
+        hovertemplate: `<b>人均營業利益 (Op/FTE)</b><br>Period: %{x}<br>數值: <b>%{y:,.0f} k${currSym}</b><extra></extra>`
+    };
 
     Plotly.newPlot("chartProductivity", [trace2_1, trace2_2, trace2_3], {
         ...commonLayout,
@@ -572,9 +940,22 @@ function renderCharts(data) {
     const netIncomes = years.map(y => fin[y]?.net_income || 0);
     const opMargins = years.map(y => fin[y]?.operating_margin || 0);
 
-    const trace3_1 = { x: years, y: opIncomes, name: `OpIncome (${unit})`, type: "bar", marker: { color: "#06B6D4" }, yaxis: "y" };
-    const trace3_2 = { x: years, y: netIncomes, name: `Net Income (${unit})`, type: "bar", marker: { color: "#3B82F6", opacity: 0.7 }, yaxis: "y" };
-    const trace3_3 = { x: years, y: opMargins, name: "Op Margin %", type: "scatter", mode: "lines+markers", line: { color: "#F59E0B", width: 2.5 }, yaxis: "y2" };
+    const trace3_1 = {
+        x: years, y: opIncomes, name: `OpIncome (${unit})`,
+        type: "bar", marker: { color: "#06B6D4" }, yaxis: "y",
+        hovertemplate: `<b>營業利益 (OpIncome)</b><br>Period: %{x}<br>金額: <b>${unit}%{y:,.0f}</b><extra></extra>`
+    };
+    const trace3_2 = {
+        x: years, y: netIncomes, name: `Net Income (${unit})`,
+        type: "bar", marker: { color: "#3B82F6", opacity: 0.75 }, yaxis: "y",
+        hovertemplate: `<b>稅後淨利 (Net Income)</b><br>Period: %{x}<br>金額: <b>${unit}%{y:,.0f}</b><extra></extra>`
+    };
+    const trace3_3 = {
+        x: years, y: opMargins, name: "Op Margin %",
+        type: "scatter", mode: "lines+markers", line: { color: "#F59E0B", width: 3.5 },
+        marker: { size: 8, color: "#F59E0B" }, yaxis: "y2",
+        hovertemplate: "<b>營業利益率 %</b><br>Period: %{x}<br>利益率: <b>%{y:.2f}%</b><extra></extra>"
+    };
 
     Plotly.newPlot("chartProfitability", [trace3_1, trace3_2, trace3_3], {
         ...commonLayout,
@@ -587,8 +968,17 @@ function renderCharts(data) {
     const rdExpenses = years.map(y => fin[y]?.rd_expense || 0);
     const rdPcts = years.map(y => fin[y]?.rd_pct_rev || 0);
 
-    const trace4_1 = { x: years, y: rdExpenses, name: `R&D Expense (${unit})`, type: "bar", marker: { color: "#F43F5E", opacity: 0.8 }, yaxis: "y" };
-    const trace4_2 = { x: years, y: rdPcts, name: "R&D % of Rev", type: "scatter", mode: "lines+markers", line: { color: "#FB923C", width: 2.5 }, yaxis: "y2" };
+    const trace4_1 = {
+        x: years, y: rdExpenses, name: `R&D Expense (${unit})`,
+        type: "bar", marker: { color: "#F43F5E", opacity: 0.85 }, yaxis: "y",
+        hovertemplate: `<b>研發支出 (R&D)</b><br>Period: %{x}<br>金額: <b>${unit}%{y:,.0f}</b><extra></extra>`
+    };
+    const trace4_2 = {
+        x: years, y: rdPcts, name: "R&D % of Rev",
+        type: "scatter", mode: "lines+markers", line: { color: "#FB923C", width: 3.5 },
+        marker: { size: 8, color: "#FB923C" }, yaxis: "y2",
+        hovertemplate: "<b>研發佔營收比重</b><br>Period: %{x}<br>研發強度: <b>%{y:.2f}%</b><extra></extra>"
+    };
 
     Plotly.newPlot("chartRdIntensity", [trace4_1, trace4_2], {
         ...commonLayout,
@@ -735,6 +1125,20 @@ async function loadComparisonData() {
     }
 
     try {
+        if (isStandaloneMode() && window.STATIC_METRICS_DB) {
+            const companiesResult = {};
+            checkedBoxes.forEach(t => {
+                const item = window.STATIC_METRICS_DB[t] ||
+                             window.STATIC_METRICS_DB[t.replace("-platforms", "").replace("alphabet-", "")];
+                if (item) {
+                    companiesResult[t] = item;
+                }
+            });
+            COMPARISON_DATA = companiesResult;
+            renderComparisonView(COMPARISON_DATA);
+            return;
+        }
+
         const tickersParam = checkedBoxes.join(",");
         const res = await fetch(`/api/compare?tickers=${tickersParam}&freq=${CURRENT_FREQ}&_t=${Date.now()}`, { cache: "no-store" });
         const json = await res.json();
@@ -775,13 +1179,40 @@ function renderComparisonView(companiesData) {
 
     const isQuarterly = sortedAllPeriods.some(p => p.includes("Q"));
 
+    const isMulti = tickers.length > 4;
+
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11 },
-        margin: { l: 50, r: 35, t: 45, b: isQuarterly ? 55 : 40 },
-        hovermode: "x unified",
-        legend: { orientation: "h", y: 1.14, x: 0, font: { size: 10.5 } },
+        font: { color: fontColor, size: 11.5, family: "Inter, system-ui, sans-serif" },
+        margin: {
+            l: 55,
+            r: isMulti ? 150 : 35,
+            t: isMulti ? 30 : 60,
+            b: isQuarterly ? 60 : 40
+        },
+        hovermode: "closest",
+        legend: {
+            orientation: isMulti ? "v" : "h",
+            x: isMulti ? 1.02 : 0,
+            y: isMulti ? 1 : 1.16,
+            xanchor: "left",
+            yanchor: isMulti ? "top" : "bottom",
+            font: { size: 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
+            bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
+            borderwidth: 1
+        },
+        hoverlabel: {
+            bgcolor: isLight ? "#ffffff" : "#0f172a",
+            bordercolor: isLight ? "#cbd5e1" : "#3b82f6",
+            font: {
+                color: isLight ? "#0f172a" : "#f8fafc",
+                size: 13,
+                family: "Inter, system-ui, sans-serif"
+            },
+            namelength: -1
+        },
         xaxis: {
             categoryorder: "array",
             categoryarray: sortedAllPeriods,
@@ -798,9 +1229,13 @@ function renderComparisonView(companiesData) {
         const years = c.years || [];
         const gms = years.map(y => c.financials[y]?.gross_margin || null);
         const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const name = c.ticker || t.toUpperCase();
         return {
-            x: years, y: gms, name: `${c.ticker || t.toUpperCase()} (%)`,
-            type: "scatter", mode: "lines+markers", line: { color: col, width: 3 }, marker: { size: 6 }
+            x: years, y: gms, name: `${name} (%)`,
+            type: "scatter", mode: "lines+markers",
+            line: { color: col, width: 3 },
+            marker: { size: 7, color: col },
+            hovertemplate: `<b>${name}</b><br>Year: %{x}<br>Gross Margin: <b>%{y:.2f}%</b><extra></extra>`
         };
     });
 
@@ -815,9 +1250,13 @@ function renderComparisonView(companiesData) {
         const years = c.years || [];
         const revEmp = years.map(y => (c.financials[y]?.rev_per_emp || 0) / 1000);
         const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const name = c.ticker || t.toUpperCase();
         return {
-            x: years, y: revEmp, name: `${c.ticker || t.toUpperCase()} Rev/FTE ($k)`,
-            type: "scatter", mode: "lines+markers", line: { color: col, width: 2.5 }, marker: { size: 6 }
+            x: years, y: revEmp, name: `${name} Rev/FTE`,
+            type: "scatter", mode: "lines+markers",
+            line: { color: col, width: 3 },
+            marker: { size: 7, color: col },
+            hovertemplate: `<b>${name}</b><br>Year: %{x}<br>Rev/FTE: <b>$%{y:,.0f}k</b><extra></extra>`
         };
     });
 
@@ -832,9 +1271,13 @@ function renderComparisonView(companiesData) {
         const years = c.years || [];
         const opms = years.map(y => c.financials[y]?.operating_margin || null);
         const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const name = c.ticker || t.toUpperCase();
         return {
-            x: years, y: opms, name: `${c.ticker || t.toUpperCase()} Op Margin (%)`,
-            type: "scatter", mode: "lines+markers", line: { color: col, width: 3 }, marker: { size: 6 }
+            x: years, y: opms, name: `${name} Op Margin`,
+            type: "scatter", mode: "lines+markers",
+            line: { color: col, width: 3 },
+            marker: { size: 7, color: col },
+            hovertemplate: `<b>${name}</b><br>Year: %{x}<br>Op Margin: <b>%{y:.2f}%</b><extra></extra>`
         };
     });
 
@@ -849,9 +1292,13 @@ function renderComparisonView(companiesData) {
         const years = c.years || [];
         const rds = years.map(y => c.financials[y]?.rd_pct_rev || null);
         const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const name = c.ticker || t.toUpperCase();
         return {
-            x: years, y: rds, name: `${c.ticker || t.toUpperCase()} R&D %`,
-            type: "scatter", mode: "lines+markers", line: { color: col, width: 2.5 }, marker: { size: 6 }
+            x: years, y: rds, name: `${name} R&D %`,
+            type: "scatter", mode: "lines+markers",
+            line: { color: col, width: 3 },
+            marker: { size: 7, color: col },
+            hovertemplate: `<b>${name}</b><br>Year: %{x}<br>R&D % of Rev: <b>%{y:.2f}%</b><extra></extra>`
         };
     });
 
@@ -997,12 +1444,25 @@ async function loadMarkdownFiles(ticker) {
     listEl.innerHTML = '<p class="text-xs text-slate-500 text-center py-4">Loading files...</p>';
 
     try {
-        const res = await fetch(`/api/markdown-files/${ticker}?_t=${Date.now()}`, { cache: "no-store" });
-        const data = await res.json();
+        let files = [];
+        if (isStandaloneMode() && window.STATIC_MARKDOWN_DB) {
+            const key = ticker.toLowerCase();
+            const mdObj = window.STATIC_MARKDOWN_DB[key] ||
+                          window.STATIC_MARKDOWN_DB[key.replace("-platforms", "").replace("alphabet-", "")] || {};
+            files = Object.keys(mdObj).map(fn => ({
+                filename: fn,
+                size: (mdObj[fn] || "").length
+            }));
+        } else {
+            const res = await fetch(`/api/markdown-files/${ticker}?_t=${Date.now()}`, { cache: "no-store" });
+            const data = await res.json();
+            files = data.files || [];
+        }
+
         listEl.innerHTML = "";
 
-        if (data.files && data.files.length > 0) {
-            data.files.forEach((file, idx) => {
+        if (files && files.length > 0) {
+            files.forEach((file, idx) => {
                 const btn = document.createElement("button");
                 btn.className = "w-full text-left p-2 rounded-lg text-xs font-mono text-slate-300 hover:bg-slate-800 transition-colors flex items-center justify-between group";
                 btn.innerHTML = `
@@ -1012,7 +1472,7 @@ async function loadMarkdownFiles(ticker) {
                 btn.addEventListener("click", () => previewMarkdownFile(ticker, file.filename));
                 listEl.appendChild(btn);
             });
-            previewMarkdownFile(ticker, data.files[0].filename);
+            previewMarkdownFile(ticker, files[0].filename);
         } else {
             listEl.innerHTML = '<p class="text-xs text-slate-500 text-center py-4">No parsed Markdown files found.</p>';
         }
@@ -1030,12 +1490,22 @@ async function previewMarkdownFile(ticker, filename) {
     preEl.textContent = "Loading file content...";
 
     try {
-        const res = await fetch(`/api/markdown-content/${ticker}/${filename}?_t=${Date.now()}`, { cache: "no-store" });
-        const data = await res.json();
-        preEl.textContent = data.content;
+        let content = "";
+        if (isStandaloneMode() && window.STATIC_MARKDOWN_DB) {
+            const key = ticker.toLowerCase();
+            const mdObj = window.STATIC_MARKDOWN_DB[key] ||
+                          window.STATIC_MARKDOWN_DB[key.replace("-platforms", "").replace("alphabet-", "")] || {};
+            content = mdObj[filename] || "Markdown content not available in static bundle.";
+        } else {
+            const res = await fetch(`/api/markdown-content/${ticker}/${filename}?_t=${Date.now()}`, { cache: "no-store" });
+            const data = await res.json();
+            content = data.content || "";
+        }
+
+        preEl.textContent = content;
         copyBtn.classList.remove("hidden");
         copyBtn.onclick = () => {
-            navigator.clipboard.writeText(data.content);
+            navigator.clipboard.writeText(content);
             copyBtn.innerHTML = '<i class="fa-solid fa-check text-emerald-400"></i> Copied!';
             setTimeout(() => {
                 copyBtn.innerHTML = `<i class="fa-regular fa-copy"></i> ${CURRENT_LANGUAGE === 'zh' ? '複製 Markdown' : 'Copy Markdown'}`;

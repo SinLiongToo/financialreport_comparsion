@@ -1,0 +1,259 @@
+{
+  "company_name": "Palantir Technologies Inc.",
+  "ticker": "PLTR",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 1093,
+      "gross_profit": 740,
+      "operating_income": -1174,
+      "net_income": -1166,
+      "rd_expense": 561,
+      "headcount": 2439,
+      "gross_margin": 67.7,
+      "operating_margin": -107.41,
+      "net_margin": -106.68,
+      "rd_pct_rev": 51.33,
+      "rev_per_emp": 448134.0,
+      "gp_per_emp": 303403.0,
+      "op_per_emp": -481345.0,
+      "ni_per_emp": -478065.0,
+      "rd_per_emp": 230012.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 1542,
+      "gross_profit": 1202,
+      "operating_income": -411,
+      "net_income": -520,
+      "rd_expense": 388,
+      "headcount": 2920,
+      "gross_margin": 77.95,
+      "operating_margin": -26.65,
+      "net_margin": -33.72,
+      "rd_pct_rev": 25.16,
+      "rev_per_emp": 528082.0,
+      "gp_per_emp": 411644.0,
+      "op_per_emp": -140753.0,
+      "ni_per_emp": -178082.0,
+      "rd_per_emp": 132877.0,
+      "rev_growth_yoy": 41.08,
+      "gp_growth_yoy": 62.43,
+      "op_growth_yoy": -64.99,
+      "ni_growth_yoy": -55.4,
+      "rd_growth_yoy": -30.84,
+      "hc_growth_yoy": 19.72,
+      "gm_diff_pp": 10.25,
+      "op_diff_pp": 80.76
+    },
+    "2022": {
+      "revenue": 1906,
+      "gross_profit": 1497,
+      "operating_income": -161,
+      "net_income": -374,
+      "rd_expense": 388,
+      "headcount": 3838,
+      "gross_margin": 78.54,
+      "operating_margin": -8.45,
+      "net_margin": -19.62,
+      "rd_pct_rev": 20.36,
+      "rev_per_emp": 496613.0,
+      "gp_per_emp": 390047.0,
+      "op_per_emp": -41949.0,
+      "ni_per_emp": -97447.0,
+      "rd_per_emp": 101094.0,
+      "rev_growth_yoy": 23.61,
+      "gp_growth_yoy": 24.54,
+      "op_growth_yoy": -60.83,
+      "ni_growth_yoy": -28.08,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 31.44,
+      "gm_diff_pp": 0.59,
+      "op_diff_pp": 18.2
+    },
+    "2023": {
+      "revenue": 2225,
+      "gross_profit": 1792,
+      "operating_income": 120,
+      "net_income": 210,
+      "rd_expense": 414,
+      "headcount": 3800,
+      "gross_margin": 80.54,
+      "operating_margin": 5.39,
+      "net_margin": 9.44,
+      "rd_pct_rev": 18.61,
+      "rev_per_emp": 585526.0,
+      "gp_per_emp": 471579.0,
+      "op_per_emp": 31579.0,
+      "ni_per_emp": 55263.0,
+      "rd_per_emp": 108947.0,
+      "rev_growth_yoy": 16.74,
+      "gp_growth_yoy": 19.71,
+      "op_growth_yoy": -174.53,
+      "ni_growth_yoy": -156.15,
+      "rd_growth_yoy": 6.7,
+      "hc_growth_yoy": -0.99,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 13.84
+    },
+    "2024": {
+      "revenue": 2866,
+      "gross_profit": 2327,
+      "operating_income": 530,
+      "net_income": 475,
+      "rd_expense": 465,
+      "headcount": 3850,
+      "gross_margin": 81.19,
+      "operating_margin": 18.49,
+      "net_margin": 16.57,
+      "rd_pct_rev": 16.22,
+      "rev_per_emp": 744416.0,
+      "gp_per_emp": 604416.0,
+      "op_per_emp": 137662.0,
+      "ni_per_emp": 123377.0,
+      "rd_per_emp": 120779.0,
+      "rev_growth_yoy": 28.81,
+      "gp_growth_yoy": 29.85,
+      "op_growth_yoy": 341.67,
+      "ni_growth_yoy": 126.19,
+      "rd_growth_yoy": 12.32,
+      "hc_growth_yoy": 1.32,
+      "gm_diff_pp": 0.65,
+      "op_diff_pp": 13.1
+    },
+    "2025": {
+      "revenue": 3650,
+      "gross_profit": 2993,
+      "operating_income": 875,
+      "net_income": 790,
+      "rd_expense": 540,
+      "headcount": 4100,
+      "gross_margin": 82.0,
+      "operating_margin": 23.97,
+      "net_margin": 21.64,
+      "rd_pct_rev": 14.79,
+      "rev_per_emp": 890244.0,
+      "gp_per_emp": 730000.0,
+      "op_per_emp": 213415.0,
+      "ni_per_emp": 192683.0,
+      "rd_per_emp": 131707.0,
+      "rev_growth_yoy": 27.36,
+      "gp_growth_yoy": 28.62,
+      "op_growth_yoy": 65.09,
+      "ni_growth_yoy": 66.32,
+      "rd_growth_yoy": 16.13,
+      "hc_growth_yoy": 6.49,
+      "gm_diff_pp": 0.81,
+      "op_diff_pp": 5.48
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "US Commercial (AIP)",
+      "US Government (Gotham)",
+      "International Commercial",
+      "International Government"
+    ],
+    "colors": [
+      "#101820",
+      "#0052CC",
+      "#00B4D8",
+      "#6C757D"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          720,
+          1220,
+          390,
+          536
+        ],
+        "volume": [
+          25,
+          43,
+          14,
+          18
+        ]
+      },
+      "2025": {
+        "value": [
+          1150,
+          1480,
+          440,
+          580
+        ],
+        "volume": [
+          32,
+          41,
+          12,
+          15
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce disciplined under 3,850 FTEs while AIP (Artificial Intelligence Platform) scaled revenue past $2.86B, lifting gross margin to 81.2% and driving GAAP profitability.",
+      "productivity": "Revenue per FTE reached $744K with gross profit per employee at $604K and operating cash flow per FTE expanding exponentially.",
+      "leverage": "GAAP operating income expanded to $530M (18.5% margin, Non-GAAP ~38%) qualifying PLTR for S&P 500 inclusion.",
+      "rd": "R&D investment scaled to $465M-$540M anchoring AIP ontology architecture, edge deployment, and Apollo continuous delivery.",
+      "growth": "US Commercial revenue surged >54% YoY driven by rapid AIP Bootcamp conversion cycles.",
+      "breakdown": "Government contracts anchor 61% of revenues, while US Commercial AIP expands rapidly to become the primary growth vector."
+    },
+    "zh": {
+      "pivot": "員工數嚴格控制在 3,850 人水準，AIP 人工智慧平台帶動營收突破 28.6 億美元，毛利率穩定於 81.2% 並實現 GAAP 全面獲利。",
+      "productivity": "人均營收達 74.4 萬美元/人，人均毛利達 60.4 萬美元/人，營運現金流呈爆發性增長。",
+      "leverage": "GAAP 營業利益擴大至 5.3 億美元（營業利益率 18.5%，Non-GAAP 達 38%），順利納入標普 500 指數。",
+      "rd": "研發支出達 4.65 億-5.4 億美元，鞏固 AIP 企業本體 (Ontology)、邊緣端國防運算與 Apollo 自動化部署體系。",
+      "growth": "美國商業營收受惠於 AIP Bootcamp 工作坊模式，年增率超過 54%。",
+      "breakdown": "政府國防合約提供 61% 穩定營收基底，美國商業版 AIP 成為推升未來成長之核心引擎。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Forward-Deployed Engineer (FDE) Manual Delivery",
+        "desc": "Custom on-premise integration and bespoke data ingestion."
+      },
+      {
+        "level": 2,
+        "name": "Gotham & Foundry Modular Products",
+        "desc": "Productized enterprise software platform and archetype templates."
+      },
+      {
+        "level": 3,
+        "name": "Apollo Continuous Deployment & Multi-Cloud CI/CD",
+        "desc": "Automated pipeline management across classified and edge infrastructure."
+      },
+      {
+        "level": 4,
+        "name": "AIP (Artificial Intelligence Platform) Bootcamps",
+        "desc": "Rapid LLM enterprise ontology activation in under 5 days."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Enterprise AI Operating System",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding software velocity."
+      }
+    ]
+  }
+}

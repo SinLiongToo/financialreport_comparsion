@@ -1,0 +1,259 @@
+{
+  "company_name": "KLA Corporation",
+  "ticker": "KLAC",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 5806,
+      "gross_profit": 3456,
+      "operating_income": 2008,
+      "net_income": 1214,
+      "rd_expense": 841,
+      "headcount": 11300,
+      "gross_margin": 59.53,
+      "operating_margin": 34.58,
+      "net_margin": 20.91,
+      "rd_pct_rev": 14.49,
+      "rev_per_emp": 513805.0,
+      "gp_per_emp": 305841.0,
+      "op_per_emp": 177699.0,
+      "ni_per_emp": 107434.0,
+      "rd_per_emp": 74425.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 6919,
+      "gross_profit": 4260,
+      "operating_income": 2637,
+      "net_income": 2078,
+      "rd_expense": 917,
+      "headcount": 12200,
+      "gross_margin": 61.57,
+      "operating_margin": 38.11,
+      "net_margin": 30.03,
+      "rd_pct_rev": 13.25,
+      "rev_per_emp": 567131.0,
+      "gp_per_emp": 349180.0,
+      "op_per_emp": 216148.0,
+      "ni_per_emp": 170328.0,
+      "rd_per_emp": 75164.0,
+      "rev_growth_yoy": 19.17,
+      "gp_growth_yoy": 23.26,
+      "op_growth_yoy": 31.32,
+      "ni_growth_yoy": 71.17,
+      "rd_growth_yoy": 9.04,
+      "hc_growth_yoy": 7.96,
+      "gm_diff_pp": 2.04,
+      "op_diff_pp": 3.53
+    },
+    "2022": {
+      "revenue": 9212,
+      "gross_profit": 5655,
+      "operating_income": 3694,
+      "net_income": 3322,
+      "rd_expense": 1098,
+      "headcount": 14000,
+      "gross_margin": 61.39,
+      "operating_margin": 40.1,
+      "net_margin": 36.06,
+      "rd_pct_rev": 11.92,
+      "rev_per_emp": 658000.0,
+      "gp_per_emp": 403929.0,
+      "op_per_emp": 263857.0,
+      "ni_per_emp": 237286.0,
+      "rd_per_emp": 78429.0,
+      "rev_growth_yoy": 33.14,
+      "gp_growth_yoy": 32.75,
+      "op_growth_yoy": 40.08,
+      "ni_growth_yoy": 59.87,
+      "rd_growth_yoy": 19.74,
+      "hc_growth_yoy": 14.75,
+      "gm_diff_pp": -0.18,
+      "op_diff_pp": 1.99
+    },
+    "2023": {
+      "revenue": 10496,
+      "gross_profit": 6275,
+      "operating_income": 4166,
+      "net_income": 3387,
+      "rd_expense": 1248,
+      "headcount": 15000,
+      "gross_margin": 59.79,
+      "operating_margin": 39.69,
+      "net_margin": 32.27,
+      "rd_pct_rev": 11.89,
+      "rev_per_emp": 699733.0,
+      "gp_per_emp": 418333.0,
+      "op_per_emp": 277733.0,
+      "ni_per_emp": 225800.0,
+      "rd_per_emp": 83200.0,
+      "rev_growth_yoy": 13.94,
+      "gp_growth_yoy": 10.96,
+      "op_growth_yoy": 12.78,
+      "ni_growth_yoy": 1.96,
+      "rd_growth_yoy": 13.66,
+      "hc_growth_yoy": 7.14,
+      "gm_diff_pp": -1.6,
+      "op_diff_pp": -0.41
+    },
+    "2024": {
+      "revenue": 9814,
+      "gross_profit": 5876,
+      "operating_income": 3745,
+      "net_income": 2763,
+      "rd_expense": 1302,
+      "headcount": 15300,
+      "gross_margin": 59.87,
+      "operating_margin": 38.16,
+      "net_margin": 28.15,
+      "rd_pct_rev": 13.27,
+      "rev_per_emp": 641438.0,
+      "gp_per_emp": 384052.0,
+      "op_per_emp": 244771.0,
+      "ni_per_emp": 180588.0,
+      "rd_per_emp": 85098.0,
+      "rev_growth_yoy": -6.5,
+      "gp_growth_yoy": -6.36,
+      "op_growth_yoy": -10.11,
+      "ni_growth_yoy": -18.42,
+      "rd_growth_yoy": 4.33,
+      "hc_growth_yoy": 2.0,
+      "gm_diff_pp": 0.08,
+      "op_diff_pp": -1.53
+    },
+    "2025": {
+      "revenue": 11500,
+      "gross_profit": 7015,
+      "operating_income": 4600,
+      "net_income": 3680,
+      "rd_expense": 1420,
+      "headcount": 15800,
+      "gross_margin": 61.0,
+      "operating_margin": 40.0,
+      "net_margin": 32.0,
+      "rd_pct_rev": 12.35,
+      "rev_per_emp": 727848.0,
+      "gp_per_emp": 443987.0,
+      "op_per_emp": 291139.0,
+      "ni_per_emp": 232911.0,
+      "rd_per_emp": 89873.0,
+      "rev_growth_yoy": 17.18,
+      "gp_growth_yoy": 19.38,
+      "op_growth_yoy": 22.83,
+      "ni_growth_yoy": 33.19,
+      "rd_growth_yoy": 9.06,
+      "hc_growth_yoy": 3.27,
+      "gm_diff_pp": 1.13,
+      "op_diff_pp": 1.84
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Semiconductor Process Control (Wafer Inspection / Optical Metrology)",
+      "Specialty Semiconductor Process",
+      "PCB, Display & Component Inspection",
+      "Services & Upgrades"
+    ],
+    "colors": [
+      "#0284C7",
+      "#3B82F6",
+      "#F59E0B",
+      "#10B981"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          6550,
+          480,
+          520,
+          2264
+        ],
+        "volume": [
+          820,
+          210,
+          390,
+          4500
+        ]
+      },
+      "2025": {
+        "value": [
+          7800,
+          550,
+          580,
+          2570
+        ],
+        "volume": [
+          980,
+          240,
+          420,
+          4900
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce stabilized around 15,300-15,800 FTEs. Gross margin rock-solid at 59.8%-61.5% driven by unmatched monopoly pricing power in optical wafer inspection.",
+      "productivity": "Revenue per FTE tracks at $641K-$728K with Gross Profit per employee at $384K-$444K, representing world-class semiconductor equipment productivity.",
+      "leverage": "Operating income sustained at $3.75B-$4.60B with operating margins maintaining at an elite 38.0%-40.0%.",
+      "rd": "R&D investment scaled to $1.30B-$1.42B (12.3%-13.3% of revenue) powering next-generation broadband optical defect inspection and e-beam review.",
+      "growth": "High recurring service and installed base upgrades provide resilient cash flows through macro wafer fab equipment cycles.",
+      "breakdown": "Semiconductor Process Control accounts for over 67% of equipment revenue, establishing an impenetrable technological moat in leading-edge nodes."
+    },
+    "zh": {
+      "pivot": "全球員工人數穩定於約 1.53 萬-1.58 萬人。毛利率在光學晶圓檢測與量測設備的絕對定價權下，長年穩健維持於 59.8%-61.5% 頂級水準。",
+      "productivity": "人均營收達 $641K-$728K，人均毛利達 $384K-$444K，展現半導體前段設備的世界級生產力。",
+      "leverage": "營業利益高達 $37.5 億-$46 億美元，營業利益率維持在 38.0%-40.0% 的超高水準。",
+      "rd": "研發支出達 $13 億-$14.2 億美元（佔營收 12.3%-13.3%），全面主導寬頻光學缺陷檢測與電子束 (e-beam) 複檢系統。",
+      "growth": "高毛利機台售後服務與軟體升級營收突破 22 億美元，提供強韌的週期對沖能力。",
+      "breakdown": "半導體製程控制檢測貢獻超過 67% 設備產值，在先進製程 (2nm/A16) 擁有不可替代的護城河。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Precision Optics SOP",
+        "desc": "Cleanroom optics calibration and assembly."
+      },
+      {
+        "level": 2,
+        "name": "Laser Metrology Integration",
+        "desc": "Sub-nanometer precision alignment and calibration."
+      },
+      {
+        "level": 3,
+        "name": "Deep Learning Defect Classification",
+        "desc": "Automated AI inline defect classification algorithms."
+      },
+      {
+        "level": 4,
+        "name": "High-NA Inline Inspection Velocity",
+        "desc": "Real-time EUV wafer inspection with digital twin feedback."
+      },
+      {
+        "level": 5,
+        "name": "Global Inspection Benchmark",
+        "desc": "Compounding operational excellence with (1.01)^365 = 37.8x execution."
+      }
+    ]
+  }
+}

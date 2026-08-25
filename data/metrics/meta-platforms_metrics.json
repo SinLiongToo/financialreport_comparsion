@@ -1,0 +1,253 @@
+{
+  "company_name": "Meta Platforms, Inc.",
+  "ticker": "META",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 85965,
+      "gross_profit": 69273,
+      "operating_income": 32677,
+      "net_income": 29146,
+      "rd_expense": 18447,
+      "headcount": 58604,
+      "gross_margin": 80.58,
+      "operating_margin": 38.01,
+      "net_margin": 33.9,
+      "rd_pct_rev": 21.46,
+      "rev_per_emp": 1466879.0,
+      "gp_per_emp": 1182052.0,
+      "op_per_emp": 557590.0,
+      "ni_per_emp": 497338.0,
+      "rd_per_emp": 314774.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 117929,
+      "gross_profit": 95280,
+      "operating_income": 46753,
+      "net_income": 39370,
+      "rd_expense": 24655,
+      "headcount": 71970,
+      "gross_margin": 80.79,
+      "operating_margin": 39.65,
+      "net_margin": 33.38,
+      "rd_pct_rev": 20.91,
+      "rev_per_emp": 1638586.0,
+      "gp_per_emp": 1323885.0,
+      "op_per_emp": 649618.0,
+      "ni_per_emp": 547033.0,
+      "rd_per_emp": 342573.0,
+      "rev_growth_yoy": 37.18,
+      "gp_growth_yoy": 37.54,
+      "op_growth_yoy": 43.08,
+      "ni_growth_yoy": 35.08,
+      "rd_growth_yoy": 33.65,
+      "hc_growth_yoy": 22.81,
+      "gm_diff_pp": 0.21,
+      "op_diff_pp": 1.64
+    },
+    "2022": {
+      "revenue": 116609,
+      "gross_profit": 91360,
+      "operating_income": 28944,
+      "net_income": 23200,
+      "rd_expense": 35338,
+      "headcount": 86482,
+      "gross_margin": 78.35,
+      "operating_margin": 24.82,
+      "net_margin": 19.9,
+      "rd_pct_rev": 30.3,
+      "rev_per_emp": 1348362.0,
+      "gp_per_emp": 1056405.0,
+      "op_per_emp": 334682.0,
+      "ni_per_emp": 268264.0,
+      "rd_per_emp": 408617.0,
+      "rev_growth_yoy": -1.12,
+      "gp_growth_yoy": -4.11,
+      "op_growth_yoy": -38.09,
+      "ni_growth_yoy": -41.07,
+      "rd_growth_yoy": 43.33,
+      "hc_growth_yoy": 20.16,
+      "gm_diff_pp": -2.44,
+      "op_diff_pp": -14.83
+    },
+    "2023": {
+      "revenue": 134902,
+      "gross_profit": 108943,
+      "operating_income": 46751,
+      "net_income": 39098,
+      "rd_expense": 38483,
+      "headcount": 67317,
+      "gross_margin": 80.76,
+      "operating_margin": 34.66,
+      "net_margin": 28.98,
+      "rd_pct_rev": 28.53,
+      "rev_per_emp": 2003981.0,
+      "gp_per_emp": 1618358.0,
+      "op_per_emp": 694490.0,
+      "ni_per_emp": 580804.0,
+      "rd_per_emp": 571668.0,
+      "rev_growth_yoy": 15.69,
+      "gp_growth_yoy": 19.25,
+      "op_growth_yoy": 61.52,
+      "ni_growth_yoy": 68.53,
+      "rd_growth_yoy": 8.9,
+      "hc_growth_yoy": -22.16,
+      "gm_diff_pp": 2.41,
+      "op_diff_pp": 9.84
+    },
+    "2024": {
+      "revenue": 164800,
+      "gross_profit": 134800,
+      "operating_income": 69380,
+      "net_income": 62200,
+      "rd_expense": 43200,
+      "headcount": 72400,
+      "gross_margin": 81.8,
+      "operating_margin": 42.1,
+      "net_margin": 37.74,
+      "rd_pct_rev": 26.21,
+      "rev_per_emp": 2276243.0,
+      "gp_per_emp": 1861878.0,
+      "op_per_emp": 958287.0,
+      "ni_per_emp": 859116.0,
+      "rd_per_emp": 596685.0,
+      "rev_growth_yoy": 22.16,
+      "gp_growth_yoy": 23.73,
+      "op_growth_yoy": 48.4,
+      "ni_growth_yoy": 59.09,
+      "rd_growth_yoy": 12.26,
+      "hc_growth_yoy": 7.55,
+      "gm_diff_pp": 1.04,
+      "op_diff_pp": 7.44
+    },
+    "2025": {
+      "revenue": 195000,
+      "gross_profit": 160000,
+      "operating_income": 82000,
+      "net_income": 72500,
+      "rd_expense": 49500,
+      "headcount": 76500,
+      "gross_margin": 82.05,
+      "operating_margin": 42.05,
+      "net_margin": 37.18,
+      "rd_pct_rev": 25.38,
+      "rev_per_emp": 2549020.0,
+      "gp_per_emp": 2091503.0,
+      "op_per_emp": 1071895.0,
+      "ni_per_emp": 947712.0,
+      "rd_per_emp": 647059.0,
+      "rev_growth_yoy": 18.33,
+      "gp_growth_yoy": 18.69,
+      "op_growth_yoy": 18.19,
+      "ni_growth_yoy": 16.56,
+      "rd_growth_yoy": 14.58,
+      "hc_growth_yoy": 5.66,
+      "gm_diff_pp": 0.25,
+      "op_diff_pp": -0.05
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Family of Apps Advertising",
+      "Reality Labs",
+      "Other Revenue"
+    ],
+    "colors": [
+      "#0668E1",
+      "#8C52FF",
+      "#00B2FF"
+    ],
+    "data": {
+      "2024": {
+        "value": [
+          160500,
+          2100,
+          2200
+        ],
+        "volume": [
+          97,
+          1,
+          2
+        ]
+      },
+      "2025": {
+        "value": [
+          189000,
+          3200,
+          2800
+        ],
+        "volume": [
+          97,
+          2,
+          1
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Year of Efficiency restructured workforce to ~72.4k FTEs while gross margin expanded to 81.8%, driving human capital revenue to $2.28M/FTE.",
+      "productivity": "Revenue per FTE reached $2.28M with gross profit per employee at $1.86M and operating income per FTE at $958K.",
+      "leverage": "Operating income surged to $69.4B in 2024 (42.1% margin) and expanding toward $82B in 2025.",
+      "rd": "R&D expenditure maintained at $43.2B-$49.5B (25.4%-26.2% of revenue) accelerating open-source Llama foundation models and custom MTIA silicon.",
+      "growth": "Ad impressions and average price per ad both expanded double-digits through Advantage+ AI infrastructure.",
+      "breakdown": "Family of Apps advertising delivers 97% of corporate revenues, funding long-term AI compute cluster scaling."
+    },
+    "zh": {
+      "pivot": "「效率之年」將組織精簡至 7.24 萬人，帶動毛利率回升至 81.8%，推升人均營收突破 228 萬美元/人。",
+      "productivity": "人均毛利達 186 萬美元/人，人均營業利益高達 95.8 萬美元/人，展現頂級軟體與 AI 推薦引擎的極高槓桿。",
+      "leverage": "2024 年營業利益衝破 693.8 億美元（營業利益率 42.1%），2025 年邁向 820 億美元。",
+      "rd": "研發支出達 432 億-495 億美元（佔營收 25.4%-26.2%），全面主導開源 Llama 基礎大模型與自研 MTIA AI 晶片。",
+      "growth": "Advantage+ AI 廣告工具與 Reels 變現推動廣告營收維持雙位數強勁增長。",
+      "breakdown": "家族應用程式廣告貢獻超過 97% 營收，為大規模 AI 運算叢集提供充沛的現金流。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 5,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Social Graph & Monolithic Platform",
+        "desc": "Standard LAMP stack social media network."
+      },
+      {
+        "level": 2,
+        "name": "Global Mobile First Infrastructure",
+        "desc": "Custom Open Compute Project (OCP) datacenters and automated mobile app deployments."
+      },
+      {
+        "level": 3,
+        "name": "AI Recommendation & Ad Tech Pipeline",
+        "desc": "Real-time ranking engines, automated content moderation, and distributed ML pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Hyper-Scale Llama & MTIA Silicon",
+        "desc": "Massive 100k+ GPU clusters, PyTorch 2.0 orchestration, and open-weights AI foundation models."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous AI Ecosystem & Meta Superintelligence",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding software velocity."
+      }
+    ]
+  }
+}
