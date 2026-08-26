@@ -364,25 +364,71 @@ python main.py [--ticker TARGET] [--years N] [--max-pages P] [--serve] [--port P
 
 ---
 
-## 📑 美股 10-K vs. 外國企業 20-F 年報解析技術機制
+## 📑 美股 SEC 財報體系全解析：Form 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K 技術機制
 
-在分析跨國半導體與製造巨頭時，不同企業向美國證券交易委員會 (SEC) 提交的年報格式存在顯著的結構性差異：
+在分析全球半導體與高科技巨頭時，不同企業向美國證券交易委員會 (SEC) 提交的財報格式存在顯著的法規與結構性差異。本系統支援全自動識別與智慧適配：
 
-### 1. 外國私人發行人 (Form 20-F) — 如 ASML (荷蘭)、TSMC (台灣)
-* **版面結構特徵**：
-  * 通常在**第 5 ~ 15 頁** 就會呈現標準化的 **「Item 3.A. Selected Financial Data（精華財務摘要表）」**。
-  * 該表格直接按年份條列 Net Sales、Gross Profit、Headcount、R&D 等核心數據，結構極為集中且標準化。
-* **解析器策略**：
-  * 解析器讀取前 30~40 頁即可快速高保真命中核心審計數據。
+### 1. SEC 財報解析與季度插值全流程圖 (Mermaid Flowchart)
 
-### 2. 美國本土企業 (Form 10-K) — 如 Google (GOOGL)、NVIDIA (NVDA)、Vishay (VSH)
-* **版面結構特徵**：
-  * 依 SEC 規範，前 30~40 頁為冗長之 **Item 1 (Business)** 與 **Item 1A (Risk Factors 風險因素，通常長達 20~30 頁)**。
-  * 真正的核心財務報表 **Item 8 (Consolidated Financial Statements 損益表與資產負債表)** 與管理層討論 **Item 7 (MD&A)** 通常後移至 **第 45 ~ 70 頁**。
-* **本系統之強化應對機制**：
-  * **智能跨頁與章節定位**：智能掃描至 Item 8 核心財務章節，確保 10-K 損益表不因前段風險因素而被截斷。
-  * **通用毛利公式推導**：自動支援 `Revenues - Cost of revenues = Gross Profit` 計算。
-  * **雙軌審計與別名映射 (TICKER_ALIASES)**：支援 `alphabet-google <-> googl <-> goog`、`vishay-intertechnology <-> vsh` 等代碼雙向自動解析。
+```mermaid
+flowchart TD
+    Target["輸入目標企業<br/>(Target Company / Ticker)"] --> Domicile{"企業註冊屬性與上市主體<br/>(SEC Domicile & Issuer Type)"}
+    
+    %% US Domestic Issuer Branch
+    Domicile -- "美國本土上市企業<br/>(US Domestic Issuers)<br/>NVDA, AAPL, MSFT, NXP, AMAT, TER" --> US_Path["美國本土申報體系"]
+    US_Path --> US_Freq{"分析週期模式<br/>(Annual vs. Quarterly)"}
+    
+    US_Freq -- "年度 (Annual)" --> Form10K["Form 10-K (年度審計報告)<br/>• 審計損益表 (Item 8)<br/>• 強制官方員工人數 (Item 1 / 6)"]
+    US_Freq -- "季度 (Quarterly)" --> Form10Q["Form 10-Q (季度期中報告)<br/>• Q1, Q2, Q3 未審計損益表<br/>• SEC 不強制揭露員工人數"]
+    
+    %% Foreign Private Issuer Branch
+    Domicile -- "外國在美發行企業<br/>(Foreign Private Issuers - FPI)<br/>ASML, TSMC, ASE" --> FPI_Path["外國發行人申報體系"]
+    FPI_Path --> FPI_Freq{"分析週期模式<br/>(Annual vs. Quarterly)"}
+    
+    FPI_Freq -- "年度 (Annual)" --> Form20F["Form 20-F (外國年度審計報告)<br/>• IFRS / US GAAP 損益表 (Item 18)<br/>• 精華財務摘要 (Item 3.A)<br/>• 強制官方員工人數 (Item 6.D)"]
+    FPI_Freq -- "季度 (Quarterly)" --> Form6K["Form 6-K / 10-F (外國期中備案)<br/>• 母國季報同步備案<br/>• 季度未審計財報與重大事件"]
+    
+    %% Headcount Anchor & Linear Interpolation Pipeline
+    Form10K --> AnchorEngine["10-K / 20-F 年度人數錨定點 H(Y)"]
+    Form20F --> AnchorEngine
+    
+    Form10Q --> InterpolationEngine["季度線性插值引擎<br/>(Quarterly Linear Interpolation)"]
+    Form6K --> InterpolationEngine
+    AnchorEngine --> InterpolationEngine
+    
+    InterpolationEngine --> SmoothHC["精確平滑計算季度人數<br/>Q1 = H(Y-1) + 0.25*(H(Y)-H(Y-1))<br/>Q2 = H(Y-1) + 0.50*(H(Y)-H(Y-1))<br/>Q3 = H(Y-1) + 0.75*(H(Y)-H(Y-1))<br/>Q4 = H(Y)"]
+    
+    %% Output to KPI Calculation
+    Form10K --> MasterKPI["Master KPI 產值精算引擎<br/>• 人均營收 (Rev/FTE)<br/>• 人均毛利 (GP/FTE)<br/>• 營業利潤率 & 研發強度"]
+    Form20F --> MasterKPI
+    SmoothHC --> MasterKPI
+    
+    MasterKPI --> Output["產出結構化指標 JSON ➔ 50/50 戰略儀表板 (Web / Standalone HTML)"]
+```
+
+---
+
+### 2. 四大 SEC 申報表格核心差異對照表
+
+| SEC 申報表格 | 適用發行主體 (Issuer) | 申報週期與頻率 | 會計審計狀態 (Audit) | 員工人數揭露 (Headcount) | 核心報表結構與位置 | 本系統解析器應對機制 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Form 10-K** | **美國本土企業**<br>(NVDA, AAPL, MSFT, NXP, AMAT, TER, PLTR, AMD) | **年度 (Annual)**<br>會計年度結束後 60~90 天內申報 | **Audited (經會計師查核簽證)** | **強制揭露 (Mandatory)**<br>於 Item 1 或 Item 6 揭露該年度底官方員工人數 | **Item 8** 損益表與資產負債表（通常位於第 40~70 頁），前段為 Item 1A 風險因素 | 智能跳躍至 Item 8，自動推導 `Revenues - Cost of revenues = GP`，提取官方年終員工人數作為錨定基準。 |
+| **Form 10-Q** | **美國本土企業**<br>(同上) | **季度 (Quarterly)**<br>前三季 (Q1, Q2, Q3) 結束後 40~45 天內申報 | **Unaudited (期中未經審計)** | **不強制揭露 (Optional / Rare)**<br>SEC 依法不要求季度揭露 Headcount | 季度損益表、資產負債表、MD&A 營運討論；Q4 通常直接併入 10-K | 提取單季營收、毛利、營業利益，**自動向上錨定 10-K 審計人數並執行季度線性插值平滑**，計算 Q4 差額補齊四季。 |
+| **Form 20-F** | **外國私人發行人 (FPI)**<br>(ASML 荷蘭、TSMC 台灣、ASE 日月光) | **年度 (Annual)**<br>會計年度結束後 4 個月內申報 | **Audited (經會計師查核簽證)** | **強制揭露 (Mandatory)**<br>於 Item 6.D 揭露全職員工與地區分佈 | **Item 3.A** 5 年精華財務摘要（位於前 5~15 頁）；**Item 18** 完整 IFRS 財報 | 優先掃描前 20 頁之 Item 3.A 高濃度表格，極速獲取 5 年完整營收、毛利、員工人數與研發費用。 |
+| **Form 10-F / 6-K** | **外國私人發行人 (FPI)**<br>(同上) | **期中 / 重大訊息 (Interim / Event)**<br>發布季報或重大訊息時同步備案 | **依母國法規而定 (Varies)** | **依母國法規而定**<br>(非美籍規範) | 外國季度業績發表新聞稿、簡明合併財報、法說會簡報備案 | 識別 6-K 季度新聞稿中的單季營收與毛利，對齊 20-F 年度人數進行平滑過渡。 |
+
+---
+
+### 3. 為什麼 10-Q 缺乏 Headcount？本系統之「季度線性插值」解法
+
+* **法規背景**：美國 SEC Rule 13a-13 規範 Form 10-Q 旨在提供高頻率的短期財務狀況更新，不強制要求揭露員工總數。若直接讀取 10-Q，會導致歷史各季人數缺失或被誤填為固定常數。
+* **演算法解法（季度線性插值）**：
+  以會計年度 $Y$ 年底的 10-K 審計人數 $H_Y$ 與前一年度 $H_{Y-1}$ 為錨定基準點，於四季之間建立線性平滑成長模型：
+  $$Q1 = \text{round}\left(H_{Y-1} + 0.25 \times (H_Y - H_{Y-1})\right)$$
+  $$Q2 = \text{round}\left(H_{Y-1} + 0.50 \times (H_Y - H_{Y-1})\right)$$
+  $$Q3 = \text{round}\left(H_{Y-1} + 0.75 \times (H_Y - H_{Y-1})\right)$$
+  $$Q4 = H_Y$$
+  *此機制確保季度人均產值（人均營收、人均毛利）精準反映產能利用率波動，杜絕數據斷層與失真。*
 
 ---
 
@@ -450,6 +496,9 @@ python main.py --export-static
   - **修復 Quarterly 模式 Headcount 全平與 Annual 10-K 脫節問題 (年度人數錨定與季度線性插值)**：
     - **根本原因**：美國 SEC Form 10-Q 季度財報依法不強制揭露員工人數，原先解析程式使用寫死常數（`34,000`）與末季 Fallback 機制，導致 NXP、AMD、AAPL、MSFT、META、AMZN、MU、PLTR、AMAT、TER 等 10 家公司的歷史季度 Headcount 全部被填成 2025 年底最高值（全平），造成歷史季度人均產值被嚴重低估。
     - **解決方案 (架構升級)**：在 `metrics_extractor.py` 中新增 `get_annual_headcount_map` 與 `resolve_quarterly_headcount`，自動向上錨定 10-K 審計人數，並於 $Q1 \sim Q4$ 間執行高精度線性插值平滑過渡（$Q1 \rightarrow Q2 \rightarrow Q3 \rightarrow Q4$）。
+    - **增補 Help 使用說明與 SEC 財報解析 Mermaid 全流程圖**：
+      - 在 Web 儀表板 **Help (操作指南)** 中新增 Form 10-K、10-Q、20-F、10-F/6-K 之詳細差異對照表（適用對象、審計狀態、員工人數揭露原則）。
+      - 在 `README.md` 第 12 節新增 Mermaid 流程圖，完整視覺化呈現美國本土與外國發行人之年度/季度申報路徑與插值精算架構。
     - **全面更新資料庫與 Standalone**：徹底消除寫死硬編碼，重新生成所有 19 家公司的 JSON 快取，並同步編譯 `docs/index.html` 與 `standalone_dashboard.html`，確保人均營收、人均毛利與 YoY 人數增長率呈現真實平滑走勢。
 
 - **v1.4.1 (2026-08-26)**：

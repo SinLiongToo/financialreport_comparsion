@@ -811,13 +811,67 @@
                     </div>
                 </div>
 
-                <!-- Section 5: 10-K vs 20-F -->
-                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                <!-- Section 6: SEC Filing Types: 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-3">
                     <h4 class="text-sm font-bold text-cyan-400 flex items-center gap-2">
                         <i class="fa-solid fa-file-invoice-dollar"></i>
-                        <span data-i18n="guide_sec4_title">6. Form 10-K vs. Form 20-F Compatibility</span>
+                        <span data-i18n="guide_sec4_title">6. SEC Filings: Form 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K Comparison</span>
                     </h4>
-                    <p data-i18n="guide_sec4_p">Foreign issuers (ASML, TSMC) submit <strong>Form 20-F</strong> (Item 3.A summary on pages 5-15), while US domestic corporations (NVIDIA, NXP, Vishay) submit <strong>Form 10-K</strong> (Item 8 financial statements on pages 35-70). The parser automatically detects and cross-scans both structures seamlessly.</p>
+                    <p class="text-xs text-slate-300" data-i18n="guide_sec4_p">
+                        Public companies on US exchanges file different SEC disclosures based on domicile (US Domestic vs. Foreign Private Issuer) and reporting period (Annual vs. Quarterly):
+                    </p>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-xs text-left border-collapse border border-slate-700 rounded-lg overflow-hidden">
+                            <thead class="bg-slate-800 text-slate-300 font-semibold border-b border-slate-700">
+                                <tr>
+                                    <th class="py-2 px-2.5 border border-slate-700 w-24">SEC Form</th>
+                                    <th class="py-2 px-2.5 border border-slate-700">Issuer Type (適用對象)</th>
+                                    <th class="py-2 px-2.5 border border-slate-700 w-20">Frequency</th>
+                                    <th class="py-2 px-2.5 border border-slate-700 w-24">Audit Status</th>
+                                    <th class="py-2 px-2.5 border border-slate-700">Headcount Disclosure (員工人數)</th>
+                                    <th class="py-2 px-2.5 border border-slate-700">Key Contents & Structure (核心內容架構)</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-700/60 text-slate-300 text-[11px]">
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-2.5 font-bold text-amber-400 border border-slate-700 font-mono">Form 10-K</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">US Domestic Corporations<br><span class="text-slate-400 text-[10px]">(NVDA, AAPL, MSFT, NXP, AMAT)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400 font-medium">Annual<br>(年度)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(會計師查核簽證)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong> (Item 1 / 6)<br>Official year-end employee total</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Item 8 audited financial statements, Item 7 MD&A, segment revenue, full notes</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-2.5 font-bold text-blue-400 border border-slate-700 font-mono">Form 10-Q</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">US Domestic Corporations<br><span class="text-slate-400 text-[10px]">(NVDA, AAPL, MSFT, NXP, AMAT)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-blue-400 font-medium">Quarterly<br>(Q1, Q2, Q3)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Unaudited<br>(期中未經審計)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-amber-400"><strong>Optional / Rare</strong><br><em>(Interpolated from 10-K anchor)</em></td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Quarterly P&L, balance sheet, MD&A, segment sales (Q4 reported in 10-K)</td>
+                                </tr>
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-2.5 font-bold text-emerald-400 border border-slate-700 font-mono">Form 20-F</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Foreign Private Issuers (FPI)<br><span class="text-slate-400 text-[10px]">(ASML - Netherlands, TSMC - Taiwan)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400 font-medium">Annual<br>(年度)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(會計師查核簽證)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong> (Item 6.D)<br>Official year-end employee total</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Item 3.A 5-year selected financial data, Item 18 IFRS/US GAAP statements, ADR info</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-2.5 font-bold text-purple-400 border border-slate-700 font-mono">Form 10-F / 6-K</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Foreign Private Issuers (FPI)<br><span class="text-slate-400 text-[10px]">(TSMC, ASML, ASE)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-purple-400 font-medium">Interim / Event<br>(季度/重大訊息)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Varies<br>(依母國證券法規)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Depends on Home Country<br><em>(Aligned with 20-F anchor)</em></td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Foreign quarterly earnings release, material events, dividend announcements</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="bg-slate-800/80 p-3 rounded-lg border border-slate-700 space-y-1 text-[11px]">
+                        <p><strong class="text-amber-400">• Why does Form 10-Q lack Headcount?</strong> SEC Rule 13a-13 does not require quarterly headcount disclosures. Our engine automatically anchors to official 10-K/20-F annual audit numbers and performs linear interpolation ($Q1 \rightarrow Q2 \rightarrow Q3 \rightarrow Q4$) to keep productivity ($/FTE) accurate.</p>
+                        <p><strong class="text-emerald-400">• 10-K vs. 20-F Parsing Engine:</strong> 20-F files store 5-year summary tables on pages 5-15 (Item 3.A), while 10-K files place financial statements on pages 40-70 (Item 8). The workflow dynamically adjusts its PDF-to-Markdown scanner depth accordingly.</p>
+                    </div>
                 </div>
 
                 <!-- Section 6: LLM Integration -->
