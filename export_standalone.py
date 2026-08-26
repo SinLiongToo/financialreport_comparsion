@@ -28,38 +28,55 @@ if sys.platform == "win32":
     except Exception:
         pass
 
-from metrics_extractor import FinancialMetricsExtractor, BUILTIN_BENCHMARKS, TICKER_ALIASES
+from metrics_extractor import FinancialMetricsExtractor, BUILTIN_BENCHMARKS, BUILTIN_BENCHMARKS_QUARTERLY, TICKER_ALIASES
 
-def build_metrics_db():
+def build_metrics_db(freq: str = "annual"):
     extractor = FinancialMetricsExtractor()
     db = {}
     
+    benchmarks = BUILTIN_BENCHMARKS_QUARTERLY if freq == "quarterly" else BUILTIN_BENCHMARKS
+
     # 1. Load from BUILTIN_BENCHMARKS
-    for ticker in BUILTIN_BENCHMARKS.keys():
+    for ticker in benchmarks.keys():
         try:
-            m = extractor.get_metrics(ticker, freq="annual")
+            m = extractor.get_metrics(ticker, freq=freq)
             if m:
                 db[ticker.lower()] = m
                 canon = extractor.canonical_ticker(ticker).lower()
                 db[canon] = m
         except Exception as e:
-            print(f"  [!] Warning loading benchmark {ticker}: {e}")
+            print(f"  [!] Warning loading benchmark {ticker} ({freq}): {e}")
 
-    # 2. Load from data/metrics/*.json
-    metrics_dir = os.path.join(os.path.dirname(__file__), "data", "metrics")
-    if os.path.exists(metrics_dir):
-        for f in glob.glob(os.path.join(metrics_dir, "*_metrics.json")):
-            try:
-                base = os.path.basename(f).replace("_metrics.json", "").lower()
-                with open(f, "r", encoding="utf-8") as jf:
-                    data = json.load(jf)
-                    db[base] = data
-                    canon = extractor.canonical_ticker(base).lower()
-                    db[canon] = data
-            except Exception as e:
-                print(f"  [!] Warning loading {f}: {e}")
+    # 2. Also check parsed MD directories for companies not in benchmarks
+    parsed_dir = os.path.join(os.path.dirname(__file__), "data", "parsed_md")
+    if os.path.exists(parsed_dir):
+        for company_folder in os.listdir(parsed_dir):
+            canon = extractor.canonical_ticker(company_folder).lower()
+            if canon not in db:
+                try:
+                    m = extractor.get_metrics(company_folder, freq=freq)
+                    if m and m.get("financials"):
+                        db[company_folder.lower()] = m
+                        db[canon] = m
+                except Exception as e:
+                    print(f"  [!] Warning scanning {company_folder} ({freq}): {e}")
 
-    print(f"  [✓] Compiled metrics database with {len(db)} entries ({len(set(extractor.canonical_ticker(k) for k in db.keys()))} unique companies).")
+    # 3. Load from data/metrics/*.json (for annual)
+    if freq == "annual":
+        metrics_dir = os.path.join(os.path.dirname(__file__), "data", "metrics")
+        if os.path.exists(metrics_dir):
+            for f in glob.glob(os.path.join(metrics_dir, "*_metrics.json")):
+                try:
+                    base = os.path.basename(f).replace("_metrics.json", "").lower()
+                    with open(f, "r", encoding="utf-8") as jf:
+                        data = json.load(jf)
+                        db[base] = data
+                        canon = extractor.canonical_ticker(base).lower()
+                        db[canon] = data
+                except Exception as e:
+                    print(f"  [!] Warning loading {f}: {e}")
+
+    print(f"  [✓] Compiled {freq} metrics database with {len(db)} entries ({len(set(extractor.canonical_ticker(k) for k in db.keys()))} unique companies).")
     return db
 
 def build_markdown_db():
@@ -71,9 +88,10 @@ def build_markdown_db():
             folder_path = os.path.join(parsed_dir, company_folder)
             if os.path.isdir(folder_path):
                 canon = FinancialMetricsExtractor.canonical_ticker(company_folder).lower()
-                md_db[canon] = {}
+                if canon not in md_db:
+                    md_db[canon] = {}
                 md_files = sorted(glob.glob(os.path.join(folder_path, "*.md")), reverse=True)
-                for md_file in md_files[:4]:  # Top 4 most recent 10-Ks/Annual reports
+                for md_file in md_files[:12]:  # Include recent 10-Ks, 20-Fs and 10-Qs
                     fn = os.path.basename(md_file)
                     try:
                         with open(md_file, "r", encoding="utf-8") as mf:
@@ -102,11 +120,13 @@ def export_standalone():
     
     print("\n📦 Building Standalone GitHub Pages Dashboard...")
     
-    # 1. Compile Data Bundles
-    metrics_db = build_metrics_db()
+    # 1. Compile Data Bundles (Annual + Quarterly + Markdown)
+    metrics_db = build_metrics_db(freq="annual")
+    metrics_quarterly_db = build_metrics_db(freq="quarterly")
     markdown_db = build_markdown_db()
     
     metrics_json_str = json.dumps(metrics_db, ensure_ascii=False)
+    metrics_q_json_str = json.dumps(metrics_quarterly_db, ensure_ascii=False)
     markdown_json_str = json.dumps(markdown_db, ensure_ascii=False)
     
     # 2. Read HTML Template
@@ -140,12 +160,13 @@ def export_standalone():
     // STANDALONE IN-MEMORY STATIC DATABASE FOR GITHUB PAGES & OFFLINE USE
     // =========================================================================
     window.STATIC_METRICS_DB = {metrics_json_str};
+    window.STATIC_METRICS_QUARTERLY_DB = {metrics_q_json_str};
     window.STATIC_MARKDOWN_DB = {markdown_json_str};
     window.STANDALONE_BUILD = true;
-    console.log("🚀 Standalone Dashboard initialized with in-memory database of", Object.keys(window.STATIC_METRICS_DB).length, "companies.");
+    console.log("🚀 Standalone Dashboard initialized: Annual (" + Object.keys(window.STATIC_METRICS_DB).length + " keys), Quarterly (" + Object.keys(window.STATIC_METRICS_QUARTERLY_DB).length + " keys).");
     </script>
     <script>
-{js_content}
+    {js_content}
     </script>
     """
     

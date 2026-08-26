@@ -86,23 +86,33 @@ class AnnualReportCrawler:
         ticker = target.lower()
         return ticker, "annual-reports"
 
-    def get_report_urls(self, ticker: str, preferred_type: Optional[str] = None) -> List[str]:
-        """Generate candidate URLs for fetching reports with slug resolution"""
+    def get_report_urls(self, ticker: str, preferred_type: Optional[str] = None, freq: str = "annual") -> List[str]:
+        """Generate candidate URLs for fetching reports with slug resolution and freq priority"""
         candidates = []
         slugs = TICKER_SLUGS.get(ticker.lower(), [ticker.lower()])
+        
+        is_quarterly = freq == "quarterly" or (preferred_type and ("quarterly" in preferred_type.lower() or "10q" in preferred_type.lower()))
         
         for slug in slugs:
             if preferred_type:
                 candidates.append(f"{self.BASE_URL}/{slug}/{preferred_type}/")
             
-            # Add common variants (both annual and quarterly)
-            candidates.extend([
-                f"{self.BASE_URL}/{slug}/quarterly-reports-10q/",
-                f"{self.BASE_URL}/{slug}/quarterly-reports/",
-                f"{self.BASE_URL}/{slug}/annual-reports-20f/",
-                f"{self.BASE_URL}/{slug}/annual-reports/",
-                f"{self.BASE_URL}/{slug}/annual-reports-10k/"
-            ])
+            if is_quarterly:
+                candidates.extend([
+                    f"{self.BASE_URL}/{slug}/quarterly-reports-10q/",
+                    f"{self.BASE_URL}/{slug}/quarterly-reports/",
+                    f"{self.BASE_URL}/{slug}/annual-reports-20f/",
+                    f"{self.BASE_URL}/{slug}/annual-reports/",
+                    f"{self.BASE_URL}/{slug}/annual-reports-10k/"
+                ])
+            else:
+                candidates.extend([
+                    f"{self.BASE_URL}/{slug}/annual-reports-20f/",
+                    f"{self.BASE_URL}/{slug}/annual-reports/",
+                    f"{self.BASE_URL}/{slug}/annual-reports-10k/",
+                    f"{self.BASE_URL}/{slug}/quarterly-reports-10q/",
+                    f"{self.BASE_URL}/{slug}/quarterly-reports/"
+                ])
             
         seen = set()
         unique = []
@@ -112,12 +122,14 @@ class AnnualReportCrawler:
                 unique.append(url)
         return unique
 
-    def fetch_reports_list(self, target: str) -> List[Dict]:
+    def fetch_reports_list(self, target: str, freq: str = "annual") -> List[Dict]:
         """
-        Fetches the list of available annual reports metadata from the webpage.
+        Fetches the list of available annual/quarterly reports metadata from the webpage.
         """
         ticker, preferred_type = self.parse_input(target)
-        urls_to_try = self.get_report_urls(ticker, preferred_type)
+        if freq == "quarterly" and preferred_type == "annual-reports":
+            preferred_type = "quarterly-reports-10q"
+        urls_to_try = self.get_report_urls(ticker, preferred_type, freq=freq)
 
         html_found = None
         used_url = None
@@ -128,7 +140,7 @@ class AnnualReportCrawler:
                 with urllib.request.urlopen(req, timeout=15) as resp:
                     if resp.status == 200:
                         content = resp.read().decode("utf-8", errors="replace")
-                        if "reports-row" in content or "annual-reports" in content or "report-btn" in content:
+                        if "reports-row" in content or "annual-reports" in content or "quarterly-reports" in content or "report-btn" in content:
                             html_found = content
                             used_url = url
                             break
@@ -136,7 +148,7 @@ class AnnualReportCrawler:
                 continue
 
         if not html_found:
-            raise ValueError(f"Could not fetch annual reports page for target: {target}")
+            raise ValueError(f"Could not fetch reports page for target: {target}")
 
         soup = BeautifulSoup(html_found, "html.parser")
         rows = soup.find_all(class_="reports-row")
@@ -206,9 +218,9 @@ class AnnualReportCrawler:
         freq: str = "annual"
     ) -> List[Dict]:
         """
-        Downloads annual report PDFs for the specified company.
+        Downloads annual/quarterly report PDFs for the specified company.
         """
-        reports = self.fetch_reports_list(target)
+        reports = self.fetch_reports_list(target, freq=freq)
         if not reports:
             return []
 

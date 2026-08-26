@@ -446,6 +446,14 @@ python main.py --export-static
 
 ## 📝 最新修復與優化 (Change Log)
 
+- **v1.4.1 (2026-08-26)**：
+  - **全面修復單季 (Quarterly 10-Q) 切換按鈕無反應與公司季度財報關聯異常**：
+    - **根本原因 1 (離線記憶體資料庫缺少季度數據)**：`export_standalone.py` 原先僅打包年度資料 (`STATIC_METRICS_DB`)，未注入季度資料庫 (`STATIC_METRICS_QUARTERLY_DB`)，導致在離線 HTML / GitHub Pages 環境下點擊「Quarterly (10-Q)」按鈕時，前端無法讀取單季數據而無視覺響應。
+    - **根本原因 2 (公司代碼與別名資料夾映射缺漏)**：後端 `/api/markdown-files/<ticker>` 與 `/api/markdown-content` 原先僅掃描單一資料夾，未檢查如 `alphabet-google <-> googl`、`apple <-> aapl`、`amazon <-> amzn`、`microsoft <-> msft`、`meta-platforms <-> meta` 等別名目錄，導致點選美股大廠時 Markdown 瀏覽器顯示為空。
+    - **根本原因 3 (工作流網址同步與爬蟲優先級)**：前端 `syncTargetInputWithTicker` 原先固定填入 `annual-reports/`，修復後在單季模式下自動精確切換為各公司官方 `quarterly-reports-10q/` 網址；同時更新 `crawler.py` 之 `get_report_urls` 與 `fetch_reports_list`，支援依據 `freq="quarterly"` 優先下載與解析 10-Q 季度財報。
+    - **前端 UI 增強**：Markdown 檔案清單新增專屬顏色徽章（`10-Q` 單季報告為琥珀色，`10-K / 20-F` 年度報告為藍色），並於季度模式下自動將 10-Q 報告置頂與即時預覽。
+    - **同步重構 Standalone 套件**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，確保單季 10-Q 與年度 10-K 在雲端部署、本機 Flask 與完全離線模式下均 100% 即時反應。
+
 - **v1.4.0 (2026-08-26)**：
   - **新增 100% 獨立無伺服器 (Serverless) Standalone HTML 導出引擎 (`export_standalone.py`)**：
     - 將 19 家科技巨頭審計指標、10-K Markdown 與前端視覺化邏輯（CSS/JS）全面打包為單一 HTML。
@@ -513,6 +521,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v1.4.1 - fix: resolve Quarterly 10-Q toggle inactivity, bundle quarterly DB in standalone, fix ticker alias markdown resolution, and synchronize 10-Q workflow URLs
 * commit v1.4.0 - feat: add standalone serverless HTML export engine for GitHub Pages and 100% offline usage
 * commit v1.3.5 - fix: populate AMAT R&D expenditure and intensity metrics across annual benchmarks
 * commit v1.3.4 - fix: normalize Samsung financials to USD $M to correct Rev/FTE and productivity benchmarking

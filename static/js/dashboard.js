@@ -47,12 +47,27 @@ const COMPANY_COLORS = {
     "amazon": "#F97316",
     "amzn": "#F97316",
     "palantir": "#06B6D4",
-    "pltr": "#06B6D4",
-    "advantest": "#E11D48",
-    "6857": "#E11D48",
-    "samsung": "#60A5FA",
-    "005930": "#60A5FA"
+const TICKER_CANONICAL_MAP = {
+    "nvidia": "nvda", "nvda": "nvda", "tsmc": "tsmc", "tsm": "tsmc", "2330": "tsmc",
+    "asml": "asml", "vishay": "vsh", "vsh": "vsh", "vishay-intertechnology": "vsh",
+    "nxp": "nxp", "nxpi": "nxp", "nxp-semiconductors": "nxp",
+    "amat": "amat", "applied-materials": "amat", "goog": "googl", "googl": "googl",
+    "google": "googl", "alphabet": "googl", "alphabet-google": "googl",
+    "aapl": "aapl", "apple": "aapl", "apple-inc": "aapl",
+    "ase": "ase", "ase-group": "ase", "asx": "ase", "3711": "ase",
+    "mu": "mu", "micron": "mu", "micron-technology": "mu",
+    "klac": "klac", "kla": "klac", "kla-tencor": "klac",
+    "ter": "ter", "teradyne": "ter", "teradyne-inc": "ter",
+    "msft": "msft", "microsoft": "msft", "meta": "meta", "meta-platforms": "meta",
+    "amazon": "amzn", "amzn": "amzn", "palantir": "pltr", "pltr": "pltr",
+    "advantest": "advantest", "6857": "advantest", "samsung": "samsung", "005930": "samsung"
 };
+
+function FinancialMetricsExtractor_canonical_ticker(ticker) {
+    if (!ticker) return "";
+    const clean = String(ticker).toLowerCase().trim();
+    return TICKER_CANONICAL_MAP[clean] || clean;
+}
 
 const DEFAULT_PALETTE = ["#00A3E0", "#EF4444", "#10B981", "#F59E0B", "#A855F7", "#EC4899", "#14B8A6", "#3B82F6", "#F97316", "#06B6D4", "#E11D48", "#818CF8", "#38BDF8"];
 
@@ -224,7 +239,11 @@ function setupFrequencyToggle() {
             CURRENT_FREQ = "annual";
             btnAnnual.className = "bg-blue-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1 shadow-sm";
             btnQuarterly.className = "text-slate-300 hover:text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1";
-            if (ACTIVE_VIEW === "single") loadDashboardData();
+            
+            const selComp = document.getElementById("companySelect")?.value || "ASML";
+            syncTargetInputWithTicker(selComp);
+
+            if (ACTIVE_VIEW === "single") loadDashboardData(selComp);
             else loadComparisonData();
         });
 
@@ -233,7 +252,11 @@ function setupFrequencyToggle() {
             CURRENT_FREQ = "quarterly";
             btnQuarterly.className = "bg-amber-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1 shadow-sm";
             btnAnnual.className = "text-slate-300 hover:text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1";
-            if (ACTIVE_VIEW === "single") loadDashboardData();
+            
+            const selComp = document.getElementById("companySelect")?.value || "ASML";
+            syncTargetInputWithTicker(selComp);
+
+            if (ACTIVE_VIEW === "single") loadDashboardData(selComp);
             else loadComparisonData();
         });
     }
@@ -623,19 +646,47 @@ function syncTargetInputWithTicker(ticker) {
     const input = document.getElementById("targetInput");
     if (!input) return;
     const t = ticker.toLowerCase();
-    if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
-    else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/annual-reports/";
-    else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/annual-reports/";
-    else if (t === "googl" || t === "google" || t === "goog" || t === "alphabet") input.value = "https://companiesmarketcap.com/alphabet-google/annual-reports/";
-    else if (t === "amd") input.value = "https://companiesmarketcap.com/amd/annual-reports/";
-    else if (t === "aapl" || t === "apple") input.value = "https://companiesmarketcap.com/apple/annual-reports/";
-    else if (t === "ase" || t === "asx" || t === "ase-group" || t === "3711") input.value = "https://companiesmarketcap.com/ase-group/annual-reports/";
-    else if (t === "mu" || t === "micron" || t === "micron-technology") input.value = "https://companiesmarketcap.com/micron-technology/annual-reports/";
-    else if (t === "klac" || t === "kla" || t === "kla-tencor") input.value = "https://companiesmarketcap.com/kla/annual-reports/";
-    else if (t === "ter" || t === "teradyne") input.value = "https://companiesmarketcap.com/teradyne/annual-reports/";
-    else if (t === "nxp" || t === "nxpi" || t === "nxp-semiconductors") input.value = "https://companiesmarketcap.com/nxp-semiconductors/annual-reports/";
-    else if (t === "vsh" || t === "vishay" || t === "vishay-intertechnology") input.value = "https://companiesmarketcap.com/vishay-intertechnology/annual-reports/";
-    else input.value = ticker.toUpperCase();
+    const isQ = CURRENT_FREQ === "quarterly";
+
+    if (isQ) {
+        if (t === "asml") input.value = "https://companiesmarketcap.com/asml/quarterly-reports/";
+        else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/quarterly-reports/";
+        else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/quarterly-reports-10q/";
+        else if (t === "googl" || t === "google" || t === "goog" || t === "alphabet" || t === "alphabet-google") input.value = "https://companiesmarketcap.com/alphabet-google/quarterly-reports-10q/";
+        else if (t === "amd") input.value = "https://companiesmarketcap.com/amd/quarterly-reports-10q/";
+        else if (t === "aapl" || t === "apple") input.value = "https://companiesmarketcap.com/apple/quarterly-reports-10q/";
+        else if (t === "ase" || t === "asx" || t === "ase-group" || t === "3711") input.value = "https://companiesmarketcap.com/ase-group/quarterly-reports/";
+        else if (t === "mu" || t === "micron" || t === "micron-technology") input.value = "https://companiesmarketcap.com/micron-technology/quarterly-reports-10q/";
+        else if (t === "klac" || t === "kla" || t === "kla-tencor") input.value = "https://companiesmarketcap.com/kla/quarterly-reports-10q/";
+        else if (t === "ter" || t === "teradyne") input.value = "https://companiesmarketcap.com/teradyne/quarterly-reports-10q/";
+        else if (t === "nxp" || t === "nxpi" || t === "nxp-semiconductors") input.value = "https://companiesmarketcap.com/nxp-semiconductors/quarterly-reports-10q/";
+        else if (t === "vsh" || t === "vishay" || t === "vishay-intertechnology") input.value = "https://companiesmarketcap.com/vishay-intertechnology/quarterly-reports-10q/";
+        else if (t === "msft" || t === "microsoft") input.value = "https://companiesmarketcap.com/microsoft/quarterly-reports-10q/";
+        else if (t === "amzn" || t === "amazon") input.value = "https://companiesmarketcap.com/amazon/quarterly-reports-10q/";
+        else if (t === "meta" || t === "meta-platforms") input.value = "https://companiesmarketcap.com/meta-platforms/quarterly-reports-10q/";
+        else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/quarterly-reports-10q/";
+        else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/quarterly-reports-10q/";
+        else input.value = `${ticker.toUpperCase()} (10-Q)`;
+    } else {
+        if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
+        else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/annual-reports/";
+        else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/annual-reports/";
+        else if (t === "googl" || t === "google" || t === "goog" || t === "alphabet" || t === "alphabet-google") input.value = "https://companiesmarketcap.com/alphabet-google/annual-reports/";
+        else if (t === "amd") input.value = "https://companiesmarketcap.com/amd/annual-reports/";
+        else if (t === "aapl" || t === "apple") input.value = "https://companiesmarketcap.com/apple/annual-reports/";
+        else if (t === "ase" || t === "asx" || t === "ase-group" || t === "3711") input.value = "https://companiesmarketcap.com/ase-group/annual-reports/";
+        else if (t === "mu" || t === "micron" || t === "micron-technology") input.value = "https://companiesmarketcap.com/micron-technology/annual-reports/";
+        else if (t === "klac" || t === "kla" || t === "kla-tencor") input.value = "https://companiesmarketcap.com/kla/annual-reports/";
+        else if (t === "ter" || t === "teradyne") input.value = "https://companiesmarketcap.com/teradyne/annual-reports/";
+        else if (t === "nxp" || t === "nxpi" || t === "nxp-semiconductors") input.value = "https://companiesmarketcap.com/nxp-semiconductors/annual-reports/";
+        else if (t === "vsh" || t === "vishay" || t === "vishay-intertechnology") input.value = "https://companiesmarketcap.com/vishay-intertechnology/annual-reports/";
+        else if (t === "msft" || t === "microsoft") input.value = "https://companiesmarketcap.com/microsoft/annual-reports/";
+        else if (t === "amzn" || t === "amazon") input.value = "https://companiesmarketcap.com/amazon/annual-reports/";
+        else if (t === "meta" || t === "meta-platforms") input.value = "https://companiesmarketcap.com/meta-platforms/annual-reports/";
+        else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/annual-reports/";
+        else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/annual-reports/";
+        else input.value = ticker.toUpperCase();
+    }
 }
 
 function applyLanguage(lang) {
@@ -761,11 +812,15 @@ async function loadDashboardData(targetCompany = null) {
         const company = targetCompany || document.getElementById("companySelect").value || "ASML";
         let data = null;
 
-        if (isStandaloneMode() && window.STATIC_METRICS_DB) {
+        if (isStandaloneMode() && (window.STATIC_METRICS_DB || window.STATIC_METRICS_QUARTERLY_DB)) {
             const key = company.toLowerCase();
-            data = window.STATIC_METRICS_DB[key] ||
-                   window.STATIC_METRICS_DB[key.replace("-platforms", "").replace("alphabet-", "")] ||
-                   Object.values(window.STATIC_METRICS_DB)[0];
+            const db = (CURRENT_FREQ === "quarterly" && window.STATIC_METRICS_QUARTERLY_DB) ? window.STATIC_METRICS_QUARTERLY_DB : window.STATIC_METRICS_DB;
+            if (db) {
+                data = db[key] ||
+                       db[key.replace("-platforms", "").replace("alphabet-", "")] ||
+                       db[FinancialMetricsExtractor_canonical_ticker(key)] ||
+                       Object.values(db)[0];
+            }
         } else {
             const res = await fetch(`/api/metrics/${company.toLowerCase()}?freq=${CURRENT_FREQ}&_t=${Date.now()}`, { cache: "no-store" });
             data = await res.json();
@@ -1125,18 +1180,22 @@ async function loadComparisonData() {
     }
 
     try {
-        if (isStandaloneMode() && window.STATIC_METRICS_DB) {
+        if (isStandaloneMode() && (window.STATIC_METRICS_DB || window.STATIC_METRICS_QUARTERLY_DB)) {
             const companiesResult = {};
-            checkedBoxes.forEach(t => {
-                const item = window.STATIC_METRICS_DB[t] ||
-                             window.STATIC_METRICS_DB[t.replace("-platforms", "").replace("alphabet-", "")];
-                if (item) {
-                    companiesResult[t] = item;
-                }
-            });
-            COMPARISON_DATA = companiesResult;
-            renderComparisonView(COMPARISON_DATA);
-            return;
+            const db = (CURRENT_FREQ === "quarterly" && window.STATIC_METRICS_QUARTERLY_DB) ? window.STATIC_METRICS_QUARTERLY_DB : window.STATIC_METRICS_DB;
+            if (db) {
+                checkedBoxes.forEach(t => {
+                    const item = db[t] ||
+                                 db[t.replace("-platforms", "").replace("alphabet-", "")] ||
+                                 db[FinancialMetricsExtractor_canonical_ticker(t)];
+                    if (item) {
+                        companiesResult[t] = item;
+                    }
+                });
+                COMPARISON_DATA = companiesResult;
+                renderComparisonView(COMPARISON_DATA);
+                return;
+            }
         }
 
         const tickersParam = checkedBoxes.join(",");
@@ -1448,15 +1507,37 @@ async function loadMarkdownFiles(ticker) {
         if (isStandaloneMode() && window.STATIC_MARKDOWN_DB) {
             const key = ticker.toLowerCase();
             const mdObj = window.STATIC_MARKDOWN_DB[key] ||
-                          window.STATIC_MARKDOWN_DB[key.replace("-platforms", "").replace("alphabet-", "")] || {};
-            files = Object.keys(mdObj).map(fn => ({
-                filename: fn,
-                size: (mdObj[fn] || "").length
-            }));
+                          window.STATIC_MARKDOWN_DB[key.replace("-platforms", "").replace("alphabet-", "")] ||
+                          window.STATIC_MARKDOWN_DB[FinancialMetricsExtractor_canonical_ticker(key)] || {};
+            files = Object.keys(mdObj).map(fn => {
+                const isQ = fn.toUpperCase().includes("10-Q") || fn.includes("_Q1_") || fn.includes("_Q2_") || fn.includes("_Q3_") || fn.includes("_Q4_");
+                return {
+                    filename: fn,
+                    size: (mdObj[fn] || "").length,
+                    report_type: isQ ? "10-Q" : (fn.toUpperCase().includes("20-F") ? "20-F" : "10-K")
+                };
+            });
         } else {
             const res = await fetch(`/api/markdown-files/${ticker}?_t=${Date.now()}`, { cache: "no-store" });
             const data = await res.json();
             files = data.files || [];
+        }
+
+        // Sort files: if in quarterly mode, prioritize 10-Q files; else keep chronological
+        if (CURRENT_FREQ === "quarterly") {
+            files.sort((a, b) => {
+                const aIsQ = (a.report_type === "10-Q" || a.filename.toUpperCase().includes("10-Q")) ? 1 : 0;
+                const bIsQ = (b.report_type === "10-Q" || b.filename.toUpperCase().includes("10-Q")) ? 1 : 0;
+                if (aIsQ !== bIsQ) return bIsQ - aIsQ;
+                return b.filename.localeCompare(a.filename);
+            });
+        } else {
+            files.sort((a, b) => {
+                const aIsQ = (a.report_type === "10-Q" || a.filename.toUpperCase().includes("10-Q")) ? 1 : 0;
+                const bIsQ = (b.report_type === "10-Q" || b.filename.toUpperCase().includes("10-Q")) ? 1 : 0;
+                if (aIsQ !== bIsQ) return aIsQ - bIsQ;
+                return b.filename.localeCompare(a.filename);
+            });
         }
 
         listEl.innerHTML = "";
@@ -1465,9 +1546,21 @@ async function loadMarkdownFiles(ticker) {
             files.forEach((file, idx) => {
                 const btn = document.createElement("button");
                 btn.className = "w-full text-left p-2 rounded-lg text-xs font-mono text-slate-300 hover:bg-slate-800 transition-colors flex items-center justify-between group";
+                
+                const isQ = file.report_type === "10-Q" || file.filename.toUpperCase().includes("10-Q") || file.filename.includes("_Q1_") || file.filename.includes("_Q2_") || file.filename.includes("_Q3_") || file.filename.includes("_Q4_");
+                const badgeHtml = isQ
+                    ? `<span class="text-[9px] bg-amber-500/20 text-amber-300 border border-amber-500/30 px-1.5 py-0.5 rounded font-sans font-semibold mr-1.5">10-Q</span>`
+                    : `<span class="text-[9px] bg-blue-500/20 text-blue-300 border border-blue-500/30 px-1.5 py-0.5 rounded font-sans font-semibold mr-1.5">${file.filename.toUpperCase().includes("20-F") ? "20-F" : "10-K"}</span>`;
+
+                const fileSizeKb = (file.size_bytes ? (file.size_bytes / 1024) : (file.size ? file.size / 1024 : 0)).toFixed(1);
+
                 btn.innerHTML = `
-                    <span class="truncate"><i class="fa-regular fa-file-lines mr-1.5 text-blue-400"></i> ${file.filename}</span>
-                    <span class="text-[10px] text-slate-500 group-hover:text-slate-300 font-sans">${(file.size / 1024).toFixed(1)} KB</span>
+                    <span class="truncate flex items-center">
+                        ${badgeHtml}
+                        <i class="fa-regular fa-file-lines mr-1.5 text-blue-400"></i>
+                        <span class="truncate">${file.filename}</span>
+                    </span>
+                    <span class="text-[10px] text-slate-500 group-hover:text-slate-300 font-sans ml-2 flex-shrink-0">${fileSizeKb} KB</span>
                 `;
                 btn.addEventListener("click", () => previewMarkdownFile(ticker, file.filename));
                 listEl.appendChild(btn);

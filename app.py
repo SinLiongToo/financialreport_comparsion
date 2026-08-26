@@ -6,7 +6,7 @@ import json
 import glob
 from flask import Flask, render_template, request, jsonify, Response, stream_with_context, send_file
 from workflow import AnnualReportWorkflow
-from metrics_extractor import FinancialMetricsExtractor, BUILTIN_BENCHMARKS, TICKER_ALIASES
+from metrics_extractor import FinancialMetricsExtractor, BUILTIN_BENCHMARKS, BUILTIN_BENCHMARKS_QUARTERLY, TICKER_ALIASES
 
 app = Flask(__name__)
 workflow = AnnualReportWorkflow()
@@ -30,6 +30,8 @@ def get_companies():
     
     # 1. Add benchmarks
     for b in BUILTIN_BENCHMARKS.keys():
+        canonical_set.add(FinancialMetricsExtractor.canonical_ticker(b).upper())
+    for b in BUILTIN_BENCHMARKS_QUARTERLY.keys():
         canonical_set.add(FinancialMetricsExtractor.canonical_ticker(b).upper())
 
     # 2. Add downloaded directories
@@ -135,15 +137,26 @@ def run_workflow_api():
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
 
+def _get_candidate_md_dirs(ticker: str):
+    raw_ticker = ticker.lower()
+    canon_ticker = FinancialMetricsExtractor.canonical_ticker(raw_ticker).lower()
+    folder_candidates = {raw_ticker, canon_ticker}
+    for alias, c in TICKER_ALIASES.items():
+        if c == canon_ticker or c == raw_ticker or alias == canon_ticker or alias == raw_ticker:
+            folder_candidates.add(alias)
+            folder_candidates.add(c)
+    
+    parsed_base = "data/parsed_md"
+    if os.path.exists(parsed_base):
+        for item in os.listdir(parsed_base):
+            if FinancialMetricsExtractor.canonical_ticker(item).lower() == canon_ticker:
+                folder_candidates.add(item)
+    return [os.path.join(parsed_base, folder) for folder in folder_candidates]
+
 @app.route("/api/markdown-files/<ticker>", methods=["GET"])
 def list_markdown_files(ticker):
-    """List parsed markdown files for a ticker (supporting aliases)"""
-    raw_ticker = ticker.lower()
-    canon_ticker = FinancialMetricsExtractor.canonical_ticker(raw_ticker)
-    
-    md_dirs = [os.path.join("data/parsed_md", raw_ticker)]
-    if canon_ticker != raw_ticker:
-        md_dirs.append(os.path.join("data/parsed_md", canon_ticker))
+    """List parsed markdown files for a ticker (supporting all folder aliases)"""
+    md_dirs = _get_candidate_md_dirs(ticker)
 
     files_dict = {}
     for d in md_dirs:
@@ -151,10 +164,12 @@ def list_markdown_files(ticker):
             for f in os.listdir(d):
                 if f.endswith(".md") and f not in files_dict:
                     path = os.path.join(d, f)
+                    is_q = "10-Q" in f.upper() or "_Q1_" in f or "_Q2_" in f or "_Q3_" in f or "_Q4_" in f
                     files_dict[f] = {
                         "filename": f,
                         "size_bytes": os.path.getsize(path),
-                        "modified": os.path.getmtime(path)
+                        "modified": os.path.getmtime(path),
+                        "report_type": "10-Q" if is_q else ("20-F" if "20-F" in f.upper() else "10-K")
                     }
     
     files = list(files_dict.values())
@@ -164,16 +179,11 @@ def list_markdown_files(ticker):
 @app.route("/api/markdown-content/<ticker>/<filename>", methods=["GET"])
 def get_markdown_content(ticker, filename):
     """Returns content of a parsed markdown file"""
-    raw_ticker = ticker.lower()
-    canon_ticker = FinancialMetricsExtractor.canonical_ticker(raw_ticker)
-
-    candidates = [
-        os.path.join("data/parsed_md", raw_ticker, filename),
-        os.path.join("data/parsed_md", canon_ticker, filename)
-    ]
+    md_dirs = _get_candidate_md_dirs(ticker)
     
     found_path = None
-    for p in candidates:
+    for d in md_dirs:
+        p = os.path.join(d, filename)
         if os.path.exists(p):
             found_path = p
             break
