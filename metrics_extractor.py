@@ -2013,40 +2013,38 @@ class FinancialMetricsExtractor:
                     }
                 }
 
-        # Scan MD files for real audited metrics if not already covered by built-in benchmarks
-        is_builtin = (freq == "quarterly" and canon in BUILTIN_BENCHMARKS_QUARTERLY) or (freq == "annual" and canon in BUILTIN_BENCHMARKS)
-        if not is_builtin:
-            for md_file in md_files:
-                fname = os.path.basename(md_file)
-                is_q_file = "10-Q" in fname.upper() or "Q1" in fname or "Q2" in fname or "Q3" in fname or "Q4" in fname
+        # Scan MD files for real audited metrics to enrich or add missing historical periods
+        for md_file in md_files:
+            fname = os.path.basename(md_file)
+            is_q_file = "10-Q" in fname.upper() or "Q1" in fname or "Q2" in fname or "Q3" in fname or "Q4" in fname
+            
+            if freq == "quarterly":
+                q_match = re.search(r"(20\d\d)_(Q[1-4])", fname, re.I)
+                if not q_match:
+                    q_match = re.search(r"(?:FY)?(20\d\d).*?(Q[1-4])", fname, re.I)
                 
-                if freq == "quarterly":
-                    q_match = re.search(r"(20\d\d)_(Q[1-4])", fname, re.I)
-                    if not q_match:
-                        q_match = re.search(r"(?:FY)?(20\d\d).*?(Q[1-4])", fname, re.I)
+                if q_match:
+                    q_year = q_match.group(1)
+                    q_num = q_match.group(2).upper()
+                    period_key = f"{q_year} {q_num}"
                     
-                    if q_match:
-                        q_year = q_match.group(1)
-                        q_num = q_match.group(2).upper()
-                        period_key = f"{q_year} {q_num}"
-                        
-                        if period_key not in metrics["financials"]:
-                            try:
-                                with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
-                                    content = f.read()
-                                q_fin = self.parse_quarterly_financials(content, period_key)
-                                if q_fin and q_fin.get("revenue") and q_fin["revenue"] > 10:
-                                    hc = 34000
-                                    for prev_k in reversed(list(metrics["financials"].keys())):
-                                        if metrics["financials"][prev_k].get("headcount"):
-                                            hc = metrics["financials"][prev_k]["headcount"]
-                                            break
-                                    q_fin.setdefault("headcount", hc)
-                                    metrics["financials"][period_key] = q_fin
-                                    if period_key not in metrics["years"]:
-                                        metrics["years"].append(period_key)
-                            except Exception as e:
-                                print(f"Error reading {md_file}: {e}")
+                    if period_key not in metrics["financials"] or not metrics["financials"][period_key].get("revenue"):
+                        try:
+                            with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
+                                content = f.read()
+                            q_fin = self.parse_quarterly_financials(content, period_key)
+                            if q_fin and q_fin.get("revenue") and q_fin["revenue"] > 10:
+                                hc = 34000
+                                for prev_k in reversed(list(metrics["financials"].keys())):
+                                    if metrics["financials"][prev_k].get("headcount"):
+                                        hc = metrics["financials"][prev_k]["headcount"]
+                                        break
+                                q_fin.setdefault("headcount", hc)
+                                metrics["financials"][period_key] = q_fin
+                                if period_key not in metrics["years"]:
+                                    metrics["years"].append(period_key)
+                        except Exception as e:
+                            print(f"Error reading {md_file}: {e}")
                 else:
                     if is_q_file:
                         continue
@@ -2063,7 +2061,7 @@ class FinancialMetricsExtractor:
                                     metrics["financials"][year_str] = fin
                                     if year not in metrics["years"]:
                                         metrics["years"].append(year)
-                                        metrics["years"].sort()
+                                        metrics["years"] = sorted(list(set(int(y) for y in metrics["years"] if str(y).isdigit())))
                             except Exception as e:
                                 print(f"Error reading {md_file}: {e}")
 
@@ -2102,8 +2100,10 @@ class FinancialMetricsExtractor:
                                 "gross_margin": round((b["gp"] / b["rev"]) * 100, 2) if b["rev"] else 0.0,
                                 "operating_margin": round((b["op"] / b["rev"]) * 100, 2) if b["rev"] else 0.0
                             }
-                            if yr not in metrics["years"]:
-                                metrics["years"].append(yr)
+        if freq == "quarterly":
+            metrics["years"] = sorted(list(metrics["financials"].keys()), key=lambda x: str(x))
+        else:
+            metrics["years"] = sorted(list(set(int(y) for y in metrics["financials"].keys() if str(y).isdigit())))
 
         # Compute calculated productivity metrics strictly on real numbers
         self.compute_productivity_metrics(metrics)
@@ -2192,6 +2192,9 @@ class FinancialMetricsExtractor:
                 elif header in ["gross profit", "total gross profit", "gross margin dollars", "gross margin"]:
                     if "gross_profit" not in fin:
                         fin["gross_profit"] = first_val
+                elif header in ["cost of revenues", "cost of revenue", "total cost of revenues", "costs and expenses: cost of revenues"]:
+                    if "cost_of_revenue" not in fin:
+                        fin["cost_of_revenue"] = first_val
                 elif header in ["research and development", "r&d", "research & development", "research and development expense"]:
                     if "rd_expense" not in fin:
                         fin["rd_expense"] = first_val
@@ -2201,6 +2204,10 @@ class FinancialMetricsExtractor:
                 elif header in ["net income (loss)", "net income", "net profit", "net income (loss) attributable to stockholders"]:
                     if "net_income" not in fin:
                         fin["net_income"] = first_val
+
+        # Deduce gross profit from revenue - cost_of_revenue if not explicitly listed (e.g. Alphabet/Google)
+        if fin.get("revenue") and fin.get("gross_profit") is None and fin.get("cost_of_revenue"):
+            fin["gross_profit"] = round(fin["revenue"] - fin["cost_of_revenue"], 2)
 
         # 2. Second Pass: Non-table multi-line layout scanner (e.g. AMD format)
         if not fin.get("revenue") or not fin.get("gross_profit"):
@@ -2231,6 +2238,10 @@ class FinancialMetricsExtractor:
                 fin["revenue"] = extract_first_num(["Net revenue", "Total revenue", "Revenue", "Total net sales", "Net sales"])
             if not fin.get("gross_profit"):
                 fin["gross_profit"] = extract_first_num(["Gross profit", "Gross margin dollars", "Gross margin", "Total gross profit"])
+                if fin.get("gross_profit") is None and fin.get("revenue"):
+                    cost_rev = extract_first_num(["Cost of revenues", "Cost of revenue", "Total cost of revenues"])
+                    if cost_rev:
+                        fin["gross_profit"] = round(fin["revenue"] - cost_rev, 2)
             if not fin.get("rd_expense"):
                 fin["rd_expense"] = extract_first_num(["Research and development", "R&D", "Research & development"])
             if not fin.get("operating_income"):

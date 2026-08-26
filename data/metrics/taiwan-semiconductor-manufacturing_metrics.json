@@ -5,6 +5,7 @@
   "unit": "$M",
   "freq": "quarterly",
   "years": [
+    "2022",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
@@ -35,14 +36,14 @@
       "op_per_emp": 102811.0,
       "ni_per_emp": 91351.0,
       "rd_per_emp": 18784.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 5705.56,
+      "gp_growth_yoy": 15588.33,
+      "op_growth_yoy": 15116.0,
+      "ni_growth_yoy": 11797.22,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 35.47,
+      "op_diff_pp": 28.14
     },
     "2023 Q2": {
       "revenue": 15680,
@@ -318,6 +319,30 @@
       "hc_growth_yoy": 0.57,
       "gm_diff_pp": 0.0,
       "op_diff_pp": 0.0
+    },
+    "2022": {
+      "revenue": 288.0,
+      "gross_profit": 60,
+      "rd_expense": null,
+      "operating_income": 50,
+      "net_income": 56.82,
+      "gross_margin": 20.83,
+      "operating_margin": 17.36,
+      "net_margin": 19.73,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 11077.0,
+      "gp_per_emp": 2308.0,
+      "op_per_emp": 1923.0,
+      "ni_per_emp": 2185.0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
     }
   },
   "sales_breakdown": {
