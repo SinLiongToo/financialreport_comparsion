@@ -4337,7 +4337,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2023 Q1": {
                     "value": [
                         2231,
-                        2990,
+                        2991,
                         587,
                         937
                     ],
@@ -4407,7 +4407,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2024 Q2": {
                     "value": [
                         2132,
-                        2564,
+                        2563,
                         580,
                         968
                     ],
@@ -4421,7 +4421,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2024 Q3": {
                     "value": [
                         2549,
-                        3067,
+                        3068,
                         693,
                         1157
                     ],
@@ -4477,7 +4477,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2025 Q3": {
                     "value": [
                         3210,
-                        3310,
+                        3309,
                         702,
                         1179
                     ],
@@ -4686,7 +4686,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         941,
                         5174,
                         2979,
-                        6585
+                        6586
                     ],
                     "volume": [
                         6,
@@ -4796,7 +4796,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2025 Q2": {
                     "value": [
                         6805,
-                        10007,
+                        10006,
                         3843,
                         7846
                     ],
@@ -4810,7 +4810,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2025 Q3": {
                     "value": [
                         7282,
-                        10709,
+                        10710,
                         4112,
                         8396
                     ],
@@ -4824,7 +4824,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2025 Q4": {
                     "value": [
                         7760,
-                        11412,
+                        11411,
                         4382,
                         8947
                     ],
@@ -5046,7 +5046,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        31079,
+                        31080,
                         3049,
                         510,
                         443
@@ -5241,7 +5241,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        1791,
+                        1790,
                         538,
                         368,
                         411
@@ -5269,7 +5269,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q2": {
                     "value": [
-                        1929,
+                        1930,
                         596,
                         393,
                         431
@@ -5283,7 +5283,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        1986,
+                        1987,
                         614,
                         405,
                         444
@@ -5478,7 +5478,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        446,
+                        445,
                         170,
                         161,
                         77
@@ -5675,7 +5675,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        45695,
+                        45696,
                         8317,
                         6978,
                         10101,
@@ -5771,7 +5771,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        56810,
+                        56811,
                         10604,
                         7827,
                         14139,
@@ -5787,7 +5787,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q4": {
                     "value": [
-                        59888,
+                        59889,
                         11179,
                         8251,
                         14905,
@@ -5928,7 +5928,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        2670,
+                        2669,
                         1027,
                         783,
                         994
@@ -5942,7 +5942,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q2": {
                     "value": [
-                        2847,
+                        2846,
                         1095,
                         834,
                         1060
@@ -5970,7 +5970,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        3736,
+                        3735,
                         1437,
                         1095,
                         1391
@@ -5984,7 +5984,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q1": {
                     "value": [
-                        4409,
+                        4408,
                         1402,
                         927,
                         1063
@@ -6012,7 +6012,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        5143,
+                        5144,
                         1635,
                         1081,
                         1240
@@ -6026,7 +6026,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q4": {
                     "value": [
-                        5200,
+                        5201,
                         1653,
                         1093,
                         1253
@@ -6167,7 +6167,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        61520,
+                        61519,
                         29408,
                         11316,
                         9169,
@@ -6183,7 +6183,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q2": {
                     "value": [
-                        46691,
+                        46692,
                         22319,
                         8588,
                         6959,
@@ -6247,7 +6247,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q2": {
                     "value": [
-                        48320,
+                        48319,
                         24616,
                         8889,
                         7294,
@@ -6418,7 +6418,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        1975,
+                        1974,
                         407,
                         1869
                     ],
@@ -6430,7 +6430,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q2": {
                     "value": [
-                        2068,
+                        2067,
                         426,
                         1957
                     ],
@@ -6442,7 +6442,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q3": {
                     "value": [
-                        2370,
+                        2369,
                         488,
                         2243
                     ],
@@ -6454,7 +6454,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        2555,
+                        2556,
                         526,
                         2418
                     ],
@@ -6478,7 +6478,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q2": {
                     "value": [
-                        2443,
+                        2442,
                         518,
                         2290
                     ],
@@ -6639,7 +6639,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        2047,
+                        2048,
                         1080,
                         909,
                         689
@@ -6667,7 +6667,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q3": {
                     "value": [
-                        2951,
+                        2950,
                         1557,
                         1311,
                         993
@@ -6723,7 +6723,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        4751,
+                        4752,
                         2226,
                         1846,
                         1276
@@ -6876,7 +6876,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        1519,
+                        1518,
                         137,
                         210,
                         532
@@ -6904,7 +6904,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q3": {
                     "value": [
-                        1495,
+                        1496,
                         134,
                         206,
                         524
@@ -6932,7 +6932,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q1": {
                     "value": [
-                        1817,
+                        1816,
                         168,
                         245,
                         613
@@ -7111,7 +7111,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        424,
+                        423,
                         79,
                         98
                     ],
@@ -7147,7 +7147,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        517,
+                        518,
                         96,
                         119
                     ],
@@ -7159,7 +7159,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q1": {
                     "value": [
-                        554,
+                        553,
                         96,
                         111
                     ],
@@ -7394,7 +7394,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2023 Q3": {
                     "value": [
-                        23444,
+                        23445,
                         18475,
                         14597
                     ],
@@ -7430,7 +7430,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q2": {
                     "value": [
-                        27820,
+                        27821,
                         20498,
                         16408
                     ],
@@ -7478,7 +7478,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q2": {
                     "value": [
-                        32958,
+                        32959,
                         22916,
                         17509
                     ],
@@ -7637,7 +7637,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        4996,
+                        4995,
                         1505,
                         207
                     ],
@@ -7721,7 +7721,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q4": {
                     "value": [
-                        5622,
+                        5621,
                         1677,
                         222
                     ],
@@ -7852,7 +7852,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "data": {
                 "2024 Q1": {
                     "value": [
-                        35647,
+                        35648,
                         475,
                         332
                     ],
@@ -7924,7 +7924,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        48654,
+                        48653,
                         688,
                         459
                     ],
@@ -8085,7 +8085,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q2": {
                     "value": [
-                        57342,
+                        57341,
                         37348,
                         24906,
                         13021,
@@ -8101,7 +8101,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q3": {
                     "value": [
-                        61566,
+                        61565,
                         40099,
                         26741,
                         13980,
@@ -8117,7 +8117,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        72774,
+                        72773,
                         47398,
                         31609,
                         16525,
@@ -8133,7 +8133,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q1": {
                     "value": [
-                        63029,
+                        63028,
                         42637,
                         29661,
                         15526,
@@ -8181,7 +8181,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q4": {
                     "value": [
-                        82163,
+                        82162,
                         55581,
                         38665,
                         20239,
@@ -8521,7 +8521,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q2": {
                     "value": [
-                        957,
+                        956,
                         155,
                         301
                     ],
@@ -8545,7 +8545,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2024 Q4": {
                     "value": [
-                        959,
+                        960,
                         155,
                         301
                     ],
@@ -8557,7 +8557,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q1": {
                     "value": [
-                        1134,
+                        1135,
                         175,
                         340
                     ],
@@ -8581,7 +8581,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2025 Q3": {
                     "value": [
-                        1251,
+                        1252,
                         193,
                         375
                     ],
@@ -8739,7 +8739,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2024 Q2": {
                     "value": [
                         18328,
-                        28860,
+                        28859,
                         5225,
                         2488
                     ],
@@ -8767,7 +8767,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2024 Q4": {
                     "value": [
                         18074,
-                        28460,
+                        28461,
                         5152,
                         2453
                     ],
@@ -8823,7 +8823,7 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "2025 Q4": {
                     "value": [
                         23149,
-                        30159,
+                        30158,
                         5543,
                         2690
                     ],
@@ -9075,19 +9075,29 @@ class FinancialMetricsExtractor:
                     ref_data = None
                     if freq == "quarterly":
                         yr = y_k_str.split()[0]
-                        for sk, sv in sb_data.items():
-                            if str(sk).startswith(yr):
-                                ref_data = sv
-                                break
+                        # 1. First check annual benchmark for that specific year
+                        ann_bm = BUILTIN_BENCHMARKS.get(canon, {}).get("sales_breakdown", {}).get("data", {})
+                        if yr in ann_bm:
+                            ref_data = ann_bm[yr]
+                        else:
+                            # 2. Check closest year in annual benchmark
+                            avail_yrs = sorted([y for y in ann_bm.keys() if str(y).isdigit()])
+                            if avail_yrs:
+                                closest_yr = min(avail_yrs, key=lambda x: abs(int(x) - int(yr)))
+                                ref_data = ann_bm[closest_yr]
+
                     if not ref_data and sb_data:
                         ref_data = list(sb_data.values())[-1]
-                    
+
                     if ref_data and ref_data.get("value"):
                         tot_ref = sum(ref_data["value"]) or 1
                         ratios = [v / tot_ref for v in ref_data["value"]]
+                        vol_ratios = ref_data.get("volume")
+                        if not vol_ratios or sum(vol_ratios) == 0:
+                            vol_ratios = [round(r * 100) for r in ratios]
                         sb_data[y_k_str] = {
                             "value": [round(p_rev * r) for r in ratios],
-                            "volume": ref_data.get("volume", [round(100/len(cats))]*len(cats))
+                            "volume": vol_ratios
                         }
 
         # Compute calculated productivity metrics strictly on real numbers
