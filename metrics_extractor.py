@@ -8977,6 +8977,12 @@ class FinancialMetricsExtractor:
                             with open(md_file, "r", encoding="utf-8", errors="ignore") as f_in:
                                 md_text = f_in.read()
                             q_fin = self.parse_quarterly_financials(md_text, period_key)
+                            # Direct 10-Q segment extraction whenever available in Markdown text
+                            direct_sb = self.parse_quarterly_sales_breakdown(md_text, canon, q_fin.get("revenue", 0) if q_fin else 0)
+                            if direct_sb:
+                                if "sales_breakdown" not in metrics:
+                                    metrics["sales_breakdown"] = {"categories": [], "colors": ["#1E3A8A", "#0284C7", "#059669", "#D97706"], "data": {}}
+                                metrics["sales_breakdown"]["data"][period_key] = direct_sb
                             if q_fin and q_fin.get("revenue") and q_fin["revenue"] > 10:
                                 hc = 34000
                                 for prev_k in reversed(list(metrics["financials"].keys())):
@@ -9179,6 +9185,107 @@ class FinancialMetricsExtractor:
 
         return metrics
 
+    def parse_quarterly_sales_breakdown(self, md_text: str, canon_ticker: str, total_rev: float = 0) -> Dict:
+        """Extracts actual segment breakdown dollar values and volume/mix percentages directly from 10-Q/10-K Markdown text."""
+        if not md_text:
+            return None
+        
+        canon = canon_ticker.lower()
+        patterns_map = {
+            "apple": [
+                ("iPhone", [r"iPhone.*?\$?\s*([0-9,]+)", r"\|\s*iPhone\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Services", [r"Services.*?\$?\s*([0-9,]+)", r"\|\s*Services\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Wearables, Home & Accessories", [r"Wearables[\w\s,]*Accessories.*?\$?\s*([0-9,]+)", r"\|\s*Wearables[\w\s,]*\|\s*\$?\s*([0-9,]+)"]),
+                ("Mac", [r"Mac.*?\$?\s*([0-9,]+)", r"\|\s*Mac\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("iPad", [r"iPad.*?\$?\s*([0-9,]+)", r"\|\s*iPad\s*\|\s*\$?\s*([0-9,]+)"])
+            ],
+            "amd": [
+                ("Data Center", [r"Data Center.*?\$?\s*([0-9,]+)", r"\|\s*Data Center\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Client", [r"Client.*?\$?\s*([0-9,]+)", r"\|\s*Client\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Gaming", [r"Gaming.*?\$?\s*([0-9,]+)", r"\|\s*Gaming\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Embedded", [r"Embedded.*?\$?\s*([0-9,]+)", r"\|\s*Embedded\s*\|\s*\$?\s*([0-9,]+)"])
+            ],
+            "microsoft": [
+                ("Intelligent Cloud", [r"Intelligent Cloud.*?\$?\s*([0-9,]+)", r"\|\s*Intelligent Cloud\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Productivity and Business Processes", [r"Productivity and Business Processes.*?\$?\s*([0-9,]+)", r"\|\s*Productivity and Business Processes\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("More Personal Computing", [r"More Personal Computing.*?\$?\s*([0-9,]+)", r"\|\s*More Personal Computing\s*\|\s*\$?\s*([0-9,]+)"])
+            ],
+            "amazon": [
+                ("North America", [r"North America.*?\$?\s*([0-9,]+)", r"\|\s*North America\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("AWS", [r"AWS.*?\$?\s*([0-9,]+)", r"\|\s*AWS\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("International", [r"International.*?\$?\s*([0-9,]+)", r"\|\s*International\s*\|\s*\$?\s*([0-9,]+)"])
+            ],
+            "meta": [
+                ("Family of Apps", [r"Family of Apps.*?\$?\s*([0-9,]+)", r"\|\s*Family of Apps\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Reality Labs", [r"Reality Labs.*?\$?\s*([0-9,]+)", r"\|\s*Reality Labs\s*\|\s*\$?\s*([0-9,]+)"])
+            ],
+            "nxp": [
+                ("Automotive", [r"Automotive\s*end\s*market[\w\s]*\$([0-9,]+)", r"\|\s*Automotive\s*\|\s*\$?([0-9,]+)"]),
+                ("Industrial & IoT", [r"Industrial\s*&\s*IoT[\w\s]*\$([0-9,]+)", r"\|\s*Industrial\s*&\s*IoT\s*\|\s*\$?([0-9,]+)"]),
+                ("Mobile", [r"Mobile\s*end\s*market[\w\s]*\$([0-9,]+)", r"\|\s*Mobile\s*\|\s*\$?([0-9,]+)"]),
+                ("Communication Infrastructure", [r"Communication Infrastructure[\w\s]*\$([0-9,]+)", r"\|\s*Communication Infrastructure[\w\s]*\|\s*\$?([0-9,]+)"])
+            ],
+            "micron": [
+                ("Compute and Networking", [r"Compute and Networking.*?\$?\s*([0-9,]+)", r"\|\s*Compute and Networking\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Mobile", [r"Mobile.*?\$?\s*([0-9,]+)", r"\|\s*Mobile\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Embedded", [r"Embedded.*?\$?\s*([0-9,]+)", r"\|\s*Embedded\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Storage", [r"Storage.*?\$?\s*([0-9,]+)", r"\|\s*Storage\s*\|\s*\$?\s*([0-9,]+)"])
+            ],
+            "palantir": [
+                ("Commercial", [r"Commercial.*?\$?\s*([0-9,]+)", r"\|\s*Commercial\s*\|\s*\$?\s*([0-9,]+)"]),
+                ("Government", [r"Government.*?\$?\s*([0-9,]+)", r"\|\s*Government\s*\|\s*\$?\s*([0-9,]+)"])
+            ]
+        }
+        
+        target_defs = patterns_map.get(canon)
+        if not target_defs:
+            for k, v in patterns_map.items():
+                if k in canon:
+                    target_defs = v
+                    break
+        
+        if not target_defs:
+            return None
+            
+        extracted_vals = []
+        for name, pat_list in target_defs:
+            found_val = None
+            for pat in pat_list:
+                m = re.search(pat, md_text, re.I)
+                if m:
+                    try:
+                        raw_num = float(m.group(1).replace(",", ""))
+                        if raw_num > 0:
+                            found_val = raw_num
+                            break
+                    except Exception:
+                        pass
+            if found_val is not None:
+                extracted_vals.append(found_val)
+                
+        if len(extracted_vals) == len(target_defs):
+            tot = sum(extracted_vals) or 1
+            
+            # Normalize thousands ($K) to millions ($M) if values are in thousands
+            if total_rev > 0 and tot > total_rev * 500:
+                extracted_vals = [round(v / 1000) for v in extracted_vals]
+                tot = sum(extracted_vals) or 1
+                
+            # Reject if total is unreasonably small (e.g. delta numbers matched instead of base revenue)
+            if total_rev > 0 and tot < total_rev * 0.5:
+                return None
+                
+            vol_pct = [round((v / tot) * 100) for v in extracted_vals]
+            diff = 100 - sum(vol_pct)
+            if diff != 0 and len(vol_pct) > 0:
+                vol_pct[0] += diff
+            return {
+                "value": [round(v) for v in extracted_vals],
+                "volume": vol_pct
+            }
+            
+        return None
+
     @staticmethod
     def parse_quarterly_financials(text: str, period_key: str) -> Dict:
         """
@@ -9242,7 +9349,7 @@ class FinancialMetricsExtractor:
                     if re.search(r"\b\d{1,3}(?:,\d{3})+(?:\.\d+)?\b|\b\d{3,6}\b", nearby):
                         start_idx = idx
                         break
-                        
+            
             sub_lines = lines[start_idx:start_idx+150]
             
             def extract_first_num(metric_names, max_lines_ahead=8):
@@ -9261,10 +9368,10 @@ class FinancialMetricsExtractor:
                 fin["revenue"] = extract_first_num(["Net revenue", "Total revenue", "Revenue", "Total net sales", "Net sales"])
             if not fin.get("gross_profit"):
                 fin["gross_profit"] = extract_first_num(["Gross profit", "Gross margin dollars", "Gross margin", "Total gross profit"])
-                if fin.get("gross_profit") is None and fin.get("revenue"):
-                    cost_rev = extract_first_num(["Cost of revenues", "Cost of revenue", "Total cost of revenues"])
-                    if cost_rev:
-                        fin["gross_profit"] = round(fin["revenue"] - cost_rev, 2)
+            if fin.get("gross_profit") is None and fin.get("revenue"):
+                cost_rev = extract_first_num(["Cost of revenues", "Cost of revenue", "Total cost of revenues"])
+                if cost_rev:
+                    fin["gross_profit"] = round(fin["revenue"] - cost_rev, 2)
             if not fin.get("rd_expense"):
                 fin["rd_expense"] = extract_first_num(["Research and development", "R&D", "Research & development"])
             if not fin.get("operating_income"):
@@ -9272,19 +9379,10 @@ class FinancialMetricsExtractor:
             if not fin.get("net_income"):
                 fin["net_income"] = extract_first_num(["Net income", "Net profit", "Net income (loss)"])
 
-        if fin.get("revenue") and fin["revenue"] > 0:
-            if fin.get("gross_profit") is not None:
-                fin["gross_margin"] = round((fin["gross_profit"] / fin["revenue"]) * 100, 2)
-            if fin.get("operating_income") is not None:
-                fin["operating_margin"] = round((fin["operating_income"] / fin["revenue"]) * 100, 2)
-            if fin.get("net_income") is not None:
-                fin["net_margin"] = round((fin["net_income"] / fin["revenue"]) * 100, 2)
-            if fin.get("rd_expense") is not None:
-                fin["rd_pct_rev"] = round((fin["rd_expense"] / fin["revenue"]) * 100, 2)
-
         return fin
 
     @staticmethod
+
     def parse_text_for_financials(content: str, year: int) -> Dict:
         """Strict financial extraction from real Markdown text and tables"""
         fin = {}

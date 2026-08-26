@@ -235,11 +235,11 @@
       "rd_expense": 999.0,
       "net_income": 4902.0,
       "gross_profit": 14278.0,
+      "headcount": 78500,
       "gross_margin": 80.5,
+      "operating_margin": 0.0,
       "net_margin": 27.64,
       "rd_pct_rev": 5.63,
-      "headcount": 78500,
-      "operating_margin": 0.0,
       "rev_per_emp": 225949.0,
       "gp_per_emp": 181885.0,
       "op_per_emp": 0,
@@ -260,11 +260,11 @@
       "rd_expense": 1261.0,
       "net_income": 5178.0,
       "gross_profit": 14858.0,
+      "headcount": 78500,
       "gross_margin": 79.51,
+      "operating_margin": 0.0,
       "net_margin": 27.71,
       "rd_pct_rev": 6.75,
-      "headcount": 78500,
-      "operating_margin": 0.0,
       "rev_per_emp": 238051.0,
       "gp_per_emp": 189274.0,
       "op_per_emp": 0,
@@ -285,11 +285,11 @@
       "rd_expense": 1297.0,
       "net_income": 7846.0,
       "gross_profit": 17276.0,
+      "headcount": 78500,
       "gross_margin": 80.47,
+      "operating_margin": 0.0,
       "net_margin": 36.54,
       "rd_pct_rev": 6.04,
-      "headcount": 78500,
-      "operating_margin": 0.0,
       "rev_per_emp": 273503.0,
       "gp_per_emp": 220076.0,
       "op_per_emp": 0,
@@ -311,11 +311,11 @@
       "operating_income": 11378.0,
       "net_income": 9497.0,
       "gross_profit": 21040.0,
+      "headcount": 78500,
       "gross_margin": 80.39,
       "operating_margin": 43.48,
       "net_margin": 36.29,
       "rd_pct_rev": 19.86,
-      "headcount": 78500,
       "rev_per_emp": 333389.0,
       "gp_per_emp": 268025.0,
       "op_per_emp": 144943.0,
@@ -337,11 +337,11 @@
       "operating_income": 12367.0,
       "net_income": 10394.0,
       "gross_profit": 23678.0,
+      "headcount": 78500,
       "gross_margin": 81.43,
       "operating_margin": 42.53,
       "net_margin": 35.75,
       "rd_pct_rev": 20.97,
-      "headcount": 78500,
       "rev_per_emp": 370408.0,
       "gp_per_emp": 301631.0,
       "op_per_emp": 157541.0,
@@ -363,11 +363,11 @@
       "operating_income": 10423.0,
       "net_income": 9194.0,
       "gross_profit": 23239.0,
+      "headcount": 78500,
       "gross_margin": 80.11,
       "operating_margin": 35.93,
       "net_margin": 31.69,
       "rd_pct_rev": 21.77,
-      "headcount": 78500,
       "rev_per_emp": 369554.0,
       "gp_per_emp": 296038.0,
       "op_per_emp": 132777.0,
@@ -389,11 +389,11 @@
       "operating_income": 8524.0,
       "net_income": 7465.0,
       "gross_profit": 21903.0,
+      "headcount": 78500,
       "gross_margin": 78.48,
       "operating_margin": 30.54,
       "net_margin": 26.75,
       "rd_pct_rev": 27.62,
-      "headcount": 78500,
       "rev_per_emp": 355516.0,
       "gp_per_emp": 279019.0,
       "op_per_emp": 108586.0,
@@ -415,11 +415,11 @@
       "operating_income": 8358.0,
       "net_income": 6687.0,
       "gross_profit": 23630.0,
+      "headcount": 78500,
       "gross_margin": 81.99,
       "operating_margin": 29.0,
       "net_margin": 23.2,
       "rd_pct_rev": 30.15,
-      "headcount": 78500,
       "rev_per_emp": 367159.0,
       "gp_per_emp": 301019.0,
       "op_per_emp": 106471.0,
@@ -441,11 +441,11 @@
       "operating_income": 5664.0,
       "net_income": 4395.0,
       "gross_profit": 21998.0,
+      "headcount": 78500,
       "gross_margin": 79.38,
       "operating_margin": 20.44,
       "net_margin": 15.86,
       "rd_pct_rev": 33.09,
-      "headcount": 78500,
       "rev_per_emp": 353045.0,
       "gp_per_emp": 280229.0,
       "op_per_emp": 72153.0,
@@ -467,11 +467,11 @@
       "operating_income": 7227.0,
       "net_income": 5709.0,
       "gross_profit": 22537.0,
+      "headcount": 78500,
       "gross_margin": 78.68,
       "operating_margin": 25.23,
       "net_margin": 19.93,
       "rd_pct_rev": 32.75,
-      "headcount": 78500,
       "rev_per_emp": 364904.0,
       "gp_per_emp": 287096.0,
       "op_per_emp": 92064.0,
@@ -493,11 +493,11 @@
       "operating_income": 9392.0,
       "net_income": 7788.0,
       "gross_profit": 26054.0,
+      "headcount": 78500,
       "gross_margin": 81.42,
       "operating_margin": 29.35,
       "net_margin": 24.34,
       "rd_pct_rev": 29.2,
-      "headcount": 78500,
       "rev_per_emp": 407631.0,
       "gp_per_emp": 331898.0,
       "op_per_emp": 119643.0,
@@ -519,11 +519,11 @@
       "operating_income": 13748.0,
       "net_income": 11583.0,
       "gross_profit": 27936.0,
+      "headcount": 78500,
       "gross_margin": 81.81,
       "operating_margin": 40.26,
       "net_margin": 33.92,
       "rd_pct_rev": 27.06,
-      "headcount": 78500,
       "rev_per_emp": 434981.0,
       "gp_per_emp": 355873.0,
       "op_per_emp": 175134.0,
@@ -545,11 +545,11 @@
       "operating_income": 22872.0,
       "net_income": 26773.0,
       "gross_profit": 46093.0,
+      "headcount": 78500,
       "gross_margin": 81.85,
       "operating_margin": 40.62,
       "net_margin": 47.54,
       "rd_pct_rev": 31.43,
-      "headcount": 78500,
       "rev_per_emp": 717338.0,
       "gp_per_emp": 587172.0,
       "op_per_emp": 291363.0,
@@ -571,11 +571,11 @@
       "operating_income": 18775.0,
       "net_income": 15848.0,
       "gross_profit": 49471.0,
+      "headcount": 78500,
       "gross_margin": 81.37,
       "operating_margin": 30.88,
       "net_margin": 26.07,
       "rd_pct_rev": 35.62,
-      "headcount": 78500,
       "rev_per_emp": 774535.0,
       "gp_per_emp": 630204.0,
       "op_per_emp": 239172.0,
@@ -699,6 +699,86 @@
           1
         ]
       },
+      "2022 Q1": {
+        "value": [
+          27213,
+          695
+        ],
+        "volume": [
+          98,
+          2
+        ]
+      },
+      "2022 Q2": {
+        "value": [
+          28370,
+          452
+        ],
+        "volume": [
+          98,
+          2
+        ]
+      },
+      "2022 Q3": {
+        "value": [
+          27429,
+          285
+        ],
+        "volume": [
+          99,
+          1
+        ]
+      },
+      "2023 Q1": {
+        "value": [
+          28306,
+          339
+        ],
+        "volume": [
+          99,
+          1
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          31723,
+          276
+        ],
+        "volume": [
+          99,
+          1
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          33936,
+          210
+        ],
+        "volume": [
+          99,
+          1
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          55909,
+          402
+        ],
+        "volume": [
+          99,
+          1
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          60370,
+          431
+        ],
+        "volume": [
+          99,
+          1
+        ]
+      },
       "2020 Q1": {
         "value": [
           17366,
@@ -768,102 +848,6 @@
         "volume": [
           97,
           2,
-          1
-        ]
-      },
-      "2022 Q1": {
-        "value": [
-          27193,
-          517,
-          198
-        ],
-        "volume": [
-          97,
-          2,
-          1
-        ]
-      },
-      "2022 Q2": {
-        "value": [
-          28084,
-          534,
-          205
-        ],
-        "volume": [
-          97,
-          2,
-          1
-        ]
-      },
-      "2022 Q3": {
-        "value": [
-          27004,
-          513,
-          197
-        ],
-        "volume": [
-          97,
-          2,
-          1
-        ]
-      },
-      "2023 Q1": {
-        "value": [
-          28018,
-          403,
-          225
-        ],
-        "volume": [
-          98,
-          1,
-          1
-        ]
-      },
-      "2023 Q2": {
-        "value": [
-          31298,
-          450,
-          251
-        ],
-        "volume": [
-          98,
-          1,
-          1
-        ]
-      },
-      "2023 Q3": {
-        "value": [
-          33398,
-          480,
-          268
-        ],
-        "volume": [
-          98,
-          1,
-          1
-        ]
-      },
-      "2026 Q1": {
-        "value": [
-          55015,
-          778,
-          518
-        ],
-        "volume": [
-          98,
-          1,
-          1
-        ]
-      },
-      "2026 Q2": {
-        "value": [
-          59401,
-          840,
-          560
-        ],
-        "volume": [
-          98,
-          1,
           1
         ]
       }
