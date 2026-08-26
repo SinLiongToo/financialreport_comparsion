@@ -838,8 +838,23 @@ async function loadDashboardData(targetCompany = null) {
 }
 
 function renderKPICards(data) {
-    const years = data.years;
-    if (!years || years.length === 0) return;
+    const years = data.years || [];
+    if (!years || years.length === 0) {
+        document.getElementById("kpiRevenue").textContent = "-";
+        document.getElementById("kpiRevenueYoY").textContent = "-";
+        document.getElementById("kpiGrossMargin").textContent = "-";
+        document.getElementById("kpiMarginDiff").textContent = "-";
+        document.getElementById("kpiOpIncome").textContent = "-";
+        document.getElementById("kpiOpMargin").textContent = "-";
+        document.getElementById("kpiRdExpense").textContent = "-";
+        document.getElementById("kpiRdPct").textContent = "-";
+        document.getElementById("kpiHeadcount").textContent = "-";
+        document.getElementById("kpiHeadcountPlateau").textContent = "No Data";
+        document.getElementById("kpiGpPerEmp").textContent = "-";
+        document.getElementById("kpiGpPerEmpYoY").textContent = "No Data";
+        updateInsightsText(data);
+        return;
+    }
     const latestYear = years[years.length - 1];
     const fin = data.financials[latestYear] || {};
     const unit = data.unit || "$M";
@@ -1103,12 +1118,27 @@ function renderCharts(data) {
 // Render Master Audited Table & Single CSV Export
 // -----------------------------------------------------------------------------
 function renderMasterTable(data) {
-    const years = data.years;
-    const fin = data.financials;
+    const years = data.years || [];
+    const fin = data.financials || {};
     const unit = data.unit || "$M";
     const currSym = unit.includes("€") ? "€" : "$";
 
     const headerRow = document.getElementById("tableHeaderRow");
+    const tbody = document.getElementById("tableBody");
+
+    if (!years || years.length === 0) {
+        headerRow.innerHTML = `<th class="py-3 px-4">${CURRENT_LANGUAGE === 'zh' ? '財務指標 / 狀態' : 'Metric / Status'}</th><th class="py-3 px-4 text-center">${CURRENT_LANGUAGE === 'zh' ? '數據狀態' : 'Data Status'}</th>`;
+        tbody.innerHTML = `
+            <tr>
+                <td colspan="2" class="py-8 px-4 text-center text-slate-400 font-medium space-y-2">
+                    <div class="text-amber-400 text-base font-semibold mb-1"><i class="fa-solid fa-circle-info mr-1.5"></i> ${CURRENT_LANGUAGE === 'zh' ? '目前尚無此公司之單季 (10-Q) 數據' : 'No Quarterly (10-Q) Data Available for this Company'}</div>
+                    <p class="text-xs text-slate-400">${CURRENT_LANGUAGE === 'zh' ? '建議點擊頂部「Annual (10-K)」切換至年度模式，或於上方控制台點擊「立即執行全自動工作流」進行自動下載與解析！' : 'Switch to Annual (10-K) mode or click "Run End-to-End Workflow" above to crawl and parse 10-Q reports.'}</p>
+                </td>
+            </tr>
+        `;
+        return;
+    }
+
     headerRow.innerHTML = `<th class="py-3 px-4" data-i18n="table_th_metric">${CURRENT_LANGUAGE === 'zh' ? '財務指標 / 單位' : 'Metric / Unit'}</th>`;
     years.forEach(y => {
         const th = document.createElement("th");

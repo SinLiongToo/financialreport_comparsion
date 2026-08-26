@@ -1701,16 +1701,236 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "growth": "Azure 智慧雲端連續數季維持 28%-33% 的高年增成長曲線。",
                 "breakdown": "智慧雲端事業群每季穩定貢獻超過 43% 營收總額，為集團最高毛利與獲利核心引擎。"
             }
+        }
+    },
+    "amat": {
+        "company_name": "Applied Materials, Inc.",
+        "ticker": "AMAT",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": ["2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4"],
+        "financials": {
+            "2024 Q1": {"revenue": 6707, "gross_profit": 3198, "operating_income": 1974, "net_income": 1704, "rd_expense": 744, "headcount": 34000, "gross_margin": 47.7},
+            "2024 Q2": {"revenue": 6645, "gross_profit": 3154, "operating_income": 1944, "net_income": 1722, "rd_expense": 777, "headcount": 34500, "gross_margin": 47.5},
+            "2024 Q3": {"revenue": 6778, "gross_profit": 3220, "operating_income": 1993, "net_income": 1705, "rd_expense": 795, "headcount": 35000, "gross_margin": 47.5},
+            "2024 Q4": {"revenue": 7045, "gross_profit": 3332, "operating_income": 2060, "net_income": 1732, "rd_expense": 804, "headcount": 35500, "gross_margin": 47.3},
+            "2025 Q1": {"revenue": 7150, "gross_profit": 3418, "operating_income": 2110, "net_income": 1790, "rd_expense": 825, "headcount": 35800, "gross_margin": 47.8},
+            "2025 Q2": {"revenue": 7250, "gross_profit": 3480, "operating_income": 2175, "net_income": 1850, "rd_expense": 840, "headcount": 36000, "gross_margin": 48.0},
+            "2025 Q3": {"revenue": 7380, "gross_profit": 3542, "operating_income": 2214, "net_income": 1890, "rd_expense": 855, "headcount": 36200, "gross_margin": 48.0},
+            "2025 Q4": {"revenue": 7520, "gross_profit": 3610, "operating_income": 2256, "net_income": 1930, "rd_expense": 870, "headcount": 36500, "gross_margin": 48.0}
         },
-        "lean_maturity": {
-            "current_level": 5,
-            "levels": [
-                {"level": 1, "name": "Windows & PC OEM Foundation", "desc": "Standard desktop software licensing and channel distribution."},
-                {"level": 2, "name": "Global Hyperscale Cloud Infrastructure", "desc": "Standardized multi-tenant Azure region deployment and automated cluster management."},
-                {"level": 3, "name": "Enterprise SaaS & Dynamics Platform", "desc": "Continuous integration, multi-cloud subscription orchestrations, and telemetry monitoring."},
-                {"level": 4, "name": "Generative AI Copilot & Custom Silicon", "desc": "Maia 100 AI accelerators, Azure OpenAI supercomputing clusters, and Copilot studio integrations."},
-                {"level": 5, "name": "Autonomous Cloud & AI Ecosystem Mastery", "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding software velocity."}
-            ]
+        "sales_breakdown": {
+            "categories": ["Semiconductor Systems", "Applied Global Services (AGS)", "Display and Adjacent Markets"],
+            "colors": ["#005596", "#00A3E0", "#71C5E8"],
+            "data": {
+                "2024 Q4": {"value": [5180, 1640, 225], "volume": [74, 23, 3]},
+                "2025 Q4": {"value": [5600, 1690, 230], "volume": [74, 23, 3]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Quarterly gross margins steadily sustain 47.3%-48.0% as GAA transistor and advanced packaging tools scale.",
+                "productivity": "Quarterly revenue per FTE averages ~$195K-$206K (~$800K annualized), validating strong operational execution.",
+                "leverage": "Quarterly operating margins remain firm around 29.5%-30.0% demonstrating robust cost structure discipline.",
+                "rd": "Quarterly R&D investment exceeds $744M-$870M (~11.5% of revenue) accelerating Gate-All-Around (GAA) and backside power delivery."
+            },
+            "zh": {
+                "pivot": "單季毛利率在 GAA 晶體架構與先進封裝設備驅動下穩健維持在 47.3%-48.0%。",
+                "productivity": "單季人均營收達 19.5 萬-20.6 萬美元（年化約 80 萬美元/人），營運紀律穩健。",
+                "leverage": "單季營業利益率維持於 29.5%-30.0% 高檔，成本結構極具韌性。",
+                "rd": "單季研發支出達 7.44 億-8.70 億美元（佔營收 11.5%），全力加速 GAA 與晶圓背部供電技術。"
+            }
+        }
+    },
+    "meta": {
+        "company_name": "Meta Platforms, Inc.",
+        "ticker": "META",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": ["2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4"],
+        "financials": {
+            "2024 Q1": {"revenue": 36455, "gross_profit": 29815, "operating_income": 13815, "net_income": 12369, "rd_expense": 9979, "headcount": 69329, "gross_margin": 81.8},
+            "2024 Q2": {"revenue": 39071, "gross_profit": 31802, "operating_income": 14847, "net_income": 13465, "rd_expense": 10174, "headcount": 70799, "gross_margin": 81.4},
+            "2024 Q3": {"revenue": 40589, "gross_profit": 33177, "operating_income": 17350, "net_income": 15688, "rd_expense": 10398, "headcount": 72404, "gross_margin": 81.7},
+            "2024 Q4": {"revenue": 48385, "gross_profit": 40160, "operating_income": 23388, "net_income": 20838, "rd_expense": 11350, "headcount": 74000, "gross_margin": 83.0},
+            "2025 Q1": {"revenue": 44200, "gross_profit": 36244, "operating_income": 18564, "net_income": 16350, "rd_expense": 11800, "headcount": 75500, "gross_margin": 82.0},
+            "2025 Q2": {"revenue": 47500, "gross_profit": 38950, "operating_income": 20425, "net_income": 17800, "rd_expense": 12200, "headcount": 76500, "gross_margin": 82.0},
+            "2025 Q3": {"revenue": 49800, "gross_profit": 41085, "operating_income": 21912, "net_income": 19100, "rd_expense": 12600, "headcount": 77500, "gross_margin": 82.5},
+            "2025 Q4": {"revenue": 58500, "gross_profit": 48555, "operating_income": 27495, "net_income": 24200, "rd_expense": 13400, "headcount": 78500, "gross_margin": 83.0}
+        },
+        "sales_breakdown": {
+            "categories": ["Family of Apps (Advertising)", "Reality Labs"],
+            "colors": ["#0081FB", "#8C52FF"],
+            "data": {
+                "2024 Q4": {"value": [46800, 1585], "volume": [97, 3]},
+                "2025 Q4": {"value": [56700, 1800], "volume": [97, 3]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Quarterly gross margins remain elite at 81.4%-83.0% post-Year of Efficiency headcount stabilization.",
+                "productivity": "Quarterly revenue per FTE reaches $525K-$654K ($2.1M-$2.6M annualized), showcasing top-tier digital scale.",
+                "leverage": "Quarterly operating profit expanded to $17.3B-$27.5B (38%-48% margin) powered by AI content recommendation models."
+            },
+            "zh": {
+                "pivot": "組織效率年後員工人數精簡穩定，單季毛利率維持在 81.4%-83.0% 頂級水準。",
+                "productivity": "單季人均營收達 52.5 萬-65.4 萬美元（年化人均產值超過 210 萬-260 萬美元）。",
+                "leverage": "單季營業利益攀升至 173 億-275 億美元（營業利益率達 38%-48%），AI 推薦引擎大幅推升廣告轉換率。"
+            }
+        }
+    },
+    "amzn": {
+        "company_name": "Amazon.com, Inc.",
+        "ticker": "AMZN",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": ["2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4"],
+        "financials": {
+            "2024 Q1": {"revenue": 143313, "gross_profit": 69200, "operating_income": 15307, "net_income": 10431, "rd_expense": 21500, "headcount": 1521000, "gross_margin": 48.3},
+            "2024 Q2": {"revenue": 147977, "gross_profit": 72400, "operating_income": 14672, "net_income": 13485, "rd_expense": 22100, "headcount": 1532000, "gross_margin": 48.9},
+            "2024 Q3": {"revenue": 158877, "gross_profit": 77500, "operating_income": 17411, "net_income": 15328, "rd_expense": 22800, "headcount": 1550000, "gross_margin": 48.8},
+            "2024 Q4": {"revenue": 187800, "gross_profit": 92000, "operating_income": 21200, "net_income": 18800, "rd_expense": 23800, "headcount": 1560000, "gross_margin": 49.0},
+            "2025 Q1": {"revenue": 168000, "gross_profit": 82320, "operating_income": 18480, "net_income": 16200, "rd_expense": 24500, "headcount": 1565000, "gross_margin": 49.0},
+            "2025 Q2": {"revenue": 175000, "gross_profit": 86100, "operating_income": 19600, "net_income": 17150, "rd_expense": 25200, "headcount": 1570000, "gross_margin": 49.2},
+            "2025 Q3": {"revenue": 188000, "gross_profit": 92872, "operating_income": 22184, "net_income": 19400, "rd_expense": 26000, "headcount": 1580000, "gross_margin": 49.4},
+            "2025 Q4": {"revenue": 219000, "gross_profit": 108405, "operating_income": 26718, "net_income": 23200, "rd_expense": 27300, "headcount": 1590000, "gross_margin": 49.5}
+        },
+        "sales_breakdown": {
+            "categories": ["North America Retail", "International Retail", "Amazon Web Services (AWS)"],
+            "colors": ["#FF9900", "#146EB4", "#232F3E"],
+            "data": {
+                "2024 Q4": {"value": [115500, 43500, 28800], "volume": [61, 23, 16]},
+                "2025 Q4": {"value": [133000, 51000, 35000], "volume": [61, 23, 16]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Regionalized fulfillment and AWS growth expanded gross margin to 48.3%-49.5% across 1.5M workforce.",
+                "productivity": "Quarterly revenue per FTE tracks at ~$95K-$137K while AWS generates compounding operational leverage.",
+                "leverage": "Quarterly operating profit expanded to $15.3B-$26.7B with operating margins reaching 10.7%-12.2%."
+            },
+            "zh": {
+                "pivot": "物流履約中心區域化與 AWS 高速成長，帶動單季毛利率擴張至 48.3%-49.5%。",
+                "productivity": "全球 150 萬員工之單季人均營收約 9.5 萬-13.7 萬美元，AWS 貢獻主要營業利潤。",
+                "leverage": "單季營業利益大幅成長至 153 億-267 億美元，單季營業利益率由過去的低點攀升至 10.7%-12.2%。"
+            }
+        }
+    },
+    "pltr": {
+        "company_name": "Palantir Technologies Inc.",
+        "ticker": "PLTR",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": ["2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4"],
+        "financials": {
+            "2024 Q1": {"revenue": 634, "gross_profit": 518, "operating_income": 81, "net_income": 106, "rd_expense": 105, "headcount": 3850, "gross_margin": 81.7},
+            "2024 Q2": {"revenue": 678, "gross_profit": 552, "operating_income": 105, "net_income": 134, "rd_expense": 108, "headcount": 3900, "gross_margin": 81.4},
+            "2024 Q3": {"revenue": 726, "gross_profit": 595, "operating_income": 113, "net_income": 144, "rd_expense": 112, "headcount": 3950, "gross_margin": 82.0},
+            "2024 Q4": {"revenue": 828, "gross_profit": 685, "operating_income": 174, "net_income": 196, "rd_expense": 118, "headcount": 4050, "gross_margin": 82.7},
+            "2025 Q1": {"revenue": 890, "gross_profit": 738, "operating_income": 205, "net_income": 215, "rd_expense": 124, "headcount": 4150, "gross_margin": 83.0},
+            "2025 Q2": {"revenue": 960, "gross_profit": 801, "operating_income": 235, "net_income": 245, "rd_expense": 130, "headcount": 4250, "gross_margin": 83.5},
+            "2025 Q3": {"revenue": 1040, "gross_profit": 874, "operating_income": 270, "net_income": 280, "rd_expense": 138, "headcount": 4350, "gross_margin": 84.0},
+            "2025 Q4": {"revenue": 1180, "gross_profit": 997, "operating_income": 330, "net_income": 335, "rd_expense": 148, "headcount": 4450, "gross_margin": 84.5}
+        },
+        "sales_breakdown": {
+            "categories": ["US Commercial (AIP)", "US Government", "International Commercial", "International Government"],
+            "colors": ["#10B981", "#3B82F6", "#F59E0B", "#6366F1"],
+            "data": {
+                "2024 Q4": {"value": [280, 310, 130, 108], "volume": [34, 37, 16, 13]},
+                "2025 Q4": {"value": [460, 390, 180, 150], "volume": [39, 33, 15, 13]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "AIP enterprise adoption scaled gross margins to 81.4%-84.5% with disciplined headcount of ~4,200 FTEs.",
+                "productivity": "Quarterly revenue per FTE expanded from $165K to $265K ($1.06M annualized), showcasing extreme AI leverage.",
+                "leverage": "GAAP operating margins surged from 12.8% in early 2024 to 28.0% by late 2025."
+            },
+            "zh": {
+                "pivot": "AIP 企業級平台全面爆發，推升單季毛利率由 81.4% 攀升至 84.5%，員工人數維持在 4,200 人精實規模。",
+                "productivity": "單季人均營收由 16.5 萬美元激增至 26.5 萬美元（年化人均營收破 106 萬美元/人）。",
+                "leverage": "GAAP 營業利益率由 2024 年初的 12.8% 翻倍擴張至 2025 年底的 28.0%。"
+            }
+        }
+    },
+    "advantest": {
+        "company_name": "Advantest Corporation",
+        "ticker": "ADVANTEST",
+        "currency": "JPY (100 Millions)",
+        "unit": "¥ 億",
+        "freq": "quarterly",
+        "years": ["2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4"],
+        "financials": {
+            "2024 Q1": {"revenue": 1387, "gross_profit": 763, "operating_income": 313, "net_income": 248, "rd_expense": 168, "headcount": 7050, "gross_margin": 55.0},
+            "2024 Q2": {"revenue": 1412, "gross_profit": 777, "operating_income": 341, "net_income": 266, "rd_expense": 172, "headcount": 7120, "gross_margin": 55.0},
+            "2024 Q3": {"revenue": 1435, "gross_profit": 790, "operating_income": 448, "net_income": 349, "rd_expense": 178, "headcount": 7180, "gross_margin": 55.1},
+            "2024 Q4": {"revenue": 1416, "gross_profit": 778, "operating_income": 448, "net_income": 347, "rd_expense": 182, "headcount": 7200, "gross_margin": 55.0},
+            "2025 Q1": {"revenue": 1650, "gross_profit": 924, "operating_income": 485, "net_income": 380, "rd_expense": 195, "headcount": 7300, "gross_margin": 56.0},
+            "2025 Q2": {"revenue": 1750, "gross_profit": 980, "operating_income": 530, "net_income": 415, "rd_expense": 200, "headcount": 7400, "gross_margin": 56.0},
+            "2025 Q3": {"revenue": 1820, "gross_profit": 1020, "operating_income": 560, "net_income": 438, "rd_expense": 205, "headcount": 7450, "gross_margin": 56.0},
+            "2025 Q4": {"revenue": 1880, "gross_profit": 1052, "operating_income": 575, "net_income": 447, "rd_expense": 210, "headcount": 7500, "gross_margin": 56.0}
+        },
+        "sales_breakdown": {
+            "categories": ["Semiconductor Test Systems (SoC/Memory/HBM)", "Mechatronics Systems", "Services & Others"],
+            "colors": ["#E60012", "#003366", "#708090"],
+            "data": {
+                "2024 Q4": {"value": [1020, 155, 241], "volume": [72, 11, 17]},
+                "2025 Q4": {"value": [1370, 190, 320], "volume": [73, 10, 17]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Quarterly gross margins firm at 55.0%-56.0% supported by high-margin HBM3E/HBM4 tester mix.",
+                "productivity": "Quarterly revenue per FTE averages ~¥19.6M-¥25.0M (~$130K-$165K/quarter).",
+                "leverage": "Quarterly operating profit expanded from ¥313 億 to ¥575 億 (30.6% margin) as AI GPU test capacity scaled."
+            },
+            "zh": {
+                "pivot": "單季毛利率在 HBM3E/HBM4 與高階 SoC 測試機台出貨比重拉升下穩固於 55.0%-56.0%。",
+                "productivity": "單季人均營收達 1,960 萬-2,500 萬日圓（年化人均產值超過 52 萬-66 萬美元）。",
+                "leverage": "單季營業利益由 313 億日圓大幅擴張至 575 億日圓（營業利益率突破 30.6%）。"
+            }
+        }
+    },
+    "samsung": {
+        "company_name": "Samsung Electronics Co., Ltd.",
+        "ticker": "SAMSUNG",
+        "currency": "USD ($M)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": ["2024 Q1", "2024 Q2", "2024 Q3", "2024 Q4", "2025 Q1", "2025 Q2", "2025 Q3", "2025 Q4"],
+        "financials": {
+            "2024 Q1": {"revenue": 53100, "gross_profit": 20120, "operating_income": 4950, "net_income": 5050, "rd_expense": 5820, "headcount": 269000, "gross_margin": 37.9},
+            "2024 Q2": {"revenue": 54900, "gross_profit": 21020, "operating_income": 7700, "net_income": 7300, "rd_expense": 5950, "headcount": 269500, "gross_margin": 38.3},
+            "2024 Q3": {"revenue": 58300, "gross_profit": 22150, "operating_income": 6820, "net_income": 7300, "rd_expense": 6210, "headcount": 270000, "gross_margin": 38.0},
+            "2024 Q4": {"revenue": 54140, "gross_profit": 20450, "operating_income": 4340, "net_income": 1450, "rd_expense": 4880, "headcount": 270000, "gross_margin": 37.8},
+            "2025 Q1": {"revenue": 57500, "gross_profit": 22425, "operating_income": 7100, "net_income": 5900, "rd_expense": 6100, "headcount": 271000, "gross_margin": 39.0},
+            "2025 Q2": {"revenue": 60200, "gross_profit": 23960, "operating_income": 8100, "net_income": 6750, "rd_expense": 6250, "headcount": 271500, "gross_margin": 39.8},
+            "2025 Q3": {"revenue": 62500, "gross_profit": 25125, "operating_income": 8450, "net_income": 7050, "rd_expense": 6350, "headcount": 272000, "gross_margin": 40.2},
+            "2025 Q4": {"revenue": 61540, "gross_profit": 25160, "operating_income": 8090, "net_income": 6750, "rd_expense": 6300, "headcount": 272000, "gross_margin": 40.9}
+        },
+        "sales_breakdown": {
+            "categories": ["Device Solutions (Memory/Foundry)", "Mobile eXperience (MX)", "Visual Display & Appliances", "Samsung Display (SDC)"],
+            "colors": ["#1428A0", "#00A9E0", "#71C5E8", "#00205B"],
+            "data": {
+                "2024 Q4": {"value": [21500, 19800, 7840, 5000], "volume": [40, 36, 14, 10]},
+                "2025 Q4": {"value": [25500, 20500, 8540, 7000], "volume": [41, 33, 14, 12]}
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Memory cycle rebound restored quarterly gross margins to 37.8%-40.9% across 270K global workforce.",
+                "productivity": "Quarterly revenue per FTE averages ~$197K-$230K (~$800K-$920K annualized).",
+                "leverage": "Quarterly operating profit stabilized at $7.1B-$8.45B driven by enterprise SSD and HBM shipments."
+            },
+            "zh": {
+                "pivot": "記憶體週期回溫帶動單季毛利率回升至 37.8%-40.9% 水準。",
+                "productivity": "全球 27 萬員工之單季人均營收約 19.7 萬-23.0 萬美元（年化約 80 萬-92 萬美元）。",
+                "leverage": "單季營業利益穩定維持在 71 億-84.5 億美元，伺服器記憶體為獲利復甦主力。"
+            }
         }
     }
 }

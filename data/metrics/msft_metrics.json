@@ -375,35 +375,5 @@
       "growth": "Azure 智慧雲端連續數季維持 28%-33% 的高年增成長曲線。",
       "breakdown": "智慧雲端事業群每季穩定貢獻超過 43% 營收總額，為集團最高毛利與獲利核心引擎。"
     }
-  },
-  "lean_maturity": {
-    "current_level": 5,
-    "levels": [
-      {
-        "level": 1,
-        "name": "Windows & PC OEM Foundation",
-        "desc": "Standard desktop software licensing and channel distribution."
-      },
-      {
-        "level": 2,
-        "name": "Global Hyperscale Cloud Infrastructure",
-        "desc": "Standardized multi-tenant Azure region deployment and automated cluster management."
-      },
-      {
-        "level": 3,
-        "name": "Enterprise SaaS & Dynamics Platform",
-        "desc": "Continuous integration, multi-cloud subscription orchestrations, and telemetry monitoring."
-      },
-      {
-        "level": 4,
-        "name": "Generative AI Copilot & Custom Silicon",
-        "desc": "Maia 100 AI accelerators, Azure OpenAI supercomputing clusters, and Copilot studio integrations."
-      },
-      {
-        "level": 5,
-        "name": "Autonomous Cloud & AI Ecosystem Mastery",
-        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding software velocity."
-      }
-    ]
   }
 }
