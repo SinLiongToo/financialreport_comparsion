@@ -8891,6 +8891,110 @@ class FinancialMetricsExtractor:
         clean = ticker.strip().lower()
         return TICKER_ALIASES.get(clean, clean)
 
+    def get_annual_headcount_map(self, ticker: str, canon: str) -> Dict[int, int]:
+        """
+        Retrieves verified annual headcount map {year: headcount} from BUILTIN_BENCHMARKS
+        or by parsing annual reports (10-K / 20-F) in parsed_md.
+        """
+        hc_map = {}
+        # 1. Check BUILTIN_BENCHMARKS
+        if canon in BUILTIN_BENCHMARKS:
+            b_fin = BUILTIN_BENCHMARKS[canon].get("financials", {})
+            for y_k, v in b_fin.items():
+                if str(y_k).isdigit() and v.get("headcount"):
+                    hc_map[int(y_k)] = int(v["headcount"])
+        
+        # 2. Scan parsed annual MD files for 10-K/20-F headcount disclosures
+        all_candidate_folders = {ticker.lower(), canon}
+        for alias, c in TICKER_ALIASES.items():
+            if c == canon or c == ticker.lower() or alias == canon or alias == ticker.lower():
+                all_candidate_folders.add(alias)
+                all_candidate_folders.add(c)
+        
+        for folder in all_candidate_folders:
+            f_path = os.path.join(self.parsed_md_dir, folder)
+            if os.path.exists(f_path):
+                for md_file in glob.glob(os.path.join(f_path, "*.md")):
+                    fname = os.path.basename(md_file)
+                    if "10-K" in fname.upper() or "20-F" in fname.upper() or "ANNUAL" in fname.upper():
+                        match = re.search(r"(20\d\d)", fname)
+                        if match:
+                            yr = int(match.group(1))
+                            if yr not in hc_map:
+                                try:
+                                    with open(md_file, "r", encoding="utf-8", errors="ignore") as f:
+                                        txt = f.read()
+                                    ann_fin = self.parse_text_for_financials(txt, yr)
+                                    if ann_fin and ann_fin.get("headcount"):
+                                        hc_map[yr] = int(ann_fin["headcount"])
+                                except Exception:
+                                    pass
+        return hc_map
+
+    def resolve_quarterly_headcount(self, year: int, quarter: int, annual_hc_map: Dict[int, int], fallback_hc: Optional[int] = None) -> int:
+        """
+        Computes realistic quarterly headcount using annual 10-K anchor and linear interpolation.
+        10-K headcount represents year-end (Q4) workforce.
+        """
+        if not annual_hc_map:
+            return fallback_hc or 26000
+        
+        sorted_years = sorted(annual_hc_map.keys())
+        if year in annual_hc_map:
+            h_curr = annual_hc_map[year]
+            if (year - 1) in annual_hc_map:
+                h_prev = annual_hc_map[year - 1]
+                step = (h_curr - h_prev) / 4.0
+                if quarter == 1:
+                    return round(h_prev + step * 1)
+                elif quarter == 2:
+                    return round(h_prev + step * 2)
+                elif quarter == 3:
+                    return round(h_prev + step * 3)
+                else:
+                    return h_curr
+            elif (year + 1) in annual_hc_map:
+                h_next = annual_hc_map[year + 1]
+                step = (h_next - h_curr) / 4.0
+                if quarter == 4:
+                    return h_curr
+                elif quarter == 3:
+                    return round(h_curr - step * 1)
+                elif quarter == 2:
+                    return round(h_curr - step * 2)
+                elif quarter == 1:
+                    return round(h_curr - step * 3)
+            else:
+                return h_curr
+        
+        if year < sorted_years[0]:
+            if len(sorted_years) >= 2:
+                y1, y2 = sorted_years[0], sorted_years[1]
+                annual_diff = (annual_hc_map[y2] - annual_hc_map[y1]) / (y2 - y1)
+                base = annual_hc_map[y1] + annual_diff * (year - y1)
+                step = annual_diff / 4.0
+                val = base - step * (4 - quarter)
+                return max(100, round(val))
+            else:
+                return annual_hc_map[sorted_years[0]]
+        elif year > sorted_years[-1]:
+            if len(sorted_years) >= 2:
+                y1, y2 = sorted_years[-2], sorted_years[-1]
+                annual_diff = (annual_hc_map[y2] - annual_hc_map[y1]) / (y2 - y1)
+                base = annual_hc_map[y2] + annual_diff * (year - y2)
+                step = annual_diff / 4.0
+                val = base + step * (quarter - 4)
+                return max(100, round(val))
+            else:
+                return annual_hc_map[sorted_years[-1]]
+        else:
+            prev_y = max(y for y in sorted_years if y < year)
+            next_y = min(y for y in sorted_years if y > year)
+            h_prev = annual_hc_map[prev_y]
+            h_next = annual_hc_map[next_y]
+            fraction = (year - prev_y + (quarter / 4.0)) / (next_y - prev_y)
+            return max(100, round(h_prev + fraction * (h_next - h_prev)))
+
     def extract_from_markdown(self, ticker: str, freq: str = "annual") -> Dict:
         raw_ticker = ticker.lower()
         canon = self.canonical_ticker(raw_ticker)
@@ -8908,6 +9012,7 @@ class FinancialMetricsExtractor:
         md_files = sorted(list(set(md_files)))
 
         if freq == "quarterly":
+            annual_hc_map = self.get_annual_headcount_map(raw_ticker, canon)
             if canon in BUILTIN_BENCHMARKS_QUARTERLY:
                 metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS_QUARTERLY[canon]))
                 metrics["ticker"] = raw_ticker.upper()
@@ -8924,6 +9029,7 @@ class FinancialMetricsExtractor:
                     "insights": {"en": {}, "zh": {}}
                 }
         else:
+            annual_hc_map = {}
             if canon in BUILTIN_BENCHMARKS:
                 metrics = json.loads(json.dumps(BUILTIN_BENCHMARKS[canon]))
                 metrics["ticker"] = raw_ticker.upper()
@@ -8968,9 +9074,10 @@ class FinancialMetricsExtractor:
                     q_match = re.search(r"(?:FY)?(20\d\d).*?(Q[1-4])", fname, re.I)
                 
                 if q_match:
-                    q_year = q_match.group(1)
-                    q_num = q_match.group(2).upper()
-                    period_key = f"{q_year} {q_num}"
+                    q_year = int(q_match.group(1))
+                    q_num_str = q_match.group(2).upper()
+                    q_num = int(q_num_str[1])
+                    period_key = f"{q_year} {q_num_str}"
                     
                     if period_key not in metrics["financials"] or not metrics["financials"][period_key].get("revenue"):
                         try:
@@ -8984,12 +9091,8 @@ class FinancialMetricsExtractor:
                                     metrics["sales_breakdown"] = {"categories": [], "colors": ["#1E3A8A", "#0284C7", "#059669", "#D97706"], "data": {}}
                                 metrics["sales_breakdown"]["data"][period_key] = direct_sb
                             if q_fin and q_fin.get("revenue") and q_fin["revenue"] > 10:
-                                hc = 34000
-                                for prev_k in reversed(list(metrics["financials"].keys())):
-                                    if metrics["financials"][prev_k].get("headcount"):
-                                        hc = metrics["financials"][prev_k]["headcount"]
-                                        break
-                                q_fin.setdefault("headcount", hc)
+                                if not q_fin.get("headcount"):
+                                    q_fin["headcount"] = self.resolve_quarterly_headcount(q_year, q_num, annual_hc_map)
                                 metrics["financials"][period_key] = q_fin
                                 if period_key not in metrics["years"]:
                                     metrics["years"].append(period_key)
@@ -9036,6 +9139,7 @@ class FinancialMetricsExtractor:
                                             "operating_income": round(q4_op),
                                             "net_income": round(q4_ni),
                                             "rd_expense": round(q4_rd),
+                                            "headcount": self.resolve_quarterly_headcount(yr_num, 4, annual_hc_map),
                                             "gross_margin": round((q4_gp / q4_rev) * 100, 2) if q4_rev else 0.0,
                                             "operating_margin": round((q4_op / q4_rev) * 100, 2) if q4_rev else 0.0
                                         }
@@ -9086,6 +9190,19 @@ class FinancialMetricsExtractor:
                 if re.match(r"^20\d\d\s+Q[1-4]$", str(k).strip()):
                     valid_q[str(k).strip()] = v
             metrics["financials"] = valid_q
+            
+            # Headcount validation & interpolation pass across all active quarters
+            if annual_hc_map:
+                for q_k, q_fin in metrics["financials"].items():
+                    parts = str(q_k).strip().split()
+                    if len(parts) >= 2 and parts[0].isdigit() and parts[1].startswith("Q"):
+                        y_val = int(parts[0])
+                        q_val = int(parts[1][1:])
+                        curr_hc = q_fin.get("headcount")
+                        expected_hc = self.resolve_quarterly_headcount(y_val, q_val, annual_hc_map)
+                        # If headcount is missing or has a huge (>15%) deviation from the annual anchor (e.g. stale flat fallback)
+                        if not curr_hc or abs(curr_hc - expected_hc) / expected_hc > 0.15:
+                            q_fin["headcount"] = expected_hc
             
             def q_sort_key(x):
                 parts = str(x).strip().split()

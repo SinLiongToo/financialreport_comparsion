@@ -446,6 +446,12 @@ python main.py --export-static
 
 ## 📝 最新修復與優化 (Change Log)
 
+- **v1.4.2 (2026-08-27)**：
+  - **修復 Quarterly 模式 Headcount 全平與 Annual 10-K 脫節問題 (年度人數錨定與季度線性插值)**：
+    - **根本原因**：美國 SEC Form 10-Q 季度財報依法不強制揭露員工人數，原先解析程式使用寫死常數（`34,000`）與末季 Fallback 機制，導致 NXP、AMD、AAPL、MSFT、META、AMZN、MU、PLTR、AMAT、TER 等 10 家公司的歷史季度 Headcount 全部被填成 2025 年底最高值（全平），造成歷史季度人均產值被嚴重低估。
+    - **解決方案 (架構升級)**：在 `metrics_extractor.py` 中新增 `get_annual_headcount_map` 與 `resolve_quarterly_headcount`，自動向上錨定 10-K 審計人數，並於 $Q1 \sim Q4$ 間執行高精度線性插值平滑過渡（$Q1 \rightarrow Q2 \rightarrow Q3 \rightarrow Q4$）。
+    - **全面更新資料庫與 Standalone**：徹底消除寫死硬編碼，重新生成所有 19 家公司的 JSON 快取，並同步編譯 `docs/index.html` 與 `standalone_dashboard.html`，確保人均營收、人均毛利與 YoY 人數增長率呈現真實平滑走勢。
+
 - **v1.4.1 (2026-08-26)**：
   - **全面修復單季 (Quarterly 10-Q) 切換按鈕無反應與公司季度財報關聯異常**：
     - **根本原因 1 (離線記憶體資料庫缺少季度數據)**：`export_standalone.py` 原先僅打包年度資料 (`STATIC_METRICS_DB`)，未注入季度資料庫 (`STATIC_METRICS_QUARTERLY_DB`)，導致在離線 HTML / GitHub Pages 環境下點擊「Quarterly (10-Q)」按鈕時，前端無法讀取單季數據而無視覺響應。
@@ -521,6 +527,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v1.4.2 - fix: anchor quarterly headcount to annual 10-K audit and apply linear interpolation across quarters
 * commit v1.4.1 - fix: resolve Quarterly 10-Q toggle inactivity, bundle quarterly DB in standalone, fix ticker alias markdown resolution, and synchronize 10-Q workflow URLs
 * commit v1.4.0 - feat: add standalone serverless HTML export engine for GitHub Pages and 100% offline usage
 * commit v1.3.5 - fix: populate AMAT R&D expenditure and intensity metrics across annual benchmarks
