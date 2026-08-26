@@ -1,8 +1,8 @@
-# Annual Report: NXP-SEMICONDUCTORS_2023_Q2_10-Q
+# Financial Report: NXP-SEMICONDUCTORS_2023_Q2_10-Q
 
 - **Source File**: `NXP-SEMICONDUCTORS_2023_Q2_10-Q.pdf`
-- **Total Pages**: 32
-- **Parsed Pages**: 32
+- **Total PDF Pages**: 32
+- **Parsed Key Pages**: 32 (32 selected sections)
 
 ---
 

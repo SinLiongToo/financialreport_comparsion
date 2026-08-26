@@ -1,8 +1,8 @@
-# Annual Report: NXP-SEMICONDUCTORS_2021_Annual_Report
+# Financial Report: NXP-SEMICONDUCTORS_2021_Annual_Report
 
 - **Source File**: `NXP-SEMICONDUCTORS_2021_Annual_Report.pdf`
-- **Total Pages**: 156
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 156
+- **Parsed Key Pages**: 78 (78 selected sections)
 
 ---
 
@@ -2694,381 +2694,7131 @@ technology from Augsburg University, Germany.
 #### [-25]
 
 
-## Page 26
+## Page 34
 
-•
-Sir Peter Bonfield CBE FREng (1944, British). Sir Peter was appointed a non-executive director and 
-chair of our board of directors in August 2010. Prior to that, Sir Peter was chair of the supervisory board of NXP 
-B.V. from September 29, 2006. Sir Peter served as chief executive officer and chair of the executive committee 
-for British Telecom plc from 1996 to 2002 and prior to that was chair and chief executive officer of ICL plc 
-(now Fujitsu Services Holdings Ltd.). Sir Peter also worked in the semiconductor industry during his tenure as a 
-divisional director at Texas Instruments Incorporated, for whom he held a variety of senior management 
-positions around the world. In addition, Sir Peter has served as a director of twelve large technology companies. 
-Sir Peter currently holds non-executive directorships at Taiwan Semiconductor Manufacturing Company 
-Limited, Darktrace plc and Imagination Technologies, is board member at CMi in London and formerly served 
-on the board of directors of Mentor Graphics Corporation. He is advisor to Longreach LLP in Hong Kong, Alix 
-Partners UK LLP in London and is a Fellow of The Royal Academy of Engineering. Sir Peter is named 
-Outstanding Director for 2019 by the Financial Times.
+### Table 34.1
 
-•
-Annette Clayton (1964, American). Ms. Clayton was appointed a non-executive director of our board 
-of directors effective May 26, 2021. Ms. Clayton is the chief executive officer and president of Schneider 
-Electric North America, a region of Schneider Electric, a multinational firm specializing in energy management 
-and automation solutions. Through December 2018, Ms. Clayton also held the title of chief supply chain officer 
-for the Group and led the transformation of its $13 billion global supply chain operation for seven years and 
-from 2011 to 2016 led the environmental and social governance function. She is also a member of the company’s 
-executive committee. From 2006 to 2011, Ms. Clayton led Dell Inc.’s supply chain transformation and oversaw 
-the global manufacturing and fulfillment operation. She was also responsible for the Americas’ commercial 
-order management and customer care operations. From 1983 to 2006 Ms. Clayton worked at General Motors 
-Corporation in senior management roles in engineering and production, including president, Saturn Corporation. 
-Ms. Clayton chairs the National Electrical Manufacturers Association and is a member of the board of directors 
-of the National Association of Manufacturers. She serves on the board of Duke Energy Corporation and the 
-Schneider Ventures boards of AlphaStruxure, Uplight Inc., QMerit, EnergySage, and previously served on the 
-board of Polaris Inc until April 2021.
+| Members Ms. Southern (Chair) Ms. Staiblin Mr. Sundström |  |  |
+| --- | --- | --- |
+| Number of meetings during 2021: |  | 10 |
 
-•
-Anthony Foxx (1971, American). Mr. Foxx was appointed a non-executive director of our board of 
-directors effective May 26, 2021. From October 2018 to January 2022, Mr. Foxx served as the chief policy 
-officer and senior advisor to the president and chief executive officer of Lyft. Prior to joining Lyft, Inc., Mr. 
-Foxx served as a managing partner of related infrastructure, the infrastructure development group of Related 
-Companies, a real estate firm, from December 2017 to October 2018. From July 2013 to January 2017, Mr. Foxx 
-served as the seventeenth United States Secretary of Transportation. Mr. Foxx served as the mayor of Charlotte, 
-North Carolina from 2009 to 2013 and as a Charlotte City council member at-large representative from 2005 to 
-2009. Mr. Foxx also has held a variety of legal positions in the public and private sectors. Mr. Foxx serves on the 
-board of directors of Martin Marietta Materials, Inc., CDW Corporation and Shelter Acquisition Corporation I. 
-He holds a Doctor of Law (J.D.) from New York University School of Law, and a Bachelor of Arts (B.A.), 
-History, from Davidson College.
 
-•
-Kenneth A. Goldman (1949, American). Mr. Goldman was appointed a non-executive director of our 
-board of directors effective August 6, 2010. Mr. Goldman was the chief financial officer of Yahoo!, Inc. from 
-October 2012 until June 2017. Prior to October 2012, Mr. Goldman served as senior vice president, finance and 
-administration, and chief financial officer of Fortinet, Inc, a provider of unified threat management solutions, 
-from September 2007 to September 2012. From November 2006 to August 2007, Mr. Goldman served as 
-executive vice president and chief financial officer of Dexterra, Inc. From August 2000 until March 2006, Mr. 
-Goldman served as senior vice president, finance and administration, and chief financial officer of Siebel 
-Systems, Inc., and from December 1999 to December 2003, Mr. Goldman served on the Financial Accounting 
-Standards Board’s primary advisory group. Mr. Goldman currently serves on the board of directors of GoPro, 
-Inc., RingCentral, Inc., Zuora, Inc., Fortinet, Inc. and several private companies, including serving as president 
-of Hillspire, LLC. and formerly served on the board of directors of TriNet Group, Inc. Mr. Goldman also is a 
-member of the Value Reporting Foundation (VRF), and in 2015 was appointed to a three-year term on the 
-Standards Advisory Group which advises the PCAOB. Mr. Goldman was a member of board of trustees of 
-Cornell University from 2005 to 2013 and was designated as Emeritus Trustee. He was formerly a member of 
-the Treasury Advisory Committee on the Auditing Profession, a public committee that made recommendations 
-in September 2008 to encourage a more sustainable auditing profession. Mr. Goldman holds a B.S. in Electrical 
-Engineering from Cornell University and an M.B.A. from the Harvard Business School.
+Information about each of the standing committees is provided on the following pages provides an additional 
+discussion of committee responsibilities in relation to risk oversight.
+
+
+### AUDIT COMMITTEE
+
+Members
+Ms. Southern 
+(Chair)
+Ms. Staiblin
+Mr. Sundström
+
+KEY OVERSIGHT RESPONSIBILITIES INCLUDE, BUT ARE NOT LIMITED 
+TO:
+ 
+ •  The integrity of the Company’s financial statements and its accounting and financial
+
+reporting processes
+ 
+•  The effectiveness of the Company’s internal control over financial reporting
+ 
+•  Compliance with applicable legal and regulatory requirements 
+ 
+• Oversight of information technology risks, including cybersecurity
+ 
+•  The qualifications, independence and performance of the independent registered public
+
+accounting firm for U.S. public reporting purposes and the Company’s external 
+auditor for purposes of Dutch law
+ 
+•  The Internal Audit group
+ 
+•  The Company’s processes and procedures related to risk assessment and risk
+
+management 
+ 
+Number of
+meetings during 
+2021:
+
+
+#### 10
 
 
 #### Report of the Directors Governance
 
 
-#### [-26]
+#### [-34]
 
 
-## Page 27
+## Page 35
 
-•
-Josef Kaeser (1957, German). Mr. Kaeser was appointed a non-executive director of our board of 
-directors effective September 1, 2010. Mr. Kaeser was the president and chief executive officer of Siemens AG 
-from August 2013 until February 2021. Prior to this, from May 2006 to August 2013, he was a member of the 
-managing board and chief financial officer of Siemens AG. From 2004 to 2006, Mr. Kaeser served as chief 
-strategy officer for Siemens AG and as the chief financial officer for the mobile communications group from 
-2001 to 2004. Mr. Kaeser additionally held various other positions within the Siemens group since he joined 
-Siemens in 1980. Mr. Kaeser serves on the supervisory board of Siemens Energy AG, the board of directors of 
-Linde plc and formerly served on the managing board of Daimler AG.
+### Table 35.1
 
-•
-Lena Olving (1956, Swedish). Ms. Olving was appointed a non-executive director of our board of 
-directors in June 2019. She served as president and CEO of Mycronic AB (listed on NASDAQ OMX 
-Stockholm), from 2013 and 2019, a Swedish high-tech equipment company serving the electronics industry. 
-Before that Ms. Olving worked at Saab AB, a listed Defence and Security company, as deputy CEO and chief 
-operating officer. Her earlier career also includes various managerial positions within Volvo Car Corporation, in 
-total 25 years, of which 5 years in Asia Pacific and 7 years in the executive management team. Ms. Olving is a 
-board member of Assa Abloy AB, Investment AB Latour, Munters Group AB, chair of Academic Work Holding 
-AB, chair of the Board at the Royal Swedish Opera and ScandiNova Systems AB and board member of Stena 
-Metall AB. She is a fellow of IVA, the Royal Swedish Academy of Engineering Sciences. She holds a Master of 
-Science in Mechanical Engineering from Chalmers in Gothenburg, Sweden. In January 2018, Ms. Olving was 
-presented H.M., The King’s Medal of the 12th size with blue ribbon for outstanding efforts within Swedish 
-business sector. In October 2019, she was awarded IVA’s Gold Medal for pioneering and outstanding leadership 
-within the tech sector.
-
-•
-Peter Smitham (1942, British). Mr. Smitham was appointed a non-executive director of our board of 
-directors effective December 7, 2015. Mr. Smitham retired from his position as a partner of the private equity 
-firm Permira on December 31, 2009, but until August 1, 2015, he was a member of Permira Advisers LLP, 
-which he joined in 1985, the year the London office was founded. Mr. Smitham was the managing partner of the 
-London office from 1994 until 1998 and led Permira’s European business from 1996 until 2000. He has worked 
-on numerous transactions focusing on technology, including those involving Memec Group Holdings Limited, 
-The Roxboro Group, Solartron Group and Technology plc. Until its merger with NXP, Mr. Smitham was a 
-director of Freescale. He joined the Freescale board in June 2007 and was a member of the compensation and 
-leadership Committee and the nominating and corporate governance committee of the Freescale board. He has a 
-degree in Geography from Swansea University, Wales, and attended the Senior Executive Program at Stanford 
-Business School.
-
-•
-Julie Southern (1959, British). Ms. Southern was appointed a non-executive director of our board of 
-directors in October 2013. She was with Virgin Atlantic Limited (UK) from 2000 to May 2013. From 2010 to 
-2013 Ms. Southern was chief commercial officer and from 2000 to 2010 she was chief financial officer of Virgin 
-Atlantic. Prior to joining Virgin Atlantic, she was group finance director at Porsche Cars Great Britain and 
-finance and operations director at W H Smith—H J Chapman & Co Ltd. Prior to that, she was a chartered 
-accountant at Price Waterhouse Coopers. Ms. Southern currently holds non-executive directorships at Rentokil-
-Initial plc, Ocado Group plc and easyJet plc, and is chair of the respective audit committees. Ms. Southern is a 
-member of the remuneration committees at Rentokil-Initial, Ocado and easyJet, and is the senior independent 
-director at easyJet. Previously, Ms. Southern held directorships at Stagecoach Group plc (2016-2018), DFS 
-Furniture plc (2015-2019) and Cineworld Group plc (2015-2019).
-
-•
-Jasmin Staiblin (1970, German). Ms. Staiblin was appointed a non-executive director of our board of 
-directors in June 2019. She served between 2013 and 2018 as Chief Executive Officer of Alpiq, a leading Swiss 
-energy services provider and power producer in Europe. She successfully led the company through a major 
-transformation in a fundamentally changing energy market. She began her career in 1997 at the ABB Group, the 
-Swedish-Swiss global technology company, starting in ABB’s group research center. From 1999 to 2005 she 
-served in various global functions and as a member of the management team for ABB’s power technologies 
-division. She held the position of chief executive officer of ABB Switzerland from 2006 to 2012. Ms. Staiblin is 
-a board member of Georg Fischer AG, Schaffhausen and Zurich Insurance Group Ltd and chair of the 
-supervisory board of Rolls-Royce Power Systems AG and MTU Friedrichshafen GmbH. She formerly served on 
-the board of Rolls-Royce plc. Ms. Staiblin studied Physics and Electrical Engineering at the Karlsruhe Institute
+| Members Mr. Smitham (Chair) Sir Peter Bonfield Ms.Clayton Ms.Olving Mr. Sundström |  |  |
+| --- | --- | --- |
+| Number of meetings during 2021: |  | 7 |
 
 
-#### [-27]
+### Table 35.2
 
-
-## Page 28
-
-### Table 28.1
-
-| Kurt Sievers 52 Executive director, president and chief executive officer |
+| NOMINATING AND GOVERNANCE COMMITTEE |
 | --- |
-| Bill Betz 44 Executive vice president and chief financial officer |
-| Christopher Jensen 52 Executive vice president and chief human resources officer |
-| Andy Micallef 57 Executive vice president global operations |
-| Stephen Owen 61 Executive vice president sales & marketing |
-| Jennifer Wuamett 56 Executive vice president and general counsel |
 
 
-of Technology, Germany and the Royal Institute of Technology in Stockholm, Sweden. She completed her 
-studies with a Degree in Physics and has a Master of Science in electrical engineering.
+
+### Table 35.3
+
+| Members Mr. Summe (Chair) Sir Peter Bonfield Mr. Foxx Mr. Goldman Mr. Kaeser |  |  |
+| --- | --- | --- |
+| Number of meetings during 2021: |  | 4 |
+
+
+
+### COMPENSATION COMMITTEE
+
+Members
+Mr. Smitham 
+(Chair)
+Sir Peter Bonfield
+Ms.Clayton   
+Ms.Olving
+Mr. Sundström
+
+KEY OVERSIGHT RESPONSIBILITIES INCLUDE, BUT ARE NOT LIMITED 
+TO:
+
+
+#### •  CEO and senior management compensation, including the corporate goals and
+
+objectives relevant to such compensation and evaluating performance in light of 
+those goals and objectives
+
+
+#### •  Board and committee compensation
+
+•  Relationship between the Company’s compensation policies and practices and risk
+
+
+#### management
+
+
+#### •  Management Team succession plans
+
+•  Compensation and benefits-related disclosures and equity compensation plans in
+
+
+#### which executives participate
+
+• Various human capital management topics, including diversity, equality and inclusion,
+
+Workforce trends and surveys, as well as University Relations Program
+Number of
+meetings during 
+2021:
+ 
+  7
+
+
+### NOMINATING AND GOVERNANCE COMMITTEE
+
+Members
+Mr. Summe 
+(Chair)
+Sir Peter Bonfield 
+Mr. Foxx
+Mr. Goldman 
+Mr. Kaeser
+
+KEY OVERSIGHT RESPONSIBILITIES INCLUDE, BUT ARE NOT LIMITED 
+TO:
+
+
+#### •  Corporate governance matters
+
+
+#### • Nomination or re-nomination of director candidates and approval of other
+
+
+#### shareholders meeting agenda items
+
+
+#### •  The annual self-evaluation of the Board and its committees
+
+
+#### •  Review NXP top identified risks and make proposals to the Board on oversight
+
+
+#### •  Initiatives and reporting on Environment, Social and Governance
+
+Number of
+meetings during 
+2021:
+
+
+#### 4
+
+
+#### Setting and Overseeing Strategy
+
+The Board actively determines the Company’s strategy and continues to focus on those strategies designed to 
+ensure the continued durability and sustainability of the Company, while creating long-term value for our 
+shareholders, and serving the interests of our other stakeholders. The Board and its committees regularly and 
+extensively reviewed during their meetings throughout 2021 the Company’s strategy, the Company’s primary 
+risks as well as the design and operation of the internal control systems to ensure it supports the long-term 
+growth and sustainability of the Company and reflects, among other considerations, market challenges and
+
+
+#### [-35]
+
+
+## Page 36
+
+opportunities, and the interests of shareholders and other stakeholders. This has substantially impacted the long-
+term value creation strategy as referred to in practice 1.1.1 of the DCGC and as further outlined in below 
+Sustainability statements and the Annual Social Responsibility Report . In addition to quarterly updates on the 
+business performance and detailed presentations by the various business managers, the Board, as part of its 
+annual meeting schedule, spent a full meeting in November to review and discuss the mid- to long-term strategy 
+of the Company.
+
+The Board is committed to maintaining a dialogue with shareholders to ensure that they understand our 
+differentiated strategy and business model and have an opportunity to discuss and engage on a broad range of 
+topics, including our strategy. The Board will also review the implementation of our strategy at our annual 
+general meeting of shareholders, giving attendees the opportunity to discuss our annual Dutch board report and 
+the accompanying financial statements prepared in accordance with International Financial Reporting Standards 
+as adopted by the European Union (“IFRS”). We also regularly discuss our strategy in shareholder engagement 
+sessions.
+
+
+#### Risk Oversight
+
+Our management is directly responsible for executing the Company’s risk management processes. Reference is 
+made to the section Enterprise Risk Management process and the various risk factors. Our Board is responsible 
+for overseeing these risk management processes. In exercising its oversight, the Board and, as appropriate, the 
+relevant Board committees, assesses the material risks facing the Company and evaluate management’s plans for 
+managing material risk exposures. The Company conducts a formal annual risk assessment to identify, analyze 
+and report on enterprise risks. The results of this risk assessment are reported to and discussed with the Board.
+
+Our Board performs this oversight function through periodic reports from management and Board committees. 
+While our Board generally has ultimate oversight responsibility of the Company’s risk management processes, it 
+has delegated to its committees the responsibility to oversee risk management processes associated with their 
+respective areas of responsibility and expertise. For example, the Audit Committee has oversight responsibility 
+for the Company’s internal audit function, compliance with the Code of Conduct, internal controls and financial 
+reporting practices, litigation, and compliance processes. The Compensation Committee has oversight 
+responsibility for the Company’s executive talent management and succession planning and risks related to the 
+Company’s compensation policies and practices, as described in more detail in the Compensation Practices and 
+Risk section of the Compensation Discussion and Analysis. The Nominating and Governance Committee has 
+oversight responsibility for the Company’s compliance with its corporate governance principles, CEO succession 
+planning and proposes recommendations to the Board for updates to risk oversight responsibilities of the 
+committees and the Board. The Board receives regular reports from each committee chair regarding the 
+committee’s considerations and actions. The Board also receives regular updates from management on the 
+Company’s business operations, financial results and strategy and, as appropriate, discusses and provides 
+feedback with respect to risks related to these topics. Annually, the Board holds strategic planning sessions with 
+senior management to discuss strategies, key challenges, and risks and opportunities for our business.
+
+NXP, similar to other semiconductor companies, operates in a complex and rapidly changing environment that 
+involves many risks. In addition to general market, research and development, and economic risks, the Company 
+faces potential risks related to its industry; information technology and cybersecurity; data privacy; financial 
+controls and reporting; legal, regulatory and compliance; finances and taxation; global operations; environment 
+and social responsibility; and product portfolio and commercialization, among others. As a company committed 
+to operating ethically and with integrity, we proactively seek to manage and, where possible, mitigate risks to 
+help ensure compliance with applicable rules and regulations, maintain integrity and continuity in our operations 
+and business and protect our assets. Risk management is an enterprise-wide objective subject to oversight by the 
+Board and its committees.
+
+It is the responsibility of management and employees to implement and administer risk-management processes to 
+identify material risks to our business. In addition, management must assess, manage and monitor those risks, all 
+while maintaining flexibility in how we operate. To further embed risk management and compliance into our 
+culture, we implement relevant policies and procedures and train employees on the specifics of such policies and 
+procedures. All of our committees have regular access to management and the Board and committees also 
+schedule sessions without members of management present.
+
+
+#### Report of the Directors Governance
+
+
+#### [-36]
+
+
+## Page 37
+
+The Board, in turn, directly or through its committees, oversees management’s implementation of risk 
+management. We have approved a robust Code of Conduct and other related policies, and the Board and its 
+committees rigorously review with management actual and potential significant risks at least on a quarterly basis.
+
+
+#### Board Education
+
+Individual members of the Board participate in director education seminars, conferences and other director 
+education programs presented by external and internal resources, on matters that relate to, among other topics, 
+compensation, governance, board processes, risk oversight, business, industry, audit and accounting, credit and 
+financial, regulatory and other current issues.
+
+
+#### How Our Directors Are Selected and Evaluated
+
+
+#### Consideration of Director Nominees
+
+For purposes of identifying individuals qualified to become members of the Board, the Nominating and 
+Governance Committee considers the following general criteria, among others, in nominating director 
+candidates. These criteria reflect the traits, abilities and experience that the Board looks for in determining 
+candidates for election:
 
 •
-Gregory L. Summe (1956, American). Mr. Summe was appointed a non-executive director of our 
-board of directors effective December 7, 2015. Mr. Summe is the managing partner of Glen Capital Partners, an 
-investment fund. Recently, he was the co-chair and co-founder of NextGen Acquisition Corp. I & II. Previously, 
-Mr. Summe was the managing director and vice chair of Global Buyout at The Carlyle Group, a leading global 
-private equity firm, from 2009 to 2014. Prior to joining Carlyle, he was the chair and chief executive officer of 
-PerkinElmer, Inc., a global leader in Health Sciences, a company he led from 1998 to May 2009. He also served 
-as a senior advisor to Goldman Sachs Capital Partners, from 2008 to 2009. He was a director of Freescale 
-Semiconductor from 2010 until its merger with NXP in 2015 and served as chair of the Freescale board from 
-2014-2015. Prior to PerkinElmer, Mr. Summe was with AlliedSignal, now Honeywell International, serving as 
-the president of General Aviation Avionics, president of the Aerospace Engines Group and president of the 
-Automotive Products Group. Before joining AlliedSignal, he was the general manager of Commercial Motors at 
-General Electric and was a partner with the consulting firm of McKinsey & Company, Inc. Mr. Summe holds 
-B.S. and M.S. degrees in electrical engineering from the University of Kentucky and the University of 
-Cincinnati, and an M.B.A. with distinction from the Wharton School at the University of Pennsylvania. He is in 
-the University of Kentucky's Hall of Distinction. Mr. Summe also serves on the board of directors of the State 
-Street Corporation, Avantor Corporation and Virgin Orbit Holdings and formerly served on the boards of 
-directors of NextGen Acquisition Corp. I and NextGen Acquisition Corp II.
+Directors shall have relevant expertise and experience and be able to offer advice and guidance to the 
+CEO based on that expertise and experience;
 
 •
-Karl-Henrik Sundström (1960, Swedish). Mr. Sundström was appointed a non-executive director of 
-our board of directors in June 2019. He served as CEO of Stora Enso from 2014 until his retirement in 2019. He 
-joined Stora Enso in August 2012 as CFO and member of the group leadership team. In June 2013 he took on the 
-role as executive vice president for division Paper and Wood Products. Prior to joining Stora Enso, Mr. 
-Sundström held the role as CFO of NXP Semiconductors N.V. (2008–2012). Before that, he held several 
-managerial positions in Ericsson, including CFO. He is a member of the board of Vestas AS, Mölnlycke AB and 
-vice chair of Boliden AB, chair of the tax delegation for Swedish Business and Commerce, chair of the Climate 
-Leadership Coalition and member of the board of the Marcus Wallenberg Foundation. Mr. Sundström 
-participated in an Advanced Management Program at Harvard Business School in 1997 and holds a degree in 
-Business Administration, Finance and Accounting from the Uppsala University, Sweden.
+Directors shall have the ability to exercise sound business judgment;
 
-Information on the remuneration of our board of directors is disclosed in Note 31 Information on remuneration 
-board of directors of the consolidated financial statements.
+•
+Directors shall represent diverse viewpoints; the personal backgrounds and qualifications of the 
+directors, considered as a group, should provide the Company with a significant composite mix of 
+experience, knowledge and abilities; and
+
+•
+Unless otherwise approved by the Board, directors shall not be a member of the board of directors or an 
+officer or employee of a competitor (or an affiliate of a competitor) of the Company.
+
+In addition to the criteria set forth above, and any others the Nominating and Governance Committee or the 
+Board may consider, a majority of the Board’s members must be “independent,” as that term may be defined 
+from time to time by the applicable Nasdaq listing standards, the Rules of Procedure, as well as practice 2.1.8 of 
+the DCGC, including that an independent director must be free of any relationships which, in the opinion of the 
+Board, would interfere with the exercise of independent judgment in carrying out the responsibilities of a 
+director.
+
+As needed, the Nominating and Governance Committee may identify new potential director nominees by, among 
+other means, requesting current directors and executive officers and external advisors to notify it if they become 
+aware of persons meeting the criteria described above who would be suitable candidates for service on the 
+Board. The committee also may, as needed, engage one or more firms that specialize in identifying director 
+candidates.
+
+As appropriate, the Nominating and Governance Committee will review publicly available information regarding 
+a potential candidate, request information from the candidate, review the candidate’s experience and 
+qualifications, including in light of any other candidates the committee might be considering, and conduct, 
+together with other members of the Board, one or more interviews with the candidate. Committee members or 
+their designees also may contact one or more references provided by the candidate or may contact other members 
+of the business community or persons who may have first-hand knowledge of the candidate’s talents and 
+experience.
 
 
-#### Information about our Executive Officers
+#### [-37]
 
-The names, ages and positions as of March 3, 2022, of our executive officers, including our chief executive 
-officer, Mr. Sievers, are as follows:
 
-Name
-Age
-Position
-Kurt Sievers
-52
-Executive director, president and chief executive officer
-Bill Betz
-44
-Executive vice president and chief financial officer
+## Page 56
 
-Christopher Jensen
-52
-Executive vice president and chief human resources officer
 
-Andy Micallef
-57
-Executive vice president global operations
-Stephen Owen
+#### Risks related to intellectual property
+
+We rely to a significant extent on proprietary intellectual property. We may not be able to protect this 
+intellectual property against improper use by our competitors or others.
+
+Our success and future revenue growth depends, in part, on our ability to protect our proprietary 
+technology, our products, our proprietary designs and fabrication processes, and other intellectual property 
+against misappropriation by others. We primarily rely on patent, copyright, trademark and trade secret laws, as 
+well as nondisclosure agreements and other methods, to protect our intellectual property. We may have difficulty 
+obtaining patents and other intellectual property rights to protect our proprietary products, technology and 
+intellectual property, and the patents and other intellectual property rights we receive may be insufficient to 
+provide us with meaningful protection or commercial advantage. We may not obtain patent protection or secure 
+other intellectual property rights in all the countries in which we operate, and under the laws of such countries, 
+patents and other intellectual property rights may be or become unavailable or limited in scope. Even if new 
+patents are issued, the claims allowed may not be sufficiently broad to effectively protect our proprietary 
+technology, processes and other intellectual property. In addition, any of our existing patents, and any future 
+patents issued to us may be challenged, invalidated or circumvented. The protection offered by intellectual 
+property rights may be inadequate or weakened for reasons or circumstances that are out of our control. Further, 
+our proprietary technology, designs and processes and other intellectual property may be vulnerable to disclosure 
+or misappropriation by employees, contractors and other persons. It is possible that competitors or other 
+unauthorized third parties may obtain, copy, use or disclose our proprietary technologies, our products, designs, 
+processes and other intellectual property despite our efforts to protect our intellectual property. While we hold a 
+significant number of patents, there can be no assurances that additional patents will be issued or that any rights 
+granted under our patents will provide meaningful protection against misappropriation of our intellectual 
+property. Our competitors may also be able to develop similar technology independently or design around our 
+patents. We may not have or pursue patents or pending applications in all the countries in which we operate 
+corresponding to all of our primary patents and applications. Even if patents are granted, effective enforcement 
+in some countries may not be available. In particular, intellectual property rights are difficult to enforce in 
+countries where the application and enforcement of the laws governing such rights may not have reached the 
+same level as compared to other jurisdictions where we operate. Consequently, operating in some countries may 
+subject us to an increased risk that unauthorized parties may attempt to copy or otherwise use our intellectual 
+property or the intellectual property of our suppliers or other parties with whom we engage. There is no 
+assurance that we will be able to protect our intellectual property rights or have adequate legal recourse in the 
+event that we seek legal or judicial enforcement of our intellectual property rights under the laws of such 
+countries. Any inability on our part to adequately protect our intellectual property may have a material adverse 
+effect on our business, financial condition and results of operations.
+
+We may become party to intellectual property claims or litigation that could cause us to incur 
+substantial costs, pay substantial damages or prohibit us from selling our products.
+
+We have from time to time received, and may in the future receive, communications alleging possible 
+infringement of patents and other intellectual property rights of others. Further, we may become involved in 
+costly litigation brought against us regarding patents, copyrights, trademarks, trade secrets or other intellectual 
+property rights. If any such claims are asserted against us, we may seek to obtain a license under the third party’s 
+intellectual property rights. We cannot assure you that we will be able to obtain any or all of the necessary 
+licenses on satisfactory terms, if at all. In the event that we cannot obtain or take the view that we don’t need a 
+license, these parties may file lawsuits against us seeking damages (and potentially treble damages in the United 
+States) or an injunction against the sale of our products that incorporate allegedly infringed intellectual property 
+or against the operation of our business as presently conducted. Such lawsuits, if successful, could result in an 
+increase in the costs of selling certain of our products, our having to partially or completely redesign our 
+products or stop the sale of some of our products and could cause damage to our reputation. Any litigation could 
+require significant financial and management resources regardless of the merits or outcome, and we cannot 
+assure you that we would prevail in any litigation or that our intellectual property rights can be successfully 
+asserted in the future or will not be invalidated, circumvented or challenged. The award of damages, including 
+material royalty payments, or the entry of an injunction against the manufacture and sale of some or all of our 
+products, could affect our ability to compete or have a material adverse effect on our business, financial 
+condition and results of operations.
+
+
+#### Report of the Directors Governance
+
+
+#### [-56]
+
+
+## Page 57
+
+
+#### Risks related to human capital management
+
+Loss of our key management and other personnel, or an inability to attract such management and other 
+personnel, could affect our business.
+
+We depend on our key management to run our business and on our senior engineers to develop new 
+products and technologies. Our success will depend on the continued service of these individuals. Although we 
+have several share based compensation plans in place, we cannot be sure that these plans will help us in our 
+ability to retain key personnel, especially considering that the stock options under some of our plans become 
+exercisable upon a change of control (in particular, when a third party, or third parties acting in concert, obtains, 
+whether directly or indirectly, control of us). The loss of any of our key personnel, whether due to departures, 
+death, ill health or otherwise, could have a material adverse effect on our business. The market for qualified 
+employees, including skilled engineers and other individuals with the required technical expertise to succeed in 
+our business, is highly competitive and the loss of qualified employees or an inability to attract, retain and 
+motivate the additional highly skilled employees required for the operation and expansion of our business could 
+hinder our ability to successfully conduct research activities or develop marketable products. The foregoing risks 
+could have a material adverse effect on our business.
+
+
+#### Risks related to our corporate structure
+
+United States civil liabilities may not be enforceable against us. 
+We are incorporated under the laws of the Netherlands and substantial portions of our assets are located 
+outside of the United States. In addition, certain members of our board, our officers and certain experts named 
+herein reside outside the United States. As a result, it may be difficult for investors to effect service of process 
+within the United States upon us or such other persons residing outside the United States, or to enforce outside 
+the United States judgments obtained against such persons in U.S. courts in any action. In addition, it may be 
+difficult for investors to enforce, in original actions brought in courts in jurisdictions located outside the United 
+States, rights predicated upon the U.S. laws.
+
+In the absence of an applicable treaty for the mutual recognition and enforcement of judgments (other than 
+arbitration awards) in civil and commercial matters to which the United States and the Netherlands are a party, a 
+judgment obtained against the Company in the courts of the United States, whether or not predicated solely upon 
+the U.S. federal securities laws, including a judgment predicated upon the civil liability provisions of the U.S. 
+securities law or securities laws of any State or territory within the United States, will not be directly enforceable 
+in the Netherlands.
+
+In order to obtain a judgment which is enforceable in the Netherlands, the claim must be relitigated before 
+a competent court of the Netherlands; the relevant Netherlands court has discretion to attach such weight to a 
+judgment of the courts of the United States as it deems appropriate; based on case law, the courts of the 
+Netherlands may be expected to recognize and grant permission for enforcement of a judgment of a court of 
+competent jurisdiction in the United States without re-examination or relitigation of the substantive matters 
+adjudicated thereby, provided that (i) the relevant court in the United States had jurisdiction in the matter in 
+accordance with standards which are generally accepted internationally; (ii) the proceedings before that court 
+complied with principles of proper procedure; (iii) recognition and/or enforcement of that judgment does not 
+conflict with the public policy of the Netherlands; and (iv) recognition and/or enforcement of that judgment is 
+not irreconcilable with a decision of a Dutch court rendered between the same parties or with an earlier decision 
+of a foreign court rendered between the same parties in a dispute that is about the same subject matter and that is 
+based on the same cause, provided that earlier decision can be recognized in the Netherlands.
+
+Based on the foregoing, there can be no assurance that U.S. investors will be able to enforce against us or 
+members of our board of directors, officers or certain experts named herein who are residents of the Netherlands 
+or countries other than the United States any judgments obtained in U.S. courts in civil and commercial matters.
+
+In addition, there is doubt as to whether a Dutch court would impose civil liability on us, the members of 
+our board of directors, our officers or certain experts named herein in an original action predicated solely upon 
+the U.S. laws brought in a court of competent jurisdiction in the Netherlands against us or such members, 
+officers or experts, respectively.
+
+We are a Dutch public company with limited liability. The rights of our stockholders may be different 
+from the rights of stockholders governed by the laws of U.S. jurisdictions.
+
+We are a Dutch public company with limited liability (naamloze vennootschap). Our corporate affairs are 
+governed by our articles of association and by the laws governing companies incorporated in the Netherlands. 
+The rights of stockholders and the responsibilities of members of our board of directors may be different from
+
+
+#### [-57]
+
+
+## Page 58
+
+the rights and obligations of stockholders in companies governed by the laws of U.S. jurisdictions. In the 
+performance of its duties, our board of directors is required by Dutch law to consider the interests of our 
+company, its stockholders, its employees and other stakeholders, in all cases with due observation of the 
+principles of reasonableness and fairness. It is possible that some of these parties will have interests that are 
+different from, or in addition to, your interests as a stockholder.
+
+
+#### Risks related to our indebtedness
+
+Our debt obligations expose us to risks that could adversely affect our financial condition, which could 
+adversely affect our results of operations.
+
+As of December 31, 2021, we had outstanding indebtedness with an aggregate principal amount of $10,650 
+million. Our substantial indebtedness could have a material adverse effect on our business by:
+
+•
+increasing our vulnerability to adverse economic, industry or competitive developments;
+
+•
+requiring a substantial portion of cash flow from operations to be dedicated to the payment of principal 
+and interest on our indebtedness, therefore reducing our ability to use our cash flow to fund our operations, 
+capital expenditures and future business opportunities;
+
+•
+exposing us to the risk of increased interest rates in the event we have borrowings under our $1,500 
+million revolving credit facility agreement (the “RCF Agreement”) because loans under the RCF Agreement 
+bear interest at a variable rate;
+
+•
+making it more difficult for us to satisfy our obligations with respect to our indebtedness and any failure 
+to comply with the obligations of any our debt instruments, including restrictive covenants and borrowing 
+conditions, could result in an event default under the indentures governing our notes and agreements governing 
+other indebtedness;
+
+•
+restricting us from making strategic acquisitions or causing us to make non-strategic divestitures;
+
+•
+limiting our ability to obtain additional financial for working capital, capital expenditures, 
+restructurings, product development, research and development, debt service requirements, investments, 
+acquisitions and general corporate or other purposes; and
+
+•
+limiting our flexibility in planning for, or reacting to, changes in our business or market conditions and 
+placing us at a competitive disadvantage compared to our competitors who are less highly leveraged and who 
+therefore, may be able to take advantage of opportunities that our leverage prevents us from exploiting.
+
+Despite our level of indebtedness, we may still incur significantly more debt, which could further exacerbate the 
+risks described above and affect our ability to service and repay our debt.
+
+If we do not comply with the covenants in our debt agreements or fail to generate sufficient cash to service 
+and repay our debt, it could adversely affect our operating results and our financial condition.
+
+The RCF Agreement and the indentures governing our unsecured notes or any other debt arrangements that we 
+may have require us to comply with various covenants. If there were an event of default under any of our debt 
+instruments that was not cured or waived, the holders of the defaulted debt could terminate commitments to lend 
+and cause all amounts outstanding with respect to the debt to be due and payable immediately, which in turn 
+could result in cross defaults under our other debt instruments. Our assets and cash flow may not be sufficient to 
+fully repay borrowings under all of our outstanding debt instruments if some or all of these instruments are 
+accelerated upon an event of default.
+
+If our cash flows and capital resources are insufficient to fund our debt service obligations, we may be forced to 
+reduce or delay investments and capital expenditures, or to sell assets, seek additional capital, restructure or 
+refinance our indebtedness or reduce or delay capital expenditures, strategic acquisitions, investments and 
+alliances, any of which could have a material adverse effect on our business. We cannot guarantee that we will 
+be able to obtain enough capital to service our debt and fund our planned capital expenditures and business plan. 
+Our ability to restructure or refinance our debt will depend on the condition of the capital markets and our
+
+
+#### Report of the Directors Governance
+
+
+#### [-58]
+
+
+## Page 59
+
+financial condition at such time. Any refinancing of our debt could be at higher interest rates and may require us 
+to comply with more onerous covenants, which could further restrict our business operations. The terms of 
+existing or future debt instruments may restrict us from adopting some of these alternatives. In addition, any 
+failure to make payments of interest and principal on our outstanding indebtedness on a timely basis would likely 
+result in a reduction of our credit rating, which could harm our ability to incur additional indebtedness. These 
+alternative measures may not be successful and may not permit us to meet our scheduled debt service 
+obligations.
+
+The rating of our debt by major rating agencies may further improve or deteriorate, which could affect our 
+additional borrowing capacity and financing costs.
+
+The major debt rating agencies routinely evaluate our debt. These ratings are based on current information 
+furnished to the ratings agencies by us and information obtained by the ratings agencies from other sources. An 
+explanation of the significance of such rating may be obtained from such rating agency. There can be no 
+assurance that such credit ratings will remain in effect for any given period of time or that such ratings will not 
+be lowered, suspended or withdrawn entirely by the rating agencies, if, in each rating agency’s judgment, 
+circumstances so warrant. Actual or anticipated changes or downgrades in our credit ratings, including any 
+announcement that our ratings are under further review for a downgrade, could affect our market value and/or 
+increase our corporate borrowing costs.
+
+
+#### General risk factors
+
+We identified a material weakness in our internal control related to ineffective information technology 
+general controls which, if not remediated appropriately or timely, could result in loss of investor confidence 
+and adversely impact our stock price.
+
+Management concluded that our internal control over financial reporting was not effective as of December 
+31, 2021 due to a material weakness in our internal control over financial reporting associated with ineffective 
+information technology general controls (ITGCs) in the areas of user access, change-management and IT 
+operations over certain information technology (IT) systems that support the Company’s financial reporting 
+processes.
+
+We have initiated remediation plans to address the material weakness, including, but not limited to, 
+expanding controls, applying other appropriate procedures to address the design and operation of internal 
+controls relating to certain IT systems, and enhancing procedures for the identification of control activities and 
+monitoring of control performance to ensure that the components of internal control relating to certain IT 
+systems are present and functioning. While there can be no assurance that our efforts will be successful, in fiscal 
+year 2022 we intend to fully implement these plans to remediate the material weaknesses.
+
+If we are unable to remediate the material weakness, or are otherwise unable to maintain effective internal 
+control over financial reporting or disclosure controls and procedures, our ability to record, process and report 
+financial information accurately, and to prepare financial statements within required time periods, could be 
+adversely affected, which could subject us to litigation or investigations requiring management resources and 
+payment of legal and other expenses, negatively affect investor confidence in our financial statements and 
+adversely impact our stock price.
+
+The price of our common stock historically has been volatile. The price of our common stock may 
+fluctuate significantly.
+
+The stock market in recent years has experienced significant price and volume fluctuations that have often 
+been unrelated to the operating performance of companies. The market price for our common stock has varied 
+between a high of $239.91 on December 7, 2021 and a low of $156.02 on January 27, 2021 in the twelve-month 
+period ending on December 31, 2021. The market price of our common stock is likely to continue to be volatile 
+and subject to significant price and volume fluctuations for many reasons, including in response to the risks 
+described in this section, changes in our dividend or share repurchase policies, variations between our actual 
+financial results or guidance and expectations of securities analysts or investors or for reasons unrelated to our 
+operations, such as reports by industry analysts, investor perceptions or negative announcements by our 
+customers, competitors, peer companies or suppliers regarding their own performance, or announcements by our 
+competitors of significant contracts, strategic partnerships, joint ventures, joint marketing relationships or capital
+
+
+#### [-59]
+
+
+## Page 67
+
+Number of meetings in 2021: 4.
+
+This committee operates under a written charter adopted by our Board. The charter complies with SEC 
+regulations and Nasdaq listing standards. The charter is reviewed and reassessed regularly to ensure continued 
+compliance with these requirements. The charter is available for public viewing on our website at http://
+investors.nxp.com, under the “Corporate Governance” section.
+
+
+#### Audited financial statements
+
+The consolidated financial statements of the Company for the year ended December 31, 2021 included in this 
+Annual Report, as presented by the board of directors, have been audited by Ernst & Young Accountants LLP, 
+an independent registered public accounting firm.  The report of the independent registered public accounting 
+firm appears at the end of this Annual Report under Other information.  The board of directors has approved 
+these financial statements.
+
+
+#### March 3, 2022
+
+
+#### Board of directors
+
+
+#### [-67]
+
+
+## Page 68
+
+### Table 68.1
+
+| 5 Revenue 11,063 8,612 |  |  |  |
+| --- | --- | --- | --- |
+| Cost of revenue (4,996) (4,376) |  |  |  |
+| Gross profit 6,067 4,236 |  |  |  |
+| Selling, general and administrative expenses: (1,026) (928) |  |  |  |
+| a. Amortization of acquisition related intangible assets (49) (67) |  |  |  |
+| b. Other SG&A (977) (861) |  |  |  |
+| Research and development expenses: (2,032) (2,697) |  |  |  |
+| a. Amortization of acquisition related intangible assets (544) (1,260) |  |  |  |
+| b. Other R&D (1,488) (1,437) |  |  |  |
+| Other income 4 106 |  |  |  |
+| Other expense (4) (2) |  |  |  |
+| 5,6 Operating income 3,009 715 |  |  |  |
+| 7 Financial income (expense): |  |  |  |
+| - Extinguishment of debt (22) (60) |  |  |  |
+| - Other financial income 10 13 |  |  |  |
+| - Other financial expense (387) (371) |  |  |  |
+| Income before income taxes 2,610 297 |  |  |  |
+| 8 Income tax (expense) benefit (403) 15 |  |  |  |
+| Income after income taxes 2,207 312 |  |  |  |
+| 9 Results relating to equity-accounted investees | (2) |  | (4) |
+| Net income 2,205 308 |  |  |  |
+| Attribution of net income: |  |  |  |
+| Net income attributable to shareholders of NXP 2,170 280 |  |  |  |
+| 10 Net income attributable to non-controlling interests 35 28 |  |  |  |
+| Net income 2,205 308 |  |  |  |
+| 11 Earnings per share data: |  |  |  |
+| Net income (loss) per common share attributable to shareholders of NXP in $: |  |  |  |
+| - Basic | 8.02 | 1.00 |  |
+| - Diluted | 7.87 | 0.98 |  |
+| Weighted average number of shares of common stock outstanding during the year (in thousands) |  |  |  |
+| • Basic | 270,687 | 279,763 |  |
+| • Diluted | 275,780 | 285,121 |  |
+
+
+Consolidated statement of operations of NXP Semiconductors N.V. 
+for the years ended December 31,
+
+$ in millions, unless otherwise stated
+2021
+2020
+
+
+#### Note
+
+5
+Revenue
+ 
+11,063 
+ 
+8,612 
+Cost of revenue
+ 
+(4,996)  
+(4,376)
+
+Gross profit
+ 
+6,067 
+ 
+4,236
+
+Selling, general and administrative expenses:
+ 
+(1,026)  
+(928) 
+a. Amortization of acquisition related intangible assets
+ 
+(49)  
+(67) 
+b. Other SG&A
+ 
+(977)  
+(861) 
+Research and development expenses:
+ 
+(2,032)  
+(2,697) 
+a. Amortization of acquisition related intangible assets
+ 
+(544)  
+(1,260) 
+b. Other R&D
+ 
+(1,488)  
+(1,437) 
+Other income
+ 
+4 
+ 
+106 
+Other expense
+ 
+(4)  
+(2)
+
+5,6
+Operating income
+ 
+3,009 
+ 
+715
+
+7
+Financial income (expense):
+
+- Extinguishment of debt
+ 
+(22)  
+(60) 
+- Other financial income
+ 
+10 
+ 
+13 
+- Other financial expense
+ 
+(387)  
+(371)
+
+Income before income taxes
+ 
+2,610 
+ 
+297
+
+8
+Income tax (expense) benefit
+ 
+(403)  
+15
+
+Income after income taxes
+ 
+2,207 
+ 
+312
+
+9
+Results relating to equity-accounted investees
+ 
+(2)  
+(4)
+
+Net income
+ 
+2,205 
+ 
+308
+
+Attribution of net income:
+Net income attributable to shareholders of NXP
+ 
+2,170 
+ 
+280 
+10
+Net income attributable to non-controlling interests
+ 
+35 
+ 
+28 
+Net income
+ 
+2,205 
+ 
+308
+
+11
+Earnings per share data:
+
+Net income (loss) per common share attributable to shareholders of NXP
+ in $:
+
+- Basic
+ 
+8.02 
+ 
+1.00 
+- Diluted
+ 
+7.87 
+ 
+0.98
+
+
+#### Weighted average number of shares of common stock outstanding during the
+
+year (in thousands)
+• Basic
+ 
+270,687 
+ 
+279,763 
+• Diluted
+ 
+275,780 
+ 
+285,121
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### Group Financial Statements
+
+
+#### [-68]
+
+
+## Page 69
+
+### Table 69.1
+
+| Note Net income 2,205 308 |
+| --- |
+| Other comprehensive income items that will not be reclassified to profit or loss: |
+| – Remeasurements defined benefits 19 (58) |
+| – Related income taxes (6) 14 |
+| Total of items that will not be reclassified to profit of loss 13 (44) |
+| Other comprehensive income items that are or may be reclassified to profit or loss : |
+| – Currency translation adjustments (“CTA”) (74) 78 |
+| – Cash flow hedging (9) 15 |
+| – Cash flow hedging - income tax 4 (2) |
+| – Cash flow hedging reclassified to profit or loss (6) (4) |
+| Total of items that are or may be reclassified to profit of loss (85) 87 |
+| Other comprehensive income (loss) (72) 43 |
+| Total comprehensive income 2,133 351 |
+| Attributable to: |
+| Shareholders of NXP 2,098 323 |
+| 10 Non-controlling interests 35 28 |
+| Total comprehensive income 2,133 351 |
+
+
+Consolidated statement of comprehensive income of NXP Semiconductors N.V.
+for the years ended December 31,
+
+$ in millions, unless otherwise stated
+2021
+2020
+
+Note
+Net income
+ 
+2,205 
+ 
+308
+
+Other comprehensive income items that will not be reclassified to profit or loss:
+– Remeasurements defined benefits
+ 
+19 
+ 
+(58) 
+– Related income taxes
+ 
+(6) 
+ 
+14
+
+Total of items that will not be reclassified to profit of loss
+ 
+13 
+ 
+(44) 
+Other comprehensive income items that are or may be reclassified to profit or
+
+loss :
+– Currency translation adjustments (“CTA”)
+ 
+(74) 
+ 
+78 
+– Cash flow hedging
+ 
+(9) 
+ 
+15 
+– Cash flow hedging - income tax
+ 
+4 
+ 
+(2) 
+– Cash flow hedging reclassified to profit or loss
+ 
+(6) 
+ 
+(4)
+
+Total of items that are or may be reclassified to profit of loss
+ 
+(85) 
+ 
+87
+
+Other comprehensive income (loss)
+ 
+(72) 
+ 
+43
+
+Total comprehensive income
+ 
+2,133 
+ 
+351
+
+
+#### Attributable to:
+
+Shareholders of NXP
+ 
+2,098 
+ 
+323 
+10
+Non-controlling interests
+ 
+35 
+ 
+28
+
+Total comprehensive income
+ 
+2,133 
+ 
+351
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### [-69]
+
+
+## Page 70
+
+### Table 70.1
+
+| Note Non-current assets |
+| --- |
+| 12,27 Property, plant and equipment 2,858 2,504 |
+| 13 Goodwill 9,998 10,021 |
+| 14 Intangible assets 4,841 4,924 |
+| 9 Equity-accounted investees 75 61 |
+| 8 Deferred tax assets 297 341 |
+| 15 Financial assets 139 76 |
+| 15 Other non-current assets 465 176 |
+| Total non-current assets 18,673 18,103 |
+| Current assets |
+| 16 Inventories 1,189 1,030 |
+| 17 Other current assets 224 185 |
+| 8 Income tax receivables 15 8 |
+| 18 Trade and other receivables 965 817 |
+| 19 Cash and cash equivalents 2,830 2,275 |
+| Total current assets 5,223 4,315 |
+| Total assets 23,896 22,418 |
+
+
+Consolidated Balance Sheet of NXP Semiconductors N.V.
+
+
+#### Assets
+
+$ in millions, unless otherwise stated
+December 31,
+
+2021
+2020
+
+Note
+Non-current assets
+
+12,27
+Property, plant and equipment
+ 
+2,858 
+ 
+2,504 
+13
+Goodwill
+ 
+9,998 
+ 
+10,021 
+14
+Intangible assets
+ 
+4,841 
+ 
+4,924 
+9
+Equity-accounted investees
+ 
+75 
+ 
+61 
+8
+Deferred tax assets
+ 
+297 
+ 
+341 
+15
+Financial assets
+ 
+139 
+ 
+76 
+15
+Other non-current assets
+ 
+465 
+ 
+176 
+Total non-current assets
+ 
+18,673 
+ 
+18,103
+
+
+#### Current assets
+
+16
+Inventories
+ 
+1,189 
+ 
+1,030 
+17
+Other current assets
+ 
+224 
+ 
+185 
+8
+Income tax receivables
+ 
+15 
+ 
+8 
+18
+Trade and other receivables
+ 
+965 
+ 
+817 
+19
+Cash and cash equivalents
+ 
+2,830 
+ 
+2,275 
+Total current assets
+ 
+5,223 
+ 
+4,315
+
+Total assets
+ 
+23,896 
+ 
+22,418
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### Group Financial Statements
+
+
+#### [-70]
+
+
+## Page 74
+
+### Table 74.1
+
+| Net income 280 280 28 308 |
+| --- |
+| Other comprehensive income (loss): |
+| - Current period change 78 15 (44) 49 49 49 |
+| - Reclassification to income (loss) (4) (4) (4) (4) |
+| - Income tax on current period changes (2) (2) (2) (2) |
+| Total comprehensive income (loss) 280 78 — 9 (44) 43 323 28 351 |
+| Share-based compensation plans 373 373 373 |
+| Excess tax benefits from SBC plans 16 2 18 18 |
+| Dividends non-controlling interests — (35) (35) |
+| Dividends common stock (420) (420) (420) |
+| Transactions with owners of the Company recognized directly in equity: |
+| - Purchase of treasury shares (4,829) (627) (627) (627) |
+| - Retirement treasury shares (5) (1,267) 2,263 (991) — — |
+| - Expiration of warrants (168) 168 — — |
+| - Re-issuance of treasury shares 3,867 364 (292) 72 72 |
+| Balance as of December 31, 2020 280,475 59 15,261 (1,037) (2,123) (306) (513) 11 (169) (977) 11,183 211 11,394 |
+| Net income 2,170 2,170 35 2,205 |
+| Other comprehensive income (loss): |
+| - Current period change (74) (9) 19 (64) (64) (64) |
+| - Reclassification to income (loss) (6) (6) (6) (6) |
+| - Income tax on current period changes 4 (6) (2) (2) (2) |
+| Total comprehensive income (loss) 2,170 (74) — (11) 13 (72) 2,098 35 2,133 |
+| Share-based compensation plans 346 346 346 |
+| Excess tax benefits from SBC plans 37 37 37 |
+| Dividends non-controlling interests — — |
+| Dividends common stock (606) (606) (606) |
+| Transactions with owners of the Company recognized directly in equity: |
+| - Purchase of treasury shares (20,629) (4,015) (4,015) (4,015) |
+| - Retirement treasury shares (3) (747) 2,595 (1,845) — — |
+| - Re-issuance of treasury shares 5,104 525 (463) 62 62 |
+| Balance as of December 31, 2021 264,950 56 14,897 (1,932) (2,867) (380) (513) — (156) (1,049) 9,105 246 9,351 |
+
+
+Consolidated statement of changes in equity of NXP Semiconductors N.V. as of December 31,
+
+$ in millions, unless otherwise stated
+Other comprehensive income (loss)
+
+
+#### Outstanding
+
+
+#### number of
+
+shares (in 
+thousands)
+
+
+#### Share capital
+
+Capital in 
+excess of par
+
+
+#### value
+
+
+#### Treasury
+
+shares
+ reserve
+
+
+#### Accumulated
+
+
+#### deficit
+
+Currency 
+translation
+
+
+#### reserve
+
+Net 
+investment
+
+
+#### hedging
+
+
+#### reserve
+
+
+#### Cash flow
+
+
+#### hedging
+
+
+#### reserve
+
+
+#### Remeasureme
+
+
+#### nts defined
+
+
+#### benefits
+
+Total other 
+comprehen-
+sive income
+
+
+#### (loss)
+
+Total
+shareholders’
+
+
+#### equity
+
+Non- 
+controlling
+
+
+#### interests
+
+
+#### Total equity
+
+Balance as of December 31, 2019
+ 281,437 
+ 
+64 
+ 
+16,307 
+ 
+(3,037)  
+(870)  
+(384)  
+(513)  
+2 
+ 
+(125) 
+ 
+(1,020)  
+11,444 
+ 
+218 
+ 
+11,662
+
+Net income
+ 
+280 
+ 
+280 
+ 
+28 
+ 
+308
+
+
+#### Other comprehensive income (loss):
+
+- Current period change
+ 
+78 
+ 
+15 
+ 
+(44) 
+ 
+49 
+ 
+49 
+ 
+49 
+- Reclassification to income (loss)
+ 
+(4) 
+ 
+(4)  
+(4) 
+ 
+(4) 
+- Income tax on current period changes
+ 
+(2) 
+ 
+(2)  
+(2) 
+ 
+(2) 
+Total comprehensive income (loss)
+ 
+280 
+ 
+78 
+ 
+— 
+ 
+9 
+ 
+(44) 
+ 
+43 
+ 
+323 
+ 
+28 
+ 
+351
+
+Share-based compensation plans
+ 
+373 
+ 
+373 
+ 
+373 
+Excess tax benefits from SBC plans
+ 
+16 
+ 
+2 
+ 
+18 
+ 
+18 
+Dividends non-controlling interests
+ 
+— 
+ 
+(35)  
+(35) 
+Dividends common stock
+ 
+(420) 
+ 
+(420) 
+ 
+(420) 
+Transactions with owners of the Company 
+recognized directly in equity:
+ - Purchase of treasury shares
+ 
+(4,829) 
+ 
+(627) 
+ 
+(627) 
+ 
+(627) 
+ - Retirement treasury shares
+ 
+(5)  
+(1,267)  
+2,263 
+ 
+(991) 
+ 
+— 
+ 
+— 
+ - Expiration of warrants
+ 
+(168) 
+ 
+168 
+ 
+— 
+ 
+— 
+ - Re-issuance of treasury shares
+ 
+3,867 
+ 
+364 
+ 
+(292) 
+ 
+72 
+ 
+72
+
+Balance as of December 31, 2020
+ 280,475 
+ 
+59 
+ 
+15,261 
+ 
+(1,037)  
+(2,123)  
+(306)  
+(513)  
+11 
+ 
+(169) 
+ 
+(977)  
+11,183 
+ 
+211 
+ 
+11,394
+
+Net income
+ 
+2,170 
+ 
+2,170 
+ 
+35 
+ 
+2,205
+
+
+#### Other comprehensive income (loss):
+
+- Current period change
+ 
+(74) 
+ 
+(9)  
+19 
+ 
+(64)  
+(64) 
+ 
+(64)
+
+- Reclassification to income (loss)
+ 
+(6) 
+ 
+(6)  
+(6) 
+ 
+(6)
+
+- Income tax on current period changes
+ 
+4 
+ 
+(6) 
+ 
+(2)  
+(2) 
+ 
+(2)
+
+Total comprehensive income (loss)
+ 
+2,170 
+ 
+(74)  
+— 
+ 
+(11)  
+13 
+ 
+(72)  
+2,098 
+ 
+35 
+ 
+2,133
+
+Share-based compensation plans
+ 
+346 
+ 
+346 
+ 
+346
+
+Excess tax benefits from SBC plans
+ 
+37 
+ 
+37 
+ 
+37
+
+Dividends non-controlling interests
+ 
+— 
+ 
+—
+
+Dividends common stock
+ 
+(606) 
+ 
+(606) 
+ 
+(606)
+
+Transactions with owners of the Company 
+recognized directly in equity:
+
+- Purchase of treasury shares
+ 
+(20,629) 
+ 
+(4,015) 
+ 
+(4,015) 
+ 
+(4,015) 
+ - Retirement treasury shares
+ 
+(3)  
+(747)  
+2,595 
+ 
+(1,845) 
+ 
+— 
+ 
+— 
+ - Re-issuance of treasury shares
+ 
+5,104 
+ 
+525 
+ 
+(463) 
+ 
+62 
+ 
+62
+
+Balance as of December 31, 2021
+ 264,950 
+ 
+56 
+ 
+14,897 
+ 
+(1,932)  
+(2,867)  
+(380)  
+(513)  
+— 
+ 
+(156) 
+ 
+(1,049)  
+9,105 
+ 
+246 
+ 
+9,351
+
+
+#### Group Financial Statements
+
+
+#### [-74]
+
+
+## Page 75
+
+Notes to the consolidated financial statements of NXP Semiconductors N.V.
+All amounts in millions of $ unless otherwise stated
+
+
+#### 1. Company overview
+
+NXP Semiconductors N.V. is a global semiconductor company and a long-standing supplier in the industry, with 
+over 50 years of innovation and operating history. For the year ended December 31, 2021, we generated revenue 
+of $11,063 million, compared to $8,612 million for the year ended December 31, 2020.
+
+We provide leading solutions that leverage our combined portfolio of intellectual property, deep application 
+knowledge, process technology and manufacturing expertise in the domains of cryptography-security, high-
+speed interface, radio frequency (RF), mixed-signal analog-digital (mixed A/D), power management, digital 
+signal processing and embedded system design.
+
+Our product solutions are used in a wide range of end market applications including: automotive, industrial & 
+Internet of Things (IoT), mobile, and communication infrastructure. We engage with leading global original 
+equipment manufacturers (OEMs) and sell products in all major geographic regions.
+
+Our legal name is NXP Semiconductors N.V. and our commercial name is “NXP” or “NXP Semiconductors.” 
+We were incorporated in the Netherlands in 2006 as a Dutch public company with limited liability (naamloze 
+vennootschap).
+
+We are a holding company (the “Holding Company”) whose only material assets are the direct ownership of 
+100% of the shares of NXP B.V., a Dutch private company with limited liability (besloten vennootschap met 
+beperkte aansprakelijkheid).  Unless otherwise required, all references herein to “we”, “our”, “us”, “NXP” and 
+the “Company” are to NXP Semiconductors N.V. and its consolidated subsidiaries.
+
+Our corporate seat is in Eindhoven, the Netherlands. Our principal executive office is at High Tech Campus 60, 
+5656 AG Eindhoven, the Netherlands, and our telephone number is +31 40 2729999. We are registered at the 
+office of the Commercial Register in Eindhoven, Netherlands (file no. 34253298). Our registered agent in the 
+United States is NXP USA, Inc., 6501 William Cannon Dr. West, Austin, Texas 78735, United States of 
+America, phone number +1 512 9338214.
+
+2. Significant accounting policies and new accounting standards to be adopted after 2021
+
+
+#### Basis of preparation
+
+The consolidated financial statements have been prepared in accordance with International Financial Reporting 
+Standards (IFRS) as adopted by the European Union. NXP did not apply any European carve-outs from IFRS 
+meaning that our financials fully comply with IFRS. The Company has not applied early any new IFRS 
+requirements that are not yet effective in 2021. The financial statements were authorized for issue by the board of 
+directors on March 3, 2022.
+
+Throughout the notes to the consolidated financial statements, reference to "statement of operations" means the 
+consolidated statement of operations.
+
+The statement of operations of the separate financial statements of NXP Semiconductors N.V. (refer to Company 
+Financial Statements of this report) has been prepared in accordance with Section 402 Part 9 of Book 2 of the 
+Netherlands Civil Code which allows a simplified statement of operations in the event that a comprehensive 
+statement of operations is included in the consolidated group financial statements.
+
+
+#### Basis of measurement
+
+Historical cost is used as the measurement basis unless otherwise indicated.  The significant accounting policies 
+are set out below.
+
+
+#### [-75]
+
+
+## Page 76
+
+
+#### Basis of consolidation
+
+The consolidated financial statements include the accounts of NXP Semiconductors N.V. (NXP N.V. or the 
+Company) and all subsidiaries that are controlled by the Company. The Company controls an entity when it is 
+exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect 
+those returns through its power over the entity. All intercompany balances and transactions have been eliminated 
+in the consolidated financial statements. The non-controlling interests are disclosed separately in the 
+consolidated statement of operations and statement of comprehensive income as part of profit allocation and in 
+the consolidated balance sheet  as a separate component of equity.
+
+
+#### Business combinations
+
+We allocate the purchase price paid for assets acquired and liabilities assumed in connection with our 
+acquisitions based on their estimated fair values at the time of acquisition. This allocation involves a number of 
+assumptions, estimates and judgments that could materially affect the timing or amounts recognized in our 
+financial statements.
+
+Significant judgment is required in estimating the fair value of acquired intangible assets, including the valuation 
+methodology, estimations of future cash flows, discount rates, market segment growth rates, and our assumed 
+market segment share, as well as the estimated useful life of intangible assets. Further judgment is required in 
+estimating the fair values of inventory, property, plant and equipment, pre-existing liabilities or legal claims, 
+deferred revenue and contingent consideration, each as may be applicable.
+
+The fair value estimates are based on available historical information and on future expectations and assumptions 
+deemed reasonable by management but are inherently uncertain. Our assumptions and estimates are based upon 
+comparable market data and information obtained from our management and the management of the acquired 
+companies as well as the amount and timing of future cash flows (including expected revenue growth rates and 
+profitability), the underlying product or technology life cycles, the economic barriers to entry and the discount 
+rate applied to the cash flows. As such, acquired tangible and identified intangible assets are classified as Level 3 
+assets. Unanticipated market or macroeconomic events and circumstances may occur that could affect the 
+accuracy or validity of the estimates and assumptions.
+
+
+#### Fair value measurements
+
+Fair value is the price we would receive to sell an asset or pay to transfer a liability in an orderly transaction with 
+a market participant at the measurement date. In the absence of active markets for an identical asset or liability, 
+we develop assumptions based on market observable data and, in the absence of such data, utilize internal 
+information that we consider to be consistent with what market participants would use in a hypothetical 
+transaction that occurs at the measurement date. Observable inputs reflect market data obtained from 
+independent sources, while unobservable inputs reflect our market assumptions. Priority is given to observable 
+inputs. These two types of inputs form the basis for the following fair value hierarchy.
+
+•
+Level 1: Quoted prices for identical assets or liabilities in active markets. 
+•
+Level 2: Quoted prices for similar assets or liabilities in active markets; quoted prices for similar or 
+identical assets or liabilities in markets that are not active; and valuations based on models where the 
+inputs or significant value drivers are observable, either directly or indirectly. 
+•
+Level 3: Significant inputs to the valuation model are unobservable.
+
+
+#### Equity-accounted investees
+
+NXP’s investments over which it has significant influence, but not control are accounted for using the equity 
+method. Under the equity method, the investment is initially recognized at cost. The carrying amount of the 
+investment is adjusted to recognize changes in the NXP’s share of net assets of the equity accounted investee 
+since the acquisition date. NXP’s share of the results of operations of the equity accounted investees are 
+recognized in ‘Results relating to equity-accounted investees’.
+
+We monitor our equity method investments and non-marketable equity securities for events or changes in 
+circumstances which may indicate the investments are impaired. If an assessment indicates an investment is 
+impaired, we recognize a charge for the difference between the recoverable amount and the carrying value.
+
+
+#### Group Financial Statements
+
+
+#### [-76]
+
+
+## Page 77
+
+### Table 77.1
+
+| Year-ended December 31, 2021 1.1325 1.1818 1.2280 1.1325 |
+| --- |
+| Year-ended December 31, 2020 1.2280 1.1412 1.0862 1.2280 |
+
+
+
+#### Financial assets
+
+All marketable and non-marketable equity investments, other than equity-method investments, in unconsolidated 
+entities are measured at fair value through profit or loss in the statement of operations on a recurring basis. Gains 
+and losses on these investments, realized and unrealized, are presented under Financial income (expense).
+
+
+#### Loss of control
+
+Upon the loss of control, the Company derecognizes the assets and liabilities of the subsidiary, any non-
+controlling interest and the other components of equity related to the subsidiary. If the Company retains a non-
+controlling interest in the entity, such interest is measured at fair value at the date that control is lost. 
+Subsequently, the non-controlling interest is accounted for as an equity-accounted investee or as a financial asset 
+at fair value through profit or loss, depending on the level of influence retained by NXP. Any resulting gain or 
+loss is recognized in profit or loss.
+
+
+#### Foreign currencies
+
+The Company uses the U.S. dollar as its reporting currency. The functional currency of the Company is the U.S. 
+dollar. For consolidation purposes, the financial statements of the entities within the Company with a functional 
+currency other than the U.S. dollar, are translated into U.S. dollars. Assets and liabilities are translated using the 
+exchange rates on the applicable balance sheet dates. Income and expense items in the statements of operations, 
+statements of comprehensive income and statements of cash flows are translated at monthly exchange rates in the 
+periods involved.
+
+The effects of translating the financial position and results of operations from functional currencies to reporting 
+currency are recognized in other comprehensive income and presented as a separate component of accumulated 
+other comprehensive income (loss) within shareholders’ equity. If the operation is a non-wholly owned 
+subsidiary, then the relevant proportionate share of the translation difference is recorded under non-controlling 
+interests.
+
+The following table sets out the exchange rates for U.S. dollars into euros applicable for translation of NXP’s 
+financial statements for the periods specified.
+
+
+#### $ per € 1
+
+period end
+average(1)
+high
+low
+Year-ended December 31, 2021
+ 
+1.1325 
+ 
+1.1818 
+ 
+1.2280 
+ 
+1.1325 
+Year-ended December 31, 2020
+ 
+1.2280 
+ 
+1.1412 
+ 
+1.0862 
+ 
+1.2280
+
+(1) The average of the noon-buying rate at the end of each fiscal month during the period presented.
+
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at 
+the date of the transaction or the date of valuation where items are remeasured. Foreign exchange gains and 
+losses resulting from the settlement of such transactions and from the translation at year-end exchange rates of 
+monetary assets and liabilities denominated in foreign currencies are recognized in the statement of operations, 
+except when the foreign exchange exposure is part of a qualifying cash flow or net investment hedge accounting 
+relationship, in which case the related foreign exchange gains and losses are recognized directly in other 
+comprehensive income to the extent that the hedge is effective and presented as a separate component of 
+accumulated other comprehensive income (loss) within shareholders’ equity. To the extent that the hedge is 
+ineffective, such differences are recognized in the statement of operations. Currency gains and losses on 
+intercompany loans that have the nature of a permanent investment are recognized as translation differences in 
+other comprehensive income and are presented as a separate component of accumulated other comprehensive 
+income (loss) within equity.
+
+
+#### Use of estimates and judgments
+
+The preparation of financial statements requires management to make estimates, judgments and assumptions that 
+affect amounts reported in the consolidated financial statements in order to conform to IFRS. Management bases 
+its estimates and judgments on historical experience, current economic and industry conditions and on various
+
+
+#### [-77]
+
+
+## Page 78
+
+other factors that are believed to be reasonable under the circumstances. Actual results may differ from estimates 
+under different assumptions or conditions. If actual results differ significantly from management’s estimates, 
+there could be a material effect on reported amounts of revenue and expenses during the reporting period, the 
+reported amounts of assets and liabilities and the disclosure of contingent liabilities at the date of the 
+consolidated financial statements.
+
+Estimates significantly impact goodwill (see also Note 13 Goodwill) and intangible assets acquired and related 
+impairments (see also Note 14 Intangible assets), valuation of inventories (see also Note 16 Inventories), 
+liabilities from employee benefit plans (see also Note 23 Post-employment benefits) , other provisions (see also 
+Note 22 Provisions), recoverability of capitalized development costs (see also Note 14 Intangible assets), fair 
+value of derivatives (see also Note 32 Fair value of financial instruments), useful lives of property, plant and 
+equipment (see also Note 12 Property, plant and equipment), income taxes (see also Note 8 Income taxes) and 
+other contingencies (see also Note 28 Contingencies). The fair values of acquired identifiable intangibles are 
+based on an assessment of future discounted  cash flows. Impairment analysis of goodwill is performed annually 
+and whenever a triggering event has occurred to determine whether the carrying value exceeds the recoverable 
+amount. These analyses are based on estimates of future cash flows.
+
+
+#### Segment reporting
+
+For internal and external reporting purposes, NXP follows accounting principles generally accepted in the United 
+States of America (“U.S. GAAP”), U.S. GAAP is NXP’s primary accounting standard for the Company’s setting 
+of financial and operational performance targets. Consequently, the reportable segment information is presented 
+on a U.S. GAAP basis, with a reconciling item to the IFRS basis.
+
+NXP has multiple business lines that each contain different product groups. In accordance with the IFRS 8 
+Operating Segments criteria, it was assessed that the multiple business lines represent one operating segment 
+since  they have similar economic characteristics that start from the same base product, an integrated circuit, for 
+which the underlying intellectual property, technology, manufacturing and sales resources are managed centrally, 
+and shared across the business lines.
+
+The strategy of the Company is best understood by investors in the format of end-markets, which are essentially 
+the way in how the world looks at the use of the semiconductor chips that we sell. As such, we disclose revenue 
+by end-market (Automotive, Industrial and the Internet of Things, Mobile and Communications Infrastructure & 
+Other). The end-market information is only constructed and reviewed at the level of revenue within the 
+Company and therefore do not represent operating nor reportable segments.
+
+
+#### Earnings per share
+
+Basic earnings per share attributable to shareholders is calculated by dividing net income or loss attributable to 
+shareholders of the Company by the weighted average number of common shares outstanding during the period. 
+To determine diluted share count, we apply the treasury stock method to determine the dilutive effect of 
+outstanding stock option shares, RSUs, PSUs and Employee Stock Purchase Plan (“ESPP”) shares. Under the 
+treasury stock method, the amount the employee must pay for exercising share-based awards and the amount of 
+compensation cost for future service that the Company has not yet recognized are assumed to be used to 
+repurchase shares.
+
+
+#### Group Financial Statements
+
+
+#### [-78]
+
+
+## Page 79
+
+
+#### Revenue recognition
+
+The Company recognizes revenue under the core principle to depict the transfer of control to customers in an 
+amount reflecting the consideration the Company expects to be entitled. In order to achieve that core principle, 
+the Company applies the following five step approach: (1) identify the contract with a customer, (2) identify the 
+performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price to 
+the performance obligations in the contract, and (5) recognize revenue when a performance obligation is 
+satisfied.
+
+The vast majority of the Company’s revenue is derived from the sale of semiconductor products to distributors, 
+Original Equipment Manufacturers (“OEMs”) and similar customers. In determining the transaction price, the 
+Company evaluates whether the price is subject to refund or adjustment to determine the consideration to which 
+the Company expects to be entitled. Variable consideration is estimated and includes the impact of discounts, 
+price protection, product returns and distributor incentive programs. The estimate of variable consideration is 
+dependent on a variety of factors, including contractual terms, analysis of historical data, current economic 
+conditions, industry demand and both the current and forecasted pricing environments. The process of evaluating 
+these factors is subjective and requires estimates including, but not limited to, forecasted demand, returns, 
+pricing assumptions and inventory levels. The estimate of variable consideration is not constrained because the 
+Company has extensive experience with these contracts.
+
+Revenue is recognized when control of the product is transferred to the customer (i.e., when the Company’s 
+performance obligation is satisfied), which typically occurs at shipment. In determining whether control has 
+transferred, the Company considers if there is a present right to payment and legal title, and whether risks and 
+rewards of ownership having transferred to the customer.
+
+The Company applies the practical expedient to not disclose the value of unsatisfied performance obligations for 
+(i) contracts with an original expected length of one year or less and (ii) contracts for which the Company 
+recognizes revenue at the amount to which the Company has the right to invoice for services performed. The 
+Company applies the practical expedient to expense sales commissions when incurred because the amortization 
+period would have been one year or less.
+
+For sales to distributors, revenue is recognized upon transfer of control to the distributor. For some distributors, 
+contractual arrangements are in place which allow these distributors to return products if certain conditions are 
+met. These conditions generally relate to the time period during which a return is allowed and reflect customary 
+conditions in the particular geographic market. Other return conditions relate to circumstances arising at the end 
+of a product life cycle, when certain distributors are permitted to return products purchased during a pre-defined 
+period after the Company has announced a product’s pending discontinuance. These return rights are a form of 
+variable consideration and are estimated using the most likely method based on historical return rates in order to 
+reduce revenues recognized. However, long notice periods associated with these announcements prevent 
+significant amounts of product from being returned. For sales where return rights exist, the Company has 
+determined, based on historical data, that only a very small percentage of the sales of this type to distributors is 
+actually returned. Repurchase agreements with OEMs or distributors are not entered into by the Company.
+
+Sales to most distributors are made under programs common in the semiconductor industry whereby distributors 
+receive certain price adjustments to meet individual competitive opportunities. These programs may include 
+credits granted to distributors, or allow distributors to return or scrap a limited amount of product in accordance 
+with contractual terms agreed upon with the distributor, or receive price protection credits when our standard 
+published prices are lowered from the price the distributor paid for product still in its inventory. In determining 
+the transaction price, the Company considers the price adjustments from these programs to be variable 
+consideration that reduce the amount of revenue recognized. The Company’s policy is to estimate such price 
+adjustments using the most likely method based on rolling historical experience rates, as well as a prospective 
+view of products and pricing in the distribution channel for distributors who participate in our volume rebate 
+incentive program. We continually monitor the actual claimed allowances against our estimates, and we adjust 
+our estimates as appropriate to reflect trends in pricing environments and inventory levels. The estimates are also 
+adjusted when recent historical data does not represent anticipated future activity. Historically, actual price 
+adjustments for these programs relative to those estimated have not materially differed.
+
+
+#### [-79]
+
+
+## Page 80
+
+
+#### Government grants
+
+Government grants, other than those relating to purchases of assets and capitalized product development assets, 
+are recognized as a reduction of expenditure as qualified expenditures are made.
+
+
+#### Employee benefits
+
+A defined contribution plan is a post-employment benefit plan under which an entity pays fixed contributions 
+into a separate entity and will have no legal or constructive obligation to pay further amounts. Obligations for 
+contributions to defined contribution pension plans are recognized as an employee benefit expense in the 
+statement of operations in the periods during which services are rendered by employees. A defined benefit plan 
+is a post-employment benefit plan other than a defined contribution plan.
+
+The Group employees participate in pension and other post-employment benefit plans in many countries. The 
+costs of pension and other post-employment benefits and related assets and liabilities with respect to the Group 
+employees participating in defined-benefit plans have been recognized in the financial statements based upon 
+actuarial valuations.
+
+Some of the Group’s defined-benefit pension plans are funded with plan assets that have been segregated and 
+restricted in a trust, foundation or insurance company to provide for the pension benefits to which the Group has 
+committed itself.
+
+The net pension liability or asset recognized in the balance sheet in respect of defined benefit pension plans is the 
+present value of the projected defined benefit obligation less the fair value of plan assets at the period end date.
+Most of our plans result in a pension provision (in case the plan is unfunded) or a net pension liability (for 
+funded plans). The projected defined benefit obligation is calculated annually by qualified actuaries using the 
+projected unit credit method.
+
+For the Group’s major plans, the discount rate is derived from market yields on high quality corporate bonds. 
+Plans in countries without a deep corporate bond market use a discount rate based on the local government bond 
+rates.
+
+Remeasurements of the net defined benefit liability, which comprise actuarial gains and losses, the return on plan 
+assets (excluding interest) and the effect of the asset ceiling (if any, excluding interest), are recognized 
+immediately in Other Comprehensive Income. The Group determines the net interest expense (income) on the 
+net defined benefit liability (asset) for the period by applying the discount rate used to measure the defined 
+benefit obligation at the beginning of the annual period to the then net defined benefit liability (asset), taking into 
+account any changes in the net defined benefit liability (asset) during the period as a result of contributions and 
+benefit payments. Net interest expense and other expenses related to defined benefit plans, including service 
+costs net of employee contributions, are recognized in profit or loss.
+
+When the benefits of a plan are changed or when a plan is curtailed, the resulting change in benefits that relates 
+to past service or the gain or loss on curtailment is recognized immediately in profit or loss. The Group 
+recognizes gains and losses on the settlement of a defined benefit plan when the settlement occurs.
+In certain countries, the Group also provides post-employment benefits other than pensions. The cost relating to 
+such plans consists primarily of the present value of the benefits attributed on an equal basis to each year of 
+service and interest cost on the accumulated post-employment benefit obligation, which is a discounted amount.
+
+
+#### Share-based compensation
+
+We recognize compensation expense for all share-based awards based on the grant-date estimated fair values, net 
+of an estimated forfeiture rate. We use the Black-Scholes option pricing model to determine the estimated fair 
+value for certain awards. NXP’s grants through the incentive plan are equity settled. Share-based compensation 
+cost for restricted share units (“RSU”s) with time-based vesting is measured based on the closing fair market 
+value of our common stock on the date of the grant, reduced by the present value of the estimated expected 
+future dividends, and then multiplied by the number of RSUs granted. Share-based compensation cost for 
+performance-based share units (“PSU”s) granted with performance or market conditions is measured using a 
+Monte-Carlo simulation model on the date of grant.
+
+
+#### Group Financial Statements
+
+
+#### [-80]
+
+
+## Page 81
+
+The value of the portion of the award that is ultimately expected to vest is recognized as expense ratably over the  
+service periods in our Consolidated Statements of Operations. For stock options, PSUs and RSUs, the grant-date 
+value, less estimated pre-vest forfeitures, is expensed based on a graded vesting schedule. The vesting period for 
+stock options is generally four years, for RSUs and PSUs it is generally three years.
+
+
+#### Financial income and expense
+
+Financial income and expense is comprised of interest income on cash and cash equivalent balances, the interest 
+expense on borrowings, the accretion of the discount or premium on issued debt, the gain or loss on the disposal 
+of financial assets, impairment losses on financial assets and gains or losses on hedging instruments recognized 
+in the statement of operations.
+
+Borrowing costs that are not directly attributable to the acquisition, construction or production of property, plant 
+and equipment are recognized in the statement of operations using the effective interest method.
+
+
+#### Income taxes
+
+Income tax comprises current and deferred tax and are accounted for under the asset and liability method. 
+Income tax is recognized in the statement of operations except to the extent that it relates to a business 
+combination or items recognized directly in equity or in other comprehensive income. Current tax is the expected 
+tax payable or receivable on the taxable income for the year, using tax rates enacted or substantially enacted at 
+the period end date, and any adjustment to tax payable in respect of previous years. Deferred tax assets and 
+liabilities are recognized, using the balance sheet liability method, for the expected tax consequences of 
+temporary differences between the tax bases of assets and liabilities and their carrying amounts for financial 
+reporting purposes. Deferred tax is not recognized for temporary differences arising from the initial recognition 
+of goodwill or the initial recognition of assets and liabilities in a transaction that is not a business combination 
+and at the time of the transaction affects neither accounting nor taxable profit or loss. The measurement of 
+deferred taxes reflects the tax consequences that would follow the manner in which the Company expects, at the 
+end of the reporting period, to recover or settle the carrying amount of its assets and liabilities.
+
+Measurement of deferred tax assets and liabilities is based upon the enacted or substantially enacted tax rates 
+expected to apply to taxable income in the years in which those temporary differences are expected to be 
+recovered or settled. Deferred tax assets, including assets arising from loss carry forwards, are recognized if it is 
+probable that future taxable profits will be available against which they can be utilized. Deferred tax assets are 
+reviewed at each reporting date and reduced to the extent that it is no longer probable that the related tax benefit 
+or a portion thereof will be realized. Deferred tax assets and liabilities are not discounted.
+
+Deferred tax liabilities for withholding taxes are recognized for subsidiaries in situations where the income is to 
+be paid out as dividends in the foreseeable future, and for undistributed earnings of equity-accounted investees to 
+the extent that these withholding taxes are not expected to be refundable or deductible.
+
+Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities 
+and assets, and they relate to income taxes levied by the same tax authority on the same taxable entity, or on 
+different taxable entities, which intend either to settle current tax liabilities and assets on a net basis or realize the 
+tax assets and settle the liabilities simultaneously.
+
+Changes in tax rates are reflected in the period when the change has been enacted or substantively enacted by the 
+period end date.
+
+In determining the amount of current and deferred taxes, NXP takes into account the impact of uncertain tax 
+positions and whether additional taxes and interest may be due. This assessment relies on estimates and 
+assumptions and may involve a series of judgments about future events. New information may become available 
+that causes the Company to change its judgment regarding the adequacy of existing tax liabilities; such changes 
+to tax liabilities will impact tax expense in the period that such a determination is made.
+
+
+#### [-81]
+
+
+## Page 82
+
+
+#### Property, plant and equipment
+
+Property, plant and equipment are stated at cost, less accumulated depreciation and impairment losses. Assets 
+constructed by the Group include direct costs, overheads and interest charges incurred for qualifying assets 
+during the construction period. Government investment grants are deducted from the cost of the related asset. 
+Depreciation is calculated using the straight-line method over the expected economic life of the asset. 
+Depreciation of special tooling is also based on the straight-line method unless a depreciation method other than 
+the straight-line method better represents the consumption pattern. The useful lives and residual values are 
+evaluated every year to determine whether events and circumstances warrant a revision of the remaining useful 
+lives or the residual values. Gains and losses on the sale of property, plant and equipment are included in the 
+respective line items Other income and Other expense. Costs related to repair and maintenance activities are 
+expensed in the period in which they are incurred.
+
+
+#### Leases
+
+At inception of a contract we assess whether the contract is, or contains, a lease.  A contract is, or contains, a 
+lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for 
+consideration.  Determining whether a contract is, or contains a lease, requires judgment.  An arrangement is 
+considered to be a lease when all of the following applies:
+
+•
+It conveys the right to control the use of an identified asset throughout the period of use; 
+•
+NXP has the right to obtain substantially all of the economic benefits from the use of the asset; and 
+•
+NXP has the right to direct the use of the identified asset.
+
+We recognize a right-of-use (“RoU”) asset (i.e. an asset representing the right to use the underlying asset over 
+the lease term) and a lease liability at the lease commencement date, which is the date that the lessor makes the 
+asset available for use by NXP.  The RoU asset is initially measured at cost, which comprises i) the amount of 
+the initial measurement of the lease liability; ii) any lease payments made at or before the commencement date, 
+less any lease incentive received; and iii) any initial direct costs incurred by NXP.  
+  
+The lease liability is initially measured at the present value of the lease payments that are not paid at the 
+commencement date, discounted using the interest rate implicit in the lease or, if that rate cannot be readily 
+determined, the respective NXP entity’s incremental borrowing rate.  The lease payments include fixed payments 
+(including in-substance fixed payments) less any lease incentives receivable, variable lease payments that depend 
+on an index or a rate, and amounts expected to be paid under residual value guarantees.  Lease liabilities are 
+subsequently measured at amortized cost using the effective interest rate method. Lease liabilities are remeasured 
+when there is a change in the future lease payments arising from a change in an index as well as when NXP 
+changes its assessment of whether it will exercise an extension or termination option.  When the lease liability is 
+remeasured in this way, a corresponding adjustment is made to the carrying amount of the RoU asset, or is 
+recorded in profit or loss if the carrying amount of the RoU asset has been reduced to zero.
+
+RoU assets are included within the same line item as that within which the corresponding underlying assets 
+would be presented if they were owned while the corresponding lease liabilities are included within other (non-
+current) liabilities.  Leases with an initial term of 12 months or less are not recorded on the balance sheet.  The 
+lease payments associated with these leases are recognized as an expense on  a straight-line basis over the lease 
+term.
+
+Our lease terms include the non-cancelable period for which we have the right to use an underlying asset, 
+together with both periods covered by an option to extend the lease if we are reasonably certain to exercise that 
+option; and the periods covered by an option to terminate the lease if we are reasonably certain not to exercise 
+the option.
+
+RoU assets are depreciated on a straight-line basis over the shorter of the lease term or the estimated useful life 
+of the asset while the related interest expense is included in financial expense.
+
+Except for gas and chemical contracts, NXP did not make the election to treat the lease and non-lease 
+components as a single component, and considers the non-lease components as a separate unit of account.
+
+
+#### Group Financial Statements
+
+
+#### [-82]
+
+
+## Page 83
+
+Lease contracts that have not yet commenced at the reporting date are disclosed as part of the purchase 
+commitments - see Note 27 Contractual obligations.
+
+
+#### Goodwill
+
+The Company initially measures the amount of goodwill as the excess of the considerations transferred to 
+acquire an entity over the fair value of the identifiable assets and liabilities assumed at the acquisition date. 
+Goodwill is not amortized but tested for impairment annually in the fourth quarter or more frequently if events 
+and circumstances indicate that goodwill may be impaired.  Reflecting the way in which our chief operating 
+decision maker executes operating decisions, allocates resources, manages the growth and profitability of the 
+Company and our Board monitors goodwill, the cash flows at the entity level as a whole are considered 
+substantially independent.  Consequently, the entity as a whole is a cash generating unit for goodwill impairment 
+testing.  A goodwill impairment loss is recognized in the statement of operations whenever and to the extent the 
+carrying amount of a cash generating unit exceeds the recoverable amount of that unit. The recoverable amount 
+is the higher of value in use and fair value less costs of disposal.  The recoverable amount of the cash generating 
+unit of the Company is determined on the basis of fair value. In respect of equity-accounted investees, the 
+carrying amount of goodwill is included in the carrying amount of the investment. An impairment loss in respect 
+of goodwill is not reversed.
+
+
+#### Intangible assets
+
+Intangible assets are amortized over their useful lives using the straight-line method.  Amortization begins when 
+the asset is available for use, i.e. when it is in the location and condition necessary for it to be capable of 
+operating in the manner intended by management.
+
+Remaining useful lives are evaluated every year to determine whether events and circumstances warrant a 
+revision to the remaining period of amortization. There are currently no intangible assets with indefinite lives. 
+Software and intangible development assets are generally amortized over a period of 3-14 years. Patents, 
+trademarks and other intangible assets acquired from third parties are capitalized and amortized over their 
+remaining useful lives.
+
+Expenditures on development activities, whereby research findings are applied to a plan or design for the 
+production of new or substantially improved products and processes, is capitalized as an internally developed 
+intangible asset (referred to as product development assets) if development costs can be measured reliably, if the 
+product or process is technically and commercially feasible, future economic benefits are probable, the Group 
+has sufficient resources and the intention to complete development and to use or sell the asset. The development 
+expenditure capitalized includes the cost of materials, direct labor and an appropriate proportion of overheads. 
+Other development expenditure and expenditure on research activities are recognized in the statement of 
+operations as an expense as incurred. Capitalized development expenditure is stated at costs less accumulated 
+amortization and impairment losses. Amortization of capitalized development expenditure is charged to the 
+statement of operations on a straight-line basis over the estimated useful lives of the intangible assets.  Product 
+development assets that are not yet in use are tested for impairment at least annually or more frequently if events 
+and circumstances indicate that the related product development asset may be impaired.
+
+Costs relating to the development and purchase of software for internal use are capitalized and subsequently 
+amortized over the estimated useful life of the software.
+
+
+#### Impairment or disposal of intangible assets and property, plant and equipment
+
+Intangible assets and property, plant and equipment (including right-of-use assets) are reviewed for impairment 
+whenever events or changes in circumstances indicate that the carrying amount of an asset may not be 
+recoverable. Recoverability of assets to be held and used is assessed by a comparison of the carrying amount of 
+an asset with the greater of its value in use and its fair value less cost of disposal. Value in use is measured as the 
+present value of future cash flows expected to be generated by the asset. Fair value is measured based on 
+externally acquired or available information. If the carrying amount of an asset is not recoverable, an impairment 
+charge is recognized in the amount by which the carrying amount of the asset exceeds the recoverable amount. 
+The review for impairment is carried out at the level of the smallest identifiable group of assets that generates 
+cash inflows that are largely independent of the cash inflows from other assets or groups of assets.
+
+
+#### [-83]
+
+
+## Page 84
+
+The evaluation of intangible assets and property, plant and equipment for impairment is carried out at a 
+Corporate level as the majority of our assets are used jointly or managed at Corporate level. Assets held for sale 
+are reported at the lower of the carrying amount or fair value less costs of disposal.
+
+An impairment loss related to intangible assets or property, plant and equipment is reversed if and to the extent 
+there has been a change in the estimates used to determine the recoverable amount. The loss is reversed only to 
+the extent that the asset’s carrying amount does not exceed the carrying amount that would have been 
+determined, net of depreciation or amortization, if no impairment loss had been recognized. Reversals of 
+impairment are recognized in the statement of operations.
+
+
+#### Inventories
+
+Inventories are stated at the lower of cost or net realizable value. The cost of inventories is determined using the 
+first-in, first-out (FIFO) method. An allowance is made for the estimated losses due to obsolescence. This 
+allowance is determined for groups of products based on purchases in the recent past and/or expected future 
+demand and market conditions. Abnormal amounts of idle facility expense and waste are not capitalized in 
+inventory. The allocation of fixed production overheads to the inventory cost is based on the normal capacity of 
+the production facilities.
+
+
+#### Receivables
+
+Receivables are held under the business model hold to collect. The cash flows exist solely of payments of 
+principal and interest. Receivables are carried at amortized cost, net of allowances for credit loss and net of 
+rebates and other contingent discounts granted to distributors. When circumstances indicate a specific customer’s 
+ability to meet its financial obligation to us is impaired, we record an allowance against amounts due and value 
+the receivable at the amount reasonably expected to be collected. For all other customers, we evaluate our trade 
+accounts receivable risk of credit loss based on numerous factors including historical loss rates, credit-risk 
+concentration, and specific circumstances such as serious adverse economic conditions in a specific country or 
+region.
+
+
+#### Derivative financial instruments including hedge accounting
+
+The Company uses derivative financial instruments in the management of its foreign currency risks and the input 
+costs of gold for a portion of our anticipated purchases within the next 12 months.
+
+The Company measures all derivative financial instruments based on fair values derived from market prices of 
+the instruments or from option pricing models, as appropriate, and records these as assets or liabilities in the 
+balance sheet. Changes in the fair values are immediately recognized in the statement of operations unless cash 
+flow hedge accounting is applied. The cash flows associated with these derivative instruments are classified in 
+the consolidated statements of cash flows in the same category as the hedged transaction.
+
+Changes in the fair value of a derivative that is highly effective and designated and qualifies as a cash flow hedge 
+are recorded in accumulated other comprehensive income (loss), until earnings are affected by the variability in 
+cash flows of the designated hedged item. The cash flows associated with these derivative instruments are 
+classified in the consolidated statements of cash flows in the same category as the hedged transaction. The 
+application of cash flow hedge accounting for foreign currency risks is limited to transactions that represent a 
+substantial currency risk that could materially affect the financial position of the Company.
+
+Foreign currency gains or losses arising from the translation of a financial liability designated as a hedge of a net 
+investment in a foreign operation are recognized directly in other comprehensive income, to the extent that the 
+hedge is effective, and are presented as a separate component of accumulated other comprehensive income (loss) 
+within shareholders' equity.
+
+To the extent that a hedge is ineffective, the ineffective portion of the fair value change is recognized in the 
+Consolidated Statements of Operations. When the hedged net investment is disposed of, the corresponding 
+amount in the accumulated other comprehensive income is transferred to the statement of operations as part of 
+the profit or loss on disposal.
+
+
+#### Group Financial Statements
+
+
+#### [-84]
+
+
+## Page 85
+
+On initial designation of the hedge relationship between the hedging instrument and hedged item, the Company 
+documents this relationship, including the risk management objectives, strategy in undertaking the hedge 
+transaction and the hedged risk, and the methods that will be used to assess the effectiveness of the hedging 
+relationship. The Company makes an assessment, both at the inception of the hedge relationship as well as on an 
+ongoing basis, of whether the hedging instruments are expected to be “highly effective” in offsetting the changes 
+in the fair value or cash flows of the respective hedged items attributable to the hedged risk.
+
+When cash flow hedge accounting is discontinued because it is not probable that a forecasted transaction will 
+occur within a period of two months from the originally forecasted transaction date, the Company continues to 
+carry the derivative on the Consolidated Balance Sheets at its fair value, and gains and losses that were 
+accumulated in other comprehensive income are recognized immediately in earnings. In situations in which 
+hedge accounting is discontinued, the Company continues to carry the derivative at its fair value on the 
+Consolidated Balance Sheets and recognizes any changes in its fair value in earnings.
+
+
+#### Cash and cash equivalents
+
+Cash and cash equivalents include all cash balances and short-term highly liquid investments with a maturity of 
+three months or less at acquisition that are readily convertible into known amounts of cash. Cash and cash 
+equivalents are stated at face value which approximates fair value.
+
+
+#### Provisions and accruals
+
+Provisions are recognized if, as a result of a past event, the Company has a present legal or constructive 
+obligation that can be estimated reliably, and it is probable that an outflow of economic benefits will be required 
+to settle the obligation.  Provisions of a long-term nature are measured at present value when the amount and 
+timing of related cash payments are fixed or reliably determinable using a pre-tax discount rate. Short-term 
+provisions are stated at the best estimate of the expenditure required to settle the present obligation at the end of 
+the reporting period.
+
+The Group accrues for losses associated with environmental obligations when such losses are probable and 
+reliably estimable. Measurement of liabilities is based on current legal requirements and existing technology. 
+Liabilities and virtually certain insurance recoveries, if any, are recorded separately. The carrying amount of 
+liabilities is regularly reviewed and adjusted for new facts or changes in law or technology. Insurance recoveries 
+are recognized when they have been received or when receipt is virtually certain.
+
+
+#### Restructuring
+
+The provision for restructuring relates to the estimated costs of initiated reorganizations that have been approved 
+by the management team and which involve the realignment of certain parts of the industrial and commercial 
+organization. When such reorganizations require discontinuance and/or closure of lines of activities, the 
+anticipated costs of closure or discontinuance are included in restructuring provisions. A provision is recognized 
+for those costs only when the Group has a detailed formal plan for the restructuring and has raised a valid 
+expectation with those affected that it will carry out the restructuring by starting to implement that plan or 
+announcing its main features to those affected by it.
+
+
+#### Debt and other liabilities
+
+Debt and other liabilities, excluding provisions, are initially recognized at fair value and subsequently measured 
+at amortized cost. Direct costs incurred to obtain financing are capitalized and subsequently amortized over the 
+term of the debt, applying the effective interest rate method. Upon extinguishment of any related debt, any 
+unamortized debt issuance costs are expensed immediately.
+
+
+#### Share capital
+
+Common shares are classified as equity. Incremental costs directly attributable to the issue of common shares are 
+recognized as a deduction from equity, net of any tax effects.
+
+For each repurchase of common shares, the number of shares and the acquisition price for those shares is added 
+to the existing treasury shares count and total value. When treasury shares are retired, the Company's policy is to
+
+
+#### [-85]
+
+
+## Page 86
+
+### Table 86.1
+
+|  | 2021 | 2020 |  | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+| China | 4,180 3,324 |  |  | 387 257 |  |
+| Netherlands | 352 222 |  |  | 251 212 |  |
+| United States | 964 750 |  |  | 719 766 |  |
+| Singapore | 1,269 1,064 |  |  | 391 304 |  |
+| Germany | 628 483 |  |  | 44 51 |  |
+| Japan | 810 647 |  |  | 1 — |  |
+| South Korea | 467 327 |  |  | — — |  |
+| Malaysia | 123 95 |  |  | 326 288 |  |
+| Other countries | 2,270 1,700 |  |  | 516 406 |  |
+| Total | 11,063 8,612 |  |  | 2,635 2,284 |  |
+| Adjustments to reconcile to IFRS | — — |  |  | 223 220 |  |
+|  | 11,063 8,612 |  |  | 2,858 2,504 |  |
+
+
+allocate the excess of the repurchase price over the par value of shares acquired to both equity captions Capital 
+in excess of par value and Accumulated deficit. The portion allocated to Capital in excess of par value is 
+calculated by applying a percentage, determined by dividing the number of shares to be retired by the number of 
+shares issued, to the balance of Capital in excess of par value as of the retirement date.
+
+
+#### Cash flow statements
+
+Cash flow statements have been prepared using the indirect method. Cash flows in foreign currencies have been 
+translated into U.S. dollar using the weighted average rates of exchange for the periods involved. Cash flows 
+from derivative instruments are classified consistent with the classification of the hedged items.
+
+
+#### Accounting standards adopted in 2021
+
+No new accounting standards were adopted during 2021 that had a material impact on the financial statements.
+
+
+#### New accounting standards after 2021
+
+There are no new IFRS that have been issued but are not yet effective; which are expected to have an impact on 
+the Company's  financial statements in the period of initial application.
+
+
+#### 3. Segments and geographical information
+
+Our revenue is primarily the sum of our direct sales to OEMs plus our distributors’ resale of NXP products. 
+Avnet accounted for  18% of our revenue in 2021 and 17% in 2020. No other distributor accounted for greater 
+than 10% of our revenue. No OEM for which we had direct sales to accounted for more than 10% of our revenue 
+in 2021 or 2020.
+
+Revenue attributed to geographic areas is based on the customer’s shipped-to location. The geographical 
+information with regard to Property, plant and equipment relates to the physical location of the assets as of the 
+end of each year.
+
+For internal and external reporting purposes, NXP follows accounting principles generally accepted in the United 
+States of America (“U.S. GAAP”). U.S. GAAP is NXP’s primary accounting standard for the Company’s setting 
+of financial and operational performance targets. Consequently, the segment and geographical information is 
+presented on a U.S. GAAP basis, with a reconciling item to the IFRS basis.
+
+
+#### Geographical information
+
+Revenue 
+Property, plant and equipment
+
+2021
+2020
+2021
+2020
+China
+ 
+4,180  
+3,324 
+ 
+387  
+257 
+Netherlands
+ 
+352  
+222 
+ 
+251  
+212 
+United States
+ 
+964  
+750 
+ 
+719  
+766 
+Singapore
+ 
+1,269  
+1,064 
+ 
+391  
+304 
+Germany
+ 
+628  
+483 
+ 
+44  
+51 
+Japan
+ 
+810  
+647 
+ 
+1  
+— 
+South Korea
+ 
+467  
+327 
+ 
+—  
+— 
+Malaysia
+ 
+123  
+95 
+ 
+326  
+288 
+Other countries
+ 
+2,270  
+1,700 
+ 
+516  
+406 
+Total
+ 
+11,063  
+8,612 
+ 
+2,635  
+2,284 
+Adjustments to reconcile to IFRS
+ 
+—  
+— 
+ 
+223  
+220 
+ 
+11,063  
+8,612 
+ 
+2,858  
+2,504
+
+The adjustments to reconcile to IFRS with regard to Property, plant and equipment relate to lease accounting 
+since under U.S. GAAP operating leases are not classified under Property, plant and equipment but rather Other 
+non-current assets.
+
+
+#### Group Financial Statements
+
+
+#### [-86]
+
+
+## Page 87
+
+### Table 87.1
+
+| Automotive | 5,493 |  | 3,825 |
+| --- | --- | --- | --- |
+
+
+
+### Table 87.2
+
+| Mobile | 1,412 |  | 1,248 |
+| --- | --- | --- | --- |
+
+
+
+### Table 87.3
+
+| Distributors 6,325 4,720 |
+| --- |
+| Original Equipment Manufacturers and Electronic Manufacturing Services 4,587 3,728 |
+| Other 151 164 |
+| 11,063 8,612 |
+
+
+### Table 87.4
+
+| Salaries and wages (including share-based compensation) 2,633 2,173 |
+| --- |
+| Pension and other post-employment costs 107 99 |
+| Social security and similar charges 318 286 |
+| 3,058 2,559 |
+
+
+Total non-current assets, excluding financial assets and deferred taxes amount to $18,162 million (2020: $17,625 
+million). These are located primarily in the Netherlands, amounting to 3,257 million (2020: $2,992 million) and 
+in the United States, amounting to $12,131 million (2020: $12,438 million).
+
+
+#### 4. Acquisitions, divestments and Assets held for sale
+
+
+#### 2021
+
+On July 6, 2021, we acquired Retune DSP for a total consideration of $16 million, net of closing adjustments.
+
+
+#### 2020
+
+There were no material acquisitions during 2020.
+
+
+#### Assets held for sale
+
+At December 31, 2021 and 2020 there were no Assets held for sale.
+
+
+#### 5. Operating income
+
+
+#### Disaggregation of revenue
+
+
+#### Revenue by end-market was as follows:
+
+2021
+2020
+
+Automotive
+ 
+5,493  
+3,825 
+Industrial & IoT
+ 
+2,410  
+1,836 
+Mobile
+ 
+1,412  
+1,248 
+Communication Infrastructure & Other
+ 
+1,748  
+1,703 
+ 
+11,063 
+ 
+8,612
+
+
+#### Revenue by sales channel was as follows:
+
+2021
+2020
+
+Distributors
+ 
+6,325 
+ 
+4,720
+
+Original Equipment Manufacturers and Electronic Manufacturing Services 
+ 
+4,587 
+ 
+3,728
+
+Other
+ 
+151 
+ 
+164
+
+11,063 
+ 
+8,612
+
+For information related to revenue on a geographical basis, see Note 3 Segments and geographical information.
+
+
+#### Employee benefits
+
+2021
+2020
+
+Salaries and wages (including share-based compensation)
+ 
+2,633 
+ 
+2,173
+
+Pension and other post-employment costs
+ 
+107 
+ 
+99
+
+Social security and similar charges
+ 
+318 
+ 
+286
+
+3,058 
+ 
+2,559
+
+Salaries and wages in 2021 include $35 million (2020: $51 million) relating to restructuring charges - see also 
+Note 6 Restructuring. Pension and other post-employment costs include the costs of pension benefits, and other 
+post-employment benefits. Part of salaries and wages were capitalized as product development assets.
+
+
+#### [-87]
+
+
+## Page 88
+
+### Table 88.1
+
+| The Netherlands | 7 % 7 % |  |
+| --- | --- | --- |
+| Rest of Europe and Africa | 12 % | 13 % |
+| Americas | 17 % 18 % |  |
+| Asia | 64 % | 62 % |
+| Total : | 100 % | 100 % |
+
+
+### Table 88.2
+
+| Depreciation of property, plant and equipment - owned 543 544 |  |  |
+| --- | --- | --- |
+| Depreciation of property, plant and equipment - leased 62 61 |  |  |
+| Amortization of product development assets 504 388 |  |  |
+| Amortization of other intangible assets 674 1,398 |  |  |
+| Impairment intangible assets 83 135 |  |  |
+| Other | 5 | — |
+| 1,871 2,526 |  |  |
+
+
+Covid-19 government related assistance with regard to payroll related costs was recognized in the 2021 
+consolidated statement of operations for a total amount of $1 million (2020: $17 million).
+
+As of December 31, 2021 31,078 full-time equivalent employees compared to 28,900 at December 31, 2020.  
+The following table indicates the % of full–time equivalent employees per geographic area:
+
+
+#### % as of December 31,
+
+2021
+2020
+The Netherlands
+ 7 %
+ 7 %
+Rest of Europe and Africa
+ 12 %
+ 13 %
+Americas
+ 17 %
+ 18 %
+Asia
+ 64 %
+ 62 %
+Total :
+ 100 %
+ 100 %
+
+See Note 23 Post-employment benefits for further information regarding pension and other post-employment 
+benefits and Notes 30 Share-based compensation and 31 Information on remuneration board of directors for 
+further information about remuneration and share-based payments to executives and non‑executives.
+
+
+#### Depreciation, amortization and impairment
+
+
+#### Depreciation, amortization and impairment charges can be detailed as follows:
+
+2021
+2020
+
+Depreciation of property, plant and equipment - owned
+ 
+543 
+ 
+544
+
+Depreciation of property, plant and equipment - leased
+ 
+62 
+ 
 61
-Executive vice president sales & marketing
-Jennifer Wuamett
+
+Amortization of product development assets
+ 
+504 
+ 
+388
+
+Amortization of other intangible assets
+ 
+674 
+ 
+1,398
+
+Impairment intangible assets
+ 
+83 
+ 
+135
+
+Other
+ 
+5  
+—
+
+1,871 
+ 
+2,526
+
+Depreciation of property, plant and equipment is primarily included in Cost of revenue. Amortization of 
+intangible assets is primarily reported under Research and development expenses.
+
+
+#### Impairments
+
+During the year, impairment events for intangible assets resulted in a total impairment charge of $83 million, 
+which is included under Research and development expenses (2020: $135 million) – see also Note 14 Intangible 
+assets.
+
+
+#### Research and development expenses
+
+The 2021 research and development expenses, excluding amortization of acquisition related intangible assets, 
+amounted to $1,488 million (2020: $1,437 million). Government grants with regard to research and development 
+activities were recognized in the consolidated statement of operations for a total amount of $86 million (2020: 
+$72 million).
+
+
+#### 6. Restructuring
+
+At each reporting date, we evaluate our restructuring liabilities, which consist primarily of termination benefits, 
+to ensure that our accruals are still appropriate.  During 2021 and 2020 there were no new significant 
+restructuring programs.
+
+The 2021 changes in the provision and accrued liabilities for restructuring are as follows:
+
+
+#### Group Financial Statements
+
+
+#### [-88]
+
+
+## Page 89
+
+### Table 89.1
+
+| Restructuring Liabilities |  | 32 | 35 | (37) | — |  | (1) |  | 29 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 89.2
+
+| Restructuring Liabilities |  | 18 | 50 | (36) | — | — |  | 32 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 89.3
+
+| Personnel lay-off costs 35 51 |
+| --- |
+| Release of provisions/accruals — — |
+| Net restructuring charges 35 51 |
+
+
+### Table 89.4
+
+| Cost of revenue | — |  | 16 |
+| --- | --- | --- | --- |
+
+
+
+### Table 89.5
+
+| Research and development expenses 14 22 |
+| --- |
+| Net restructuring charges 35 51 |
+
+
+
+#### $ in millions
+
+Balance 
+January 1,
+
+2021
+Additions
+Utilized 
+Released
+
+Other 
+changes
+
+Balance 
+December
+
+
+#### 31, 2021
+
+Restructuring Liabilities 
+ 
+32 
+ 
+35 
+ 
+(37)  
+— 
+ 
+(1)  
+29
+
+The total restructuring liability as of December 31, 2021 of $29 million is classified in the balance sheet under 
+short-term provisions for $17 million and long-term provisions for $12 million. The utilization of the 
+restructuring liabilities mainly reflects the execution of ongoing restructuring programs the Company initiated in 
+earlier years.
+
+The following table presents the changes in the provision and accrued liabilities for restructuring in 2020:
+
+
+#### $ in millions
+
+Balance 
+January 1,
+
+2020
+Additions
+Utilized 
+Released
+
+Other 
+changes
+
+Balance 
+December
+
+
+#### 31, 2020
+
+Restructuring Liabilities 
+ 
+18 
+ 
+50 
+ 
+(36)  
+— 
+ 
+— 
+ 
+32
+
+The total restructuring liability as of December 31, 2020 of $32 million is classified in the balance sheet under 
+short-term provisions for $17 million, long-term provisions for $14 million and accrued liabilities for $1 million. 
+The utilization of the restructuring liabilities mainly reflects the execution of ongoing restructuring programs the 
+Company initiated in earlier years.
+
+The components of restructuring charges less releases recorded in the liabilities in 2021 and 2020 are as follows:
+
+2021
+2020
+
+Personnel lay-off costs
+ 
+35 
+ 
+51
+
+Release of provisions/accruals
+ 
+— 
+ 
+—
+
+Net restructuring charges
+ 
+35 
+ 
+51
+
+The restructuring charges less releases recorded in operating income are included in the following line items in 
+the consolidated statement of operations:
+
+2021
+2020
+
+Cost of revenue
+ 
+— 
+ 
+16
+
+Selling, general and administrative expenses
+ 
+21 
+ 
+13
+
+Research and development expenses
+ 
+14 
+ 
+22
+
+Net restructuring charges
+ 
+35 
+ 
+51
+
+
+#### [-89]
+
+
+## Page 90
+
+### Table 90.1
+
+| Interest income 4 13 |
+| --- |
+| Interest expense (374) (369) |
+| Total interest expense, net (370) (356) |
+| Foreign exchange rate results 6 (16) |
+| Net gain (loss) on extinguishment of debt (22) (60) |
+| Miscellaneous financing income (expense) and other (13) 14 |
+| Total other financial income and expense (29) (62) |
+| Total (399) (418) |
+
+
+### Table 90.2
+
+| Current taxes |
+| --- |
+| Netherlands: (106) (147) |
+| Foreign: (215) (122) |
+| (321) (269) |
+| Deferred taxes |
+| Netherlands: (30) 40 |
+| Foreign: (52) 244 |
+| (82) 284 |
+| Income tax (expense) benefit (403) 15 |
+
+
+### Table 90.3
+
+| Current year (364) (264) |
+| --- |
+| Adjustments for prior years 43 (5) |
+
+
+
+#### 7. Financial income (expense)
+
+2021
+2020
+
+Interest income
+ 
+4 
+ 
+13 
+Interest expense
+ 
+(374)  
+(369) 
+Total interest expense, net
+ 
+(370)  
+(356)
+
+Foreign exchange rate results
+ 
+6 
+ 
+(16) 
+Net gain (loss) on extinguishment of debt
+ 
+(22)  
+(60) 
+Miscellaneous financing income (expense) and other
+ 
+(13)  
+14 
+Total other financial income and expense
+ 
+(29)  
+(62) 
+Total
+ 
+(399)  
+(418)
+
+Financial income (expense) was an expense of $399 million in 2021, compared to an expense of $418 million in 
+2020.  The change in financial income (expense) is primarily attributable to foreign exchange results, which 
+resulted in a profit of $6 million in 2021 versus a loss of $16 million in 2020 and lower debt extinguishment 
+costs in 2021 versus 2020 of $38 million. This was partially offset by lower interest income of $9 million as a 
+result of lower interest rates, an increase of interest expense of $5 million and a change in miscellaneous 
+financial income/expense of $27 million, mainly driven by a loss of $2 million on investments in 2021, where 
+2020 resulted in a profit of $24 million.  
+ 
+The 2021 Foreign exchange rate results include a currency hedging loss of $63 million (2020: $64 million gain).
+Note 21 Long-term debt contains detailed information on our outstanding debt and related interest rates.
+
+
+#### 8. Income taxes
+
+The tax expense on the income before income taxes recognized in the consolidated statement of operations 
+amounted to $403 million (2020: benefit of $15 million). The components of income tax (expense) benefit are as 
+follows:
+
+2021
+2020
+
+
+#### Current taxes
+
+Netherlands:
+ 
+(106)  
+(147) 
+Foreign:
+ 
+(215)  
+(122) 
+ 
+(321)  
+(269) 
+Deferred taxes
+
+Netherlands:
+ 
+(30)  
+40 
+Foreign:
+ 
+(52)  
+244 
+ 
+(82)  
+284 
+Income tax (expense) benefit
+ 
+(403)  
+15
+
+The Company’s operations are subject to income taxes in various jurisdictions. Excluding certain tax incentives, 
+the statutory income tax rates vary from 9% to 34%.
+
+
+#### The current tax expense consists of the following items:
+
+2021
+2020
+
+Current year
+ 
+(364)  
+(264) 
+Adjustments for prior years
+ 
+43 
+ 
+(5)
+
+
+#### Group Financial Statements
+
+
+#### [-90]
+
+
+## Page 91
+
+### Table 91.1
+
+| Origination and reversal of temporary differences | (74) 305 |
+| --- | --- |
+|  | 1 (4) |
+| Tax rate and law change | (6) (26) |
+| Prior year adjustments and other | (3) 9 |
+
+
+### Table 91.2
+
+| Income tax (expense) benefit from continuing operations (403) 15 |
+| --- |
+| Income tax (expense) benefit from discontinued operations — — |
+
+
+### Table 91.3
+
+| Income before taxes 2,610 297 |
+| --- |
+| Income tax expense (benefit) 403 (15) |
+| Income after tax 2,207 312 |
+| Statutory income tax in the Netherlands 652 25.0 % 74 25.0 % |
+| Rate differential local statutory rates versus statutory rate of the Netherlands (46) (1.8) % 9 3.0 % |
+| Loss carry forwards for which deferred tax assets were not recognized in the year of loss 5 0.2 % 9 3.0 % |
+| Changes in estimates of prior years' income taxes (48) (1.8) % (10) (3.4) % |
+| Non-taxable income 0 0.0 % (5) (1.7) % |
+| Non-tax-deductible expenses 54 2.1 % 59 19.9 % |
+| Sale of non-deductible goodwill — — % 6 2.0 % |
+| Other taxes and tax rate and legislation changes 6 0.2 % 26 8.8 % |
+| Other permanent differences 10 0.4 % — 0.0 % |
+| Withholding and other taxes (8) (0.3) % (31) (10.5) % |
+| Unrecognized Tax benefits 20 0.8 % 13 4.4 % |
+| Tax incentives and other (242) (9.3) % (165) (55.6) % |
+| Effective tax rate 403 15.4 % (15) (5.0) % |
+
+
+The deferred tax benefit of 2021 and 2020 recognized in the statement of operations consists of the following 
+items:
+
+2021
+2020
+
+Origination and reversal of temporary differences
+ 
+(74)  
+305 
+Changes in recognition of deferred tax assets
+ 
+1 
+ 
+(4) 
+Tax rate and law change
+ 
+(6)  
+(26) 
+Prior year adjustments and other
+ 
+(3)  
+9
+
+The tax benefit relating to continued and discontinued operations is as follows:
+
+2021
+2020
+
+Income tax (expense) benefit from continuing operations
+ 
+(403)  
+15 
+Income tax (expense) benefit from discontinued operations
+ 
+— 
+ 
+—
+
+The reconciliation of the statutory income tax rate in the Netherlands with the effective income tax rate can be 
+summarized as follows:
+
+2021
+2020
+
+million
+%
+million
+%
+
+Income before taxes
+ 
+2,610 
+ 
+297 
+Income tax expense (benefit)
+ 
+403 
+ 
+(15) 
+Income after tax
+ 
+2,207 
+ 
+312
+
+Statutory income tax in the Netherlands
+ 
+652 
+ 25.0 %  
+74 
+ 25.0 %
+Rate differential local statutory rates versus statutory rate
+
+of the Netherlands
+ 
+(46) 
+ (1.8) %  
+9 
+ 3.0 %
+
+
+#### Loss carry forwards for which deferred tax assets were not
+
+recognized in the year of loss
+ 
+5 
+ 0.2 %  
+9 
+ 3.0 %
+Changes in estimates of prior years' income taxes
+ 
+(48) 
+ (1.8) %  
+(10) 
+ (3.4) %
+Non-taxable income
+ 
+0 
+ 0.0 %  
+(5) 
+ (1.7) %
+Non-tax-deductible expenses
+ 
+54 
+ 2.1 %  
+59 
+ 19.9 %
+Sale of non-deductible goodwill
+ 
+— 
+ — %  
+6 
+ 2.0 %
+Other taxes and tax rate and legislation changes
+ 
+6 
+ 0.2 %  
+26 
+ 8.8 %
+Other permanent differences
+ 
+10 
+ 0.4 %  
+— 
+ 0.0 %
+Withholding and other taxes
+ 
+(8) 
+ (0.3) %  
+(31) 
+ (10.5) %
+Unrecognized Tax benefits
+ 
+20 
+ 0.8 %  
+13 
+ 4.4 %
+Tax incentives and other
+ 
+(242) 
+ (9.3) %  
+(165) 
+ (55.6) %
+Effective tax rate
+ 
+403 
+ 15.4 %  
+(15) 
+ (5.0) %
+
+We recorded an income tax expense of $403 million in 2021, which reflects an effective tax rate of 15.4% 
+compared to an income tax benefit of $15 million in 2020, which reflects a negative effective tax rate of 5.0%.
+
+The effective tax rate reflects the impact of tax incentives, a portion of our earnings being taxed in foreign 
+jurisdictions at rates different than the Netherlands statutory tax rate, changes in estimates of prior years' income 
+taxes, tax rate and legislation changes and non-deductible expenses, sale of non-deductible goodwill and
+
+
+#### [-91]
+
+
+## Page 92
+
+### Table 92.1
+
+| Intangible assets (799) 48 (2) 2 (751) |
+| --- |
+| Property, plant and equipment (62) 1 1 (60) |
+| Inventories 23 (7) 16 |
+| Receivables 55 39 (5) 89 |
+| Other assets (7) (2) 3 (6) |
+| Post-employment benefits 121 (1) (16) 104 |
+| Provisions: |
+| – Restructuring 5 (1) 4 |
+| – Accrued interest 69 (50) 19 |
+| – Other 4 (1) 3 |
+| Long-term debt |
+| Other liabilities 162 42 204 |
+| Share-based payments 42 (5) 4 41 |
+| Undistributed earnings subsidiaries (54) 16 (38) |
+| Tax loss carry forward (including tax credit carry forwards) 328 (161) (10) 157 |
+| Net deferred tax assets (liabilities) (113) (82) (2) (21) (218) |
+
+
+withholding taxes. The impact of these items results in offsetting factors that attribute to the change in the 
+effective tax rate between the two periods, with the significant drivers outlined below:
+
+•
+The Company benefits from certain tax incentives, which reduce the effective tax rate. The dollar 
+amount of the incentive in any given year is commensurate with the taxable income in that same 
+period. For 2021, the foreign tax and Netherlands tax incentives were higher than 2020 by 
+$77 million, mainly due to the fact that NXP increased its investment expenditures and benefited from 
+higher qualifying income.
+•
+The difference in withholding taxes is mainly due to changes in the applicable deferred tax liability 
+rate regarding future remittances of the earnings of foreign subsidiaries in 2020.
+•
+The tax effect of the non-deductible goodwill of $6 million is linked to the divestiture of the VAS 
+business in 2020.
+•
+The tax rate and legislation changes in 2021 respectively 2020 is mainly driven by the changes in the 
+enacted Dutch corporate income tax rates applicable for future years.
+
+The Company benefits from income tax holidays in certain jurisdictions which provide that we pay reduced 
+income taxes in those jurisdictions for a fixed period of time that varies depending on the jurisdiction. The 
+predominant income tax holiday is expected to expire at the end of 2026.
+
+Unrecognized tax benefits excluding interest and penalties as per December 31, 2021 amounted to $176 million 
+(2020: $161 million).
+
+The net income tax payable as of December 31, 2021 amounted to $111 million (2020: payable $166 million). It 
+includes amounts directly payable to or receivable from tax authorities, the effect of unrecognized tax benefits on 
+income taxes payable to tax authorities and non-current income tax receivable - see also Note 24 Other non-
+current liabilities.
+
+Tax years that remain subject to examination by major tax jurisdictions: the Netherlands (2018-2020), Germany 
+(2017-2020), USA (2005-2020), China (2011-2020), Taiwan (2016-2020), Thailand (2016-2020), Malaysia 
+(2014-2020) and India (2004, 2005, 2007-2020).
+
+
+#### Deferred tax assets and liabilities
+
+Deferred tax assets and liabilities for 2021 and 2020 relate to the following balance sheet captions:
+
+Balance 
+January 1,
+
+
+#### 2021
+
+
+#### Recognized
+
+
+#### in income
+
+
+#### Acquisitions
+
+/ disposals
+Other1)
+
+Balance 
+December
+
+
+#### 31, 2021
+
+Intangible assets
+ 
+(799)  
+48 
+ 
+(2)  
+2 
+ 
+(751)
+
+Property, plant and equipment
+ 
+(62)  
+1 
+ 
+1 
+ 
+(60)
+
+Inventories
+ 
+23 
+ 
+(7) 
+ 
+16
+
+Receivables
+ 
+55 
+ 
+39 
+ 
+(5)  
+89
+
+Other assets
+ 
+(7)  
+(2) 
+ 
+3 
+ 
+(6)
+
+Post-employment benefits
+ 
+121 
+ 
+(1) 
+ 
+(16)  
+104
+
+
+#### Provisions:
+
+– Restructuring 
+ 
+5 
+ 
+(1) 
+ 
+4
+
+– Accrued interest
+ 
+69 
+ 
+(50) 
+ 
+19
+
+– Other 
+ 
+4 
+ 
+(1) 
+ 
+3
+
+
+#### Long-term debt
+
+Other liabilities
+ 
+162 
+ 
+42 
+ 
+204
+
+Share-based payments
+ 
+42 
+ 
+(5) 
+ 
+4 
+ 
+41
+
+Undistributed earnings subsidiaries
+ 
+(54)  
+16 
+ 
+(38)
+
+
+#### Tax loss carry forward (including tax
+
+credit carry forwards)
+ 
+328 
+ 
+(161) 
+ 
+(10)  
+157 
+Net deferred tax assets (liabilities)
+ 
+(113)  
+(82)  
+(2)  
+(21)  
+(218)
+
+
+#### Group Financial Statements
+
+
+#### [-92]
+
+
+## Page 93
+
+### Table 93.1
+
+| Intangible assets (1,097) 300 (2) (799) |
+| --- |
+| Property, plant and equipment (85) 24 (1) (62) |
+| Inventories 27 (4) 23 |
+| Receivables 64 (12) 3 55 |
+| Other assets 1 (5) (3) (7) |
+| Post-employment benefits 95 26 121 |
+| Provisions: |
+| – Restructuring 2 3 5 |
+| – Accrued interest 103 (34) 69 |
+| Other liabilities 164 (5) 3 162 |
+| Share-based payments 40 (3) 5 42 |
+| Undistributed earnings subsidiaries (99) 48 (3) (54) |
+| Tax loss carry forward (including tax credit carry forwards) 348 (32) 12 328 |
+| Net deferred tax assets (liabilities) (437) 284 — 40 (113) |
+
+
+### Table 93.2
+
+| Intangible assets (751) (799) (751) (799) |
+| --- |
+| Property, plant and equipment (60) (62) (60) (62) |
+| Inventories 16 23 16 23 |
+| Receivables 89 55 89 55 |
+| Other assets (6) (7) (6) (7) |
+| Post-employment benefits 104 121 104 121 |
+| Provisions: |
+| – Restructuring 4 5 4 5 |
+| – Accrued interest 19 69 19 69 |
+| – Other 3 4 3 4 |
+| Other liabilities 204 162 204 162 |
+| Share-based payments 41 42 41 42 |
+| Undistributed earnings subsidiaries (38) (54) (38) (54) |
+| Tax loss carry forward (including tax credit carry forwards) 157 328 157 328 |
+| Deferred taxes 637 809 (855) (922) (218) (113) |
+| Offsetting between assets and (340) (468) 340 468 liabilities |
+| Net deferred taxes recognized 297 341 (515) (454) (218) (113) |
+
+
+### Table 93.3
+
+| of | $38 million | a |
+| --- | --- | --- |
+
+
+
+Balance 
+January 1,
+
+
+#### 2020
+
+
+#### Recognized
+
+
+#### in income
+
+
+#### Acquisitions/
+
+disposals
+Other1)
+
+Balance 
+December
+
+
+#### 31, 2020
+
+Intangible assets
+ 
+(1,097)  
+300 
+ 
+(2)  
+(799) 
+Property, plant and equipment
+ 
+(85)  
+24 
+ 
+(1)  
+(62) 
+Inventories
+ 
+27 
+ 
+(4) 
+ 
+23 
+Receivables
+ 
+64 
+ 
+(12) 
+ 
+3 
+ 
+55 
+Other assets
+ 
+1 
+ 
+(5) 
+ 
+(3)  
+(7) 
+Post-employment benefits
+ 
+95 
+ 
+26 
+ 
+121 
+Provisions:
+
+– Restructuring 
+ 
+2 
+ 
+3 
+ 
+5 
+– Accrued interest
+ 
+103 
+ 
+(34) 
+ 
+69 
+Other liabilities
+ 
+164 
+ 
+(5) 
+ 
+3 
+ 
+162 
+Share-based payments
+ 
+40 
+ 
+(3) 
+ 
+5 
+ 
+42 
+Undistributed earnings subsidiaries
+ 
+(99)  
+48 
+ 
+(3)  
+(54)
+
+
+#### Tax loss carry forward (including tax
+
+credit carry forwards)
+ 
+348 
+ 
+(32) 
+ 
+12 
+ 
+328 
+Net deferred tax assets (liabilities)
+ 
+(437)  
+284 
+ 
+— 
+ 
+40 
+ 
+(113)
+
+1) 
+Other includes the effect of currency translation differences and the deferred taxes recorded directly in equity.
+
+The gross amounts of deferred tax assets and liabilities are attributable to the following:
+
+Assets
+Liabilities
+Net
+2021
+2020
+2021
+2020
+2021
+2020
+
+Intangible assets
+ 
+(751)  
+(799)  
+(751)  
+(799) 
+Property, plant and equipment
+ 
+(60)  
+(62)  
+(60)  
+(62) 
+Inventories
+ 
+16 
+ 
+23 
+ 
+16 
+ 
+23 
+Receivables
+ 
+89 
+ 
+55 
+ 
+89 
+ 
+55 
+Other assets
+ 
+(6)  
+(7)  
+(6)  
+(7) 
+Post-employment benefits
+ 
+104 
+ 
+121 
+ 
+104 
+ 
+121 
+Provisions:
+
+– Restructuring
+ 
+4 
+ 
+5 
+ 
+4 
+ 
+5
+
+– Accrued interest
+ 
+19 
+ 
+69 
+ 
+19 
+ 
+69
+
+– Other
+ 
+3 
+ 
+4 
+ 
+3 
+ 
+4
+
+Other liabilities
+ 
+204 
+ 
+162 
+ 
+204 
+ 
+162 
+Share-based payments
+ 
+41 
+ 
+42 
+ 
+41 
+ 
+42
+
+Undistributed earnings subsidiaries
+ 
+(38)  
+(54)  
+(38)  
+(54) 
+Tax loss carry forward (including
+
+tax credit carry forwards)
+ 
+157 
+ 
+328 
+ 
+157 
+ 
+328 
+Deferred taxes
+ 
+637 
+ 
+809 
+ 
+(855)  
+(922)  
+(218)  
+(113) 
+Offsetting between assets and
+
+
+#### liabilities
+
+(340)  
+(468)  
+340 
+ 
+468
+
+Net deferred taxes recognized
+ 
+297 
+ 
+341 
+ 
+(515)  
+(454)  
+(218)  
+(113)
+
+The Company does not reinvest the majority of the undistributed earnings of its subsidiaries for the foreseeable 
+future. Consequently, the Company has recognized a deferred tax liability of $38 million at December 31, 2021 
+(2020: $54 million) for the additional income taxes and withholding taxes payable upon the future remittances of 
+these earnings of foreign subsidiaries. The Company considers $345 million of the undistributed earnings 
+reinvested for the foreseeable future although the timing of the reversal can be controlled. Upon repatriation of 
+those earnings the Company would be subject to tax of $35 million which is not recognized as deferred tax 
+liability at December 31, 2021.
+
+
+#### [-93]
+
+
+## Page 103
+
+### Table 103.1
+
+| Balance as of January 1, 2021: |  |  |
+| --- | --- | --- |
+| Cost 12,801 9,249 | 2,196 | 1,356 |
+| Accumulated amortization and impairments (7,877) (7,007) (870) — |  |  |
+| Book value 4,924 2,242 1,326 1,356 |  |  |
+| Changes in book value: |  |  |
+| Additions from internal development 1,016 — — 1,016 |  |  |
+| Transfer assets put in use — — 966 (966) |  |  |
+| Additions from separate acquisitions 162 162 — — |  |  |
+| Amortization (1,178) (674) (504) — |  |  |
+| Impairment (83) (37) — (46) |  |  |
+| Total changes (83) (548) 462 3 |  |  |
+| Balance as of December 31, 2021: |  |  |
+| Cost 9,074 4,715 3,000 1,359 |  |  |
+| Accumulated amortization and impairments (4,233) (3,021) (1,212) — |  |  |
+| Book value 4,841 1,694 1,788 1,359 |  |  |
+
+
+### Table 103.2
+
+| Balance as of January 1, 2020: |
+| --- |
+| Cost 12,470 9,384 1,912 1,174 |
+| Accumulated amortization and impairments (6,437) (5,764) (673) — |
+| Book value 6,033 3,620 1,239 1,174 |
+| Changes in book value: |
+| Additions from internal development 749 — — 749 |
+| Transfer assets put in use — — 487 (487) |
+| Additions from separate acquisitions 63 63 — — |
+| Amortization (1,786) (1,398) (388) — |
+| Impairment (135) (43) (11) (81) |
+| Total changes (1,109) (1,378) 88 181 |
+| Balance as of December 31, 2020: |
+| Cost 12,801 9,249 2,196 1,356 |
+| Accumulated amortization and impairments (7,877) (7,007) (870) — |
+| Book value 4,924 2,242 1,326 1,356 |
+
+
+
+#### 14. Intangible assets
+
+The changes in intangible assets during 2021 and 2020 can be summarized as follows:
+
+
+#### Total
+
+Other
+intangible
+
+
+#### assets
+
+Product 
+development
+
+
+#### assets
+
+Product 
+development
+
+
+#### assets
+
+
+#### In use
+
+Under 
+development
+
+
+#### Balance as of January 1, 2021:
+
+Cost
+ 
+12,801 
+ 
+9,249  
+2,196  
+1,356
+
+Accumulated amortization and impairments
+ 
+(7,877)  
+(7,007)  
+(870)  
+—
+
+Book value
+ 
+4,924 
+ 
+2,242 
+ 
+1,326  
+1,356
+
+
+#### Changes in book value:
+
+Additions from internal development
+ 
+1,016 
+ 
+— 
+ 
+—  
+1,016
+
+Transfer assets put in use
+ 
+— 
+ 
+— 
+ 
+966  
+(966)
+
+Additions from separate acquisitions
+ 
+162 
+ 
+162 
+ 
+—  
+—
+
+Amortization
+ 
+(1,178)  
+(674)  
+(504)  
+—
+
+Impairment
+ 
+(83)  
+(37)  
+—  
+(46)
+
+Total changes
+ 
+(83)  
+(548)  
+462  
+3
+
+
+#### Balance as of December 31, 2021:
+
+Cost
+ 
+9,074 
+ 
+4,715 
+ 
+3,000  
+1,359
+
+Accumulated amortization and impairments
+ 
+(4,233)  
+(3,021)  
+(1,212)  
+—
+
+Book value
+ 
+4,841 
+ 
+1,694 
+ 
+1,788  
+1,359
+
+
+#### Total
+
+Other
+intangible
+
+
+#### assets
+
+Product 
+development
+
+
+#### assets
+
+
+#### Product development
+
+
+#### assets
+
+
+#### In use     Under development
+
+
+#### Balance as of January 1, 2020:
+
+Cost
+ 
+12,470 
+ 
+9,384 
+ 
+1,912  
+1,174
+
+Accumulated amortization and impairments
+ 
+(6,437)  
+(5,764)  
+(673)  
+—
+
+Book value
+ 
+6,033 
+ 
+3,620 
+ 
+1,239  
+1,174
+
+
+#### Changes in book value:
+
+Additions from internal development
+ 
+749 
+ 
+— 
+ 
+—  
+749
+
+Transfer assets put in use
+ 
+— 
+ 
+— 
+ 
+487  
+(487)
+
+Additions from separate acquisitions
+ 
+63 
+ 
+63 
+ 
+—  
+—
+
+Amortization
+ 
+(1,786)  
+(1,398)  
+(388)  
+—
+
+Impairment
+ 
+(135)  
+(43)  
+(11)  
+(81)
+
+Total changes
+ 
+(1,109)  
+(1,378)  
+88  
+181
+
+
+#### Balance as of December 31, 2020:
+
+Cost
+ 
+12,801 
+ 
+9,249 
+ 
+2,196  
+1,356
+
+Accumulated amortization and impairments
+ 
+(7,877)  
+(7,007)  
+(870)  
+—
+
+Book value
+ 
+4,924 
+ 
+2,242 
+ 
+1,326  
+1,356
+
+
+#### [-103]
+
+
+## Page 104
+
+### Table 104.1
+
+| IPR&D 96 — 147 — |
+| --- |
+| Marketing-related 81 (81) 81 (81) |
+| Customer-related 852 (325) 957 (382) |
+| Technology-based 8,045 (3,827) 11,616 (7,414) |
+| 9,074 (4,233) 12,801 (7,877) |
+
+
+
+#### Intangible assets as of December 31 consist of:
+
+2021
+2020
+
+
+#### Gross
+
+
+#### Accumulated
+
+amortization
+Gross
+
+
+#### Accumulated
+
+
+#### amortization
+
+IPR&D
+ 
+96 
+ 
+— 
+ 
+147 
+ 
+—
+
+Marketing-related
+ 
+81 
+ 
+(81)  
+81 
+ 
+(81)
+
+Customer-related
+ 
+852 
+ 
+(325)  
+957 
+ 
+(382)
+
+Technology-based
+ 
+8,045 
+ 
+(3,827)  
+11,616 
+ 
+(7,414)
+
+9,074 
+ 
+(4,233)  
+12,801 
+ 
+(7,877)
+
+All intangible assets are subject to amortization and have no assumed residual value.  Amortization begins 
+when the asset is available for use, i.e. when it is in the location and condition necessary for it to be capable of 
+operating in the manner intended by management.
+
+Amortization expenses are in the statement of operations primarily presented under Research and development 
+expenses.
+
+During 2021 there were impairments totaling $83 million (2020: $135 million) which includes charges to 
+Other Intangible Assets primarily due to a $36 million impairment on IPR&D acquired as part of the 2019 
+Marvell acquisition, as well as charges to Product Development Assets. For 2020, this  includes charges to 
+Other Intangible Assets primarily due to a $36 million impairment on IPR&D acquired as part of the 2015 
+Freescale acquisition, as well as charges to Product Development Assets. These charges are typically triggered 
+by our annual fundamental review of our business portfolio and our related new product and technology 
+development opportunities; accordingly triggering changes in the allocation of our research and development 
+resources.
+
+The useful lives of other intangible assets and the internally generated product development assets ranges 
+respectively from 1 to 13 years and 5 to 6 years as of December 31, 2021.
+
+
+#### Group Financial Statements
+
+
+#### [-104]
+
+
+## Page 105
+
+### Table 105.1
+
+| Marketable equity investments at fair value through profit or loss | 18 |  | 19 |
+| --- | --- | --- | --- |
+| Non-marketable equity investments at fair value through profit or loss 19 39 |  |  |  |
+| Long-term deposits | 22 |  | 3 |
+| Other financial assets | 80 15 |  |  |
+| 139 76 |  |  |  |
+
+
+### Table 105.2
+
+| Other financial assets include le | ase rec | eivab | les and insurance reimbursement, see also Note 28 | Contingencies - |
+| --- | --- | --- | --- | --- |
+| litigation. |  |  |  |  |
+
+
+### Table 105.3
+
+| Prepaid expenses and accrued income | 378 |  | 99 |
+| --- | --- | --- | --- |
+| Government grants to collect 60 62 |  |  |  |
+| Non-current income tax receivable | 7 |  | 5 |
+| Other non-current assets | 20 10 |  |  |
+| 465 176 |  |  |  |
+
+
+### Table 105.4
+
+| Raw materials | 107 |  | 66 |
+| --- | --- | --- | --- |
+
+
+
+### Table 105.5
+
+| Finished goods | 236 |  | 226 |
+| --- | --- | --- | --- |
+
+
+
+### Table 105.6
+
+| Balance as of January 1, | 122 |  | 114 |
+| --- | --- | --- | --- |
+
+
+
+### Table 105.7
+
+| Deductions from allowance | (23) |  | (47) |
+| --- | --- | --- | --- |
+
+
+
+
+#### 15. Financial and other non-current assets
+
+
+#### Financial assets
+
+
+#### Financial assets consist of the following :
+
+2021
+2020
+
+Marketable equity investments at fair value through profit or loss
+ 
+18 
+ 
+19
+
+Non-marketable equity investments at fair value through profit or loss
+ 
+19 
+39
+
+Long-term deposits
+ 
+22 
+ 
+3 
+Other financial assets
+ 
+80 
+ 
+15
+
+139 
+ 
+76
+
+Other financial assets include lease receivables and insurance reimbursement, see also Note 28 Contingencies - 
+litigation.
+
+
+#### Other non-current assets
+
+
+#### Other non-current assets consist of the following :
+
+2021
+2020
+
+Prepaid expenses and accrued income
+ 
+378 
+ 
+99
+
+Government grants to collect
+ 
+60 
+62
+
+Non-current income tax receivable
+ 
+7 
+ 
+5 
+Other non-current assets
+ 
+20 
+ 
+10
+
+465 
+ 
+176
+
+The increase in prepaid expenses and accrued income is primarily related to prepayments to secure long-term 
+production supply with multiple vendors.
+
+
+#### 16. Inventories
+
+
+#### Inventories are summarized as follows:
+
+2021
+2020
+
+Raw materials
+ 
+107 
+ 
+66
+
+Work in process
+ 
+846 
+ 
+738
+
+Finished goods
+ 
+236 
+ 
+226
+
+1,189 
+ 
+1,030
+
+The amounts recorded above are net of an allowance for obsolescence of $120 million as of December 31, 2021 
+(2020 : $122 million).
+
+The portion of finished goods stored at customer locations under consignment amounted to $12 million as of 
+December 31, 2021 (2020: $31 million).
+
+
+#### The changes in the allowance for obsolescence inventories are as follows:
+
+2021
+2020
+
+Balance as of January 1,
+ 
+122 
+ 
+114 
+Additions charged to income
+ 
+22 
+ 
+57 
+Deductions from allowance
+ 
+(23)  
+(47) 
+Currency and other movements
+ 
+(1)  
+(2) 
+Balance as of December 31,
+ 
+120 
+ 
+122
+
+
+#### [-105]
+
+
+## Page 106
+
+### Table 106.1
+
+| Prepaid expenses and accrued income | 101 |  | 74 |
+| --- | --- | --- | --- |
+| Government grants to collect 52 50 |  |  |  |
+| Contract assets | 39 |  | 31 |
+| Other current assets | 32 30 |  |  |
+| 224 185 |  |  |  |
+
+
+### Table 106.2
+
+| Accounts receivable from third parties 925 767 |
+| --- |
+| Less: allowance for credit losses (2) (2) |
+| Other receivables 42 52 |
+| 965 817 |
+
+
+### Table 106.3
+
+| Not past due 917 765 |
+| --- |
+| 1-15 days past due 6 — |
+| more than 16 days past due — — |
+| 923 765 |
+
+
+### Table 106.4
+
+| Distributors 171 186 |
+| --- |
+| Original Equipment Manufacturers and Electronic Manufacturing Services 722 533 |
+| Other 30 46 |
+| 923 765 |
+
+
+### Table 106.5
+
+|  | million and $ | 2,275 | million, |
+| --- | --- | --- | --- |
+| respectively, of which $208 million and $185 million was held by SSMC, our consolidated joint venture |  |  |  |
+| company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be |  |  |  |
+| distributed by way of a dividend to us, but 38.8% of the dividend will be paid to our joint venture partner. During |  |  |  |
+| 2021 no dividend (2020 a dividend of $90 million) was paid by SSMC. |  |  |  |
+
+
+
+#### 17. Other current assets
+
+
+#### Other current assets consist of the following :
+
+2021
+2020
+
+Prepaid expenses and accrued income
+ 
+101 
+ 
+74
+
+Government grants to collect
+ 
+52 
+50
+
+Contract assets
+ 
+39 
+ 
+31 
+Other current assets
+ 
+32 
+ 
+30
+
+224 
+ 
+185
+
+Comparatives for government grants to collect and prepaid expenses and accrued income have been reclassified 
+to conform with the current year presentation.
+
+
+#### 18. Trade and other receivables
+
+
+#### Receivables can be summarized as follows:
+
+2021
+2020
+Accounts receivable from third parties
+ 
+925 
+ 
+767
+
+Less: allowance for credit losses
+ 
+(2)  
+(2)
+
+Other receivables
+ 
+42 
+ 
+52
+
+965 
+ 
+817
+
+The aging of accounts receivable from third parties that were not impaired at the reporting date was as follows:
+
+2021
+2020
+
+Not past due
+ 
+917 
+ 
+765
+
+1-15 days past due
+ 
+6 
+ 
+—
+
+more than 16 days past due
+ 
+— 
+ 
+—
+
+923 
+ 
+765
+
+The following table presents accounts receivable, disaggregated by sales channel:
+
+2021
+2020
+
+Distributors
+ 
+171 
+ 
+186
+
+Original Equipment Manufacturers and Electronic Manufacturing Services
+ 
+722  
+533
+
+Other
+ 
+30 
+ 
+46
+
+923 
+ 
+765
+
+
+#### 19. Cash and cash equivalents
+
+At December 31, 2021 and December 31, 2020, our cash balance was $2,830 million and $2,275 million, 
+respectively, of which $208 million and $185 million was held by SSMC, our consolidated joint venture 
+company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be 
+distributed by way of a dividend to us, but 38.8% of the dividend will be paid to our joint venture partner. During 
+2021 no dividend (2020 a dividend of $90 million) was paid by SSMC.
+
+
+#### Group Financial Statements
+
+
+#### [-106]
+
+
+## Page 113
+
+### Table 113.1
+
+| Balance as of January 1, 126 145 |
+| --- |
+| Changes: |
+| Additions 47 19 |
+| Utilizations (8) (32) |
+| Releases (11) (6) |
+| Balance as of December 31, 154 126 |
+
+
+### Table 113.2
+
+| 1. Unfunded defined benefit pension plans (282) (8) (299) (10) |
+| --- |
+| 2. Unfunded other post-employment benefits (3) (1) (5) (1) |
+| 3. Accrued pension costs-underfunded plans (217) (1) (255) (2) |
+| Post-employment benefits - liabilities : (502) (10) (559) (13) |
+
+
+
+#### The changes in environmental and other provisions are as follows:
+
+2021
+2020
+
+Balance as of January 1,
+ 
+126 
+ 
+145
+
+
+#### Changes:
+
+Additions
+ 
+47 
+ 
+19
+
+Utilizations
+ 
+(8)  
+(32)
+
+Releases
+ 
+(11)  
+(6)
+
+Balance as of December 31,
+ 
+154 
+ 
+126
+
+
+#### 23. Post-employment benefits
+
+Amounts recognized in the balance sheet with regard to post-employment benefits can be summarized as 
+follows:
+
+2021
+2020
+
+Long-term
+Short-term
+Long-term
+Short-term
+
+1. Unfunded defined benefit pension plans
+ 
+(282)  
+(8)  
+(299)  
+(10)
+
+2. Unfunded other post-employment benefits
+ 
+(3)  
+(1)  
+(5)  
+(1)
+
+3. Accrued pension costs-underfunded plans
+ 
+(217)  
+(1)  
+(255)  
+(2)
+
+Post-employment benefits - liabilities :
+ 
+(502)  
+(10)  
+(559)  
+(13)
+
+The sum of items 1 and 3 represents our net defined benefit pension liability of $508 million at December 31, 
+2021 (2020: $566 million) for which a reconciliation from the opening balance to the closing balance is provided 
+below.
+
+
+#### Pensions
+
+Our employees participate in employee pension plans in accordance with legal requirements, customs and the 
+related matters in the respective countries. These are defined-benefit pension plans, defined-contribution plans 
+and multi-employer plans.
+
+The Company’s employees in The Netherlands participate in a multi-employer plan, implemented for the 
+employees of the Metal and Electrical Engineering Industry ("Bedrijfstakpensioenfonds Metalektro" or "PME") 
+in accordance with the mandatory affiliation to PME effective for the industry in which NXP operates. As this 
+affiliation is a legal requirement for the Metal and Electrical Engineering Industry it has no expiration date. This 
+PME multi-employer plan (a career average plan) covers 1,430 companies and 627,000 participants. The plan 
+monitors its risk on an aggregate basis, not by company or participant and can therefore not be accounted for as a 
+defined benefit plan. The pension fund rules state that the only obligation for affiliated companies will be to pay 
+the annual plan contributions. There is no obligation for affiliated companies to fund plan deficits. Affiliated 
+companies are also not entitled to any possible surpluses in the pension fund.
+
+Every participating company contributes the same fixed percentage of its total pension base, being pensionable 
+salary minus an individual offset. The Company’s pension cost for any period is the amount of contributions due 
+for that period.
+
+
+#### [-113]
+
+
+## Page 114
+
+### Table 114.1
+
+| NXP’s contributions to the plan | 37 |  | 33 |
+| --- | --- | --- | --- |
+
+
+
+### Table 114.2
+
+| Average number of NXP’s active employees participating in the plan | 2,075 |  | 2,048 |
+| --- | --- | --- | --- |
+
+
+
+### Table 114.3
+
+| Defined benefit plans 21 21 |
+| --- |
+| Defined contribution plans excluding multi-employer plans 54 47 |
+| Multi-employer plans 32 29 |
+| 107 97 |
+
+
+The contribution rate for the mandatory scheme will increase from 27.59% (2021) to 27.98% (2022).
+
+PME multi-employer plan
+2021
+2020
+
+NXP’s contributions to the plan
+ 
+37 
+ 
+33
+
+(including employees’ contributions)
+ 
+5 
+ 
+4
+
+Average number of NXP’s active employees participating in the plan
+ 
+2,075 
+ 
+2,048
+
+NXP’s contribution to the plan exceeded more than 5 percent of the total contribution 
+(as of December 31 of the plan’s year-end)
+No
+No
+
+The amounts included in the statement of operations for all post-employment pension plans are as follows:
+
+2021
+2020
+
+Defined benefit plans
+ 
+21 
+ 
+21
+
+Defined contribution plans excluding multi-employer plans
+ 
+54 
+ 
+47
+
+Multi-employer plans
+ 
+32 
+ 
+29
+
+107 
+ 
+97
+
+
+#### Defined-benefit plans
+
+The benefits provided by defined-benefit plans are based on employees’ years of service and compensation 
+levels. Contributions are made by the Company, as necessary, to provide assets sufficient to meet the benefits 
+payable to defined-benefit pension plan participants.
+
+These contributions are determined based upon various factors, including funded status, legal and tax 
+considerations as well as local customs. The Company funds certain defined-benefit pension plans as claims are 
+incurred.
+
+
+#### Group Financial Statements
+
+
+#### [-114]
+
+
+## Page 115
+
+### Table 115.1
+
+| Balance at January 1, (790) (665) 224 203 (566) (462) |
+| --- |
+| Included in profit or loss |
+| Current service cost (17) (17) — — (17) (17) |
+| Past service and settlement effects — — — — — — |
+| Interest (cost) income (6) (7) 2 3 (4) (4) |
+| (23) (24) 2 3 (21) (21) |
+| Included in OCI |
+| Remeasurement (loss) gain: |
+| – Actuarial (loss) gain arising from: |
+| - demographic assumptions (17) (5) — — (17) (5) |
+| - financial assumptions 27 (54) — — 27 (54) |
+| - experience adjustment (7) (6) — — (7) (6) |
+| - Return on plan assets excl. — — 17 1 17 1 interest income |
+| Effect of movements in exchange 58 (58) (18) 17 40 (41) rates |
+| 61 (123) (1) 18 60 (105) |
+| Other |
+| Contributions paid by the — — 18 22 18 22 Company |
+| Benefits paid 22 22 (21) (22) 1 — |
+| 22 22 (3) — 19 22 |
+| Balance at December 31, (730) (790) 222 224 (508) (566) |
+
+
+### Table 115.2
+
+| Cost of revenue 4 4 |
+| --- |
+| Selling, general and administrative expenses 8 9 |
+| Research and development expenses 9 8 |
+| Net periodic pension cost 21 21 |
+
+
+### Table 115.3
+
+| Discount rate 1.2 % 0.8 % |
+| --- |
+| Expected rate of salary increase 2.2 % 1.6 % |
+
+
+The following table shows a reconciliation from the opening balance to the closing balance of our net defined 
+benefit pension liability and its components.
+
+Defined benefit obligation
+Fair value of plan assets
+Net defined benefit liability
+
+2021
+2020
+2021
+2020
+2021
+2020
+
+Balance at January 1,
+ 
+(790)  
+(665)  
+224 
+ 
+203 
+ 
+(566)  
+(462)
+
+
+#### Included in profit or loss
+
+Current service cost
+ 
+(17)  
+(17)  
+— 
+ 
+— 
+ 
+(17)  
+(17)
+
+Past service and settlement effects
+ 
+— 
+ 
+— 
+ 
+— 
+ 
+— 
+ 
+— 
+ 
+—
+
+Interest (cost) income
+ 
+(6)  
+(7)  
+2 
+ 
+3 
+ 
+(4)  
+(4)
+
+(23)  
+(24)  
+2 
+ 
+3 
+ 
+(21)  
+(21)
+
+
+#### Included in OCI
+
+
+#### Remeasurement (loss) gain:
+
+
+#### – Actuarial (loss) gain arising
+
+
+#### from:
+
+- demographic assumptions
+ 
+(17)  
+(5)  
+— 
+ 
+— 
+ 
+(17)  
+(5)
+
+- financial assumptions
+ 
+27 
+ 
+(54)  
+— 
+ 
+— 
+ 
+27 
+ 
+(54)
+
+- experience adjustment
+ 
+(7)  
+(6)  
+— 
+ 
+— 
+ 
+(7)  
+(6)
+
+- Return on plan assets excl. 
+interest income
+ 
+— 
+ 
+— 
+ 
+17 
+ 
+1 
+ 
+17 
+ 
+1
+
+Effect of movements in exchange 
+rates
+ 
+58 
+ 
+(58)  
+(18)  
+17 
+ 
+40 
+ 
+(41)
+
+61 
+ 
+(123)  
+(1)  
+18 
+ 
+60 
+ 
+(105)
+
+
+#### Other
+
+Contributions paid by the 
+Company
+ 
+— 
+ 
+— 
+ 
+18 
+ 
+22 
+ 
+18 
+ 
+22
+
+Benefits paid
+ 
+22 
+ 
+22 
+ 
+(21)  
+(22)  
+1 
+ 
+—
+
+22 
+ 
+22 
+ 
+(3)  
+— 
+ 
+19 
+ 
+22
+
+Balance at December 31,
+ 
+(730)  
+(790)  
+222 
+ 
+224 
+ 
+(508)  
+(566)
+
+The expense of post-employment pension plans is recognized in the following line items of the consolidated 
+statement of operations:
+
+2021
+2020
+
+Cost of revenue
+ 
+4 
+ 
+4 
+Selling, general and administrative expenses
+ 
+8 
+ 
+9 
+Research and development expenses
+ 
+9 
+ 
+8 
+Net periodic pension cost
+ 
+21 
+ 
+21
+
+The weighted average assumptions used to calculate the projected benefit obligations as of December 31,were as 
+follows:
+
+2021
+2020
+
+Discount rate
+ 1.2 %
+ 0.8 %
+
+Expected rate of salary increase
+ 2.2 %
+ 1.6 %
+
+At December 31, 2021 the weighted-average duration of the defined benefit obligation was 16 years (2020: 16 
+years).
+
+
+#### [-115]
+
+
+## Page 116
+
+### Table 116.1
+
+| 2022 22 |
+| --- |
+| 2023 23 |
+| 2024 25 |
+| 2025 25 |
+| 2026 28 |
+| Years 2027-2031 162 |
+
+
+### Table 116.2
+
+| Equity securities 75 76 |
+| --- |
+| Debt securities 79 88 |
+| Insurance contracts 15 15 |
+| Other 53 45 |
+| 222 224 |
+
+
+For the Company’s major plans, the discount rate used is based on high quality corporate bonds 
+(iBoxx Corporate Euro AA 10+).
+
+The mortality tables used in the actuarial valuations of the Company’s most significant plans are:
+
+–
+Germany: Richttafelen 2018 G by K. Heubeck;
+
+–
+Taiwan: Taiwan Standard Ordinary Mortality Table of 2021;
+
+–
+Thailand: Thailand TMO 17 table; and
+
+–
+Japan: Japan MHLW 2020 table.
+
+A sensitivity analysis shows that if the discount rate increases by 1% from the level of December 31, 2021, with 
+all other variables held constant, the defined benefit obligation would decrease by $111 million. If the discount 
+rate decreases by 1% from the level of December 31, 2021, with all other variables held constant, the defined 
+benefit obligation would increase by $123 million.
+
+A sensitivity analysis shows that if the assumption of salary increases by 1% from the level of December 31, 
+2021, with all other variables held constant, the defined benefit obligation would increase by $15 million. If the 
+assumption of salary increase decreases by 1% from the level of December 31, 2021, with all other variables 
+held constant, the defined benefit obligation would decrease by $17 million.
+
+Calculations show that in case the assumed rates of mortality decrease with 10% (equivalent to improvement of 
+life expectancy by about 1 year) from the level of December 31, 2021, with all other variables held constant, the 
+defined benefit obligation for our German plans would increase with $17 million.
+
+
+#### Estimated future pension benefit payments
+
+The following benefit payments are expected to be made (including those for funded plans):
+
+2022
+ 
+22 
+2023
+ 
+23 
+2024
+ 
+25 
+2025
+ 
+25 
+2026
+ 
+28 
+Years 2027-2031
+ 
+162
+
+
+#### Plan assets
+
+The actual post-employment plan asset allocation at December 31, 2021 and 2020 is as follows:
+
+2021
+2020
+
+
+#### Asset Category:
+
+Equity securities
+ 
+75  
+76
+
+Debt securities
+ 
+79  
+88
+
+Insurance contracts
+ 
+15  
+15
+
+Other
+ 
+53  
+45
+
+222  
+224
+
+We met our target plan asset allocation. The investment objectives for the pension plan assets are designed to 
+generate returns that, along with the future contributions, will enable the pension plans to meet their future 
+obligations. The investments in our major defined benefit plans largely consist of government bonds, “Level 2” 
+Corporate Bonds and cash to mitigate the risk of interest fluctuations. The asset mix of equity, bonds, cash and 
+other categories is evaluated by an asset-liability modeling study for our largest plan. The assets of funded plans 
+in other countries mostly have a large proportion of fixed income securities with return characteristics that are 
+aligned with changes in the liabilities caused by discount rate volatility. Total pension plan assets of $222 million 
+include $193 million related to the German and Japanese pension funds.
+
+
+#### Group Financial Statements
+
+
+#### [-116]
+
+
+## Page 117
+
+### Table 117.1
+
+| Equity securities | — |  | 71 |  | — |  | — |  | 71 |  | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 117.2
+
+| Insurance contracts | — |  | 15 |  | — |  | — |  | 15 |  | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 117.3
+
+|  | 6 |  | 163 |  | 22 |  | 8 |  | 169 |  | 18 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 117.4
+
+| Asset retirement obligations 5 5 |
+| --- |
+| Income tax 34 31 |
+| Lease liabilities 203 200 |
+| Others* 112 65 |
+| 355 301 |
+
+
+### Table 117.5
+
+| Other current liabilities 58 63 |
+| --- |
+| Other non-current liabilities 203 200 |
+| Total : 261 263 |
+
+
+### Table 117.6
+
+| 2022 63 |
+| --- |
+| 2023 56 |
+| 2024 43 |
+| 2025 33 |
+| 2026 30 |
+| Thereafter 60 |
+| Total future lease payments 285 |
+| Less imputed interest (24) |
+| Total lease liabilities 261 |
+
+
+The following table summarizes the classification of these assets.
+
+2021
+2020
+
+Level I
+Level II
+Level III
+Level I
+Level II
+Level III
+
+Equity securities
+ 
+— 
+ 
+71 
+ 
+— 
+ 
+— 
+ 
+71 
+ 
+—
+
+Debt securities
+ 
+6 
+ 
+53 
+ 
+— 
+ 
+8 
+ 
+62 
+ 
+—
+
+Insurance contracts
+ 
+— 
+ 
+15 
+ 
+— 
+ 
+— 
+ 
+15 
+ 
+—
+
+Other
+ 
+— 
+ 
+24 
+ 
+22 
+ 
+— 
+ 
+21 
+ 
+18
+
+6 
+ 
+163 
+ 
+22 
+ 
+8 
+ 
+169 
+ 
+18
+
+
+#### Cash flow 2022
+
+The Company currently expects to make $12 million of employer contributions to defined-benefit pension plans 
+and $10 million of expected cash payments in relation to unfunded pension plans in 2022.
+
+
+#### 24. Other non-current liabilities
+
+
+#### Other non-current liabilities are summarized as follows:
+
+2021
+2020
+
+Asset retirement obligations
+ 
+5 
+ 
+5 
+Income tax
+ 
+34 
+ 
+31 
+Lease liabilities
+ 
+203 
+ 
+200 
+Others*
+ 
+112 
+ 
+65 
+ 
+355 
+ 
+301
+
+
+#### * Mainly consists of non-current accrued expenses and licenses payable
+
+In determining the amounts of current income tax positions the Company takes into account the impact of 
+uncertain tax positions (both current and non-current) and whether additional taxes and interest may be due.        
+- see also Note 8 Income taxes.
+
+
+#### Lease liabilities are split between current and non-current as follows:
+
+
+#### December 31,
+
+2021
+2020
+
+Other current liabilities 
+ 
+58  
+63
+
+Other non-current liabilities
+ 
+203  
+200 
+Total :  
+261  
+263
+
+The maturity profile of our lease liabilities as of December 31, 2021  is as follows:
+
+
+#### Leases
+
+2022
+ 
+63
+
+2023
+ 
 56
-Executive vice president and general counsel
 
-There are no family relationships among our executive officers or between any executive officer and any of our 
-directors.
+2024
+ 
+43
+
+2025
+ 
+33
+
+2026
+ 
+30
+
+Thereafter
+ 
+60
+
+Total future lease payments 
+ 
+285
+
+Less imputed interest 
+ 
+(24)
+
+Total lease liabilities
+ 
+261
+
+
+#### [-117]
+
+
+## Page 135
+
+### Table 135.1
+
+| Assets: |
+| --- |
+| Money market funds 1 2,111 1,469 |
+| Marketable equity securities 1 18 19 |
+| Derivative instruments-assets 2 5 18 |
+| Liabilities: |
+| Derivative instruments-liabilities 2 (3) — |
+
+
+### Table 135.2
+
+| Financial instruments not recorded at fair value on a recurring basis include equity method investments that have |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| not been remeasured or impaired in the current period and debt. As of December 31, |  | 2021 | , the estimated fair |  |  |
+| value of debt, including the current portion, was $11.3 billion ($8.6 billion as of December 31, |  |  |  | 2020 | ). The fair |
+| value is estimated on the basis of broker-dealer quotes, which are Level 2 inputs. Accrued interest is included |  |  |  |  |  |
+| under accrued liabilities and not within the carrying amount or estimated fair value of d | ebt. |  |  |  |  |
+
+
+
+#### 32. Fair value of financial instruments
+
+The following table summarizes the estimated fair value of our financial instruments which are measured at fair 
+value on a recurring basis:
+
+
+#### Estimated fair value
+
+
+#### Fair value
+
+
+#### hierarchy
+
+
+#### December 31,
+
+
+#### 2021
+
+
+#### December 31,
+
+
+#### 2020
+
+
+#### Assets:
+
+Money market funds
+ 
+1 
+ 
+2,111 
+ 
+1,469
+
+Marketable equity securities
+ 
+1 
+ 
+18 
+ 
+19
+
+Derivative instruments-assets
+ 
+2 
+ 
+5 
+ 
+18
+
+
+#### Liabilities:
+
+Derivative instruments-liabilities
+ 
+2 
+ 
+(3) 
+ 
+—
+
+The following methods and assumptions were used to estimate the fair value of financial instruments:
+
+
+#### Assets and liabilities measured at fair value on a recurring basis
+
+Investments in money market funds (as part of our cash and cash equivalents) and marketable equity securities 
+(as part of financial assets) have fair value measurements which are all based on quoted prices in active markets 
+for identical assets or liabilities. For non-marketable equity securities, the fair value is estimated based on recent 
+transactions, net asset value information or in the absence of reliable observable information, at cost. For 
+derivatives (as part of other current assets or accrued liabilities) the fair value is based upon significant other 
+observable inputs depending on the nature of the derivative.
+
+
+#### Assets and liabilities recorded at fair value on a non-recurring basis
+
+We measure and record our equity method investments and non-financial assets, such as intangible assets and 
+property, plant and equipment, at fair value when an impairment charge is required.
+
+
+#### Assets and liabilities not recorded at fair value on a recurring basis
+
+Financial instruments not recorded at fair value on a recurring basis include equity method investments that have 
+not been remeasured or impaired in the current period and debt. As of December 31, 2021, the estimated fair 
+value of debt, including the current portion, was $11.3 billion ($8.6 billion as of December 31, 2020). The fair 
+value is estimated on the basis of  broker-dealer quotes, which are Level 2 inputs. Accrued interest is included 
+under accrued liabilities and not within the carrying amount or estimated fair value of debt.
+
+
+#### 33. Financial risk management and concentration of risk
+
+We conduct business in diverse markets around the world and employ a variety of risk management strategies 
+and techniques to manage foreign currency exchange rate and interest rate risks. Our risk management program 
+focuses on the unpredictability of financial markets and seeks to minimize the potentially adverse effects that the 
+volatility of these markets may have on our operating results. One way we achieve this is through the active 
+hedging of risks through the selective use of derivative instruments.
+
+Derivatives are recorded on our consolidated balance sheet at fair value which fluctuates based on changing 
+market conditions.
+
+The Company does not purchase or hold financial derivative instruments for trading purposes.
+
+The aim of the capital management strategy of NXP is to secure the Company's continued business operations, to 
+enhance its enterprise value and to create solid capital resources for financing its profitable growth. When 
+analyzing NXP’s capital structure the Company uses the same debt/equity classifications as applied in the IFRS 
+reporting.
+
+
+#### [-135]
+
+
+## Page 136
+
+
+#### In managing capital we seek to:
 
 •
-Bill Betz (1977, American). Mr. Betz is executive vice president, chief financial officer and a member 
-of the management team. In this role, he is responsible for all aspects of the company’s financial and 
-accounting functions including treasury, investor relations, audit, tax and mergers and acquisitions. Mr. 
-Betz has more than 20 years of finance experience in the semiconductor industry with a strong track
-
-
-#### Report of the Directors Governance
-
-
-#### [-28]
-
-
-## Page 29
-
-record focused on results. Prior to joining NXP in 2013 he has held several financial leadership 
-positions with Fairchild Semiconductors, LSI Logic and Agere Systems. Prior to being named CFO, 
-Mr. Betz was senior vice president, business planning & analytics and finance business group controller 
-for NXP’s business lines and shared service centers, and led the corporate financial planning, analysis 
-and business intelligence teams. Mr. Betz holds a Master of Business Administration from the 
-University of Chicago Booth School of Business and a Bachelor of Science in Business Administration 
-from West Virginia University.
-•
-Christopher Jensen (1969, American). Mr. Jensen is executive vice president, chief human resources 
-officer and a member of the management team. In this role, he is responsible for all aspects of the 
-Company’s global human resources function, the Company's people strategy and fostering an inclusive 
-culture to achieve NXP's business objectives. Mr. Jensen has been with NXP since the merger with 
-Freescale in 2015 and was integral to  the cultural integration of the two companies. He has extensive 
-experience in leading the various functions across human resources, with strength in change 
-management, compensation and benefits design, and mergers and acquisitions. Prior to Freescale, Mr. 
-Jensen held executive human resources positions at Applied Materials and Tandem Computers. Mr. 
-Jensen also serves as an adjunct professor at Baylor University, teaching in their Executive MBA 
-Program. 
-•
-Andy Micallef (1965, American). Mr. Micallef is executive vice president of Global Operations at 
-NXP and a member of the management team. He joined NXP in May 2021 and is responsible for 
-creating and executing NXP’s end-to-end manufacturing, quality and supply chain strategies. Mr. 
-Micallef has more than 20 years of semiconductor industry experience, including senior operational 
-roles overseeing manufacturing, procurement, supply chain management, logistics, quality, product and 
-test engineering, information technology and facilities. Prior to NXP, Mr. Micallef was chief operations 
-officer for Marvell. Prior to that, he held operations leadership roles at Intersil Corporation, Audience, 
-LSI Corporation and Agere Systems.
-•
-Stephen Owen (1960, Dutch). Mr. Owen is executive vice president, global sales & marketing and 
-member of the management team. He has extensive experience in developing business internationally 
-and served in various marketing and sales leadership positions at NXP and Philips since 1998.  
-•
-Jennifer Wuamett (1965, American). Ms. Wuamett is executive vice president, general counsel, 
-secretary of our board of directors and member of the management team, and has served in this role 
-since September 2018. She is also responsible for oversight of NXP's ESG and risk programs. 
-Previously, Ms. Wuamett served as senior vice president and deputy general counsel at NXP. Prior to 
-that, she was Freescale’s senior vice president, general counsel and secretary and served in various other 
-positions at Freescale and Motorola beginning in 1997.
-
-
-#### Corporate Governance
-
-
-#### Introduction
-
-We are the parent company of the NXP group. Our only material asset is our direct ownership of 100% of the 
-share capital of NXP B.V., a Dutch private company with limited liability (besloten vennootschap met beperkte 
-aansprakelijkheid).
-
-We were incorporated in the Netherlands as a Dutch private company with limited liability (besloten 
-vennootschap met beperkte aansprakelijkheid) under the name KASLION Acquisition B.V. on August 2, 2006. 
-On May 21, 2010, we converted into a Dutch public company with limited liability (naamloze vennootschap) 
-and changed our name to NXP Semiconductors N.V. In August 2010, we listed our common shares on the 
-Nasdaq Global Select Market (“Nasdaq”).
-
-We are subject to various corporate governance requirements and best practice codes, the most relevant being 
-those in the Netherlands and the United States. The current Dutch Corporate Governance Code (the “DCGC”), 
-dated December 8, 2016, replaced the former 2008 code and applies to all Dutch companies listed on a 
-government-recognized stock exchange, whether in the Netherlands or elsewhere. The code is based on a 
-“comply or explain” principle. Accordingly, companies are required to disclose in their annual reports filed in 
-the Netherlands whether or not they are complying with the various rules of the Dutch corporate governance 
-code and if they do not comply with those provisions, to give the reasons therefore. The code contains principles 
-and best practice provisions for managing boards, supervisory boards (which also apply to the non-executive
-
-
-#### [-29]
-
-
-## Page 30
-
-members of one-tier boards), shareholders and general meetings of shareholders, financial reporting, auditors, 
-disclosure, compliance and enforcement standards.
-
-Our long-term strategy is to maximize value for our shareholders and other stakeholders  and create a strong cash 
-flow generation by driving relative market share leadership with profitable growth at 1.5 times the market and 
-exceeding customer expectations. We are committed to innovating for a better tomorrow for our customers, 
-employees, communities, and society as a whole. Our purpose and goal is to provide Secure Connections for a 
-Smarter World, a mission inspired by our customer-focused passion to win. In order to do so, we place five key 
-elements high on our culture agenda: (i) raising the bar, (ii) engaging curiosity, (iii) taking initiative, (iv) 
-working together and (v) developing deep core competence. These values define uniquely who we are, and what 
-we aspire to, as an organization. They are the guiding principles that we believe will help us and our employees 
-succeed. They inform the decisions we make and the actions we take - individually and collectively - every day 
-in order to drive market success. The Board strives for a culture focused on long-term value creation and 
-believes that these values enable us to reach that goal.
-
-We conduct our operations in accordance with internationally accepted principles of good governance and best 
-practice, while ensuring compliance with the corporate governance requirements applicable in the countries in 
-which we operate:
+maintain sufficient financial strength to support our business growth as well as satisfy the 
+requirements of our regulators and other stakeholders, giving both our customers and shareholders 
+assurance of our financial stability;
 
 •
-We have a transparent corporate structure, with approval rights of our general meeting of shareholders 
-for any significant change in the identity or nature of our Company or business;
+optimize our overall debt to equity structure to enhance our returns to shareholders, subject to our 
+capital risk appetite and balancing the requirements of the range of stakeholders;
+
 •
-Each share of our common stock confers the right to cast one vote at the general meeting of 
-shareholders;
+retain financial flexibility by maintaining strong liquidity and access to a range of capital markets.
+
+
+#### Market risk
+
+We are exposed to changes in interest rates and foreign currency exchange rates because we finance certain 
+operations through fixed and variable rate debt instruments and denominate our transactions in a variety of 
+foreign currencies. Changes in these rates may have an impact on future cash flow and earnings. We manage 
+these risks through normal operating and financing activities and, when deemed appropriate, through the use of 
+derivative financial instruments. We do not enter into financial instruments for trading or speculative purposes.
+
+By using derivative instruments, we are subject to credit and market risk. The fair market value of the derivative 
+instruments is determined by using valuation models whose inputs are derived using market observable inputs, 
+including interest rate yield curves, as well as foreign exchange and commodity spot and forward rates, and 
+reflects the asset or liability position as of the end of each reporting period. When the fair value of a derivative 
+contract is positive, the counterparty owes us, thus creating a receivable risk for us. We are exposed to 
+counterparty credit risk in the event of non-performance by counterparties to our derivative agreements. We 
+minimize counterparty credit (or repayment) risk by entering into transactions with major financial institutions of 
+investment grade credit rating. Our exposure to market risk is not hedged in a manner that completely eliminates 
+the effects of changing market conditions on earnings or cash flow.
+
+
+#### Interest rate risk
+
+Our RCF Agreement has a $1,500 million borrowing capacity with a floating rate interest. As there are currently 
+no borrowings under this facility, a hypothetical increase in LIBOR based interest rates would not have caused 
+any change to our interest expense on our floating rate debt. Additional information regarding our notes is 
+provided in Note 21 - Long-term debt.
+
+
+#### Currency risk
+
+The Company’s transactions are denominated in a variety of currencies. The Company uses financial instruments 
+to reduce its exposure to the effects of currency fluctuations. Accordingly, the Company’s organizations identify 
+and measure their exposures from transactions denominated in other than their own functional currency. We 
+calculate our net exposure on a cash flow basis considering balance sheet items, actual orders received or made 
+and anticipated revenue and expenses. The Company generally hedges foreign currency exposures in relation to 
+transaction exposures, such as receivables/payables resulting from such transactions and part of anticipated sales 
+and purchases. The Company generally uses forwards to hedge these exposures. As of January 1, 2016, as a 
+result of the acquisition of Freescale, NXP has concluded that the functional currency of the Company is USD. 
+Beginning from January 1, 2016, our U.S. dollar-denominated notes and short term loans will no longer need to 
+be re-measured. Prior to January 1, 2016, the U.S. dollar-denominated debt held by our Dutch subsidiary (which 
+had at that time a euro functional currency) could have generated adverse currency results in financial income 
+and expenses depending on the exchange rate movement between the euro and the U.S. dollar. The U.S. dollar 
+exposure of the net investment in U.S. dollar functional currency subsidiaries was hedged by certain of our U.S. 
+dollar denominated debt. The hedging relationship was assumed to be highly effective. Foreign currency gains or 
+losses on this U.S. dollar debt that were recorded in a euro functional currency entity that were designated as, 
+and to the extent they were effective, as a hedge of the net investment in our U.S. dollar foreign entities, were 
+reported as a translation adjustment in other comprehensive income within equity, and offset in whole or in part 
+the foreign currency changes to the net investment that were also reported in other comprehensive income. 
+Absent the application of net investment hedging, these amounts would have been recorded as a loss within 
+financial income (expense) in the statement of operations.
+
+
+#### Group Financial Statements
+
+
+#### [-136]
+
+
+## Page 137
+
+### Table 137.1
+
+| Q1 2021 1.2280 - 1.1740 (4) % 1 (42) |
+| --- |
+| Q2 2021 1.1740 - 1.1854 1 % (1) 9 |
+| Q3 2021 1.1854 - 1.1598 (2) % — (23) |
+| Q4 2021 1.1598 - 1.1325 (2) % 6 (18) |
+
+
+### Table 137.2
+
+| Euro 528 532 |
+| --- |
+| Chinese renminbi 242 150 |
+| Great British pound 40 34 |
+| Japanese yen 41 21 |
+| Malaysian ringgit 122 122 |
+| Singapore dollar 76 65 |
+| Swiss franc 30 29 |
+| Taiwan dollar 213 159 |
+| Thai baht 112 104 |
+| Other 54 48 |
+
+
+In the below table we have summarized how the quarterly change in the EUR/USD exchange rate during 2021 
+impacted the foreign exchange result in the statement of operations as well as the currency translation reserve in 
+equity:
+
+Volatility ($ in millions)
+statement of
+
+
+#### operations
+
+
+#### Statement of changes in
+
+
+#### equity
+
+
+#### EUR/USD opening-
+
+
+#### closing rate
+
+
+#### change
+
+
+#### in %
+
+
+#### foreign exchange gain/
+
+
+#### (loss)
+
+
+#### currency translation
+
+
+#### gain/(loss)
+
+Q1 2021
+1.2280 - 1.1740
+ (4) %  
+1 
+ 
+(42) 
+Q2 2021
+1.1740 - 1.1854
+ 1 %  
+(1)  
+9 
+Q3 2021
+1.1854 - 1.1598
+ (2) %  
+— 
+ 
+(23) 
+Q4 2021
+1.1598 - 1.1325
+ (2) %  
+6 
+ 
+(18)
+
+The impact of currency hedging on financial income is disclosed in Note 7 Financial income (expense).
+
+The gross notional amounts of the Company’s foreign currency derivatives by currency for the years ended 
+December 31, 2021 and December 31, 2020 were as follows:
+
+2021
+2020
+Euro
+ 
+528 
+ 
+532
+
+Chinese renminbi
+ 
+242 
+ 
+150
+
+Great British pound
+ 
+40 
+ 
+34
+
+Japanese yen
+ 
+41 
+ 
+21
+
+Malaysian ringgit
+ 
+122 
+ 
+122
+
+Singapore dollar
+ 
+76 
+ 
+65
+
+Swiss franc
+ 
+30 
+ 
+29
+
+Taiwan dollar
+ 
+213 
+ 
+159
+
+Thai baht
+ 
+112 
+ 
+104
+
+Other
+ 
+54 
+ 
+48
+
+See also Note 7 Financial income (expense) as well as Note 32 Fair value of financial instruments for the effect 
+that hedge accounting has had on our statement of operations and balance sheet.
+
+
+#### Liquidity risk
+
+At December 31, 2021, our cash balance was $2,830 million, of which $208 million million was held by SSMC, 
+our consolidated joint venture company with TSMC. Under the terms of our joint venture agreement with 
+TSMC, a portion of this cash can be distributed by way of a dividend to us, but 38.8% of the dividend will be 
+paid to our joint venture partner. During 2021, no dividend (2020: $90 million dividend) was paid by SSMC.
+ 
+From time to time, we engage in discussions with third parties regarding potential acquisitions of, or investments 
+in, businesses, technologies and product lines. Any such transaction could require significant use of our cash and 
+cash equivalents, or require us to arrange for new debt and equity financing to fund the transaction. Our ability to 
+make scheduled payments or to refinance our debt obligations depends on our financial and operating 
+performance, which is subject to prevailing economic and competitive conditions. In the future, we may not be 
+able to maintain a level of cash flows from operating activities sufficient to permit us to pay principal, premium, 
+if any, and interest on our indebtedness. Our business may not generate sufficient cash flow from operations, or 
+we may not have enough capacity under the RCF Agreement, or from other sources in an amount sufficient to 
+enable us to repay our indebtedness, including the RCF Agreement, the unsecured notes or to fund our other 
+liquidity needs, including working capital and capital expenditure requirements. In any such case, we may be 
+forced to reduce or delay capital expenditures, sell assets or operations, seek additional capital or restructure or 
+refinance our indebtedness.
+
+
+#### [-137]
+
+
+## Page 138
+
+### Table 138.1
+
+| We sell our products to OEMs and to distributors in various markets, who resell these products to OEMs or to |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| their subcontract manufacturers. One of our distributors accounted for |  |  |  | 18% | of our revenue in |  |  |  |  | 2021 | and | 17% | in |
+| 2020 | .No other distributor accounted for greater than | 10% | of our revenue for |  | 2021 | or | 2020 | . |  |  |  |  |  |
+
+
+
+#### Concentration of risk
+
+Financial instruments, including derivative financial instruments, that may potentially subject NXP to 
+concentrations of credit risk, consist principally of cash and cash equivalents, short-term investments, long-term 
+investments, accounts receivable and forward contracts.
+
+We sell our products to OEMs and to distributors in various markets, who resell these products to OEMs or to 
+their subcontract manufacturers. One of our distributors accounted for 18% of our revenue in 2021 and 17% in 
+2020.No other distributor accounted for greater than 10% of our revenue for 2021 or 2020.
+
+Credit exposure related to NXP’s foreign currency forward contracts is limited to the realized and unrealized 
+gains on these contracts.
+
+The Company uses outside suppliers or foundries for a portion of its manufacturing capacity.
+
+We have operations in Europe and Asia subject to collective bargaining agreements which could pose a risk to 
+the Company but we do not expect that our operations will be disrupted if such is the case.
+
+The Company’s risk factors are summarized in the Report of the Directors under the Governance chapter.
+
+
+#### 34. Subsequent events
+
+The Company performed a review of events subsequent to the balance sheet date through the date the financial 
+statements were authorized for issue by the board of directors and determined that there were no such events 
+requiring recognition or disclosure in the financial statements.
+
+
+#### Group Financial Statements
+
+
+#### [-138]
+
+
+## Page 139
+
+### Table 139.1
+
+| Assets |
+| --- |
+| 2 Equity -accounted investees 8,575 10,540 |
+| Non-current assets 8,575 10,540 |
+| 3 Loan receivable from subsidiary 679 748 |
+| Current assets 679 748 |
+| Total assets 9,254 11,288 |
+| Liabilities and shareholders’ equity |
+| Dividend payable 149 105 |
+| Current liabilities 149 105 |
+| Current assets less current liabilities 530 643 |
+| Total assets less current liabilities 9,105 11,183 |
+| 4 Shareholders’ equity: |
+| Share capital |
+| Preferred stock, par value €0.20 per share: |
+| Authorized: 645,754,500 shares (2020: 645,754,500 shares) |
+| Issued: none |
+| Common stock, par value €0.20 per share: |
+| Authorized: 430,503,000 shares (2020: 430,503,000 shares) |
+| Issued and fully paid: 274,519,638 shares (2020: 62 71 289,519,638 shares) |
+| Capital in excess of par value 14,897 15,261 |
+| Legal reserves: currency translation differences (380) (306) |
+| Legal reserves: hedging (513) (502) |
+| Legal reserves: participating interests 1,611 1,357 |
+| Retained earnings: treasury shares (1,932) (1,037) |
+| Retained earnings: accumulated deficit (4,640) (3,661) |
+| 9,105 11,183 |
+| Total equity and liabilities 9,254 11,288 |
+
+
+Balance sheet of NXP Semiconductors N.V.
+
+The balance sheet is presented after appropriation of profit.
+
+$ in millions, unless otherwise stated
+December 31,
+
+2021
+2020
+
+
+#### Assets
+
+2
+Equity -accounted investees
+ 
+8,575 
+ 
+10,540
+
+Non-current assets
+ 
+8,575 
+ 
+10,540
+
+3
+Loan receivable from subsidiary
+ 
+679 
+ 
+748
+
+Current assets
+ 
+679 
+ 
+748
+
+Total assets
+ 
+9,254 
+ 
+11,288
+
+
+#### Liabilities and shareholders’ equity
+
+Dividend payable
+ 
+149 
+ 
+105
+
+Current liabilities
+149
+ 
+105
+
+Current assets less current liabilities
+530
+643
+
+Total assets less current liabilities
+9,105
+11,183
+
+4
+Shareholders’ equity:
+
+
+#### Share capital
+
+
+#### Preferred stock, par value €0.20 per share:
+
+Authorized: 645,754,500 shares (2020: 645,754,500 
+shares)
+Issued: none
+
+
+#### Common stock, par value €0.20 per share:
+
+Authorized:  430,503,000 shares (2020: 
+430,503,000  shares)
+
+Issued and fully paid: 274,519,638 shares (2020: 
+289,519,638 shares)
+
+62 
+ 
+71
+
+Capital in excess of par value
+ 
+14,897 
+ 
+15,261
+
+Legal reserves: currency translation differences
+ 
+(380) 
+ 
+(306)
+
+Legal reserves: hedging
+ 
+(513) 
+ 
+(502)
+
+Legal reserves: participating interests
+ 
+1,611 
+ 
+1,357
+
+Retained earnings: treasury shares
+ 
+(1,932) 
+ 
+(1,037)
+
+Retained earnings: accumulated deficit
+ 
+(4,640) 
+ 
+(3,661)
+
+9,105 
+ 
+11,183
+
+Total equity and liabilities
+ 
+9,254 
+ 
+11,288
+
+Shareholders’ equity corresponds with the shareholders’ equity of NXP as disclosed in the consolidated balance
+
+
+#### [-139]
+
+
+## Page 140
+
+### Table 140.1
+
+| Income from equity accounted investees 2,170 263 |
+| --- |
+| Other income (expense) — 17 |
+| Net income 2,170 280 |
+
+
+sheet.
+
+Statement of operations of NXP Semiconductors N.V.
+
+$ in millions, unless otherwise stated
+2021
+2020
+
+Income from equity accounted investees
+ 
+2,170 
+ 
+263 
+Other income (expense)
+ 
+— 
+ 
+17 
+Net income
+ 
+2,170 
+ 
+280
+
+Other income includes $0 million interest income (2020: $17 million).
+
+The net income corresponds with the net income attributable to shareholders of NXP as disclosed in the 
+consolidated statements of operations.
+
+Notes to the Company financial statements for the year ended December 31, 2021 
+$ in millions, unless otherwise stated
+
+
+#### 1. Basis of preparation and summary of significant accounting policies
+
+NXP Semiconductors N.V.’s company financial statements in this section have been prepared in accordance with 
+Part 9 of Book 2 of the Netherlands Civil Code on a going concern basis. In accordance with subsection 8 of 
+section 362, Book 2 of the Netherlands Civil Code, the recognition and measurement principles applied in the 
+Company financial statements are since 2011 the same as those applied in the consolidated financial statements. 
+Participating interests, over which significant influence is exercised, are stated on the basis of the equity method. 
+Dutch law allows companies that apply IFRS as endorsed by the European Union in their consolidated financial 
+statements to use the same accounting principles in the parent company financial statements. Company financial 
+statements that are based on this provision qualify as financial statements under Dutch law.
+
+The accounting principles are explained in Note 2 Significant accounting policies and new accounting standards 
+to be adopted after 2021 of the consolidated financial statements of this Annual report.
+
+The loan receivable from subsidiary is carried at amortized cost using the effective interest method.
+
+The Company is head of a fiscal unity for the corporate income tax and VAT that contains the most significant 
+Dutch wholly-owned group companies. The Company is therefore jointly and severally liable for the tax 
+liabilities of the tax entity as a whole.  With the members of the Dutch fiscal unity it was agreed to fully allocate 
+the corporate income tax expenses to NXP Semiconductors Netherlands BV which also pays the corporate 
+income tax liabilities of the Dutch fiscal unity. Hence, NXP Semiconductors N.V. has not recognized a corporate 
+income tax expense regarding the other income which amounts to $0 million (2020: corporate income tax 
+expense of $4 million). NXP Semiconductors Netherlands BV has a corporate income tax receivable of $8 
+million (2020: corporate income tax payable of $90 million). For more information on income taxes, see Note 8 
+Income taxes of the consolidated financial statements.
+
+The statutory reserve for participating interests pertains to participating interests that are measured at net asset 
+value. The reserve is equal to the share in the results and direct changes in equity (both calculated on the basis of 
+the Company's accounting policies) of the participating interests since the first measurement at net asset value, 
+less the distributions that the Company has been entitled to since the first measurement at net asset value, and 
+less distributions that the Company may effect without restrictions. As to the latter share, this takes into account 
+any profits that may not be distributable by participating interests that are Dutch limited companies based on the 
+distribution tests to be performed by the management of those companies. The statutory reserve is determined on 
+an individual basis.
+
+The statutory reserve for hedging pertains to net investment and cash flow hedge accounting, measured in 
+accordance with IFRS. The statutory reserve for currency translation is determined in accordance with the IFRS 
+requirements for currency translation reserve.
+
+
+#### Company Financial Statements
+
+
+#### [-140]
+
+
+## Page 141
+
+### Table 141.1
+
+| Balance as of January 1, | 10,540 | 11,196 |
+| --- | --- | --- |
+| Changes in book value: |  |  |
+| Share-based payments | 366 | 321 |
+| Net income | 2,170 | 263 |
+| Currency translation differences | (74) | 78 |
+| Hedge accounting | (11) | 9 |
+| Treasury shares used by NXP B.V. and its subsidiaries | (428) | (285) |
+| Net actuarial gains/(losses) | 13 | (41) |
+| Dividend paid | (4,000) | (1,000) |
+| Other | (1) | (1) |
+| Balance as of December 31, | 8,575 | 10,540 |
+
+
+### Table 141.2
+
+| The loan receivable from NXP B.V. decreased during the year from $748 million at December 31, |  |  |  |  | 2020 | to $679 |
+| --- | --- | --- | --- | --- | --- | --- |
+| million at December 31, | 2021 | . The decrease is primarily explained by the | 2021 | financing by NXP B.V. of the |  |  |
+| Company’s purchases of treasury shares (including taxes) of $3,953 million and dividends paid of $562 million; |  |  |  |  |  |  |
+| partially offset by the dividend paid by NXP B.V. of $4,000 million and the cross charging to NXP B.V. for |  |  |  |  |  |  |
+| treasury shares used by NXP B.V. and its subsidiaries for a total amount of $428 million. Furthermore, the loan |  |  |  |  |  |  |
+| receivable consists of the settlement of assets and liabilities between NXP Semiconductors N.V. and NXP B.V. |  |  |  |  |  |  |
+| related to the ordinary course of business. The applicable interest rate is LIBOR plus a margin equal to the credit |  |  |  |  |  |  |
+| spread for the NXP B.V.’s Revolving Credit Facility. |  |  |  |  |  |  |
+
+
+Income from equity accounted investees relates to the share of the Company in the results of its participating 
+interests.
+
+
+#### Presentation of Company financial statements
+
+The statement of operations has been prepared in accordance with Section 402 Part 9 of Book 2 of the 
+Netherlands Civil Code which allows a simplified statement of operations in the event that a comprehensive 
+statement of operations is included in the consolidated group financial statements. The Company financial 
+statements only contain an abbreviated statement of operations.
+
+
+#### 2. Equity-accounted investees
+
+Equity-accounted investees (including goodwill) are measured at their net asset value in accordance with the 
+IFRS accounting policies used in the consolidated financial statements.
+
+
+#### Movements in the book value of the equity-accounted investees are as follows:
+
+2021
+2020
+
+Balance as of January 1,
+ 
+10,540 
+ 
+11,196
+
+
+#### Changes in book value:
+
+Share-based payments
+ 
+366 
+ 
+321 
+Net income
+ 
+2,170 
+ 
+263 
+Currency translation differences
+ 
+(74)  
+78 
+Hedge accounting
+ 
+(11)  
+9 
+Treasury shares used by NXP B.V. and its subsidiaries
+ 
+(428)  
+(285) 
+Net actuarial gains/(losses)
+ 
+13 
+ 
+(41) 
+Dividend paid
+ 
+(4,000)  
+(1,000) 
+Other
+ 
+(1)  
+(1) 
+Balance as of December 31,
+ 
+8,575 
+ 
+10,540
+
+A list of subsidiaries and affiliated companies, prepared in accordance with the relevant legal requirements 
+(Netherlands Civil Code, Book 2, Sections 379 and 414), is deposited at the office of the Commercial Register in 
+Eindhoven, Netherlands.
+
+
+#### 3. Loan receivable from subsidiary
+
+The loan receivable from NXP B.V. decreased during the year from $748  million at December 31, 2020 to $679 
+million at December 31, 2021. The decrease is primarily explained by the 2021 financing by NXP B.V. of the 
+Company’s purchases of treasury shares (including taxes) of $3,953 million and dividends paid of $562 million;    
+partially offset by the dividend paid by NXP B.V. of $4,000 million and the cross charging to NXP B.V. for 
+treasury shares used by NXP B.V. and its subsidiaries for a total amount of $428 million.  Furthermore, the loan 
+receivable consists of the settlement of assets and liabilities between NXP Semiconductors N.V. and NXP B.V. 
+related to the ordinary course of business. The applicable interest rate is LIBOR plus a margin equal to the credit 
+spread for the NXP B.V.’s Revolving Credit Facility.
+
+
+#### [-141]
+
+
+## Page 142
+
+### Table 142.1
+
+| Balance as of December 31, 2019 64 16,307 (384) (511) 1,310 (3,037) (2,305) |  | 11,444 |
+| --- | --- | --- |
+| Net income (loss) 280 |  | 280 |
+| Allocation to legal reserve (47) |  |  |
+| Current period change 78 15 47 | 140 |  |
+| Reclassifications to income (6) |  |  |
+| Share-based compensation plans 389 2 | 391 |  |
+| Retirement treasury shares (5) (1,267) 2,263 (991) |  |  |
+| Remeasurements defined benefits (44) | (44) |  |
+| Treasury shares transactions (263) (292) |  |  |
+| Dividends common stock (420) | (420) |  |
+| Expiration of warrants (168) 168 |  |  |
+| Revaluation share capital** 12 (12) | — |  |
+| Balance as of December 31, 2020 71 15,261 (306) (502) 1,357 (1,037) (3,661) |  |  |
+| Net income (loss) 2,170 |  | 2,170 |
+| Allocation to legal reserves (254) |  |  |
+| Current period change (74) (9) 254 | 171 |  |
+| Reclassifications to income (2) |  |  |
+| Share-based compensation plans 383 | 383 |  |
+| Retirement treasury shares (3) (747) 2,595 (1,845) |  |  |
+| Remeasurements defined benefits 13 |  | 13 |
+| Treasury shares transactions (3,490) (463) |  |  |
+| Dividends common stock (606) |  | (606) |
+| Revaluation share capital** (6) 6 |  |  |
+| Balance as of December 31, 2021 62 14,897 (380) (513) 1,611 (1,932) (4,640) |  | 9,105 |
+
+
+
+#### 4. Shareholders’ equity
+
+$ in millions, unless
+Legal reserves
+Retained earnings
+
+
+#### otherwise stated
+
+Share 
+capital
+
+Capital in 
+excess of 
+par value
+
+Currency 
+translation 
+differences Hedging
+
+Participat
+ing 
+interests*
+
+Treasury 
+shares
+
+Accumu-
+lated 
+deficit
+
+Total Share-holders’ 
+equity
+
+Balance as of December 31, 2019
+ 
+64  
+16,307  
+(384)  
+(511)  
+1,310 
+ 
+(3,037)  
+(2,305) 
+ 
+11,444
+
+Net income (loss)
+ 
+280 
+ 
+280
+
+Allocation to legal reserve
+ 
+(47) 
+ 
+(47)
+
+Current period change
+ 
+78  
+15  
+47 
+ 
+140
+
+Reclassifications to income
+ 
+(6) 
+ 
+(6)
+
+Share-based compensation plans
+ 
+389 
+ 
+2 
+ 
+391
+
+Retirement treasury shares
+ 
+(5)  
+(1,267) 
+ 
+2,263  
+(991) 
+ 
+—
+
+Remeasurements defined benefits
+ 
+(44) 
+ 
+(44)
+
+Treasury shares transactions
+ 
+(263)  
+(292) 
+ 
+(555)
+
+Dividends common stock
+ 
+(420) 
+ 
+(420)
+
+Expiration of warrants
+ 
+(168) 
+ 
+168 
+ 
+—
+
+Revaluation share capital**
+ 
+12 
+ 
+(12) 
+ 
+—
+
+Balance as of December 31, 2020
+ 
+71  
+15,261  
+(306)  
+(502)  
+1,357 
+ 
+(1,037)  
+(3,661) 
+ 
+11,183
+
+Net income (loss)
+ 
+2,170 
+ 
+2,170
+
+Allocation to legal reserves
+ 
+(254) 
+ 
+(254)
+
+Current period change
+ 
+(74)  
+(9)  
+254 
+ 
+171
+
+Reclassifications to income
+ 
+(2) 
+ 
+(2)
+
+Share-based compensation plans
+ 
+383 
+ 
+383
+
+Retirement treasury shares
+ 
+(3)  
+(747) 
+ 
+2,595  
+(1,845) 
+ 
+—
+
+Remeasurements defined benefits
+ 
+13 
+ 
+13
+
+Treasury shares transactions
+ 
+(3,490)  
+(463) 
+ 
+(3,953)
+
+Dividends common stock
+ 
+(606) 
+ 
+(606)
+
+Revaluation share capital**
+ 
+(6) 
+ 
+6 
+ 
+—
+
+Balance as of December 31, 2021
+ 
+62  
+14,897  
+(380)  
+(513)  
+1,611 
+ 
+(1,932)  
+(4,640) 
+ 
+9,105
+
+*     The Participating interests reserve includes the legal reserve related to capitalized development expenses of the Dutch principal.
+
+**  Revaluation of share capital has taken place against year-end closing rates ($ per 1 € of 2021:1.1325  2020:1.2280 )
+
+The net income for the year 2021 of $2,170 million has been appropriated to the accumulated deficit in 
+accordance with Article 34.5 of the Company’s articles of association.
+
+Under our Quarterly Dividend Program, interim dividends of $0.375 per ordinary share were paid on April 6, 
+July 6, October 5, 2020; and January 5, 2021, and dividends of $0.5625 per ordinary share were paid on April 5, 
+July 6, October 6, 2021; and January 6, 2022.
+
+We also refer to the consolidated statements of changes in equity of the consolidated financial statements.
+
+
+#### 5. Employees
+
+The number of persons having a contract with the Company at the year-end 2021 was 2 (2020: 2): of which one 
+of them (Mr. Sievers) had a management services contract, and the other had a contract of employment.
+
+Detailed information on the 2021 compensation for Messrs. Sievers, Betz, Kelly and the additional three most 
+highly compensated executive officers of the Company will be described in the proxy statement pursuant to 
+Section 14(a) of the U.S. Securities Exchange Act of 1934 in advance of the next Annual General Meeting.
+
+
+#### Company Financial Statements
+
+
+#### [-142]
+
+
+## Page 143
+
+### Table 143.1
+
+| Audit of the financial statements 4.0 3.3 0.9 0.8 4.9 4.1 |
+| --- |
+| Other audit engagements 0.3 0.2 — — 0.3 0.2 |
+| Tax-related advisory services — — 0.1 0.2 0.1 0.2 |
+| Other non-audit services — — — 0.5 — 0.5 |
+| Total 4.3 3.5 1.0 1.5 5.3 5.0 |
+
+
+### Table 143.2
+
+| letters and review of documents filed with the SEC. The above mentioned fees exclude out of pocket expenses |
+| --- |
+| of $0.3 millio |
+
+
+
+#### 6. Contingent liabilities
+
+General guarantees as referred to in Section 403, Book 2, of the Dutch Civil Code, have been given by the 
+Company for to the following group companies in the Netherlands:
+
 •
-Our directors are appointed for one year terms;
+NXP B.V.
 •
-We do not have a poison pill in place;
+NXP Semiconductors Netherlands B.V.
+
+
+#### 7. Audit fees
+
+$ in millions
+Ernst & Young 
+Accountants LLP
+
+Other EY network
+Total
+
+2021
+2020
+2021
+2020
+2021
+2020
+
+Audit of the financial statements
+ 
+4.0 
+ 
+3.3 
+ 
+0.9 
+ 
+0.8 
+ 
+4.9 
+ 
+4.1
+
+Other audit engagements
+ 
+0.3 
+ 
+0.2 
+ 
+— 
+ 
+— 
+ 
+0.3 
+ 
+0.2
+
+Tax-related advisory services
+ 
+— 
+ 
+— 
+ 
+0.1 
+ 
+0.2 
+ 
+0.1 
+ 
+0.2
+
+Other non-audit services
+ 
+— 
+ 
+— 
+ 
+— 
+ 
+0.5 
+ 
+— 
+ 
+0.5
+
+Total
+ 
+4.3 
+ 
+3.5 
+ 
+1.0 
+ 
+1.5 
+ 
+5.3 
+ 
+5.0
+
+Audit fees consist of fees for the examination of both the consolidated and statutory financial statements. Other 
+audit engagements also include fees that only our independent auditor can reasonably provide such as comfort 
+letters and review of documents filed with the SEC.  The above mentioned fees exclude out of pocket expenses 
+of $0.3 million (2020: $0.3 million).
+
+The fees mentioned in the table for the audit of the financial statements relate to the total fees for the audit of the 
+financial statements 2021 (2020), irrespective of whether the activities have been performed during the financial 
+year 2021 (2020).
+
+
+#### 8. Related parties
+
+Reference is made to Note 29 Related-party transactions of the consolidated financial statements. The Company 
+maintains a General Service Agreement contract with NXP B.V. that stipulates that certain third party 
+consultancy costs and other services, which are due by the Company (including salary costs of the Executive 
+Officers), are paid by NXP B.V.
+
+9. 
+Subsequent events
+
+For the subsequent events, we refer to Note 34 Subsequent events of the consolidated financial statements.
+
+
+#### March 3, 2022
+
+
+#### Board of directors
+
+
+#### [-143]
+
+
+## Page 144
+
+
+#### Independent auditor’s report
+
+To: the shareholders and Audit Committee of the Board of Directors of NXP Semiconductors N.V.
+
+Report on the audit of the financial statements 2021 included in the annual 
+report
+
+
+#### Our opinion
+
+We have audited the financial statements 2021 of NXP Semiconductors N.V. based in Eindhoven. The financial 
+statements comprise the consolidated and company financial statements.
+
+
+#### In our opinion:
+
 •
-We only have outstanding common stock, and no priority, preference or other shares with special voting 
-rights are issued, and cannot be issued without majority shareholder approval;
+the accompanying consolidated financial statements give a true and fair view of the financial position of 
+NXP Semiconductors N.V. as at December 31, 2021 and of its result and its cash flows for 2021 in 
+accordance with International Financial Reporting Standards as adopted by the European Union (EU-
+IFRS) and with Part 9 of Book 2 of the Dutch Civil Code
 •
-Any issuance of common or preference shares, for any reason, is subject to the approval of the general 
-meeting of shareholders; and
+the accompanying company financial statements give a true and fair view of the financial position of 
+NXP Semiconductors N.V. as at December 31, 2021 and of its result for 2021 in accordance with Part 9 
+of Book 2 of the Dutch Civil Code
+
+
+#### The consolidated financial statements comprise:
+
 •
-We allow special meetings of our shareholders to be called upon the written request of shareholders 
-holding at least 10% of our outstanding voting stock.
-
-The Board, as well as the management team and the NXP Ethics Committee, promote openness and engagement 
-through a SpeakUp grievance mechanism. Furthermore, we maintain a Code of Conduct in order to promote a 
-culture of good governance, excellence and consistency that applies to all of our directors, officers and 
-employees and complies with the requirements of the Sarbanes-Oxley Act of 2002, and the rules thereunder, as 
-well as applicable Nasdaq listing standards. A copy of the Code of Conduct is available on our Investor 
-Relations website at http://investors.nxp.com under the “Corporate Governance” section. We will post any 
-amendments to, or waivers from, our Code of Conduct (to the extent applicable to any director or any of our 
-executive officers) to this website.
-
-The Code of Conduct outlines our general commitment to be a responsible social partner and the way in which 
-we attempt to interact with our stakeholders, including shareholders, suppliers, customers, employees and the 
-market. The Code of Conduct expresses our commitment to an economically, socially and ethically sustainable 
-way of working. It covers our policy on a diverse array of subjects, including corporate gifts, child labor, 
-International Labor Organization conventions, working hours, sexual harassment, free-market competition, 
-bribery and the integrity of financial reporting.
-The Code of Conduct is built around the campaign “Know Right, Do Right” and consists of a framework of a 
-variety of controls, a strict non-retaliation policy, a training program for employees, the SpeakUp telephone line 
-where people can report potential issues in a confidential manner, a confidential investigation process, risk 
-assessments, background checks and audits. Any reports related to the Code of Conduct are brought to the 
-attention of our Ethics Committee to ensure that all reports are properly investigated and addressed. Each quarter 
-the Ethics Committee communicates to the Audit Committee all reports and investigations.
-
-In this report, we address our overall corporate governance structure and state to what extent we apply the 
-provisions of the Dutch corporate governance code. This report also includes the information which the 
-Company is required to disclose pursuant to the governmental decree on corporate governance. The board of 
-directors, which is responsible for the corporate governance structure of the Company, is of the opinion that the
+the consolidated balance sheet as at December 31, 2021
+•
+the following statements for 2021: the consolidated statement of operations, comprehensive income, 
+changes in equity and cash flows
+•
+the notes comprising a summary of the significant accounting policies and other explanatory 
+information.
 
 
-#### Report of the Directors Governance
+#### The company financial statements comprise:
+
+•
+the company balance sheet as at December 31, 2021
+•
+the company statement of operations for 2021
+•
+the notes comprising a summary of the accounting policies and other explanatory information.
 
 
-#### [-30]
+#### Basis for our opinion
+
+We conducted our audit in accordance with Dutch law, including the Dutch Standards on Auditing. Our 
+responsibilities under those standards are further described in the Our responsibilities for the audit of the 
+financial statements section of our report.
+
+We 
+are 
+independent 
+of 
+NXP 
+Semiconductors 
+N.V. 
+in 
+accordance 
+with 
+the 
+“Wet 
+toezicht 
+accountantsorganisaties” (Wta, Audit firms supervision act), the “Verordening inzake de onafhankelijkheid van 
+accountants bij assurance-opdrachten” (ViO, Code of Ethics for Professional Accountants, a regulation with 
+respect to independence) and other relevant independence regulations in the Netherlands. Furthermore we have 
+complied with the “Verordening gedrags- en beroepsregels accountants” (VGBA, Dutch Code of Ethics).
+
+We believe the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+
+#### Information in support of our opinion
+
+We designed our audit procedures in the context of our audit of the financial statements as a whole and in 
+forming our opinion thereon. The following information in support of our opinion and any findings were 
+addressed in this context, and we do not provide a separate opinion or conclusion on these matters.
+
+Our understanding of the business
+NXP Semiconductors N.V. is a global semiconductor manufacturer operating in a broad range of markets. The 
+group is structured in operating reporting units (components) and we tailored our group audit approach
+
+
+#### Other Information
+
+
+#### [-144]
+
+
+## Page 145
+
+### Table 145.1
+
+| Materiality | USD 80 million (2020: USD 60 million) |
+| --- | --- |
+| Benchmark applied | 2.5% of EBITDA (2020: 2.5% of EBITDA) |
+| Explanation | We selected EBITDA to benchmark materiality as in our professional judgment, users of the financial statements of a listed and mature company primarily focus on earnings based measures. Other earnings based measures may be very volatile as a result of the cyclical nature of the semiconductor industry and the specific cost structure of the company. The applied benchmark is in line with the 2020 audit. |
+
+
+accordingly. We paid specific attention in our audit to a number of areas driven by the operations of the group 
+and our risk assessment.
+
+We start by determining materiality and identifying and assessing the risks of material misstatement of the 
+financial statements, whether due to fraud or error in order to design audit procedures responsive to those risks 
+and to obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not 
+detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may 
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+
+#### Materiality
+
+Materiality
+USD 80 million (2020: USD 60 million)
+
+Benchmark applied
+2.5% of EBITDA (2020: 2.5% of EBITDA)
+
+Explanation
+We selected EBITDA to benchmark materiality as in our professional 
+judgment, users of the financial statements of a listed and mature company 
+primarily focus on earnings based measures. Other earnings based measures 
+may be very volatile as a result of the cyclical nature of the semiconductor 
+industry and the specific cost structure of the company. The applied 
+benchmark is in line with the 2020 audit.
+
+We have also taken into account misstatements and/or possible misstatements that in our opinion are material for 
+the users of the financial statements for qualitative reasons.
+
+We agreed with the Audit Committee of the Board of Directors that misstatements in excess of USD 4 million, 
+which are identified during the audit, would be reported to them, as well as smaller misstatements that in our 
+view must be reported on qualitative grounds.
+
+Scope of the group audit
+NXP Semiconductors N.V. is at the head of a group of entities. The financial information of this group is 
+included in the consolidated financial statements.
+
+Because we are ultimately responsible for the opinion, we are also responsible for directing, supervising and 
+performing the group audit. In this respect we have determined the nature and extent of the audit procedures to 
+be carried out for components. Decisive were the size and/or the risk profile of the components or operations. On 
+this basis, we selected components for which an audit or review had to be carried out on the complete set of 
+financial information or specific items.
+
+Following our assessment of the risk of material misstatement to NXP Semiconductors N.V.’s consolidated 
+financial statements, we have selected significant components in the United States, the Netherlands, China, 
+Malaysia, Singapore and Taiwan. For these components we allocated an audit of the complete financial 
+information (full scope components) or we allocated components to perform audit procedures on specific 
+account balances (specific scope components) that we considered had the potential for the greatest impact on the 
+significant accounts in the financial statements, either because of the size of these accounts or their risk profile. 
+We performed audit procedures on accounting areas managed centrally, such as the key audit matters related to 
+revenue recognition and capitalized development costs, the majority of the audit procedures of the US and Dutch 
+components and other centralized accounts. We performed review procedures or specific audit procedures at 
+other group entities (non-significant components).
+
+Because of the continuing (international) travel restrictions and social distancing due to the Covid-19 pandemic, 
+we needed to restrict or have been unable to visit management and/or component auditors to discuss, among 
+others, the business activities and the identified significant risks or to review and evaluate relevant parts of the 
+component auditor's audit documentation and to discuss significant matters arising from that evaluation on site. 
+In order to compensate for the limitations related to physical presence and direct observation, we performed 
+alternative procedures and used communication technology and written information exchange (e.g. intensified 
+communication with component teams, requiring more granular reporting from our component teams, 
+performing audit procedures centrally and for a location where we were unable to attend inventory observations 
+physically due to restrictions, we performed inventory observations using remote viewing technology) in order to 
+obtain sufficient and appropriate audit evidence.
+
+
+#### [-145]
+
+
+## Page 146
+
+By performing the procedures mentioned above at components of the group, together with additional procedures 
+at group level, we have been able to obtain sufficient and appropriate audit evidence about the group’s financial 
+information to provide an opinion about the consolidated financial statements. These procedures represent 96.0% 
+of the group's total assets and 99.7% of gross revenues.
+
+Teaming and use of specialists
+We ensured that the audit teams both at group and at component levels included the appropriate skills and 
+competences which are needed for the audit of a listed client in the semiconductor industry. We included 
+specialists in the areas of IT audit, forensics, sustainability, share based payments, income tax and transfer 
+pricing and have made use of our own experts in the areas of valuations and actuaries.
+
+Our focus on climate risks and the energy transition
+Climate objectives will be high on the public agenda in the next decades. Issues such as CO2 reduction impact 
+financial reporting, as these issues entail risks for the business operation, the valuation of assets ('stranded 
+assets') and provisions or the sustainability of the business model and access to financial markets of companies 
+with a larger CO2 footprint.
+
+As part of our audit of the financial statements, we read the Report of the Directors and considered whether there 
+is any material inconsistency between the non-financial information in section ‘Sustainability, climate and 
+environment’ and the financial statements.
+
+
+#### Our focus on fraud and non-compliance with laws and regulations
+
+Our responsibility
+Although we are not responsible for preventing fraud or non-compliance and we cannot be expected to detect 
+non-compliance with all laws and regulations, it is our responsibility to obtain reasonable assurance that the 
+financial statements, taken as a whole, are free from material misstatement, whether caused by fraud or error.
+
+Our audit response related to fraud risks
+We identify and assess the risks of material misstatements of the financial statements due to fraud. During our 
+audit we obtained an understanding of the entity and its environment and the components of the system of 
+internal control, including the risk assessment process and management’s process for responding to the risks of 
+fraud and monitoring the system of internal control and how the Audit Committee of the Board of Directors 
+exercises oversight, as well as the outcomes.
+
+We evaluated the design and relevant aspects of the system of internal control and in particular the fraud risk 
+assessment, as well as the code of conduct, whistle blower procedures and incident registration. We evaluated the 
+design and the implementation and, where considered appropriate, tested the operating effectiveness, of internal 
+controls designed to mitigate fraud risks.
+
+As part of our process of identifying fraud risks, we evaluated fraud risk factors with respect to financial 
+reporting fraud, misappropriation of assets and bribery and corruption in close co-operation with our forensic 
+specialists. We evaluated whether these factors indicate that a risk of material misstatement due to fraud is 
+present.
+
+We incorporated elements of unpredictability in our audit. We also considered the outcome of our other audit 
+procedures and evaluated whether any findings were indicative of fraud or non-compliance.
+
+As in all of our audits, we addressed the risk related to management override of controls and when identifying 
+and assessing fraud risks we presumed that there are risks of fraud in revenue recognition. For the risk related to 
+management override of controls we have performed among others procedures to evaluate key accounting 
+estimates for management bias that may represent a risk of material misstatement due to fraud in particular 
+relating to important judgment areas and significant accounting estimates as disclosed in Note 2 to the financial 
+statements under ‘Use of estimates and judgments’. In addition, we have used data analysis to identify and 
+address high-risk journal entries.
+
+
+#### Other Information
+
+
+#### [-146]

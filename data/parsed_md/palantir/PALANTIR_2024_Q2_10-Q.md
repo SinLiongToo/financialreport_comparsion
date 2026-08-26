@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2024_Q2_10-Q
+# Financial Report: PALANTIR_2024_Q2_10-Q
 
 - **Source File**: `PALANTIR_2024_Q2_10-Q.pdf`
-- **Total Pages**: 95
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 95
+- **Parsed Key Pages**: 37 (37 selected sections)
 
 ---
 
@@ -3919,3 +3919,790 @@ compensation expense, research and development costs, and general and administra
 
 
 #### 30
+
+
+## Page 31
+
+### Table 31.1
+
+| Revenue | $ | 678,134 |  | $ | 533,317 |  | $ | 1,312,472 | $ | 1,058,503 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of revenue | 128,562 |  |  | 106,899 |  |  | 244,818 |  | 214,544 |  |
+| Gross profit | 549,572 |  |  | 426,418 |  |  | 1,067,654 |  | 843,959 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |  |  |
+| Sales and marketing | 196,809 |  |  | 184,163 |  |  | 389,986 |  | 371,256 |  |
+| Research and development | 108,781 |  |  | 99,533 |  |  | 218,821 |  | 189,633 |  |
+| General and administrative | 138,643 |  |  | 132,648 |  |  | 272,627 |  | 268,881 |  |
+| Total operating expenses | 444,233 |  |  | 416,344 |  |  | 881,434 |  | 829,770 |  |
+| Income from operations | 105,339 |  |  | 10,074 |  |  | 186,220 |  | 14,189 |  |
+| Interest income | 46,593 |  |  | 30,310 |  |  | 89,945 |  | 51,163 |  |
+| Other income (expense), net | (11,173) |  |  | (10,341) |  |  | (24,680) |  | (14,477) |  |
+| Income before provision for income taxes | 140,759 |  |  | 30,043 |  |  | 251,485 |  | 50,875 |  |
+| Provision for income taxes | 5,189 |  |  | 2,171 |  |  | 9,844 |  | 3,852 |  |
+| Net income | 135,570 |  |  | 27,872 |  |  | 241,641 |  | 47,023 |  |
+| Less: Net income (loss) attributable to noncontrolling interests | 1,444 |  |  | (255) |  |  | 1,985 |  | 2,094 |  |
+| Net income attributable to common stockholders | $ | 134,126 |  | $ | 28,127 |  | $ | 239,656 | $ | 44,929 |
+
+
+### Table 31.2
+
+| Revenue | 100 | % |  | 100 | % |  | 100 | % | 100 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of revenue | 19 |  |  | 20 |  |  | 19 |  | 20 |  |
+| Gross margin | 81 |  |  | 80 |  |  | 81 |  | 80 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |  |  |
+| Sales and marketing | 29 |  |  | 34 |  |  | 30 |  | 35 |  |
+| Research and development | 16 |  |  | 19 |  |  | 17 |  | 18 |  |
+| General and administrative | 20 |  |  | 25 |  |  | 21 |  | 26 |  |
+| Total operating expenses | 65 |  |  | 78 |  |  | 67 |  | 79 |  |
+| Income from operations | 16 |  |  | 2 |  |  | 14 |  | 1 |  |
+| Interest income | 7 |  |  | 6 |  |  | 7 |  | 5 |  |
+| Other income (expense), net | (2) |  |  | (2) |  |  | (2) |  | (1) |  |
+| Income before provision for income taxes | 21 |  |  | 6 |  |  | 19 |  | 5 |  |
+| Provision for income taxes | 1 |  |  | 1 |  |  | 1 |  | 1 |  |
+| Net income | 20 |  |  | 5 |  |  | 18 |  | 4 |  |
+| Less: Net income (loss) attributable to noncontrolling interests | — |  |  | — |  |  | — |  | — |  |
+| Net income attributable to common stockholders | 20 | % |  | 5 | % |  | 18 | % | 4 | % |
+
+
+
+#### Table of contents
+
+
+#### Results of Operations
+
+The following table summarizes our condensed consolidated statements of operations data (in thousands):
+
+Three Months Ended June 30,
+Six Months Ended June 30,
+2024
+2023
+2024
+2023
+Revenue
+$
+678,134 
+$
+533,317 
+$
+1,312,472 $
+1,058,503 
+Cost of revenue
+128,562 
+106,899 
+244,818 
+214,544 
+Gross profit
+549,572 
+426,418 
+1,067,654 
+843,959 
+Operating expenses:
+
+Sales and marketing
+196,809 
+184,163 
+389,986 
+371,256 
+Research and development
+108,781 
+99,533 
+218,821 
+189,633 
+General and administrative
+138,643 
+132,648 
+272,627 
+268,881 
+Total operating expenses
+444,233 
+416,344 
+881,434 
+829,770 
+Income from operations
+105,339 
+10,074 
+186,220 
+14,189 
+Interest income
+46,593 
+30,310 
+89,945 
+51,163 
+Other income (expense), net
+(11,173)
+(10,341)
+(24,680)
+(14,477)
+Income before provision for income taxes
+140,759 
+30,043 
+251,485 
+50,875 
+Provision for income taxes
+5,189 
+2,171 
+9,844 
+3,852 
+Net income
+135,570 
+27,872 
+241,641 
+47,023 
+Less: Net income (loss) attributable to noncontrolling interests
+1,444 
+(255)
+1,985 
+2,094 
+Net income attributable to common stockholders
+$
+134,126 
+$
+28,127 $
+239,656 
+$
+44,929
+
+The following table sets forth the components of our condensed consolidated statements of operations data as a percentage of revenue:
+
+Three Months Ended June 30,
+Six Months Ended June 30,
+2024
+2023
+2024
+2023
+Revenue
+100 %
+100 %
+100 %
+100 %
+Cost of revenue
+19 
+20 
+19 
+20 
+Gross margin
+81 
+80 
+81 
+80 
+Operating expenses:
+
+Sales and marketing
+29 
+34 
+30 
+35 
+Research and development
+16 
+19 
+17 
+18 
+General and administrative
+20 
+25 
+21 
+26 
+Total operating expenses
+65 
+78 
+67 
+79 
+Income from operations
+16 
+2 
+14 
+1 
+Interest income
+7 
+6 
+7 
+5 
+Other income (expense), net
+(2)
+(2)
+(2)
+(1)
+Income before provision for income taxes
+21 
+6 
+19 
+5 
+Provision for income taxes
+1 
+1 
+1 
+1 
+Net income
+20 
+5 
+18 
+4 
+Less: Net income (loss) attributable to noncontrolling
+
+interests
+— 
+— 
+— 
+— 
+Net income attributable to common stockholders
+20 %
+5 %
+18 %
+4 %
+
+
+#### 31
+
+
+## Page 32
+
+### Table 32.1
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Government | $ | 370,767 |  | $ | 301,505 |  | $ | 69,262 |  | 23 | % |  | $ | 706,140 |  | $ | 590,575 |  | $ | 115,565 | 20 | % |
+| Commercial | 307,367 |  |  | 231,812 |  |  | 75,555 |  |  | 33 | % |  | 606,332 |  |  | 467,928 |  |  | 138,404 |  | 30 | % |
+| Total revenue | $ | 678,134 |  | $ | 533,317 |  | $ | 144,817 |  | 27 | % |  | $ | 1,312,472 |  | $ | 1,058,503 |  | $ | 253,969 | 24 | % |
+
+
+### Table 32.2
+
+| Cost of revenue | $ | 128,562 |  |  | $ | 106,899 |  |  | $ | 21,663 |  |  | 20 | % |  | $ | 244,818 |  |  | $ | 214,544 |  |  | $ | 30,274 |  | 14 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gross profit | 549,572 |  |  |  | 426,418 |  |  |  | 123,154 |  |  |  | 29 | % |  | 1,067,654 |  |  |  | 843,959 |  |  |  | 223,695 |  |  | 27 | % |
+| Gross margin | 81 |  | % |  | 80 |  | % |  | 1 |  | % |  |  |  |  | 81 |  | % |  | 80 |  | % |  | 1 |  | % |  |  |
+
+
+
+#### Table of contents
+
+
+#### Comparison of the Three and Six Months Ended June 30, 2024 and 2023
+
+
+#### Revenue
+
+
+#### Three Months Ended
+
+June 30,
+Change
+
+
+#### Six Months Ended
+
+June 30,
+Change
+2024
+2023
+Amount
+%
+2024
+2023
+Amount
+%
+Revenue:
+Government
+$
+370,767 
+$
+301,505 
+$
+69,262 
+23 % $
+706,140 
+$
+590,575 
+$
+115,565 
+20 %
+Commercial
+307,367 
+231,812 
+75,555 
+33 %
+606,332 
+467,928 
+138,404 
+30 %
+Total revenue
+$
+678,134 
+$
+533,317 
+$
+144,817 
+27 % $
+1,312,472 $
+1,058,503 $
+253,969 
+24 %
+
+Revenue increased by $144.8 million, or 27%, for the three months ended June 30, 2024 compared to the same period in 2023. Revenue from
+government customers increased by $69.3 million, or 23%, for the three months ended June 30, 2024 compared to the same period in 2023. Of
+the increase, $58.5 million was from government customers existing as of December 31, 2023. Revenue from U.S. government customers was
+$278.0 million for the three months ended June 30, 2024 compared to $225.0 million for the same period in 2023. Revenue from commercial
+customers increased by $75.6 million, or 33%, for the three months ended June 30, 2024 compared to the same period in 2023. Of the increase,
+$56.8 million was from commercial customers existing as of December 31, 2023, including a decrease of $10.2 million of revenue from Strategic
+Commercial Contracts. Revenue from U.S. commercial customers was $159.2 million for the three months ended June 30, 2024 compared to
+$103.0 million for the same period in 2023, a 55% increase.
+
+Revenue increased by $254.0 million, or 24%, for the six months ended June 30, 2024 compared to the same period in 2023. Revenue from
+government customers increased by $115.6 million, or 20%, for the six months ended June 30, 2024 compared to the same period in 2023. Of
+the increase, $100.4 million was from government customers existing as of December 31, 2023. Revenue from U.S. government customers was
+$534.7 million for the six months ended June 30, 2024 compared to $454.8 million for the same period in 2023. Revenue from commercial
+customers increased by $138.4 million, or 30%, for the six months ended June 30, 2024 compared to the same period in 2023. Of the increase,
+$106.2 million was from commercial customers existing as of December 31, 2023, including a decrease of $19.7 million of revenue from
+Strategic Commercial Contracts. Revenue from U.S. commercial customers was $308.9 million for the six months ended June 30, 2024
+compared to $210.1 million for the same period in 2023, a 47% increase.
+
+Generally, increases in revenue from our existing customers are related to increased adoption of our products and services within their
+organizations. For additional information on Strategic Commercial Contracts, see Note 4. Investments and Fair Value Measurements in our
+condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+#### Cost of Revenue and Gross Profit
+
+
+#### Three Months Ended
+
+June 30,
+Change
+
+
+#### Six Months Ended
+
+June 30,
+Change
+2024
+2023
+Amount
+%
+2024
+2023
+Amount
+%
+Cost of revenue
+$
+128,562 
+$
+106,899 
+$
+21,663 
+20 % $
+244,818 
+$
+214,544 
+$
+30,274 
+14 %
+Gross profit
+549,572 
+426,418 
+123,154 
+29 %
+1,067,654 
+843,959 
+223,695 
+27 %
+Gross margin
+81 %
+80 %
+1 %
+81 %
+80 %
+1 %
+
+Cost of revenue for the three months ended June 30, 2024 increased by $21.7 million, or 20%, compared to the same period in 2023. The
+increase was primarily due to increases of $14.4 million in third-party cloud hosting services and $10.8 million in subcontractor expenses. These
+increases were partially offset by a decrease of $7.8 million in field service representatives and hardware costs.
+
+Our gross margin for the three months ended June 30, 2024 increased to 81% from 80% for the same period in 2023 as a result of revenue
+growth outpacing costs of revenue. This growth rate variation was primarily due to the decreases in ﬁeld service representatives and hardware
+costs in cost of revenue relative to revenue growth as compared to the prior year.
+
+Cost of revenue for the six months ended June 30, 2024 increased by $30.3 million, or 14%, compared to the same period in 2023. The increase
+was primarily due to increases of $20.9 million in third-party cloud hosting services, $19.6 million in
+
+
+#### 32
+
+
+## Page 33
+
+### Table 33.1
+
+| Sales and marketing | $ | 196,809 |  | $ | 184,163 |  | $ | 12,646 |  | 7 | % |  | $ | 389,986 |  | $ | 371,256 |  | $ | 18,730 |  | 5 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development | 108,781 |  |  | 99,533 |  |  | 9,248 |  |  | 9 | % |  | 218,821 |  |  | 189,633 |  |  | 29,188 |  |  | 15 | % |
+| General and administrative | 138,643 |  |  | 132,648 |  |  | 5,995 |  |  | 5 | % |  | 272,627 |  |  | 268,881 |  |  | 3,746 |  |  | 1 | % |
+| Total operating expenses | $ | 444,233 |  | $ | 416,344 |  | $ | 27,889 |  | 7 | % |  | $ | 881,434 |  | $ | 829,770 |  | $ | 51,664 |  | 6 | % |
+
+
+
+#### Table of contents
+
+subcontractor expenses, and $7.3 million in stock-based compensation and related expenses. These increases were partially oﬀset by
+decreases of $10.3 million in field service representatives and $7.0 million in hardware costs.
+
+Our gross margin for the six months ended June 30, 2024 increased to 81% from 80% for the same period in 2023 as a result of revenue growth
+outpacing costs of revenue. This growth rate variation was primarily due to the decreases in ﬁeld service representatives and hardware costs in
+costs of revenue relative to total expense growth as compared to the prior year.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### Operating Expenses
+
+
+#### Three Months Ended
+
+June 30,
+Change
+
+
+#### Six Months Ended
+
+June 30,
+Change
+2024
+2023
+Amount
+%
+2024
+2023
+Amount
+%
+Sales and marketing
+$
+196,809 
+$
+184,163 
+$
+12,646 
+7 % $
+389,986 
+$
+371,256 
+$
+18,730 
+5 %
+Research and development
+108,781 
+99,533 
+9,248 
+9 %
+218,821 
+189,633 
+29,188 
+15 %
+General and administrative
+138,643 
+132,648 
+5,995 
+5 %
+272,627 
+268,881 
+3,746 
+1 %
+Total operating expenses
+$
+444,233 
+$
+416,344 
+$
+27,889 
+7 % $
+881,434 
+$
+829,770 
+$
+51,664 
+6 %
+
+
+#### Sales and Marketing
+
+Sales and marketing expenses increased by $12.6 million, or 7%, for the three months ended June 30, 2024 compared to the same period in
+2023. The increase was primarily due to increases of $6.9 million in third-party cloud hosting services and $7.7 million in stock-based
+compensation and related expenses.
+
+Sales and marketing expenses increased by $18.7 million, or 5%, for the six months ended June 30, 2024 compared to the same period in 2023.
+The increase was primarily due to increases of $15.2 million in stock-based compensation and related expenses and $6.1 million in third-party
+cloud hosting services.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### Research and Development
+
+Research and development expenses increased by $9.2 million, or 9%, for the three months ended June 30, 2024 compared to the same period
+in 2023. The increase was primarily due to increases of $5.4 million in stock-based compensation and related expenses and $5.0 million in third-
+party cloud hosting services.
+
+Research and development expenses increased by $29.2 million, or 15%, for the six months ended June 30, 2024 compared to the same period
+in 2023. The increase was primarily due to increases of $16.5 million in stock-based compensation and related expenses and $8.6 million in third-
+party cloud hosting services.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### General and Administrative
+
+General and administrative expenses increased by $6.0 million, or 5%, for the three months ended June 30, 2024 compared to the same period
+in 2023. The increase was primarily due to an increase of $6.0 million in stock-based compensation and related expenses.
+
+General and administrative expenses increased by $3.7 million, or 1%, for the six months ended June 30, 2024 compared to the same period in
+2023. The increase was primarily due to an increase of $8.8 million in stock-based compensation and related expenses partially oﬀset by a
+decrease of $5.7 million to our allowance for credit losses.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### 33
+
+
+## Page 35
+
+### Table 35.1
+
+| Net cash provided by (used in): |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Operating activities | $ | 273,766 |  | $ | 277,568 |
+| Investing activities | (660,123) |  |  | (1,945,690) |  |
+| Financing activities | 73,273 |  |  | 116,667 |  |
+| Effect of foreign exchange on cash, cash equivalents, and restricted cash | (4,948) |  |  | (1,855) |  |
+| Net decrease in cash, cash equivalents, and restricted cash | $ | (318,032) |  | $ | (1,553,310) |
+
+
+
+#### Table of contents
+
+undrawn credit facility, will be suﬃcient to meet our anticipated operating cash needs for at least the next twelve months. However, any
+projections of future cash needs and cash ﬂows are subject to substantial uncertainty. While we have generated income from operations and
+positive cash flows from operations for the six months ended June 30, 2024, the amounts may fluctuate for the foreseeable future.
+
+As of June 30, 2024, our accumulated deﬁcit balance was $5.4 billion, and our principal sources of liquidity were cash and cash equivalents and
+short-term U.S. treasury securities totaling $4.0 billion.
+
+As of June 30, 2024, we had no outstanding debt balances and additional available and undrawn revolving commitments of $500 million under
+our credit facility. For more information, see Note 6. Debt in our condensed consolidated ﬁnancial statements included elsewhere in this
+Quarterly Report on Form 10-Q.
+
+In August 2023, the Company’s Board of Directors authorized a stock repurchase program of up to $1.0 billion of the Company’s outstanding
+shares of Class A common stock (the “Share Repurchase Program”). For additional information on our Share Repurchase Program, see Note 8.
+Stockholders’ Equity in our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+During the six months ended June 30, 2024, the Company repurchased and subsequently retired 1.2 million shares of its Class A common stock
+for an aggregate amount, including commissions, of $26.7 million under the Share Repurchase Program. As of June 30, 2024, approximately
+$973.3 million of the originally authorized amount under the Share Repurchase Program remained available for future repurchases.
+
+Our future capital requirements will depend on many factors, including, but not limited to, the rate of our growth, our ability to attract and retain
+customers and their willingness and ability to pay for our products and services, and the timing and extent of spending to support our eﬀorts to
+market and develop our products. Further, we may enter into future arrangements to acquire or invest in businesses, products, services,
+strategic partnerships, and technologies; additionally, we have, and may in the future, repurchase shares of our Class A common stock from time
+to time under our Share Repurchase Program. As such, we may be required to seek additional equity or debt ﬁnancing. In the event that
+additional ﬁnancing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If additional funds are not
+available to us on acceptable terms, or at all, our business, ﬁnancial condition, and results of operations could be adversely aﬀected. For
+additional information on our Share Repurchase Program, see Note 8. Stockholders’ Equity in our condensed consolidated ﬁnancial statements
+included elsewhere in this Quarterly Report on Form 10-Q.
+
+The following table summarizes our cash flows for the periods indicated (in thousands):
+
+Six Months Ended June 30,
+2024
+2023
+Net cash provided by (used in):
+Operating activities
+$
+273,766 
+$
+277,568 
+Investing activities
+(660,123)
+(1,945,690)
+Financing activities
+73,273 
+116,667 
+Effect of foreign exchange on cash, cash equivalents, and restricted cash
+(4,948)
+(1,855)
+Net decrease in cash, cash equivalents, and restricted cash
+$
+(318,032)
+$
+(1,553,310)
+
+
+#### Operating Activities
+
+Net cash provided by operating activities was $273.8 million and $277.6 million for the six months ended June 30, 2024 and 2023, respectively.
+The decrease was primarily driven by timing of the receipt of payments from our customers and timing of payments to vendors.
+
+
+#### Investing Activities
+
+Net cash used in investing activities was $660.1 million and $1.9 billion for the six months ended June 30, 2024 and 2023, respectively. The
+decrease in cash used in investing activities was primarily due to fewer purchases of marketable securities, primarily comprised of short-term
+U.S. treasury securities compared to the prior year.
+
+
+#### 35
+
+
+## Page 36
+
+
+#### Table of contents
+
+
+#### Financing Activities
+
+Net cash provided by ﬁnancing activities was $73.3 million and $116.7 million for the six months ended June 30, 2024 and 2023, respectively,
+each of which primarily consisted of proceeds from the exercise of common stock options, partially oﬀset by share repurchases of $26.7 million
+during the six months ended June 30, 2024.
+
+
+#### Contractual Obligations and Commitments
+
+Our contractual obligations and commitments primarily consist of operating lease commitments for our facilities and non-cancelable purchase
+commitments related to third-party cloud hosting services. For additional information, refer to Note 7. Commitments and Contingencies to our
+condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q. Except as already disclosed in Note 7.
+Commitments and Contingencies in our condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q,
+there has been no material change in our contractual obligations and commitments other than in the ordinary course of business since our ﬁscal
+year ended December 31, 2023. See our Annual Report on Form 10-K for the year ended December 31, 2023, which was ﬁled with the SEC on
+February 20, 2024, for additional information regarding the Company’s contractual obligations.
+
+
+#### Critical Accounting Policies and Estimates
+
+Our condensed consolidated ﬁnancial statements and the accompanying notes thereto included elsewhere in this Quarterly Report on Form 10-
+Q are prepared in accordance with GAAP. The preparation of condensed consolidated ﬁnancial statements requires us to make estimates and
+assumptions that aﬀect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates
+on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could diﬀer
+signiﬁcantly from our estimates. To the extent that there are diﬀerences between our estimates and actual results, our future ﬁnancial statement
+presentation, financial condition, results of operations, and cash flows will be affected.
+
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and
+estimates discussed in the Annual Report on Form 10-K for the year ended December 31, 2023, which was ﬁled with the SEC on February 20,
+2024, except as described in Note 2. Signiﬁcant Accounting Policies to the condensed consolidated ﬁnancial statements included elsewhere in
+this Quarterly Report on Form 10-Q.
+
+
+#### Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, if any, refer to Note 2. Signiﬁcant Accounting Policies in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risks in the ordinary course of our business, which primarily relate to ﬂuctuations in the value of our investments,
+interest rates, foreign currency exchange, and inflation.
+
+
+#### Market Risk
+
+As of June 30, 2024, we held publicly-traded equity securities valued at $8.6 million. We have sold, and may continue to sell, some or all of such
+equity securities. These equity securities are often in early- or growth-stage companies that have minimal public trading history; as such the fair
+value of these equity securities, and the value of our equity holdings, may ﬂuctuate depending on the ﬁnancial outcome and prospects of the
+issuers, as well as global market conditions including ongoing volatility related to the Russia-Ukraine and Israel conﬂicts, and heightened interest
+rates.
+
+As of June 30, 2024, we held privately-held equity securities valued at $49.9 million. Valuations of our privately-held equity securities are complex
+due to, among other things, the lack of liquidity and the lack of readily available market data. Uncertainties in the global economic climate and
+financial markets, or in the business, financial results, or conditions of companies we hold equity in, could adversely impact the valuations of such
+companies and, therefore, result in an impairment or downward adjustment in the value of our holdings.
+
+We have and may continue to accept securities as consideration or invest in securities, which may contribute to additional volatility to our
+condensed consolidated statements of operations.
+
+
+#### 36
+
+
+## Page 37
+
+
+#### Table of contents
+
+
+#### Interest Rate Risk
+
+Our cash, cash equivalents, restricted cash, and available-for-sale debt securities consist of cash, short-term U.S. treasury securities, money
+market funds, and certiﬁcates of deposit. The primary objective of our investment activities and strategies are focused on the preservation of
+capital and supporting our liquidity requirements.
+
+Due to the short-term nature of the financial instruments, we have not been exposed to, nor do we anticipate being exposed to, material risks due
+to changes in interest rates.
+
+
+#### Foreign Currency Exchange Risk
+
+Our contracts with customers are primarily denominated in U.S. dollars, with the remaining denominated in foreign currencies. Our expenses are
+generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the United States, United
+Kingdom, and other countries. Our results of current and future operations and cash flows are, therefore, subject to fluctuations due to changes in
+foreign currency exchange rates, particularly changes in JPY, Euro, and GBP. We have experienced, and may continue to experience,
+ﬂuctuations in net income as a result of transaction gains or losses related to remeasuring certain asset and liability balances that are
+denominated in foreign currencies. These exposures may change over time as business practices evolve and economic conditions change. To
+date, foreign currency transaction gains and losses have not been material to our condensed consolidated ﬁnancial statements, and we have not
+engaged in any foreign currency hedging transactions.
+
+
+#### Inflation Risk
+
+We do not believe that inﬂation has had a material eﬀect on our business, results of operations, or ﬁnancial condition. If our costs were to
+become subject to signiﬁcant inﬂationary pressures, we may not be able to fully oﬀset such higher costs through price increases. Our inability or
+failure to do so could harm our business, financial condition, or results of operations.
+
+
+### ITEM 4. CONTROLS AND PROCEDURES
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we file or submit under
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized, and reported within the time
+periods speciﬁed in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief
+Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Our management, with the participation and supervision of our Chief Executive Oﬃcer and our Chief Financial Oﬃcer, have evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of
+the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Oﬃcer and Chief Financial Oﬃcer
+have concluded that, as of such date, our disclosure controls and procedures were, in design and operation, eﬀective at a reasonable assurance
+level.
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d) and
+15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that have materially aﬀected, or
+are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the exercise
+of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct
+completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal
+control over ﬁnancial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute, assurance
+of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the fact that there are
+resource constraints and that management is required to apply its judgment in evaluating the beneﬁts of possible controls and procedures
+relative to their costs. Moreover, projections of any evaluation of eﬀectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to
+continue to monitor and upgrade our internal controls as necessary or appropriate for our business but
+
+
+#### 37
+
+
+## Page 38
+
+
+#### Table of contents
+
+cannot assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+
+
+#### 38

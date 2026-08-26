@@ -1,8 +1,8 @@
-# Annual Report: MICRON-TECHNOLOGY_2020_Q2_10-Q
+# Financial Report: MICRON-TECHNOLOGY_2020_Q2_10-Q
 
 - **Source File**: `MICRON-TECHNOLOGY_2020_Q2_10-Q.pdf`
-- **Total Pages**: 59
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 59
+- **Parsed Key Pages**: 35 (35 selected sections)
 
 ---
 
@@ -4315,3 +4315,461 @@ of improved market conditions.
 
 
 ### 28 | 2020 Q2 10-Q
+
+
+## Page 31
+
+### Table 31.1
+
+| Second Quarter | First Quarter |  | Second Quarter |  | Six Months |  |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.2
+
+| CNBU | $ | 1,967 |  | 41 | % | $ | 1,979 |  | 38 | % | $ | 2,382 |  | 41 | % | $ | 3,946 |  | 40 | % | $ | 5,986 |  | 44 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MBU | 1,258 |  |  | 26 | % | 1,457 |  |  | 28 | % | 1,611 |  |  | 28 | % | 2,715 |  |  | 27 | % | 3,823 |  |  | 28 | % |
+| SBU | 870 |  |  | 18 | % | 968 |  |  | 19 | % | 1,022 |  |  | 18 | % | 1,838 |  |  | 18 | % | 2,165 |  |  | 16 | % |
+| EBU | 696 |  |  | 15 | % | 734 |  |  | 14 | % | 799 |  |  | 14 | % | 1,430 |  |  | 14 | % | 1,732 |  |  | 13 | % |
+| All Other | 6 |  |  | — | % | 6 |  |  | — | % | 21 |  |  | — | % | 12 |  |  | — | % | 42 |  |  | — | % |
+|  | $ | 4,797 |  |  |  | $ | 5,144 |  |  |  | $ | 5,835 |  |  |  | $ | 9,941 |  |  |  | $ | 13,748 |  |  |  |
+
+
+Total revenue for the second quarter and first six months of 2020 decreased 18% and 28%, respectively, as compared to the corresponding
+periods of 2019 primarily due to price declines resulting from imbalances between supply and market demand over the last several quarters.
+Sales of DRAM products for the second quarter and first six months of 2020 decreased 26% and 35%, respectively, as compared to the
+corresponding periods of 2019 primarily due to declines in average selling prices in the 40 to 50-percent range, partially offset by growth in bit
+shipments in the mid-20-percent range. Sales of NAND products for the second quarter of 2020 increased 9% as compared to the second quarter
+of 2019 primarily due to increases in bit shipments in the low-20-percent range partially offset by declines in average selling prices of
+approximately 10%. Sales of NAND products for the first six months of 2020 decreased 4% as compared to the first six months of 2019 primarily
+due to declines in average selling prices in the mid-20-percent range, partially offset by increases in bit shipments in the high-20-percent range.
+
+Overall Gross Margin: Our overall gross margin percentage increased to 28% for the second quarter of 2020 from 27% for the first quarter of
+2020 primarily due to increases in NAND margins as a result of higher average selling prices. Our gross margins included the impact of
+underutilization costs at MTU of approximately $142 million for the second quarter of 2020 and approximately $125 million for the first quarter of
+2020. We expect that underutilization charges associated with MTU will average approximately $150 million per quarter in the second half of
+2020.
+
+Our overall gross margin percentage decreased to 28% for the second quarter of 2020 from 49% for the second quarter of 2019 and decreased
+to 27% for the first six months of 2020 from 54% for the first six months of 2019, primarily due to declines in average selling prices, partially offset
+by the effect of decreases in non-cash depreciation expense from the revision in estimated useful lives of equipment in our NAND wafer
+fabrication facilities described below, cost reductions resulting from strong execution in delivering products featuring advanced technologies, and
+continuous improvement initiatives to reduce production costs.
+
+We periodically assess the estimated useful lives of our property, plant, and equipment. Based on our assessment of planned technology node
+transitions, capital spending, and re-use rates, we revised the estimated useful lives of equipment in our NAND wafer fabrication facilities from
+five years to seven years as of the beginning of the first quarter of 2020. This change reduced our NAND manufacturing non-cash depreciation
+expense by approximately $140 million for the second quarter of 2020 and by approximately $150 million for the first quarter of 2020. After
+adjusting for impact on items remaining in inventory, the lower depreciation reduced cost of goods sold by approximately $95 million for the
+second quarter of 2020 and approximately $40 million for the first quarter of 2020.
+
+
+#### Revenue by Business Unit
+
+Second
+Quarter
+
+First
+Quarter
+
+Second
+Quarter 
+ 
+Six Months
+
+2020 
+ 
+2020 
+ 
+2019 
+ 
+2020 
+ 
+2019
+
+CNBU
+$ 1,967  
+41 % $ 1,979  
+38 % $ 2,382  
+41 % $ 3,946  
+40 % $ 5,986  
+44 %
+
+MBU
+1,258  
+26 %
+1,457  
+28 %
+1,611  
+28 %
+2,715  
+27 %
+3,823  
+28 %
+
+SBU
+870  
+18 %
+968  
+19 %
+1,022  
+18 %
+1,838  
+18 %
+2,165  
+16 %
+
+EBU
+696  
+15 %
+734  
+14 %
+799  
+14 %
+1,430  
+14 %
+1,732  
+13 %
+
+All Other
+6  
+— %
+6  
+— %
+21  
+— %
+12  
+— %
+42  
+— %
+
+$ 4,797  
+$ 5,144  
+$ 5,835  
+$ 9,941  
+$13,748
+
+Percentages of total revenue may not total 100% due to rounding.
+
+Changes in revenue for each business unit for the second quarter of 2020 as compared to the first quarter of 2020 were as follows:
+
+•
+CNBU revenue decreased 1% due to sales volume declines from lower seasonal bit demand in certain DRAM markets partially offset by
+higher revenue from 3D XPoint activities. Consistent with our view that our technology and product roadmap are more closely aligned
+with our CNBU business unit, beginning in the second quarter of 2020, we have included all activities for 3D XPoint within CNBU.
+•
+MBU revenue decreased 14% primarily due to lower seasonal demand in certain markets and low-power DRAM price declines partially
+offset by increased sales of high-value MCP products.
+•
+SBU revenue decreased 10% primarily due to including 3D XPoint activities for the second quarter of 2020 within CNBU, mitigated by a
+high-single-digit increase in NAND sales due to significant growth in SSD shipment volumes and improved pricing.
+
+
+#### 29
+
+
+## Page 36
+
+### Table 36.1
+
+| 2032D Notes | Cash and/or shares | Cash and/or shares | 13 |  | $ | — |  | 13 |  | $ | 677 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2033F Notes | Cash | Cash and/or shares | 1 |  | 19 |  |  | 1 |  | 75 |  |  |
+|  |  |  | 14 |  | $ | 19 |  | 14 |  | $ | 752 |  |
+
+
+
+#### Settlement Option
+
+
+#### If Settled With Minimum Cash
+
+Required
+If Settled
+Entirely With
+
+Cash
+Principal Amount
+
+
+#### Amount in Excess of
+
+
+#### Principal
+
+
+#### Underlying
+
+Shares
+Cash
+
+
+#### Remainder in
+
+
+#### Shares
+
+2032D Notes
+Cash and/or shares
+Cash and/or shares
+13 
+ $
+—  
+13 
+ $
+677
+
+2033F Notes
+Cash
+Cash and/or shares
+1 
+ 
+19  
+1 
+ 
+75
+
+14 
+ $
+19  
+14 
+ $
+752
+
+
+#### Contractual Obligations:
+
+See “Item 1. Financial Statements – Notes to Consolidated Financial Statements – Leases” and “– Debt.”
+
+
+#### Recently Adopted Accounting Standards
+
+See “Item 1. Financial Statements – Notes to Consolidated Financial Statements – Recently Adopted Accounting Standards.”
+
+
+#### Recently Issued Accounting Standards
+
+See “Item 1. Financial Statements – Notes to Consolidated Financial Statements – Recently Issued Accounting Standards.”
+
+
+### ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are affected by changes in currency exchange and interest rates. For further discussion about market risk and sensitivity analysis related to
+changes in currency exchange rates, see “Part II – Item 7A. Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on
+Form 10-K for the year ended August 29, 2019.
+
+
+### ITEM 4. CONTROLS AND PROCEDURES
+
+An evaluation was carried out under the supervision and with the participation of our management, including our principal executive officer and
+principal financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e)
+and 15d-15(e) under the Securities Exchange Act of 1934) as of the end of the period covered by this report. Based upon that evaluation, the
+principal executive officer and principal financial officer concluded that those disclosure controls and procedures were effective to ensure that
+information required to be disclosed by us in the reports that we file or submit under the Exchange Act are recorded, processed, summarized, and
+reported within the time periods specified in the Commission’s rules and forms and that such information is accumulated and communicated to
+our management, including the principal executive officer and principal financial officer, to allow timely decision regarding disclosure.
+
+During the second quarter of 2020, there were no changes in our internal control over financial reporting that have materially affected, or are
+reasonably likely to materially affect, our internal control over financial reporting.
+
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+
+For a discussion of legal proceedings, see “Part I – Item 3. Legal Proceedings” of our Annual Report on Form 10-K for the year ended August 29,
+2019 and “Part I. Financial Information – Item 1. Financial Statements – Notes to Consolidated Financial Statements – Contingencies” and “Item
+1A. Risk Factors” herein.
+
+
+### 34 | 2020 Q2 10-Q
+
+
+## Page 37
+
+
+### ITEM 1A. RISK FACTORS
+
+In addition to the factors discussed elsewhere in this Form 10-Q, the following are important factors, the order of which is not necessarily
+indicative of the level of risk that each poses to us, which could cause actual results or events to differ materially from those contained in any
+forward-looking statements made by us. Any of these factors could have a material adverse effect on our business, results of operations, financial
+condition, or stock price. Our operations could also be affected by other factors that are presently unknown to us or not considered significant.
+
+The effects of the COVID-19 outbreak could adversely affect our business, results of operations, and financial condition.
+
+The effects of a public health crisis caused by the COVID-19 outbreak and the measures being taken to limit COVID-19’s spread are uncertain
+and difficult to predict, but may include:
+
+•
+A decrease in short-term and/or long-term demand and/or pricing for our products, and a global economic recession that could further
+reduce demand and/or pricing for our products, resulting from actions taken by governments, businesses, and/or the general public in an
+effort to limit exposure to and spreading of such infectious diseases, such as travel restrictions, quarantines, and business shutdowns or
+slowdowns;
+
+•
+Negative impacts to our operations, including reductions in production levels, R&D activities, and qualification activities with our
+customers, and increased costs resulting from our efforts to mitigate the impact of COVID-19 through social-distancing measures we
+have enacted at certain of our locations around the world in an effort to protect our employees’ health and well-being (including working
+from home, limiting the number of employees attending meetings, reducing the number of people in our sites at any one time and
+suspending employee travel);
+
+•
+Deterioration of worldwide credit and financial markets that could limit our ability to obtain external financing to fund our operations and
+capital expenditures, result in losses on our holdings of cash and investments due to failures of financial institutions and other parties,
+and result in a higher rate of losses on our accounts receivables due to credit defaults; and
+
+•
+Disruptions to our supply chain in connection with the sourcing of materials, equipment and engineering support, and services from
+geographic areas that have been impacted by COVID-19 and by efforts to contain the spread of COVID-19.
+
+The resumption of normal business operations after such interruptions may be delayed or constrained by lingering effects of COVID-19 on our
+suppliers, third-party service providers, and/or customers.
+
+These effects, alone or taken together, could have a material adverse effect on our business, results of operations, legal exposure, or financial
+condition. A sustained or prolonged outbreak could exacerbate the adverse impact of such measures.
+
+Volatility in average selling prices for our semiconductor memory and storage products may adversely affect our business.
+
+We have experienced significant volatility in our average selling prices, including dramatic declines as noted in the table below, and may continue
+to experience such volatility in the future. In some prior periods, average selling prices for our products have been below our manufacturing costs
+and we may experience such circumstances in the future. Average selling prices for our products that decline faster than our costs could have a
+material adverse effect on our business, results of operations, or financial condition.
+
+
+#### 35
+
+
+## Page 38
+
+### Table 38.1
+
+| 2019 from 2018 | (30) | % | (47) | % |
+| --- | --- | --- | --- | --- |
+| 2018 from 2017 | 36 | % | (13) | % |
+| 2017 from 2016 | 18 | % | (10) | % |
+| 2016 from 2015 | (34) | % | (16) | % |
+| 2015 from 2014 | (11) | % | (20) | % |
+
+
+DRAM
+NAND
+
+
+#### (percentage change in average selling prices)
+
+2019 from 2018
+(30) %
+(47) %
+
+2018 from 2017
+36 %
+(13) %
+
+2017 from 2016
+18 %
+(10) %
+
+2016 from 2015
+(34) %
+(16) %
+
+2015 from 2014
+(11) %
+(20) %
+
+Beginning in 2020, revenue and units for MCPs and SSDs, which contain both DRAM and NAND, are disaggregated based on the relative values
+of each component. Prior periods presented in the table above have been conformed to current period presentation.
+
+We may be unable to maintain or improve gross margins.
+
+Our gross margins are dependent in part upon continuing decreases in per gigabit manufacturing costs achieved through improvements in our
+manufacturing processes and product designs, including, but not limited to, process line-width, additional 3D memory layers, additional bits per
+cell (i.e., cell levels), architecture, number of mask layers, number of fabrication steps, and yield. In future periods, we may be unable to reduce
+our per gigabit manufacturing costs at sufficient levels to maintain or improve gross margins. Factors that may limit our ability to maintain or
+reduce costs include, but are not limited to, strategic product diversification decisions affecting product mix, the increasing complexity of
+manufacturing processes, difficulties in transitioning to smaller line-width process technologies, 3D memory layers, NAND cell levels, transitioning
+to replacement gate technology for NAND, process complexity including number of mask layers and fabrication steps, manufacturing yield,
+technological barriers, changes in process technologies, and new products that may require relatively larger die sizes.
+
+Many factors may result in a reduction of our output or a delay in ramping production, which could lead to underutilization of our production
+assets. These factors may include, among others, a weak demand environment, industry oversupply, inventory surpluses, our ramp of emerging
+technologies in dedicated manufacturing capacity, declining selling prices, and changes in supply agreements. A significant portion of our
+manufacturing costs are fixed and do not vary proportionally with changes in production output. As a result, lower utilization and increases in our
+per gigabit manufacturing costs may adversely affect our gross margins, business, results of operations, or financial condition.
+
+In addition, per gigabit manufacturing costs may also be affected by a broader product portfolio, which may have smaller production quantities
+and shorter product lifecycles. Our business and the markets we serve are subject to rapid technological changes and material fluctuations in
+demand based on end-user preferences. As a result, we may have work in process or finished goods inventories that could become obsolete or
+in amounts that are in excess of our customers’ demand. As a result, we may incur charges in connection with obsolete or excess inventories,
+which could have a material adverse effect on our business, results of operations, or financial condition. In addition, due to the customized nature
+of certain of the products we manufacture, we may be unable to sell certain finished goods inventory to alternative customers or manufacture in-
+process inventory to different specifications, which may result in excess and obsolescence charges in future periods. Our inability to maintain or
+improve gross margins could have a material adverse effect on our business, results of operations, or financial condition.
+
+The semiconductor memory and storage markets are highly competitive.
+
+We face intense competition in the semiconductor memory and storage markets from a number of companies, including Intel; Samsung
+Electronics Co., Ltd.; SK Hynix Inc.; Kioxia Holdings Corporation (formerly Toshiba Memory Corporation); and Western Digital Corporation. Some
+of our competitors are large corporations or conglomerates that may have greater resources to invest in technology, capitalize on growth
+opportunities, and withstand downturns in the semiconductor markets in which we compete. Consolidation of industry competitors could put us at
+a competitive disadvantage. In addition, some governments have provided, and may continue to provide, significant assistance, financial or
+otherwise, to some of our competitors or to new entrants and may intervene in support of national industries and/or competitors. In particular, we
+face the threat of increasing competition as a result of significant investment in the semiconductor industry by the Chinese government and
+various state-owned or affiliated entities that is intended to advance China’s stated national policy objectives. In
+
+
+### 36 | 2020 Q2 10-Q
+
+
+## Page 39
+
+addition, the Chinese government may restrict us from participating in the China market or may prevent us from competing effectively with
+Chinese companies. Some of our competitors may use aggressive pricing to obtain market share or take business of our key customers.
+
+Our competitors generally seek to increase wafer capacity, improve yields, and reduce die size in their product designs which may result in
+significant increases in worldwide supply and downward pressure on prices. Increases in worldwide supply of semiconductor memory and
+storage also result from fabrication capacity expansions, either by way of new facilities, increased capacity utilization, or reallocation of other
+semiconductor production to semiconductor memory and storage production. Our competitors may increase capital expenditures resulting in
+future increases in worldwide supply. We and some of our competitors have plans to ramp, or are constructing or ramping, production at new
+fabrication facilities. Increases in worldwide supply of semiconductor memory and storage, if not accompanied by commensurate increases in
+demand, could lead to further declines in average selling prices for our products and could materially adversely affect our business, results of
+operations, or financial condition. If competitors are more successful at developing or implementing new product or process technology, their
+products could have cost or performance advantages.
+
+The competitive nature of our industry could have a material adverse effect on our business, results of operations, or financial condition.
+
+We may be unable to generate sufficient cash flows or obtain access to external financing necessary to fund our operations, make
+scheduled debt payments, and make adequate capital investments.
+
+Our cash flows from operations depend primarily on the volume of semiconductor memory and storage products sold, average selling prices, and
+manufacturing costs. To develop new product and process technology, support future growth, achieve operating efficiencies, and maintain
+product quality, we must make significant capital investments in manufacturing technology, capital equipment, facilities, R&D, and product and
+process technology.
+
+We estimate that capital expenditures in 2020 for property, plant, and equipment, net of partner contributions, will be approximately $7 billion to
+$8 billion, focused on technology transitions and product enablement. Investments in capital expenditures may not generate expected returns or
+cash flows. Delays in completion and ramping of new production facilities could significantly impact our ability to realize expected returns on our
+capital expenditures, which could have a material adverse effect on our business, results of operations, or financial condition.
+
+As a result of the corporate reorganization proceedings of MMJ initiated in 2012, and for so long as such proceedings are continuing, MMJ is
+prohibited from paying dividends, including any cash dividends, to us and such proceedings require that excess earnings be used in MMJ’s
+business or to fund the MMJ creditor payments. In addition, pursuant to an order of the Tokyo District Court, MMJ cannot make loans or
+advances, other than certain ordinary course advances, to us without the consent of the Tokyo District Court and may, under certain
+circumstances, be subject to approval of the legal trustee. As a result, the assets of MMJ are not available for use by us in our other operations.
+Furthermore, certain uses of the assets of MMJ, including certain capital expenditures of MMJ, may require consent of MMJ’s trustees and/or the
+Tokyo District Court.
+
+In the past we have utilized external sources of financing when needed. As a result of our debt levels, expected debt amortization, and general
+economic conditions, it may be difficult for us to obtain financing on terms acceptable to us. We have experienced volatility in our cash flows and
+operating results and may continue to experience such volatility in the future, which may negatively affect our credit rating. Our credit rating may
+also be affected by our liquidity, financial results, economic risk, or other factors, which may increase the cost of future borrowings and make it
+difficult for us to obtain financing on terms acceptable to us. In 2019, we suspended the security interest in the collateral under our credit facility
+upon achieving specified credit ratings and the prepayment of our Senior Secured Term Loan B due 2022; however, the security interest would
+be automatically reinstated upon a decline in our corporate credit rating below a certain level. There can be no assurance that we will be able to
+generate sufficient cash flows, use cash held by MMJ to fund its capital expenditures, access capital or credit markets or find other sources of
+financing to fund our operations, make debt payments, and make adequate capital investments to remain competitive in terms of technology
+development and cost efficiency. Our inability to do any of the foregoing could have a material adverse effect on our business, results of
+operations, or financial condition.
+
+
+#### 37

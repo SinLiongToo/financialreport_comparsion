@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2021_Q3_10-Q
+# Financial Report: PALANTIR_2021_Q3_10-Q
 
 - **Source File**: `PALANTIR_2021_Q3_10-Q.pdf`
-- **Total Pages**: 98
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 98
+- **Parsed Key Pages**: 42 (42 selected sections)
 
 ---
 
@@ -4294,205 +4294,6 @@ uncertain and investors are cautioned not to unduly rely upon these statements.
 #### 25
 
 
-## Page 26
-
-
-#### Table of Contents
-
-ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
-The following discussion and analysis of our ﬁnancial condition and results of operations should be read in conjunction with our condensed
-consolidated ﬁnancial statements and the accompanying notes thereto included elsewhere in this Quarterly Report on Form 10-Q. This
-discussion contains forward-looking statements based upon current plans, expectations, and beliefs, involving risks and uncertainties. Our
-actual results may diﬀer materially from those anticipated in these forward-looking statements. You should review the section titled “Special
-Note Regarding Forward-Looking Statements” for a discussion of forward-looking statements and the section titled “Risk Factors” for a
-discussion of factors that could cause actual results to diﬀer materially from the results described in or implied by the forward-looking
-statements contained in the following discussion and analysis and elsewhere in this Quarterly Report on Form 10-Q. Our historical results are
-not necessarily indicative of the results that may be expected for any period in the future.
-
-
-#### Overview
-
-We founded the Company in 2003 to build software for use in counterterrorism operations.
-
-In 2008, we released our ﬁrst platform, Palantir Gotham (“Gotham”), for customers in the intelligence sector. Gotham enables users to identify
-patterns hidden deep within datasets, ranging from signals intelligence sources to reports from confidential informants.
-
-Defense agencies in the United States then began using Gotham to investigate potential threats and to help protect soldiers from improvised
-explosive devices. Today, the platform is widely used by government agencies in the United States and its allies. Our software is on the front
-lines, sometimes literally, and that means so are we.
-
-We later began working with leading companies across industries, including companies in the energy, transportation, ﬁnancial services, and
-healthcare sectors. In 2016, we released our second software platform, Palantir Foundry (“Foundry”), to address a common set of challenges
-that we saw at large companies.
-
-Foundry is becoming a central operating system not only for individual institutions but also for entire industries.
-
-In 2017, for example, our partnership with Airbus expanded into a platform for the aviation industry, and today connects data from more than
-one hundred airlines and 9,000 aircraft around the world.
-
-We believe that every large institution faces challenges that our platforms were designed to address. Our focus in the near term is to build
-partnerships with institutions that have the leadership necessary to eﬀect structural change within their organizations — to reconstitute their
-operations around data. Over the long term, we believe that every large institution in the markets we serve is a potential partner.
-
-
-#### Our Business
-
-For the three months ended September 30, 2021, we generated $392.1 million in revenue, reﬂecting a 36% growth rate from the three months
-ended September 30, 2020, when we generated $289.4 million in revenue. In the nine months ended September 30, 2021, we generated
-$1.1 billion in revenue, reﬂecting a 44% growth rate from the nine months ended September 30, 2020, when we generated $770.6 million in
-revenue.
-
-Our operating results continued to improve when excluding stock-based compensation. In the three months ended September 30, 2021, we
-incurred losses from operations of $91.9 million, or adjusted income from operations of $116.1 million when excluding stock-based
-compensation and related employer payroll taxes. In the three months ended September 30, 2020, our losses from operations were
-$847.8 million, or adjusted income from operations of $73.1 million when excluding stock-based compensation, related employer payroll taxes,
-and non-recurring charges relating to the direct listing of our Class A common stock (“Direct Listing”) on the New York Stock Exchange
-(“NYSE”). In the nine months ended September 30, 2021, we incurred losses from operations of $352.1 million, or adjusted income from
-operations of $349.4 million when excluding stock-based compensation and related employer payroll taxes. In the nine months ended
-September 30, 2020, our losses from operations were $1.0 billion, or adjusted income from operations of $85.7 million when excluding stock-
-based compensation, related employer payroll taxes, and non-recurring charges relating to our Direct Listing.
-
-In the three months ended September 30, 2021, our gross proﬁt was $305.3 million, reﬂecting a gross margin of 78%, or 82% when excluding
-stock-based compensation. In the three months ended September 30, 2020, our gross proﬁt was $140.0 million, reﬂecting a gross margin of
-48%, or 81% when excluding stock-based compensation. In the nine months ended September 30, 2021, our gross proﬁt was $857.2 million,
-reﬂecting a gross margin of 77%, or 82% when excluding stock-based compensation. In the nine months ended September 30, 2020, our
-gross profit was $488.5 million, reflecting a gross margin of 63%, or 79% when excluding stock-based compensation.
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-For more information about our income from operations, when excluding stock-based compensation, related employer payroll taxes, and non-
-recurring charges related to our Direct Listing; and gross proﬁt and gross margin, when excluding stock-based compensation, as well as
-reconciliations from loss from operations and gross profit, see the section titled “Non-GAAP Reconciliations” below.
-
-
-#### Our Customers
-
-We deﬁne a customer to be an organization from which we have recognized revenue during the trailing twelve month period. During the
-period ended September 30, 2021, we had 203 customers, including leading companies in various commercial sectors as well as government
-agencies around the world. During the period ended September 30, 2020, we had 142 customers.
-
-For large government agencies, where a single institution has multiple divisions, units, or subsidiary agencies, each such division, unit, or
-subsidiary agency that enters into a separate contract with us and is invoiced as a separate entity is treated as a separate customer. For
-example, while the U.S. Food and Drug Administration, Centers for Disease Control and Prevention, and National Institutes of Health are
-subsidiary agencies of the U.S. Department of Health and Human Services, we treat each of those agencies as a separate customer given
-that the governing structures and procurement processes of each agency are independent.
-
-We have built lasting and signiﬁcant customer relationships with some of the world’s leading government institutions and companies. Our
-average revenue per customer during the trailing twelve months ended September 30, 2021 and 2020 was $7.0 million. Our average revenue
-for the top twenty customers during the trailing twelve months ended September 30, 2021 was $41.3 million, which grew 35% from an
-average of $30.7 million from the top twenty customers during the trailing twelve months ended September 30, 2020.
-
-Organizations in the commercial and government sectors face similar challenges when it comes to managing data, and we intend to expand
-our reach in both markets moving forward. In the nine months ended September 30, 2021, commercial customers accounted for 41% of our
-revenue while government agencies accounted for 59%. In the nine months ended September 30, 2021, we generated 56% of our revenue
-from customers in the United States and the remaining 44% from customers abroad.
-
-
-#### Expansion of Access to Platforms
-
-We have recently begun to expand access to our platforms to earlier stage companies, including startups, as we continue our outreach eﬀorts
-to an increasingly broad swath of the potential market.
-
-Our software platforms can now be installed and ready for use within hours. The speed with which our platforms can be deployed has
-signiﬁcantly expanded the range of potential customers with which we plan on partnering over the long term. We anticipate that our reach
-among an increasingly broad set of customers, in both the commercial and government sectors, will accelerate moving forward. We believe
-that, as these new partners grow, we will grow with them.
-
-We have also made a number of investments in companies whose businesses rely on the ability of their organizations to manage and analyze
-data effectively at scale. The companies in which we are investing include some of the most innovative organizations in their fields.
-
-Our proximity to these businesses and the industries in which they are operating has enhanced, and is expected to continue enhancing, our
-own product and business development efforts, as we continue expanding access to our platforms to the broadest possible set of customers.
-
-
-#### Coronavirus (“COVID-19”) Impact
-
-As a result of COVID-19, we continue to take precautionary measures in order to minimize the risk of the virus to our employees, our
-customers, and the communities in which we operate, which included the suspension of all non-essential business travel of employees and
-the temporary closure of all of our major oﬃces. Although the majority of our workforce worked remotely, there was minimal disruption in our
-ability to ensure the effective operation of our software platforms. As local situations permit, we continue to open our offices in at least a limited
-capacity and are allowing business travel to resume, while continuing to closely monitor the pandemic.
-
-The economic consequences of the COVID-19 pandemic have been challenging for certain of our customers and prospective customers.
-While the broader implications of the COVID-19 pandemic on our results of operations and overall ﬁnancial performance remain uncertain, the
-COVID-19 pandemic has, to date, not had a material adverse impact on our results of operations. The economic eﬀects of the pandemic and
-resulting societal changes are currently not predictable.
-
-
-#### 27
-
-
-## Page 28
-
-
-#### Table of Contents
-
-The pandemic has made clear to many of our customers that accommodating the extended timelines ordinarily required to realize results from
-implementing new software solutions is not an option during a crisis. As a result, customers are increasingly adopting our software, which can
-be ready in days, over internal software development efforts, which may take months or years.
-
-We saw decreases in our travel and oﬃce-related expenditures, including during the temporary closures of our oﬃces globally and reductions
-in related operating expenses, related to the ongoing pandemic. However, improvement of our contribution metric has also been driven by the
-expansion of existing customer accounts, improved sales eﬃciency, and the increasing deployment of centralized hosting and other software
-deployment infrastructure. While we expect our travel and office-related expenditures to increase moving forward, especially as we continue to
-open our oﬃces, we do not expect such expenditures to return to their pre-pandemic levels, given that we have made signiﬁcant investments
-in enabling employees to work with customers remotely.
-
-See the section titled “Risk Factors” included elsewhere in this Quarterly Report on Form 10-Q, and Annual Report on Form 10-K for the year
-ended December 31, 2020, which was ﬁled with the SEC on February 26, 2021, for further discussion of the possible impact of the COVID-19
-pandemic on our business.
-
-
-#### Our Business Model
-
-Our customers pay us to use the software platforms we have built.
-
-Our business model with respect to acquiring and growing our accounts has three phases: (1) Acquire, (2) Expand, and (3) Scale. We
-categorize all customers into cohorts on December 31st each year.
-
-Our decisions about which customer relationships require further investment may change over time, based on our assessment of the potential
-long-term value that our software can generate for them.
-
-As a result, customers may move back and forth through phases, as relationship needs and our assessment of the merits of further
-investment change. We enter into initial pilots with customers, generally at our own expense and without a guarantee of future returns, in
-order to access a unique set of opportunities that others may pass over for lack of resources and shorter investment horizons.
-
-Some customers may have a rapid Acquire phase followed by a long Expand phase. Others may skip the Expand phase altogether and move
-immediately into the Scale phase. We manage customers at the account level, not by industry or sector, so that we can optimize on the
-specific growth opportunities for each.
-
-In 2020, we generated a total of $1.1 billion in revenue. Acquire phase customers cohorted as of December 31, 2020 generated $0.3 million in
-revenue in 2020. Expand phase customers cohorted as of December 31, 2020 generated $20.3 million in revenue in 2020. Scale phase
-customers cohorted as of December 31, 2020 generated $1.1 billion in revenue in 2020.
-
-In the nine months ended September 30, 2021, customers cohorted as of December 31, 2020 generated a total of $1.1 billion in revenue.
-
-New customers acquired during the nine months ended September 30, 2021 generated an additional $37.9 million in revenue and will be
-assigned a cohort as of December 31, 2021. A more detailed discussion of the three phases, for purposes of illustration of how we manage
-accounts across the business, follows below.
-
-
-#### Acquire
-
-We actively pursue discussions with existing and prospective customers in order to identify ways in which our software platforms can provide
-long-term value.
-
-In the ﬁrst phase, we typically acquire new opportunities with minimal risk to our customers through short-term pilot deployments of our
-software platforms at no or low cost to them. We believe in proving the value of our platforms to our customers. During these short-term pilots,
-we operate the accounts at a loss. We believe that our investments during this phase will drive future revenue growth.
-
-
-#### 28
-
-
 ## Page 29
 
 
@@ -4614,3 +4415,1861 @@ financial measure, and to view these non-GAAP measures in conjunction with the m
 
 
 #### 30
+
+
+## Page 31
+
+### Table 31.1
+
+| Loss from operations |  | $ | (91,941 | ) |  | $ | (847,777 | ) |  | $ | (352,103 | ) |  | $ | (1,017,107 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.2
+
+| Research and development expenses (1) |  |  | 59,844 |  |  |  | 57,146 |  |  |  | 180,335 |  |  |  | 156,832 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.3
+
+| Stock-based compensation |  |  | 184,835 |  |  |  | 846,959 |  |  |  | 611,308 |  |  |  | 1,028,914 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.4
+
+| Contribution margin |  |  | 57 | % |  |  | 56 | % |  |  | 58 | % |  |  | 51 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.5
+
+| Gross profit |  | $ | 305,342 |  |  | $ | 140,026 |  |  | $ | 857,181 |  |  | $ | 488,538 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.6
+
+| Gross profit, excluding stock-based compensation |  | $ | 320,202 |  |  | $ | 234,411 |  |  | $ | 912,047 |  |  | $ | 608,823 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.7
+
+| Loss from operations |  | $ | (91,941 | ) |  | $ | (847,777 | ) |  | $ | (352,103 | ) |  | $ | (1,017,107 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.8
+
+| Add: employer payroll taxes related to stock-based compensation |  |  | 23,215 |  |  |  | 20,172 |  |  |  | 90,214 |  |  |  | 20,172 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.9
+
+| Adjusted income from operations |  | $ | 116,109 |  |  | $ | 73,091 |  |  | $ | 349,419 |  |  | $ | 85,716 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Contribution Margin
+
+The following table provides a reconciliation of contribution margin for the three and nine months ended September 30, 2021 and 2020 (in
+thousands, except percentages):
+ 
+ 
+  Three Months Ended September 30,  
+Nine Months Ended September 30,
+ 
+  
+2021
+ 
+2020
+ 
+2021
+ 
+2020
+Loss from operations
+  $
+(91,941) 
+ $
+(847,777) 
+ $
+(352,103) 
+ $
+(1,017,107) 
+Add:
+  
+ 
+ 
+ 
+Research and development expenses (1)
+   
+59,844
+  
+57,146
+  
+180,335
+  
+156,832
+General and administrative expenses (1)
+   
+71,145
+  
+107,130
+  
+207,006
+  
+226,455
+Stock-based compensation
+   
+184,835
+  
+846,959
+  
+611,308
+  
+1,028,914
+
+Contribution
+  $
+223,883
+ $
+163,458
+ $
+646,546
+ $
+395,094
+
+Contribution margin
+   
+57%   
+56%   
+58%   
+51%
+
+(1) Excludes stock-based compensation.
+
+
+#### Gross Profit and Gross Margin, Excluding Stock-Based Compensation
+
+The following table provides a reconciliation of gross proﬁt and gross margin, excluding stock-based compensation for the three and nine
+months ended September 30, 2021 and 2020 (in thousands, except percentages):
+ 
+ 
+ 
+Three Months Ended September 30,  
+Nine Months Ended September 30,
+ 
+ 
+2021
+ 
+2020
+ 
+2021
+ 
+2020
+Gross profit
+ $
+305,342
+ $
+  140,026
+ $
+  857,181
+ $
+     488,538
+Add: stock-based compensation
+  
+14,860
+  
+94,385
+  
+54,866
+  
+120,285
+
+Gross profit, excluding stock-based compensation
+ $
+320,202
+ $
+234,411
+ $
+912,047
+ $
+608,823
+
+Gross margin, excluding stock-based compensation
+  
+82%   
+81%   
+82%   
+79%
+
+
+#### Adjusted Income from Operations
+
+The following table provides a reconciliation of adjusted income from operations, which excludes stock-based compensation, related employer
+payroll taxes, and non-recurring Direct Listing charges, for the three and nine months ended September 30, 2021 and 2020 (in thousands):
+ 
+ 
+  Three Months Ended September 30,  
+Nine Months Ended September 30,
+ 
+  
+2021
+ 
+2020
+ 
+2021
+ 
+2020
+Loss from operations
+  $
+(91,941)  $
+(847,777)  $
+(352,103)  $
+(1,017,107) 
+Add: stock-based compensation
+   
+184,835
+  
+846,959
+  
+611,308
+  
+1,028,914
+Add: employer payroll taxes related to stock-based
+
+compensation
+   
+23,215
+  
+20,172
+  
+90,214
+  
+20,172
+Add: non-recurring Direct Listing charges (1)
+   
+—   
+53,737
+  
+—   
+53,737
+
+Adjusted income from operations
+  $
+116,109
+ $
+73,091
+ $
+349,419
+ $
+85,716
+
+(1) Non-recurring Direct Listing charges were primarily incurred during the quarter ended September 30, 2020 and were immaterial in other periods.
+
+
+#### 31
+
+
+## Page 32
+
+
+#### Table of Contents
+
+
+#### Components of Results of Operations
+
+
+#### Revenue
+
+We generate revenue from the sale of subscriptions to access our software in our hosted environment with O&M services (“Palantir Cloud”),
+software subscriptions in our customers’ environments with ongoing O&M services (“On-Premises Software”), and professional services.
+
+
+#### Palantir Cloud
+
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir
+and are sold together with stand-ready O&M services, as further described below. We promise to provide continuous access to the hosted
+software throughout the contract term. Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term
+on a ratable basis, which is consistent with the transfer of control of the Palantir services to the customer.
+
+
+#### On-Premises Software
+
+Sales of our software subscriptions grant customers the right to use functional intellectual property, either on their internal hardware
+infrastructure or on their own cloud instance, over the contractual term and are also sold together with stand-ready O&M services. O&M
+services include critical updates and support and maintenance services required to operate the software and, as such, are necessary for the
+software to maintain its intended utility over the contractual term. Because of this requirement, we have concluded that the software
+subscriptions and O&M services, which together we refer to as our On-Premises Software, are highly interdependent and interrelated and
+represent a single distinct performance obligation within the context of the contract. Revenue is generally recognized over the contract term
+on a ratable basis.
+
+
+#### Professional Services
+
+Our professional services support the customers’ use of the software and include, as needed, on-demand user support, user-interface
+conﬁguration, training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of
+on-demand professional services for the duration of the contractual term. These services are typically coterminous with a Palantir Cloud or
+On-Premises Software subscriptions. Professional services are on-demand, whereby we perform services throughout the contract period;
+therefore, the revenue is recognized over the contractual term.
+
+
+#### Cost of Revenue
+
+Cost of revenue primarily includes salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing O&M and
+professional services, as well as third-party cloud hosting services, allocated overhead, and other direct costs.
+
+We expect that cost of revenue will increase in absolute dollars as our revenue grows and will vary from period-to-period as a percentage of
+revenue.
+
+
+#### Sales and Marketing
+
+Our sales and marketing eﬀorts span all stages of our sales cycle, including personnel engaging with or executing pilots at new or existing
+customers. Sales and marketing costs primarily include salaries, stock-based compensation expense, and beneﬁts for our sales force and
+personnel involved in executing on pilots and customer growth activities, as well as third-party cloud hosting services for our pilots, marketing
+and sales event-related costs, and allocated overhead. Sales and marketing costs are generally expensed as incurred.
+
+We expect that sales and marketing expenses will increase in absolute dollars as we continue to invest in our potential and current customers,
+in growing our business, sales force, and enhancing our brand awareness.
+
+
+#### Research and Development
+
+Our research and development eﬀorts are aimed at continuing to develop and reﬁne our platforms, including adding new features and
+modules, increasing their functionality, and enhancing the usability of our platforms. Research and development costs primarily include
+salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing the activities to develop and reﬁne our
+platforms, internal use third-party cloud hosting services and other IT-related costs, and allocated overhead. Research and development costs
+are expensed as incurred.
+
+
+#### 32
+
+
+## Page 33
+
+
+#### Table of Contents
+
+We plan to continue to invest in personnel to support our research and development eﬀorts. As a result, we expect that research and
+development expenses will increase in absolute dollars for the foreseeable future as we continue to invest to support these activities.
+
+
+#### General and Administrative
+
+General and administrative costs include salaries, stock-based compensation expense, and beneﬁts for personnel involved in our executive,
+finance, legal, human resources, and administrative functions, as well as third-party professional services and fees, and allocated overhead.
+
+We expect that general and administrative expenses will increase in absolute dollars as we hire additional personnel and enhance our
+systems, processes, and controls to support the growth in our business as well as our increased compliance and reporting requirements as a
+public company.
+
+
+#### Interest Income
+
+Interest income consists primarily of interest income earned on our cash, cash equivalents, and restricted cash balances.
+
+
+#### Interest Expense
+
+Interest expense consists primarily of interest expense and commitment fees incurred under our credit facilities.
+
+
+#### Other Income (Expense), Net
+
+Other income (expense), net consists primarily of foreign currency exchange gains and losses, realized and unrealized losses from
+investments, and our share of income and losses from our equity method investments.
+
+
+#### Change in Fair Value of Warrants
+
+The change in the fair value of warrants consists of the net changes in the fair value of our liability classiﬁed warrants to purchase redeemable
+convertible and convertible preferred stock that were remeasured at the end of each reporting period. During September 2020, in connection
+with the Direct Listing, all of our outstanding preferred stock warrants were converted into common stock warrants, which resulted in the
+reclassiﬁcation of the warrants liability to additional paid-in capital. As such, we do not expect additional charges related to the fair value of
+these warrants.
+
+
+#### Provision (Benefit) for Income Taxes
+
+Provision (beneﬁt) for income taxes consists of income taxes related to foreign and state jurisdictions in which we conduct business and
+withholding taxes.
+
+
+#### Segments
+
+We have two operating segments, commercial and government, which were determined based on the manner in which the chief operating
+decision maker (“CODM”), who is our chief executive oﬃcer, manages our operations for purposes of allocating resources and evaluating
+performance. Various factors, including our organizational and management reporting structure and customer type, were considered in
+determining these operating segments.
+
+Our operating segments are described below:
+ 
+ 
+•
+ Commercial: This segment primarily serves customers working in non-government industries.
+
+•
+ Government: This segment primarily serves customers that are agencies in the U.S. federal government and non-U.S.
+
+governments.
+
+
+#### 33
+
+
+## Page 34
+
+### Table 34.1
+
+| Revenue |  | $ | 392,146 |  | $ | 289,366 |  | $ | 1,109,022 |  | $ | 770,582 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.2
+
+| Gross profit |  |  | 305,342 |  |  | 140,026 |  |  | 857,181 |  |  | 488,538 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.3
+
+| Sales and marketing (1) |  |  | 153,443 |  |  | 334,911 |  |  | 451,919 |  |  | 536,082 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.4
+
+| General and administrative (1) |  |  | 149,524 |  |  | 338,977 |  |  | 454,054 |  |  | 503,033 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.5
+
+| Loss from operations |  |  | (91,941) |  |  | (847,777) |  |  | (352,103) |  |  | (1,017,107) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.6
+
+| Interest expense |  |  | (609) |  |  | (2,085) |  |  | (3,039) |  |  | (12,325) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.7
+
+| Other income (expense), net |  |  | (8,528) |  |  | (3,293) |  |  | (11,297) |  |  | 1,218 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.8
+
+| Provision (benefit) for income taxes |  |  | 1,438 |  |  | (8,543) |  |  | (1,121) |  |  | (5,043) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.9
+
+| Cost of revenue |  | $ | 14,860 |  | $ | 94,385 |  | $ | 54,866 |  | $ | 120,285 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.10
+
+| Research and development |  |  | 34,472 |  |  | 256,769 |  |  | 122,976 |  |  | 309,698 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.11
+
+| Total stock-based compensation expense (i) |  | $ | 184,835 |  | $ | 846,959 |  | $ | 611,308 |  | $ | 1,028,914 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Segment proﬁtability is evaluated based on contribution and contribution margin. Contribution is segment revenue less the related costs of
+revenue and sales and marketing expenses, excluding stock-based compensation expense. Contribution margin is contribution divided by
+revenue. To the extent costs of revenue or sales and marketing expenses are not directly attributable to a particular segment, they are
+allocated based upon headcount at each operating segment during the period. We use it, in part, to evaluate the performance of, and allocate
+resources to, each of our operating segments, which excludes certain operating expenses that are not allocated to operating segments
+because they are separately managed at the consolidated corporate level. These unallocated costs include stock-based compensation
+expense, research and development costs, and general and administrative costs, such as legal and accounting.
+
+
+#### Results of Operations
+
+The following table summarizes our condensed consolidated statements of operations data (in thousands):
+ 
+ 
+  
+Three Months Ended September 30,   
+Nine Months Ended September 30,  
+ 
+  
+2021
+  
+2020
+  
+2021
+  
+2020
+Revenue
+    $         392,146      $         289,366      $ 1,109,022      $
+        770,582   
+Cost of revenue (1)
+   
+86,804     
+149,340     
+251,841     
+282,044
+
+Gross profit
+   
+305,342     
+140,026     
+857,181     
+488,538   
+Operating expenses:
+  
+ 
+ 
+ 
+Sales and marketing (1)
+   
+153,443     
+334,911     
+451,919     
+536,082   
+Research and development (1)
+   
+94,316     
+313,915     
+303,311     
+466,530   
+General and administrative (1)
+   
+149,524     
+338,977     
+454,054     
+503,033
+
+Total operating expenses
+   
+397,283     
+987,803     
+1,209,284     
+1,505,645
+
+Loss from operations
+   
+(91,941)     
+(847,777)     
+(352,103)     
+(1,017,107)   
+Interest income
+   
+379     
+494     
+1,127     
+4,312   
+Interest expense
+   
+(609)     
+(2,085)     
+(3,039)     
+(12,325)   
+Change in fair value of warrants
+   
+—      
+(9,201)     
+—      
+811   
+Other income (expense), net
+   
+(8,528)     
+(3,293)     
+(11,297)     
+1,218
+
+Loss before provision (benefit) for income taxes
+   
+(100,699)     
+(861,862)     
+(365,312)     
+(1,023,091)   
+Provision (benefit) for income taxes
+   
+1,438     
+(8,543)     
+(1,121)     
+(5,043)
+
+Net loss
+    $
+(102,137)      $
+(853,319)      $
+(364,191)      $
+(1,018,048)
+
+(1) 
+Includes stock-based compensation expense as follows (in thousands):
+ 
+ 
+  
+Three Months Ended September 30,   
+Nine Months Ended September 30,  
+ 
+  
+2021
+  
+2020
+  
+2021
+  
+2020
+Cost of revenue
+    $
+14,860    
+  $
+94,385    
+  $
+54,866    
+  $
+        120,285   
+Sales and marketing
+   
+57,124    
+ 
+263,958    
+ 
+186,418    
+ 
+322,353   
+Research and development
+   
+34,472    
+ 
+256,769    
+ 
+122,976    
+ 
+309,698   
+General and administrative
+   
+78,379    
+ 
+231,847    
+ 
+247,048    
+ 
+276,578
+
+Total stock-based compensation expense (i)
+    $         184,835    
+  $         846,959    
+  $
+611,308    
+  $
+1,028,914
+
+(i) 
+On September 30, 2020, in connection with the Direct Listing, we incurred $769.5 million and $8.4 million of stock-based compensation using the
+accelerated attribution method related to the satisfaction of the performance-based vesting condition for RSUs and growth units, respectively, that
+had satisfied the service-based vesting condition as of such date.
+
+
+#### 34
+
+
+## Page 35
+
+### Table 35.1
+
+| Revenue |  | 100% |  | 100% |  | 100% |  | 100% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.2
+
+| Gross profit |  | 78 |  | 48 |  | 77 |  | 63 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.3
+
+| Sales and marketing |  | 39 |  | 116 |  | 41 |  | 70 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.4
+
+| General and administrative |  | 38 |  | 117 |  | 41 |  | 64 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.5
+
+| Loss from operations |  | (23) |  | (293) |  | (32) |  | (132) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.6
+
+| Interest expense |  | — |  | (1) |  | — |  | (2) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.7
+
+| Other income (expense), net |  | (3) |  | (1) |  | (1) |  | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.8
+
+| Provision (benefit) for income taxes |  | — |  | (3) |  | — |  | (1) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.9
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.10
+
+| Commercial |  |  | 174,310 |  | 126,805 |  |  | 47,505 |  | 37% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.11
+
+| Cost of revenue |  | $ | 86,804 | $ | 149,340 |  |  | $ (62,536) |  | (42)% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.12
+
+| Gross margin |  |  | 78% |  | 48% |  |  | 30% |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+The following table sets forth the components of our condensed consolidated statements of operations data as a percentage of revenue:
+ 
+ 
+  
+Three Months Ended September 30,   
+Nine Months Ended September 30,  
+ 
+  
+2021
+  
+2020
+  
+2021
+  
+2020
+Revenue
+   
+100%  
+ 
+100%  
+ 
+100%  
+ 
+100% 
+Cost of revenue
+   
+22     
+ 
+52     
+ 
+23     
+ 
+37
+
+Gross profit
+   
+78     
+ 
+48     
+ 
+77     
+ 
+63    
+Operating expenses:
+  
+ 
+ 
+ 
+Sales and marketing
+   
+39     
+ 
+116     
+ 
+41     
+ 
+70    
+Research and development
+   
+24     
+ 
+108     
+ 
+27     
+ 
+61    
+General and administrative
+   
+38     
+ 
+           117     
+ 
+41     
+ 
+64
+
+Total operating expenses
+   
+101     
+ 
+341     
+ 
+109     
+ 
+           195
+
+Loss from operations
+   
+(23)    
+ 
+(293)    
+ 
+(32)    
+ 
+(132)   
+Interest income
+   
+—     
+ 
+—     
+ 
+        —     
+ 
+1    
+Interest expense
+   
+—     
+ 
+(1)    
+ 
+—     
+ 
+(2)   
+Change in fair value of warrants
+   
+—     
+ 
+(3)    
+ 
+—     
+ 
+—    
+Other income (expense), net
+   
+(3)    
+ 
+(1)    
+ 
+(1)    
+ 
+—
+
+Loss before provision (benefit) for income taxes
+   
+(26)    
+ 
+(298)  
+ 
+(33)    
+ 
+(133)   
+Provision (benefit) for income taxes
+   
+—     
+ 
+(3)    
+ 
+—     
+ 
+(1)
+
+Net loss
+   
+        (26)%  
+ 
+(295)%  
+ 
+(33)%  
+ 
+(132)%
+
+
+#### Comparison of the Three Months Ended September 30, 2021 and 2020
+
+Revenue
+ 
+ 
+  
+Three Months Ended September 30,
+  
+Change
+ 
+ 
+  
+2021
+  
+2020
+  
+Amount
+  
+%
+Revenue:
+  
+ 
+ 
+ 
+Government
+    $             217,836     $
+        162,561     $
+     55,275    
+          34% 
+Commercial
+   
+174,310    
+126,805    
+47,505    
+37%
+
+Total revenue
+    $
+392,146     $
+289,366     $
+102,780    
+36%
+
+Revenue increased by $102.8 million, or 36%, for the three months ended September 30, 2021 compared to the three months ended
+September 30, 2020. Revenue from government customers increased by $55.3 million, or 34%, for the three months ended September 30,
+2021 compared to the three months ended September 30, 2020, primarily from customers in the United States. Of the increase, $53.4 million
+was from government customers existing as of December 31, 2020. Revenue from commercial customers increased by $47.5 million, or 37%,
+for the three months ended September 30, 2021 compared to the three months ended September 30, 2020. The increase is primarily due to
+an increase of $35.0 million from new customers that were not yet our customers as of December 31, 2020. Generally, increases in revenue
+from our existing customers are related to increased adoption of our products and services within their organizations.
+
+Cost of Revenue and Gross Profit
+ 
+ 
+  
+Three Months Ended September 30,   
+Change
+ 
+ 
+  
+2021
+  
+2020
+  
+Amount
+  
+        %        
+Cost of revenue
+  
+  $
+86,804    
+$
+149,340    
+  $
+(62,536)    
+ 
+(42)%  
+Gross profit
+  
+ 
+305,342    
+ 
+140,026    
+ 
+    165,316    
+ 
+118%   
+Gross margin
+  
+ 
+    78%  
+ 
+48%  
+ 
+    30%
+
+
+#### 35
+
+
+## Page 36
+
+### Table 36.1
+
+| Sales and marketing |  | $ | 153,443 |  | $ | 334,911 |  | $ | (181,468) |  | (54)% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 36.2
+
+| General and administrative |  |  | 149,524 |  |  | 338,977 |  |  | (189,453) |  | (56)% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 36.3
+
+| Interest income |  | $ | 379 |  | $ | 494 |  | $ | (115) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Cost of revenue for the three months ended September 30, 2021 decreased by $62.5 million, or 42%, compared to the three months ended
+September 30, 2020. The decrease was primarily due to decreases in personnel costs of $78.6 million, which included a decrease of
+$79.5 million in stock-based compensation expense primarily due to higher RSU expense in the prior period related to the recognition of
+cumulative stock-based compensation expense upon our Direct Listing. These decreases in personnel costs were partially oﬀset by an
+increase of $13.2 million related to third-party cloud hosting services.
+
+Our gross margin for the three months ended September 30, 2021 increased by 30% compared to the three months ended September 30,
+2020. Gross margin increased primarily as a result of higher RSU expense in the prior period related to the recognition of cumulative stock-
+based compensation expense upon our Direct Listing and as a result of increased eﬃciencies in supporting revenue growth at our customer
+deployments, including investments in our platforms. This was partly oﬀset by an increase in third-party cloud hosting services. For the three
+months ended September 30, 2021 and 2020, gross margin, excluding stock-based compensation, would have been 82% and 81%,
+respectively.
+
+Operating Expenses
+ 
+ 
+  
+Three Months Ended September 30,
+   
+Change
+ 
+ 
+  
+2021
+   
+2020
+   
+Amount
+   
+        %        
+Sales and marketing
+    $        153,443      $
+334,911      $      (181,468)      
+(54)%   
+Research and development
+   
+94,316     
+313,915     
+(219,599)      
+(70)%   
+General and administrative
+   
+149,524     
+338,977     
+(189,453)      
+(56)%
+
+Total operating expenses
+    $
+397,283      $
+        987,803      $
+(590,520)      
+(60)%
+
+
+#### Sales and Marketing
+
+Sales and marketing expenses decreased by $181.5 million, or 54%, for the three months ended September 30, 2021 compared to the three
+months ended September 30, 2020. The decrease was primarily driven by decreases in personnel costs of $199.2 million, which included a
+decrease of $206.8 million in stock-based compensation expense primarily due to higher RSU expense in the prior period related to the
+recognition of cumulative stock-based compensation expense upon our Direct Listing. These decreases in personnel costs were partially
+offset by an increase of $5.3 million in payroll costs due to an increase in headcount attributable to our sales and marketing functions, average
+cost per head, and commission payments. Additionally, there was an increase of $9.8 million in marketing costs.
+
+
+#### Research and Development
+
+Research and development expenses decreased by $219.6 million, or 70%, for the three months ended September 30, 2021 compared to the
+three months ended September 30, 2020. The decrease was primarily driven by decreases in personnel costs of $219.2 million, which
+included a decrease of $222.3 million in stock-based compensation expense primarily due to higher RSU expense in the prior period related
+to the recognition of cumulative stock-based compensation expense upon our Direct Listing.
+
+
+#### General and Administrative
+
+General and administrative expenses decreased by $189.5 million, or 56%, for the three months ended September 30, 2021 compared to the
+three months ended September 30, 2020. The decrease was primarily driven by decreases in personnel costs of $150.8 million, which
+included a decrease of $153.5 million in stock-based compensation expense primarily due to higher RSU expense in the prior period related
+to the recognition of cumulative stock-based compensation expense upon our Direct Listing. Additionally, there was a decrease of
+$44.1 million in legal and other consulting services primarily from non-recurring expenses related to our Direct Listing incurred in the third
+quarter of 2020, partially oﬀset by an increase of $5.5 million from increased recruiting costs, cloud-based hosting costs, and allocated
+overhead.
+
+Interest Income
+ 
+ 
+  
+Three Months Ended September 30,
+   
+Change
+ 
+  
+2021
+   
+2020
+   
+Amount
+Interest income
+    $
+        379      $
+        494       $
+        (115)
+
+
+#### 36
+
+
+## Page 37
+
+### Table 37.1
+
+| Interest expense |  | $ | (609) | $ | (2,085) | $ | 1,476 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 37.2
+
+| Change in fair value of warrants |  | $ | — | $ | (9,201) |  | $ | 9,201 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 37.3
+
+| Other income (expense), net |  | $ | (8,528) | $ (3,293) |  | $ | (5,235) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 37.4
+
+| Provision (benefit) for income taxes |  | $ | 1,438 |  | $ (8,543) | $ | 9,981 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Interest income decreased by $0.1 million for the three months ended September 30, 2021 compared to the three months ended
+September 30, 2020 primarily due to a reduction in U.S. interest rates on interest earned from our cash, cash equivalents, and restricted cash.
+
+Interest Expense
+ 
+ 
+    Three Months Ended September 30,    
+Change
+ 
+  
+2021
+  
+2020
+  
+Amount
+Interest expense
+    $             (609)      $       (2,085)    $            1,476
+
+Interest expense decreased by $1.5 million for the three months ended September 30, 2021 compared to the three months ended
+September 30, 2020. The decrease was primarily due to the full repayment of the outstanding debt balance during the second quarter of
+2021.
+
+Change in Fair Value of Warrants
+ 
+ 
+  
+  Three Months Ended September 30,    
+Change
+ 
+  
+2021
+  
+2020
+  
+Amount
+Change in fair value of warrants
+    $
+            —       $
+      (9,201)      $        9,201
+
+During the three months ended September 30, 2020, the $9.2 million loss from the change in fair value of warrants was primarily driven by the
+increase in the fair value of our stock during the period. During the three months ended September 30, 2021, there were no outstanding
+liability classified warrants.
+
+Other Income (Expense), Net
+ 
+ 
+  
+  Three Months Ended September 30,    
+Change
+ 
+  
+      2021      
+  
+      2020      
+  
+    Amount    
+Other income (expense), net
+    $        (8,528)      $            (3,293)      $      (5,235)
+
+Other income (expense), net changed by $5.2 million for the three months ended September 30, 2021 compared to the three months ended
+September 30, 2020 primarily due to changes in realized and unrealized gains, net from foreign exchange transactions and unrealized losses,
+net from our investments in marketable securities.
+
+Provision (Benefit) for Income Taxes
+ 
+ 
+  
+  Three Months Ended September 30,    
+Change
+ 
+  
+      2021      
+  
+      2020      
+  
+    Amount    
+Provision (benefit) for income taxes
+    $         1,438     $
+           (8,543)    $            9,981
+
+We recorded a provision for income taxes of $1.4 million for the three months ended September 30, 2021 compared to a beneﬁt from income
+taxes of $8.5 million for the three months ended September 30, 2020. The change was primarily due to the beneﬁts from stock-based
+compensation windfalls and the revaluation of the UK deferred tax assets as a result of a change in the UK corporate tax rate recorded in the
+third quarter of 2020 but not in the current quarter.
+
+
+#### 37
+
+
+## Page 42
+
+
+#### Table of Contents
+
+
+#### Credit Facilities
+
+
+#### 2014 Credit Facility
+
+In October 2014, we entered into an unsecured revolving credit facility which has been subsequently amended (the “2014 Credit Facility”).
+The 2014 Credit Facility bears interest at the London Interbank Oﬀered Rate (“LIBOR”) plus a margin of 2.75% per annum, subject to certain
+adjustments, and incurs a commitment fee of 0.375% assessed on the daily average undrawn portion of revolving commitments. The 2014
+Credit Facility is secured with substantially all of our assets.
+
+During April 2021, we amended the credit facility to increase the total undrawn revolving credit facility to be $400.0 million and which also
+provides for an incremental loan facility for additional loans in an aggregate principal amount of up to $100.0 million with one or more existing
+or new lenders upon mutual agreement between us and such lenders. Upon amending the facility, we repaid the outstanding $200.0 million
+term loans. As of September 30, 2021, there were no amounts outstanding under the 2014 Credit Facility.
+
+
+#### Contractual Obligations and Commitments
+
+Our contractual obligations and commitments primarily consist of operating lease commitments for our facilities, non-cancelable purchase
+commitments related to third-party cloud hosting services, and commitments to invest in shares of various entities, certain of which are
+contingent upon certain business combinations. For additional information, refer to Note 8. Commitments and Contingencies and Note 14.
+Subsequent Events to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. Except as
+already disclosed in Note 8. Commitments and Contingencies and Note 14. Subsequent Events in our condensed consolidated ﬁnancial
+statements included elsewhere in this Quarterly Report on Form 10-Q, there has been no other material change in our contractual obligations
+and commitments other than in the ordinary course of business since our ﬁscal year ended December 31, 2020. See our Annual Report on
+Form 10-K for the year ended December 31, 2020, which was ﬁled with the SEC on February 26, 2021, for additional information regarding
+our contractual obligations.
+
+
+#### Off-Balance Sheet Arrangements
+
+We did not have, during the periods presented, any off-balance sheet ﬁnancing arrangements or any relationships with unconsolidated
+entities or ﬁnancial partnerships, including entities sometimes referred to as structured ﬁnance or special purpose entities, that were
+established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+
+
+#### Critical Accounting Policies and Estimates
+
+Our condensed consolidated ﬁnancial statements and the accompanying notes thereto included elsewhere in this Quarterly Report on Form
+10-Q are prepared in accordance with GAAP. The preparation of condensed consolidated ﬁnancial statements requires us to make estimates
+and assumptions that aﬀect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our
+estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results
+could diﬀer signiﬁcantly from our estimates. To the extent that there are diﬀerences between our estimates and actual results, our future
+financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and
+estimates discussed in the Annual Report on Form 10-K for the year ended December 31, 2020, which was ﬁled with the SEC on
+February 26, 2021.
+
+
+#### Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, refer to Note 2. Significant Accounting Policies in our condensed consolidated
+financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risks in the ordinary course of our business, which primarily relate to ﬂuctuations in the value of our investments,
+interest rates, foreign exchange, and inflation.
+
+
+#### Market Risk
+
+As of September 30, 2021, we had investments valued at $148.1 million in marketable securities. We may continue to make additional
+investments or sell the existing investments. These investments are often in early or growth stage companies that have minimal public trading
+history; as such the fair value of these investments may ﬂuctuate depending on the ﬁnancial outcome and prospects of the investees, as well
+as global market conditions including recent and ongoing volatility related to the impacts of COVID-19. We record gains or losses as the fair
+value of these investments changes and as we sell them. We anticipate additional volatility to our condensed consolidated statements of
+operations due to changes in market prices, and as such gains and losses are realized.
+
+
+#### 42
+
+
+## Page 43
+
+
+#### Table of Contents
+
+During the three and nine months ended September 30, 2021, net unrealized losses of $7.2 million related to marketable securities were
+recorded in other income (expense), net on the condensed consolidated statements of operations.
+
+
+#### Interest Rate Risk
+
+Our cash, cash equivalents, and restricted cash consist of cash, certiﬁcates of deposit, and money market funds. Our primary investment
+policy and strategies are focused on the preservation of capital and supporting our liquidity requirements. Other than the investments
+disclosed in Note 4. Investments and Fair Value Measurements  and investment commitments disclosed in Note 8. Commitments and
+Contingencies and Note 14. Subsequent Events in our condensed consolidated ﬁnancial statements included elsewhere in this Quarterly
+Report on Form 10-Q, we have not entered into investments for trading or speculative purposes.
+
+Due to the short-term nature of the ﬁnancial instruments, we have not been exposed to, nor do we anticipate being exposed to, material risks
+due to changes in interest rates. A hypothetical 10% change in interest rates during any of the periods presented would not have had a
+material impact on our condensed consolidated financial statements. As of September 30, 2021, we had no debt outstanding.
+
+
+#### Foreign Currency Exchange Risk
+
+Our contracts with customers are primarily denominated in U.S. dollars, with a small amount denominated in foreign currencies. Our
+expenses are generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the
+United States, United Kingdom, and other European countries. Our results of current and future operations and cash ﬂows are, therefore,
+subject to ﬂuctuations due to changes in foreign currency exchange rates, particularly changes in the Euro and GBP. Additionally, ﬂuctuations
+in foreign currency exchange rates may cause us to recognize transaction gains and losses in our statement of operations. To date, foreign
+currency transaction gains and losses have not been material to our condensed consolidated ﬁnancial statements, and we have not engaged
+in any foreign currency hedging transactions.
+
+
+#### Inflation Risk
+
+We do not believe that inflation has had a material effect on our business, results of operations, or financial condition.
+
+
+#### 43
+
+
+## Page 44
+
+
+#### Table of Contents
+
+
+### ITEM 4. CONTROLS AND PROCEDURES
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we ﬁle or submit
+under the Securities Exchange Act of 1934, as amended (the “Exchange Act”) is recorded, processed, summarized, and reported within the
+time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our
+Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Our management, with the participation and supervision of our Chief Executive Oﬃcer and our Chief Financial Oﬃcer, have evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end
+of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Oﬃcer and Chief Financial
+Oﬃcer have concluded that, as of such date, our disclosure controls and procedures were, in design and operation, eﬀective at a reasonable
+assurance level.
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d)
+and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the
+exercise of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate
+misconduct completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any
+system of internal control over ﬁnancial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not
+absolute, assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the
+fact that there are resource constraints and that management is required to apply its judgment in evaluating the beneﬁts of possible controls
+and procedures relative to their costs. Moreover, projections of any evaluation of eﬀectiveness to future periods are subject to the risk that
+controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may
+deteriorate. We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot
+assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+
+
+#### 44
+
+
+## Page 45
+
+
+#### Table of Contents
+
+PART II - OTHER INFORMATION
+ 
+ITEM 1.
+LEGAL PROCEEDINGS
+
+From time to time, we are subject to legal proceedings and claims arising in the ordinary course of business. Based on our current knowledge,
+we believe that the amount or range of reasonably possible losses will not, either individually or in the aggregate, have a material adverse
+effect on our business, results of operations, or financial condition.
+
+The results of any litigation cannot be predicted with certainty, and an unfavorable resolution in any legal proceedings could materially aﬀect
+our future business, results of operations, or ﬁnancial condition. Regardless of the outcome, litigation can have an adverse impact on us
+because of defense and settlement costs, diversion of management resources, and other factors.
+
+For information on legal proceedings, refer to Note 8. Commitments and Contingencies—Litigation and Legal Proceedings  in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+ 
+ITEM 1A.
+RISK FACTORS
+
+Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks and uncertainties described
+below, together with all of the other information in this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” and our condensed consolidated ﬁnancial statements and accompanying
+notes, before making a decision to invest in our Class A common stock. Our business, ﬁnancial condition, results of operations, or prospects
+could also be harmed by risks and uncertainties not currently known to us or that we currently do not believe are material. If any of the risks
+actually occur, our business, ﬁnancial condition, results of operations, and prospects could be adversely aﬀected. In that event, the trading
+price of our Class A common stock could decline, and you could lose part or all of your investment.
+
+
+#### Risk Factor Summary
+
+Our business is subject to numerous risks and uncertainties that you should consider before investing in our Class A common stock. These
+risks are described more fully below and include, but are not limited to, risks relating to the following:
+ 
+•
+ we have incurred losses each year and we may not become profitable in the future;
+ 
+•
+ we may not be able to sustain our revenue growth rate;
+ 
+•
+ our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable;
+ 
+•
+ a limited number of customers account for a substantial portion of our revenue;
+ 
+•
+ our results of operations and our key business measures are likely to fluctuate significantly on a quarterly basis;
+ 
+•
+ seasonality may cause fluctuations in our results of operations and position;
+ 
+•
+ our platforms are complex and may have a lengthy implementation process;
+ 
+•
+ we may not successfully develop and deploy new technologies to address the needs of our customers;
+ 
+•
+ our platforms must operate with third-party products and services;
+ 
+•
+ we may be unable to hire, retain, train, and motivate qualiﬁed personnel and senior management and deploy our personnel and
+
+resources to meet customer demand;
+ 
+•
+ we may be unable to successfully build, expand, and deploy our marketing and sales organization;
+ 
+•
+ we may not be able to maintain and enhance our brand and reputation;
+ 
+•
+ unfavorable news or social media coverage may harm our reputation and business;
+ 
+•
+ exclusive arrangements or unique terms with customers or partners may result in significant risks or liabilities to us;
+
+
+#### 45
+
+
+## Page 46
+
+
+#### Table of Contents
+
+•
+ we face intense competition in our markets;
+ 
+•
+ we may be unable to maintain or properly manage our culture as we grow;
+ 
+•
+ we may not enter into relationships with potential customers if we consider their activities to be inconsistent with our organizational
+
+mission or values;
+ 
+•
+ joint ventures, channel sales relationships, platform partners, and strategic alliances may be unsuccessful;
+ 
+•
+ we may not be successful in executing our strategy to increase our sales to larger customers;
+ 
+•
+ breach of the systems of any third parties upon which we rely, our customers’ cloud or on-premises environments, or our internal
+
+systems or unauthorized access to data;
+ 
+•
+ the COVID-19 pandemic may continue to significantly affect our business and operations;
+ 
+•
+ the market for our platforms and services may develop more slowly than we expect;
+ 
+•
+ we have made and may continue to make strategic investments to support key business initiatives, including in privately-held and
+
+publicly-traded companies as well as alternative investments, and we may not realize a return on these investments;
+ 
+•
+ issues raised by the use of artificial intelligence in our platforms may result in reputational harm or liability;
+ 
+•
+ we depend on computing infrastructure of third parties and they may experience errors, disruption, performance problems, or failure;
+ 
+•
+ we may fail to adequately obtain, maintain, protect, and enforce our intellectual property and other proprietary rights;
+ 
+•
+ we may be subject to intellectual property rights claims;
+ 
+•
+ there may be real or perceived errors, failures, defects, or bugs in our platforms;
+ 
+•
+ we rely on the availability of third-party technology that may be difficult to replace or that may cause errors;
+ 
+•
+ our business is subject to complex and evolving U.S. and non-U.S. laws and regulations regarding privacy, data protection and security,
+
+technology protection, and other matters;
+ 
+•
+ our non-U.S. sales and operations subject us to additional risks and regulations;
+ 
+•
+ we may encounter unfavorable outcomes in legal, regulatory, and administrative inquiries and proceedings;
+ 
+•
+ we may fail to receive and maintain government contracts or there may be changes in the contracting or ﬁscal policies of the public
+
+sector;
+ 
+•
+ the majority of our customer contracts may be terminated by the customer at any time for convenience and may contain other provisions
+
+permitting the customer to discontinue contract performance;
+ 
+•
+ we may not realize the full value of our customer contracts;
+ 
+•
+ there may be a decline in the U.S. and other government budgets, changes in spending or budgetary priorities, or delays in contract
+
+awards; and
+ 
+•
+ the multi-class structure of our common stock, the Founder Voting Trust Agreement, and the Founder Voting Agreement concentrate
+
+voting power with certain stockholders, in particular, our Founders and their affiliates.
+
+
+#### 46
+
+
+## Page 47
+
+
+#### Table of Contents
+
+
+#### Risks Related to Our Business and Industry
+
+We have incurred losses each year since our inception, we expect our operating expenses to increase, and we may not become
+profitable in the future.
+
+We have incurred losses each year since our inception as reﬂected in our condensed consolidated statements of operations included
+elsewhere in this ﬁling, and we may never achieve or maintain proﬁtability. In addition, our operating expenses have increased over time. As
+we continue to expand our business, industry verticals, and the breadth of our operations, upgrade our infrastructure, hire additional
+employees, expand into new markets, invest in research and development, invest in sales and marketing, including expanding our sales
+organization and related sales-based payments that may come with such expansion, lease more real estate to accommodate our anticipated
+future growth, and incur costs associated with general administration, including expenses related to being a public company, we expect that
+our costs of revenue and operating expenses will continue to increase. To the extent we are successful in increasing our customer base, we
+may also incur increased losses because the costs associated with acquiring and growing our customers via our Acquire, Expand, and Scale
+business model and with research and development are generally incurred upfront, while our revenue from customer contracts is generally
+recognized over the contract term. Furthermore, our sales model often requires us to spend months and invest signiﬁcant resources working
+with customers on pilot deployments at no or low cost to them, which may result in no or minimal future revenue. We may not be able to
+increase our revenue at a rate suﬃcient to oﬀset increases in our costs of revenue and operating expenses in the near term or at all, which
+would prevent us from achieving or maintaining proﬁtability in the future. Any failure by us to achieve, and then sustain or increase, proﬁtability
+on a consistent basis could adversely affect our business, financial condition, and results of operations.
+
+We may not be able to sustain our revenue growth rate in the future.
+
+Although our revenue has increased in recent periods, there can be no assurances that revenue will continue to grow or do so at current
+rates, and you should not rely on the revenue of any prior quarterly or annual period as an indication of our future performance. Our revenue
+growth rate may decline in future periods. Many factors may contribute to declines in our revenue growth rate, including increased
+competition, slowing demand for our platforms from existing and new customers, a failure by us to continue capitalizing on growth
+opportunities, terminations of existing contracts or failure to exercise existing options by our customers, and the maturation of our business,
+among others. If our revenue growth rate declines, our business, financial condition, and results of operations could be adversely affected.
+
+Our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable.
+
+Our results of operations may ﬂuctuate, in part, because of the intensive nature of our sales eﬀorts and the length and unpredictability of our
+sales cycle. As part of our sales eﬀorts, we invest considerable time and expense evaluating the speciﬁc organizational needs of our potential
+customers and educating these potential customers about the technical capabilities and value of our platforms and services. We often also
+provide our platforms to potential customers at no or low cost initially to them for evaluation purposes through short-term pilot deployments of
+our platforms in the Acquire phase of our business model, and there is no guarantee that we will be able to move customers from the Acquire
+phase into later phases. In addition, we currently have a growing but limited direct sales force, and our sales efforts have historically depended
+on the significant involvement of our senior management team. The length of our sales cycle, from initial demonstration of our platforms to sale
+of our platforms and services, tends to be long and varies substantially from customer to customer. Our sales cycle often lasts six to nine
+months but can extend to a year or more for some customers. Because decisions to purchase our platforms involve signiﬁcant ﬁnancial
+commitments, potential customers generally evaluate our platforms at multiple levels within their organization, each of which often have
+specific requirements, and typically involve their senior management.
+
+Our results of operations depend on sales to enterprise customers, which make product purchasing decisions based in part or entirely on
+factors, or perceived factors, not directly related to the features of the platforms, including, among others, that customer’s projections of
+business growth, uncertainty about economic conditions (including as a result of the ongoing COVID-19 pandemic), capital budgets,
+anticipated cost savings from the implementation of our platforms, potential preference for such customer’s internally-developed software
+solutions, perceptions about our business and platforms, more favorable terms oﬀered by potential competitors, and previous technology
+investments. In addition, certain decision makers and other stakeholders within our potential customers tend to have vested interests in the
+continued use of internally developed or existing software, which may make it more diﬃcult for us to sell our platforms and services. As a
+result of these and other factors, our sales eﬀorts typically require an extensive eﬀort throughout a customer’s organization, a signiﬁcant
+investment of human resources, expense and time, including by our senior management, and there can be no assurances that we will be
+successful in making a sale to a potential customer. If our sales eﬀorts to a potential customer do not result in suﬃcient revenue to justify our
+investments, our business, financial condition, and results of operations could be adversely affected.
+
+
+#### 47
+
+
+## Page 48
+
+
+#### Table of Contents
+
+Historically, existing customers have expanded their relationships with us, which has resulted in a limited number of customers
+accounting for a substantial portion of our revenue. If existing customers do not make subsequent purchases from us or renew
+their contracts with us, or if our relationships with our largest customers are impaired or terminated, our revenue could decline,
+and our results of operations would be adversely impacted.
+
+We derive a signiﬁcant portion of our revenue from existing customers that expand their relationships with us. Increasing the size and number
+of the deployments of our existing customers is a major part of our growth strategy. We may not be eﬀective in executing this or any other
+aspect of our growth strategy.
+
+Our top three customers together accounted for 25% and 28% of our revenue for the years ended December 31, 2020 and 2019,
+respectively, and 18% and 27% of our revenue for the nine months ended September 30, 2021 and 2020, respectively. Our top three
+customers by revenue, for the nine months ended September 30, 2021, have been with us for an average of ﬁve years as of September 30,
+2021. Certain of our customers, including customers that represent a signiﬁcant portion of our business, have in the past reduced their spend
+with us or terminated their agreements with us, which has reduced our anticipated future payments or revenue from these customers, and
+which has required us to refund some previously paid amounts to these customers. It is not possible for us to predict the future level of
+demand from our larger customers for our platforms and applications.
+
+While we generally oﬀer contract terms up to ﬁve years in length, our customers sometimes enter into shorter-term contracts, such as
+one-year subscriptions, which may not provide for automatic renewal and may require the customer to opt-in to extend the term. Our
+customers have no obligation to renew, upgrade, or expand their agreements with us after the terms of their existing agreements have
+expired. In addition, many of our customer contracts permit the customer to terminate their contracts with us with notice periods of varying
+lengths, generally three to six months. If one or more of our customers terminate their contracts with us, whether for convenience, for default
+in the event of a breach by us, or for other reasons speciﬁed in our contracts, as applicable; if our customers elect not to renew their contracts
+with us; if our customers renew their contractual arrangements with us for shorter contract lengths or for a reduced scope; or if our customers
+otherwise seek to renegotiate terms of their existing agreements on terms less favorable to us, our business and results of operations could
+be adversely aﬀected. This adverse impact would be even more pronounced for customers that represent a material portion of our revenue or
+business operations.
+
+Our ability to renew or expand our customer relationships may decrease or vary as a result of a number of factors, including our customers’
+satisfaction or dissatisfaction with our platforms and services, the frequency and severity of software and implementation errors, our platforms’
+reliability, our pricing, the eﬀects of general economic conditions, competitive oﬀerings or alternatives, or reductions in our customers’
+spending levels. If our customers do not renew or expand their agreements with us or if they renew their contracts for shorter lengths or on
+other terms less favorable to us, our revenue may grow more slowly than expected or decline, and our business could suﬀer. Our business,
+ﬁnancial condition, and results of operations would also be adversely aﬀected if we face diﬃculty collecting our accounts receivable from our
+customers or if we are required to refund customer deposits.
+
+Achieving renewal or expansion of deployments may require us to increasingly engage in sophisticated and costly sales eﬀorts that may not
+result in additional sales. In addition, our customers’ decisions to expand the deployment of our platforms depends on a number of factors,
+including general economic conditions, the functioning of our platforms, the ability of our forward-deployed engineers to assist our customers
+in identifying new use cases, modernizing their data architectures, and achieving success with data-driven initiatives, and our customers’
+satisfaction with our services. If our efforts to expand within our existing customer base are not successful, our business may suffer.
+
+We may not realize the full deal value of our customer contracts, which may result in lower than expected revenue.
+
+As of December 31, 2020, the total remaining deal value of the contracts that we had been awarded by, or entered into with, commercial and
+government customers, including existing contractual obligations and contractual options available to those customers, was $2.8 billion. Of our
+total remaining deal value, as of December 31, 2020, $1.5 billion was the remaining deal value of our contracts with commercial customers
+and $1.3 billion was the remaining deal value of our contracts with government customers.
+
+The majority of these contracts are subject to termination for convenience provisions. Also, a majority of commercial contracts entered into in
+connection with our strategic investments are subject to termination, including for convenience in the event the proposed business
+combination is not completed. Additionally, the U.S. federal government is prohibited from exercising contract options more than one year in
+advance. As a result, there can be no guarantee that our customer contracts will not be terminated or that contract options will be exercised.
+
+We historically have not realized all of the revenue from the full deal value of our customer contracts, and we may not do so in the future. This
+is because the actual timing and amount of revenue under contracts included are subject to various contingencies, including exercise of
+contractual options, customers not terminating their contracts, and renegotiation of contracts. In addition, delays in the completion of the U.S.
+government’s budgeting process, the use of continuing resolutions, and a potential lapse in appropriations, or similar events in other
+jurisdictions, could adversely affect our ability to timely recognize revenue under certain government contracts.
+
+
+#### 48
+
+
+## Page 49
+
+
+#### Table of Contents
+
+Our results of operations and our key business measures are likely to ﬂuctuate signiﬁcantly on a quarterly basis in future periods
+and may not fully reﬂect the underlying performance of our business, which makes our future results diﬃcult to predict and could
+cause our results of operations to fall below expectations.
+
+Our quarterly results of operations, including cash ﬂows, have ﬂuctuated signiﬁcantly in the past and are likely to continue to do so in the
+future. Accordingly, the results of any one quarter should not be relied upon as an indication of future performance. Our quarterly results,
+ﬁnancial position, and operations are likely to ﬂuctuate as a result of a variety of factors, many of which are outside of our control, and as a
+result, may not fully reﬂect the underlying performance of our business. Fluctuation in quarterly results may negatively impact the value of our
+Class A common stock.
+
+We typically close a large portion of our sales in the last several weeks of a quarter, which impacts our ability to plan and manage margins and
+cash ﬂows. Our sales cycle is often long, and it is diﬃcult to predict exactly when, or if, we will actually make a sale with a potential customer
+or when we will be able to move them to the Expand or Scale phases. As a result, large individual sales have, in some cases, occurred in
+quarters subsequent to those we anticipated, or have not occurred at all. The loss or delay of one or more large sales transactions in a quarter
+would impact our results of operations and cash ﬂow for that quarter and any future quarters in which revenue from that transaction is lost or
+delayed. In addition, downturns in new sales may not be immediately reﬂected in our revenue because we generally recognize revenue over
+the term of our contracts. The timing of customer billing and payment varies from contract to contract. A delay in the timing of receipt of such
+collections, or a default on a large contract, may negatively impact our liquidity for the period and in the future. Because a substantial portion
+of our expenses are relatively ﬁxed in the short-term and require time to adjust, our results of operations and liquidity would suﬀer if revenue
+falls below our expectations in a particular period.
+
+Other factors that may cause ﬂuctuations in our quarterly results of operations and ﬁnancial position include, without limitation, those listed
+below:
+ 
+•
+ The success of our sales and marketing efforts, including the success of our pilot deployments;
+ 
+•
+ Our ability to increase our contribution margins and move our customers into the Expand or Scale phases;
+ 
+•
+ The timing of expenses and revenue recognition;
+ 
+•
+ The timing and amount of payments received from our customers;
+ 
+•
+ Termination of one or more large contracts by customers, including for convenience;
+ 
+•
+ The time and cost-intensive nature of our sales efforts and the length and variability of sales cycles;
+ 
+•
+ The amount and timing of operating expenses related to the maintenance and expansion of our business and operations;
+ 
+•
+ The timing and effectiveness of new sales and marketing initiatives;
+ 
+•
+ Changes in our pricing policies or those of our competitors;
+ 
+•
+ The timing and success of new products, features, and functionality introduced by us or our competitors;
+ 
+•
+ Interruptions or delays in our operations and maintenance (“O&M”) services;
+ 
+•
+ Cyberattacks and other actual or perceived data or security breaches;
+ 
+•
+ Our ability to hire and retain employees, in particular, those responsible for operations and maintenance of and the selling or marketing
+
+of our platforms, and develop and retain talented sales personnel who are able to achieve desired productivity levels in a reasonable
+period of time and provide sales leadership in areas in which we are expanding our sales and marketing efforts;
+
+
+#### 49

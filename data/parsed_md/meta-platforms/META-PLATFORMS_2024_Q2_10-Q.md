@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2024_Q2_10-Q
+# Financial Report: META-PLATFORMS_2024_Q2_10-Q
 
 - **Source File**: `META-PLATFORMS_2024_Q2_10-Q.pdf`
-- **Total Pages**: 112
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 112
+- **Parsed Key Pages**: 32 (32 selected sections)
 
 ---
 
@@ -3522,211 +3522,560 @@ For information regarding revenue disaggregated by geography, see Note 2 — Rev
 #### 28
 
 
-## Page 29
-
-
-#### Table of Contents
-
-Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
-
-You should read the following discussion of our ﬁnancial condition and results of operations in conjunction with our condensed consolidated
-ﬁnancial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated ﬁnancial
-statements included in our Annual Report on Form 10-K for the year ended December 31, 2023, as ﬁled with the Securities and Exchange
-Commission. In addition to our historical condensed consolidated ﬁnancial information, the following discussion contains forward-looking
-statements that reﬂect our plans, estimates, and beliefs. Our actual results could diﬀer materially from those discussed in the forward-looking
-statements. Factors that could cause or contribute to these diﬀerences include those discussed below and elsewhere in this Quarterly Report on
-Form 10-Q, particularly in Part II, Item 1A, "Risk Factors." For a discussion of limitations in the measurement of our Family metrics, see the
-section entitled "Limitations of Key Metrics and Other Data" in this Quarterly Report on Form 10-Q.
-
-To supplement our condensed consolidated ﬁnancial statements, which are prepared and presented in accordance with generally accepted
-accounting principles in the United States (GAAP), we present revenue on a constant currency basis, which is a non-GAAP ﬁnancial measure.
-Revenue on a constant currency basis is presented in the section entitled "—Revenue—Foreign Exchange Impact on Revenue." To calculate
-revenue on a constant currency basis, we translated revenue for the three and six months ended June 30, 2024 using the prior year's monthly
-exchange rates for our settlement or billing currencies other than the U.S. dollar.
-
-This non-GAAP ﬁnancial measure is not intended to be considered in isolation or as a substitute for, or superior to, ﬁnancial information prepared
-and presented in accordance with GAAP. This measure may be diﬀerent from non-GAAP ﬁnancial measures used by other companies, limiting
-its usefulness for comparison purposes. Moreover, presentation of revenue on a constant currency basis is provided for year-over-year
-comparison purposes, and investors should be cautioned that the eﬀect of changing foreign currency exchange rates has an actual eﬀect on our
-operating results. We believe this non-GAAP ﬁnancial measure provides investors with useful supplemental information about the ﬁnancial
-performance of our business, enables comparison of ﬁnancial results between periods where certain items may vary independent of business
-performance, and allows for greater transparency with respect to key metrics used by management in operating our business.
-
-
-#### Executive Overview of Second Quarter Results
-
-Our mission is to give people the power to build community and bring the world closer together.
-
-Our ﬁnancial results and key Family metrics for the second quarter of 2024 are set forth below. Total revenue for the second quarter of
-2024 was $39.07 billion, an increase of 22% compared to the second quarter of 2023, due to an increase in advertising revenue. Revenue on a
-constant currency basis would have increased 23% compared to the second quarter of 2023. Ad impressions delivered across our Family of
-Apps in the second quarter of 2024 increased 10% year-over-year, and our average price per ad in the second quarter of 2024 increased 10%
-year-over-year.
-
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Revenue | $ | 38,718 |  |  | $ | 31,723 |  |  | 22% |  | $ | 353 |  |  | $ | 276 |  |  | 28% |  | $ | 39,071 |  |  | $ | 31,999 |  |  | 22% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Costs and expenses | $ | 19,383 |  |  | $ | 18,592 |  |  | 4% |  | $ | 4,841 |  |  | $ | 4,015 |  |  | 21% |  | $ | 24,224 |  |  | $ | 22,607 |  |  | 7% |
-| Income (loss) from operations | $ | 19,335 |  |  | $ | 13,131 |  |  | 47% |  | $ | (4,488) |  |  | $ | (3,739) |  |  | (20)% |  | $ | 14,847 |  |  | $ | 9,392 |  |  | 58% |
-| Operating margin | 50 |  | % |  | 41 |  | % |  |  |  | (1,271) |  | % |  | (1,355) |  | % |  |  |  | 38 |  | % |  | 29 |  | % |  |  |
-
+## Page 38
 
 
 #### Table of Contents
 
 
-#### Consolidated and Segment Results
-
-We report our ﬁnancial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook,
-Instagram, Messenger, WhatsApp, and other services. RL includes our virtual, augmented, and mixed reality related consumer hardware,
-software, and content.
-
-Family of Apps
-Reality Labs
-Total
+#### Components of Results of Operations
 
 
-#### Three Months Ended June
+#### Revenue
 
 
-#### 30,
+#### Family of Apps (FoA)
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad
+products on Facebook, Instagram, Messenger, and third-party mobile applications. Marketers pay for ad products either directly or through their
+relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks, taken
+by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. In particular, the ads we show may vary by product (for example, our
+video and Reels products are not currently monetized at the same rate as our Feed or Stories products), and from time to time we increase or
+decrease the number or frequency of ads we show as part of our product and monetization strategies. We calculate average price per ad as total
+advertising revenue divided by the number of ads delivered, representing the average price paid per ad by a marketer regardless of their desired
+objective such as impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net
+basis.
+
+Other revenue. Other revenue consists of revenue from WhatsApp Business Platform, net fees we receive from developers using our
+Payments infrastructure and revenue from various other sources.
 
 
-#### % change
+#### Reality Labs (RL)
+
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest, wearables, and related software and
+content.
 
 
-#### Three Months Ended June 30,
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly
+include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network
+infrastructure and buildings, as well as payroll and related expenses which include share-based compensation for employees on our operations
+teams, and energy and bandwidth costs. Cost of revenue also includes costs associated with partner arrangements, including traﬃc acquisition
+costs and credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of products sold and
+estimated losses on non-cancelable contractual commitments; and content costs.
+
+Research and development. Research and development expenses consist mostly of payroll and related expenses which include share-
+based compensation; RL technology development costs; facilities-related costs for employees on our engineering and technical teams who are
+responsible for developing new technologies and products as well as improving existing products; infrastructure costs; and restructuring charges.
+
+Marketing and sales. Marketing and sales expenses consist mainly of marketing and promotional expenses as well as payroll and related
+expenses which include share-based compensation for our employees engaged in sales, sales support, marketing, business development, and
+customer service functions. Our marketing and sales expenses also include professional services such as content reviewers to support our
+community and product operations and restructuring charges.
+
+General and administrative. General and administrative expenses consist primarily of legal-related costs, which include estimated ﬁnes,
+settlements, or other losses in connection with legal and related matters, as well as other legal fees; payroll and related expenses which include
+share-based compensation for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications and policy,
+and other administrative employees; other taxes, such as digital services taxes and other non-income-based tax levies; professional services;
+and restructuring charges.
 
 
-#### % change
+#### 38
 
 
-#### Three Months Ended June 30,
+## Page 39
 
+### Table 39.1
+
+| Revenue | $ | 39,071 |  | $ | 31,999 |  | $ | 75,527 |  | $ | 60,645 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |  |  |  |
+| Cost of revenue | 7,308 |  |  | 5,945 |  |  | 13,948 |  |  | 12,054 |  |
+| Research and development | 10,537 |  |  | 9,344 |  |  | 20,515 |  |  | 18,725 |  |
+| Marketing and sales | 2,721 |  |  | 3,154 |  |  | 5,285 |  |  | 6,198 |  |
+| General and administrative | 3,658 |  |  | 4,164 |  |  | 7,114 |  |  | 7,049 |  |
+| Total costs and expenses | 24,224 |  |  | 22,607 |  |  | 46,862 |  |  | 44,026 |  |
+| Income from operations | 14,847 |  |  | 9,392 |  |  | 28,665 |  |  | 16,619 |  |
+| Interest and other income (expense), net | 259 |  |  | (99) |  |  | 624 |  |  | (19) |  |
+| Income before provision for income taxes | 15,106 |  |  | 9,293 |  |  | 29,289 |  |  | 16,600 |  |
+| Provision for income taxes | 1,641 |  |  | 1,505 |  |  | 3,455 |  |  | 3,102 |  |
+| Net income | $ | 13,465 |  | $ | 7,788 |  | $ | 25,834 |  | $ | 13,498 |
+
+
+### Table 39.2
+
+| Revenue | 100 | % |  | 100 | % |  | 100 | % | 100 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |  |  |
+| Cost of revenue | 19 |  |  | 19 |  |  | 18 |  | 20 |  |
+| Research and development | 27 |  |  | 29 |  |  | 27 |  | 31 |  |
+| Marketing and sales | 7 |  |  | 10 |  |  | 7 |  | 10 |  |
+| General and administrative | 9 |  |  | 13 |  |  | 9 |  | 12 |  |
+| Total costs and expenses | 62 |  |  | 71 |  |  | 62 |  | 73 |  |
+| Income from operations | 38 |  |  | 29 |  |  | 38 |  | 27 |  |
+| Interest and other income (expense), net | 1 |  |  | — |  |  | 1 |  | — |  |
+| Income before provision for income taxes | 39 |  |  | 29 |  |  | 39 |  | 27 |  |
+| Provision for income taxes | 4 |  |  | 5 |  |  | 5 |  | 5 |  |
+| Net income | 34 | % |  | 24 | % |  | 34 | % | 22 | % |
+
+
+
+#### Table of Contents
+
+
+#### Results of Operations
+
+The following table sets forth our condensed consolidated statements of income data (in millions):
+
+Three Months Ended June 30,
+Six Months Ended June 30,
+ 
+2024
+2023
+2024
+2023
+Revenue
+$
+39,071 
+$
+31,999 
+$
+75,527 
+$
+60,645 
+Costs and expenses:
+
+Cost of revenue
+7,308 
+5,945 
+13,948 
+12,054 
+Research and development
+10,537 
+9,344 
+20,515 
+18,725 
+Marketing and sales
+2,721 
+3,154 
+5,285 
+6,198 
+General and administrative
+3,658 
+4,164 
+7,114 
+7,049 
+Total costs and expenses
+24,224 
+22,607 
+46,862 
+44,026 
+Income from operations
+14,847 
+9,392 
+28,665 
+16,619 
+Interest and other income (expense), net
+259 
+(99)
+624 
+(19)
+Income before provision for income taxes
+15,106 
+9,293 
+29,289 
+16,600 
+Provision for income taxes
+1,641 
+1,505 
+3,455 
+3,102
+
+Net income
+$
+13,465 
+$
+7,788 
+$
+25,834 
+$
+13,498
+
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue)
+:
+
+Three Months Ended June 30,
+Six Months Ended June 30,
+ 
+2024
+2023
+2024
+2023
+Revenue
+100 %
+100 %
+100 %
+100 %
+Costs and expenses:
+
+Cost of revenue
+19 
+19 
+18 
+20 
+Research and development
+27 
+29 
+27 
+31 
+Marketing and sales
+7 
+10 
+7 
+10 
+General and administrative
+9 
+13 
+9 
+12 
+Total costs and expenses
+62 
+71 
+62 
+73 
+Income from operations
+38 
+29 
+38 
+27 
+Interest and other income (expense), net
+1 
+— 
+1 
+— 
+Income before provision for income taxes
+39 
+29 
+39 
+27 
+Provision for income taxes
+4 
+5 
+5 
+5
+
+Net income
+34 %
+24 %
+34 %
+22 %
+
+____________________________________
+(1)
+Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### (1)
+
+
+#### 39
+
+
+## Page 40
+
+### Table 40.1
+
+| Advertising | $ | 38,329 |  | $ | 31,498 |  | 22 | % |  | $ | 73,965 |  | $ | 59,599 |  | 24 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 389 |  |  | 225 |  |  | 73 | % |  | 769 |  |  | 430 |  |  | 79 | % |
+| Family of Apps | 38,718 |  |  | 31,723 |  |  | 22 | % |  | 74,734 |  |  | 60,029 |  |  | 24 | % |
+| Reality Labs | 353 |  |  | 276 |  |  | 28 | % |  | 793 |  |  | 616 |  |  | 29 | % |
+| Total revenue | $ | 39,071 |  | $ | 31,999 |  | 22 | % |  | $ | 75,527 |  | $ | 60,645 |  | 25 | % |
+
+
+
+#### Table of Contents
+
+
+#### Revenue
+
+
+#### The following table sets forth our revenue by source and by segment:
+
+Three Months Ended June 30,
+ 
+Six Months Ended June 30,
+ 
+2024
+2023
 % change
 2024
 2023
-2024
-2023
-2024
-2023
+% change
 
 (in millions, except percentages)
-Revenue
+Advertising
 $
-38,718
+38,329 
 $
-31,723
-22%
+31,498 
+22 %
 $
-353
+73,965 
 $
-276
-28%
+59,599 
+24 %
+Other revenue
+389 
+225 
+73 %
+769 
+430 
+79 %
+Family of Apps
+38,718 
+31,723 
+22 %
+74,734 
+60,029 
+24 %
+Reality Labs
+353 
+276 
+28 %
+793 
+616 
+29 %
+
+Total revenue
 $
-39,071
+39,071 
 $
-31,999
-22%
-Costs and expenses
+31,999 
+22 %
 $
-19,383
+75,527 
 $
-18,592
-4%
+60,645 
+25 %
+
+
+#### Family of Apps
+
+FoA revenue in the three and six months ended June 30, 2024 increased $7.00 billion, or 22%, and $14.70 billion, or 24%, respectively,
+compared to the same periods in 2023. The increases were almost entirely driven by advertising revenue.
+
+
+#### Advertising
+
+Advertising revenue in the three and six months ended June 30, 2024 increased $6.83 billion, or 22%, and $14.37 billion, or 24%,
+respectively, compared to the same periods in 2023 due to increases in ad impressions delivered and average price per ad. During the three and
+six months ended June 30, 2024, ad impressions delivered increased by 10% and 15%, respectively, year-over-year, as compared with
+increases of 34% and 30%, respectively, in the same periods in 2023 as ad impressions grew in all regions, especially in Asia-Paciﬁc and Rest
+of World. The increases in ad impressions delivered were mostly driven by an increase in users and their engagement on our products. During
+the three and six months ended June 30, 2024, the average price per ad increased by 10% and 8%, respectively, year-over-year, as compared
+with decreases of 16% and 17%, respectively, in the same periods in 2023. The increases in average price per ad were driven by an increase in
+advertising demand which we believe is primarily due to ongoing improvements to our ad performance from our ad targeting and measurement
+tools. These increases were partially oﬀset by a higher number of ad impressions delivered, especially in geographies and in products, such as
+Reels, that monetize at lower rates. Other factors are discussed in the section entitled "—Executive Overview of Second Quarter Results." In
+addition, year-over-year advertising revenue growth during the three and six months ended June 30, 2024 were mainly driven by increases in
+marketer spending in online commerce, gaming, as well as entertainment and media. We anticipate that future advertising revenue will be driven
+by a combination of price and ad impressions delivered.
+
+
+#### Other revenue
+
+FoA other revenue in the three and six months ended June 30, 2024 increased $164 million, or 73%, and $339 million, or 79%,
+respectively, compared to the same periods in 2023. The increases were primarily driven by WhatsApp Business Platform revenue.
+
+
+#### Reality Labs
+
+RL revenue in the three and six months ended June 30, 2024 increased $77 million, or 28%, and $177 million, or 29%, respectively,
+compared to the same periods in 2023. The increases in RL revenue were driven by a net increase in the volume of Meta Quest sales.
+
+
+#### Foreign Exchange Impact on Revenue
+
+Changes in foreign exchange rates had an unfavorable impact on our revenue in the three and six months ended June 30, 2024 compared
+to the same periods in 2023. To calculate revenue on a constant currency basis, we translated revenue using the prior year's monthly exchange
+rates for our settlement or billing currencies other than the U.S. dollar. Using these constant rates, for the three months ended June 30, 2024,
+our total revenue and advertising revenue would have been $39.44 billion and $38.70 billion, which were $371 million and $367 million higher
+than actual total revenue and
+
+
+#### 40
+
+
+## Page 41
+
+### Table 41.1
+
+| Cost of revenue | $ | 7,308 |  |  | $ | 5,945 |  | 23 | % |  | $ | 13,948 |  |  | $ | 12,054 |  |  | 16 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 19 |  | % |  | 19 |  | % |  |  |  | 18 |  | % |  | 20 |  | % |  |  |  |
+
+
+### Table 41.2
+
+| Research and development | $ | 10,537 |  | $ | 9,344 | 13 | % |  | $ | 20,515 |  |  | $ | 18,725 |  |  | 10 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |  |  | 27 |  | % |  | 31 |  | % |  |  |  |
+
+
+### Table 41.3
+
+| Marketing and sales | $ 2,721 |  | $ | 3,154 | (14) | % |  | $ 5,285 |  |  | $ | 6,198 |  |  | (15) | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |  | 7 | % |  | 10 |  | % |  |  |  |
+
+
+
+#### Table of Contents
+
+advertising revenue, respectively. Using these constant rates, for the six months ended June 30, 2024, our total revenue and advertising revenue
+would have been $75.79 billion and $74.23 billion, which were $265 million and $261 million higher than actual total revenue and advertising
+revenue, respectively.
+
+
+#### Cost of revenue
+
+Three Months Ended June 30,
+ 
+Six Months Ended June 30,
+ 
+2024
+2023
+% change
+2024
+2023
+% change
+
+(in millions, except percentages)
+Cost of revenue
 $
-4,841
+7,308
 $
-4,015
-21%
+5,945
+23 %
 $
-24,224
+13,948
 $
-22,607
-7%
-Income (loss) from
-operations
-$
-19,335
-$
-13,131
-47%
-$
-(4,488)
-$
-(3,739)
-(20)%
-$
-14,847
-$
-9,392
-58%
-Operating margin
-50 
+12,054
+16 %
+Percentage of revenue
+19 
 %
-41 
+19 
 %
-(1,271)
+18 
 %
-(1,355)
+20 
 %
-38 
+
+Cost of revenue in the three and six months ended June 30, 2024 increased $1.36 billion, or 23%, and $1.89 billion, or 16%, respectively,
+compared to the same periods in 2023. The increases were primarily due to increases in operational expenses related to our data centers and
+technical infrastructure, mostly from higher depreciation expense. In the three months ended June 30, 2024, the increase was also driven by
+higher RL inventory costs.
+
+See Note 7 — Property and Equipment in the notes to the condensed consolidated ﬁnancial statements included in Part I, Item 1, of this
+Quarterly Report on Form 10-Q for additional information regarding depreciation expense.
+
+
+#### Research and development
+
+Three Months Ended June 30,
+ 
+Six Months Ended June 30,
+ 
+2024
+2023
+% change
+2024
+2023
+% change
+
+(in millions, except percentages)
+Research and development
+$
+10,537
+$
+9,344
+13 %
+$
+20,515
+$
+18,725
+10 %
+Percentage of revenue
+27 
 %
 29 
 %
+27 
+%
+31 
+%
 
-•
-Net income was $13.47 billion, with diluted earnings per share (EPS) of $5.16 for the three months ended June 30, 2024.
-•
-Capital expenditures, including principal payments on finance leases, were $8.47 billion for the three months ended June 30, 2024.
-•
-Share repurchases were $6.32 billion of our Class A common stock and dividend payments were $1.27 billion for the three months ended
-June 30, 2024.
-•
-Cash, cash equivalents, and marketable securities were $58.08 billion as of June 30, 2024.
-•
-Effective tax rate was 11% for the three months ended June 30, 2024.
-•
-Headcount was 70,799 as of June 30, 2024, a decrease of 1% year-over-year.
+Research and development expenses in the three and six months ended June 30, 2024 increased $1.19 billion, or 13%, or $1.79 billion, or
+10%, respectively, compared to the same periods in 2023. The increases were mostly due to higher payroll and related expenses and
+infrastructure costs for research and development, partially offset by lower restructuring charges.
 
+The higher payroll and related expenses were mainly from a 9% growth in employee headcount from June 30, 2023 to June 30, 2024 in
+engineering and other technical functions supporting our continued investment in our family of products and Reality Labs.
 
-#### Family of Apps Metrics
-
-•
-Family daily active people (DAP) was 3.27 billion on average for June 2024, an increase of 7% year-over-year.
-•
-Ad impressions delivered across our Family of Apps in the second quarter of 2024 increased by 10% year-over-year.
-•
-Average price per ad in the second quarter of 2024 increased by 10% year-over-year.
+See Note 3 — Restructuring in the notes to the condensed consolidated ﬁnancial statements included in Part I, Item 1, of this Quarterly
+Report on Form 10-Q for additional information regarding restructuring charges.
 
 
-#### Developments in Advertising
+#### Marketing and sales
 
-Substantially all of our revenue is currently generated from advertising on Facebook and Instagram. We rely on targeting and
-measurement tools that incorporate data signals from user activity on websites and services that we do not control, as well as signals generated
-within our products, in order to deliver relevant and eﬀective ads to our users. Our advertising revenue has been, and we expect will continue to
-be, adversely aﬀected by reduced marketer spending as a result of limitations on our ad targeting and measurement tools arising from changes
-to the regulatory environment and third-party mobile operating systems and browsers.
+Three Months Ended June 30,
+ 
+Six Months Ended June 30,
+ 
+2024
+2023
+% change
+2024
+2023
+% change
 
-In particular, legislative and regulatory developments such as the General Data Protection Regulation, including its evolving interpretation
-through decisions of the Court of Justice of the European Union, ePrivacy Directive, European Digital Services Act, Digital Markets Act, and U.S.
-state privacy laws including the California Consumer Privacy Act, as amended by the California Privacy Rights Act, have impacted our ability to
-use data signals in our ad products, and we expect these and other developments will have further impact in the future. As a result, we have
-implemented, and we will continue to implement, whether voluntarily or otherwise, changes to our products and user data practices, which
-reduce our ability to eﬀectively target and measure ads. For example, in response to regulatory developments in Europe, we announced our
-plans to change the legal basis for behavioral advertising on Facebook and Instagram in the EU, European Economic Area, and Switzerland
-from "legitimate interests" to "consent," and began oﬀering users in the region a "subscription for no ads" alternative. We are engaging with
-regulators on our consent model. In addition, mobile operating system and browser providers, such as Apple and Google, have implemented
-product changes and/or announced future plans to limit the ability of websites and application developers to collect and use these signals to
-target and measure advertising. For example, in 2021, Apple made certain changes to its products and data use policies in connection with
-changes to its iOS operating system that
+(in millions, except percentages)
+Marketing and sales
+$
+2,721
+$
+3,154
+(14)%
+$
+5,285
+$
+6,198
+(15)%
+Percentage of revenue
+7 
+%
+10 
+%
+7 
+%
+10 
+%
+
+Marketing and sales expenses in the three and six months ended June 30, 2024 decreased $433 million, or 14%, and $913 million, or 15%,
+respectively, compared to the same periods in 2023. The decreases were mainly due to decreases in restructuring charges and payroll and
+related expenses. In the six months ended June 30, 2024, the decrease was also driven by a decrease in product and community operations
+expenses.
+
+See Note 3 — Restructuring in the notes to the condensed consolidated ﬁnancial statements included in Part I, Item 1, of this Quarterly
+Report on Form 10-Q for additional information regarding restructuring charges.
 
 
-#### 30
+#### 41

@@ -317,8 +317,8 @@
                     <div id="chartGrowthDynamics" class="w-full h-80"></div>
                 </div>
 
-                <!-- Chart 6: Value vs. Volume Sales Breakdown -->
-                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
+                <!-- Chart 6: Value vs. Volume Sales Breakdown (Span full 2 columns with side-by-side independent subplots) -->
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group lg:col-span-2">
                     <div>
                         <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
                             <h3 class="text-sm font-bold text-white flex items-center gap-2">
@@ -327,16 +327,36 @@
                             </h3>
                             <div class="flex items-center gap-2">
                                 <span class="text-xs text-orange-400 bg-orange-500/10 px-2 py-0.5 rounded font-mono">Value vs Volume</span>
-                                <button type="button" data-chart="chartSalesBreakdown" data-title="chart6_title" data-badge="Value vs Volume" data-insight="insightBreakdownText" data-icon="fa-boxes-stacked" onclick="zoomChart('chartSalesBreakdown', 'chart6_title', 'Value vs Volume', 'insightBreakdownText', 'fa-boxes-stacked')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-orange-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                <button type="button" data-chart="chartSalesBreakdown" data-title="chart6_title" data-badge="Value vs Volume" data-insight="insightBreakdownText" data-icon="fa-boxes-stacked" onclick="zoomChart('chartSalesBreakdown', 'chart6_title', 'Value vs Volume', 'insightBreakdownText', 'fa-boxes-stacked')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-orange-500 cursor-pointer" title="一鍵放大 / Zoom In (兩張獨立大圖)">
                                     <i class="fa-solid fa-expand text-orange-400 pointer-events-none"></i>
                                 </button>
                             </div>
                         </div>
-                        <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightBreakdownText">
+                        <p class="text-xs text-slate-300 leading-relaxed mb-3" id="insightBreakdownText">
                             Loading sales structure insight...
                         </p>
                     </div>
-                    <div id="chartSalesBreakdown" class="w-full h-80"></div>
+                    <!-- Two completely separated, independent side-by-side chart containers (NO OVERLAP) -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-5 mt-1">
+                        <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3.5 flex flex-col">
+                            <div class="flex items-center justify-between mb-2">
+                                <h4 class="text-xs font-bold text-cyan-400 flex items-center gap-1.5">
+                                    <i class="fa-solid fa-coins"></i> <span data-i18n="chart6a_title">高價值營收結構分拆 (Revenue Value $M)</span>
+                                </h4>
+                                <span class="text-[10px] text-slate-400 font-mono">Stacked $M</span>
+                            </div>
+                            <div id="chartSalesValue" class="w-full h-80"></div>
+                        </div>
+                        <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3.5 flex flex-col">
+                            <div class="flex items-center justify-between mb-2">
+                                <h4 class="text-xs font-bold text-emerald-400 flex items-center gap-1.5">
+                                    <i class="fa-solid fa-boxes-stacked"></i> <span data-i18n="chart6b_title">產品出貨量與結構佔比 (Volume & Mix %)</span>
+                                </h4>
+                                <span class="text-[10px] text-slate-400 font-mono">Mix 100%</span>
+                            </div>
+                            <div id="chartSalesVolume" class="w-full h-80"></div>
+                        </div>
+                    </div>
                 </div>
             </section>
 
@@ -527,17 +547,35 @@
                 </div>
                 <div class="overflow-x-auto">
                     <table class="w-full text-xs text-left" id="compareMasterTable">
-                        <thead class="bg-slate-900/80 text-slate-400 font-semibold border-b border-slate-700">
+                        <thead class="bg-slate-900/80 text-slate-400 font-semibold border-b border-slate-700 select-none">
                             <tr>
-                                <th class="py-3 px-4">Company</th>
-                                <th class="py-3 px-4">Latest Fiscal Year</th>
-                                <th class="py-3 px-4">Revenue ($M / €M)</th>
-                                <th class="py-3 px-4">Gross Margin %</th>
-                                <th class="py-3 px-4">Operating Margin %</th>
-                                <th class="py-3 px-4">R&D % of Rev</th>
-                                <th class="py-3 px-4">Total FTEs</th>
-                                <th class="py-3 px-4">Rev / FTE ($)</th>
-                                <th class="py-3 px-4">GP / FTE ($)</th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors" onclick="sortCompareTable('company')">
+                                    <span class="flex items-center gap-1.5">Company <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-company"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors" onclick="sortCompareTable('year')">
+                                    <span class="flex items-center gap-1.5">Latest Fiscal Year <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-year"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('revenue')">
+                                    <span class="flex items-center justify-end gap-1.5">Revenue ($M / €M) <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-revenue"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('gm')">
+                                    <span class="flex items-center justify-end gap-1.5">Gross Margin % <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gm"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('opm')">
+                                    <span class="flex items-center justify-end gap-1.5">Operating Margin % <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-opm"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('rd')">
+                                    <span class="flex items-center justify-end gap-1.5">R&D % of Rev <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-rd"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('headcount')">
+                                    <span class="flex items-center justify-end gap-1.5">Total FTEs <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-headcount"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('rev_per_emp')">
+                                    <span class="flex items-center justify-end gap-1.5">Rev / FTE ($) <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-rev_per_emp"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('gp_per_emp')">
+                                    <span class="flex items-center justify-end gap-1.5">GP / FTE ($) <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gp_per_emp"></i></span>
+                                </th>
                             </tr>
                         </thead>
                         <tbody class="divide-y divide-slate-700/60 text-slate-200" id="compareTableBody">
@@ -584,9 +622,29 @@
                 </div>
             </div>
 
-            <!-- Modal Body (Full Enlarged Canvas) -->
+            <!-- Modal Body (Full Enlarged Canvas with Dual-Chart Support) -->
             <div class="flex-1 w-full p-4 overflow-hidden flex flex-col justify-between bg-slate-900/50">
-                <div id="zoomedChartCanvas" class="w-full h-full min-h-[450px]"></div>
+                <!-- Single Chart Canvas Mode -->
+                <div id="zoomedSingleContainer" class="w-full h-full min-h-[450px]">
+                    <div id="zoomedChartCanvas" class="w-full h-full min-h-[450px]"></div>
+                </div>
+                <!-- Dual Side-by-Side Canvas Mode (for Chart 6 Value vs Volume) -->
+                <div id="zoomedDualContainer" class="w-full h-full min-h-[450px] grid grid-cols-1 md:grid-cols-2 gap-4" style="display: none;">
+                    <div class="flex flex-col h-full bg-slate-950/60 rounded-xl p-3 border border-slate-800">
+                        <div class="text-xs font-bold text-cyan-400 mb-2 px-2.5 py-1 bg-cyan-950/40 rounded-lg flex items-center justify-between border border-cyan-800/40">
+                            <span class="flex items-center gap-1.5"><i class="fa-solid fa-coins"></i> <span id="zoomedDualLeftTitle">高價值營收結構分拆 (Revenue Value $M)</span></span>
+                            <span class="text-[10px] text-slate-400 font-mono">Stacked $M</span>
+                        </div>
+                        <div id="zoomedCanvasLeft" class="w-full flex-1 min-h-[400px]"></div>
+                    </div>
+                    <div class="flex flex-col h-full bg-slate-950/60 rounded-xl p-3 border border-slate-800">
+                        <div class="text-xs font-bold text-emerald-400 mb-2 px-2.5 py-1 bg-emerald-950/40 rounded-lg flex items-center justify-between border border-emerald-800/40">
+                            <span class="flex items-center gap-1.5"><i class="fa-solid fa-boxes-stacked"></i> <span id="zoomedDualRightTitle">產品出貨量與結構佔比 (Volume & Mix %)</span></span>
+                            <span class="text-[10px] text-slate-400 font-mono">Mix 100%</span>
+                        </div>
+                        <div id="zoomedCanvasRight" class="w-full flex-1 min-h-[400px]"></div>
+                    </div>
+                </div>
             </div>
 
             <!-- Modal Footer (Insight Bar) -->
@@ -694,11 +752,70 @@
                     </div>
                 </div>
 
+                <!-- Section 5: Gross Margin vs. Operating Margin Distinction -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-3">
+                    <h4 class="text-sm font-bold text-amber-400 flex items-center gap-2">
+                        <i class="fa-solid fa-calculator"></i>
+                        <span data-i18n="guide_margin_title">5. Gross Margin vs. Operating Margin: Core Principles & Distinctions</span>
+                    </h4>
+                    <p class="text-xs text-slate-300">
+                        <strong class="text-emerald-400">Gross margin</strong> measures profit after deducting only the direct production costs, while <strong class="text-blue-400">operating margin</strong> measures profit after deducting both direct costs and regular operating expenses.
+                    </p>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-xs text-left border-collapse border border-slate-700 rounded-lg overflow-hidden">
+                            <thead class="bg-slate-800 text-slate-300 font-semibold border-b border-slate-700">
+                                <tr>
+                                    <th class="py-2.5 px-3 border border-slate-700 w-28">Metric</th>
+                                    <th class="py-2.5 px-3 border border-slate-700 text-emerald-400">Gross Margin</th>
+                                    <th class="py-2.5 px-3 border border-slate-700 text-blue-400">Operating Margin</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-700/60 text-slate-300 text-[11px]">
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-3 font-semibold text-slate-200 border border-slate-700">Formula</td>
+                                    <td class="py-2 px-3 border border-slate-700 font-mono text-emerald-300">((Revenue - COGS) / Revenue) × 100%</td>
+                                    <td class="py-2 px-3 border border-slate-700 font-mono text-blue-300">(Operating Income (EBIT) / Revenue) × 100%</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-3 font-semibold text-slate-200 border border-slate-700">Costs Deducted</td>
+                                    <td class="py-2 px-3 border border-slate-700">Only <strong>COGS</strong> (raw materials, direct factory labor, direct manufacturing overhead)</td>
+                                    <td class="py-2 px-3 border border-slate-700"><strong>COGS</strong> + <strong>Operating Expenses (OPEX)</strong> (SG&A, R&D, marketing, sales commissions, depreciation)</td>
+                                </tr>
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-3 font-semibold text-slate-200 border border-slate-700">Costs Excluded</td>
+                                    <td class="py-2 px-3 border border-slate-700">OPEX, non-operating expenses, interest, taxes</td>
+                                    <td class="py-2 px-3 border border-slate-700">Non-operating expenses, interest, taxes</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-3 font-semibold text-slate-200 border border-slate-700">What It Measures</td>
+                                    <td class="py-2 px-3 border border-slate-700"><strong class="text-emerald-300">Production & pricing efficiency</strong>: how cheaply a company produces a good or service relative to selling price</td>
+                                    <td class="py-2 px-3 border border-slate-700"><strong class="text-blue-300">Overall business operational efficiency</strong>: how well management runs daily core operations</td>
+                                </tr>
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-3 font-semibold text-slate-200 border border-slate-700">Typical Level</td>
+                                    <td class="py-2 px-3 border border-slate-700">Higher (typically top of the income statement)</td>
+                                    <td class="py-2 px-3 border border-slate-700">Lower (sits below gross profit on the income statement)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    
+                    <div class="bg-slate-800/80 p-3 rounded-lg border border-slate-700 space-y-1.5 text-[11px]">
+                        <p><strong class="text-emerald-400">• Gross Margin in practice:</strong> If a company makes $100 in revenue and spends $40 on direct manufacturing costs (COGS), its gross profit is $60, giving a <strong>60% gross margin</strong>.</p>
+                        <p><strong class="text-blue-400">• Operating Margin in practice:</strong> If that same company also spends $30 on administrative salaries, office rent, and marketing (OPEX), its operating profit (EBIT) is $30, giving a <strong>30% operating margin</strong>.</p>
+                    </div>
+
+                    <div class="p-2.5 rounded-lg bg-indigo-950/40 border border-indigo-500/30 text-[11px] text-indigo-300 flex items-center gap-2">
+                        <i class="fa-solid fa-circle-info text-indigo-400 shrink-0"></i>
+                        <span>Neither metric includes debt interest or corporate taxes—those are deducted further down the income statement to arrive at <strong>Net Profit Margin</strong>.</span>
+                    </div>
+                </div>
+
                 <!-- Section 5: 10-K vs 20-F -->
                 <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
                     <h4 class="text-sm font-bold text-cyan-400 flex items-center gap-2">
                         <i class="fa-solid fa-file-invoice-dollar"></i>
-                        <span data-i18n="guide_sec4_title">5. Form 10-K vs. Form 20-F Compatibility</span>
+                        <span data-i18n="guide_sec4_title">6. Form 10-K vs. Form 20-F Compatibility</span>
                     </h4>
                     <p data-i18n="guide_sec4_p">Foreign issuers (ASML, TSMC) submit <strong>Form 20-F</strong> (Item 3.A summary on pages 5-15), while US domestic corporations (NVIDIA, NXP, Vishay) submit <strong>Form 10-K</strong> (Item 8 financial statements on pages 35-70). The parser automatically detects and cross-scans both structures seamlessly.</p>
                 </div>
@@ -707,7 +824,7 @@
                 <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
                     <h4 class="text-sm font-bold text-purple-400 flex items-center gap-2">
                         <i class="fa-solid fa-brain"></i>
-                        <span data-i18n="guide_sec5_title">6. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)</span>
+                        <span data-i18n="guide_sec5_title">7. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)</span>
                     </h4>
                     <p data-i18n="guide_sec5_p">Select any parsed <code>.md</code> file in the bottom browser, click <strong>"Copy Markdown"</strong>, and paste it into Gemini with <code>fininacial_prompt.md</code> or <code>sale_breakdown.md</code> for instant 16:9 executive presentation decks and pitch scripts.</p>
                 </div>
@@ -725,168 +842,5 @@
 
     <!-- Custom Dashboard Logic -->
     <script src="/static/js/dashboard.js?v={{ range(10000, 99999) | random }}"></script>
-
-    <!-- Inline Robust Chart Zoom Controller -->
-    <script>
-    (function() {
-        window.closeZoomModal = function() {
-            const modal = document.getElementById("chartZoomModal");
-            if (modal) {
-                modal.style.display = "none";
-                document.body.style.overflow = "";
-                try { Plotly.purge("zoomedChartCanvas"); } catch (e) {}
-            }
-        };
-
-        window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconClass) {
-            try {
-                const modal = document.getElementById("chartZoomModal");
-                if (!modal) return;
-
-                // 1. Instantly display modal
-                modal.style.display = "flex";
-                document.body.style.overflow = "hidden";
-
-                // 2. Set title & badge text
-                const titleEl = document.getElementById("zoomModalTitle");
-                const badgeEl = document.getElementById("zoomModalBadge");
-                const iconEl = document.getElementById("zoomModalIcon");
-                const subtitleEl = document.getElementById("zoomModalSubtitle");
-                const insightEl = document.getElementById("zoomModalInsight");
-
-                let titleText = titleKey || "Chart Inspection";
-                if (window.I18N_DICTS && window.CURRENT_LANGUAGE && window.I18N_DICTS[window.CURRENT_LANGUAGE]) {
-                    titleText = window.I18N_DICTS[window.CURRENT_LANGUAGE][titleKey] || titleText;
-                }
-                if (titleEl) titleEl.textContent = titleText;
-                if (badgeEl) badgeEl.textContent = badgeText || "Metric";
-                if (iconEl) iconEl.className = "fa-solid " + (iconClass || "fa-chart-line") + " text-sm";
-
-                let insightText = "";
-                const insightDom = document.getElementById(insightKeyOrId);
-                if (insightDom) {
-                    insightText = insightDom.textContent.trim();
-                } else if (window.I18N_DICTS && window.CURRENT_LANGUAGE && window.I18N_DICTS[window.CURRENT_LANGUAGE] && window.I18N_DICTS[window.CURRENT_LANGUAGE][insightKeyOrId]) {
-                    insightText = window.I18N_DICTS[window.CURRENT_LANGUAGE][insightKeyOrId];
-                } else {
-                    insightText = insightKeyOrId || "";
-                }
-                if (subtitleEl) subtitleEl.textContent = insightText;
-                if (insightEl) insightEl.textContent = insightText;
-
-                // 3. Render enlarged Plotly chart
-                const srcEl = document.getElementById(chartId);
-                if (!srcEl || (!srcEl.data && !srcEl._fullData)) {
-                    document.getElementById("zoomedChartCanvas").innerHTML = '<div class="flex items-center justify-center h-full text-slate-400 text-sm">Rendering high-resolution chart...</div>';
-                    setTimeout(function() { window.zoomChart(chartId, titleKey, badgeText, insightKeyOrId, iconClass); }, 150);
-                    return;
-                }
-
-                const rawTraces = srcEl.data || srcEl._fullData || [];
-                const cleanTraces = rawTraces.map(function(t) {
-                    var copy = {};
-                    for (var k in t) {
-                        if (!k.startsWith("_")) copy[k] = t[k];
-                    }
-                    return copy;
-                });
-
-                const isLight = document.documentElement.classList.contains("light") || (window.CURRENT_THEME === "light");
-                const fontColor = isLight ? "#1e293b" : "#e2e8f0";
-                const gridColor = isLight ? "#cbd5e1" : "#334155";
-
-                const cleanLayout = {
-                    paper_bgcolor: "transparent",
-                    plot_bgcolor: "transparent",
-                    font: { color: fontColor, size: 13 },
-                    margin: { l: 70, r: 70, t: 50, b: 65 },
-                    hovermode: "x unified",
-                    autosize: true,
-                    legend: { orientation: "h", y: 1.12, x: 0, font: { size: 12, color: fontColor } }
-                };
-
-                if (srcEl.layout) {
-                    if (srcEl.layout.barmode) cleanLayout.barmode = srcEl.layout.barmode;
-                    if (srcEl.layout.xaxis) {
-                        cleanLayout.xaxis = {
-                            showgrid: true,
-                            gridcolor: gridColor,
-                            automargin: true
-                        };
-                        if (srcEl.layout.xaxis.title) {
-                            cleanLayout.xaxis.title = typeof srcEl.layout.xaxis.title === 'string' ? srcEl.layout.xaxis.title : (srcEl.layout.xaxis.title.text || '');
-                        }
-                    }
-                    if (srcEl.layout.yaxis) {
-                        cleanLayout.yaxis = {
-                            showgrid: true,
-                            gridcolor: gridColor,
-                            autorange: true,
-                            tickprefix: srcEl.layout.yaxis.tickprefix,
-                            ticksuffix: srcEl.layout.yaxis.ticksuffix
-                        };
-                        if (srcEl.layout.yaxis.title) {
-                            cleanLayout.yaxis.title = typeof srcEl.layout.yaxis.title === 'string' ? srcEl.layout.yaxis.title : (srcEl.layout.yaxis.title.text || '');
-                        }
-                    }
-                    if (srcEl.layout.yaxis2) {
-                        cleanLayout.yaxis2 = {
-                            overlaying: "y",
-                            side: "right",
-                            showgrid: false,
-                            autorange: true,
-                            tickprefix: srcEl.layout.yaxis2.tickprefix,
-                            ticksuffix: srcEl.layout.yaxis2.ticksuffix
-                        };
-                        if (srcEl.layout.yaxis2.title) {
-                            cleanLayout.yaxis2.title = typeof srcEl.layout.yaxis2.title === 'string' ? srcEl.layout.yaxis2.title : (srcEl.layout.yaxis2.title.text || '');
-                        }
-                    }
-                }
-
-                Plotly.newPlot("zoomedChartCanvas", cleanTraces, cleanLayout, {
-                    responsive: true,
-                    displayModeBar: true,
-                    displaylogo: false
-                }).then(function() {
-                    setTimeout(function() { Plotly.Plots.resize("zoomedChartCanvas"); }, 60);
-                });
-            } catch (err) {
-                console.error("zoomChart error:", err);
-            }
-        };
-
-        // Event listener setup for modal buttons
-        document.addEventListener("DOMContentLoaded", function() {
-            var closeBtn = document.getElementById("closeZoomModalBtn");
-            if (closeBtn) closeBtn.onclick = window.closeZoomModal;
-
-            var modal = document.getElementById("chartZoomModal");
-            if (modal) {
-                modal.onclick = function(e) {
-                    if (e.target === modal) window.closeZoomModal();
-                };
-            }
-
-            var downloadBtn = document.getElementById("downloadZoomChartBtn");
-            if (downloadBtn) {
-                downloadBtn.onclick = function() {
-                    var titleEl = document.getElementById("zoomModalTitle");
-                    var cleanTitle = (titleEl ? titleEl.textContent.trim() : "chart").replace(/[^a-zA-Z0-9_\u4e00-\u9fa5]/g, "_");
-                    Plotly.downloadImage("zoomedChartCanvas", {
-                        format: "png",
-                        width: 1920,
-                        height: 1080,
-                        filename: cleanTitle + "_HD"
-                    });
-                };
-            }
-
-            document.addEventListener("keydown", function(e) {
-                if (e.key === "Escape") window.closeZoomModal();
-            });
-        });
-    })();
-    </script>
 </body>
 </html>

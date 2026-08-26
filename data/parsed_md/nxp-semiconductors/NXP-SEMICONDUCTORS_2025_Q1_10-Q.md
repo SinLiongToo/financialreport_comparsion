@@ -1,8 +1,8 @@
-# Annual Report: NXP-SEMICONDUCTORS_2025_Q1_10-Q
+# Financial Report: NXP-SEMICONDUCTORS_2025_Q1_10-Q
 
 - **Source File**: `NXP-SEMICONDUCTORS_2025_Q1_10-Q.pdf`
-- **Total Pages**: 38
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 38
+- **Parsed Key Pages**: 38 (38 selected sections)
 
 ---
 
@@ -3459,3 +3459,578 @@ $
 
 
 #### 27
+
+
+## Page 31
+
+### Table 31.1
+
+| GAAP operating income (loss) | $ | 723 |  | $ | 675 |  | $ | 856 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PPA effects | (40) |  |  |  | (39) |  | (63) |  |  |
+| Restructuring | (14) |  |  |  | (112) |  | (7) |  |  |
+| Share-based compensation | (127) |  |  |  | (117) |  | (115) |  |  |
+| Other incidentals | — |  |  |  | (122) |  | (39) |  |  |
+| Non-GAAP operating income (loss) | $ | 904 |  | $ | 1,065 |  | $ | 1,080 |  |
+| GAAP Operating Margin | 25.5 |  | % |  | 21.7 | % | 27.4 |  | % |
+| Non-GAAP Operating Margin | 31.9 |  | % |  | 34.2 | % | 34.5 |  | % |
+| GAAP Income tax benefit (provision) | $ | (130) |  | $ | (77) |  | $ | (141) |  |
+| Income tax effect | 13 |  |  |  | 87 |  | 30 |  |  |
+| Non-GAAP Income tax benefit (provision) | $ | (143) |  | $ | (164) |  | $ | (171) |  |
+
+
+### Table 31.2
+
+| Net cash provided by (used for) operating activities | $ | 565 | $ | 391 |  | $ | 851 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Net capital expenditures on property, plant and equipment | (138) |  | (99) |  |  | (224) |  |
+| Non-GAAP free cash flow | $ | 427 | $ | 292 |  | $ | 627 |
+
+
+### Table 31.3
+
+| Long-term debt | $ | 10,226 | $ | 10,354 |  | $ | 10,178 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Short-term debt | 1,499 |  | 500 |  |  | — |  |
+| Total debt | 11,725 |  | 10,854 |  |  | 10,178 |  |
+| Less: cash and cash equivalents | (3,988) |  | (3,292) |  |  | (2,908) |  |
+| Less: short-term deposits | — |  | — |  |  | (400) |  |
+| Net debt | $ | 7,737 | $ | 7,562 |  | $ | 6,870 |
+
+
+($ in millions)
+For the three months ended
+
+
+#### March 30, 2025
+
+
+#### December 31,
+
+2024
+March 31, 2024
+GAAP operating income (loss)
+$
+723 
+$
+675 
+$
+856 
+PPA effects
+(40)
+(39)
+(63)
+Restructuring
+(14)
+(112)
+(7)
+Share-based compensation
+(127)
+(117)
+(115)
+Other incidentals
+— 
+(122)
+(39)
+Non-GAAP operating income (loss)
+$
+904 
+$
+1,065 
+$
+1,080 
+GAAP Operating Margin
+25.5 %
+21.7 %
+27.4 %
+Non-GAAP Operating Margin
+31.9 %
+34.2 %
+34.5 %
+GAAP Income tax benefit (provision)
+$
+(130)
+$
+(77)
+$
+(141)
+Income tax effect
+13 
+87 
+30 
+Non-GAAP Income tax benefit (provision)
+$
+(143)
+$
+(164)
+$
+(171)
+
+($ in millions)
+For the three months ended
+
+
+#### March 30, 2025
+
+
+#### December 31,
+
+2024
+March 31, 2024
+Net cash provided by (used for) operating activities
+$
+565 
+$
+391 
+$
+851 
+Net capital expenditures on property, plant and equipment
+(138)
+(99)
+(224)
+Non-GAAP free cash flow
+$
+427 
+$
+292 
+$
+627
+
+($ in millions)
+For the three months ended
+
+
+#### March 30, 2025
+
+
+#### December 31,
+
+2024
+March 31, 2024
+Long-term debt
+$
+10,226 
+$
+10,354 
+$
+10,178 
+Short-term debt
+1,499 
+500 
+— 
+Total debt
+11,725 
+10,854 
+10,178 
+Less: cash and cash equivalents
+(3,988)
+(3,292)
+(2,908)
+Less: short-term deposits
+— 
+— 
+(400)
+Net debt
+$
+7,737 
+$
+7,562 
+$
+6,870
+
+
+#### 28
+
+
+## Page 32
+
+
+#### Item 3.    Quantitative and Qualitative Disclosures About Market Risk
+
+There have been no material changes to the Company’s market risk during the first three months of 2025. For a discussion of the Company’s
+exposure to market risk, refer to the Company’s market risk disclosures set forth in Part II, Item 7A, “Quantitative and Qualitative Disclosures
+About Market Risk” in our Annual Report on Form 10-K for the year ended December 31, 2024.
+
+
+#### Item 4.    Controls and Procedures
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of the Chief Executive Officer and Chief Financial Officer (Certifying Officers), evaluated the
+effectiveness of the Company's disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) promulgated under the Securities
+Exchange Act of 1934, as amended) on March 30, 2025. Based on that evaluation, the Certifying Officers concluded the Company's disclosure
+controls and procedures were effective as of March 30, 2025.
+
+
+#### Changes in Internal Control Over Financial Reporting
+
+There were no changes in the Company's internal control over financial reporting during the three-month period ended March 30, 2025, which
+were identified in connection with management's evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act that
+have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### 29
+
+
+## Page 33
+
+### Table 33.1
+
+| January 1, 2025 – February 2, 2025 | 484,186 |  | $212.26 |  | 477,700 |  | 10,716,860 |  | 6,486 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| February 3, 2025 – March 2, 2025 | 466,321 |  | $221.42 |  | 460,878 |  | 9,893,293 |  | 5,443 |
+| March 3, 2025 – March 30, 2025 | 462,866 |  | $208.83 |  | 462,171 |  | 10,718,353 |  | 695 |
+| Total | 1,413,373 |  |  |  | 1,400,749 |  |  |  | 12,624 |
+
+
+
+### PART II — OTHER INFORMATION
+
+
+#### Item 1.    Legal Proceedings
+
+Not applicable.
+
+
+#### Item 1A.   Risk Factors
+
+There have been no material changes from the risk factors previously disclosed in our Annual Report on Form 10-K for the year ended
+December 31, 2024.
+
+
+#### Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+
+
+#### Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+
+Our Board has approved the purchase of shares from participants in NXP's equity programs to satisfy participants' tax withholding obligations and
+this authorization will remain in effect until terminated by the Board. In January 2022, the Board approved the repurchase of shares up to a
+maximum of $2 billion (the "2022 Share Repurchase Program"). In August 2024, the Board approved the repurchase of shares up to a maximum
+of $2 billion (the "2024 Share Repurchase Program") in addition to the 2022 Share Repurchase Program. At March 30, 2025, there was
+approximately $36 million remaining under the 2022 Share Repurchase Program and another $2 billion under the 2024 Share Repurchase
+Program.
+
+The following share repurchase activity occurred under these programs  during the three months ended March 30, 2025:
+
+
+#### Period
+
+
+#### Total Number
+
+of Shares 
+Purchased
+
+Average Price 
+Paid per Share
+
+Number of Shares
+Purchased as Part
+
+of Publicly
+Announced Buy
+
+
+#### Back Programs
+
+
+#### Maximum Number of
+
+Shares That May 
+Yet Be Purchased 
+Under the Buy Back
+
+
+#### Program
+
+
+#### Number of Shares
+
+Purchased as
+Trade for Tax (1)
+
+January 1, 2025 – February 2, 2025
+484,186
+$212.26
+477,700
+10,716,860
+6,486
+February 3, 2025 – March 2, 2025
+466,321
+$221.42
+460,878
+9,893,293
+5,443
+March 3, 2025 – March 30, 2025
+462,866
+$208.83
+462,171
+10,718,353
+695
+Total
+1,413,373
+1,400,749
+12,624
+
+Reflects shares surrendered by participants to satisfy tax withholding obligations in connection with the Company's equity programs.
+
+
+#### Item 5.    Other Information
+
+
+#### Rule 10b5-1 Trading Plans
+
+Not applicable.
+
+
+#### (1)
+
+
+#### 30
+
+
+## Page 34
+
+
+#### Item 6.    Exhibits
+
+
+#### Exhibit
+
+Number
+Exhibit Description
+
+3.1
+Articles of Association of NXP Semiconductors N.V. dated June 9, 2020 (incorporated by reference to Exhibit 3.1
+to the Company’s Quarterly Report on Form 10-Q of NXP Semiconductors N.V., filed on July 28, 2020)
+10.1
+€360.0 million Facility B Agreement, dated as of January 13, 2025, between NXP B.V. and the European
+Investment Bank (incorporated by reference to Exhibit 10.1 to the Company's current report on Form 8-K of NXP
+Semiconductors N.V., filed on January 13, 2025)
+10.2
+Management Agreement dated April 28, 2025, between the Company and Rafael Sotomayor (incorporated by
+reference to Exhibit 10.1 to the Company’s current report on Form 8-K of NXP Semiconductors N.V., filed on April
+28. 2025)
+10.3
+Employment Agreement dated April 28, 2025 between NXP USA, Inc. and Rafael Sotomayor (incorporated by
+reference to Exhibit 10.2 to the Company’s current report on Form 8-K of NXP Semiconductors N.V., filed on April
+28. 2025)
+10.4
+Retirement Agreement dated April 28, 2025 between (incorporated by reference to Exhibit 10.2 to the Company’s
+current report on Form 8-K of NXP Semiconductors N.V., filed on April 28. 2025)
+31.1*
+Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer
+
+31.2*
+Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer
+
+32.1*
+Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer
+
+101
+The following materials from the Company’s Quarterly Report on Form 10-Q for the quarter ended March 30,
+2025, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated
+Statements of Operations for the three months ended March 30, 2025 and March 31, 2024; (ii) Condensed
+Consolidated Statements of Comprehensive Income for the three months ended March 30, 2025 and March 31,
+2024; (iii) Condensed Consolidated Balance Sheets as of March 30, 2025 and December 31, 2024; (iv)
+Condensed Consolidated Statements of Cash Flows for the three months ended March 30, 2025 and March 31,
+2024; (v) Condensed Consolidated Statements of Changes in Equity for the three months ended March 30, 2025
+and March 31, 2024; and (vi) Notes to the Unaudited Condensed Consolidated Financial Statements.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+
+*
+Filed or furnished herewith.
++
+Indicates management contract or compensatory plan or arrangement.
+
+
+#### 31
+
+
+## Page 35
+
+
+### SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+#### Date: April 29, 2025
+
+NXP Semiconductors N.V.
+
+/s/ William J. Betz
+Name: William J. Betz, CFO
+
+
+#### 32
+
+
+## Page 36
+
+Exhibit 31.1
+CERTIFICATION
+I, Kurt Sievers, certify that:
+
+1.
+I have reviewed this quarterly report on Form 10-Q of NXP Semiconductors N.V.;
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3.
+Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;
+
+4.
+The Registrant’s other certifying oﬃcer and I are responsible for establishing and maintaining disclosure controls and procedures (as deﬁned
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial reporting (as deﬁned in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) for the Registrant and have:
+
+a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
+
+b)
+Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of ﬁnancial reporting and the preparation of ﬁnancial statements for
+external purposes in accordance with generally accepted accounting principles;
+
+c)
+Evaluated the eﬀectiveness of the Registrant’s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d)
+Disclosed in this report any change in the Registrant’s internal control over ﬁnancial reporting that occurred during the Registrant’s most
+recent ﬁscal quarter (the Registrant’s fourth ﬁscal quarter in the case of an annual report) that has materially aﬀected, or is reasonably
+likely to materially affect, the Registrant’s internal control over financial reporting; and
+
+5.
+The Registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal control over ﬁnancial reporting,
+to the Registrant’s auditors and the audit committee of the Registrant’s board of directors (or persons performing the equivalent functions):
+
+a)
+All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over ﬁnancial reporting which are
+reasonably likely to adversely affect the Registrant’s ability to record, process, summarize, and report financial information; and
+
+b)
+Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant role in the Registrant’s internal
+control over financial reporting.
+
+
+#### Date: April 29, 2025
+
+By:
+/s/ Kurt Sievers
+
+Kurt Sievers
+President & Chief Executive Officer
+
+
+## Page 37
+
+Exhibit 31.2
+CERTIFICATION
+I, William J. Betz, certify that:
+
+1.
+I have reviewed this quarterly report on Form 10-Q of NXP Semiconductors N.V.;
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3.
+Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;
+
+4.
+The Registrant’s other certifying oﬃcer and I are responsible for establishing and maintaining disclosure controls and procedures (as deﬁned
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial reporting (as deﬁned in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) for the Registrant and have:
+
+a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
+
+b)
+Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of ﬁnancial reporting and the preparation of ﬁnancial statements for
+external purposes in accordance with generally accepted accounting principles;
+
+c)
+Evaluated the eﬀectiveness of the Registrant’s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d)
+Disclosed in this report any change in the Registrant’s internal control over ﬁnancial reporting that occurred during the Registrant’s most
+recent ﬁscal quarter (the Registrant’s fourth ﬁscal quarter in the case of an annual report) that has materially aﬀected, or is reasonably
+likely to materially affect, the Registrant’s internal control over financial reporting; and
+
+5.
+The Registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal control over ﬁnancial reporting,
+to the Registrant’s auditors and the audit committee of the Registrant’s board of directors (or persons performing the equivalent functions):
+
+a)
+All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over ﬁnancial reporting which are
+reasonably likely to adversely affect the Registrant’s ability to record, process, summarize, and report financial information; and
+
+b)
+Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant role in the Registrant’s internal
+control over financial reporting.
+
+
+#### Date: April 29, 2025
+
+By:
+/s/ William J. Betz
+
+William J. Betz
+Chief Financial Officer
+
+
+## Page 38
+
+Exhibit 32.1
+CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
+
+PURSUANT TO
+18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Kurt Sievers, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, that the Quarterly Report of NXP Semiconductors N.V. on Form 10-Q for the period ended March 30, 2025 fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in
+all material respects the financial condition and results of operations of NXP Semiconductors N.V. at the dates and for the periods indicated.
+
+
+#### Date: April 29, 2025
+
+By:
+/s/ Kurt Sievers
+
+Kurt Sievers
+President & Chief Executive Officer
+
+I, William J. Betz, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that the Quarterly Report of NXP Semiconductors N.V. on Form 10-Q for the period ended March 30, 2025 fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in
+all material respects the financial condition and results of operations of NXP Semiconductors N.V. at the dates and for the periods indicated.
+
+
+#### Date: April 29, 2025
+
+By:
+/s/ William J. Betz
+
+William J. Betz
+Chief Financial Officer

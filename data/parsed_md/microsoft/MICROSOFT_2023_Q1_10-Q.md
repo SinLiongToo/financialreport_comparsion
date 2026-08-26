@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2023_Q1_10-Q
+# Financial Report: MICROSOFT_2023_Q1_10-Q
 
 - **Source File**: `MICROSOFT_2023_Q1_10-Q.pdf`
-- **Total Pages**: 80
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 80
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -6330,3 +6330,73 @@ Devices revenue increased 2%.
 
 
 #### 30
+
+
+## Page 31
+
+
+### PART I
+
+
+#### Item 2
+
+
+#### Industry Trends
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the
+changing demands of customers and users, industry trends, and competitive forces.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers
+prefer evolve rapidly, and inﬂuence how users access services in the cloud, and in some cases, the user’s choice of which suite of cloud-based
+services to use. We must continue to evolve and adapt over an extended time in pace with this changing environment. The investments we are
+making in infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+
+Our success is highly dependent on our ability to attract and retain qualiﬁed employees. We hire a mix of university and industry talent worldwide.
+We compete for talented individuals globally by oﬀering an exceptional working environment, broad customer reach, scale in resources, the
+ability to grow one’s career across many diﬀerent products and businesses, and competitive compensation and beneﬁts. Aggregate demand for
+our software, services, and devices is correlated to global macroeconomic and geopolitical factors, which remain dynamic.
+
+Our devices are primarily manufactured by third-party contract manufacturers, some of which contain certain components for which there are very
+few qualiﬁed suppliers. For these components, we have limited near-term ﬂexibility to use other manufacturers if a current vendor becomes
+unavailable or is unable to meet our requirements. Extended disruptions at these suppliers and/or manufacturers could lead to a similar disruption
+in our ability to manufacture devices on time to meet consumer demand.
+
+Our international operations provide a signiﬁcant portion of our total revenue and expenses. Many of these revenue and expenses are
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may signiﬁcantly aﬀect revenue and
+expenses. Fluctuations in the U.S. dollar relative to certain foreign currencies reduced reported revenue and expenses from our international
+operations in the ﬁrst quarter of ﬁscal year 2023. Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and
+other risks.
+
+
+#### Seasonality
+
+Our revenue ﬂuctuates quarterly and is generally higher in the second and fourth quarters of our ﬁscal year. Second quarter revenue is driven by
+corporate year-end spending trends in our major markets and holiday season spending by consumers, and fourth quarter revenue is driven by
+the volume of multi-year on-premises contracts executed during the period.
+
+
+#### Change in Accounting Estimate
+
+In July 2022, we completed an assessment of the useful lives of our server and network equipment. Due to investments in software that
+increased eﬃciencies in how we operate our server and network equipment, as well as advances in technology, we determined we should
+increase the estimated useful lives of both server and network equipment from four years to six years. This change in accounting estimate was
+eﬀective beginning ﬁscal year 2023. Based on the carrying amount of server and network equipment included in property and equipment, net as
+of June 30, 2022, the eﬀect of this change in estimate for the three months ended September 30, 2022, was an increase in operating income of
+$1.1 billion and net income of $859 million, or $0.12 and $0.11 per basic and diluted share, respectively. It is estimated this change will increase
+our fiscal year 2023 annual operating income by $3.7 billion.
+
+
+#### Reportable Segments
+
+We report our ﬁnancial performance based on the following segments: Productivity and Business Processes, Intelligent Cloud, and More
+Personal Computing. The segment amounts included in MD&A are presented on a basis consistent with our internal management reporting. We
+have recast certain prior period amounts to conform to the way we internally manage and monitor our business.
+
+
+#### 31

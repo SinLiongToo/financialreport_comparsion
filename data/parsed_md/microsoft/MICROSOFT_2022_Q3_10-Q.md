@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2022_Q3_10-Q
+# Financial Report: MICROSOFT_2022_Q3_10-Q
 
 - **Source File**: `MICROSOFT_2022_Q3_10-Q.pdf`
-- **Total Pages**: 73
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 73
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -6390,899 +6390,6 @@ conspiracy to manipulate the science and testing around emission guidelines.
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| First Quarter |  |  | 21 |  |  | $ | 6,200 |  |  |  | 25 |  |  | $ | 5,270 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.2
-
-| Third Quarter |  |  | 26 |  |  |  | 7,800 |  |  |  | 25 |  |  |  | 5,750 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-In 2013, the defendants in the consolidated cases moved to exclude the plaintiﬀs’ expert evidence of general causation on the basis of ﬂawed
-scientiﬁc methodologies. In 2014, the trial court granted in part and denied in part the defendants’ motion to exclude the plaintiﬀs’ general
-causation experts. The defendants ﬁled an interlocutory appeal to the District of Columbia Court of Appeals  challenging the standard for
-evaluating expert scientiﬁc evidence. In October 2016, the Court of Appeals issued its decision adopting the standard advocated by the
-defendants and remanding the cases to the trial court for further proceedings under that standard. The plaintiﬀs have ﬁled supplemental expert
-evidence, portions of which the defendants have moved to strike. In August 2018, the trial court issued an order striking portions of the plaintiﬀs’
-expert reports. A hearing on general causation is scheduled for September of 2022.
-
-
-#### Other Contingencies
-
-We also are subject to a variety of other claims and suits that arise from time to time in the ordinary course of our business. Although
-management currently believes that resolving claims against us, individually or in aggregate, will not have a material adverse impact in our
-consolidated ﬁnancial statements, these matters are subject to inherent uncertainties and management’s view of these matters may change in
-the future.
-
-As of March 31, 2022, we accrued aggregate legal liabilities of $ 391 million. While we intend to defend these matters vigorously, adverse
-outcomes that we estimate could reach approximately $600 million in aggregate beyond recorded amounts are reasonably possible. Were
-unfavorable ﬁnal outcomes to occur, there exists the possibility of a material adverse impact in our consolidated ﬁnancial statements for the
-period in which the effects become reasonably estimable.
-
-
-### NOTE 15 — STOCKHOLDERS’ EQUITY
-
-
-#### Share Repurchases
-
-On September 18, 2019, our Board of Directors approved a share repurchase program authorizing up to $ 40.0 billion in share repurchases. This
-share repurchase program commenced in February 2020 and was completed in November 2021.
-
-On September 14, 2021, our Board of Directors approved a share repurchase program authorizing up to $ 60.0 billion in share repurchases. This
-share repurchase program commenced in November 2021, following completion of the program approved on September 18, 2019, has no
-expiration date, and may be terminated at any time. As of March 31, 2022, $48.5 billion remained of this $60.0 billion share repurchase program.
-
-We repurchased the following shares of common stock under the share repurchase programs:
- 
-(In millions)
- 
-Shares  
-Amount  
-Shares  
-Amount
-
-Fiscal Year
- 
-   
-2022  
-   
-2021
-
-First Quarter
-  
-21  $
-6,200   
-25  $
-5,270 
-Second Quarter
-  
-20   
-6,233   
-27   
-5,750 
-Third Quarter
-  
-26   
-7,800   
-25   
-5,750 
- 
-  
-    
-    
-    
-  
- 
-  
-    
-    
-    
-  
-      Total
-  
-67  $
-20,233   
-77  $
-16,770 
- 
-  
-    
-    
-    
-  
- 
-All repurchases were made using cash resources. Shares repurchased during the third quarter of ﬁscal year 2022 were under the share
-repurchase program approved on September 14, 2021. Shares repurchased during the second quarter of ﬁscal year 2022 were under the share
-repurchase programs approved on both September 14, 2021 and September 18, 2019. All other shares repurchased were under the share
-repurchase program approved on September 18, 2019. The above table excludes shares repurchased to settle employee tax withholding related
-to the vesting of stock awards of $1.0 billion and $3.7 billion for the three and nine months ended March 31, 2022, respectively, and $ 1.1 billion
-and $3.4 billion the three and nine months ended March 31, 2021, respectively.
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| September 14, 2021 |  |  | November 18, 2021 |  |  |  | December 9, 2021 |  |  | $ | 0.62 |  |  | $ | 4,652 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.2
-
-| March 14, 2022 |  |  | May 19, 2022 |  |  |  | June 9, 2022 |  |  |  | 0.62 |  |  |  | 4,639 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.3
-
-| September 15, 2020 |  |  | November 19, 2020 |  |  |  | December 10, 2020 |  |  | $ | 0.56 |  |  | $ | 4,230 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.4
-
-| March 16, 2021 |  |  | May 20, 2021 |  |  |  | June 10, 2021 |  |  |  | 0.56 |  |  |  | 4,214 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-#### Dividends
-
-
-#### Our Board of Directors declared the following dividends:
-
-
-#### Declaration Date
-
-
-#### Record Date
-
-
-#### Payment Date
-
-Dividend
-Per Share
-
-
-#### Amount
-
-Fiscal Year 2022
-   
-    
-    
-   
-(In millions)
-
-September 14, 2021
-  November 18, 2021
-   December 9, 2021
-  $
-0.62  $
-4,652 
-December 7, 2021
-  February 17, 2022
-   March 10, 2022
-   
-0.62   
-4,645 
-March 14, 2022
-  May 19, 2022
-   June 9, 2022
-   
-0.62   
-4,639 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
-Total
-   
-    
- 
-  $
-1.86  $
-13,936 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
-Fiscal Year 2021
-
-September 15, 2020
-  November 19, 2020
-   December 10, 2020
-  $
-0.56  $
-4,230 
-December 2, 2020
-  February 18, 2021
-   March 11, 2021
-   
-0.56   
-4,221 
-March 16, 2021
-  May 20, 2021
-   June 10, 2021
-   
-0.56   
-4,214 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
-Total
-   
-    
-  $
-1.68  $
-12,665 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
- 
-The dividend declared on March 14, 2022 was included in other current liabilities as of March 31, 2022.
-
-
-#### 27
-
-
-## Page 28
-
-### Table 28.1
-
-| Balance, beginning of period |  | $ | (17 | ) |  | $ | (26 | ) |  | $ | (19 | ) |  | $ | (38 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.2
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | 15 |  |  |  | 26 |  |  |  | 44 |  |  |  | (15 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.3
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | 12 |  |  |  | 20 |  |  |  | 35 |  |  |  | (13 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.4
-
-| Balance, end of period |  | $ | (11 | ) |  | $ | (8 | ) |  | $ | (11 | ) |  | $ | (8 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.5
-
-| Balance, beginning of period |  | $ | 2,057 |  |  | $ | 4,795 |  |  | $ | 3,222 |  |  | $ | 5,478 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.6
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | 15 |  |  |  | (11 | ) |  |  | 5 |  |  |  | (47 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.7
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | 12 |  |  |  | (9 | ) |  |  | 4 |  |  |  | (37 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.8
-
-| Cumulative effect of accounting changes |  |  | 0 |  |  |  | 0 |  |  |  | 0 |  |  |  | 10 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.9
-
-| Balance, beginning of period |  | $ | (1,603 | ) |  | $ | (1,402 | ) |  | $ | (1,381 | ) |  | $ | (2,254 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.10
-
-| Balance, end of period |  | $ | (1,640 | ) |  | $ | (1,620 | ) |  | $ | (1,640 | ) |  | $ | (1,620 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-### NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
-
-The following table summarizes the changes in accumulated other comprehensive income (loss) by component:
-
-
-#### (In millions)
-
-
-#### Three Months Ended
-
-
-#### March 31,
-
-
-#### Nine Months Ended
-
-
-#### March 31,
-
-2022 
- 
- 
-2021 
- 
- 
-2022 
- 
- 
-2021
-
-
-#### Derivatives
-
-Balance, beginning of period
- $
-(17)
- $
-(26)
- $
-(19)
- $
-(38)
-Unrealized gains (losses), net of tax of $(1), $0,
-
-
-#### $(7), and $12
-
-
-#### (6)
-
-
-#### (2)
-
-
-#### (27)
-
-43 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Reclassification adjustments for (gains) losses
-
-
-#### included in other income (expense), net
-
-
-#### 15
-
-
-#### 26
-
-
-#### 44
-
-(15)
-Tax expense (benefit) included in provision for
-
-
-#### income taxes
-
-
-#### (3)
-
-
-#### (6)
-
-
-#### (9)
-
-2 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Amounts reclassified from accumulated other
-
-comprehensive income (loss)
- 
- 
-12 
- 
- 
-20 
-  
-35 
-  
-(13)
-
-
-#### Net change related to derivatives, net of tax of
-
-
-#### $2, $6, $2, and $10
-
-
-#### 6
-
-
-#### 18
-
-
-#### 8
-
-30 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Balance, end of period
- $
-(11)
- $
-(8)
- $
-(11)
- $
-(8)
-
-
-#### Investments
-
-Balance, beginning of period
- 
-$
-2,057 
- 
-$
-4,795 
- 
-$
-3,222  
-$
-5,478 
-Unrealized losses, net of tax of $(769), $(451),
-
-
-#### $(1,076), and $( 629)
-
-
-#### (2,894)
-
-
-#### (1,696)
-
-
-#### (4,051)
-
-
-#### (2,361)
-
-
-#### Reclassification adjustments for (gains) losses
-
-
-#### included in other income (expense), net
-
-
-#### 15
-
-
-#### (11)
-
-
-#### 5
-
-(47)
-Tax expense (benefit) included in provision for
-
-
-#### income taxes
-
-
-#### (3)
-
-
-#### 2
-
-
-#### (1)
-
-10 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Amounts reclassified from accumulated other
-
-
-#### comprehensive income (loss)
-
-
-#### 12
-
-
-#### (9)
-
-
-#### 4
-
-
-#### (37)
-
-
-#### Net change related to investments, net of tax of
-
-
-#### $(766), $(453), $(1,075), and $( 639)
-
-
-#### (2,882)
-
-
-#### (1,705)
-
-
-#### (4,047)
-
-(2,398)
-Cumulative effect of accounting changes
-  
-0 
- 
- 
-0 
- 
- 
-0 
- 
- 
-10 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Balance, end of period
- 
-$
-(825)  
-$
-3,090 
- 
-$
-(825)
- 
-$
-3,090 
- 
-  
-   
- 
-   
- 
-   
- 
-  
- 
-  
-   
- 
-   
- 
-   
- 
-  
-Translation Adjustments and Other
-
-Balance, beginning of period
- $
-(1,603)
- $
-(1,402)
- $
-(1,381)
- $
-(2,254)
-Translation adjustments and other, net of tax of
-
-
-#### $0, $0, $0, and $( 9)
-
-
-#### (37)
-
-
-#### (218)
-
-
-#### (259)
-
-634 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Balance, end of period
- 
-$
-(1,640)
- 
-$
-(1,620)
- 
-$
-(1,640)
- 
-$
-(1,620)
-
-
-#### Accumulated other comprehensive income
-
-
-#### (loss), end of period
-
-$
-(2,476)
-
-$
-1,462
-
-$
-(2,476)
-
-$
-1,462
-
-
-#### 28
-
-
 ## Page 29
 
 
@@ -7583,3 +6690,373 @@ determining the geographic source of the revenue.
 
 
 #### 30
+
+
+## Page 31
+
+### Table 31.1
+
+| Server products and cloud services |  | $ | 17,038 |  |  | $ | 13,204 |  |  | $ | 48,482 |  |  | $ | 37,128 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.2
+
+| Windows |  |  | 6,077 |  |  |  | 5,463 |  |  |  | 18,353 |  |  |  | 16,128 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.3
+
+| LinkedIn |  |  | 3,437 |  |  |  | 2,562 |  |  |  | 10,104 |  |  |  | 7,345 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.4
+
+| Enterprise Services |  |  | 1,891 |  |  |  | 1,803 |  |  |  | 5,505 |  |  |  | 5,135 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.5
+
+| Other |  |  | 1,304 |  |  |  | 1,125 |  |  |  | 3,888 |  |  |  | 3,300 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART I
+
+
+#### Item 1
+
+Revenue from external customers, classified by significant product and service offerings, was as follows:
+
+
+#### (In millions)
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+
+#### Nine Months Ended
+
+
+#### March 31,
+
+2022  
+2021  
+2022  
+2021
+
+Server products and cloud services
+ $
+17,038  $
+13,204  $
+48,482  $
+37,128 
+Office products and cloud services
+  
+11,164   
+10,016   
+33,223   
+29,175 
+Windows
+  
+6,077   
+5,463   
+18,353   
+16,128 
+Gaming
+  
+3,740   
+3,533   
+12,775   
+11,656 
+LinkedIn
+  
+3,437   
+2,562   
+10,104   
+7,345 
+Search and news advertising
+  
+2,945   
+2,401   
+8,665   
+6,730 
+Enterprise Services
+  
+1,891   
+1,803   
+5,505   
+5,135 
+Devices
+  
+1,764   
+1,599   
+5,410   
+5,339 
+Other
+  
+1,304   
+1,125   
+3,888   
+3,300 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total
+ $
+49,360  $
+41,706  $
+146,405  $
+121,936
+
+We have recast certain previously reported amounts in the table above to conform to the way we internally manage and monitor our business.
+
+Our Microsoft Cloud (formerly commercial cloud) revenue, which includes Azure and other cloud services, Oﬃce 365 Commercial, the
+commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties, was $23.4 billion and $66.2 billion for the three and nine
+months ended March 31, 2022, respectively, and $17.7 billion and $49.6 billion for the three and nine months ended March 31, 2021,
+respectively. These amounts are primarily included in Server products and cloud services, Oﬃce products and cloud services, and LinkedIn in
+the table above.
+
+Assets are not allocated to segments for internal reporting presentations. A portion of amortization and depreciation is included with various other
+costs in an overhead allocation to each segment. It is impracticable for us to separately identify the amount of amortization and depreciation by
+segment that is included in the measure of segment profit or loss.
+
+
+#### 31
+
+
+## Page 32
+
+
+### PART I
+
+
+#### Item 1
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+#### To the Stockholders and the Board of Directors of Microsoft Corporation
+
+
+#### Results of Review of Interim Financial Information
+
+We have reviewed the accompanying consolidated balance sheet of Microsoft Corporation and subsidiaries (the "Company") as of March
+31, 2022, the related consolidated statements of income, comprehensive income, cash ﬂows, and stockholders’ equity for the three-month
+and nine-month periods ended March 31, 2022 and 2021, and the related notes (collectively referred to as the “interim ﬁnancial
+information”). Based on our reviews, we are not aware of any material modiﬁcations that should be made to the accompanying interim
+financial information for it to be in conformity with accounting principles generally accepted in the United States of America.
+
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States)
+(PCAOB), the consolidated balance sheet of the Company as of June 30, 2021, and the related consolidated statements of income,
+comprehensive income, cash ﬂows, and stockholders' equity for the year then ended (not presented herein); and in our report dated July
+29, 2021, we expressed an unqualiﬁed opinion on those consolidated ﬁnancial statements. In our opinion, the information set forth in the
+accompanying consolidated balance sheet as of June 30, 2021, is fairly stated, in all material respects, in relation to the consolidated
+balance sheet from which it has been derived.
+
+
+#### Basis for Review Results
+
+This interim ﬁnancial information is the responsibility of the Company's management. We are a public accounting ﬁrm registered with the
+PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the
+applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our reviews in accordance with standards of the PCAOB. A review of interim ﬁnancial information consists principally of
+applying analytical procedures and making inquiries of persons responsible for ﬁnancial and accounting matters. It is substantially less in
+scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion
+regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+
+/s/ DELOITTE & TOUCHE LLP
+ 
+Seattle, Washington
+April 26, 2022
+
+
+#### 32
+
+
+## Page 33
+
+
+### PART I
+
+
+#### Item 2
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+
+### OPERATIONS
+
+
+#### Note About Forward-Looking Statements
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933,
+and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the following
+sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” (Part II, Item 1A of this
+Form 10-Q). These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,”
+“strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions.
+Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual
+results to diﬀer materially. We describe risks and uncertainties that could cause actual results and events to diﬀer materially in “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures about Market Risk” (Part I,
+Item 3 of this Form 10-Q), and “Risk Factors”. We undertake no obligation to update or revise publicly any forward-looking statements, whether
+because of new information, future events, or otherwise.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader
+understand the results of operations and ﬁnancial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read
+in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2021, and our ﬁnancial statements and the accompanying
+Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+
+
+### OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to
+create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity,
+large business competitiveness, and public-sector eﬃciency. They also support new startups, improve educational and health outcomes, and
+empower human ingenuity.
+
+We generate revenue by oﬀering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of
+software products; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most
+signiﬁcant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services;
+datacenter costs in support of our cloud-based services; and income taxes.
+
+As the world continues to respond to COVID-19, we are working to do our part by ensuring the safety of our employees, striving to protect the
+health and well-being of the communities in which we operate, and providing technology and resources to our customers to help them do their
+best work while remote.
+
+Highlights from the third quarter of fiscal year 2022 compared with the third quarter of fiscal year 2021 included:
+
+•
+Microsoft Cloud (formerly commercial cloud) revenue increased 32% to $23.4 billion.
+
+•
+Office Commercial products and cloud services revenue increased 12% driven by Office 365 Commercial growth of 17%.
+
+•
+Oﬃce Consumer products and cloud services revenue increased 11% and Microsoft 365 Consumer subscribers grew to 58.4
+million.
+
+•
+LinkedIn revenue increased 34%.
+
+•
+Dynamics products and cloud services revenue increased 22% driven by Dynamics 365 growth of 35%.
+
+•
+Server products and cloud services revenue increased 29% driven by Azure and other cloud services growth of 46%.
+
+•
+Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 11%.
+
+•
+Windows Commercial products and cloud services revenue increased 14%.
+
+•
+Xbox content and services revenue increased 4%.
+
+
+#### 33
+
+
+## Page 34
+
+
+### PART I
+
+
+#### Item 2
+
+•
+Search and news advertising revenue excluding traffic acquisition costs increased 23%.
+
+•
+Surface revenue increased 13%.
+
+On March 4, 2022, we completed our acquisition of Nuance Communications, Inc. (“Nuance”) for a total purchase price of $18.8 billion, consisting
+primarily of cash. Nuance is a cloud and artiﬁcial intelligence (“AI”) software provider with healthcare and enterprise AI experience, and the
+acquisition will build on our industry-speciﬁc cloud oﬀerings. The ﬁnancial results of Nuance have been included in our consolidated ﬁnancial
+statements since the date of the acquisition. Nuance is reported as part of our Intelligent Cloud segment. Refer to Note 7 – Business
+Combinations of the Notes to the Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion.
+
+
+#### Industry Trends
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the
+changing demands of customers and users, industry trends, and competitive forces.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers
+prefer evolve rapidly, and inﬂuence how users access services in the cloud, and in some cases, the user’s choice of which suite of cloud-based
+services to use. We must continue to evolve and adapt over an extended time in pace with this changing environment. The investments we are
+making in infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+
+Our success is highly dependent on our ability to attract and retain qualiﬁed employees. We hire a mix of university and industry talent worldwide.
+We compete for talented individuals globally by oﬀering an exceptional working environment, broad customer reach, scale in resources, the
+ability to grow one’s career across many diﬀerent products and businesses, and competitive compensation and beneﬁts. Aggregate demand for
+our software, services, and devices is correlated to global macroeconomic and geopolitical factors, which remain dynamic.
+
+Our devices are primarily manufactured by third-party contract manufacturers, some of which contain certain components for which there are very
+few qualiﬁed suppliers. For these components, we have limited near-term ﬂexibility to use other manufacturers if a current vendor becomes
+unavailable or is unable to meet our requirements. Extended disruptions at these suppliers could lead to a similar disruption in our ability to
+manufacture devices on time to meet consumer demand.
+
+Our international operations provide a signiﬁcant portion of our total revenue and expenses. Many of these revenue and expenses are
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may signiﬁcantly aﬀect revenue and
+expenses. Fluctuations in the U.S. dollar relative to certain foreign currencies reduced reported revenue and expenses from our international
+operations for the three months ended March 31, 2022, and did not have a material impact on reported revenue or expenses from our
+international operations for the nine months ended March 31, 2022.
+
+Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and other risks.
+
+
+### COVID-19
+
+The COVID-19 pandemic continues to impact our business operations and ﬁnancial results, although some of the eﬀects have lessened over
+time. Our commercial and consumer businesses have beneﬁted from demand for cloud and productivity tools, and we have experienced savings
+in operating expenses related to COVID-19. The COVID-19 pandemic may continue to impact our business operations and ﬁnancial operating
+results, and there is uncertainty in the nature and degree of its continued effects over time. Refer to Risk Factors (Part II, Item 1A of this Form 10-
+Q) for a discussion of these factors and other risks.
+
+
+#### 34

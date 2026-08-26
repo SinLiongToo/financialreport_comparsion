@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2022_Q1_10-Q
+# Financial Report: META-PLATFORMS_2022_Q1_10-Q
 
 - **Source File**: `META-PLATFORMS_2022_Q1_10-Q.pdf`
-- **Total Pages**: 132
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 132
+- **Parsed Key Pages**: 37 (37 selected sections)
 
 ---
 
@@ -2792,494 +2792,925 @@ $2.43 billion and $2.83 billion, respectively. The income tax benefit recognized
 #### 25
 
 
-## Page 26
+## Page 37
 
 
 #### Table of Contents
 
-As of March 31, 2022, there was $33.83 billion of unrecognized share-based compensation expense related to RSU awards. This
-unrecognized compensation expense is expected to be recognized over a weighted-average period of approximately three years based on
-vesting under the award service conditions.
+
+#### Components of Results of Operations
 
 
-#### Note 12. Income Taxes
-
-Our tax provision for interim periods is determined using an estimated annual eﬀective tax rate, adjusted for discrete items arising in that
-quarter. In each quarter, we update the estimated annual eﬀective tax rate and make a year-to-date adjustment to the provision. The estimated
-annual eﬀective tax rate is subject to signiﬁcant volatility due to several factors, including our ability to accurately predict the proportion of our
-income (loss) before provision for income taxes in multiple jurisdictions, the U.S. tax benefits from foreign derived intangible income, the effects of
-tax law changes, the effects of acquisitions, and the integration of those acquisitions.
-
-Our gross unrecognized tax beneﬁts were $9.77 billion and $9.81 billion on March 31, 2022 and December 31, 2021, respectively. These
-unrecognized tax beneﬁts were primarily accrued for the uncertainties related to transfer pricing with our foreign subsidiaries, which include
-licensing of intellectual property, providing services and other transactions, as well as for uncertainties with our research tax credits. If the gross
-unrecognized tax beneﬁts as of March 31, 2022 were realized in a future period, this would result in a tax beneﬁt of $5.81 billion within our
-provision of income taxes at such time. The amount of interest and penalties accrued was $889 million and $960 million as of March 31, 2022 and
-December 31, 2021, respectively. We expect to continue to accrue unrecognized tax benefits for certain recurring tax positions.
-
-We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are
-subject to potential examination include the United States and Ireland. We are under examination by the Internal Revenue Service (IRS) for our
-2014 through 2019 tax years. Our 2020 and subsequent tax years remain open to examination by the IRS and the Irish Revenue Commissioners.
-
-In July 2016, we received a Statutory Notice of Deﬁciency (Notice) from the IRS related to transfer pricing with our foreign subsidiaries in
-conjunction with the examination of the 2010 tax year. While the Notice applies only to the 2010 tax year, the IRS stated that it will also apply its
-position for tax years subsequent to 2010 and has done so in years covered by the second Notice described below. We do not agree with the
-position of the IRS and have ﬁled a petition in the Tax Court challenging the Notice. On January 15, 2020, the IRS's amendment to answer was
-ﬁled stating that it planned to assert at trial an adjustment that is higher than the adjustment stated in the Notice. The ﬁrst session of the trial was
-completed in March 2020 and a second session commenced in October 2021. Based on the information provided, we believe that, if the IRS
-prevails in its updated position, this could result in an additional federal tax liability of an estimated, aggregate amount of up to approximately
-$9.0 billion in excess of the amounts in our originally filed U.S. return, plus interest and any penalties asserted.
-
-In March 2018, we received a second Notice from the IRS in conjunction with the examination of our 2011 through 2013 tax years. The IRS
-applied its position from the 2010 tax year to each of these years and also proposed new adjustments related to other transfer pricing with our
-foreign subsidiaries and certain tax credits that we claimed. If the IRS prevails in its position for these new adjustments, this could result in an
-additional federal tax liability of up to approximately $680 million in excess of the amounts in our originally ﬁled U.S. returns, plus interest and any
-penalties asserted. We do not agree with the positions of the IRS in the second Notice and have ﬁled a petition in the Tax Court challenging the
-second Notice.
-
-We have previously accrued an estimated unrecognized tax beneﬁt consistent with the guidance in ASC 740,  Income Taxes (ASC 740),
-that is lower than the potential additional federal tax liability from the positions taken by the IRS in the two Notices and its Pretrial Memorandum.
-In addition, if the IRS prevails in its positions related to transfer pricing with our foreign subsidiaries, the additional tax that we would owe would
-be partially oﬀset by a reduction in the tax that we owe under the mandatory transition tax on accumulated foreign earnings from the 2017 Tax
-Cuts and Jobs Act. As of March 31, 2022, we have not resolved these matters and proceedings continue in the Tax Court.
-
-We believe that adequate amounts have been reserved in accordance with ASC 740 for any adjustments to the provision for income taxes
-or other tax items that may ultimately result from these examinations. The timing of the resolution, settlement, and closure of any audits is highly
-uncertain, and it is reasonably possible that the balance of gross
+#### Revenue
 
 
-#### 26
+#### Family of Apps (FoA)
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad products
+on Facebook, Instagram, Messenger, and third-party aﬃliated websites or mobile applications. Marketers pay for ad products either directly or
+through their relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as
+clicks, taken by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. We calculate price per ad as total advertising revenue divided by the
+number of ads delivered, representing the eﬀective price paid per impression by a marketer regardless of their desired objective such as
+impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net basis.
+
+Other revenue. Other revenue consists of net fees we receive from developers using our Payments infrastructure and revenue from
+various other sources.
 
 
-## Page 27
+#### Reality Labs (RL)
 
-### Table 27.1
-
-|  | We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook, |
-| --- | --- |
-| Instagram, Messenger, WhatsApp, and other services. RL includes augmented and virtual reality related consumer hardware, software, and |  |
-| content. Our operating segments are the same as our reportable segments. |  |
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest, Facebook Portal, and wearables, and
+related software and content.
 
 
-### Table 27.2
+#### Cost of Revenue and Operating Expenses
 
-|  | Our Chief Executive Officer is our chief operating decision maker (CODM), who allocates resources to and assesses the performance o |
-| --- | --- |
-| each operating segment using information about the operating segment's revenue and income (loss) from operations. Our CODM does no |  |
-| evaluate operating segments using asset or liability information. |  |
+Cost of revenue. Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These
+include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network
+infrastructure and buildings, as well as payroll and related expenses which include share-based compensation for employees on our operations
+teams, and energy and bandwidth costs. Cost of revenue also includes costs associated with partner arrangements, including traﬃc acquisition
+costs and credit card and other fees related to processing customer transactions; RL cost of products sold; and content costs.
+
+Research and development. Research and development expenses consist primarily of payroll and related expenses which include share-
+based compensation, facilities-related costs for employees on our engineering and technical teams who are responsible for developing new
+products as well as improving existing products, and professional services.
+
+Marketing and sales. Marketing and sales expenses consist primarily of marketing and promotional expenses and payroll and related
+expenses which include share-based compensation for our employees engaged in sales, sales support, marketing, business development, and
+customer service functions. Our marketing and sales expenses also include professional services such as content reviewers to support our
+community and product operations.
+
+General and administrative. General and administrative expenses consist primarily of legal-related costs, which include accruals for
+estimated fines, settlements, or other losses in connection with legal and related matters, as well as other legal fees; payroll and related expenses
+which include share-based compensation for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications
+and policy, and other administrative employees; other taxes, such as digital services taxes, other tax levies, and gross receipts taxes; and
+professional services.
 
 
-### Table 27.3
+#### 37
 
-| Revenue: |  |  |  |  |
+
+## Page 38
+
+### Table 38.1
+
+| Revenue | $ 27,908 |  | $ | 26,171 |
 | --- | --- | --- | --- | --- |
-| Family of Apps | $ 27,213 |  | $ | 25,637 |
-| Reality Labs | 695 |  | 534 |  |
-| Total revenue | $ 27,908 |  | $ | 26,171 |
-| Income (loss) from operations: |  |  |  |  |
-| Family of Apps | $ 11,484 |  | $ | 13,205 |
-| Reality Labs | (2,960) |  | (1,827) |  |
-| Total income from operations | $ 8,524 |  | $ | 11,378 |
+| Costs and expenses: |  |  |  |  |
+| Cost of revenue | 6,005 |  | 5,131 |  |
+| Research and development | 7,707 |  | 5,197 |  |
+| Marketing and sales | 3,312 |  | 2,843 |  |
+| General and administrative | 2,360 |  | 1,622 |  |
+| Total costs and expenses | 19,384 |  | 14,793 |  |
+| Income from operations | 8,524 |  | 11,378 |  |
+| Interest and other income, net | 384 |  | 125 |  |
+| Income before provision for income taxes | 8,908 |  | 11,503 |  |
+| Provision for income taxes | 1,443 |  | 2,006 |  |
+| Net income | $ 7,465 |  | $ | 9,497 |
 
 
-### Table 27.4
+### Table 38.2
 
-| United States $ | 59,080 |  | $ | 55,497 |
+| Revenue | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 22 |  |  | 20 |  |
+| Research and development | 28 |  |  | 20 |  |
+| Marketing and sales | 12 |  |  | 11 |  |
+| General and administrative | 8 |  |  | 6 |  |
+| Total costs and expenses | 69 |  |  | 57 |  |
+| Income from operations | 31 |  |  | 43 |  |
+| Interest and other income, net | 1 |  |  | — |  |
+| Income before provision for income taxes | 32 |  |  | 44 |  |
+| Provision for income taxes | 5 |  |  | 8 |  |
+| Net income | 27 | % |  | 36 | % |
+
+
+### Table 38.3
+
+| Cost of revenue | $ 160 |  | $ | 118 |
 | --- | --- | --- | --- | --- |
-| Rest of the world(1) |  |  |  |  |
-| Total long-lived assets $ | 73,823 |  | $ | 69,964 |
+| Research and development | 1,941 |  | 1,408 |  |
+| Marketing and sales | 216 |  | 174 |  |
+| General and administrative | 181 |  | 130 |  |
+| Total share-based compensation expense | $ 2,498 |  | $ | 1,830 |
 
 
 
 #### Table of Contents
 
-unrecognized tax beneﬁts could signiﬁcantly change in the next 12 months. Given the number of years remaining that are subject to examination,
-we are unable to estimate the full range of possible adjustments to the balance of gross unrecognized tax beneﬁts. If the taxing authorities prevail
-in the assessment of additional tax due, the assessed tax, interest, and penalties, if any, could have a material adverse impact on our ﬁnancial
-position, results of operations, and cash flows.
 
+#### Results of Operations
 
-#### Note 13. Segment and Geographical Information
-
-We report our ﬁnancial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook,
-Instagram, Messenger, WhatsApp, and other services. RL includes augmented and virtual reality related consumer hardware, software, and
-content. Our operating segments are the same as our reportable segments.
-
-Our Chief Executive Oﬃcer is our chief operating decision maker (CODM), who allocates resources to and assesses the performance of
-each operating segment using information about the operating segment's revenue and income (loss) from operations. Our CODM does not
-evaluate operating segments using asset or liability information.
-
-Revenue and costs and expenses are generally directly attributed to our segments. These costs and expenses include certain product
-development related operating expenses, costs associated with partnership arrangements, consumer hardware product costs, content costs, and
-legal-related costs. Indirect costs are allocated to segments based on a reasonable allocation methodology, when such costs are signiﬁcant to
-the performance measures of the operating segments. Indirect cost of revenue is allocated to our segments based on usage, such as costs
-related to the operation of our data centers and technical infrastructure. Indirect operating expenses, such as facilities, information technology,
-certain shared research and development activities, recruiting, and physical security expenses, are mostly allocated based on headcount.
-
-The following table sets forth our segment information of revenue and income (loss) from operations (in millions). For comparative
-purposes, amounts in the prior period have been recast:
+The following table sets forth our condensed consolidated statements of income data (in millions):
 
 Three Months Ended March 31,
  
 2022
 2021
-Revenue:
-
-Family of Apps
-$
-27,213 
-$
-25,637 
-Reality Labs
-695 
-534
-
-Total revenue
+Revenue
 $
 27,908 
 $
-26,171
+26,171 
+Costs and expenses:
 
-
-#### Income (loss) from operations:
-
-Family of Apps
-$
-11,484 
-$
-13,205 
-Reality Labs
-(2,960)
-(1,827)
-
-Total income from operations
-$
+Cost of revenue
+6,005 
+5,131 
+Research and development
+7,707 
+5,197 
+Marketing and sales
+3,312 
+2,843 
+General and administrative
+2,360 
+1,622 
+Total costs and expenses
+19,384 
+14,793 
+Income from operations
 8,524 
+11,378 
+Interest and other income, net
+384 
+125 
+Income before provision for income taxes
+8,908 
+11,503 
+Provision for income taxes
+1,443 
+2,006 
+Net income
 $
-11,378
+7,465 
+$
+9,497
 
-For information regarding revenue disaggregated by geography, see Note 2 — Revenue.
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue)
+:
 
-The following table sets forth our long-lived assets by geographic area, which consist of property and equipment, net and operating lease
-right-of-use assets (in millions):
+Three Months Ended March 31,
+ 
+2022
+2021
+Revenue
+100 %
+100 %
+Costs and expenses:
 
-March 31, 2022
-December 31, 2021
-United States
-$
-59,080 
-$
-55,497 
-Rest of the world
-14,743 
-14,467 
-Total long-lived assets
-$
-73,823 
-$
-69,964
+Cost of revenue
+22 
+20 
+Research and development
+28 
+20 
+Marketing and sales
+12 
+11 
+General and administrative
+8 
+6 
+Total costs and expenses
+69 
+57 
+Income from operations
+31 
+43 
+Interest and other income, net
+1 
+— 
+Income before provision for income taxes
+32 
+44 
+Provision for income taxes
+5 
+8 
+Net income
+27 %
+36 %
 
 ____________________________________
-(1)    No individual country, other than disclosed above, exceeded 10% of our total long-lived assets for any period presented.
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### Share-based compensation expense included in costs and expenses (in millions):
+
+
+#### Three Months Ended March 31,
+
+2022
+2021
+Cost of revenue
+$
+160 
+$
+118 
+Research and development
+1,941 
+1,408 
+Marketing and sales
+216 
+174 
+General and administrative
+181 
+130 
+Total share-based compensation expense
+$
+2,498 
+$
+1,830
 
 
 #### (1)
 
 
-#### 27
+#### 38
 
 
-## Page 28
+## Page 39
 
-### Table 28.1
+### Table 39.1
 
-|  | We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook, |
+| Cost of revenue | 1 | % |  | — | % |
+| --- | --- | --- | --- | --- | --- |
+| Research and development | 7 |  |  | 5 |  |
+| Marketing and sales | 1 |  |  | 1 |  |
+| General and administrative | 1 |  |  | — |  |
+| Total share-based compensation expense | 9 | % |  | 7 | % |
+
+
+### Table 39.2
+
+| Advertising | $ | 26,998 |  | $ | 25,439 |  | 6 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 215 |  |  | 198 |  |  | 9 | % |
+| Family of Apps | 27,213 |  |  | 25,637 |  |  | 6 | % |
+| Reality Labs | 695 |  |  | 534 |  |  | 30 | % |
+| Total revenue | $ | 27,908 |  | $ | 26,171 |  | 7 | % |
+
+
+### Table 39.3
+
+|  | 2021 |
 | --- | --- |
-| Instagram, Messenger, WhatsApp, and other services. RL includes our augmented and virtual reality related consumer hardware, software, and |  |
-| content. |  |
+| driven by an increase in ads delivered in Asia-Pacific and Rest of World and partially offset by a decrease in ads delivered in the United States |  |
+| and Canada region |  |
 
 
-### Table 28.2
+### Table 39.4
 
-| Revenue | $ | 27,213 |  |  | $ | 25,637 |  |  | 6% |  | $ | 695 |  |  | $ | 534 |  |  | 30% |  | $ | 27,908 |  |  | $ | 26,171 |  |  | 7% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Costs and expenses | $ | 15,729 |  |  | $ | 12,432 |  |  | 27% |  | $ | 3,655 |  |  | $ | 2,361 |  |  | 55% |  | $ | 19,384 |  |  | $ | 14,793 |  |  | 31% |
-| Income (loss) from operations | $ | 11,484 |  |  | $ | 13,205 |  |  | (13)% |  | $ | (2,960) |  |  | $ | (1,827) |  |  | (62)% |  | $ | 8,524 |  |  | $ | 11,378 |  |  | (25)% |
-| Operating margin | 42 |  | % |  | 52 |  | % |  |  |  | (426) |  | % |  | (342) |  | % |  |  |  | 31 |  | % |  | 43 |  | % |  |  |
+|  | 2021. The decrease in average price per ad |
+| --- | --- |
+| was primarily driven by an increasing proportion of the number of ads delivered in geographies and in products such as video and Stories that |  |
+| monetize at lower rates, as well as |  |
 
 
 
 #### Table of Contents
 
-Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Share-based compensation expense included in costs and expenses (as a percentage of revenue)
+:
 
-You should read the following discussion of our ﬁnancial condition and results of operations in conjunction with our condensed consolidated
-ﬁnancial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated ﬁnancial
-statements included in our Annual Report on Form 10-K for the year ended December 31, 2021, as ﬁled with the Securities and Exchange
-Commission. In addition to our historical condensed consolidated ﬁnancial information, the following discussion contains forward-looking
-statements that reﬂect our plans, estimates, and beliefs. Our actual results could diﬀer materially from those discussed in the forward-looking
-statements. Factors that could cause or contribute to these diﬀerences include those discussed below and elsewhere in this Quarterly Report on
-Form 10-Q, particularly in Part II, Item 1A, "Risk Factors." For a discussion of limitations in the measurement of certain of our community metrics,
-see the section entitled "Limitations of Key Metrics and Other Data" in this Quarterly Report on Form 10-Q.
-
-To supplement our condensed consolidated ﬁnancial statements, which are prepared and presented in accordance with generally accepted
-accounting principles in the United States (GAAP), we present revenue on a constant currency basis, which is a non-GAAP ﬁnancial measure.
-Revenue on a constant currency basis is presented in the section entitled "—Revenue—Foreign Exchange Impact on Revenue." To calculate
-revenue on a constant currency basis, we translated revenue for the three months ended March 31, 2022 using the prior year's monthly
-exchange rates for our settlement or billing currencies other than the U.S. dollar.
-
-This non-GAAP ﬁnancial measure is not intended to be considered in isolation or as a substitute for, or superior to, ﬁnancial information prepared
-and presented in accordance with GAAP. This measure may be diﬀerent from non-GAAP ﬁnancial measures used by other companies, limiting
-its usefulness for comparison purposes. Moreover, presentation of revenue on a constant currency basis is provided for year-over-year
-comparison purposes, and investors should be cautioned that the eﬀect of changing foreign currency exchange rates has an actual eﬀect on our
-operating results. We believe this non-GAAP ﬁnancial measure provides investors with useful supplemental information about the ﬁnancial
-performance of our business, enables comparison of ﬁnancial results between periods where certain items may vary independent of business
-performance, and allows for greater transparency with respect to key metrics used by management in operating our business.
-
-
-#### Executive Overview of First Quarter Results
-
-Our financial results and key community metrics for the first quarter of 2022 are as follows:
-
-
-#### Consolidated and segment results:
-
-We report our ﬁnancial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook,
-Instagram, Messenger, WhatsApp, and other services. RL includes our augmented and virtual reality related consumer hardware, software, and
-content. For comparative purposes, amounts in the prior period have been recast:
-
-Family of Apps
-Reality Labs
-Total
-Three Months Ended March
-
-
-#### 31,
-
-
-#### Year-over-
-
-Year 
-% Change
-
-
-#### Three Months Ended
-
-
-#### March 31,
-
-
-#### Year-over-
-
-Year 
-% Change
-
-
-#### Three Months Ended March
-
-
-#### 31,
-
-
-#### Year-over-
-
-Year 
-% Change
+Three Months Ended March 31,
 2022
 2021
+Cost of revenue
+1 %
+— %
+Research and development
+7 
+5 
+Marketing and sales
+1 
+1 
+General and administrative
+1 
+— 
+Total share-based compensation expense
+9 %
+7 %
+
+____________________________________
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### Revenue
+
+The following table sets forth our revenue by source and by segment. For comparative purposes, amounts in the prior period have been
+recast:
+
+Three Months Ended March 31,
+ 
+ 
 2022
 2021
-2022
-2021
+% change
 
 (dollars in millions)
-Revenue
+Advertising
 $
+26,998 $
+25,439 
+6 %
+Other revenue
+215 
+198 
+9 %
+Family of Apps
 27,213 
-$
 25,637 
-6%
-$
+6 %
+Reality Labs
 695 
-$
 534 
-30%
+30 %
+
+Total revenue
 $
-27,908 
-$
+27,908 $
 26,171 
-7%
-Costs and expenses
-$
-15,729 
-$
-12,432 
-27%
-$
-3,655 
-$
-2,361 
-55%
-$
-19,384 
-$
-14,793 
-31%
-Income (loss) from
-operations
-$
-11,484 
-$
-13,205 
-(13)%
-$
-(2,960)
-$
-(1,827)
-(62)%
-$
-8,524 
-$
-11,378 
-(25)%
-Operating margin
-42 %
-52 %
-(426)%
-(342)%
-31 %
-43 %
-
-•
-Net income was $7.47 billion, with diluted earnings per share of $2.72 for the three months ended March 31, 2022.
-•
-Capital expenditures, including principal payments on finance leases, were $5.55 billion for the three months ended March 31, 2022.
-•
-Effective tax rate was 16% for the three months ended March 31, 2022.
-•
-Cash and cash equivalents and marketable securities were $43.89 billion as of March 31, 2022.
-•
-Headcount was 77,805 as of March 31, 2022, an increase of 28% year-over-year.
+7 %
 
 
-#### 28
+#### Family of Apps
+
+FoA revenue in the three months ended March 31, 2022 increased $1.58 billion, or 6%, compared to the same period in 2021. The
+increase was mostly driven by an increase in advertising revenue.
 
 
-## Page 29
+#### Advertising
+
+Advertising revenue in the three months ended March 31, 2022 increased $1.56 billion or 6%, compared to the same period in 2021 as a
+result of an increase in the number of ads delivered, partially oﬀset by a decrease in the average price per ad. During the three months ended
+March 31, 2022, the number of ads delivered increased by 15%, as compared with an increase of approximately 12% in the same period in 2021,
+driven by an increase in ads delivered in Asia-Paciﬁc and Rest of World and partially oﬀset by a decrease in ads delivered in the United States
+and Canada region. The increase in the ads delivered during the three months ended March 31, 2022 was driven by increases in the number
+and frequency of ads displayed across our products and an increase in users. During the three months ended March 31, 2022, the average price
+per ad decreased by 8%, as compared with an increase of approximately 30% in the same period in 2021. The decrease in average price per ad
+was primarily driven by an increasing proportion of the number of ads delivered in geographies and in products such as video and Stories that
+monetize at lower rates, as well as an unfavorable foreign exchange impact. We anticipate that future advertising revenue growth will be driven by
+a combination of price and the number of ads delivered.
+
+
+#### (1)
+
+
+#### 39
+
+
+## Page 40
+
+### Table 40.1
+
+| Cost of revenue | $ | 6,005 |  |  | $ | 5,131 |  |  | 17 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 22 |  | % |  | 20 |  | % |  |  |  |
+
+
+### Table 40.2
+
+| Research and development | $ | 7,707 |  |  | $ | 5,197 |  |  | 48 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |  |  |  |  |
+
+
+### Table 40.3
+
+| Marketing and sales | $ | 3,312 |  |  | $ | 2,843 |  |  | 16 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |  |  |  |  |
+
 
 
 #### Table of Contents
 
 
-#### Family of Apps metrics:
+#### Reality Labs
 
-•
-Family daily active people (DAP) was 2.87 billion on average for March 2022, an increase of 6% year-over-year.
-•
-Family monthly active people (MAP) was 3.64 billion as of March 31, 2022, an increase of 6% year-over-year.
-•
-Facebook daily active users (DAUs) were 1.96 billion on average for March 2022, an increase of 4% year-over-year.
-•
-Facebook monthly active users (MAUs) were 2.94 billion as of March 31, 2022, an increase of 3% year-over-year.
-•
-Ad impressions delivered across our Family of Apps in the ﬁrst quarter of 2022 increased by 15% year-over-year, and the average price
-per ad in the first quarter of 2022 decreased by 8% year-over-year.
-
-Our mission is to give people the power to build community and bring the world closer together. All of our products, including our apps,
-share the vision of helping to bring the metaverse to life.
-
-In the ﬁrst quarter of 2022, we continued to focus on our main revenue growth priorities: (i) helping marketers use our products to connect
-with consumers and (ii) making our ads more relevant and eﬀective. We also continued to invest based on the following company priorities:
-(i) continue making progress on the major social issues facing the internet and our company, including privacy, safety, and security; (ii) build new
-experiences that meaningfully improve people's lives today and set the stage for even bigger improvements in the future; (iii) keep building our
-business by supporting the millions of businesses that rely on our services to grow and create jobs; and (iv) communicate more transparently
-about what we're doing and the role our services play in the world.
-
-Our advertising revenue growth in the ﬁrst quarter of 2022 was adversely aﬀected by reduced marketer spending as a result of limitations
-on our ad targeting and measurement tools arising from changes to the iOS operating system beginning in 2021. We expect that future
-advertising revenue growth will continue to be adversely aﬀected by these and other limitations on our ad targeting and measurement tools
-arising from changes to the regulatory environment and third-party mobile operating systems and browsers.
-
-The COVID-19 pandemic has also impacted our business and results of operations, with a varied impact on the demand for and pricing of
-our ads from period to period. While we experienced a reduction in advertising demand and a related decline in pricing during the onset of the
-pandemic, we believe the pandemic subsequently contributed to an acceleration in the growth of online commerce, and we experienced
-increasing demand for advertising as a result of this trend. More recently, we believe this growth has declined, and we saw continued softening of
-advertising demand in the ﬁrst quarter of 2022 as many activities that shifted online during COVID-19 related lockdowns returned in person. We
-may experience reduced advertising demand and related declines in pricing in future periods to the extent this trend continues, which could
-adversely affect our advertising revenue growth. The impact of the pandemic on the demand for and pricing of our advertising services, as well as
-on our overall results of operations, remains uncertain for the foreseeable future.
-
-Other global and regional business, macroeconomic, and geopolitical conditions also have had, and we believe will continue to have, an
-impact on our user growth and engagement and advertising revenue growth. For example, competitive products and services have reduced some
-users' engagement with our products and services. In response to competitive pressures, we have introduced new features such as Reels, which
-is growing in usage but is not currently monetized at the same rate as our feed or Stories products. We also have seen a deceleration in our
-community growth rates as the size of our community continues to increase. In addition, in connection with the war in Ukraine, access to
-Facebook and Instagram was restricted in Russia and the services were then prohibited by the Russian government, which adversely aﬀected
-user growth and engagement in the ﬁrst quarter of 2022. These trends adversely aﬀected advertising revenue growth in the ﬁrst quarter of 2022,
-including softness in the second half of the quarter that coincided with the war in Ukraine, and we expect will continue to aﬀect our advertising
-revenue growth in the foreseeable future. In addition, the appreciation of the U.S. dollar relative to other foreign currencies had a negative impact
-on our advertising revenue in the ﬁrst quarter of 2022. General economic uncertainty as a result of these conditions globally or regionally may
-adversely affect advertising demand and therefore our revenue and business.
-
-We anticipate that additional investments in our servers, data center capacity, network infrastructure, and oﬃce facilities, as well as scaling
-our headcount to support our growth, including in our Reality Labs initiatives, will continue to drive expense growth in 2022. In 2022, we also
-expect that our year-over-year total expense growth rates may signiﬁcantly exceed our year-over-year revenue growth rates, which would
-adversely affect our operating margin and profitability.
+RL revenue in the three months ended March 31, 2022 increased $161 million, or 30%, compared to the same period in 2021. The
+increase in RL revenue was primarily driven by an increase in the volume of our consumer hardware products sold.
 
 
-#### 29
+#### Foreign Exchange Impact on Revenue
+
+The general strengthening of the U.S. dollar relative to certain foreign currencies for the three months ended March 31, 2022 compared to
+the same period in 2021 had an unfavorable impact on revenue. If we had translated revenue for the three months ended March 31, 2022 using
+the prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total revenue and advertising
+revenue would have been $28.80 billion and $27.89 billion, respectively. Using these constant rates, total revenue and advertising revenue would
+have been $893 million and $888 million higher than actual total revenue and advertising revenue, respectively, for the three months ended
+March 31, 2022.
 
 
-## Page 30
+#### Cost of revenue
+
+Three Months Ended March 31,
+ 
+ 
+2022
+2021
+% change
+
+(dollars in millions)
+Cost of revenue
+$
+6,005 
+$
+5,131 
+17 %
+Percentage of revenue
+22 %
+20 %
+
+Cost of revenue in the three months ended March 31, 2022 increased $874 million, or 17%, compared to the same period in 2021. The
+increase was primarily due to an increase in operational expenses related to our data centers and technical infrastructure; higher costs
+associated with partner arrangements, including traffic acquisition and payment processing costs; and an increase in content costs.
+
+
+#### Research and development
+
+Three Months Ended March 31,
+ 
+ 
+2022
+2021
+% change
+
+(dollars in millions)
+Research and development
+$
+7,707 
+$
+5,197 
+48 %
+Percentage of revenue
+28 %
+20 %
+
+Research and development expenses in the three months ended March 31, 2022 increased $2.51 billion, or 48%, compared to the same
+period in 2021. The increase was mainly due to higher payroll and related expenses as a result of a 35% growth in employee headcount from
+March 31, 2021 to March 31, 2022 in engineering and other technical functions supporting our continued investment in our family of products and
+Reality Labs.
+
+
+#### Marketing and sales
+
+Three Months Ended March 31,
+ 
+ 
+2022
+2021
+% change
+
+(dollars in millions)
+Marketing and sales
+$
+3,312 
+$
+2,843 
+16 %
+Percentage of revenue
+12 %
+11 %
+
+Marketing and sales expenses in the three months ended March 31, 2022 increased $469 million, or 16%, compared to the same period in
+2021. The increase was mainly due to increases in payroll and related expenses and marketing and
+
+
+#### 40
+
+
+## Page 45
 
 
 #### Table of Contents
 
 
-#### Trends in Our Family Metrics
+#### Critical Accounting Policies and Estimates
 
-The numbers for our key Family metrics, our DAP, MAP, and average revenue per person (ARPP), do not include users on our other
-products unless they would otherwise qualify as DAP or MAP, respectively, based on their other activities on our Family products.
+Our condensed consolidated ﬁnancial statements are prepared in accordance with U.S. GAAP. The preparation of these condensed
+consolidated ﬁnancial statements requires us to make estimates and assumptions that aﬀect the reported amounts of assets, liabilities, revenue,
+costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions based on historical experience
+and on various other assumptions that we believe are reasonable under the circumstances. Our actual results could diﬀer from these estimates
+under diﬀerent assumptions or conditions. Refer to "Critical Accounting Policies and Estimates" contained in Part II, Item 7 of our Annual Report
+on Form 10-K for the year ended December 31, 2021 for a complete discussion of our critical accounting policies and estimates. There have been
+no material changes to our critical accounting policies and estimates since our Annual Report on Form 10-K for the year ended December 31,
+2021.
 
-Trends in the number of people in our community aﬀect our revenue and ﬁnancial results by inﬂuencing the number of ads we are able to
-show, the value of our ads to marketers, the volume of Payments transactions, as well as our expenses and capital expenditures. Substantially all
-of our daily and monthly active people (as defined below) access our Family products on mobile devices.
+
+#### 45
+
+
+## Page 46
+
+
+#### Table of Contents
+
+
+#### Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risks, including changes to foreign currency exchange rates, interest rates, and equity investment risk.
+
+
+#### Foreign Currency Exchange Risk
+
+We have foreign currency risks related to our revenue and operating expenses denominated in currencies other than the U.S. dollar,
+primarily the Euro. Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. dollar, have in the past, and may in the
+future, negatively affect our revenue and other operating results as expressed in U.S. dollars.
+
+We have experienced and will continue to experience ﬂuctuations in our net income as a result of transaction gains or losses related to
+revaluing monetary asset and liability balances that are denominated in currencies other than the functional currency of the entities in which they
+are recorded. At this time, we have not entered into, but in the future we may enter into, derivatives or other ﬁnancial instruments in an attempt to
+hedge our foreign currency exchange risk. It is diﬃcult to predict the eﬀect hedging activities would have on our results of operations. A foreign
+currency gain, net, of $54 million and a foreign currency loss, net, of $93 million were recognized in the three months ended March 31, 2022 and
+2021, respectively, as interest and other income, net in our condensed consolidated statements of income.
+
+
+#### Interest Rate Sensitivity
+
+Our exposure to changes in interest rates relates primarily to interest earned and market value on our cash and cash equivalents and
+marketable securities.
+
+Our cash and cash equivalents and marketable securities consist of cash, certiﬁcates of deposit, time deposits, money market funds, U.S.
+government securities, U.S. government agency securities, and investment grade corporate debt securities. Our investment policy and strategy
+are focused on preservation of capital and supporting our liquidity requirements. Changes in U.S. interest rates aﬀect the interest earned on our
+cash and cash equivalents and marketable securities, and the market value of those securities. A hypothetical 100 basis point increase in interest
+rates would have resulted in a decrease of $678 million and $714 million in the market value of our available-for-sale debt securities as of
+March 31, 2022 and December 31, 2021, respectively. Any realized gains or losses resulting from such interest rate changes and from the
+current unrealized losses would only occur if we sold the investments prior to maturity.
+
+
+#### Equity Investment Risk
+
+Our equity investments are subject to a wide variety of market-related risks that could have a material impact on the carrying value of our
+holdings. We continually evaluate our equity investments in privately-held companies.
+
+Our equity investments are investments in equity securities of privately-held companies without readily determinable fair values. We
+elected to account for most of our equity investments using the measurement alternative, which is cost, less any impairment, adjusted for
+changes in fair value resulting from observable transactions for identical or similar investments of the same issuer. We perform a qualitative
+assessment at each reporting date to determine whether there are triggering events for impairment. The qualitative assessment considers factors
+such as, but not limited to, the investee's ﬁnancial condition and business outlook; industry and sector performance; economic or technological
+environment; and other relevant events and factors aﬀecting the investee. Valuations of our equity investments are complex due to the lack of
+readily available market data and observable transactions. Volatility in the global economic climate and financial markets, including the recent and
+ongoing impact of the COVID‑19 pandemic, could result in a material impairment charge on our equity investments. Equity investments
+accounted for under the equity method were immaterial as of March 31, 2022 and December 31, 2021. Our total equity investments had a
+carrying value of $6.78 billion as of March 31, 2022 and December 31, 2021.
+
+For additional information about our equity investments, see Note 5 — Equity Investments in the notes to the condensed consolidated
+financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+
+
+#### 46
+
+
+## Page 47
+
+
+#### Table of Contents
+
+
+#### Item 4. Controls and Procedures
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our chief executive oﬃcer (CEO) and chief ﬁnancial oﬃcer (CFO), has evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a- 15(e) and 15d- 15(e) under the Securities Exchange Act of
+1934, as amended (Exchange Act)), as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our
+CEO and CFO have concluded that as of March 31, 2022, our disclosure controls and procedures are designed at a reasonable assurance level
+and are eﬀective to provide reasonable assurance that information we are required to disclose in reports that we ﬁle or submit under the
+Exchange Act is recorded, processed, summarized, and reported within the time periods speciﬁed in the rules and forms of the Securities and
+Exchange Commission, and that such information is accumulated and communicated to our management, including our CEO and CFO, as
+appropriate, to allow timely decisions regarding required disclosure.
+
+
+#### Changes in Internal Control
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in management's evaluation pursuant to Rules 13a-15(d) or
+15d-15(d) of the Exchange Act during the period covered by this Quarterly Report on Form 10-Q that materially aﬀected, or are reasonably likely
+to materially affect, our internal control over financial reporting.
+
+
+#### Limitations on Effectiveness of Controls and Procedures
+
+In designing and evaluating the disclosure controls and procedures and internal control over ﬁnancial reporting, management recognizes
+that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired
+control objectives. In addition, the design of disclosure controls and procedures and internal control over ﬁnancial reporting must reﬂect the fact
+that there are resource constraints and that management is required to apply judgment in evaluating the beneﬁts of possible controls and
+procedures relative to their costs.
+
+
+#### 47
+
+
+## Page 48
+
+
+#### Table of Contents
+
+
+### PART II—OTHER INFORMATION
+
+
+#### Item 1. Legal Proceedings
+
+Beginning on March 20, 2018, multiple putative class actions and derivative actions were ﬁled in state and federal courts in the United
+States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other
+causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such
+data with third parties in violation of our terms and policies, and seeking unspeciﬁed damages and injunctive relief. Beginning on July 27, 2018,
+two putative class actions were ﬁled in federal court in the United States against us and certain of our directors and oﬃcers alleging violations of
+securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspeciﬁed damages. These
+two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative
+securities class action described above relating to our platform and user data practices. On September 25, 2019, the district court granted our
+motion to dismiss the consolidated putative securities class action, with leave to amend. On November 15, 2019, a second amended complaint
+was ﬁled in the consolidated putative securities class action. On August 7, 2020, the district court granted our motion to dismiss the second
+amended complaint, with leave to amend. On October 16, 2020, a third amended complaint was ﬁled in the consolidated putative securities class
+action. On December 20, 2021, the district court granted our motion to dismiss the third amended complaint, with prejudice. On January 17,
+2022, the plaintiﬀs ﬁled a notice of appeal of the order dismissing their case, and the appeal is now pending before the U.S. Court of Appeals for
+the Ninth Circuit. With respect to the multiple putative class actions ﬁled against us beginning on March 20, 2018 alleging fraud and violations of
+consumer protection, privacy, and other laws in connection with the same matters, several of the cases brought on behalf of consumers in the
+United States were consolidated in the U.S. District Court for the Northern District of California. On September 9, 2019, the court granted, in part,
+and denied, in part, our motion to dismiss the consolidated putative consumer class action. In addition, our platform and user data practices, as
+well as the events surrounding the misuse of certain data by a developer, became the subject of U.S. Federal Trade Commission (FTC), state
+attorneys general, and other government inquiries in the United States, Europe, and other jurisdictions. We entered into a settlement and
+modiﬁed consent order to resolve the FTC inquiry, which took eﬀect in April 2020 and required us to pay a penalty of $5.0 billion and to
+signiﬁcantly enhance our practices and processes for privacy compliance and oversight. The state attorneys general inquiry and certain
+government inquiries in other jurisdictions remain ongoing and could subject us to additional substantial ﬁnes and costs, require us to change our
+business practices, divert resources and the attention of management from our business, or adversely aﬀect our business. On July 16, 2021, a
+stockholder derivative action was ﬁled in Delaware Chancery Court against certain of our directors and oﬃcers asserting breach of ﬁduciary duty
+and related claims relating to our historical platform and user data practices, as well as our settlement with the FTC. On July 20, 2021, other
+stockholders ﬁled an amended derivative complaint in a related Delaware Chancery Court action, asserting breach of ﬁduciary duty and related
+claims against certain of our current and former directors and oﬃcers in connection with our historical platform and user data practices. On
+November 4, 2021, the lead plaintiﬀs ﬁled a second amended and consolidated complaint in the stockholder derivative action. We believe the
+lawsuits described above are without merit, and we are vigorously defending them.
+
+We also notify the Irish Data Protection Commission (IDPC), our lead European Union privacy regulator under the General Data Protection
+Regulation (GDPR), of certain other personal data breaches and privacy issues, and are subject to inquiries and investigations by the IDPC and
+other European regulators regarding various aspects of our regulatory compliance. For example, in August 2020, we received a preliminary draft
+decision from the IDPC that preliminarily concluded that Meta Platforms Ireland's reliance on Standard Contractual Clauses in respect of
+European user data does not achieve compliance with the GDPR and preliminarily proposed that such transfers of user data from the European
+Union to the United States should therefore be suspended. Meta Platforms Ireland challenged procedural aspects of this IDPC inquiry in a judicial
+review commenced in the Irish High Court in September 2020. On May 14, 2021, the court rejected Meta Platforms Ireland's procedural
+challenges, and the inquiry subsequently recommenced. In February 2022, we received a revised preliminary draft decision in which the IDPC
+maintained its preliminary conclusion that Meta Platforms Ireland's transfers of European user data from the European Union to the United States
+should be suspended as they relate to users of the Facebook service. We believe a ﬁnal decision in this inquiry may issue as early as the second
+half of 2022. For additional information, see Part II, Item 1A, "Risk Factors—Our business is subject to complex and evolving U.S. and foreign
+laws and regulations regarding privacy, data use and data protection, content, competition, safety and consumer protection, e‑commerce, and
+other matters" in this Quarterly Report on Form 10-Q. Any such inquiries or investigations could subject us
+
+
+#### 48
+
+
+## Page 67
+
+
+#### Table of Contents
+
+for some products compared to others. For example, as a result of limited visibility into encrypted products, we have fewer data signals from
+WhatsApp user accounts and primarily rely on phone numbers and device information to match WhatsApp user accounts with accounts on our
+other products. Similarly, although Messenger Kids users are included in our Family metrics, we do not seek to match their accounts with
+accounts on our other applications for purposes of calculating DAP and MAP. Any loss of access to data signals we use in our process for
+calculating Family metrics, whether as a result of our own product decisions, actions by third-party browser or mobile platforms, regulatory or
+legislative requirements, or other factors, also may impact the stability or accuracy of our reported Family metrics, as well as our ability to report
+these metrics at all. Our estimates of Family metrics also may change as our methodologies evolve, including through the application of new data
+signals or technologies, product changes, or other improvements in our user surveys, algorithms, or machine learning that may improve our ability
+to match accounts within and across our products or otherwise evaluate the broad population of our users. In addition, such evolution may allow
+us to identify previously undetected violating accounts (as defined below).
+
+We regularly evaluate our Family metrics to estimate the percentage of our MAP consisting solely of "violating" accounts. We deﬁne
+"violating" accounts as accounts which we believe are intended to be used for purposes that violate our terms of service, including bots and
+spam. In the fourth quarter of 2021, we estimated that approximately 3% of our worldwide MAP consisted solely of violating accounts. Such
+estimation is based on an internal review of a limited sample of accounts, and we apply signiﬁcant judgment in making this determination. For
+example, we look for account information and behaviors associated with Facebook and Instagram accounts that appear to be inauthentic to the
+reviewers, but we have limited visibility into WhatsApp user activity due to encryption. In addition, if we believe an individual person has one or
+more violating accounts, we do not include such person in our violating accounts estimation as long as we believe they have one account that
+does not constitute a violating account. From time to time, we disable certain user accounts, make product changes, or take other actions to
+reduce the number of violating accounts among our users, which may also reduce our DAP and MAP estimates in a particular period. We intend
+to disclose our estimates of the percentage of our MAP consisting solely of violating accounts on an annual basis. Violating accounts are very
+difficult to measure at our scale, and it is possible that the actual number of violating accounts may vary significantly from our estimates.
+
+We also regularly evaluate our Facebook metrics to estimate the number of "duplicate" and "false" accounts among our MAUs. A duplicate
+account is one that a user maintains in addition to his or her principal account. We divide "false" accounts into two categories: (1) user-
+misclassiﬁed accounts, where users have created personal proﬁles for a business, organization, or non-human entity such as a pet (such entities
+are permitted on Facebook using a Page rather than a personal proﬁle under our terms of service); and (2) violating accounts, which represent
+user proﬁles that we believe are intended to be used for purposes that violate our terms of service, such as bots and spam. The estimates of
+duplicate and false accounts are based on an internal review of a limited sample of accounts, and we apply signiﬁcant judgment in making this
+determination. For example, to identify duplicate accounts we use data signals such as identical IP addresses and similar user names, and to
+identify false accounts we look for names that appear to be fake or other behavior that appears inauthentic to the reviewers. Any loss of access to
+data signals we use in this process, whether as a result of our own product decisions, actions by third-party browser or mobile platforms,
+regulatory or legislative requirements, or other factors, also may impact the stability or accuracy of our estimates of duplicate and false accounts.
+Our estimates also may change as our methodologies evolve, including through the application of new data signals or technologies or product
+changes that may allow us to identify previously undetected duplicate or false accounts and may improve our ability to evaluate a broader
+population of our users. Duplicate and false accounts are very diﬃcult to measure at our scale, and it is possible that the actual number of
+duplicate and false accounts may vary significantly from our estimates.
+
+In the fourth quarter of 2021, we estimated that duplicate accounts may have represented approximately 11% of our worldwide MAUs. We
+believe the percentage of duplicate accounts is meaningfully higher in developing markets such as the Philippines and Vietnam, as compared to
+more developed markets. In the fourth quarter of 2021, we estimated that false accounts may have represented approximately 5% of our
+worldwide MAUs. Our estimation of false accounts can vary as a result of episodic spikes in the creation of such accounts, which we have seen
+originate more frequently in speciﬁc countries such as Indonesia, Nigeria, and Vietnam. From time to time, we disable certain user accounts,
+make product changes, or take other actions to reduce the number of duplicate or false accounts among our users, which may also reduce our
+DAU and MAU estimates in a particular period. We intend to disclose our estimates of the number of duplicate and false accounts among our
+MAUs on an annual basis.
+
+Other data limitations also may aﬀect our understanding of certain details of our business. For example, while user-provided data indicates
+a decline in usage among younger users, this age data may be unreliable because a disproportionate
+
+
+#### 67
+
+
+## Page 68
+
+
+#### Table of Contents
+
+number of our younger users register with an inaccurate age. Accordingly, our understanding of usage by age group may not be complete.
+
+In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such as the user's IP
+address and self-disclosed location. These factors may not always accurately reﬂect the user's actual location. For example, a user may appear
+to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user's actual location. The
+methodologies used to measure our metrics are also susceptible to algorithm or other technical errors, and our estimates for revenue by user
+location and revenue by user device are also affected by these factors.
+
+In addition, from time to time we provide, or rely on, certain other metrics and estimates, including those relating to the reach and
+effectiveness of our ads. Many of our metrics involve the use of estimations and judgments, and our metrics and estimates are subject to software
+bugs, inconsistencies in our systems, and human error. Such metrics and estimates also change from time to time due to improvements or
+changes in our terminology or methodology, including as a result of loss of access to data signals we use in calculating such metrics and
+estimates. We have in the past been, and may in the future be, subject to litigation as well as marketer, regulatory, and other inquiries regarding
+the accuracy of such metrics and estimates. Where marketers, developers, or investors do not perceive our metrics or estimates to be accurate,
+or where we discover material inaccuracies in our metrics or estimates, we may be subject to liability, our reputation may be harmed, and
+marketers and developers may be less willing to allocate their budgets or resources to our products that deliver ad impressions, which could
+negatively affect our business and financial results.
+
+We cannot assure you that we will effectively manage our growth.
+
+Our employee headcount and the scope and complexity of our business have increased signiﬁcantly, with the number of employees
+increasing to 77,805 as of March 31, 2022 from 60,654 as of March 31, 2021, and we expect headcount growth to continue for the foreseeable
+future. In addition, we plan to continue to hire a number of employees and contractors to continue to bolster various privacy, safety, security, and
+content review initiatives as well as other functions to support our expected growth. The growth and expansion of our business and products
+create signiﬁcant challenges for our management, operational, and ﬁnancial resources, including managing multiple relationships with users,
+marketers, developers, and other third parties. As our operations and the number of our third-party relationships continue to grow, our information
+technology systems or our internal controls and procedures may not be adequate to support such growth. In addition, some members of our
+management do not have signiﬁcant experience managing a large global business operation, so our management may not be able to manage
+such growth effectively. Additionally, many of our personnel are currently working remotely, and we may experience challenges to productivity and
+collaboration as some personnel return to our oﬃces and some personnel transition to working remotely on a regular basis. To eﬀectively
+manage our growth, we must continue to adapt to a remote work environment; improve our operational, ﬁnancial, and management processes
+and systems; and eﬀectively expand, train, and manage our personnel. As our organization continues to grow, and we are required to implement
+more complex organizational management structures, we may ﬁnd it increasingly diﬃcult to maintain the beneﬁts of our corporate culture,
+including our ability to quickly develop and launch new and innovative products. This could negatively affect our business performance.
+
+We have signiﬁcant international operations and plan to continue expanding our operations abroad where we have more limited
+operating experience, and this may subject us to increased business, economic, and legal risks that could affect our financial results.
+
+We have signiﬁcant international operations and plan to continue the international expansion of our business operations and the translation
+of our products. We currently make Facebook available in more than 100 diﬀerent languages, and we have oﬃces or data centers in more
+than 30 diﬀerent countries. We may enter new international markets where we have limited or no experience in marketing, selling, and deploying
+our products. Our products are generally available globally, but some or all of our products or functionality may not be available in certain markets
+due to legal and regulatory complexities. For example, several of our products are not generally available in China. We also outsource certain
+operational functions to third-party vendors globally. If we fail to deploy, manage, or oversee our international operations successfully, our
+business may suffer. In addition, we are subject to a variety of risks inherent in doing business internationally, including:
 
 •
-Daily Active People (DAP). We deﬁne a daily active person as a registered and logged-in user of Facebook, Instagram, Messenger,
-and/or WhatsApp (collectively, our "Family" of products) who visited at least one of these Family products through a mobile device
-application or using a web or mobile browser on a given day. We do not require people to use a common identiﬁer or link their accounts
-to use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products to
-individual people. Our calculations of DAP rely upon complex techniques, algorithms, and machine learning models that seek to estimate
-the underlying number of unique people using one or more of these products, including by matching user accounts within an individual
-product and across multiple products when we believe they are attributable to a single person, and counting such group of accounts as
-one person. As these techniques and models require signiﬁcant judgment, are developed based on internal reviews of limited samples of
-user accounts, and are calibrated against user survey data, there is necessarily some margin of error in our estimates. We view DAP,
-and DAP as a percentage of MAP, as measures of engagement across our products. For additional information, see the section entitled
-"Limitations of Key Metrics and Other Data" in this Quarterly Report on Form 10-Q.
-
-DAP/MAP:
-79%
-79%
-79%
-79%
-79%
-79%
-78%
-79%
-79%
-
-Note: We report the numbers of DAP and MAP as speciﬁc amounts, but these numbers are estimates of the numbers of unique people using our products and are
-subject to statistical variances and errors. While we expect the error margin for these estimates to vary from period to period, we estimate that such margin generally
-will be approximately 3% of our worldwide MAP. At our scale, it is very difficult to attribute multiple user accounts within and across products to individual people, and
-it is possible that the actual numbers of unique people using our products may vary signiﬁcantly from our estimates, potentially beyond our estimated error margins.
-For additional information, see the section entitled "Limitations of Key Metrics and Other Data" in this Quarterly Report on Form 10-Q. In the second quarter of 2020,
-we updated our Family metrics calculations to reﬂect recent data from a periodic WhatsApp user survey and to incorporate certain methodology improvements, and
-we estimate such updates contributed an aggregate of approximately 40 million DAP to our reported worldwide DAP in June 2020. In the ﬁrst quarter of 2021, we
-updated our Family metrics calculations to maintain calibration of our models against recent user survey data, and we estimate such update contributed an
-aggregate of approximately 60 million DAP to our reported worldwide DAP in March 2021.
-
-Worldwide DAP increased 6% to 2.87 billion on average during March 2022 from 2.72 billion during March 2021.
+political, social, or economic instability;
 
 
-#### 30
+#### 68
+
+
+## Page 69
+
+
+#### Table of Contents
+
+•
+risks related to legal, regulatory, and other government scrutiny applicable to U.S. companies with sales and operations in foreign
+jurisdictions, including with respect to privacy, tax, law enforcement, content, trade compliance, supply chain, competition, consumer
+protection, intellectual property, environmental, health and safety, licensing, and infrastructure matters;
+
+•
+potential damage to our brand and reputation due to compliance with local laws, including potential censorship or requirements to
+provide user information to local authorities;
+
+•
+enhanced diﬃculty in reviewing content on our platform and enforcing our community standards across diﬀerent languages and
+countries;
+
+•
+fluctuations in currency exchange rates and compliance with currency controls;
+
+•
+foreign exchange controls and tax and other regulations and orders that might prevent us from repatriating cash earned in countries
+outside the United States or otherwise limit our ability to move cash freely, and impede our ability to invest such cash efficiently;
+
+•
+higher levels of credit risk and payment fraud;
+
+•
+enhanced difficulties of integrating any foreign acquisitions;
+
+•
+burdens of complying with a variety of foreign laws, including laws related to taxation, content removal, content moderation, data
+localization, data protection, e-commerce and payments, and regulatory oversight;
+
+•
+reduced protection for intellectual property rights in some countries;
+
+•
+diﬃculties in staﬃng, managing, and overseeing global operations and the increased travel, infrastructure, and legal compliance
+costs associated with multiple international locations, including difficulties arising from personnel working remotely;
+
+•
+compliance with statutory equity requirements and management of tax consequences; and
+
+•
+geopolitical events affecting us, our marketers or our industry, including trade disputes, armed conflicts, and pandemics.
+
+In addition, we must manage the potential conﬂicts between locally accepted business practices in any given jurisdiction and our
+obligations to comply with laws and regulations, including anti-corruption laws or regulations applicable to us, such as the U.S. Foreign Corrupt
+Practices Act and the U.K. Bribery Act 2010. We also must manage our obligations to comply with laws and regulations related to import and
+export controls, trade restrictions, and sanctions, including regulations established by the U.S. Oﬃce of Foreign Assets Control. Government
+agencies and authorities have a broad range of civil and criminal penalties they may seek to impose against companies for violations of anti-
+corruption laws or regulations, import and export controls, trade restrictions, sanctions, and other laws, rules, and regulations.
+
+If we are unable to expand internationally and manage the complexity of our global operations successfully, our ﬁnancial results could be
+adversely aﬀected. We also may be required to or elect to cease or modify our operations or the oﬀering of our products and services in certain
+regions, including as a result of the risks described above, which could adversely aﬀect our business, user growth and engagement, and ﬁnancial
+results.
+
+We face design, manufacturing, and supply chain risks that, if not properly managed, could adversely impact our financial results.
+
+We face a number of risks related to design, manufacturing, and supply chain management with respect to our consumer hardware
+products. For example, the consumer hardware products we sell from time to time have had, and in the future may have, quality issues resulting
+from the design or manufacture of the products, or from the software used in the products. Sometimes, these issues may be caused by
+components we purchase from other manufacturers or suppliers. Our brand and ﬁnancial results could be adversely aﬀected by any such quality
+issues, other failures to meet our customers' expectations, or findings of our consumer hardware products to be defective.
+
+
+#### 69
+
+
+## Page 70
+
+
+#### Table of Contents
+
+We rely on third parties to manufacture and manage the logistics of transporting and distributing our consumer hardware products, which
+subjects us to a number of risks that have been exacerbated as a result of the COVID-19 pandemic. We have experienced, and may in the future
+experience, supply or labor shortages or other disruptions in logistics and the supply chain, which could result in shipping delays and negatively
+impact our operations, product development, and sales. We could be negatively aﬀected if we are not able to engage third parties with the
+necessary capabilities or capacity on reasonable terms, or if those we engage with fail to meet their obligations (whether due to ﬁnancial
+diﬃculties, manufacturing or supply constraints, or other reasons), or make adverse changes in the pricing or other material terms of such
+arrangements with them. The manufacturing, distribution, and sale of our consumer hardware products also may be negatively impacted by
+macroeconomic conditions, geopolitical challenges, trade disputes, or other actions by governments that subject us to supply shortages,
+increased costs, or supply chain disruptions.
+
+We also require the suppliers and business partners of our consumer hardware products to comply with laws and certain company policies
+regarding sourcing practices and standards on labor, health and safety, the environment, and business ethics, but we do not control them or their
+practices and standards. If any of them violates laws, fails to implement changes in accordance with newly enacted laws, or implements practices
+or standards regarded as unethical, corrupt, or non-compliant, we could experience supply chain disruptions, government action or ﬁnes,
+canceled orders, or damage to our reputation.
+
+We face inventory risk with respect to our consumer hardware products.
+
+We are exposed to inventory risks with respect to our consumer hardware products as a result of rapid changes in product cycles and
+pricing, unsafe or defective merchandise, supply chain disruptions, changes in consumer demand and consumer spending patterns, changes in
+consumer tastes with respect to our consumer hardware products, and other factors. The demand for our products can also change signiﬁcantly
+between the time inventory or components are ordered and the date of sale. While we endeavor to accurately predict these trends and avoid
+overstocking or understocking consumer hardware products we may sell, from time to time we have experienced diﬃculties in accurately
+predicting and meeting the consumer demand for our products. In addition, when we begin selling or manufacturing a new consumer hardware
+product or enter new international markets, it may be diﬃcult to establish vendor relationships, determine appropriate product or component
+selection, and accurately forecast demand. The acquisition of certain types of inventory or components may require signiﬁcant lead-time and
+prepayment and they may not be returnable. Any one of the foregoing factors may adversely affect our operating results.
+
+We are involved in numerous class action lawsuits and other litigation matters that are expensive and time consuming, and, if resolved
+adversely, could harm our business, financial condition, or results of operations.
+
+We are involved in numerous lawsuits, including stockholder derivative lawsuits and putative class action lawsuits, many of which claim
+statutory damages and/or seek significant changes to our business operations, and we anticipate that we will continue to be a target for numerous
+lawsuits in the future. Because of the scale of our user, advertiser, and developer base, the plaintiffs in class action cases filed against us typically
+claim enormous monetary damages even if the alleged per-user or entity harm is small or non-existent. In addition, we have faced, currently face,
+and will continue to face additional class action lawsuits based on claims related to advertising, antitrust, privacy, biometrics, content, algorithms,
+employment, activities on our platform, consumer protection, or product performance or other claims related to the use of consumer hardware and
+software, including virtual reality technology and products, which are new and unproven. For example, we are currently the subject of multiple
+putative class action suits in connection with our platform and user data practices and the misuse of certain data by a developer that shared such
+data with third parties in violation of our terms and policies; the disclosure of our earnings results for the second quarter of 2018; our acquisitions
+of Instagram and WhatsApp, as well as other alleged anticompetitive conduct; a former employee's allegations and release of internal company
+documents beginning in September 2021; the disclosure of our earnings results for the fourth quarter of 2021; and allegations that we inﬂated our
+estimates of the potential audience size for advertisements, resulting in artiﬁcially increased demand and higher prices. The results of any such
+lawsuits and claims cannot be predicted with certainty, and any negative outcome from any such lawsuits could result in payments of substantial
+monetary damages or ﬁnes, or undesirable changes to our products or business practices, and accordingly our business, ﬁnancial condition, or
+results of operations could be materially and adversely affected.
+
+There can be no assurances that a favorable ﬁnal outcome will be obtained in all our cases, and defending any lawsuit is costly and can
+impose a significant burden on management and employees. Any litigation to which we are a party may
+
+
+#### 70

@@ -1,8 +1,8 @@
-# Annual Report: NXP-SEMICONDUCTORS_2021_Q1_10-Q
+# Financial Report: NXP-SEMICONDUCTORS_2021_Q1_10-Q
 
 - **Source File**: `NXP-SEMICONDUCTORS_2021_Q1_10-Q.pdf`
-- **Total Pages**: 30
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 30
+- **Parsed Key Pages**: 30 (30 selected sections)
 
 ---
 

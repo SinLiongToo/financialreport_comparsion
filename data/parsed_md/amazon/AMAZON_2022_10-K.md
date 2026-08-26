@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2022_10-K
+# Financial Report: AMAZON_2022_10-K
 
 - **Source File**: `AMAZON_2022_10-K.pdf`
-- **Total Pages**: 81
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 81
+- **Parsed Key Pages**: 57 (57 selected sections)
 
 ---
 
@@ -2111,25 +2111,1316 @@ due to several factors, such as payment processing and related
 #### 25
 
 
-## Page 26
+## Page 32
 
 
 #### Table of Contents
 
-transaction costs, our level of productivity and accuracy, changes in volume, size, and weight of units received and fulfilled, the extent to which
-third-party sellers utilize Fulfillment by Amazon services, timing of fulfillment network and physical store expansion, the extent we utilize fulfillment
-services provided by third parties, mix of products and services sold, and our ability to affect customer service contacts per unit by implementing
-improvements in our operations and enhancements to our customer self-service features. Additionally, sales by our sellers have higher payment
-processing and related transaction costs as a percentage of net sales compared to our retail sales because payment processing costs are based
-on the gross purchase price of underlying transactions.
 
-The increase in fulfillment costs in absolute dollars in 2022, compared to the prior year, is primarily due to increased investments in our
-fulfillment network and variable costs corresponding with increased product and service sales volume and inventory levels, and increased wage
-rates and incentives. Changes in foreign exchange rates reduced fulfillment costs by $2.5 billion in 2022.
+#### Foreign Exchange Risk
 
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
+During 2022, net sales from our International segment accounted for 23% of our consolidated revenues. Net sales and related expenses
+generated from our internationally-focused stores, including within Canada and Mexico (which are included in our North America segment), are
+primarily denominated in the functional currencies of the corresponding stores and primarily include Euros, British Pounds, and Japanese Yen.
+The results of operations of, and certain of our intercompany balances associated with, our internationally-focused stores and AWS are exposed
+to foreign exchange rate fluctuations. Upon consolidation, as foreign exchange rates vary, net sales and other operating results may differ
+materially from expectations, and we may record significant gains or losses on the remeasurement of intercompany balances. For example, as a
+result of fluctuations in foreign exchange rates throughout the year compared to rates in effect the prior year, International segment net sales
+decreased by $15.0 billion in comparison with the prior year.
+
+We have foreign exchange risk related to foreign-denominated cash, cash equivalents, and marketable securities (“foreign funds”). Based
+on the balance of foreign funds as of December 31, 2022, of $18.3 billion, an assumed 5%, 10%, and 20% adverse change to foreign exchange
+would result in declines of $915 million, $1.8 billion, and $3.7 billion.
+
+We also have foreign exchange risk related to our intercompany balances denominated in various foreign currencies. Based on the
+intercompany balances as of December 31, 2022, an assumed 5%, 10%, and 20% adverse change to foreign exchange rates would result in
+losses of $275 million, $555 million, and $1.1 billion, recorded to “Other income (expense), net.”
+
+See Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations —
+Effect of Foreign Exchange Rates” for additional information on the effect on reported results of changes in foreign exchange rates.
+
+
+#### Equity Investment Risk
+
+As of December 31, 2022, our recorded value in equity and equity warrant investments in public and private companies was $7.2 billion.
+Our equity and equity warrant investments in publicly traded companies, which primarily relate to Rivian, represent $5.0 billion of our investments
+as of December 31, 2022, and are recorded at fair value, which is subject to market price volatility. We record our equity warrant investments in
+private companies at fair value and adjust our equity investments in private companies for observable price changes or impairments. Valuations
+of private companies are inherently more complex due to the lack of readily available market data. The current global economic conditions
+provide additional uncertainty. As such, we believe that market sensitivities are not practicable. See Item 8 of Part II, “Financial Statements and
+Supplementary Data — Note 1 — Description of Business, Accounting Policies, and Supplemental Disclosures” for additional information.
+
+
+#### 32
+
+
+## Page 33
+
+
+#### Table of Contents
+
+Item 8.
+Financial Statements and Supplementary Data
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+Page
+
+Report of Ernst & Young LLP, Independent Registered Public Accounting Firm (PCAOB ID: 42)
+34
+Consolidated Statements of Cash Flows
+36
+Consolidated Statements of Operations
+37
+
+Consolidated Statements of Comprehensive  Income (Loss)
+38
+Consolidated Balance Sheets
+39
+Consolidated Statements of Stockholders’ Equity
+40
+Notes to Consolidated Financial Statements
+41
+
+
+#### 33
+
+
+## Page 34
+
+
+#### Table of Contents
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+The Board of Directors and Shareholders
+Amazon.com, Inc.
+
+
+#### Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Amazon.com, Inc. (the Company) as of December 31, 2022 and 2021,
+and the related consolidated statements of operations, comprehensive income (loss), stockholders’ equity, and cash flows for each of the three
+years in the period ended December 31, 2022, and the related notes (collectively referred to as the “consolidated financial statements”). In our
+opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022
+and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022, in conformity
+with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the
+Company’s internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control — Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated
+February 2, 2023 expressed an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion
+on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or
+fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We
+believe that our audits provide a reasonable basis for our opinion.
+
+
+#### Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that
+was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the
+consolidated financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical
+audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating
+the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+
+#### 34
+
+
+## Page 35
+
+
+#### Table of Contents
+
+Uncertain Tax Positions
+Description of
+the Matter
+
+As discussed in Notes 1 and 9 of the consolidated financial statements, the Company is subject to income taxes in
+the U.S. and numerous foreign jurisdictions and during the ordinary course of business, there are many tax positions
+for which the ultimate tax determination is uncertain. As a result, significant judgment is required in evaluating the
+Company’s tax positions and determining its provision for income taxes. The Company uses significant judgment in
+(1) determining whether a tax position’s technical merits are more likely than not to be sustained and (2) measuring
+the amount of tax benefit that qualifies for recognition. As of December 31, 2022, the Company reported accrued
+liabilities of $4.0 billion for various tax contingencies.
+
+Auditing the recognition and measurement of the Company’s tax contingencies was challenging because the
+evaluation of whether a tax position is more likely than not to be sustained and the measurement of the benefit of
+various tax positions can be complex and involves significant auditor judgment. Management’s evaluation of tax
+positions is based on interpretations of tax laws and legal rulings, and may be impacted by regulatory changes and
+judicial and examination activity.
+
+How We Addressed the
+Matter in Our Audit
+
+We tested controls over the Company’s process to assess the technical merits of its tax contingencies, including
+controls over: the assessment as to whether a tax position is more likely than not to be sustained; the measurement
+of the benefit of its tax positions, both initially and on an ongoing basis; and the development of the related
+disclosures.
+
+We involved our international tax, transfer pricing, and research and development tax professionals in assessing the
+technical merits of certain of the Company’s tax positions. Depending on the nature of the specific tax position and, as
+applicable, developments with the relevant tax authorities relating thereto, our procedures included obtaining and
+examining the Company’s analysis including the Company’s correspondence with such tax authorities and evaluating
+the underlying facts upon which the tax positions are based. We used our knowledge of and experience with
+international, transfer pricing, and other income tax laws of the relevant taxing jurisdictions to evaluate the Company’s
+accounting for its tax contingencies. We evaluated developments in the applicable regulatory environments to assess
+potential effects on the Company’s positions, including recent decisions in relevant court cases. We analyzed the
+appropriateness of the Company’s assumptions and the accuracy of the Company’s calculations and data used to
+determine the amount of tax benefits to recognize. We evaluated the Company’s income tax disclosures in relation to
+these matters.
+
+
+#### /s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1996.
+Seattle, Washington
+February 2, 2023
+
+
+#### 35
+
+
+## Page 36
+
+### Table 36.1
+
+| CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD | $ | 36,410 |  | $ | 42,377 |  | $ | 36,477 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| OPERATING ACTIVITIES: |  |  |  |  |  |  |  |  |
+| Net income (loss) | 21,331 |  |  | 33,364 |  |  | (2,722) |  |
+| Adjustments to reconcile net income (loss) to net cash from operating activities: |  |  |  |  |  |  |  |  |
+| Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other | 25,180 |  |  | 34,433 |  |  | 41,921 |  |
+| Stock-based compensation | 9,208 |  |  | 12,757 |  |  | 19,621 |  |
+| Other expense (income), net | (2,582) |  |  | (14,306) |  |  | 16,966 |  |
+| Deferred income taxes | (554) |  |  | (310) |  |  | (8,148) |  |
+| Changes in operating assets and liabilities: |  |  |  |  |  |  |  |  |
+| Inventories | (2,849) |  |  | (9,487) |  |  | (2,592) |  |
+| Accounts receivable, net and other | (8,169) |  |  | (18,163) |  |  | (21,897) |  |
+| Accounts payable | 17,480 |  |  | 3,602 |  |  | 2,945 |  |
+| Accrued expenses and other | 5,754 |  |  | 2,123 |  |  | (1,558) |  |
+| Unearned revenue | 1,265 |  |  | 2,314 |  |  | 2,216 |  |
+| Net cash provided by (used in) operating activities | 66,064 |  |  | 46,327 |  |  | 46,752 |  |
+| INVESTING ACTIVITIES: |  |  |  |  |  |  |  |  |
+| Purchases of property and equipment | (40,140) |  |  | (61,053) |  |  | (63,645) |  |
+| Proceeds from property and equipment sales and incentives | 5,096 |  |  | 5,657 |  |  | 5,324 |  |
+| Acquisitions, net of cash acquired, and other | (2,325) |  |  | (1,985) |  |  | (8,316) |  |
+| Sales and maturities of marketable securities | 50,237 |  |  | 59,384 |  |  | 31,601 |  |
+| Purchases of marketable securities | (72,479) |  |  | (60,157) |  |  | (2,565) |  |
+| Net cash provided by (used in) investing activities | (59,611) |  |  | (58,154) |  |  | (37,601) |  |
+| FINANCING ACTIVITIES: |  |  |  |  |  |  |  |  |
+| Common stock repurchased | — |  |  | — |  |  | (6,000) |  |
+| Proceeds from short-term debt, and other | 6,796 |  |  | 7,956 |  |  | 41,553 |  |
+| Repayments of short-term debt, and other | (6,177) |  |  | (7,753) |  |  | (37,554) |  |
+| Proceeds from long-term debt | 10,525 |  |  | 19,003 |  |  | 21,166 |  |
+| Repayments of long-term debt | (1,553) |  |  | (1,590) |  |  | (1,258) |  |
+| Principal repayments of finance leases | (10,642) |  |  | (11,163) |  |  | (7,941) |  |
+| Principal repayments of financing obligations | (53) |  |  | (162) |  |  | (248) |  |
+| Net cash provided by (used in) financing activities | (1,104) |  |  | 6,291 |  |  | 9,718 |  |
+| Foreign currency effect on cash, cash equivalents, and restricted cash | 618 |  |  | (364) |  |  | (1,093) |  |
+| Net increase (decrease) in cash, cash equivalents, and restricted cash | 5,967 |  |  | (5,900) |  |  | 17,776 |  |
+| CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD | $ | 42,377 |  | $ | 36,477 |  | $ | 54,253 |
+
+
+
+#### Table of Contents
+
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in millions)
+  
+Year Ended December 31,
+ 
+2020
+2021
+2022
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD
+$
+36,410 
+$
+42,377 
+$
+36,477
+
+OPERATING ACTIVITIES:
+Net income (loss)
+21,331 
+33,364 
+(2,722)
+
+Adjustments to reconcile net income (loss) to net cash from operating activities:
+
+Depreciation and amortization of property and equipment and capitalized content costs,
+operating lease assets, and other
+25,180 
+34,433 
+41,921 
+Stock-based compensation
+9,208 
+12,757 
+19,621
+
+Other expense (income), net
+(2,582)
+(14,306)
+16,966 
+Deferred income taxes
+(554)
+(310)
+(8,148)
+
+
+#### Changes in operating assets and liabilities:
+
+Inventories
+(2,849)
+(9,487)
+(2,592)
+
+Accounts receivable, net and other
+(8,169)
+(18,163)
+(21,897)
+Accounts payable
+17,480 
+3,602 
+2,945
+
+Accrued expenses and other
+5,754 
+2,123 
+(1,558)
+Unearned revenue
+1,265 
+2,314 
+2,216
+
+Net cash provided by (used in) operating activities
+66,064 
+46,327 
+46,752
+
+INVESTING ACTIVITIES:
+Purchases of property and equipment
+(40,140)
+(61,053)
+(63,645)
+
+Proceeds from property and equipment sales and incentives
+5,096 
+5,657 
+5,324 
+Acquisitions, net of cash acquired, and other
+(2,325)
+(1,985)
+(8,316)
+
+Sales and maturities of marketable securities
+50,237 
+59,384 
+31,601 
+Purchases of marketable securities
+(72,479)
+(60,157)
+(2,565)
+
+Net cash provided by (used in) investing activities
+(59,611)
+(58,154)
+(37,601)
+
+FINANCING ACTIVITIES:
+Common stock repurchased
+— 
+— 
+(6,000)
+
+Proceeds from short-term debt, and other
+6,796 
+7,956 
+41,553 
+Repayments of short-term debt, and other
+(6,177)
+(7,753)
+(37,554)
+
+Proceeds from long-term debt
+10,525 
+19,003 
+21,166 
+Repayments of long-term debt
+(1,553)
+(1,590)
+(1,258)
+
+Principal repayments of finance leases
+(10,642)
+(11,163)
+(7,941)
+Principal repayments of financing obligations
+(53)
+(162)
+(248)
+
+Net cash provided by (used in) financing activities
+(1,104)
+6,291 
+9,718
+
+Foreign currency effect on cash, cash equivalents, and restricted cash
+618 
+(364)
+(1,093)
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+5,967 
+(5,900)
+17,776 
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD
+$
+42,377 
+$
+36,477 
+$
+54,253
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 36
+
+
+## Page 37
+
+### Table 37.1
+
+| Net product sales | $ | 215,915 |  | $ | 241,787 |  | $ | 242,901 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net service sales | 170,149 |  |  | 228,035 |  |  | 271,082 |  |
+| Total net sales | 386,064 |  |  | 469,822 |  |  | 513,983 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |
+| Cost of sales | 233,307 |  |  | 272,344 |  |  | 288,831 |  |
+| Fulfillment | 58,517 |  |  | 75,111 |  |  | 84,299 |  |
+| Technology and content | 42,740 |  |  | 56,052 |  |  | 73,213 |  |
+| Sales and marketing | 22,008 |  |  | 32,551 |  |  | 42,238 |  |
+| General and administrative | 6,668 |  |  | 8,823 |  |  | 11,891 |  |
+| Other operating expense (income), net | (75) |  |  | 62 |  |  | 1,263 |  |
+| Total operating expenses | 363,165 |  |  | 444,943 |  |  | 501,735 |  |
+| Operating income | 22,899 |  |  | 24,879 |  |  | 12,248 |  |
+| Interest income | 555 |  |  | 448 |  |  | 989 |  |
+| Interest expense | (1,647) |  |  | (1,809) |  |  | (2,367) |  |
+| Other income (expense), net | 2,371 |  |  | 14,633 |  |  | (16,806) |  |
+| Total non-operating income (expense) | 1,279 |  |  | 13,272 |  |  | (18,184) |  |
+| Income (loss) before income taxes | 24,178 |  |  | 38,151 |  |  | (5,936) |  |
+| Benefit (provision) for income taxes | (2,863) |  |  | (4,791) |  |  | 3,217 |  |
+| Equity-method investment activity, net of tax | 16 |  |  | 4 |  |  | (3) |  |
+| Net income (loss) | $ | 21,331 |  | $ | 33,364 |  | $ | (2,722) |
+| Basic earnings per share | $ | 2.13 |  | $ | 3.30 |  | $ | (0.27) |
+| Diluted earnings per share | $ | 2.09 |  | $ | 3.24 |  | $ | (0.27) |
+| Weighted-average shares used in computation of earnings per share: |  |  |  |  |  |  |  |  |
+| Basic | 10,005 |  |  | 10,117 |  |  | 10,189 |  |
+| Diluted | 10,198 |  |  | 10,296 |  |  | 10,189 |  |
+
+
+
+#### Table of Contents
+
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in millions, except per share data)
+  
+Year Ended December 31,
+
+2020
+2021
+2022
+Net product sales
+$
+215,915 
+$
+241,787 
+$
+242,901 
+Net service sales
+170,149 
+228,035 
+271,082 
+Total net sales
+386,064 
+469,822 
+513,983 
+Operating expenses:
+
+Cost of sales
+233,307 
+272,344 
+288,831 
+Fulfillment
+58,517 
+75,111 
+84,299 
+Technology and content
+42,740 
+56,052 
+73,213 
+Sales and marketing
+22,008 
+32,551 
+42,238 
+General and administrative
+6,668 
+8,823 
+11,891 
+Other operating expense (income), net
+(75)
+62 
+1,263 
+Total operating expenses
+363,165 
+444,943 
+501,735 
+Operating income
+22,899 
+24,879 
+12,248 
+Interest income
+555 
+448 
+989 
+Interest expense
+(1,647)
+(1,809)
+(2,367)
+Other income (expense), net
+2,371 
+14,633 
+(16,806)
+Total non-operating income (expense)
+1,279 
+13,272 
+(18,184)
+Income (loss) before income taxes
+24,178 
+38,151 
+(5,936)
+Benefit (provision) for income taxes
+(2,863)
+(4,791)
+3,217 
+Equity-method investment activity, net of tax
+16 
+4 
+(3)
+Net income (loss)
+$
+21,331 
+$
+33,364 
+$
+(2,722)
+
+Basic earnings per share
+$
+2.13 
+$
+3.30 
+$
+(0.27)
+
+Diluted earnings per share
+$
+2.09 
+$
+3.24 
+$
+(0.27)
+
+
+#### Weighted-average shares used in computation of earnings per share:
+
+Basic
+10,005 
+10,117 
+10,189
+
+Diluted
+10,198 
+10,296 
+10,189
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 37
+
+
+## Page 38
+
+### Table 38.1
+
+| Net income (loss) | $ | 21,331 |  | $ | 33,364 |  | $ | (2,722) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss): |  |  |  |  |  |  |  |  |
+| Foreign currency translation adjustments, net of tax of $(36), $47, and $100 | 561 |  |  | (819) |  |  | (2,586) |  |
+| Net change in unrealized gains (losses) on available-for-sale debt securities: |  |  |  |  |  |  |  |  |
+| Unrealized gains (losses), net of tax of $(83), $72, and $159 | 273 |  |  | (343) |  |  | (823) |  |
+| Reclassification adjustment for losses (gains) included in “Other income (expense), net,” net of tax of $8, $13, and $0 | (28) |  |  | (34) |  |  | 298 |  |
+| Net unrealized gains (losses) on available-for-sale debt securities | 245 |  |  | (377) |  |  | (525) |  |
+| Total other comprehensive income (loss) | 806 |  |  | (1,196) |  |  | (3,111) |  |
+| Comprehensive income (loss) | $ | 22,137 |  | $ | 32,168 |  | $ | (5,833) |
+
+
+
+#### Table of Contents
+
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+(in millions)
+  
+Year Ended December 31,
+
+2020
+2021
+2022
+Net income (loss)
+$
+21,331 
+$
+33,364 
+$
+(2,722)
+Other comprehensive income (loss):
+
+Foreign currency translation adjustments, net of tax of $( 36), $47, and $100
+561 
+(819)
+(2,586)
+Net change in unrealized gains (losses) on available-for-sale debt securities:
+
+Unrealized gains (losses), net of tax of $( 83), $72, and $159
+273 
+(343)
+(823)
+Reclassification adjustment for losses (gains) included in “Other income (expense),
+net,” net of tax of $8, $13, and $0
+(28)
+(34)
+298 
+Net unrealized gains (losses) on available-for-sale debt securities
+245 
+(377)
+(525)
+Total other comprehensive income (loss)
+806 
+(1,196)
+(3,111)
+Comprehensive income (loss)
+$
+22,137 
+$
+32,168 
+$
+(5,833)
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 38
+
+
+## Page 39
+
+### Table 39.1
+
+| ASSETS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Current assets: |  |  |  |  |  |
+| Cash and cash equivalents | $ | 36,220 |  | $ | 53,888 |
+| Marketable securities | 59,829 |  |  | 16,138 |  |
+| Inventories | 32,640 |  |  | 34,405 |  |
+| Accounts receivable, net and other | 32,891 |  |  | 42,360 |  |
+| Total current assets | 161,580 |  |  | 146,791 |  |
+| Property and equipment, net | 160,281 |  |  | 186,715 |  |
+| Operating leases | 56,082 |  |  | 66,123 |  |
+| Goodwill | 15,371 |  |  | 20,288 |  |
+| Other assets | 27,235 |  |  | 42,758 |  |
+| Total assets | $ | 420,549 |  | $ | 462,675 |
+| LIABILITIES AND STOCKHOLDERS’ EQUITY |  |  |  |  |  |
+| Current liabilities: |  |  |  |  |  |
+| Accounts payable | $ | 78,664 |  | $ | 79,600 |
+| Accrued expenses and other | 51,775 |  |  | 62,566 |  |
+| Unearned revenue | 11,827 |  |  | 13,227 |  |
+| Total current liabilities | 142,266 |  |  | 155,393 |  |
+| Long-term lease liabilities | 67,651 |  |  | 72,968 |  |
+| Long-term debt | 48,744 |  |  | 67,150 |  |
+| Other long-term liabilities | 23,643 |  |  | 21,121 |  |
+| Commitments and contingencies (Note 7) |  |  |  |  |  |
+| Stockholders’ equity: |  |  |  |  |  |
+| Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or outstanding) | — |  |  | — |  |
+| Common stock ($0.01 par value; 100,000 shares authorized; 10,644 and 10,757 shares issued; 10,175 and 10,242 shares outstanding) | 106 |  |  | 108 |  |
+| Treasury stock, at cost | (1,837) |  |  | (7,837) |  |
+| Additional paid-in capital | 55,437 |  |  | 75,066 |  |
+| Accumulated other comprehensive income (loss) | (1,376) |  |  | (4,487) |  |
+| Retained earnings | 85,915 |  |  | 83,193 |  |
+| Total stockholders’ equity | 138,245 |  |  | 146,043 |  |
+| Total liabilities and stockholders’ equity | $ | 420,549 |  | $ | 462,675 |
+
+
+
+#### Table of Contents
+
+AMAZON.COM, INC.
+CONSOLIDATED BALANCE SHEETS
+
+
+#### (in millions, except per share data)
+
+
+#### December 31,
+
+2021
+2022
+ASSETS
+Current assets:
+
+Cash and cash equivalents
+$
+36,220 
+$
+53,888 
+Marketable securities
+59,829 
+16,138 
+Inventories
+32,640 
+34,405 
+Accounts receivable, net and other
+32,891 
+42,360 
+Total current assets
+161,580 
+146,791 
+Property and equipment, net
+160,281 
+186,715 
+Operating leases
+56,082 
+66,123 
+Goodwill
+15,371 
+20,288 
+Other assets
+27,235 
+42,758 
+Total assets
+$
+420,549 
+$
+462,675
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+
+Accounts payable
+$
+78,664 
+$
+79,600 
+Accrued expenses and other
+51,775 
+62,566 
+Unearned revenue
+11,827 
+13,227 
+Total current liabilities
+142,266 
+155,393 
+Long-term lease liabilities
+67,651 
+72,968 
+Long-term debt
+48,744 
+67,150 
+Other long-term liabilities
+23,643 
+21,121 
+Commitments and contingencies (Note 7)
+Stockholders’ equity:
+
+Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or outstanding)
+— 
+— 
+Common stock ($0.01 par value; 100,000 shares authorized; 10,644 and 10,757 shares issued; 10,175
+and 10,242 shares outstanding)
+106 
+108 
+Treasury stock, at cost
+(1,837)
+(7,837)
+Additional paid-in capital
+55,437 
+75,066 
+Accumulated other comprehensive income (loss)
+(1,376)
+(4,487)
+Retained earnings
+85,915 
+83,193 
+Total stockholders’ equity
+138,245 
+146,043 
+Total liabilities and stockholders’ equity
+$
+420,549 
+$
+462,675
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 39
+
+
+## Page 40
+
+### Table 40.1
+
+| Balance as of January 1, 2020 | 9,950 |  | $ | 104 |  | $ | (1,837) |  | $ | 33,559 |  | $ | (986) |  | $ | 31,220 |  | $ | 62,060 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net income | — |  | — |  |  | — |  |  | — |  |  | — |  |  | 21,331 |  |  | 21,331 |  |
+| Other comprehensive income (loss) | — |  | — |  |  | — |  |  | — |  |  | 806 |  |  | — |  |  | 806 |  |
+| Stock-based compensation and issuance of employee benefit plan stock | 116 |  | 1 |  |  | — |  |  | 9,206 |  |  | — |  |  | — |  |  | 9,207 |  |
+| Balance as of December 31, 2020 | 10,066 |  | 105 |  |  | (1,837) |  |  | 42,765 |  |  | (180) |  |  | 52,551 |  |  | 93,404 |  |
+| Net income | — |  | — |  |  | — |  |  | — |  |  | — |  |  | 33,364 |  |  | 33,364 |  |
+| Other comprehensive income (loss) | — |  | — |  |  | — |  |  | — |  |  | (1,196) |  |  | — |  |  | (1,196) |  |
+| Stock-based compensation and issuance of employee benefit plan stock | 109 |  | 1 |  |  | — |  |  | 12,672 |  |  | — |  |  | — |  |  | 12,673 |  |
+| Balance as of December 31, 2021 | 10,175 |  | 106 |  |  | (1,837) |  |  | 55,437 |  |  | (1,376) |  |  | 85,915 |  |  | 138,245 |  |
+| Net loss | — |  | — |  |  | — |  |  | — |  |  | — |  |  | (2,722) |  |  | (2,722) |  |
+| Other comprehensive income (loss) | — |  | — |  |  | — |  |  | — |  |  | (3,111) |  |  | — |  |  | (3,111) |  |
+| Stock-based compensation and issuance of employee benefit plan stock | 113 |  | 2 |  |  | — |  |  | 19,629 |  |  | — |  |  | — |  |  | 19,631 |  |
+| Common stock repurchased | (46) |  | — |  |  | (6,000) |  |  | — |  |  | — |  |  | — |  |  | (6,000) |  |
+| Balance as of December 31, 2022 | 10,242 |  | $ | 108 |  | $ | (7,837) |  | $ | 75,066 |  | $ | (4,487) |  | $ | 83,193 |  | $ | 146,043 |
+
+
+
+#### Table of Contents
+
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+
+#### (in millions)
+
+
+#### Common Stock
+
+Shares
+Amount
+
+
+#### Treasury
+
+
+#### Stock
+
+
+#### Additional
+
+Paid-In
+Capital
+
+
+#### Accumulated Other
+
+
+#### Comprehensive
+
+
+#### Income (Loss)
+
+Retained
+Earnings
+
+Total
+Stockholders’
+
+Equity
+Balance as of January 1, 2020
+9,950 
+$
+104 
+$
+(1,837)
+$
+33,559 
+$
+(986)
+$
+31,220 
+$
+62,060 
+Net income
+— 
+— 
+— 
+— 
+— 
+21,331 
+21,331
+
+Other comprehensive income (loss)
+— 
+— 
+— 
+— 
+806 
+— 
+806 
+Stock-based compensation and issuance of
+employee benefit plan stock
+116 
+1 
+— 
+9,206 
+— 
+— 
+9,207 
+Balance as of December 31, 2020
+10,066 
+105 
+(1,837)
+42,765 
+(180)
+52,551 
+93,404 
+Net income
+— 
+— 
+— 
+— 
+— 
+33,364 
+33,364
+
+Other comprehensive income (loss)
+— 
+— 
+— 
+— 
+(1,196)
+— 
+(1,196)
+Stock-based compensation and issuance of
+employee benefit plan stock
+109 
+1 
+— 
+12,672 
+— 
+— 
+12,673 
+Balance as of December 31, 2021
+10,175 
+106 
+(1,837)
+55,437 
+(1,376)
+85,915 
+138,245 
+Net loss
+— 
+— 
+— 
+— 
+— 
+(2,722)
+(2,722)
+
+Other comprehensive income (loss)
+— 
+— 
+— 
+— 
+(3,111)
+— 
+(3,111)
+Stock-based compensation and issuance of
+employee benefit plan stock
+113 
+2 
+— 
+19,629 
+— 
+— 
+19,631 
+Common stock repurchased
+(46)
+— 
+(6,000)
+— 
+— 
+— 
+(6,000)
+
+Balance as of December 31, 2022
+10,242 
+$
+108 
+$
+(7,837)
+$
+75,066 
+$
+(4,487)
+$
+83,193 
+$
+146,043
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 40
+
+
+## Page 41
+
+
+#### Table of Contents
+
+AMAZON.COM, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 — DESCRIPTION OF BUSINESS, ACCOUNTING POLICIES, AND SUPPLEMENTAL DISCLOSURES
+
+
+#### Description of Business
+
+We seek to be Earth’s most customer-centric company. In each of our segments, we serve our primary customer sets, consisting of
+consumers, sellers, developers, enterprises, content creators, advertisers, and employees. We serve consumers through our online and physical
+stores and focus on selection, price, and convenience. We offer programs that enable sellers to grow their businesses, sell their products in our
+stores, and fulfill orders through us, and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and
+app developers, and others to publish and sell content. We serve developers and enterprises of all sizes through AWS, which offers a broad set
+of on-demand technology services, including compute, storage, database, analytics, and machine learning, and other services. We also
+manufacture and sell electronic devices. In addition, we provide advertising services to sellers, vendors, publishers, authors, and others, through
+programs such as sponsored ads, display, and video advertising.
+
+We have organized our operations into three segments: North America, International, and AWS.  See “Note 10 — Segment Information.”
+
+
+#### Common Stock Split
+
+On May 27, 2022, we effected a 20-for-1 stock split of our common stock and proportionately increased the number of authorized shares of
+common stock. All share, restricted stock unit (“RSU”), and per share or per RSU information throughout this Annual Report on Form 10-K has
+been retroactively adjusted to reflect the stock split. The shares of common stock retain a par value of $0.01 per share. Accordingly, an amount
+equal to the par value of the increased shares resulting from the stock split was reclassified from “Additional paid-in capital” to “Common stock.”
+
+
+#### Prior Period Reclassifications
+
+Certain prior period amounts have been reclassified to conform to the current period presentation. “Other operating expense (income), net”
+was reclassified into “Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other”
+on our consolidated statements of cash flows.
+
+
+#### Principles of Consolidation
+
+The consolidated financial statements include the accounts of Amazon.com, Inc. and its consolidated entities (collectively, the “Company”),
+consisting of its wholly-owned subsidiaries and those entities in which we have a variable interest and of which we are the primary beneficiary,
+including certain entities in India and certain entities that support our seller lending financing activities. Intercompany balances and transactions
+between consolidated entities are eliminated.
+
+
+#### Use of Estimates
+
+The preparation of financial statements in conformity with GAAP requires estimates and assumptions that affect the reported amounts of
+assets and liabilities, revenues and expenses, and related disclosures of contingent liabilities in the consolidated financial statements and
+accompanying notes. Estimates are used for, but not limited to, income taxes, useful lives of equipment, commitments and contingencies,
+valuation of acquired intangibles and goodwill, stock-based compensation forfeiture rates, vendor funding, inventory valuation, collectability of
+receivables, impairment of property and equipment and operating leases, valuation and impairment of investments, self-insurance liabilities, and
+viewing patterns of capitalized video content. Actual results could differ materially from these estimates. We review the useful lives of equipment
+on an ongoing basis, and effective January 1, 2022 we changed our estimate of the useful lives for our servers from four years to five years and
+for our networking equipment from five years to six years. The longer useful lives are due to continuous improvements in our hardware, software,
+and data center designs. The effect of this change in estimate for the year ended December 31, 2022, based on servers and networking
+equipment that were included in “Property and equipment, net” as of December 31, 2021 and those acquired during the year ended December
+31, 2022, was a reduction in depreciation and amortization expense of $3.6 billion and a benefit to net loss of $ 2.8 billion, or $0.28 per basic
+share and $0.28 per diluted share.
+
+For the year ended December 31, 2022, we recorded approximately $ 1.1 billion, of which $720 million was recorded in the fourth quarter,
+of impairments of property and equipment and operating leases primarily related to physical stores. These charges were recorded in “Other
+operating expense (income), net” on our consolidated statements of operations and primarily impacted our North America segment. For the year
+ended December 31, 2022, we also recorded expenses of approximately
+
+
+#### 41
+
+
+## Page 42
+
+### Table 42.1
+
+|  | Year Ended December 31, |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2020 |  |  | 2021 |  |  | 2022 |  |
+| SUPPLEMENTAL CASH FLOW INFORMATION: |  |  |  |  |  |  |  |  |
+| Cash paid for interest on debt | $ | 916 |  | $ | 1,098 |  | $ | 1,561 |
+| Cash paid for operating leases | $ | 4,475 |  | $ | 6,722 |  | $ | 8,633 |
+| Cash paid for interest on finance leases | $ | 612 |  | $ | 521 |  | $ | 374 |
+| Cash paid for interest on financing obligations | $ | 102 |  | $ | 153 |  | $ | 207 |
+| Cash paid for income taxes, net of refunds | $ | 1,713 |  | $ | 3,688 |  | $ | 6,035 |
+| Assets acquired under operating leases | $ | 16,217 |  | $ | 25,369 |  | $ | 18,800 |
+| Property and equipment acquired under finance leases, net of remeasurements and modifications | $ | 11,588 |  | $ | 7,061 |  | $ | 675 |
+| Property and equipment recognized during the construction period of build-to-suit lease arrangements | $ | 2,267 |  | $ | 5,846 |  | $ | 3,187 |
+| Property and equipment derecognized after the construction period of build-to-suit lease arrangements, with the associated leases recognized as operating | $ | — |  | $ | 230 |  | $ | 5,158 |
+
+
+### Table 42.2
+
+| Shares used in computation of basic earnings per share | 10,005 |  | 10,117 |  | 10,189 |
+| --- | --- | --- | --- | --- | --- |
+| Total dilutive effect of outstanding stock awards | 193 |  | 179 |  | — |
+| Shares used in computation of diluted earnings per share | 10,198 |  | 10,296 |  | 10,189 |
+
+
+
+#### Table of Contents
+
+$480 million primarily in “Fulfillment” on our consolidated statements of operations relating to terminating contracts for certain leases not yet
+commenced as well as other purchase commitments, which primarily impacted our North America segment.
+
+For the year ended December 31, 2022, we recorded approximately $ 720 million, of which $640 million was recorded in the fourth quarter,
+of estimated severance costs primarily related to planned role eliminations. These charges were recorded primarily in “Technology and content,”
+“Fulfillment,” and “General and administrative” on our consolidated statements of operations and primarily impacted our North America segment.
+
+
+#### Supplemental Cash Flow Information
+
+
+#### The following table shows supplemental cash flow information (in millions):
+
+
+#### Year Ended December 31,
+
+2020
+2021
+2022
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on debt
+$
+916 
+$
+1,098 
+$
+1,561 
+Cash paid for operating leases
+$
+4,475 
+$
+6,722 
+$
+8,633 
+Cash paid for interest on finance leases
+$
+612 
+$
+521 
+$
+374 
+Cash paid for interest on financing obligations
+$
+102 
+$
+153 
+$
+207 
+Cash paid for income taxes, net of refunds
+$
+1,713 
+$
+3,688 
+$
+6,035 
+Assets acquired under operating leases
+$
+16,217 
+$
+25,369 
+$
+18,800 
+Property and equipment acquired under finance leases, net of remeasurements and modifications
+$
+11,588 
+$
+7,061 
+$
+675 
+Property and equipment recognized during the construction period of build-to-suit lease
+arrangements
+$
+2,267 
+$
+5,846 
+$
+3,187 
+Property and equipment derecognized after the construction period of build-to-suit lease
+arrangements, with the associated leases recognized as operating
+$
+— 
+$
+230 
+$
+5,158
+
+
+#### Earnings Per Share
+
+Basic earnings per share is calculated using our weighted-average outstanding common shares. Diluted earnings per share is calculated
+using our weighted-average outstanding common shares including the dilutive effect of stock awards as determined under the treasury stock
+method. In periods when we have a net loss, stock awards are excluded from our calculation of earnings per share as their inclusion would have
+an antidilutive effect.
+
+The following table shows the calculation of diluted shares (in millions):
+  
+Year Ended December 31,
+
+2020
+2021
+2022
+Shares used in computation of basic earnings per share
+10,005 
+10,117 
+10,189 
+Total dilutive effect of outstanding stock awards
+193 
+179 
+— 
+Shares used in computation of diluted earnings per share
+10,198 
+10,296 
+10,189
+
+
+#### Revenue
+
+Revenue is measured based on the amount of consideration that we expect to receive, reduced by estimates for return allowances,
+promotional discounts, and rebates. Revenue also excludes any amounts collected on behalf of third parties, including sales and indirect taxes.
+In arrangements where we have multiple performance obligations, the transaction price is allocated to each performance obligation using the
+relative stand-alone selling price. We generally determine stand-alone selling prices based on the prices charged to customers or using expected
+cost plus a margin.
+
+
+#### A description of our principal revenue generating activities is as follows:
+
+Retail sales - We offer consumer products through our online and physical stores. Revenue is recognized when control of the goods is
+transferred to the customer, which generally occurs upon our delivery to a third-party carrier or, in the case of an Amazon delivery, to the
+customer.
+
+Third-party seller services - We offer programs that enable sellers to sell their products in our stores, and fulfill orders through us. We are
+not the seller of record in these transactions. The commissions and any related fulfillment and shipping fees we earn from these arrangements
+are recognized when the services are rendered, which generally occurs upon delivery of the related products to a third-party carrier or, in the
+case of an Amazon delivery, to the customer.
+
+
+#### 42
+
+
+## Page 43
+
+
+#### Table of Contents
+
+Subscription services - Our subscription sales include fees associated with Amazon Prime memberships and access to content including
+digital video, audiobooks, digital music, e-books, and other non-AWS subscription services. Prime memberships provide our customers with
+access to an evolving suite of benefits that represent a single stand-ready obligation. Subscriptions are paid for at the time of or in advance of
+delivering the services. Revenue from such arrangements is recognized over the subscription period.
+
+Advertising services - We provide advertising services to sellers, vendors, publishers, authors, and others, through programs such as
+sponsored ads, display, and video advertising. Revenue is recognized as ads are delivered based on the number of clicks or impressions.
+
+AWS - Our AWS arrangements include global sales of compute, storage, database, and other services. Revenue is allocated to services
+using stand-alone selling prices and is primarily recognized when the customer uses these services, based on the quantity of services rendered,
+such as compute or storage capacity delivered on-demand. Certain services, including compute and database, are also offered as a fixed
+quantity over a specified term, for which revenue is recognized ratably. Sales commissions we pay in connection with contracts that exceed one
+year are capitalized and amortized over the contract term.
+
+Other - Other revenue includes sales related to various other offerings, such as certain licensing and distribution of video content and
+shipping services, and our co-branded credit card agreements. Revenue is recognized when content is licensed or distributed and as or when
+services are performed.
+
+
+#### Return Allowances
+
+Return allowances, which reduce revenue and cost of sales, are estimated using historical experience. Liabilities for return allowances are
+included in “Accrued expenses and other” and were $859 million, $1.0 billion, and $1.3 billion as of December 31, 2020, 2021, and 2022.
+Additions to the allowance were $3.5 billion, $5.1 billion, and $5.5 billion and deductions from the allowance were $ 3.6 billion, $4.9 billion, and
+$5.2 billion in 2020, 2021, and 2022. Included in “Inventories” on our consolidated balance sheets are assets totaling $ 852 million, $882 million,
+and $948 million as of December 31, 2020, 2021, and 2022, for the rights to recover products from customers associated with our liabilities for
+return allowances.
+
+
+#### Cost of Sales
+
+Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
+to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
+gross, including video and music. Shipping costs to receive products from our suppliers are included in our inventory, and recognized as cost of
+sales upon sale of products to our customers. Payment processing and related transaction costs, including those associated with seller
+transactions, are classified in “Fulfillment” on our consolidated statements of operations.
+
+
+#### Vendor Agreements
+
+We have agreements with our vendors to receive consideration primarily for cooperative marketing efforts, promotions, incentives, and
+volume rebates. We generally consider these amounts received from vendors to be a reduction of the prices we pay for their goods, including
+property and equipment, or services, and are recorded as a reduction of the cost of inventory, cost of services, or cost of property and equipment.
+Volume rebates typically depend on reaching minimum purchase thresholds. We evaluate the likelihood of reaching purchase thresholds using
+past experience and current year forecasts. When volume rebates can be reasonably estimated, we record a portion of the rebate as we make
+progress towards the purchase threshold.
+
+
+#### Fulfillment
+
+Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International segments’ fulfillment
+centers, physical stores, and customer service centers, including facilities and equipment expenses, such as depreciation and amortization, and
+rent; costs attributable to buying, receiving, inspecting, and warehousing inventories; picking, packaging, and preparing customer orders for
+shipment; payment processing and related transaction costs, including costs associated with our guarantee for certain seller transactions;
+responding to inquiries from customers; and supply chain management for our manufactured electronic devices. Fulfillment costs also include
+amounts paid to third parties that assist us in fulfillment and customer service operations.
+
+
+#### 43
+
+
+## Page 44
+
+### Table 44.1
+
+| Marketable equity securities valuation gains (losses) | $ | 525 |  | $ | 11,526 |  | $ | (13,870) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Equity warrant valuation gains (losses) | 1,527 |  |  | 1,315 |  |  | (2,132) |  |
+| Upward adjustments relating to equity investments in private companies | 342 |  |  | 1,866 |  |  | 76 |  |
+| Foreign currency gains (losses) | 35 |  |  | (55) |  |  | (340) |  |
+| Other, net | (58) |  |  | (19) |  |  | (540) |  |
+| Total other income (expense), net | 2,371 |  |  | 14,633 |  |  | (16,806) |  |
+
+
+
+#### Table of Contents
 
 
 #### Technology and Content
@@ -2140,425 +3431,2059 @@ available in our online stores, and infrastructure costs. Infrastructure costs i
 depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
 costs reflect the investments we make in order to offer a wide variety of products and services to our customers, including expenditures related to
 initiatives to build and deploy innovative and efficient software and electronic devices and the development of a satellite network for global
-broadband service and autonomous vehicles for ride-hailing services.
-
-We seek to invest efficiently in numerous areas of technology and content so we may continue to enhance the customer experience and
-improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and content
-investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and the cross-
-functionality of our systems and operations. We expect spending in technology and content to increase over time as we continue to add
-employees and technology infrastructure. These costs are allocated to segments based on usage. The increase in technology and content costs
-in absolute dollars in 2022, compared to the prior year, is primarily due to increased payroll and related costs associated with technical teams
-responsible for expanding our existing products and services and initiatives to introduce new products and service offerings, and an increase in
-spending on technology infrastructure, partially offset by a reduction in depreciation and amortization expense from our change in the estimated
-useful lives of our servers and networking equipment. See Item 8 of Part II, “Financial Statements and Supplementary Data — Note 1 —
-Description of Business, Accounting Policies, and Supplemental Disclosures — Use of Estimates” for additional information on the change in
-estimated useful lives of our servers and networking equipment.
+broadband service and autonomous vehicles for ride-hailing services. Technology and content costs are generally expensed as incurred.
 
 
 #### Sales and Marketing
 
 Sales and marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities,
-including sales commissions related to AWS. We direct customers to our stores primarily through a number of marketing channels, such as our
-sponsored search, social and online advertising, third party customer referrals, television advertising, and other initiatives. Our marketing costs
-are largely variable, based on growth in sales and changes in rates. To the extent there is increased or decreased competition for these traffic
-sources, or to the extent our mix of these channels shifts, we would expect to see a corresponding change in our marketing costs.
+including sales commissions related to AWS. We pay commissions to third parties when their customer referrals result in sales. We also
+participate in cooperative advertising arrangements with certain of our vendors, and other third parties.
 
-The increase in sales and marketing costs in absolute dollars in 2022, compared to the prior year, is primarily due to increased payroll and
-related expenses for personnel engaged in marketing and selling activities and higher marketing spend.
-
-While costs associated with Amazon Prime membership benefits and other shipping offers are not included in sales and marketing
-expense, we view these offers as effective worldwide marketing tools, and intend to continue offering them indefinitely.
+Advertising and other promotional costs to market our products and services are expensed as incurred and were $ 10.9 billion, $16.9 billion,
+and $20.6 billion in 2020, 2021, and 2022.
 
 
 #### General and Administrative
 
-The increase in general and administrative costs in absolute dollars in 2022, compared to the prior year, is primarily due to increases in
-payroll and related expenses and professional fees.
+General and administrative expenses primarily consist of costs for corporate functions, including payroll and related expenses; facilities and
+equipment expenses, such as depreciation and amortization expense and rent; and professional fees.
 
 
-#### 26
+#### Stock-Based Compensation
 
-
-## Page 27
-
-
-#### Table of Contents
+Compensation cost for all equity-classified stock awards expected to vest is measured at fair value on the date of grant and recognized
+over the service period. The fair value of restricted stock units is determined based on the number of shares granted and the quoted price of our
+common stock. Such value is recognized as expense over the service period, net of estimated forfeitures, using the accelerated method. The
+estimated number of stock awards that will ultimately vest requires judgment, and to the extent actual results or updated estimates differ from our
+current estimates, such amounts will be recorded as a cumulative adjustment in the period estimates are revised. We consider many factors
+when estimating expected forfeitures, including historical forfeiture experience by grant year and employee level. Additionally, stock-based
+compensation includes stock appreciation rights that are expected to settle in cash. These liability-classified awards are remeasured to fair value
+at the end of each reporting period until settlement or expiration.
 
 
 #### Other Operating Expense (Income), Net
 
-Other operating expense (income), net was $62 million and $1.3 billion during 2021 and 2022, and was primarily related to the amortization
-of intangible assets and, for 2022, $1.1 billion of impairments of property and equipment and operating leases.
-
-
-#### Interest Income and Expense
-
-Our interest income was $448 million and $989 million during 2021 and 2022, primarily due to an increase in prevailing rates. We generally
-invest our excess cash in AAA-rated money market funds and investment grade short- to intermediate-term fixed income securities. Our interest
-income corresponds with the average balance of invested funds based on the prevailing rates, which vary depending on the geographies and
-currencies in which they are invested.
-
-Interest expense was $1.8 billion and $2.4 billion in 2021 and 2022 and was primarily related to debt and finance leases. See Item 8 of Part
-II, “Financial Statements and Supplementary Data — Note 4 — Leases and Note 6 — Debt” for additional information.
-
-Our long-term lease liabilities were $67.7 billion and $73.0 billion as of December 31, 2021 and 2022. Our long-term debt was $48.7 billion
-and $67.1 billion as of December 31, 2021 and 2022. See Item 8 of Part II, “Financial Statements and Supplementary Data — Note 4 — Leases
-and Note 6 — Debt” for additional information.
+Other operating expense (income), net, consists primarily of the amortization of intangible assets and, for 2020, a benefit from accelerated
+vesting of warrants to acquire equity of a vendor partially offset by a lease impairment and, for 2022, $1.1 billion of impairments of property and
+equipment and operating leases.
 
 
 #### Other Income (Expense), Net
 
-Other income (expense), net was $14.6 billion and $(16.8) billion during 2021 and 2022. The primary components of other income
-(expense), net are related to equity securities valuations and adjustments, equity warrant valuations, and foreign currency. Included in other
-income (expense), net in 2021 and 2022 is a marketable equity securities valuation gain (loss) of $11.8 billion and $(12.7) billion from our equity
-investment in Rivian.
+
+#### Other income (expense), net, is as follows (in millions):
+
+
+#### Year Ended December 31,
+
+2020
+2021
+2022
+Marketable equity securities valuation gains (losses)
+$
+525 
+$
+11,526 
+$
+(13,870)
+Equity warrant valuation gains (losses)
+1,527 
+1,315 
+(2,132)
+Upward adjustments relating to equity investments in private companies
+342 
+1,866 
+76 
+Foreign currency gains (losses)
+35 
+(55)
+(340)
+Other, net
+(58)
+(19)
+(540)
+
+Total other income (expense), net
+2,371 
+14,633 
+(16,806)
+
+
+#### 44
+
+
+## Page 45
+
+### Table 45.1
+
+| Revenues | $ | — |  | $ | 55 |  | $ | 995 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gross profit | — |  |  | (465) |  |  | (2,123) |  |
+| Loss from operations | (1,021) |  |  | (4,220) |  |  | (5,061) |  |
+| Net loss | (1,018) |  |  | (4,688) |  |  | (5,029) |  |
+
+
+### Table 45.2
+
+| Total current assets | $ | 18,559 |  | $ | 14,424 |
+| --- | --- | --- | --- | --- | --- |
+| Total assets | 22,294 |  |  | 19,023 |  |
+| Total current liabilities | 1,313 |  |  | 2,109 |  |
+| Total liabilities | 2,780 |  |  | 3,686 |  |
+
+
+
+#### Table of Contents
+
+Included in other income (expense), net in 2021 and 2022 is a marketable equity securities valuation gain (loss) of $ 11.8 billion and $(12.7)
+billion from our equity investment in Rivian Automotive, Inc. (“Rivian”). Our investment in Rivian’s preferred stock was accounted for at cost, with
+adjustments for observable changes in prices or impairments, prior to Rivian’s initial public offering in November 2021, which resulted in the
+conversion of our preferred stock to Class A common stock. As of December 31, 2022, we held 158 million shares of Rivian’s Class A common
+stock, representing an approximate 17% ownership interest, and an approximate 16% voting interest. We determined that we have the ability to
+exercise significant influence over Rivian through our equity investment, our commercial arrangement for the purchase of electric vehicles, and
+one of our employees serving on Rivian’s board of directors. We elected the fair value option to account for our equity investment in Rivian, which
+is included in “Marketable securities” on our consolidated balance sheets.
+
+Required summarized financial information of Rivian as disclosed in its most recent SEC filings is as follows (in millions):
+
+Year Ended 
+December 31, 2020
+
+Year Ended 
+December 31, 2021
+
+Nine Months Ended
+September 30, 2022
+Revenues
+$
+— 
+$
+55 
+$
+995 
+Gross profit
+— 
+(465)
+(2,123)
+Loss from operations
+(1,021)
+(4,220)
+(5,061)
+Net loss
+(1,018)
+(4,688)
+(5,029)
+
+December 31, 2021
+September 30, 2022
+Total current assets
+$
+18,559 
+$
+14,424 
+Total assets
+22,294 
+19,023 
+Total current liabilities
+1,313 
+2,109 
+Total liabilities
+2,780 
+3,686
 
 
 #### Income Taxes
 
-Our effective tax rate is subject to significant variation due to several factors, including variability in our pre-tax and taxable income and loss
-and the mix of jurisdictions to which they relate, intercompany transactions, the applicability of special tax regimes, changes in how we do
-business, acquisitions, investments, developments in tax controversies, changes in our stock price, changes in our deferred tax assets and
-liabilities and their valuation, foreign currency gains (losses), changes in statutes, regulations, case law, and administrative practices, principles,
-and interpretations related to tax, including changes to the global tax framework, competition, and other laws and accounting rules in various
-jurisdictions, and relative changes of expenses or losses for which tax benefits are not recognized. Our effective tax rate can be more or less
-volatile based on the amount of pre-tax income or loss. For example, the impact of discrete items and non-deductible expenses on our effective
-tax rate is greater when our pre-tax income is lower. In addition, we record valuation allowances against deferred tax assets when there is
-uncertainty about our ability to generate future income in relevant jurisdictions.
+Income tax expense includes U.S. (federal and state) and foreign income taxes. Certain foreign subsidiary earnings and losses are subject
+to current U.S. taxation and the subsequent repatriation of those earnings is not subject to tax in the U.S. We intend to invest substantially all of
+our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries, indefinitely outside of the U.S. in those jurisdictions in which we
+would incur significant, additional costs upon repatriation of such amounts.
 
-We recorded a provision (benefit) for income taxes of $4.8 billion and $(3.2) billion in 2021 and 2022. See Item 8 of Part II, “Financial
-Statements and Supplementary Data — Note 9 — Income Taxes” for additional information.
+Deferred income tax balances reflect the effects of temporary differences between the carrying amounts of assets and liabilities and their
+tax bases, as well as net operating loss and tax credit carryforwards, and are stated at enacted tax rates expected to be in effect when taxes are
+actually paid or recovered.
 
+Deferred tax assets represent amounts available to reduce income taxes payable in future periods. Deferred tax assets are evaluated for
+future realization and reduced by a valuation allowance to the extent we believe they will not be realized. We consider many factors when
+assessing the likelihood of future realization of our deferred tax assets, including recent cumulative loss experience and expectations of future
+earnings, capital gains and investment in such jurisdiction, the carry-forward periods available to us for tax reporting purposes, and other relevant
+factors.
 
-#### Non-GAAP Financial Measures
-
-Regulation G, Conditions for Use of Non-GAAP Financial Measures, and other SEC regulations define and prescribe the conditions for use
-of certain non-GAAP financial information. Our measures of free cash flows and the effect of foreign exchange rates on our consolidated
-statements of operations meet the definition of non-GAAP financial measures.
-
-We provide multiple measures of free cash flows because we believe these measures provide additional perspective on the impact of
-acquiring property and equipment with cash and through finance leases and financing obligations.
-
-
-#### 27
+We utilize a two-step approach to recognizing and measuring uncertain income tax positions (tax contingencies). The first step is to
+evaluate the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not the position will be
+sustained on audit, including resolution of related appeals or litigation processes. The second step is to measure the tax benefit as the largest
+amount which is more than 50% likely of being realized upon ultimate settlement. We consider many factors when evaluating our tax positions
+and estimating our tax benefits, which may require periodic adjustments and which may not accurately forecast actual outcomes. We include
+interest and penalties related to our tax contingencies in income tax expense.
 
 
-## Page 28
+#### Fair Value of Financial Instruments
 
-### Table 28.1
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs
+to valuation methodologies used to measure fair value:
 
-| Net cash provided by (used in) operating activities | $ | 46,327 |  | $ | 46,752 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (55,396) |  |  | (58,321) |  |
-| Free cash flow | $ | (9,069) |  | $ | (11,569) |
-| Net cash provided by (used in) investing activities | $ | (58,154) |  | $ | (37,601) |
-| Net cash provided by (used in) financing activities | $ | 6,291 |  | $ | 9,718 |
+Level 1 — Valuations based on quoted prices for identical assets and liabilities in active markets.
 
 
-### Table 28.2
+#### 45
 
-| Net cash provided by (used in) operating activities | $ | 46,327 |  | $ | 46,752 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (55,396) |  |  | (58,321) |  |
-| Free cash flow | (9,069) |  |  | (11,569) |  |
-| Principal repayments of finance leases | (11,163) |  |  | (7,941) |  |
-| Principal repayments of financing obligations | (162) |  |  | (248) |  |
-| Free cash flow less principal repayments of finance leases and financing obligations | $ | (20,394) |  | $ | (19,758) |
-| Net cash provided by (used in) investing activities | $ | (58,154) |  | $ | (37,601) |
-| Net cash provided by (used in) financing activities | $ | 6,291 |  | $ | 9,718 |
+
+## Page 46
+
+
+#### Table of Contents
+
+Level 2 — Valuations based on observable inputs other than quoted prices included in Level 1, such as quoted prices for similar
+assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, or
+other inputs that are observable or can be corroborated by observable market data.
+
+Level 3 — Valuations based on unobservable inputs reflecting our own assumptions, consistent with reasonably available
+assumptions made by other market participants. These valuations require significant judgment.
+
+We measure the fair value of money market funds and certain marketable equity securities based on quoted prices in active markets for
+identical assets or liabilities. Other marketable securities were valued either based on recent trades of securities in inactive markets or based on
+quoted market prices of similar instruments and other significant inputs derived from or corroborated by observable market data. We did not hold
+significant amounts of marketable securities categorized as Level 3 assets as of December 31, 2021 and 2022.
+
+We hold equity warrants giving us the right to acquire stock of other companies. As of December 31, 2021 and 2022, these warrants had a
+fair value of $3.4 billion and $2.1 billion, and are recorded within “ Other assets” on our consolidated balance sheets with gains and losses
+recognized in “Other income (expense), net” on our consolidated statements of operations. These warrants are primarily classified as Level 2
+assets.
+
+
+#### Cash and Cash Equivalents
+
+We classify all highly liquid instruments with an original maturity of three months or less as cash equivalents.
+
+
+#### Inventories
+
+Inventories, consisting of products available for sale, are primarily accounted for using the first-in, first-out method, and are valued at the
+lower of cost and net realizable value. This valuation requires us to make judgments, based on currently available information, about the likely
+method of disposition, such as through sales to individual customers, returns to product vendors, or liquidations, and expected recoverable
+values of each disposition category. The inventory valuation allowance, representing a write-down of inventory, was $2.6 billion and $2.8 billion
+as of December 31, 2021 and 2022.
+
+We provide Fulfillment by Amazon services in connection with certain of our sellers’ programs. Third-party sellers maintain ownership of
+their inventory, regardless of whether fulfillment is provided by us or the third-party sellers, and therefore these products are not included in our
+inventories.
+
+We also purchase electronic device components from a variety of suppliers and use several contract manufacturers to provide
+manufacturing services for our products. During the normal course of business, in order to manage manufacturing lead times and help ensure
+adequate supply, we enter into agreements with contract manufacturers and suppliers for certain electronic device components. We have certain
+non-cancellable purchase commitments arising from these agreements. These commitments are based on forecasted customer demand. If we
+reduce these commitments, we may incur additional costs. We also have firm, non-cancellable commitments for certain products offered in our
+Whole Foods Market stores.
+
+
+#### Accounts Receivable, Net and Other
+
+Included in “Accounts receivable, net and other” on our consolidated balance sheets are amounts primarily related to customers, vendors,
+and sellers. As of December 31, 2021 and 2022, customer receivables, net, were $20.2 billion and $26.6 billion, vendor receivables, net, were
+$5.3 billion and $6.9 billion, and seller receivables, net, were $ 1.0 billion and $1.3 billion. Seller receivables are amounts due from sellers related
+to our seller lending program, which provides funding to sellers primarily to procure inventory.
+
+We estimate losses on receivables based on expected losses, including our historical experience of actual losses. Receivables are
+considered impaired and written-off when it is probable that all contractual payments due will not be collected in accordance with the terms of the
+agreement. The allowance for doubtful accounts was $ 1.1 billion, $1.1 billion, and $1.4 billion as of December 31, 2020, 2021, and 2022.
+Additions to the allowance were $1.4 billion, $1.0 billion, and $1.6 billion, and deductions to the allowance were $ 1.0 billion, $1.1 billion, and $1.3
+billion in 2020, 2021, and 2022.
+
+
+#### Software Development Costs
+
+We incur software development costs related to products to be sold, leased, or marketed to external users, internal-use software, and our
+websites. Software development costs capitalized were not significant for the years presented. All other costs, including those related to design
+or maintenance, are expensed as incurred.
+
+
+#### 46
+
+
+## Page 47
+
+
+#### Table of Contents
+
+
+#### Property and Equipment, Net
+
+Property and equipment are stated at cost less accumulated depreciation and amortization. Incentives that we receive from property and
+equipment vendors are recorded as a reduction to our costs. Property includes buildings and land that we own, along with property we have
+acquired under build-to-suit lease arrangements when we have control over the building during the construction period and finance lease
+arrangements. Equipment includes assets such as servers and networking equipment, heavy equipment, and other fulfillment equipment.
+Depreciation and amortization is recorded on a straight-line basis over the estimated useful lives of the assets (generally the lesser of 40 years
+or the remaining life of the underlying building, four years prior to January 1, 2022 and five years subsequent to January 1, 2022 for our servers,
+five years prior to January 1, 2022 and six years subsequent to January 1, 2022 for our networking equipment, ten years for heavy equipment,
+and three to ten years for other fulfillment equipment). Depreciation and amortization expense is classified within the corresponding operating
+expense categories on our consolidated statements of operations.
+
+
+#### Leases
+
+We categorize leases with contractual terms longer than twelve months as either operating or finance. Finance leases are generally those
+leases that allow us to substantially utilize or pay for the entire asset over its estimated life. Assets acquired under finance leases are recorded in
+“Property and equipment, net.” All other leases are categorized as operating leases. Our leases generally have terms that range from one to ten
+years for equipment and one to twenty years for property.
+
+Certain lease contracts include obligations to pay for other services, such as operations and maintenance. For leases of property, we
+account for these other services as a component of the lease. For substantially all other leases, the services are accounted for separately and
+we allocate payments to the lease and other services components based on estimated stand-alone prices.
+
+Lease liabilities are recognized at the present value of the fixed lease payments, reduced by landlord incentives using a discount rate
+based on similarly secured borrowings available to us. Lease assets are recognized based on the initial present value of the fixed lease
+payments, reduced by landlord incentives, plus any direct costs from executing the leases or lease prepayments reclassified from “Other assets”
+upon lease commencement. Leasehold improvements are capitalized at cost and amortized over the lesser of their expected useful life or the
+lease term.
+
+When we have the option to extend the lease term, terminate the lease before the contractual expiration date, or purchase the leased
+asset, and it is reasonably certain that we will exercise the option, we consider the option in determining the classification and measurement of
+the lease. Our leases may include variable payments based on measures that include changes in price indices, market interest rates, or the level
+of sales at a physical store, which are expensed as incurred.
+
+Costs associated with operating lease assets are recognized on a straight-line basis within operating expenses over the term of the lease.
+Finance lease assets are amortized within operating expenses on a straight-line basis over the shorter of the estimated useful lives of the assets
+or, in the instance where title does not transfer at the end of the lease term, the lease term. The interest component of a finance lease is
+included in interest expense and recognized using the effective interest method over the lease term.
+
+We establish assets and liabilities for the present value of estimated future costs to retire long-lived assets at the termination or expiration
+of a lease. Such assets are amortized over the lease period into operating expense, and the recorded liabilities are accreted to the future value
+of the estimated retirement costs.
+
+
+#### Financing Obligations
+
+We record assets and liabilities for estimated construction costs under build-to-suit lease arrangements when we have control over the
+building during the construction period. If we continue to control the building after the construction period, the arrangement is classified as a
+financing obligation instead of a lease. The building is depreciated over the shorter of its useful life or the term of the obligation.
+
+If we do not control the building after the construction period ends, the assets and liabilities for construction costs are derecognized, and
+we classify the lease as operating.
+
+
+#### Goodwill and Indefinite-Lived Intangible Assets
+
+We evaluate goodwill and indefinite-lived intangible assets for impairment annually or more frequently when an event occurs or
+circumstances change that indicate the carrying value may not be recoverable. We may elect to utilize a qualitative assessment to evaluate
+whether it is more likely than not that the fair value of a reporting unit or indefinite-lived intangible asset is less than its carrying value and if so,
+we perform a quantitative test. We compare the carrying value of each reporting unit and indefinite-lived intangible asset to its estimated fair
+value and if the fair value is determined to be less than the carrying value, we recognize an impairment loss for the difference. We estimate the
+fair value of the reporting units using discounted cash
+
+
+#### 47
+
+
+## Page 48
+
+
+#### Table of Contents
+
+flows. Forecasts of future cash flows are based on our best estimate of future net sales and operating expenses, based primarily on expected
+category expansion, pricing, market segment share, and general economic conditions.
+
+We completed the required annual impairment test of goodwill for all reporting units and indefinite-lived intangible assets as of April 1,
+2022, resulting in no impairments. The fair value of our reporting units substantially exceeded their carrying value. There were no events that
+caused us to update our annual impairment test. See “Note 5 — Acquisitions, Goodwill, and Acquired Intangible Assets.”
+
+
+#### Other Assets
+
+Included in “Other assets” on our consolidated balance sheets are amounts primarily related to video and music content, net of
+accumulated amortization; long-term deferred tax assets; acquired intangible assets, net of accumulated amortization; equity warrant assets and
+certain equity investments; and satellite network launch services deposits. We recognize certain transactions with governments when there is
+reasonable assurance that incentives included in the agreements, such as cash or certain tax credits, will be received and we are able to comply
+with any related conditions. These incentives are recorded as reductions to the cost of related assets or expenses.
+
+
+#### Digital Video and Music Content
+
+We obtain video content, inclusive of episodic television and movies, and music content for customers through licensing agreements that
+have a wide range of licensing provisions including both fixed and variable payment schedules. When the license fee for a specific video or
+music title is determinable or reasonably estimable and the content is available to us, we recognize an asset and a corresponding liability for the
+amounts owed. We reduce the liability as payments are made and we amortize the asset to “Cost of sales” on an accelerated basis, based on
+estimated usage or viewing patterns, or on a straight-line basis. If the licensing fee is not determinable or reasonably estimable, no asset or
+liability is recorded and licensing costs are expensed as incurred. We also develop original video content for which the production costs are
+capitalized and amortized to “Cost of sales” predominantly on an accelerated basis that follows the estimated viewing patterns associated with
+the content. The weighted average remaining life of our capitalized video content is 2.6 years. We review usage and viewing patterns impacting
+the amortization of capitalized video content on an ongoing basis and reflect any changes prospectively. Changes in historical and anticipated
+viewing patterns are lengthening the weighted average life of our capitalized video content. We anticipate the changes in viewing patterns will
+positively impact 2023 operating income by approximately $1.0 billion, generally ratably throughout the year.
+
+Our produced and licensed video content is primarily monetized together as a unit, referred to as a film group, in each major geography
+where we offer Amazon Prime memberships. These film groups are evaluated for impairment whenever an event occurs or circumstances
+change indicating the fair value is less than the carrying value. The total capitalized costs of video, which is primarily released content, and
+music as of December 31, 2021 and 2022 were $10.7 billion and $16.7 billion. Total video and music expense was $ 13.0 billion and $16.6 billion
+for the year ended December 31, 2021 and 2022. Total video and music expense includes licensing and production costs associated with
+content offered within Amazon Prime memberships, and costs associated with digital subscriptions and sold or rented content.
+
+
+#### Investments
+
+We generally invest our excess cash in AAA-rated money market funds and investment grade short- to intermediate-term fixed income
+securities. Such investments are included in “Cash and cash equivalents” or “Marketable securities” on the accompanying consolidated balance
+sheets.
+
+Marketable fixed income securities are classified as available-for-sale and reported at fair value with unrealized gains and losses included
+in “Accumulated other comprehensive income (loss).” Each reporting period, we evaluate whether declines in fair value below carrying value are
+due to expected credit losses, as well as our ability and intent to hold the investment until a forecasted recovery occurs. Expected credit losses
+are recorded as an allowance through “Other income (expense), net” on our consolidated statements of operations.
+
+Equity investments in private companies for which we do not have the ability to exercise significant influence are accounted for at cost, with
+adjustments for observable changes in prices or impairments, and are classified as “Other assets” on our consolidated balance sheets with
+adjustments recognized in “Other income (expense), net” on our consolidated statements of operations. Each reporting period, we perform a
+qualitative assessment to evaluate whether the investment is impaired. Our assessment includes a review of recent operating results and trends,
+recent sales/acquisitions of the investee securities, and other publicly available data. If the investment is impaired, we write it down to its
+estimated fair value. As of December 31, 2021 and 2022, these investments had a carrying value of $603 million and $715 million.
+
+Equity investments are accounted for using the equity method of accounting, or at fair value if we elect the fair value option, if the
+investment gives us the ability to exercise significant influence, but not control, over an investee. Equity-method
+
+
+#### 48
+
+
+## Page 49
+
+
+#### Table of Contents
+
+investments are included within “Other assets” on our consolidated balance sheets. Our share of the earnings or losses as reported by equity-
+method investees, amortization of basis differences, related gains or losses, and impairments, if any, are recognized in “Equity-method
+investment activity, net of tax” on our consolidated statements of operations. Each reporting period, we evaluate whether declines in fair value
+below carrying value are other-than-temporary and if so, we write down the investment to its estimated fair value.
+
+Equity investments that have readily determinable fair values, including investments for which we have elected the fair value option, are
+included in “Marketable securities” on our consolidated balance sheets and measured at fair value with changes recognized in “Other income
+(expense), net” on our consolidated statements of operations.
+
+
+#### Long-Lived Assets
+
+Long-lived assets, other than goodwill and indefinite-lived intangible assets, are reviewed for impairment whenever events or changes in
+circumstances indicate that the carrying amount of the assets might not be recoverable. Conditions that would necessitate an impairment
+assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an
+asset is used, or any other significant adverse change that would indicate that the carrying amount of an asset or group of assets may not be
+recoverable.
+
+For long-lived assets used in operations, including lease assets, impairment losses are only recorded if the asset’s carrying amount is not
+recoverable through its undiscounted, probability-weighted future cash flows. We measure the impairment loss based on the difference between
+the carrying amount and estimated fair value. Long-lived assets are considered held for sale when certain criteria are met, including when
+management has committed to a plan to sell the asset, the asset is available for sale in its immediate condition, and the sale is probable within
+one year of the reporting date. Assets held for sale are reported at the lower of cost or fair value less costs to sell. Assets held for sale were not
+significant as of December 31, 2021 and 2022.
+
+
+#### Accrued Expenses and Other
+
+Included in “Accrued expenses and other” on our consolidated balance sheets are liabilities primarily related to leases and asset retirement
+obligations, tax-related liabilities, current debt, payroll and related expenses, unredeemed gift cards, self-insurance liabilities, customer liabilities,
+marketing liabilities, acquired digital media content, and other operating expenses.
+
+As of December 31, 2021 and 2022, our liabilities for payroll related expenses were $ 7.4 billion and $7.7 billion and our liabilities for
+unredeemed gift cards were $5.2 billion and $5.4 billion. We reduce the liability for a gift card when redeemed by a customer. The portion of gift
+cards that we do not expect to be redeemed is recognized based on customer usage patterns.
+
+
+#### Self-Insurance Liabilities
+
+Although we maintain certain high-deductible, third-party insurance coverage for catastrophic losses, we effectively self-insure for exposure
+primarily related to workers’ compensation, employee health care benefits, general and product liability, and automobile liability, including liability
+resulting from third-party transportation service providers. We estimate self-insurance liabilities by considering historical claims experience,
+frequency and costs of claims, projected claims development, inflation, and other actuarial assumptions. Changes in the number or costs of
+claims, healthcare costs, judgment and settlement amounts, associated legal expenses, and other factors could cause actual results to differ
+materially from these estimates. As of December 31, 2021 and 2022, our total self-insurance liabilities were $2.2 billion and $4.0 billion and are
+included in “Accrued expenses and other” on our consolidated balance sheets. In the fourth quarter of 2022, we increased our reserves for
+general, product, and automobile liabilities by $1.3 billion primarily driven by changes in our estimates about the costs of asserted and
+unasserted claims, which was primarily recorded in “Cost of sales” on our consolidated statements of operations and impacted our North America
+segment.
+
+
+#### Unearned Revenue
+
+Unearned revenue is recorded when payments are received or due in advance of performing our service obligations and is recognized
+over the service period. Unearned revenue primarily relates to prepayments of AWS services and Amazon Prime memberships. Our total
+unearned revenue as of December 31, 2021 was $14.0 billion, of which $11.3 billion was recognized as revenue during the year ended
+December 31, 2022 and our total unearned revenue as of December 31, 2022 was $16.1 billion. Included in “Other long-term liabilities” on our
+consolidated balance sheets was $2.2 billion and $2.9 billion of unearned revenue as of December 31, 2021 and 2022.
+
+Additionally, we have performance obligations, primarily related to AWS, associated with commitments in customer contracts for future
+services that have not yet been recognized in our financial statements. For contracts with original terms that exceed one year, those
+commitments not yet recognized were $110.4 billion as of December 31, 2022. The weighted average remaining life of our long-term contracts is
+3.7 years. However, the amount and timing of revenue recognition is largely driven by customer usage, which can extend beyond the original
+contractual term.
+
+
+#### 49
+
+
+## Page 50
+
+### Table 50.1
+
+| Cash | $ | 10,942 |  | $ | — |  |  | $ | — |  | $ | 10,942 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Level 1 securities: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds | 20,312 |  |  | — |  |  |  | — |  |  | 20,312 |  |
+| Equity securities (1) |  |  |  |  |  |  |  |  |  |  | 1,646 |  |
+| Level 2 securities: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Foreign government and agency securities | 181 |  |  | — |  |  |  | — |  |  | 181 |  |
+| U.S. government and agency securities | 4,316 |  |  | 9 |  |  |  | (25) |  |  | 4,300 |  |
+| Corporate debt securities | 35,810 |  |  | 75 |  |  |  | (121) |  |  | 35,764 |  |
+| Asset-backed securities | 6,763 |  |  | 7 |  |  |  | (32) |  |  | 6,738 |  |
+| Other fixed income securities | 688 |  |  | 2 |  |  |  | (4) |  |  | 686 |  |
+| Equity securities (1)(3) |  |  |  |  |  |  |  |  |  |  | 15,740 |  |
+|  | $ | 79,012 |  | $ | 93 |  |  | $ | (182) |  | $ | 96,309 |
+| Less: Restricted cash, cash equivalents, and marketable securities (2) |  |  |  |  |  |  |  |  |  |  | (260) |  |
+| Total cash, cash equivalents, and marketable securities |  |  |  |  |  |  |  |  |  |  | $ | 96,049 |
 
 
 
 #### Table of Contents
 
 
-#### Free Cash Flow
+#### Other Long-Term Liabilities
 
-Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
-The following is a reconciliation of free cash flow to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating
-activities,” for 2021 and 2022 (in millions):
+Included in “Other long-term liabilities” on our consolidated balance sheets are liabilities primarily related to financing obligations, asset
+retirement obligations, unearned revenue, tax contingencies, digital video and music content, and deferred tax liabilities.
 
 
-#### Year Ended December 31,
+#### Foreign Currency
 
-2021
-2022
-Net cash provided by (used in) operating activities
+We have internationally-focused stores for which the net sales generated, as well as most of the related expenses directly incurred from
+those operations, are denominated in local functional currencies. The functional currency of our subsidiaries that either operate or support these
+stores is generally the same as the local currency. Assets and liabilities of these subsidiaries are translated into U.S. Dollars at period-end
+foreign exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation adjustments
+are included in “Accumulated other comprehensive income (loss),” a separate component of stockholders’ equity. Transaction gains and losses
+including intercompany transactions denominated in a currency other than the functional currency of the entity involved are included in “Other
+income (expense), net” on our consolidated statements of operations. In connection with the settlement and remeasurement of intercompany
+balances, we recorded gains (losses) of $(118) million, $19 million, and $386 million in 2020, 2021, and 2022.
+
+
+#### Note 2 — FINANCIAL INSTRUMENTS
+
+
+#### Cash, Cash Equivalents, Restricted Cash, and Marketable Securities
+
+As of December 31, 2021 and 2022, our cash, cash equivalents, restricted cash, and marketable securities primarily consisted of cash,
+AAA-rated money market funds, U.S. and foreign government and agency securities, other investment grade securities, and marketable equity
+securities. Cash equivalents and marketable securities are recorded at fair value. The following table summarizes, by major security type, our
+cash, cash equivalents, restricted cash, and marketable securities that are measured at fair value on a recurring basis and are categorized using
+the fair value hierarchy (in millions):
+
+
+#### December 31, 2021
+
+Cost or
+Amortized
+
+
+#### Cost
+
+Gross
+Unrealized
+
+
+#### Gains
+
+Gross
+Unrealized
+
+
+#### Losses
+
+Total
+Estimated
+Fair Value
+Cash
 $
-46,327 
+10,942 
 $
-46,752 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(55,396)
-(58,321)
-Free cash flow
+— 
 $
-(9,069)
+— 
 $
-(11,569)
+10,942 
+Level 1 securities:
 
-Net cash provided by (used in) investing activities
+Money market funds
+20,312 
+— 
+— 
+20,312 
+Equity securities (1)
+1,646 
+Level 2 securities:
+
+Foreign government and agency securities
+181 
+— 
+— 
+181 
+U.S. government and agency securities
+4,316 
+9 
+(25)
+4,300 
+Corporate debt securities
+35,810 
+75 
+(121)
+35,764 
+Asset-backed securities
+6,763 
+7 
+(32)
+6,738 
+Other fixed income securities
+688 
+2 
+(4)
+686 
+Equity securities (1)(3)
+15,740
+
 $
-(58,154)
+79,012 
 $
-(37,601)
-Net cash provided by (used in) financing activities
+93 
 $
-6,291 
+(182)
 $
-9,718
+96,309
 
-Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations
-
-Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by “Principal repayments of
-finance leases” and “Principal repayments of financing obligations.” Principal repayments of finance leases and financing obligations
-approximates the actual payments of cash for our finance leases and financing obligations. The following is a reconciliation of free cash flow less
-principal repayments of finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for 2021 and 2022 (in millions):
-
-
-#### Year Ended December 31,
-
-2021
-2022
-Net cash provided by (used in) operating activities
+Less: Restricted cash, cash equivalents, and marketable securities (2)
+(260)
+Total cash, cash equivalents, and marketable securities
 $
-46,327 
-$
-46,752 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(55,396)
-(58,321)
-Free cash flow
-(9,069)
-(11,569)
-Principal repayments of finance leases
-(11,163)
-(7,941)
-Principal repayments of financing obligations
-(162)
-(248)
-Free cash flow less principal repayments of finance leases and financing obligations
-$
-(20,394)
-$
-(19,758)
-
-Net cash provided by (used in) investing activities
-$
-(58,154)
-$
-(37,601)
-Net cash provided by (used in) financing activities
-$
-6,291 
-$
-9,718
+96,049
 
 
-#### 28
+#### 50
 
 
-## Page 29
+## Page 51
 
-### Table 29.1
+### Table 51.1
 
-| Net cash provided by (used in) operating activities | $ | 46,327 |  | $ | 46,752 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (55,396) |  |  | (58,321) |  |
-| Free cash flow | (9,069) |  |  | (11,569) |  |
-| Equipment acquired under finance leases (1) | (4,422) |  |  | (299) |  |
-| Principal repayments of all other finance leases (2) | (687) |  |  | (670) |  |
-| Principal repayments of financing obligations | (162) |  |  | (248) |  |
-| Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations | $ | (14,340) |  | $ | (12,786) |
-| Net cash provided by (used in) investing activities | $ | (58,154) |  | $ | (37,601) |
-| Net cash provided by (used in) financing activities | $ | 6,291 |  | $ | 9,718 |
+| Cash | $ | 10,666 |  | $ | — |  | $ | — | $ | 10,666 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Level 1 securities: |  |  |  |  |  |  |  |  |  |  |
+| Money market funds | 27,899 |  |  | — |  |  | — |  | 27,899 |  |
+| Equity securities (1)(3) |  |  |  |  |  |  |  |  | 3,709 |  |
+| Level 2 securities: |  |  |  |  |  |  |  |  |  |  |
+| Foreign government and agency securities | 537 |  |  | — |  |  | (2) |  | 535 |  |
+| U.S. government and agency securities | 2,301 |  |  | — |  |  | (155) |  | 2,146 |  |
+| Corporate debt securities | 23,111 |  |  | — |  |  | (484) |  | 22,627 |  |
+| Asset-backed securities | 2,721 |  |  | — |  |  | (149) |  | 2,572 |  |
+| Other fixed income securities | 249 |  |  | — |  |  | (12) |  | 237 |  |
+|  | $ | 67,484 |  | $ | — |  | $ | (802) | $ | 70,391 |
+| Less: Restricted cash, cash equivalents, and marketable securities (2) |  |  |  |  |  |  |  |  | (365) |  |
+| Total cash, cash equivalents, and marketable securities |  |  |  |  |  |  |  |  | $ | 70,026 |
 
 
-### Table 29.2
+### Table 51.2
 
-|  | As Reported |  |  | Exchange Rate Effect (1) |  |  | At Prior Year Rates (2) |  |  | As Reported |  |  | Exchange Rate Effect (1) |  |  | At Prior Year Rates (2) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Net sales | $ | 469,822 |  | $ | (3,804) |  | $ | 466,018 |  | $ | 513,983 |  | $ | 15,495 |  | $ | 529,478 |
-| Operating expenses | 444,943 |  |  | (3,653) |  |  | 441,290 |  |  | 501,735 |  |  | 16,356 |  |  | 518,091 |  |
-| Operating income | 24,879 |  |  | (151) |  |  | 24,728 |  |  | 12,248 |  |  | (861) |  |  | 11,387 |  |
+|  | 2020 |  |  | 2021 |  | 2022 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Realized gains | $ | 92 |  | $ | 85 | $ 43 |
+| Realized losses | 56 |  |  | 38 |  | 341 |
+
+
+### Table 51.3
+
+| Due within one year | $ | 46,854 | $ 46,782 |
+| --- | --- | --- | --- |
+| Due after one year through five years | 7,622 |  | 7,047 |
+| Due after five years through ten years | 602 |  | 565 |
+| Due after ten years | 1,740 |  | 1,622 |
+| Total | $ | 56,818 | $ 56,016 |
 
 
 
 #### Table of Contents
 
-Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations
 
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash
-flow reduced by equipment acquired under finance leases, which is included in “Property and equipment acquired under finance leases, net of
-remeasurements and modifications,” principal repayments of all other finance lease liabilities, which is included in “Principal repayments of
-finance leases,” and “Principal repayments of financing obligations.” All other finance lease liabilities and financing obligations consists of
-property. In this measure, equipment acquired under finance leases is reflected as if these assets had been purchased with cash, which is not
-the case as these assets have been leased. The following is a reconciliation of free cash flow less equipment finance leases and principal
-repayments of all other finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for 2021 and 2022 (in millions):
+#### December 31, 2022
+
+Cost or
+Amortized
 
 
-#### Year Ended December 31,
+#### Cost
 
-2021
-2022
-Net cash provided by (used in) operating activities
-$
-46,327 
-$
-46,752 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(55,396)
-(58,321)
-Free cash flow
-(9,069)
-(11,569)
-Equipment acquired under finance leases (1)
-(4,422)
-(299)
-Principal repayments of all other finance leases (2)
-(687)
-(670)
-Principal repayments of financing obligations
-(162)
-(248)
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and
-financing obligations
-$
-(14,340)
-$
-(12,786)
+Gross
+Unrealized
 
-Net cash provided by (used in) investing activities
+
+#### Gains
+
+Gross
+Unrealized
+
+
+#### Losses
+
+Total
+Estimated
+Fair Value
+Cash
 $
-(58,154)
+10,666 
 $
-(37,601)
-Net cash provided by (used in) financing activities
+— 
 $
-6,291 
+— 
 $
-9,718
+10,666 
+Level 1 securities:
+
+Money market funds
+27,899 
+— 
+— 
+27,899 
+Equity securities (1)(3)
+3,709 
+Level 2 securities:
+
+Foreign government and agency securities
+537 
+— 
+(2)
+535 
+U.S. government and agency securities
+2,301 
+— 
+(155)
+2,146 
+Corporate debt securities
+23,111 
+— 
+(484)
+22,627 
+Asset-backed securities
+2,721 
+— 
+(149)
+2,572 
+Other fixed income securities
+249 
+— 
+(12)
+237
+
+$
+67,484 
+$
+— 
+$
+(802)
+$
+70,391
+
+Less: Restricted cash, cash equivalents, and marketable securities (2)
+(365)
+Total cash, cash equivalents, and marketable securities
+$
+70,026
 
 ___________________
-(1) For the year ended December 31, 2021 and 2022, this amount relates to equipment included in “Property and equipment acquired under
+(1) The related unrealized gain (loss) recorded in “Other income (expense), net” was $ 448 million, $11.6 billion, and $(13.6) billion for the years
 
-finance leases, net of remeasurements and modifications” of $7,061 million and $675 million.
-(2) For the year ended December 31, 2021 and 2022, this amount relates to property included in “Principal repayments of finance leases” of
+ended December 31, 2020, 2021, and 2022.
+(2) We are required to pledge or otherwise restrict a portion of our cash, cash equivalents, and marketable fixed income securities primarily as
 
-$11,163 million and $7,941 million.
+collateral for real estate, amounts due to third-party sellers in certain jurisdictions, debt, and standby and trade letters of credit. We classify
+cash, cash equivalents, and marketable fixed income securities with use restrictions of less than twelve months as “Accounts receivable, net
+and other” and of twelve months or longer as non-current “Other assets” on our consolidated balance sheets. See “Note 7 — Commitments
+and Contingencies.”
+(3) Our equity investment in Rivian had a fair value of $ 15.6 billion and $2.9 billion as of December 31, 2021 and December 31, 2022,
 
-All of these free cash flows measures have limitations as they omit certain components of the overall cash flow statement and do not
-represent the residual cash flow available for discretionary expenditures. For example, these measures of free cash flows do not incorporate the
-portion of payments representing principal reductions of debt or cash payments for business acquisitions. Additionally, our mix of property and
-equipment acquisitions with cash or other financing options may change over time. Therefore, we believe it is important to view free cash flows
-measures only as a complement to our entire consolidated statements of cash flows.
+respectively. The investment was subject to regulatory sales restrictions resulting in a discount for lack of marketability of approximately $800
+million as of December 31, 2021, which expired in Q1 2022.
 
-
-#### Effect of Foreign Exchange Rates
-
-Information regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and operating
-income is provided to show reported period operating results had the foreign exchange rates remained the same as those in effect in the
-comparable prior year period. The effect on our net sales, operating expenses, and operating income from changes in our foreign exchange
-rates versus the U.S. Dollar is as follows (in millions):
-
-Year Ended December 31, 2021
-Year Ended December 31, 2022
-
-As
-Reported
+The following table summarizes gross gains and gross losses realized on sales of marketable fixed income securities (in millions):
 
 
-#### Exchange
+#### Year Ended December 31,
 
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-
-As
-Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-Net sales
-$ 469,822 
+2020
+2021
+2022
+Realized gains
 $
-(3,804)
-$ 466,018 
-$ 513,983 
+92 
 $
-15,495 
-$ 529,478 
-Operating expenses
-444,943 
-(3,653)
-441,290 
-501,735 
-16,356 
-518,091 
-Operating income
-24,879 
-(151)
-24,728 
-12,248 
-(861)
-11,387
+85 
+$
+43 
+Realized losses
+56 
+38 
+341
 
-___________________
-(1) Represents the change in reported amounts resulting from changes in foreign exchange rates from those in effect in the comparable prior
-
-year period for operating results.
-(2) Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the
-
-comparable prior year period for operating results.
+The following table summarizes the remaining contractual maturities of our cash equivalents and marketable fixed income securities as of
+December 31, 2022 (in millions):
 
 
-#### 29
+#### Amortized
 
 
-## Page 30
+#### Cost
+
+Estimated
+Fair Value
+Due within one year
+$
+46,854 
+$
+46,782 
+Due after one year through five years
+7,622 
+7,047 
+Due after five years through ten years
+602 
+565 
+Due after ten years
+1,740 
+1,622 
+Total
+$
+56,818 
+$
+56,016
+
+Actual maturities may differ from the contractual maturities because borrowers may have certain prepayment conditions.
+
+
+#### 51
+
+
+## Page 52
+
+### Table 52.1
+
+| Cash and cash equivalents | $ | 36,220 |  | $ | 53,888 |
+| --- | --- | --- | --- | --- | --- |
+| Restricted cash included in accounts receivable, net and other | 242 |  |  | 358 |  |
+| Restricted cash included in other assets | 15 |  |  | 7 |  |
+| Total cash, cash equivalents, and restricted cash shown in the consolidated statements of cash flows | $ | 36,477 |  | $ | 54,253 |
+
+
+### Table 52.2
+
+| Gross property and equipment (1): |  |  |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 52.3
+
+| Equipment | 128,683 |  | 157,458 |
+| --- | --- | --- | --- |
+
+
+
+### Table 52.4
+
+| Construction in progress | 24,895 |  | 30,020 |
+| --- | --- | --- | --- |
+
+
+
+### Table 52.5
+
+| Total accumulated depreciation and amortization (1) | 78,519 |  | 97,015 |
+| --- | --- | --- | --- |
+
+
 
 
 #### Table of Contents
 
 
-#### Guidance
+#### Consolidated Statements of Cash Flows Reconciliation
 
-We provided guidance on February 2, 2023, in our earnings release furnished on Form 8-K as set forth below. These forward-looking
-statements reflect Amazon.com’s expectations as of February 2, 2023, and are subject to substantial uncertainty. Our results are inherently
-unpredictable and may be materially affected by many factors, such as uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations
-in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and spending (including the impact of
-recessionary fears), inflation, interest rates, regional labor market and global supply chain constraints, world events, the rate of growth of the
-Internet, online commerce, and cloud services, as well as those outlined in Item 1A of Part I, “Risk Factors.”
+The following table provides a reconciliation of the amount of cash, cash equivalents, and restricted cash reported within the consolidated
+balance sheets to the total of the same such amounts shown in the consolidated statements of cash flows (in millions):
+
+December 31, 2021
+December 31, 2022
+Cash and cash equivalents
+$
+36,220 
+$
+53,888 
+Restricted cash included in accounts receivable, net and other
+242 
+358 
+Restricted cash included in other assets
+15 
+7 
+Total cash, cash equivalents, and restricted cash shown in the consolidated statements of cash flows $
+36,477 
+$
+54,253
 
 
-#### First Quarter 2023 Guidance
-
-•
-Net sales are expected to be between $121.0 billion and $126.0 billion, or to grow between 4% and 8% compared with first quarter
-2022. This guidance anticipates an unfavorable impact of approximately 210 basis points from foreign exchange rates.
-
-•
-Operating income is expected to be between $0 and $4.0 billion, compared with $3.7 billion in first quarter 2022.
-
-•
-This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are
-concluded.
+#### Note 3 — PROPERTY AND EQUIPMENT
 
 
-#### 30
+#### Property and equipment, at cost, consisted of the following (in millions):
+
+
+#### December 31,
+
+2021
+2022
+Gross property and equipment (1):
+
+Land and buildings
+$
+81,104 
+$
+91,650 
+Equipment
+128,683 
+157,458 
+Other assets
+4,118 
+4,602 
+Construction in progress
+24,895 
+30,020 
+Gross property and equipment
+238,800 
+283,730 
+Total accumulated depreciation and amortization (1)
+78,519 
+97,015 
+Total property and equipment, net
+$
+160,281 
+$
+186,715
+
+__________________
+(1) Includes the original cost and accumulated depreciation of fully-depreciated assets.
+
+Depreciation and amortization expense on property and equipment was $ 16.2 billion, $22.9 billion, and $24.9 billion which includes
+amortization of property and equipment acquired under finance leases of $8.5 billion, $9.9 billion, and $6.1 billion for 2020, 2021, and 2022.
+
+
+#### 52
+
+
+## Page 53
+
+### Table 53.1
+
+| Operating lease cost | $ | 5,019 |  | $ | 7,199 |  | $ | 8,847 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.2
+
+| Amortization of lease assets | 8,452 |  | 9,857 |  | 6,097 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.3
+
+| Finance lease cost | 9,069 |  | 10,330 |  | 6,458 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.4
+
+| Total lease cost | $ | 15,326 |  | $ | 19,085 |  | $ | 17,157 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.5
+
+| Weighted-average remaining lease term – operating leases | 11.3 years |  | 11.6 years |
+| --- | --- | --- | --- |
+
+
+
+### Table 53.6
+
+| Weighted-average discount rate – operating leases | 2.2 | % |  | 2.8 | % |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.7
+
+| Gross lease liabilities | $ | 66,269 |  | $ | 25,866 |  | $ | 92,135 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.8
+
+| Present value of lease liabilities | 58,330 |  | 23,753 |  | 82,083 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.9
+
+| Total long-term lease liabilities | $ | 51,981 |  | $ | 15,670 |  | $ | 67,651 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.10
+
+| Gross lease liabilities | $ | 81,273 |  | $ | 18,019 |  | $ | 99,292 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.11
+
+| Present value of lease liabilities | 69,040 |  | 15,783 |  | 84,823 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.12
+
+| Total long-term lease liabilities | $ | 61,582 |  | $ | 11,386 |  | $ | 72,968 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Note 4 — LEASES
+
+We have entered into non-cancellable operating and finance leases for fulfillment, delivery, office, data center, physical store, and sortation
+facilities as well as server and networking equipment, vehicles, and aircraft. Gross assets acquired under finance leases, inclusive of those where
+title transfers at the end of the lease, are recorded in “Property and equipment, net” and were $72.2 billion and $68.0 billion as of December 31,
+2021 and 2022. Accumulated amortization associated with finance leases was $43.4 billion and $45.2 billion as of December 31, 2021 and 2022.
+
+Lease cost recognized in our consolidated statements of operations is summarized as follows (in millions):
+
+
+#### Year Ended December 31,
+
+2020
+2021
+2022
+Operating lease cost
+$
+5,019 
+$
+7,199 
+$
+8,847 
+Finance lease cost:
+
+Amortization of lease assets
+8,452 
+9,857 
+6,097 
+Interest on lease liabilities
+617 
+473 
+361 
+Finance lease cost
+9,069 
+10,330 
+6,458 
+Variable lease cost
+1,238 
+1,556 
+1,852 
+Total lease cost
+$
+15,326 
+$
+19,085 
+$
+17,157
+
+Other information about lease amounts recognized in our consolidated financial statements is as follows:
+
+December 31, 2021
+December 31, 2022
+
+Weighted-average remaining lease term – operating leases
+11.3 years
+11.6 years
+Weighted-average remaining lease term – finance leases
+8.1 years
+10.3 years
+Weighted-average discount rate – operating leases
+2.2 %
+2.8 %
+Weighted-average discount rate – finance leases
+2.0 %
+2.3 %
+
+
+#### Our lease liabilities were as follows (in millions):
+
+
+#### December 31, 2021
+
+
+#### Operating
+
+Leases
+Finance Leases
+Total
+
+Gross lease liabilities
+$
+66,269 
+$
+25,866 
+$
+92,135 
+Less: imputed interest
+(7,939)
+(2,113)
+(10,052)
+Present value of lease liabilities
+58,330 
+23,753 
+82,083 
+Less: current portion of lease liabilities
+(6,349)
+(8,083)
+(14,432)
+Total long-term lease liabilities
+$
+51,981 
+$
+15,670 
+$
+67,651
+
+
+#### December 31, 2022
+
+
+#### Operating
+
+Leases
+Finance Leases
+Total
+
+Gross lease liabilities
+$
+81,273 
+$
+18,019 
+$
+99,292 
+Less: imputed interest
+(12,233)
+(2,236)
+(14,469)
+Present value of lease liabilities
+69,040 
+15,783 
+84,823 
+Less: current portion of lease liabilities
+(7,458)
+(4,397)
+(11,855)
+Total long-term lease liabilities
+$
+61,582 
+$
+11,386 
+$
+72,968
+
+
+#### 53
+
+
+## Page 54
+
+### Table 54.1
+
+| Goodwill - January 1, 2021 | $ | 12,527 |  | $ | 1,288 |  | $ | 1,202 |  | $ | 15,017 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New acquisitions | 230 |  |  | 60 |  |  | 76 |  |  | 366 |  |
+| Other adjustments (1) | 1 |  |  | (21) |  |  | 8 |  |  | (12) |  |
+| Goodwill - December 31, 2021 | 12,758 |  |  | 1,327 |  |  | 1,286 |  |  | 15,371 |  |
+| New acquisitions | 3,943 |  |  | 1,054 |  |  | — |  |  | 4,997 |  |
+| Other adjustments (1) | (80) |  |  | 30 |  |  | (30) |  |  | (80) |  |
+| Goodwill - December 31, 2022 | $ | 16,621 |  | $ | 2,411 |  | $ | 1,256 |  | $ | 20,288 |
+
+
+
+#### Table of Contents
+
+
+#### Note 5 — ACQUISITIONS, GOODWILL, AND ACQUIRED INTANGIBLE ASSETS
+
+
+#### 2020 Acquisition Activity
+
+During 2020, we acquired certain companies for an aggregate purchase price of $ 1.2 billion, net of cash acquired, of which $ 1.1 billion was
+capitalized to in-process research and development intangible assets (“IPR&D”).
+
+
+#### 2021 Acquisition Activity
+
+During 2021, we acquired certain companies for an aggregate purchase price of $ 496 million, net of cash acquired.
+
+
+#### 2022 Acquisition Activity
+
+On March 17, 2022, we acquired MGM Holdings Inc., for cash consideration of approximately $ 6.1 billion, net of cash acquired, to provide
+more digital media content options for customers. We also assumed $2.5 billion of debt, which we repaid immediately after closing. The acquired
+assets primarily consist of $3.4 billion of video content and $ 4.9 billion of goodwill.
+
+During 2022, we also acquired certain other companies for an aggregate purchase price of $ 141 million, net of cash acquired.
+
+Pro forma results of operations have not been presented because the effects of the 2022 acquisitions, individually and in the aggregate,
+were not material to our consolidated results of operations. Acquisition-related costs were expensed as incurred and were not significant.
+
+
+#### Goodwill
+
+The goodwill of the acquired companies is primarily related to expected improvements in technology performance and functionality, as well
+as sales growth from future product and service offerings and new customers, together with certain intangible assets that do not qualify for
+separate recognition. The goodwill of the acquired companies is generally not deductible for tax purposes. The following summarizes our
+goodwill activity in 2021 and 2022 by segment (in millions):
+
+North
+America
+International
+AWS
+Consolidated
+Goodwill - January 1, 2021
+$
+12,527 
+$
+1,288 
+$
+1,202 
+$
+15,017 
+New acquisitions
+230 
+60 
+76 
+366 
+Other adjustments (1)
+1 
+(21)
+8 
+(12)
+Goodwill - December 31, 2021
+12,758 
+1,327 
+1,286 
+15,371 
+New acquisitions
+3,943 
+1,054 
+— 
+4,997 
+Other adjustments (1)
+(80)
+30 
+(30)
+(80)
+Goodwill - December 31, 2022
+$
+16,621 
+$
+2,411 
+$
+1,256 
+$
+20,288
+
+___________________
+(1) Primarily includes changes in foreign exchange rates.
+
+
+#### 54
+
+
+## Page 55
+
+### Table 55.1
+
+| Finite-lived intangible assets (2): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marketing-related | $ | 2,286 |  | $ | (548) |  | $ | 1,738 |  | $ | 2,407 |  | $ | (601) |  | $ | 1,806 |  | 18.6 |
+| Contract-based | 2,327 |  |  | (565) |  |  | 1,762 |  |  | 3,661 |  |  | (813) |  |  | 2,848 |  |  | 12.8 |
+| Technology- and content- based | 976 |  |  | (610) |  |  | 366 |  |  | 883 |  |  | (643) |  |  | 240 |  |  | 3.2 |
+| Customer-related | 197 |  |  | (103) |  |  | 94 |  |  | 184 |  |  | (128) |  |  | 56 |  |  | 2.2 |
+| Total finite-lived intangible assets | $ | 5,786 |  | $ | (1,826) |  | $ | 3,960 |  | $ | 7,135 |  | $ | (2,185) |  | $ | 4,950 |  | 14.4 |
+| IPR&D and other (3) | $ | 1,147 |  |  |  |  | $ | 1,147 |  | $ | 1,147 |  |  |  |  | $ | 1,147 |  |  |
+| Total acquired intangibles | $ | 6,933 |  | $ | (1,826) |  | $ | 5,107 |  | $ | 8,282 |  | $ | (2,185) |  | $ | 6,097 |  |  |
+
+
+### Table 55.2
+
+| 2024 | 456 |
+| --- | --- |
+
+
+
+### Table 55.3
+
+| 2026 | 324 |
+| --- | --- |
+
+
+
+### Table 55.4
+
+| Thereafter | 2,955 |
+| --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Intangible Assets
+
+Acquired identifiable intangible assets are valued primarily by using discounted cash flows. These assets are included within “Other assets”
+on our consolidated balance sheets and consist of the following (in millions):
+
+
+#### December 31,
+
+2021
+2022
+
+Acquired
+Intangibles,
+
+
+#### Gross (1)
+
+Accumulated
+Amortization (1)
+
+Acquired
+Intangibles,
+
+
+#### Net
+
+Acquired
+Intangibles,
+
+
+#### Gross (1)
+
+Accumulated
+Amortization (1)
+
+Acquired
+Intangibles,
+
+
+#### Net
+
+Weighted
+Average Life
+
+Remaining
+Finite-lived intangible assets (2):
+
+Marketing-related
+$
+2,286 
+$
+(548)
+$
+1,738 
+$
+2,407 
+$
+(601)
+$
+1,806 
+18.6
+Contract-based
+2,327 
+(565)
+1,762 
+3,661 
+(813)
+2,848 
+12.8
+Technology- and content-
+based
+976 
+(610)
+366 
+883 
+(643)
+240 
+3.2
+Customer-related
+197 
+(103)
+94 
+184 
+(128)
+56 
+2.2
+Total finite-lived
+intangible assets
+$
+5,786 
+$
+(1,826)
+$
+3,960 
+$
+7,135 
+$
+(2,185)
+$
+4,950 
+14.4
+IPR&D and other (3)
+$
+1,147 
+ 
+$
+1,147 
+$
+1,147 
+ 
+$
+1,147 
+Total acquired
+intangibles
+$
+6,933 
+$
+(1,826)
+$
+5,107 
+$
+8,282 
+$
+(2,185)
+$
+6,097
+
+___________________
+(1) Excludes the original cost and accumulated amortization of fully-amortized intangibles.
+(2) Finite-lived intangible assets, excluding acquired video content, have estimated useful lives of between one and twenty-five years, and are
+
+being amortized to operating expenses on a straight-line basis.
+(3) Intangible assets acquired in a business combination that are in-process and used in research and development activities are considered
+
+indefinite-lived until the completion or abandonment of the research and development efforts. Once the research and development efforts are
+completed, we determine the useful life and begin amortizing the assets.
+
+Amortization expense for acquired finite-lived intangibles was $ 509 million, $512 million, and $604 million in 2020, 2021, and 2022.
+Expected future amortization expense of acquired finite-lived intangible assets as of December 31, 2022 is as follows (in millions):
+
+
+#### Year Ended December 31,
+
+2023
+$
+530 
+2024
+456 
+2025
+371 
+2026
+324 
+2027
+314 
+Thereafter
+2,955
+
+$
+4,950
+
+
+#### 55
+
+
+## Page 69
+
+
+#### Table of Contents
+
+Item 9.
+Changes in and Disagreements with Accountants On Accounting and Financial Disclosure
+
+None.
+
+Item 9A.
+Controls and Procedures
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+We carried out an evaluation required by the Securities Exchange Act of 1934 (the “1934 Act”), under the supervision and with the
+participation of our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures, as defined in Rule 13a-15(e) of the 1934 Act, as of December 31, 2022. Based on this evaluation, our principal
+executive officer and principal financial officer concluded that, as of December 31, 2022, our disclosure controls and procedures were effective to
+provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the 1934 Act is recorded,
+processed, summarized, and reported within the time periods specified in the SEC’s rules and forms and to provide reasonable assurance that
+such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as
+appropriate to allow timely decisions regarding required disclosure.
+
+
+#### Management’s Report on Internal Control over Financial Reporting
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f)
+of the 1934 Act. Management has assessed the effectiveness of our internal control over financial reporting as of December 31, 2022 based on
+criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway
+Commission. As a result of this assessment, management concluded that, as of December 31, 2022, our internal control over financial reporting
+was effective in providing reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles. Ernst & Young has independently assessed the effectiveness of
+our internal control over financial reporting and its report is included below.
+
+
+#### Changes in Internal Control Over Financial Reporting
+
+There were no changes in our internal control over financial reporting during the quarter ended December 31, 2022 that materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Limitations on Controls
+
+Our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of
+achieving their objectives as specified above. Management does not expect, however, that our disclosure controls and procedures or our internal
+control over financial reporting will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based
+upon certain assumptions and can provide only reasonable, not absolute, assurance that its objectives will be met. Further, no evaluation of
+controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if
+any, within the Company have been detected.
+
+
+#### 69
+
+
+## Page 70
+
+
+#### Table of Contents
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+The Board of Directors and Shareholders
+Amazon.com, Inc.
+
+
+#### Opinion on Internal Control Over Financial Reporting
+
+We have audited Amazon.com, Inc.’s internal control over financial reporting as of December 31, 2022, based on criteria established in
+Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework)
+(the COSO criteria). In our opinion, Amazon.com, Inc. (the Company) maintained, in all material respects, effective internal control over financial
+reporting as of December 31, 2022, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the
+consolidated balance sheets of the Company as of December 31, 2022 and 2021, and the related consolidated statements of operations,
+comprehensive income (loss), stockholders’ equity, and cash flows for each of the three years in the period ended December 31, 2022 and the
+related notes and our report dated February 2, 2023 expressed an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the
+effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial
+Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a
+public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S.
+federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness
+exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other
+procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in
+reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and
+directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate.
+
+
+#### /s/ Ernst & Young LLP
+
+Seattle, Washington
+February 2, 2023
+
+
+#### 70
+
+
+## Page 71
+
+
+#### Table of Contents
+
+
+#### Other Information
+
+Not applicable.
+
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+
+### PART III
+
+
+#### Directors, Executive Officers, and Corporate Governance
+
+Information regarding our Executive Officers required by Item 10 of Part III is set forth in Item 1 of Part I “Business — Information About Our
+Executive Officers.” Information required by Item 10 of Part III regarding our Directors and any material changes to the process by which security
+holders may recommend nominees to the Board of Directors is included in our Proxy Statement relating to our 2023 Annual Meeting of
+Shareholders, and is incorporated herein by reference. Information relating to our Code of Business Conduct and Ethics and, to the extent
+applicable, compliance with Section 16(a) of the 1934 Act is set forth in our Proxy Statement relating to our 2023 Annual Meeting of Shareholders
+and is incorporated herein by reference. To the extent permissible under Nasdaq rules, we intend to disclose amendments to our Code of
+Business Conduct and Ethics, as well as waivers of the provisions thereof, on our investor relations website under the heading “Corporate
+Governance” at amazon.com/ir.
+
+
+#### Executive Compensation
+
+Information required by Item 11 of Part III is included in our Proxy Statement relating to our 2023 Annual Meeting of Shareholders and is
+incorporated herein by reference.
+
+Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters
+
+Information required by Item 12 of Part III is included in our Proxy Statement relating to our 2023 Annual Meeting of Shareholders and is
+incorporated herein by reference.
+
+
+#### Certain Relationships and Related Transactions, and Director Independence
+
+Information required by Item 13 of Part III is included in our Proxy Statement relating to our 2023 Annual Meeting of Shareholders and is
+incorporated herein by reference.
+
+
+#### Principal Accountant Fees and Services
+
+Information required by Item 14 of Part III is included in our Proxy Statement relating to our 2023 Annual Meeting of Shareholders and is
+incorporated herein by reference.
+
+
+#### 71
+
+
+## Page 72
+
+
+#### Table of Contents
+
+
+### PART IV
+
+Item 15.
+Exhibits, Financial Statement Schedules
+
+
+#### (a) List of Documents Filed as a Part of This Report:
+
+
+#### (1) Index to Consolidated Financial Statements:
+
+
+#### Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
+
+Consolidated Statements of Cash Flows for each of the three years ended December 31, 2022
+
+Consolidated Statements of Operations for each of the three years ended December 31, 2022
+
+Consolidated Statements of Comprehensive Income (Loss) for each of the three years ended December 31, 2022
+
+
+#### Consolidated Balance Sheets as of December 31, 2021 and 2022
+
+Consolidated Statements of Stockholders’ Equity for each of the three years ended December 31, 2022
+
+
+#### Notes to Consolidated Financial Statements
+
+
+#### Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
+
+
+#### (2) Index to Financial Statement Schedules:
+
+All schedules have been omitted because the required information is included in the consolidated financial statements or the
+notes thereto, or because it is not required.
+
+
+#### (3) Index to Exhibits
+
+See exhibits listed under Part (b) below.
+
+
+#### (b) Exhibits:
+
+Exhibit Number
+Description
+
+3.1
+Amended and Restated Certificate of Incorporation of Amazon.com, Inc. (incorporated by reference to the Company’s Current
+Report on Form 8-K, filed May 27, 2022).
+
+3.2
+Amended and Restated Bylaws of Amazon.com, Inc. (incorporated by reference to the Company’s Current Report on Form 8-K,
+filed January 6, 2023).
+
+4.1
+Indenture, dated as of November 29, 2012, between Amazon.com, Inc. and Wells Fargo Bank, National Association, as trustee
+(incorporated by reference to the Company’s Current Report on Form 8-K, filed November 29, 2012).
+
+4.2
+Supplemental Indenture, dated as of April 13, 2022, among Amazon.com, Inc., Wells Fargo Bank, National Association, as prior
+trustee, and Computershare Trust Company, National Association, as successor trustee, containing Form of 2.730% Note due
+2024, Form of 3.000% Note due 2025, Form of 3.300% Note due 2027, Form of 3.450% Note due 2029, Form of 3.600% Note
+due 2032, Form of 3.950% Note due 2052, and Form of 4.100% Note due 2062 (incorporated by reference to the Company’s
+Current Report on Form 8-K, filed April 13, 2022).
+
+4.3
+Officers’ Certificate of Amazon.com, Inc., dated as of December 5, 2014, containing Form of 2.600% Note due 2019, Form of
+3.300% Note due 2021, Form of 3.800% Note due 2024, Form of 4.800% Note due 2034, and Form of 4.950% Note due 2044
+(incorporated by reference to the Company’s Current Report on Form 8-K, filed December 5, 2014).
+
+4.4
+Officers’ Certificate of Amazon.com, Inc., dated as of August 22, 2017, containing Form of 1.900% Note due 2020, Form of
+2.400% Note due 2023, Form of 2.800% Note due 2024, Form of 3.150% Note due 2027, Form of 3.875% Note due 2037, Form
+of 4.050% Note due 2047, and Form of 4.250% Note due 2057 (incorporated by reference to the Company’s Current Report on
+Form 8-K, filed August 22, 2017).
+
+4.5
+Officers’ Certificate of Amazon.com, Inc., dated as of December 20, 2017, containing Form of 5.200% Note due 2025
+(incorporated by reference to the Company’s Current Report on Form 8-K, filed December 20, 2017).
+
+
+#### 72
+
+
+## Page 73
+
+
+#### Table of Contents
+
+4.6
+Officers’ Certificate of Amazon.com, Inc., dated as of June 3, 2020, containing Form of 0.400% Note due 2023, Form of 0.800%
+Note due 2025, Form of 1.200% Note due 2027, Form of 1.500% Note due 2030, Form of 2.500% Note due 2050, and Form of
+2.700% Note due 2060 (incorporated by reference to the Company’s Current Report on Form 8-K, filed June 3, 2020).
+
+4.7
+Officers’ Certificate of Amazon.com, Inc., dated as of May 12, 2021, containing Form of 0.250% Note due 2023, Form of 0.450%
+Note due 2024, Form of 1.000% Note due 2026, Form of 1.650% Note due 2028, Form of 2.100% Note due 2031, Form of
+2.875% Note due 2041, Form of 3.100% Note due 2051, and Form of 3.250% Note due 2061 (incorporated by reference to the
+Company’s Current Report on Form 8-K, filed May 12, 2021).
+
+4.8
+Officers’ Certificate of Amazon.com, Inc., dated as of December 1, 2022, containing Form of 4.700% Note due 2024, Form of
+4.600% Note due 2025, Form of 4.550% Note due 2027, Form of 4.650% Note due 2029, and Form of 4.700% Note due 2032
+(incorporated by reference to the Company’s Current Report on Form 8-K, filed December 1, 2022).
+
+4.9
+Description of Securities (incorporated by reference to the Company’s Annual Report on Form 10-K for the Year ended
+December 31, 2019).
+
+10.1†
+1997 Stock Incentive Plan (amended and restated) (incorporated by reference to the Company’s Quarterly Report on Form 10-Q
+for the Quarter ended June 30, 2022).
+
+10.2†
+1999 Nonofficer Employee Stock Option Plan (amended and restated) (incorporated by reference to the Company’s Quarterly
+Report on Form 10-Q for the Quarter ended June 30, 2022).
+
+10.3†
+Form of Indemnification Agreement between Amazon.com, Inc. and each of its Directors (incorporated by reference to Exhibit
+10.1 to the Company’s Registration Statement on Form S-1 (Registration No. 333-23795) filed March 24, 1997, as amended on
+April 21, 1997).
+
+10.4†
+Form of Restricted Stock Unit Agreement for Officers and Employees (incorporated by reference to the Company’s Annual Report
+on Form 10-K for the Year ended December 31, 2002).
+
+10.5†
+Form of Restricted Stock Unit Agreement for Directors (incorporated by reference to the Company’s Annual Report on Form 10-K
+for the Year ended December 31, 2002).
+
+10.6†
+Form of Restricted Stock Agreement (incorporated by reference to the Company’s Annual Report on Form 10-K for the Year
+ended December 31, 2001).
+
+10.7†
+Form of Global Restricted Stock Unit Award Agreement for Executive Officers (incorporated by reference to the Company’s
+Annual Report on Form 10-K for the Year ended December 31, 2021).
+
+10.8
+Amended and Restated Credit Agreement, dated as of March 29, 2022, among Amazon.com, Inc., JPMorgan Chase Bank, N.A.,
+as administrative agent, and the other lenders party thereto (incorporated by reference to the Company’s Quarterly Report on
+Form 10-Q for the Quarter ended March 31, 2022).
+
+10.9
+364-Day Revolving Credit Agreement, dated as of November 18, 2022, among Amazon.com, Inc., JPMorgan Chase Bank, N.A.,
+as administrative agent, and the other lenders party thereto (incorporated by reference to the Company’s Current Report on Form
+8-K, filed November 18, 2022).
+
+10.10
+Term Loan Agreement, dated as of January 3, 2023, among Amazon.com, Inc., Toronto Dominion (Texas) LLC, as administrative
+agent, and the other lenders party thereto (incorporated by reference to the Company’s Current Report on Form 8-K, filed January
+3, 2023).
+
+21.1
+List of Significant Subsidiaries.
+
+23.1
+Consent of Independent Registered Public Accounting Firm.
+
+31.1
+Certification of Andrew R. Jassy, President and Chief Executive Officer of Amazon.com, Inc., pursuant to Rule 13a-14(a) under
+the Securities Exchange Act of 1934.
+
+31.2
+Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc., pursuant to Rule 13a-
+14(a) under the Securities Exchange Act of 1934.
+
+
+#### 73
+
+
+## Page 74
+
+
+#### Table of Contents
+
+32.1
+Certification of Andrew R. Jassy, President and Chief Executive Officer of Amazon.com, Inc., pursuant to 18 U.S.C. Section 1350.
+
+32.2
+Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc., pursuant to 18 U.S.C.
+Section 1350.
+
+101
+The following financial statements from the Company’s Annual Report on Form 10-K for the year ended December 31, 2022,
+formatted in Inline XBRL: (i) Consolidated Statements of Cash Flows, (ii) Consolidated Statements of Operations, (iii) Consolidated
+Statements of Comprehensive Income (Loss), (iv) Consolidated Balance Sheets, (v) Consolidated Statements of Stockholders’
+Equity, and (vi) Notes to Consolidated Financial Statements, tagged as blocks of text and including detailed tags.
+
+As permitted by Item 601(b)(4)(iii)(A) of Regulation S-K, the Company has not filed with this Annual Report on Form 10-K certain
+instruments defining the rights of holders of long-term debt of the Company and its subsidiaries because the total amount of
+securities authorized thereunder does not exceed 10 percent of the total assets of the Company and its subsidiaries on a
+consolidated basis. The Company agrees to furnish a copy of such agreements to the Commission upon request.
+
+104
+The cover page from the Company’s Annual Report on Form 10-K for the year ended December 31, 2022, formatted in Inline
+XBRL (included as Exhibit 101).
+
+__________________
+†    Executive Compensation Plan or Agreement.
+
+
+#### Form 10-K Summary
+
+None.
+
+
+#### 74
+
+
+## Page 75
+
+
+#### Table of Contents
+
+
+### SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Report to
+be signed on its behalf by the undersigned, thereunto duly authorized, as of February 2, 2023.
+
+AMAZON.COM, INC.
+
+By:
+/s/ Andrew R. Jassy
+
+Andrew R. Jassy
+President and Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on
+behalf of the registrant and in the capacities indicated as of February 2, 2023.
+
+Signature
+Title
+
+
+#### /s/ Andrew R. Jassy
+
+Andrew R. Jassy
+President and Chief Executive Officer (Principal Executive Officer) and
+Director
+
+
+#### /s/ Brian T. Olsavsky
+
+Brian T. Olsavsky
+Senior Vice President and Chief Financial Officer (Principal Financial
+Officer)
+
+
+#### /s/ Shelley L. Reynolds
+
+Shelley L. Reynolds
+Vice President, Worldwide Controller (Principal Accounting Officer)
+
+
+#### /s/ Jeffrey P. Bezos
+
+Jeffrey P. Bezos
+Executive Chair
+
+
+#### /s/ Keith B. Alexander
+
+Keith B. Alexander
+Director
+
+
+#### /s/ Edith W. Cooper
+
+Edith W. Cooper
+Director
+
+
+#### /s/ Jamie S. Gorelick
+
+Jamie S. Gorelick
+Director
+
+
+#### /s/ Daniel P. Huttenlocher
+
+Daniel P. Huttenlocher
+Director
+
+
+#### /s/ Judith A. McGrath
+
+Judith A. McGrath
+Director
+
+
+#### /s/ Indra K. Nooyi
+
+Indra K. Nooyi
+Director
+
+
+#### /s/ Jonathan J. Rubinstein
+
+Jonathan J. Rubinstein
+Director
+
+
+#### /s/ Patricia Q. Stonesifer
+
+Patricia Q. Stonesifer
+Director
+
+
+#### /s/ Wendell P. Weeks
+
+Wendell P. Weeks
+Director
+
+
+#### 75
+
+
+## Page 76
+
+### Table 76.1
+
+| Amazon.com Services LLC |  | Delaware |  | 100 | % |
+| --- | --- | --- | --- | --- | --- |
+| Amazon.com Sales, Inc. |  | Delaware |  | 100 | % |
+| Amazon Data Services, Inc. |  | Delaware |  | 100 | % |
+| Amazon Web Services, Inc. |  | Delaware |  | 100 | % |
+| Amazon Technologies, Inc. |  | Nevada |  | 100 | % |
+| Amazon.com NV Investment Holdings LLC |  | Nevada |  | 100 | % |
+| Amazon US Services LLC |  | Delaware |  | 100 | % |
+| A100 ROW, Inc. |  | Delaware |  | 100 | % |
+
+
+
+#### Exhibit 21.1
+
+AMAZON.COM, INC.
+LIST OF SIGNIFICANT SUBSIDIARIES
+
+Legal Name
+Jurisdiction
+Percent Owned
+Amazon.com Services LLC
+Delaware
+100 
+%
+Amazon.com Sales, Inc.
+Delaware
+100 
+%
+Amazon Data Services, Inc.
+Delaware
+100 
+%
+Amazon Web Services, Inc.
+Delaware
+100 
+%
+Amazon Technologies, Inc.
+Nevada
+100 
+%
+Amazon.com NV Investment Holdings LLC
+Nevada
+100 
+%
+Amazon US Services LLC
+Delaware
+100 
+%
+A100 ROW, Inc.
+Delaware
+100 
+%

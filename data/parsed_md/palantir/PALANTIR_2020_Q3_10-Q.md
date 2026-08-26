@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2020_Q3_10-Q
+# Financial Report: PALANTIR_2020_Q3_10-Q
 
 - **Source File**: `PALANTIR_2020_Q3_10-Q.pdf`
-- **Total Pages**: 172
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 172
+- **Parsed Key Pages**: 42 (42 selected sections)
 
 ---
 
@@ -4076,26 +4076,40 @@ Class F common stock are held by a voting trust established by the Founders. The
 #### 25
 
 
-## Page 26
+## Page 31
 
-### Table 26.1
+### Table 31.1
 
-| Common stock: |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.2
-
-| Class B |  | 2,700,000,000 |  | 405,096,034 |  | 405,096,034 |  | 1,800,000,000 |  | 272,273,934 |  | 272,273,934 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 
-### Table 26.3
+### Table 31.2
 
-| Total |  | 22,701,005,000 |  | 1,726,685,755 |  | 1,726,685,755 |  | 4,000,000,000 |  | 587,889,687 |  | 581,497,116 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Less: Change in fair value attributable to participating securities |  |  | — |  |  |  | — |  |  |  | (5,483 | ) |  |  | — |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.3
+
+| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.4
+
+| Weighted-average shares used in computing net loss per share, diluted |  |  | 905,462,010 |  |  |  | 580,104,846 |  |  |  | 716,027,459 |  |  |  | 574,342,061 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.5
+
+| Net loss per share attributable to common stockholders, basic |  | $ | (0.94 | ) |  | $ | (0.24 | ) |  | $ | (1.43 | ) |  | $ | (0.73 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 
@@ -4105,180 +4119,301 @@ Class F common stock are held by a voting trust established by the Founders. The
 Palantir Technologies Inc.
 Notes to Unaudited Condensed Consolidated Financial Statements (continued)
  
-ability to control up to 49.999999% of the total voting power of the Company’s capital stock, so long as the Founders and certain of their
-aﬃliates collectively meet a minimum ownership threshold, which was 100.0 million of the Company’s equity securities as of September 30,
-2020.
+The realization of deferred tax assets is dependent upon the generation of suﬃcient taxable income of the appropriate character in future
+periods. The Company assesses its ability to realize the deferred tax assets on a quarterly basis and it establishes a valuation allowance if it
+i s more-likely-than-not that some portion of the deferred tax assets will not be realized. The Company weighs all available positive and
+negative evidence, including its earnings history and results of recent operations, scheduled reversals of deferred tax liabilities, projected
+future taxable income, and tax planning strategies. Due to the weight of objectively veriﬁable negative evidence, including its history of losses
+in certain jurisdictions, the Company believes that it is more likely than not that its U.S. federal and state deferred tax assets will not be fully
+realized. Accordingly, the Company has maintained a valuation allowance on its U.S. federal and state deferred tax assets. The Company’s
+eﬀective rate diﬀers from the U.S. statutory rate primarily due to the valuation allowance recorded on its U.S. federal losses, foreign income
+taxed at different rates, non-deductible of stock-based compensation, and withholding tax expense.
 
-Holders of Class A, Class B, and Class F common stock are entitled to dividends when, as and, if declared by the Company’s Board of
-Directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. No dividends have been
-declared as of September 30, 2020.
+The Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”) was enacted on March 27, 2020 in the United States. The CARES
+Act and related notices include several signiﬁcant provisions, including delaying certain payroll tax payments, mandatory transition tax
+payments under the Tax Cut and Jobs Act, and estimated income tax payments that the Company is deferring to future periods. The CARES
+Act did not have a material impact on the Company’s ﬁnancial results, including on its annual estimated eﬀective tax rate or on its liquidity.
+The Company will continue to monitor and assess the impact the CARES Act and similar legislation in other countries may have on its
+business and financial results.
 
-During the nine months ended September 30, 2020 the Company sold a total of 206,500,523 shares of its Class A common stock at a price of
-$4.65 per share, for aggregate proceeds of $942.5 million, net of issuance costs of $17.7 million. Included in these sales were 107,526,881
-shares of Class A common stock sold to SOMPO, a partner investor in the Company’s equity method investee, Palantir Japan.
 
-In connection with the Direct Listing in September 2020, all outstanding shares of redeemable convertible preferred stock and convertible
-preferred stock were converted into 4,017,378 and 793,725,807 shares of Class B common stock, respectively, and 1,005,000 shares of
-Class B common stock held by the Founders were exchanged for an equal number of shares of Class F common stock.
+#### 13. Net Loss Per Share Attributable to Common Stockholders
 
-The following represented the total authorized, issued, and outstanding shares for each class of common stock:
+The following table presents the calculation of basic and diluted net loss per share attributable to common stockholders (in thousands, except
+share and per share amounts):
+
+
+#### Three Months Ended
+
+
+#### September  30,
+
+
+#### Nine Months Ended
+
+September  30,
+ 
+ 
+2020
+ 
+2019
+ 
+2020
+ 
+2019
+Numerator
+ 
+ 
+ 
+ 
+Net loss attributable to common stockholders
+ $
+(853,319)  $
+(139,860)  $
+(1,018,048)  $
+(420,319) 
+Less: Change in fair value attributable to participating securities
+  
+—     
+—     
+(5,483)   
+—   
+Net loss attributable to common stockholders, for diluted net loss
+
+per share
+ $
+(853,319)  $
+(139,860)  $
+(1,023,531)  $
+(420,319)
+
+Denominator
+ 
+ 
+ 
+ 
+Weighted-average shares used in computing net loss per share,
+
+basic
+  
+905,462,010   
+580,104,846   
+713,879,104   
+574,342,061
+
+
+#### Weighted-average shares used in computing net loss per share,
+
+diluted
+  
+905,462,010   
+580,104,846   
+716,027,459   
+574,342,061
+
+Net loss per share
+ 
+ 
+ 
+ 
+Net loss per share attributable to common stockholders, basic
+ $
+(0.94)  $
+(0.24)  $
+(1.43)  $
+(0.73)
+
+Net loss per share attributable to common stockholders, diluted
+ $
+(0.94)  $
+(0.24)  $
+(1.43)  $
+(0.73)
+
+
+#### 31
+
+
+## Page 32
+
+### Table 32.1
+
+| Redeemable convertible preferred stock |  | — |  | 4,017,378 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 32.2
+
+| Warrants to purchase redeemable convertible and convertible preferred stock |  | — |  | 21,831,545 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 32.3
+
+| Options and SARs issued and outstanding |  | 587,976,855 |  | 470,352,024 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 32.4
+
+| Growth units outstanding |  | 3,582,674 |  | 22,377,040 |
+| --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Palantir Technologies Inc.
+Notes to Unaudited Condensed Consolidated Financial Statements (continued)
+ 
+The following outstanding potentially dilutive common stock equivalents have been excluded from the computation of diluted net loss per
+share attributable to common stockholders for the periods presented due to their anti-dilutive effect:
+
+As of September 30,
  
  
   
-As of September 30, 2020
-  
-As of December 31, 2019
+2020
+   
+2019
  
+Redeemable convertible preferred stock
   
-Authorized
+ 
+—     
+ 
+4,017,378
+Convertible preferred stock
   
-Issued
+ 
+—     
+ 
+794,336,186
+Warrants to purchase redeemable convertible and convertible preferred
+
+stock
   
-Outstanding
+ 
+—     
+ 
+21,831,545
+Warrants to purchase common stock
   
-Authorized
+ 19,068,174   
+ 
+993,266
+Options and SARs issued and outstanding
   
-Issued
-  Outstanding
-Common stock:
-   
+ 587,976,855   
+ 
+470,352,024
+RSUs outstanding
   
+ 199,655,233   
+ 
+—   
+Growth units outstanding
   
-Class A
-   
-20,000,000,000    
-1,320,584,721    
-1,320,584,721    
-2,200,000,000    
-315,615,753    
-309,223,182
-Class B
-   
-2,700,000,000    
-405,096,034    
-405,096,034    
-1,800,000,000    
-272,273,934    
-272,273,934
-Class F
-   
-1,005,000    
-1,005,000    
-1,005,000    
-—      
-—      
-—
+ 
+3,582,674   
+ 
+22,377,040
 
 Total
-   
-22,701,005,000    
-1,726,685,755    
-1,726,685,755    
-4,000,000,000    
-587,889,687    
-581,497,116
+  
+ 810,282,936   
+ 1,313,907,439
 
 
-#### Treasury Stock
+#### 14. Segment and Geographic Information
 
-On April 30, 2020, the Board of Directors approved the retirement of all shares of treasury stock. Retirement of treasury stock was recorded
-as a reduction of common stock and additional paid-in capital. As of September 30, 2020, the Company held no shares as treasury stock.
+The following reporting segment tables reﬂect the results of the Company’s reportable operating segments consistent with the manner in
+which the chief operating decision maker (“CODM”) evaluates the performance of each segment and allocates the Company’s resources. The
+CODM does not evaluate the performance of the Company’s assets on a segment basis for internal management reporting and, therefore,
+such information is not presented.
 
-
-#### 10. Warrants
-
-During the three months ended September 30, 2020, a warrant for 2,586,208 shares of Series D preferred stock with a strike price of $0.7406
-was cashless exercised and net settled into 2,380,034 shares of Series D convertible preferred stock. Additionally, a warrant for 7,632,154
-shares of Class B common stock with a strike price of $0.001 was cashless exercised and net settled into 7,631,329 shares of Class B
-common stock.
-
-Upon the eﬀectiveness of the amended and restated certiﬁcate of incorporation ﬁled in connection with the Direct Listing, all of the
-outstanding preferred stock warrants were converted into common stock warrants. As a result of the conversion, the warrants became equity-
-classified and the warrants liability was reclassified to additional paid-in capital.
+Contribution is used, in part, to evaluate the performance of, and allocate resources to, each of the segments. Segment contribution is
+segment revenue less the related costs of revenue and sales and marketing expenses. It excludes certain operating expenses that are not
+allocated to segments because they are separately managed at the consolidated corporate level. These unallocated costs include stock-
+based compensation expense, research and development expenses, and general and administrative expenses.
 
 
-#### 26
+#### 32
 
 
-## Page 27
+## Page 33
+
+### Table 33.1
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
-#### Table of Contents
 
-Palantir Technologies Inc.
-Notes to Unaudited Condensed Consolidated Financial Statements (continued)
- 
-As of September 30, 2020, warrants outstanding include warrants to purchase 5,211,093 shares of Class B common stock with a strike price
-of $6.13 per share, and warrants to purchase 814,666 shares of Class B common stock with a strike price of $3.51 per share. The warrants
-expire in between December 2021 to January 2025.
+### Table 33.2
 
-In addition, the Company has warrants outstanding to purchase up to 13,042,415 shares of Class B common stock that will be automatically
-net exercised upon a Qualifying IPO, which did not include the Company’s Direct Listing, and only if the valuation of the Company
-immediately prior to such IPO (“IPO Valuation”) is less than $12.9 billion. These warrants expire in November 2023 and, as of September 30,
-2020, were considered not probable of vesting.
+| Commercial |  | 126,805 |  |  | 93,740 |  |  | 350,325 |  | 270,354 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
-#### 11. Stock-Based Compensation
+
+### Table 33.3
+
+| Contribution: |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
-#### 2010 Equity Incentive Plan
 
-In 2010, the Company adopted the 2010 Equity Incentive Plan, as amended from time to time (“Amended 2010 Equity Incentive Plan”, or
-“2010 Plan”). The 2010 Plan permitted the granting of incentive stock options (“ISOs”), non-statutory stock options (“NSOs”), stock
-appreciation rights (“SARs”), restricted stock, RSUs, and growth units to eligible participants. Under the 2010 Plan, the exercise price of
-options granted generally was at least equal to the fair market value of the applicable class of the Company’s common stock on the date of
-grant. Options and other equity awards become vested and, if applicable, exercisable based on terms determined by the Board of Directors or
-other plan administrator on the date of grant (or per later modiﬁcation), which was typically ﬁve years for new employees and varies for
-subsequent grants. Under the 2010 Plan, unless provided otherwise for an applicable award, the vesting and exercisability of awards
-accelerates by 25% on a change in control, if the award holder remains a service provider as of or immediately prior to such event.
+### Table 33.4
 
-The 2010 Plan was terminated prior to the Company’s Direct Listing, and no additional awards will be granted under the 2010 Plan. However,
-the 2010 Plan will continue to govern the terms and conditions of the outstanding awards previously granted under the 2010 Plan.
+| Commercial |  | 69,496 |  |  | 4,949 |  |  | 168,908 |  | 35,619 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
-#### 2020 Executive Equity Incentive Plan
 
-In August 2020, the Company’s Board of Directors approved the 2020 Executive Equity Incentive Plan (the “Executive Equity Plan”). The
-Executive Equity Plan permitted the granting NSOs and RSUs to the Company’s employees, consultants, and directors. A total of
-165,900,000 shares of the Company’s Class B common stock were reserved for issuance under the Executive Equity Plan. During August
-2020, options to purchase 162,000,000 shares of Class B common stock and restricted stock units covering 3,900,000 shares of the
-Company’s Class B common stock were granted to certain officers and all were outstanding as of September 30, 2020.
+### Table 33.5
 
-The Executive Equity Plan was terminated prior to the Company’s Direct Listing, and no additional awards will be granted under the Executive
-Equity Plan. However, the Executive Equity Plan will continue to govern the terms and conditions of the outstanding awards previously
-granted under the Executive Equity Plan.
-
-
-#### 2020 Equity Incentive Plan
-
-In September 2020, prior to the Direct Listing, the Company’s Board of Directors approved the 2020 Equity Incentive Plan (“2020 Plan”). The
-2020 Plan provides for the grant of ISOs, NSOs, restricted stock, RSUs, SARs, and performance awards to the Company’s employees,
-directors, and consultants. A total of 150,000,000 shares
-
-
-#### 27
-
-
-## Page 28
-
-### Table 28.1
-
-| Balance as of December 31, 2019 |  | 497,441,159 |  |  | $ | 4.10 |  |  | 5.81 |  | $ | 975,798 |
+| Loss from operations |  | $ (847,777 | ) | $ | (144,140) |  | $ | (1,017,107 | ) | $ | (428,993 | ) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 
-### Table 28.2
+### Table 33.6
 
-| Options exercised |  | (69,444,099 | ) |  |  | 1.67 |  |  |  |  |  |  |
+| General and administrative expenses(1) |  | 107,130 |  |  | 60,411 |  |  | 226,455 |  |  | 165,985 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 
-### Table 28.3
+### Table 33.7
 
-| Balance as of September 30, 2020 |  | 587,876,855 |  |  | $ | 5.89 |  |  | 7.99 |  | $ | 2,120,561 |
+| Segment contribution |  | $ 163,458 |  | $ | 28,883 |  | $ | 395,094 |  | $ | 82,233 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 33.8
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 33.9
+
+| United Kingdom |  | 35,432 |  | 12 | % |  |  | 29,765 |  | 16 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 33.10
+
+| Rest of world(1) |  | 74,384 |  | 26 | % |  |  | 64,661 |  | 33 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 
@@ -4288,270 +4423,7 @@ directors, and consultants. A total of 150,000,000 shares
 Palantir Technologies Inc.
 Notes to Unaudited Condensed Consolidated Financial Statements (continued)
  
-of the Company’s Class A common stock are reserved for issuance pursuant to the 2020 Plan. In addition, the number of shares of Class A
-common stock reserved for issuance under the 2020 Plan includes the number of shares of Class A common stock or Class B common stock
-subject to awards under the Company’s Amended 2010 Equity Incentive Plan and Executive Equity Plan. Shares of Class B common stock
-added to the 2020 Plan from the 2010 Plan or Executive Equity Plan are reserved for issuance under the Company’s 2020 Plan as Class A
-common stock. The number of shares of Class A common stock available for issuance under the 2020 Plan will also include an annual
-increase on the first day of each fiscal year beginning on January 1, 2022, equal to the least of:
- 
- 
-•
- 250,000,000 shares of the Company’s Class A common stock;
-
-•
- Five percent (5%) of the outstanding shares of the Company’s common stock as of the last day of the immediately preceding
-
-fiscal year; or
- 
- 
-•
- such other amount as the administrator of the 2020 Plan determines.
-
-Under the 2020 Plan, the exercise price of options granted is generally at least equal to the fair market value of the Company’s Class A
-common stock on the date of grant. The term of an ISO generally may not exceed ten years. Additionally, the exercise price of any ISO
-granted to a 10% stockholder shall not be less than 110% of the estimated fair value of the common stock on the date of grant, and the term
-of such option grant shall not exceed ﬁve years. Options and other equity awards become vested and, if applicable, exercisable based on
-terms determined by the Board of Directors or an other plan administrator on the date of grant, which is typically ﬁve years for new employees
-and varies for subsequent grants.
-
-
-#### Stock Options
-
-The following table summarizes stock option activity for the nine months ended September 30, 2020 (in thousands, except share and per
-share amounts):
-
-Options
-Outstanding
-
-
-#### Weighted-
-
-Average
-Exercise Price
-
-
-#### Per Share
-
-
-#### Weighted-
-
-Average
-Remaining
-Contractual
-
-
-#### Life (years)
-
-Aggregate
-Intrinsic Value 
-Balance as of December 31, 2019
-  
- 497,441,159   
-$
-4.10   
- 
-5.81   
-$
-975,798
-Options granted(1)
-  
- 397,885,337   
- 
-7.43   
-  
-Options exercised
-  
- (69,444,099)   
- 
-1.67   
-  
-Options canceled and forfeited (1)
-  
- (238,005,542)   
- 
-5.95
-
-Balance as of September 30, 2020
-  
- 587,876,855   
-$
-5.89   
- 
-7.99   
-$
-2,120,561
-
-
-#### Options vested and exercisable as of September 30,
-
-2020
-  
- 344,033,233   
-$
-3.64   
- 
-5.90   
-$
-2,014,537
-
-(1)
-Includes options that were canceled and re-granted as part of the option repricing modification, as further discussed below.
-
-As of September 30, 2020, the unrecognized expense related to options outstanding was $1.2 billion, which is expected to be recognized over
-a weighted-average service period of 8.07 years.
-
-Additionally, as of September 30, 2020, there were 100,000 cash-settled SARs outstanding and exercisable at an exercise price of $2.70 per
-share. No SARs were granted during the nine months ended September 30, 2020.
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Unvested and outstanding as of December 31, 2019 |  | 179,494,619 |  |  | $ | 6.03 |
-| --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 29.2
-
-| RSUs vested |  | (68,149,214 | ) |  |  | 6.18 |
-| --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 29.3
-
-| Unvested and outstanding at September 30, 2020 |  | 199,655,233 |  |  | $ | 6.69 |
-| --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-#### Table of Contents
-
-Palantir Technologies Inc.
-Notes to Unaudited Condensed Consolidated Financial Statements (continued)
- 
-Stock Option Modifications
-
-During the nine months ended September 30, 2020, the Company modiﬁed 37,451,458 fully vested and outstanding options that were
-approaching expiration. The extension of the original options was recorded as a stock option modiﬁcation whereby the incremental fair value
-of each option was determined at the date of the modiﬁcation and $9.4 million was immediately recognized related to vested options. The
-weighted average extended term for the modified options was approximately 0.46 years.
-
-In June 2020, the Company repriced 235,885,337 stock options. As part of the repricing, the original options were canceled and new options
-were granted with an exercise price of $4.72 per share and a remaining contractual term of ten years. The new options were generally subject
-to the same service-based vesting schedule as the original options. The repricing was recorded as a stock option modiﬁcation whereby the
-incremental fair value of each option was determined at the date of the modiﬁcation and $74.0 million was immediately recognized related to
-vested options in June 2020 and an additional $4.5 million was recognized during the three months ended September 30, 2020. As of
-September 30, 2020, there was remaining incremental fair value of $27.0 million which will be recognized over the remaining requisite service
-period.
-
-
-#### RSUs
-
-The following table summarizes the RSU activity for the nine months ended September 30, 2020:
-
-RSUs
-Outstanding
-
-
-#### Weighted Average
-
-Grant Date Fair
-Value per Share
-Unvested and outstanding as of December 31, 2019
-  
- 179,494,619  
-$
-6.03
-RSUs granted
-  
- 96,707,758  
- 
-7.49
-RSUs vested
-  
- (68,149,214)  
- 
-6.18
-RSUs canceled
-  
- 
-(8,397,930)  
- 
-6.02
-
-Unvested and outstanding at September 30, 2020
-  
- 199,655,233  
-$
-6.69
-
-The performance-based vesting condition for all RSUs was satisﬁed upon the Company’s Direct Listing, September 30, 2020. Upon such
-satisfaction, 68,149,214 RSUs, for which the service-based vesting condition was met as of such date, vested and converted into an
-equivalent number of shares of Class A common stock. As a result, the Company recognized $769.5 million in cumulative stock-based
-compensation expense using the accelerated attribution method from the grant date. As of September 30, 2020, the total unrecognized stock-
-based compensation expense related to the RSUs outstanding was $1.0 billion, which the Company expects to recognize over 3.13 years.
-
-
-#### Growth Units
-
-In May 2019, the Company granted growth units which vest upon the satisfaction of both a performance-based vesting condition, which was
-satisﬁed upon the Company’s Direct Listing, and a service-based vesting condition. Growth units have a formula used to calculate the number
-of shares of the Company’s common stock that would be earned by the holder upon the satisfaction of all vesting criteria.
-
-Upon the Direct Listing, the Company recognized $8.4 million in cumulative stock-based compensation expense using the accelerated
-attribution method from the service start date through the effective date of the Direct
-
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Cost of revenue |  | $ | 94,385 |  | $ | 7,183 |  | $ | 120,285 |  | $ | 16,520 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 30.2
-
-| Research and development |  |  | 256,769 |  |  | 15,031 |  |  | 309,698 |  |  | 49,137 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 30.3
-
-| Total stock-based compensation expense |  | $ | 846,959 |  | $ | 51,763 |  | $ | 1,028,914 |  | $ | 164,650 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-#### Table of Contents
-
-Palantir Technologies Inc.
-Notes to Unaudited Condensed Consolidated Financial Statements (continued)
- 
-Listing. As of September 30, 2020, the total unrecognized stock-based compensation expense related to the 3,582,674 growth units
-outstanding was $2.4 million, which the Company expects to recognize over the remainder of the 180-day service period following the Direct
-Listing. Upon satisfaction of the 180-day service period, the outstanding growth units will fully vest and convert into 1.5 million shares of
-common stock.
-
-
-#### Stock-based Compensation Expense
-
-
-#### Total stock-based compensation expense was as follows (in thousands):
+Financial information for each reportable segment was as follows (in thousands):
 
 
 #### Three Months Ended
@@ -4565,10 +4437,1047 @@ common stock.
 September 30,
  
   
-    2020      
-    2019      
-    2020      
-    2019    
+2020
+  
+2019
+  
+2020
+  
+2019
+Revenue:
+  
+  
+  
+  
+Government
+  
+$
+162,561  
+$
+96,801  
+$
+420,257  
+$
+242,843
+Commercial
+  
+ 
+     126,805  
+ 
+     93,740  
+ 
+     350,325  
+ 
+     270,354
+
+Total revenue
+  
+$
+289,366  
+$
+190,541  
+$
+770,582  
+$
+513,197
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September 30,
+ 
+  
+    2020    
+  
+2019
+  
+2020
+  
+2019
+Contribution:
+  
+  
+  
+  
+Government
+  
+$
+93,962  
+$
+23,934  
+$
+226,186  
+$
+46,614
+Commercial
+  
+           69,496  
+           4,949  
+           168,908  
+           35,619
+
+Total segment contribution
+  
+$
+163,458  
+$
+28,883  
+$
+395,094  
+$
+82,233
+
+The reconciliation of segment financial information to loss from operations is as follows (in thousands):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September 30,
+ 
+  
+2020
+ 
+2019
+ 
+2020
+ 
+2019
+Loss from operations
+  $
+(847,777)  
+$ (144,140)  
+$
+(1,017,107)  
+$
+(428,993) 
+Research and development expenses (1)
+   
+57,146  
+ 
+60,849  
+ 
+156,832  
+ 
+180,591
+General and administrative expenses (1)
+   
+107,130  
+ 
+60,411  
+ 
+226,455  
+ 
+165,985
+Stock-based compensation expense
+   
+846,959  
+ 
+51,763  
+ 
+1,028,914  
+ 
+164,650
+
+Segment contribution
+  $       163,458  
+$      28,883  
+$        395,094  
+$        82,233
+
+(1) 
+Excludes stock-based compensation expense.
+
+
+#### Geographic Information
+
+Revenue by geography is based on the customer’s headquarters or agency location at the time of sale. Revenue is as follows (in thousands,
+except percentages):
+
+Three Months Ended September 30,
+ 
+  
+2020
+ 
+2019
+ 
+  
+Amount
+  
+%
+ 
+Amount
+  
+%
+Revenue:
+  
+  
+ 
+  
+United States
+  $
+156,336   
+54%  
+$
+79,185   
+42% 
+United Kingdom
+   
+35,432   
+12%  
+ 
+29,765   
+16% 
+France
+   
+23,214   
+8%  
+ 
+16,930   
+9% 
+Rest of world(1)
+   
+74,384   
+26%  
+ 
+64,661   
+33%
+
+Total revenue
+  $          289,366              100%  
+$          190,541              100%
+
+(1) 
+No other country represents 10% or more of total revenue for the three months ended September 30, 2020 or 2019.
+
+
+#### 33
+
+
+## Page 34
+
+### Table 34.1
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.2
+
+| United Kingdom |  |  | 94,440 |  | 12 | % |  |  | 89,384 |  | 17 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 34.3
+
+| Rest of world(1) |  |  | 206,464 |  | 27 | % |  |  | 176,240 |  | 35 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+Palantir Technologies Inc.
+Notes to Unaudited Condensed Consolidated Financial Statements (continued)
+
+Nine Months Ended September 30,
+ 
+  
+2020
+ 
+2019
+ 
+  
+Amount
+  
+%
+ 
+Amount
+  
+%
+Revenue:
+  
+  
+ 
+  
+United States
+  $
+391,106   
+51%  $
+197,351   
+38% 
+United Kingdom
+   
+94,440   
+12%   
+89,384   
+17% 
+France
+   
+78,572   
+10%   
+50,222   
+10% 
+Rest of world(1)
+   
+206,464   
+27%   
+176,240   
+35%
+
+Total revenue
+  $          770,582   
+           100%  $          513,197   
+           100%
+
+(1)
+No other country represents 10% or more of total revenue for the nine months ended September 30, 2020 or 2019.
+
+
+#### 34
+
+
+## Page 40
+
+
+#### Table of Contents
+
+
+#### Key Business Measure
+
+In addition to the measures presented in our condensed consolidated ﬁnancial statements, we use the following key non-GAAP business
+measure to help us evaluate our business, identify trends affecting our business, formulate business plans and financial projections, and make
+strategic decisions.
+
+
+#### Contribution Margin
+
+We believe that the revenue we generate relative to the costs we incur in order to generate such revenue is an important measure of the
+eﬃciency of our business. We deﬁne contribution margin as revenue less our cost of revenue and sales and marketing expenses, excluding
+stock-based compensation, divided by revenue. At the end of each year, we categorize each customer account into one of the three phases
+based on its revenue and contribution margin for that year.
+
+Revenue is allocated to each customer account directly. The cost of revenue and sales and marketing costs include both the costs associated
+with the deployment and operation of our software as well as expenses associated with identifying new customers and expanding
+partnerships with existing ones. Our software engineers working with existing customers often manage the deployment and operation of our
+platforms as well as identify new ways that those platforms can be used. To calculate the contribution by customer, we allocate cost of
+revenue and sales and marketing expenses, excluding stock-based compensation, to an account pro rata based on headcount and time spent
+on the account during the period. To the extent certain costs or personnel are not directly assigned to a speciﬁc account, they are allocated
+pro rata based on total headcount staﬀed during such period. Direct costs, such as third-party cloud hosting services, are directly allocated to
+the account to which they relate.
+
+Contribution margin, both across our business and on speciﬁc customer accounts, is intended to capture how much we have earned from
+customers after accounting for the costs associated with deploying and operating our software, as well as any sales and marketing expenses
+involved in acquiring and expanding our partnerships with those customers, including allocated overhead. We exclude stock-based
+compensation as it is a non-cash expense.
+
+We believe that our contribution margin across the business and on speciﬁc customer accounts provides an important measure of the
+eﬃciency of our operations over time. We have included contribution margin because it is a key measure used by our management to
+evaluate our performance, and we believe that it also provides useful information to investors and others in understanding and evaluating our
+operating results in the same manner as our management team. Our calculation of contribution margin may diﬀer from similarly titled
+measures, if any, reported by other companies. Contribution margin should not be considered in isolation from, or as a substitute for, ﬁnancial
+information prepared in accordance with GAAP.
+
+For more information about contribution margin, including the limitations of this measure, and a reconciliation to loss from operations, see the
+section titled “— Non-GAAP Reconciliations” below.
+
+
+#### 40
+
+
+## Page 41
+
+### Table 41.1
+
+| Loss from operations |  | $ | (847,777 | ) |  | $ | (144,140 | ) |  | $ | (1,017,107 | ) |  | $ | (428,993 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 41.2
+
+| Research and development expenses (1) |  |  | 57,146 |  |  |  | 60,849 |  |  |  | 156,832 |  |  |  | 180,591 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 41.3
+
+| Stock-based compensation |  |  | 846,959 |  |  |  | 51,763 |  |  |  | 1,028,914 |  |  |  | 164,650 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 41.4
+
+| Contribution margin |  |  | 56 | % |  |  | 15 | % |  |  | 51 | % |  |  | 16 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Non-GAAP Reconciliations
+
+We use the non-GAAP measures contribution margin; gross proﬁt and gross margin, excluding stock-based compensation; and income (loss)
+from operations, excluding stock-based compensation to help us evaluate our business, identify trends aﬀecting our business, formulate
+business plans and ﬁnancial projections, and make strategic decisions. We exclude stock-based compensation, which is a non-cash expense,
+from these non-GAAP ﬁnancial measures because we believe that excluding this item provides meaningful supplemental information
+regarding operational performance and provides useful information to investors and others in understanding and evaluating our operating
+results in the same manner as our management team. Our deﬁnitions may diﬀer from the deﬁnitions used by other companies and therefore
+comparability may be limited. In addition, other companies may not publish these or similar metrics. Further, these metrics have certain
+limitations, as they do not include the impact of certain expenses that are reﬂected in our condensed consolidated statement of operations.
+Thus, our non-GAAP contribution margin; gross proﬁt and gross margin, excluding stock-based compensation; and income (loss) from
+operations, excluding stock-based compensation should be considered in addition to, not as a substitute for, or in isolation from, measures
+prepared in accordance with GAAP.
+
+We compensate for these limitations by providing reconciliations of these non-GAAP measures to the most comparable GAAP measures. We
+encourage investors and others to review our business, results of operations, and ﬁnancial information in its entirety, not to rely on any single
+financial measure, and to view these non-GAAP measures in conjunction with the most directly comparable GAAP financial measures.
+
+
+#### Contribution Margin
+
+The following table provides a reconciliation of contribution margin for the three and nine months ended September 30, 2020 and 2019 (in
+thousands, except percentages):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September  30,
+ 
+  
+2020
+ 
+2019
+ 
+2020
+ 
+2019
+Loss from operations
+  
+$
+(847,777)  
+$
+(144,140)  
+$ (1,017,107)  
+$
+(428,993) 
+Add:
+  
+ 
+ 
+ 
+Research and development expenses (1)
+  
+ 
+57,146
+ 
+ 
+60,849
+ 
+ 
+156,832
+ 
+ 
+180,591
+General and administrative expenses (1)
+  
+ 
+107,130
+ 
+ 
+60,411
+ 
+ 
+226,455
+ 
+ 
+165,985
+Stock-based compensation
+  
+ 
+846,959
+ 
+ 
+51,763
+ 
+ 
+1,028,914
+ 
+ 
+164,650
+
+Contribution
+  
+$
+163,458
+ 
+$
+28,883
+ 
+$
+395,094
+ 
+$
+82,233
+
+Contribution margin
+  
+ 
+56%  
+ 
+15%  
+ 
+51%  
+ 
+16%
+
+(1) 
+Excludes stock-based compensation.
+
+
+#### 41
+
+
+## Page 42
+
+### Table 42.1
+
+| Gross profit |  | $ 140,026 |  |  | $ | 125,468 |  |  | $ | 488,538 |  |  | $ | 346,726 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 42.2
+
+| Gross profit, excluding stock-based compensation |  | $ 234,411 |  |  | $ | 132,651 |  |  | $ | 608,823 |  |  | $ | 363,246 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 42.3
+
+| Loss from operations | $ | (847,777 | ) |  | $ | (144,140 | ) |  | $ | (1,017,107 | ) |  | $ | (428,993 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 42.4
+
+| Income (loss) from operations, excluding stock- based compensation | $ | (818 | ) |  | $ | (92,377 | ) |  | $ | 11,807 |  |  | $ | (264,343 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Gross Profit and Gross Margin, Excluding Stock-Based Compensation
+
+The following table provides a reconciliation of gross proﬁt and gross margin, excluding stock-based compensation for the three and nine
+months ended September 30, 2020 and 2019 (in thousands, except percentages):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September  30,
+ 
+  
+2020
+ 
+2019
+ 
+2020
+ 
+2019
+Gross profit
+  
+$
+140,026
+ 
+$
+125,468
+ 
+$
+488,538
+ 
+$
+346,726
+Add: stock-based compensation
+  
+ 
+94,385
+ 
+ 
+7,183
+ 
+ 
+120,285
+ 
+ 
+16,520
+
+Gross profit, excluding stock-based compensation
+  
+$
+234,411
+ 
+$
+132,651
+ 
+$
+608,823
+ 
+$
+363,246
+
+Gross margin, excluding stock-based compensation
+  
+ 
+81%  
+ 
+70%  
+ 
+79%  
+ 
+71%
+
+
+#### Income (Loss) from Operations, Excluding Stock-Based Compensation
+
+The following table provides a reconciliation of income (loss) from operations, excluding stock-based compensation for the three and nine
+months ended September 30, 2020 and 2019 (in thousands):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September  30,
+ 
+  
+2020
+  
+2019
+  
+2020
+  
+2019
+Loss from operations
+  $
+(847,777)   $
+(144,140)   $ (1,017,107)   $
+(428,993) 
+Add: stock-based compensation
+   
+846,959    
+51,763    
+1,028,914    
+164,650
+
+
+#### Income (loss) from operations, excluding stock- based
+
+compensation
+  $
+(818)   $
+(92,377)   $
+11,807   $
+(264,343)
+
+
+#### Components of Results of Operations
+
+
+#### Revenue
+
+We generate revenue from the sale of subscriptions to access our software in our hosted environment with O&M services (“Palantir Cloud”),
+software subscriptions in our customers’ environments with ongoing O&M services (“On-Premises Software”), and professional services.
+
+
+#### Palantir Cloud
+
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir
+and are sold together with stand-ready O&M services, as further described below. We promise to provide continuous access to the hosted
+software throughout the contract term. Revenue associated with Palantir Cloud subscriptions is recognized over the contract term on a
+ratable basis, which is consistent with the transfer of control of the Palantir services to the customer.
+
+
+#### On-Premises Software
+
+Sales of our software subscriptions grant customers the right to use functional intellectual property, either on their internal hardware
+infrastructure or on their own cloud instance, over the contractual term and are also sold together with stand-ready O&M services. O&M
+services include critical updates and support and maintenance
+
+
+#### 42
+
+
+## Page 43
+
+
+#### Table of Contents
+
+services required to operate the software and, as such, are necessary for the software to maintain its intended utility over the contractual
+term. Because of this requirement, we have concluded that the software subscriptions and O&M services, which together we refer to as our
+On-Premises Software, are highly interdependent and interrelated and represent a single distinct performance obligation within the context of
+the contract. Revenue is generally recognized over the contract term on a ratable basis.
+
+
+#### Professional Services
+
+Our professional services support the customers’ use of the software and include, as needed, on-demand user support, user-interface
+conﬁguration, training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of
+on-demand professional services for the duration of the contractual term. These services are typically coterminous with a Palantir Cloud or
+On-Premises Software subscriptions. Professional services are on-demand, whereby we perform services throughout the contract period;
+therefore, the revenue is recognized over the contractual term.
+
+
+#### Cost of Revenue
+
+Cost of revenue primarily includes salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing O&M and
+professional services, as well as third-party cloud hosting services, allocated overhead, and other direct costs.
+
+We expect that cost of revenue will increase in absolute dollars as our revenue grows and will vary from period-to-period as a percentage of
+revenue.
+
+
+#### Sales and Marketing
+
+Our sales and marketing eﬀorts span all stages of our sales cycle, including personnel engaging with or executing pilots at new or existing
+customers. Sales and marketing costs primarily include salaries, stock-based compensation expense, and beneﬁts for personnel involved in
+executing on pilots and customer growth activities, as well as third-party cloud hosting services for our pilots, marketing and sales event-
+related costs, and allocated overhead. Sales and marketing costs are generally expensed as incurred.
+
+We expect that sales and marketing expenses will increase in absolute dollars as we continue to invest in our potential and current customers,
+in growing our business and enhancing our brand awareness.
+
+
+#### Research and Development
+
+Our research and development eﬀorts are aimed at continuing to develop and reﬁne our platforms, including adding new features and
+modules, increasing their functionality, and enhancing the usability of our platforms. Research and development costs primarily include
+salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing the activities to develop and reﬁne our
+platforms, internal use third-party cloud hosting services and other IT-related costs, and allocated overhead. Research and development costs
+are expensed as incurred.
+
+We plan to continue to invest in personnel to support our research and development eﬀorts. As a result, we expect that research and
+development expenses will increase in absolute dollars for the foreseeable future as we continue to invest to support these activities.
+
+
+#### General and Administrative
+
+General and administrative costs include salaries, stock-based compensation expense, and beneﬁts for personnel involved in our executive,
+finance, legal, human resources, and administrative functions, as well as third-party professional services and fees, and allocated overhead.
+
+
+#### 43
+
+
+## Page 44
+
+
+#### Table of Contents
+
+We expect that general and administrative expenses will increase in absolute dollars as we hire additional personnel and enhance our
+systems, processes, and controls to support the growth in our business as well as our increased compliance and reporting requirements as a
+public company.
+
+
+#### Interest Income
+
+Interest income consists primarily of interest income earned on our cash, cash equivalents, and restricted cash balances.
+
+
+#### Interest Expense
+
+Interest expense consists primarily of interest expense and commitment fees incurred under our credit facilities.
+
+
+#### Other Income (Expense), Net
+
+Other income (expense), net consists primarily of foreign currency exchange gains and losses and our share of income and losses from our
+equity method investments.
+
+
+#### Change in Fair Value of Warrants
+
+The change in the fair value of warrants consists of the net changes in the fair value of our liability classiﬁed warrants to purchase redeemable
+convertible and convertible preferred stock that were remeasured at the end of each reporting period. In connection with the Direct Listing, all
+of the Company’s outstanding preferred stock warrants were converted into common stock warrants, which resulted in the reclassiﬁcation of
+the warrants liability to additional paid-in capital. As such, we do not expect additional charges related to the fair value of these warrants.
+
+
+#### Provision (Benefit) for Income Taxes
+
+Provision (benefit) for income taxes consists of income taxes related to foreign and state jurisdictions in which we conduct business.
+
+
+#### Segments
+
+We have two operating segments, commercial and government, which were determined based on the manner in which the chief operating
+decision maker (“CODM”), who is our chief executive oﬃcer, manages our operations for purposes of allocating resources and evaluating
+performance. Various factors, including our organizational and management reporting structure and customer type, were considered in
+determining these operating segments.
+
+Our operating segments are described below:
+ 
+ 
+•
+ Commercial: This segment primarily serves customers working in non-government industries.
+
+•
+ Government: This segment primarily serves customers that are agencies in the U.S. federal government and non-U.S.
+
+governments.
+
+Segment proﬁtability is evaluated based on contribution and contribution margin, which is segment revenue less the related costs of revenue
+and sales and marketing expenses, excluding stock-based compensation expense. To the extent costs of revenue or sales and marketing
+expenses are not directly attributable to a particular segment, they are allocated based upon headcount at each segment during the period.
+We use it, in part, to evaluate the performance of, and allocate resources to, each of our segments. It excludes certain operating expenses
+that are not allocated to segments because they are separately managed at the consolidated corporate level. These
+
+
+#### 44
+
+
+## Page 45
+
+### Table 45.1
+
+| Revenue |  | $ | 289,366 |  | $ | 190,541 |  |  | $ | 770,582 |  |  | $ | 513,197 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.2
+
+| Gross profit |  |  | 140,026 |  |  | 125,468 |  |  |  | 488,538 |  |  |  | 346,726 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.3
+
+| Sales and marketing(1) |  |  | 334,911 |  |  | 119,666 |  |  |  | 536,082 |  |  |  | 337,255 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.4
+
+| General and administrative(1) |  |  | 338,977 |  |  | 74,062 |  |  |  | 503,033 |  |  |  | 208,736 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.5
+
+| Loss from operations |  |  | (847,777 | ) |  | (144,140 | ) |  |  | (1,017,107 | ) |  |  | (428,993 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.6
+
+| Interest expense |  |  | (2,085 | ) |  | (173 | ) |  |  | (12,325 | ) |  |  | (395 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.7
+
+| Other income (expense), net |  |  | (3,293 | ) |  | 2,305 |  |  |  | 1,218 |  |  |  | 1,858 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.8
+
+| Provision (benefit) for income taxes |  |  | (8,543 | ) |  | 2,026 |  |  |  | (5,043 | ) |  |  | 8,485 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.9
+
+| Cost of revenue |  | $ | 94,385 |  | $ | 7,183 |  | $ | 120,285 |  | $ | 16,520 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.10
+
+| Research and development |  |  | 256,769 |  |  | 15,031 |  |  | 309,698 |  |  | 49,137 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 45.11
+
+| Total stock-based compensation expense (i) (ii) |  | $ | 846,959 |  | $ | 51,763 |  | $ | 1,028,914 |  | $ | 164,650 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+unallocated costs include stock-based compensation expense, research and development costs, and general and administrative costs, such
+as legal and accounting. Contribution margin is segment contribution divided by revenue.
+
+
+#### Results of Operations
+
+The following table summarizes our condensed consolidated statements of operations data (in thousands):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September 30,
+ 
+  
+2020
+  
+2019
+  
+2020
+  
+2019
+Revenue
+  $ 289,366   $ 190,541   $
+770,582   $ 513,197
+Cost of revenue(1)
+   149,340    
+65,073    
+282,044    166,471
+
+Gross profit
+   140,026    125,468    
+488,538    346,726
+Operating expenses:
+  
+  
+  
+  
+Sales and marketing(1)
+   334,911    119,666    
+536,082    337,255
+Research and development(1)
+   313,915    
+75,880    
+466,530    229,728
+General and administrative(1)
+   338,977    
+74,062    
+503,033    208,736
+
+Total operating expenses
+   987,803    269,608    1,505,645    775,719
+
+Loss from operations
+   (847,777)    (144,140)    (1,017,107)    (428,993) 
+Interest income
+   
+494    
+3,390    
+4,312    
+12,953
+Interest expense
+   
+(2,085)    
+(173)    
+(12,325)    
+(395) 
+Change in fair value of warrants
+   
+(9,201)    
+784    
+811    
+2,743
+Other income (expense), net
+   
+(3,293)    
+2,305    
+1,218    
+1,858
+
+Loss before provision (benefit) for income taxes
+   (861,862)    (137,834)    (1,023,091)    (411,834) 
+Provision (benefit) for income taxes
+   
+(8,543)    
+2,026    
+(5,043)    
+8,485
+
+Net loss
+  $(853,319)   $(139,860)   $(1,018,048)   $(420,319)
+
+(1) 
+Includes stock-based compensation expense as follows (in thousands):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September 30,
+ 
+ 
+  
+2020
+   
+2019
+   
+2020
+   
+2019
+ 
 Cost of revenue
   
 $
@@ -4576,70 +5485,876 @@ $
 $
 7,183   
 $
-120,285  
-$ 16,520
+120,285   
+$
+16,520
 Sales and marketing
   
- 263,958   
+ 
+263,958   
  
 15,898   
  
-322,353  
+322,353   
  
 56,242
 Research and development
   
- 256,769   
+ 
+256,769   
  
 15,031   
  
-309,698  
+309,698   
  
 49,137
 General and administrative
   
- 231,847   
+ 
+231,847   
  
 13,651   
  
-276,578  
+276,578   
  
 42,751
 
-Total stock-based compensation expense
+Total stock-based compensation expense (i) (ii)
   
-$ 846,959   
+$     846,959   
+$      51,763   
+$    1,028,914   
+$    164,650
+
+(i) 
+On September 30, 2020, in connection with the Direct Listing, we incurred $769.5 million and $8.4 million of stock-based compensation using the
+accelerated attribution method related to the satisfaction of the performance-based vesting condition for RSUs and growth units, respectively, that
+had satisfied the service-based vesting condition as of such date.
+
+(ii) 
+During the three months ended September 30, 2020 and 2019, we incurred modiﬁcation charges of $7.8 million, and $4.6 million, respectively,
+related to the repricing of certain options held by our employees. During the nine months ended September 30, 2020 and 2019, we incurred
+modification charges of $89.5 million, and $14.2 million, respectively, related to the repricing of certain options held by our employees.
+
+
+#### 45
+
+
+## Page 46
+
+### Table 46.1
+
+| Revenue |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.2
+
+| Gross profit |  | 48 |  |  | 66 |  |  | 63 |  |  | 68 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.3
+
+| Sales and marketing |  | 116 |  |  | 63 |  |  | 70 |  |  | 66 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.4
+
+| General and administrative |  | 117 |  |  | 39 |  |  | 64 |  |  | 41 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.5
+
+| Loss from operations |  | (293 | ) |  | (76 | ) |  | (132 | ) |  | (84 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.6
+
+| Interest expense |  | (1 | ) |  | — |  |  | (2 | ) |  | — |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.7
+
+| Other income (expense), net |  | (1 | ) |  | 1 |  |  | — |  |  | — |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.8
+
+| Provision (benefit) for income taxes |  | (3 | ) |  | 1 |  |  | (1 | ) |  | 2 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.9
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 46.10
+
+| Commercial |  |  | 126,80 | 5 |  | 93,740 |  | 33,065 |  | 35 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+The following table sets forth the components of our condensed consolidated statements of operations data as a percentage of revenue:
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended
+
+September 30,
+ 
+  
+  2020  
+ 
+  2019  
+ 
+  2020  
+ 
+  2019  
+Revenue
+  
+ 
+100%  
+ 
+100%  
+ 
+100%   
+100% 
+Cost of revenue
+  
+ 
+52 
+ 
+ 
+34 
+ 
+ 
+37 
+  
+32
+
+Gross profit
+  
+ 
+48 
+ 
+ 
+66 
+ 
+ 
+63 
+  
+68 
+Operating expenses:
+  
+ 
+ 
+ 
+Sales and marketing
+  
+ 
+116 
+ 
+ 
+63 
+ 
+ 
+70 
+  
+66 
+Research and development
+  
+ 
+108 
+ 
+ 
+40 
+ 
+ 
+61 
+  
+45 
+General and administrative
+  
+ 
+117 
+ 
+ 
+39 
+ 
+ 
+64 
+  
+41
+
+Total operating expenses
+  
+ 
+341 
+ 
+ 
+142 
+ 
+ 
+195 
+  
+152
+
+Loss from operations
+  
+ 
+(293) 
+ 
+ 
+(76) 
+ 
+ 
+(132) 
+  
+(84) 
+Interest income
+  
+ 
+—   
+ 
+ 
+2 
+ 
+ 
+1 
+  
+3 
+Interest expense
+  
+ 
+(1) 
+ 
+ 
+—   
+ 
+ 
+(2) 
+  
+—   
+Change in fair value of warrants
+  
+ 
+(3) 
+ 
+ 
+1 
+ 
+ 
+—   
+  
+1 
+Other income (expense), net
+  
+ 
+(1) 
+ 
+ 
+1 
+ 
+ 
+—   
+  
+—
+
+Loss before provision (benefit) for income taxes
+  
+ 
+(298) 
+ 
+ 
+(72) 
+ 
+ 
+(133) 
+  
+(80) 
+Provision (benefit) for income taxes
+  
+ 
+(3) 
+ 
+ 
+1 
+ 
+ 
+(1) 
+  
+2
+
+Net loss
+  
+ 
+(295)%  
+ 
+(73)%  
+ 
+(132)%   
+(82)%
+
+
+#### Comparison of the Three Months Ended September 30, 2020 and 2019
+
+
+#### Revenue
+
+
+#### Three Months Ended
+
+September 30,
+  
+Change
+ 
+  
+2020
+  
+2019
+  
+Amount
+  
+%
+Revenue:
+  
+  
+  
+  
+Government
+  
 $
-51,763   
-$1,028,914  
-$164,650
+162,561  
+$
+96,801   
+$
+65,760   
+           68% 
+Commercial
+  
+           126,805  
+           93,740   
+           33,065   
+ 
+35%
+
+Total revenue
+  
+$
+289,366  
+$
+190,541   
+$
+98,825   
+ 
+52%
+
+Revenue increased by $98.8 million, or 52%, for the three months ended September 30, 2020 compared to the three months ended
+September 30, 2019. Revenue from government customers increased by $65.8 million, or 68%, for the three months ended September 30,
+2020 compared to the three months ended September 30, 2019, primarily in the United States. Of the increase, $46.7 million was from
+customers existing as of December 31, 2019. Revenue from commercial customers increased by $33.1 million, or 35%, for the three months
+ended September 30, 2020 compared to the three months ended September 30, 2019. The increase is primarily due to an increase of
+$24.3 million from customers existing as of December 31, 2019.
 
 
-#### Related Party Non-Recourse Note
-
-In November 2016, the Company entered into a non-recourse promissory note to lend an employee director $25.9 million, which was secured
-by 10,500,000 shares of the Company common stock held by the employee director (“pledged collateral”). Such arrangement was accounted
-for as a stock option issued to the employee, and the Company recorded the related stock-based compensation expense upon the issuance of
-the note. The promissory note accrued interest at a rate of 1.5% per annum, compounded semi-annually.
-
-In August 2020, the Company received a payment of $26.6 million for a portion of the principal and accrued interest on the outstanding
-non-recourse promissory note in the form of 3,500,000 shares of common stock based on the fair market value of the common stock on the
-date of repayment. The Company forgave the remaining $0.8 million owed under the note, guaranteed the employee director a tax neutrality
-payment to cover his additional tax liability associated with the transaction, and terminated its security interest in the remaining shares of
-common stock that were originally pledged as collateral. The forgiveness of the remaining debt and the provision of the tax neutrality payment
-was accounted for as a modiﬁcation to the original stock option, and the Company recorded additional stock-based compensation expense of
-$4.5 million during the three months ended September 30, 2020. As of September 30, 2020, the Company paid $0.8 million in tax neutrality
-payments and accrued a $4.0 million liability for its estimate of the remaining amount to be paid to the employee director.
+#### 46
 
 
-#### 12. Income Taxes
+## Page 47
 
-The Company recorded a beneﬁt from income taxes of $8.5 million and a provision (beneﬁt) for income taxes $2.0 million for the three months
-ended September 30, 2020 and 2019, respectively, and a beneﬁt from income taxes of $5.0 million and a provision (beneﬁt) for income taxes
-of $8.5 million for the nine months ended September 30, 2020 and 2019, respectively. The Company is subject to income tax in the U.S. as
-well as other tax jurisdictions in which it conducts business. The change in provision (beneﬁt) for income taxes was primarily due to decreases
-in proﬁts from the Company’s international operations, beneﬁts from stock-based compensation windfalls, and the revaluation of its United
-Kingdom (“UK”) deferred tax assets as a result of a change in the UK corporate tax rate enacted during the current quarter.
+### Table 47.1
+
+| Cost of revenue |  | $ | 149,340 |  | $ | 65,073 |  |  | $ | 84,267 |  |  | 129 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 
-#### 30
+
+### Table 47.2
+
+| Gross margin |  |  | 48 | % |  | 66 | % |  |  | (18) | % |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 47.3
+
+| Sales and marketing |  | $ | 334,911 |  | $ 119,666 |  | $ | 215,245 |  | 180 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 47.4
+
+| General and administrative |  |  | 338,977 |  | 74,062 |  |  | 264,915 |  | 358 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Cost of Revenue and Gross Profit
+
+
+#### Three Months Ended
+
+September 30,
+ 
+Change
+ 
+  
+2020
+ 
+2019
+ 
+Amount
+ 
+%
+Cost of revenue
+  
+$
+149,340
+ $
+65,073
+ $
+84,267 
+  
+129% 
+Gross profit
+  
+           140,026
+            125,468
+            14,558 
+            12% 
+Gross margin
+  
+ 
+48%   
+66%   
+(18)%
+
+Cost of revenue for the three months ended September 30, 2020 increased by $84.3 million, or 129%, compared to the three months ended
+September 30, 2019. The increase was primarily due to increases in personnel costs of $89.0 million, which included an increase of
+$87.2 million in stock-based compensation expense primarily due to the recognition of cumulative stock-based compensation expense upon
+the Direct Listing related to the Company’s RSUs as well as vesting of stock options, and an increase of $4.3 million primarily driven by an
+increase in headcount attributable to cost of revenue functions to support new and existing customers. These costs were partially oﬀset by a
+decrease in travel-related expenses and other personnel costs of $2.5 million as a result of COVID-related travel restrictions and company-
+wide initiatives to decrease overall travel. Additionally, there was an increase of $2.1 million related to other direct deployment costs, oﬀset by
+decreases of $3.4 million related to third-party cloud hosting services and $3.4 million related to allocated overhead, including oﬃce related
+expenses.
+
+Our gross margin for the three months ended September 30, 2020 decreased by 18% compared to the three months ended September 30,
+2019. Gross margin decreased primarily as a result of cumulative stock-based compensation expense related to the Company’s RSUs
+recognized upon the Direct Listing. For the three months ended September 30, 2020 and 2019, gross margin, excluding stock-based
+compensation would have increased by 11% to 81%.
+
+
+#### Operating Expenses
+
+
+#### Three Months Ended
+
+September 30,
+  
+Change
+ 
+  
+2020
+  
+2019
+  
+Amount
+  
+%
+Sales and marketing
+  
+$
+334,911   
+$
+119,666   
+$
+215,245   
+ 
+180% 
+Research and development
+  
+           313,915   
+           75,880   
+           238,035   
+           314% 
+General and administrative
+  
+ 
+338,977   
+ 
+74,062   
+ 
+264,915   
+ 
+358%
+
+Total operating expenses
+  
+$
+987,803   
+$
+269,608   
+$
+718,195   
+ 
+266%
+
+
+#### Sales and Marketing
+
+Sales and marketing expenses increased by $215.2 million, or 180%, for the three months ended September 30, 2020 compared to the three
+months ended September 30, 2019. The increase was primarily driven by increases in personnel costs of $230.2 million, which included an
+increase of $248.1 million in stock-based compensation expense primarily due to the recognition of cumulative stock-based compensation
+expense upon the Direct Listing related to the Company’s RSUs and growth units, as well as vesting of stock options; and an increase of
+$8.0 million related to an increase in headcount attributable to our sales and marketing functions. These costs were partially oﬀset by a
+decrease of $25.9 million in travel-related expenses and other personnel costs as a result of COVID-related travel restrictions and company-
+wide initiatives to decrease overall travel. Additionally, there was a decrease of $15.0 million related to allocated overhead, including oﬃce
+related expenses.
+
+
+#### 47
+
+
+## Page 48
+
+### Table 48.1
+
+| Interest income |  | $ | 494 |  | $ | 3,390 |  | $ | (2,896 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 48.2
+
+| Interest expense |  | $ | (2,085 | ) |  | $ | (173) |  | $ | (1,912 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Research and Development
+
+Research and development expenses increased by $238.0 million, or 314%, for the three months ended September 30, 2020 compared to the
+three months ended September 30, 2019. The increase was primarily driven by increases in personnel costs of $244.0 million, which included
+an increase of $241.7 million in stock-based compensation expense primarily due to the recognition of cumulative stock-based compensation
+expense upon the Direct Listing related to the Company’s RSUs as well as vesting of stock options, and an increase of $5.1 million related to
+an increase in headcount attributable to our research and development functions. These costs were partially oﬀset by a decrease of
+$2.8 million in travel-related expenses and other personnel costs as a result of COVID-related travel restrictions and company-wide initiatives
+to decrease overall travel. Additionally, there was a decrease of $6.0 million in third-party cloud hosting services generally as a result of
+volume-based discounts.
+
+
+#### General and Administrative
+
+General and administrative expenses increased by $264.9 million, or 358%, for the three months ended September 30, 2020 compared to the
+three months ended September 30, 2019. The increase in expenses was primarily driven by increases in personnel costs of $220.7 million,
+which included an increase of $218.2 million in stock-based compensation expense primarily due to the recognition of cumulative stock-based
+compensation expense upon the Direct Listing related to the Company’s RSUs and growth units, as well as vesting of stock options; and an
+increase of $3.2 million related to an increase in headcount attributable to our general and administrative functions; These costs partially offset
+by a decrease of $0.7 million in travel-related expenses and other personnel costs primarily as a result of COVID-related travel restrictions and
+company-wide initiatives to decrease overall travel. Additionally, there were increases of $42.7 million in legal professional services primarily
+related to the Direct Listing and $8.0 million for other professional services related to the Direct Listing and corporate IT and consulting
+functions to support initiatives for becoming a public company and the overall growth of our operations, which were oﬀset by a decrease of
+$6.5 million related to allocated overhead, including office related expenses.
+
+
+#### Interest Income
+
+
+#### Three Months Ended
+
+September 30,
+  
+Change
+ 
+  
+    2020      
+    2019      
+Amount
+Interest income
+  
+$
+494   
+$
+3,390   
+$(2,896)
+
+Interest income decreased by $2.9 million for the three months ended September 30, 2020 compared to the three months ended
+September 30, 2019 primarily due to a reduction in U.S. interest rates on interest earned from our cash, cash equivalents, and restricted cash.
+
+
+#### Interest Expense
+
+
+#### Three Months Ended
+
+September  30,
+ 
+Change
+ 
+  
+    2020     
+    2019     Amount
+Interest expense
+  
+$ (2,085)  $
+  (173)  $(1,912)
+
+Interest expense increased by $1.9 million for the three months ended September 30, 2020 compared to the three months ended
+September 30, 2019. The increase was primarily due to the absence of outstanding debt during the three months ended September 30, 2019.
+
+
+#### 48
+
+
+## Page 55
+
+
+#### Table of Contents
+
+information, refer to Note 8. Commitments and Contingencies to our condensed consolidated ﬁnancial statements included elsewhere in this
+Quarterly Report on Form 10-Q. There has been no material change in our contractual obligations and commitments other than in the
+ordinary course of business since our ﬁscal year ended December 31, 2019. See our Prospectus for additional information regarding the
+Company’s contractual obligations.
+
+
+#### Off-Balance Sheet Arrangements
+
+We did not have, during the periods presented, any off-balance sheet ﬁnancing arrangements or any relationships with unconsolidated
+entities or ﬁnancial partnerships, including entities sometimes referred to as structured ﬁnance or special purpose entities, that were
+established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+
+
+#### Critical Accounting Policies and Estimates
+
+Our condensed consolidated ﬁnancial statements and the accompanying notes thereto included elsewhere in this Quarterly Report on Form
+10-Q are prepared in accordance with GAAP. The preparation of condensed consolidated ﬁnancial statements requires us to make estimates
+and assumptions that aﬀect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our
+estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results
+could diﬀer signiﬁcantly from our estimates. To the extent that there are diﬀerences between our estimates and actual results, our future
+financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and
+estimates discussed in the Prospectus except for the determination of the fair value of our common stock, which is used in estimating the fair
+value of stock-based awards at grant date as discussed below.
+
+Prior to our Direct Listing, our common stock was not publicly traded; therefore we estimated the fair value of our common stock as discussed
+in the Prospectus. Following our Direct Listing, the closing sale price per share of our common stock as reported on the NYSE on the date of
+grant is used to determine the fair value of our common stock. Our signiﬁcant accounting policies are discussed in “Notes to Consolidated
+Financial Statements — Note 2. Significant Accounting Policies” in the Prospectus.
+
+
+#### JOBS Act Accounting Election
+
+We are an emerging growth company, as deﬁned in the JOBS Act. Under the JOBS Act, emerging growth companies can delay adopting new
+or revised accounting standards issued subsequent to the enactment of the JOBS Act until those standards apply to private companies. We
+have elected to use this extended transition period for complying with certain new or revised accounting standards that have diﬀerent eﬀective
+dates for public and private companies until the earlier of the date we (i) are no longer an emerging growth company or (ii) aﬃrmatively and
+irrevocably opt out of the extended transition period provided in the JOBS Act. As a result, our condensed consolidated ﬁnancial statements
+may or may not be comparable to companies that comply with new or revised accounting pronouncements as of public companies’ eﬀective
+dates.
+
+
+#### Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, refer to Note 2. Significant Accounting Policies in our condensed consolidated
+financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+#### 55
+
+
+## Page 56
+
+
+#### Table of Contents
+
+ITEM 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risks in the ordinary course of our business, which primarily relate to ﬂuctuations in interest rates, foreign
+exchange, and inflation.
+
+
+#### Interest Rate Risk
+
+Our cash, cash equivalents, and restricted cash consist of cash, certiﬁcates of deposit, time deposits, and money market funds. Our
+investment policy and strategy are focused on the preservation of capital and supporting our liquidity requirements. We have not entered into
+investments for trading or speculative purposes.
+
+Due to the short-term nature of the ﬁnancial instruments, we have not been exposed to, nor do we anticipate being exposed to, material risks
+due to changes in interest rates. A hypothetical 10% change in interest rates during any of the periods presented would not have had a
+material impact on our condensed consolidated financial statements.
+
+As of September 30, 2020, we had a $200.0 million variable rate term loan outstanding that is scheduled to mature in June 2023. An
+immediate 10% change in LIBOR would not have a material impact on our debt-related obligations, financial position or results of operations.
+
+
+#### Foreign Currency Exchange Risk
+
+Our contracts with customers are primarily denominated in U.S. dollars, with a small amount denominated in foreign currencies. Our
+expenses are generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the
+United States, United Kingdom, and Europe. Our results of current and future operations and cash ﬂows are, therefore, subject to ﬂuctuations
+due to changes in foreign currency exchange rates, particularly changes in the Euro and GBP. Additionally, ﬂuctuations in foreign currency
+exchange rates may cause us to recognize transaction gains and losses in our statement of operations. To date, foreign currency transaction
+gains and losses have not been material to our condensed consolidated ﬁnancial statements, and we have not engaged in any foreign
+currency hedging transactions.
+
+
+#### Inflation Risk
+
+We do not believe that inflation has had a material effect on our business, results of operations, or financial condition.
+
+
+#### 56
+
+
+## Page 57
+
+
+#### Table of Contents
+
+ITEM 4.
+CONTROLS AND PROCEDURES
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we ﬁle or submit
+under the Securities Exchange Act of 1934, as amended (the “Exchange Act”) is recorded, processed, summarized, and reported within the
+time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our
+Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Our management, with the participation and supervision of our Chief Executive Oﬃcer and our Chief Financial Oﬃcer, have evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end
+of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Oﬃcer and Chief Financial
+Oﬃcer have concluded that as of such date, our disclosure controls and procedures were, in design and operation, eﬀective at a reasonable
+assurance level.
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d)
+and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the
+exercise of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate
+misconduct completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any
+system of internal control over ﬁnancial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not
+absolute assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the
+fact that there are resource constraints and that management is required to apply its judgment in evaluating the beneﬁts of possible controls
+and procedures relative to their costs. Moreover, projections of any evaluation of eﬀectiveness to future periods are subject to the risk that
+controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may
+deteriorate. We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot
+assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+
+
+#### 57
+
+
+## Page 58
+
+
+#### Table of Contents
+
+PART II. OTHER INFORMATION
+ 
+ITEM 1.
+LEGAL PROCEEDINGS
+
+From time to time we are subject to legal proceedings and claims arising in the ordinary course of business. Based on our current knowledge,
+we believe that the amount or range of reasonably possible losses will not, either individually or in the aggregate, have a material adverse
+effect on our business, results of operations, or financial condition.
+
+The results of any litigation cannot be predicted with certainty, and an unfavorable resolution in any legal proceedings could materially aﬀect
+our future business, results of operations, or ﬁnancial condition. Regardless of the outcome, litigation can have an adverse impact on us
+because of defense and settlement costs, diversion of management resources, and other factors.
+
+ITEM 1A.
+RISK FACTORS
+
+Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks and uncertainties described
+below, together with all of the other information in this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” and our consolidated ﬁnancial statements and accompanying notes, before
+making a decision to invest in our Class A common stock. Our business, ﬁnancial condition, results of operations, or prospects could also be
+harmed by risks and uncertainties not currently known to us or that we currently do not believe are material. If any of the risks actually occur,
+our business, ﬁnancial condition, results of operations, and prospects could be adversely aﬀected. In that event, the trading price of our
+Class A common stock could decline, and you could lose part or all of your investment.
+
+
+#### Risks Related to Our Business and Industry
+
+We have incurred losses each year since our inception, we expect our operating expenses to increase, and we may not become
+profitable in the future.
+
+We have incurred losses each year since our inception, including net losses of $580.0 million and $579.6 million for the years ended
+December 31, 2018 and 2019, respectively, and net losses of $420.3 million and $1.0 billion for the nine months ended September 30, 2019
+and 2020, respectively, and we may never achieve or maintain proﬁtability. In addition, our operating expenses have increased over time. As
+we continue to expand our business, industry verticals, and the breadth of our operations, upgrade our infrastructure, hire additional
+employees, expand into new markets, invest in research and development, invest in sales and marketing, including expanding our sales
+organization and related sales-based payments that may come with such expansion, lease more real estate to accommodate our anticipated
+future growth, and incur costs associated with general administration, including expenses related to being a public company, we expect that
+our costs of revenue and operating expenses will continue to increase. To the extent we are successful in increasing our customer base, we
+may also incur increased losses because the costs associated with acquiring and growing our customers via our Acquire, Expand, and Scale
+business model and with research and development are generally incurred upfront, while our revenue from customer contracts is generally
+recognized over the contract term. Furthermore, our sales model often requires us to spend months and invest signiﬁcant resources working
+with customers on pilot deployments at no or low cost to them, which may result in no or minimal future revenue. We may not be able to
+increase our revenue at a rate suﬃcient to oﬀset increases in our costs of revenue and operating expenses in the near term or at all, which
+would prevent us from achieving or maintaining proﬁtability in the future. Any failure by us to achieve, and then sustain or increase, proﬁtability
+on a consistent basis could adversely affect our business, financial condition, and results of operations.
+
+We may not be able to sustain our revenue growth rate in the future.
+
+Although our revenue has increased in recent periods, there can be no assurances that revenue will continue to grow or do so at current
+rates, and you should not rely on the revenue of any prior quarterly or annual period as an indication of our future performance. Our revenue
+growth rate may decline in future periods. Many factors may contribute to declines in our revenue growth rate, including increased
+competition, slowing demand for our platforms from existing and new customers, a failure by us to continue capitalizing on growth
+opportunities, terminations of existing contracts or failure to exercise existing options by our customers, and the maturation of our business,
+among others. If our revenue growth rate declines, our business, financial condition, and results of operations could be adversely affected.
+
+Our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable.
+
+Our results of operations may ﬂuctuate, in part, because of the intensive nature of our sales eﬀorts and the length and unpredictability of our
+sales cycle. As part of our sales efforts, we invest considerable time and expense
+
+
+#### 58

@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2024_Q3_10-Q
+# Financial Report: MICROSOFT_2024_Q3_10-Q
 
 - **Source File**: `MICROSOFT_2024_Q3_10-Q.pdf`
-- **Total Pages**: 78
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 78
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -5389,520 +5389,6 @@ Total
 ## Page 25
 
 
-## Page 26
-
-
-### PART I
-
-Item 1
- 
-As of March 31, 2024, we had additional operating and finance leases, primarily for datacenters, that had not yet commenced of $8.4 billion and 
-$87.8 billion, respectively. These operating and finance leases will commence between fiscal year 2024 and fiscal year 2030 with lease terms of 
-1 year to 20 years.
-
-
-### NOTE 14 — CONTINGENCIES
-
-
-#### U.S. Cell Phone Litigation
-
-Microsoft Mobile Oy, a subsidiary of Microsoft, along with other handset manufacturers and network operators, is a defendant in 45 lawsuits filed 
-in the Superior Court for the District of Columbia by individual plaintiffs who allege that radio emissions from cellular handsets caused their brain 
-tumors and other adverse health effects. We assumed responsibility for these claims in our agreement to acquire Nokia’s Devices and Services 
-business and have been substituted for the Nokia defendants. Twelve of these cases were consolidated for certain pre-trial proceedings; the 
-remaining cases are stayed. In a separate 2009 decision, the Court of Appeals for the District of Columbia held that adverse health effect claims 
-arising from the use of cellular handsets that operate within the U.S. Federal Communications Commission radio frequency emission guidelines 
-(“FCC Guidelines”) are pre-empted by federal law. The plaintiffs allege that their handsets either operated outside the FCC Guidelines or were 
-manufactured before the FCC Guidelines went into effect. The lawsuits also allege an industry-wide conspiracy to manipulate the science and 
-testing around emission guidelines.
-
-In 2013, the defendants in the consolidated cases moved to exclude the plaintiffs’ expert evidence of general causation on the basis of flawed 
-scientific methodologies. In 2014, the trial court granted in part and denied in part the defendants’ motion to exclude the plaintiffs’ general 
-causation experts. The defendants filed an interlocutory appeal to the District of Columbia Court of Appeals challenging the standard for 
-evaluating expert scientific evidence. In October 2016, the Court of Appeals issued its decision adopting the standard advocated by the 
-defendants and remanding the cases to the trial court for further proceedings under that standard. The plaintiffs have filed supplemental expert 
-evidence, portions of which were stricken by the court. A hearing on general causation took place in September of 2022. In April of 2023, the 
-court granted defendants’ motion to strike the testimony of plaintiffs’ experts that cell phones cause brain cancer and entered an order excluding 
-all of plaintiffs’ experts from testifying. The parties agreed to a stipulated dismissal of the consolidated cases to allow plaintiffs to appeal the 
-expert testimony order. Plaintiffs appealed the court’s order in August of 2023, and the parties have filed their briefs on the appeal. A hearing on 
-the status of the stayed cases occurred in December of 2023.
-
-
-#### Irish Data Protection Commission Matter
-
-In 2018, the Irish Data Protection Commission (“IDPC”) began investigating a complaint against LinkedIn as to whether LinkedIn’s targeted 
-advertising practices violated the recently implemented European Union General Data Protection Regulation (“GDPR”). Microsoft cooperated 
-throughout the period of inquiry. In April 2023, the IDPC provided LinkedIn with a non-public preliminary draft decision alleging GDPR violations 
-and proposing a fine. Microsoft intends to challenge the preliminary draft decision. There is no set timeline for the IDPC to issue a final decision.
-
-
-#### Other Contingencies
-
-We also are subject to a variety of other claims and suits that arise from time to time in the ordinary course of our business. Although 
-management currently believes that resolving claims against us, individually or in aggregate, will not have a material adverse impact in our 
-consolidated financial statements, these matters are subject to inherent uncertainties and management’s view of these matters may change in 
-the future.
-
-As of March 31, 2024, we accrued aggregate legal liabilities of $665 million. While we intend to defend these matters vigorously, adverse 
-outcomes that we estimate could reach approximately $600 million in aggregate beyond recorded amounts are reasonably possible. Were 
-unfavorable final outcomes to occur, there exists the possibility of a material adverse impact in our consolidated financial statements for the 
-period in which the effects become reasonably estimable.
-
-
-#### 25
-
-
-## Page 27
-
-### Table 27.1
-
-| First Quarter |  |  | 11 |  |  | $ | 3,560 |  |  |  | 17 | $ 4,600 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.2
-
-| Third Quarter |  |  | 7 |  |  |  | 2,800 |  |  |  | 18 | 4,600 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.3
-
-| September 19, 2023 |  |  | November 16, 2023 |  |  |  | December 14, 2023 |  |  | $ | 0.75 | $ 5,574 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.4
-
-| March 12, 2024 |  |  | May 16, 2024 |  |  |  | June 13, 2024 |  |  |  | 0.75 | 5,574 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.5
-
-| September 20, 2022 |  |  | November 17, 2022 |  |  |  | December 8, 2022 |  |  | $ | 0.68 | $ 5,066 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.6
-
-| March 14, 2023 |  |  | May 18, 2023 |  |  |  | June 8, 2023 |  |  |  | 0.68 | 5,054 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-### NOTE 15 — STOCKHOLDERS’ EQUITY
-
-
-#### Share Repurchases
-
-On September 14, 2021, our Board of Directors approved a share repurchase program authorizing up to $60.0 billion in share repurchases. This 
-share repurchase program commenced in November 2021, has no expiration date, and may be terminated at any time. As of March 31, 2024, 
-$13.1 billion remained of this $60.0 billion share repurchase program.
-
-We repurchased the following shares of common stock under the share repurchase program:
-
-(In millions)
- 
-Shares  
-Amount
-Shares  
-Amount
-
-Fiscal Year
- 
- 
-2024
- 
-2023
-
-First Quarter
- 
-11  $
-3,560   
-17  $
-4,600 
-Second Quarter
-  
-7   
-2,800   
-20   
-4,600
-
-Third Quarter
-  
-7   
-2,800   
-18   
-4,600
-
-Total
-  
-25  $
-9,160   
-55  $
-13,800
-
-All repurchases were made using cash resources. All shares repurchased were under the share repurchase program approved on September 
-14, 2021. The above table excludes shares repurchased to settle employee tax withholding related to the vesting of stock awards of $1.4 billion 
-and $3.9 billion for the three and nine months ended March 31, 2024, respectively, and $909 million and $2.7 billion for the three and nine 
-months ended March 31, 2023, respectively.
-
-
-#### Dividends
-
-
-#### Our Board of Directors declared the following dividends:
-
-
-#### Declaration Date
-
-
-#### Record Date
-
-
-#### Payment Date
-
-Dividend
-Per Share
-Amount
-
-Fiscal Year 2024
-   
-    
-    
-   
-(In millions)
-
-September 19, 2023
-  November 16, 2023
-   December 14, 2023
-  $
-0.75  $
-5,574 
-November 28, 2023
-  February 15, 2024
-   March 14, 2024
-   
-0.75   
-5,573 
-March 12, 2024
-  May 16, 2024
-   June 13, 2024
-   
-0.75   
-5,574
-
-Total
-   
-    
-  $
-2.25  $
-16,721
-
-
-#### Fiscal Year 2023
-
-September 20, 2022
-  November 17, 2022
-   December 8, 2022
-  $
-0.68  $
-5,066 
-November 29, 2022
-  February 16, 2023
-   March 9, 2023
-   
-0.68   
-5,059 
-March 14, 2023
-  May 18, 2023
-   June 8, 2023
-   
-0.68   
-5,054
-
-Total
-   
-    
-  $
-2.04  $
-15,179
-
-The dividend declared on March 12, 2024 was included in other current liabilities as of March 31, 2024.
-
-
-#### 26
-
-
-## Page 28
-
-### Table 28.1
-
-| Balance, beginning of period |  | $ | (9 | ) |  | $ | (38 | ) |  | $ | (27 | ) |  | $ | (13 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.2
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | 37 |  |  |  | (18 | ) |  |  | 32 |  |  |  | (62 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.3
-
-| Amounts reclassified from accumulated other comprehensive loss |  |  | 29 |  |  |  | (14 | ) |  |  | 25 |  |  |  | (48 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.4
-
-| Balance, end of period |  | $ | 1 |  |  | $ | (47 | ) |  | $ | 1 |  |  | $ | (47 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.5
-
-| Balance, beginning of period |  | $ | (2,511 | ) |  | $ | (3,687 | ) |  | $ | (3,582 | ) |  | $ | (2,138 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.6
-
-| Reclassification adjustments for losses included in other income (expense), net |  |  | 13 |  |  |  | 26 |  |  |  | 49 |  |  |  | 68 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.7
-
-| Amounts reclassified from accumulated other comprehensive loss |  |  | 10 |  |  |  | 21 |  |  |  | 39 |  |  |  | 55 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.8
-
-| Balance, end of period |  | $ | (2,713 | ) |  | $ | (2,934 | ) |  | $ | (2,713 | ) |  | $ | (2,934 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.9
-
-| Balance, beginning of period |  | $ | (2,429 | ) |  | $ | (2,732 | ) |  | $ | (2,734 | ) |  | $ | (2,527 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 28.10
-
-| Balance, end of period |  | $ | (2,723 | ) |  | $ | (2,663 | ) |  | $ | (2,723 | ) |  | $ | (2,663 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-### NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
-
-The following table summarizes the changes in accumulated other comprehensive income (loss) by component:
-
-
-#### (In millions)
-
-
-#### Three Months Ended
-
-
-#### March 31,
-
-
-#### Nine Months Ended
-
-
-#### March 31,
-
-2024    
-2023    
-2024   
- 
-2023
-
-
-#### Derivatives
-
-Balance, beginning of period
- $
-(9)  $
-(38)  $
-(27)  $
-(13)
-Unrealized gains (losses), net of tax of $(5), $1, $1, and $3
-  
-(19)   
-5   
-3   
-14
-
-
-#### Reclassification adjustments for (gains) losses included in other income
-
-
-#### (expense), net
-
-
-#### 37
-
-(18)   
-32   
-(62)
-Tax expense (benefit) included in provision for income taxes
-  
-(8)   
-4   
-(7)   
-14
-
-Amounts reclassified from accumulated other comprehensive loss
-  
-29   
-(14)   
-25   
-(48)
-
-Net change related to derivatives, net of tax of $3, $(3), $8, and $(11)
-  
-10   
-(9)   
-28   
-(34)
-
-Balance, end of period
- $
-1  $
-(47)  $
-1  $
-(47)
-
-
-#### Investments
-
-Balance, beginning of period
- $
-(2,511)  $
-(3,687)  $
-(3,582)  $
-(2,138)
-Unrealized gains (losses), net of tax of $(56), $194, $221, and $(225)
-  
-(212 )   
-732    
-830    
-(851 )
-
-
-#### Reclassification adjustments for losses included in other income
-
-
-#### (expense), net
-
-
-#### 13
-
-26   
-49   
-68 
-Tax benefit included in provision for income taxes
-  
-(3)   
-(5)   
-(10)   
-(13)
-
-Amounts reclassified from accumulated other comprehensive loss
-  
-10   
-21   
-39   
-55
-
-
-#### Net change related to investments, net of tax of $(53), $199, $231, and
-
-
-#### $(212)
-
-
-#### (202 )
-
-753    
-869    
-(796 )
-
-Balance, end of period
- $
-(2,713)  $
-(2,934)  $
-(2,713)  $
-(2,934)
-
-
-#### Translation Adjustments and Other
-
-Balance, beginning of period
- $
-(2,429)  $
-(2,732)  $
-(2,734)  $
-(2,527)
-Translation adjustments and other, net of tax of $0, $0, $0, and $0
-  
-(294 )   
-69   
-11   
-(136 )
-
-Balance, end of period
- $
-(2,723)  $
-(2,663)  $
-(2,723)  $
-(2,663)
-
-Accumulated other comprehensive loss, end of period
- $
-(5,435)  $
-(5,644)  $
-(5,435)  $
-(5,644)
-
-
-#### 27
-
-
 ## Page 29
 
 
@@ -6178,3 +5664,344 @@ determining the geographic source of the revenue.
 
 
 #### (a)
+
+
+## Page 31
+
+### Table 31.1
+
+| Server products and cloud services |  | $ | 24,832 |  |  | $ | 20,025 |  |  | $ | 71,093 |  |  | $ | 58,007 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.2
+
+| Windows |  |  | 5,929 |  |  |  | 5,328 |  |  |  | 16,758 |  |  |  | 15,449 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.3
+
+| LinkedIn |  |  | 4,013 |  |  |  | 3,659 |  |  |  | 12,121 |  |  |  | 11,120 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.4
+
+| Enterprise and partner services |  |  | 1,861 |  |  |  | 2,047 |  |  |  | 5,722 |  |  |  | 5,883 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.5
+
+| Devices |  |  | 1,067 |  |  |  | 1,282 |  |  |  | 3,490 |  |  |  | 4,160 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 31.6
+
+| Total |  | $ | 61,858 |  |  | $ | 52,857 |  |  | $ | 180,395 |  |  | $ | 155,726 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART I
+
+
+#### Item 1
+
+Revenue, classified by significant product and service offerings, was as follows:
+
+
+#### (In millions)
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+
+#### Nine Months Ended
+
+
+#### March 31,
+
+2024  
+ 
+2023  
+2024  
+2023
+
+Server products and cloud services
+ $
+24,832  $
+20,025  $
+71,093  $
+58,007 
+Office products and cloud services
+  
+13,911   
+12,468   
+40,528   
+35,912 
+Windows
+  
+5,929   
+5,328   
+16,758   
+15,449 
+Gaming
+  
+5,451   
+3,607   
+16,481   
+11,975 
+LinkedIn
+  
+4,013   
+3,659   
+12,121   
+11,120 
+Search and news advertising
+  
+3,134   
+3,036   
+9,407   
+9,158 
+Enterprise and partner services
+  
+1,861   
+2,047   
+5,722   
+5,883 
+Dynamics products and cloud services
+  
+1,646   
+1,389   
+4,762   
+3,951 
+Devices
+  
+1,067   
+1,282   
+3,490   
+4,160 
+Other 
+  
+14   
+16   
+33   
+111
+
+Total
+ $
+61,858  $
+52,857  $
+180,395  $
+155,726
+
+We have recast certain prior period amounts to conform to the way we internally manage and monitor our business.
+
+Our Microsoft Cloud revenue, which includes Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, 
+Dynamics 365, and other commercial cloud properties, was $35.1 billion and $100.6 billion for the three and nine months ended March 31, 2024, 
+respectively, and $28.5 billion and $81.3 billion for the three and nine months ended March 31, 2023, respectively. These amounts are primarily 
+included in Server products and cloud services, Office products and cloud services, LinkedIn, and Dynamics products and cloud services in the 
+table above.
+
+Assets are not allocated to segments for internal reporting presentations. A portion of amortization and depreciation is included with various other 
+costs in an overhead allocation to each segment. It is impracticable for us to separately identify the amount of amortization and depreciation by 
+segment that is included in the measure of segment profit or loss.
+
+
+#### 30
+
+
+## Page 32
+
+
+### PART I
+
+
+#### Item 1
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and the Board of Directors of Microsoft Corporation
+ 
+Results of Review of Interim Financial Information
+
+We have reviewed the accompanying consolidated balance sheet of Microsoft Corporation and subsidiaries (the “Company”) as of March 
+31, 2024, the related consolidated statements of income, comprehensive income, cash flows, and stockholders’ equity for the three-month 
+and nine-month periods ended March 31, 2024 and 2023, and the related notes (collectively referred to as the “interim financial 
+information”). Based on our reviews, we are not aware of any material modifications that should be made to the accompanying interim 
+financial information for it to be in conformity with accounting principles generally accepted in the United States of America.
+ 
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) 
+(PCAOB), the consolidated balance sheet of the Company as of June 30, 2023, and the related consolidated statements of income, 
+comprehensive income, cash flows, and stockholders’ equity for the year then ended (not presented herein); and in our report dated July 
+27, 2023, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the information set forth in the 
+accompanying consolidated balance sheet as of June 30, 2023, is fairly stated, in all material respects, in relation to the consolidated 
+balance sheet from which it has been derived.
+ 
+Basis for Review Results
+
+This interim financial information is the responsibility of the Company’s management. We are a public accounting firm registered with the 
+PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the 
+applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+ 
+We conducted our reviews in accordance with standards of the PCAOB. A review of interim financial information consists principally of 
+applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in 
+scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion 
+regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+
+
+### /S/ DELOITTE & TOUCHE LLP
+
+Seattle, Washington
+April 25, 2024
+
+
+#### 31
+
+
+## Page 33
+
+
+### PART I
+
+
+#### Item 2
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+
+### OPERATIONS
+
+
+#### Note About Forward-Looking Statements
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are 
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 
+1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the 
+following sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” (Part II, Item 1A 
+of this Form 10-Q). These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” 
+“intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar 
+expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may 
+cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in 
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures about 
+Market Risk” (Part I, Item 3 of this Form 10-Q), and “Risk Factors”. We undertake no obligation to update or revise publicly any forward-looking 
+statements, whether because of new information, future events, or otherwise.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader 
+understand the results of operations and financial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read 
+in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2023, and our financial statements and the accompanying 
+Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+
+
+### OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive 
+to create local opportunity, growth, and impact in every country around the world. We are creating the platforms and tools, powered by artificial 
+intelligence (“AI”), that deliver better, faster, and more effective solutions to support small and large business competitiveness, improve 
+educational and health outcomes, grow public-sector efficiency, and empower human ingenuity.
+
+We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and 
+supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices. Our most 
+significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter 
+operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes.
+
+Highlights from the third quarter of fiscal year 2024 compared with the third quarter of fiscal year 2023 included:
+
+•Microsoft Cloud revenue increased 23% to $35.1 billion.
+
+•Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 15%.
+
+•Office Consumer products and cloud services revenue increased 4% and Microsoft 365 Consumer subscribers grew to 80.8 million.
+
+•LinkedIn revenue increased 10%.
+
+•Dynamics products and cloud services revenue increased 19% driven by Dynamics 365 growth of 23%.
+
+•Server products and cloud services revenue increased 24% driven by Azure and other cloud services growth of 31%.
+
+•Windows revenue increased 11% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 11% 
+and Windows Commercial products and cloud services revenue growth of 13%.
+
+•Devices revenue decreased 17%.
+
+
+#### 32
+
+
+## Page 34
+
+
+### PART I
+
+
+#### Item 2
+
+•Xbox content and services revenue increased 62% driven by 61 points of net impact from the Activision Blizzard Inc. (“Activision 
+Blizzard”) acquisition. The net impact reflects the change of Activision Blizzard content from third-party to first-party.
+
+•Search and news advertising revenue excluding traffic acquisition costs increased 12%.
+
+On October 13, 2023, we completed our acquisition of Activision Blizzard for a total purchase price of $75.4 billion, consisting primarily of cash. 
+The financial results of Activision Blizzard have been included in our consolidated financial statements since the date of the acquisition. Activision 
+Blizzard is reported as part of our More Personal Computing segment. Refer to Note 7 – Business Combinations of the Notes to the Financial 
+Statements (Part I, Item 1 of this Form 10-Q) for further discussion.
+
+
+#### Industry Trends
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an 
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we 
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the 
+changing demands of customers and users, industry trends, and competitive forces.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software 
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers 
+prefer evolve rapidly, influencing how users access services in the cloud and, in some cases, the user’s choice of which suite of cloud-based 
+services to use. Aggregate demand for our software, services, and devices is also correlated to global macroeconomic and geopolitical factors, 
+which remain dynamic. We must continue to evolve and adapt over an extended time in pace with this changing environment.
+
+The investments we are making in cloud and AI infrastructure and devices will continue to increase our operating costs and may decrease our 
+operating margins. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to 
+meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of 
+permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other 
+components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability 
+to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain 
+certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to 
+manufacture devices on time to meet consumer demand.
+
+Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. 
+We compete for talented individuals globally by offering an exceptional working environment, broad customer reach, scale in resources, the 
+ability to grow one’s career across many different products and businesses, and competitive compensation and benefits.
+
+Our international operations provide a significant portion of our total revenue and expenses. Many of these revenue and expenses are 
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may significantly affect revenue and 
+expenses. Fluctuations in the U.S. dollar relative to certain foreign currencies did not have a material impact on reported revenue and expenses 
+from our international operations for the three and nine months ended March 31, 2024.
+
+Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and other risks.
+
+
+#### Seasonality
+
+Our revenue fluctuates quarterly and is generally higher in the second and fourth quarters of our fiscal year. Second quarter revenue is driven by 
+corporate year-end spending trends in our major markets and holiday season spending by consumers, and fourth quarter revenue is driven by 
+the volume of multi-year on-premises contracts executed during the period.
+
+
+#### 33

@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2022_Q3_10-Q
+# Financial Report: META-PLATFORMS_2022_Q3_10-Q
 
 - **Source File**: `META-PLATFORMS_2022_Q3_10-Q.pdf`
-- **Total Pages**: 99
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 99
+- **Parsed Key Pages**: 33 (33 selected sections)
 
 ---
 
@@ -3249,329 +3249,811 @@ and denied, in part, our motion to dismiss
 #### 25
 
 
-## Page 26
+## Page 43
 
 
 #### Table of Contents
 
-the consolidated putative consumer class action. On August 26, 2022, the parties reached a settlement in principle to resolve this matter, which
-is subject to court approval. In addition, our platform and user data practices, as well as the events surrounding the misuse of certain data by a
-developer, became the subject of U.S. Federal Trade Commission (FTC), state attorneys general, and other government inquiries in the United
-States, Europe, and other jurisdictions. We entered into a settlement and modiﬁed consent order to resolve the FTC inquiry, which took eﬀect in
-April 2020. Among other matters, our settlement with the FTC required us to pay a penalty of $5.0 billion which was paid in April 2020 upon the
-eﬀectiveness of the modiﬁed consent order. The state attorneys general inquiry and certain government inquiries in other jurisdictions remain
-ongoing. On July 16, 2021, a stockholder derivative action was ﬁled in Delaware Chancery Court against certain of our directors and oﬃcers
-asserting breach of ﬁduciary duty and related claims relating to our historical platform and user data practices, as well as our settlement with the
-FTC. On July 20, 2021, other stockholders ﬁled an amended derivative complaint in a related Delaware Chancery Court action, asserting breach
-of ﬁduciary duty and related claims against certain of our current and former directors and oﬃcers in connection with our historical platform and
-user data practices. On November 4, 2021, the lead plaintiﬀs ﬁled a second amended and consolidated complaint in the stockholder derivative
-action. We believe the lawsuits described above are without merit, and we are vigorously defending them.
 
-We also notify the Irish Data Protection Commission (IDPC), our lead European Union privacy regulator under the General Data Protection
-Regulation (GDPR), of certain other personal data breaches and privacy issues, and are subject to inquiries and investigations by the IDPC and
-other European regulators regarding various aspects of our regulatory compliance. For example, we are currently subject to an IDPC inquiry
-regarding Meta Platforms Ireland's ability to transfer European Union/European Economic Area Facebook user data to the United States, which is
-described further in "Legal Proceedings" contained in Part II, Item 1 of this Quarterly Report on Form 10-Q. The GDPR is still a relatively new law
-and draft decisions in investigations by the IDPC are subject to review by other European privacy regulators as part of the GDPR's consistency
-mechanism, which may lead to signiﬁcant changes in the ﬁnal outcome of such investigations. As a result, the interpretation and enforcement of
-the GDPR, as well as the imposition and amount of penalties for non-compliance, are subject to signiﬁcant uncertainty. Although we are
-vigorously defending our regulatory compliance, we have accrued signiﬁcant amounts for loss contingencies related to these inquiries and
-investigations in Europe, and we believe there is a reasonable possibility that additional accruals for losses related to these matters could be
-material in the aggregate.
-
-We are also subject to other government inquiries and investigations relating to our business activities and disclosure practices. For
-example, beginning in September 2021, we became subject to government investigations and requests relating to a former employee's
-allegations and release of internal company documents concerning, among other things, our algorithms, advertising and user metrics, and content
-enforcement practices, as well as misinformation and other undesirable activity on our platform, and user well-being. We have since received
-additional requests relating to these and other topics. Beginning on October 27, 2021, multiple putative class actions and derivative actions were
-ﬁled in the U.S. District Court for the Northern District of California against us and certain of our directors and oﬃcers alleging violations of
-securities laws, breach of fiduciary duties, and other causes of action in connection with the same matters, and seeking unspecified damages. We
-believe these lawsuits are without merit, and we are vigorously defending them.
-
-On March 8, 2022, a putative class action was ﬁled in the U.S. District Court for the Northern District of California against us and certain of
-our directors and oﬃcers alleging violations of securities laws in connection with the disclosure of our earnings results for the fourth quarter of
-2021 and seeking unspecified damages. We believe this lawsuit is without merit, and we are vigorously defending it.
-
-Beginning on August 15, 2018, multiple putative class actions were ﬁled against us alleging that we inﬂated our estimates of the potential
-audience size for advertisements, resulting in artiﬁcially increased demand and higher prices. The cases were consolidated in the U.S. District
-Court for the Northern District of California and seek unspeciﬁed damages and injunctive relief. In a series of rulings in 2019, 2021, and 2022, the
-court dismissed certain of the plaintiﬀs' claims, but permitted its fraud and unfair competition claims to proceed. On March 29, 2022, the court
-granted the plaintiﬀs' motion for class certiﬁcation. On June 21, 2022, the U.S. Court of Appeals for the Ninth Circuit granted our petition for
-permission to appeal the district court's class certiﬁcation order, and the district court subsequently stayed the case. We believe this lawsuit is
-without merit, and we are vigorously defending it.
-
-In addition, we are subject to litigation and other proceedings involving law enforcement and other regulatory agencies, including in
-particular in Brazil, Russia, and other countries in Europe, in order to ascertain the precise scope of our legal obligations to comply with the
-requests of those agencies, including our obligation to disclose user information in
+#### Components of Results of Operations
 
 
-#### 26
+#### Revenue
 
 
-## Page 27
+#### Family of Apps (FoA)
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad products
+on Facebook, Instagram, Messenger, and third-party aﬃliated websites or mobile applications. Marketers pay for ad products either directly or
+through their relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as
+clicks, taken by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. In particular, the number of ads we show may vary by product (for
+example, our video and Reels products are not currently monetized at the same rate as our feed or Stories products), and from time to time we
+increase or decrease the number or frequency of ads we show as part of our product and monetization strategies. We calculate price per ad as
+total advertising revenue divided by the number of ads delivered, representing the eﬀective price paid per impression by a marketer regardless of
+their desired objective such as impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue
+on a net basis.
+
+Other revenue. Other revenue consists of net fees we receive from developers using our Payments infrastructure and revenue from
+various other sources.
 
 
-#### Table of Contents
+#### Reality Labs (RL)
 
-particular circumstances. A number of such instances have resulted in the assessment of ﬁnes and penalties against us. We believe we have
-multiple legal grounds to satisfy these requests or prevail against associated ﬁnes and penalties, and we intend to vigorously defend such ﬁnes
-and penalties.
-
-With respect to the cases, actions, and inquiries described above, we evaluate the associated developments on a regular basis and accrue
-a liability when we believe a loss is probable and the amount can be reasonably estimated. In addition, we believe there is a reasonable
-possibility that we may incur a loss in some of these matters. With respect to the matters described above that do not include an estimate of the
-amount of loss or range of possible loss, such losses or range of possible losses either cannot be estimated or are not individually material, but
-we believe there is a reasonable possibility that they may be material in the aggregate.
-
-We are also party to various other legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the
-ordinary course of business. For example, we are subject to various litigation and government inquiries and investigations, formal or informal, by
-competition authorities in the United States, Europe, and other jurisdictions. Such investigations, inquiries, and lawsuits concern, among other
-things, our business practices in the areas of social networking or social media services, digital advertising, and/or mobile or online applications,
-as well as our acquisitions. For example, in June 2019 we were informed by the FTC that it had opened an antitrust investigation of our company.
-On December 9, 2020, the FTC ﬁled a complaint against us in the U.S. District Court for the District of Columbia alleging that we engaged in
-anticompetitive conduct and unfair methods of competition in violation of Section 5 of the Federal Trade Commission Act and Section 2 of the
-Sherman Act, including by acquiring Instagram in 2012 and WhatsApp in 2014 and by maintaining conditions on access to our platform. In
-addition, beginning in the third quarter of 2019, we became the subject of antitrust investigations by the U.S. Department of Justice and state
-attorneys general. On December 9, 2020, the attorneys general from 46 states, the territory of Guam, and the District of Columbia ﬁled a
-complaint against us in the U.S. District Court for the District of Columbia alleging that we engaged in anticompetitive conduct in violation of
-Section 2 of the Sherman Act, including by acquiring Instagram in 2012 and WhatsApp in 2014 and by maintaining conditions on access to our
-platform. The complaint also alleged that we violated Section 7 of the Clayton Act by acquiring Instagram and WhatsApp. The complaints of the
-FTC and attorneys general both sought a permanent injunction against our company's alleged violations of the antitrust laws, and other equitable
-relief, including divestiture or reconstruction of Instagram and WhatsApp. On June 28, 2021, the court granted our motions to dismiss the
-complaints ﬁled by the FTC and attorneys general, dismissing the FTC's complaint with leave to amend and dismissing the attorneys general's
-case without prejudice. On July 28, 2021, the attorneys general ﬁled a notice of appeal of the order dismissing their case and that appeal is now
-pending before the U.S. Court of Appeals for the District of Columbia Circuit. On August 19, 2021, the FTC ﬁled an amended complaint, and on
-October 4, 2021, we ﬁled a motion to dismiss this amended complaint. On January 11, 2022, the court denied our motion to dismiss the FTC's
-amended complaint. Multiple putative class actions have also been ﬁled in state and federal courts in the United States and in the United
-Kingdom against us alleging violations of antitrust laws and other causes of action in connection with these acquisitions and/or other alleged
-anticompetitive conduct, and seeking damages and injunctive relief. Several of the cases brought on behalf of certain advertisers and users in the
-United States were consolidated in the U.S. District Court for the Northern District of California. On January 14, 2022, the court granted, in part,
-and denied, in part, our motion to dismiss the consolidated actions. On March 1, 2022, a ﬁrst amended consolidated complaint was ﬁled in the
-putative class action brought on behalf of certain advertisers. We believe these lawsuits are without merit, and we are vigorously defending them.
-In addition, on July 27, 2022, the FTC ﬁled a complaint against us in the U.S. District Court for the Northern District of California seeking to
-preliminarily enjoin our proposed acquisition of Within Unlimited as an alleged violation of antitrust law. The FTC subsequently ﬁled a related
-complaint in their administrative court seeking to permanently enjoin the transaction as a violation of Section 7 of the Clayton Act, and seeking
-other relief as well.
-
-Additionally, we are required to comply with various legal and regulatory obligations around the world. The requirements for complying with
-these obligations may be uncertain and subject to interpretation and enforcement by regulatory and other authorities, and any failure to comply
-with such obligations could eventually lead to asserted legal or regulatory action. With respect to these other legal proceedings, claims,
-regulatory, tax, or government inquiries and investigations, and other matters, asserted and unasserted, we evaluate the associated
-developments on a regular basis and accrue a liability when we believe a loss is probable and the amount can be reasonably estimated. In
-addition, we believe there is a reasonable possibility that we may incur a loss in some of these other matters. We believe that the amount of
-losses or any estimable range of possible losses with respect to these other matters will not, either individually or in the aggregate, have a
-material adverse effect on our business and condensed consolidated financial statements.
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest, Meta Portal, and wearables, and related
+software and content.
 
 
-#### 27
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These
+include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network
+infrastructure and buildings, as well as payroll and related expenses which include share-based compensation for employees on our operations
+teams, and energy and bandwidth costs. Cost of revenue also includes costs associated with partner arrangements, including traﬃc acquisition
+costs and credit card and other fees related to processing customer transactions; RL cost of products sold; and content costs.
+
+Research and development. Research and development expenses consist primarily of payroll and related expenses which include share-
+based compensation, facilities-related costs for employees on our engineering and technical teams who are responsible for developing new
+products as well as improving existing products, and professional services.
+
+Marketing and sales. Marketing and sales expenses consist primarily of marketing and promotional expenses and payroll and related
+expenses which include share-based compensation for our employees engaged in sales, sales support, marketing, business development, and
+customer service functions. Our marketing and sales expenses also include professional services such as content reviewers to support our
+community and product operations.
+
+General and administrative. General and administrative expenses consist primarily of legal-related costs, which include accruals for
+estimated fines, settlements, or other losses in connection with legal and related matters, as well as other legal fees; payroll and related expenses
+which include share-based compensation for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications
+and policy, and other administrative employees; other taxes, such as digital services taxes, other tax levies, and gross receipts taxes; and
+professional services.
 
 
-## Page 28
+#### 43
 
 
-#### Table of Contents
+## Page 44
 
-The ultimate outcome of the legal and related matters described in this section, such as whether the likelihood of loss is remote, reasonably
-possible, or probable, or if and when the reasonably possible range of loss is estimable, is inherently uncertain. Therefore, if one or more of these
-matters were resolved against us for amounts in excess of management's estimates of loss, our results of operations and ﬁnancial condition,
-including in a particular reporting period in which any such outcome becomes probable and estimable, could be materially adversely affected.
+### Table 44.1
 
-For information regarding income tax contingencies, see Note 13 — Income Taxes.
-
-
-#### Indemnifications
-
-In the normal course of business, to facilitate transactions of services and products, we have agreed to indemnify certain parties with
-respect to certain matters. We have agreed to hold certain parties harmless against losses arising from a breach of representations or covenants,
-or out of intellectual property infringement or other claims made by third parties. These agreements may limit the time within which an
-indemniﬁcation claim can be made and the amount of the claim. In addition, we have entered into indemniﬁcation agreements with our oﬃcers,
-directors, and certain employees, and our certificate of incorporation and bylaws contain similar indemnification obligations.
-
-It is not possible to determine the maximum potential amount under these indemniﬁcation agreements due to the limited history of prior
-indemniﬁcation claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made by us under
-these agreements have not had a material impact on our condensed consolidated ﬁnancial statements. In our opinion, as of September 30, 2022,
-there was not a reasonable possibility we had incurred a material loss with respect to indemniﬁcation of such parties. We have not recorded any
-liability for costs related to indemnification through September 30, 2022.
+| Revenue | $ | 27,714 |  | $ | 29,010 |  | $ | 84,444 |  | $ | 84,258 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |  |  |  |
+| Cost of revenue | 5,716 |  |  | 5,771 |  |  | 16,913 |  |  | 16,301 |  |
+| Research and development | 9,170 |  |  | 6,316 |  |  | 25,567 |  |  | 17,609 |  |
+| Marketing and sales | 3,780 |  |  | 3,554 |  |  | 10,688 |  |  | 9,656 |  |
+| General and administrative | 3,384 |  |  | 2,946 |  |  | 8,731 |  |  | 6,524 |  |
+| Total costs and expenses | 22,050 |  |  | 18,587 |  |  | 61,899 |  |  | 50,090 |  |
+| Income from operations | 5,664 |  |  | 10,423 |  |  | 22,545 |  |  | 34,168 |  |
+| Interest and other income (expense), net | (88) |  |  | 142 |  |  | 125 |  |  | 413 |  |
+| Income before provision for income taxes | 5,576 |  |  | 10,565 |  |  | 22,670 |  |  | 34,581 |  |
+| Provision for income taxes | 1,181 |  |  | 1,371 |  |  | 4,123 |  |  | 5,496 |  |
+| Net income | $ | 4,395 |  | $ | 9,194 |  | $ | 18,547 |  | $ | 29,085 |
 
 
-#### Note 12. Stockholders' Equity
+### Table 44.2
 
-
-#### Share Repurchase Program
-
-Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and
-does not have an expiration date. As of December 31, 2021, $38.79 billion remained available and authorized for repurchases under this
-program. During the nine months ended September 30, 2022, we repurchased and subsequently retired 101 million shares of our Class A
-common stock for an aggregate amount of $21.02 billion. As of September 30, 2022, $17.78 billion remained available and authorized for
-repurchases.
-
-The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price, general
-business and market conditions, and other investment opportunities, and shares may be repurchased through open market purchases or privately
-negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of
-1934, as amended.
-
-
-#### Share-based Compensation Plan
-
-We have one active share-based employee compensation plan, the 2012 Equity Incentive Plan, which was amended in each of June 2016
-and February 2018 (Amended 2012 Plan). Our Amended 2012 Plan provides for the issuance of incentive and nonqualiﬁed stock options,
-restricted stock awards, stock appreciation rights, RSUs, performance shares, and stock bonuses to qualiﬁed employees, directors, and
-consultants. Shares that are withheld in connection with the net settlement of RSUs or forfeited are added to the reserves of the Amended 2012
-Plan.
-
-Eﬀective January 1, 2022, there were 136 million shares of our Class A common stock reserved for future issuance under our Amended
-2012 Plan. Pursuant to the automatic increase provision under our Amended 2012 Plan, the number of shares reserved for issuance increases
-automatically on January 1 of each of the calendar years during the term of the Amended 2012 Plan, which will continue through April 2026, by a
-number of shares of Class A common stock equal to the lesser of (i) 2.5% of the total issued and outstanding shares of our Class A common
-stock as of the immediately preceding December 31st or (ii) a number of shares determined by our board of directors.
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Unvested at December 31, 2021 | 98,848 |  | $ | 244.32 |
-| --- | --- | --- | --- | --- |
-| Granted | 99,379 |  | $ | 201.25 |
-| Vested | (39,368) |  | $ | 219.68 |
-| Forfeited | (13,340) |  | $ | 234.21 |
-| Unvested at September 30, 2022 | 145,519 |  | $ | 222.49 |
-
-
-### Table 29.2
-
-|  | osition of the IRS and have filed a petition in the Tax Court challenging the Notice. On January 15, 2020, the IRS's amendment to answer was |
-| --- | --- |
-| filed stating that it planned to assert at trial an adjustment that is higher than the adjustment stated in the Notice. The first session of the trial was |  |
-| completed in March 2020 and the final trial session was completed in August 2022. We expect the Tax Court to issue an opinion in 2024. Based |  |
-| on t |  |
+| Revenue | 100 | % |  | 100 | % |  | 100 | % | 100 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |  |  |
+| Cost of revenue | 21 |  |  | 20 |  |  | 20 |  | 19 |  |
+| Research and development | 33 |  |  | 22 |  |  | 30 |  | 21 |  |
+| Marketing and sales | 14 |  |  | 12 |  |  | 13 |  | 11 |  |
+| General and administrative | 12 |  |  | 10 |  |  | 10 |  | 8 |  |
+| Total costs and expenses | 80 |  |  | 64 |  |  | 73 |  | 59 |  |
+| Income from operations | 20 |  |  | 36 |  |  | 27 |  | 41 |  |
+| Interest and other income (expense), net | — |  |  | — |  |  | — |  | — |  |
+| Income before provision for income taxes | 20 |  |  | 36 |  |  | 27 |  | 41 |  |
+| Provision for income taxes | 4 |  |  | 5 |  |  | 5 |  | 7 |  |
+| Net income | 16 | % |  | 32 | % |  | 22 | % | 35 | % |
 
 
 
 #### Table of Contents
 
-The following table summarizes the activities for our unvested RSUs for the nine months ended September 30, 2022:
 
+#### Results of Operations
 
-#### Number of Shares
+The following table sets forth our condensed consolidated statements of income data (in millions):
 
-Weighted-Average
-Grant Date Fair Value
-
-Per Share
-(in thousands)
-Unvested at December 31, 2021
-98,848 
+Three Months Ended September 30,
+Nine Months Ended September 30,
+ 
+2022
+2021
+2022
+2021
+Revenue
 $
-244.32 
-Granted
-99,379 
+27,714 
 $
-201.25 
-Vested
-(39,368)
+29,010 
 $
-219.68 
-Forfeited
-(13,340)
+84,444 
 $
-234.21
+84,258 
+Costs and expenses:
 
-Unvested at September 30, 2022
-145,519 
+Cost of revenue
+5,716 
+5,771 
+16,913 
+16,301 
+Research and development
+9,170 
+6,316 
+25,567 
+17,609 
+Marketing and sales
+3,780 
+3,554 
+10,688 
+9,656 
+General and administrative
+3,384 
+2,946 
+8,731 
+6,524 
+Total costs and expenses
+22,050 
+18,587 
+61,899 
+50,090 
+Income from operations
+5,664 
+10,423 
+22,545 
+34,168 
+Interest and other income (expense), net
+(88)
+142 
+125 
+413 
+Income before provision for income taxes
+5,576 
+10,565 
+22,670 
+34,581 
+Provision for income taxes
+1,181 
+1,371 
+4,123 
+5,496
+
+Net income
 $
-222.49
+4,395 
+$
+9,194 
+$
+18,547 
+$
+29,085
 
-The fair value as of the respective vesting dates of RSUs that vested during the three months ended September 30, 2022 and 2021 was
-$2.59 billion and $4.10 billion, respectively, and $7.77 billion and $10.58 billion during the nine months ended September 30, 2022 and 2021,
-respectively. The income tax beneﬁt recognized related to awards vested during the three months ended September 30, 2022 and 2021 was
-$543 million and $881 million, respectively, and $ 1.64 billion and $2.27 billion during the nine months ended September 30, 2022 and 2021,
-respectively.
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue)
+:
 
-As of September 30, 2022, there was $30.68 billion of unrecognized share-based compensation expense related to RSU awards. This
-unrecognized compensation expense is expected to be recognized over a weighted-average period of approximately three years based on
-vesting under the award service conditions.
+Three Months Ended September 30,
+Nine Months Ended September 30,
+ 
+2022
+2021
+2022
+2021
+Revenue
+100 %
+100 %
+100 %
+100 %
+Costs and expenses:
+
+Cost of revenue
+21 
+20 
+20 
+19 
+Research and development
+33 
+22 
+30 
+21 
+Marketing and sales
+14 
+12 
+13 
+11 
+General and administrative
+12 
+10 
+10 
+8 
+Total costs and expenses
+80 
+64 
+73 
+59 
+Income from operations
+20 
+36 
+27 
+41 
+Interest and other income (expense), net
+— 
+— 
+— 
+— 
+Income before provision for income taxes
+20 
+36 
+27 
+41 
+Provision for income taxes
+4 
+5 
+5 
+7
+
+Net income
+16 %
+32 %
+22 %
+35 %
+
+____________________________________
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
 
 
-#### Note 13. Income Taxes
-
-Our tax provision for interim periods is determined using an estimated annual eﬀective tax rate, adjusted for discrete items arising in that
-quarter. In each quarter, we update the estimated annual eﬀective tax rate and make a year-to-date adjustment to the provision. The estimated
-annual eﬀective tax rate is subject to signiﬁcant volatility due to several factors, including our ability to accurately predict the proportion of our
-income (loss) before provision for income taxes in multiple jurisdictions, the U.S. tax benefits from foreign derived intangible income, the effects of
-tax law changes, the effects of acquisitions, and the integration of those acquisitions.
-
-Our gross unrecognized tax beneﬁts were $10.55 billion and $9.81 billion on September 30, 2022 and December 31, 2021, respectively.
-These unrecognized tax beneﬁts were primarily accrued for the uncertainties related to transfer pricing with our foreign subsidiaries, which
-include licensing of intellectual property, providing services and other transactions, as well as for uncertainties with our research tax credits. If the
-gross unrecognized tax beneﬁts as of September 30, 2022 were realized in a future period, this would result in a tax beneﬁt of $6.46 billion within
-our provision for income taxes at such time. The amount of interest and penalties accrued was $1.01 billion and $960 million as of September 30,
-2022 and December 31, 2021, respectively. We expect to continue to accrue unrecognized tax benefits for certain recurring tax positions.
-
-We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are
-subject to potential examination include the United States and Ireland. We are under examination by the Internal Revenue Service (IRS) for our
-2014 through 2019 tax years. Our 2020 and subsequent tax years remain open to examination by the IRS and the Irish Revenue Commissioners.
-
-In July 2016, we received a Statutory Notice of Deﬁciency (Notice) from the IRS related to transfer pricing with our foreign subsidiaries in
-conjunction with the examination of the 2010 tax year. While the Notice applies only to the 2010 tax year, the IRS stated that it will also apply its
-position for tax years subsequent to 2010 and has done so in years covered by the second Notice described below. We do not agree with the
-position of the IRS and have ﬁled a petition in the Tax Court challenging the Notice. On January 15, 2020, the IRS's amendment to answer was
-ﬁled stating that it planned to assert at trial an adjustment that is higher than the adjustment stated in the Notice. The ﬁrst session of the trial was
-completed in March 2020 and the ﬁnal trial session was completed in August 2022. We expect the Tax Court to issue an opinion in 2024. Based
-on the information provided, we believe that, if the IRS prevails in its updated position, this could result in an additional
+#### (1)
 
 
-#### 29
+#### 44
 
 
-## Page 30
+## Page 45
+
+### Table 45.1
+
+| Cost of revenue | $ | 209 |  | $ | 147 |  | $ | 582 | $ | 428 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development | 2,447 |  |  | 1,849 |  |  | 6,995 |  | 5,224 |  |
+| Marketing and sales | 260 |  |  | 218 |  |  | 766 |  | 631 |  |
+| General and administrative | 218 |  |  | 165 |  |  | 641 |  | 474 |  |
+| Total share-based compensation expense | $ | 3,134 |  | $ | 2,379 |  | $ | 8,984 | $ | 6,757 |
+
+
+### Table 45.2
+
+| Cost of revenue | 1 | % |  | 1 | % |  | 1 | % | 1 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development | 9 |  |  | 6 |  |  | 8 |  | 6 |  |
+| Marketing and sales | 1 |  |  | 1 |  |  | 1 |  | 1 |  |
+| General and administrative | 1 |  |  | 1 |  |  | 1 |  | 1 |  |
+| Total share-based compensation expense | 11 | % |  | 8 | % |  | 11 | % | 8 | % |
+
+
+### Table 45.3
+
+| Advertising | $ | 27,237 |  | $ | 28,276 |  | (4) | % |  | $ | 82,387 |  | $ | 82,294 |  | — | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 192 |  |  | 176 |  |  | 9 | % |  | 624 |  |  | 567 |  |  | 10 | % |
+| Family of Apps | 27,429 |  |  | 28,452 |  |  | (4) | % |  | 83,011 |  |  | 82,861 |  |  | — | % |
+| Reality Labs | 285 |  |  | 558 |  |  | (49) | % |  | 1,433 |  |  | 1,397 |  |  | 3 | % |
+| Total revenue | $ | 27,714 |  | $ | 29,010 |  | (4) | % |  | $ | 84,444 |  | $ | 84,258 |  | — | % |
+
 
 
 #### Table of Contents
 
-federal tax liability of an estimated, aggregate amount of up to approximately $ 9.0 billion in excess of the amounts in our originally ﬁled U.S.
-return, plus interest and any penalties asserted.
 
-In March 2018, we received a second Notice from the IRS in conjunction with the examination of our 2011 through 2013 tax years. The IRS
-applied its position from the 2010 tax year to each of these years and also proposed new adjustments related to other transfer pricing with our
-foreign subsidiaries and certain tax credits that we claimed. If the IRS prevails in its position for these new adjustments, this could result in an
-additional federal tax liability of up to approximately $680 million in excess of the amounts in our originally ﬁled U.S. returns, plus interest and any
-penalties asserted. We do not agree with the positions of the IRS in the second Notice and have ﬁled a petition in the Tax Court challenging the
-second Notice.
+#### Share-based compensation expense included in costs and expenses (in millions):
 
-We have previously accrued an estimated unrecognized tax beneﬁt consistent with the guidance in ASC 740,  Income Taxes (ASC 740),
-that is lower than the potential additional federal tax liability from the positions taken by the IRS in the two Notices and its Pretrial Memorandum.
-In addition, if the IRS prevails in its positions related to transfer pricing with our foreign subsidiaries, the additional tax that we would owe would
-be partially oﬀset by a reduction in the tax that we owe under the mandatory transition tax on accumulated foreign earnings from the 2017 Tax
-Cuts and Jobs Act. As of September 30, 2022, we have not resolved these matters and proceedings continue in the Tax Court.
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2022
+2021
+2022
+2021
+Cost of revenue
+$
+209 
+$
+147 
+$
+582 
+$
+428 
+Research and development
+2,447 
+1,849 
+6,995 
+5,224 
+Marketing and sales
+260 
+218 
+766 
+631 
+General and administrative
+218 
+165 
+641 
+474
 
-We believe that adequate amounts have been reserved in accordance with ASC 740 for any adjustments to the provision for income taxes
-or other tax items that may ultimately result from these examinations. The timing of the resolution, settlement, and closure of any audits is highly
-uncertain, and it is reasonably possible that the balance of gross unrecognized tax beneﬁts could signiﬁcantly change in the next 12 months.
-Given the number of years remaining that are subject to examination, we are unable to estimate the full range of possible adjustments to the
-balance of gross unrecognized tax beneﬁts. If the tax authorities prevail in the assessment of additional tax due, the assessed tax, interest, and
-penalties, if any, could have a material adverse impact on our financial position, results of operations, and cash flows.
+Total share-based compensation expense
+$
+3,134 
+$
+2,379 
+$
+8,984 
+$
+6,757
+
+Share-based compensation expense included in costs and expenses (as a percentage of revenue)
+:
+
+Three Months Ended September 30,
+Nine Months Ended September 30,
+2022
+2021
+2022
+2021
+Cost of revenue
+1 %
+1 %
+1 %
+1 %
+Research and development
+9 
+6 
+8 
+6 
+Marketing and sales
+1 
+1 
+1 
+1 
+General and administrative
+1 
+1 
+1 
+1
+
+Total share-based compensation expense
+11 %
+8 %
+11 %
+8 %
+
+____________________________________
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
 
 
-#### Note 14. Segment and Geographical Information
+#### Revenue
 
-We report our ﬁnancial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook,
-Instagram, Messenger, WhatsApp, and other services. RL includes augmented and virtual reality related consumer hardware, software, and
-content. Our operating segments are the same as our reportable segments.
+The following table sets forth our revenue by source and by segment. For comparative purposes, amounts in the prior periods have been
+recast:
 
-Our Chief Executive Oﬃcer is our chief operating decision maker (CODM), who allocates resources to and assesses the performance of
-each operating segment using information about the operating segment's revenue and income (loss) from operations. Our CODM does not
-evaluate operating segments using asset or liability information.
+Three Months Ended September 30,
+ 
+Nine Months Ended September 30,
+ 
+2022
+2021
+% change
+2022
+2021
+% change
 
-Revenue and costs and expenses are generally directly attributed to our segments. These costs and expenses include certain product
-development related operating expenses, costs associated with partnership arrangements, consumer hardware product costs, content costs, and
-legal-related costs. Indirect costs are allocated to segments based on a reasonable allocation methodology, when such costs are signiﬁcant to
-the performance measures of the operating segments. Indirect cost of revenue is allocated to our segments based on usage, such as costs
-related to the operation of our data centers and technical infrastructure. Indirect operating expenses, such as facilities, information technology,
-certain shared research and development activities, recruiting, and physical security expenses, are mostly allocated based on headcount.
+(in millions, except percentages)
+Advertising
+$
+27,237 
+$
+28,276 
+(4) %
+$
+82,387 
+$
+82,294 
+— %
+Other revenue
+192 
+176 
+9 %
+624 
+567 
+10 %
+Family of Apps
+27,429 
+28,452 
+(4) %
+83,011 
+82,861 
+— %
+Reality Labs
+285 
+558 
+(49)%
+1,433 
+1,397 
+3 %
+
+Total revenue
+$
+27,714 
+$
+29,010 
+(4) %
+$
+84,444 
+$
+84,258 
+— %
 
 
-#### 30
+#### Family of Apps
+
+FoA revenue in the three and nine months ended September 30, 2022 decreased $1.02 billion, or 4%, and was flat, respectively, compared
+to the same periods in 2021. The changes were mostly driven by advertising revenue.
+
+
+#### Advertising
+
+Advertising revenue in the three and nine months ended September 30, 2022 decreased $1.04 billion, or 4%, and was ﬂat, respectively,
+compared to the same periods in 2021. During the three and nine months ended September 30, 2022, the average price per ad decreased by
+18% and 13%, respectively, as compared with increases of 22% and 32%, respectively, in the same periods in 2021. The decreases in average
+price per ad were driven by an increase of the number of ads delivered, especially in geographies and in products such as video and Reels that
+monetize at lower rates, an unfavorable foreign exchange impact, and a reduction in advertising demand, which we believe was primarily driven
+by reduced marketer
+
+
+#### (1)
+
+
+#### 45
+
+
+## Page 46
+
+### Table 46.1
+
+| Cost of revenue | $ | 5,716 |  |  | $ | 5,771 |  |  | (1) | % |  | $ | 16,913 |  |  | $ | 16,301 |  |  | 4 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 21 |  | % |  | 20 |  | % |  |  |  |  | 20 |  | % |  | 19 |  | % |  |  |  |
+
+
+
+#### Table of Contents
+
+spending as a result of a more challenging macroeconomic environment, as well as, to a lesser extent, the other factors discussed in the section
+entitled "—Executive Overview of Third Quarter Results." During the three and nine months ended September 30, 2022, the number of ads
+delivered increased by 17% and 16%, respectively as compared with increases of 9% in both periods in 2021. As ads impressions grew in all
+regions during the three and nine months ended September 30, 2022 as compared to the same periods in 2021, the share of growth was mostly
+driven by an increase in ads delivered in Asia-Paciﬁc and Rest of World. The increases in the ads delivered during the three and nine months
+ended September 30, 2022 were driven by increases in the number and frequency of ads displayed across our products and an increase in
+users. We anticipate that future advertising revenue will be driven by a combination of price and the number of ads delivered.
+
+
+#### Reality Labs
+
+RL revenue in the three months ended September 30, 2022 decreased $273 million, or 49%, compared to the same period in 2021. The
+decrease in RL revenue was primarily driven by a decrease in the volume of our consumer hardware products sold.
+
+RL revenue in the nine months ended September 30, 2022 increased $36 million, or 3%, compared to the same period in 2021. The
+increase in RL revenue was mainly driven by an increase in hardware-related software and content revenue.
+
+
+#### Foreign Exchange Impact on Revenue
+
+The general strengthening of the U.S. dollar relative to certain foreign currencies for the three and nine months ended September 30, 2022
+compared to the same periods in 2021 had an unfavorable impact on revenue. If we had translated revenue for the three months ended
+September 30, 2022 using the prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total
+revenue and advertising revenue would have been $29.50 billion and $29.01 billion, respectively. Using these constant rates, total revenue and
+advertising revenue would have been $1.79 billion and $1.78 billion higher than actual total revenue and advertising revenue, respectively, for the
+three months ended September 30, 2022. If we had translated revenue for the nine months ended September 30, 2022 using the prior year's
+monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total revenue and advertising revenue would have
+been $88.39 billion and $86.31 billion, respectively. Using these constant rates, total revenue and advertising revenue would have been
+$3.94 billion and $3.92 billion higher than actual total revenue and advertising revenue, respectively, for the nine months ended September 30,
+2022.
+
+
+#### Cost of revenue
+
+Three Months Ended September 30,
+ 
+Nine Months Ended September 30,
+ 
+2022
+2021
+% change
+2022
+2021
+% change
+
+(in millions, except percentages)
+Cost of revenue
+$
+5,716 
+$
+5,771 
+(1) %
+$
+16,913 
+$
+16,301 
+4 %
+Percentage of revenue
+21 %
+20 %
+20 %
+19 %
+
+Cost of revenue in the three months ended September 30, 2022 decreased $55 million, or 1%, compared to the same period in 2021. The
+decrease was driven by a decrease in RL cost of products sold, oﬀset by increases in operational expenses related to our data centers and
+technical infrastructure and content costs.
+
+Cost of revenue in the nine months ended September 30, 2022 increased $612 million, or 4%, compared to the same period in 2021. The
+increase was mainly due to increases in operational expenses related to our data centers and technical infrastructure, adjusted for a decrease in
+the depreciation growth rate due to an extension in the useful lives of servers and network assets, and content costs. These increases were
+partially oﬀset by a decrease in RL cost of products sold and a $472 million reduction in our estimated losses on purchase commitments in the
+second quarter due to a price increase on Meta Quest 2.
+
+See Note 1 — Summary of Signiﬁcant Accounting Policies in the notes to the condensed consolidated ﬁnancial statements included in
+Part I, Item 1 of this Quarterly Report on Form 10-Q for additional information regarding changes in the estimated useful life of our servers and
+network assets.
+
+
+#### 46
+
+
+## Page 75
+
+
+#### Table of Contents
+
+may improve our ability to match accounts within and across our products or otherwise evaluate the broad population of our users. In addition,
+such evolution may allow us to identify previously undetected violating accounts (as defined below).
+
+We regularly evaluate our Family metrics to estimate the percentage of our MAP consisting solely of "violating" accounts. We deﬁne
+"violating" accounts as accounts which we believe are intended to be used for purposes that violate our terms of service, including bots and
+spam. In the fourth quarter of 2021, we estimated that approximately 3% of our worldwide MAP consisted solely of violating accounts. Such
+estimation is based on an internal review of a limited sample of accounts, and we apply signiﬁcant judgment in making this determination. For
+example, we look for account information and behaviors associated with Facebook and Instagram accounts that appear to be inauthentic to the
+reviewers, but we have limited visibility into WhatsApp user activity due to encryption. In addition, if we believe an individual person has one or
+more violating accounts, we do not include such person in our violating accounts estimation as long as we believe they have one account that
+does not constitute a violating account. From time to time, we disable certain user accounts, make product changes, or take other actions to
+reduce the number of violating accounts among our users, which may also reduce our DAP and MAP estimates in a particular period. We intend
+to disclose our estimates of the percentage of our MAP consisting solely of violating accounts on an annual basis. Violating accounts are very
+difficult to measure at our scale, and it is possible that the actual number of violating accounts may vary significantly from our estimates.
+
+We also regularly evaluate our Facebook metrics to estimate the number of "duplicate" and "false" accounts among our MAUs. A duplicate
+account is one that a user maintains in addition to his or her principal account. We divide "false" accounts into two categories: (1) user-
+misclassiﬁed accounts, where users have created personal proﬁles for a business, organization, or non-human entity such as a pet (such entities
+are permitted on Facebook using a Page rather than a personal proﬁle under our terms of service); and (2) violating accounts, which represent
+user proﬁles that we believe are intended to be used for purposes that violate our terms of service, such as bots and spam. The estimates of
+duplicate and false accounts are based on an internal review of a limited sample of accounts, and we apply signiﬁcant judgment in making this
+determination. For example, to identify duplicate accounts we use data signals such as identical IP addresses and similar user names, and to
+identify false accounts we look for names that appear to be fake or other behavior that appears inauthentic to the reviewers. Any loss of access to
+data signals we use in this process, whether as a result of our own product decisions, actions by third-party browser or mobile platforms,
+regulatory or legislative requirements, or other factors, also may impact the stability or accuracy of our estimates of duplicate and false accounts.
+Our estimates also may change as our methodologies evolve, including through the application of new data signals or technologies or product
+changes that may allow us to identify previously undetected duplicate or false accounts and may improve our ability to evaluate a broader
+population of our users. Duplicate and false accounts are very diﬃcult to measure at our scale, and it is possible that the actual number of
+duplicate and false accounts may vary significantly from our estimates.
+
+In the fourth quarter of 2021, we estimated that duplicate accounts may have represented approximately 11% of our worldwide MAUs. We
+believe the percentage of duplicate accounts is meaningfully higher in developing markets such as the Philippines and Vietnam, as compared to
+more developed markets. In the fourth quarter of 2021, we estimated that false accounts may have represented approximately 5% of our
+worldwide MAUs. Our estimation of false accounts can vary as a result of episodic spikes in the creation of such accounts, which we have seen
+originate more frequently in speciﬁc countries such as Indonesia, Nigeria, and Vietnam. From time to time, we disable certain user accounts,
+make product changes, or take other actions to reduce the number of duplicate or false accounts among our users, which may also reduce our
+DAU and MAU estimates in a particular period. We intend to disclose our estimates of the number of duplicate and false accounts among our
+MAUs on an annual basis.
+
+Other data limitations also may aﬀect our understanding of certain details of our business. For example, while user-provided data indicates
+a decline in usage among younger users, this age data may be unreliable because a disproportionate number of our younger users register with
+an inaccurate age. Accordingly, our understanding of usage by age group may not be complete.
+
+In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such as the user's IP
+address and self-disclosed location. These factors may not always accurately reﬂect the user's actual location. For example, a user may appear
+to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user's actual location. The
+methodologies used to measure our metrics are also susceptible to algorithm or other technical errors, and our estimates for revenue by user
+location and revenue by user device are also affected by these factors.
+
+
+#### 75
+
+
+## Page 76
+
+
+#### Table of Contents
+
+In addition, from time to time we provide, or rely on, certain other metrics and estimates, including those relating to the reach and
+effectiveness of our ads. Many of our metrics involve the use of estimations and judgments, and our metrics and estimates are subject to software
+bugs, inconsistencies in our systems, and human error. Such metrics and estimates also change from time to time due to improvements or
+changes in our terminology or methodology, including as a result of loss of access to data signals we use in calculating such metrics and
+estimates. We have in the past been, and may in the future be, subject to litigation as well as marketer, regulatory, and other inquiries regarding
+the accuracy of such metrics and estimates. Where marketers, developers, or investors do not perceive our metrics or estimates to be accurate,
+or where we discover material inaccuracies in our metrics or estimates, we may be subject to liability, our reputation may be harmed, and
+marketers and developers may be less willing to allocate their budgets or resources to our products that deliver ad impressions, which could
+negatively affect our business and financial results.
+
+We cannot assure you that we will effectively manage our scale.
+
+Our employee headcount and the scale and complexity of our business have increased signiﬁcantly, with the number of employees
+increasing to 87,314 as of September 30, 2022 from 68,177 as of September 30, 2021. The scale of our business and breadth of our products
+create signiﬁcant challenges for our management, operational, and ﬁnancial resources, including managing multiple relationships with users,
+marketers, developers, and other third parties, and maintaining information technology systems and internal controls and procedures that support
+the scale and complexity of our business. In addition, some members of our management do not have signiﬁcant experience managing a large
+global business operation, so our management may not be able to manage our scale eﬀectively. Additionally, many of our personnel are currently
+working remotely, and we may experience challenges to productivity and collaboration as some personnel return to our oﬃces and some
+personnel transition to working remotely on a regular basis. To eﬀectively manage our scale, we must maintain, and continue to adapt, our
+operational, ﬁnancial, and management processes and systems and eﬀectively expand, train, and manage our personnel. As our organization
+continues to evolve, and we are required to implement and adapt complex organizational management structures, we may ﬁnd it diﬃcult to
+maintain the beneﬁts of our corporate culture, including our ability to quickly develop and launch new and innovative products. This could
+negatively affect our business performance.
+
+We have signiﬁcant international operations and plan to continue expanding our operations abroad where we have more limited
+operating experience, and this may subject us to increased business, economic, and legal risks that could affect our financial results.
+
+We have signiﬁcant international operations and plan to continue the international expansion of our business operations and the translation
+of our products. We currently make Facebook available in more than 100 diﬀerent languages, and we have oﬃces or data centers in more
+than 30 diﬀerent countries. We may enter new international markets where we have limited or no experience in marketing, selling, and deploying
+our products. Our products are generally available globally, but some or all of our products or functionality may not be available in certain markets
+due to legal and regulatory complexities. For example, several of our products are not generally available in China. We also outsource certain
+operational functions to third parties globally. If we fail to deploy, manage, or oversee our international operations successfully, our business may
+suffer. In addition, we are subject to a variety of risks inherent in doing business internationally, including:
+
+•
+political, social, or economic instability;
+
+•
+risks related to legal, regulatory, and other government scrutiny applicable to U.S. companies with sales and operations in foreign
+jurisdictions, including with respect to privacy, tax, law enforcement, content, trade compliance, supply chain, competition, consumer
+protection, intellectual property, environmental, health and safety, licensing, and infrastructure matters;
+
+•
+potential damage to our brand and reputation due to compliance with local laws, including potential censorship or requirements to
+provide user information to local authorities;
+
+•
+enhanced diﬃculty in reviewing content on our platform and enforcing our community standards across diﬀerent languages and
+countries;
+
+•
+fluctuations in currency exchange rates and compliance with currency controls;
+
+
+#### 76
+
+
+## Page 77
+
+
+#### Table of Contents
+
+•
+foreign exchange controls and tax and other regulations and orders that might prevent us from repatriating cash earned in countries
+outside the United States or otherwise limit our ability to move cash freely, and impede our ability to invest such cash efficiently;
+
+•
+higher levels of credit risk and payment fraud;
+
+•
+enhanced difficulties of integrating any foreign acquisitions;
+
+•
+burdens of complying with a variety of foreign laws, including laws related to taxation, content removal, content moderation, data
+localization, data protection, e-commerce and payments, and regulatory oversight;
+
+•
+reduced protection for intellectual property rights in some countries;
+
+•
+diﬃculties in staﬃng, managing, and overseeing global operations and the increased travel, infrastructure, and legal compliance
+costs associated with multiple international locations, including difficulties arising from personnel working remotely;
+
+•
+compliance with statutory equity requirements and management of tax consequences; and
+
+•
+geopolitical events affecting us, our marketers or our industry, including trade disputes, armed conflicts, and pandemics.
+
+In addition, we must manage the potential conﬂicts between locally accepted business practices in any given jurisdiction and our
+obligations to comply with laws and regulations, including anti-corruption laws or regulations applicable to us, such as the U.S. Foreign Corrupt
+Practices Act and the U.K. Bribery Act 2010. We also must manage our obligations to comply with laws and regulations related to import and
+export controls, trade restrictions, and sanctions, including regulations established by the U.S. Oﬃce of Foreign Assets Control. Government
+agencies and authorities have a broad range of civil and criminal penalties they may seek to impose against companies for violations of anti-
+corruption laws or regulations, import and export controls, trade restrictions, sanctions, and other laws, rules, and regulations.
+
+If we are unable to expand internationally and manage the complexity of our global operations successfully, our ﬁnancial results could be
+adversely aﬀected. We also may be required to or elect to cease or modify our operations or the oﬀering of our products and services in certain
+regions, including as a result of the risks described above, which could adversely aﬀect our business, user growth and engagement, and ﬁnancial
+results.
+
+We face design, manufacturing, and supply chain risks that, if not properly managed, could adversely impact our financial results.
+
+We face a number of risks related to design, manufacturing, and supply chain management with respect to our consumer hardware
+products. For example, the consumer hardware products we sell from time to time have had, and in the future may have, quality issues resulting
+from the design or manufacture of the products, or from the software used in the products. Sometimes, these issues may be caused by
+components we purchase from other manufacturers or suppliers. Our brand and ﬁnancial results could be adversely aﬀected by any such quality
+issues, other failures to meet our customers' expectations, or findings of our consumer hardware products to be defective.
+
+We rely on third parties to manufacture and manage the logistics of transporting and distributing our consumer hardware products, which
+subjects us to a number of risks that have been exacerbated as a result of the COVID-19 pandemic. We have experienced, and may in the future
+experience, supply or labor shortages or other disruptions in logistics and the supply chain, which could result in shipping delays and negatively
+impact our operations, product development, and sales. We could be negatively aﬀected if we are not able to engage third parties with the
+necessary capabilities or capacity on reasonable terms, or if those we engage with fail to meet their obligations (whether due to ﬁnancial
+diﬃculties, manufacturing or supply constraints, or other reasons), or make adverse changes in the pricing or other material terms of such
+arrangements with them. The manufacturing, distribution, and sale of our consumer hardware products also may be negatively impacted by
+macroeconomic conditions, geopolitical challenges, trade disputes, or other actions by governments that subject us to supply shortages,
+increased costs, or supply chain or logistics disruptions.
+
+We also require the suppliers and business partners of our consumer hardware products to comply with laws and
+
+
+#### 77
+
+
+## Page 78
+
+
+#### Table of Contents
+
+certain company policies regarding sourcing practices and standards on labor, trade compliance, health and safety, the environment, and
+business ethics, but we do not control them or their practices and standards. If any of them violates laws, fails to implement changes in
+accordance with newly enacted laws, or implements practices or standards regarded as unethical, corrupt, or non-compliant, we could
+experience supply chain disruptions, government action or fines, canceled orders, or damage to our reputation.
+
+We face inventory risk with respect to our consumer hardware products.
+
+We are exposed to inventory risks with respect to our consumer hardware products as a result of rapid changes in product cycles and
+pricing, unsafe or defective merchandise, supply chain disruptions, changes in consumer demand and consumer spending patterns, changes in
+consumer tastes with respect to our consumer hardware products, and other factors. The demand for our products can also change signiﬁcantly
+between the time inventory or components are ordered and the date of sale. While we endeavor to accurately predict these trends and avoid
+overstocking or understocking consumer hardware products we may sell, from time to time we have experienced diﬃculties in accurately
+predicting and meeting the consumer demand for our products. In addition, when we begin selling or manufacturing a new consumer hardware
+product or enter new international markets, it may be diﬃcult to establish vendor relationships, determine appropriate product or component
+selection, and accurately forecast demand. The acquisition of certain types of inventory or components may require signiﬁcant lead-time and
+prepayment and they may not be returnable. Any one of the foregoing factors may adversely affect our operating results.
+
+We are involved in numerous class action lawsuits and other litigation matters that are expensive and time consuming, and, if resolved
+adversely, could harm our business, financial condition, or results of operations.
+
+We are involved in numerous lawsuits, including stockholder derivative lawsuits and putative class action lawsuits, many of which claim
+statutory damages and/or seek significant changes to our business operations, and we anticipate that we will continue to be a target for numerous
+lawsuits in the future. Because of the scale of our user, advertiser, and developer base, the plaintiffs in class action cases filed against us typically
+claim enormous monetary damages even if the alleged per-user or entity harm is small or non-existent. In addition, we have faced, currently face,
+and will continue to face additional class action lawsuits based on claims related to advertising, antitrust, privacy, biometrics, content, algorithms,
+employment, activities on our platform, consumer protection, or product performance or other claims related to the use of consumer hardware and
+software, including virtual reality technology and products, which are new and unproven. For example, we are currently the subject of multiple
+putative class action suits in connection with our platform and user data practices and the misuse of certain data by a developer that shared such
+data with third parties in violation of our terms and policies; the disclosure of our earnings results for the second quarter of 2018; our acquisitions
+of Instagram and WhatsApp, as well as other alleged anticompetitive conduct; a former employee's allegations and release of internal company
+documents beginning in September 2021; the disclosure of our earnings results for the fourth quarter of 2021; and allegations that we inﬂated our
+estimates of the potential audience size for advertisements, resulting in artiﬁcially increased demand and higher prices. We are also the subject
+of multiple lawsuits related to our alleged recommendation of and/or failure to remove harmful content. The results of any such lawsuits and
+claims cannot be predicted with certainty, and any negative outcome from any such lawsuits could result in payments of substantial monetary
+damages or ﬁnes, or undesirable changes to our products or business practices, and accordingly our business, ﬁnancial condition, or results of
+operations could be materially and adversely affected.
+
+There can be no assurances that a favorable ﬁnal outcome will be obtained in all our cases, and defending any lawsuit is costly and can
+impose a signiﬁcant burden on management and employees. Any litigation to which we are a party may result in an onerous or unfavorable
+judgment that may not be reversed upon appeal or in payments of substantial monetary damages or ﬁnes, or we may decide to settle lawsuits on
+similarly unfavorable terms, which has occurred in the past and which could adversely aﬀect our business, ﬁnancial conditions, or results of
+operations.
+
+We may have exposure to greater than anticipated tax liabilities.
+
+Our tax obligations, including income and non-income taxes, are based in part on our corporate operating structure and intercompany
+arrangements, including the manner in which we operate our business, develop, value, manage, protect, and use our intellectual property, and
+the valuations of our intercompany transactions. The tax laws applicable to our business, including the laws of the United States and other
+jurisdictions, are subject to interpretation and certain jurisdictions are aggressively interpreting their laws in new ways in an eﬀort to raise
+additional tax revenue from companies such as Meta. We
+
+
+#### 78

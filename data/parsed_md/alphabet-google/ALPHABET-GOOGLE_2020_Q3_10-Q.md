@@ -1,8 +1,8 @@
-# Annual Report: ALPHABET-GOOGLE_2020_Q3_10-Q
+# Financial Report: ALPHABET-GOOGLE_2020_Q3_10-Q
 
 - **Source File**: `ALPHABET-GOOGLE_2020_Q3_10-Q.pdf`
-- **Total Pages**: 76
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 76
+- **Parsed Key Pages**: 37 (37 selected sections)
 
 ---
 
@@ -3908,564 +3908,576 @@ interest payable semi-annually.
 #### 23
 
 
-## Page 26
+## Page 33
 
-### Table 26.1
+### Table 33.1
 
-| As of September 30, 2020, we have $4.0 billion of revolving credit facilities which expire in July 2023. The interest rate for the credit facilities is |  |
+| Basic net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Allocation of undistributed earnings | $ | 10,218 |  | $ | 1,588 | $ | 11,866 |  | $ | 11,004 |  | $ | 1,697 |  | $ 12,341 |
+| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of shares used in per share computation | 299,493 |  |  | 46,549 |  | 347,818 |  |  | 299,934 |  |  | 46,266 |  |  | 336,361 |
+| Basic net income per share | $ | 34.12 |  | $ | 34.12 | $ | 34.12 |  | $ | 36.69 |  | $ | 36.69 |  | $ 36.69 |
+| Diluted net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Allocation of undistributed earnings for basic computation | $ | 10,218 |  | $ | 1,588 | $ | 11,866 |  | $ | 11,004 |  | $ | 1,697 |  | $ 12,341 |
+| Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares | 1,588 |  |  | 0 |  | 0 |  |  | 1,697 |  |  | 0 |  |  | 0 |
+| Reallocation of undistributed earnings | (83) |  |  | (13) |  | 83 |  |  | (103) |  |  | (14) |  |  | 103 |
+| Allocation of undistributed earnings | $ | 11,723 |  | $ | 1,575 | $ | 11,949 |  | $ | 12,598 |  | $ | 1,683 |  | $ 12,444 |
+| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of shares used in basic computation | 299,493 |  |  | 46,549 |  | 347,818 |  |  | 299,934 |  |  | 46,266 |  |  | 336,361 |
+| Weighted-average effect of dilutive securities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Add: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Conversion of Class B to Class A common shares outstanding | 46,549 |  |  | 0 |  | 0 |  |  | 46,266 |  |  | 0 |  |  | 0 |
+| Restricted stock units and other contingently issuable shares | 448 |  |  | 0 |  | 5,369 |  |  | 105 |  |  | 0 |  |  | 5,715 |
+| Number of shares used in per share computation | 346,490 |  |  | 46,549 |  | 353,187 |  |  | 346,305 |  |  | 46,266 |  |  | 342,076 |
+| Diluted net income per share | $ | 33.83 |  | $ | 33.83 | $ | 33.83 |  | $ | 36.38 |  | $ | 36.38 |  | $ 36.38 |
+
+
+### Table 33.2
+
+|  | d $3.3 billio |
 | --- | --- |
-|  | amounts were outstanding under the credit facilities as of December 31, 2019 and |
+| respectively, including amounts associated with awards we expect to settle in Alphabet stock of $2.6 billion and $3.1 billion, respectively. For the |  |
+| nine months ended September 30, 2019 and 2020, total SBC expense was $8.6 billion and $10.1 billion, respectively, including amounts associated |  |
+| with awards we expect to settle in Alphabet stock of $8.2 billion and $9.6 billion, respectively. |  |
 
 
-### Table 26.2
+### Table 33.3
 
-| determined based on a formula using certain market rates. |
-| --- |
-| September 30, 2020. |
-
-
-### Table 26.3
-
-| Land and buildings | $ 39,865 |  | $ | 46,787 |
+|  | Number of Shares |  | Weighted- Average Grant-Date Fair Value |  |
 | --- | --- | --- | --- | --- |
-| Information technology assets | 36,840 |  | 42,883 |  |
-| Construction in progress | 21,036 |  | 23,115 |  |
-| Leasehold improvements | 6,310 |  | 7,303 |  |
-| Furniture and fixtures | 156 |  | 199 |  |
-| Property and equipment, gross | 104,207 |  | 120,287 |  |
-| Less: accumulated depreciation | (30,561) |  | (38,651) |  |
-| Property and equipment, net | $ 73,646 |  | $ | 81,636 |
-
-
-### Table 26.4
-
-| European Commission fines(1) | $ 9,405 |  | $ | 9,921 |
-| --- | --- | --- | --- | --- |
-| Accrued customer liabilities | 2,245 |  | 2,559 |  |
-| Accrued purchases of property and equipment | 2,411 |  | 2,157 |  |
-| Current operating lease liabilities | 1,199 |  | 1,535 |  |
-| Other accrued expenses and current liabilities | 7,807 |  | 9,459 |  |
-| Accrued expenses and other current liabilities | $ 23,067 |  | $ | 25,631 |
+| Unvested as of December 31, 2019 | 19,394,236 |  | $ | 1,055.22 |
+| Granted | 11,635,680 |  | $ | 1,394.72 |
+| Vested | (8,437,980) |  | $ | 1,071.16 |
+| Forfeited/canceled | (951,715) |  | $ | 1,150.93 |
+| Unvested as of September 30, 2020 | 21,640,221 |  | $ | 1,228.65 |
 
 
 Table of Contents
 Alphabet In
 
-The total estimated fair value of the outstanding notes, including the current portion, was approximately $ 4.1 billion and $13.9 billion as of
-December 31, 2019 and September 30, 2020, respectively. The fair value was determined based on observable market prices of identical
-instruments in less active markets and is categorized accordingly as Level 2 in the fair value hierarchy.
-
-
-#### Credit Facility
-
-As of September 30, 2020, we have $4.0 billion of revolving credit facilities which expire in July 2023. The interest rate for the credit facilities is
-determined based on a formula using certain market rates. No amounts were outstanding under the credit facilities as of December 31, 2019 and
-September 30, 2020.
-
-
-#### Note 7. Supplemental Financial Statement Information
-
-
-#### Property and Equipment, Net
-
-
-#### Property and equipment, net, consisted of the following (in millions):
-
-As of 
-December 31, 2019
-
-As of
-September 30, 2020
- 
- 
-(unaudited)
-Land and buildings
-$
-39,865 
-$
-46,787 
-Information technology assets
-36,840 
-42,883 
-Construction in progress
-21,036 
-23,115 
-Leasehold improvements
-6,310 
-7,303 
-Furniture and fixtures
-156 
-199 
-Property and equipment, gross
-104,207 
-120,287 
-Less: accumulated depreciation
-(30,561)
-(38,651)
-Property and equipment, net
-$
-73,646 
-$
-81,636
-
-
-#### Accrued expenses and other current liabilities
-
-Accrued expenses and other current liabilities consisted of the following (in millions):
-
-As of 
-December 31, 2019
-
-As of
-September 30, 2020
- 
-(unaudited)
-European Commission fines
-$
-9,405 
-$
-9,921 
-Accrued customer liabilities
-2,245 
-2,559 
-Accrued purchases of property and equipment
-2,411 
-2,157 
-Current operating lease liabilities
-1,199 
-1,535 
-Other accrued expenses and current liabilities
-7,807 
-9,459 
-Accrued expenses and other current liabilities
-$
-23,067 
-$
-25,631
-
-Includes the effects of foreign exchange and interest. See Note 10 for further details.
-
-
-#### (1)
-
-
-#### (1)
-
-
-#### 24
-
-
-## Page 27
-
-### Table 27.1
-
-| Balance as of December 31, 2018 | $ | (1,884) |  | $ | (688) |  | $ | 266 |  | $ | (2,306) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cumulative effect of accounting change | 0 |  |  | 0 |  |  | (30) |  |  | (30) |  |
-| Other comprehensive income (loss) before reclassifications | (326) |  |  | 1,613 |  |  | 222 |  |  | 1,509 |  |
-| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0 |  |  | 0 |  |  | (13) |  |  | (13) |  |
-| Amounts reclassified from AOCI | 0 |  |  | (107) |  |  | (249) |  |  | (356) |  |
-| Other comprehensive income (loss) | (326) |  |  | 1,506 |  |  | (40) |  |  | 1,140 |  |
-| Balance as of September 30, 2019 | $ | (2,210) |  | $ | 818 |  | $ | 196 |  | $ | (1,196) |
-
-
-### Table 27.2
-
-|  | Foreign Currency Translation Adjustments |  |  | Unrealized Gains (Losses) on Available-for-Sale Investments |  |  | Unrealized Gains (Losses) on Cash Flow Hedges |  |  | Total |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Balance as of December 31, 2019 | $ | (2,003) |  | $ | 812 |  | $ | (41) |  | $ | (1,232) |
-| Other comprehensive income (loss) before reclassifications | 193 |  |  | 1,346 |  |  | 264 |  |  | 1,803 |  |
-| Amounts excluded from the assessment of hedge effectiveness recorded in AOCI | 0 |  |  | 0 |  |  | (20) |  |  | (20) |  |
-| Amounts reclassified from AOCI | 0 |  |  | (391) |  |  | (114) |  |  | (505) |  |
-| Other comprehensive income (loss) | 193 |  |  | 955 |  |  | 130 |  |  | 1,278 |  |
-| Balance as of September 30, 2020 | $ | (1,810) |  | $ | 1,767 |  | $ | 89 |  | $ | 46 |
-
-
-### Table 27.3
-
-|  |  |  |  |  |  |  | 2020 |  |  |  |  | 2020 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unrealized gains (losses) on available-for-sale investments |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | Other income (expense), net |  | $ | 49 |  | $ | 93 |  | $ 145 |  | $ | 496 |
-|  |  | Benefit (provision) for income taxes |  | (10) |  |  | (20) |  |  | (38) |  | (105) |  |
-|  |  | Net of tax |  | 39 |  |  | 73 |  |  | 107 |  | 391 |  |
-| Unrealized gains (losses) on cash flow hedges |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Foreign exchange contracts |  | Revenue |  | 93 |  |  | (28) |  |  | 306 |  | 138 |  |
-| Interest rate contracts |  | Other income (expense), net |  | 1 |  |  | 1 |  |  | 4 |  | 4 |  |
-|  |  | Benefit (provision) for income taxes |  | (19) |  |  | 4 |  |  | (61) |  | (28) |  |
-|  |  | Net of tax |  | 75 |  |  | (23) |  |  | 249 |  | 114 |  |
-| Total amount reclassified, net of tax |  |  |  | $ | 114 |  | $ | 50 |  | $ 356 |  | $ | 505 |
-
-
-Table of Contents
-Alphabet In
-
-
-#### Accumulated Other Comprehensive Income (Loss)
-
-
-#### The components of AOCI, net of tax, were as follows (in millions, unaudited):
-
-
-#### Foreign Currency
-
-Translation
-Adjustments
-
-
-#### Unrealized Gains
-
-(Losses) on
-Available-for-Sale
-
-
-#### Investments
-
-Unrealized Gains
-(Losses) on Cash
-
-Flow Hedges
-Total
-Balance as of December 31, 2018
-$
-(1,884)
-$
-(688)
-$
-266 
-$
-(2,306)
-Cumulative effect of accounting change
-0 
-0 
-(30)
-(30)
-Other comprehensive income (loss) before reclassifications
-(326)
-1,613 
-222 
-1,509 
-Amounts excluded from the assessment of hedge effectiveness
-recorded in AOCI
-0 
-0 
-(13)
-(13)
-Amounts reclassified from AOCI
-0 
-(107)
-(249)
-(356)
-Other comprehensive income (loss)
-(326)
-1,506 
-(40)
-1,140
-
-Balance as of September 30, 2019
-$
-(2,210)
-$
-818 
-$
-196 
-$
-(1,196)
-
-
-#### Foreign Currency
-
-Translation
-Adjustments
-
-
-#### Unrealized Gains
-
-(Losses) on
-Available-for-Sale
-
-
-#### Investments
-
-Unrealized Gains
-(Losses) on Cash
-
-Flow Hedges
-Total
-Balance as of December 31, 2019
-$
-(2,003)
-$
-812 
-$
-(41)
-$
-(1,232)
-Other comprehensive income (loss) before reclassifications
-193 
-1,346 
-264 
-1,803 
-Amounts excluded from the assessment of hedge effectiveness
-recorded in AOCI
-0 
-0 
-(20)
-(20)
-Amounts reclassified from AOCI
-0 
-(391)
-(114)
-(505)
-Other comprehensive income (loss)
-193 
-955 
-130 
-1,278
-
-Balance as of September 30, 2020
-$
-(1,810)
-$
-1,767 
-$
-89 
-$
-46
-
-The effects on net income of amounts reclassified from AOCI were as follows (in millions, unaudited):
-
-
-#### Gains (Losses) Reclassified from AOCI to the Consolidated Statements of
-
-Income
-Three Months Ended
-Nine Months Ended
- 
-September 30,
-September 30,
- AOCI Components
-Location
-2019
-2020
-2019
-2020
-Unrealized gains (losses) on available-for-sale investments
-
-Other income (expense), net
-$
-49 
-$
-93 
-$
-145 
-$
-496 
-Benefit (provision) for income taxes
-(10)
-(20)
-(38)
-(105)
-Net of tax
-39 
-73 
-107 
-391 
-Unrealized gains (losses) on cash flow hedges
-
-Foreign exchange contracts
-Revenue
-93 
-(28)
-306 
-138 
-Interest rate contracts
-Other income (expense), net
-1 
-1 
-4 
-4 
-Benefit (provision) for income taxes
-(19)
-4 
-(61)
-(28)
-Net of tax
-75 
-(23)
-249 
-114
-
-Total amount reclassified, net of tax
-$
-114 
-$
-50 
-$
-356 
-$
-505
-
-
-#### 25
-
-
-## Page 28
-
-### Table 28.1
-
-| Interest income | $ | 631 | $ 460 | $ 1,806 | $ 1,479 |
-| --- | --- | --- | --- | --- | --- |
-| Interest expense(1) | (23) |  | (48) | (83) | (82) |
-| Foreign currency exchange gain (loss), net | 41 |  | (84) | 63 | (257) |
-| Gain (loss) on debt securities, net | 49 |  | 116 | 145 | 515 |
-| Gain (loss) on equity securities, net | (1,528) |  | 1,899 | 2,254 | 2,540 |
-| Performance fees | 227 |  | (135) | (333) | (204) |
-| Income (loss) and impairment from equity method investments, net | (14) |  | 26 | (70) | 46 |
-| Other | 68 |  | (88) | 174 | (217) |
-| Other income (expense), net | $ | (549) | $ 2,146 | $ 3,956 | $ 3,820 |
-
-
-### Table 28.2
-
-| Balance as of December 31, 2019 | $ 19,921 | $ 703 | $ 20,624 |
-| --- | --- | --- | --- |
-| Acquisitions | 204 | 0 | 204 |
-| Foreign currency translation and other adjustments | 46 | (4) | 42 |
-| Balance as of September 30, 2020 | $ 20,171 | $ 699 | $ 20,870 |
-
-
-Table of Contents
-Alphabet In
-
-
-#### Other Income (Expense), Net
-
-The components of other income (expense), net, were as follows (in millions, unaudited):
-
-Three Months Ended
-Nine Months Ended
-September 30,
-September 30,
+Nine Months Ended September 30,
  
 2019
 2020
-2019
-2020
-Interest income
+ 
+Class A
+Class B
+Class C
+Class A
+Class B
+Class C
+Basic net income per share:
+
+
+#### Numerator
+
+Allocation of undistributed earnings
 $
-631 
+10,218 
 $
-460 
+1,588 
 $
-1,806 
+11,866 
 $
-1,479 
-Interest expense
-(23)
-(48)
+11,004 
+$
+1,697 
+$
+12,341 
+Denominator
+
+Number of shares used in per share computation
+299,493 
+46,549 
+347,818 
+299,934 
+46,266 
+336,361 
+Basic net income per share
+$
+34.12 
+$
+34.12 
+$
+34.12 
+$
+36.69 
+$
+36.69 
+$
+36.69
+
+
+#### Diluted net income per share:
+
+
+#### Numerator
+
+Allocation of undistributed earnings for basic computation
+$
+10,218 
+$
+1,588 
+$
+11,866 
+$
+11,004 
+$
+1,697 
+$
+12,341 
+Reallocation of undistributed earnings as a result of conversion of
+Class B to Class A shares
+1,588 
+0 
+0 
+1,697 
+0 
+0 
+Reallocation of undistributed earnings
 (83)
-(82)
-Foreign currency exchange gain (loss), net
-41 
-(84)
-63 
-(257)
-Gain (loss) on debt securities, net
-49 
-116 
-145 
-515 
-Gain (loss) on equity securities, net
-(1,528)
-1,899 
-2,254 
-2,540 
-Performance fees
-227 
-(135)
-(333)
-(204)
-Income (loss) and impairment from equity method investments, net
+(13)
+83 
+(103)
 (14)
-26 
-(70)
-46 
-Other
-68 
-(88)
-174 
-(217)
-Other income (expense), net
+103 
+Allocation of undistributed earnings
 $
-(549)
+11,723 
 $
-2,146 
+1,575 
 $
-3,956 
+11,949 
 $
-3,820
+12,598 
+$
+1,683 
+$
+12,444 
+Denominator
 
-Interest expense is net of interest capitalized of $46 million and $53 million for the three months ended September 30, 2019 and 2020, respectively, and
-$113 million and $162 million for the nine months ended September 30, 2019 and 2020, respectively.
+Number of shares used in basic computation
+299,493 
+46,549 
+347,818 
+299,934 
+46,266 
+336,361 
+Weighted-average effect of dilutive securities
+
+Add:
+Conversion of Class B to Class A common shares outstanding
+46,549 
+0 
+0 
+46,266 
+0 
+0 
+Restricted stock units and other contingently issuable shares
+448 
+0 
+5,369 
+105 
+0 
+5,715 
+Number of shares used in per share computation
+346,490 
+46,549 
+353,187 
+346,305 
+46,266 
+342,076 
+Diluted net income per share
+$
+33.83 
+$
+33.83 
+$
+33.83 
+$
+36.38 
+$
+36.38 
+$
+36.38
+
+For the periods presented above, the net income per share amounts are the same for Class A and Class B common stock and Class C capital
+stock because the holders of each class are entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and
+Restated Certificate of Incorporation of Alphabet Inc.
 
 
-#### Note 8. Acquisitions
-
-During the nine months ended September 30, 2020, we completed acquisitions and purchases of intangible assets for total consideration of
-approximately $387 million, net of cash acquired. In aggregate, $139 million was attributed to intangible assets, $ 204 million to goodwill, and $ 44
-million to net assets acquired. These acquisitions generally enhance the breadth and depth of our oﬀerings and expand our expertise in engineering
-and other functional areas.
-
-Pro forma results of operations for these acquisitions have not been presented because they are not material to the consolidated results of
-operations, either individually or in the aggregate.
-
-For all intangible assets acquired and purchased during the nine months ended September 30, 2020, patents and developed technology have
-a weighted-average useful life of 3.8 years, customer relationships have a weighted-average useful life of 4.8 years, and trade names and other
-have a weighted-average useful life of 5.0 years.
+#### Note 13. Compensation Plans
 
 
-#### Pending Acquisition of Fitbit
+#### Stock-Based Compensation
 
-In November 2019, we entered into an agreement to acquire Fitbit, a leading wearables brand, for $ 7.35 per share, representing a total
-purchase price of approximately $2.1 billion as of the date of the agreement.  While we still expect to secure the necessary regulatory approvals and
-to close the transaction in 2020, the time frame may extend beyond that.
-
-
-#### Note 9. Goodwill and Other Intangible Assets
+For the three months ended September 30, 2019 and 2020, total stock-based compensation ("SBC") expense was $ 2.8 billion and $3.3 billion,
+respectively, including amounts associated with awards we expect to settle in Alphabet stock of $2.6 billion and $3.1 billion, respectively. For the
+nine months ended September 30, 2019 and 2020, total SBC expense was $8.6 billion and $10.1 billion, respectively, including amounts associated
+with awards we expect to settle in Alphabet stock of $8.2 billion and $9.6 billion, respectively.
 
 
-#### Goodwill
+#### Stock-Based Award Activities
 
-Changes in the carrying amount of goodwill for the nine months ended September 30, 2020 were as follows (in millions, unaudited):
+The following table summarizes the activities for our unvested restricted stock units ("RSUs") in Alphabet stock for the nine months ended
+September 30, 2020 (unaudited):
+
+
+#### Unvested Restricted Stock Units
+
+
+#### Number of
+
+
+#### Shares
+
+
+#### Weighted-
+
+Average
+Grant-Date
+
+Fair Value
+Unvested as of December 31, 2019
+19,394,236 
+$
+1,055.22 
+Granted
+11,635,680 
+$
+1,394.72 
+ Vested
+(8,437,980)
+$
+1,071.16 
+ Forfeited/canceled
+(951,715)
+$
+1,150.93 
+Unvested as of September 30, 2020
+21,640,221 
+$
+1,228.65
+
+As of September 30, 2020, there was $24.6 billion of unrecognized compensation cost related to unvested employee RSUs. This amount is
+expected to be recognized over a weighted-average period of 2.6 years.
+
+
+#### 31
+
+
+## Page 34
+
+### Table 34.1
+
+| Revenues: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Google | $ | 40,225 |  | $ | 46,017 |  | $ | 114,931 |  | $ | 124,990 |
+| Other Bets | 155 |  |  | 178 |  |  | 487 |  |  | 461 |  |
+| Hedging gains (losses) | 119 |  |  | (22) |  |  | 364 |  |  | 178 |  |
+| Total revenues | $ | 40,499 |  | $ | 46,173 |  | $ | 115,782 |  | $ | 125,629 |
+
+
+Table of Contents
+Alphabet In
+
+
+#### Note 14. Income Taxes
+
+Our eﬀective tax rate for the three months ended September 30, 2020 was lower than the U.S. federal statutory rate, primarily due to the
+Foreign-Derived Intangible Income tax benefit, the U.S. Research and Development Tax Credit, and stock-based compensation related tax benefits.
+Our effective tax rate is based on forecasted annual results which may fluctuate through the rest of the year, in particular due to COVID-19.
+
+Our eﬀective tax rate for the three months ended September 30, 2019 was lower than the U.S. federal statutory rate primarily due to foreign
+earnings taxed at lower rates and the U.S. Research and Development Tax Credit, partially offset by changes in unrecognized tax benefits.
+
+We are subject to income taxes in the U.S. and foreign jurisdictions. Signiﬁcant judgment is required in evaluating our uncertain tax positions
+and determining our provision for income taxes. Our total gross unrecognized tax beneﬁts were $3.4 billion and $3.7 billion as of December 31,
+2019 and September 30, 2020. Our total unrecognized tax beneﬁts that, if recognized, would aﬀect our eﬀective tax rate were $2.3 billion and
+$2.5 billion as of December 31, 2019 and September 30, 2020. Although the timing of the resolution, settlement, and closure of audits is not certain,
+we do not believe it is reasonably possible that our unrecognized tax benefits will materially change in the next 12 months.
+
+For information regarding non-income taxes, see Note 10.
+
+
+#### Note 15. Information about Segments and Geographic Areas
+
+We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the
+quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets.
+
+Our reported segments are:
+•
+Google – Google includes our main products such as ads, Android, Chrome, hardware, Google Cloud, Google Maps, Google Play, Search,
+and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps,
+in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud
+offerings and subscription-based products.
+•
+Other Bets – Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes Access,
+Calico, CapitalG, GV, Verily, Waymo, and X, among others. Revenues from the Other Bets are derived primarily through the sale of internet
+services through Access as well as licensing and R&D services through Verily.
+
+Starting in the quarter ending December 31, 2020 we will disclose Google Cloud as a separate segment.
+
+Revenues, cost of revenues, and operating expenses are generally directly attributed to our segments. Inter-segment revenues are not
+presented separately, as these amounts are immaterial. Our Chief Operating Decision Maker does not evaluate operating segments using asset
+information.
+
+Information about segments during the periods presented were as follows (in millions, unaudited):
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Revenues:
 
 Google
+$
+40,225 
+$
+46,017 
+$
+114,931 
+$
+124,990 
 Other Bets
+155 
+178 
+487 
+461 
+Hedging gains (losses)
+119 
+(22)
+364 
+178 
+Total revenues
+$
+40,499 
+$
+46,173 
+$
+115,782 
+$
+125,629
 
-Total
-Consolidated
-Balance as of December 31, 2019
+
+#### 32
+
+
+## Page 35
+
+### Table 35.1
+
+| Operating income (loss): |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Google | $ | 10,746 | $ 12,589 | $ 30,214 | $ 29,431 |
+| Other Bets | (941) |  | (1,103) | (2,798) | (3,340) |
+| Reconciling items(1) | (628) |  | (273) | (2,451) | (518) |
+| Total income from operations | $ | 9,177 | $ 11,213 | $ 24,965 | $ 25,573 |
+
+
+### Table 35.2
+
+| Capital expenditures: |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Google | $ 7,228 | $ 5,465 | $ 18,658 | $ 15,964 |
+| Other Bets | 71 | 120 | 195 | 320 |
+| Reconciling items(2) | (567) | (179) | (1,357) | 518 |
+| Total capital expenditures as presented on the Consolidated Statements of Cash Flows | $ 6,732 | $ 5,406 | $ 17,496 | $ 16,802 |
+
+
+### Table 35.3
+
+| Stock-based compensation: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Google | $ | 2,470 | $ 2,921 | $ 7,682 | $ 9,035 |
+| Other Bets | 117 |  | 130 | 365 | 401 |
+| Reconciling items(3) | 34 |  | 66 | 103 | 200 |
+| Total stock-based compensation(4) | $ | 2,621 | $ 3,117 | $ 8,150 | $ 9,636 |
+| Depreciation, amortization, and impairment: |  |  |  |  |  |
+| Google | $ | 2,837 | $ 3,383 | $ 8,122 | $ 9,688 |
+| Other Bets | 83 |  | 95 | 246 | 281 |
+| Reconciling items(3) | 0 |  | 0 | 0 | 3 |
+| Total depreciation, amortization, and impairment | $ | 2,920 | $ 3,478 | $ 8,368 | $ 9,972 |
+
+
+Table of Contents
+Alphabet In
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Operating income (loss):
+
+Google
 $
-19,921 
+10,746 
 $
-703 
+12,589 
 $
-20,624 
-Acquisitions
-204 
+30,214 
+$
+29,431 
+Other Bets
+(941)
+(1,103)
+(2,798)
+(3,340)
+Reconciling items
+(628)
+(273)
+(2,451)
+(518)
+Total income from operations
+$
+9,177 
+$
+11,213 
+$
+24,965 
+$
+25,573
+
+Reconciling items are generally comprised of corporate administrative costs, hedging gains (losses) and other miscellaneous items that are not allocated to
+
+individual segments. Reconciling items for the three and nine months ended September 30, 2019 include a charge from a legal settlement. Reconciling
+items for the nine months ended September 30, 2019 also include the EC fine for which we recognized a charge in the first quarter of 2019.
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Capital expenditures:
+
+Google
+$
+7,228 
+$
+5,465 
+$
+18,658 
+$
+15,964 
+Other Bets
+71 
+120 
+195 
+320 
+Reconciling items
+(567)
+(179)
+(1,357)
+518 
+Total capital expenditures as presented on the Consolidated Statements
+of Cash Flows
+$
+6,732 
+$
+5,406 
+$
+17,496 
+$
+16,802
+
+Reconciling items are related to timing diﬀerences of payments as segment capital expenditures are on accrual basis while total capital expenditures shown
+
+on the Consolidated Statements of Cash Flow are on cash basis and other miscellaneous differences.
+
+Stock-based compensation and depreciation, amortization, and impairment are included in segment operating income (loss) as shown below
+(in millions, unaudited):
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Stock-based compensation:
+
+Google
+$
+2,470 
+$
+2,921 
+$
+7,682 
+$
+9,035 
+Other Bets
+117 
+130 
+365 
+401 
+Reconciling items
+34 
+66 
+103 
+200 
+Total stock-based compensation
+$
+2,621 
+$
+3,117 
+$
+8,150 
+$
+9,636
+
+
+#### Depreciation, amortization, and impairment:
+
+Google
+$
+2,837 
+$
+3,383 
+$
+8,122 
+$
+9,688 
+Other Bets
+83 
+95 
+246 
+281 
+Reconciling items
 0 
-204 
-Foreign currency translation and other adjustments
-46 
-(4)
-42 
-Balance as of September 30, 2020
+0 
+0 
+3 
+Total depreciation, amortization, and impairment
 $
-20,171 
+2,920 
 $
-699 
+3,478 
 $
-20,870
+8,368 
+$
+9,972
+
+Reconciling items relate to corporate administrative and other costs that are not allocated to individual segments.
+For purposes of segment reporting, SBC represents awards that we expect to settle in Alphabet stock.
 
 
 #### (1)
@@ -4474,288 +4486,1074 @@ $
 #### (1)
 
 
-#### 26
+#### (2)
 
 
-## Page 29
-
-### Table 29.1
-
-| Patents and developed technology | $ | 4,972 |  | $ | 3,570 |  | $ | 1,402 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+#### (2)
 
 
+#### (3)
 
-### Table 29.2
 
-| Trade names and other | 703 |  | 350 |  | 353 |
+#### (4)
+
+
+#### (3)
+
+
+#### (3)
+
+
+#### (4)
+
+
+#### 33
+
+
+## Page 36
+
+### Table 36.1
+
+| Long-lived assets: |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 29.3
-
-| Patents and developed technology | $ | 4,612 |  | $ | 3,552 |  | $ | 1,060 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 29.4
-
-| Trade names and other | 700 |  | 436 |  | 264 |
-| --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 29.5
-
-| Remainder of 2020 | $ | 181 |
-| --- | --- | --- |
-| 2021 | 694 |  |
-| 2022 | 354 |  |
-| 2023 | 81 |  |
-| 2024 | 57 |  |
-| Thereafter | 153 |  |
-| Total | $ | 1,520 |
+|  |  |  |  | $ | 101,405 |
+| International | 28,424 |  |  | 33,469 |  |
+| Total long-lived assets | $ | 123,331 |  | $ | 134,874 |
 
 
 Table of Contents
 Alphabet In
 
+The following table presents our long-lived assets by geographic area (in millions):
 
-#### Other Intangible Assets
+As of 
+December 31, 2019
 
-Information regarding purchased intangible assets were as follows (in millions):
-
-
-#### As of December 31, 2019
-
-Gross
-Carrying
-
-
-#### Amount
-
-
-#### Accumulated
-
-
-#### Amortization
-
-Net
-Carrying
-
-Amount
-Patents and developed technology
-$
-4,972 
-$
-3,570 
-$
-1,402 
-Customer relationships
-254 
-30 
-224 
-Trade names and other
-703 
-350 
-353 
-Total
-$
-5,929 
-$
-3,950 
-$
-1,979
-
-As of September 30, 2020
-Gross
-Carrying
-
-
-#### Amount
-
-
-#### Accumulated
-
-
-#### Amortization
-
-Net
-Carrying
-
-Amount
+As of
+September 30, 2020
+ 
+ 
 (unaudited)
-Patents and developed technology
+Long-lived assets:
+
+United States
 $
-4,612 
+94,907 
 $
-3,552 
+101,405 
+International
+28,424 
+33,469 
+Total long-lived assets
 $
-1,060 
-Customer relationships
-235 
-39 
-196 
-Trade names and other
-700 
-436 
-264 
-Total
+123,331 
 $
-5,547 
-$
-4,027 
-$
-1,520
+134,874
 
-Amortization expense relating to purchased intangible assets was $ 188 million and $189 million for the three months ended September 30,
-2019 and 2020, respectively, and $594 million and $587 million for the nine months ended September 30, 2019 and 2020, respectively.
-
-As of September 30, 2020, expected amortization expense relating to purchased intangible assets for each of the next five years and thereafter
-was as follows (in millions, unaudited):
-
-Remainder of 2020
-$
-181 
-2021
-694 
-2022
-354 
-2023
-81 
-2024
-57 
-Thereafter
-153 
-Total
-$
-1,520
+For revenues by geography, see Note 2.
 
 
-#### Note 10. Contingencies
+#### 34
 
 
-#### Indemnifications
+## Page 37
 
-In the normal course of business, to facilitate transactions in our services and products, we indemnify certain parties, including advertisers,
-Google Network Members, customers of Google Cloud oﬀerings, and lessors with respect to certain matters. We have agreed to hold certain
-parties harmless against losses arising from a breach of representations or covenants, or out of intellectual property infringement or other claims
-made against certain parties. Several of these agreements limit the time within which an indemniﬁcation claim can be made and the amount of the
-claim. In addition, we have entered into indemniﬁcation agreements with our oﬃcers and directors, and our bylaws contain similar indemniﬁcation
-obligations to our agents.
+Table of Contents
+Alphabet In
 
-It is not possible to make a reasonable estimate of the maximum potential amount under these indemniﬁcation agreements due to the unique
-facts and circumstances involved in each particular agreement. Additionally, we have a limited history of prior indemniﬁcation claims and the
-payments we have made under such agreements have not had a material adverse eﬀect on our results of operations, cash ﬂows, or ﬁnancial
-position. However, to the extent that valid indemniﬁcation claims arise in the future, future payments by us could be signiﬁcant and could have a
-material adverse effect on our results of operations or cash flows in a particular period.
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-As of September 30, 2020, we did not have any material indemnification claims that were probable or reasonably possible.
+Please read the following discussion and analysis of our ﬁnancial condition and results of operations together with our consolidated ﬁnancial
+statements and related notes included under Part I, Item 1 of this Quarterly Report on Form 10-Q.
 
 
-#### 27
+#### Executive Overview of Results
+
+Below are our key financial results for the three months ended September 30, 2020 (consolidated unless otherwise noted):
+
+•
+Revenues of $46.2 billion and revenue growth of 14% year over year, constant currency revenues growth of 15% year over year.
+•
+Google segment revenues of $46.0 billion with revenue growth of 14% year over year and Other Bets revenues of $178 million with
+revenue growth of 15% year over year.
+•
+Revenues from the United States, EMEA, APAC, and Other Americas were $21.4 billion, $13.9 billion, $8.5 billion, and $2.4 billion,
+respectively.
+
+•
+Cost of revenues was $21.1 billion, consisting of TAC of $8.2 billion and other cost of revenues of $13.0 billion. TAC as a percentage of
+advertising revenues ("TAC rate") was 22.0%.
+
+•
+Operating expenses (excluding cost of revenues) were $13.8 billion.
+
+•
+Income from operations was $11.2 billion.
+
+•
+Other income (expense), net, was a gain of $2.1 billion.
+
+•
+Effective tax rate was 15.8%.
+
+•
+Net income was $11.2 billion with diluted net income per share of $16.40.
+
+•
+Operating cash flow was $17.0 billion.
+
+•
+Capital expenditures were $5.4 billion.
+
+•
+Number of employees was 132,121 as of September 30, 2020. The majority of new hires during the quarter were engineers and product
+managers. By product area, the largest headcount additions were in Google Cloud.
 
 
-## Page 30
+#### The Impact of COVID-19 on our Results and Operations
 
-### Table 30.1
+In late 2019, an outbreak of COVID-19 emerged and by March 11, 2020 was declared a global pandemic by The World Health Organization.
+Across the United States and the world, governments and municipalities instituted measures in an eﬀort to control the spread of COVID-19,
+including quarantines, shelter-in-place orders, school closings, travel restrictions and the closure of non-essential businesses. The macroeconomic
+impacts of COVID-19 are signiﬁcant and continue to evolve, as exhibited by, among other things, a rise in unemployment, changes in consumer
+behavior, and market volatility.
 
-|  | We have had patent, copyright, trade secret, and trademark infringement lawsuits filed against us claiming that certain of our products, |
-| --- | --- |
-| services, and technologies infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary |  |
-| damages, costly royalty or licensing agreements, or orders preventing us from offering certain features, functionalities, products, or services. As a |  |
-| result, we may have to change our business practices, and develop non-infringing products or technologies, which could result in a loss of revenues |  |
-| for us and otherwise harm our business. In addition, the U.S. International Trade Commission ("ITC") has increasingly become an important forum |  |
-| to litigate intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing infringing products into the |  |
-| U.S. Because the U.S. is an important market, a prohibition on importation could have an adverse effect on us, including preventing us from |  |
-| importing many important products into the U.S. or necessitating workarounds that may limit certain features of our products. |  |
+We began to observe the impact of COVID-19 on our ﬁnancial results late in the quarter ended March 31, 2020. For the quarter ended June
+30, 2020, our advertising revenues declined compared to the prior year due to the continued impacts of COVID-19 and the related reductions in
+global economic activity. During the course of the quarter ended June 30, 2020, we observed a gradual return in user search activity to more
+commercial topics, followed by increased spending by our advertisers. During the quarter ended September 30, 2020, our advertising revenues
+benefited from increased spending by our advertisers.
+
+We continue to assess the realized and potential credit deterioration of our customers due to changes in the macroeconomic environment,
+which has been reﬂected in our allowance for credit losses for accounts receivable. We have, and may, experience variability in our margins as
+many of our expenses are less variable in nature and/or may not correlate to changes in revenues, including costs associated with our data centers
+and facilities as well as employee compensation. In addition, market volatility has contributed to ﬂuctuations in the valuation of our equity
+investments.
+
+While we continued to make investments in land and buildings for data centers, oﬃces and information technology infrastructure, we have
+slowed the pace of our investments, primarily as it relates to office facilities.
+
+Looking ahead, the ongoing impact of COVID-19 on our business continues to evolve and be unpredictable. For example, to the extent the
+pandemic continues to disrupt economic activity globally we, like other businesses,
 
 
-### Table 30.2
-
-|  | Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property |
-| --- | --- |
-| infringement claims, which would increase our costs as a result of defending such claims, and may require that we pay significant damages if there |  |
-| were an adverse ruling in any such claims. In addition, our customers and partners may discontinue the use of our products, services, and |  |
-| technologies, as a result of injunctions or otherwise, which could result in loss of revenues and adversely affect our business. |  |
+#### 35
 
 
-### Table 30.3
+## Page 38
 
-|  | In 2010, Oracle America, Inc. ("Oracle") brought a copyright lawsuit against Google in the Northern District of California, alleging that Google's |
-| --- | --- |
-| Android operating system infringes Oracle's copyrights related to certain Java application programming interfaces. After trial, final judgment was |  |
-| entered by the district court in favor of Google on June 8, 2016, and the court decided post-trial motions in favor of Google. Oracle appealed and on |  |
-| March 27, 2018, the appeals court reversed and remanded the case for a trial on damages. On May 29, 2018, we filed a petition for a rehearing at |  |
-| the Federal Circuit, and on August 28, 2018, the Federal Circuit denied the petition. On January 24, 2019, we filed a petition to the Supreme Court |  |
-| of the United States to review this case. On April 29, 2019, the Supreme Court requested the views of the Solicitor General regarding our petition. |  |
-| On September 27, 2019, the |  |
+are not immune to continued adverse impacts to our business, operations and ﬁnancial results from prolonged decreases in advertising spend,
+changes in user behavior and preferences, credit deterioration and liquidity of our customers, depressed economic activity, or volatility in capital
+markets. The extent of the impact will depend on a number of factors, including the duration and severity of the pandemic; the uneven impact to
+certain industries; advances in testing, treatment and prevention; the macroeconomic impact of government measures to contain the spread of the
+virus and related government stimulus measures. To address the potential impact to our business, over the near-term, we continue to evaluate the
+pace of our investment plans, including, but not limited to, our hiring, investments in data centers, servers, network equipment, real estate and
+facilities, marketing and travel spending, as well as taking certain measures to support our customers, employees, and communities we operate in.
+At the same time, we believe the current environment is accelerating digital transformation and we remain focused on innovating and investing in
+the services we oﬀer to consumers and businesses. For example, as it relates to Google Cloud, we continue to invest aggressively in our go-to-
+market capabilities, product development and technical infrastructure to support long term growth. The ongoing impact of COVID-19 and the extent
+of these measures we may implement could have a material impact on our ﬁnancial results. Our past results may not be indicative of our future
+performance, and historical trends in our financial results may differ materially.
+
+
+#### Information about Segments
+
+We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the
+quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets.
+
+
+#### Our reported segments are:
+
+•
+Google – Google includes our main products such as ads, Android, Chrome, hardware, Google Cloud, Google Maps, Google Play, Search,
+and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps,
+in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud
+offerings and subscription-based products.
+
+•
+Other Bets – Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes Access,
+Calico, CapitalG, GV, Verily, Waymo, and X, among others. Revenues from the Other Bets are derived primarily through the sale of internet
+services through Access as well as licensing and R&D services through Verily.
+
+Starting in the quarter ending December 31, 2020 we will disclose Google Cloud as a separate segment.
+
+
+#### 36
+
+
+## Page 39
+
+### Table 39.1
+
+| Google Search & other | $ | 24,741 |  | $ | 26,338 |  | $ | 70,930 | $ | 72,159 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads(1) | 3,804 |  |  | 5,037 |  |  | 10,432 |  | 12,887 |  |
+| Google properties | 28,545 |  |  | 31,375 |  |  | 81,362 |  | 85,046 |  |
+| Google Network Members' properties | 5,251 |  |  | 5,720 |  |  | 15,515 |  | 15,679 |  |
+| Google advertising | 33,796 |  |  | 37,095 |  |  | 96,877 |  | 100,725 |  |
+| Google Cloud | 2,379 |  |  | 3,444 |  |  | 6,304 |  | 9,228 |  |
+| Google other(1) | 4,050 |  |  | 5,478 |  |  | 11,750 |  | 15,037 |  |
+| Google revenues | 40,225 |  |  | 46,017 |  |  | 114,931 |  | 124,990 |  |
+| Other Bets revenues | 155 |  |  | 178 |  |  | 487 |  | 461 |  |
+| Hedging gains (losses) | 119 |  |  | (22) |  |  | 364 |  | 178 |  |
+| Total revenues | $ | 40,499 |  | $ | 46,173 |  | $ | 115,782 | $ | 125,629 |
+
+
+### Table 39.2
+
+| Google Search & other | $ | 24,741 |  |  | $ | 26,338 |  |  | $ | 70,930 |  | $ | 72,159 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads(1) | 3,804 |  |  |  | 5,037 |  |  |  | 10,432 |  |  |  | 12,887 |  |
+| Google Network Members' properties | 5,251 |  |  |  | 5,720 |  |  |  | 15,515 |  |  |  | 15,679 |  |
+| Google advertising | $ | 33,796 |  |  | $ | 37,095 |  |  | $ | 96,877 |  | $ | 100,725 |  |
+| Google advertising revenues as a percentage of Google segment revenues | 84.0 |  | % |  | 80.6 |  | % |  | 84.3 |  | % |  | 80.6 | % |
 
 
 Table of Contents
 Alphabet In
 
 
-#### Legal Matters
+#### Revenues
+
+The following table presents our revenues, by segment and revenue source (in millions, unaudited). Certain amounts in prior periods have
+been reclassified to conform with current period presentation:
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Google Search & other
+$
+24,741 
+$
+26,338 
+$
+70,930 
+$
+72,159 
+YouTube ads
+3,804 
+5,037 
+10,432 
+12,887 
+Google properties
+28,545 
+31,375 
+81,362 
+85,046 
+Google Network Members' properties
+5,251 
+5,720 
+15,515 
+15,679 
+Google advertising
+33,796 
+37,095 
+96,877 
+100,725 
+Google Cloud
+2,379 
+3,444 
+6,304 
+9,228 
+Google other
+4,050 
+5,478 
+11,750 
+15,037 
+Google revenues
+40,225 
+46,017 
+114,931 
+124,990 
+Other Bets revenues
+155 
+178 
+487 
+461 
+Hedging gains (losses)
+119 
+(22)
+364 
+178
+
+Total revenues
+$
+40,499 
+$
+46,173 
+$
+115,782 
+$
+125,629
+
+YouTube non-advertising revenues are included in Google other revenues.
 
 
-#### Antitrust Investigations
+#### Google advertising revenues
 
-On November 30, 2010, the EC's Directorate General for Competition opened an investigation into various antitrust-related complaints against
-us.
+In addition to the impact of COVID-19, our advertising revenue growth, as well as the change in paid clicks and cost-per-click on Google
+properties and the change in impressions and cost-per-impression on Google Network Members' properties and the correlation between these
+items, have been affected and may continue to be affected by various factors, including:
 
-On June 27, 2017, the EC announced its decision that certain actions taken by Google regarding its display and ranking of shopping search
-results and ads infringed European competition law. The EC decision imposed a €2.4 billion ($2.7 billion as of June 27, 2017) ﬁne. On September
-11, 2017, we appealed the EC decision and on September 27, 2017, we implemented product changes to bring shopping ads into compliance with
-the EC's decision. We recognized a charge of $2.7 billion for the fine in the second quarter of 2017.
+•
+advertiser competition for keywords;
+•
+changes in advertising quality, formats, delivery or policy;
+•
+changes in device mix;
+•
+changes in foreign currency exchange rates;
+•
+fees advertisers are willing to pay based on how they manage their advertising costs;
+•
+general economic conditions;
+•
+seasonality; and
+•
+traffic growth in emerging markets compared to more mature markets and across various advertising verticals and channels.
 
-On July 18, 2018, the EC announced its decision that certain provisions in Google’s Android-related distribution agreements infringed
-European competition law. The EC decision imposed a €4.3 billion ($5.1 billion as of June 30, 2018) ﬁne and directed the termination of the conduct
-at issue. On October 9, 2018, we appealed the EC decision. On October 29, 2018, we implemented changes to certain of our Android distribution
-practices. We recognized a charge of $5.1 billion for the fine in the second quarter of 2018.
+Our advertising revenue growth rate has been aﬀected over time as a result of a number of factors, including challenges in maintaining our
+growth rate as revenues increase to higher levels; changes in our product mix; changes in advertising quality or formats and delivery; the evolution
+of the online advertising market; increasing competition; our investments in new business strategies; query growth rates; and shifts in the
+geographic mix of our revenues. We also expect that our revenue growth rate will continue to be aﬀected by evolving user preferences, the
+acceptance by users of our products and services as they are delivered on diverse devices and modalities, our ability to create a seamless
+experience for both users and advertisers, and movements in foreign currency exchange rates.
 
-On March 20, 2019, the EC announced its decision that certain contractual provisions in agreements that Google had with AdSense for
-Search partners infringed European competition law. The EC decision imposed a ﬁne of €1.5 billion ($1.7 billion as of March 20, 2019) and directed
-actions related to AdSense for Search partners' agreements, which we implemented prior to the decision. On June 4, 2019, we appealed the EC
-decision. We recognized a charge of $1.7 billion for the fine in the first quarter of 2019.
+The following table presents our Google advertising revenues (in millions, unaudited):
 
-While each EC decision is under appeal, we included the ﬁnes in accrued expenses and other current liabilities on our Consolidated Balance
-Sheets as we provided bank guarantees (in lieu of a cash payment) for the fines.
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Google Search & other
+$
+24,741 
+$
+26,338 
+$
+70,930 
+$
+72,159 
+YouTube ads
+3,804 
+5,037 
+10,432 
+12,887 
+Google Network Members' properties
+5,251 
+5,720 
+15,515 
+15,679 
+Google advertising
+$
+33,796 
+$
+37,095 
+$
+96,877 
+$
+100,725 
+Google advertising revenues as a percentage of Google segment
+revenues
+84.0 %
+80.6 %
+84.3 %
+80.6 %
 
-From time to time we are subject to formal and informal inquiries and investigations by competition authorities in the United States, Europe,
-and other jurisdictions. For example, in August 2019, we began receiving civil investigative demands from the U.S. Department of Justice ("DOJ")
-requesting information and documents relating to our prior antitrust investigations and certain aspects of our business. On October 20, 2020, the
-DOJ and 11 state Attorneys General ﬁled a lawsuit alleging that Google violated U.S. antitrust laws relating to Search and Search advertising. We
-believe this complaint is without merit and will defend ourselves vigorously. The DOJ and state Attorneys General continue their investigations into
-certain aspects of our business. We continue to cooperate with federal and state regulators in the United States, and other regulators around the
-world.
+YouTube non-advertising revenues are included in Google other revenues.
 
 
-#### Patent and Intellectual Property Claims
-
-We have had patent, copyright, trade secret, and trademark infringement lawsuits ﬁled against us claiming that certain of our products,
-services, and technologies infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary
-damages, costly royalty or licensing agreements, or orders preventing us from oﬀering certain features, functionalities, products, or services. As a
-result, we may have to change our business practices, and develop non-infringing products or technologies, which could result in a loss of revenues
-for us and otherwise harm our business. In addition, the U.S. International Trade Commission ("ITC") has increasingly become an important forum
-to litigate intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing infringing products into the
-U.S. Because the U.S. is an important market, a prohibition on importation could have an adverse eﬀect on us, including preventing us from
-importing many important products into the U.S. or necessitating workarounds that may limit certain features of our products.
-
-Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property
-infringement claims, which would increase our costs as a result of defending such claims, and may require that we pay signiﬁcant damages if there
-were an adverse ruling in any such claims. In addition, our customers and partners may discontinue the use of our products, services, and
-technologies, as a result of injunctions or otherwise, which could result in loss of revenues and adversely affect our business.
-
-In 2010, Oracle America, Inc. ("Oracle") brought a copyright lawsuit against Google in the Northern District of California, alleging that Google's
-Android operating system infringes Oracle's copyrights related to certain Java application programming interfaces. After trial, ﬁnal judgment was
-entered by the district court in favor of Google on June 8, 2016, and the court decided post-trial motions in favor of Google. Oracle appealed and on
-March 27, 2018, the appeals court reversed and remanded the case for a trial on damages. On May 29, 2018, we ﬁled a petition for a rehearing at
-the Federal Circuit, and on August 28, 2018, the Federal Circuit denied the petition. On January 24, 2019, we ﬁled a petition to the Supreme Court
-of the United States to review this case. On April 29, 2019, the Supreme Court requested the views of the Solicitor General regarding our petition.
-On September 27, 2019, the
+#### (1)
 
 
-#### 28
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 37
+
+
+## Page 40
+
+Table of Contents
+Alphabet In
+
+Google advertising revenues are generated on our Google properties (including Google Search & other properties and YouTube) and Google
+Network Members’ properties. Google advertising revenues consist primarily of the following:
+
+•
+Google Search & other consists of revenues generated on Google search properties (including revenues from traﬃc generated by search
+distribution partners who use Google.com as their default search in browsers, toolbars, etc.) and other Google owned and operated
+properties like Gmail, Google Maps, and Google Play;
+•
+YouTube ads consists of revenues generated primarily on YouTube properties; and
+•
+Google Network Members' properties consist of revenues generated primarily on Google Network Members' properties participating in
+AdMob, AdSense, and Google Ad Manager.
+
+
+#### Google Search & other
+
+Our Google Search & other revenues increased $1,597 million and $1,229 million from the three and nine months ended September 30, 2019
+to the three and nine months ended September 30, 2020, respectively. The overall growth was primarily driven by interrelated factors including
+increases in search queries resulting from ongoing growth in user adoption and usage, primarily on mobile devices, growth in advertiser activity,
+and improvements we have made in ad formats and delivery. This increase was partially oﬀset by volatility in advertiser spending throughout the
+nine months ended September 30, 2020 driven by the impact of COVID-19.
+
+
+#### YouTube ads
+
+YouTube ads revenues increased $1,233 million and $2,455 million from the three and nine months ended September 30, 2019 to the three
+and nine months ended September 30, 2020, respectively. The increase was primarily driven by our direct response advertising products, which
+beneﬁted from improvements to ad formats and delivery and increased advertiser spending. For the three months ended September 30, 2020,
+growth was also driven by an increase in revenues for our brand advertising products primarily due to increased advertiser spending. For the nine
+months ended September 30, 2020, brand advertising revenues were adversely impacted by volatility in advertiser spending driven by the impact of
+COVID-19.
+
+
+#### Google Network Members' properties
+
+Our Google Network Members' properties revenues increased $469 million from the three months ended September 30, 2019 to the three
+months ended September 30, 2020. The increase was primarily driven by strength in both AdMob and Ad Manager.
+
+Our Google Network Members' properties revenues increased $164 million from the nine months ended September 30, 2019 to the nine
+months ended September 30, 2020 primarily driven by an increase in revenues for AdMob. This increase was partially oﬀset by a decline in
+revenues for AdSense due to reduced advertiser spending driven by the impact of COVID-19.
+
+
+#### Use of Monetization Metrics
+
+Paid clicks for our Google properties represent engagement by users and include clicks on advertisements by end-users related to searches on
+Google.com and other owned and operated properties including Gmail, Google Maps, and Google Play; and viewed YouTube engagement ads
+(certain YouTube ad formats are not included in our click or impression based metrics). Impressions for our Google Network Members' properties
+include impressions displayed to users served on Google Network Members' properties participating primarily in AdMob, AdSense and Google Ad
+Manager.
+
+Cost-per-click is deﬁned as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge
+advertisers for each engagement by users.
+
+Cost-per-impression is deﬁned as impression-based and click-based revenues divided by our total number of impressions and represents the
+average amount we charge advertisers for each impression displayed to users.
+
+As our business evolves, we periodically review, reﬁne and update our methodologies for monitoring, gathering, and counting the number of
+paid clicks on our Google properties and the number of impressions on Google Network Members’ properties and for identifying the revenues
+generated by click activity on our Google properties and the revenues generated by impression activity on Google Network Members’ properties.
+
+
+#### Google properties
+
+The following table presents changes in our paid clicks and cost-per-click (expressed as a percentage):
+
+
+#### 38
+
+
+## Page 41
+
+### Table 41.1
+
+| Paid clicks change | 18 % | 27 | % | 28 | % | 11 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost-per-click change | (2)% | (15) | % | (11) | % | (8) | % |
+
+
+### Table 41.2
+
+| Impressions change | 12 % | 15 | % | 9 | % | 13 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost-per-impression change | (3)% | (7) | % | (1) | % | (13) | % |
+
+
+### Table 41.3
+
+| Google Cloud | $ | 2,379 | $ 3,444 |  | $ | 6,304 |  | $ | 9,228 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Google Cloud revenues as a percentage of Google segment revenues | 5.9 % |  | 7.5 | % | 5.5 |  | % | 7.4 |  | % |
+
+
+Table of Contents
+Alphabet In
+
+Three Months Ended
+Nine Months Ended
+ 
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Paid clicks change
+18 %
+27 %
+28 %
+11 %
+Cost-per-click change
+(2)%
+(15)%
+(11)%
+(8)%
+
+The number of paid clicks through our advertising programs on Google properties increased from the three and nine months ended September
+30, 2019 to the three and nine months ended September 30, 2020 due to an increase in paid clicks driven by growth in views of YouTube
+engagement ads; an increase in clicks due to interrelated factors, including an increase in search queries resulting from ongoing growth in user
+adoption and usage, primarily on mobile devices; and improvements we have made in ad formats and delivery. The overall positive eﬀect on our
+revenues from an increase in paid clicks was partially oﬀset by a decrease in the cost-per-click paid by our advertisers. The decrease in cost-per-
+click was driven by continued growth in YouTube engagement ads where cost-per-click remains lower than on our other advertising platforms. In
+addition, the decrease in cost-per-click was also driven by a mix shift to less commercial topics and reduced advertiser spending in response to
+COVID-19.
+
+
+#### Google Network Members' properties
+
+The following table presents changes in our impressions and cost-per-impression (expressed as a percentage):
+
+Three Months Ended
+Nine Months Ended
+ 
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Impressions change
+12 %
+15 %
+9 %
+13 %
+Cost-per-impression change
+(3)%
+(7)%
+(1)%
+(13)%
+
+Impressions increased from the three and nine months ended September 30, 2019 to the three and nine months ended September 30, 2020
+primarily due to growth in AdManager. The positive eﬀect on our revenues from an increase in impressions was partially oﬀset by a decrease in the
+cost-per-impression paid by our advertisers which was driven by a reduction in advertiser spending in response to COVID-19 as well as the eﬀect of
+a combination of factors including ongoing product and policy changes and improvements we have made in ad formats and delivery, changes in
+device mix, geographic mix, product mix, property mix, and fluctuations of the U.S. dollar compared to certain foreign currencies.
+
+
+#### Google Cloud
+
+The following table presents our Google Cloud revenues (in millions, unaudited):
+
+Three Months Ended
+Nine Months Ended
+ 
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Google Cloud
+$
+2,379 
+$
+3,444 
+$
+6,304 
+$
+9,228 
+Google Cloud revenues as a percentage of Google segment revenues
+5.9 %
+7.5 %
+5.5 %
+7.4 %
+
+Google Cloud revenues consist primarily of revenues from Cloud offerings, including:
+
+•
+Google Cloud Platform ("GCP"), which includes infrastructure, data and analytics, and other services;
+•
+Google Workspace (formerly known as G Suite) productivity tools; and
+•
+other enterprise cloud services.
+
+Our Google Cloud revenues increased $1,065 million and $2,924 million from the three and nine months ended September 30, 2019 to the
+three and nine months ended September 30, 2020, respectively. The growth was primarily driven by our GCP and Google Workspace oﬀerings.
+Our infrastructure and our data and analytics platform products were the largest drivers of growth in GCP.
+
+
+#### 39
+
+
+## Page 42
+
+### Table 42.1
+
+| Google other | $ 4,050 |  | $ 5,478 |  | $ 11,750 |  |  | $ | 15,037 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Google other revenues as a percentage of Google segment revenues | 10.1 | % | 11.9 | % | 10.2 | % |  | 12.0 |  | % |
+
+
+### Table 42.2
+
+| Other Bets revenues | $ | 155 |  | $ 178 |  | $ 487 |  |  | $ | 461 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other Bets revenues as a percentage of total revenues | 0.4 |  | % | 0.4 | % | 0.4 | % |  | 0.4 |  | % |
+
+
+### Table 42.3
+
+| United States | 46 | % | 47 | % | 46 | % |  | 47 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EMEA | 31 | % | 30 | % | 32 | % |  | 30 | % |
+| APAC | 17 | % | 18 | % | 17 | % |  | 18 | % |
+| Other Americas | 6 | % | 5 | % | 5 | % |  | 5 | % |
+
+
+Table of Contents
+Alphabet In
+
+
+#### Google other revenues
+
+The following table presents our Google other revenues (in millions, unaudited):
+
+Three Months Ended
+Nine Months Ended
+ 
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Google other
+$
+4,050 
+$
+5,478 
+$
+11,750 
+$
+15,037 
+Google other revenues as a percentage of Google segment revenues
+10.1 %
+11.9 %
+10.2 %
+12.0 %
+
+
+#### Google other revenues consist primarily of revenues from:
+
+•
+Google Play, which includes revenues from sales of apps and in-app purchases (which we recognize net of payout to developers) and
+digital content sold in the Google Play store;
+•
+hardware, including Google Nest home products, Pixelbooks, Pixel phones and other devices;
+•
+YouTube non-advertising, including YouTube Premium and YouTube TV subscriptions and other services; and
+•
+other products and services.
+
+Our Google other revenues increased $1,428 million and $3,287 million from the three and nine months ended September 30, 2019 to the
+three and nine months ended September 30, 2020, respectively. The growth was primarily driven by Google Play and YouTube subscriptions.
+Growth for Google Play was primarily driven by sales of apps and in-app purchases, which beneﬁted from elevated user engagement partially due
+to the impact of COVID-19, and growth for YouTube subscriptions was primarily driven by an increase in paid subscribers.
+
+Over time, our growth rate for Google Cloud and Google other revenues may be aﬀected by the seasonality associated with new product and
+service launches, as well as market dynamics.
+
+
+#### Other Bets
+
+
+#### The following table presents our Other Bets revenues (in millions, unaudited):
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+Other Bets revenues
+$
+155 
+$
+178 
+$
+487 
+$
+461 
+Other Bets revenues as a percentage of total revenues
+0.4 %
+0.4 %
+0.4 %
+0.4 %
+
+Other Bets revenues consist primarily of revenues from the sale of Access internet services and Verily licensing and R&D services.
+
+
+#### Revenues by Geography
+
+The following table presents our revenues by geography as a percentage of revenues, determined based on the addresses of our customers
+(unaudited):
+
+Three Months Ended
+Nine Months Ended
+ 
+September 30,
+September 30,
+ 
+2019
+2020
+2019
+2020
+United States
+46 %
+47 %
+46 %
+47 %
+EMEA
+31 %
+30 %
+32 %
+30 %
+APAC
+17 %
+18 %
+17 %
+18 %
+Other Americas
+6 %
+5 %
+5 %
+5 %
+
+For further details on revenues by geography, see Note 2 of the Notes to Consolidated Financial Statements included in Part I, Item 1 of this
+Quarterly Report on Form 10-Q.
+
+Use of Constant Currency Revenues and Constant Currency Revenue Percentage Change
+
+The eﬀect of currency exchange rates on our business is an important factor in understanding period to period comparisons. Our international
+revenues are favorably aﬀected as the U.S. dollar weakens relative to other foreign currencies, and unfavorably aﬀected as the U.S. dollar
+strengthens relative to other foreign currencies. Our revenues are also favorably aﬀected by net hedging gains and unfavorably aﬀected by net
+hedging losses.
+
+
+#### 40
+
+
+## Page 43
+
+Table of Contents
+Alphabet In
+
+We use non-GAAP constant currency revenues and non-GAAP percentage change in constant currency revenues for financial and operational
+decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in
+addition to GAAP results helps improve the ability to understand our performance because they exclude the eﬀects of foreign currency volatility that
+are not indicative of our core operating results.
+
+Constant currency information compares results between periods as if exchange rates had remained constant period over period. We deﬁne
+constant currency revenues as total revenues excluding the eﬀect of foreign exchange rate movements and hedging activities, and use it to
+determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating
+current period revenues using prior period exchange rates, as well as excluding any hedging effects realized in the current period.
+
+Constant currency revenue percentage change is calculated by determining the change in period revenues over prior period revenues where
+current period foreign currency revenues are translated using prior period exchange rates and hedging eﬀects are excluded from revenues of both
+periods.
+
+These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant
+currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of
+performance presented in accordance with GAAP.
+
+
+#### 41
+
+
+## Page 44
+
+### Table 44.1
+
+| EMEA revenues | $ | 12,565 |  |  | $ | 13,924 |  |  | $ | 36,546 |  |  | $ | 38,132 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exclude foreign exchange effect on current period revenues using prior year rates | 456 |  |  |  | (250) |  |  |  | 2,034 |  |  |  | 346 |  |  |
+| EMEA constant currency revenues | $ | 13,021 |  |  | $ | 13,674 |  |  | $ | 38,580 |  |  | $ | 38,478 |  |
+| Prior period EMEA revenues | $ | 10,909 |  |  | $ | 12,565 |  |  | $ | 32,488 |  |  | $ | 36,546 |  |
+| EMEA revenue percentage change | 15 |  | % |  | 11 |  | % |  | 12 |  | % |  | 4 |  | % |
+| EMEA constant currency revenue percentage change | 19 |  | % |  | 9 |  | % |  | 19 |  | % |  | 5 |  | % |
+| APAC revenues | $ | 6,814 |  |  | $ | 8,458 |  |  | $ | 19,446 |  |  | $ | 22,641 |  |
+| Exclude foreign exchange effect on current period revenues using prior year rates | 17 |  |  |  | 1 |  |  |  | 433 |  |  |  | 167 |  |  |
+| APAC constant currency revenues | $ | 6,831 |  |  | $ | 8,459 |  |  | $ | 19,879 |  |  | $ | 22,808 |  |
+| Prior period APAC revenues | $ | 5,401 |  |  | $ | 6,814 |  |  | $ | 15,310 |  |  | $ | 19,446 |  |
+| APAC revenue percentage change | 26 |  | % |  | 24 |  | % |  | 27 |  | % |  | 16 |  | % |
+| APAC constant currency revenue percentage change | 26 |  | % |  | 24 |  | % |  | 30 |  | % |  | 17 |  | % |
+| Other Americas revenues | $ | 2,290 |  |  | $ | 2,371 |  |  | $ | 6,320 |  |  | $ | 6,367 |  |
+| Exclude foreign exchange effect on current period revenues using prior year rates | 66 |  |  |  | 304 |  |  |  | 442 |  |  |  | 640 |  |  |
+| Other Americas constant currency revenues | $ | 2,356 |  |  | $ | 2,675 |  |  | $ | 6,762 |  |  | $ | 7,007 |  |
+| Prior period Other Americas revenues | $ | 1,827 |  |  | $ | 2,290 |  |  | $ | 5,407 |  |  | $ | 6,320 |  |
+| Other Americas revenue percentage change | 25 |  | % |  | 4 |  | % |  | 17 |  | % |  | 1 |  | % |
+| Other Americas constant currency revenue percentage change | 29 |  | % |  | 17 |  | % |  | 25 |  | % |  | 11 |  | % |
+| United States revenues | $ | 18,711 |  |  | $ | 21,442 |  |  | $ | 53,106 |  |  | $ | 58,311 |  |
+| United States revenue percentage change | 21 |  | % |  | 15 |  | % |  | 19 |  | % |  | 10 |  | % |
+| Hedging gains (losses) | $ | 119 |  |  | $ | (22) |  |  | $ | 364 |  |  | $ | 178 |  |
+| Total revenues | $ | 40,499 |  |  | $ | 46,173 |  |  | $ | 115,782 |  |  | $ | 125,629 |  |
+| Total constant currency revenues | $ | 40,919 |  |  | $ | 46,250 |  |  | $ | 118,327 |  |  | $ | 126,604 |  |
+| Prior period revenues, excluding hedging effect(1) | $ | 33,660 |  |  | $ | 40,380 |  |  | $ | 97,805 |  |  | $ | 115,418 |  |
+| Total revenue percentage change | 20 |  | % |  | 14 |  | % |  | 19 |  | % |  | 9 |  | % |
+| Total constant currency revenue percentage change | 22 |  | % |  | 15 |  | % |  | 21 |  | % |  | 10 |  | % |
+
+
+Table of Contents
+Alphabet In
+
+The following table presents the foreign exchange eﬀect on our international revenues and total revenues (in millions, except percentages,
+unaudited):
+
+Three Months Ended
+Nine Months Ended
+ 
+September 30,
+September 30,
+2019
+2020
+2019
+2020
+EMEA revenues
+$
+12,565 
+$
+13,924 
+$
+36,546 
+$
+38,132 
+Exclude foreign exchange effect on current period revenues using
+prior year rates
+456 
+(250)
+2,034 
+346 
+EMEA constant currency revenues
+$
+13,021 
+$
+13,674 
+$
+38,580 
+$
+38,478 
+Prior period EMEA revenues
+$
+10,909 
+$
+12,565 
+$
+32,488 
+$
+36,546 
+EMEA revenue percentage change
+15 %
+11 %
+12 %
+4 %
+EMEA constant currency revenue percentage change
+19 %
+9 %
+19 %
+5 %
+
+APAC revenues
+$
+6,814 
+$
+8,458 
+$
+19,446 
+$
+22,641 
+Exclude foreign exchange effect on current period revenues using
+prior year rates
+17 
+1 
+433 
+167 
+APAC constant currency revenues
+$
+6,831 
+$
+8,459 
+$
+19,879 
+$
+22,808 
+Prior period APAC revenues
+$
+5,401 
+$
+6,814 
+$
+15,310 
+$
+19,446 
+APAC revenue percentage change
+26 %
+24 %
+27 %
+16 %
+APAC constant currency revenue percentage change
+26 %
+24 %
+30 %
+17 %
+
+Other Americas revenues
+$
+2,290 
+$
+2,371 
+$
+6,320 
+$
+6,367 
+Exclude foreign exchange effect on current period revenues using
+prior year rates
+66 
+304 
+442 
+640 
+Other Americas constant currency revenues
+$
+2,356 
+$
+2,675 
+$
+6,762 
+$
+7,007 
+Prior period Other Americas revenues
+$
+1,827 
+$
+2,290 
+$
+5,407 
+$
+6,320 
+Other Americas revenue percentage change
+25 %
+4 %
+17 %
+1 %
+Other Americas constant currency revenue percentage change
+29 %
+17 %
+25 %
+11 %
+
+United States revenues
+$
+18,711 
+$
+21,442 
+$
+53,106 
+$
+58,311 
+United States revenue percentage change
+21 %
+15 %
+19 %
+10 %
+
+Hedging gains (losses)
+$
+119 
+$
+(22)
+$
+364 
+$
+178 
+Total revenues
+$
+40,499 
+$
+46,173 
+$
+115,782 
+$
+125,629 
+Total constant currency revenues
+$
+40,919 
+$
+46,250 
+$
+118,327 
+$
+126,604
+
+Prior period revenues, excluding hedging effect
+$
+33,660 
+$
+40,380 
+$
+97,805 
+$
+115,418 
+Total revenue percentage change
+20 %
+14 %
+19 %
+9 %
+Total constant currency revenue percentage change
+22 %
+15 %
+21 %
+10 %
+
+Total revenues and hedging (losses) were $33,740 million and $80 million for the three months ended September 30, 2018, respectively, and $97,543 million
+
+and $(262) million for the nine months ended September 30, 2018, respectively.
+
+Our EMEA revenue percentage change from the three months ended September 30, 2019 to the three months ended September 30, 2020
+was favorably aﬀected by changes in foreign currency exchange rates, primarily due to the U.S. dollar weakening relative to the Euro and British
+pound, partially oﬀset by the U.S. dollar strengthening relative to the Turkish lira. Our EMEA revenue percentage change from the nine months
+ended September 30, 2019 to the nine months ended September 30, 2020 was unfavorably aﬀected by changes in foreign currency exchange
+rates, primarily due to the U.S. dollar strengthening relative to the Turkish lira and Euro.
+
+Our APAC revenue percentage change from the three months ended September 30, 2019 to the three months ended September 30, 2020
+was not materially aﬀected by foreign currency exchange rates. Our APAC revenue percentage change from the nine months ended September 30,
+2019 to the nine months ended September 30,
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 42

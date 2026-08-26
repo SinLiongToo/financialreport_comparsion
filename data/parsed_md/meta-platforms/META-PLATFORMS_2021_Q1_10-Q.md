@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2021_Q1_10-Q
+# Financial Report: META-PLATFORMS_2021_Q1_10-Q
 
 - **Source File**: `META-PLATFORMS_2021_Q1_10-Q.pdf`
-- **Total Pages**: 96
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 96
+- **Parsed Key Pages**: 37 (37 selected sections)
 
 ---
 
@@ -2676,287 +2676,941 @@ ____________________________________
 #### 25
 
 
-## Page 26
-
-
-#### Table of Contents
-
-Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
-
-You should read the following discussion of our ﬁnancial condition and results of operations in conjunction with our condensed consolidated
-ﬁnancial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated ﬁnancial
-statements included in our Annual Report on Form 10-K for the year ended December 31, 2020, as ﬁled with the Securities and Exchange
-Commission. In addition to our historical condensed consolidated ﬁnancial information, the following discussion contains forward-looking
-statements that reﬂect our plans, estimates, and beliefs. Our actual results could diﬀer materially from those discussed in the forward-looking
-statements. Factors that could cause or contribute to these diﬀerences include those discussed below and elsewhere in this Quarterly Report on
-Form 10-Q, particularly in Part II, Item 1A, "Risk Factors." For a discussion of limitations in the measurement of certain of our community metrics,
-see the section entitled "Limitations of Key Metrics and Other Data" in this Quarterly Report on Form 10-Q.
-
-Certain revenue information in the section entitled "—Three Months Ended March 31, 2021 and 2020—Revenue —Foreign Exchange Impact on
-Revenue" is presented on a constant currency basis. This information is a non-GAAP ﬁnancial measure. To calculate revenue on a constant
-currency basis, we translated revenue for the three months ended March 31, 2021 using the prior year's monthly exchange rates for our
-settlement or billing currencies other than the U.S. dollar. This non-GAAP ﬁnancial measure is not intended to be considered in isolation or as a
-substitute for, or superior to, ﬁnancial information prepared and presented in accordance with GAAP. This measure may be diﬀerent from non-
-GAAP ﬁnancial measures used by other companies, limiting its usefulness for comparison purposes. Moreover, presentation of revenue on a
-constant currency basis is provided for year-over-year comparison purposes, and investors should be cautioned that the eﬀect of changing
-foreign currency exchange rates has an actual eﬀect on our operating results. We believe this non-GAAP ﬁnancial measure provides investors
-with useful supplemental information about the ﬁnancial performance of our business, enables comparison of ﬁnancial results between periods
-where certain items may vary independent of business performance, and allows for greater transparency with respect to key metrics used by
-management in operating our business.
-
-
-#### Executive Overview of First Quarter Results
-
-Our key community metrics and financial results for the first quarter of 2021 are as follows:
-
-
-#### Community growth:
-
-•
-Facebook daily active users (DAUs) were 1.88 billion on average for March 2021, an increase of 8% year-over-year.
-•
-Facebook monthly active users (MAUs) were 2.85 billion as of March 31, 2021, an increase of 10% year-over-year.
-•
-Family daily active people (DAP) was 2.72 billion on average for March 2021, an increase of 15% year-over-year.
-•
-Family monthly active people (MAP) was 3.45 billion as of March 31, 2021, an increase of 15% year-over-year.
-
-
-#### Financial results:
-
-•
-Revenue was $26.17 billion, up 48% year-over-year, and advertising revenue was $25.44 billion, up 46% year-over‑year.
-•
-Total costs and expenses were $14.79 billion, up 25% year-over-year.
-•
-Income from operations was $11.38 billion, and operating margin was 43%.
-•
-Net income was $9.50 billion, with diluted earnings per share of $3.30.
-•
-Capital expenditures, including principal payments on finance leases, were $4.42 billion.
-•
-Effective tax rate was 17%.
-•
-Cash and cash equivalents and marketable securities were $64.22 billion as of March 31, 2021.
-•
-Headcount was 60,654 as of March 31, 2021, an increase of 26% year-over-year.
-
-Our mission is to give people the power to build community and bring the world closer together.
-
-In response to the COVID-19 pandemic, we have focused on helping people stay connected, assisting the public health response, and
-working on the economic recovery. We have also continued to invest based on the following company priorities: (i) continue making progress on
-the major social issues facing the internet and our company, including privacy, safety, and security; (ii) build new experiences that meaningfully
-improve people's lives today and set the stage for even bigger improvements in the future; (iii) keep building our business by supporting the
-millions of businesses that rely on our services to grow and create jobs; and (iv) communicate more transparently about what we're doing and the
-role our services play in the world.
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-In the ﬁrst quarter of 2021, we continued to focus on our main revenue growth priorities: (i) helping marketers use our products to connect
-with consumers where they are and (ii) making our ads more relevant and effective.
-
-Our business and results of operations have been impacted by the COVID-19 pandemic and the preventative measures implemented by
-authorities to help limit the spread of the illness, which have caused, and are continuing to cause, business slowdowns or shutdowns in aﬀected
-areas, both regionally and worldwide. Beginning in the ﬁrst quarter of 2020, we experienced signiﬁcant increases in the size and engagement of
-our active user base across a number of regions as a result of the COVID-19 pandemic. More recently, we have seen these pandemic-related
-trends subside, particularly in the United States & Canada region. We are unable to predict the impact of the pandemic on user growth and
-engagement with any certainty and we expect these trends to continue to be subject to volatility.
-
-The COVID-19 pandemic has also previously caused a reduction in the demand for advertising, as well as a related decline in the pricing
-of our ads, particularly in the second quarter of 2020. More recently, we believe the pandemic has contributed to an acceleration in the shift of
-commerce from oﬄine to online, as well as increasing consumer demand for purchasing products relative to services, and we experienced
-increasing demand for advertising as a result of these trends. However, it is possible that this increased demand may not continue in future
-periods and may even recede as the eﬀects of the pandemic subside, which could adversely aﬀect our advertising revenue growth. The impact
-of the pandemic on user growth and engagement, the demand for and pricing of our advertising services, as well as on our overall results of
-operations, remains highly uncertain for the foreseeable future. In addition, we expect that future advertising revenue growth will continue to be
-adversely aﬀected by limitations on our ad targeting and measurement tools arising from changes to the regulatory environment and third-party
-mobile operating systems and browsers.
-
-We intend to continue to invest in our business based on our company priorities, and we anticipate that additional investments in our data
-center capacity, servers, network infrastructure, and oﬃce facilities, as well as scaling our headcount to support our growth, including in our
-consumer hardware initiatives, will continue to drive expense growth in 2021.
-
-
-#### 27
-
-
-## Page 28
+## Page 35
 
 
 #### Table of Contents
 
 
-#### Trends in Our Facebook User Metrics
-
-The numbers for our key Facebook metrics, our DAUs, MAUs, and average revenue per user (ARPU), do not include users on Instagram,
-WhatsApp, or our other products, unless they would otherwise qualify as DAUs or MAUs, respectively, based on their other activities on
-Facebook.
-
-Trends in the number of users aﬀect our revenue and ﬁnancial results by inﬂuencing the number of ads we are able to show, the value of
-our ads to marketers, the volume of Payments transactions, as well as our expenses and capital expenditures. Substantially all of our daily and
-monthly active users (as defined below) access Facebook on mobile devices.
-
-•
-Daily Active Users (DAUs). We deﬁne a daily active user as a registered and logged-in Facebook user who visited Facebook through
-our website or a mobile device, or used our Messenger application (and is also a registered Facebook user), on a given day. We view
-DAUs, and DAUs as a percentage of MAUs, as measures of user engagement on Facebook.
-
-DAU/MAU:
-66%
-66%
-66%
-66%
-67%
-66%
-66%
-66%
-66%
-
-DAU/MAU:
-77%
-77%
-77%
-77%
-77%
-77%
-77%
-76%
-75%
-DAU/MAU: 74%
-74%
-74%
-75%
-75%
-74%
-74%
-74%
-73%
-
-DAU/MAU:
-61%
-61%
-62%
-62%
-62%
-61%
-62%
-62%
-62%
-DAU/MAU: 64%
-64%
-65%
-65%
-65%
-65%
-65%
-65%
-65%
-
-Note: For purposes of reporting DAUs, MAUs, and ARPU by geographic region, Europe includes all users in Russia and Turkey and Rest of World includes all
-users in Africa, Latin America, and the Middle East.
+#### Components of Results of Operations
 
 
-#### 28
+#### Revenue
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad
+products on Facebook, Instagram, Messenger, and third-party aﬃliated websites or mobile applications. Marketers pay for ad products either
+directly or through their relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of
+actions, such as clicks, taken by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. We calculate price per ad as total ad revenue divided by the number
+of ads delivered, representing the eﬀective price paid per impression by a marketer regardless of their desired objective such as impression or
+action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net basis.
+
+Other revenue. Other revenue consists of revenue from the delivery of consumer hardware products, net fees we receive from
+developers using our Payments infrastructure, and revenue from various other sources.
 
 
-## Page 29
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These
+include expenses related to the operation of our data centers and technical infrastructure, such as facility and server equipment depreciation,
+salaries, beneﬁts, and share-based compensation for employees on our operations teams, and energy and bandwidth costs. Cost of revenue
+also includes costs associated with partner arrangements, including traﬃc acquisition and content costs, credit card and other transaction fees
+related to processing customer transactions, and cost of consumer hardware products sold.
+
+Research and development. Research and development expenses consist primarily of salaries and benefits, share-based compensation,
+and facilities-related costs for employees on our engineering and technical teams who are responsible for building new products as well as
+improving existing products.
+
+Marketing and sales. Marketing and sales expenses consist of salaries and beneﬁts, and share-based compensation for our employees
+engaged in sales, sales support, marketing, business development, and customer service functions. Our marketing and sales expenses also
+include marketing and promotional expenditures and professional services such as content reviewers to support our community and product
+operations.
+
+General and administrative. General and administrative expenses consist of legal-related costs; salaries and beneﬁts, and share-based
+compensation for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications and policy, and other
+administrative employees; and professional services.
 
 
-#### Table of Contents
-
-Worldwide DAUs increased 8% to 1.88 billion on average during March 2021 from 1.73 billion during March 2020. Users in India, the
-Philippines, and Indonesia represented the top three sources of growth in DAUs during March 2021, relative to the same period in 2020.
-
-•
-Monthly Active Users (MAUs). We deﬁne a monthly active user as a registered and logged-in Facebook user who visited Facebook
-through our website or a mobile device, or used our Messenger application (and is also a registered Facebook user), in the last 30 days
-as of the date of measurement. MAUs are a measure of the size of our global active user community on Facebook.
-
-As of March 31, 2021, we had 2.85 billion MAUs, an increase of 10% from March 31, 2020. Users in India, Indonesia, and the Philippines
-represented the top three sources of growth in the first quarter of 2021, relative to the same period in 2020.
+#### 35
 
 
-#### 29
+## Page 36
+
+### Table 36.1
+
+| Revenue | $ | 26,171 |  | $ | 17,737 |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 5,131 |  |  | 3,459 |  |
+| Research and development | 5,197 |  |  | 4,015 |  |
+| Marketing and sales | 2,843 |  |  | 2,787 |  |
+| General and administrative | 1,622 |  |  | 1,583 |  |
+| Total costs and expenses | 14,793 |  |  | 11,844 |  |
+| Income from operations | 11,378 |  |  | 5,893 |  |
+| Interest and other income (expense), net | 125 |  |  | (32) |  |
+| Income before provision for income taxes | 11,503 |  |  | 5,861 |  |
+| Provision for income taxes | 2,006 |  |  | 959 |  |
+| Net income | $ | 9,497 |  | $ | 4,902 |
 
 
-## Page 30
+### Table 36.2
+
+| Revenue | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 20 |  |  | 20 |  |
+| Research and development | 20 |  |  | 23 |  |
+| Marketing and sales | 11 |  |  | 16 |  |
+| General and administrative | 6 |  |  | 9 |  |
+| Total costs and expenses | 57 |  |  | 67 |  |
+| Income from operations | 43 |  |  | 33 |  |
+| Interest and other income (expense), net | — |  |  | — |  |
+| Income before provision for income taxes | 44 |  |  | 33 |  |
+| Provision for income taxes | 8 |  |  | 5 |  |
+| Net income | 36 | % |  | 28 | % |
+
+
+### Table 36.3
+
+| Cost of revenue | $ | 118 |  | $ | 94 |
+| --- | --- | --- | --- | --- | --- |
+| Research and development | 1,408 |  |  | 999 |  |
+| Marketing and sales | 174 |  |  | 149 |  |
+| General and administrative | 130 |  |  | 93 |  |
+| Total share-based compensation expense | $ | 1,830 |  | $ | 1,335 |
+
 
 
 #### Table of Contents
 
 
-#### Trends in Our Monetization by Facebook User Geography
+#### Results of Operations
 
-We calculate our revenue by Facebook user geography based on our estimate of the geography in which ad impressions are delivered,
-virtual and digital goods are purchased, or consumer hardware products are shipped. We deﬁne ARPU as our total revenue in a given
-geography during a given quarter, divided by the average of the number of MAUs in the geography at the beginning and end of the quarter.
-While ARPU includes all sources of revenue, the number of MAUs used in this calculation only includes users of Facebook and Messenger as
-described in the deﬁnition of MAU above. The share of revenue from users who are not also Facebook or Messenger MAUs was not material.
-The geography of our users aﬀects our revenue and ﬁnancial results because we currently monetize users in diﬀerent geographies at diﬀerent
-average rates. Our revenue and ARPU in regions such as United States & Canada and Europe are relatively higher primarily due to the size and
-maturity of those online and mobile advertising markets. For example, ARPU in the ﬁrst quarter of 2021 in the United States & Canada region
-was more than 12 times higher than in the Asia-Pacific region.
+The following table sets forth our condensed consolidated statements of income data:
 
-ARPU:
-$6.42
-$7.05
-$7.26
-$8.52
-$6.95
-$7.05
-$7.89
-$10.14
-$9.27
+Three Months Ended March 31,
+ 
+2021
+2020
+(in millions)
+Revenue
+$
+26,171 
+$
+17,737 
+Costs and expenses:
 
-ARPU: $30.12
-$33.27
-$34.55
-$41.41
-$34.18
-$36.49
-$39.63
-$53.56
-$48.03
-ARPU: $9.55
-$10.70
-$10.68
-$13.21
-$10.64
-$11.03
-$12.41
-$16.87
-$15.49
+Cost of revenue
+5,131 
+3,459 
+Research and development
+5,197 
+4,015 
+Marketing and sales
+2,843 
+2,787 
+General and administrative
+1,622 
+1,583 
+Total costs and expenses
+14,793 
+11,844 
+Income from operations
+11,378 
+5,893 
+Interest and other income (expense), net
+125 
+(32)
+Income before provision for income taxes
+11,503 
+5,861 
+Provision for income taxes
+2,006 
+959 
+Net income
+$
+9,497 
+$
+4,902
 
-ARPU: $2.78
-$3.04
-$3.24
-$3.57
-$3.06
-$2.99
-$3.67
-$4.05
-$3.94
-ARPU:
-$1.89
-$2.13
-$2.24
-$2.48
-$1.99
-$1.78
-$2.22
-$2.77
-$2.64
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue)
+:
 
-Note: Our revenue by Facebook user geography in the charts above is geographically apportioned based on our estimation of the geographic location of our
-Facebook users when they perform a revenue-generating activity. This allocation diﬀers from our revenue disaggregated by geography disclosure in our condensed
-consolidated financial statements where revenue is geographically apportioned based on the addresses of our customers.
+Three Months Ended March 31,
+ 
+2021
+2020
+Revenue
+100 %
+100 %
+Costs and expenses:
+
+Cost of revenue
+20 
+20 
+Research and development
+20 
+23 
+Marketing and sales
+11 
+16 
+General and administrative
+6 
+9 
+Total costs and expenses
+57 
+67 
+Income from operations
+43 
+33 
+Interest and other income (expense), net
+— 
+— 
+Income before provision for income taxes
+44 
+33 
+Provision for income taxes
+8 
+5 
+Net income
+36 %
+28 %
+
+____________________________________
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
 
 
-#### 30
+#### Share-based compensation expense included in costs and expenses:
+
+
+#### Three Months Ended March 31,
+
+2021
+2020
+(in millions)
+Cost of revenue
+$
+118 
+$
+94 
+Research and development
+1,408 
+999 
+Marketing and sales
+174 
+149 
+General and administrative
+130 
+93 
+Total share-based compensation expense
+$
+1,830 
+$
+1,335
+
+
+#### (1)
+
+
+#### 36
+
+
+## Page 37
+
+### Table 37.1
+
+| Cost of revenue | — | % |  | 1 | % |
+| --- | --- | --- | --- | --- | --- |
+| Research and development | 5 |  |  | 6 |  |
+| Marketing and sales | 1 |  |  | 1 |  |
+| General and administrative | — |  |  | 1 |  |
+| Total share-based compensation expense | 7 | % |  | 8 | % |
+
+
+### Table 37.2
+
+| Advertising | $ | 25,439 |  | $ | 17,440 |  | 46 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 732 |  |  | 297 |  |  | 146 | % |
+| Total revenue | $ | 26,171 |  | $ | 17,737 |  | 48 | % |
+
+
+
+#### Table of Contents
+
+Share-based compensation expense included in costs and expenses (as a percentage of revenue)
+:
+
+Three Months Ended March 31,
+2021
+2020
+Cost of revenue
+— %
+1 %
+Research and development
+5 
+6 
+Marketing and sales
+1 
+1 
+General and administrative
+— 
+1 
+Total share-based compensation expense
+7 %
+8 %
+
+____________________________________
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### Three Months Ended March 31, 2021 and 2020
+
+
+#### Revenue
+
+Three Months Ended March 31,
+ 
+ 
+2021
+2020
+% change
+ 
+(in millions, except for percentages)
+Advertising
+$
+25,439 $
+17,440 
+46 %
+Other revenue
+732 
+297 
+146 %
+Total revenue
+$
+26,171 $
+17,737 
+48 %
+
+Revenue in the three months ended March 31, 2021 increased $8.43 billion, or 48%, compared to the same period in 2020. The increase
+was mostly due to an increase in advertising revenue as a result of increases in the average price per ad and the number of ads delivered.
+
+During the three months ended March 31, 2021, the average price per ad increased by 30%, as compared with a decrease of
+approximately 16% in the same period in 2020. The increase in average price per ad during the three months ended March 31, 2021 was mainly
+caused by a recovery from declines in advertising demand due to the COVID-19 pandemic that started in the ﬁrst quarter of 2020. Additionally,
+overall advertising demand increased, as compared to the same period in 2020, across our ad products and in all regions in part due to
+increasing consumer demand for purchasing products relative to services, as well as the shift of commerce from offline to online. During the three
+months ended March 31, 2021, the number of ads delivered increased by 12%, as compared with an increase of approximately 39% in the same
+period in 2020. The increase in the ads delivered was driven by increases in users and in the number and frequency of ads displayed across our
+products.
+
+In the near-term, we anticipate that future advertising revenue growth will be determined primarily by price, which will be inﬂuenced by the
+extent to which we continue to see increasing advertising demand as the eﬀects of the COVID-19 pandemic subside and the related economic
+recovery progresses, as well as the extent to which changes to the regulatory environment and third-party mobile operating systems and
+browsers result in limitations on our ad targeting and measurement tools.
+
+Other revenue in the ﬁrst quarter of 2021 increased $435 million, or 146%, compared to the same period in 2020. The increase in other
+revenue was primarily due to increased sales in our consumer hardware products.
+
+
+#### Foreign Exchange Impact on Revenue
+
+The general weakening of the U.S. dollar relative to certain foreign currencies in the three months ended March 31, 2021 compared to the
+same period in 2020 had a favorable impact on revenue. If we had translated revenue for the three months ended March 31, 2021 using the
+prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total revenue and advertising revenue
+would have been $25.47 billion and $24.74 billion, respectively. Using these constant rates, total revenue and advertising revenue would have
+been $706 million and $695 million lower than actual total revenue and advertising revenue, respectively, for the three months ended March 31,
+2021.
+
+
+#### (1)
+
+
+#### 37
+
+
+## Page 38
+
+### Table 38.1
+
+| Cost of revenue | $ 5,131 |  | $ 3,459 |  | 48 | % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 20 | % | 20 | % |  |  |
+
+
+### Table 38.2
+
+| Research and development | $ 5,197 |  | $ 4,015 |  | 29 | % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |
+
+
+### Table 38.3
+
+| Marketing and sales $ | 2,843 |  | $ 2,787 |  | 2 | % |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 38.4
+
+| General and administrative | $ 1,622 |  | $ 1,583 |  | 2 | % |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Cost of revenue
+
+Three Months Ended March 31,
+ 
+ 
+2021
+2020
+% change
+ 
+(in millions, except for percentages)
+Cost of revenue
+$
+5,131 
+$
+3,459 
+48 %
+Percentage of revenue
+20 %
+20 %
+
+Cost of revenue in the three months ended March 31, 2021 increased $1.67 billion, or 48%, compared to the same period in 2020. The
+increase was mostly due to an increase in operational expenses related to our data centers and technical infrastructure, an increase in cost of
+consumer hardware products sold and, to a lesser extent, higher cost associated with partner arrangements, including traﬃc acquisition and
+payment processing costs.
+
+
+#### Research and development
+
+Three Months Ended March 31,
+ 
+ 
+2021
+2020
+% change
+ 
+(in millions, except for percentages)
+Research and development
+$
+5,197 
+$
+4,015 
+29 %
+Percentage of revenue
+20 %
+23 %
+
+Research and development expenses in the three months ended March 31, 2021 increased $1.18 billion, or 29%, compared to the same
+period in 2020. The increase was mostly due to higher payroll and beneﬁts expenses as a result of a 35% growth in employee headcount from
+March 31, 2020 to March 31, 2021 in engineering and other technical functions supporting our continued investment in our family of products and
+consumer hardware products.
+
+
+#### Marketing and sales
+
+Three Months Ended March 31,
+ 
+ 
+2021
+2020
+% change
+ 
+(in millions, except for percentages)
+Marketing and sales
+$
+2,843 
+$
+2,787 
+2 %
+Percentage of revenue
+11 %
+16 %
+
+Marketing and sales expenses in the three months ended March 31, 2021 increased $56 million, or 2%, compared to the same period in
+2020. The majority of increase was driven by an increase in payroll and beneﬁts expenses, partially oﬀset by a decrease in marketing expenses.
+Our payroll and benefits expenses increased as a result of a 10% increase in employee headcount from March 31, 2020 to March 31, 2021 in our
+marketing and sales functions.
+
+
+#### General and administrative
+
+Three Months Ended March 31,
+ 
+ 
+2021
+2020
+% change
+ 
+(in millions, except for percentages)
+General and administrative
+$
+1,622 
+$
+1,583 
+2 %
+Percentage of revenue
+6 %
+9 %
+
+General and administrative expenses in the three months ended March 31, 2021 increased $39 million, or 2%, compared to the same
+period in 2020. The majority of the increase was due to an increase in payroll and beneﬁts expenses, partially oﬀset by lower bad debt expense
+due to a decrease in our estimated credit losses, compared to the same period in 2020. Our payroll and beneﬁts expenses increased mainly due
+to a 23% increase in employee headcount from March 31, 2020 to March 31, 2021 in our general and administrative functions.
+
+
+#### 38
+
+
+## Page 43
+
+
+#### Table of Contents
+
+
+#### Critical Accounting Policies and Estimates
+
+Our condensed consolidated ﬁnancial statements are prepared in accordance with U.S. GAAP. The preparation of these condensed
+consolidated ﬁnancial statements requires us to make estimates and assumptions that aﬀect the reported amounts of assets, liabilities, revenue,
+costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions based on historical experience
+and on various other assumptions that we believe are reasonable under the circumstances. Our actual results could diﬀer from these estimates
+under different assumptions or conditions.
+
+An accounting policy is deemed to be critical if the nature of the estimates or assumptions is material due to the levels of subjectivity and
+judgment necessary to account for highly uncertain matters or the susceptibility of such matters to change, and the impact of the estimates and
+assumptions on our condensed consolidated ﬁnancial statements is material. We believe that the assumptions and estimates associated with
+gross vs. net in revenue recognition, valuation of equity investments, income taxes, loss contingencies, and valuation of long-lived assets
+including goodwill and intangible assets and their associated estimated useful lives have the greatest potential impact on our condensed
+consolidated financial statements. Therefore, we consider these to be our critical accounting policies and estimates.
+
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and
+estimates described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2020.
+
+
+#### 43
+
+
+## Page 44
+
+
+#### Table of Contents
+
+
+#### Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risks, including changes to foreign currency exchange rates, interest rates, equity investment risk, and inflation.
+
+
+#### Foreign Currency Exchange Risk
+
+We have foreign currency risks related to our revenue and operating expenses denominated in currencies other than the U.S. dollar,
+primarily the Euro. Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. dollar, have in the past, and may in the
+future, negatively affect our revenue and other operating results as expressed in U.S. dollars.
+
+We have experienced and will continue to experience ﬂuctuations in our net income as a result of transaction gains or losses related to
+revaluing monetary asset and liability balances that are denominated in currencies other than the functional currency of the entities in which they
+are recorded. At this time, we have not entered into, but in the future we may enter into, derivatives or other ﬁnancial instruments in an attempt to
+hedge our foreign currency exchange risk. It is diﬃcult to predict the eﬀect hedging activities would have on our results of operations. Foreign
+currency losses, net of $93 million and $251 million were recognized in the three months ended March 31, 2021 and 2020, respectively, as
+interest and other income (expense), net in our condensed consolidated statements of income.
+
+
+#### Interest Rate Sensitivity
+
+Our exposure to changes in interest rates relates primarily to interest earned and market value on our cash and cash equivalents and
+marketable securities.
+
+Our cash and cash equivalents and marketable securities consist of cash, certiﬁcates of deposit, time deposits, money market funds, U.S.
+government securities, U.S. government agency securities, and investment grade corporate debt securities. Our investment policy and strategy
+are focused on preservation of capital and supporting our liquidity requirements. Changes in U.S. interest rates aﬀect the interest earned on our
+cash and cash equivalents and marketable securities, and the market value of those securities. A hypothetical 100 basis point increase in interest
+rates would have resulted in a decrease of $822 million and $794 million in the market value of our available-for-sale debt securities as of
+March 31, 2021 and December 31, 2020, respectively. Any realized gains or losses resulting from such interest rate changes would only occur if
+we sold the investments prior to maturity.
+
+
+#### Equity Investment Risk
+
+Our equity investments are subject to a wide variety of market-related risks that could have a material impact on the carrying value of our
+holdings. We continually evaluate our equity investments in privately-held companies.
+
+Our equity investments are investments in equity securities of privately-held companies without readily determinable market values. We
+elected to account for most of our equity investments using the measurement alternative, which is cost, less any impairment, adjusted for
+changes in fair value resulting from observable transactions for identical or similar investments of the same issuer. We perform a qualitative
+assessment at each reporting date to determine whether there are triggering events for impairment. The qualitative assessment considers factors
+such as, but not limited to, the investee's ﬁnancial condition and business outlook; industry and sector performance; economic or technological
+environment; and other relevant events and factors aﬀecting the investee. Valuations of our equity investments are complex due to the lack of
+readily available market data and observable transactions. Volatility in the global economic climate and ﬁnancial markets, including recent and
+ongoing eﬀects related to the impact of the COVID-19 pandemic, which requires signiﬁcant judgments, could result in a material impairment
+charge on our equity investments. Equity investments accounted for under the equity method were immaterial as of March 31, 2021 and
+December 31, 2020. Our equity investments had a carrying value of $6.34 billion and $6.23 billion as of March 31, 2021 and December 31, 2020,
+respectively.
+
+For additional information about our equity investments, see Note 5 — Equity Investments in the notes to the condensed consolidated
+financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+
+
+#### 44
+
+
+## Page 45
+
+
+#### Table of Contents
+
+
+#### Item 4. Controls and Procedures
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our chief executive oﬃcer (CEO) and chief ﬁnancial oﬃcer (CFO), has evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a- 15(e) and 15d- 15(e) under the Securities Exchange Act of
+1934, as amended (Exchange Act)), as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our
+CEO and CFO have concluded that as of March 31, 2021, our disclosure controls and procedures are designed at a reasonable assurance level
+and are eﬀective to provide reasonable assurance that information we are required to disclose in reports that we ﬁle or submit under the
+Exchange Act is recorded, processed, summarized, and reported within the time periods speciﬁed in the rules and forms of the Securities and
+Exchange Commission (SEC), and that such information is accumulated and communicated to our management, including our CEO and CFO,
+as appropriate, to allow timely decisions regarding required disclosure.
+
+
+#### Changes in Internal Control
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in management's evaluation pursuant to Rules 13a-15(d)
+or 15d-15(d) of the Exchange Act during the period covered by this Quarterly Report on Form 10-Q that materially aﬀected, or are reasonably
+likely to materially affect, our internal control over financial reporting.
+
+
+#### Limitations on Effectiveness of Controls and Procedures
+
+In designing and evaluating the disclosure controls and procedures and internal control over ﬁnancial reporting, management recognizes
+that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired
+control objectives. In addition, the design of disclosure controls and procedures and internal control over ﬁnancial reporting must reﬂect the fact
+that there are resource constraints and that management is required to apply judgment in evaluating the beneﬁts of possible controls and
+procedures relative to their costs.
+
+
+#### 45
+
+
+## Page 46
+
+
+#### Table of Contents
+
+
+### PART II—OTHER INFORMATION
+
+
+#### Item 1. Legal Proceedings
+
+Beginning on March 20, 2018, multiple putative class actions and derivative actions were ﬁled in state and federal courts in the United
+States and elsewhere against us and certain of our directors and oﬃcers alleging violations of securities laws, breach of ﬁduciary duties, and
+other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared
+such data with third parties in violation of our terms and policies, and seeking unspeciﬁed damages and injunctive relief. Beginning on July 27,
+2018, two putative class actions were ﬁled in federal court in the United States against us and certain of our directors and oﬃcers alleging
+violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspeciﬁed
+damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with
+the putative securities class action described above relating to our platform and user data practices. On September 25, 2019, the district court
+granted our motion to dismiss the consolidated putative securities class action, with leave to amend. On November 15, 2019, a second amended
+complaint was ﬁled in the consolidated putative securities class action. On August 7, 2020, the district court granted our motion to dismiss the
+second amended complaint, with leave to amend. On October 16, 2020, a third amended complaint was ﬁled in the consolidated putative
+securities class action. We believe these lawsuits are without merit, and we are vigorously defending them. In addition, our platform and user
+data practices, as well as the events surrounding the misuse of certain data by a developer, became the subject of U.S. Federal Trade
+Commission (FTC), state attorneys general, and other government inquiries in the United States, Europe, and other jurisdictions. We entered
+into a settlement and modiﬁed consent order to resolve the FTC inquiry, which took eﬀect in April 2020 and required us to pay a penalty of
+$5.0 billion and to signiﬁcantly enhance our practices and processes for privacy compliance and oversight. The state attorneys general inquiry
+and certain government inquiries in other jurisdictions remain ongoing and could subject us to additional substantial ﬁnes and costs, require us to
+change our business practices, divert resources and the attention of management from our business, or adversely affect our business.
+
+On April 1, 2015, a putative class action was ﬁled against us in the U.S. District Court for the Northern District of California by Facebook
+users alleging that the "tag suggestions" facial recognition feature violates the Illinois Biometric Information Privacy Act, and seeking statutory
+damages and injunctive relief. On April 16, 2018, the district court certiﬁed a class of Illinois residents, and on May 14, 2018, the district court
+denied both parties' motions for summary judgment. On May 29, 2018, the U.S. Court of Appeals for the Ninth Circuit granted our petition for
+review of the class certiﬁcation order and stayed the proceeding. On August 8, 2019, the Ninth Circuit aﬃrmed the class certiﬁcation order. On
+December 2, 2019, we ﬁled a petition with the U.S. Supreme Court seeking review of the decision of the Ninth Circuit, which was denied. On
+January 15, 2020, the parties agreed to a settlement in principle to resolve the lawsuit, which provided for a payment of $550 million by us and
+was subject to court approval. On or about May 8, 2020, the parties executed a formal settlement agreement, and plaintiﬀs ﬁled a motion for
+preliminary approval of the settlement by the district court. On June 4, 2020, the district court denied the plaintiﬀs' motion without prejudice. On
+July 22, 2020, the parties executed an amended settlement agreement, which, among other terms, provides for a payment of $650 million by us.
+On February 26, 2021, the court granted ﬁnal approval of the settlement, and the payment was made in March 2021. On March 27 and March
+29, 2021, objectors filed notices of appeal of the order granting final approval of the settlement.
+
+Beginning on September 28, 2018, multiple putative class actions were ﬁled in state and federal courts in the United States and elsewhere
+against us alleging violations of consumer protection laws and other causes of action in connection with a third-party cyber-attack that exploited
+a vulnerability in Facebook's code to steal user access tokens and access certain proﬁle information from user accounts on Facebook, and
+seeking unspeciﬁed damages and injunctive relief. The actions ﬁled in the United States were consolidated in the U.S. District Court for the
+Northern District of California. On November 26, 2019, the district court certiﬁed a class for injunctive relief purposes, but denied certiﬁcation of a
+class for purposes of pursuing damages. On January 16, 2020, the parties agreed to a settlement in principle to resolve the lawsuit. On
+November 15, 2020, the court granted preliminary approval of the settlement. The settlement is subject to ﬁnal court approval. We believe the
+remaining lawsuits are without merit, and we are vigorously defending them. In addition, the events surrounding this cyber-attack became the
+subject of Irish Data Protection Commission (IDPC) and other government inquiries. Any such inquiries could subject us to substantial ﬁnes and
+costs, require us to change our business practices, divert resources and the attention of management from our business, or adversely aﬀect our
+business.
+
+From time to time we also notify the IDPC, our designated European privacy regulator under the General Data Protection Regulation, of
+certain other personal data breaches and privacy issues, and are subject to inquiries and
+
+
+#### 46
+
+
+## Page 63
+
+
+#### Table of Contents
+
+result of episodic spikes in the creation of such accounts, which we have seen originate more frequently in speciﬁc countries such as Indonesia
+and Vietnam. From time to time, we disable certain user accounts, make product changes, or take other actions to reduce the number of
+duplicate or false accounts among our users, which may also reduce our DAU and MAU estimates in a particular period. We intend to disclose
+our estimates of the number of duplicate and false accounts among our MAUs on an annual basis.
+
+Many people in our community have user accounts on more than one of our products, and some people have multiple user accounts
+within an individual product. Accordingly, for our Family metrics, we do not seek to count the total number of user accounts across our products
+because we believe that would not reﬂect the actual size of our community. Rather, our Family metrics represent our estimates of the number of
+unique people using at least one of Facebook, Instagram, Messenger, and WhatsApp. We do not require people to use a common identiﬁer or
+link their accounts to use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products
+to individual people. To calculate these metrics, we rely upon complex techniques, algorithms and machine learning models that seek to count
+the individual people behind user accounts, including by matching multiple user accounts within an individual product and across multiple
+products when we believe they are attributable to a single person, and counting such group of accounts as one person. These techniques and
+models require signiﬁcant judgment, are subject to data and other limitations discussed below, and inherently are subject to statistical variances
+and uncertainties. We estimate the potential error in our Family metrics primarily based on user survey data, which itself is subject to error as
+well. While we expect the error margin for our Family metrics to vary from period to period, we estimate that such margin generally will be
+approximately 4% of our worldwide MAP. At our scale, it is very diﬃcult to attribute multiple user accounts within and across products to
+individual people, and it is possible that the actual numbers of unique people using our products may vary signiﬁcantly from our estimates,
+potentially beyond our estimated error margins. As a result, it is also possible that our Family metrics may indicate changes or trends in user
+numbers that do not match actual changes or trends.
+
+To calculate our estimates of Family DAP and MAP, we currently use a series of machine learning models that are developed based on
+internal reviews of limited samples of user accounts and calibrated against user survey data. We apply signiﬁcant judgment in designing these
+models and calculating these estimates. For example, to match user accounts within individual products and across multiple products, we use
+data signals such as similar device information, IP addresses, and user names. We also calibrate our models against data from periodic user
+surveys of varying sizes and frequency across our products, which are inherently subject to error. The timing and results of such user surveys
+have in the past contributed, and may in the future contribute, to changes in our reported Family metrics from period to period. In addition, our
+data limitations may affect our understanding of certain details of our business and increase the risk of error for our Family metrics estimates. Our
+techniques and models rely on a variety of data signals from diﬀerent products, and we rely on more limited data signals for some products
+compared to others. For example, as a result of limited visibility into encrypted products, we have fewer data signals from WhatsApp user
+accounts and primarily rely on phone numbers and device information to match WhatsApp user accounts with accounts on our other products.
+Similarly, although Messenger Kids users are included in our Family metrics, we do not seek to match their accounts with accounts on our other
+applications for purposes of calculating DAP and MAP. Any loss of access to data signals we use in our process for calculating Family metrics,
+whether as a result of our own product decisions, actions by third-party browser or mobile platforms, regulatory or legislative requirements,
+limitations while our personnel work remotely during the COVID-19 pandemic, or other factors, also may impact the stability or accuracy of our
+reported Family metrics. Our estimates of Family metrics also may change as our methodologies evolve, including through the application of new
+data signals or technologies, product changes, or other improvements in our user surveys, algorithms, or machine learning that may improve our
+ability to match accounts within and across our products or otherwise evaluate the broad population of our users. In addition, such evolution may
+allow us to identify previously undetected violating accounts (as defined below).
+
+We regularly evaluate our Family metrics to estimate the percentage of our MAP consisting solely of "violating" accounts. We deﬁne
+"violating" accounts as accounts which we believe are intended to be used for purposes that violate our terms of service, including bots and
+spam. In the fourth quarter of 2020, we estimated that approximately 3% of our worldwide MAP consisted solely of violating accounts. Such
+estimation is based on an internal review of a limited sample of accounts, and we apply signiﬁcant judgment in making this determination. For
+example, we look for account information and behaviors associated with Facebook and Instagram accounts that appear to be inauthentic to the
+reviewers, but we have limited visibility into WhatsApp user activity due to encryption. In addition, if we believe an individual person has one or
+more violating accounts, we do not include such person in our violating accounts estimation as long as we believe they have one account that
+does not constitute a violating account. From time to time, we disable certain user accounts, make product changes, or take other actions to
+reduce the number of violating accounts among our users, which may also reduce our DAP
+
+
+#### 63
+
+
+## Page 64
+
+
+#### Table of Contents
+
+and MAP estimates in a particular period. We intend to disclose our estimates of the percentage of our MAP consisting solely of violating
+accounts on an annual basis. Violating accounts are very diﬃcult to measure at our scale, and it is possible that the actual number of violating
+accounts may vary significantly from our estimates.
+
+Other data limitations also may aﬀect our understanding of certain details of our business. For example, while user-provided data
+indicates a decline in usage among younger users, this age data is unreliable because a disproportionate number of our younger users register
+with an inaccurate age. Accordingly, our understanding of usage by age group may not be complete.
+
+In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such as the user's IP
+address and self-disclosed location. These factors may not always accurately reﬂect the user's actual location. For example, a user may appear
+to be accessing Facebook from the location of the proxy server that the user connects to rather than from the user's actual location. The
+methodologies used to measure our metrics are also susceptible to algorithm or other technical errors, and our estimates for revenue by user
+location and revenue by user device are also affected by these factors.
+
+In addition, from time to time we provide, or rely on, certain other metrics and estimates, including those relating to the reach and
+effectiveness of our ads. Many of our metrics involve the use of estimations and judgments, and our metrics and estimates are subject to software
+bugs, inconsistencies in our systems, and human error. Where marketers, developers, or investors do not perceive our metrics or estimates to
+be accurate, or where we discover material inaccuracies in our metrics or estimates, we may be subject to liability, our reputation may be
+harmed, and marketers and developers may be less willing to allocate their budgets or resources to Facebook or our other products, which could
+negatively affect our business and financial results.
+
+We cannot assure you that we will effectively manage our growth.
+
+Our employee headcount and the scope and complexity of our business have increased signiﬁcantly, with the number of employees
+increasing to 60,654 as of March 31, 2021 from 48,268 as of March 31, 2020, and we expect headcount growth to continue for the foreseeable
+future. In addition, we plan to continue to hire a number of employees and contractors to continue to bolster various privacy, safety, security, and
+content review initiatives as well as other functions to support our expected growth. The growth and expansion of our business and products
+create signiﬁcant challenges for our management, operational, and ﬁnancial resources, including managing multiple relationships with users,
+marketers, developers, and other third parties. As our operations and the number of our third-party relationships continue to grow, our information
+technology systems or our internal controls and procedures may not be adequate to support such growth. In addition, some members of our
+management do not have signiﬁcant experience managing a large global business operation, so our management may not be able to manage
+such growth eﬀectively. Additionally, the vast majority of our personnel are currently working remotely as a result of the COVID-19 pandemic,
+which limits their ability to perform certain job functions and may negatively impact productivity. In the long term, we may experience such
+challenges to productivity and collaboration as some personnel transition to working remotely on a regular basis, and we may experience
+diﬃculties integrating recently hired personnel when our oﬃces re-open. To eﬀectively manage our growth, we must continue to adapt to a
+remote work environment; improve our operational, ﬁnancial, and management processes and systems; and eﬀectively expand, train, and
+manage our personnel. As our organization continues to grow, and we are required to implement more complex organizational management
+structures, we may ﬁnd it increasingly diﬃcult to maintain the beneﬁts of our corporate culture, including our ability to quickly develop and launch
+new and innovative products. This could negatively affect our business performance.
+
+We have signiﬁcant international operations and plan to continue expanding our operations abroad where we have more limited
+operating experience, and this may subject us to increased business, economic, and legal risks that could affect our financial results.
+
+We have significant international operations and plan to continue the international expansion of our business operations and the translation
+of our products. We currently make Facebook available in more than 100 diﬀerent languages, and we have oﬃces or data centers in more than
+30 diﬀerent countries. We may enter new international markets where we have limited or no experience in marketing, selling, and deploying our
+products. Our products are generally available globally, but some or all of our products or functionality may not be available in certain markets
+due to legal and regulatory complexities. For example, Facebook and certain of our other products are not generally available in China. We also
+outsource certain operational functions to third-party vendors globally. If we fail to deploy, manage, or oversee our international operations
+successfully, our business may suffer. In addition, we are subject to a variety of risks inherent in
+
+
+#### 64
+
+
+## Page 65
+
+
+#### Table of Contents
+
+
+#### doing business internationally, including:
+
+•
+political, social, or economic instability;
+
+•
+risks related to legal, regulatory, and other government scrutiny applicable to U.S. companies with sales and operations in foreign
+jurisdictions, including with respect to privacy, tax, law enforcement, content, trade compliance, competition, consumer protection,
+intellectual property, and infrastructure matters;
+
+•
+potential damage to our brand and reputation due to compliance with local laws, including potential censorship or requirements to
+provide user information to local authorities;
+
+•
+enhanced diﬃculty in reviewing content on our platform and enforcing our community standards across diﬀerent languages and
+countries;
+
+•
+fluctuations in currency exchange rates and compliance with currency controls;
+
+•
+foreign exchange controls and tax and other regulations and orders that might prevent us from repatriating cash earned in countries
+outside the United States or otherwise limit our ability to move cash freely, and impede our ability to invest such cash efficiently;
+
+•
+higher levels of credit risk and payment fraud;
+
+•
+enhanced difficulties of integrating any foreign acquisitions;
+
+•
+burdens of complying with a variety of foreign laws, including laws related to taxation, content removal, data localization, payments,
+and regulatory oversight;
+
+•
+reduced protection for intellectual property rights in some countries;
+
+•
+diﬃculties in staﬃng, managing, and overseeing global operations and the increased travel, infrastructure, and legal compliance
+costs associated with multiple international locations, including diﬃculties arising from personnel working remotely during the
+COVID-19 pandemic;
+
+•
+compliance with statutory equity requirements and management of tax consequences; and
+
+•
+geopolitical events affecting us, our marketers or our industry, including trade disputes and pandemics.
+
+In addition, we must manage the potential conﬂicts between locally accepted business practices in any given jurisdiction and our
+obligations to comply with laws and regulations, including anti-corruption laws or regulations applicable to us, such as the U.S. Foreign Corrupt
+Practices Act and the U.K. Bribery Act 2010. We also must manage our obligations to comply with laws and regulations related to import and
+export controls, sanctions, and embargoes, including regulations established by the U.S. Oﬃce of Foreign Assets Control. Government agencies
+and authorities have a broad range of civil and criminal penalties they may seek to impose against companies for violations of anti-corruption
+laws or regulations, import and export controls, and other laws, rules, sanctions, embargoes, and regulations.
+
+If we are unable to expand internationally and manage the complexity of our global operations successfully, our ﬁnancial results could be
+adversely affected.
+
+We face design, manufacturing, and supply chain risks that, if not properly managed, could adversely impact our financial results.
+
+We face a number of risks related to design, manufacturing, and supply chain management with respect to our consumer hardware
+products. For example, the consumer hardware products we sell from time to time have had, and in the future may have quality issues resulting
+from the design or manufacture of the products, or from the software used in the products. Sometimes, these issues may be caused by
+components we purchase from other manufacturers or suppliers. Our brand and ﬁnancial results could be adversely aﬀected by any such quality
+issues, other failures to meet our customers' expectations, or findings of our consumer hardware products to be defective.
+
+We rely on third parties to manufacture and manage the logistics of transporting and distributing our consumer hardware products, which
+subjects us to a number of risks that have been exacerbated as a result of the COVID-19 pandemic.
+
+
+#### 65
+
+
+## Page 66
+
+
+#### Table of Contents
+
+We may experience supply or labor shortages or other disruptions in logistics or the supply chain that could result in shipping delays and
+negatively impact our operations, product development, and sales. We could be negatively aﬀected if we are not able to engage third parties with
+the necessary capabilities or capacity on reasonable terms, or if those we engage with fail to meet their obligations (whether due to ﬁnancial
+diﬃculties, manufacturing constraints, or other reasons), or make adverse changes in the pricing or other material terms of such arrangements
+with them. The manufacturing, distribution, and sale of our consumer hardware products also may be negatively impacted by macroeconomic
+conditions, geopolitical challenges, trade disputes, or other actions by governments that subject us to supply shortages, increased costs, or
+supply chain disruptions.
+
+We also require the suppliers and business partners of our consumer hardware products to comply with laws and certain company policies
+regarding sourcing practices and standards on labor, health and safety, the environment, and business ethics, but we do not control them or
+their practices and standards. If any of them violates laws, fails to implement changes in accordance with newly enacted laws, or implements
+practices or standards regarded as unethical, corrupt, or non-compliant, we could experience supply chain disruptions, government action or
+fines, canceled orders, or damage to our reputation.
+
+We face inventory risk with respect to our consumer hardware products.
+
+We are exposed to inventory risks with respect to our consumer hardware products as a result of rapid changes in product cycles and
+pricing, unsafe or defective merchandise, changes in consumer demand and consumer spending patterns, changes in consumer tastes with
+respect to our consumer hardware products, and other factors. The demand for our products can also change signiﬁcantly between the time
+inventory or components are ordered and the date of sale. While we endeavor to accurately predict these trends and avoid overstocking or
+understocking consumer hardware products we may sell, from time to time we have experienced diﬃculties in accurately predicting and meeting
+the consumer demand for our products. In addition, when we begin selling or manufacturing a new consumer hardware product or enter new
+international markets, it may be diﬃcult to establish vendor relationships, determine appropriate product or component selection, and accurately
+forecast demand. The acquisition of certain types of inventory or components may require significant lead-time and prepayment and they may not
+be returnable. Any one of the foregoing factors may adversely affect our operating results.
+
+We are involved in numerous class action lawsuits and other litigation matters that are expensive and time consuming, and, if
+resolved adversely, could harm our business, financial condition, or results of operations.
+
+We are involved in numerous lawsuits, including stockholder derivative lawsuits and putative class action lawsuits, many of which claim
+statutory damages and/or seek signiﬁcant changes to our business operations, and we anticipate that we will continue to be a target for
+numerous lawsuits in the future. Because of the scale of our user, advertiser, and developer base, the plaintiﬀs in class action cases ﬁled against
+us typically claim enormous monetary damages even if the alleged per-user or entity harm is small or non-existent. In addition, we have in the
+past, and may in the future, be subject to additional class action lawsuits based on claims related to advertising, antitrust, privacy, content,
+employment, or product performance or other claims related to the use of consumer hardware and software, as well as virtual reality technology
+and products, which are new and unproven. For example, we are currently the subject of multiple putative class action suits in connection with
+our platform and user data practices and the misuse of certain data by a developer that shared such data with third parties in violation of our
+terms and policies; the disclosure of our earnings results for the second quarter of 2018; and our acquisitions of Instagram and WhatsApp, as well
+as other alleged anticompetitive conduct. We also agreed to settle certain lawsuits in connection with the "tag suggestions" facial recognition
+feature on Facebook and a third-party cyber-attack that exploited a vulnerability in Facebook's code to steal user access tokens and access
+certain proﬁle information from user accounts on Facebook. The results of any such lawsuits and claims cannot be predicted with certainty, and
+any negative outcome from any such lawsuits could result in payments of substantial monetary damages or ﬁnes, or undesirable changes to our
+products or business practices, and accordingly our business, ﬁnancial condition, or results of operations could be materially and adversely
+affected.
+
+There can be no assurances that a favorable ﬁnal outcome will be obtained in all our cases, and defending any lawsuit is costly and can
+impose a signiﬁcant burden on management and employees. Any litigation to which we are a party may result in an onerous or unfavorable
+judgment that may not be reversed upon appeal or in payments of substantial monetary damages or ﬁnes, or we may decide to settle lawsuits on
+similarly unfavorable terms, which has occurred in the past and which could adversely aﬀect our business, ﬁnancial conditions, or results of
+operations.
+
+
+#### 66

@@ -1,8 +1,8 @@
-# Annual Report: ALPHABET-GOOGLE_2022_Q2_10-Q
+# Financial Report: ALPHABET-GOOGLE_2022_Q2_10-Q
 
 - **Source File**: `ALPHABET-GOOGLE_2022_Q2_10-Q.pdf`
-- **Total Pages**: 52
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 52
+- **Parsed Key Pages**: 30 (30 selected sections)
 
 ---
 
@@ -4322,633 +4322,573 @@ General Court, and on September 27, 2017, we implemented product changes to brin
 #### 26
 
 
-## Page 27
-
-### Table 27.1
-
-|  | We have had patent, copyright, trade secret, and trademark infringement lawsuits filed against us claiming that certain of our products, services, and technologies |
-| --- | --- |
-| infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary damages, costly royalty or licensing agreements, or |  |
-| orders preventing us from offering certain features, functionalities, products, or services. As a result, we may have to change our business practices and develop non- |  |
-| infringing products or technologies, which could result in a loss of revenues for us and otherwise harm our business. In addition, the U.S. International Trade Commission |  |
-| (ITC) has increasingly become an important forum to litigate intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing |  |
-| infringing products into the U.S. Because the U.S. is an important market, a prohibition on importation could have an adverse effect on us, including preventing us from |  |
-| importing many important products into the U.S. or necessitating workarounds that may limit certain features of our products. |  |
-
-
-### Table 27.2
-
-|  | Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property infringement claims, which |
-| --- | --- |
-| would increase our costs as a result of defending such claims, and may require that we pay significant damages if there were an adverse ruling in any such claims. In |  |
-| addition, our customers and partners may discontinue the use of our products, services, and technologies, as a result of injunctions or otherwise, which could result in loss |  |
-| of revenues and adversely affect our business. |  |
-
+## Page 35
 
 Table of Contents
 Alphabet Inc.
 
-compliance with the EC's decision. We recognized a charge of $ 2.7 billion for the fine in the second quarter of 2017. On November 10, 2021, the General Court rejected our
-appeal, and we subsequently filed an appeal with the European Court of Justice on January 20, 2022.
+◦
+Expenses associated with our data centers (including bandwidth, compensation expenses, depreciation, energy, and other equipment costs) as well as
+other operations costs (such as content review as well as customer and product support costs).
 
-On July 18, 2018, the EC announced its decision that certain provisions in Google’s Android-related distribution agreements infringed European competition law. The
-EC decision imposed a €4.3 billion ($5.1 billion as of June 30, 2018) ﬁne and directed the termination of the conduct at issue. On October 9, 2018, we appealed the EC
-decision, which remains pending. On October 29, 2018, we implemented changes to certain of our Android distribution practices. We recognized a charge of $5.1 billion for
-the fine in the second quarter of 2018.
+◦
+Inventory and other costs related to the hardware we sell.
 
-On March 20, 2019, the EC announced its decision that certain contractual provisions in agreements that Google had with AdSense for Search partners infringed
-European competition law. The EC decision imposed a ﬁne of €1.5 billion ($1.7 billion as of March 20, 2019) and directed actions related to AdSense for Search partners'
-agreements, which we implemented prior to the decision. On June 4, 2019, we appealed the EC decision, which remains pending. We recognized a charge of $1.7 billion
-for the fine in the first quarter of 2019.
+The cost of revenues as a percentage of revenues generated from ads placed on Google Network properties are signiﬁcantly higher than the cost of revenues as a
+percentage of revenues generated from ads placed on Google Search & other properties, because most of the advertiser revenues from ads served on Google Network
+properties are paid as TAC to our Google Network partners.
 
-While each EC decision is under appeal, we included the ﬁnes in accrued expenses and other current liabilities on our Consolidated Balance Sheets as we provided
-bank guarantees (in lieu of a cash payment) for the fines.
 
-From time to time we are subject to formal and informal inquiries and investigations on various competition matters by regulatory authorities in the United States (U.S.),
-Europe, and other jurisdictions globally. For example:
+#### Operating Expenses
 
-•
-In August 2019, we began receiving civil investigative demands from the U.S. Department of Justice (DOJ) requesting information and documents relating to our
-prior antitrust investigations and certain aspects of our business. The DOJ and a number of state Attorneys General ﬁled a lawsuit on October 20, 2020 alleging that
-Google violated U.S. antitrust laws relating to Search and Search advertising. Further, in June 2022, the Australian Competition and Consumer Commission
-(ACCC) and the United Kingdom's Competition and Markets Authority (CMA) each opened an investigation into Search distribution practices.
+Operating expenses are generally incurred during our normal course of business, which we categorize as either R&D, sales and marketing, or general and
+administrative.
+
+
+#### The main components of our R&D expenses are:
 
 •
-On December 16, 2020, a number of state Attorneys General ﬁled an antitrust complaint in the U.S. District Court for the Eastern District of Texas, alleging that
-Google violated U.S. antitrust laws as well as state deceptive trade laws relating to its advertising technology. The DOJ's investigation of similar issues remains
-ongoing. The EC, the CMA, and the ACCC each opened a formal investigation into Google's advertising technology business practices on June 22, 2021, May 25,
-2022, and June 29, 2022, respectively.
+compensation expenses for engineering and technical employees responsible for R&D related to our existing and new products and services;
 
 •
-On July 7, 2021, a number of state Attorneys General ﬁled an antitrust complaint in the U.S. District Court for the Northern District of California, alleging that
-Google’s operation of Android and Google Play violated U.S. antitrust laws and state antitrust and consumer protection laws. In May 2022, the EC and the CMA
-each opened a formal investigation into Google Play’s business practices. Korean regulators are investigating Google Play's billing practices, most recently opening
-a formal review in May 2022 of Google's compliance with the new app store billing regulations.
+depreciation; and
 
-We believe these complaints are without merit and will defend ourselves vigorously. We continue to cooperate with federal and state regulators in the U.S., the EC, and
-other regulators around the world.
+•
+professional services fees primarily related to consulting and outsourcing services.
 
 
-#### Patent and Intellectual Property Claims
+#### The main components of our sales and marketing expenses are:
 
-We have had patent, copyright, trade secret, and trademark infringement lawsuits ﬁled against us claiming that certain of our products, services, and technologies
-infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary damages, costly royalty or licensing agreements, or
-orders preventing us from oﬀering certain features, functionalities, products, or services. As a result, we may have to change our business practices and develop non-
-infringing products or technologies, which could result in a loss of revenues for us and otherwise harm our business. In addition, the U.S. International Trade Commission
-(ITC) has increasingly become an important forum to litigate intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing
-infringing products into the U.S. Because the U.S. is an important market, a prohibition on importation could have an adverse eﬀect on us, including preventing us from
-importing many important products into the U.S. or necessitating workarounds that may limit certain features of our products.
+•
+compensation expenses for employees engaged in sales and marketing, sales support, and certain customer service functions; and
 
-Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property infringement claims, which
-would increase our costs as a result of defending such claims, and may require that we pay signiﬁcant damages if there were an adverse ruling in any such claims. In
-addition, our customers and partners may discontinue the use of our products, services, and technologies, as a result of injunctions or otherwise, which could result in loss
-of revenues and adversely affect our business.
+•
+spending relating to our advertising and promotional activities in support of our products and services.
 
 
-#### 27
+#### The main components of our general and administrative expenses are:
+
+•
+compensation expenses for employees in finance, human resources, information technology, legal, and other administrative support functions;
+
+•
+expenses related to legal matters, including fines and settlements; and
+
+•
+professional services fees, including audit, consulting, outside legal, and outsourcing services.
 
 
-## Page 28
+#### Other Income (Expense), Net
 
-### Table 28.1
+Other income (expense), net primarily consists of interest income (expense), the eﬀect of foreign currency exchange gains (losses), net gains (losses) and impairment
+on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments.
 
-|  | We are also regularly subject to claims, suits, regulatory and government investigations, other proceedings, and consent decrees involving competition, intellectual |
+For additional details, including how we account for our investments and factors that can drive ﬂuctuations in the value of our investments, see Note 1 of the Notes to
+Consolidated Financial Statements included in Part II, Item 8 and Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” in our An nual Report on Form 10-K
+for the fiscal year ended December 31, 2021 as well as Note 3 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+
+
+#### Provision for Income Taxes
+
+Provision for income taxes represents the estimated amount of federal, state, and foreign income taxes incurred in the U.S. and the many jurisdictions in which we
+operate. The provision includes the effect of reserve provisions and changes to reserves that are considered appropriate as well as the related net interest and penalties.
+
+For additional details, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 in our Annual Report on Form 10-K for the ﬁscal year
+ended December 31, 2021 as well as Note 13 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+
+
+#### 35
+
+
+## Page 36
+
+### Table 36.1
+
+|  |  |  |  |  | 2022 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Consolidated revenues(1) | $ | 61,880 |  |  | $ | 69,685 |  |  | $ | 7,805 |  | 13 | % |
+| Change in consolidated constant currency revenues(1) |  |  |  |  |  |  |  |  |  |  |  | 16 | % |
+| Cost of revenues | $ | 26,227 |  |  | $ | 30,104 |  |  | $ | 3,877 |  | 15 | % |
+| Operating expenses | $ | 16,292 |  |  | $ | 20,128 |  |  | $ | 3,836 |  | 24 | % |
+| Operating income | $ | 19,361 |  |  | $ | 19,453 |  |  | $ | 92 |  | 0 | % |
+| Operating margin | 31 |  | % |  | 28 |  | % |  |  |  |  | (3) | % |
+| Other income (expense), net | $ | 2,624 |  |  | $ | (439) |  |  | $ | (3,063) |  | (117) | % |
+| Net Income | $ | 18,525 |  |  | $ | 16,002 |  |  | $ | (2,523) |  | (14) | % |
+| Diluted EPS | $ | 1.36 |  |  | $ | 1.21 |  |  | $ | (0.15) |  | (11) | % |
+| Number of Employees | 144,056 |  |  |  | 174,014 |  |  |  | 29,958 |  |  | 21 | % |
+
+
+### Table 36.2
+
+| On July 15, 2022, the company executed a 20-for-one stock split with a record date of July 1, 2022, effected in the form of a one-time special stock dividend on |  |
 | --- | --- |
-| property, privacy and cybersecurity, tax and related compliance, labor and employment, commercial disputes, content generated by our users, goods and services offered |  |
-| by advertisers or publishers using our platforms, personal injury, consumer protection, and other matters. For example, we currently have a number of privacy investigations |  |
-| and suits ongoing in multiple jurisdictions. Such claims, suits, regulatory and government investigations, other proceedings, and consent decrees could result in substantial |  |
-| fines and penalties, injunctive relief, ongoing auditing and monitoring obligations, changes to our products and services, alterations to our business models and operations, |  |
-| and collateral related civil litigation or other adverse consequences, all of which could harm our business, reputation, financial condition, and operating results. |  |
-
-
-### Table 28.2
-
-|  | Certain outstanding matters include speculative, substantial or indeterminate monetary amounts. We record a liability when we believe that it is probable that a loss |
-| --- | --- |
-| has been incurred, and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we |  |
-| disclose the reasonably possible loss. We evaluate developments in our legal matters that could affect the amount of liability that has been previously accrued, and the |  |
-| matters and related reasonably possible losses disclosed, and make adjustments as appropriate. Significant judgment is required to determine both the likelihood of there |  |
-| being and the estimated amount of a loss related to such matters. |  |
-
-
-### Table 28.3
-
-|  | With respect to our outstanding matters, based on our current knowledge, we believe that the amount or range of reasonably possible loss will not, either individually or |
-| --- | --- |
-| in aggregate, have a material adverse effect on our business, consolidated financial position, results of operations, or cash flows. However, the outcome of such matters is |  |
-| inherently unpredictable and subject to significant uncertainties. |  |
-
-
-### Table 28.4
-
-|  | We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non-income tax audits primarily |
-| --- | --- |
-| arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these jurisdictions and the tax treatment of certain employee |  |
-| benefits. We accrue non-income taxes that may result from examinations by, or any negotiated agreements with, these tax authorities when a loss is probable and |  |
-| reasonably estimable. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. Due to |  |
-| the inherent complexity and uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from our expectations. |  |
+|  | each share of the company's Class A, Class B, and Class C stock. All references made to share or per share amounts throughout this Management's Discussion |
+|  | and Analysis of Financial Condition and Results of Operations have been retroactively adjusted to reflect the effects of the Stock Split. See Note 1 of the Notes to |
+|  | Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information. |
 
 
 Table of Contents
 Alphabet Inc.
 
 
-#### Other
+#### Executive Overview
 
-We are also regularly subject to claims, suits, regulatory and government investigations, other proceedings, and consent decrees involving competition, intellectual
-property, privacy and cybersecurity, tax and related compliance, labor and employment, commercial disputes, content generated by our users, goods and services oﬀered
-by advertisers or publishers using our platforms, personal injury, consumer protection, and other matters. For example, we currently have a number of privacy investigations
-and suits ongoing in multiple jurisdictions. Such claims, suits, regulatory and government investigations, other proceedings, and consent decrees could result in substantial
-ﬁnes and penalties, injunctive relief, ongoing auditing and monitoring obligations, changes to our products and services, alterations to our business models and operations,
-and collateral related civil litigation or other adverse consequences, all of which could harm our business, reputation, financial condition, and operating results.
-
-We have ongoing legal matters relating to Russia. We do not believe these ongoing legal matters will have a material adverse eﬀect on our business, consolidated
-financial position, results of operations, or cash flows.
-
-Certain outstanding matters include speculative, substantial or indeterminate monetary amounts. We record a liability when we believe that it is probable that a loss
-has been incurred, and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we
-disclose the reasonably possible loss. We evaluate developments in our legal matters that could aﬀect the amount of liability that has been previously accrued, and the
-matters and related reasonably possible losses disclosed, and make adjustments as appropriate. Signiﬁcant judgment is required to determine both the likelihood of there
-being and the estimated amount of a loss related to such matters.
-
-With respect to our outstanding matters, based on our current knowledge, we believe that the amount or range of reasonably possible loss will not, either individually or
-in aggregate, have a material adverse eﬀect on our business, consolidated ﬁnancial position, results of operations, or cash ﬂows. However, the outcome of such matters is
-inherently unpredictable and subject to significant uncertainties.
-
-We expense legal fees in the period in which they are incurred.
+The following table summarizes consolidated financial results (in millions, except per share information, percentages, and number of employees):
 
 
-#### Non-Income Taxes
+#### Three Months Ended
 
-We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non-income tax audits primarily
-arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these jurisdictions and the tax treatment of certain employee
-beneﬁts. We accrue non-income taxes that may result from examinations by, or any negotiated agreements with, these tax authorities when a loss is probable and
-reasonably estimable. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. Due to
-the inherent complexity and uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from our expectations.
-
-For information regarding income tax contingencies, see Note 13.
-
-
-#### Note 10. Stockholders' Equity
-
-
-#### Stock Split
-
-On July 15, 2022, the company executed a 20-for-one stock split with a record date of July 1, 2022, eﬀected in the form of a one-time special stock dividend on each
-share of the company's Class A, Class B, and Class C stock. All references made to share or per share amounts in the accompanying consolidated financial statements and
-applicable disclosures have been retroactively adjusted to reflect the effects of the Stock Split. See Note 1 for further details.
-
-
-#### Share Repurchases
-
-In April 2021, the Board of Directors of Alphabet authorized the company to repurchase up to $ 50.0 billion of its Class C stock. In July 2021, the Board of Directors of
-Alphabet approved an amendment to the April 2021 authorization, permitting the company to repurchase both Class A and Class C shares in a manner deemed in the best
-interest of the company and its stockholders, taking into account the economic cost and prevailing market conditions, including the relative trading prices and volumes of the
-Class A and Class C shares. The repurchases from the April 2021 authorization were completed during the second quarter of 2022.
-
-In April 2022, the Board of Directors of Alphabet authorized the company to repurchase up to an additional $ 70.0 billion of its Class A and Class C shares. As of June
-30, 2022, $58.9 billion remains available for Class A and Class C share repurchases from the April 2022 authorization.
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Basic net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings | $ | 8,321 |  | $ | 1,265 |  | $ | 8,939 |  | $ | 7,329 |  | $ | 1,081 |  | $ | 7,592 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in per share computation | 6,009 |  |  | 914 |  |  | 6,456 |  |  | 6,015 |  |  | 887 |  |  | 6,231 |  |
-| Basic net income per share | $ | 1.38 |  | $ | 1.38 |  | $ | 1.38 |  | $ | 1.22 |  | $ | 1.22 |  | $ | 1.22 |
-| Diluted net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings for basic computation | $ | 8,321 |  | $ | 1,265 |  | $ | 8,939 |  | $ | 7,329 |  | $ | 1,081 |  | $ | 7,592 |
-| Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares | 1,265 |  |  | 0 |  |  | 0 |  |  | 1,081 |  |  | 0 |  |  | 0 |  |
-| Reallocation of undistributed earnings | (149) |  |  | (19) |  |  | 149 |  |  | (68) |  |  | (9) |  |  | 68 |  |
-| Allocation of undistributed earnings | $ | 9,437 |  | $ | 1,246 |  | $ | 9,088 |  | $ | 8,342 |  | $ | 1,072 |  | $ | 7,660 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in basic computation | 6,009 |  |  | 914 |  |  | 6,456 |  |  | 6,015 |  |  | 887 |  |  | 6,231 |  |
-| Weighted-average effect of dilutive securities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Add: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Conversion of Class B to Class A shares outstanding | 914 |  |  | 0 |  |  | 0 |  |  | 887 |  |  | 0 |  |  | 0 |  |
-| Restricted stock units and other contingently issuable shares | 0 |  |  | 0 |  |  | 213 |  |  | 0 |  |  | 0 |  |  | 106 |  |
-| Number of shares used in per share computation | 6,923 |  |  | 914 |  |  | 6,669 |  |  | 6,902 |  |  | 887 |  |  | 6,337 |  |
-| Diluted net income per share | $ | 1.36 |  | $ | 1.36 |  | $ | 1.36 |  | $ | 1.21 |  | $ | 1.21 |  | $ | 1.21 |
-
-
-Table of Contents
-Alphabet Inc.
-
-In accordance with the authorizations of the Board of Directors of Alphabet, during the three and six months ended June 30, 2022, we repurchased and subsequently
-retired 132.8 million and 231.1 million aggregate shares for $15.2 billion and $28.5 billion, respectively. Of the aggregate amount repurchased and subsequently retired
-during the three months ended June 30, 2022, 16.3 million shares were Class A stock for $ 1.9 billion and 116.5 million shares were Class C stock for $13.3 billion. Of the
-aggregate amount repurchased and subsequently retired during the six months ended June 30, 2022, 21.2 million shares were Class A stock for $ 2.5 billion and 209.9
-million shares were Class C stock for $26.0 billion.
-
-Repurchases are executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or
-privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date.
-
-
-#### Note 11. Net Income Per Share
-
-The following table sets forth the computation of basic and diluted net income per share of Class A, Class B, and Class C stock (in millions, except per share amounts):
-
-Three Months Ended June 30,
- 
+June 30,
 2021
 2022
- 
-Class A
-Class B
-Class C
-Class A
-Class B
-Class C
-Basic net income per share:
+$ Change
+% Change
+Consolidated revenues
+$
+61,880 
+$
+69,685 
+$
+7,805 
+13 
+%
+Change in consolidated constant currency
+revenues
+16 
+%
 
+Cost of revenues
+$
+26,227 
+$
+30,104 
+$
+3,877 
+15 
+%
+Operating expenses
+$
+16,292 
+$
+20,128 
+$
+3,836 
+24 
+%
 
-#### Numerator
+Operating income
+$
+19,361 
+$
+19,453 
+$
+92 
+0 
+%
+Operating margin
+31 
+%
+28 
+%
+(3)
+%
 
-Allocation of undistributed earnings
+Other income (expense), net
 $
-8,321 
+2,624 
 $
-1,265 
+(439)
 $
-8,939 
-$
-7,329 
-$
-1,081 
-$
-7,592 
-Denominator
+(3,063)
+(117)
+%
 
-Number of shares used in per share computation
-6,009 
-914 
-6,456 
-6,015 
-887 
-6,231 
-Basic net income per share
+Net Income
 $
-1.38 
+18,525 
 $
-1.38 
+16,002 
 $
-1.38 
-$
-1.22 
-$
-1.22 
-$
-1.22
-
-
-#### Diluted net income per share:
-
-
-#### Numerator
-
-Allocation of undistributed earnings for basic
-computation
-$
-8,321 
-$
-1,265 
-$
-8,939 
-$
-7,329 
-$
-1,081 
-$
-7,592 
-Reallocation of undistributed earnings as a
-result of conversion of Class B to Class A shares
-1,265 
-0 
-0 
-1,081 
-0 
-0 
-Reallocation of undistributed earnings
-(149)
-(19)
-149 
-(68)
-(9)
-68 
-Allocation of undistributed earnings
-$
-9,437 
-$
-1,246 
-$
-9,088 
-$
-8,342 
-$
-1,072 
-$
-7,660 
-Denominator
-
-Number of shares used in basic computation
-6,009 
-914 
-6,456 
-6,015 
-887 
-6,231 
-Weighted-average effect of dilutive securities
-
-Add:
-Conversion of Class B to Class A shares
-outstanding
-914 
-0 
-0 
-887 
-0 
-0 
-Restricted stock units and other contingently
-issuable shares
-0 
-0 
-213 
-0 
-0 
-106 
-Number of shares used in per share computation
-6,923 
-914 
-6,669 
-6,902 
-887 
-6,337 
-Diluted net income per share
-$
-1.36 
-$
-1.36 
+(2,523)
+(14)
+%
+Diluted EPS
 $
 1.36 
 $
 1.21 
 $
-1.21 
-$
-1.21
+(0.15)
+(11)
+%
+
+Number of Employees
+144,056 
+174,014
+29,958
+21 
+%
+
+Foreign currency movements aﬀected year-over-year revenue growth rates by 3.7%. This reﬂects, when rounding to the one decimal place, the percentage change in consolidated
+
+revenues and consolidated constant currency revenues year over year of 12.6% and 16.3%, respectively.
+
+•
+Revenues were $69.7 billion, an increase of 13% year over year, primarily driven by an increase in Google Services segment revenues of $5.8 billion or 10% and an
+increase in Google Cloud segment revenues of $1.6 billion or 36%.
+
+•
+Cost of revenues was $30.1 billion, an increase of 15% year over year, driven by increases in other costs of revenues and TAC.
+
+•
+Operating expenses were $20.1 billion, an increase of 24% year over year, primarily driven by increases in compensation due to headcount growth, professional
+services fees and advertising and promotional expenses. The increase was partially offset by a decrease in charges related to legal matters.
 
 
-#### 29
+#### Other information
+
+•
+On July 15, 2022, the company executed a 20-for-one stock split with a record date of July 1, 2022, eﬀected in the form of a one-time special stock dividend on
+each share of the company's Class A, Class B, and Class C stock. All references made to share or per share amounts throughout this Management's Discussion
+and Analysis of Financial Condition and Results of Operations have been retroactively adjusted to reﬂect the eﬀects of the Stock Split. See Note 1 of the Notes to
+Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.
+
+•
+Beginning in the first quarter of 2022, we suspended the vast majority of our commercial activities in Russia and effectively ceased business activities of our Russian
+entity. The ongoing eﬀect of these direct actions on our ﬁnancial results was not material. The broader economic eﬀects resulting from the war in Ukraine on our
+future financial results may be unpredictable.
+
+•
+Repurchases of Class A and Class C s hares were $15.2 billion for the three months ended June 30, 2022 . In April 2022, the Board of Directors of Alphabet
+authorized the company to repurchase up to an additional $70.0 billion of its Class A and Class C shares. See Note 10 of the Notes to Consolidated Financial
+Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.
+
+•
+Operating cash flow was $19.4 billion for the three months ended June 30, 2022.
+
+•
+Capital expenditures of $6.8 billion for the three months ended June 30, 2022 primarily relate to investments in technical infrastructure.
 
 
-## Page 30
-
-### Table 30.1
-
-| Basic net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings | $ | 16,330 |  | $ | 2,485 |  | $ | 17,640 |  | $ | 14,812 | $ | 2,190 |  | $ 15,436 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in per share computation | 6,012 |  |  | 915 |  |  | 6,495 |  |  | 6,013 |  | 889 |  |  | 6,266 |
-| Basic net income per share | $ | 2.72 |  | $ | 2.72 |  | $ | 2.72 |  | $ | 2.46 | $ | 2.46 |  | $ 2.46 |
-| Diluted net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings for basic computation | $ | 16,330 |  | $ | 2,485 |  | $ | 17,640 |  | $ | 14,812 | $ | 2,190 |  | $ 15,436 |
-| Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares | 2,485 |  |  | 0 |  |  | 0 |  |  | 2,190 |  | 0 |  |  | 0 |
-| Reallocation of undistributed earnings | (269) |  |  | (36) |  |  | 269 |  |  | (162) |  | (21) |  |  | 162 |
-| Allocation of undistributed earnings | $ | 18,546 |  | $ | 2,449 |  | $ | 17,909 |  | $ | 16,840 | $ | 2,169 |  | $ 15,598 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in basic computation | 6,012 |  |  | 915 |  |  | 6,495 |  |  | 6,013 |  | 889 |  |  | 6,266 |
-| Weighted-average effect of dilutive securities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Add: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Conversion of Class B to Class A shares outstanding | 915 |  |  | 0 |  |  | 0 |  |  | 889 |  | 0 |  |  | 0 |
-| Restricted stock units and other contingently issuable shares | 0 |  |  | 0 |  |  | 195 |  |  | 0 |  | 0 |  |  | 127 |
-| Number of shares used in per share computation | 6,927 |  |  | 915 |  |  | 6,690 |  |  | 6,902 |  | 889 |  |  | 6,393 |
-| Diluted net income per share | $ | 2.68 |  | $ | 2.68 |  | $ | 2.68 |  | $ | 2.44 | $ | 2.44 |  | $ 2.44 |
+#### (1)
 
 
-### Table 30.2
+#### (1)
 
-| Unvested as of December 31, 2021 | 338 |  | $ | 81.31 |
-| --- | --- | --- | --- | --- |
-| Granted | 163 |  | $ | 135.49 |
-| Vested | (103 | ) | $ | 85.45 |
-| Forfeited/canceled | (19 | ) | $ | 94.47 |
-| Unvested as of June 30, 2022 | 379 |  | $ | 102.80 |
+
+#### (1)
+
+
+#### 36
+
+
+## Page 37
+
+### Table 37.1
+
+| Google Search & other | $ | 35,845 |  | $ | 40,689 |  | $ | 67,724 |  | $ | 80,307 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads | 7,002 |  |  | 7,340 |  |  | 13,007 |  |  | 14,209 |  |
+| Google Network | 7,597 |  |  | 8,259 |  |  | 14,397 |  |  | 16,433 |  |
+| Google advertising | 50,444 |  |  | 56,288 |  |  | 95,128 |  |  | 110,949 |  |
+| Google other | 6,623 |  |  | 6,553 |  |  | 13,117 |  |  | 13,364 |  |
+| Google Services total | 57,067 |  |  | 62,841 |  |  | 108,245 |  |  | 124,313 |  |
+| Google Cloud | 4,628 |  |  | 6,276 |  |  | 8,675 |  |  | 12,097 |  |
+| Other Bets | 192 |  |  | 193 |  |  | 390 |  |  | 633 |  |
+| Hedging gains (losses) | (7) |  |  | 375 |  |  | (116) |  |  | 653 |  |
+| Total revenues | $ | 61,880 |  | $ | 69,685 |  | $ | 117,194 |  | $ | 137,696 |
+
+
+### Table 37.2
+
+| Paid clicks change | 12% |  | 14% |
+| --- | --- | --- | --- |
+| Cost-per-click change | —% |  | 4% |
 
 
 Table of Contents
 Alphabet Inc.
 
-Six Months Ended June 30,
+
+#### Financial Results
+
+
+#### Revenues
+
+
+#### The following table presents revenues by type (in millions):
+
+Three Months Ended
+Six Months Ended
+June 30,
+June 30,
  
 2021
 2022
+2021
+2022
+Google Search & other
+$
+35,845 
+$
+40,689 
+$
+67,724 
+$
+80,307 
+YouTube ads
+7,002 
+7,340 
+13,007 
+14,209 
+Google Network
+7,597 
+8,259 
+14,397 
+16,433 
+Google advertising
+50,444 
+56,288 
+95,128 
+110,949 
+Google other
+6,623 
+6,553 
+13,117 
+13,364 
+Google Services total
+57,067 
+62,841 
+108,245 
+124,313 
+Google Cloud
+4,628 
+6,276 
+8,675 
+12,097 
+Other Bets
+192 
+193 
+390 
+633 
+Hedging gains (losses)
+(7)
+375 
+(116)
+653
+
+Total revenues
+$
+61,880 
+$
+69,685 
+$
+117,194 
+$
+137,696
+
+
+#### Google Services
+
+
+#### Google advertising revenues
+
+
+#### Google Search & other
+
+Google Search & other revenues increased $4.8 billion and $12.6 billion from the three and six months ended June 30, 2021 to the three and six months ended June
+30, 2022, respectively. The overall growth was driven by interrelated factors including increases in search queries resulting from growth in user adoption and usage,
+primarily on mobile devices, growth in advertiser spending, and improvements we have made in ad formats and delivery.
+
+
+#### YouTube ads
+
+YouTube ads revenues increased $338 million and $1.2 billion from the three and six months ended June 30, 2021 to the three and six months ended June 30, 2022,
+respectively. The growth was driven by our brand and direct response advertising products. Growth for both products was primarily driven by increased spending by our
+advertisers as well as improvements to ad formats and delivery.
+
+
+#### Google Network
+
+Google Network revenues increased $662 million from the three months ended June 30, 2021 to the three months ended June 30, 2022. The growth was primarily
+driven by strength in AdSense.
+
+Google Network revenues increased $2.0 billion from the six months ended June 30, 2021 to the six months ended June 30, 2022. The growth was primarily driven by
+strength in AdSense and AdMob.
+
+
+#### Monetization Metrics
+
+
+#### Paid clicks and cost-per-click
+
+The following table presents year-over-year changes in paid clicks and cost-per-click (expressed as a percentage):
+
+
+#### Three Months Ended June
+
+
+#### 30,
+
+
+#### Six Months Ended June
+
+30,
  
-Class A
-Class B
-Class C
-Class A
-Class B
-Class C
-Basic net income per share:
+2022
+2022
+Paid clicks change
+12%
+14%
+Cost-per-click change
+—%
+4%
+
+Paid clicks increased from the three and six months ended June 30, 2021 to the three and six months ended June 30, 2022, driven by a number of interrelated factors,
+including an increase in search queries resulting from growth in user adoption and usage, primarily on mobile devices; growth in advertiser spending; and improvements we
+have made in ad formats and delivery.
 
 
-#### Numerator
-
-Allocation of undistributed earnings
-$
-16,330 
-$
-2,485 
-$
-17,640 
-$
-14,812 
-$
-2,190 
-$
-15,436 
-Denominator
-
-Number of shares used in per share computation
-6,012 
-915 
-6,495 
-6,013 
-889 
-6,266 
-Basic net income per share
-$
-2.72 
-$
-2.72 
-$
-2.72 
-$
-2.46 
-$
-2.46 
-$
-2.46
+#### 37
 
 
-#### Diluted net income per share:
+## Page 38
+
+### Table 38.1
+
+| Impressions change | 6% |  | 6% |
+| --- | --- | --- | --- |
+| Cost-per-impression change | 2% |  | 9% |
 
 
-#### Numerator
+### Table 38.2
 
-Allocation of undistributed earnings for basic computation
-$
-16,330 
-$
-2,485 
-$
-17,640 
-$
-14,812 
-$
-2,190 
-$
-15,436 
-Reallocation of undistributed earnings as a result of conversion of Class B to
-Class A shares
-2,485 
+|  |  |  |  | 2022 |  |  |  |  |  | 2022 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| United States | 46 | % |  | 47 | % |  | 45 | % |  | 47 | % |
+| EMEA | 31 | % |  | 29 | % |  | 31 | % |  | 30 | % |
+| APAC | 18 | % |  | 17 | % |  | 19 | % |  | 17 | % |
+| Other Americas | 5 | % |  | 6 | % |  | 5 | % |  | 6 | % |
+| Hedging gains (losses) | 0 | % |  | 1 | % |  | 0 | % |  | 0 | % |
+
+
+Table of Contents
+Alphabet Inc.
+
+Cost-per-click was relatively unchanged from the three months ended June 30, 2021 to the three months ended June 30, 2022 and increased from the six months
+ended June 30, 2021 to the six months ended June 30, 2022 due to a number of interrelated factors including changes in device mix, geographic mix, growth in advertiser
+spending, ongoing product changes, and property mix.
+
+
+#### Impressions and cost-per-impression
+
+The following table presents year-over-year changes in impressions and cost-per-impression (expressed as a percentage):
+
+
+#### Three Months Ended
+
+
+#### June 30,
+
+
+#### Six Months Ended June
+
+30,
+ 
+2022
+2022
+Impressions change
+6%
+6%
+Cost-per-impression change
+2%
+9%
+
+Impressions increased from the three and six months ended June 30, 2021 to the three and six months ended June 30, 2022, primarily driven by growth across Google
+Ad Manager, AdSense, and AdMob. The increase in cost-per-impression from the three and six months ended June 30, 2021 to the three and six months ended June 30,
+2022 was driven by a number of interrelated factors including ongoing product and policy changes, improvements we have made in ad formats and delivery, changes in
+device mix, geographic mix, product mix, and property mix.
+
+
+#### Google other revenues
+
+Google other revenues decreased $70 million from the three months ended June 30, 2021 to the three months ended June 30, 2022 primarily driven by a decrease in
+Google Play revenues, partially oﬀset by growth in YouTube non-advertising revenues. The decrease in Google Play revenues was primarily driven by the fee structure
+changes we announced in 2021 as well as a decrease in buyer spending. The growth in YouTube non-advertising was largely due to an increase in paid subscribers.
+
+Google other revenues increased $247 million from the six months ended June 30, 2021 to the six months ended June 30, 2022. The growth was primarily driven by
+YouTube non-advertising, largely due to an increase in paid subscribers. The overall growth was partially oﬀset by a decrease in Google Play revenues, primarily driven by
+the fee structure changes we announced in 2021 as well as a decrease in buyer spending.
+
+
+#### Google Cloud
+
+Google Cloud revenues increased $1.6 billion and $3.4 billion from the three and six months ended June 30, 2021 to the three and six months ended June 30, 2022,
+respectively. The growth was primarily driven by GCP followed by Google Workspace oﬀerings. Google Cloud's infrastructure and platform services were the largest drivers
+of growth in GCP.
+
+
+#### Revenues by Geography
+
+The following table presents revenues by geography as a percentage of revenues, determined based on the addresses of our customers:
+
+Three Months Ended
+Six Months Ended
+ 
+June 30,
+June 30,
+ 
+2021
+2022
+2021
+2022
+United States
+46 
+%
+47 
+%
+45 
+%
+47 
+%
+EMEA
+31 
+%
+29 
+%
+31 
+%
+30 
+%
+APAC
+18 
+%
+17 
+%
+19 
+%
+17 
+%
+Other Americas
+5 
+%
+6 
+%
+5 
+%
+6 
+%
+Hedging gains (losses)
 0 
+%
+1 
+%
 0 
-2,190 
+%
 0 
-0 
-Reallocation of undistributed earnings
-(269)
-(36)
-269 
-(162)
-(21)
-162 
-Allocation of undistributed earnings
-$
-18,546 
-$
-2,449 
-$
-17,909 
-$
-16,840 
-$
-2,169 
-$
-15,598 
-Denominator
+%
 
-Number of shares used in basic computation
-6,012 
-915 
-6,495 
-6,013 
-889 
-6,266 
-Weighted-average effect of dilutive securities
-
-Add:
-Conversion of Class B to Class A shares outstanding
-915 
-0 
-0 
-889 
-0 
-0 
-Restricted stock units and other contingently issuable shares
-0 
-0 
-195 
-0 
-0 
-127 
-Number of shares used in per share computation
-6,927 
-915 
-6,690 
-6,902 
-889 
-6,393 
-Diluted net income per share
-$
-2.68 
-$
-2.68 
-$
-2.68 
-$
-2.44 
-$
-2.44 
-$
-2.44
-
-For the periods presented above, the net income per share amounts are the same for Class A, Class B, and Class C stock because the holders of each class are
-entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and Restated Certificate of Incorporation of Alphabet Inc.
+For further details on revenues by geography, see Note 2 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
 
 
-#### Note 12. Compensation Plans
-
-
-#### Stock-Based Compensation
-
-For the three months ended June 30, 2021 and 2022, total stock-based compensation (SBC) expense was $ 4.0 billion and $4.9 billion, including amounts associated
-with awards we expect to settle in Alphabet stock of $3.7 billion and $4.6 billion, respectively. For the six months ended June 30, 2021 and 2022, total SBC expense was
-$7.8 billion and $9.4 billion, including amounts associated with awards we expect to settle in Alphabet stock o f $7.4 billion and $9.0 billion, respectively.
-
-
-#### Stock-Based Award Activities
-
-The following table summarizes the activities for unvested Alphabet restricted stock units (RSUs) for the six months ended June 30, 2022 (in millions, except per share
-amounts):
-
-
-#### Unvested Restricted Stock Units
-
-Number of
-Shares
-
-Weighted-
-Average
-Grant-Date
-
-Fair Value
-Unvested as of December 31, 2021
-338 
-$
-81.31 
-Granted
-163 
-$
-135.49 
-Vested
-(103)
-$
-85.45 
-Forfeited/canceled
-(19)
-$
-94.47 
-Unvested as of June 30, 2022
-379 
-$
-102.80
-
-As of June 30, 2022, there was $ 37.1 billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-
-average period of 2.7 years.
-
-
-#### 30
+#### 38

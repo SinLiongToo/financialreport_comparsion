@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2023_Q2_10-Q
+# Financial Report: MICROSOFT_2023_Q2_10-Q
 
 - **Source File**: `MICROSOFT_2023_Q2_10-Q.pdf`
-- **Total Pages**: 72
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 72
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -6238,454 +6238,6 @@ The dividend declared on November 29, 2022 was included in other current liabili
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| Balance, beginning of period |  | $ | (6 | ) |  | $ | (17 | ) |  | $ | (13 | ) |  | $ | (19 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.2
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | (103 | ) |  |  | 14 |  |  |  | (44 | ) |  |  | 29 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.3
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | (81 | ) |  |  | 11 |  |  |  | (34 | ) |  |  | 23 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.4
-
-| Balance, end of period |  | $ | (38 | ) |  | $ | (17 | ) |  | $ | (38 | ) |  | $ | (17 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.5
-
-| Balance, beginning of period |  | $ | (4,035 | ) |  | $ | 2,800 |  |  | $ | (2,138 | ) |  | $ | 3,222 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.6
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | 10 |  |  |  | (1 | ) |  |  | 45 |  |  |  | (10 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.7
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | 8 |  |  |  | (1 | ) |  |  | 36 |  |  |  | (8 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.8
-
-| Balance, end of period |  | $ | (3,687 | ) |  | $ | 2,057 |  |  | $ | (3,687 | ) |  | $ | 2,057 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.9
-
-| Balance, beginning of period |  | $ | (3,302 | ) |  | $ | (1,500 | ) |  | $ | (2,527 | ) |  | $ | (1,381 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.10
-
-| Balance, end of period |  | $ | (2,732 | ) |  | $ | (1,603 | ) |  | $ | (2,732 | ) |  | $ | (1,603 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-### NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
-
-The following table summarizes the changes in accumulated other comprehensive income (loss) by component:
-
-
-#### (In millions)
-
-
-#### Three Months Ended
-
-
-#### December 31,
-
-
-#### Six Months Ended
-
-
-#### December 31,
-
-2022 
- 
- 
-2021 
- 
- 
-2022
- 
- 
- 
-2021
-
-
-#### Derivatives
-
-Balance, beginning of period
- $
-(6)
- $
-(17)
- 
-$
-(13)
- 
-$
-(19)
-Unrealized gains (losses), net of tax of $13, $(3), $2,
-
-
-#### and $(6)
-
-
-#### 49
-
-(11)
-  
-9 
-  
-(21)
-
-
-#### Reclassification adjustments for (gains) losses included
-
-
-#### in other income (expense), net
-
-
-#### (103)
-
-14 
-  
-(44)
-  
-29 
-Tax expense (benefit) included in provision for income
-
-
-#### taxes
-
-
-#### 22
-
-(3)
-  
-10 
-  
-(6)
-
-
-#### Amounts reclassified from accumulated other
-
-comprehensive income (loss)
- 
- 
-(81)
- 
- 
-11 
-  
-(34)
-  
-23 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Net change related to derivatives, net of tax of $(9), $0,
-
-
-#### $(8), and $0
-
-
-#### (32)
-
-0 
-  
-(25)
-  
-2 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Balance, end of period
- $
-(38)
- $
-(17)
- 
-$
-(38)
- 
-$
-(17)
-
-
-#### Investments
-
-Balance, beginning of period
- 
-$
-(4,035)
- 
-$
-2,800 
- 
-$
-(2,138)
- 
-$
-3,222 
-Unrealized gains (losses), net of tax of  $89, $(197),
-
-
-#### $(421), and $( 307)
-
-
-#### 340
-
-(742)
-  
-(1,585)
-  
-(1,157)
-
-
-#### Reclassification adjustments for (gains) losses included
-
-
-#### in other income (expense), net
-
-
-#### 10
-
-(1)
-  
-45 
-  
-(10)
-Tax expense (benefit) included in provision for income
-
-
-#### taxes
-
-
-#### (2)
-
-0 
-  
-(9)
-  
-2 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
-  
-Amounts reclassified from accumulated other
-
-
-#### comprehensive income (loss)
-
-
-#### 8
-
-(1)
-  
-36 
-  
-(8)
-
-
-#### Net change related to investments, net of tax of $91,
-
-
-#### $(197), $(412), and $( 309)
-
-
-#### 348
-
-(743)
-  
-(1,549)
-  
-(1,165)
-
-Balance, end of period
- 
-$
-(3,687)
- 
-$
-2,057 
- 
-$ 
-(3,687)
- 
-$
-2,057
-
-
-#### Translation Adjustments and Other
-
-Balance, beginning of period
- $
-(3,302)
- $
-(1,500)
- 
-$
-(2,527)
- 
-$
-(1,381)
-Translation adjustments and other, net of tax of $0, $0,
-
-
-#### $0, and $0
-
-
-#### 570
-
-(103)
-  
-(205)
-
-
-#### (222)
-
-Balance, end of period
- 
-$
-(2,732)
- 
-$
-(1,603)
- 
-$ 
-(2,732)
- 
-$
-(1,603)
-
-
-#### Accumulated other comprehensive income (loss), end
-
-
-#### of period
-
-$
-(6,457)
-
-$
-437
-
-$
-(6,457)
- 
-$
-437
-
-
-#### 26
-
-
 ## Page 27
 
 
@@ -7164,3 +6716,152 @@ January 24, 2023
 
 
 #### 30
+
+
+## Page 31
+
+
+### PART I
+
+
+#### Item 2
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+
+### OPERATIONS
+
+
+#### Note About Forward-Looking Statements
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933,
+and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the following
+sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” (Part II, Item 1A of this
+Form 10-Q). These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,”
+“strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions.
+Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual
+results to diﬀer materially. We describe risks and uncertainties that could cause actual results and events to diﬀer materially in “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures about Market Risk” (Part I,
+Item 3 of this Form 10-Q), and “Risk Factors”. We undertake no obligation to update or revise publicly any forward-looking statements, whether
+because of new information, future events, or otherwise.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader
+understand the results of operations and ﬁnancial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read
+in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2022, and our ﬁnancial statements and the accompanying
+Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+
+
+### OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to
+create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity,
+large business competitiveness, and public-sector efficiency. We are creating the platforms and tools that deliver better, faster, and more effective
+solutions to support new startups, improve educational and health outcomes, and empower human ingenuity.
+
+We generate revenue by oﬀering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of
+software products; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most
+signiﬁcant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services;
+datacenter costs in support of our cloud-based services; and income taxes.
+
+Highlights from the second quarter of fiscal year 2023 compared with the second quarter of fiscal year 2022 included:
+ 
+•
+Microsoft Cloud revenue increased 22% to $27.1 billion.
+
+•
+Office Commercial products and cloud services revenue increased 7% driven by Office 365 Commercial growth of 11%.
+
+•
+Oﬃce Consumer products and cloud services revenue decreased 2% and Microsoft 365 Consumer subscribers increased to 63.2
+million.
+ 
+•
+LinkedIn revenue increased 10%.
+
+•
+Dynamics products and cloud services revenue increased 13% driven by Dynamics 365 growth of 21%.
+
+•
+Server products and cloud services revenue increased 20% driven by Azure and other cloud services growth of 31%.
+
+•
+Windows original equipment manufacturer licensing (“Windows OEM”) revenue decreased 39%.
+
+•
+Windows Commercial products and cloud services revenue decreased 3%.
+
+•
+Xbox content and services revenue decreased 12%.
+
+•
+Search and news advertising revenue excluding traffic acquisition costs increased 10%.
+
+•
+Devices revenue decreased 39%.
+
+
+#### 31
+
+
+## Page 32
+
+
+### PART I
+
+
+#### Item 2
+
+
+#### Industry Trends
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the
+changing demands of customers and users, industry trends, and competitive forces.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers
+prefer evolve rapidly, and inﬂuence how users access services in the cloud, and in some cases, the user’s choice of which suite of cloud-based
+services to use. We must continue to evolve and adapt over an extended time in pace with this changing environment. The investments we are
+making in infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+
+Our success is highly dependent on our ability to attract and retain qualiﬁed employees. We hire a mix of university and industry talent worldwide.
+We compete for talented individuals globally by oﬀering an exceptional working environment, broad customer reach, scale in resources, the
+ability to grow one’s career across many diﬀerent products and businesses, and competitive compensation and beneﬁts. Aggregate demand for
+our software, services, and devices is correlated to global macroeconomic and geopolitical factors, which remain dynamic.
+
+Our devices are primarily manufactured by third-party contract manufacturers, some of which contain certain components for which there are very
+few qualiﬁed suppliers. For these components, we have limited near-term ﬂexibility to use other manufacturers if a current vendor becomes
+unavailable or is unable to meet our requirements. Extended disruptions at these suppliers and/or manufacturers could lead to a similar disruption
+in our ability to manufacture devices on time to meet consumer demand.
+
+Our international operations provide a signiﬁcant portion of our total revenue and expenses. Many of these revenue and expenses are
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may signiﬁcantly aﬀect revenue and
+expenses. Fluctuations in the U.S. dollar relative to certain foreign currencies reduced reported revenue and expenses from our international
+operations for the three and six months ended December 31, 2022.
+
+On January 18, 2023, we announced decisions we made to align our cost structure with our revenue and customer demand, prioritize our
+investments in strategic areas, and consolidate oﬃce space. As a result, we recorded a $1.2 billion charge in the second quarter of ﬁscal year
+2023 (“Q2 charge”), which included employee severance expenses of $800 million, impairment charges resulting from changes to our hardware
+portfolio, and costs related to lease consolidation activities. First, we are reducing our overall workforce by approximately 10,000 jobs through the
+third quarter of ﬁscal year 2023, which represents less than 5% of our total employee base. While we are eliminating roles in some areas, we will
+continue to hire in key strategic areas. Second, we are allocating both our capital and talent to areas of secular growth and long-term
+competitiveness, while divesting in other areas. Third, we are consolidating our leases to create higher density across our workspaces, which will
+also impact our financial results through the remainder of fiscal year 2023, and we may make similar decisions in future periods as we continue to
+evaluate our real estate needs.
+
+Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and other risks.
+
+
+#### Seasonality
+
+Our revenue ﬂuctuates quarterly and is generally higher in the second and fourth quarters of our ﬁscal year. Second quarter revenue is driven by
+corporate year-end spending trends in our major markets and holiday season spending by consumers, and fourth quarter revenue is driven by
+the volume of multi-year on-premises contracts executed during the period.
+
+
+#### 32

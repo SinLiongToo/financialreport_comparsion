@@ -1,8 +1,8 @@
-# Annual Report: APPLIED-MATERIALS_2020_Q3_10-Q
+# Financial Report: APPLIED-MATERIALS_2020_Q3_10-Q
 
 - **Source File**: `APPLIED-MATERIALS_2020_Q3_10-Q.pdf`
-- **Total Pages**: 77
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 77
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -4256,66 +4256,45 @@ amounts were outstanding under these revolving credit facilities.
 #### 25
 
 
-## Page 26
+## Page 55
 
-### Table 26.1
+### Table 55.1
 
-| Current portion of long-term debt: |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.625% Senior Notes Due 2020 | $ | — |  | $ | 600 |  | 2.640% |  | April 1, October 1 |
-| Total current portion of long-term debt | — |  |  | 600 |  |  |  |  |  |
-| Long-term debt, net of current portion: |  |  |  |  |  |  |  |  |  |
-| 4.300% Senior Notes Due 2021 | — |  |  | 750 |  |  | 4.326% |  | June 15, December 15 |
-| 3.900% Senior Notes Due 2025 | 700 |  |  | 700 |  |  | 3.944% |  | April 1, October 1 |
-| 3.300% Senior Notes Due 2027 | 1,200 |  |  | 1,200 |  |  | 3.342% |  | April 1, October 1 |
-| 1.750% Senior Notes Due 2030 | 750 |  |  | — |  |  | 1.792% |  | June 1, December 1 |
-| 5.100% Senior Notes Due 2035 | 500 |  |  | 500 |  |  | 5.127% |  | April 1, October 1 |
-| 5.850% Senior Notes Due 2041 | 600 |  |  | 600 |  |  | 5.879% |  | June 15, December 15 |
-| 4.350% Senior Notes Due 2047 | 1,000 |  |  | 1,000 |  |  | 4.361% |  | April 1, October 1 |
-| 2.750% Senior Notes Due 2050 | 750 |  |  | — |  |  | 2.773% |  | June 1, December 1 |
-|  | 5,500 |  |  | 4,750 |  |  |  |  |  |
-| Total unamortized discount | (15) |  |  | (10) |  |  |  |  |  |
-| Total unamortized debt issuance costs | (38) |  |  | (27) |  |  |  |  |  |
-| Total long-term debt, net of current portion | $ | 5,447 |  | $ | 4,713 |  |  |  |  |
-| Total debt | $ | 5,447 |  | $ | 5,313 |  |  |  |  |
+| Semiconductor Systems Non-GAAP Adjusted Operating Income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Reported operating income - GAAP basis |  | $ | 958 |  |  | $ | 613 |  |  | $ | 2,655 |  |  | $ | 1,823 |  |
+| Certain items associated with acquisitions1 |  | 9 |  |  |  | 11 |  |  |  | 29 |  |  |  | 32 |  |  |
+| Acquisition integration costs |  | 1 |  |  |  | — |  |  |  | 1 |  |  |  | — |  |  |
+| Certain incremental expenses related to COVID-192 |  | 14 |  |  |  | — |  |  |  | 20 |  |  |  | — |  |  |
+| Non-GAAP adjusted operating income |  | $ | 982 |  |  | $ | 624 |  |  | $ | 2,705 |  |  | $ | 1,855 |  |
+| Non-GAAP adjusted operating margin |  | 33.7 |  | % |  | 27.5 |  | % |  | 32.6 |  | % |  | 27.6 |  | % |
+| AGS Non-GAAP Adjusted Operating Income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Reported operating income - GAAP basis |  | $ | 273 |  |  | $ | 259 |  |  | $ | 807 |  |  | $ | 827 |  |
+| Certain incremental expenses related to COVID-192 |  | 4 |  |  |  | — |  |  |  | 8 |  |  |  | — |  |  |
+| Non-GAAP adjusted operating income |  | $ | 277 |  |  | $ | 259 |  |  | $ | 815 |  |  | $ | 827 |  |
+| Non-GAAP adjusted operating margin |  | 26.8 |  | % |  | 27.8 |  | % |  | 26.7 |  | % |  | 28.7 |  | % |
+| Display and Adjacent Markets Non-GAAP Adjusted Operating Income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Reported operating income - GAAP basis |  | $ | 83 |  |  | $ | 41 |  |  | $ | 196 |  |  | $ | 198 |  |
+| Certain items associated with acquisitions1 |  | 3 |  |  |  | 2 |  |  |  | 9 |  |  |  | 9 |  |  |
+| Acquisition integration costs |  | — |  |  |  | 1 |  |  |  | — |  |  |  | 1 |  |  |
+| Certain incremental expenses related to COVID-192 |  | 1 |  |  |  | — |  |  |  | 1 |  |  |  | — |  |  |
+| Non-GAAP adjusted operating income |  | $ | 87 |  |  | $ | 44 |  |  | $ | 206 |  |  | $ | 208 |  |
+| Non-GAAP adjusted operating margin |  | 20.5 |  | % |  | 13.0 |  | % |  | 18.4 |  | % |  | 17.4 |  | % |
 
+
+
+#### Table of Contents
+
+The following table presents a reconciliation of the GAAP and non-GAAP adjusted segment results:
 
 APPLIED MATERIALS, INC.
+UNAUDITED RECONCILIATION OF GAAP TO NON-GAAP ADJUSTED RESULTS
+
+Three Months Ended
+Nine Months Ended
 
 
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-
-#### Term Loan and Short-term Commercial Paper
-
-In August 2019, Applied entered into a term loan credit agreement with a group of lenders. Under the agreement, the lenders have
-committed to make an unsecured term loan to Applied of up to $2.0 billion to ﬁnance in part Applied’s planned acquisition of all outstanding
-shares of Kokusai Electric, to pay related transaction fees and expenses and for general corporate purposes. The commitments of the lenders to
-make the term loan will terminate if the transactions contemplated by the Share Purchase Agreement are not consummated on or before
-June 30, 2020 (Outside Date), which date may be extended by three months on two separate occasions if, on the applicable date, the only
-remaining conditions to closing relate to required regulatory approvals. Pursuant to the terms of the SPA, on June 30, 2020, the parties mutually
-extended the Outside Date to September 30, 2020. The term loan, if advanced, will bear interest at one of two rates selected by Applied, plus an
-applicable margin, which varies according to Applied’s public debt credit ratings, and must be repaid in full on the third anniversary of the funding
-date of the term loan. No amounts were outstanding under this term loan credit agreement at both July 26, 2020 and October 27, 2019.
-
-Applied has a short-term commercial paper program under which Applied may issue unsecured commercial paper notes of up to a total
-amount of $1.5 billion. At July 26, 2020 and October 27, 2019, Applied did not have any commercial paper outstanding.
-
-
-#### Senior Unsecured Notes
-
-In May 2020, Applied issued $ 750 million aggregate principal amount of 1.750% senior unsecured notes due 2030 and $ 750 million
-aggregate principal amount of 2.750% senior unsecured notes due 2050, in a registered public oﬀering. In June 2020, Applied used a portion of
-the net proceeds from the oﬀering to redeem the outstanding $600 million in aggregate principal amount of its 2.625% senior unsecured notes
-due October 1, 2020 and $750 million in aggregate principal amount of its 4.300% senior unsecured notes due June 15, 2021, at a total
-aggregate redemption price of $1.4 billion. As a result, Applied recognized a $33 million loss on early extinguishment of these senior unsecured
-notes.
-
-
-#### Debt outstanding as of July 26, 2020 and October 27, 2019 was as follows:
-
-
-#### Principal Amount
+#### (In millions, except percentages)
 
 
 #### July 26,
@@ -4324,666 +4303,302 @@ notes.
 #### 2020
 
 
-#### October 27,
+#### July 28,
 
 
 #### 2019
 
-Effective
-Interest Rate
 
-Interest
-Pay Dates
+#### July 26,
 
-(In millions)
- 
- 
-Current portion of long-term debt:
-2.625% Senior Notes Due 2020
+
+#### 2020
+
+
+#### July 28,
+
+
+#### 2019
+
+
+#### Semiconductor Systems Non-GAAP Adjusted Operating Income
+
+Reported operating income - GAAP basis
 $
-— 
+958 
 $
-600 
-2.640%
-April 1, October 1
-
-Total current portion of long-term debt
-— 
-600
-
-Long-term debt, net of current portion:
-4.300% Senior Notes Due 2021
-— 
-750 
-4.326%
-June 15, December 15
-3.900% Senior Notes Due 2025
-700 
-700 
-3.944%
-April 1, October 1
-3.300% Senior Notes Due 2027
-1,200 
-1,200 
-3.342%
-April 1, October 1
-1.750% Senior Notes Due 2030
-750 
-— 
-1.792%
-June 1, December 1
-5.100% Senior Notes Due 2035
-500 
-500 
-5.127%
-April 1, October 1
-5.850% Senior Notes Due 2041
-600 
-600 
-5.879%
-June 15, December 15
-4.350% Senior Notes Due 2047
-1,000 
-1,000 
-4.361%
-April 1, October 1
-2.750% Senior Notes Due 2050
-750 
-— 
-2.773%
-June 1, December 1
-
-5,500 
-4,750
-
-Total unamortized discount
-(15)
-(10)
-Total unamortized debt issuance costs
-(38)
-(27)
-
-Total long-term debt, net of current portion
+613 
 $
-5,447 
+2,655 
 $
-4,713
+1,823
 
-Total debt
-$
-5,447 
-$
-5,313
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| Operating lease cost | $17 |  | $51 |
-| --- | --- | --- | --- |
-| Weighted-average remaining lease term (in years) |  |  | 5.3 |
-| Weighted-average discount rate |  |  | 1.9% |
-
-
-### Table 27.2
-
-| Operating cash flows paid for operating leases | $ | 51 |
-| --- | --- | --- |
-| Right-of-use assets obtained in exchange for operating lease liabilities | $ | 142 |
-
-
-### Table 27.3
-
-| 2020 (remaining 3 months) | $ | 18 |
-| --- | --- | --- |
-| 2021 | 64 |  |
-| 2022 | 51 |  |
-| 2023 | 45 |  |
-| 2024 | 40 |  |
-| Thereafter | 55 |  |
-| Total lease payments | $ | 273 |
-| Less imputed interest | (14) |  |
-| Total | $ | 259 |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-
-#### Note 12      Leases
-
-A contract contains a lease when Applied has the right to control the use of an identiﬁed asset for a period of time in exchange for
-consideration. Applied leases certain facilities, vehicles and equipment under non-cancelable operating leases, many of which include options to
-renew. Options that are reasonably certain to be exercised are included in the calculation of the right-of-use asset and lease liability. Applied’s
-leases do not contain residual value guarantees or signiﬁcant restrictions that impact the accounting for leases. As implicit rates are not available
-for the leases, Applied uses the incremental borrowing rate as of the lease commencement date in order to measure the right-of-use asset and
-liability. Operating lease expense is generally recognized on a straight-line basis over the lease term.
-
-Applied elected the practical expedient to account for lease and non-lease components as a single lease component for all leases. For
-leases with a term of one year or less, Applied elected not to record a right-of-use asset or lease liability and to account for the associated lease
-payments as they become due.
-
-
-#### The components of lease expense and supplemental information were as follows:
-
-Three Months Ended
-Nine Months Ended
-
-July 26, 2020
-July 26, 2020
-
-(In millions, except percentages)
-Operating lease cost
-$17
-$51
-
-Weighted-average remaining lease term (in years)
-5.3
-
-Weighted-average discount rate
-1.9%
-
-
-#### Supplemental cash flow information related to leases are as follows:
-
-
-#### Nine Months Ended
-
-
-#### July 26, 2020
-
-(In millions)
-Operating cash flows paid for operating leases
-$
-51
-
-Right-of-use assets obtained in exchange for operating lease liabilities
-$
-142
-
-
-#### As of July 26, 2020, the maturities of lease liabilities are as follows:
-
-
-#### Operating Leases
-
-Fiscal
-(In millions)
-2020 (remaining 3 months)
-$
-18
-
-2021
-64
-
-2022
-51
-
-2023
-45
-
-2024
-40
-
-Thereafter
-55
-
-Total lease payments
-$
-273
-
-Less imputed interest
-(14)
-
-Total
-$
-259
-
-
-#### 27
-
-
-## Page 28
-
-### Table 28.1
-
-| 2020 | $ | 45 |  |
-| --- | --- | --- | --- |
-| 2021 | 34 |  |  |
-| 2022 | 24 |  |  |
-| 2023 | 21 |  |  |
-| 2024 | 17 |  |  |
-| Thereafter | 30 |  |  |
-|  | $ | 171 |  |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-Prior to the adoption of the new lease standard, future minimum lease payments as of October 27, 2019, as deﬁned under the previous
-lease accounting guidance, were as follows:
-
-
-#### Lease Payments
-
-Fiscal
-(In millions)
-2020
-$
-45
-
-2021
-34
-
-2022
-24
-
-2023
-21
-
-2024
-17
-
-Thereafter
-30
-
-$
-171
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Balance as of October 27, 2019 | $ | 11 |  | $ | (16) |  | $ | (188) |  | $ | 13 |  | $ | (180) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Other comprehensive income (loss) before reclassifications | 19 |  |  | (109) |  |  | — |  |  | — |  |  | (90) |  |
-| Amounts reclassified out of AOCI | (6) |  |  | (1) |  |  | — |  |  | — |  |  | (7) |  |
-| Other comprehensive income (loss), net of tax | 13 |  |  | (110) |  |  | — |  |  | — |  |  | (97) |  |
-| Balance as of July 26, 2020 | $ | 24 |  | $ | (126) |  | $ | (188) |  | $ | 13 |  | $ | (277) |
-
-
-### Table 29.2
-
-| Balance as of October 28, 2018 | $ | 7 |  | $ | (9) |  | $ | (137) |  | $ | 14 |  | $ | (125) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adoption of new accounting standards (a) | (17) |  |  | — |  |  | — |  |  | — |  |  | (17) |  |
-| Other comprehensive income (loss) before reclassifications | 19 |  |  | (13) |  |  | — |  |  | (1) |  |  | 5 |  |
-| Other comprehensive income (loss), net of tax | 19 |  |  | (13) |  |  | — |  |  | (1) |  |  | 5 |  |
-| Balance as of July 28, 2019 | $ | 9 |  | $ | (22) |  | $ | (137) |  | $ | 13 |  | $ | (137) |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-Note 13      Stockholders’ Equity, Comprehensive Income and Share-Based Compensation
-
-
-#### Accumulated Other Comprehensive Income (Loss)
-
-
-#### Changes in the components of AOCI, net of tax, were as follows:
-
-
-#### Unrealized Gain
-
-(Loss) on
-Investments, Net
-
-Unrealized
-Gain (Loss) on
-
-Derivative
-Instruments
-Qualifying as
-
-
-#### Cash Flow
-
-
-#### Hedges
-
-Defined and
-Postretirement
-
-
-#### Benefit Plans
-
-Cumulative
-Translation
-Adjustments
-Total
-
-
-#### (in millions)
-
-Balance as of October 27, 2019
-$
-11 
-$
-(16)
-$
-(188)
-$
-13 
-$
-(180)
-
-Other comprehensive income (loss) before reclassifications
-19 
-(109)
-— 
-— 
-(90)
-
-Amounts reclassified out of AOCI
-(6)
-(1)
-— 
-— 
-(7)
-
-Other comprehensive income (loss), net of tax
-13 
-(110)
-— 
-— 
-(97)
-
-Balance as of July 26, 2020
-$
-24 
-$
-(126)
-$
-(188)
-$
-13 
-$
-(277)
-
-
-#### Unrealized Gain
-
-(Loss) on
-Investments, Net
-
-Unrealized
-Gain (Loss) on
-
-Derivative
-Instruments
-Qualifying as
-
-
-#### Cash Flow
-
-
-#### Hedges
-
-Defined and
-Postretirement
-
-
-#### Benefit Plans
-
-Cumulative
-Translation
-Adjustments
-Total
-
-
-#### (in millions)
-
-Balance as of October 28, 2018
-$
-7 
-$
-(9)
-$
-(137)
-$
-14 
-$
-(125)
-
-Adoption of new accounting standards (a)
-(17)
-— 
-— 
-— 
-(17)
-
-Other comprehensive income (loss) before reclassifications
-19 
-(13)
-— 
-(1)
-5
-
-Other comprehensive income (loss), net of tax
-19 
-(13)
-— 
-(1)
-5
-
-Balance as of July 28, 2019
-$
+Certain items associated with acquisitions1
 9 
+11 
+29 
+32
+
+Acquisition integration costs
+1 
+— 
+1 
+—
+
+Certain incremental expenses related to COVID-192
+14 
+— 
+20 
+—
+
+Non-GAAP adjusted operating income
 $
-(22)
+982 
 $
-(137)
+624 
 $
-13 
+2,705 
 $
-(137)
+1,855
 
-(a) - Represents the reclassiﬁcation adjustment related to the adoption of Accounting Standard Update (ASU) 2016-01 Financial Instruments-Overall (Subtopic 825-10):
-Recognition and Measurement of Financial Assets and Financial Liabilities in the first quarter of fiscal 2019.
-
-The tax eﬀects on the unrealized loss on derivative instruments qualifying as cash ﬂow hedges for the nine months ended July 26, 2020 was
-$32 million. The tax eﬀects on net income of amounts reclassiﬁed from AOCI for the three and nine months ended July 26, 2020 and July 28,
-2019 were not material.
-
-
-#### 29
+Non-GAAP adjusted operating margin
+33.7 %
+27.5 %
+32.6 %
+27.6 %
 
 
-## Page 30
+#### AGS Non-GAAP Adjusted Operating Income
 
-### Table 30.1
+Reported operating income - GAAP basis
+$
+273 
+$
+259 
+$
+807 
+$
+827
 
-| Shares of common stock repurchased | 4 |  | 12 |  |  | 11 |  |  | 50 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of stock repurchased | $ | 200 | $ | 528 |  | $ | 599 |  | $ | 1,903 |
-| Average price paid per share | $ | 59.41 | $ | 42.07 |  | $ | 55.74 |  | $ | 37.88 |
-
-
-### Table 30.2
-
-| Cost of products sold | $ | 24 |  | $ | 23 |  | $ | 79 |  | $ | 67 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Research, development and engineering | 27 |  |  | 25 |  |  | 89 |  |  | 74 |  |
-| Marketing and selling | 8 |  |  | 8 |  |  | 27 |  |  | 23 |  |
-| General and administrative | 11 |  |  | 11 |  |  | 39 |  |  | 33 |  |
-| Total share-based compensation | $ | 70 |  | $ | 67 |  | $ | 234 |  | $ | 197 |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-
-#### Stock Repurchase Program
-
-In February 2018, the Board of Directors approved a common stock repurchase program authorizing up to an aggregate of $ 6.0 billion in
-repurchases. As of July 26, 2020, approximately $1.3 billion remained available for future stock repurchases under this repurchase program.
-
-The following table summarizes Applied’s stock repurchases for the three and nine months ended July 26, 2020 and July 28, 2019:
-
-Three Months Ended
-Nine Months Ended
-
-
-#### July 26,
-
-
-#### 2020
-
-
-#### July 28,
-
-
-#### 2019
-
-
-#### July 26,
-
-
-#### 2020
-
-
-#### July 28,
-
-
-#### 2019
-
-(in millions, except per share amount)
-Shares of common stock repurchased
+Certain incremental expenses related to COVID-192
 4 
-12 
-11 
-50
-
-Cost of stock repurchased
-$
-200 
-$
-528 
-$
-599 
-$
-1,903
-
-Average price paid per share
-$
-59.41 
-$
-42.07 
-$
-55.74 
-$
-37.88
-
-Applied records treasury stock purchases under the cost method using the ﬁrst-in, ﬁrst-out (FIFO) method. Upon reissuance of treasury
-stock, amounts in excess of the acquisition cost are credited to additional paid in capital. If Applied reissues treasury stock at an amount below its
-acquisition cost and additional paid in capital associated with prior treasury stock transactions is insuﬃcient to cover the diﬀerence between the
-acquisition cost and the reissue price, this difference is recorded against retained earnings.
-
-
-#### Dividends
-
-In June 2020, March 2020 and December 2019, Applied’s Board of Directors declared quarterly cash dividends, in the amount of $ 0.22,
-$0.22 and $0.21 per share, respectively. The dividend declared in June 2020 is payable in September 2020. Dividends paid during the nine
-months ended July 26, 2020 and July 28, 2019 totaled $587 million and $577 million, respectively. Applied currently anticipates that cash
-dividends will continue to be paid on a quarterly basis, although the declaration of any future cash dividend is at the discretion of the Board of
-Directors and will depend on Applied’s ﬁnancial condition, results of operations, capital requirements, business conditions and other factors, as
-well as a determination by the Board of Directors that cash dividends are in the best interests of Applied’s stockholders.
-
-
-#### Share-Based Compensation
-
-Applied has a stockholder-approved equity plan, the Employee Stock Incentive Plan, which permits grants to employees of share-based
-awards, including stock options, restricted stock, restricted stock units, performance shares and performance units. In addition, the plan provides
-for the automatic grant of restricted stock units to non-employee directors and permits the grant of share-based awards to non-employee directors
-and consultants. Share-based awards made under the plan may be subject to accelerated vesting under certain circumstances in the event of a
-change in control of Applied. Applied also has two Employee Stock Purchase Plans, one generally for United States employees and a second for
-employees of international subsidiaries (collectively, ESPP), which enable eligible employees to purchase Applied common stock.
-
-During the three and nine months ended July 26, 2020 and July 28, 2019, Applied recognized share-based compensation expense related
-equity awards and ESPP shares. The effect of share-based compensation on the results of operations was as follows:
-
-Three Months Ended
-Nine Months Ended
-
-
-#### July 26,
-
-
-#### 2020
-
-
-#### July 28,
-
-
-#### 2019
-
-
-#### July 26,
-
-
-#### 2020
-
-
-#### July 28,
-
-
-#### 2019
-
-(In millions)
-Cost of products sold
-$
-24 
-$
-23 
-$
-79 
-$
-67
-
-Research, development and engineering
-27 
-25 
-89 
-74
-
-Marketing and selling
+— 
 8 
-8 
-27 
-23
+—
 
-General and administrative
-11 
-11 
-39 
-33
+Non-GAAP adjusted operating income
+$
+277 
+$
+259 
+$
+815 
+$
+827
 
-Total share-based compensation
+Non-GAAP adjusted operating margin
+26.8 %
+27.8 %
+26.7 %
+28.7 %
+Display and Adjacent Markets Non-GAAP Adjusted Operating Income
+
+Reported operating income - GAAP basis
 $
-70 
+83 
 $
-67 
+41 
 $
-234 
+196 
 $
-197
+198
+
+Certain items associated with acquisitions1
+3 
+2 
+9 
+9
+
+Acquisition integration costs
+— 
+1 
+— 
+1
+
+Certain incremental expenses related to COVID-192
+1 
+— 
+1 
+—
+
+Non-GAAP adjusted operating income
+$
+87 
+$
+44 
+$
+206 
+$
+208
+
+Non-GAAP adjusted operating margin
+20.5 %
+13.0 %
+18.4 %
+17.4 %
+
+1 
+These items are incremental charges attributable to completed acquisitions, consisting of amortization of purchased intangible assets.
+
+2
+Temporary incremental employee compensation during the COVID-19 pandemic.
+
+Note: The reconciliation of GAAP and non-GAAP adjusted segment results above does not include certain revenues, costs of products sold and
+operating expenses that are reported within corporate and other and included in consolidated operating income.
 
 
-#### 30
+#### 55
+
+
+## Page 56
+
+
+#### Table of Contents
+
+
+#### Item 3:      Quantitative and Qualitative Disclosures About Market Risk
+
+Applied is exposed to interest rate risk related to its investment portfolio and debt issuances. Applied’s investment portfolio includes ﬁxed-
+income securities with a fair value of approximately $1.8 billion as of July 26, 2020. These securities are subject to interest rate risk and will
+decline in value if interest rates increase. Based on Applied’s investment portfolio as of July 26, 2020, an immediate 100 basis point increase in
+interest rates would result in a decrease in the fair value of the portfolio of approximately $24 million. While an increase in interest rates reduces
+the fair value of the investment portfolio, Applied will not realize the losses in the consolidated statement of operations unless the individual ﬁxed-
+income securities are sold prior to recovery or the loss is determined to be other-than-temporary. As of July 26, 2020, the aggregate principal of
+long-term senior notes issued by Applied was $5.5 billion with an estimated fair value of $6.9 billion. A hypothetical decrease in interest rates of
+100 basis points would result in an increase in the fair value of Applied’s long-term senior notes issuances of approximately $858 million as of
+July 26, 2020.
+
+Certain operations of Applied are conducted in foreign currencies, such as Japanese yen, euro, Israeli shekel and Taiwanese dollar. Applied
+enters into currency forward exchange and option contracts to hedge a portion of, but not all, existing and anticipated foreign currency
+denominated transactions generally expected to occur within the next 24 months. Gains and losses on these contracts are generally recognized in
+income at the time that the related transactions being hedged are recognized. Because the eﬀect of movements in currency exchange rates on
+currency forward exchange and option contracts generally oﬀsets the related eﬀect on the underlying items being hedged, these ﬁnancial
+instruments are not expected to subject Applied to risks that would otherwise result from changes in currency exchange rates. Applied does not
+use derivative financial instruments for trading or speculative purposes.
+
+
+#### Item 4.    Controls and Procedures
+
+
+#### Disclosure Controls and Procedures
+
+As of the end of the period covered by this report, management of Applied conducted an evaluation, under the supervision and with the
+participation of Applied’s Chief Executive Oﬃcer and Chief Financial Oﬃcer, of the eﬀectiveness of Applied’s disclosure controls and procedures,
+as such term is defined in Rule 13a-15(e) of the Securities Exchange Act of 1934 (the Exchange Act). Based upon that evaluation, Applied’s Chief
+Executive Oﬃcer and Chief Financial Oﬃcer concluded that Applied’s disclosure controls and procedures were eﬀective as of the end of the
+period covered by this report in ensuring that information required to be disclosed was recorded, processed, summarized and reported within the
+time periods speciﬁed in the SEC’s rules and forms, and to provide reasonable assurance that information required to be disclosed by Applied in
+such reports is accumulated and communicated to the Company’s management, including its Chief Executive Oﬃcer and Chief Financial Oﬃcer,
+as appropriate to allow timely decisions regarding required disclosure.
+
+
+#### Changes in Internal Control Over Financial Reporting
+
+Due to the COVID-19 pandemic, portions of Applied’s employees worldwide are working remotely, with some of them under shelter-in-place
+orders and other restrictions. Business continuity plans are in eﬀect in order to mitigate potential impact on Applied’s control environment and its
+operating and disclosure controls and procedures. The design of business continuity plans, which include remote access to secure data when
+needed, allow for remote and reliable execution of Applied’s operating and disclosure controls and procedures.
+
+Applied evaluated the impact of the COVID-19 pandemic on its internal control over ﬁnancial reporting. During the third quarter of ﬁscal
+2020, there were no changes in the internal control over ﬁnancial reporting, as such term is deﬁned in Rule 13a-15(f) of the Exchange Act, that
+materially affected, or are reasonably likely to materially affect, Applied’s internal control over financial reporting.
+
+It should be noted that any system of controls, however well designed and operated, can provide only reasonable, and not absolute,
+assurance that the objectives of the system will be met. In addition, the design of any control system is based in part upon certain assumptions
+about the likelihood of future events.
+
+
+#### 56
+
+
+## Page 57
+
+
+#### Table of Contents
+
+
+### PART II. OTHER INFORMATION
+
+
+#### Item 1.      Legal Proceedings
+
+The information set forth under “Legal Matters” in Note 15 in Notes to Consolidated Condensed Financial Statements is incorporated herein
+by reference.
+
+
+#### 57
+
+
+## Page 58
+
+### Table 58.1
+
+|  | and the global economy will |
+| --- | --- |
+| depend on future developments beyond our control, which are highly uncertain and difficult to predict, including the severity and duration of the |  |
+| pandemic, the extent and effectiveness of containment actions, availability of effective vaccines against COVID-19, effectiveness of government |  |
+| stimulus programs, resurgence of COVID-19, how quickly and to what extent normal economic and operating activity can resume, and the |  |
+| severity and duration of the global economic downturn that results from the pandemic. |  |
+
+
+
+#### Table of Contents
+
+
+#### Item 1A:      Risk Factors
+
+The risk factors set forth below include any material changes to, and supersede the description of, the risk factors disclosed in Part I,
+Item 1A of Applied’s 2019 Form 10-K. These factors could materially and adversely aﬀect Applied’s business, ﬁnancial condition or results of
+operations and cause reputational harm, and should be carefully considered in evaluating the Company and its business, in addition to other
+information presented elsewhere in this report. Many of the risk factors described below may be exacerbated by the COVID-19 pandemic and
+global measures taken in response thereto and any worsening of the global business and economic conditions as a result.
+
+The COVID-19 pandemic and global measures taken in response thereto have adversely impacted, and may continue to adversely
+impact, Applied’s operations and financial results.
+
+The COVID-19 pandemic and measures taken in response by governments and businesses worldwide to contain its spread, including
+quarantines, facility closures, travel and logistics restrictions, border controls, and shelter in place or stay at home and social distancing orders,
+have adversely impacted and may further adversely impact Applied’s supply chain, manufacturing, logistics, workforce and operations in Asia and
+other parts of the world, and the operations of Applied’s customers, suppliers and partners in California, Malaysia and other parts of the world.
+There is considerable uncertainty regarding the duration, scope and severity of the pandemic and the impacts on our business and the global
+economy from the eﬀects of the pandemic and response measures. While Applied continues to see progress in the recovery within its supply
+chain, travel and logistics restrictions, shelter-in-place orders and other measures, including working remotely, social distancing and other policies
+implemented in foreign and domestic sites to protect the health and safety of employees, have resulted in, and are expected to continue to result
+in, transportation disruptions (such as reduced availability of air transport, port closures, and increased border controls or closures), production
+delays and capacity limitations at Applied and some of its customers, suppliers and partners, as well as reduced workforce availability and loss of
+employee productivity at Applied and customer sites. There can be no assurance that Applied or its suppliers will be able to maintain
+manufacturing operations at current levels. In addition, the pandemic and the impact of the foregoing measures in various forms and in varying
+degrees have had, and may continue to have a signiﬁcant impact on the global economic activity and could also result in reduced demand for our
+products, delayed deliveries, cancelled orders or increase in logistics and operating costs, and materially adversely aﬀect Applied’s business,
+financial condition and results of operations.
+
+The degree to which the pandemic ultimately impacts Applied’s ﬁnancial condition and results of operations  and the global economy will
+depend on future developments beyond our control, which are highly uncertain and diﬃcult to predict, including the severity and duration of the
+pandemic, the extent and eﬀectiveness of containment actions, availability of eﬀective vaccines against COVID-19, eﬀectiveness of government
+stimulus programs, resurgence of COVID-19, how quickly and to what extent normal economic and operating activity can resume, and the
+severity and duration of the global economic downturn that results from the pandemic.
+
+The industries that Applied serves can be volatile and difficult to predict.
+
+As a supplier to the global semiconductor and display and related industries, Applied is subject to variable industry conditions, since
+demand for manufacturing equipment and services can change depending on several factors, including the nature and timing of technology
+inﬂections and advances in fabrication processes, the timing and requirements of new and emerging technologies and market drivers, production
+capacity relative to demand for chips and display technologies, end-user demand, customers’ capacity utilization, production volumes, access to
+aﬀordable capital, consumer buying patterns and general economic conditions. Applied’s industries historically have been cyclical, and are
+subject to volatility and sudden changes in customer requirements for new manufacturing capacity and advanced technology. These changes can
+aﬀect the timing and amounts of customer investments in technology and manufacturing equipment and can have a signiﬁcant impact on
+Applied’s net sales, operating expenses, gross margins and net income. The amount and mix of capital equipment spending between diﬀerent
+products and technologies can have a significant impact on the Company’s results of operations.
+
+
+#### 58

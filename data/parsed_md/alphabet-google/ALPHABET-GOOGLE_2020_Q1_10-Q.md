@@ -1,8 +1,8 @@
-# Annual Report: ALPHABET-GOOGLE_2020_Q1_10-Q
+# Financial Report: ALPHABET-GOOGLE_2020_Q1_10-Q
 
 - **Source File**: `ALPHABET-GOOGLE_2020_Q1_10-Q.pdf`
-- **Total Pages**: 69
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 69
+- **Parsed Key Pages**: 37 (37 selected sections)
 
 ---
 
@@ -4299,135 +4299,6 @@ As of March 31, 2020, we did not have any material indemnification claims that w
 #### 24
 
 
-## Page 27
-
-Table of Contents
-Alphabet In
-
-
-#### Legal Matters
-
-
-#### Antitrust Investigations
-
-On November 30, 2010, the EC's Directorate General for Competition opened an investigation into various antitrust-related complaints against
-us.
-
-On June 27, 2017, the EC announced its decision that certain actions taken by Google regarding its display and ranking of shopping search
-results and ads infringed European competition law. The EC decision imposed a €2.4 billion ($2.7 billion as of June 27, 2017) ﬁne. On September
-11, 2017, we appealed the EC decision and on September 27, 2017, we implemented product changes to bring shopping ads into compliance with
-the EC's decision. We recognized a charge of $2.7 billion for the fine in the second quarter of 2017.
-
-On July 18, 2018, the EC announced its decision that certain provisions in Google’s Android-related distribution agreements infringed
-European competition law. The EC decision imposed a €4.3 billion ($5.1 billion as of June 30, 2018) ﬁne and directed the termination of the conduct
-at issue. On October 9, 2018, we appealed the EC decision. On October 29, 2018, we implemented changes to certain of our Android distribution
-practices. We recognized a charge of $5.1 billion for the fine in the second quarter of 2018.
-
-On March 20, 2019, the EC announced its decision that certain contractual provisions in agreements that Google had with AdSense for Search
-partners infringed European competition law. The EC decision imposed a ﬁne of €1.5 billion ($1.7 billion as of March 20, 2019) and directed actions
-related to AdSense for Search partners' agreements, which we implemented prior to the decision. On June 4, 2019, we appealed the EC decision.
-We recognized a charge of $1.7 billion for the fine in the first quarter of 2019.
-
-While each EC decision is under appeal, we included the ﬁnes in accrued expenses and other current liabilities on our Consolidated Balance
-Sheets as we provided bank guarantees (in lieu of a cash payment) for the fines.
-
-From time to time we are subject to formal and informal inquiries and investigations by competition authorities in the United States, Europe, and
-other jurisdictions. For example, in August 2019, we began receiving civil investigative demands from the U.S. Department of Justice requesting
-information and documents relating to our prior antitrust investigations and certain of our business practices. Attorneys general from 51 U.S. states
-and territories have also opened antitrust investigations into certain of our business practices. We continue to cooperate with federal and state
-regulators in the United States, and other regulators around the world.
-
-
-#### Patent and Intellectual Property Claims
-
-We have had patent, copyright, trade secret, and trademark infringement lawsuits filed against us claiming that certain of our products, services,
-and technologies infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary damages,
-costly royalty or licensing agreements, or orders preventing us from oﬀering certain features, functionalities, products, or services. As a result, we
-may have to change our business practices, and develop non-infringing products or technologies, which could result in a loss of revenues for us and
-otherwise harm our business. In addition, the U.S. International Trade Commission ("ITC") has increasingly become an important forum to litigate
-intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing infringing products into the U.S.
-Because the U.S. is an important market, a prohibition on importation could have an adverse eﬀect on us, including preventing us from importing
-many important products into the U.S. or necessitating workarounds that may limit certain features of our products.
-
-Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property
-infringement claims, which would increase our costs as a result of defending such claims, and may require that we pay signiﬁcant damages if there
-were an adverse ruling in any such claims. In addition, our customers and partners may discontinue the use of our products, services, and
-technologies, as a result of injunctions or otherwise, which could result in loss of revenues and adversely affect our business.
-
-In 2010, Oracle America, Inc. ("Oracle") brought a copyright lawsuit against Google in the Northern District of California, alleging that Google's
-Android operating system infringes Oracle's copyrights related to certain Java application programming interfaces. After trial, ﬁnal judgment was
-entered by the district court in favor of Google on June 8, 2016, and the court decided post-trial motions in favor of Google. Oracle appealed and on
-March 27, 2018, the appeals court reversed and remanded the case for a trial on damages. On May 29, 2018, we ﬁled a petition for a rehearing at
-the Federal Circuit, and on August 28, 2018, the Federal Circuit denied the petition. On January 24, 2019, we ﬁled a petition to the Supreme Court of
-the United States to review this case. On April 29, 2019, the Supreme Court requested the views of the Solicitor General regarding our petition. On
-September 27, 2019, the Solicitor General recommended denying our petition, and we provided our response on October 16, 2019. On November
-15, 2019, the Supreme Court granted our petition and made a decision to review the case. If the
-
-
-#### 25
-
-
-## Page 28
-
-Table of Contents
-Alphabet In
-
-Supreme Court does not rule in our favor, the case will be remanded to the district court for further determination of the remaining issues in the case,
-including damages, if any. We believe this lawsuit is without merit and are defending ourselves vigorously. Given the nature of this case, we are
-unable to estimate the reasonably possible loss or range of loss, if any, arising from this matter.
-
-
-#### Other
-
-We are also regularly subject to claims, suits, regulatory and government investigations, and other proceedings involving competition,
-intellectual property, privacy, tax and related compliance, labor and employment, commercial disputes, content generated by our users, goods and
-services oﬀered by advertisers or publishers using our platforms, personal injury, consumer protection, and other matters. Such claims, suits,
-regulatory and government investigations, and other proceedings could result in fines, civil or criminal penalties, or other adverse consequences.
-
-Certain of these outstanding matters include speculative, substantial or indeterminate monetary amounts. We record a liability when we believe
-that it is probable that a loss has been incurred and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and
-the loss or range of loss can be estimated, we disclose the reasonably possible loss. We evaluate developments in our legal matters that could
-aﬀect the amount of liability that has been previously accrued, and the matters and related reasonably possible losses disclosed, and make
-adjustments as appropriate. Significant judgment is required to determine both likelihood of there being and the estimated amount of a loss related to
-such matters.
-
-With respect to our outstanding matters, based on our current knowledge, we believe that the amount or range of reasonably possible loss will
-not, either individually or in aggregate, have a material adverse eﬀect on our business, consolidated ﬁnancial position, results of operations, or cash
-flows. However, the outcome of such matters is inherently unpredictable and subject to significant uncertainties.
-
-We expense legal fees in the period in which they are incurred.
-
-
-#### Non-Income Taxes
-
-We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non-income
-tax audits primarily arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these jurisdictions and
-the tax treatment of certain employee beneﬁts. We accrue non-income taxes that may result from examinations by, or any negotiated agreements
-with, these tax authorities when a loss is probable and reasonably estimable. If we determine that a loss is reasonably possible and the loss or range
-of loss can be estimated, we disclose the reasonably possible loss. We believe these matters are without merit and we are defending ourselves
-vigorously. Due to the inherent complexity and uncertainty of these matters and judicial process in certain jurisdictions, the ﬁnal outcome may be
-materially different from our expectations.
-
-For information regarding income tax contingencies, see Note 14.
-
-
-#### Note 11. Stockholders' Equity
-
-
-#### Share Repurchases
-
-In July 2019, the board of directors of Alphabet authorized the company to repurchase up to $ 25.0 billion of its Class C capital stock. The
-repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through
-open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an
-expiration date.
-
-During the three months ended March 31, 2020, we repurchased and subsequently retired 6.5 million shares of Alphabet Class C capital stock
-for an aggregate amount of $8.5 billion.
-
-
-#### 26
-
-
 ## Page 29
 
 ### Table 29.1
@@ -4755,3 +4626,1095 @@ information.
 
 
 #### 28
+
+
+## Page 31
+
+### Table 31.1
+
+|  |  |  |  | 2020 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Revenues: |  |  |  |  |  |  |
+| Google | $ 36,032 |  |  | $ | 40,975 |  |
+| Other Bets | 170 |  |  | 135 |  |  |
+| Hedging gains (losses) | 137 |  |  | 49 |  |  |
+| Total revenues | $ 36,339 |  |  | $ | 41,159 |  |
+
+
+### Table 31.2
+
+|  |  |  |  | 2020 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Operating income (loss): |  |  |  |  |  |  |
+| Google | $ 9,188 |  |  | $ | 9,270 |  |
+| Other Bets | (868) |  |  | (1,121) |  |  |
+| Reconciling items(1) | (1,712) |  |  | (172) |  |  |
+| Total income from operations | $ 6,608 |  |  | $ | 7,977 |  |
+
+
+### Table 31.3
+
+|  |  |  |  | 2020 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Capital expenditures: |  |  |  |  |  |  |
+| Google | $ 4,534 |  |  | $ | 5,663 |  |
+| Other Bets | 59 |  |  | 104 |  |  |
+| Reconciling items(2) | 45 |  |  | 238 |  |  |
+| Total capital expenditures as presented on the Consolidated Statements of Cash Flows | $ 4,638 |  |  | $ | 6,005 |  |
+
+
+Table of Contents
+Alphabet In
+
+Information about segments during the periods presented were as follows (in millions, unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Revenues:
+
+Google
+$
+36,032  
+$
+40,975
+
+Other Bets
+170  
+135
+
+Hedging gains (losses)
+137  
+49
+
+Total revenues
+$
+36,339  
+$
+41,159
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Operating income (loss):
+
+Google
+$
+9,188  
+$
+9,270
+
+Other Bets
+(868)  
+(1,121)  
+Reconciling items(1)
+(1,712)  
+(172)
+
+Total income from operations
+$
+6,608  
+$
+7,977
+
+(1) Reconciling items are generally comprised of corporate administrative costs, hedging gains (losses) and other miscellaneous items that are not allocated to
+
+individual segments. Reconciling items include the EC fine for the three months ended March 31, 2019.
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Capital expenditures:
+
+Google
+$
+4,534  
+$
+5,663
+
+Other Bets
+59  
+104  
+Reconciling items(2)
+45  
+238
+
+Total capital expenditures as presented on the Consolidated Statements of Cash Flows
+$
+4,638  
+$
+6,005
+
+(2) Reconciling items are related to timing diﬀerences of payments as segment capital expenditures are on accrual basis while total capital expenditures shown on
+
+the Consolidated Statements of Cash Flow are on cash basis and other miscellaneous differences.
+
+
+#### 29
+
+
+## Page 32
+
+### Table 32.1
+
+| Stock-based compensation: |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Google | $ | 2,612 |  |  | $ | 2,988 |  |
+| Other Bets | 123 |  |  |  | 135 |  |  |
+| Reconciling items(3) | 34 |  |  |  | 67 |  |  |
+| Total stock-based compensation(4) | $ | 2,769 |  |  | $ | 3,190 |  |
+| Depreciation, amortization, and impairment: |  |  |  |  |  |  |  |
+| Google | $ | 2,529 |  |  | $ | 3,013 |  |
+| Other Bets | 84 |  |  |  | 92 |  |  |
+| Reconciling items(3) | 0 |  |  |  | 3 |  |  |
+| Total depreciation, amortization, and impairment | $ | 2,613 |  |  | $ | 3,108 |  |
+
+
+### Table 32.2
+
+| Long-lived assets: |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | $ | 96,216 |  |
+| International | 28,424 |  |  |  | 30,169 |  |  |
+| Total long-lived assets | $ | 123,331 |  |  | $ | 126,385 |  |
+
+
+Table of Contents
+Alphabet In
+
+Stock-based compensation and depreciation, amortization, and impairment are included in segment operating income (loss) as shown below (in
+millions, unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Stock-based compensation:
+
+Google
+$
+2,612  
+$
+2,988
+
+Other Bets
+123  
+135  
+Reconciling items(3)
+34  
+67  
+Total stock-based compensation(4)
+$
+2,769  
+$
+3,190
+
+
+#### Depreciation, amortization, and impairment:
+
+Google
+$
+2,529  
+$
+3,013
+
+Other Bets
+84  
+92  
+Reconciling items(3)
+0  
+3
+
+Total depreciation, amortization, and impairment
+$
+2,613  
+$
+3,108
+
+(3) Reconciling items relate to corporate administrative and other costs that are not allocated to individual segments.
+(4) For purposes of segment reporting, SBC represents awards that we expect to settle in Alphabet stock.
+
+The following table presents our long-lived assets by geographic area (in millions):
+
+As of 
+December 31, 2019
+
+As of
+March 31, 2020
+
+(unaudited)
+Long-lived assets:
+
+United States
+$
+94,907  
+$
+96,216
+
+International
+28,424  
+30,169
+
+Total long-lived assets
+$
+123,331  
+$
+126,385
+
+For revenues by geography, see Note 2.
+
+
+#### 30
+
+
+## Page 33
+
+Table of Contents
+Alphabet In
+
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Please read the following discussion and analysis of our ﬁnancial condition and results of operations together with our consolidated ﬁnancial
+statements and related notes included under Part I, Item 1 of this Quarterly Report on Form 10-Q.
+
+
+#### Executive Overview of Results
+
+Below are our key financial results for the three months ended March 31, 2020 (consolidated unless otherwise noted):
+
+•
+Revenues of $41.2 billion and revenue growth of 13% year over year, constant currency revenue growth of 15% year over year.
+•
+Google segment revenues of $41.0 billion with revenue growth of 14% year over year and Other Bets revenues of $135 million with a
+decrease of 21% year over year.
+
+•
+Revenues from the United States, EMEA, APAC, and Other Americas were $18.9 billion, $12.8 billion, $7.2 billion, and $2.2 billion,
+respectively.
+
+•
+Cost of revenues was $19.0 billion, consisting of TAC of $7.5 billion and other cost of revenues of $11.5 billion. TAC as a percentage of
+advertising revenues ("TAC rate") was 22.1%.
+
+•
+Operating expenses (excluding cost of revenues) were $14.2 billion.
+
+•
+Income from operations was $8.0 billion.
+
+•
+Other income (expense), net, was a loss of $220 million.
+
+•
+Effective tax rate was 11.9%.
+
+•
+Net income was $6.8 billion with diluted net income per share of $9.87.
+
+•
+Operating cash flow was $11.5 billion.
+
+•
+Capital expenditures were $6.0 billion.
+
+•
+Number of employees was 123,048 as of March 31, 2020. The majority of new hires during the quarter were engineers and product
+managers. By product area, the largest headcount additions were in Google Cloud and Search.
+
+
+#### The Impact of COVID-19 on our Results and Operations
+
+In late 2019, an outbreak of COVID-19 emerged and by March 11, 2020 was declared a global pandemic by The World Health Organization.
+Across the United States and the world, governments and municipalities instituted measures in an eﬀort to control the spread of COVID-19, including
+quarantines, shelter-in-place orders, school closings, travel restrictions and the closure of non-essential businesses. By the end of March, the
+macroeconomic impacts became significant, exhibited by, among other things, a rise in unemployment and market volatility.
+
+For most of the quarter ended March 31, 2020, our results reﬂect historical trends and seasonality. However, in March 2020 we experienced a
+decline in advertising revenues due to the impact of COVID-19 and the related reductions in global economic activity. While users’ search activity
+increased, their interests shifted to less commercial topics. In addition, our advertising revenues were negatively aﬀected by reduced spending by
+our advertisers in response to the macroeconomic impact.
+
+We also assessed the realized and potential credit deterioration of our customers due to changes in the macroeconomic environment, which
+has been reﬂected in an increase in our allowance for credit losses for accounts receivable. In addition, we experienced declines in the valuation of
+our equity investments.
+
+Looking ahead, the full impact of COVID-19 on our business is unknown and highly unpredictable. Our past results may not be indicative of our
+future performance and historical trends in revenues, operating income, operating margin, net income, EPS, among others, may diﬀer materially. For
+example, to the extent the pandemic continues to disrupt economic activity globally we, like other businesses, would not be immune as it could
+adversely aﬀect our business, operations and ﬁnancial results through prolonged decreases in advertising spend, credit deterioration of our
+customers, depressed economic activity, or declines in capital markets. In addition, many of our expenses are less variable in nature and may not
+correlate to changes in revenues. The extent of the impact will depend on a number of factors, including the duration and severity of the pandemic;
+advances in testing, treatment
+
+
+#### 31
+
+
+## Page 34
+
+### Table 34.1
+
+| Google Search & other | $ | 22,547 |  |  | $ | 24,502 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads(1) | 3,025 |  |  |  | 4,038 |  |  |
+| Google properties | 25,572 |  |  |  | 28,540 |  |  |
+| Google Network Members' properties | 5,015 |  |  |  | 5,223 |  |  |
+| Google advertising | 30,587 |  |  |  | 33,763 |  |  |
+| Google Cloud | 1,825 |  |  |  | 2,777 |  |  |
+| Google other(1) | 3,620 |  |  |  | 4,435 |  |  |
+| Google revenues | 36,032 |  |  |  | 40,975 |  |  |
+| Other Bets revenues | 170 |  |  |  | 135 |  |  |
+| Hedging gains (losses) | 137 |  |  |  | 49 |  |  |
+| Total revenues | $ | 36,339 |  |  | $ | 41,159 |  |
+
+
+Table of Contents
+Alphabet In
+
+and prevention; and the macroeconomic impact of government measures to contain the spread of the virus and related government stimulus
+measures.
+
+To address the potential impact to our business, over the near-term, we are reevaluating the pace of our investment plans, including, but not
+limited to, our hiring, investments in data centers, servers, network equipment, real estate and facilities, and marketing and travel spending, as well
+as taking certain measures to support our customers.
+
+
+#### Information about Segments
+
+We operate our business in multiple operating segments. Google is our only reportable segment. None of our other segments meet the
+quantitative thresholds to qualify as reportable segments; therefore, the other operating segments are combined and disclosed as Other Bets.
+
+
+#### Our reported segments are:
+
+•
+Google – Google includes our main products such as ads, Android, Chrome, hardware, Google Cloud, Google Maps, Google Play, Search,
+and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps,
+in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud oﬀerings
+and subscription-based products.
+
+•
+Other Bets – Other Bets is a combination of multiple operating segments that are not individually material. Other Bets includes Access,
+Calico, CapitalG, GV, Verily, Waymo, and X, among others. Revenues from the Other Bets are derived primarily through the sale of internet
+services through Access as well as licensing and R&D services through Verily.
+
+
+#### Revenues
+
+The following table presents our revenues, by segment and revenue source (in millions, unaudited). Certain amounts in prior periods have been
+reclassified to conform with current period presentation:
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+
+Google Search & other
+$
+22,547  
+$
+24,502
+
+YouTube ads(1)
+3,025  
+4,038
+
+Google properties
+25,572  
+28,540
+
+Google Network Members' properties
+5,015  
+5,223
+
+Google advertising
+30,587  
+33,763
+
+Google Cloud
+1,825  
+2,777  
+Google other(1)
+3,620  
+4,435
+
+Google revenues
+36,032  
+40,975
+
+Other Bets revenues
+170  
+135
+
+Hedging gains (losses)
+137  
+49
+
+Total revenues
+$
+36,339  
+$
+41,159
+
+(1) YouTube non-advertising revenues are included in Google other revenues.
+
+
+#### Google advertising revenues
+
+In addition to the impact of COVID-19, our advertising revenue growth, as well as the change in paid clicks and cost-per-click on Google
+properties and the change in impressions and cost-per-impression on Google Network Members' properties and the correlation between these items,
+have been affected and may continue to be affected by various factors, including:
+
+•
+advertiser competition for keywords;
+•
+changes in advertising quality, formats, delivery or policy;
+•
+changes in device mix;
+•
+changes in foreign currency exchange rates;
+•
+fees advertisers are willing to pay based on how they manage their advertising costs;
+•
+general economic conditions;
+•
+seasonality; and
+
+
+#### 32
+
+
+## Page 35
+
+### Table 35.1
+
+| Google Search & other | $ | 22,547 |  |  | $ | 24,502 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads(1) | 3,025 |  |  |  | 4,038 |  |  |
+| Google Network Members' properties | 5,015 |  |  |  | 5,223 |  |  |
+| Google advertising | $ | 30,587 |  |  | $ | 33,763 |  |
+| Google advertising revenues as a percentage of Google segment revenues | 84.9 |  | % |  | 82.4 |  | % |
+
+
+Table of Contents
+Alphabet In
+
+•
+traffic growth in emerging markets compared to more mature markets and across various advertising verticals and channels.
+
+Our advertising revenue growth rate has been aﬀected over time as a result of a number of factors, including challenges in maintaining our
+growth rate as revenues increase to higher levels; changes in our product mix; changes in advertising quality or formats and delivery; the evolution of
+the online advertising market; increasing competition; our investments in new business strategies; query growth rates; and shifts in the geographic
+mix of our revenues. We also expect that our revenue growth rate will continue to be aﬀected by evolving user preferences, the acceptance by users
+of our products and services as they are delivered on diverse devices and modalities, our ability to create a seamless experience for both users and
+advertisers, and movements in foreign currency exchange rates.
+
+The following table presents our Google advertising revenues (in millions, unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+
+Google Search & other
+$
+22,547  
+$
+24,502
+
+YouTube ads(1)
+3,025  
+4,038
+
+Google Network Members' properties
+5,015  
+5,223
+
+Google advertising
+$
+30,587  
+$
+33,763
+
+Google advertising revenues as a percentage of Google segment revenues
+84.9 %
+82.4 %
+
+(1) YouTube non-advertising revenues are included in Google other revenues.
+
+Google advertising revenues are generated on our Google properties (including Google Search & other properties and YouTube) and Google
+Network Members’ properties. Google advertising revenues consist primarily of the following:
+
+•
+Google Search & other consists of revenues generated on Google search properties (including revenues from traﬃc generated by search
+distribution partners who use Google.com as their default search in browsers, toolbars, etc.) and other Google owned and operated
+properties like Gmail, Google Maps, and Google Play;
+•
+YouTube ads consists of revenues generated primarily on YouTube properties; and
+•
+Google Network Members' properties consist of revenues generated primarily on Google Network Members' properties participating in
+AdMob, AdSense, and Google Ad Manager.
+
+
+#### Google Search & other
+
+Our Google Search & other revenues increased $1,955 million from the three months ended March 31, 2019 to the three months ended March
+31, 2020. The overall growth for the period was primarily driven by interrelated factors including increases in search queries resulting from ongoing
+growth in user adoption and usage, primarily on mobile devices, growth in advertiser activity, and improvements we have made in ad formats and
+delivery. However, revenue declined in March, driven by the impact of COVID-19. While we experienced an increase in user search activity in March,
+our revenues were adversely aﬀected by a shift to less commercial topics and reduced advertiser spending. Revenue growth for the period ending
+March 31, 2020 was also partially offset by the general strengthening of the U.S. dollar compared to certain foreign currencies.
+
+
+#### YouTube ads
+
+YouTube ads revenues increased $1,013 million from the three months ended March 31, 2019 to the three months ended March 31, 2020. The
+largest contributors to the growth were our direct response and brand advertising products, both of which beneﬁted from improvements to ad formats
+and delivery and increased advertiser spending. This increase was slightly oﬀset by a deceleration in revenue growth in March for our brand
+advertising products driven by the impact of COVID-19.
+
+
+#### Google Network Members' properties
+
+Our Google Network Members' properties revenues increased $208 million from the three months ended March 31, 2019 to the three months
+ended March 31, 2020. The growth was largely driven by AdMob and was partially oﬀset by a decline in revenues in March driven by the impact of
+COVID-19.
+
+
+#### 33
+
+
+## Page 36
+
+### Table 36.1
+
+| Paid clicks change | 39 | % |  | 12 | % |
+| --- | --- | --- | --- | --- | --- |
+| Cost-per-click change | (19) | % |  | (4) | % |
+
+
+### Table 36.2
+
+| Impressions change | 6 | % |  | 12 | % |
+| --- | --- | --- | --- | --- | --- |
+| Cost-per-impression change | 1 | % |  | (7) | % |
+
+
+Table of Contents
+Alphabet In
+
+
+#### Use of Monetization Metrics
+
+Paid clicks for our Google properties represent engagement by users and include clicks on advertisements by end-users related to searches on
+Google.com and other owned and operated properties including Gmail, Google Maps, and Google Play; and viewed YouTube engagement ads
+(certain YouTube ad formats are not included in our click or impression based metrics). Impressions for our Google Network Members' properties
+include impressions displayed to users served on Google Network Members' properties participating primarily in AdMob, AdSense and Google Ad
+Manager.
+
+Cost-per-click is deﬁned as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge
+advertisers for each engagement by users.
+
+Cost-per-impression is deﬁned as impression-based and click-based revenues divided by our total number of impressions and represents the
+average amount we charge advertisers for each impression displayed to users.
+
+As our business evolves, we periodically review, reﬁne and update our methodologies for monitoring, gathering, and counting the number of
+paid clicks on our Google properties and the number of impressions on Google Network Members’ properties and for identifying the revenues
+generated by click activity on our Google properties and the revenues generated by impression activity on Google Network Members’ properties.
+
+
+#### Google properties
+
+The following table presents changes in our paid clicks and cost-per-click (expressed as a percentage):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Paid clicks change
+39 %
+12 %
+
+Cost-per-click change
+(19)%
+(4)%
+
+The number of paid clicks through our advertising programs on Google properties increased from the three months ended March 31, 2019 to
+the three months ended March 31, 2020 due to an increase in paid clicks driven by growth in views of YouTube engagement ads; an increase in
+clicks due to interrelated factors, including an increase in search queries resulting from ongoing growth in user adoption and usage, primarily on
+mobile devices; continued growth in advertiser activity; and improvements we have made in ad formats and delivery. This growth was oﬀset by a
+deceleration in paid clicks in March as a result of the impact of COVID-19, when search activity shifted to less commercial topics.
+
+The overall positive eﬀect on our revenues from an increase in paid clicks was partially oﬀset by a decrease in the cost-per-click paid by our
+advertisers. The decrease in cost-per-click was primarily driven by continued growth in YouTube engagement ads where cost-per-click remains
+lower than on our other advertising platforms, as well as a mix shift to less commercial topics and reduced advertiser spending in response to
+COVID-19 in March. Cost-per-click was also aﬀected by changes in device mix, geographic mix, ongoing product changes, product mix, property
+mix, and fluctuations of the U.S. dollar compared to certain foreign currencies.
+
+
+#### Google Network Members' properties
+
+The following table presents changes in our impressions and cost-per-impression (expressed as a percentage):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Impressions change
+6 %
+12 %
+
+Cost-per-impression change
+1 %
+(7)%
+
+
+#### 34
+
+
+## Page 37
+
+### Table 37.1
+
+| Google Cloud | $ | 1,825 |  |  | $ | 2,777 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Google Cloud revenues as a percentage of Google segment revenues | 5.1 |  | % |  | 6.8 |  | % |
+
+
+### Table 37.2
+
+| Google other | $ | 3,620 |  |  | $ | 4,435 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Google other revenues as a percentage of Google segment revenues | 10.0 |  | % |  | 10.8 |  | % |
+
+
+### Table 37.3
+
+| Other Bets revenues | $ | 170 |  |  | $ | 135 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Other Bets revenues as a percentage of total revenues | 0.5 |  | % |  | 0.3 |  | % |
+
+
+Table of Contents
+Alphabet In
+
+Impressions increased from the three months ended March 31, 2019 to the three months ended March 31, 2020 primarily due to growth in
+AdManager. The positive eﬀect on our revenues from an increase in impressions was partially oﬀset by a decrease in the cost per impression paid
+by our advertisers largely due to a reduction in advertiser spending in March in response to COVID-19.
+
+
+#### Google Cloud
+
+The following table presents our Google Cloud revenues (in millions, unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+
+Google Cloud
+$
+1,825  
+$
+2,777
+
+Google Cloud revenues as a percentage of Google segment revenues
+5.1 %
+6.8 %
+
+Google Cloud revenues consist primarily of revenues from Cloud offerings, including:
+
+•
+Google Cloud Platform ("GCP"), which includes infrastructure, data and analytics, and other services
+•
+G Suite productivity tools; and
+•
+other enterprise cloud services.
+
+Our Google Cloud revenues increased $952 million from the three months ended March 31, 2019 to the three months ended March 31, 2020.
+The growth was primarily driven by continued strength in our GCP and G Suite oﬀerings. Our infrastructure and our data and analytics platform
+products have been the largest drivers of growth in GCP.
+
+
+#### Google other revenues
+
+The following table presents our Google other revenues (in millions, unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+
+Google other
+$
+3,620  
+$
+4,435
+
+Google other revenues as a percentage of Google segment revenues
+10.0 %
+10.8 %
+
+
+#### Google other revenues consist primarily of revenues from:
+
+•
+Google Play, which includes revenues from sales of apps and in-app purchases (which we recognize net of payout to developers) and digital
+content sold in the Google Play store;
+•
+hardware, including Google Nest home products, Pixelbooks, Pixel phones and other devices;
+•
+YouTube non-advertising, including YouTube Premium and YouTube TV subscriptions and other services; and
+•
+other products and services.
+
+Our Google other revenues increased $815 million from the three months ended March 31, 2019 to the three months ended March 31, 2020.
+The growth was primarily driven by YouTube subscriptions and Google Play.
+
+Over time, our growth rate for Google Cloud and Google other revenues may be aﬀected by the seasonality associated with new product and
+service launches, as well as market dynamics.
+
+
+#### Other Bets
+
+
+#### The following table presents our Other Bets revenues (in millions, unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+Other Bets revenues
+$
+170  
+$
+135
+
+Other Bets revenues as a percentage of total revenues
+0.5 %
+0.3 %
+
+Other Bets revenues consist primarily of revenues from the sale of Access internet services and Verily licensing and R&D services.
+
+
+#### 35
+
+
+## Page 38
+
+### Table 38.1
+
+| United States | 45 | % |  | 46 | % |
+| --- | --- | --- | --- | --- | --- |
+| EMEA | 33 | % |  | 31 | % |
+| APAC | 17 | % |  | 18 | % |
+| Other Americas | 5 | % |  | 5 | % |
+
+
+Table of Contents
+Alphabet In
+
+
+#### Revenues by Geography
+
+The following table presents our revenues by geography as a percentage of revenues, determined based on the addresses of our customers
+(unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+United States
+45 %
+46 %
+
+EMEA
+33 %
+31 %
+
+APAC
+17 %
+18 %
+
+Other Americas
+5 %
+5 %
+
+For further details on revenues by geography, see Note 2 of the Notes to Consolidated Financial Statements included in Part I, Item 1 of this
+Quarterly Report on Form 10-Q.
+
+
+#### Use of Constant Currency Revenues and Constant Currency Revenue Growth
+
+The eﬀect of currency exchange rates on our business is an important factor in understanding period to period comparisons. Our international
+revenues are favorably aﬀected as the U.S. dollar weakens relative to other foreign currencies, and unfavorably aﬀected as the U.S. dollar
+strengthens relative to other foreign currencies. Our revenues are also favorably aﬀected by net hedging gains and unfavorably aﬀected by net
+hedging losses.
+
+We use non-GAAP constant currency revenues and constant currency revenue growth for ﬁnancial and operational decision-making and as a
+means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to GAAP results
+helps improve the ability to understand our performance because they exclude the eﬀects of foreign currency volatility that are not indicative of our
+core operating results.
+
+Constant currency information compares results between periods as if exchange rates had remained constant period over period. We deﬁne
+constant currency revenues as total revenues excluding the eﬀect of foreign exchange rate movements and hedging activities, and use it to
+determine the constant currency revenue growth on a year-on-year basis. Constant currency revenues are calculated by translating current period
+revenues using prior period exchange rates, as well as excluding any hedging effects realized in the current period.
+
+Constant currency revenue growth (expressed as a percentage) is calculated by determining the increase in current period revenues over prior
+period revenues where current period foreign currency revenues are translated using prior period exchange rates and hedging eﬀects are excluded
+from revenues of both periods.
+
+These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant
+currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of
+performance presented in accordance with GAAP.
+
+
+#### 36
+
+
+## Page 39
+
+### Table 39.1
+
+| EMEA revenues | $ | 11,668 |  |  | $ | 12,845 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Exclude foreign exchange effect on current period revenues using prior year rates | 762 |  |  |  | 235 |  |  |
+| EMEA constant currency revenues | $ | 12,430 |  |  | $ | 13,080 |  |
+| Prior period EMEA revenues | $ | 10,691 |  |  | $ | 11,668 |  |
+| EMEA revenue growth | 9 |  | % |  | 10 |  | % |
+| EMEA constant currency revenue growth | 16 |  | % |  | 12 |  | % |
+| APAC revenues | $ | 6,096 |  |  | $ | 7,238 |  |
+| Exclude foreign exchange effect on current period revenues using prior year rates | 199 |  |  |  | 61 |  |  |
+| APAC constant currency revenues | $ | 6,295 |  |  | $ | 7,299 |  |
+| Prior period APAC revenues | $ | 4,819 |  |  | $ | 6,096 |  |
+| APAC revenue growth | 26 |  | % |  | 19 |  | % |
+| APAC constant currency revenue growth | 31 |  | % |  | 20 |  | % |
+| Other Americas revenues | $ | 1,906 |  |  | $ | 2,157 |  |
+| Exclude foreign exchange effect on current period revenues using prior year rates | 192 |  |  |  | 96 |  |  |
+| Other Americas constant currency revenues | $ | 2,098 |  |  | $ | 2,253 |  |
+| Prior period Other Americas revenues | $ | 1,731 |  |  | $ | 1,906 |  |
+| Other Americas revenue growth | 10 |  | % |  | 13 |  | % |
+| Other Americas constant currency revenue growth | 21 |  | % |  | 18 |  | % |
+| United States revenues | $ | 16,532 |  |  | $ | 18,870 |  |
+| United States revenue growth | 17 |  | % |  | 14 |  | % |
+| Hedging gains | $ | 137 |  |  | $ | 49 |  |
+| Total revenues | $ | 36,339 |  |  | $ | 41,159 |  |
+| Total constant currency revenues | $ | 37,355 |  |  | $ | 41,502 |  |
+| Prior period revenues, excluding hedging effect(1) | $ | 31,385 |  |  | $ | 36,202 |  |
+| Total revenue growth | 17 |  | % |  | 13 |  | % |
+| Total constant currency revenue growth | 19 |  | % |  | 15 |  | % |
+
+
+Table of Contents
+Alphabet In
+
+The following table presents the foreign exchange eﬀect on our international revenues and total revenues (in millions, except percentages,
+unaudited):
+
+
+#### Three Months Ended
+
+
+#### March 31,
+
+2019
+2020
+
+EMEA revenues
+$
+11,668  
+$
+12,845
+
+Exclude foreign exchange effect on current period revenues using prior year rates
+762  
+235
+
+EMEA constant currency revenues
+$
+12,430  
+$
+13,080
+
+Prior period EMEA revenues
+$
+10,691  
+$
+11,668
+
+EMEA revenue growth
+9 %
+10 %
+
+EMEA constant currency revenue growth
+16 %
+12 %
+
+APAC revenues
+$
+6,096  
+$
+7,238
+
+Exclude foreign exchange effect on current period revenues using prior year rates
+199  
+61
+
+APAC constant currency revenues
+$
+6,295  
+$
+7,299
+
+Prior period APAC revenues
+$
+4,819  
+$
+6,096
+
+APAC revenue growth
+26 %
+19 %
+
+APAC constant currency revenue growth
+31 %
+20 %
+
+Other Americas revenues
+$
+1,906  
+$
+2,157
+
+Exclude foreign exchange effect on current period revenues using prior year rates
+192  
+96
+
+Other Americas constant currency revenues
+$
+2,098  
+$
+2,253
+
+Prior period Other Americas revenues
+$
+1,731  
+$
+1,906
+
+Other Americas revenue growth
+10 %
+13 %
+
+Other Americas constant currency revenue growth
+21 %
+18 %
+
+United States revenues
+$
+16,532  
+$
+18,870
+
+United States revenue growth
+17 %
+14 %
+
+Hedging gains
+$
+137  
+$
+49
+
+Total revenues
+$
+36,339  
+$
+41,159
+
+Total constant currency revenues
+$
+37,355  
+$
+41,502
+
+Prior period revenues, excluding hedging effect (1)
+$
+31,385  
+$
+36,202
+
+Total revenue growth
+17 %
+13 %
+
+Total constant currency revenue growth
+19 %
+15 %
+
+(1) Total revenues and hedging (losses) for the quarter ended March 31, 2018 were $31,146 million and $(239) million, respectively.
+
+Our EMEA revenue growth from the three months ended March 31, 2019 to the three months ended March 31, 2020 was unfavorably aﬀected
+by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Euro.
+
+Our APAC revenue growth from the three months ended March 31, 2019 to the three months ended March 31, 2020 was unfavorably aﬀected
+by changes in foreign currency exchange rates primarily due to the U.S. dollar strengthening relative to the Australian dollar and South Korean won.
+
+Our Other Americas revenue growth from the three months ended March 31, 2019 to the three months ended March 31, 2020 was unfavorably
+affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Brazilian real.
+
+
+#### 37

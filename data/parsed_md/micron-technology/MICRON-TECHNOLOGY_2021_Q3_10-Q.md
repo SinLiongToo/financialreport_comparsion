@@ -1,8 +1,8 @@
-# Annual Report: MICRON-TECHNOLOGY_2021_Q3_10-Q
+# Financial Report: MICRON-TECHNOLOGY_2021_Q3_10-Q
 
 - **Source File**: `MICRON-TECHNOLOGY_2021_Q3_10-Q.pdf`
-- **Total Pages**: 251
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 251
+- **Parsed Key Pages**: 33 (33 selected sections)
 
 ---
 
@@ -3901,204 +3901,398 @@ and losses from equity method investments, interest, other non-operating income 
 #### 27
 
 
-## Page 30
+## Page 31
 
-### Table 30.1
+customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM,
+NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel
+the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the
+intelligent edge and across the client and mobile user experience.
 
-| Revenue |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CNBU | $ | 3,304 | $ | 2,218 |  | $ | 8,486 | $ | 6,164 |
-| MBU | 1,999 |  | 1,525 |  |  | 5,311 |  | 4,240 |  |
-| SBU | 1,009 |  | 1,014 |  |  | 2,770 |  | 2,852 |  |
-| EBU | 1,105 |  | 675 |  |  | 2,849 |  | 2,105 |  |
-| All Other | 5 |  | 6 |  |  | 15 |  | 18 |  |
-|  | $ | 7,422 | $ | 5,438 |  | $ | 19,431 | $ | 15,379 |
-| Operating income (loss) |  |  |  |  |  |  |  |  |  |
-| CNBU | $ | 1,342 | $ | 448 |  | $ | 2,534 | $ | 1,132 |
-| MBU | 683 |  | 295 |  |  | 1,517 |  | 773 |  |
-| SBU | 53 |  | 177 |  |  | (2) |  | (42) |  |
-| EBU | 282 |  | 64 |  |  | 539 |  | 256 |  |
-| All Other | 4 |  | (3) |  |  | 6 |  | (2) |  |
-|  | 2,364 |  | 981 |  |  | 4,594 |  | 2,117 |  |
-| Unallocated |  |  |  |  |  |  |  |  |  |
-| Inventory accounting policy change to FIFO | — |  | — |  |  | (133) |  | — |  |
-| Change in inventory cost absorption | — |  | — |  |  | (160) |  | — |  |
-| 3D XPoint inventory write-down | — |  | — |  |  | (49) |  | — |  |
-| Stock-based compensation | (98) |  | (82) |  |  | (302) |  | (239) |  |
-| Patent license charges | — |  | — |  |  | (128) |  | — |  |
-| Restructure and asset impairments | (453) |  | (4) |  |  | (466) |  | (10) |  |
-| Other | (14) |  | (7) |  |  | (28) |  | (22) |  |
-|  | (565) |  | (93) |  |  | (1,266) |  | (271) |  |
-| Operating income | $ | 1,799 | $ | 888 |  | $ | 3,328 | $ | 1,846 |
+We manufacture our products at wholly-owned facilities and also utilize subcontractors to perform certain manufacturing processes. In recent
+years, we have increased our manufacturing scale and product diversity through strategic acquisitions, expansion, and various partnering
+arrangements.
+
+We make significant investments to develop proprietary product and process technology, which are implemented in our manufacturing facilities.
+Advancements in product and process technology, such as our leading-edge process technology and 3D NAND architecture, generally increase
+the density per wafer and reduce manufacturing costs of each generation of product. We continue to introduce new generations of products that
+offer improved performance characteristics, including higher data transfer rates, advanced packaging solutions, lower power consumption,
+improved read/write reliability, and increased memory density. A significant portion of our revenues are from sales of managed NAND and SSD
+products, which incorporate NAND, a controller, firmware, and in some cases, DRAM. An increasing portion of our SSDs incorporate proprietary
+controllers and firmware that we have developed. Development of advanced technologies enables us to diversify our product portfolio toward a
+richer mix of differentiated, high-value solutions and to target high-growth markets.
+
+We face intense competition in the semiconductor memory and storage markets and to remain competitive we must continuously develop and
+implement new products and technologies and decrease manufacturing costs. Our success is largely dependent on obtaining returns on our
+research and development (“R&D”) investments, efficient utilization of our manufacturing infrastructure, development and integration of advanced
+product and process technologies, market acceptance of our diversified portfolio of semiconductor-based memory and storage solutions, and
+return-driven capital spending.
 
 
-Quarter ended
-Nine months ended
-June 3,
+#### Lehi, Utah Fab and 3D XPoint
+
+In the second quarter of 2021, we updated our portfolio strategy to further strengthen our focus on memory and storage innovations for the data
+center market. In connection therewith, we determined that there was insufficient market validation to justify the ongoing investments required to
+commercialize 3D XPoint at scale. Accordingly, we ceased development of 3D XPoint technology and engaged in discussions with potential
+buyers for the sale of our facility located in Lehi that was dedicated to 3D XPoint production. As a result, we classified the property, plant, and
+equipment as held for sale and ceased depreciating the assets. On June 30, 2021, we announced that we have entered into a definitive
+agreement to sell our Lehi facility to TI for cash consideration of $900 million. The sale is anticipated to close later this calendar year.
+
+In the third quarter of 2021, we recognized a charge of $435 million included in restructure and asset impairments (and a tax benefit of
+$104 million included in income tax (provision) benefit) to write down the assets held for sale to the expected consideration, net of estimated
+selling costs, to be realized from the sale of these assets and liabilities. In the second quarter of 2021, we also recognized a charge of $49 million
+to cost of goods sold to write down 3D XPoint inventory due to our decision to cease further development of this technology. Our 3D XPoint
+technology development and Lehi facility operations are primarily included in our CNBU business unit.
+
+Assets classified as held for sale are carried at the lower of fair value less cost to sell or carrying value. We could recognize additional losses as
+a result of changes in the assets and liabilities prior to the closing date of the transaction.
 
 
-#### 2021
+#### Impact of COVID-19 on Our Business
+
+Events surrounding the ongoing COVID-19 pandemic initially resulted in a reduction in economic activity across the globe, and the timing and
+extent of the ongoing economic recovery remains uncertain. As a result, we have experienced volatility in the markets that our products are sold
+into, driven by the move to a stay-at-home economy and fluctuations in consumer and business spending, which has affected demand for certain
+of our products. The ultimate extent to which COVID-19 will impact our business depends on future developments, which are highly uncertain
+and very difficult to predict, including the effectiveness and utilization of vaccines for COVID-19 and its
 
 
-#### May 28,
+#### 29
 
 
-#### 2020
+## Page 32
+
+variants, new information that may emerge concerning the severity of COVID-19 and its variants, and actions to contain or limit their spread.
+
+From the start of the COVID-19 pandemic, we proactively implemented preventative protocols, which we continuously assess and update for
+changes in conditions and emerging trends, such as recent increases in COVID-19 infections in Malaysia, India, and Taiwan, where we have
+facilities and a significant number of employees, and increasing levels of vaccinations in the United States and other countries. These
+preventative protocols are intended to safeguard our team members, contractors, suppliers, customers, distributors, and communities, and to
+ensure business continuity in the event government restrictions or severe outbreaks impact our operations at certain sites. While nearly all our
+global manufacturing sites are currently operating with close to full staff and at normal capacity levels, our Muar, Malaysia facility has recently
+been operating at reduced staffing and capacity levels. In addition, we have experienced constraints on our engineering and other activities at our
+India facilities. Our other facilities could also be required to temporarily curtail production levels or temporarily cease operations based on
+government mandates or our health and safety protocols. We may be required, or deem it to be in the best interest of our employees, customers,
+partners, suppliers, and stakeholders, to alter our business operations in order to maintain a healthy and safe environment. It is not clear what
+potential effects any such alterations or modifications may have on our business, including effects on our customers, employees, and prospects,
+or on our financial results. We are following government policies and recommendations designed to slow the spread of COVID-19 and remain
+committed to the health and safety of our team members, contractors, suppliers, customers, distributors, and communities.
+
+We continuously assess our efforts to respond to the COVID-19 pandemic, which have included the following:
+
+•
+In locations experiencing continued community COVID-19 infections, we prohibit onsite visitors and are generally requiring team
+members to work from home where possible. Where work from home is not possible, all on-site team members must complete health
+questionnaires, pass through thermal scanning equipment to ensure they do not have an elevated body temperature, and adhere to
+physical distancing requirements, mask protocols, and team member separation protocols. We have also enhanced our contact tracing,
+significantly decreased business travel, and where possible, made ventilation and other health and safety enhancements at our facilities
+and provided COVID-19 testing and vaccinations for our team members.
+•
+To respond to changing market conditions, we continue to work closely with our customer base to best match our supply with the
+evolving market demand.
+•
+We evaluate our supply chain and communicate with our suppliers to identify supply gaps and have taken steps to ensure continuity. In
+some cases, we have added alternative suppliers and increased our on-hand inventory of raw materials needed in our operations.
+•
+We have added assembly and test capacity to provide redundant manufacturing capability through our network of captive operations and
+external partners.
+•
+We have evaluated all our construction projects across our global manufacturing operations and enacted protocols to enhance the safety
+of our team members, suppliers, and contractors.
+•
+We have developed strategies and implemented measures to respond to a variety of potential economic scenarios, such as limitations
+on new hiring and business travel and reductions of discretionary spending.
+•
+We are working with government authorities in the jurisdictions where we operate, and continuing to monitor our operations in an effort to
+ensure we follow government requirements, relevant regulations, industry standards, and best practices to help safeguard our team
+members, while safely continuing operations at our sites across the globe.
+
+We believe these actions are appropriate and prudent to safeguard our team members, contractors, suppliers, customers, and communities,
+while allowing us to safely continue operations. We cannot predict how the steps we, our team members, government entities, suppliers, or
+customers take in response to the COVID-19 pandemic will ultimately impact our business, outlook, or results of operations.
 
 
-#### June 3,
+#### Product Technologies
+
+Our product portfolio of memory and storage solutions, advanced solutions, and storage platforms is based on our high-performance
+semiconductor memory and storage technologies, including DRAM, NAND, NOR, and other technologies. We sell our products into various
+markets through our business units in numerous forms, including wafers, components, modules, SSDs, managed NAND, and MCP products. Our
+system-level solutions, including
 
 
-#### 2021
+### 30 | 2021 Q3 10-Q
 
 
-#### May 28,
+## Page 33
+
+### Table 33.1
+
+| Revenue | $ | 7,422 | 100% | $ | 6,236 | 100% | $ | 5,438 | 100% | $ | 19,431 | 100% | $ | 15,379 | 100% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of goods sold | 4,296 |  | 58% | 4,587 |  | 74% | 3,675 |  | 68% | 12,920 |  | 66% | 10,895 |  | 71% |
+| Gross margin | 3,126 |  | 42% | 1,649 |  | 26% | 1,763 |  | 32% | 6,511 |  | 34% | 4,484 |  | 29% |
+| Research and development | 670 |  | 9% | 641 |  | 10% | 649 |  | 12% | 1,958 |  | 10% | 1,970 |  | 13% |
+| Selling, general, and administrative | 230 |  | 3% | 214 |  | 3% | 216 |  | 4% | 658 |  | 3% | 650 |  | 4% |
+| Restructure and asset impairments | 453 |  | 6% | 5 |  | —% | 4 |  | —% | 466 |  | 2% | 10 |  | —% |
+| Other operating (income) expense, net | (26) |  | —% | 126 |  | 2% | 6 |  | —% | 101 |  | 1% | 8 |  | —% |
+| Operating income | 1,799 |  | 24% | 663 |  | 11% | 888 |  | 16% | 3,328 |  | 17% | 1,846 |  | 12% |
+| Interest income (expense), net | (38) |  | (1)% | (32) |  | (1)% | (28) |  | (1)% | (108) |  | (1)% | (43) |  | —% |
+| Other non-operating income (expense), net | 45 |  | 1% | 4 |  | —% | 10 |  | —% | 62 |  | —% | 55 |  | —% |
+| Income tax (provision) benefit | (65) |  | (1)% | (48) |  | (1)% | (68) |  | (1)% | (164) |  | (1)% | (144) |  | (1)% |
+| Equity in net income (loss) of equity method investees | (6) |  | —% | 16 |  | —% | 3 |  | —% | 23 |  | —% | 6 |  | —% |
+| Net income attributable to noncontrolling interests | — |  | —% | — |  | —% | (2) |  | —% | — |  | —% | (21) |  | —% |
+| Net income attributable to Micron | $ | 1,735 | 23% | $ | 603 | 10% | $ | 803 | 15% | $ | 3,141 | 16% | $ | 1,699 | 11% |
 
 
-#### 2020
+SSDs, managed NAND, and MCPs, typically include a controller and firmware and in some cases combine DRAM, NAND, and/or NOR.
+
+DRAM: DRAM products are dynamic random access memory semiconductor devices with low latency that provide high-speed data retrieval with
+a variety of performance characteristics. DRAM products lose content when power is turned off (“volatile”) and are most commonly used in client,
+cloud server, enterprise, networking, graphics, industrial, and automotive markets. Low-power DRAM (“LPDRAM”) products, which are
+engineered to meet standards for performance and power consumption, are sold into smartphone and other mobile-device markets (including
+client markets for Chromebooks and notebook PCs), as well as into the automotive, industrial, and consumer markets.
+
+NAND: NAND products are non-volatile, re-writeable semiconductor storage devices that provide high-capacity, low-cost storage with a variety of
+performance characteristics. NAND is used in SSDs for the enterprise and cloud, client, and consumer markets and in removable storage
+markets. Managed NAND is used in smartphones and other mobile devices, and in consumer, automotive, and embedded markets. Low-density
+NAND is ideal for applications like automotive, surveillance, machine-to-machine, automation, printer, and home networking.
+
+NOR: NOR products are non-volatile re-writable semiconductor memory devices that provide fast read speeds. NOR is most commonly used for
+reliable code storage (e.g., boot, application, operating system, and execute-in-place code in an embedded system) and for frequently changing
+small data storage and is ideal for automotive, industrial, networking, and consumer applications.
+
+3D XPoint: 3D XPoint is a class of non-volatile technology between DRAM and NAND in the memory and storage hierarchy. We have ceased
+development of our 3D XPoint technology and products.
 
 
-#### Revenue
+#### Results of Operations
 
-CNBU
+
+#### Consolidated Results
+
+Third
+Quarter
+
+Second
+Quarter
+
+Third
+Quarter
+Nine Months
+2021
+2021
+2020
+2021
+2020
+
+Revenue
 $
-3,304 $
-2,218 
-$
-8,486 $
-6,164 
-MBU
-1,999 
-1,525 
-5,311 
-4,240 
-SBU
-1,009 
-1,014 
-2,770 
-2,852 
-EBU
-1,105 
-675 
-2,849 
-2,105 
-All Other
-5 
-6 
-15 
-18 
-$
-7,422 $
+7,422 
+100% $
+6,236 
+100% $
 5,438 
-$
-19,431 $
-15,379
+100% $ 19,431 
+100% $ 15,379 
+100%
+Cost of goods sold
+4,296 
+58%
+4,587 
+74%
+3,675 
+68%
+12,920 
+66%
+10,895 
+71%
+Gross margin
+3,126 
+42%
+1,649 
+26%
+1,763 
+32%
+6,511 
+34%
+4,484 
+29%
 
-
-#### Operating income (loss)
-
-CNBU
-$
-1,342 $
-448 
-$
-2,534 $
-1,132 
-MBU
-683 
-295 
-1,517 
-773 
-SBU
-53 
-177 
-(2)
-(42)
-EBU
-282 
-64 
-539 
-256 
-All Other
-4 
-(3)
-6 
-(2)
-2,364 
-981 
-4,594 
-2,117
-
-
-#### Unallocated
-
-Inventory accounting policy change to FIFO
-— 
-— 
-(133)
-— 
-Change in inventory cost absorption
-— 
-— 
-(160)
-— 
-3D XPoint inventory write-down
-— 
-— 
-(49)
-— 
-Stock-based compensation
-(98)
-(82)
-(302)
-(239)
-Patent license charges
-— 
-— 
-(128)
-— 
+Research and development
+670 
+9%
+641 
+10%
+649 
+12%
+1,958 
+10%
+1,970 
+13%
+Selling, general, and administrative
+230 
+3%
+214 
+3%
+216 
+4%
+658 
+3%
+650 
+4%
 Restructure and asset impairments
-(453)
-(4)
-(466)
-(10)
-Other
-(14)
-(7)
-(28)
-(22)
-(565)
-(93)
-(1,266)
-(271)
-
+453 
+6%
+5 
+—%
+4 
+—%
+466 
+2%
+10 
+—%
+Other operating (income) expense,
+net
+(26)
+—%
+126 
+2%
+6 
+—%
+101 
+1%
+8 
+—%
 Operating income
-$
-1,799 $
+1,799 
+24%
+663 
+11%
 888 
-$
-3,328 $
-1,846
+16%
+3,328 
+17%
+1,846 
+12%
+
+Interest income (expense), net
+(38)
+(1)%
+(32)
+(1)%
+(28)
+(1)%
+(108)
+(1)%
+(43)
+—%
+Other non-operating income
+(expense), net
+45 
+1%
+4 
+—%
+10 
+—%
+62 
+—%
+55 
+—%
+Income tax (provision) benefit
+(65)
+(1)%
+(48)
+(1)%
+(68)
+(1)%
+(164)
+(1)%
+(144)
+(1)%
+Equity in net income (loss) of equity
+method investees
+(6)
+—%
+16 
+—%
+3 
+—%
+23 
+—%
+6 
+—%
+Net income attributable to
+noncontrolling interests
+— 
+—%
+— 
+—%
+(2)
+—%
+— 
+—%
+(21)
+—%
+
+Net income attributable to Micron $
+1,735 
+23% $
+603 
+10% $
+803 
+15% $
+3,141 
+16% $
+1,699 
+11%
 
 
-#### Certain Concentrations
-
-Revenue from WPG Holdings Limited was 13% of total revenue for the first nine months of 2021.
-
-ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
-RESULTS OF OPERATIONS
-
-This discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in our Annual report
-on Form 10-K for the year ended September 3, 2020. All period references are to our fiscal periods unless otherwise indicated. Our fiscal year is
-the 52 or 53-week period ending on the Thursday closest to August 31. Fiscal 2021 contains 52 weeks and our fiscal 2020 contained 53 weeks.
-Our third quarters and first nine months of 2020 and 2021 each contained 13 and 39 weeks, respectively. All tabular dollar amounts are in
-millions, except per share amounts.
+#### 31
 
 
-#### Overview
+## Page 34
 
-Micron Technology, Inc., including its consolidated subsidiaries, is an industry leader in innovative memory and storage solutions transforming
-how the world uses information to enrich life for all. With a relentless focus on our
+Total Revenue: Total revenue for the third quarter of 2021 increased 19% as compared to the second quarter of 2021 primarily due to increases
+in sales of DRAM and NAND products. Sales of DRAM products for the third quarter of 2021 increased 23% as compared to the second quarter
+of 2021 primarily due to an approximate 20% increase in average selling prices and a low-single-digit percent increase in bit shipments driven by
+strong demand across key markets. Sales of NAND products for the third quarter of 2021 increased 10% as compared to the second quarter of
+2021 primarily due to a high-single-digit percent increase in average selling prices and a low-single-digit percent increase in bit shipments driven
+by SSDs and mobile MCPs.
+
+Total revenue for the third quarter and first nine months of 2021 increased 36% and 26%, respectively, as compared to the corresponding
+periods of 2020 primarily due to increases in DRAM and NAND sales. Sales of DRAM products for the third quarter of 2021 increased 52% as
+compared to the third quarter of 2020 primarily due to growth in bit shipments in the high-30% range and increases in average selling prices in
+the low-double-digit percent range, driven by client, mobile, server, and graphics markets. Sales of DRAM products for the first nine months of
+2021 increased 38% as compared to the first nine months of 2020 primarily due to growth in bit shipments in the mid-30% range. Sales of NAND
+products for the third quarter of 2021 increased 9% as compared to the third quarter of 2020 primarily due to increases in bit shipments in the
+low-30% range driven by consumer and mobile markets, partially offset by an upper-teens percent range decline in average selling prices. Sales
+of NAND products for the first nine months of 2021 increased 9% as compared to the first nine months of 2020 primarily due to increases in bit
+shipments in the high-20% range, partially offset by a mid-10% range decline in average selling prices.
+
+Overall Gross Margin: Our overall gross margin percentage increased to 42% for the third quarter of 2021 from 26% for the second quarter of
+2021, primarily due to higher average selling prices for both DRAM and NAND; one-time impacts of changes in our inventory costing method to
+FIFO and cost absorption processes in the second quarter of 2021 (as detailed below); and lower Lehi facility and 3D XPoint costs. Our gross
+margins included the impact of underutilization costs at our Lehi facility of $54 million for the third quarter of 2021, $111 million for the second
+quarter of 2021, and $155 million for the third quarter of 2020. In the second quarter of 2021, we ceased development of 3D XPoint technology
+and engaged in discussions with potential buyers for the sale of our Lehi facility that was dedicated to 3D XPoint production. As a result, we
+classified the property, plant, and equipment as held for sale and ceased depreciating the assets, which reduced our costs by approximately $75
+million in the third quarter of 2021. In the second quarter of 2021, we also recognized a charge of $49 million to cost of goods sold to write down
+3D XPoint inventory. On June 30, 2021, we announced that we have entered into a definitive agreement to sell our Lehi facility to TI. The sale is
+anticipated to close later this calendar year. When the sale of the Lehi facility is completed our underutilization costs from the facility will be
+entirely eliminated.
+
+Our overall gross margin percentage increased to 42% for the third quarter of 2021 from 32% for the third quarter of 2020 primarily due to higher
+DRAM margins resulting from increases in average selling prices and manufacturing cost reductions, which were partially offset by lower NAND
+margins as declines in average selling prices outpaced manufacturing cost reductions. Our overall gross margin percentage increased to 34% for
+the first nine months of 2021 from 29% for the first nine months of 2020 primarily due to higher DRAM margins resulting from manufacturing cost
+reductions and increases in average selling prices, which were partially offset by lower NAND margins as declines in average selling prices
+outpaced cost reductions. We reduced manufacturing costs for both DRAM and NAND for the third quarter and first nine months of 2021 as
+compared to the corresponding periods of 2020 through strong execution in delivering products featuring advanced technologies and from
+continuous improvement initiatives to reduce production costs.
+
+Effective as of the beginning of the second quarter of 2021, we changed our method of inventory costing from average cost to FIFO.
+Concurrently, as of the beginning of the second quarter of 2021, we modified our inventory cost absorption processes used to estimate inventory
+values, which affects the timing of when costs are recognized. These changes resulted in a one-time increase to cost of goods sold of
+approximately $293 million in the second quarter of 2021.
 
 
-### 28 | 2021 Q3 10-Q
+### 32 | 2021 Q3 10-Q

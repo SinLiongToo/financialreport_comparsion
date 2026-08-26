@@ -1,8 +1,8 @@
-# Annual Report: APPLIED-MATERIALS_2022_Q3_10-Q
+# Financial Report: APPLIED-MATERIALS_2022_Q3_10-Q
 
 - **Source File**: `APPLIED-MATERIALS_2022_Q3_10-Q.pdf`
-- **Total Pages**: 194
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 194
+- **Parsed Key Pages**: 33 (33 selected sections)
 
 ---
 
@@ -3923,783 +3923,415 @@ $
 #### 25
 
 
-## Page 26
+## Page 148
+
+Section 3.02. Existing Credit Agreement. (a) On the Effective Date, the “Commitments” as defined in the
+Existing Credit Agreement shall terminate, without further action by any party thereto.
 
-### Table 26.1
+(b)    The Lenders which are parties to the Existing Credit Agreement, comprising the “Required Lenders” as
+defined in the Existing Credit Agreement hereby waive any requirement of prior notice of termination of the
+Commitments (as defined in the Existing Credit Agreement) pursuant to Section 2.07 thereof and of prepayment of
+loans thereunder, to the extent necessary to give effect to Section 3.01(h) hereof, provided that any such prepayment
+of loans thereunder shall be subject to Section 2.16 of the Existing Credit Agreement.
 
-| Long-term debt: |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.900% Senior Notes Due 2025 | $ | 700 |  | $ | 700 |  | 3.944% |  | April 1, October 1 |
-| 3.300% Senior Notes Due 2027 | 1,200 |  |  | 1,200 |  |  | 3.342% |  | April 1, October 1 |
-| 1.750% Senior Notes Due 2030 | 750 |  |  | 750 |  |  | 1.792% |  | June 1, December 1 |
-| 5.100% Senior Notes Due 2035 | 500 |  |  | 500 |  |  | 5.127% |  | April 1, October 1 |
-| 5.850% Senior Notes Due 2041 | 600 |  |  | 600 |  |  | 5.879% |  | June 15, December 15 |
-| 4.350% Senior Notes Due 2047 | 1,000 |  |  | 1,000 |  |  | 4.361% |  | April 1, October 1 |
-| 2.750% Senior Notes Due 2050 | 750 |  |  | 750 |  |  | 2.773% |  | June 1, December 1 |
-|  | 5,500 |  |  | 5,500 |  |  |  |  |  |
-| Total unamortized discount | (12) |  |  | (14) |  |  |  |  |  |
-| Total unamortized debt issuance costs | (32) |  |  | (34) |  |  |  |  |  |
-| Total long-term debt | $ | 5,456 |  | $ | 5,452 |  |  |  |  |
+Section 3.03. Conditions Precedent to Each Borrowing, Issuance, Commitment Increase and Extension Date.
+The obligation of each Lender to make a Loan on the occasion of each Borrowing, the obligation of any Issuing Bank
+to issue a Letter of Credit, each Commitment Increase and each extension of Commitments pursuant to Section 2.20
+shall be subject to the conditions precedent that the Effective Date shall have occurred and on the date of such
+Borrowing or issuance, the applicable Increase Date or the applicable Extension Date
 
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-
-#### Note 10      Borrowing Facilities and Debt
-
-
-#### Revolving Credit Facilities
-
-In February 2020, Applied entered into a five-year $1.5 billion committed unsecured revolving credit agreement (Revolving Credit Agreement)
-with a group of banks. The Revolving Credit Agreement includes a provision under which Applied may request an increase in the amount of the
-facility of up to $500 million for a total commitment of no more than $ 2.0 billion, subject to the receipt of commitments from one or more lenders for
-any such increase and other customary conditions. The Revolving Credit Agreement is scheduled to expire in February 2025, unless extended as
-permitted under the Revolving Credit Agreement. The Revolving Credit Agreement provides for borrowings that bear interest for each advance at
-one of two rates selected by Applied, plus an applicable margin, which varies according to Applied’s public debt credit ratings. In July 2022, Applied
-entered into an amendment to the Revolving Credit Agreement which replaced the London interbank oﬀered rate (LIBOR) as a reference rate for
-borrowings with the secured overnight financing rate (SOFR).
-
-No amounts were outstanding under the Revolving Credit Agreement as of July 31, 2022 and October 31, 2021.
-
-In addition, Applied has revolving credit facilities with Japanese banks pursuant to which it may borrow up to approximately $ 58 million in
-aggregate at any time. Applied’s ability to borrow under these facilities is subject to bank approval at the time of the borrowing request, and any
-advances will be at rates indexed to the banks’ prime reference rate denominated in Japanese yen. As of July 31, 2022 and October 31, 2021, no
-amounts were outstanding under these revolving credit facilities.
-
-
-#### Short-term Commercial Paper
-
-Applied has a short-term commercial paper program under which Applied may issue unsecured commercial paper notes of up to a total
-amount of $1.5 billion. At July 31, 2022 and October 31, 2021, Applied did not have any commercial paper outstanding.
-
-
-#### Senior Unsecured Notes
-
-
-#### Debt outstanding as of July 31, 2022 and October 31, 2021 was as follows:
-
-Principal Amount
-July 31,
-
-
-#### 2022
-
-
-#### October 31,
-
-
-#### 2021
-
-Effective
-Interest Rate
-
-Interest
-Pay Dates
-
-(In millions)
- 
- 
-Long-term debt:
-3.900% Senior Notes Due 2025
-$
-700 
-$
-700 
-3.944%
-April 1, October 1
-3.300% Senior Notes Due 2027
-1,200 
-1,200 
-3.342%
-April 1, October 1
-1.750% Senior Notes Due 2030
-750 
-750 
-1.792%
-June 1, December 1
-5.100% Senior Notes Due 2035
-500 
-500 
-5.127%
-April 1, October 1
-5.850% Senior Notes Due 2041
-600 
-600 
-5.879%
-June 15, December 15
-4.350% Senior Notes Due 2047
-1,000 
-1,000 
-4.361%
-April 1, October 1
-2.750% Senior Notes Due 2050
-750 
-750 
-2.773%
-June 1, December 1
-5,500 
-5,500 
-Total unamortized discount
-(12)
-(14)
-Total unamortized debt issuance costs
-(32)
-(34)
-Total long-term debt
-$
-5,456 
-$
-5,452
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| Operating lease cost | $26 |  | $20 |  | $69 | $58 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Weighted-average remaining lease term (in years) |  |  |  |  | 7.2 | 4.7 |
-| Weighted-average discount rate |  |  |  |  | 2.3% | 1.6% |
-
-
-### Table 27.2
-
-| Operating cash flows paid for operating leases | $ | 69 | $ | 58 |
-| --- | --- | --- | --- | --- |
-| Right-of-use assets obtained in exchange for operating lease liabilities | $ | 192 | $ | 48 |
-
-
-### Table 27.3
-
-| 2022 (remaining 3 months) | $ | 37 |
-| --- | --- | --- |
-| 2023 | 92 |  |
-| 2024 | 82 |  |
-| 2025 | 63 |  |
-| 2026 | 33 |  |
-| Thereafter | 128 |  |
-| Total lease payments | $ | 435 |
-| Less imputed interest | (35) |  |
-| Total | $ | 400 |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-
-#### Note 11      Leases
-
-A contract contains a lease when Applied has the right to control the use of an identiﬁed asset for a period of time in exchange for
-consideration. Applied leases certain facilities, vehicles and equipment under non-cancelable operating leases, many of which include options to
-renew. Options that are reasonably certain to be exercised are included in the calculation of the right-of-use asset and lease liability. Applied’s leases
-do not contain residual value guarantees or signiﬁcant restrictions that impact the accounting for leases. As implicit rates are not available for the
-leases, Applied uses the incremental borrowing rate as of the lease commencement date in order to measure the right-of-use asset and liability.
-Operating lease expense is generally recognized on a straight-line basis over the lease term.
-
-Applied elected the practical expedient to account for lease and non-lease components as a single lease component for all leases. For leases
-with a term of one year or less, Applied elected not to record a right-of-use asset or lease liability and to account for the associated lease payments
-as they become due.
-
-
-#### The components of lease expense and supplemental information were as follows:
-
-Three Months Ended
-Nine Months Ended
-July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-
-#### 2021
-
-
-#### July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-2021
-(In millions, except percentages)
-Operating lease cost
-$26
-$20
-$69
-$58
-Weighted-average remaining lease term (in years)
-7.2
-4.7
-Weighted-average discount rate
-2.3%
-1.6%
-
-
-#### Supplemental cash flow information related to leases are as follows:
-
-Nine Months Ended
-July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-2021
-(In millions)
-Operating cash flows paid for operating leases
-$
-69 
-$
-58 
-Right-of-use assets obtained in exchange for operating lease liabilities
-$
-192 
-$
-48
-
-
-#### As of July 31, 2022, the maturities of lease liabilities are as follows:
-
-Operating Leases
-Fiscal
-(In millions)
-2022 (remaining 3 months)
-$
-37 
-2023
-92 
-2024
-82 
-2025
-63 
-2026
-33 
-Thereafter
-128 
-Total lease payments
-$
-435 
-Less imputed interest
-(35)
-Total
-$
-400
-
-
-#### 27
-
-
-## Page 28
-
-### Table 28.1
-
-| Display and Adjacent Markets | $ | — |  | $ | — |  | $ | — |  | $ | 8 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Corporate and Other | — |  |  | — |  |  | (4) |  |  | 150 |  |
-| Total | $ | — |  | $ | — |  | $ | (4) |  | $ | 158 |
-
-
-### Table 28.2
-
-| Balance as of October 31, 2021 | $ | 17 |
-| --- | --- | --- |
-| Adjustment to provision for severance | (4) |  |
-| Consumption of reserves | (12) |  |
-| Balance as of January 30, 2022 | 1 |  |
-| Consumption of reserves | — |  |
-| Balance as of May 1, 2022 | 1 |  |
-| Consumption of reserves | — |  |
-| Balance as of July 31, 2022 | $ | 1 |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-
-#### Note 12      Severance and Related Charges
-
-
-#### Fiscal 2021 Severance Plan
-
-In the ﬁrst quarter of ﬁscal 2021, Applied enacted a severance plan to realign its workforce. Under this plan, Applied implemented a one-time
-voluntary retirement program and other workforce reduction actions. The voluntary retirement program was available to certain U.S. employees who
-met minimum age and length of service requirements, as well as other business-specific criteria. The payments under this plan are paid at the time of
-termination and the related costs were not allocated to the segments. In addition, Applied implemented other workforce reduction actions globally
-across the Display and Adjacent Markets business. These costs were recorded under the Display and Adjacent Markets segment.
-
-During the nine months ended July 31, 2022 and August 1, 2021, Applied recorded an adjustment of $ 4 million and recognized a total expense
-of $158 million of severance and related charges, respectively, in connection with the Fiscal 2021 Severance Plan.
-
-
-#### Severance and related charges and adjustments by segment were as follows:
-
-Three Months Ended
-Nine Months Ended
-July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-
-#### 2021
-
-
-#### July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-2021
-(In millions)
-Display and Adjacent Markets
-$
-— 
-$
-— 
-$
-— 
-$
-8 
-Corporate and Other
-— 
-— 
-(4)
-150 
-Total
-$
-— 
-$
-— 
-$
-(4) $
-158
-
-Changes in severance and related charges reserves related to the Fiscal 2021 Severance Plan described above for the nine months ended
-July 31, 2022 were as follows:
-
-
-#### Severance and Related
-
-
-#### Charges Reserves
-
-(In millions)
-Balance as of October 31, 2021
-$
-17 
-Adjustment to provision for severance
-(4)
-Consumption of reserves
-(12)
-Balance as of January 30, 2022
-1 
-Consumption of reserves
-— 
-Balance as of May 1, 2022
-1 
-Consumption of reserves
-— 
-Balance as of July 31, 2022
-$
-1
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Balance as of October 31, 2021 | $ | (1) |  | $ | (103) |  | $ | (169) |  | $ | 13 |  | $ | (260) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Other comprehensive income (loss) before reclassifications | (36) |  |  | 73 |  |  | — |  |  | — |  |  | 37 |  |
-| Amounts reclassified out of AOCI | (9) |  |  | (27) |  |  | — |  |  | — |  |  | (36) |  |
-| Other comprehensive income (loss), net of tax | (45) |  |  | 46 |  |  | — |  |  | — |  |  | 1 |  |
-| Balance as of July 31, 2022 | $ | (46) |  | $ | (57) |  | $ | (169) |  | $ | 13 |  | $ | (259) |
-
-
-### Table 29.2
-
-| Balance as of October 25, 2020 | $ | 20 |  | $ | (133) |  | $ | (199) |  | $ | 13 |  | $ | (299) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Other comprehensive income (loss) before reclassifications | (7) |  |  | 14 |  |  | — |  |  | — |  |  | 7 |  |
-| Amounts reclassified out of AOCI | (4) |  |  | 4 |  |  | — |  |  | — |  |  | — |  |
-| Other comprehensive income (loss), net of tax | (11) |  |  | 18 |  |  | — |  |  | — |  |  | 7 |  |
-| Balance as of August 1, 2021 | $ | 9 |  | $ | (115) |  | $ | (199) |  | $ | 13 |  | $ | (292) |
-
-
-### Table 29.3
-
-| Shares of common stock repurchased | 10 |  |  | 11 |  | 37 |  |  | 17 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of stock repurchased | $ | 1,000 | $ | 1,500 |  | $ | 4,603 |  | $ | 2,250 |
-| Average price paid per share | $ | 102.09 | $ | 133.40 |  | $ | 125.85 |  | $ | 134.03 |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-Note 13      Stockholders’ Equity, Comprehensive Income and Share-Based Compensation
-
-
-#### Accumulated Other Comprehensive Income (Loss)
-
-Changes in the components of accumulated other comprehensive income (AOCI), net of tax, were as follows:
-
-
-#### Unrealized Gain
-
-(Loss) on
-Investments, Net
-
-Unrealized
-Gain (Loss) on
-
-Derivative
-Instruments
-Qualifying as
-
-
-#### Cash Flow
-
-
-#### Hedges
-
-Defined and
-Postretirement
-
-
-#### Benefit Plans
-
-Cumulative
-Translation
-Adjustments
-Total
-
-(in millions)
-Balance as of October 31, 2021
-$
-(1)
-$
-(103)
-$
-(169)
-$
-13 
-$
-(260)
-Other comprehensive income (loss) before reclassifications
-(36)
-73 
-— 
-— 
-37 
-   Amounts reclassified out of AOCI
-(9)
-(27)
-— 
-— 
-(36)
-Other comprehensive income (loss), net of tax
-(45)
-46 
-— 
-— 
-1
-
-Balance as of July 31, 2022
-$
-(46)
-$
-(57)
-$
-(169)
-$
-13 
-$
-(259)
-
-
-#### Unrealized Gain
-
-(Loss) on
-Investments, Net
-
-Unrealized
-Gain (Loss) on
-
-Derivative
-Instruments
-Qualifying as
-
-
-#### Cash Flow
-
-
-#### Hedges
-
-Defined and
-Postretirement
-
-
-#### Benefit Plans
-
-Cumulative
-Translation
-Adjustments
-Total
-
-(in millions)
-Balance as of October 25, 2020
-$
-20 
-$
-(133)
-$
-(199)
-$
-13 
-$
-(299)
-Other comprehensive income (loss) before reclassifications
-(7)
-14 
-— 
-— 
-7 
-Amounts reclassified out of AOCI
-(4)
-4 
-— 
-— 
-— 
-Other comprehensive income (loss), net of tax
-(11)
-18 
-— 
-— 
-7
-
-Balance as of August 1, 2021
-$
-9 
-$
-(115)
-$
-(199)
-$
-13 
-$
-(292)
-
-The tax eﬀects on net income of amounts reclassiﬁed from AOCI for the three and nine months ended July 31, 2022 and August 1, 2021 were
-not material.
-
-
-#### Stock Repurchase Program
-
-In March 2022, Applied’s Board of Directors approved a common stock repurchase program authorizing $ 6.0 billion in repurchases, which
-supplemented the previously existing $7.5 billion authorization approved in March 2021. As of July 31, 2022, approximately $ 6.4 billion remained
-available for future stock repurchases under the repurchase program.
-
-The following table summarizes Applied’s stock repurchases for the three and nine months ended July 31, 2022 and August 1, 2021:
-
-Three Months Ended
-Nine Months Ended
-July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-
-#### 2021
-
-
-#### July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-
-#### 2021
-
-(in millions, except per share amount)
-Shares of common stock repurchased
-10 
-11 
-37 
-17 
-Cost of stock repurchased
-$
-1,000 
-$
-1,500 
-$
-4,603 
-$
-2,250 
-Average price paid per share
-$
-102.09 
-$
-133.40 
-$
-125.85 
-$
-134.03
-
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Cost of products sold | $ | 34 |  | $ | 28 |  | $ | 112 |  | $ | 93 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Research, development and engineering | 35 |  |  | 30 |  |  | 115 |  |  | 101 |  |
-| Marketing and selling | 11 |  |  | 11 |  |  | 37 |  |  | 34 |  |
-| General and administrative | 15 |  |  | 12 |  |  | 50 |  |  | 44 |  |
-| Total share-based compensation | $ | 95 |  | $ | 81 |  | $ | 314 |  | $ | 272 |
-
-
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-Applied records treasury stock purchases under the cost method using the ﬁrst-in, ﬁrst-out (FIFO) method. Upon reissuance of treasury stock,
-amounts in excess of the acquisition cost are credited to additional paid in capital. If Applied reissues treasury stock at an amount below its
-acquisition cost and additional paid in capital associated with prior treasury stock transactions is insuﬃcient to cover the diﬀerence between the
-acquisition cost and the reissue price, this difference is recorded against retained earnings.
-
-
-#### Dividends
-
-In June 2022, March 2022 and December 2021, Applied’s Board of Directors declared quarterly cash dividends, in the amount of $ 0.26, $0.26
-and $0.24 per share, respectively. The dividend declared in June 2022 is payable in September 2022. Dividends paid during the nine months ended
-July 31, 2022 and August 1, 2021 totaled $650 million and $622 million, respectively. Applied currently anticipates that cash dividends will continue
-to be paid on a quarterly basis, although the declaration of any future cash dividend is at the discretion of the Board of Directors and will depend on
-Applied’s ﬁnancial condition, results of operations, capital requirements, business conditions and other factors, as well as a determination by the
-Board of Directors that cash dividends are in the best interests of Applied’s stockholders.
-
-
-#### Share-Based Compensation
-
-Applied has a stockholder-approved equity plan, the Employee Stock Incentive Plan (ESIP), which permits grants to employees of share-based
-awards, including stock options, stock appreciation rights, restricted stock, restricted stock units, performance share units and performance units. In
-addition, the plan provides for the automatic grant of restricted stock units to non-employee directors and permits the grant of share-based awards to
-non-employee directors and consultants. Share-based awards made under the plan may be subject to accelerated vesting under certain
-circumstances in the event of a change in control of Applied. In addition, Applied currently has an Omnibus Employees’ Stock Purchase Plan
-(ESPP), which enables eligible employees to purchase Applied common stock.
-
-During the three and nine months ended July 31, 2022 and August 1, 2021, Applied recognized share-based compensation expense related to
-equity awards and ESPP shares. The effect of share-based compensation on the results of operations was as follows:
-
-Three Months Ended
-Nine Months Ended
-July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-
-#### 2021
-
-
-#### July 31,
-
-
-#### 2022
-
-
-#### August 1,
-
-
-#### 2021
-
-(In millions)
-Cost of products sold
-$
-34 
-$
-28 
-$
-112 
-$
-93 
-Research, development and engineering
-35 
-30 
-115 
-101 
-Marketing and selling
-11 
-11 
-37 
-34 
-General and administrative
-15 
-12 
-50 
-44 
-Total share-based compensation
-$
-95 
-$
-81 
-$
-314 
-$
-272
-
-The cost associated with share-based awards that are subject solely to time-based vesting requirements, less expected forfeitures, is
-recognized over the awards’ service period for the entire award on a straight-line basis. Share-based awards granted to certain executive oﬃcers
-allow partial accelerated vesting in the event of a qualifying retirement based on age and years of service. The cost associated with performance-
-based equity awards, which include both performance and market goals, is recognized for each tranche over the service period. The cost of equity
-awards related to performance goals is based on an assessment of the likelihood that the applicable performance goals will be achieved. For the
-equity awards based on market goals, the cost is recognized based upon the assumption of 100% achievement of the goal.
-
-As of July 31, 2022, Applied had $ 711 million in total unrecognized compensation expense, net of estimated forfeitures, related to grants of
-share-based awards and shares issued under the ESPP, which will be recognized over a weighted average period of 2.8 years. As of July 31, 2022,
-there were 32 million shares available for grant of share-based awards under the ESIP, and an additional 15 million shares available for issuance
-under the ESPP.
-
-
-#### 30
+(a)    the following statements shall be true (and each of the giving of the applicable Borrowing Request,
+request for issuance, request for Commitment Increase or request for Commitment extension and the acceptance by
+the Borrower of the proceeds of such Borrowing shall constitute a representation and warranty by the Borrower that
+on the date of such Borrowing or issuance, such Increase Date or such Extension Date such statements are true):
+
+(i)    the representations and warranties contained in Section 4.01 (except, in the case of
+Borrowings, the representations set forth in Sections 4.01(d)(ii) and 4.01(e)), are correct on and as of such
+date, before and after giving effect to such Borrowing or issuance, such Commitment Increase or such
+Extension Date, as though made on and as of such date (or, in the case of any representation made expressly
+as of a specified date, as of the date so specified), and
+
+(ii)    no event has occurred and is continuing, or would result from such Borrowing or issuance, such
+Commitment Increase or such Extension Date or from the application of the proceeds therefrom, that
+constitutes a Default;
+
+and (b) in the case of a Commitment Increase or extension of Commitments pursuant to Section 2.20 only, the
+Administrative Agent shall have received such other approvals, opinions or documents as any Lender through the
+Administrative Agent may reasonably request.
+
+Section 3.04. Determinations Under Section 3.01. For purposes of determining compliance with the conditions
+specified in Section 3.01, each Lender shall be deemed to have consented to, approved or accepted or to be satisfied
+with each document or other matter required thereunder to be consented to or approved by or acceptable or
+satisfactory to the Lenders unless an officer of the Administrative Agent responsible for the transactions contemplated
+by this Agreement shall have received notice from such Lender prior to the date that the Borrower, by notice to the
+Lenders, designates as the proposed Effective Date, specifying its objection thereto. The Administrative Agent shall
+promptly notify the Lenders of the occurrence of the Effective Date.
+
+
+#### 54
+
+
+## Page 149
+
+ARTICLE 4
+Representations and Warranties
+
+Section 4.01. Representations and Warranties of the Borrower. The Borrower represents and warrants as
+follows:
+
+
+#### (a)    Corporate Existence and Power. Each of the Borrower and each Subsidiary:
+
+(i)    is a corporation duly organized and validly existing under the laws of its jurisdiction of
+incorporation, except, solely with respect to Subsidiaries, where failure to be duly organized and validly
+existing under the laws of the applicable jurisdiction of incorporation would not in the aggregate have a Material
+Adverse Effect;
+
+(ii)    has all requisite power and authority and all necessary licenses and permits to own and operate
+its properties and to carry on its business as now conducted and as presently proposed to be conducted,
+except where failures to have such licenses and permits would not, in the aggregate, have a Material Adverse
+Effect; and
+
+(iii)    is duly licensed or qualified and is in good standing as a foreign corporation in each jurisdiction
+wherein the nature of the business transacted by it or the nature of the property owned or leased by it makes
+such licensing or qualification necessary, except where failures to be so licensed, qualified or in good standing
+would not, in the aggregate, have a Material Adverse Effect.
+
+(b)    Corporate and Governmental Authorization; No Contravention. The execution, delivery and
+performance by the Borrower of this Agreement and the Notes are within the Borrower’s corporate powers, have
+been duly authorized by all necessary corporate action, require no action by or in respect of, or filing with, any
+governmental body, agency or official, do not result in the creation or imposition of any Lien on any asset of the
+Borrower or any of its Subsidiaries not otherwise permitted by Section 5.02(a) and do not contravene, or constitute a
+default under (i) the certificate of incorporation or by-laws of the Borrower, (ii) any agreement that purports to affect
+the Borrower’s ability to borrow money or the Borrower’s obligations under this Agreement or the Notes, or any
+judgment, injunction, order or decree binding upon the Borrower or any of its Subsidiaries, (iii) any provision of
+material applicable law or regulation.
+
+(c)    Binding Effect. This Agreement constitutes a valid and binding agreement of the Borrower and the
+Notes, when executed and delivered in accordance with this Agreement, will constitute a valid and binding obligation
+of the Borrower, in each case enforceable in accordance with its terms, except as limited by (i) bankruptcy, insolvency
+or similar laws affecting creditors’ rights generally and (ii) general principles of equity.
+
+(d)    Financial Information. (i) The consolidated balance sheet of the Borrower and its Subsidiaries as of
+October 27, 2019, and the related consolidated statements of operations and cash flows for the fiscal year then
+ended, reported on by KPMG LLP and set forth in the Borrower’s 2019 Form 10-K (or an exhibit thereto), a copy of
+each of which has been obtained by each of the Lenders, each fairly present, in conformity with generally accepted
+accounting principles, the consolidated financial position of the Borrower and its Subsidiaries as of such date and
+their consolidated results of operations and cash flows for such fiscal period.
+
+(ii)    There has been no material adverse change since October 27, 2019, in the business, financial
+position or results of operations of the Borrower and its Subsidiaries, considered as a whole, except as disclosed in
+the Borrower’s publicly available filings with the SEC prior to the Effective Date.
+
+
+#### 55
+
+
+## Page 150
+
+(e)    Litigation. Except as set forth under the heading “Legal Proceedings” in the Borrower’s 2019 Form 10-K
+and as disclosed in any publicly available SEC filings of the Borrower made prior to the Effective Date, and then only
+to the extent that there have been no adverse developments with respect to such “Legal Proceedings” since such
+Form 10-K or in such SEC filings, there is no action, suit or proceeding pending against, or to the knowledge of the
+Borrower any investigation, action, suit or proceeding threatened against or affecting, the Borrower or any of its
+Subsidiaries before any court or arbitrator or any governmental body, agency or official (i) in which there is a
+reasonable possibility of an adverse determination which would have a Material Adverse Effect, or (ii) which in any
+manner draws into question the validity of this Agreement or the Notes.
+
+(f)    Compliance with ERISA. Each member of the ERISA Group has fulfilled its obligations under the
+minimum funding standards of ERISA and the Internal Revenue Code with respect to each Plan and is in compliance
+in all material respects with the presently applicable provisions of ERISA and the Internal Revenue Code with respect
+to each Plan. No member of the ERISA Group has (i) sought a waiver of the minimum funding standard under Section
+412 of the Internal Revenue Code in respect of any Plan, (ii) failed to make any contribution or payment to any Plan
+or Multiemployer Plan or in respect of any Benefit Arrangement, or made any amendment to any Plan or Benefit
+Arrangement, which has resulted or could result in the imposition of a Lien or the posting of a bond or other security
+under ERISA or the Internal Revenue Code which will violate Section 5.02(a) hereof or (iii) incurred any unpaid
+liability in excess of $200,000,000 under Title IV of ERISA other than a liability to the PBGC for premiums under
+Section 4007 of ERISA.
+
+(g)    Environmental Matters. The Borrower has a process of conducting periodic internal reviews relating to
+compliance by the Borrower and its Subsidiaries with Environmental Laws and liabilities thereunder. On the basis of
+such reviews and other business processes, except as set forth in the Borrower’s 2019 Form 10-K and as disclosed
+in any publicly available SEC filings of the Borrower prior to the date hereof, as of the Effective Date nothing has
+come to the attention of the Borrower which would lead it to believe that costs associated with compliance with
+Environmental Laws or liabilities thereunder (including, without limitation, any capital or operating expenses required
+for cleanup or closure of properties or compliance with Environmental Laws or Environmental Permits, any related
+constraints on operating activities and any potential liabilities to third parties) would have a Material Adverse Effect.
+
+(h)    Taxes. All federal and state income tax returns required to be filed by the Borrower or any Subsidiary in
+any jurisdiction have, in fact, been filed and all other tax returns required to be filed in any other jurisdiction have, in
+fact, been filed, except where the failure to so file in such jurisdictions (other than in connection with federal or state
+income tax returns) would not have a Material Adverse Effect, and all taxes, assessments, fees and other
+governmental charges upon the Borrower or any Subsidiary or upon any of their respective properties, income or
+franchises, which are shown to be due and payable in such returns, have been paid. The provisions for taxes on the
+books of the Borrower and each Subsidiary are adequate for all open years, and for its current fiscal period.
+
+(i)    Investment Company Act. The Borrower is not an “investment company” as defined in, or subject to
+regulation under, the Investment Company Act of 1940.
+
+(j)    Full Disclosure. (i) All written information heretofore furnished by the Borrower to the Agent and the
+Lenders for purposes of or in connection with this Agreement or any transaction contemplated hereby does not, and
+all such written information hereafter furnished by the Borrower to the Agent and the Lenders, including any publicly
+available filings made with the SEC, will not, when taken as a whole, contain any untrue statement of a material fact
+or in
+
+
+#### 56
+
+
+## Page 151
+
+the aggregate omit a material fact necessary to make the statements therein not misleading on the date as of which
+such information is stated or certified; provided that with respect to projected financial information, the Borrower
+represents only that such information was prepared in good faith based upon assumptions believed to be reasonable
+at the time (it being understood that such projections and forecasts are subject to uncertainties and contingencies and
+no assurances can be given that such projections or forecasts will be realized).
+
+(ii) As of the Effective Date, to the best knowledge of the Borrower and solely to the extent applicable,
+the information included in the Beneficial Ownership Certification provided on or prior to the Effective Date to
+any Lender in connection with this Agreement is true and correct in all material respects.
+
+(k)    Anti-Corruption Laws and Sanctions. The Borrower has implemented and maintains in effect policies
+and procedures designed to ensure compliance by the Borrower, its Subsidiaries and their respective directors,
+officers, employees and agents with Anti-Corruption Laws and applicable Sanctions, and the Borrower, its
+Subsidiaries and to the knowledge of the Borrower, their respective officers and employees and its directors and
+agents, are in compliance with Anti-Corruption Laws and applicable Sanctions in all material respects. None of (a) the
+Borrower, any Subsidiary or, to the knowledge of the Borrower or such Subsidiary, any of their respective directors,
+officers, affiliates or employees, or (b) to the knowledge of the Borrower, any agent of the Borrower or any Subsidiary
+that will act in any capacity in connection with or benefit from the credit facility established hereby, is a Sanctioned
+Person. No Borrowing or Letter of Credit, use of proceeds or other transaction contemplated by this Agreement will
+violate any Anti-Corruption Law or applicable Sanctions. This Section 4.01(k) applies with respect to directors,
+officers, employees or agents of the Borrower or one of its Subsidiaries in their capacity as such.
+
+(l)    EEA Financial Institutions. Neither the Borrower nor its Subsidiaries is an EEA Financial Institution.
+
+ARTICLE 5
+Covenants of the Borrower
+
+Section 5.01. Affirmative Covenants. So long as any Lender shall have any Credit Exposure or any
+Commitment hereunder, the Borrower will:
+
+(a)    Compliance with Laws, Etc. (i) Comply, and cause each Subsidiary to comply, in all material respects
+with all applicable laws, ordinances, rules, regulations, and requirements of governmental authorities (including,
+without limitation, Environmental Laws and ERISA and the rules and regulations thereunder) except (A) where the
+necessity of compliance therewith is contested in good faith by appropriate proceedings or (B) where the violation of
+which, individually or in the aggregate, would not reasonably be expected to (x) result in a Material Adverse Effect or
+(y) if such violation is not remedied, result in any Lien not permitted under Section 5.02(a), and (ii) maintain in effect
+and enforce policies and procedures designed to ensure compliance by the Borrower, its Subsidiaries and their
+respective directors, officers, employees and agents with Anti-Corruption Laws and applicable Sanctions.
+
+(b)    Payment of Obligations. Pay and discharge, and cause each Subsidiary to pay and discharge, at or
+before maturity, all their respective material obligations and liabilities, including, without limitation, tax liabilities, except
+where the same may be contested in good faith by appropriate proceedings or the failure to pay such obligations and
+liabilities could not reasonably
+
+
+#### 57
+
+
+## Page 152
+
+be expected to result in a Material Adverse Effect, and maintain, and cause each Subsidiary to maintain, in
+accordance with GAAP, appropriate reserves for the accrual of any of the same.
+
+(c)    Maintenance of Property; Insurance. (i) Keep, and cause each Subsidiary to keep, all property material
+to its business in good working order and condition (ordinary wear and tear excepted) except to the extent that failure
+to do so could not be reasonably expected to result in a Material Adverse Effect; provided that nothing in this Section
+5.01(c)(i) shall prevent the abandonment of any property if such abandonment does not result in any Default
+hereunder and the Borrower determines, in the exercise of its reasonable business judgment, that such abandonment
+is in the interest of the Borrower.
+
+(ii)    Maintain, and cause each Subsidiary to maintain, insurance coverage by financially sound and
+reputable insurers and in such forms and amounts and against such risks as are customary for corporations of
+similar size engaged in the same or a similar business and owning and operating similar properties in similar
+locations.
+
+(d)    Preservation of Corporate Existence, Etc. Preserve, renew and keep in full force and effect, and cause
+each Subsidiary to preserve, renew and keep in full force and effect, their respective corporate existence and their
+respective rights, privileges and franchises, except to the extent that failures to maintain their respective rights,
+privileges and franchises could not, in the aggregate, reasonably be expected to have a Material Adverse Effect;
+provided that nothing in this Section 5.01(d) shall prohibit (A) the merger of a Subsidiary into the Borrower or the
+merger or consolidation of a Subsidiary with or into another Person if the corporation surviving such consolidation or
+merger is a Subsidiary and if, in each case, after giving effect thereto, no Event of Default shall have occurred and be
+continuing or (B) the termination of the corporate existence of any Subsidiary if such termination does not result in
+any Default hereunder and the Borrower determines, in the exercise of its reasonable business judgment, that such
+termination is in the interest of the Borrower.
+
+(e)    Visitation Rights. Permit the Administrative Agent and the Lenders (i) to visit and inspect during normal
+business hours (at the expense of such Lender unless an Event of Default has occurred and is continuing), under the
+Borrower’s guidance and upon reasonable prior notice if a Default shall have occurred and be continuing or, so long
+as no Default shall have occurred and be continuing, upon not less than three Business Days prior notice, any of the
+properties of the Borrower or any Subsidiary, (ii) to examine (to the extent material to ascertaining compliance with
+the terms and provisions hereof or to the extent reasonably related to the financial condition or material operations of
+the Borrower or a Subsidiary) all of their books of account, records, reports and other papers, and to make copies and
+extracts therefrom (other than attorney-client privileged and attorney work-product documents) and (iii) to the extent
+material to ascertaining compliance with the terms and provisions hereof or to the extent reasonably related to the
+financial condition or material operations of the Borrower or a Subsidiary, to discuss their respective affairs, finances
+and accounts with their respective officers, employees (who are managers or officers), and independent public
+accountants and by this provision the Borrower authorizes said accountants to discuss with the Administrative Agent
+and the Lenders the finances and affairs of the Borrower and its Subsidiaries; provided that the Administrative Agent
+or the applicable Lender shall have given prior written notice to the Borrower of its intention to discuss such finances
+and affairs with such accountants and have given the Borrower the opportunity to participate in such discussions, all
+at such reasonable times and as often as may be reasonably requested. Such inspection and other rights are subject
+to the provisions of Section 8.12 and applicable law, and shall not extend to trade secrets of the Borrower or its
+Subsidiaries, to information covered by attorney-client or other privilege or to information subject to third party
+confidentiality agreements or privacy rights.
+
+
+#### 58
+
+
+## Page 153
+
+(f)    Keeping of Books. Keep, and cause each of its Subsidiaries to keep, proper books of record and
+account, in which full, true and correct entries shall be made of all dealings and transactions in relation to its business
+and activities in accordance with generally accepted accounting principles in effect from time to time.
+
+(g)    Reporting Requirements. Deliver in writing or by email to the Administrative Agent (except as stated in
+clauses (i), (ii), (iv) and (vi) below and Section 8.01(b)) or make available electronically:
+
+(i)    as soon as available and in any event within 45 days after the end of each quarterly fiscal period
+(except the last) of each fiscal year, copies of:
+
+(A)    a consolidated balance sheet of the Borrower and its Subsidiaries as of the close of
+such quarterly fiscal period, setting forth in comparative form the consolidated figures as of the close of
+the fiscal year then most recently ended,
+
+(B)    consolidated statements of operations of the Borrower and its Subsidiaries for such
+quarterly fiscal period and for the portion of the fiscal year ending with such quarterly fiscal period, in
+each case setting forth in comparative form the consolidated figures for the corresponding period and
+portion of the preceding fiscal year and
+
+(C)    a consolidated statement of cash flows of the Borrower and its Subsidiaries for the
+portion of the fiscal year ending with such quarterly fiscal period, setting forth in comparative form the
+consolidated figures for the corresponding period of the preceding fiscal year,
+
+it being agreed that (1) delivery of such financial statements shall be deemed to be a representation by the
+Borrower that such financial statements fairly present, in conformity with GAAP, the consolidated financial
+position of the Borrower and its Subsidiaries as of the close of such quarterly fiscal period and their
+consolidated results of operations and cash flows for the portion of the fiscal year ending at the end of such
+quarterly fiscal period (subject to normal year-end adjustments) and (2) the Borrower may satisfy the
+requirements of this Section 5.01(g)(i) by filing its Quarterly Report on Form 10-Q with the SEC; provided that
+such Form 10-Q satisfies the foregoing requirements of this paragraph (i);
+
+(ii)    as soon as available and in any event within 90 days after the close of each fiscal year of the
+Borrower, copies of:
+
+(A)    a consolidated balance sheet of the Borrower and its Subsidiaries as of the close of
+such fiscal year, and
+
+(B)    consolidated statements of operations and cash flows of the Borrower and its
+Subsidiaries for such fiscal year,
+
+in each case setting forth in comparative form the consolidated figures for the two preceding fiscal years, all in
+reasonable detail and accompanied by a report thereon of a firm of independent public accountants of
+recognized national standing selected by the Borrower to the effect that the consolidated financial statements
+present fairly, in all material respects, the consolidated financial position of the Borrower and its Subsidiaries
+as of the end of the fiscal year being reported on and their consolidated results of
+
+
+#### 59
+
+
+## Page 154
+
+operations and cash flows for said year in conformity with GAAP and that the examination of such accountants
+in connection with such financial statements has been conducted in accordance with generally accepted
+auditing standards, it being agreed that the Borrower may satisfy the requirements of this Section 5.01(g)(ii) by
+filing its Annual Report on Form 10-K with the SEC; provided that such Form 10-K (including the exhibits filed
+therewith) satisfies the requirements of this paragraph (ii);
+
+(iii)    promptly upon receipt thereof, one copy of each interim or special audit made by independent
+accountants of the books of the Borrower or any Subsidiary, in all cases, material to the financial condition or
+operations of the Borrower or of the Borrower and its Subsidiaries taken as a whole, and any management
+letter received from such accountants for the Borrower or such Subsidiary that is material to the financial
+condition or operations of the Borrower or of the Borrower and its Subsidiaries taken as a whole;
+
+(iv)    promptly upon their becoming available, (A) one copy of each financial statement, report,
+notice or proxy statement sent by the Borrower to stockholders generally and of each regular or periodic
+report, and any registration statement or prospectus (other than those on Form S-8) filed by the Borrower or
+any Subsidiary with any securities exchange or the SEC or any successor agency; provided that the filing of
+such document with the SEC shall satisfy such requirement, and (B) one copy of any orders in any
+proceedings to which the Borrower or any of its Subsidiaries is a party, issued by any governmental agency,
+Federal or state, having jurisdiction over the Borrower or any of its Subsidiaries, which orders are material to
+the financial condition or operations of the Borrower or the Borrower and its Subsidiaries taken as a whole;
+
+(v)    promptly upon the occurrence thereof, written notice of (A) a Reportable Event with respect to
+any Plan; (B) the institution of any steps by the Borrower, any ERISA Affiliate, the PBGC or any other person
+to terminate any Plan if such termination were to result in a liability of the Borrower or any ERISA Affiliate to the
+PBGC in an amount which could materially and adversely affect the condition, financial or otherwise, of the
+Borrower or of the Borrower and its Subsidiaries taken as a whole; (C) the institution of any steps by the
+Borrower or any ERISA Affiliate to withdraw from any Plan or any Multiemployer Plan if such withdrawal would
+result in a liability of the Borrower or any ERISA Affiliate in an amount which could materially and adversely
+affect the condition, financial or otherwise, of the Borrower or of the Borrower and its Subsidiaries taken as a
+whole; (D) a “prohibited transaction” within the meaning of Section 406 of ERISA (which has not been
+exempted under or pursuant to Section 408 of ERISA) in connection with any Plan if such “prohibited
+transaction” would result in a liability of the Borrower or any Subsidiary in an amount which could materially
+and adversely affect the condition, financial or otherwise, of the Borrower or of the Borrower and its
+Subsidiaries taken as a whole; (E) any increase in the contingent liability of the Borrower or any Subsidiary
+with respect to any post-retirement welfare liability in an amount that could have a Material Adverse Effect; or
+(F) the taking of any action by, or the threat in writing of the taking of any action by, the Internal Revenue
+Service, the Department of Labor or the PBGC with respect to any of the foregoing;
+
+(vi)    within the periods provided in paragraphs (i) and (ii) above, a certificate of an authorized
+financial officer of the Borrower stating that such officer has reviewed the provisions of this Agreement and (A)
+setting forth the information and computations (in sufficient detail) required in order to establish whether the
+Borrower was in compliance with the requirements of Sections 5.02(a) and 5.03 at the end of the period
+covered by the financial statements then being furnished and (B) stating whether there existed as of the date
+of such financial statements and whether, to the best of such officer’s knowledge,
+
+
+#### 60
+
+
+## Page 155
+
+there exists on the date of the certificate or existed at any time during the period covered by such financial
+statements any Default and, if any such condition or event exists on the date of the certificate, specifying the
+nature and period of existence thereof and the action the Borrower is taking and proposes to take with respect
+thereto; provided, that the email of such certificate in accordance with Section 8.01(b) shall satisfy the delivery
+requirements of this paragraph;
+
+(vii)    within five days after any officer of the Borrower obtains knowledge of any Default, if such
+Default is then continuing, a certificate of the chief financial officer or the chief accounting officer of the
+Borrower setting forth the details thereof and the action which the Borrower is taking and proposes to take with
+respect thereto;
+
+(viii)    promptly upon any change in the Public Debt Rating, a notice reporting such change and
+stating the date on which such change was publicly announced by the relevant rating agency;
+
+(ix)    promptly following any request therefor, information and documentation reasonably requested
+by the Administrative Agent or any Lender for purposes of compliance with applicable “know your customer”
+and anti-money laundering rules and regulations, including, without limitation, the PATRIOT Act and the
+Beneficial Ownership Regulation; and
+
+(x)    from time to time such additional information regarding the financial position or business of the
+Borrower and its Subsidiaries as any Lender through the Agent may reasonably request.
+
+Section 5.02. Negative Covenants. So long as any Lender shall have any Credit Exposure or any Commitment
+hereunder, the Borrower will not:
+
+(a)    Liens, Etc. Create, incur or suffer to exist, or permit any of its Subsidiaries to create, incur or suffer to
+exist, any Lien on or with respect to any of its properties, whether now owned or hereafter acquired, or upon any
+income or profits therefrom, or acquire or agree to acquire, or permit any Subsidiary to acquire, any property or
+assets upon conditional sales agreements or other title retention devices, except:
+
+(i)    Liens for taxes and assessments or governmental charges or levies and Liens securing claims
+or demands of mechanics and materialmen, provided that payment thereof is not at the time required by
+Section 5.01(a) or (b);
+
+(ii)    any Lien of or resulting from any judgment or award; provided that either (A) the amount
+secured thereby does not exceed $200,000,000 or (B) if the amount secured thereby does exceed
+$200,000,000, the time for the appeal or petition for rehearing of such judgment or award shall not have
+expired, or the Borrower or a Subsidiary shall in good faith be prosecuting an appeal or proceeding for a
+review thereof, and execution of such judgment or award shall be stayed pending such appeal or proceeding
+for review;
+
+(iii)    Liens incidental to the conduct of business conducted by the Borrower and its Subsidiaries in
+the ordinary course of business or the ownership of properties and assets owned by the Borrower and its
+Subsidiaries (including (x) Liens in connection with worker’s compensation, unemployment insurance and
+other like laws, (y) warehousemen’s and attorneys’ liens and statutory landlords’ liens and (z) Liens consisting
+of any right of offset, or statutory or consensual banker’s lien, on bank
+
+
+#### 61

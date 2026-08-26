@@ -1,8 +1,8 @@
-# Annual Report: APPLIED-MATERIALS_2025_Q3_10-Q
+# Financial Report: APPLIED-MATERIALS_2025_Q3_10-Q
 
 - **Source File**: `APPLIED-MATERIALS_2025_Q3_10-Q.pdf`
-- **Total Pages**: 63
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 63
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3829,51 +3829,48 @@ operations or to our balance sheet.
 #### 25
 
 
-## Page 26
+## Page 33
 
-### Table 26.1
+### Table 33.1
 
-| China | $ | 2,548 |  | 35 | % |  | $ | 2,153 |  | 32 | % |  | 18 | % | $ 6,565 |  | 30 | % | $ | 7,981 |  | 40 | % |  | (18) | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Korea | 1,160 |  |  | 16 | % |  | 1,102 |  |  | 16 | % |  | 5 | % | 4,389 |  | 20 | % | 3,321 |  |  | 16 | % |  | 32 | % |
-| Taiwan | 1,843 |  |  | 25 | % |  | 1,148 |  |  | 17 | % |  | 61 | % | 5,023 |  | 23 | % | 2,726 |  |  | 14 | % |  | 84 | % |
-| Japan | 713 |  |  | 10 | % |  | 555 |  |  | 8 | % |  | 28 | % | 1,825 |  | 9 | % | 1,573 |  |  | 8 | % |  | 16 | % |
-| Southeast Asia | 195 |  |  | 3 | % |  | 428 |  |  | 6 | % |  | (54) | % | 616 |  | 3 | % | 827 |  |  | 4 | % |  | (26) | % |
-| Asia Pacific | 6,459 |  |  | 89 | % |  | 5,386 |  |  | 79 | % |  | 20 | % | 18,418 |  | 85 | % | 16,428 |  |  | 82 | % |  | 12 | % |
-| United States | 683 |  |  | 9 | % |  | 1,053 |  |  | 16 | % |  | (35) | % | 2,408 |  | 11 | % | 2,665 |  |  | 13 | % |  | (10) | % |
-| Europe | 160 |  |  | 2 | % |  | 339 |  |  | 5 | % |  | (53) | % | 742 |  | 4 | % | 1,038 |  |  | 5 | % |  | (29) | % |
-| Total | $ | 7,302 |  | 100 | % |  | $ | 6,778 |  | 100 | % |  | 8 | % | $ 21,568 |  | 100 | % | $ | 20,131 |  | 100 | % |  | 7 | % |
-
-
-### Table 26.2
-
-| Foundry, logic and other | 69 | % |  | 72 | % |  | 67 | % |  | 66 | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (In millions, except percentages and ratios) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Operating income (loss) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Semiconductor Systems | $ | 1,966 |  |  | $ | 1,712 |  |  | $ | 254 |  | 15 | % |  | $ | 5,852 |  |  | $ | 5,157 |  |  | $ | 695 |  | 13 | % |
+| Applied Global Services | 445 |  |  |  | 467 |  |  |  | (22) |  |  | (5) | % |  | 1,338 |  |  |  | 1,320 |  |  |  | 18 |  |  | 1 | % |
+| Display | 62 |  |  |  | 16 |  |  |  | 46 |  |  | 288 | % |  | 144 |  |  |  | 46 |  |  |  | 98 |  |  | 213 | % |
+| Corporate and Other | (240) |  |  |  | (253) |  |  |  | 13 |  |  | (5) | % |  | (757) |  |  |  | (702) |  |  |  | (55) |  |  | 8 | % |
+| Total | $ | 2,233 |  |  | $ | 1,942 |  |  | $ | 291 |  |  |  |  | $ | 6,577 |  |  | $ | 5,821 |  |  | $ | 756 |  |  |  |
+| Operating margin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Semiconductor Systems | 36.2 |  | % |  | 34.8 |  | % |  | 1.4 points |  |  |  |  |  | 36.5 |  | % |  | 35.0 |  | % |  | 1.5 points |  |  |  |  |
+| Applied Global Services | 27.8 |  | % |  | 29.6 |  | % |  | (1.8) points |  |  |  |  |  | 28.1 |  | % |  | 28.8 |  | % |  | (0.7) points |  |  |  |  |
+| Display | 23.6 |  | % |  | 6.4 |  | % |  | 17.2 points |  |  |  |  |  | 20.4 |  | % |  | 6.8 |  | % |  | 13.6 points |  |  |  |  |
 
 
 
-### Table 26.3
+#### Table of Contents
 
-| Flash memory (NAND) | 9 | % |  | 4 | % |  | 7 | % |  | 4 | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Our provision for income taxes and eﬀective tax rate are aﬀected by the geographical composition of pre-tax income which includes
+jurisdictions with diﬀering tax rates, conditional reduced tax rates and other income tax incentives. It is also aﬀected by events that vary from
+period to period, such as changes in income tax laws and the resolution of prior years’ income tax filings.
+
+Our eﬀective tax rates for the third quarter of ﬁscal 2025 and 2024 were 30.6 percent and 13.0 percent, respectively. The eﬀective tax rate
+for the third quarter of ﬁscal 2025 was higher than the same period in the prior ﬁscal year, primarily due to the recognition of a $410 million
+valuation allowance against deferred tax assets related to corporate alternative minimum tax (CAMT) credits. These credits are not expected to be
+realized as a result of changes in the timing of future tax deductions, following the enactment of the One Big Beautiful Bill Act during the quarter.
+No prudent and feasible tax-planning strategies are currently available. The amount of the valuation allowance may be adjusted in future quarters
+if estimates of future taxable income change.
+
+Our eﬀective tax rates for the ﬁrst nine months of ﬁscal 2025 and 2024 were 27.2 percent and 13.0 percent, respectively. The eﬀective tax
+rate for the ﬁrst nine months of ﬁscal 2025 was higher than the same period in the prior ﬁscal year, primarily due to a remeasurement of deferred
+tax assets resulting from new tax incentive agreements in Singapore and due to the recognition of a valuation allowance related to our CAMT
+credits, as described above.
 
 
-
-### Table 26.4
-
-| Unallocated net revenue | $ 12 |  | $ | 23 |  | $ | 65 | $ | 137 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unallocated cost of products sold and expenses | (252) |  | (276) |  |  | (822) |  | (839) |  |
-| Total | $ (240) |  | $ | (253) |  | $ | (757) | $ | (702) |
+#### Segment Operating Income (Loss)
 
 
-APPLIED MATERIALS, INC.
-
-
-#### NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS - (Continued)
-
-Net revenue by geographic region, determined by the location of customers’ facilities to which products were shipped and services were
-performed, was as follows:
+#### Operating income (loss) by segment for the periods presented were as follows:
 
 Three Months Ended
 Nine Months Ended
@@ -3902,442 +3899,51 @@ Change
 2024
 Change
 
-(In millions, except percentages)
-China
+(In millions, except percentages and ratios)
+Operating income (loss)
+   Semiconductor Systems
 $
-2,548 
-35 %
+1,966 
 $
-2,153 
-32 %
-18 %
+1,712 
 $
-6,565 
-30 %
+254 
+15 %
 $
-7,981 
-40 %
-(18) %
-Korea
-1,160 
-16 %
-1,102 
-16 %
-5 %
-4,389 
-20 %
-3,321 
-16 %
-32 %
-Taiwan
-1,843 
-25 %
-1,148 
-17 %
-61 %
-5,023 
-23 %
-2,726 
-14 %
-84 %
-Japan
-713 
-10 %
-555 
-8 %
-28 %
-1,825 
-9 %
-1,573 
-8 %
-16 %
-Southeast Asia
-195 
-3 %
-428 
-6 %
-(54) %
-616 
-3 %
-827 
-4 %
-(26) %
-Asia Pacific
-6,459 
-89 %
-5,386 
-79 %
-20 %
-18,418 
-85 %
-16,428 
-82 %
-12 %
-United States
-683 
-9 %
-1,053 
-16 %
-(35) %
-2,408 
-11 %
-2,665 
+5,852 
+$
+5,157 
+$
+695 
 13 %
-(10) %
-Europe
-160 
-2 %
-339 
-5 %
-(53) %
-742 
-4 %
-1,038 
-5 %
-(29) %
-Total
-$
-7,302 
-100 %
-$
-6,778 
-100 %
-8 %
-$ 21,568 
-100 %
-$ 20,131 
-100 %
-7 %
-
-Net revenue for Semiconductor Systems by market for the periods presented were as follows:
-
-Three Months Ended
-Nine Months Ended
-July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-
-#### 2024
-
-
-#### July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-2024
-Foundry, logic and other
-69 %
-72 %
-67 %
-66 %
-Dynamic random-access memory (DRAM)
-22 %
-24 %
-26 %
-30 %
-Flash memory (NAND)
-9 %
-4 %
-7 %
-4 %
-100 %
-100 %
-100 %
-100 %
-
-
-#### The reconciling items included in Corporate and Other were as follows:
-
-Three Months Ended
-Nine Months Ended
-July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-
-#### 2024
-
-
-#### July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-
-#### 2024
-
-(In millions)
-Unallocated net revenue
-$
-12 
-$
-23 
-$
-65 
-$
-137 
-Unallocated cost of products sold and expenses
-(252)
-(276)
-(822)
-(839)
-Total
-$
+   Applied Global Services
+445 
+467 
+(22)
+(5)%
+1,338 
+1,320 
+18 
+1 %
+   Display
+62 
+16 
+46 
+288 %
+144 
+46 
+98 
+213 %
+   Corporate and Other
 (240)
-$
-(253) $
+(253)
+13 
+(5)%
 (757)
-$
 (702)
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
-The following management’s discussion and analysis is provided in addition to the accompanying consolidated condensed ﬁnancial
-statements and notes, and for a full understanding of our results of operations and ﬁnancial condition should be read in conjunction with the
-consolidated condensed ﬁnancial statements and notes included in this Form 10-Q and the ﬁnancial statements and notes for the ﬁscal year
-ended October 27, 2024 contained in our Form 10-K filed on December 13, 2024.
-
-This report contains forward-looking statements that involve a number of risks and uncertainties. Examples of forward-looking statements
-include those regarding our future ﬁnancial or operating results, customer demand and spending, end-user demand, our and market and industry
-trends and outlooks, cash ﬂows and cash deployment strategies, declaration of dividends, share repurchases, business strategies and priorities,
-costs and cost controls, products, competitive positions, management’s plans and objectives for future operations, research and development,
-acquisitions, investments and divestitures, growth opportunities, restructuring and severance activities, backlog, working capital, liquidity,
-investment portfolio and policies, taxes, supply chain, manufacturing, properties, legal matters, claims and proceedings, and other statements that
-are not historical facts, as well as their underlying assumptions. Forward-looking statements may contain words such as “may,” “will,” “should,”
-“could,” “would,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “intend,” “potential” and “continue,” the negative of these terms, or other
-comparable terminology. All forward-looking statements are subject to risks and uncertainties and other important factors, including those
-discussed in Part II, Item 1A, “Risk Factors,” below and elsewhere in this report. These and many other factors could aﬀect our future ﬁnancial
-condition and operating results and could cause actual results to diﬀer materially from expectations based on forward-looking statements made in
-this document or elsewhere by us or on our behalf. Forward-looking statements are based on management’s estimates, projections and
-expectations as of the date hereof, and we undertake no obligation to revise or update any such statements.
-
-
-#### 27
-
-
-## Page 28
-
-
-#### Table of Contents
-
-
-#### Overview
-
-We provide equipment, services and software to the semiconductor, display, and related industries. Our customers include manufacturers
-of semiconductor wafers and chips, liquid crystal and organic light-emitting diode (OLED) displays, and other electronic devices. Our customers’
-products are used in a wide variety of products such as personal computing devices, mobile phones, artiﬁcial intelligence (AI) and data center
-servers, automobiles, connected devices, industrial applications and consumer electronics. Each of our segments is subject to variable industry
-conditions, as demand for equipment and services can change depending on supply and demand for chips, display technologies and other
-electronic devices, as well as other factors, such as global economic, political and market conditions, and the nature and timing of technological
-advances in fabrication processes.
-
-Our strategic priorities include developing products that help solve customers’ challenges at technology inﬂections, growing our service
-business, and expanding our served market opportunities in the semiconductor and display industries. Our long-term growth strategy requires
-continued development of new materials engineering capabilities, including products and platforms that enable expansion into new and adjacent
-markets. Our signiﬁcant investments in research, development and engineering (RD&E) are intended to enable us to deliver new products and
-technologies before the emergence of strong demand, allowing customers to incorporate these products into their manufacturing plans during
-early-stage technology selection. We collaborate closely with our global customers to design systems and processes to meet their technical and
-production requirements.
-
-Our future operating results depend to a considerable extent on our ability to maintain a competitive advantage in the equipment and
-service products we provide. Development cycles depend on whether the product is an enhancement of an existing product, which typically has a
-shorter development cycle, or a new product, which typically has a longer development cycle. Most of our existing products resulted from internal
-development activities and innovations involving new technologies, materials and processes. In certain instances, we acquire technologies, either
-in existing or new product areas, to complement our existing technology capabilities and to reduce time to market. Product development and
-manufacturing activities occur primarily in the United States, Europe, Israel, and Asia. Our portfolio of equipment and service products are highly
-technical and are sold primarily through a direct sales force.
-
-We believe that it is critical to make substantial investments in RD&E to assure the availability of innovative technology that meets the
-current and projected requirements of our customers’ most advanced designs. We have and continue to invest in RD&E in order to continue to
-offer new products and technologies.
-
-We operate in three reportable segments: Semiconductor Systems, Applied Global Services® (AGS), and Display. A summary of ﬁnancial
-information for each reportable segment is found in Note 13 of Notes to Consolidated Condensed Financial Statements. A discussion of factors
-that could affect our operations is set forth under “Risk Factors” in Part II, Item 1A, which is incorporated herein by reference.
-
-Our results are driven primarily by customer spending on capital equipment and services to support key technology transitions or to increase
-production volume in response to worldwide demand for semiconductors and displays.
-
-The Semiconductor Systems segment is comprised primarily of capital equipment used to fabricate semiconductor chips. Spending by
-semiconductor customers, which include companies that operate in the foundry, logic, memory, and other semiconductor chip markets, is driven
-by demand for products such as smartphones, mobile devices, personal computers, servers for artiﬁcial intelligence (AI) and data centers,
-automobiles, clean energy, storage, and other products, and the nature and timing of technological advances in fabrication processes. The
-growth of data and emerging end-market drivers such as AI, the internet of things, 5G networks, electric and autonomous vehicles and
-augmented and virtual reality are also creating the next wave of growth for the industry. As a result, products within the Semiconductor Systems
-segment are subject to signiﬁcant changes in customer requirements, including transitions to smaller dimensions, increasingly complex chip
-architectures, new materials and an increasing number of applications. Spending can also depend on customer facility readiness and timeline for
-installation of capital equipment at customer sites. Development eﬀorts are focused on solving customers’ key technical challenges in patterning,
-transistor, interconnect, process control, and packaging performance.
-
-
-#### 28
-
-
-## Page 29
-
-
-#### Table of Contents
-
-The AGS segment provides services, spares and factory automation software to customer fabrication plants globally to help customers
-optimize performance of our large, global installed base of semiconductor, display and other equipment. The AGS segment also includes 200mm
-and other equipment, which is shipped to many customers globally that serve the non-leading-edge end markets. Demand for AGS’ service and
-spares is driven by our large and growing installed base of manufacturing systems, and customers’ needs to shorten ramp times, improve system
-performance, and optimize factory output and operating costs. Industry conditions that aﬀect AGS’ sales of spares and services are primarily
-characterized by changes in semiconductor manufacturers’ wafer starts and utilization rates, growth of the installed base of equipment and
-growing service intensity of newer tools. Our strategy is to continue to shift the AGS’ service and spares business to a subscription agreement
-model, improving customer factory performance and optimizing operating costs, and providing us a more predictable revenue stream.
-
-The Display segment encompasses products for manufacturing liquid crystal and OLED displays, and other display technologies for TVs,
-monitors, laptops, personal computers (PC), tablets, smart phones, other consumer-oriented devices, equipment upgrades and solar energy cells.
-The segment is focused on expanding its presence through technologically-diﬀerentiated equipment and products that provide customers with
-improved performance and yields. Display segment growth depends primarily on consumer demand for increasingly larger and more advanced
-TVs and high-resolution displays for mobile devices and information technology (IT) products, including laptops, monitors and tablets, as well as
-new form factors, including thin, light, curved and ﬂexible displays, and new applications such as augmented and virtual reality. The timing of
-customer investment in manufacturing equipment is also aﬀected by the timing of next-generation process development and of capacity
-expansion to meet end-market demand.
-
-The Corporate and Other category includes revenues and costs of product not included in our reportable segments, as well as certain
-operating expenses that are not allocated to our reportable segments and are managed separately at the corporate level. These operating
-expenses include costs for certain management, ﬁnance, legal, human resources, and RD&E functions performed at the corporate level; and
-unabsorbed information technology and occupancy. In addition, we do not allocate to our reportable segments severance, asset impairment and
-any associated charges related to restructuring actions, unless these actions pertain to a specific reportable segment.
-
-The United States government has implemented export regulations for U.S. semiconductor technology sold or provided to customers in
-China, which have limited our ability to provide certain products and services to customers in China, over the past several years. The U.S.
-government continues to issue new export licensing requirements, and additional updates and other requirements that have had the eﬀect of
-further limiting our ability to provide certain products and services to customers outside the U.S., including in China. Also, the United States has
-recently announced changes to its trade policy, including increased tariﬀs on imports. These actions have caused substantial uncertainty and
-have resulted in retaliatory measures, including new tariﬀs on U.S. goods imposed by China and other countries. Some of these actions have
-been followed by announcements of limited exemptions and temporary pauses. For a description of these risks, see the risk factors entitled
-“Business and Industry Risks - Global trade issues and changes in and uncertainties with respect to trade policies and export regulations,
-including import and export license requirements, trade sanctions, tariﬀs and international trade disputes, have adversely impacted and could
-further adversely impact our business and operations, and reduce the competitiveness of our products and services relative to local and global
-competitors” and “Business and Industry Risks - We are exposed to risks and uncertainty related to recent changes in trade policies, and
-increased tariffs and trade disputes” in Part II, Item 1A, “Risk Factors.”
-
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Net revenue | $ | 7,302 |  |  | $ | 6,778 |  | $ 524 |  | $ | 21,568 |  |  | $ | 20,131 |  | $ | 1,437 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Gross margin | 48.8 |  | % |  | 47.3 |  | % | 1.5 points |  | 48.9 |  | % |  | 47.5 |  | % | 1.4 points |  |
-| Operating income | $ | 2,233 |  |  | $ | 1,942 |  | $ 291 |  | $ | 6,577 |  |  | $ | 5,821 |  | $ | 756 |
-| Operating margin | 30.6 |  | % |  | 28.7 |  | % | 1.9 points |  | 30.5 |  | % |  | 28.9 |  | % | 1.6 points |  |
-| Net income | $ | 1,779 |  |  | $ | 1,705 |  | $ 74 |  | $ | 5,101 |  |  | $ | 5,446 |  | $ | (345) |
-| Earnings per diluted share | $ | 2.22 |  |  | $ | 2.05 |  | $ 0.17 |  | $ | 6.29 |  |  | $ | 6.52 |  | $ | (0.23) |
-
-
-### Table 30.2
-
-| Semiconductor Systems | $ | 5,427 |  | 74 | % |  | $ | 4,924 |  | 73 | % | 10 | % |  | $ | 16,038 |  | 75 | % |  | $ | 14,734 |  | 73 | % |  | 9 | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Applied Global Services | 1,600 |  |  | 22 | % |  | 1,580 |  |  | 23 | % | 1 | % |  | 4,760 |  |  | 22 | % |  | 4,586 |  |  | 23 | % |  | 4 | % |
-| Display | 263 |  |  | 4 | % |  | 251 |  |  | 4 | % | 5 | % |  | 705 |  |  | 3 | % |  | 674 |  |  | 3 | % |  | 5 | % |
-| Corporate and Other | 12 |  |  | — | % |  | 23 |  |  | — | % | (48) | % |  | 65 |  |  | — | % |  | 137 |  |  | 1 | % |  | (53) | % |
-| Total | $ | 7,302 |  | 100 | % |  | $ | 6,778 |  | 100 | % | 8 | % |  | $ | 21,568 |  | 100 | % |  | $ | 20,131 |  | 100 | % |  | 7 | % |
-
-
-### Table 30.3
-
-| Foundry, logic and other | 69 | % |  | 72 | % |  | 67 | % | 66 | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 30.4
-
-| Flash memory (NAND) | 9 | % |  | 4 | % |  | 7 | % | 4 | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-#### Table of Contents
-
-
-#### Results of Operations
-
-Fiscal 2025 and 2024 each contain 52 weeks and the first nine months of fiscal 2025 and 2024 each contained 39 weeks.
-
-The following table presents certain significant measurements for the periods presented:
-
-Three Months Ended
-Nine Months Ended
-July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-2024
-Change
-
-
-#### July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-2024
-Change
-
-(In millions, except per share amounts and percentages)
-Net revenue
-$
-7,302 
-$
-6,778 
-$
-524 
-$
-21,568 
-$
-20,131 
-$
-1,437 
-Gross margin
-48.8 %
-47.3 %
-1.5 points
-48.9 %
-47.5 %
-1.4 points
-Operating income
+(55)
+8 %
+     Total
 $
 2,233 
 $
@@ -4351,44 +3957,134 @@ $
 $
 756 
 Operating margin
-30.6 %
-28.7 %
-1.9 points
-30.5 %
-28.9 %
-1.6 points
-Net income
-$
-1,779 
-$
-1,705 
-$
-74 
-$
-5,101 
-$
-5,446 
-$
-(345)
-Earnings per diluted share
-$
-2.22 
-$
-2.05 
-$
-0.17 
-$
-6.29 
-$
-6.52 
-$
-(0.23)
+   Semiconductor Systems
+36.2 %
+34.8 %
+1.4 points
+36.5 %
+35.0 %
+1.5 points
+   Applied Global Services
+27.8 %
+29.6 %
+(1.8) points
+28.1 %
+28.8 %
+(0.7) points
+   Display
+23.6 %
+6.4 %
+17.2 points
+20.4 %
+6.8 %
+13.6 points
+
+Semiconductor System’s operating margin for the three months ended July 27, 2025 increased compared to the same period in the prior
+year primarily driven by higher net revenue, favorable changes in customer and product mix, and an increase in average selling prices, partially
+oﬀset by increased RD&E expenses. Semiconductor System’s operating margin for the nine months ended July 27, 2025 increased compared to
+the same period in the prior year primarily driven by higher net revenue, favorable changes in customer and product mix, lower material and
+manufacturing costs, and an increase in average selling prices, partially offset by increased RD&E expenses.
+
+AGS’ operating margin for the three and nine months ended July 27, 2025 decreased compared to the same periods in the prior year
+primarily due to a decrease in 200mm equipment net revenue, and higher excess and obsolete inventory charges, partially oﬀset by higher net
+revenue from services and spares.
+
+Display’s operating margin for the three and nine months ended July 27, 2025 increased compared to the same periods in the prior year
+primarily due to the increase in Display net revenue and favorable product mix.
 
 
-#### Net revenue by segment for the periods presented were as follows:
+#### 33
 
-Three Months Ended
-Nine Months Ended
+
+## Page 34
+
+
+#### Table of Contents
+
+
+#### Recent Accounting Pronouncements
+
+
+#### Accounting Standards Not Yet Adopted
+
+Measurement of Credit Losses for Accounts Receivable and Contract Assets . In July 2025, the Financial Accounting Standards Board
+(FASB) issued an accounting standard update to provide a practical expedient that simplifies the calculation of expected credit losses (Topic 326).
+The practical expedient allows an entity to assume that current conditions as of the balance sheet date do not change for the remaining life of the
+asset, therefore, an entity will no longer need to develop reasonable and supportable forecasts of future economic conditions. This authoritative
+guidance will be eﬀective for us beginning with our interim and annual reporting for ﬁscal year 2027, with early adoption permitted. We are
+evaluating the effect of this guidance on our consolidated financial statements.
+
+Disaggregation of Income Statements Expenses . In November 2024, the FASB issued an accounting standard update to improve income
+statement expenses disclosures (Subtopic 220-40). The standard requires more detailed information related to the types of expenses, including
+(among other items) the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included
+within each interim and annual income statement’s expense caption, as applicable. This authoritative guidance can be applied prospectively or
+retrospectively and will be eﬀective for us in ﬁscal 2028 for annual periods and in the ﬁrst quarter of ﬁscal 2029 for interim periods, with early
+adoption permitted. We are evaluating the effect of this guidance on our consolidated financial statements and related disclosures.
+
+Improvements to Income Tax Disclosures . In December 2023, the FASB issued an accounting standard update to improve income tax
+disclosures (Topic 740). The standard prescribes speciﬁc categories for the components of the eﬀective tax rate reconciliation, requires
+disclosure of income taxes paid by jurisdiction, and modiﬁes other income tax-related disclosures. This authoritative guidance will be eﬀective for
+us beginning with our annual reporting for ﬁscal year 2026, with early adoption permitted. We are evaluating the eﬀect of this guidance on our
+consolidated financial statements and related disclosures.
+
+Improvements to Reportable Segment Disclosures. In November 2023, the FASB issued an accounting standard update to improve
+reportable segment disclosure requirements, primarily through enhanced disclosures about signiﬁcant segment expenses (Topic 280). The
+standard requires interim and annual disclosure of signiﬁcant segment expenses that are regularly provided to the chief operating decision-maker
+(CODM) and included within the reported measure of a segment’s proﬁt or loss, requires interim disclosures about a reportable segment’s proﬁt
+or loss and assets that are currently required annually, requires disclosure of the position and title of the CODM, clariﬁes circumstances in which
+an entity can disclose multiple segment measures of proﬁt or loss and contains other disclosure requirements. This authoritative guidance will be
+eﬀective for us in ﬁscal 2025 for annual periods and in the ﬁrst quarter of ﬁscal 2026 for interim periods and the adoption is expected to expand
+the disclosures in our notes to the consolidated financial statements.
+
+
+#### Accounting Standards Adopted
+
+For a description of recently adopted accounting standards, including the date of adoption and the eﬀect, if any, on our consolidated
+ﬁnancial statements, see Note 1 “Basis of Presentation and Recently Adopted Accounting Standards,” of the Notes to Consolidated Condensed
+Financial Statements.
+
+
+#### 34
+
+
+## Page 35
+
+### Table 35.1
+
+| Cash and cash equivalents | $ | 5,384 |  | $ | 8,022 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.2
+
+| Long-term investments | 4,133 |  | 2,787 |
+| --- | --- | --- | --- |
+
+
+
+### Table 35.3
+
+| Cash provided by operating activities | $ | 5,130 |  | $ | 6,102 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 35.4
+
+| Cash used in financing activities | $ | (5,146) |  | $ | (2,701) |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Financial Condition, Liquidity and Capital Resources
+
+
+#### Our cash, cash equivalents and investments consisted of the following:
 
 
 #### July 27,
@@ -4397,134 +4093,152 @@ Nine Months Ended
 #### 2025
 
 
-#### July 28,
-
-2024
-Change
-
-
-#### July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-2024
-Change
-
-(In millions, except percentages)
-Semiconductor Systems
-$
-5,427 
-74 %
-$
-4,924 
-73 %
-10 %
-$ 16,038 
-75 %
-$ 14,734 
-73 %
-9 %
-Applied Global Services
-1,600 
-22 %
-1,580 
-23 %
-1 %
-4,760 
-22 %
-4,586 
-23 %
-4 %
-Display
-263 
-4 %
-251 
-4 %
-5 %
-705 
-3 %
-674 
-3 %
-5 %
-Corporate and Other
-12 
-— %
-23 
-— %
-(48) %
-65 
-— %
-137 
-1 %
-(53) %
-Total
-$
-7,302 
-100 %
-$
-6,778 
-100 %
-8 %
-$ 21,568 
-100 %
-$ 20,131 
-100 %
-7 %
-
-Net revenue for Semiconductor Systems by market for the periods presented were as follows:
-
-Three Months Ended
-Nine Months Ended
-July 27,
-
-
-#### 2025
-
-
-#### July 28,
+#### October 27,
 
 
 #### 2024
 
-
-#### July 27,
-
-
-#### 2025
-
-
-#### July 28,
-
-2024
-Foundry, logic and other
-69 %
-72 %
-67 %
-66 %
-Dynamic random-access memory (DRAM)
-22 %
-24 %
-26 %
-30 %
-Flash memory (NAND)
-9 %
-4 %
-7 %
-4 %
-100 %
-100 %
-100 %
-100 %
-
-Net revenue in the three and nine months ended July 27, 2025 increased as compared to the same periods in the prior year. Gross margin
-in the three months ended July 27, 2025 increased compared to the same period in the prior year, primarily driven by higher net revenue,
-favorable changes in customer and product mix, and an increase in average selling prices. Gross margin in the nine months ended July 27, 2025
-increased compared to the same period in the prior year, primarily driven by higher net revenue, favorable changes in customer and product mix,
-an increase in average selling prices, and lower material and manufacturing costs.
+(In millions)
+Cash and cash equivalents
+$
+5,384 
+$
+8,022 
+Short-term investments
+1,630 
+1,449 
+Long-term investments
+4,133 
+2,787 
+Total cash, cash-equivalents and investments
+$
+11,147 
+$
+12,258
 
 
-#### 30
+#### Sources and Uses of Cash
+
+A summary of cash provided by (used in) operating, investing, and financing activities was as follows:
+
+Nine Months Ended
+July 27, 2025
+July 28, 2024
+
+(In millions)
+Cash provided by operating activities
+$
+5,130 
+$
+6,102 
+Cash used in investing activities
+$
+(2,643)
+$
+(1,256)
+Cash used in financing activities
+$
+(5,146)
+$
+(2,701)
+
+
+#### Operating Activities
+
+Cash from operating activities for the nine months ended July 27, 2025 was $5.1 billion, which reﬂects net income adjusted for the eﬀect of
+non-cash charges and changes in working capital components. Signiﬁcant non-cash charges included depreciation, amortization, gain or loss on
+investments or asset sale, share-based compensation and deferred income taxes. Cash provided by operating activities decreased in the ﬁrst
+nine months of ﬁscal 2025 compared to the same period in the prior year primarily due to lower collections of customer receivable balances,
+higher payments for income taxes and higher vendor payments.
+
+We have agreements with various ﬁnancial institutions to sell accounts receivable and discount promissory notes from selected customers.
+We sell our accounts receivable generally without recourse. From time to time, we also discount letters of credit issued by customers through
+various ﬁnancial institutions. The discounting of letters of credit depends on many factors, including the willingness of ﬁnancial institutions to
+discount the letters of credit and the cost of such arrangements. We sold $324 million and $395 million of account receivables during the nine
+months ended July 27, 2025 and July 28, 2024, respectively. We did not discount letters of credit issued by customers or discount promissory
+notes during the nine months ended July 27, 2025 and July 28, 2024, respectively.
+
+Our working capital was $11.8 billion as of July 27, 2025 and $12.8 billion as of October 27, 2024.
+
+Days sales outstanding of our accounts receivable at July 27, 2025 and July 28, 2024 were 72 days and 67 days, respectively. Days sales
+outstanding varies due to the timing of shipments and payment terms. The increase in days sales outstanding was primarily due to higher
+accounts receivable balance as a result of the timing of customer payments, and unfavorable revenue linearity.
+
+
+#### Investing Activities
+
+We used $2.6 billion of cash in investing activities during the nine months ended July 27, 2025. Capital expenditures totaled $1.5 billion,
+purchases of investments, net of proceeds from sales and maturities of investments, were $1.2 billion, net proceeds from asset sale were $33
+million, and net cash paid for acquisition was $29 million, during the nine months ended July 27, 2025.
+
+Our investment portfolio consists principally of investment grade money market mutual funds, U.S. Treasury and agency securities,
+municipal bonds, corporate bonds and mortgage-backed and asset-backed securities, as well as equity securities. We regularly monitor the credit
+risk in our investment portfolio and take appropriate measures, which may include the sale of certain securities, to manage such risks prudently in
+accordance with our investment policies.
+
+
+#### 35
+
+
+## Page 36
+
+
+#### Table of Contents
+
+
+#### Financing Activities
+
+We used $5.1 billion of cash in ﬁnancing activities during the nine months ended July 27, 2025, consisting primarily of cash used for
+repurchases of common stock of $4.0 billion, cash dividends paid to stockholders totaling $1.0 billion, and tax withholding payments for vested
+equity awards of $210 million, partially oﬀset by proceeds received from common stock issuances of $129 million under our employee’ stock
+purchase plan.
+
+We currently anticipate that cash dividends will continue to be paid on a quarterly basis, although the declaration of any future cash dividend
+is at the discretion of the Board of Directors and will depend on our ﬁnancial condition, results of operations, capital requirements, business
+conditions and other factors, as well as a determination by the Board of Directors that cash dividends are in the best interests of our stockholders.
+
+In March 2025, our Board of Directors approved a common stock repurchase program authorizing $10.0 billion in repurchases, which
+supplemented the previously existing $10.0 billion authorization from March 2023. As of July 27, 2025, approximately $14.8 billion remained
+available for future stock repurchases under the repurchase program.
+
+We have credit facilities for unsecured borrowings in various currencies of up to $2.1 billion, of which $2.0 billion is comprised of a
+committed revolving credit agreement (Revolving Credit Agreement) with a group of banks. The Revolving Credit Agreement is scheduled to
+expire in February 2030, unless extended as permitted under the Revolving Credit Agreement. The Revolving Credit Agreement includes
+ﬁnancial and other covenants with which we were in compliance as of July 27, 2025. No amounts were outstanding under the Revolving Credit
+Agreement as of July 27, 2025 or under the prior revolving credit agreement as of October 27, 2024. See Note 9, Borrowing Facilities and Debt, of
+the Notes to the Consolidated Condensed Financial Statements for further discussion related to our Revolving Credit Agreement and other credit
+facilities.
+
+We have a short-term commercial paper program under which we may from time to time issue unsecured commercial paper notes. In June
+2025, we increased the total amount of commercial paper notes we may issue under the program from $1.5 billion to $2.0 billion. The proceeds
+from the issuances of commercial paper are used for general corporate purposes. As of July 27, 2025, we had commercial paper notes
+outstanding with an aggregate principal amount of $100 million.
+
+We had senior unsecured notes in the aggregate principal amount of $6.2 billion outstanding as of July 27, 2025. See Note 9 of the Notes to
+the Consolidated Condensed Financial Statements for additional discussion of existing debt.
+
+We may seek to reﬁnance our existing debt and may incur additional indebtedness depending on our capital requirements, general
+corporate purposes and the availability of financing.
+
+In the ordinary course of business, we provide standby letters of credit or other guarantee instruments to third parties as required for certain
+transactions initiated by either us or our subsidiaries. We also have agreements with various banks to facilitate subsidiary banking operations
+worldwide, including overdraft arrangements, issuance of bank guarantees, and letters of credit. See Note 12 of the Notes to the Consolidated
+Condensed Financial Statements for additional discussion related to our guarantee agreements and arrangements.
+
+
+#### Others
+
+On December 22, 2017, the U.S. government enacted the Tax Cuts and Jobs Act (Tax Act). The Tax Act requires a one-time transition tax
+on certain unrepatriated earnings of foreign subsidiaries. The transition tax expense is payable in installments over eight years, with eight percent
+due in each of the ﬁrst ﬁve years starting with ﬁscal 2018. As of July 27, 2025, we have one remaining payment of $255 million, payable in
+February of 2026.
+
+On August 9, 2022, the U.S. government enacted the U.S. CHIPS and Science Act (CHIPS Act). The CHIPS Act creates a 25% investment
+tax credit for certain investments in domestic semiconductor manufacturing. The credit is provided for qualifying property, which is placed in
+service after December 31, 2022, for which construction begins before January 1, 2027, and is treated as a government grant recognized against
+property, plant and equipment and a reduction of income taxes payable. We recognize this investment tax credit when there is reasonable
+assurance that we will qualify for the credit and the beneﬁt will be received. As of July 27, 2025, our current income taxes payable was reduced
+by $309 million and future income taxes payable will be reduced by $154 million, both of which are due to the investment tax credit.
+
+
+#### 36

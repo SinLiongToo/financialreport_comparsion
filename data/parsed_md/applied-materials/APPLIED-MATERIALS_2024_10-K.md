@@ -1,8 +1,8 @@
-# Annual Report: APPLIED-MATERIALS_2024_10-K
+# Financial Report: APPLIED-MATERIALS_2024_10-K
 
 - **Source File**: `APPLIED-MATERIALS_2024_10-K.pdf`
-- **Total Pages**: 102
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 102
+- **Parsed Key Pages**: 51 (51 selected sections)
 
 ---
 
@@ -1813,207 +1813,2492 @@ substantial expense and alter our manufacturing, operations or equipment designs
 #### 25
 
 
-## Page 26
+## Page 37
 
+### Table 37.1
 
-#### Table of Contents
+| Operating income (loss) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Semiconductor Systems | $ | 6,981 |  |  | $ | 6,879 |  |  | $ | 102 |  | 1 | % |
+| Applied Global Services | 1,812 |  |  |  | 1,529 |  |  |  | 283 |  |  | 19 | % |
+| Display | 51 |  |  |  | 114 |  |  |  | (63) |  |  | (55) | % |
+| Corporate and Other | (977) |  |  |  | (868) |  |  |  | (109) |  |  | 13 | % |
+| Total | $ | 7,867 |  |  | $ | 7,654 |  |  | $ | 213 |  | 3 | % |
+| Operating margin |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Semiconductor Systems | 35.1 |  | % |  | 34.9 |  | % |  | 0.2 points |  |  |  |  |
+| Applied Global Services | 29.1 |  | % |  | 26.7 |  | % |  | 2.4 points |  |  |  |  |
+| Display | 5.8 |  | % |  | 13.1 |  | % |  | (7.3) points |  |  |  |  |
 
-sustainability requirements, expectations or targets, or a failure to realize the anticipated beneﬁts of planned investments and technology innovations
-related to sustainability, could adversely impact the demand for our products and subject us to signiﬁcant costs and liabilities and reputational risks that
-could in turn adversely aﬀect our business, ﬁnancial condition and results of operations. In addition, standards and processes for measuring and
-reporting greenhouse gas emissions and other sustainability metrics may change over time, and may result in inconsistent data, increase our costs,
-result in significant revisions to our strategies and targets, or impact our ability to achieve them. We also are or may become subject to new climate and
-sustainability laws and regulations, such as the State of California’s new climate change disclosure rules, the European Union’s Corporate
-Sustainability Reporting Directive and the United States Securities and Exchange Commission’s rules on climate-related risks. Compliance with such
-laws and regulations, as well as increased scrutiny from regulators, customers and other stakeholders on our sustainability practices, could result in
-additional costs and expose us to new risks. Any scrutiny of our greenhouse gas emissions or other sustainability disclosures, our failure to achieve
-related strategies and targets, or our failure to disclose our sustainability measures consistent with applicable laws and regulations or to the satisfaction
-of regulators or our stakeholders could negatively impact our reputation or performance.
-
-We are subject to risks associated with environmental, health and safety regulations.
-
-We are subject to environmental, health and safety regulations in connection with our global business operations, including but not limited to:
-regulations related to the design, manufacture, sale, shipping, import, export and use of our products; use, handling, discharge, recycling,
-transportation and disposal of hazardous materials used in our products or in producing our products; the operation of our facilities; and the use of our
-real property, including in connection with construction of our infrastructure projects. The failure or inability to comply with existing or future
-environmental, health and safety regulations could result in: signiﬁcant remediation or other legal liabilities; the imposition of penalties and ﬁnes;
-restrictions on the development, manufacture, sale, shipping or use of certain of our products; limitations on the operation of our facilities or ability to
-use our real property; and a decrease in the value of our real property. We could be required to alter our product design, manufacturing, and
-operations, and incur substantial expense in order to comply with environmental, health and safety regulations, including reporting requirements. Any
-failure to comply with these regulations could subject us to signiﬁcant costs and liabilities that could materially and adversely aﬀect our business,
-financial condition and results of operations.
-
-
-#### 26
-
-
-## Page 27
 
 
 #### Table of Contents
 
 
-#### Item 1B:      Unresolved Staff Comments
-
-None.
+#### Segment Operating Income
 
 
-#### Item 1C:     Cybersecurity
+#### Operating income by segment for the periods presented were as follows:
 
-
-#### Risk Management and Strategy
-
-We have implemented processes for assessing, identifying and managing material risks from cybersecurity threats as part of our cybersecurity
-risk management program. This program includes processes for continuous cybersecurity risk and advanced persistent cybersecurity threat monitoring;
-cybersecurity attack, vulnerability and cloud security management; and penetration testing. Our cybersecurity risk management program includes a
-cybersecurity incident response plan and escalation protocols; cybersecurity and data protection policies and training to our employees; a supply chain
-cybersecurity program to increase awareness, assess supplier security controls, help improve supplier security controls and manage security incidents;
-a program to protect company, customer and supplier intellectual property by operationalizing strategy, policy and awareness; a privacy and data
-protection program to keep pace with rapidly evolving global data laws and regulations as well as emerging technologies; engagement of third-party
-auditors to help assure the eﬀectiveness of internal controls, including cybersecurity controls; and partnership with industry groups, government
-agencies and third-party experts in an eﬀort to continuously improve our cybersecurity risk management program. We conduct assessments based on
-the National Institute of Standards and Technology Cybersecurity (“NIST”) Framework to evaluate our program, and we engage third-parties for
-assistance and to independently assess, proactively monitor, and provide an external view of our cybersecurity program. We conduct risk assessments
-and tabletop exercises to evaluate the eﬀectiveness of our systems and processes in addressing cybersecurity threats, including threats associated
-with our use of third-party service providers, and to identify areas for improvements. Our cybersecurity risk management program is integrated with our
-enterprise risk management (“ERM”) program, and information about cybersecurity risks and our cybersecurity risk management program is reviewed
-as part of our ERM program, sharing common risk governance and reporting processes that apply across our ERM program.
-
-While we are not aware of having directly experienced a cybersecurity incident that has materially impacted our business, ﬁnancial condition or
-results of operations, we face risks from cybersecurity threats that, if realized, could reasonably likely materially aﬀect us, our business strategy, results
-of operations, or ﬁnancial condition. See “Risk Factors - Operational and Financial Risks – We are exposed to cybersecurity threats and incidents” for
-additional information about cybersecurity related risks.
-
-
-#### Governance
-
-Our Board of Directors is responsible for overseeing the assessment of major risks facing us, and its Audit Committee oversees our ERM
-program, including oversight of cybersecurity risks and of our cybersecurity risk management program. The Audit Committee receives quarterly reports
-from management on our cybersecurity risks and cybersecurity risk management program, and our management regularly updates the Chair of the
-Audit Committee regarding cybersecurity incidents where appropriate in accordance with our cybersecurity incident response plan and escalation
-protocols. The Audit Committee reports to the full Board regarding its activities, including those related to cybersecurity, and management reports to the
-full Board on our cybersecurity risks and cybersecurity risk management program at least annually.
-
-Our management has day-to-day responsibility for assessing and managing material risks from cybersecurity threats, including implementing risk
-mitigation plans, processes and controls, and managing our cybersecurity risk management program. Our Chief Information Security Oﬃcer (“CISO”),
-who has more than 20 years of experience in information security management, is primarily responsible for managing our cybersecurity risk
-management program, cybersecurity incident response plan and escalation protocols, and reports at least quarterly to the Audit Committee and at least
-annually to the full Board on our cybersecurity, data and intellectual property security programs, policies, risks and controls. The CISO reports to our
-Chief Information Oﬃcer (“CIO”), who has more than 30 years of experience in information technology and is responsible for administering secure and
-scalable security infrastructure. The CIO reports to our Chief Digital Officer, who has more than 37 years of experience in information technology.
-
-Our management team’s eﬀorts to prevent, detect, mitigate and remediate cybersecurity risks and incidents are informed by reviews with our
-information technology security teams, receipt of threat intelligence and other information obtained from governmental, public or private sources,
-including external consultants engaged by us, periodic assessments against the NIST Framework and through alerts and reports produced by security
-tools deployed in our information technology environment.
-
-
-#### 27
-
-
-## Page 28
-
-
-#### Table of Contents
-
-
-#### Item 2:      Properties
-
-We own and lease facilities throughout the world for use as oﬃces, manufacturing facilities, warehouses, and research and development centers,
-primarily in the United States, Taiwan, Singapore, China, Israel and India. As of October 27, 2024, we owned and leased approximately 9.0 million
-square feet and 4.9 million square feet of space, respectively. Our headquarters are in Santa Clara, California. Our products are manufactured primarily
-in the United States, Singapore, Israel and Taiwan. Because of the interrelation of our operations, properties within a country may be shared by the
-segments operating within that country.
-
-We also own a total of approximately 279 acres of buildable land primarily in the United States that could accommodate additional facilities.
-
-We consider the properties that we own or lease as adequate to meet our current and future requirements. We regularly assess the size,
-capability and location of our global infrastructure and periodically make adjustments based on these assessments.
-
-
-#### 28
-
-
-## Page 29
-
-
-#### Table of Contents
-
-
-#### Item 3:      Legal Proceedings
-
-The information set forth under “Legal Matters” in Note 13 of Notes to Consolidated Financial Statements is incorporated herein by reference.
-
-See also “Risk Factors – Risks Related to Legal, Compliance, and Other Risks –  We are exposed to risks related to legal proceedings, claims and
-investigations.”
+Change
  
-Item 4:      Mine Safety Disclosures
+2024
+2023
+2024 over 2023
 
-None.
+(In millions, except percentages and ratios)
+Operating income (loss)
+
+Semiconductor Systems
+$
+6,981 
+$
+6,879 
+$
+102 
+1 %
+Applied Global Services
+1,812 
+1,529 
+283 
+19 %
+Display
+51 
+114 
+(63)
+(55)%
+Corporate and Other
+(977)
+(868)
+(109)
+13 %
+Total
+$
+7,867 
+$
+7,654 
+$
+213 
+3 %
+Operating margin
+
+Semiconductor Systems
+35.1 %
+34.9 %
+0.2 points
+Applied Global Services
+29.1 %
+26.7 %
+2.4 points
+Display
+5.8 %
+13.1 %
+(7.3) points
+
+Semiconductor Systems’ operating margin for ﬁscal 2024 increased primarily driven by lower material, freight, logistics and manufacturing costs,
+favorable changes in customer and product mix and lower depreciation expense as a result of changes in certain assets’ useful lives eﬀective as of the
+beginning of fiscal 2024, partially offset by increased RD&E expenses.
+
+AGS’ operating margin for fiscal 2024 increased primarily due to the increase in net revenue and a favorable change in product mix.
+
+Display’s operating margin for fiscal 2024 decreased primarily due to unfavorable changes in product mix.
 
 
-#### 29
+#### 37
 
 
-## Page 30
+## Page 38
 
 
 #### Table of Contents
 
 
-### PART II
-
-Item 5:      Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+#### Recent Accounting Pronouncements
 
 
-#### Market Information
+#### Accounting Standards Not Yet Adopted
 
-Our common stock is traded on the Nasdaq Global Select Market under the symbol AMAT. As of December 6, 2024, there were 2,692 registered
-holders of our common stock. Information regarding quarterly cash dividends declared on our common stock during fiscal 2024, 2023 and 2022 may be
-found under “Management’s Discussion and Analysis of Financial Condition and Results of Operations - Financial Condition, Liquidity and Capital
-Resources”.
+Disaggregation of Income Statements Expenses . In November 2024, the Financial Accounting Standards Board (FASB) issued an accounting
+standard update to improve income statement expenses disclosures (Subtopic 220-40). The standard requires more detailed information related to the
+types of expenses, including (among other items) the amounts of purchases of inventory, employee compensation, depreciation and intangible asset
+amortization included within each interim and annual income statement’s expense caption, as applicable. This authoritative guidance can be applied
+prospectively or retrospectively and will be eﬀective for us in ﬁscal 2028 for annual periods and in the ﬁrst quarter of ﬁscal 2029 for interim periods, with
+early adoption permitted. We are evaluating the effect of this guidance on our consolidated financial statements and related disclosures.
 
+Improvements to Income Tax Disclosures . In December 2023, the FASB issued an accounting standard update to improve income tax
+disclosures (Topic 740). The standard prescribes speciﬁc categories for the components of the eﬀective tax rate reconciliation, requires disclosure of
+income taxes paid by jurisdiction, and modiﬁes other income tax-related disclosures. This authoritative guidance will be eﬀective for us beginning with
+our annual reporting for ﬁscal year 2026, with early adoption permitted. We are evaluating the eﬀect of this guidance on our consolidated ﬁnancial
+statements and related disclosures.
 
-#### Performance Graph
+Improvements to Reportable Segment Disclosures. In November 2023, the FASB issued an accounting standard update to improve reportable
+segment disclosure requirements, primarily through enhanced disclosures about signiﬁcant segment expenses (Topic 280). The standard requires
+interim and annual disclosure of signiﬁcant segment expenses that are regularly provided to the chief operating decision-maker (CODM) and included
+within the reported measure of a segment’s proﬁt or loss, requires interim disclosures about a reportable segment’s proﬁt or loss and assets that are
+currently required annually, requires disclosure of the position and title of the CODM, clariﬁes circumstances in which an entity can disclose multiple
+segment measures of proﬁt or loss and contains other disclosure requirements. This authoritative guidance will be eﬀective for us in ﬁscal 2025 for
+annual periods and in the ﬁrst quarter of ﬁscal 2026 for interim periods, with early adoption permitted. We are evaluating the eﬀect of this guidance on
+our consolidated financial statements and related disclosures.
 
-The performance graph below shows the ﬁve-year cumulative total stockholder return on our common stock during the period from October 27,
-2019 through October 27, 2024. This is compared with the cumulative total return of the Standard & Poor’s 500 Stock Index and the PHLX
-Semiconductor Index over the same period. The comparison assumes $100 was invested on October 27, 2019 in our common stock and in each of the
-foregoing indices and assumes reinvestment of dividends, if any. Dollar amounts in the graph are rounded to the nearest whole dollar. The
-performance shown in the graph represents past performance and should not be considered an indication of future performance.
-
-The graph below assumes that the value of the investment in our common stock and in each of the indexes was $100 at October 27, 2019, and
-that all dividends were reinvested.
-
-Copyright© 2024 Standard & Poor’s, a division of S&P global. All rights reserved.
-
-10/27/2019
-10/25/2020
-10/31/2021
-10/30/2022
-10/29/2023
-10/27/2024
-Applied Materials
-100.00 
-110.92 
-250.74 
-166.02 
-245.26 
-351.03 
-S&P 500 Index
-100.00 
-116.84 
-157.60 
-135.57 
-145.49 
-208.23 
-PHLX Semiconductor Index
-100.00 
-145.68 
-215.80 
-154.30 
-207.26 
-338.18
+Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions. In June 2022, the FASB issued an accounting standard
+update which clariﬁes how the fair value of equity securities subject to contractual sale restrictions is determined (Topic 820). The amendment clariﬁes
+that a contractual sale restriction should not be considered in measuring fair value. It also requires certain qualitative and quantitative disclosures
+related to equity securities subject to contractual sale restrictions. We will adopt this guidance in the ﬁrst quarter of ﬁscal 2025. The adoption of this
+guidance is not expected to have a significant impact on our consolidated financial statements.
 
 
-#### 30
+#### Accounting Standards Adopted
+
+For a description of recently adopted accounting standards, including the date of adoption and the eﬀect, if any, on our consolidated ﬁnancial
+statements, see Note 1, “Summary of Significant Accounting Policies,” of the Notes to Consolidated Financial Statements.
+
+
+#### 38
+
+
+## Page 39
+
+### Table 39.1
+
+| Cash and cash equivalents | $ | 8,022 |  | $ | 6,132 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 39.2
+
+| Long-term investments | 2,787 |  | 2,281 |
+| --- | --- | --- | --- |
+
+
+
+### Table 39.3
+
+| Cash provided by operating activities | $ | 8,677 |  | $ | 8,700 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 39.4
+
+| Cash used in financing activities | $ | (4,470) |  | $ | (3,032) |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Financial Condition, Liquidity and Capital Resources
+
+
+#### Our cash, cash equivalents and investments consist of the following:
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In millions)
+Cash and cash equivalents
+$
+8,022 
+$
+6,132 
+Short-term investments
+1,449 
+737 
+Long-term investments
+2,787 
+2,281 
+Total cash, cash-equivalents and investments
+$
+12,258 
+$
+9,150
+
+
+#### Sources and Uses of Cash
+
+A summary of cash provided by (used in) operating, investing, and financing activities is as follows:
+
+2024
+2023
+
+(In millions)
+Cash provided by operating activities
+$
+8,677 
+$
+8,700 
+Cash used in investing activities
+$
+(2,327)
+$
+(1,535)
+Cash used in financing activities
+$
+(4,470)
+$
+(3,032)
+
+
+#### Operating Activities
+
+Cash from operating activities for ﬁscal 2024 was $8.7 billion, which reﬂects net income adjusted for the eﬀect of non-cash charges and changes
+in working capital components. Signiﬁcant non-cash charges included depreciation, amortization, share-based compensation and deferred income
+taxes. Cash provided by operating activities in ﬁscal 2024 remained relatively ﬂat primarily due to lower collections of customer receivable balances,
+partially offset by lower payments to vendors and higher net income.
+
+We have agreements with various ﬁnancial institutions to sell accounts receivable and discount promissory notes from selected customers. We
+sell our accounts receivable generally without recourse. From time to time, we also discount letters of credit issued by customers through various
+financial institutions. The discounting of letters of credit depends on many factors, including the willingness of financial institutions to discount the letters
+of credit and the cost of such arrangements. We sold $0.4 billion and $0.7 billion of accounts receivable during ﬁscal 2024 and 2023, respectively. We
+did not discount letters of credit issued by customers in ﬁscal 2024 and 2023. There was no discounting of promissory notes in each of ﬁscal 2024 and
+2023.
+
+Our working capital was $12.8 billion at October 27, 2024 and $11.8 billion at October 29, 2023.
+
+Days sales outstanding of our accounts receivable at the end of ﬁscal 2024 and 2023 was 68 days and 70 days, respectively. Days sales
+outstanding varies due to the timing of shipments and payment terms. The decrease in days sales outstanding was primarily due to favorable revenue
+linearity.
+
+
+#### Investing Activities
+
+We used $2.3 billion and $1.5 billion of cash in investing activities in ﬁscal 2024 and 2023, respectively. Capital expenditures in ﬁscal 2024 and
+2023 were $1.2 billion and $1.1 billion, respectively. Capital expenditures were primarily for investments in real property acquisitions and
+improvements, demonstration and testing equipment, manufacturing and network equipment. Purchases of investments, net of proceeds from sales
+and maturities of investments, for 2024 and 2023 was $1.1 billion and $404 million, respectively. Net cash paid for acquisitions in ﬁscal 2023 was $25
+million. Investing activities also included investments in technology to allow us to access new market opportunities or emerging technologies.
+
+Our investment portfolio consists principally of investment grade money market mutual funds, U.S. Treasury and agency securities, municipal
+bonds, corporate bonds and mortgage-backed and asset-backed securities, as well as equity securities. We regularly monitor the credit risk in our
+investment portfolio and take appropriate measures, which may include the sale of certain securities, to manage such risks prudently in accordance
+with our investment policies.
+
+
+#### 39
+
+
+## Page 40
+
+
+#### Table of Contents
+
+Financing Activities
+We used $4.5 billion of cash in ﬁnancing activities in ﬁscal 2024, consisting primarily of repurchases of common stock of $3.8 billion, cash
+dividends to stockholders of $1.2 billion, tax withholding payments for vested equity awards of $291 million, and net payments of principal on ﬁnancing
+leases of $102 million, partially oﬀset by net proceeds received from the issuance of senior unsecured notes of $694 million and proceeds received
+from common stock issuances of $243 million.
+
+We used $3.0 billion of cash in ﬁnancing activities in ﬁscal 2023, consisting primarily of repurchases of common stock of $2.2 billion, cash
+dividends to stockholders of $975 million and tax withholding payments for vested equity awards of $179 million, oﬀset by proceeds received from
+common stock issuances of $227 million and net proceeds from issuances of commercial paper of $91 million.
+
+In March 2023, our Board of Directors approved a common stock repurchase program authorizing $10.0 billion in repurchases, which
+supplemented the previously existing $6.0 billion authorization approved in March 2022. At October 27, 2024, approximately $8.9 billion remained
+available for future stock repurchases under the repurchase program.
+
+During each of ﬁscal 2024 and 2023 we paid four quarterly cash dividends, totaling $1.2 billion and $975 million, respectively. We currently
+anticipate that cash dividends will continue to be paid on a quarterly basis, although the declaration of any future cash dividend is at the discretion of
+the Board of Directors and will depend on our ﬁnancial condition, results of operations, capital requirements, business conditions and other factors, as
+well as a determination by the Board of Directors that cash dividends are in the best interests of our stockholders.
+
+We have credit facilities for unsecured borrowings in various currencies of up to $1.6 billion, of which $1.5 billion is comprised of a committed
+revolving credit agreement (Revolving Credit Agreement) with a group of banks. The Revolving Credit Agreement is scheduled to expire in February
+2026, unless extended as permitted under the Revolving Credit Agreement. The Revolving Credit Agreement includes ﬁnancial and other covenants
+with which we were in compliance as of October 27, 2024. No amounts were outstanding under the Revolving Credit Agreement as of October 27, 2024
+and October 29, 2023. See Note 9, Borrowing Facilities and Debt, of the Notes to the Consolidated Financial Statements for further discussion related
+to our Revolving Credit Agreement and other credit facilities.
+
+We have a short-term commercial paper program under which we may from time to time issue unsecured commercial paper notes of up to a total
+amount of $1.5 billion. The proceeds from the issuances of commercial paper are used for general corporate purposes. At October 27, 2024, we had
+$100 million of commercial paper notes outstanding. The commercial paper program is backstopped by the Revolving Credit Agreement and
+borrowings under the Revolving Credit Agreement reduce the amount of commercial paper notes we can issue.
+
+In June 2024, we issued $700 million aggregate principal amount of 4.800% senior unsecured notes due 2029 in a registered public oﬀering. The
+proceeds from the issuance of the senior unsecured notes are intended for general corporate purposes.
+
+We had senior unsecured notes in the aggregate principal amount of $6.2 billion outstanding as of October 27, 2024. See Note 9 of the Notes to
+the Consolidated Financial Statements for additional discussion of existing debt. We may seek to reﬁnance our existing debt and may incur additional
+indebtedness depending on our capital requirements and the availability of financing.
+
+
+#### Others
+
+On December 22, 2017, the U.S. government enacted the Tax Cuts and Jobs Act (Tax Act). The Tax Act requires a one-time transition tax on
+certain unrepatriated earnings of foreign subsidiaries. The transition tax expense is payable in installments over eight years, with eight percent due in
+each of the ﬁrst ﬁve years starting with ﬁscal 2018. As of October 27, 2024, we had $459 million of total payments remaining, payable in installments in
+the next two years.
+
+On August 9, 2022, the U.S. government enacted the U.S. CHIPS and Science Act (“CHIPS Act”). The CHIPS Act creates a 25% investment tax
+credit for certain investments in domestic semiconductor manufacturing. The credit is provided for qualifying property, which is placed in service after
+December 31, 2022, for which construction begins before January 1, 2027, and is treated as a government grant. We recognize this investment tax
+credit when there is reasonable assurance that we will qualify for the credit and the beneﬁt will be received. Investments related to the 25% investment
+tax credit reduced our income taxes payable by $170 million as of October 27, 2024.
+
+On August 16, 2022, the U.S. government enacted the Inﬂation Reduction Act. The Inﬂation Reduction Act introduced a new 15% corporate
+minimum tax, based on adjusted ﬁnancial statement income of certain large corporations. Applicable corporations are allowed to claim a credit for the
+minimum tax paid against regular tax in future years. We are subject to the minimum tax in ﬁscal 2024 and expect to claim a credit for the minimum tax
+in future years.
+
+
+#### 40
+
+
+## Page 43
+
+
+#### Table of Contents
+
+
+#### Critical Accounting Estimates
+
+The preparation of consolidated ﬁnancial statements and related disclosures in conformity with accounting principles generally accepted in the
+United States of America requires management to make judgments, assumptions and estimates that affect the amounts reported.
+
+Estimates and assumptions about future events and their eﬀects cannot be determined with certainty. We base our estimates on historical
+experience and on various other assumptions believed to be applicable and reasonable under the circumstances. These estimates may change as new
+events occur, as additional information is obtained and as our operating environment changes. These changes have historically been minor and have
+been included in the consolidated ﬁnancial statements as soon as they became known. In addition, management is periodically faced with
+uncertainties, the outcomes of which are not within our control and will not be known for prolonged periods of time. These uncertainties include those
+discussed in Part I, Item 1A, “Risk Factors.”
+
+
+#### Management believes that the following is a critical accounting estimate:
+
+
+#### Income Taxes
+
+We are subject to income taxes in the U.S. and numerous foreign jurisdictions. The calculation of our provision for income taxes and eﬀective tax
+rate involves signiﬁcant judgment in estimating the impact of uncertainties in the application of complex and evolving tax laws. Resolution of these
+uncertainties in a manner inconsistent with our expectations could have a material impact on our results of operations and ﬁnancial condition. We
+recognize a current tax liability for the estimated amount of income taxes payable on tax returns for the current ﬁscal year. Deferred tax assets and
+liabilities are recognized for the estimated future tax eﬀects of events that have been recognized in our ﬁnancial statements or tax returns. These
+estimates consider future operational results including realizability of our deferred tax assets. Deferred tax assets and liabilities are adjusted to reﬂect
+the effects of enacted changes in tax rates, laws and status, including changes in tax incentives.
+
+
+#### 43
+
+
+## Page 44
+
+
+#### Table of Contents
+
+
+#### Item 7A:       Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to financial market risks, including fluctuations in interest rate and foreign currency exchange rates.
+
+
+#### Interest Rate Risk
+
+Available-for-sale Debt Securities - The market value of our investments in available-for-sale securities was approximately $3.2 billion at
+October 27, 2024. An immediate hypothetical 100 basis point increase in interest rates would result in a decrease in the fair value of investments as of
+October 27, 2024 of approximately $36 million.
+
+Debt - At October 27, 2024, the aggregate principal of long-term senior unsecured notes issued by us was $5.5 billion with an estimated fair value
+of $5.1 billion. A hypothetical decrease in interest rates of 100 basis points would result in an increase in the fair value of our long-term senior notes
+issuances of approximately $428 million at October 27, 2024. From time to time, we use interest rate swaps or rate lock agreements to mitigate the
+potential impact of changes in benchmark interest rates on interest expense and cash flows.
+
+
+#### Foreign Currency Risk
+
+Certain of our operations are conducted in foreign currencies, such as Japanese yen, Israeli shekel, euro and Taiwanese dollar. Hedges are used
+to reduce, but not eliminate, the impact of foreign currency exchange rate movements on the consolidated balance sheet, statement of operations, and
+statement of cash flows.
+
+We use primarily foreign currency forward contracts to oﬀset the impact of foreign exchange movements on non-U.S. dollar denominated
+monetary assets and liabilities. The foreign exchange gains and losses on the assets and liabilities are recorded in interest and other income
+(expense), net and are offset by the gains and losses on the hedges.
+
+We use foreign currency forward and option contracts to hedge a portion of anticipated non-U.S. dollar denominated revenues and expenses
+expected to occur within the next 24 months. Gains and losses on these hedging contracts generally mitigate the eﬀect of currency movements on our
+net revenue, cost of products sold, and operating expenses. A hypothetical 10% adverse change in foreign currency exchange rates relative to the U.S.
+Dollar would result in a decrease in the fair value of these hedging contracts of $141 million at October 27, 2024.
+
+We do not use foreign currency forward or option contracts for trading or speculative purposes.
+
+
+#### Item 8:      Financial Statements and Supplementary Data
+
+The consolidated financial statements required by this Item are set forth on the pages indicated at Item 15(a).
+
+Item 9:      Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+
+#### 44
+
+
+## Page 45
+
+
+#### Table of Contents
+
+
+#### Item 9A:      Controls and Procedures
+
+
+#### Disclosure Controls and Procedures
+
+As of the end of the period covered by this report, our management conducted an evaluation, under the supervision and with the participation of
+our Chief Executive Oﬃcer and Chief Financial Oﬃcer, of the eﬀectiveness of our disclosure controls and procedures, as such term is deﬁned in
+Rule 13a-15(e) of the Securities Exchange Act of 1934 (the Exchange Act). Based upon that evaluation, our Chief Executive Officer and Chief Financial
+Oﬃcer concluded that our disclosure controls and procedures were eﬀective as of the end of the period covered by this report in ensuring that
+information required to be disclosed was recorded, processed, summarized and reported within the time periods speciﬁed in the SEC’s rules and
+forms, and to provide reasonable assurance that information required to be disclosed by us in such reports is accumulated and communicated to our
+management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+
+#### Management’s Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over ﬁnancial reporting, as such term is deﬁned in
+Rule 13a-15(f) of the Exchange Act. Under the supervision and with the participation of our Chief Executive Oﬃcer and Chief Financial Oﬃcer, our
+management conducted an evaluation of the eﬀectiveness of our internal control over ﬁnancial reporting based upon the framework in “Internal Control
+— Integrated Framework (2013)” issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on that evaluation, our
+management concluded that our internal control over financial reporting was effective as of October 27, 2024.
+
+KPMG LLP, an independent registered public accounting ﬁrm, has audited the consolidated ﬁnancial statements included in this Form 10-K and,
+as part of the audit, has issued a report, included herein, on the effectiveness of our internal control over financial reporting as of October 27, 2024.
+
+
+#### Changes in Internal Control over Financial Reporting
+
+During the fourth quarter of ﬁscal 2024, there were no changes in the internal control over ﬁnancial reporting that materially aﬀected, or are
+reasonably likely to materially affect, our internal control over financial reporting.
+
+Inherent Limitations of Disclosure Controls and Procedures and Internal Control over Financial Reporting
+
+It should be noted that any system of controls, however well designed and operated, can provide only reasonable, and not absolute, assurance
+that the objectives of the system will be met. In addition, the design of any control system is based in part upon certain assumptions about the
+likelihood of future events.
+ 
+Item 9B:      Other Information
+
+During the three months ended October 27, 2024, no director or officer, as defined in Rule 16a-1(f), adopted or terminated a “Rule 10b5-1 trading
+arrangement” or a “non-Rule 10b5-1 trading arrangement,” each as defined in Regulation S-K Item 408.
+
+Item 9C:     Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+
+#### 45
+
+
+## Page 46
+
+
+#### Table of Contents
+
+
+### PART III
+
+
+#### Item 10:      Directors, Executive Officers and Corporate Governance
+
+Except for the information regarding executive oﬃcers required by Item 401 of Regulation S-K (which is included in Part I, Item 1 of this Annual
+Report on Form 10-K, under “Information about our Executive Oﬃcers”), and code of ethics and insider trading policy (which are set forth below), the
+information required by this item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 24, 2025.
+
+We have implemented the Standards of Business Conduct, a code of ethics with which every person who works for us and every member of the
+Board of Directors is expected to comply. If any substantive amendments are made to the Standards of Business Conduct or any waiver is granted,
+including any implicit waiver, from a provision of the code to our Chief Executive Oﬃcer, Chief Financial Oﬃcer or Chief Accounting Oﬃcer, we will
+disclose the nature of such amendment or waiver on our website or in a report on Form 8-K. The above information, including the Standards of
+Business Conduct, is available on our website under the Governance Documents section at https://www.appliedmaterials.com/us/en/about/corporate-
+governance.html. This website address is intended to be an inactive, textual reference only. None of the materials on, or accessible through, this
+website is part of this report or is incorporated by reference herein.
+
+We have adopted an Insider Trading Policy governing the purchase, sale, and other dispositions of our securities by our directors, oﬃcers,
+employees and other individuals associated with us that we believe is reasonably designed to promote compliance with insider trading laws, rules and
+regulations, and listing standards applicable to us. A copy of our Insider Trading Policy is filed as Exhibit 19.1 to this Annual Report on Form 10-K.
+
+
+#### Item 11:      Executive Compensation
+
+The information required by this Item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 24, 2025.
+
+
+#### 46
+
+
+## Page 48
+
+
+#### Table of Contents
+
+Item 13:      Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this Item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 24, 2025.
+ 
+Item 14:      Principal Accounting Fees and Services
+
+Our independent registered public accounting firm is KPMG LLP, Santa Clara, California, Auditor Firm ID: 185.
+
+The information required by this Item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 24, 2025.
+
+
+#### 48
+
+
+## Page 49
+
+
+#### Table of Contents
+
+
+### PART IV
+
+
+#### Item 15:      Exhibits, Financial Statement Schedules
+
+(a) The following documents are filed as part of this Annual Report on Form 10-K:
+
+Page
+Number
+(1)
+Financial Statements:
+
+Report of Independent Registered Public Accounting Firm
+50
+
+Consolidated Statements of Operations
+52
+
+Consolidated Statements of Comprehensive Income
+53
+
+Consolidated Balance Sheets
+54
+
+Consolidated Statements of Stockholders’ Equity
+55
+
+Consolidated Statements of Cash Flows
+56
+
+Notes to Consolidated Financial Statements
+57
+
+(2)
+Exhibits:
+
+The exhibits listed in the accompanying Index to Exhibits are filed or incorporated by reference as part of this Annual Report
+on Form 10-K
+85
+
+All other schedules are omitted because they are not applicable or the required information is shown in the Consolidated Financial Statements or
+Notes thereto.
+
+
+#### Item 16:      Form 10-K Summary
+
+None.
+
+
+#### 49
+
+
+## Page 50
+
+
+#### Table of Contents
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and Board of Directors
+Applied Materials, Inc.:
+
+Opinions on the Consolidated Financial Statements and Internal Control Over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of Applied Materials, Inc. and subsidiaries (the Company) as of October 27, 2024 and
+October 29, 2023, the related consolidated statements of operations, comprehensive income, stockholders’ equity, and cash flows for each of the years
+in the three-year period ended October 27, 2024, and the related notes (collectively, the consolidated ﬁnancial statements). We also have audited the
+Company’s internal control over ﬁnancial reporting as of October 27, 2024, based on criteria established in Internal Control – Integrated Framework
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+In our opinion, the consolidated ﬁnancial statements referred to above present fairly, in all material respects, the ﬁnancial position of the Company as of
+October 27, 2024 and October 29, 2023, and the results of its operations and its cash ﬂows for each of the years in the three-year period ended
+October 27, 2024, in conformity with U.S. generally accepted accounting principles. Also in our opinion, the Company maintained, in all material
+respects, eﬀective internal control over ﬁnancial reporting as of October 27, 2024 based on criteria established in Internal Control – Integrated
+Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+
+#### Basis for Opinions
+
+The Company’s management is responsible for these consolidated ﬁnancial statements, for maintaining eﬀective internal control over ﬁnancial
+reporting, and for its assessment of the eﬀectiveness of internal control over ﬁnancial reporting, included in the accompanying Management’s Report
+on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s consolidated ﬁnancial statements and an
+opinion on the Company’s internal control over ﬁnancial reporting based on our audits. We are a public accounting ﬁrm registered with the Public
+Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with
+the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the consolidated ﬁnancial statements are free of material misstatement, whether due to error or fraud, and
+whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated ﬁnancial statements included performing procedures to assess the risks of material misstatement of the consolidated
+ﬁnancial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a
+test basis, evidence regarding the amounts and disclosures in the consolidated ﬁnancial statements. Our audits also included evaluating the
+accounting principles used and signiﬁcant estimates made by management, as well as evaluating the overall presentation of the consolidated ﬁnancial
+statements. Our audit of internal control over ﬁnancial reporting included obtaining an understanding of internal control over ﬁnancial reporting,
+assessing the risk that a material weakness exists, and testing and evaluating the design and operating eﬀectiveness of internal control based on the
+assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our
+audits provide a reasonable basis for our opinions.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over ﬁnancial reporting is a process designed to provide reasonable assurance regarding the reliability of ﬁnancial
+reporting and the preparation of ﬁnancial statements for external purposes in accordance with generally accepted accounting principles. A company’s
+internal control over ﬁnancial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail,
+accurately and fairly reﬂect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are
+recorded as necessary to permit preparation of ﬁnancial statements in accordance with generally accepted accounting principles, and that receipts and
+expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have
+a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over ﬁnancial reporting may not prevent or detect misstatements. Also, projections of any evaluation
+of eﬀectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate.
+
+
+#### 50
+
+
+## Page 51
+
+
+#### Table of Contents
+
+
+#### Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated ﬁnancial statements that was
+communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the
+consolidated ﬁnancial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit
+matter does not alter in any way our opinion on the consolidated ﬁnancial statements, taken as a whole, and we are not, by communicating the critical
+audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+
+#### Evaluation of sufficiency of audit evidence over revenue
+
+As discussed in Notes 1 and 14 to the consolidated ﬁnancial statements, the Company recorded $27,176 million in net revenue, for the year ended
+October 27, 2024. The Company generates revenue by providing manufacturing equipment, services and software to customers in the
+semiconductor, display and related industries. The Company’s process to account for and recognize revenue differs across revenue streams.
+
+We identiﬁed the evaluation of the suﬃciency of audit evidence obtained over net revenue as a critical audit matter. Evaluating the suﬃciency of
+audit evidence required subjective auditor judgment due to the number of revenue streams and separate processes to account for and recognize
+revenue. This included determining the nature and extent of audit evidence obtained over each revenue stream.
+
+The following are the primary procedures we performed to address this critical audit matter. We applied auditor judgment to determine the revenue
+streams over which procedures were performed as well as the nature and extent of such procedures. For revenue streams where procedures were
+performed, we:
+
+•
+evaluated the design and tested the operating eﬀectiveness of certain internal controls over the Company’s revenue recognition processes,
+including the Company’s controls over the accurate recording of revenue.
+
+•
+evaluated the Company’s revenue recognition accounting policies.
+
+•
+evaluated, for a sample of revenue transactions, (1) the accounting for consistency with the Company’s accounting policies, as applicable,
+including timing of revenue recognition, and (2) the recorded amounts by comparing them for consistency to underlying documentation,
+including the customer contracts.
+
+In addition, we evaluated the suﬃciency of audit evidence obtained by assessing the results of the procedures performed, including the
+appropriateness of the nature and extent of audit effort over revenue
+
+/S/    KPMG LLP
+KPMG LLP
+
+We have served as the Company’s auditor since 2004.
+
+Santa Clara, California
+December 13, 2024
+
+
+#### 51
+
+
+## Page 52
+
+### Table 52.1
+
+| Net revenue | $ | 27,176 |  | $ | 26,517 |  | $ | 25,785 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of products sold | 14,279 |  |  | 14,133 |  |  | 13,792 |  |
+| Gross profit | 12,897 |  |  | 12,384 |  |  | 11,993 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |
+| Research, development and engineering | 3,233 |  |  | 3,102 |  |  | 2,771 |  |
+| Marketing and selling | 836 |  |  | 776 |  |  | 703 |  |
+| General and administrative | 961 |  |  | 852 |  |  | 735 |  |
+| Severance and related charges | — |  |  | — |  |  | (4) |  |
+| Total operating expenses | 5,030 |  |  | 4,730 |  |  | 4,205 |  |
+| Income from operations | 7,867 |  |  | 7,654 |  |  | 7,788 |  |
+| Interest expense | 247 |  |  | 238 |  |  | 228 |  |
+| Interest and other income (expense), net | 532 |  |  | 300 |  |  | 39 |  |
+| Income before income taxes | 8,152 |  |  | 7,716 |  |  | 7,599 |  |
+| Provision for income taxes | 975 |  |  | 860 |  |  | 1,074 |  |
+| Net income | $ | 7,177 |  | $ | 6,856 |  | $ | 6,525 |
+| Earnings per share: |  |  |  |  |  |  |  |  |
+| Basic | $ | 8.68 |  | $ | 8.16 |  | $ | 7.49 |
+| Diluted | $ | 8.61 |  | $ | 8.11 |  | $ | 7.44 |
+| Weighted average number of shares: |  |  |  |  |  |  |  |  |
+| Basic | 827 |  |  | 840 |  |  | 871 |  |
+| Diluted | 834 |  |  | 845 |  |  | 877 |  |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+#### (In millions, except per share amounts)
+
+Fiscal Year
+2024
+2023
+2022
+ 
+Net revenue
+$
+27,176 
+$
+26,517 
+$
+25,785 
+Cost of products sold
+14,279 
+14,133 
+13,792 
+Gross profit
+12,897 
+12,384 
+11,993 
+Operating expenses:
+
+Research, development and engineering
+3,233 
+3,102 
+2,771 
+Marketing and selling
+836 
+776 
+703 
+General and administrative
+961 
+852 
+735 
+Severance and related charges
+— 
+— 
+(4)
+Total operating expenses
+5,030 
+4,730 
+4,205 
+Income from operations
+7,867 
+7,654 
+7,788 
+Interest expense
+247 
+238 
+228 
+Interest and other income (expense), net
+532 
+300 
+39 
+Income before income taxes
+8,152 
+7,716 
+7,599 
+Provision for income taxes
+975 
+860 
+1,074 
+Net income
+$
+7,177 
+$
+6,856 
+$
+6,525 
+Earnings per share:
+
+Basic
+$
+8.68 
+$
+8.16 
+$
+7.49 
+Diluted
+$
+8.61 
+$
+8.11 
+$
+7.44 
+Weighted average number of shares:
+
+Basic
+827 
+840 
+871 
+Diluted
+834 
+845 
+877
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 52
+
+
+## Page 53
+
+### Table 53.1
+
+| Net income | $ | 7,177 |  | $ | 6,856 |  | $ | 6,525 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss), net of tax: |  |  |  |  |  |  |  |  |
+| Change in unrealized gain (loss) on available-for-sale investments | 43 |  |  | 25 |  |  | (74) |  |
+| Change in unrealized net loss on derivative instruments | 31 |  |  | (66) |  |  | 51 |  |
+| Change in defined and postretirement benefit plans | (25) |  |  | 26 |  |  | 81 |  |
+| Other comprehensive income (loss), net of tax | 49 |  |  | (15) |  |  | 58 |  |
+| Comprehensive income | $ | 7,226 |  | $ | 6,841 |  | $ | 6,583 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+#### (In millions)
+
+Fiscal Year
+2024
+2023
+2022
+
+Net income
+$
+7,177 
+$
+6,856 
+$
+6,525 
+Other comprehensive income (loss), net of tax:
+
+Change in unrealized gain (loss) on available-for-sale investments
+43 
+25 
+(74)
+Change in unrealized net loss on derivative instruments
+31 
+(66)
+51 
+Change in defined and postretirement benefit plans
+(25)
+26 
+81 
+Other comprehensive income (loss), net of tax
+49 
+(15)
+58
+
+Comprehensive income
+$
+7,226 
+$
+6,841 
+$
+6,583
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 53
+
+
+## Page 54
+
+### Table 54.1
+
+| ASSETS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Current assets: |  |  |  |  |  |
+| Cash and cash equivalents | $ | 8,022 |  | $ | 6,132 |
+| Short-term investments | 1,449 |  |  | 737 |  |
+| Accounts receivable, net | 5,234 |  |  | 5,165 |  |
+| Inventories | 5,421 |  |  | 5,725 |  |
+| Other current assets | 1,094 |  |  | 1,388 |  |
+| Total current assets | 21,220 |  |  | 19,147 |  |
+| Long-term investments | 2,787 |  |  | 2,281 |  |
+| Property, plant and equipment, net | 3,339 |  |  | 2,723 |  |
+| Goodwill | 3,732 |  |  | 3,732 |  |
+| Purchased technology and other intangible assets, net | 249 |  |  | 294 |  |
+| Deferred income taxes and other assets | 3,082 |  |  | 2,552 |  |
+| Total assets | $ | 34,409 |  | $ | 30,729 |
+
+
+### Table 54.2
+
+| Current liabilities: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Short-term debt | $ | 799 |  | $ | 100 |
+| Accounts payable and accrued expenses | 4,820 |  |  | 4,297 |  |
+| Contract liabilities | 2,849 |  |  | 2,975 |  |
+| Total current liabilities | 8,468 |  |  | 7,372 |  |
+| Long-term debt | 5,460 |  |  | 5,461 |  |
+| Income taxes payable | 670 |  |  | 833 |  |
+| Other liabilities | 810 |  |  | 714 |  |
+| Total liabilities | 15,408 |  |  | 14,380 |  |
+| Commitments and contingencies (Note 13) |  |  |  |  |  |
+| Stockholders’ equity: |  |  |  |  |  |
+| Preferred stock: $0.01 par value per share; 1 shares authorized; no shares issued | — |  |  | — |  |
+| Common stock: $0.01 par value per share; 2,500 shares authorized; 818 and 833 shares outstanding at 2024 and 2023, respectively | 8 |  |  | 8 |  |
+| Additional paid-in capital | 9,660 |  |  | 9,131 |  |
+| Retained earnings | 49,651 |  |  | 43,726 |  |
+| Treasury stock: 1,211 and 1,191 shares at 2024 and 2023, respectively | (40,150) |  |  | (36,299) |  |
+| Accumulated other comprehensive loss | (168) |  |  | (217) |  |
+| Total stockholders’ equity | 19,001 |  |  | 16,349 |  |
+| Total liabilities and stockholders’ equity | $ | 34,409 |  | $ | 30,729 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED BALANCE SHEETS
+
+
+#### (In millions, except per share amounts)
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+ASSETS
+Current assets:
+
+Cash and cash equivalents
+$
+8,022 
+$
+6,132 
+Short-term investments
+1,449 
+737 
+Accounts receivable, net
+5,234 
+5,165 
+Inventories
+5,421 
+5,725 
+Other current assets
+1,094 
+1,388 
+Total current assets
+21,220 
+19,147 
+Long-term investments
+2,787 
+2,281 
+Property, plant and equipment, net
+3,339 
+2,723 
+Goodwill
+3,732 
+3,732 
+Purchased technology and other intangible assets, net
+249 
+294 
+Deferred income taxes and other assets
+3,082 
+2,552 
+Total assets
+$
+34,409 
+$
+30,729
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+
+Short-term debt
+$
+799 
+$
+100 
+Accounts payable and accrued expenses
+4,820 
+4,297 
+Contract liabilities
+2,849 
+2,975 
+Total current liabilities
+8,468 
+7,372 
+Long-term debt
+5,460 
+5,461 
+Income taxes payable
+670 
+833 
+Other liabilities
+810 
+714 
+Total liabilities
+15,408 
+14,380 
+Commitments and contingencies (Note 13)
+Stockholders’ equity:
+
+Preferred stock: $0.01 par value per share; 1 shares authorized; no shares issued
+— 
+— 
+Common stock: $0.01 par value per share; 2,500 shares authorized; 818 and 833 shares outstanding at 2024
+and 2023, respectively
+8 
+8 
+Additional paid-in capital
+9,660 
+9,131 
+Retained earnings
+49,651 
+43,726 
+Treasury stock: 1,211 and 1,191 shares at 2024 and 2023, respectively
+(40,150)
+(36,299)
+Accumulated other comprehensive loss
+(168)
+(217)
+Total stockholders’ equity
+19,001 
+16,349 
+Total liabilities and stockholders’ equity
+$
+34,409 
+$
+30,729
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 54
+
+
+## Page 56
+
+### Table 56.1
+
+| Cash flows from operating activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net income | $ | 7,177 |  | $ | 6,856 |  | $ | 6,525 |
+| Adjustments required to reconcile net income to cash provided by operating activities: |  |  |  |  |  |  |  |  |
+| Depreciation and amortization | 392 |  |  | 515 |  |  | 444 |  |
+| Severance and related charges | — |  |  | — |  |  | (4) |  |
+| Deferred income taxes | (633) |  |  | 24 |  |  | (223) |  |
+| Share-based compensation | 577 |  |  | 490 |  |  | 413 |  |
+| Other | 47 |  |  | 40 |  |  | 36 |  |
+| Changes in operating assets and liabilities, net of amounts acquired: |  |  |  |  |  |  |  |  |
+| Accounts receivable | (69) |  |  | 903 |  |  | (1,109) |  |
+| Inventories | 304 |  |  | 207 |  |  | (1,590) |  |
+| Other current and non-current assets | 287 |  |  | (48) |  |  | (16) |  |
+| Accounts payable and accrued expenses | 281 |  |  | (138) |  |  | 390 |  |
+| Contract liabilities | (126) |  |  | (167) |  |  | 1,039 |  |
+| Income taxes payable | 389 |  |  | (20) |  |  | (541) |  |
+| Other liabilities | 51 |  |  | 38 |  |  | 35 |  |
+| Cash provided by operating activities | 8,677 |  |  | 8,700 |  |  | 5,399 |  |
+| Cash flows from investing activities: |  |  |  |  |  |  |  |  |
+| Capital expenditures | (1,190) |  |  | (1,106) |  |  | (787) |  |
+| Cash paid for acquisitions, net of cash acquired | — |  |  | (25) |  |  | (441) |  |
+| Proceeds from sales and maturities of investments | 2,451 |  |  | 1,268 |  |  | 1,363 |  |
+| Purchases of investments | (3,588) |  |  | (1,672) |  |  | (1,492) |  |
+| Cash used in investing activities | (2,327) |  |  | (1,535) |  |  | (1,357) |  |
+| Cash flows from financing activities: |  |  |  |  |  |  |  |  |
+| Debt borrowings, net of issuance costs | 694 |  |  | — |  |  | — |  |
+| Proceeds from commercial paper | 401 |  |  | 991 |  |  | — |  |
+| Repayments of commercial paper | (400) |  |  | (900) |  |  | — |  |
+| Proceeds from common stock issuances | 243 |  |  | 227 |  |  | 199 |  |
+| Common stock repurchases | (3,823) |  |  | (2,189) |  |  | (6,103) |  |
+| Tax withholding payments for vested equity awards | (291) |  |  | (179) |  |  | (266) |  |
+| Payments of dividends to stockholders | (1,192) |  |  | (975) |  |  | (873) |  |
+| Repayments of principals on finance leases | (102) |  |  | (7) |  |  | — |  |
+| Cash used in financing activities | (4,470) |  |  | (3,032) |  |  | (7,043) |  |
+| Increase (decrease) in cash, cash equivalents and restricted cash equivalents | 1,880 |  |  | 4,133 |  |  | (3,001) |  |
+| Cash, cash equivalents and restricted cash equivalents — beginning of period | 6,233 |  |  | 2,100 |  |  | 5,101 |  |
+| Cash, cash equivalents and restricted cash equivalents — end of period | $ | 8,113 |  | $ | 6,233 |  | $ | 2,100 |
+| Reconciliation of cash, cash equivalents, and restricted cash equivalents |  |  |  |  |  |  |  |  |
+| Cash and cash equivalents | $ | 8,022 |  | $ | 6,132 |  | $ | 1,995 |
+| Restricted cash equivalents included in deferred income taxes and other assets | 91 |  |  | 101 |  |  | 105 |  |
+| Total cash, cash equivalents, and restricted cash equivalents | $ | 8,113 |  | $ | 6,233 |  | $ | 2,100 |
+| Supplemental cash flow information: |  |  |  |  |  |  |  |  |
+| Cash payments for income taxes | $ | 957 |  | $ | 1,006 |  | $ | 1,869 |
+| Cash refunds from income taxes | $ | 15 |  | $ | 53 |  | $ | 156 |
+| Cash payments for interest | $ | 205 |  | $ | 205 |  | $ | 205 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+#### (In millions)
+
+Fiscal Year
+2024
+2023
+2022
+
+Cash flows from operating activities:
+Net income
+$
+7,177 
+$
+6,856 
+$
+6,525 
+Adjustments required to reconcile net income to cash provided by operating activities:
+
+Depreciation and amortization
+392 
+515 
+444 
+Severance and related charges
+— 
+— 
+(4)
+Deferred income taxes
+(633)
+24 
+(223)
+Share-based compensation
+577 
+490 
+413 
+Other
+47 
+40 
+36 
+Changes in operating assets and liabilities, net of amounts acquired:
+
+Accounts receivable
+(69)
+903 
+(1,109)
+Inventories
+304 
+207 
+(1,590)
+Other current and non-current assets
+287 
+(48)
+(16)
+Accounts payable and accrued expenses
+281 
+(138)
+390 
+Contract liabilities
+(126)
+(167)
+1,039 
+Income taxes payable
+389 
+(20)
+(541)
+Other liabilities
+51 
+38 
+35 
+Cash provided by operating activities
+8,677 
+8,700 
+5,399 
+Cash flows from investing activities:
+
+Capital expenditures
+(1,190)
+(1,106)
+(787)
+Cash paid for acquisitions, net of cash acquired
+— 
+(25)
+(441)
+Proceeds from sales and maturities of investments
+2,451 
+1,268 
+1,363 
+Purchases of investments
+(3,588)
+(1,672)
+(1,492)
+Cash used in investing activities
+(2,327)
+(1,535)
+(1,357)
+Cash flows from financing activities:
+
+Debt borrowings, net of issuance costs
+694 
+— 
+— 
+Proceeds from commercial paper
+401 
+991 
+— 
+Repayments of commercial paper
+(400)
+(900)
+— 
+Proceeds from common stock issuances
+243 
+227 
+199 
+Common stock repurchases
+(3,823)
+(2,189)
+(6,103)
+Tax withholding payments for vested equity awards
+(291)
+(179)
+(266)
+Payments of dividends to stockholders
+(1,192)
+(975)
+(873)
+Repayments of principals on finance leases
+(102)
+(7)
+— 
+Cash used in financing activities
+(4,470)
+(3,032)
+(7,043)
+Increase (decrease) in cash, cash equivalents and restricted cash equivalents
+1,880 
+4,133 
+(3,001)
+Cash, cash equivalents and restricted cash equivalents — beginning of period
+6,233 
+2,100 
+5,101 
+Cash, cash equivalents and restricted cash equivalents — end of period
+$
+8,113 
+$
+6,233 
+$
+2,100 
+Reconciliation of cash, cash equivalents, and restricted cash equivalents
+
+Cash and cash equivalents
+$
+8,022 
+$
+6,132 
+$
+1,995 
+Restricted cash equivalents included in deferred income taxes and other assets
+91 
+101 
+105 
+Total cash, cash equivalents, and restricted cash equivalents
+$
+8,113 
+$
+6,233 
+$
+2,100 
+Supplemental cash flow information:
+
+Cash payments for income taxes
+$
+957 
+$
+1,006 
+$
+1,869 
+Cash refunds from income taxes
+$
+15 
+$
+53 
+$
+156 
+Cash payments for interest
+$
+205 
+$
+205 
+$
+205
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 56
+
+
+## Page 57
+
+APPLIED MATERIALS, INC.
+
+
+### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1      Summary of Significant Accounting Policies and Recently Adopted Accounting Standards
+
+
+#### Summary of Significant Accounting Policies
+
+
+#### Principles of Consolidation and Basis of Presentation
+
+The consolidated ﬁnancial statements include the accounts of Applied Materials, Inc. and its subsidiaries (we, us, and our) after elimination of
+intercompany balances and transactions. All references to a ﬁscal year apply to our ﬁscal year which ends on the last Sunday in October. Fiscal 2024,
+2023 and 2022 each contained 52 weeks. Each fiscal quarter of 2024, 2023 and 2022 contained 13 weeks.
+
+Certain prior-year amounts have been reclassified to conform to current-year presentation.
+
+
+#### Use of Estimates
+
+The preparation of ﬁnancial statements in conformity with accounting principles generally accepted in the United States of America requires
+management to make judgments, estimates and assumptions that aﬀect the amounts reported in the ﬁnancial statements and accompanying notes.
+Actual results could diﬀer materially from those estimates. On an ongoing basis, we evaluate our estimates, including those related to standalone
+selling price (SSP) related to revenue recognition, accounts receivable and sales allowances, fair values of ﬁnancial instruments, inventories, intangible
+assets and goodwill, useful lives of intangible assets and property, plant and equipment, fair values of share-based awards, warranty, and income
+taxes, among others. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable, the results
+of which form the basis for making judgments about the carrying values of assets and liabilities.
+
+
+#### Cash Equivalents
+
+All highly-liquid investments with a remaining maturity of three months or less at the time of purchase are considered to be cash equivalents.
+Cash equivalents consist primarily of investments in institutional money market funds and investment grade commercial paper.
+
+
+#### Investments
+
+All of our investments, except equity investments, are classiﬁed as available-for-sale at the respective balance sheet dates. Investments classiﬁed
+as available-for-sale are measured and recorded in the Consolidated Balance Sheets at fair value, and unrealized gains and losses, net of tax, are
+reported as a separate component of other comprehensive income. Interest earned on cash and investments, as well as realized gains and losses on
+sale of securities, are included in interest and other income, net in the Consolidated Statements of Operations.
+
+Our equity investments with readily determinable values consist of publicly traded equity securities. These investments are measured at fair value
+using quoted prices for identical assets in an active market. Privately held equity investments without readily determinable fair value are measured at
+cost, less impairment, adjusted by observable price changes. Adjustments resulting from impairments and observable price changes are recorded in
+interest and other income, net in the Consolidated Statements of Operations.
+
+Investments with remaining eﬀective maturities of 12 months or less from the balance sheet date are classiﬁed as short-term investments.
+Investments with remaining effective maturities of more than 12 months from the balance sheet date are classified as long-term investments.
+
+
+#### Fair Value Measurements
+
+Our ﬁnancial assets are measured and recorded at fair value on a recurring basis, except for equity investments in privately held companies.
+These equity investments are generally accounted for under the measurement alternative, deﬁned as cost, less impairments, adjusted for subsequent
+observable price changes and are periodically assessed for impairment when events or circumstances indicate that a decline in value may have
+occurred. Our nonﬁnancial assets, such as goodwill, intangible assets, and property, plant and equipment, are recorded at cost and are assessed for
+impairment whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable.
+
+We use the following hierarchy, which prioritizes the inputs to valuation techniques used to measure fair value into three levels and bases the
+categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+
+•
+Level 1 — Quoted prices in active markets for identical assets or liabilities;
+
+
+#### 57
+
+
+## Page 58
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+•
+Level 2 — Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities, quoted
+prices in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the
+full term of the assets or liabilities; and
+•
+Level 3 — Unobservable inputs that are supported by little or no market activity and that are signiﬁcant to the fair value of the assets or
+liabilities.
+
+In determining the fair value of our debt securities investments, we use pricing information from pricing services that value securities based on
+quoted market prices and models that utilize observable market inputs. In the event a fair value estimate is unavailable from a pricing service, we
+generally obtain non-binding price quotes from brokers. In addition, to validate pricing information obtained from pricing services, we periodically
+perform supplemental analysis on a sample of securities. We review any signiﬁcant unanticipated diﬀerences identiﬁed through this analysis to
+determine the appropriate fair value. As of October 27, 2024, substantially all of our available-for-sale, short-term and long-term investments were
+recognized at fair value that was determined based upon observable inputs or quoted prices.
+
+Our equity investments with readily determinable values are measured at fair value using quoted prices for identical assets in an active market
+and the changes in fair value of these equity investments are recognized in the consolidated statements of operations.
+
+
+#### Inventories
+
+Inventories are stated at the lower of cost or net realizable value, with approximate cost determined on a ﬁrst-in, ﬁrst-out (FIFO) basis. We adjust
+inventory carrying value for estimated obsolescence equal to the diﬀerence between the cost of inventory and the estimated net realizable value based
+upon assumptions about future demand and market conditions. We fully write down inventories and noncancelable purchase orders for inventory
+deemed obsolete. We perform periodic reviews of inventory items to identify excess inventories on hand by comparing on-hand balances to anticipated
+usage using recent historical activity as well as anticipated or forecasted demand. If estimates of customer demand diminish further or market
+conditions become less favorable than those projected by us, additional inventory adjustments may be required.
+
+
+#### Property, Plant and Equipment
+
+Property, plant and equipment is stated at cost. Depreciation is provided over the estimated useful lives of the assets using the straight-line
+method. In connection with our periodic review of estimated useful lives of the property, plant and equipment, we have increased the estimated useful
+lives of certain assets eﬀective as of the beginning of ﬁscal 2024. The updated estimated useful lives of certain assets for ﬁnancial reporting purposes
+are as follows: buildings and improvements, 3 to 30 years with certain buildings and improvements’ useful lives increased by 5 years; demonstration
+and manufacturing equipment increased to 5 to 8 years. The estimated useful lives for the following assets remained unchanged from ﬁscal 2023:
+software, 3 to 5 years; and furniture, ﬁxtures and other equipment, 3 to 5 years. Land improvements are amortized over the shorter of 15 years or the
+estimated useful life. Leasehold improvements are amortized over the shorter of five years or the lease term.
+
+The change in accounting estimate was applied on a prospective basis to the assets on our balance sheet as of October 29, 2023, as well as to
+subsequent asset purchases. Based on the net carrying amounts of assets in use as of the end of ﬁscal 2023, the impact of this change was a
+reduction of $128 million in depreciation expense during ﬁscal 2024, and an increase of $ 0.12 in both basic and diluted earnings per share for ﬁscal
+2024.
+
+
+#### Government Assistance
+
+We receive government assistance from various domestic and foreign governments in the form of cash grants or refundable tax credits. These
+arrangements incentivize us to continue growing our capital investments and research and development activities. Government incentives generally
+contain conditions that must be met in order for the assistance to be earned. We recognize the incentives when there is reasonable assurance that we
+will comply with all conditions specified in the incentive arrangement and the incentive will be received.
+
+We record capital expenditure related incentives as an oﬀset to the associated property, plant and equipment, net within our Consolidated
+Balance Sheets and recognize a reduction to depreciation expense over the useful life of the corresponding acquired asset. We record incentives
+related to operating activities as a reduction to expense in the same line item on the Consolidated Statements of Operations as the expenditure for
+which the grant is intended to compensate.
+
+
+#### 58
+
+
+## Page 59
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Acquisitions
+
+We account for the acquisition of a business using the acquisition method of accounting. Our methodology for allocating the purchase price
+relating to purchase acquisitions is determined through established and generally accepted valuation techniques. We allocate the fair value of the
+purchase consideration of our acquisitions to the tangible assets, liabilities, and intangible assets acquired, including in-process technology, based on
+their estimated fair values. Goodwill is measured as the excess of the purchase price over the sum of the amounts assigned to tangible and identiﬁable
+intangible assets acquired less liabilities assumed. We assign assets acquired (including goodwill) and liabilities assumed to one or more reporting
+units as of the date of acquisition. Typically, acquisitions relate to a single reporting unit and thus do not require the allocation of goodwill to multiple
+reporting units. If the products obtained in an acquisition are assigned to multiple reporting units, the goodwill is distributed to the respective reporting
+units as part of the purchase price allocation process. The value assigned to intangible assets is usually based on estimates and judgments regarding
+expectations for the success and life cycle of products and technology acquired.
+
+
+#### Goodwill and Intangible Assets
+
+Goodwill is not amortized but is reviewed for impairment annually during the fourth quarter of each ﬁscal year and whenever events or changes
+in circumstances indicate that the carrying value of an asset may not be recoverable. The process of evaluating the potential impairment of goodwill
+requires judgment.
+
+When reviewing goodwill for impairment, we ﬁrst perform a qualitative assessment to determine whether it is more likely than not that the fair
+value of a reporting unit is less than its carrying value. In performing a qualitative assessment, we consider business conditions and other factors
+including, but not limited to (i) adverse industry or economic trends, (ii) restructuring actions and lower projections that may impact future operating
+results, (iii) sustained decline in share price, and (iv) overall ﬁnancial performance and other events aﬀecting the reporting units. If we conclude that it
+is more likely than not that the fair value of a reporting unit is less than its carrying amount, then a quantitative impairment test is performed by
+estimating the fair value of the reporting unit and comparing it to its carrying value. If the carrying value of a reporting unit exceeds its fair value, we
+would record an impairment charge equal to the excess of the carrying value of the reporting unit over its fair value.
+
+In the fourth quarter of ﬁscal 2024, we performed a qualitative assessment to test goodwill for all of our reporting units for impairment. we
+determined that it was more likely than not that each of our reporting units’ fair values exceeded their respective carrying values and that it was not
+necessary to perform the quantitative goodwill impairment test for any of our reporting units. No goodwill impairment was recorded during ﬁscal 2024,
+2023 and 2022.
+
+Intangible assets with ﬁnite lives are presented at cost, net of accumulated amortization, and are amortized over their estimated useful lives of 1
+to 15 years using the straight-line method. We evaluate the useful lives of our intangible assets each reporting period to determine whether events and
+circumstances require revising the remaining period of amortization. Intangible assets with inﬁnite lives are not subject to amortization and consist
+primarily of in-process technology, which will be subject to amortization upon commercialization. If an in-process technology project is abandoned, the
+acquired technology attributable to the project will be written-oﬀ. The carrying values of our intangible assets are reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying value of an asset or asset group may not be recoverable. The balances of our intangible
+assets were not material as of October 27, 2024 or October 29, 2023 and amortization expenses were not material for fiscal 2024, 2023 and 2022.
+
+
+#### Long-Lived Assets
+
+Long-lived assets are evaluated for impairment whenever events or changes in circumstances indicate the carrying value of an asset or asset
+group may not be recoverable. We assess the recoverability of the assets by comparing the undiscounted future cash ﬂow expected to result from the
+use and eventual disposal of the assets to their respective carrying value. If not recoverable, we recognize an impairment loss to the excess of the
+carrying value over the fair value of those assets, and reduce the carrying value of the assets to their respective fair value. Fair value is determined by
+available market valuations, when available and appropriate, or by discounted cash flows.
+
+
+#### 59
+
+
+## Page 60
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Leases
+
+A contract contains a lease when we have the right to control the use of an identiﬁed asset for a period of time in exchange for consideration. We
+lease certain facilities, vehicles and equipment under non-cancelable operating leases, many of which include options to renew. Options that are
+reasonably certain to be exercised are included in the calculation of the right-of-use asset and lease liability. Our finance leases are those that contain a
+purchase option which we are reasonably certain to exercise at the end of the lease term. Our leases do not contain residual value guarantees or
+signiﬁcant restrictions that impact the accounting for leases. As implicit rates are not available for the leases, we use the incremental borrowing rate as
+of the lease commencement date in order to measure the right-of-use asset and liability. Operating lease expense is generally recognized on a
+straight-line basis over the lease term. Finance lease expense is generally recognized on a straight-line basis over the life of the underlying leased
+asset.
+
+We elected the practical expedient to account for lease and non-lease components as a single lease component for all leases. For leases with a
+term of one year or less, we elected not to record a right-of-use asset or lease liability and to account for the associated lease payments as they
+become due.
+
+A majority of our lease arrangements are operating leases. The balances of our operating leases right-of-use assets and liabilities were not
+material as of October 27, 2024 or October 29, 2023. Operating lease cost for fiscal 2024, 2023 and 2022 was not material.
+
+
+#### Revenue Recognition from Contracts with Customers
+
+We recognize revenue when promised goods or services are transferred to a customer in an amount that reﬂects the consideration to which we
+expect to be entitled in exchange for those goods or services. We determine revenue recognition through the following ﬁve steps: (1) identiﬁcation of
+the contract(s) with customers, (2) identiﬁcation of the performance obligations in the contract, (3) determination of the transaction price, (4) allocation
+of the transaction price to the performance obligations in the contract, and (5) recognition of revenue when, or as, a performance obligation is satisfied.
+
+Identifying the contract(s) with customers. We sell equipment, services, and spare parts directly to our customers in the semiconductor, display,
+and related industries. We generally consider written documentation including, but not limited to, signed purchase orders, master agreements, and
+sales orders as contracts provided that collection is probable. Collectability is assessed based on the customer’s creditworthiness determined by
+reviewing the customer’s published credit and financial information, historical payment experience, as well as other relevant factors.
+
+Identifying the performance obligations. Our performance obligations include delivery of equipment, service agreements, spare parts, installation,
+extended warranty and training. Our service agreements are considered one performance obligation and may include multiple goods and services that
+we provide to the customer to deliver against a performance metric. Judgment is used to determine whether multiple promised goods or services in a
+contract should be accounted for separately or as a group.
+
+Determine the transaction price. The transaction price for our contracts with customers may include ﬁxed and variable consideration. We include
+variable consideration in the transaction price to the extent that it is probable that a signiﬁcant reversal of revenue will not occur when the uncertainty
+associated with the variable consideration is subsequently resolved.
+
+Allocate the transaction price to the performance obligations . A contract’s transaction price is allocated to each distinct performance obligation
+identiﬁed within the contract. We generally estimate the standalone selling price of a distinct performance obligation based on historical cost plus an
+appropriate margin. For contracts with multiple performance obligations, we allocate the contract’s transaction price to each performance obligation
+using the relative standalone selling price of each distinct good or service in the contract.
+
+Recognizing the revenue as performance obligations are satisﬁed.  We recognize revenue from equipment and spares parts at a point in time
+when we have satisﬁed our performance obligation by transferring control of the goods to the customer which typically occurs at shipment or delivery.
+Revenue from service agreements is recognized over time, typically within 12 months, as customers receive the benefits of services.
+
+The incremental costs to obtain a contract are not material.
+
+Payment Terms. Payment terms vary by contract. Generally, the majority of payments are due within a certain number of days from shipment of
+goods or performance of service. The remainder is typically due upon customer technical acceptance. In certain circumstances we may receive
+deposits from customers for future deliverables. Our payment terms do not generally contain a significant financing component.
+
+
+#### 60
+
+
+## Page 66
+
+### Table 66.1
+
+| Publicly traded equity securities |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unrealized gain | $ | 332 |  | $ | 193 |  | $ | 30 |
+| Unrealized loss | (287) |  |  | (44) |  |  | (62) |  |
+| Realized gain on sales and dividends | 5 |  |  | 9 |  |  | 7 |  |
+| Realized loss on sales or impairment | (1) |  |  | (4) |  |  | — |  |
+| Equity investments in privately held companies |  |  |  |  |  |  |  |  |
+| Unrealized gain | 3 |  |  | 15 |  |  | 41 |  |
+| Unrealized loss | (17) |  |  | (30) |  |  | (5) |  |
+| Realized gain on sales and dividends | 4 |  |  | 9 |  |  | 3 |  |
+| Realized loss on sales or impairment | (19) |  |  | (121) |  |  | (7) |  |
+| Total gain (loss) on equity investments, net | $ | 20 |  | $ | 27 |  | $ | 7 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Gains and Losses on Investments
+
+At October 27, 2024, gross unrealized losses related to our fixed income portfolio were not material. We regularly review our fixed income portfolio
+to identify and evaluate investments that have indications of possible impairment from credit losses or other factors. Factors considered in determining
+whether an unrealized loss is considered to be a credit loss include: the signiﬁcance of the decline in value compared to the cost basis; the ﬁnancial
+condition; credit quality and near-term prospects of the investee; and whether it is more likely than not that we will be required to sell the security prior
+to recovery. Credit losses related to available-for-sale debt securities are recorded as an allowance for credit losses through interest and other income
+(expense), net. Any additional changes in fair value that are not related to credit losses are recognized in accumulated other comprehensive income
+(loss) (AOCI).
+
+During fiscal 2024, 2023 and 2022, gross realized gains and losses related to our fixed income portfolio were not material.
+
+During fiscal 2024, 2023 and 2022, we did not recognize material credit losses and the ending allowance for credit losses was not material.
+
+The components of gain (loss) on equity investments for each fiscal year were as follows:
+
+2024
+2023
+2022
+
+(In millions)
+Publicly traded equity securities
+
+Unrealized gain
+$
+332 
+$
+193 
+$
+30 
+Unrealized loss
+(287)
+(44)
+(62)
+Realized gain on sales and dividends
+5 
+9 
+7
+Realized loss on sales or impairment
+(1)
+(4)
+— 
+Equity investments in privately held companies
+
+Unrealized gain
+3 
+15 
+41
+Unrealized loss
+(17)
+(30)
+(5)
+Realized gain on sales and dividends
+4 
+9 
+3
+Realized loss on sales or impairment
+(19)
+(121)
+(7)
+
+Total gain (loss) on equity investments, net
+$
+20 
+$
+27 
+$
+7
+
+
+#### 66
+
+
+## Page 67
+
+### Table 67.1
+
+| Assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Available-for-sale debt security investments |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds* | $ | 3,512 |  | $ | — |  | $ | 3,512 |  | $ | 3,361 |  | $ | — |  | $ | 3,361 |
+| Bank certificates of deposit and time deposits | — |  |  | 103 |  |  | 103 |  |  | — |  |  | 18 |  |  | 18 |  |
+| U.S. Treasury and agency securities | 2,684 |  |  | 14 |  |  | 2,698 |  |  | 331 |  |  | 43 |  |  | 374 |  |
+| Non-U.S. government securities | — |  |  | 5 |  |  | 5 |  |  | — |  |  | 6 |  |  | 6 |  |
+| Municipal securities | — |  |  | 460 |  |  | 460 |  |  | — |  |  | 453 |  |  | 453 |  |
+| Commercial paper, corporate bonds and medium-term notes | — |  |  | 2,590 |  |  | 2,590 |  |  | — |  |  | 2,177 |  |  | 2,177 |  |
+| Asset-backed and mortgage-backed securities | — |  |  | 654 |  |  | 654 |  |  | — |  |  | 487 |  |  | 487 |  |
+| Total available-for-sale debt security investments | $ | 6,196 |  | $ | 3,826 |  | $ | 10,022 |  | $ | 3,692 |  | $ | 3,184 |  | $ | 6,876 |
+| Equity investments with readily determinable values |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Publicly traded equity securities | $ | 723 |  | $ | — |  | $ | 723 |  | $ | 698 |  | $ | — |  | $ | 698 |
+| Total equity investments with readily determinable values | $ | 723 |  | $ | — |  | $ | 723 |  | $ | 698 |  | $ | — |  | $ | 698 |
+| Total | $ | 6,919 |  | $ | 3,826 |  | $ | 10,745 |  | $ | 4,390 |  | $ | 3,184 |  | $ | 7,574 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Note 4      Fair Value Measurements
+
+
+#### Assets Measured at Fair Value on a Recurring Basis
+
+The following table presents our fair value hierarchy for our ﬁnancial assets (excluding cash balances) measured at fair value on a recurring
+basis:
+
+October 27, 2024
+October 29, 2023
+ 
+Level 1
+Level 2
+Total
+Level 1
+Level 2
+Total
+
+(In millions)
+Assets:
+Available-for-sale debt
+security investments
+
+Money market funds*
+$
+3,512 
+$
+— 
+$
+3,512 
+$
+3,361 
+$
+— 
+$
+3,361 
+Bank certificates of
+deposit and time deposits
+— 
+103 
+103 
+— 
+18 
+18 
+U.S. Treasury and
+agency securities
+2,684 
+14 
+2,698 
+331 
+43 
+374 
+Non-U.S.
+government securities
+— 
+5 
+5 
+— 
+6 
+6 
+Municipal securities
+— 
+460 
+460 
+— 
+453 
+453 
+Commercial paper,
+corporate bonds and
+medium-term notes
+— 
+2,590 
+2,590 
+— 
+2,177 
+2,177 
+Asset-backed and
+mortgage-backed
+securities
+— 
+654 
+654 
+— 
+487 
+487 
+Total available-for-sale
+debt security investments
+$
+6,196 
+$
+3,826 
+$
+10,022 
+$
+3,692 
+$
+3,184 
+$
+6,876 
+Equity investments
+with readily determinable
+values
+
+Publicly traded equity
+securities
+$
+723 
+$
+— 
+$
+723 
+$
+698 
+$
+— 
+$
+698 
+Total equity
+investments with readily
+determinable values
+$
+723 
+$
+— 
+$
+723 
+$
+698 
+$
+— 
+$
+698
+
+Total
+$
+6,919 
+$
+3,826 
+$
+10,745 
+$
+4,390 
+$
+3,184 
+$
+7,574
+
+_________________________
+*Amounts as of October 27, 2024 and October 29, 2023 include $ 91 million and $101 million, respectively, invested in money market funds related to
+deferred compensation plans. Due to restrictions on the distribution of these funds, they are classified as restricted cash equivalents and are included in
+deferred income taxes and other assets  in the Consolidated Balance Sheets.
+
+We did not have any ﬁnancial assets measured at fair value on a recurring basis within Level 3 fair value measurements as of October 27, 2024
+or October 29, 2023.
+
+Assets and Liabilities without Readily Determinable Values Measured on a Non-recurring Basis
+
+Our equity investments without readily determinable values consist of equity investments in privately held companies. We elected the
+measurement alternative, deﬁned as cost, less impairments, adjusted for subsequent observable price changes on a prospective basis for certain
+equity investments without readily determinable fair values and are required to account for any subsequent observable changes in fair value within the
+statements of operations. These investments are classiﬁed as Level 3 within the fair value hierarchy and periodically assessed for impairment when an
+event or circumstance indicates that a decline in value may have occurred. Impairment losses on equity investments in privately held companies,
+included in the above table, were not material during ﬁscal 2024 and 2022 and were $ 121 million during ﬁscal 2023. These impairment losses are
+included in interest and other income (expense), net in the Consolidated Statement of Operations.
+
+
+#### Other
+
+The carrying amounts of our ﬁnancial instruments, including cash and cash equivalents, restricted cash equivalents, accounts receivable,
+commercial paper notes, and accounts payable and accrued expenses, approximate fair value due to their short maturities. At October 27, 2024, the
+aggregate principal amount of long-term senior unsecured notes was $5.5 billion, and the estimated fair value was $ 5.1 billion. At October 29, 2023, the
+aggregate principal amount of long-term senior unsecured notes was $5.5 billion and the estimated fair value was $ 4.7 billion. The estimated fair value
+of long-term senior unsecured notes is determined by Level 2 inputs and is based primarily on quoted market prices for the same or similar issues. See
+Note 9 of the Notes to the Consolidated Financial Statements for further detail of existing debt.
+
+
+#### 67
+
+
+## Page 68
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Note 5      Derivative Instruments and Hedging Activities
+
+
+#### Derivative Financial Instruments
+
+We conduct business in a number of foreign countries, with certain transactions denominated in local currencies, such as the Japanese yen,
+Israeli shekel, euro and Taiwanese dollar. We use derivative ﬁnancial instruments, such as foreign currency forward and option contracts, to hedge
+certain forecasted foreign currency denominated transactions expected to occur typically within the next 24 months. The purpose of our foreign
+currency management is to mitigate the eﬀect of exchange rate ﬂuctuations on certain foreign currency denominated revenues, costs and eventual
+cash flows. The terms of currency instruments used for hedging purposes are generally consistent with the timing of the transactions being hedged.
+
+We do not use derivative ﬁnancial instruments for trading or speculative purposes. Derivative instruments and hedging activities, including foreign
+exchange and interest rate contracts, are recognized on the balance sheet at fair value. Changes in the fair value of derivatives that do not qualify for
+hedge accounting treatment are recognized currently in earnings. All of our derivative ﬁnancial instruments are recorded at their fair value in other
+current assets or in accounts payable and accrued expenses.
+
+Hedges related to anticipated transactions are designated and documented at the inception of the hedge as cash ﬂow hedges and foreign
+exchange derivatives are typically entered into once per month. Cash ﬂow hedges are evaluated for eﬀectiveness quarterly. The eﬀective portion of the
+gain or loss on these hedges is reported as a component of AOCI in stockholders’ equity and is reclassiﬁed into earnings when the hedged transaction
+aﬀects earnings. The majority of the after-tax net income or loss related to foreign exchange derivative instruments included in AOCI at October 27,
+2024 is expected to be reclassiﬁed into earnings within 12 months. Changes in fair value caused by changes in time value of option contracts
+designated as cash ﬂow hedges are excluded from the assessment of eﬀectiveness. The initial value of this excluded component is amortized on a
+straight-line basis over the life of the hedging instrument and recognized in the ﬁnancial statement line item to which the hedge relates. If the
+transaction being hedged is probable not to occur, we recognize the gain or loss on the associated ﬁnancial instrument in the consolidated statement
+of operations. The amount recognized due to discontinuance of cash ﬂow hedges that were probable of not occurring by the end of the originally
+specified time period was not significant for fiscal years 2024, 2023 or 2022.
+
+Foreign currency forward contracts are generally used to hedge certain foreign currency denominated assets or liabilities. Accordingly, changes in
+the fair value of these hedges are recorded in earnings to offset the changes in the fair value of the assets or liabilities being hedged.
+
+As of October 27, 2024 and October 29, 2023, the total outstanding notional amount of foreign exchange contracts was $ 2.0 billion and
+$1.7 billion, respectively. The fair values of foreign exchange derivative instruments at October 27, 2024 and October 29, 2023 were not material.
+
+We are also exposed to interest rate risk associated with our potential future borrowings. During ﬁscal 2024, we entered into a series of interest
+rate contracts to hedge against the variability of cash ﬂows due to changes in the benchmark interest rate of ﬁxed rate debt. These instruments were
+designated as cash flow hedges at inception and were settled in conjunction with the issuance of debt in June 2024.
+
+The gain (loss) on derivatives in cash ﬂow hedging relationships recognized in AOCI for derivatives designated as hedging instruments were not
+material for fiscal year 2024, 2023 and 2022.
+
+The eﬀects of derivative instruments, both those designated as cash ﬂow hedges and those that are not designated, on the Consolidated
+Statements of Operations were not material for fiscal 2024, 2023 and 2022.
+
+
+#### Credit Risk Contingent Features
+
+If our credit rating were to fall below investment grade, we would be in violation of credit risk contingent provisions of the derivative instruments
+discussed above, and certain counterparties to the derivative instruments could request immediate payment on derivative instruments in net liability
+positions. The aggregate fair value of all derivative instruments with credit-risk related contingent features that were in a net liability position was
+immaterial as of October 27, 2024 and October 29, 2023.
+
+Entering into derivative contracts with banks exposes us to credit-related losses in the event of the banks’ nonperformance. However, our
+exposure is not considered significant.
+
+
+#### 68
+
+
+## Page 69
+
+### Table 69.1
+
+| Contract assets | $ | 269 |  | $ | 274 |
+| --- | --- | --- | --- | --- | --- |
+| Contract liabilities | $ | 2,849 |  | $ | 2,975 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Note 6      Accounts Receivable, Net
+
+We have agreements with various ﬁnancial institutions to sell accounts receivable and discount promissory notes from selected customers. We
+sell our accounts receivable generally without recourse. From time to time, we also discount letters of credit issued by customers through various
+financial institutions. The discounting of letters of credit depends on many factors, including the willingness of financial institutions to discount the letters
+of credit and the cost of such arrangements.
+
+We sold $0.4 billion, $0.7 billion and $1.0 billion of accounts receivable during ﬁscal 2024, 2023 and 2022, respectively. We did not discount
+letters of credit issued by customers in ﬁscal 2024, 2023 and 2022. There was no discounting of promissory notes in each of ﬁscal 2024, 2023 and
+2022. Financing charges on the sale of receivables and discounting of letters of credit are included in interest expense in the accompanying
+Consolidated Statements of Operations and were not material for all years presented.
+
+We maintain an allowance for credit losses for estimated losses resulting from the inability of our customers to make required payments. This
+allowance is based on historical experience, credit evaluations, speciﬁc customer collection history and any customer-speciﬁc issues we have
+identiﬁed. Changes in circumstances, such as an unexpected material adverse change in a major customer’s ability to meet its ﬁnancial obligation to us
+or its payment trends, may require us to further adjust our estimates of the recoverability of amounts due to us. Bad debt expense and any reversals are
+recorded in marketing and selling expenses in the Consolidated Statement of Operations.
+
+The balances of allowance for credit losses and changes in allowance for credit losses were not material for fiscal 2024, 2023 and 2022.
+
+We sell our products principally to manufacturers within the semiconductor and display industries. While we believe that our allowance for credit
+losses is adequate and represents our best estimate as of October 27, 2024, we continue to closely monitor customer liquidity and industry and
+economic conditions, which may result in changes to our estimates.
+
+
+#### Note 7      Contract Balances and Performance Obligations
+
+
+#### Contract Assets and Liabilities
+
+Contract assets primarily result from receivables for goods transferred to customers where payment is conditional upon technical sign oﬀ and not
+just the passage of time. Contract liabilities consist of unsatisﬁed performance obligations related to advance payments received and billings in excess
+of revenue recognized. Our contract assets and liabilities are reported in a net position on a contract-by-contract basis at the end of each reporting
+period.
+
+Contract assets are generally classiﬁed as current and are included in Other Current Assets in the Consolidated Balance Sheets. Contract
+liabilities are classiﬁed as current or non-current based on the timing of when performance obligations will be satisﬁed and associated revenue is
+expected to be recognized.
+
+
+#### Contract balances at the end of each reporting period were as follows:
+
+October 27, 2024
+October 29, 2023
+(In millions)
+
+Contract assets
+$
+269 
+$
+274 
+Contract liabilities
+$
+2,849 
+$
+2,975
+
+The decrease in contract assets during fiscal 2024, was primarily due to a reduction in goods transferred to customers where payment was
+conditional upon technical sign off.
+
+During ﬁscal 2024, we recognized revenue of approximately $ 2.7 billion related to contract liabilities at October 29, 2023. This reduction in
+contract liabilities was partially oﬀset by new billings for products and services for which there were unsatisﬁed performance obligations to customers
+and revenue had not yet been recognized as of October 27, 2024.
+
+There were no credit losses recognized on our accounts receivables and contract assets during fiscal 2024 and 2023.
+
+
+#### 69
+
+
+## Page 70
+
+### Table 70.1
+
+| Inventories |  |  |  |
+| --- | --- | --- | --- |
+| Customer service spares | $ | 1,742 | $ 1,589 |
+| Raw materials | 1,680 |  | 1,653 |
+| Work-in-process | 879 |  | 997 |
+| Finished goods |  |  |  |
+| Deferred cost of sales | 217 |  | 413 |
+| Evaluation inventory | 459 |  | 423 |
+| Manufactured on-hand inventory | 444 |  | 650 |
+| Total finished goods | 1,120 |  | 1,486 |
+| Total inventories | $ | 5,421 | $ 5,725 |
+
+
+### Table 70.2
+
+| Other Current Assets |  |  |  |
+| --- | --- | --- | --- |
+| Prepaid income taxes and income taxes receivable | $ | 120 | $ 412 |
+| Prepaid expenses and other | 974 |  | 976 |
+|  | $ | 1,094 | $ 1,388 |
+
+
+### Table 70.3
+
+| Property, Plant and Equipment, Net |  |  |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 70.4
+
+| Buildings and improvements | 3-30 |  | 2,359 | 2,194 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 70.5
+
+| Furniture, fixtures and other equipment | 3-5 |  | 782 | 762 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 70.6
+
+| Gross property, plant and equipment |  |  | 7,109 | 6,374 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 70.7
+
+|  |  |  | $ | 3,339 | $ 2,723 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Performance Obligations
+
+As of October 27, 2024, the amount of remaining unsatisﬁed performance obligations on contracts, primarily consisting of written purchase orders
+received from customers, with an original estimated duration of one year or more was approximately $3.7 billion, of which approximately 62% is
+expected to be recognized within 12 months and the remainder is expected to be recognized within the following 24 months thereafter.
+
+New export rules and regulations issued in December 2024 are expected to have an immaterial impact on remaining unsatisﬁed performance
+obligations on contracts with an original estimated duration of one year or more.
+
+We have elected the available practical expedient to exclude the value of unsatisﬁed performance obligations for contracts with an original
+expected duration of one year or less.
+
+
+#### Note 8      Balance Sheet Detail
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In millions)
+Inventories
+Customer service spares
+$
+1,742 
+$
+1,589 
+Raw materials
+1,680 
+1,653 
+Work-in-process
+879 
+997 
+Finished goods
+
+Deferred cost of sales
+217 
+413 
+Evaluation inventory
+459 
+423 
+Manufactured on-hand inventory
+444 
+650 
+Total finished goods
+1,120 
+1,486
+
+Total inventories
+$
+5,421 
+$
+5,725
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In millions)
+Other Current Assets
+Prepaid income taxes and income taxes receivable
+$
+120 
+$
+412 
+Prepaid expenses and other
+974 
+976 
+$
+1,094 
+$
+1,388
+
+
+#### Useful Life
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In years)
+(In millions)
+Property, Plant and Equipment, Net
+Land and improvements
+$
+492 
+$
+393 
+Buildings and improvements
+3-30
+2,359 
+2,194 
+Demonstration and manufacturing equipment
+5-8
+2,578 
+2,353 
+Furniture, fixtures and other equipment
+3-5
+782 
+762 
+Construction in progress
+898 
+672 
+Gross property, plant and equipment
+7,109 
+6,374 
+Accumulated depreciation
+(3,770)
+(3,651)
+$
+3,339 
+$
+2,723
+
+Depreciation expense was $346 million, $471 million and $404 million for fiscal 2024, 2023 and 2022, respectively.
+
+
+#### 70
+
+
+## Page 71
+
+### Table 71.1
+
+| Deferred Income Taxes and Other Assets |  |  |  |
+| --- | --- | --- | --- |
+| Non-current deferred income taxes | $ | 2,393 | $ 1,729 |
+| Operating lease right-of-use assets | 375 |  | 370 |
+| Finance lease right-of-use assets | — |  | 108 |
+| Income tax receivables and other assets | 314 |  | 345 |
+|  | $ | 3,082 | $ 2,552 |
+
+
+### Table 71.2
+
+| Accounts Payable and Accrued Expenses |  |  |  |
+| --- | --- | --- | --- |
+| Accounts payable | $ | 1,570 | $ 1,478 |
+| Compensation and employee benefits | 1,188 |  | 1,024 |
+| Warranty | 364 |  | 332 |
+| Dividends payable | 327 |  | 267 |
+| Income taxes payable | 535 |  | 282 |
+| Operating lease liabilities, current | 87 |  | 84 |
+| Finance lease liabilities, current | — |  | 102 |
+| Other | 749 |  | 728 |
+|  | $ | 4,820 | $ 4,297 |
+
+
+### Table 71.3
+
+| Other Liabilities |  |  |  |
+| --- | --- | --- | --- |
+| Defined and postretirement benefit plans | $ | 142 | $ 126 |
+| Operating lease liabilities, non-current | 259 |  | 252 |
+| Other | 409 |  | 336 |
+|  | $ | 810 | $ 714 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In millions)
+Deferred Income Taxes and Other Assets
+Non-current deferred income taxes
+$
+2,393 
+$
+1,729 
+Operating lease right-of-use assets
+375 
+370 
+Finance lease right-of-use assets
+— 
+108 
+Income tax receivables and other assets
+314 
+345 
+$
+3,082 
+$
+2,552
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In millions)
+Accounts Payable and Accrued Expenses
+Accounts payable
+$
+1,570 
+$
+1,478 
+Compensation and employee benefits
+1,188 
+1,024 
+Warranty
+364 
+332 
+Dividends payable
+327 
+267 
+Income taxes payable
+535 
+282 
+Operating lease liabilities, current
+87 
+84 
+Finance lease liabilities, current
+— 
+102 
+Other
+749 
+728 
+$
+4,820 
+$
+4,297
+
+
+#### October 27,
+
+
+#### 2024
+
+
+#### October 29,
+
+
+#### 2023
+
+(In millions)
+Other Liabilities
+Defined and postretirement benefit plans
+$
+142 
+$
+126 
+Operating lease liabilities, non-current
+259 
+252 
+Other
+409 
+336 
+$
+810 
+$
+714
+
+
+#### Government Assistance
+
+Capital expenditure related incentives reduced gross property, plant and equipment, net  by $479 million as of October 27, 2024. Contra-
+depreciation expense was not material in ﬁscal 2024. Operating incentives recognized as a reduction to research, development and engineering
+expense was $38 million in ﬁscal 2024. Capital expenditure related incentives reduced our income taxes payable by $ 170 million as of October 27,
+2024, of which $159 million is in accounts payable and accrued expenses and $11 million is in deferred income taxes and other assets , in our
+Consolidated Balance Sheets.
+
+
+#### 71

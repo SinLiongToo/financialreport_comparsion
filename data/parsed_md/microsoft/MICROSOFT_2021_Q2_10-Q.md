@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2021_Q2_10-Q
+# Financial Report: MICROSOFT_2021_Q2_10-Q
 
 - **Source File**: `MICROSOFT_2021_Q2_10-Q.pdf`
-- **Total Pages**: 68
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 68
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -6225,503 +6225,6 @@ The dividend declared on December 2, 2020 was included in other current liabilit
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| Balance, beginning of period |  | $ | (34 | ) |  | $ | (2 | ) |  | $ | (38 | ) |  | $ | 0 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.2
-
-| Reclassification adjustments for gains included in earnings |  |  | (21 | ) |  |  | (8 | ) |  |  | (41 | ) |  |  | (3 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.3
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | (17 | ) |  |  | (6 | ) |  |  | (33 | ) |  |  | (2 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.4
-
-| Balance, end of period |  | $ | (26 | ) |  | $ | (6 | ) |  | $ | (26 | ) |  | $ | (6 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.5
-
-| Balance, beginning of period |  | $ | 5,287 |  |  | $ | 2,065 |  |  | $ | 5,478 |  |  | $ | 1,488 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.6
-
-| Reclassification adjustments for gains included in other income (expense), net |  |  | (19 | ) |  |  | (7 | ) |  |  | (36 | ) |  |  | (6 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.7
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | (15 | ) |  |  | (6 | ) |  |  | (28 | ) |  |  | (5 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.8
-
-| Cumulative effect of accounting changes |  |  | 0 |  |  |  | 0 |  |  |  | 10 |  |  |  | 0 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.9
-
-| Balance, beginning of period |  | $ | (2,143 | ) |  | $ | (2,124 | ) |  | $ | (2,254 | ) |  | $ | (1,828 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.10
-
-| Balance, end of period |  | $ | (1,402 | ) |  | $ | (1,894 | ) |  | $ | (1,402 | ) |  | $ | (1,894 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-### NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
-
-The following table summarizes the changes in accumulated other comprehensive income (loss) by component:
-
-
-#### (In millions)
-
-
-#### Three Months Ended
-
-
-#### December 31,
-
-
-#### Six Months Ended
-
-
-#### December 31,
-
-
-#### 2020
-
-2019 
- 
- 
-2020 
- 
- 
-2019
-
-
-#### Derivatives
-
-Balance, beginning of period
- 
-$
-(34)  
-$
-(2)  
-$
-(38)  
-$
-0 
-Unrealized gains (losses), net of tax of $7, $1, $12, and $( 1)   
-25 
- 
- 
-2   
-45   
-(4)
-
-Reclassification adjustments for gains included in earnings
- 
- 
-(21)
- 
- 
-(8)
- 
- 
-(41)
-  
-(3)
-Tax expense included in provision for income taxes
- 
- 
-4 
- 
- 
-2   
-8   
-1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Amounts reclassified from accumulated other
-
-
-#### comprehensive income (loss)
-
-
-#### (17)
-
-
-#### (6)
-
-
-#### (33)
-
-
-#### (2)
-
-
-#### Net change related to derivatives, net of tax of $3, $(1), $4,
-
-
-#### and $(2)
-
-
-#### 8
-
-
-#### (4)
-
-
-#### 12
-
-
-#### (6)
-
-Balance, end of period
- 
-$
-(26)
- 
-$
-(6)  
-$
-(26)  
-$
-(6)
-
-
-#### Investments
-
-Balance, beginning of period
- 
-$
-5,287 
- 
-$
-2,065  
-$
-5,478  
-$
-1,488 
-Unrealized gains (losses), net of tax of $(128), $(111),
-
-
-#### $(178), and $45
-
-
-#### (477)
-
-
-#### (414)
-
-
-#### (665)
-
-162 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Reclassification adjustments for gains included in other
-
-
-#### income (expense), net
-
-
-#### (19)
-
-
-#### (7)
-
-
-#### (36)
-
-(6)
-Tax expense included in provision for income taxes
- 
- 
-4 
- 
- 
-1   
-8   
-1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Amounts reclassified from accumulated other
-
-
-#### comprehensive income (loss)
-
-
-#### (15)
-
-
-#### (6)
-
-
-#### (28)
-
-
-#### (5)
-
-
-#### Net change related to investments, net of tax of $(132),
-
-
-#### $(112), $(186), and $44
-
-
-#### (492)
-
-
-#### (420)
-
-
-#### (693)
-
-157 
-Cumulative effect of accounting changes
-  
-0 
-  
-0   
-10   
-0 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Balance, end of period
- 
-$
-4,795 
- 
-$
-1,645  
-$
-4,795  
-$
-1,645 
- 
-   
-    
-    
-    
- 
- 
-   
-    
-    
-    
- 
-Translation Adjustments and Other
-
-Balance, beginning of period
- 
-$
-(2,143)
- 
-$
-(2,124)  
-$
-(2,254)  
-$
-(1,828)
-Translation adjustments and other, net of tax of $0, $0, $(9),
-
-
-#### and $(8)
-
-
-#### 741
-
-
-#### 230
-
-
-#### 852
-
-
-#### (66)
-
-Balance, end of period
- 
-$
-(1,402)
- 
-$
-(1,894)  
-$
-(1,402)  
-$
-(1,894)
-
-
-#### Accumulated other comprehensive income (loss), end of
-
-
-#### period
-
-$
-3,367
-
-$
-(255)
-
-$
-3,367
-
-$
-(255)
-
-
-#### 26
-
-
 ## Page 27
 
 
@@ -7183,3 +6686,152 @@ January 26, 2021
 
 
 #### 30
+
+
+## Page 31
+
+
+### PART I
+
+
+#### Item 2
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+
+### OPERATIONS
+
+
+#### Note About Forward-Looking Statements
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of
+1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the
+following sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” (Part II, Item 1A
+of this Form 10-Q). These forward-looking statements generally are identiﬁed by the words “believe,” “project,” “expect,” “anticipate,” “estimate,”
+“intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar
+expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may
+cause actual results to diﬀer materially. We describe risks and uncertainties that could cause actual results and events to diﬀer materially in
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures about
+Market Risk” (Part I, Item 3 of this Form 10-Q), and “Risk Factors”. We undertake no obligation to update or revise publicly any forward-looking
+statements, whether because of new information, future events, or otherwise.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader
+understand the results of operations and ﬁnancial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read
+in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2020, and our ﬁnancial statements and the accompanying
+Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+
+
+### OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive
+to create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity,
+large business competitiveness, and public-sector eﬃciency. They also support new startups, improve educational and health outcomes, and
+empower human ingenuity.
+
+We generate revenue by oﬀering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of
+software products; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most
+signiﬁcant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services;
+datacenter costs in support of our cloud-based services; and income taxes.
+
+As the world continues to respond to the coronavirus (“COVID-19”), we are working to do our part by ensuring the safety of our employees,
+striving to protect the health and well-being of the communities in which we operate, and providing technology and resources to our customers to
+help them do their best work while remote.
+
+Highlights from the second quarter of fiscal year 2021 compared with the second quarter of fiscal year 2020 included:
+
+•
+Commercial cloud revenue increased 34% to $16.7 billion.
+
+•
+Office Commercial products and cloud services revenue increased 11%, driven by Office 365 Commercial growth of 21%.
+
+•
+Oﬃce Consumer products and cloud services revenue increased 7%, and Microsoft 365 Consumer subscribers increased to 47.5
+million.
+
+•
+LinkedIn revenue increased 23%.
+
+•
+Dynamics products and cloud services revenue increased 21%, driven by Dynamics 365 growth of 39%.
+
+•
+Server products and cloud services revenue increased 26%, driven by Azure growth of 50%.
+
+•
+Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 1%.
+
+•
+Windows Commercial products and cloud services revenue increased 10%.
+
+•
+Xbox content and services revenue increased 40%.
+
+•
+Surface revenue increased 3%.
+
+
+#### 31
+
+
+## Page 32
+
+
+### PART I
+
+
+#### Item 2
+
+•
+Search advertising revenue, excluding traffic acquisition costs, increased 2%.
+
+
+#### Industry Trends
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the
+changing demands of customers and users, industry trends, and competitive forces.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers
+prefer evolve rapidly, and inﬂuence how users access services in the cloud, and in some cases, the user’s choice of which suite of cloud-based
+services to use. We must continue to evolve and adapt over an extended time in pace with this changing environment. The investments we are
+making in infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+
+Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide.
+We compete for talented individuals globally by oﬀering an exceptional working environment, broad customer reach, scale in resources, the
+ability to grow one’s career across many diﬀerent products and businesses, and competitive compensation and beneﬁts. Aggregate demand for
+our software, services, and devices is correlated to global macroeconomic and geopolitical factors, which remain dynamic.
+
+Our international operations provide a signiﬁcant portion of our total revenue and expenses. Many of these revenue and expenses are
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may signiﬁcantly aﬀect revenue and
+expenses. Weakening of the U.S. dollar relative to certain foreign currencies increased reported revenue but did not have a material impact on
+reported expenses from our international operations for the three months ended December 31, 2020, and did not have a material impact on
+reported revenue or expenses from our international operations for the six months ended December 31, 2020.
+
+Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and other risks.
+
+
+### COVID-19
+
+In ﬁscal year 2021, the COVID-19 pandemic continued to impact our business operations and ﬁnancial results. Cloud usage and demand
+beneﬁted as customers accelerate their digital transformation priorities. Our consumer businesses also beneﬁted from the remote environment,
+with continued demand for PCs and productivity tools, as well as strong engagement across our Gaming platform. We saw improvement in
+customer advertising spend, but continued to experience weakness in transactional licensing and savings in operating expenses related to
+COVID-19. The COVID-19 pandemic may continue to impact our business operations and ﬁnancial operating results, and there is uncertainty in
+the nature and degree of its continued effects over time. Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for further discussion.
+
+
+#### Seasonality
+
+Our revenue ﬂuctuates quarterly and is generally higher in the second and fourth quarters of our ﬁscal year. Second quarter revenue is driven by
+corporate year-end spending trends in our major markets and holiday season spending by consumers, and fourth quarter revenue is driven by
+the volume of multi-year on-premises contracts executed during the period.
+
+
+#### 32

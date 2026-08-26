@@ -1,8 +1,8 @@
-# Annual Report: ALPHABET-GOOGLE_2021_Q3_10-Q
+# Financial Report: ALPHABET-GOOGLE_2021_Q3_10-Q
 
 - **Source File**: `ALPHABET-GOOGLE_2021_Q3_10-Q.pdf`
-- **Total Pages**: 54
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 54
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -4331,639 +4331,540 @@ the second quarter of 2017.
 #### 26
 
 
-## Page 27
+## Page 32
 
-### Table 27.1
+### Table 32.1
 
-|  | We have had patent, copyright, trade secret, and trademark infringement lawsuits filed against us claiming that certain of our products, services, and technologies |
-| --- | --- |
-| infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary damages, costly royalty or licensing agreements, or |  |
-| orders preventing us from offering certain features, functionalities, products, or services. As a result, we may have to change our business practices, and develop non- |  |
-| infringing products or technologies, which could result in a loss of revenues for us and otherwise harm our business. In addition, the U.S. International Trade Commission |  |
-| ("ITC") has increasingly become an important forum to litigate intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing |  |
-| infringing products into the U.S. Because the U.S. is an important market, a prohibition on importation could have an adverse effect on us, including preventing us from |  |
-| importing many important products into the U.S. or necessitating workarounds that may limit certain features of our products. |  |
-
-
-### Table 27.2
-
-|  | Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property infringement claims, which |
-| --- | --- |
-| would increase our costs as a result of defending such claims, and may require that we pay significant damages if there were an adverse ruling in any such claims. In |  |
-| addition, our customers and partners may discontinue the use of our products, services, and technologies, as a result of injunctions or otherwise, which could result in loss |  |
-| of revenues and adversely affect our business. |  |
+| Operating income (loss): |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Google Services | $ | 14,453 |  | $ | 23,973 |  | $ | 35,540 |  | $ | 65,862 |
+| Google Cloud | (1,208) |  |  | (644) |  |  | (4,364) |  |  | (2,209) |  |
+| Other Bets | (1,103) |  |  | (1,288) |  |  | (3,340) |  |  | (3,831) |  |
+| Corporate costs, unallocated | (929) |  |  | (1,010) |  |  | (2,263) |  |  | (2,993) |  |
+| Total income from operations | $ | 11,213 |  | $ | 21,031 |  | $ | 25,573 |  | $ | 56,829 |
 
 
-### Table 27.3
+### Table 32.2
 
-|  | In 2010, Oracle America, Inc. ("Oracle") brought a copyright lawsuit against Google in the Northern District of California, alleging that Google's Android operating |
-| --- | --- |
-| system infringes Oracle's copyrights related to certain Java application programming interfaces (“Java APIs”). After trial, final judgment was entered by the district court in |  |
-| favor of Google on June 8, 2016, and the court decided post-trial motions in favor of Google. Oracle appealed and on March 27, 2018, the Federal Circuit Court of Appeals |  |
-| reversed and remanded the case for a trial on damages. On May 29, 2018, we filed a petition for a rehearing at the Federal Circuit, and on August 28, 2018, the Federal |  |
-| Circuit denied the petition. On January 24, 2019, we filed a petition to the Supreme Court of the United States to review the case. On April 29, 2019, the Supreme Court |  |
-| requested the views of the Solicitor General regarding our petition. On September 27, 2019, the Solicitor General recommended denying our petition, and we provided our |  |
-| response on October 16, 2019. On November 15, 2019, the Supreme Court granted our petition and made a decision to review the case. The Supreme Court heard oral |  |
-| arguments in our case on October 7, 2020. On April 5, 2021, the Supreme Court reversed the Federal Circuit's ruling and found that Google’s use of the Java APIs was a |  |
-| fair use as a matter |  |
+| Long-lived assets: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | $ | 77,281 |
+| International | 27,645 |  |  | 30,268 |  |
+| Total long-lived assets | $ | 96,960 |  | $ | 107,549 |
 
 
 Table of Contents
 Alphabet Inc.
 
-On July 18, 2018, the EC announced its decision that certain provisions in Google’s Android-related distribution agreements infringed European competition law. The
-EC decision imposed a €4.3 billion ($5.1 billion as of June 30, 2018) ﬁne and directed the termination of the conduct at issue. On October 9, 2018, we appealed the EC
-decision. On October 29, 2018, we implemented changes to certain of our Android distribution practices. We recognized a charge of $5.1 billion for the ﬁne in the second
-quarter of 2018.
-
-On March 20, 2019, the EC announced its decision that certain contractual provisions in agreements that Google had with AdSense for Search partners infringed
-European competition law. The EC decision imposed a ﬁne of €1.5 billion ($1.7 billion as of March 20, 2019) and directed actions related to AdSense for Search partners'
-agreements, which we implemented prior to the decision. On June 4, 2019, we appealed the EC decision. We recognized a charge of $1.7 billion for the ﬁne in the ﬁrst
-quarter of 2019.
-
-While each EC decision is under appeal, we included the ﬁnes in accrued expenses and other current liabilities on our Consolidated Balance Sheets as we provided
-bank guarantees (in lieu of a cash payment) for the fines.
-
-From time to time we are subject to formal and informal inquiries and investigations on competition matters by regulatory authorities in the United States, Europe, and
-other jurisdictions. In August 2019, we began receiving civil investigative demands from the U.S. Department of Justice ("DOJ") requesting information and documents
-relating to our prior antitrust investigations and certain aspects of our business. The DOJ and a number of state Attorneys General ﬁled a lawsuit on October 20, 2020
-alleging that Google violated U.S. antitrust laws relating to Search and Search advertising. Separately, on December 16, 2020, a number of state Attorneys General ﬁled an
-antitrust complaint against Google in the United States District Court for the Eastern District of Texas, alleging that Google violated U.S. antitrust laws as well as state
-deceptive trade laws relating to its advertising technology. On June 22, 2021, the EC opened a formal investigation into Google's advertising technology business practices.
-On July 7, 2021, a number of state Attorneys General ﬁled an antitrust complaint against us in the United States District Court for the Northern District of California, alleging
-that Google’s operation of Android and Google Play violated U.S. antitrust laws and state antitrust and consumer protection laws. We believe these complaints are without
-merit and will defend ourselves vigorously. The DOJ and state Attorneys General continue their investigations into certain aspects of our business. We continue to
-cooperate with federal and state regulators in the United States, the EC, and other regulators around the world.
-
-
-#### Patent and Intellectual Property Claims
-
-We have had patent, copyright, trade secret, and trademark infringement lawsuits ﬁled against us claiming that certain of our products, services, and technologies
-infringe others' intellectual property rights. Adverse results in these lawsuits may include awards of substantial monetary damages, costly royalty or licensing agreements, or
-orders preventing us from oﬀering certain features, functionalities, products, or services. As a result, we may have to change our business practices, and develop non-
-infringing products or technologies, which could result in a loss of revenues for us and otherwise harm our business. In addition, the U.S. International Trade Commission
-("ITC") has increasingly become an important forum to litigate intellectual property disputes because an ultimate loss in an ITC action can result in a prohibition on importing
-infringing products into the U.S. Because the U.S. is an important market, a prohibition on importation could have an adverse eﬀect on us, including preventing us from
-importing many important products into the U.S. or necessitating workarounds that may limit certain features of our products.
-
-Furthermore, many of our agreements with our customers and partners require us to indemnify them against certain intellectual property infringement claims, which
-would increase our costs as a result of defending such claims, and may require that we pay signiﬁcant damages if there were an adverse ruling in any such claims. In
-addition, our customers and partners may discontinue the use of our products, services, and technologies, as a result of injunctions or otherwise, which could result in loss
-of revenues and adversely affect our business.
-
-In 2010, Oracle America, Inc. ("Oracle") brought a copyright lawsuit against Google in the Northern District of California, alleging that Google's Android operating
-system infringes Oracle's copyrights related to certain Java application programming interfaces (“Java APIs”). After trial, ﬁnal judgment was entered by the district court in
-favor of Google on June 8, 2016, and the court decided post-trial motions in favor of Google. Oracle appealed and on March 27, 2018, the Federal Circuit Court of Appeals
-reversed and remanded the case for a trial on damages. On May 29, 2018, we ﬁled a petition for a rehearing at the Federal Circuit, and on August 28, 2018, the Federal
-Circuit denied the petition. On January 24, 2019, we ﬁled a petition to the Supreme Court of the United States to review the case. On April 29, 2019, the Supreme Court
-requested the views of the Solicitor General regarding our petition. On September 27, 2019, the Solicitor General recommended denying our petition, and we provided our
-response on October 16, 2019. On November 15, 2019, the Supreme Court granted our petition and made a decision to review the case. The Supreme Court heard oral
-arguments in our case on October 7, 2020. On April 5, 2021, the Supreme Court reversed the Federal Circuit's ruling and found that Google’s use of the Java APIs was a
-fair use as a matter
-
-
-#### 27
-
-
-## Page 28
-
-### Table 28.1
-
-| of law. The Supreme Court remanded the case to the Federal Circuit for further proceedings in conformity with the Supreme Court opinion. On May 14, 2021, the Federal |
-| --- |
-| Circuit entered an order affirming the district court’s final judgment in favor of Google. On June 21, 2021, the Federal Circuit issued a mandate returning the case to the |
-| district court, and the case is now concluded. |
-
-
-### Table 28.2
-
-|  | We are also regularly subject to claims, suits, regulatory and government investigations, other proceedings, and consent decrees involving competition, intellectual |
-| --- | --- |
-| property, privacy, tax and related compliance, labor and employment, commercial disputes, content generated by our users, goods and services offered by advertisers or |  |
-| publishers using our platforms, personal injury, consumer protection, and other matters. Such claims, suits, regulatory and government investigations, other proceedings, |  |
-| and consent decrees could result in substantial fines and penalties, injunctive relief, ongoing auditing and monitoring obligations, changes to our products and services, |  |
-| alterations to our business models and operations, and collateral related civil litigation or other adverse consequences, all of which could harm our business, reputation, |  |
-| financial condition, and operating results. |  |
-
-
-### Table 28.3
-
-|  | Certain of these outstanding matters include speculative, substantial or indeterminate monetary amounts. We record a liability when we believe that it is probable that a |
-| --- | --- |
-| loss has been incurred and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we |  |
-| disclose the reasonably possible loss. We evaluate developments in our legal matters that could affect the amount of liability that has been previously accrued, and the |  |
-| matters and related reasonably possible losses disclosed, and make adjustments as appropriate. Significant judgment is required to determine both likelihood of there being |  |
-| and the estimated amount of a loss related to such matters. |  |
-
-
-### Table 28.4
-
-|  | With respect to our outstanding matters, based on our current knowledge, we believe that the amount or range of reasonably possible loss will not, either individually or |
-| --- | --- |
-| in aggregate, have a material adverse effect on our business, consolidated financial position, results of operations, or cash flows. However, the outcome of such matters is |  |
-| inherently unpredictable and subject to significant uncertainties. |  |
-
-
-### Table 28.5
-
-|  | We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non-income tax audits primarily |
-| --- | --- |
-| arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these jurisdictions and the tax treatment of certain employee |  |
-| benefits. We accrue non-income taxes that may result from examinations by, or any negotiated agreements with, these tax authorities when a loss is probable and |  |
-| reasonably estimable. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. Due to |  |
-| the inherent complexity and uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from our expectations. |  |
-
-
-Table of Contents
-Alphabet Inc.
-
-of law. The Supreme Court remanded the case to the Federal Circuit for further proceedings in conformity with the Supreme Court opinion. On May 14, 2021, the Federal
-Circuit entered an order aﬃrming the district court’s ﬁnal judgment in favor of Google. On June 21, 2021, the Federal Circuit issued a mandate returning the case to the
-district court, and the case is now concluded.
-
-
-#### Other
-
-We are also regularly subject to claims, suits, regulatory and government investigations, other proceedings, and consent decrees involving competition, intellectual
-property, privacy, tax and related compliance, labor and employment, commercial disputes, content generated by our users, goods and services oﬀered by advertisers or
-publishers using our platforms, personal injury, consumer protection, and other matters. Such claims, suits, regulatory and government investigations, other proceedings,
-and consent decrees could result in substantial ﬁnes and penalties, injunctive relief, ongoing auditing and monitoring obligations, changes to our products and services,
-alterations to our business models and operations, and collateral related civil litigation or other adverse consequences, all of which could harm our business, reputation,
-financial condition, and operating results.
-
-Certain of these outstanding matters include speculative, substantial or indeterminate monetary amounts. We record a liability when we believe that it is probable that a
-loss has been incurred and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we
-disclose the reasonably possible loss. We evaluate developments in our legal matters that could aﬀect the amount of liability that has been previously accrued, and the
-matters and related reasonably possible losses disclosed, and make adjustments as appropriate. Signiﬁcant judgment is required to determine both likelihood of there being
-and the estimated amount of a loss related to such matters.
-
-With respect to our outstanding matters, based on our current knowledge, we believe that the amount or range of reasonably possible loss will not, either individually or
-in aggregate, have a material adverse eﬀect on our business, consolidated ﬁnancial position, results of operations, or cash ﬂows. However, the outcome of such matters is
-inherently unpredictable and subject to significant uncertainties.
-
-We expense legal fees in the period in which they are incurred.
-
-
-#### Non-Income Taxes
-
-We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non-income tax audits primarily
-arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these jurisdictions and the tax treatment of certain employee
-beneﬁts. We accrue non-income taxes that may result from examinations by, or any negotiated agreements with, these tax authorities when a loss is probable and
-reasonably estimable. If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. Due to
-the inherent complexity and uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from our expectations.
-
-For information regarding income tax contingencies, see Note 13.
-
-
-#### Note 10. Stockholders' Equity
-
-
-#### Share Repurchases
-
-In April 2021, the Board of Directors of Alphabet authorized the company to repurchase up to $ 50.0 billion of its Class C stock. In July 2021, the Alphabet board
-approved an amendment to the April 2021 authorization, permitting the company to repurchase both Class A and Class C shares in a manner deemed in the best interest of
-the company and its stockholders, taking into account the economic cost and prevailing market conditions, including the relative trading prices and volumes of the Class A
-and Class C shares. As of September 30, 2021, $30.8 billion remains available for repurchase of Class A and Class C shares under the amended authorization. The
-repurchases are being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or
-privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not have an expiration date.
-
-In accordance with the authorization of the Board of Directors of Alphabet, during the three and nine months ended September 30, 2021, we repurchased and
-subsequently retired 4.6 million and 15.7 million aggregate shares for $12.6 billion and $36.8 billion, respectively. Of the aggregate amount repurchased and subsequently
-retired during the three months ended September 30, 2021, 0.5 million shares were Class A stock for $ 1.5 billion.
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Basic net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings | $ | 4,973 |  | $ | 763 |  | $ | 5,511 |  | $ | 8,548 |  | $ | 1,291 |  | $ | 9,097 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in per share computation | 300,411 |  |  | 46,108 |  |  | 332,930 |  |  | 300,519 |  |  | 45,404 |  |  | 319,835 |  |
-| Basic net income per share | $ | 16.55 |  | $ | 16.55 |  | $ | 16.55 |  | $ | 28.44 |  | $ | 28.44 |  | $ | 28.44 |
-| Diluted net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings for basic computation | $ | 4,973 |  | $ | 763 |  | $ | 5,511 |  | $ | 8,548 |  | $ | 1,291 |  | $ | 9,097 |
-| Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares | 763 |  |  | 0 |  |  | 0 |  |  | 1,291 |  |  | 0 |  |  | 0 |  |
-| Reallocation of undistributed earnings | (53) |  |  | (7) |  |  | 53 |  |  | (156) |  |  | (20) |  |  | 156 |  |
-| Allocation of undistributed earnings | $ | 5,683 |  | $ | 756 |  | $ | 5,564 |  | $ | 9,683 |  | $ | 1,271 |  | $ | 9,253 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in basic computation | 300,411 |  |  | 46,108 |  |  | 332,930 |  |  | 300,519 |  |  | 45,404 |  |  | 319,835 |  |
-| Weighted-average effect of dilutive securities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Add: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Conversion of Class B to Class A common shares outstanding | 46,108 |  |  | 0 |  |  | 0 |  |  | 45,404 |  |  | 0 |  |  | 0 |  |
-| Restricted stock units and other contingently issuable shares | 47 |  |  | 0 |  |  | 6,355 |  |  | 14 |  |  | 0 |  |  | 10,747 |  |
-| Number of shares used in per share computation | 346,566 |  |  | 46,108 |  |  | 339,285 |  |  | 345,937 |  |  | 45,404 |  |  | 330,582 |  |
-| Diluted net income per share | $ | 16.40 |  | $ | 16.40 |  | $ | 16.40 |  | $ | 27.99 |  | $ | 27.99 |  | $ | 27.99 |
-
-
-Table of Contents
-Alphabet Inc.
-
-
-#### Note 11. Net Income Per Share
-
-The following table sets forth the computation of basic and diluted net income per share of Class A and Class B common stock and Class C capital stock (in millions,
-except share amounts which are reflected in thousands, and per share amounts):
-
-Three Months Ended September 30,
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
  
 2020
 2021
- 
-Class A
-Class B
-Class C
-Class A
-Class B
-Class C
-Basic net income per share:
+2020
+2021
+Operating income (loss):
+
+Google Services
+$
+14,453 
+$
+23,973 
+$
+35,540 
+$
+65,862 
+Google Cloud
+(1,208)
+(644)
+(4,364)
+(2,209)
+Other Bets
+(1,103)
+(1,288)
+(3,340)
+(3,831)
+Corporate costs, unallocated
+(929)
+(1,010)
+(2,263)
+(2,993)
+Total income from operations
+$
+11,213 
+$
+21,031 
+$
+25,573 
+$
+56,829
+
+For revenues by geography, see Note 2.
+The following table presents our long-lived assets by geographic area, which includes property and equipment, net and operating lease assets (in millions):
+
+As of 
+December 31, 2020
+
+As of
+September 30, 2021
+Long-lived assets:
+
+United States
+$
+69,315 
+$
+77,281 
+International
+27,645 
+30,268 
+Total long-lived assets
+$
+96,960 
+$
+107,549
 
 
-#### Numerator
-
-Allocation of undistributed earnings
-$
-4,973 
-$
-763 
-$
-5,511 
-$
-8,548 
-$
-1,291 
-$
-9,097 
-Denominator
-
-Number of shares used in per share computation
-300,411 
-46,108 
-332,930 
-300,519 
-45,404 
-319,835 
-Basic net income per share
-$
-16.55 
-$
-16.55 
-$
-16.55 
-$
-28.44 
-$
-28.44 
-$
-28.44
+#### 32
 
 
-#### Diluted net income per share:
+## Page 33
+
+### Table 33.1
+
+| Revenues | $ | 46,173 |  |  | $ | 65,118 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Change in revenues year over year | 14 |  | % |  | 41 |  | % |
+| Change in constant currency revenues year over year | 15 |  | % |  | 39 |  | % |
+| Operating income | $ | 11,213 |  |  | $ | 21,031 |  |
+| Operating margin | 24 |  | % |  | 32 |  | % |
+| Other income (expense), net | $ | 2,146 |  |  | $ | 2,033 |  |
+| Net Income | $ | 11,247 |  |  | $ | 18,936 |  |
+| Diluted EPS | $ | 16.40 |  |  | $ | 27.99 |  |
 
 
-#### Numerator
+Table of Contents
+Alphabet Inc.
 
-Allocation of undistributed earnings for basic
-computation
-$
-4,973 
-$
-763 
-$
-5,511 
-$
-8,548 
-$
-1,291 
-$
-9,097 
-Reallocation of undistributed earnings as a
-result of conversion of Class B to Class A shares
-763 
-0 
-0 
-1,291 
-0 
-0 
-Reallocation of undistributed earnings
-(53)
-(7)
-53 
-(156)
-(20)
-156 
-Allocation of undistributed earnings
-$
-5,683 
-$
-756 
-$
-5,564 
-$
-9,683 
-$
-1,271 
-$
-9,253 
-Denominator
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-Number of shares used in basic computation
-300,411 
-46,108 
-332,930 
-300,519 
-45,404 
-319,835 
-Weighted-average effect of dilutive securities
+Please read the following discussion and analysis of our ﬁnancial condition and results of operations together with our consolidated ﬁnancial statements and related
+notes included under Part I, Item 1 of this Quarterly Report on Form 10-Q.
 
-Add:
-Conversion of Class B to Class A common
-shares outstanding
-46,108 
-0 
-0 
-45,404 
-0 
-0 
-Restricted stock units and other contingently
-issuable shares
-47 
-0 
-6,355 
+
+#### The Impact of COVID-19 on our Results and Operations
+
+We began to observe the impact of COVID-19 on our ﬁnancial results in March 2020 when, despite an increase in users' search activity, our advertising revenues
+declined compared to the prior year due to a shift of user search activity to less commercial topics and reduced spending by our advertisers. For the quarter ended June 30,
+2020, our advertising revenues declined due to the continued impacts of COVID-19 and the related reductions in global economic activity. During the course of the quarter
+ended June 30, 2020, we observed a gradual return in user search activity to more commercial topics, followed by increased spending by our advertisers that continued
+throughout the second half of 2020. Additionally, over the course of 2020, we experienced variability in our margins as many of our expenses are less variable in nature
+and/or may not correlate to changes in revenues. Market volatility contributed to ﬂuctuations in the valuation of our equity investments. Further, our assessment of the credit
+deterioration of our customers due to changes in the macroeconomic environment during the period was reflected in our allowance for credit losses for accounts receivable.
+
+Through the third quarter of 2021, we continued to beneﬁt from elevated consumer activity online and broad-based increases in advertiser spending. We remained
+focused on innovating and investing in the services we oﬀer to consumers and businesses to support our long-term growth. For example, we continued to invest in our
+technical infrastructure and data centers. Additionally, our margins beneﬁted from revenue growth while many of our expenses remained less variable in nature and/or may
+not correlate to changes in revenues. These factors, combined with the impact of COVID-19 in the prior year, aﬀected year-over-year growth trends. Further, year-over-year
+trends beneﬁted from a reduction in depreciation expense due to the change in the estimated useful life of our servers and certain network equipment beginning in the ﬁrst
+quarter of 2021; we expect the eﬀect of this change in estimate to decline through the remainder of the year (for further details see Note 1 of the Notes to Consolidated
+Financial Statements included in Part 1, Item 1 of this Quarterly Report on Form 10-Q). The COVID-19 pandemic continues to evolve, be unpredictable and aﬀect our
+business and financial results. Our past results may not be indicative of our future performance, and historical trends in our financial results may differ materially.
+
+See Part II Item 7, "Impact of COVID-19" in our Annual Report on Form 10-K for the year ended December 31, 2020 for more information.
+
+
+#### Executive Overview
+
+The following table summarizes our consolidated financial results (in millions, except for per share information and percentages).
+
+
+#### Three Months Ended
+
+September 30,
+2020
+2021
+Revenues
+$
+46,173 
+$
+65,118 
+Change in revenues year over year
 14 
-0 
-10,747 
-Number of shares used in per share computation
-346,566 
-46,108 
-339,285 
-345,937 
-45,404 
-330,582 
-Diluted net income per share
+%
+41 
+%
+Change in constant currency revenues year over year
+15 
+%
+39 
+%
+
+Operating income
+$
+11,213 
+$
+21,031 
+Operating margin
+24 
+%
+32 
+%
+
+Other income (expense), net
+$
+2,146 
+$
+2,033
+
+Net Income
+$
+11,247 
+$
+18,936 
+Diluted EPS
 $
 16.40 
-$
-16.40 
-$
-16.40 
-$
-27.99 
-$
-27.99 
 $
 27.99
 
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Basic net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings | $ | 11,004 |  | $ | 1,697 |  | $ | 12,341 |  | $ | 24,867 |  | $ | 3,776 |  | $ | 26,748 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in per share computation | 299,934 |  |  | 46,266 |  |  | 336,361 |  |  | 300,482 |  |  | 45,622 |  |  | 323,208 |  |
-| Basic net income per share | $ | 36.69 |  | $ | 36.69 |  | $ | 36.69 |  | $ | 82.76 |  | $ | 82.76 |  | $ | 82.76 |
-| Diluted net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings for basic computation | $ | 11,004 |  | $ | 1,697 |  | $ | 12,341 |  | $ | 24,867 |  | $ | 3,776 |  | $ | 26,748 |
-| Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares | 1,697 |  |  | 0 |  |  | 0 |  |  | 3,776 |  |  | 0 |  |  | 0 |  |
-| Reallocation of undistributed earnings | (103) |  |  | (14) |  |  | 103 |  |  | (424) |  |  | (56) |  |  | 424 |  |
-| Allocation of undistributed earnings | $ | 12,598 |  | $ | 1,683 |  | $ | 12,444 |  | $ | 28,219 |  | $ | 3,720 |  | $ | 27,172 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in basic computation | 299,934 |  |  | 46,266 |  |  | 336,361 |  |  | 300,482 |  |  | 45,622 |  |  | 323,208 |  |
-| Weighted-average effect of dilutive securities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Add: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Conversion of Class B to Class A common shares outstanding | 46,266 |  |  | 0 |  |  | 0 |  |  | 45,622 |  |  | 0 |  |  | 0 |  |
-| Restricted stock units and other contingently issuable shares | 105 |  |  | 0 |  |  | 5,715 |  |  | 16 |  |  | 0 |  |  | 10,073 |  |
-| Number of shares used in per share computation | 346,305 |  |  | 46,266 |  |  | 342,076 |  |  | 346,120 |  |  | 45,622 |  |  | 333,281 |  |
-| Diluted net income per share | $ | 36.38 |  | $ | 36.38 |  | $ | 36.38 |  | $ | 81.53 |  | $ | 81.53 |  | $ | 81.53 |
+•
+Total revenues were $65.1 billion, an increase of 41% year over year, primarily driven by an increase in Google Services segment revenues of $17.3 billion or 41%
+and an increase in Google Cloud segment revenues of $1.5 billion or 45%. The adverse effect of COVID-19 on the prior year comparable period's
 
 
-### Table 30.2
+#### 33
 
-| Unvested as of December 31, 2020 | 19,288,793 |  | $ | 1,262.13 |
-| --- | --- | --- | --- | --- |
-| Granted | 9,849,733 |  | $ | 1,883.76 |
-| Vested | (7,984,196) |  | $ | 1,334.16 |
-| Forfeited/canceled | (1,471,948) |  | $ | 1,411.50 |
-| Unvested as of September 30, 2021 | 19,682,382 |  | $ | 1,538.30 |
+
+## Page 34
+
+### Table 34.1
+
+| Google Search & other | $ | 26,338 |  | $ | 37,926 |  | $ | 72,159 |  | $ | 105,650 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads | 5,037 |  |  | 7,205 |  |  | 12,887 |  |  | 20,212 |  |
+| Google Network | 5,720 |  |  | 7,999 |  |  | 15,679 |  |  | 22,396 |  |
+| Google advertising | 37,095 |  |  | 53,130 |  |  | 100,725 |  |  | 148,258 |  |
+| Google other | 5,478 |  |  | 6,754 |  |  | 15,037 |  |  | 19,871 |  |
+| Google Services total | 42,573 |  |  | 59,884 |  |  | 115,762 |  |  | 168,129 |  |
+| Google Cloud | 3,444 |  |  | 4,990 |  |  | 9,228 |  |  | 13,665 |  |
+| Other Bets | 178 |  |  | 182 |  |  | 461 |  |  | 572 |  |
+| Hedging gains (losses) | (22) |  |  | 62 |  |  | 178 |  |  | (54) |  |
+| Total revenues | $ | 46,173 |  | $ | 65,118 |  | $ | 125,629 |  | $ | 182,312 |
 
 
 Table of Contents
 Alphabet Inc.
 
-Nine Months Ended September 30,
+advertising revenues contributed to the year-over-year increase. Revenues from the United States, EMEA, APAC, and Other Americas were $29.8 billion, $19.8
+billion, $11.7 billion, and $3.7 billion, respectively.
+
+•
+Total cost of revenues was $27.6 billion, an increase of 31% year over year. TAC was $11.5 billion, an increase of 41% year over year, primarily driven by an
+increase in revenues subject to TAC. Other cost of revenues were $16.1 billion, an increase of 24% year over year, aﬀected by a reduction in depreciation expense
+due to the change in the estimated useful life of our servers and certain network equipment.
+
+•
+Operating expenses (excluding cost of revenues) were $16.5 billion, an increase of 19% year over year, primarily driven by headcount growth and increases in
+advertising and promotional expenses.
+
+
+#### Other information
+
+•
+Operating cash flow was $25.5 billion for the three months ended September 30, 2021.
+
+•
+Capital expenditures, which primarily included investments in technical infrastructure, were $6.8 billion for the three months ended September 30, 2021.
+
+•
+Number of employees was 150,028 as of September 30, 2021.
+
+
+#### Our Segments
+
+Beginning in the fourth quarter of 2020, we report our segment results as Google Services, Google Cloud, and Other Bets:
+
+•
+Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps, Google Play, Search, and YouTube. Google Services
+generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and fees received for subscription-based
+products such as YouTube Premium and YouTube TV.
+
+•
+Google Cloud includes Google’s infrastructure and data analytics platforms, collaboration tools, and other services for enterprise customers. Google Cloud
+generates revenues primarily from fees received for Google Cloud Platform ("GCP") services and Google Workspace collaboration tools.
+
+•
+Other Bets is a combination of multiple operating segments that are not individually material. Revenues from the Other Bets are derived primarily through the sale of
+internet services as well as licensing and R&D services.
+
+Unallocated corporate costs primarily include corporate initiatives, corporate shared costs, such as ﬁnance and legal, including certain ﬁnes and settlements, as well as
+costs associated with certain shared research and development activities. Additionally, hedging gains (losses) related to revenue are included in corporate costs.
+
+
+#### Financial Results
+
+
+#### Revenues
+
+The following table presents our revenues by type (in millions).
+
+Three Months Ended
+Nine Months Ended
+September 30,
+September 30,
  
 2020
 2021
- 
-Class A
-Class B
-Class C
-Class A
-Class B
-Class C
-Basic net income per share:
+2020
+2021
+Google Search & other
+$
+26,338 
+$
+37,926 
+$
+72,159 
+$
+105,650 
+YouTube ads
+5,037 
+7,205 
+12,887 
+20,212 
+Google Network
+5,720 
+7,999 
+15,679 
+22,396 
+Google advertising
+37,095 
+53,130 
+100,725 
+148,258 
+Google other
+5,478 
+6,754 
+15,037 
+19,871 
+Google Services total
+42,573 
+59,884 
+115,762 
+168,129 
+Google Cloud
+3,444 
+4,990 
+9,228 
+13,665 
+Other Bets
+178 
+182 
+461 
+572 
+Hedging gains (losses)
+(22)
+62 
+178 
+(54)
+
+Total revenues
+$
+46,173 
+$
+65,118 
+$
+125,629 
+$
+182,312
 
 
-#### Numerator
-
-Allocation of undistributed earnings
-$
-11,004 
-$
-1,697 
-$
-12,341 
-$
-24,867 
-$
-3,776 
-$
-26,748 
-Denominator
-
-Number of shares used in per share computation
-299,934 
-46,266 
-336,361 
-300,482 
-45,622 
-323,208 
-Basic net income per share
-$
-36.69 
-$
-36.69 
-$
-36.69 
-$
-82.76 
-$
-82.76 
-$
-82.76
+#### 34
 
 
-#### Diluted net income per share:
+## Page 35
 
-
-#### Numerator
-
-Allocation of undistributed earnings for basic computation
-$
-11,004 
-$
-1,697 
-$
-12,341 
-$
-24,867 
-$
-3,776 
-$
-26,748 
-Reallocation of undistributed earnings as a result of conversion of Class B to
-Class A shares
-1,697 
-0 
-0 
-3,776 
-0 
-0 
-Reallocation of undistributed earnings
-(103)
-(14)
-103 
-(424)
-(56)
-424 
-Allocation of undistributed earnings
-$
-12,598 
-$
-1,683 
-$
-12,444 
-$
-28,219 
-$
-3,720 
-$
-27,172 
-Denominator
-
-Number of shares used in basic computation
-299,934 
-46,266 
-336,361 
-300,482 
-45,622 
-323,208 
-Weighted-average effect of dilutive securities
-
-Add:
-Conversion of Class B to Class A common shares outstanding
-46,266 
-0 
-0 
-45,622 
-0 
-0 
-Restricted stock units and other contingently issuable shares
-105 
-0 
-5,715 
-16 
-0 
-10,073 
-Number of shares used in per share computation
-346,305 
-46,266 
-342,076 
-346,120 
-45,622 
-333,281 
-Diluted net income per share
-$
-36.38 
-$
-36.38 
-$
-36.38 
-$
-81.53 
-$
-81.53 
-$
-81.53
-
-For the periods presented above, the net income per share amounts are the same for Class A and Class B common stock and Class C capital stock because the
-holders of each class are entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and Restated Certiﬁcate of Incorporation of
+Table of Contents
 Alphabet Inc.
 
 
-#### Note 12. Compensation Plans
+#### Google Services
 
 
-#### Stock-Based Compensation
+#### Google advertising revenues
 
-For the three months ended September 30, 2020 and 2021, total stock-based compensation ("SBC") expense was $ 3.3 billion and $3.9 billion, including amounts
-associated with awards we expect to settle in Alphabet stock of $3.1 billion and $3.8 billion, respectively. For the nine months ended September 30, 2020 and 2021, total
-SBC expense was $10.1 billion and $11.7 billion, including amounts associated with awards we expect to settle in Alphabet stock of $ 9.6 billion and $11.2 billion,
-respectively.
+Our advertising revenue growth, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change in impressions and cost-
+per-impression on Google Network partners' properties ("Google Network properties") and the correlation between these items, have been aﬀected and may continue to be
+affected by various factors, including:
 
+•
+advertiser competition for keywords;
+•
+changes in advertising quality, formats, delivery or policy;
+•
+changes in device mix;
+•
+changes in foreign currency exchange rates;
+•
+fees advertisers are willing to pay based on how they manage their advertising costs;
+•
+general economic conditions including the impact of COVID-19;
+•
+seasonality; and
+•
+traffic growth in emerging markets compared to more mature markets and across various advertising verticals and channels.
 
-#### Stock-Based Award Activities
-
-The following table summarizes the activities for our unvested restricted stock units ("RSUs") in Alphabet stock for the nine months ended September 30, 2021:
-
-
-#### Unvested Restricted Stock Units
-
-Number of
-Shares
-
-Weighted-
-Average
-Grant-Date
-
-Fair Value
-Unvested as of December 31, 2020
-19,288,793 
-$
-1,262.13 
-Granted
-9,849,733 
-$
-1,883.76 
- Vested
-(7,984,196)
-$
-1,334.16 
- Forfeited/canceled
-(1,471,948)
-$
-1,411.50 
-Unvested as of September 30, 2021
-19,682,382 
-$
-1,538.30
-
-As of September 30, 2021, there was $28.2 billion of unrecognized compensation cost related to unvested employee RSUs. This amount is expected to be recognized
-over a weighted-average period of 2.6 years.
+Our advertising revenue growth rate has been aﬀected over time as a result of a number of factors, including challenges in maintaining our growth rate as revenues
+increase to higher levels; changes in our product mix; changes in advertising quality or formats and delivery; the evolution of the online advertising market; increasing
+competition; our investments in new business strategies; query growth rates; and shifts in the geographic mix of our revenues. We also expect that our revenue growth rate
+will continue to be aﬀected by evolving user preferences, the acceptance by users of our products and services as they are delivered on diverse devices and modalities, our
+ability to create a seamless experience for both users and advertisers, and movements in foreign currency exchange rates.
 
 
-#### 30
+#### Google advertising revenues consist primarily of the following:
+
+•
+Google Search & other consists of revenues generated on Google search properties (including revenues from traﬃc generated by search distribution partners who
+use Google.com as their default search in browsers, toolbars, etc.) and other Google owned and operated properties like Gmail, Google Maps, and Google Play;
+•
+YouTube ads consists of revenues generated on YouTube properties; and
+•
+Google Network consists of revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager.
+
+
+#### Google Search & other
+
+Google Search & other revenues increased $11.6 billion and $33.5 billion from the three and nine months ended September 30, 2020 to the three and nine months
+ended September 30, 2021, respectively. The overall growth was primarily driven by interrelated factors including increases in search queries resulting from growth in user
+adoption and usage, primarily on mobile devices, growth in advertiser spending, and improvements we have made in ad formats and delivery. The adverse eﬀect of COVID-
+19 on prior year comparable period revenues also contributed to the year-over-year increase.
+
+
+#### YouTube ads
+
+YouTube ads revenues increased $2.2 billion and $7.3 billion from the three and nine months ended September 30, 2020 to the three and nine months ended
+September 30, 2021, respectively. Growth was driven by our direct response and brand advertising products. Growth for our direct response advertising products was
+primarily driven by increased advertiser spending as well as improvements to ad formats and delivery. Growth for our brand advertising products for the three months ended
+September 30, 2021 was primarily driven by increased spending by our advertisers. For the nine months ended September 30, 2021, the adverse eﬀect of COVID-19 on
+prior year comparable period brand advertising revenues also contributed to the year-over-year increase.
+
+
+#### Google Network
+
+Google Network revenues increased $2.3 billion from the three months ended September 30, 2020 to the three months ended September 30, 2021. The increase was
+primarily driven by strength in AdMob, AdSense and Google Ad Manager.
+
+Google Network revenues increased $6.7 billion from the nine months ended September 30, 2020 to the nine months ended September 30, 2021. The increase was
+primarily driven by strength in AdMob, Google Ad Manager
+
+
+#### 35
+
+
+## Page 36
+
+### Table 36.1
+
+| Paid clicks change | 22% |  | 24% |
+| --- | --- | --- | --- |
+| Cost-per-click change | 18% |  | 17% |
+
+
+### Table 36.2
+
+| Impressions change | 2% |  | 3 | % |
+| --- | --- | --- | --- | --- |
+| Cost-per-impression change | 39% |  | 39% |  |
+
+
+Table of Contents
+Alphabet Inc.
+
+and AdSense. The adverse effect of COVID-19 on prior year comparable period revenues also contributed to the year-over-year increase.
+
+
+#### Use of Monetization Metrics
+
+Paid clicks for our Google Search & other properties represent engagement by users and include clicks on advertisements by end-users on Google search properties
+and other owned and operated properties including Gmail, Google Maps, and Google Play. Historically, we included certain viewed YouTube engagement ads and the
+related revenues in our paid clicks and cost-per-click monetization metrics. Over time, advertising on YouTube has expanded to multiple advertising formats and the type of
+viewed engagement ads historically included in paid clicks and cost-per-click metrics have increasingly covered a smaller portion of YouTube advertising revenues. As a
+result, beginning in the fourth quarter of 2020, we removed these ads and the related revenues from the paid clicks and cost-per-click metrics. The revised metrics
+presented below provide a better understanding of monetization trends on the properties included within Google Search & other, as they now more closely correlate with the
+related changes in revenues.
+
+Impressions for Google Network properties include impressions displayed to users served on Google Network properties participating primarily in AdMob, AdSense and
+Google Ad Manager.
+
+Cost-per-click is deﬁned as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge advertisers for each
+engagement by users.
+
+Cost-per-impression is deﬁned as impression-based and click-based revenues divided by our total number of impressions and represents the average amount we
+charge advertisers for each impression displayed to users.
+
+As our business evolves, we periodically review, reﬁne and update our methodologies for monitoring, gathering, and counting the number of paid clicks on our Google
+Search & other properties and the number of impressions on Google Network properties and for identifying the revenues generated by click activity on our Google Search &
+other properties and the revenues generated by impression activity on Google Network properties.
+
+
+#### Paid clicks and cost-per-click
+
+The following table presents changes in our paid clicks and cost-per-click (expressed as a percentage):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+Nine Months Ended
+September 30,
+ 
+2021
+2021
+Paid clicks change
+22%
+24%
+Cost-per-click change
+18%
+17%
+
+Paid clicks increased from the three and nine months ended September 30, 2020 to the three and nine months ended September 30, 2021, primarily driven by a
+number of interrelated factors, including an increase in search queries resulting from growth in user adoption and usage, primarily on mobile devices; an increase in clicks
+relating to ads on Google Play; continued growth in advertiser activity; and improvements we have made in ad formats and delivery. For the nine months ended September
+30, 2021 the adverse effect of COVID-19 on the prior year comparable period also contributed to the increase in paid clicks.
+
+The increase in cost-per-click from the three and nine months ended September 30, 2020 to the three and nine months ended September 30, 2021 was driven by a
+combination of factors including changes in device mix, geographic mix, changes in advertiser spending, ongoing product changes, product mix, property mix, and
+fluctuations of the U.S. dollar compared to certain foreign currencies, as well as the adverse effect of COVID-19 on the prior year comparable period.
+
+
+#### Impressions and cost-per-impression
+
+The following table presents changes in our impressions and cost-per-impression (expressed as a percentage):
+
+
+#### Three Months Ended
+
+
+#### September 30,
+
+
+#### Nine Months Ended September
+
+30,
+ 
+2021
+2021
+Impressions change
+2%
+3 
+%
+Cost-per-impression change
+39%
+39%
+
+
+#### 36

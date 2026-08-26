@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2025_Q2_10-Q
+# Financial Report: AMAZON_2025_Q2_10-Q
 
 - **Source File**: `AMAZON_2025_Q2_10-Q.pdf`
-- **Total Pages**: 51
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 51
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3660,270 +3660,6 @@ the six months ended June 30, 2025.
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| Operating Expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of sales | $ | 73,785 |  |  | $ | 80,809 |  |  | $ | 146,418 |  |  | $ | 157,785 |  |
-| Fulfillment | 23,566 |  |  |  | 25,976 |  |  |  | 45,883 |  |  |  | 50,569 |  |  |
-| Technology and infrastructure | 22,304 |  |  |  | 27,166 |  |  |  | 42,728 |  |  |  | 50,160 |  |  |
-| Sales and marketing | 10,512 |  |  |  | 11,416 |  |  |  | 20,174 |  |  |  | 21,179 |  |  |
-| General and administrative | 3,041 |  |  |  | 2,965 |  |  |  | 5,783 |  |  |  | 5,593 |  |  |
-| Other operating expense (income), net | 97 |  |  |  | 199 |  |  |  | 325 |  |  |  | 507 |  |  |
-| Total operating expenses | $ | 133,305 |  |  | $ | 148,531 |  |  | $ | 261,311 |  |  | $ | 285,793 |  |
-| Year-over-year Percentage Growth (Decline): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 6 |  | % |  | 10 |  | % |  | 7 |  | % |  | 8 |  | % |
-| Fulfillment | 11 |  |  |  | 10 |  |  |  | 9 |  |  |  | 10 |  |  |
-| Technology and infrastructure | 2 |  |  |  | 22 |  |  |  | 1 |  |  |  | 17 |  |  |
-| Sales and marketing | (2) |  |  |  | 9 |  |  |  | (4) |  |  |  | 5 |  |  |
-| General and administrative | (5) |  |  |  | (3) |  |  |  | (7) |  |  |  | (3) |  |  |
-| Other operating expense (income), net | (34) |  |  |  | 108 |  |  |  | (12) |  |  |  | 56 |  |  |
-| Percent of Net Sales: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 49.9 |  | % |  | 48.2 |  | % |  | 50.3 |  | % |  | 48.8 |  | % |
-| Fulfillment | 15.9 |  |  |  | 15.5 |  |  |  | 15.8 |  |  |  | 15.6 |  |  |
-| Technology and infrastructure | 15.1 |  |  |  | 16.2 |  |  |  | 14.7 |  |  |  | 15.5 |  |  |
-| Sales and marketing | 7.1 |  |  |  | 6.8 |  |  |  | 6.9 |  |  |  | 6.5 |  |  |
-| General and administrative | 2.1 |  |  |  | 1.8 |  |  |  | 2.0 |  |  |  | 1.7 |  |  |
-| Other operating expense (income), net | 0.1 |  |  |  | 0.1 |  |  |  | 0.1 |  |  |  | 0.2 |  |  |
-
-
-
-#### Table of Contents
-
-International sales increased 16% in Q2 2025, and 10% for the six months ended June 30, 2025 compared to the comparable prior year
-periods. The sales growth primarily reflects increased unit sales, including sales by third-party sellers, advertising sales, and subscription
-services. Increased unit sales were driven largely by our continued focus on price, selection, and convenience for our customers, including from
-our fast shipping offers. Changes in foreign exchange rates increased International net sales by $1.7 billion for Q2 2025, and by $696 million for
-the six months ended June 30, 2025 .
-
-AWS sales increased 17% in Q2 2025, and 17% for the six months ended June 30, 2025 compared to the comparable prior year periods.
-The sales growth primarily reflects increased customer usage, partially offset by pricing changes primarily driven by long-term customer
-contracts.
-
-
-#### Operating Expenses
-
-
-#### Information about operating expenses is as follows (in millions):
-
-
-#### Three Months Ended
-
-
-#### June 30,
-
-
-#### Six Months Ended
-
-
-#### June 30,
-
-2024
-2025
-2024
-2025
-Operating Expenses:
-
-Cost of sales
-$
-73,785 
-$
-80,809 
-$
-146,418 
-$
-157,785 
-Fulfillment
-23,566 
-25,976 
-45,883 
-50,569 
-Technology and infrastructure
-22,304 
-27,166 
-42,728 
-50,160 
-Sales and marketing
-10,512 
-11,416 
-20,174 
-21,179 
-General and administrative
-3,041 
-2,965 
-5,783 
-5,593 
-Other operating expense (income), net
-97 
-199 
-325 
-507 
-Total operating expenses
-$
-133,305 
-$
-148,531 
-$
-261,311 
-$
-285,793
-
-
-#### Year-over-year Percentage Growth (Decline):
-
-Cost of sales
-6 %
-10 %
-7 %
-8 %
-Fulfillment
-11 
-10 
-9 
-10 
-Technology and infrastructure
-2 
-22 
-1 
-17 
-Sales and marketing
-(2)
-9 
-(4)
-5 
-General and administrative
-(5)
-(3)
-(7)
-(3)
-Other operating expense (income), net
-(34)
-108 
-(12)
-56 
-Percent of Net Sales:
-
-Cost of sales
-49.9 %
-48.2 %
-50.3 %
-48.8 %
-Fulfillment
-15.9 
-15.5 
-15.8 
-15.6 
-Technology and infrastructure
-15.1 
-16.2 
-14.7 
-15.5 
-Sales and marketing
-7.1 
-6.8 
-6.9 
-6.5 
-General and administrative
-2.1 
-1.8 
-2.0 
-1.7 
-Other operating expense (income), net
-0.1 
-0.1 
-0.1 
-0.2
-
-
-#### Cost of Sales
-
-Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
-to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
-gross, including video and music.
-
-The increase in cost of sales in Q2 2025 and for the six months ended June 30, 2025, compared to the comparable prior year periods, is
-primarily due to increased product and shipping costs resulting from increased sales, partially offset by fulfillment network efficiencies, including
-lower transportation costs. Changes in foreign exchange rates increased cost of sales by $898 million for Q2 2025, but did not significantly
-impact cost of sales for the six months ended June 30, 2025.
-
-Shipping costs were $22.0 billion and $23.4 billion in Q2 2024 and Q2 2025, and $43.8 billion and $45.9 billion for the six months ended
-June 30, 2024 and 2025. Shipping costs to receive products from our suppliers are included in our inventory and recognized as cost of sales upon
-sale of products to our customers. We expect our cost of shipping to continue to increase to the extent our customers accept and use our
-shipping offers at an increasing rate, we use more expensive shipping methods, and we offer additional services. We seek to mitigate costs of
-shipping over time in part through achieving higher sales volumes,
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-optimizing our fulfillment network, negotiating better terms with our suppliers, and achieving better operating efficiencies. We believe that offering
-low prices to our customers is fundamental to our future success, and one way we offer lower prices is through shipping offers.
-
-Costs to operate our AWS segment are primarily classified as “Technology and infrastructure” as we leverage a shared infrastructure that
-supports both our internal technology requirements and external sales to AWS customers.
-
-
-#### Fulfillment
-
-Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International fulfillment centers,
-physical stores, and customer service centers and payment processing costs. While AWS payment processing and related transaction costs are
-included in “Fulfillment,” AWS costs are primarily classified as “Technology and infrastructure.” Fulfillment costs as a percentage of net sales may
-vary due to several factors, such as payment processing and related transaction costs, our level of productivity and accuracy, changes in volume,
-size, and weight of units received and fulfilled, the extent to which third-party sellers utilize Fulfillment by Amazon services, timing of fulfillment
-network and physical store expansion, the extent we utilize fulfillment services provided by third parties, mix of products and services sold, and
-our ability to affect customer service contacts per unit by implementing improvements in our operations and enhancements to our customer self-
-service features. Additionally, sales by our sellers have higher payment processing and related transaction costs as a percentage of net sales
-compared to our retail sales because payment processing costs are based on the gross purchase price of underlying transactions.
-
-The increase in fulfillment costs in Q2 2025 and for the six months ended June 30, 2025, compared to the comparable prior year periods, is
-primarily due to increased sales and investments in our fulfillment network, partially offset by fulfillment network efficiencies. Changes in foreign
-exchange rates increased fulfillment costs by $227 million for Q2 2025, but did not significantly impact fulfillment costs for the six months ended
-June 30, 2025.
-
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
-
-
-#### Technology and Infrastructure
-
-Technology and infrastructure costs include payroll and related expenses for employees involved in the research and development of new
-and existing products and services, development, design, and maintenance of our stores, curation and display of products and services made
-available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related
-depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
-costs reflect the investments we make in order to offer a wide variety of products and services to our customers, including expenditures related to
-initiatives to build and deploy innovative and efficient software and electronic devices and the development of a satellite network for global
-broadband service and autonomous vehicles for ride-hailing services.
-
-We seek to invest efficiently in numerous areas of technology and infrastructure so we may continue to enhance the customer experience
-and improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and
-infrastructure investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and
-the cross-functionality of our systems and operations. We expect spending in technology and infrastructure to increase over time as we continue
-to add employees and infrastructure. These costs are allocated to segments based on usage. The increase in technology and infrastructure costs
-in Q2 2025, compared to the comparable prior year period, is primarily due to an increase in spending on infrastructure, including depreciation
-and amortization, and increased payroll and related costs associated with technical teams responsible for expanding our existing products and
-services and initiatives to introduce new products and service offerings. The increase in technology and infrastructure costs for the six months
-ended June 30, 2025, compared to the comparable prior year period, is primarily due to an increase in spending on infrastructure, including
-depreciation and amortization, partially offset by decreased payroll and related costs associated with technical teams responsible for expanding
-our existing products and services and initiatives to introduce new products and service offerings. Changes in foreign exchange rates increased
-technology and infrastructure costs by $138 million for Q2 2025, but did not significantly impact technology and infrastructure costs for the six
-months ended June 30, 2025. We currently expense the majority of the costs associated with the development of our satellite network for global
-broadband service (including production, launch, and payroll costs, and launch services deposits upon launch). We will capitalize certain of these
-costs once the service achieves commercial viability, including sales to customers. See Item 7 of Part II, “Management’s Discussion and Analysis
-of Financial Condition and Results of Operations — Overview” of our 2024 Annual Report on Form 10-K for a discussion of how management
-views advances in technology and the importance of innovation.
-
-
-#### 27
-
-
 ## Page 28
 
 ### Table 28.1
@@ -4302,3 +4038,35 @@ comparable prior year period for operating results.
 
 
 #### 30
+
+
+## Page 31
+
+
+#### Table of Contents
+
+
+#### Guidance
+
+We provided guidance on July 31, 2025, in our earnings release furnished on Form 8-K as set forth below. These forward-looking
+statements reflect Amazon.com’s expectations as of July 31, 2025, and are subject to substantial uncertainty. Our results are inherently
+unpredictable and may be materially affected by many factors, such as fluctuations in foreign exchange rates, changes in global economic and
+geopolitical conditions, tariff and trade policies, and customer demand and spending (including the impact of recessionary fears), inflation,
+interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and
+emerging technologies, as well as those outlined in Item 1A of Part II, “Risk Factors.”
+
+
+#### Third Quarter 2025 Guidance
+
+•
+Net sales are expected to be between $174.0 billion and $179.5 billion, or to grow between 10% and 13% compared with third quarter
+2024. This guidance anticipates a favorable impact of approximately 130 basis points from foreign exchange rates.
+
+•
+Operating income is expected to be between $15.5 billion and $20.5 billion, compared with $17.4 billion in third quarter 2024.
+
+•
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are concluded.
+
+
+#### 31

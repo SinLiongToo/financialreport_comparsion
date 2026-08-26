@@ -1,8 +1,8 @@
-# Annual Report: MICRON-TECHNOLOGY_2023_10-K
+# Financial Report: MICRON-TECHNOLOGY_2023_10-K
 
 - **Source File**: `MICRON-TECHNOLOGY_2023_10-K.pdf`
-- **Total Pages**: 142
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 142
+- **Parsed Key Pages**: 61 (61 selected sections)
 
 ---
 
@@ -1592,271 +1592,2865 @@ results of operations, or financial condition.
 ### 25 | 2023 10-K
 
 
-## Page 26
+## Page 32
 
 
 #### Table of Contents
 
-We may not be able to achieve expected returns from capacity expansions.
+Compliance with responsible sourcing requirements and any related regulations could increase our operating costs, or limit the
+supply and increase the cost of certain materials, supplies, and services, and if we fail to comply, customers may reduce purchases
+from us or disqualify us as a supplier.
 
-We have announced our intent to expand our production capacity and/or make capital investments in the United States and in other regions
-where we operate.
-
-
-#### These expansions involve several risks including the following:
-
-•
-capital expenditure requirements for capacity expansions during periods of relatively low free cash flow generation, resulting from
-challenging memory and storage industry conditions;
-•
-availability of necessary funding, which may include external sources;
-•
-ability to realize expected grants, investment tax credits, and other government incentives, including through the U.S. CHIPS and
-Science Act of 2022 (“CHIPS Act”) and other national, international, state, and local grants;
-•
-potential changes in laws or provisions of grants, investment tax credits, and other government incentives;
-•
-potential restrictions on expanding in certain geographies;
-•
-availability of equipment and construction materials;
-•
-ability to complete construction as scheduled and within budget;
-•
-availability of the necessary workforce;
-•
-ability to timely ramp production in a cost-effective manner;
-•
-increases to our cost structure until new production is ramped to adequate scale; and
-•
-sufficient customer demand to utilize our increased capacity.
-
-We invest our capital in areas that we believe best align with our business strategy and optimize future returns. Investments in capital
-expenditures may not generate expected returns or cash flows. Significant judgment is required to determine which capital investments will result
-in optimal returns, and we could invest in projects that are ultimately less profitable than those projects we do not select. Delays in completion
-and ramping of new production facilities, or failure to optimize our investment choices, could significantly impact our ability to realize expected
-returns on our capital expenditures.
-
-Any of the above factors could have a material adverse effect on our business, results of operations, or financial condition.
-
-Our incentives from various governments are conditional upon achieving or maintaining certain performance or other obligations and
-are subject to reduction, termination, clawback, or could impose certain limitations on our business.
-
-We have received, and may in the future continue to receive, benefits and incentives from national, state, and local governments in various
-regions of the world designed to encourage us to establish, maintain, or increase investment, workforce, or production in those regions. These
-incentives may take various forms, including grants, loan subsidies, and tax arrangements, and typically require us to achieve or maintain certain
-levels of investment, capital spending, employment, technology deployment, or research and development activities to qualify for such incentives
-or could restrict us from undertaking certain activities. We may be unable to obtain significant future incentives to continue to fund a portion of our
-capital expenditures and operating costs, without which our cost structure would be adversely impacted. We also cannot guarantee that we will
-successfully achieve performance or other obligations required to qualify for these incentives or that the granting agencies will provide such
-funding. These incentive arrangements typically provide the granting agencies with rights to audit our compliance with their terms and
-obligations. Such audits could result in modifications to, or termination of, the applicable incentive program. The incentives we receive could be
-subject to reduction, termination, or clawback, and any decrease or clawback of government incentives could have a material adverse effect on
-our business, results of operations, or financial condition.
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-Our business, results of operations, or financial condition could be adversely affected by the availability and quality of materials,
-supplies, and capital equipment, or dependency on third-party service providers.
-
-Our supply chain and operations are dependent on the availability of materials that meet exacting standards and the use of third parties to
-provide us with components and services. We generally have multiple sources of supply for our materials and services. However, only a limited
-number of suppliers are capable of delivering certain materials, components, and services that meet our standards and, in some cases,
-materials, components, or services are provided by a single or sole source, and we may be unable to qualify new suppliers on a timely basis. The
-availability of materials or components such as chemicals, silicon wafers, gases, photoresist, controllers, substrates, lead frames, printed circuit
-boards, targets, and reticle glass blanks is impacted by various factors. These factors could include a shortage of raw materials or a disruption in
-the processing or purification of those raw materials into finished goods. Shortages or increases in lead times have occurred in the past, are
-currently occurring with respect to some materials and components, and may occur from time to time in the future. Constraints within our supply
-chain for certain materials and integrated circuit components could limit our bit shipments, which could have a material adverse effect on our
-business, results of operations, or financial condition.
-
-Our manufacturing processes are also dependent on our relationships with third-party manufacturers of controllers, analog integrated circuits,
-and other components used in some of our products and with outsourced semiconductor foundries, assembly and test providers, contract
-manufacturers, logistics carriers, and other service providers, including providers of electricity and other utilities. Although we have certain long-
-term contracts with some of our suppliers, many of these contracts do not provide for long-term capacity or pricing commitments. To the extent
-we do not have firm commitments from our third-party suppliers over a specific time period or for any specific capacity, quantity, and/or pricing,
-our suppliers may allocate capacity to their other customers and capacity and/or materials may not be available when needed or at reasonable
-prices. Inflationary pressures have increased, and may continue to increase costs for materials, supplies, and services. Regardless of contract
-structure, large swings in demand may exceed our contracted supply and/or our suppliers’ capacity to meet those demand changes resulting in a
-shortage of parts, materials, or capacity needed to manufacture our products. In addition, if any of our suppliers was to cease operations or
-become insolvent, this could impact their ability to provide us with necessary supplies, and we may not be able to obtain the needed supply in a
-timely way or at all from other providers.
-
-Certain materials are primarily available in a limited number of countries, including rare earth elements, minerals, and metals. Trade disputes,
-geopolitical tensions, economic circumstances, political conditions, or public health issues may limit our ability to obtain such materials. Although
-these rare earth and other materials are generally available from multiple suppliers, China is the predominant producer of certain of these
-materials. If China were to restrict or stop exporting these materials, our suppliers’ ability to obtain such supply may be constrained and we may
-be unable to obtain sufficient quantities, or obtain supply in a timely manner, or at a commercially reasonable cost. Constrained supply of rare
-earth elements, minerals, and metals may restrict our ability to manufacture certain of our products and make it difficult or impossible to compete
-with other semiconductor memory and storage manufacturers who are able to obtain sufficient quantities of these materials from China.
-
-We and/or our suppliers and service providers could be affected by regional conflicts, civil unrest, labor disruptions, sanctions, tariffs, embargoes,
-or other trade restrictions, as well as laws and regulations enacted in response to concerns regarding climate change, conflict minerals,
-responsible sourcing practices, public health crises, or other matters, which could limit the supply of our materials and/or increase the cost.
-Environmental regulations could limit our ability to procure or use certain chemicals or materials in our operations or products. In addition,
-disruptions in transportation lines could delay our receipt of materials. Our ability to procure components to repair equipment essential for our
-manufacturing processes could also be negatively impacted by various restrictions or disruptions in supply chains, among other items. The
-disruption of our supply of materials, components, or services, or the extension of our lead times could have a material adverse effect on our
-business, results of operations, or financial condition.
-
-
-### 27 | 2023 10-K
-
-
-## Page 28
-
-
-#### Table of Contents
-
-Our operations are dependent on our ability to procure advanced semiconductor manufacturing equipment that enables the transition to lower
-cost manufacturing processes. For certain key types of equipment, including photolithography tools, we are sometimes dependent on a single
-supplier. From time to time, we have experienced difficulties in obtaining some equipment on a timely basis due to suppliers’ limited capacity. Our
-inability to obtain equipment on a timely basis could adversely affect our ability to transition to next generation manufacturing processes and
-reduce our costs. Delays in obtaining equipment could also impede our ability to ramp production and could increase our overall costs of a ramp.
-Our inability to obtain advanced semiconductor manufacturing equipment in a timely manner could have a material adverse effect on our
-business, results of operations, or financial condition.
-
-Our construction projects to expand production and R&D capacity are highly dependent on available sources of labor, materials, equipment, and
-services. Increasing demand, supply constraints, inflation, and other market conditions could result in increasing shortages and higher costs for
-these items. Difficulties in obtaining these resources could result in significant delays in completion of our construction projects and cost
-increases, which could have a material adverse effect on our business, results of operations, or financial condition.
-
-Our inability to source materials, supplies, capital equipment, or third-party services could affect our overall production output and our ability to
-fulfill customer demand. Significant or prolonged shortages of our products could halt customer manufacturing and damage our relationships with
-these customers. Any damage to our customer relationships as a result of a shortage of our products could have a material adverse effect on our
-business, results of operations, or financial condition.
-
-Similarly, if our customers experience disruptions to their supplies, materials, components, or services, or the extension of their lead times, they
-may reduce, cancel, or alter the timing of their purchases with us, which could have a material adverse effect on our business, results of
-operations, or financial condition.
-
-Downturns in regional or worldwide economies may harm our business.
-
-Downturns in regional or worldwide economies, due to inflation, geopolitics, major central bank policy actions including interest rate increases,
-public health crises, or other factors, have harmed our business in the past and current and future downturns could also adversely affect our
-business. Adverse economic conditions affect demand for devices that incorporate our products, such as personal computers, smartphones,
-automobiles, and servers. Reduced demand for these or other products could result in significant decreases in our average selling prices and
-product sales. In addition, to the extent our customers or distributors have elevated inventory levels or are impacted by a deterioration in credit
-markets, we may experience a decrease in short-term and/or long-term demand resulting in industry oversupply and declines in pricing for our
-products.
-
-A deterioration of conditions in regional or worldwide credit markets could limit our ability to obtain external financing to fund our operations and
-capital expenditures. In addition, we may experience losses on our holdings of cash and investments due to failures of financial institutions and
-other parties. Difficult economic conditions may also result in a higher rate of losses on our accounts receivable due to credit defaults. As a
-result, downturns in regional or worldwide economies could have a material adverse effect on our business, results of operations, or financial
+We and many of our customers have adopted responsible sourcing programs that require us to meet certain environmental, social and
+governance criteria, and to periodically report on our performance against these requirements, including that we source the materials, supplies,
+and services we use and incorporate into the products we sell as prescribed by these programs. Many customer programs require us to remove
+a supplier within a prescribed period if such supplier ceases to comply with prescribed criteria, and our supply chain may at any time contain
+suppliers at risk of being removed due to non-compliance with responsible sourcing requirements. Some of our customers may elect to disqualify
+us as a supplier (resulting in a permanent or temporary loss of sales to such customer) or reduce purchases from us if we are unable to verify
+that our performance or products (including the underlying supply chain) meet the specifications of our customers’ responsible sourcing
+programs on a continuous basis. Meeting responsible sourcing requirements may increase operating requirements and costs or limit the
+sourcing and availability of some of the materials, supplies, and services we use, particularly when the availability of such materials, supplies, and
+services is concentrated to a limited number of suppliers. From time to time, we remove suppliers or require our suppliers to remove suppliers
+from their supply chains based on our responsible sourcing requirements or customer requirements, and we or our suppliers may be unable to
+replace such removed suppliers in a timely or cost-effective manner. Any inability to replace removed suppliers in a timely or cost effective
+manner may affect our ability and/or the cost to obtain sufficient quantities of materials, supplies, and services necessary for the manufacture of
+our products. Our inability to replace suppliers we have removed in a timely or cost-effective manner or comply with customers’ responsible
+sourcing requirements or with any related regulations could have a material adverse effect on our business, results of operations, or financial
 condition.
 
-If our manufacturing process is disrupted by operational issues, natural disasters, or other events, our business, results of
-operations, or financial condition could be materially adversely affected.
+Failure to meet environmental, social, and governance expectations or standards or achieve our related goals could adversely affect
+our business, results of operations, financial condition, or stock price.
 
-We and our subcontractors manufacture products using highly complex processes that require technologically advanced equipment and
-continuous modification to improve yields and performance. Difficulties in the manufacturing process or the effects from a shift in product mix
-can reduce yields or disrupt production and may increase our per gigabit manufacturing costs. We and our subcontractors maintain operations
-and continuously implement new product and process technology at manufacturing facilities, which are widely dispersed in multiple locations in
-several countries including the United States, Singapore, Taiwan, Japan, Malaysia, and China. As a result of the necessary interdependence
-within our network of manufacturing facilities, an operational disruption at one of our or a subcontractor’s facilities may have a disproportionate
-impact on our ability to produce many of our products.
+In recent years, there has been an increased focus from stakeholders on environmental, social, and governance matters, including greenhouse
+gas emissions and climate-related risks, sustainability, renewable energy, water stewardship, waste management, diversity, equality and
+inclusion, responsible sourcing and supply chain, human rights, and social responsibility. Given our commitment to relevant social and
+environmental issues as it relates to our business, we actively manage these issues and have established and publicly announced certain goals,
+commitments, and targets which we may refine or even expand further in the future. These goals, commitments, and targets reflect our current
+plans and aspirations and are not guarantees that we will be able to achieve them. Achieving these goals may entail significant costs, for
+example we have entered into several virtual power purchase agreements to obtain renewable energy credits at a cost that will vary based on
+future prices for electrical power. Evolving stakeholder expectations and our efforts to manage these issues, report on them, and accomplish our
+goals present numerous operational, regulatory, reputational, financial, legal, and other risks, any of which could have a material adverse impact,
+including on our reputation and stock price.
 
 
-#### 28
+#### Such risks and uncertainties include:
+
+•
+reputational harm, including damage to our relationships with customers, suppliers, investors, governments, or other stakeholders;
+•
+adverse impacts on our ability to manufacture and sell products and maintain our market share;
+•
+the success of our collaborations with third parties;
+•
+increased risk of litigation, investigations, or regulatory enforcement action;
+•
+unfavorable environmental, social, and governance ratings or investor sentiment;
+•
+diversion of resources and increased costs to control, assess, and report on environmental, social, and governance metrics;
+•
+our ability to achieve our goals, commitments, and targets within timeframes announced;
+•
+increased costs to achieve our goals, commitments, and targets;
+•
+unforeseen operational and technological difficulties;
+•
+access to and increased cost of capital; and
+•
+adverse impacts on our stock price.
 
 
-## Page 29
+#### 32
+
+
+## Page 33
 
 
 #### Table of Contents
 
-From time to time, there have been disruptions in our manufacturing operations as a result of power outages, improperly functioning equipment,
-disruptions in supply of raw materials or components, or equipment failures. We have manufacturing and other operations in locations subject to
-natural occurrences and possible climate changes, such as severe and variable weather and geological events resulting in increased costs, or
-disruptions to our manufacturing operations or those of our suppliers or customers. In addition, climate change may pose physical risks to our
-manufacturing facilities or our suppliers’ facilities, including increased extreme weather events that could result in supply delays or disruptions.
-Other events, including political or public health crises, such as an outbreak of contagious diseases, may also affect our production capabilities or
-that of our suppliers, including as a result of quarantines, closures of production facilities, lack of supplies, or delays caused by restrictions on
-travel or shipping. Events of the types noted above have occurred from time to time and may occur in the future. As a result, in addition to
-disruptions to operations, our insurance premiums may increase or we may not be able to fully recover any sustained losses through insurance.
+Any failure, or perceived failure, to meet evolving stakeholder expectations and industry standards or achieve our environmental, social, and
+governance goals, commitments, and targets could have an adverse effect on our business, results of operations, financial condition, or stock
+price.
 
-If production is disrupted for any reason, manufacturing yields may be adversely affected, or we may be unable to meet our customers’
-requirements and they may purchase products from other suppliers. This could result in a significant increase in manufacturing costs, loss of
-revenue, or damage to customer relationships, any of which could have a material adverse effect on our business, results of operations, or
+Acquisitions and/or alliances involve numerous risks.
+
+Acquisitions and the formation or operation of alliances, such as joint ventures and other partnering arrangements, involve numerous risks,
+including the following:
+
+•
+integrating the operations, technologies, and products of acquired or newly formed entities into our operations;
+•
+increasing capital expenditures to upgrade and maintain facilities;
+•
+increased debt levels;
+•
+the assumption of unknown or underestimated liabilities;
+•
+the use of cash to finance a transaction, which may reduce the availability of cash to fund working capital, capital expenditures, R&D
+expenditures, and other business activities;
+•
+diverting management’s attention from daily operations;
+•
+managing larger or more complex operations and facilities and employees in separate and diverse geographic areas;
+•
+hiring and retaining key employees;
+•
+requirements imposed by government authorities in connection with the regulatory review of a transaction, which may include, among
+other things, divestitures or restrictions on the conduct of our business or the acquired business;
+•
+underestimating the costs or overestimating the benefits, including product, revenue, cost and other synergies and growth opportunities
+that we expect to realize, and we may not achieve those benefits;
+•
+failure to maintain customer, vendor, and other relationships;
+•
+inadequacy or ineffectiveness of an acquired company’s internal financial controls, disclosure controls and procedures, compliance
+programs, and/or environmental, health and safety, anti-corruption, human resource, or other policies or practices; and
+•
+impairment of acquired intangible assets, goodwill, or other assets as a result of changing business conditions or technological
+advancements.
+
+The global memory and storage industry has experienced consolidation and may continue to consolidate. We engage, from time to time, in
+discussions regarding potential acquisitions and similar opportunities. To the extent we are successful in completing any such transactions, we
+could be subject to some or all of the risks described above. Acquisitions of, or alliances with, technology companies are inherently risky and may
+not be successful and could have a material adverse effect on our business, results of operations, or financial condition.
+
+We have incurred restructure charges and may incur restructure charges in future periods and may not realize expected savings or
+other benefits from restructure plans.
+
+In 2023, we initiated a restructure plan in response to current market conditions. See “Part II – Item 8. Financial Statements and Supplementary
+Data – Notes to Consolidated Financial Statements – Restructure and Asset Impairments” and “Part II – Item 7. Management’s Discussion and
+Analysis of Financial Condition and Results of Operations – Overview.” In addition, we may in the future enter into other restructure initiatives in
+order to, among other items, streamline our operations, respond to changes in business conditions, our markets, or product offerings, or to
+centralize certain key functions.
+
+We may not realize expected savings or other benefits from our current or future restructure activities and may incur additional restructure
+charges or other losses in future periods associated with other initiatives. In connection with any restructure initiatives, we could incur restructure
+charges, loss of production output, loss of key personnel, disruptions in our operations, and difficulties in the timely delivery of products, which
+could have a material adverse effect on our business, results of operations, or financial condition.
+
+
+### 33 | 2023 10-K
+
+
+## Page 34
+
+
+#### Table of Contents
+
+
+#### Risks Related to Intellectual Property and Litigation
+
+We may be unable to protect our intellectual property or retain key employees who are knowledgeable of and develop our intellectual
+property.
+
+We maintain a system of controls over our intellectual property, including U.S. and foreign patents, trademarks, copyrights, trade secrets,
+licensing arrangements, confidentiality procedures, non-disclosure agreements with employees, consultants, and vendors, and a general system
+of internal controls. Despite our system of controls over our intellectual property, it may be possible for our current or future competitors to obtain,
+copy, use, or disclose, illegally or otherwise, our product and process technology or other proprietary information. The laws of some foreign
+countries may not protect our intellectual property to the same degree as do U.S. laws, and our confidentiality, non-disclosure, and non-compete
+agreements may be unenforceable or difficult and costly to enforce.
+
+Additionally, our ability to maintain and develop intellectual property is dependent upon our ability to attract, develop, and retain highly skilled
+employees. If our competitors or future entrants into our industry are successful in hiring our employees, they may directly benefit from the
+knowledge these employees gained while they were under our employment, and this may also negatively impact our ability to maintain and
+develop intellectual property.
+
+Our inability to protect our intellectual property or retain key employees who are knowledgeable of and develop our intellectual property could
+have a material adverse effect on our business, results of operations, or financial condition.
+
+Legal proceedings and claims could have a material adverse effect on our business, results of operations, or financial condition.
+
+From time to time, we are subject to various legal proceedings and claims that arise out of the ordinary conduct of our business or otherwise,
+both domestically and internationally. Such claims include, but are not limited to, allegations of anticompetitive conduct and infringement of
+intellectual property. See “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements –
+Contingencies.”
+
+Any claim, with or without merit, could result in significant legal fees that could negatively impact our financial results, disrupt our operations, and
+require significant attention from our management. We may be associated with and subject to litigation, claims, or arbitration disputes arising
+from, or as a result of:
+
+•
+our relationships with vendors or customers, supply agreements, or contractual obligations with our subcontractors or business partners;
+•
+the actions of our vendors, subcontractors, or business partners;
+•
+our indemnification obligations, including obligations to defend our customers against third-party claims asserting infringement of certain
+intellectual property rights, which may include patents, trademarks, copyrights, or trade secrets; and
+•
+the terms of our product warranties or from product liability claims.
+
+As we continue to focus on developing system solutions with manufacturers of consumer products, including autonomous driving, augmented
+reality, and others, we may be exposed to greater potential for personal liability claims against us as a result of consumers’ use of those products.
+We, our officers, or our directors could also be subject to claims of alleged violations of securities laws. There can be no assurance that we are
+adequately insured to protect against all claims and potential liabilities, and we may elect to self-insure with respect to certain matters. Exposures
+to various legal proceedings and claims could lead to significant costs and expenses as we defend claims, are required to pay damage awards,
+or enter into settlement agreements, any of which could have a material adverse effect on our business, results of operations, or financial
+condition.
+
+
+#### 34
+
+
+## Page 35
+
+
+#### Table of Contents
+
+Claims that our products or manufacturing processes infringe or otherwise violate the intellectual property rights of others, or failure
+to obtain or renew license agreements covering such intellectual property, could materially adversely affect our business, results of
+operations, or financial condition.
+
+As is typical in the semiconductor and other high technology industries, from time to time others have asserted, and may in the future assert, that
+our products or manufacturing processes infringe upon, misappropriate, misuse, or otherwise violate their intellectual property rights. We are
+unable to predict the outcome of these assertions made against us. Any of these types of claims, regardless of the merits, could subject us to
+significant costs to defend or resolve such claims and may consume a substantial portion of management’s time and attention. As a result of
+these claims, we may be required to:
+
+•
+pay significant monetary damages, fines, royalties, or penalties;
+•
+enter into license or settlement agreements covering such intellectual property rights;
+•
+make material changes to or redesign our products and/or manufacturing processes; and/or
+•
+cease manufacturing, having made, selling, offering for sale, importing, marketing, or using products and/or manufacturing processes in
+certain jurisdictions.
+
+We may not be able to take any of the actions described above on commercially reasonable terms and any of the foregoing results could have a
+material adverse effect on our business, results of operations, or financial condition. See “Part II – Item 8. Financial Statements and
+Supplementary Data – Notes to Consolidated Financial Statements – Contingencies.”
+
+We have a number of intellectual property license agreements. Some of these license agreements require us to make one-time or periodic
+payments. We may need to obtain additional licenses or renew existing license agreements in the future. We are unable to predict whether these
+license agreements can be obtained or renewed on terms acceptable to us. The failure to obtain or renew licenses as necessary could have a
+material adverse effect on our business, results of operations, or financial condition.
+
+
+#### Risks Related to Laws and Regulations
+
+Government actions and regulations, such as export restrictions, tariffs, and trade protection measures, may limit our ability to sell
+our products to certain customers or markets, or could otherwise restrict our ability to conduct operations.
+
+International trade disputes, geopolitical tensions, and military conflicts have led, and continue to lead, to new and increasing export restrictions,
+trade barriers, tariffs, and other trade measures that can increase our manufacturing costs, make our products less competitive, reduce demand
+for our products, limit our ability to sell to certain customers or markets, limit our ability to procure, or increase our costs for, components or raw
+materials, impede or slow the movement of our goods across borders, impede our ability to perform R&D activities, or otherwise restrict our ability
+to conduct operations. Increasing protectionism, economic nationalism, and national security concerns may lead to further changes in trade
+policy, domestic sourcing initiatives, or other formal and informal measures that could make it more difficult to sell our products in, or restrict our
+access to, some markets and/or customers. For example, following the May 21, 2023 decision of its cybersecurity review of our products sold in
+China, the CAC determined that critical information infrastructure operators in China may not purchase Micron products, impacting our revenue
+with companies headquartered in mainland China and Hong Kong, including direct sales as well as indirect sales through distributors. Some
+revenue with customers headquartered outside of China has also been impacted. Further actions by the Chinese government could impact
+additional revenue inside or outside China, or our operations in China, or our ability to ship products to our customers, any of which could have a
+material adverse effect on our business, results of operations, or financial condition.
+
+
+### 35 | 2023 10-K
+
+
+## Page 36
+
+
+#### Table of Contents
+
+We cannot predict what further actions may ultimately be taken with respect to export regulations, tariffs, or other trade regulations between the
+United States and other countries, what products or companies may be subject to such actions, or what actions may be taken by other countries
+in retaliation. Further changes in trade policy, tariffs, restrictions on exports or other trade barriers, or restrictions on supplies, equipment, and raw
+materials including rare earth minerals, may limit our ability to produce products, increase our selling and/or manufacturing costs, decrease
+margins, reduce the competitiveness of our products, or inhibit our ability to sell products or purchase necessary equipment and supplies. Such
+changes may also result in reputational harm to us, the development or adoption of technologies that compete with our products, long-term
+changes in global trade and technology supply chains, or negative impacts on our customers’ products which incorporate our solutions. Any of
+the effects described in this risk factor could have a material adverse effect on our business, results of operations, or financial condition.
+
+The technology industry is subject to intense media, political, and regulatory scrutiny, which can increase our exposure to government
+investigations, legal actions, and penalties. Although we have policies, controls, and procedures designed to help ensure compliance with
+applicable laws, there can be no assurance that our employees, contractors, suppliers, or agents will not violate such laws or our policies.
+Violations of trade laws, restrictions, or regulations can result in fines; criminal sanctions against us or our officers, directors, or employees;
+prohibitions on the conduct of our business; and damage to our reputation.
+
+Tax-related matters could have a material adverse effect on our business, results of operations, or financial condition.
+
+We are subject to income taxes in the United States and many foreign jurisdictions. Our provision for income taxes and cash tax liabilities in the
+future could be adversely affected by numerous factors, including changes in the geographic mix of our earnings among jurisdictions, challenges
+by tax authorities to our tax positions and intercompany transfer pricing arrangements, failure to meet performance obligations with respect to tax
+incentive agreements, expanding our operations in various countries, fluctuations in foreign currency exchange rates, adverse resolution of
+audits and examinations of previously filed tax returns, and changes in tax laws and regulations.
+
+Changes to income tax laws and regulations, or the interpretation of such laws, in any of the jurisdictions in which we operate could significantly
+increase our effective tax rate and ultimately reduce our cash flows from operating activities and otherwise have a material adverse effect on our
+financial condition. Beginning in 2024, the Inflation Reduction Act of 2022 imposes a 15% book minimum tax on corporations with three-year
+average annual adjusted financial statement income exceeding $1 billion. The impact of this tax will depend on our facts in each year, anticipated
+guidance from the U.S. Department of the Treasury, and other developing global tax legislation. Further changes in the tax laws of foreign
+jurisdictions could arise as a result of the base erosion and profit shifting project undertaken by the Organisation for Economic Co-operation and
+Development (“OECD”). In December 2022, the European Union (“EU”) member states reached an agreement to implement the minimum tax
+component (“Pillar Two”) of the OECD’s tax reform initiative. The directive is expected to be enacted into the national law of the EU member
+states by December 31, 2023. If similar directives under Pillar Two are adopted by taxing authorities in other countries where we do business,
+such changes could have a material adverse effect on our business, results of operations, or financial condition.
+
+We and others are subject to a variety of complex and evolving laws, regulations, or industry standards, including with respect to
+environmental, health, safety, and product considerations, which may have a material adverse effect on our business, results of
+operations, or financial condition.
+
+The manufacture of our products requires the use of facilities, equipment, chemicals, and materials that are subject to a broad array of laws and
+regulations in numerous jurisdictions in which we operate. Additionally, we are subject to a variety of other laws and regulations relative to the
+construction, maintenance, and operations of our facilities. Any changes in laws, regulations, or industry standards could cause us to incur
+additional direct costs, as well as increased indirect costs related to our relationships with our customers and suppliers, and otherwise harm our
+operations and financial condition. Any failure to comply with laws, regulations, or industry standards could adversely impact our reputation and
+our financial results. Additionally, we engage various third parties as sales channel partners or to represent us or otherwise act on our behalf who
+are also subject to a broad array of laws, regulations, and industry standards. Our engagement with these third parties may also expose us to
+risks associated with their respective compliance with laws and regulations.
+
+
+#### 36
+
+
+## Page 37
+
+
+#### Table of Contents
+
+New and evolving environmental health, safety, and product considerations, including those related to greenhouse gas emissions and climate
+change, the purchase, use and disposal of regulated and/or hazardous chemicals, and the potential resulting environmental, health or safety
+impacts, may result in new laws, regulations, or industry standards that may affect us, our suppliers, and our customers. Such laws, regulations,
+or industry standards could cause us to incur additional direct costs for compliance, as well as increased indirect costs resulting from our
+customers, suppliers, or both incurring additional compliance costs that are passed on to us. These costs may adversely impact our results of
+operations and financial condition.
+
+As a result of the considerations detailed in this risk factor, we could experience the following:
+
+•
+suspension of production or sales of our products;
+•
+limited supplies of chemicals or materials used to make our products;
+•
+remediation costs;
+•
+increased compliance costs;
+•
+alteration of our manufacturing processes;
+•
+regulatory penalties, fines, civil or criminal sanctions, and other legal liabilities; and
+•
+reputational challenges.
+
+Compliance with, or our failure, or the failure of our third-party sales channel partners or agents, to comply with, laws, regulations, or industry
+standards could have a material adverse effect on our business, results of operations, or financial condition.
+
+
+#### Risks Related to Capitalization and Financial Markets
+
+We may be unable to generate sufficient cash flows or obtain access to external financing necessary to fund our operations, make
+scheduled debt payments, pay our dividend, and make adequate capital investments.
+
+Our cash flows from operations depend primarily on the volume of semiconductor memory and storage products sold, average selling prices, and
+manufacturing costs. To develop new product and process technology, support future growth, achieve operating efficiencies, and maintain
+product quality, we must make significant capital investments in manufacturing technology, capital equipment, facilities, R&D, and product and
+process technology. We estimate capital expenditures in 2024 for property, plant, and equipment, net of partner contributions, to be slightly
+above $7 billion.
+
+In the past, we have utilized external sources of financing when needed. As a result of our debt levels, expected debt amortization, prevailing
+interest rates, and general capital market and other economic conditions, it may be difficult for us to obtain financing on terms acceptable to us or
+at all. We have experienced volatility in our cash flows and operating results and we expect to continue to experience such volatility in the future,
+which may negatively affect our credit rating. Our credit rating may also be affected by our liquidity, financial results, economic risk, or other
+factors, which may increase the cost of borrowings and make it difficult for us to obtain financing on terms acceptable to us or at all. There can be
+no assurance that we will be able to generate sufficient cash flows, access capital or credit markets, or find other sources of financing to fund our
+operations, make debt payments, refinance our debt, pay our quarterly dividend, and make adequate capital investments to remain competitive in
+terms of technology development and cost efficiency. Our inability to do any of the foregoing could have a material adverse effect on our
+business, results of operations, or financial condition.
+
+
+### 37 | 2023 10-K
+
+
+## Page 38
+
+
+#### Table of Contents
+
+Debt obligations could adversely affect our financial condition.
+
+We have incurred in the past, and expect to incur in the future, debt to finance our capital investments, business acquisitions, and to realign our
+capital structure. As of August 31, 2023, we had debt with a carrying value of $13.33 billion and may incur additional debt, including under our
+$2.50 billion Revolving Credit Facility. Our debt obligations could adversely impact us as follows:
+
+•
+require us to use a large portion of our cash flow to pay principal and interest on debt, which will reduce the amount of cash flow
+available to fund our business activities;
+•
+adversely impact our credit rating, which could increase borrowing costs;
+•
+limit our future ability to raise funds for capital expenditures, strategic acquisitions or business opportunities, R&D, and other general
+corporate requirements;
+•
+restrict our ability to incur specified indebtedness, create or incur certain liens, and enter into sale-leaseback financing transactions;
+•
+increase our vulnerability to adverse economic and industry conditions;
+•
+increase our exposure to rising interest rates from variable rate indebtedness; and
+•
+result in certain of our debt instruments becoming immediately due and payable or being deemed to be in default if applicable cross
+default, cross-acceleration and/or similar provisions are triggered.
+
+Our ability to meet our payment obligations under our debt instruments depends on our ability to generate significant cash flows or obtain
+external financing in the future. This, to some extent, is subject to market, economic, financial, competitive, legislative, and regulatory factors as
+well as other factors that are beyond our control. There can be no assurance that our business will generate cash flow from operations, or that
+additional capital will be available to us, in amounts sufficient to enable us to meet our debt payment obligations and to fund other liquidity needs.
+Additionally, events and circumstances may occur which would cause us to not be able to satisfy applicable draw-down conditions and utilize our
+Revolving Credit Facility. In light of industry conditions, in 2023, we amended the financial covenants in our Revolving Credit Facility and term
+loan agreements. See “Part II – Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Overview –
+Industry Conditions” and “Part II - Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Debt.”
+If we are unable to generate sufficient cash flows to service our debt payment obligations or satisfy our debt covenants, we may need to
+refinance, restructure, or amend the terms of our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. If we
+are unable to implement one or more of these alternatives, we may be unable to meet our debt payment obligations, which could have a material
+adverse effect on our business, results of operations, or financial condition.
+
+Changes in foreign currency exchange rates could materially adversely affect our business, results of operations, or financial
+condition.
+
+Across our global operations, significant transactions and balances are denominated in currencies other than the U.S. dollar (our reporting
+currency), primarily the Chinese yuan, euro, Indian rupee, Japanese yen, Malaysian ringgit, New Taiwan dollar, and Singapore dollar. In addition,
+a significant portion of our manufacturing costs are denominated in foreign currencies. Exchange rates for some of these currencies against the
+U.S. dollar have been volatile and may be volatile in future periods. If these currencies strengthen against the U.S. dollar, our manufacturing
+costs could significantly increase. Exchange rates for the U.S. dollar that adversely change against our foreign currency exposures could have a
+material adverse effect on our business, results of operations, or financial condition.
+
+
+#### 38
+
+
+## Page 39
+
+
+#### Table of Contents
+
+We are subject to counterparty default risks.
+
+We have numerous arrangements with financial institutions that subject us to counterparty default risks, including cash deposits, investments,
+and derivative instruments. Additionally, we are subject to counterparty default risk from our customers for amounts receivable from them. As a
+result, we are subject to the risk that the counterparty will default on its performance obligations. A counterparty may not comply with its
+contractual commitments which could then lead to its defaulting on its obligations with little or no notice to us, which could limit our ability to
+mitigate our exposure. Additionally, our ability to mitigate our exposures may be constrained by the terms of our contractual arrangements or
+because market conditions prevent us from taking effective action. If one of our counterparties becomes insolvent or files for bankruptcy, our
+ability to recover any losses suffered as a result of that counterparty’s default may be limited by the liquidity of the counterparty or the applicable
+laws governing the bankruptcy proceedings. In the event of such default, we could incur significant losses, which could have a material adverse
+effect on our business, results of operations, or financial condition.
+
+The trading price of our common stock has been and may continue to be volatile.
+
+Our common stock has experienced substantial price volatility in the past and may continue to do so in the future. Additionally, we, the
+technology industry, and the stock market as a whole have on occasion experienced extreme stock price and volume fluctuations that have
+affected stock prices in ways that may have been unrelated to the specific operating performance of individual companies. The trading price of
+our common stock may fluctuate widely due to various factors, including, but not limited to, actual or anticipated fluctuations in our financial
+condition and operating results, changes in financial forecasts or estimates by us or financial or other market estimates and ratings by securities
+and other analysts, changes in our capital structure, including issuance of additional debt or equity to the public, interest rate changes, regulatory
+changes, news regarding our products or products of our competitors, and broad market and industry fluctuations.
+
+For these reasons, investors should not rely on recent or historical trends to predict future trading prices of our common stock, financial condition,
+results of operations, or cash flows. Investors in our common stock may not realize any return on their investment in us and may lose some or all
+of their investment. Volatility in the trading price of our common stock could also result in the filing of securities class action litigation matters,
+which could result in substantial costs and the diversion of management time and resources.
+
+The amount and frequency of our share repurchases may fluctuate, and we cannot guarantee that we will fully consummate our share
+repurchase authorization, or that it will enhance long-term shareholder value. Share repurchases could also increase the volatility of
+the trading price of our stock and will diminish our cash reserves.
+
+The amount, frequency, and execution of our share repurchases pursuant to our share repurchase authorization may fluctuate based on our
+operating results, cash flows, and priorities for the use of cash for other purposes. Our expenditures for share repurchases were $425 million in
+2023, $2.43 billion in 2022, $1.20 billion in 2021. These other purposes include, but are not limited to, operational spending, capital spending,
+acquisitions, and repayment of debt. Other factors, including changes in tax laws, could also impact our share repurchases. Although our Board
+of Directors has authorized share repurchases of up to $10 billion of our outstanding common stock, the authorization does not obligate us to
+repurchase any common stock.
+
+We cannot guarantee that our share repurchase authorization will be fully consummated or that it will enhance long-term shareholder value. The
+repurchase authorization could affect the trading price of our stock and increase volatility, and any announcement of a pause in, or termination
+of, this program may result in a decrease in the trading price of our stock. In addition, this program will diminish our cash reserves.
+
+There can be no assurance that we will continue to declare cash dividends in any particular amounts or at all.
+
+Our Board of Directors has adopted a dividend policy pursuant to which we currently pay a cash dividend on our common shares on a quarterly
+basis. The declaration and payment of any dividend is subject to the approval of our Board of Directors and our dividend may be discontinued or
+reduced at any time. There can be no assurance that we will declare cash dividends in the future in any particular amounts, or at all.
+
+
+### 39 | 2023 10-K
+
+
+## Page 40
+
+### Table 40.1
+
+| Taiwan | R&D, wafer fabrication, component assembly and test, module assembly and test |
+| --- | --- |
+| Singapore | R&D, wafer fabrication, component assembly and test, module assembly and test |
+| Japan | R&D, wafer fabrication |
+| United States | R&D, wafer fabrication, reticle manufacturing |
+| Malaysia | Component assembly and test, module assembly and test |
+| China | Component assembly and test, module assembly and test |
+
+
+
+#### Table of Contents
+
+Future dividends, if any, and their timing and amount, may be affected by, among other factors: our financial condition, results of operations,
+capital requirements, business conditions, debt service obligations, contractual restrictions, industry practice, legal requirements, regulatory
+constraints, and other factors that our Board of Directors may deem relevant. A reduction in or elimination of our dividend payments could have a
+negative effect on the trading price of our stock.
+
+
+### ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+None.
+
+
+### ITEM 2. PROPERTIES
+
+Our corporate headquarters are located in Boise, Idaho. In addition to our principal facilities described below, we own or lease numerous other
+facilities in locations throughout the world used for design, R&D, and sales and marketing activities. The following is a summary of our principal
+facilities as of August 31, 2023:
+
+Location
+Principal Operations
+
+Taiwan
+R&D, wafer fabrication, component assembly and test, module assembly and test
+Singapore
+R&D, wafer fabrication, component assembly and test, module assembly and test
+Japan
+R&D, wafer fabrication
+United States
+R&D, wafer fabrication, reticle manufacturing
+Malaysia
+Component assembly and test, module assembly and test
+China
+Component assembly and test, module assembly and test
+
+We believe that our existing facilities are suitable and adequate for our present purposes. We generally utilize all of our manufacturing capacity;
+however, a portion of our facilities were underutilized for 2023 due to industry conditions. See “Part II – Item 7. Management’s Discussion and
+Analysis of Financial Condition and Results of Operations – Overview – Industry Conditions” for information regarding our current
+underutilization.
+
+
+#### 40
+
+
+## Page 41
+
+
+#### Table of Contents
+
+To support expected memory demand in the second half of the decade, we will need to add new DRAM wafer capacity. Following the enactment
+of the CHIPS Act in 2022, we announced plans to invest in two leading-edge memory manufacturing fabs in the United States, contingent on
+CHIPS Act support through grants and investment tax credits. As part of this plan, in September 2022, we broke ground on a leading-edge
+memory manufacturing fab in Boise, Idaho. Construction of the fab began in October 2023 with DRAM production targeted to start in calendar
+2025 and first output in early calendar 2026. In addition, in October 2022, we announced plans to build a second leading-edge DRAM
+manufacturing fab in Clay, New York. We expect construction to begin in calendar 2024, with production anticipated to ramp in the latter half of
+the decade. We expect these new fabs to fulfill our requirements for additional wafer capacity starting in the second half of the decade and
+beyond, in line with industry demand trends. On August 21, 2023 we announced that two of our subsidiaries had each submitted full applications
+on August 18, 2023 for federal funding in the form of grants under the CHIPS Act for both of these projects.
+
+We are also advancing our global back-end assembly and test network in order to support our product portfolio and extend our ability to deliver
+on global customer demand in the future. We intend to make investments at our backend facility in Xi’an, China, including a new building to
+provide space to add more product capability, to allow us over time to serve more of the demand from our customers in China from the Xi’an
+facility. We also intend to build a new assembly and test facility in Gujarat, India to address demand in the latter half of this decade.
+We do not identify or allocate assets by operating segment, other than goodwill. For a breakout of the carrying value of our long-lived assets by
+geographic area see “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements –
+Geographic Information.”
+
+
+### ITEM 3. LEGAL PROCEEDINGS
+
+For a discussion of legal proceedings, see “Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial
+Statements – Contingencies” and “Item 1A. Risk Factors” of this Annual Report on Form 10-K.
+
+SEC regulations require disclosure of certain proceedings related to environmental matters unless we reasonably believe that the related
+monetary sanctions, if any, will be less than a specified threshold. We use a threshold of $1 million for this purpose.
+
+
+### ITEM 4. MINE SAFETY DISCLOSURES
+
+Not applicable.
+
+
+### PART II
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER
+MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+
+#### Market Information
+
+Our common stock is listed on The Nasdaq Global Select Market under the trading symbol “MU.”
+
+
+#### Holders of Record
+
+As of September 29, 2023, there were approximately 1,719 shareholders of record of our common stock. A substantially greater number of
+holders of our common stock are "street name" or beneficial holders, whose shares are held of record by banks, brokers, and other financial
+institutions.
+
+
+### 41 | 2023 10-K
+
+
+## Page 42
+
+
+#### Table of Contents
+
+
+#### Dividends
+
+On September 27, 2023, our Board of Directors declared a quarterly dividend of $0.115 per share, payable in cash on October 25, 2023, to
+shareholders of record as of the close of business on October 10, 2023.
+
+We currently expect quarterly dividends to continue in future periods and aim to grow our dividend payments over time. However, the declaration
+and payment of any future cash dividends are at the discretion and subject to the approval of our Board of Directors. Our Board of Directors'
+decisions regarding the amount and payment of dividends will depend on many factors, such as our financial condition, results of operations,
+capital requirements, business conditions, debt service obligations, contractual restrictions, industry practice, legal requirements, regulatory
+constraints, and other factors that our Board of Directors may deem relevant. We cannot guarantee that we will continue to pay a dividend in any
+future period.
+
+
+#### Equity Compensation Plan Information
+
+The information required by this item is incorporated by reference from the information to be included in our 2023 Proxy Statement under the
+section entitled “Equity Compensation Plan Information,” which will be filed with the SEC within 120 days after August 31, 2023.
+
+
+#### Issuer Purchase of Equity Securities
+
+
+#### Common Stock Repurchase Authorization
+
+In 2018, we announced that our Board of Directors authorized the discretionary repurchase of up to $10 billion of our outstanding common stock
+through open-market purchases, block trades, privately-negotiated transactions, derivative transactions, and/or pursuant to Rule 10b5-1 trading
+plans. The repurchase authorization has no expiration date, does not obligate us to acquire any common stock, and is subject to market
+conditions and our ongoing determination of the best use of available cash. During the quarter ended August 31, 2023, we did not repurchase
+any common stock under the authorization and as of August 31, 2023, $3.11 billion of the authorization remained available for the repurchase of
+our common stock.
+Shares of common stock withheld as payment of withholding taxes and exercise prices in connection with the vesting or exercise of equity
+awards are also treated as common stock repurchases. Those withheld shares of common stock are not required to be disclosed under Item 703
+of Regulation S-K and accordingly are excluded from this Item 5.
+
+
+#### 42
+
+
+## Page 43
+
+### Table 43.1
+
+| Micron Technology, Inc. | $ | 100 | $ | 86 | $ | 87 | $ | 140 | $ | 108 | $ | 135 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S&P 500 Composite Index | 100 |  | 103 |  | 125 |  | 165 |  | 146 |  | 169 |  |
+| Philadelphia Semiconductor Index (SOX) | 100 |  | 110 |  | 168 |  | 257 |  | 204 |  | 283 |  |
+
+
+
+#### Table of Contents
+
+
+#### Performance Graph
+
+The following graph illustrates a five-year comparison of cumulative total returns for our common stock, the S&P 500 Composite Index, and the
+Philadelphia Semiconductor Index (SOX) from August 31, 2018, through August 31, 2023. We operate on a 52 or 53-week fiscal year which
+ends on the Thursday closest to August 31. Accordingly, the last day of our fiscal year varies. For consistent presentation and comparison to the
+industry indices shown herein, we have calculated our stock performance graph assuming an August 31 year end.
+
+Note: Management cautions that the stock price performance information shown in the graph above may not be indicative of current stock price
+levels or future stock price performance.
+
+The performance graph above assumes $100 was invested on August 31, 2018 in common stock of Micron Technology, Inc., the S&P 500
+Composite Index, and the Philadelphia Semiconductor Index (SOX). Any dividends paid during the period presented were assumed to be
+reinvested. The performance was plotted using the following data:
+
+2018
+2019
+2020
+2021
+2022
+2023
+
+Micron Technology, Inc.
+$
+100 $
+86 $
+87 $
+140 $
+108 $
+135 
+S&P 500 Composite Index
+100 
+103 
+125 
+165 
+146 
+169 
+Philadelphia Semiconductor Index (SOX)
+100 
+110 
+168 
+257 
+204 
+283
+
+
+### ITEM 6. [RESERVED]
+
+
+### 43 | 2023 10-K
+
+
+## Page 44
+
+
+#### Table of Contents
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+This discussion should be read in conjunction with the consolidated financial statements and accompanying notes for the year ended August 31,
+2023. All period references are to our fiscal periods unless otherwise indicated. Our fiscal year is the 52 or 53-week period ending on the
+Thursday closest to August 31. Fiscal 2023, 2022, and 2021 each contained 52 weeks. All tabular dollar amounts are in millions, except per
+share amounts.
+
+
+#### Overview
+
+
+#### For an overview of our business, see “Part I – Item 1. Business – Overview.”
+
+
+#### Industry Conditions
+
+The memory and storage industry environment deteriorated sharply in the fourth quarter of 2022 and throughout 2023 due to weak demand in
+many end markets combined with global and macroeconomic challenges and lower demand resulting from customer actions to reduce inventory
+levels. This led to significant reductions in average selling prices for both DRAM and NAND and bit shipments for DRAM, resulting in declines in
+revenue across all our business segments and nearly all our end markets. Due to the challenging pricing environment, we recognized charges of
+$1.83 billion in 2023 to write down inventories to their estimated net realizable value. Ongoing demand growth, customer inventory normalization,
+and industry-wide supply discipline have set the stage for increased revenue, and improved pricing and profitability throughout fiscal 2024. As a
+result, pricing trends have started to improve and there were no write downs of inventories to net realizable value in the fourth quarter of 2023.
+However, further write-downs of inventories in future quarters could occur if pricing expectations deteriorate. Given the challenging pricing
+environment, elevated levels of inventories for suppliers and customers, and significant supply-demand mismatch, we expect industry profitability
+will remain challenged into 2024.
+
+As a result of these conditions and increases in our inventory levels, we have reduced capital expenditures and also significantly reduced wafer
+starts in 2023 for both DRAM and NAND. We expect wafer starts will remain significantly below peak capacity levels for the foreseeable future as
+we remain focused on managing down our inventories and controlling our supply. We recognized period costs from fabrication facility
+underutilization of $382 million in 2023 due to wafer start reductions. We estimate that we will recognize approximately $200 million of period
+costs from underutilization due to wafer start reductions in the first quarter of 2024. We have also taken significant steps to reduce our costs and
+operating expenses. These actions include the 2023 Restructure Plan discussed below and additional reductions in external spending, including
+implementing productivity programs across the business, suspension of our 2023 bonus company-wide, reductions in select product programs,
+lower discretionary spending, and cuts to 2023 executive salaries across the company.
+
+
+#### Impact of China Cyberspace Administration Decision
+
+On March 31, 2023, China’s Cyberspace Administration (the “CAC”) notified us that it was conducting a cybersecurity review of our products sold
+in China. On May 21, 2023, we received notice that the CAC had concluded its review and decided that our products presented a cybersecurity
+risk. As such, the CAC determined that critical information infrastructure operators in China may not purchase Micron products. There is no list of
+the companies that have been designated as critical information infrastructure operators published by the Chinese government or otherwise
+available to us. Therefore, the full impact of the CAC decision on our business remains uncertain.
+
+
+#### 44
+
+
+## Page 45
+
+
+#### Table of Contents
+
+The CAC decision has impacted our business, particularly in the domestic data center and networking markets in China. In addition, although
+demand for DRAM and NAND is improving as customer inventory levels continue to normalize and secular growth drivers remain intact, the CAC
+decision continues to impact our revenue opportunity in China. This significant headwind is impacting our outlook and slowing our recovery. We
+are working to mitigate this impact over time and expect quarter-to-quarter revenue variability. Our revenue with companies headquartered in
+mainland China and Hong Kong, including direct sales as well as indirect sales through distributors, is approximately a quarter of our worldwide
+revenue and remains our principal exposure to the CAC decision. Although the impact of the CAC decision remains uncertain, we believe that
+approximately half of that China-headquartered customer revenue, which equates to a low-double-digit percentage of our worldwide revenue, is
+at risk of being impacted. Despite the near-term impact to our demand as a result of the CAC decision, our long-term goal is to retain our
+worldwide DRAM and NAND market share.
+
+
+#### 2023 Restructure Plan
+
+We initiated a restructure plan in response to challenging industry conditions (the “2023 Restructure Plan”). Under the plan, we expect our
+headcount reduction to approach 15% by the end of calendar 2023, through a combination of voluntary attrition and personnel reductions. In
+connection with the plan, we incurred restructure charges of $171 million in 2023 primarily related to employee severance costs. The 2023
+Restructure Plan was substantially completed in 2023. As a result of the 2023 Restructure Plan, we expect to realize cost savings of
+approximately $130 million per quarter (approximately 60% in cost of goods sold, 30% in R&D, and 10% in SG&A) subsequent to 2023. Further
+information on restructure activities can be found in “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial
+Statements – Restructure and Asset Impairments.”
+
+
+#### Lehi, Utah Fab and 3D XPoint
+
+In 2021, we updated our portfolio strategy to further strengthen our focus on memory and storage innovations for the data center market. In
+connection therewith, we determined that there was insufficient market validation to justify the ongoing investments required to commercialize 3D
+XPoint at scale. Accordingly, we ceased development of 3D XPoint technology and engaged in discussions for the sale of our facility located in
+Lehi, Utah that was dedicated to 3D XPoint production. As a result, we classified the property, plant, and equipment as held for sale in 2021,
+ceased depreciating the assets, and recognized a $435 million restructure and asset impairment charge and a $104 million tax benefit.
+
+We closed the sale of our Lehi facility to TI in 2022 for $893 million and disposed of $918 million of net assets, consisting primarily of property,
+plant, and equipment, resulting in a $23 million loss, net of selling expenses and other adjustments.
+
+
+### 45 | 2023 10-K
+
+
+## Page 46
+
+### Table 46.1
+
+| For the year ended | 2023 |  |  |  | 2022 |  |  |  | 2021 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Revenue | $ | 15,540 | 100 | % | $ | 30,758 | 100 | % | $ | 27,705 | 100 | % |
+| Cost of goods sold | 16,956 |  | 109 | % | 16,860 |  | 55 | % | 17,282 |  | 62 | % |
+| Gross margin | (1,416) |  | (9) | % | 13,898 |  | 45 | % | 10,423 |  | 38 | % |
+| Research and development | 3,114 |  | 20 | % | 3,116 |  | 10 | % | 2,663 |  | 10 | % |
+| Selling, general, and administrative | 920 |  | 6 | % | 1,066 |  | 3 | % | 894 |  | 3 | % |
+| Restructure and asset impairments | 171 |  | 1 | % | 48 |  | — | % | 488 |  | 2 | % |
+| Other operating (income) expense, net | 124 |  | 1 | % | (34) |  | — | % | 95 |  | — | % |
+| Operating income (loss) | (5,745) |  | (37) | % | 9,702 |  | 32 | % | 6,283 |  | 23 | % |
+| Interest income (expense), net | 80 |  | 1 | % | (93) |  | — | % | (146) |  | (1) | % |
+| Other non-operating income (expense), net | 7 |  | — | % | (38) |  | — | % | 81 |  | — | % |
+| Income tax (provision) benefit | (177) |  | (1) | % | (888) |  | (3) | % | (394) |  | (1) | % |
+| Equity in net income (loss) of equity method investees | 2 |  | — | % | 4 |  | — | % | 37 |  | — | % |
+| Net income (loss) | $ | (5,833) | (38) | % | $ | 8,687 | 28 | % | $ | 5,861 | 21 | % |
+
+
+
+#### Table of Contents
+
+
+#### Results of Operations
+
+
+#### Consolidated Results
+
+For the year ended
+2023
+2022
+2021
+
+Revenue
+$ 15,540 
+100 % $ 30,758 
+100 % $ 27,705 
+100 %
+Cost of goods sold
+16,956 
+109 %
+16,860 
+55 %
+17,282 
+62 %
+Gross margin
+(1,416)
+(9)%
+13,898 
+45 %
+10,423 
+38 %
+
+Research and development
+3,114 
+20 %
+3,116 
+10 %
+2,663 
+10 %
+Selling, general, and administrative
+920 
+6 %
+1,066 
+3 %
+894 
+3 %
+Restructure and asset impairments
+171 
+1 %
+48 
+— %
+488 
+2 %
+Other operating (income) expense, net
+124 
+1 %
+(34)
+— %
+95 
+— %
+Operating income (loss)
+(5,745)
+(37)%
+9,702 
+32 %
+6,283 
+23 %
+
+Interest income (expense), net
+80 
+1 %
+(93)
+— %
+(146)
+(1)%
+Other non-operating income (expense), net
+7 
+— %
+(38)
+— %
+81 
+— %
+Income tax (provision) benefit
+(177)
+(1)%
+(888)
+(3)%
+(394)
+(1)%
+Equity in net income (loss) of equity method investees
+2 
+— %
+4 
+— %
+37 
+— %
+
+Net income (loss)
+$
+(5,833)
+(38)% $
+8,687 
+28 % $
+5,861 
+21 %
+
+Total Revenue: Total revenue for 2023 was adversely impacted by the factors described in the section titled “Industry Conditions” above. Total
+revenue for 2023 decreased 49% as compared to 2022 primarily due to decreases in sales of both DRAM and NAND products.
+
+•
+Sales of DRAM products decreased 51% primarily due to a high-40s percent range decline in average selling prices and decreases in bit
+shipments in the high-single-digit percent range.
+•
+Sales of NAND products decreased 46% primarily due to a low-50s percent range decline in average selling prices partially offset by
+increases in bit shipments in the high-single-digit percent range.
+
+Total revenue for 2022 increased 11% as compared to 2021 primarily due to increases in sales of both DRAM and NAND products.
+
+•
+Sales of DRAM products increased 12% primarily due to increases in bit shipments of slightly over 10%.
+•
+Sales of NAND products increased 11% primarily due to a high-single-digit percent increase in bit shipments and a low-single-digit
+percent increase in average selling prices.
+
+Consolidated Gross Margin: Our consolidated gross margin has been adversely impacted by the factors described in the section titled
+“Industry Conditions” above. Our consolidated gross margin percentage decreased to negative 9% for 2023 from 45% for 2022 primarily due to
+declines in average selling prices for both DRAM and NAND and charges to write down inventories (as detailed in “Inventory NRV write-downs”
+below), and $382 million of facility underutilization costs in 2023.
+
+Inventory NRV write-downs: Our consolidated gross margin was impacted by charges to write down inventories to their estimated net realizable
+value as a result of declines in average selling prices for both DRAM and NAND. As charges to write down inventories are recorded in advance
+of when inventories are sold, costs of goods sold in subsequent periods are lower than they otherwise would be. The impact of inventory NRV
+write-downs for each period reflects (1) inventory write-downs in that period, offset by (2) lower costs in that period on the sale of inventory
+written down in prior periods. The impacts of inventory NRV write-downs are summarized below:
+
+
+#### 46
+
+
+## Page 47
+
+### Table 47.1
+
+| Provision to write down inventory to NRV | $ | (1,831) | $ | — | $ | — |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lower costs from sale of inventory written down in prior periods | 844 |  | — |  | — |  |
+|  | $ | (987) | $ | — | $ | — |
+
+
+### Table 47.2
+
+| For the year ended | 2023 |  |  |  | 2022 |  |  |  | 2021 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CNBU | $ | 5,710 | 37 | % | $ | 13,693 | 45 | % | $ | 12,280 | 44 | % |
+| MBU | 3,630 |  | 23 | % | 7,260 |  | 24 | % | 7,203 |  | 26 | % |
+| EBU | 3,637 |  | 23 | % | 5,235 |  | 17 | % | 4,209 |  | 15 | % |
+| SBU | 2,553 |  | 16 | % | 4,553 |  | 15 | % | 3,973 |  | 14 | % |
+| All Other | 10 |  | — | % | 17 |  | — | % | 40 |  | — | % |
+|  | $ | 15,540 |  |  | $ | 30,758 |  |  | $ | 27,705 |  |  |
+
+
+
+#### Table of Contents
+
+For the year ended
+2023
+2022
+2021
+
+Provision to write down inventory to NRV
+$
+(1,831) $
+— $
+— 
+Lower costs from sale of inventory written down in prior periods
+844 
+— 
+— 
+$
+(987) $
+— $
+—
+
+Our consolidated gross margin percentage increased to 45% for 2022 from 38% for 2021, as a result of improvements in margins for both DRAM
+and NAND products, primarily due to reductions in manufacturing costs. Manufacturing cost reductions were driven by strong execution in
+ramping our 1α DRAM and 176-layer NAND technology nodes. For 2021, our gross margins included the impact of underutilization costs at MTU
+of $335 million. See “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Lehi, Utah Fab and
+3D XPoint.” Also, effective as of the beginning of the second quarter of 2021, we changed our method of inventory costing from average cost to
+first-in, first-out (“FIFO”). Concurrently, as of the beginning of the second quarter of 2021, we modified our inventory cost absorption processes
+used to estimate inventory values, which affects the timing of when costs are recognized. These changes resulted in a one-time increase to cost
+of goods sold of approximately $293 million in 2021.
+
+
+#### Revenue by Business Unit
+
+For the year ended
+2023
+2022
+2021
+
+CNBU
+$
+5,710 
+37 % $
+13,693 
+45 % $
+12,280 
+44 %
+MBU
+3,630 
+23 %
+7,260 
+24 %
+7,203 
+26 %
+EBU
+3,637 
+23 %
+5,235 
+17 %
+4,209 
+15 %
+SBU
+2,553 
+16 %
+4,553 
+15 %
+3,973 
+14 %
+All Other
+10 
+— %
+17 
+— %
+40 
+— %
+
+$
+15,540 
+$
+30,758 
+$
+27,705
+
+Percentages of total revenue may not total 100% due to rounding.
+
+Changes in revenue for each business unit for 2023 as compared to 2022 were as follows:
+
+•
+CNBU revenue decreased 58% primarily due to declines in average selling prices for DRAM and decreases in bit shipments.
+•
+MBU revenue decreased 50% primarily due to declines in average selling prices for both DRAM and NAND and decreases in NAND bit
+shipments.
+•
+EBU revenue decreased 31% primarily due to declines in average selling prices for both DRAM and NAND and decreases in bit
+shipments.
+•
+SBU revenue decreased 44% primarily due to declines in average selling prices for NAND partially offset by increases in bit shipments.
+
+Changes in revenue for each business unit for 2022 as compared to 2021 were as follows:
+
+•
+CNBU revenue increased 12% primarily due to increases in bit shipments to cloud, enterprise, and networking markets.
+•
+MBU revenue was relatively unchanged as both DRAM and NAND revenue was relatively flat.
+•
+EBU revenue increased 24% primarily due to strong demand growth in industrial and automotive markets.
+•
+SBU revenue increased 15% primarily due to higher average selling prices and increases in shipments of SSD products.
+
+
+### 47 | 2023 10-K
+
+
+## Page 48
+
+### Table 48.1
+
+| For the year ended | 2023 |  |  |  | 2022 |  |  |  | 2021 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CNBU | $ | (585) | (10) | % | $ | 5,844 | 43 | % | $ | 4,295 | 35 | % |
+| MBU | (1,750) |  | (48) | % | 2,160 |  | 30 | % | 2,173 |  | 30 | % |
+| EBU | 382 |  | 11 | % | 1,752 |  | 33 | % | 1,006 |  | 24 | % |
+| SBU | (1,887) |  | (74) | % | 513 |  | 11 | % | 173 |  | 4 | % |
+| All Other | 8 |  | 80 | % | 12 |  | 71 | % | 20 |  | 50 | % |
+|  | $ | (3,832) |  |  | $ | 10,281 |  |  | $ | 7,667 |  |  |
+
+
+
+#### Table of Contents
+
+
+#### Operating Income (Loss) by Business Unit
+
+For the year ended
+2023
+2022
+2021
+
+CNBU
+$
+(585)
+(10)% $
+5,844 
+43 % $
+4,295 
+35 %
+MBU
+(1,750)
+(48)%
+2,160 
+30 %
+2,173 
+30 %
+EBU
+382 
+11 %
+1,752 
+33 %
+1,006 
+24 %
+SBU
+(1,887)
+(74)%
+513 
+11 %
+173 
+4 %
+All Other
+8 
+80 %
+12 
+71 %
+20 
+50 %
+
+$
+(3,832)
+$
+10,281 
+$
+7,667
+
+Percentages reflect operating income (loss) as a percentage of revenue for each business unit.
+
+Changes in operating income or loss for each business unit for 2023 as compared to 2022 were as follows:
+
+•
+CNBU operating income (loss) deteriorated primarily due to declines in average selling prices and lower bit shipments.
+•
+MBU operating income (loss) deteriorated primarily due to declines in average selling prices and lower NAND bit shipments.
+•
+EBU operating income decreased primarily due to declines in average selling prices and lower bit shipments.
+•
+SBU operating income (loss) deteriorated primarily due to declines in average selling prices.
+
+Changes in operating income or loss for each business unit for 2022 as compared to 2021 were as follows:
+
+•
+CNBU operating income increased primarily due to higher bit shipments and manufacturing cost reductions.
+•
+MBU operating income was relatively unchanged as slight increases in gross margins were offset by higher operating expenses.
+•
+EBU operating income increased primarily due to manufacturing cost reductions from an increasing mix of leading-edge bits, higher bit
+shipments, and improved DRAM pricing in industrial and consumer markets, partially offset by higher R&D expenses.
+•
+SBU operating income increased primarily due to improved product mix driving increases in average selling prices, increases in SSD
+shipments, and manufacturing cost reductions, partially offset by higher R&D expenses.
+
+
+#### Operating Expenses and Other
+
+Research and Development: R&D expenses vary primarily with the number of development and pre-qualification wafers processed, the cost of
+advanced equipment dedicated to new product and process development, and personnel costs. Because of the lead times necessary to
+manufacture our products, we typically begin to process wafers before completion of performance and reliability testing. Development of a
+product is deemed complete when it is qualified through internal reviews and tests for performance and reliability. R&D expenses can vary
+significantly depending on the timing of product qualification.
+
+R&D expenses for 2023 were relatively unchanged as compared to 2022 as decreases in employee compensation were offset by higher
+depreciation expense. R&D expenses for 2022 increased 17% as compared to 2021 primarily due to higher employee compensation from
+increases in headcount, higher volumes of development and prequalification wafers, and higher depreciation expense.
+
+Selling, General, and Administrative: SG&A expenses for 2023 were 14% lower as compared to 2022 primarily due to decreases in employee
+compensation, legal fees, advertising, and professional services. SG&A expenses for 2022 were 19% higher as compared to 2021 primarily due
+to increases in employee compensation, professional services, and legal fees.
+
+Restructure and Asset Impairments: For a discussion of restructure and asset impairments, see the Overview sections above titled “2023
+Restructure Plan” and “Lehi, Utah Fab and 3D XPoint.”
+
+
+#### 48
+
+
+## Page 49
+
+### Table 49.1
+
+| Income (loss) before taxes | $ | (5,658) |  | $ | 9,571 |  | $ | 6,218 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Income tax (provision) benefit | (177) |  |  | (888) |  |  | (394) |  |  |
+| Effective tax rate | (3.1) |  | % | 9.3 |  | % | 6.3 |  | % |
+
+
+
+#### Table of Contents
+
+Interest Income (Expense), Net: Interest income (expense) improved for 2023 as compared to 2022 primarily as a result of increases in interest
+income due to higher interest rates on our cash and investments, partially offset by increases in interest expense due to higher debt balances
+and interest rates. Interest income (expense) improved for 2022 as compared to 2021 primarily due to an increase of $59 million in interest
+income as a result of increases in interest rates on our cash and investments.
+
+
+#### Income Taxes: Our income tax (provision) benefit consisted of the following:
+
+For the year ended
+2023
+2022
+2021
+
+Income (loss) before taxes
+$
+(5,658)
+$
+9,571 
+$
+6,218 
+Income tax (provision) benefit
+(177)
+(888)
+(394)
+Effective tax rate
+(3.1)%
+9.3 %
+6.3 %
+
+The change in our effective tax rate for 2023 as compared to 2022 was primarily due to a pre-tax loss in 2023. Despite a consolidated pre-tax
+loss on a worldwide basis, we have taxes payable in certain geographies due to minimum taxable income reportable in those geographies. Our
+effective tax rate increased in 2022 as compared to 2021 primarily due to the geographic mix of our earnings and a valuation allowance recorded
+against our Idaho deferred tax assets of $189 million, partially offset by tax impacts of changes in foreign currency exchange rates.
+
+We operate in a number of jurisdictions outside the United States, including Singapore, where we have tax incentive arrangements. These
+incentives expire, in whole or in part, at various dates through 2034 and are conditional, in part, upon meeting certain business operations and
+employment thresholds. As a result of a loss before taxes and geographical mix of income, the benefit from tax incentive arrangements was not
+material for 2023. The effect of tax incentive arrangements reduced our tax provision by $1.12 billion (benefiting our diluted earnings per share by
+$1.00) for 2022 and by $758 million ($0.66 per diluted share) for 2021.
+
+Beginning in 2024, the Inflation Reduction Act of 2022 imposes a 15% book minimum tax on corporations with three-year average annual
+adjusted financial statement income exceeding $1 billion. The impact of this tax will depend on our facts in each year, anticipated guidance from
+the U.S. Department of the Treasury, and other developing global tax legislation.
+
+Various tax reforms are being considered in multiple jurisdictions that, if enacted, contain provisions that could materially impact our tax expense.
+We continue to monitor the potential impact of these various tax reform proposals to our overall global effective tax rate and financial statements.
+
+Other: Further information can be found in the following notes contained in “Item 8. Financial Statements and Supplementary Data – Notes to
+Consolidated Financial Statements”:
+
+•
+Lehi, Utah Fab and 3D XPoint
+•
+Goodwill
+•
+Equity Plans
+•
+Restructure and Asset Impairments
+•
+Other Operating (Income) Expense, Net
+•
+Other Non-Operating Income (Expense), Net
+•
+Income Taxes
+
+
+### 49 | 2023 10-K
+
+
+## Page 50
+
+
+#### Table of Contents
+
+
+#### Liquidity and Capital Resources
+
+Our primary sources of liquidity are cash generated from operations and financing obtained from capital markets and financial institutions. Cash
+generated from operations is highly dependent on selling prices for our products, which can vary significantly from period to period. Cash and
+marketable investments totaled $10.44 billion as of August 31, 2023, and $10.98 billion as of September 1, 2022. Our cash and investments
+consist primarily of bank deposits, money market funds, and liquid investment-grade, fixed-income securities, which are diversified among
+industries and individual issuers. To mitigate credit risk, we invest through high-credit-quality financial institutions and by policy generally limit the
+concentration of credit exposure by restricting the amount of investments with any single obligor. As of August 31, 2023, $2.45 billion of our cash
+and marketable investments was held by our foreign subsidiaries.
+
+We continuously evaluate alternatives for efficiently funding our capital expenditures and ongoing operations. We expect, from time to time, to
+engage in a variety of financing transactions for such purposes, including the issuance of securities. As of August 31, 2023, $2.50 billion was
+available to draw under our Revolving Credit Facility. On March 27, 2023, we entered into amendments to the Multi-Tranche Term Loan
+Agreement and the agreements governing the Revolving Credit Facility and the 2024 Term Loan A to revise the leverage ratio covenant in each
+such agreement, as further described in “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements –
+Debt.” Funding of certain significant capital projects is also dependent on the receipt of government incentives, which are subject to conditions
+and may not be obtained.
+
+To develop new product and process technology, support future growth, achieve operating efficiencies, and maintain product quality, we must
+continue to invest in manufacturing technologies, facilities and equipment, and R&D. We estimate capital expenditures in 2024 for property,
+plant, and equipment, net of partner contributions, to be slightly above $7 billion. Actual amounts for 2024 will vary depending on market
+conditions. As of August 31, 2023, we had purchase obligations of approximately $915 million for the acquisition of property, plant, and
+equipment, of which approximately $812 million is expected to be paid within one year. For a description of other contractual obligations, such as
+leases, debt, and commitments, see “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements –
+Leases,” “ – Debt,” and “ – Commitments.”
+
+To support expected memory demand in the second half of the decade, we will need to add new DRAM wafer capacity. Following the enactment
+of the CHIPS Act in 2022, we announced plans to invest in two leading-edge memory manufacturing fabs in the United States, contingent on
+CHIPS Act support through grants and investment tax credits. As part of this plan, in September 2022, we broke ground on a leading-edge
+memory manufacturing fab in Boise, Idaho. Construction of the fab began in October 2023 with DRAM production targeted to start in calendar
+2025 and first output in early calendar 2026. In addition, in October 2022, we announced plans to build a second leading-edge DRAM
+manufacturing fab in Clay, New York. We expect construction to begin in calendar 2024, with production anticipated to ramp in the latter half of
+the decade. We expect these new fabs to fulfill our requirements for additional wafer capacity starting in the second half of the decade and
+beyond, in line with industry demand trends. On August 21, 2023 we announced that two of our subsidiaries had each submitted full applications
+on August 18, 2023 for federal funding in the form of grants under the CHIPS Act for both of these projects.
+
+We are also advancing our global back-end assembly and test network in order to support our product portfolio and extend our ability to deliver
+on global customer demand in the future. We intend to make investments at our backend facility in Xi’an, China, including a new building to
+provide space to add more product capability, to allow us over time to serve more of the demand from our customers in China from the Xi’an
+facility. We also intend to build a new assembly and test facility in Gujarat, India to address demand in the latter half of this decade.
+
+Our Board of Directors has authorized the discretionary repurchase of up to $10 billion of our outstanding common stock through open-market
+purchases, block trades, privately-negotiated transactions, derivative transactions, and/or pursuant to Rule 10b5-1 trading plans. The repurchase
+authorization has no expiration date, does not obligate us to acquire any common stock, and is subject to market conditions and our ongoing
+determination of the best use of available cash. Through August 31, 2023, we had repurchased an aggregate of $6.89 billion of the authorized
+amount. See “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Equity.”
+
+
+#### 50
+
+
+## Page 51
+
+### Table 51.1
+
+| Net cash provided by operating activities | $ | 1,559 | $ | 15,181 | $ | 12,468 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Net cash provided by (used for) investing activities | (6,191) |  | (11,585) |  | (10,589) |  |
+| Net cash provided by (used for) financing activities | 4,983 |  | (2,980) |  | (1,781) |  |
+| Effect of changes in currency exchange rates on cash, cash equivalents, and restricted cash | (34) |  | (106) |  | 41 |  |
+| Net increase (decrease) in cash, cash equivalents, and restricted cash | $ | 317 | $ | 510 | $ | 139 |
+
+
+
+#### Table of Contents
+
+On September 27, 2023, our Board of Directors declared a quarterly dividend of $0.115 per share, payable in cash on October 25, 2023, to
+shareholders of record as of the close of business on October 10, 2023. The declaration and payment of any future cash dividends are at the
+discretion and subject to the approval of our Board of Directors. Our Board of Directors' decisions regarding the amount and payment of dividends
+will depend on many factors, including, but not limited to, our financial condition, results of operations, capital requirements, business conditions,
+debt service obligations, contractual restrictions, industry practice, legal requirements, regulatory constraints, and other factors that our Board of
+Directors may deem relevant.
+
+We expect that our cash and investments, cash flows from operations, and available financing will be sufficient to meet our requirements at least
+through the next 12 months and thereafter for the foreseeable future.
+
+
+#### Cash Flows
+
+For the year ended
+2023
+2022
+2021
+
+Net cash provided by operating activities
+$
+1,559 $
+15,181 $
+12,468 
+Net cash provided by (used for) investing activities
+(6,191)
+(11,585)
+(10,589)
+Net cash provided by (used for) financing activities
+4,983 
+(2,980)
+(1,781)
+Effect of changes in currency exchange rates on cash, cash equivalents, and restricted
+cash
+(34)
+(106)
+41
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+$
+317 $
+510 $
+139
+
+Operating Activities: Cash provided by operating activities reflects net income (loss) adjusted for certain non-cash items, including depreciation
+expense, amortization of intangible assets, inventory write-downs, asset impairments, and stock-based compensation, and the effects of changes
+in operating assets and liabilities. The decrease in cash provided by operating activities for 2023 as compared to 2022 was primarily due to a net
+loss in the current year adjusted for non-cash items and the effect of an increase in inventories and a decline in accounts payable and accrued
+expenses, partially offset by a decrease in receivables.
+
+The increase in cash provided by operating activities for 2022 as compared to 2021 was primarily due to higher net income adjusted for non-cash
+items and the effect of lower receivables, partially offset by an increase in inventories.
+
+Investing Activities: For 2023, net cash used for investing activities consisted primarily of $7.68 billion of expenditures for property, plant, and
+equipment; contributions of $710 million received from partners to offset capital expenditures; and $868 million of net inflows from maturities,
+sales, and purchases of available-for-sale securities.
+
+For 2022, net cash used for investing activities consisted primarily of $12.07 billion of expenditures for property, plant, and equipment;
+contributions of $115 million received from partners to offset capital expenditures; $888 million of net inflows from the sale of the Lehi, Utah fab;
+and $155 million of net outflows from purchases, sales, and maturities of available-for-sale securities.
+
+For 2021, net cash used for investing activities consisted primarily of $10.03 billion of expenditures for property, plant, and equipment, partially
+offset by contributions of $502 million received from partners to offset capital expenditures, and $1.06 billion of net outflows from purchases,
+sales, and maturities of available-for-sale securities.
+
+Financing Activities: For 2023, net cash provided by financing activities consisted primarily of $3.20 billion of proceeds from our 2025, 2026,
+and 2027 Term Loan A borrowings, $1.27 billion from the issuance of the 2029 B Notes, $896 million from the issuance of the 2033 B Notes,
+$749 million from the issuance of the 2033 A Notes, and $599 million from the issuance of the 2028 Notes. Cash used for financing activities
+included $761 million for repayments of debt, $504 million for payments of dividends to shareholders, $425 million for the acquisition of 8.6 million
+shares of our common stock under our share repurchase authorization, and $138 million of payments on equipment purchase contracts.
+
+
+### 51 | 2023 10-K
+
+
+## Page 52
+
+
+#### Table of Contents
+
+For 2022, net cash used for financing activities included $2.43 billion for the acquisition of 35.4 million shares of our common stock under our
+share repurchase authorization, $2.03 billion of repayments of debt primarily to redeem the 2023 Notes and 2024 Notes, $461 million of cash
+payments of dividends to shareholders, and $141 million of payments on equipment purchase contracts. Cash used for financing activities was
+partially offset by aggregate proceeds of $2.00 billion from the issuance of the unsecured 2032 Green Bonds, 2041 Notes, and 2051 Notes.
+
+For 2021, net cash used for financing activities consisted primarily of $1.20 billion for the acquisition of 15.6 million shares of our common stock
+under our share repurchase authorization, $295 million of payments on equipment purchase contracts, $185 million of cash payments to settle
+conversions of our 2032D Notes, and $147 million of repayments of finance leases and other debt. In addition, we received proceeds of $1.19
+billion under an unsecured 2024 Term Loan A and used the proceeds to repay the $1.19 billion Extinguished 2024 Term Loan A.
+
+See “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Debt.”
+
+
+#### Critical Accounting Estimates
+
+The preparation of financial statements and related disclosures in conformity with U.S. GAAP requires management to make estimates and
+judgments that affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosures. Estimates and judgments are
+based on historical experience, forecasted events, and various other assumptions that we believe to be reasonable under the
+circumstances. Estimates and judgments may vary under different assumptions or conditions and involve a significant level of uncertainty. We
+evaluate our estimates and judgments on an ongoing basis. Our management believes the accounting policies below are critical in the portrayal
+of our financial condition and results of operations and require management’s most difficult, subjective, or complex judgments.
+
+Contingencies: We are subject to the possibility of losses from various contingencies. Significant judgment is necessary to estimate the
+probability and amount of a loss, if any, from such contingencies. An accrual is made when it is probable that a liability has been incurred or an
+asset has been impaired, and the amount of loss can be reasonably estimated. In accounting for the resolution of contingencies, significant
+judgment may be necessary to estimate amounts pertaining to periods prior to the resolution that are charged to operations in the period of
+resolution and amounts related to future periods.
+
+Goodwill: We test goodwill for impairment in our fourth quarter each year, or more frequently if indicators of an impairment exist, to determine
+whether it is more likely than not that the fair value of the reporting unit with goodwill is less than its carrying value. For reporting units for which
+this assessment concludes that it is more likely than not that the fair value is more than its carrying value, goodwill is considered not impaired,
+and we are not required to perform the goodwill impairment test. Qualitative factors considered in this assessment include industry and market
+considerations, overall financial performance, and other relevant events and factors affecting the fair value of the reporting unit. For reporting
+units for which this assessment concludes that it is more likely than not that the fair value is below the carrying value, goodwill is tested for
+impairment by determining the fair value of each reporting unit and comparing it to the carrying value of the net assets assigned to the reporting
+unit. If the fair value of the reporting unit exceeds its carrying value, goodwill is considered not impaired. If the carrying value of the reporting unit
+exceeds its fair value, we recognize an impairment loss up to the difference between the carrying value and implied fair value. We recognized a
+charge of $101 million in 2023 to impair all of the goodwill assigned to our SBU reporting unit based on our quantitative assessment for
+impairment in the current year. The quantitative assessment indicated that the fair value for all of our other reporting units substantially exceeded
+their carrying value.
+
+
+#### 52
+
+
+## Page 53
+
+
+#### Table of Contents
+
+Determining when to test for impairment, the reporting units, the assets and liabilities of the reporting unit, and the fair value of the reporting unit
+requires significant judgment and involves the use of significant estimates and assumptions. These estimates and assumptions include revenue
+growth rates, forecasted manufacturing costs, and other expenses and are developed as part of our long-range planning process. The same
+estimates are used in business planning, forecasting, and capital budgeting as part of our long-term manufacturing capacity analysis. These
+estimates and assumptions are used to calculate projected future cash flows for the reporting unit, which are discounted using a risk-adjusted
+rate to estimate a fair value. The discount rate requires determination of appropriate market comparables. We base fair value estimates on
+assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. Actual future results may differ from those
+estimates. We assess the reasonableness of our methodology, forecasts, and assumptions by comparing the aggregate calculated fair value for
+our reporting units to our market capitalization.
+
+Income taxes: We are required to estimate our provision for income taxes and amounts ultimately payable or recoverable in numerous tax
+jurisdictions around the world. These estimates involve significant judgment and interpretations of regulations and are inherently complex.
+Resolution of income tax treatments in individual jurisdictions may not be known for many years after completion of the applicable year. We are
+also required to evaluate the realizability of our deferred tax assets on an ongoing basis in accordance with U.S. GAAP, which requires the
+assessment of our performance and other relevant factors. Realization of deferred tax assets is dependent on our ability to generate future
+taxable income. Our income tax provision or benefit is dependent, in part, on our ability to forecast future taxable income in Japan, Malaysia, the
+United States, Taiwan, and other jurisdictions. Such forecasts are inherently difficult and involve significant judgments including, among others,
+projecting future average selling prices and sales volumes, manufacturing and overhead costs, levels of capital spending, and other factors that
+significantly impact our analyses of the amount of net deferred tax assets that are more likely than not to be realized.
+
+Inventories: Inventories are stated at the lower of cost or net realizable value, with cost being determined on a first-in, first-out (“FIFO”) basis.
+Cost includes depreciation, labor, material, and overhead costs, including product and process technology costs. Determining net realizable
+value of finished goods and work in process inventories involves significant judgments, including projecting future average selling prices, future
+sales volumes, and future cost per part. To project average selling prices and sales volumes, we review recent sales volumes, existing customer
+orders, current contract prices, industry analyses of supply and demand, and general economic trends. To project cost per part, we review trends
+with historical results and consider known changes in our cost structure as applicable. Actual selling prices may vary significantly from projected
+prices due to the volatile nature of the semiconductor memory and storage markets. When these analyses reflect estimated net realizable values
+below our manufacturing costs, we record a charge to cost of goods sold in advance of when inventories are actually sold. As a result, the timing
+of when product costs are charged to costs of goods sold can vary significantly. Differences in future average selling prices used in calculating
+lower of cost or net realizable value adjustments can result in significant changes in the estimated net realizable value of finished goods and
+work in process inventories and accordingly the amount of write-down recorded. For example, a 5% decrease in future average selling prices
+would have changed the estimated net realizable value of our finished goods and work in process inventories by approximately $600 million as of
+August 31, 2023.
+
+U.S. GAAP provides for products to be grouped into categories in order to compare costs to net realizable values. The amount of any inventory
+write-down can vary significantly depending on the determination of inventory categories. We review the major characteristics of product type
+and markets in determining the unit of account for which we perform the lower of cost or net realizable value analysis and categorize all
+inventories (including DRAM, NAND, and other memory) as a single group.
+
+Property, plant, and equipment: We periodically assess the estimated useful lives of our property, plant, and equipment based on technology
+node transitions, capital spending, and equipment re-use rates. We also review the carrying value of property, plant, and equipment for
+impairment when events and circumstances indicate that the carrying value of an asset or group of assets may not be recoverable from the
+estimated future cash flows expected to result from its use and/or disposition. In cases where undiscounted expected future cash flows are less
+than the carrying value, an impairment loss is recognized equal to the amount by which the carrying value exceeds the estimated fair value of
+the assets. The estimate of future cash flows involves numerous assumptions which require significant judgment by us, including, but not limited
+to, future use of the assets for our operations versus sale or disposal of the assets, future selling prices for our products, and future production
+and sales volumes.
+
+
+### 53 | 2023 10-K
+
+
+## Page 54
+
+
+#### Table of Contents
+
+Revenue recognition: Revenue is primarily recognized at a point in time when control of the promised goods is transferred to our customers in
+an amount that reflects the consideration we expect to be entitled to in exchange for those goods. Contracts with our customers are generally
+short-term in duration at fixed, negotiated prices with payment generally due shortly after delivery. We estimate a liability for returns using the
+expected value method based on historical returns. In addition, we generally offer price protection to our distributors, which is a form of variable
+consideration that decreases the transaction price. We use the expected value method, based on historical price adjustments and current pricing
+trends, to estimate the amount of revenue recognized from sales to distributors. Differences between the estimated and actual amounts are
+recognized as adjustments to revenue.
+
+
+#### Recently Adopted Accounting Standards
+
+No material items.
+
+
+#### Recently Issued Accounting Standards
+
+No material items.
+
+
+### ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+
+#### Interest Rate Risk
+
+We are exposed to interest rate risk related to our indebtedness and our investment portfolio. As of August 31, 2023 and September 1, 2022, we
+had fixed-rate debt with an aggregate carrying value of $7.52 billion and $4.03 billion, respectively, and as a result, the fair value of our debt
+fluctuates with changes in market interest rates. We estimate that, as of August 31, 2023 and September 1, 2022, a hypothetical 1% decrease in
+market interest rates would increase the fair value of our fixed-rate debt by approximately $475 million and $275 million, respectively.
+
+Interest rate risk related to our investment portfolio is managed by primarily investing in shorter term securities. We estimate that, as of
+August 31, 2023 and September 1, 2022, a hypothetical 1% increase in interest rates would decrease the fair value of our portfolio by
+approximately $20 million and $30 million, respectively. Such impact would only be realized if investments were sold prior to maturity.
+
+As of August 31, 2023 and September 1, 2022, we had floating-rate debt, including fixed-rate debt that is swapped to floating-rate debt, with an
+aggregate principal amount of $4.63 billion and $2.09 billion, respectively. A hypothetical 1% increase in the interest rates of this floating-rate
+debt would result in an increase in annual interest expense of $46 million and $21 million as of August 31, 2023 and September 1, 2022,
+respectively.
+
+
+#### Foreign Currency Exchange Rate Risk
+
+The information in this section should be read in conjunction with the information related to changes in the currency exchange rates in “Part I –
+Item 1A. Risk Factors.” Changes in foreign currency exchange rates could materially adversely affect our business, results of operations, or
 financial condition.
 
-A significant portion of our revenue is concentrated with a select number of customers.
 
-In each of the last three years, approximately one-half of our total revenue was from our top ten customers. A disruption in our relationship with
-any of these customers could adversely affect our business. We could experience fluctuations in our customer base or the mix of revenue by
-customer as markets and strategies evolve. Our customers’ demand for our products may fluctuate due to factors beyond our control. In addition,
-any consolidation of our customers could reduce the number of customers to whom our products may be sold. Our inability to meet our
-customers’ requirements or to qualify our products with them could adversely impact our revenue. A meaningful change in the inventory strategy
-of our customers could impact our industry bit demand growth outlook. The loss of, or restrictions on our ability to sell to, one or more of our
-major customers, or any significant reduction in orders from, or a shift in product mix by, customers could have a material adverse effect on our
-business, results of operations, or financial condition.
-
-Increases in sales of system solutions may increase our dependency upon specific customers and our costs to develop, qualify, and
-manufacture our system solutions.
-
-Our development of system-level memory and storage products is dependent, in part, upon successfully identifying and meeting our customers’
-specifications for those products. Developing and manufacturing system-level products with specifications unique to a customer increases our
-reliance upon that customer for purchasing our products at sufficient volumes and prices in a timely manner. Even if our products meet customer
-specifications, our sales of system-level solutions are dependent upon our customers choosing our products over those of our competitors and
-purchasing our products at sufficient volumes and prices. Our competitors’ products may be less costly, provide better performance, or include
-additional features when compared to our products. Our long-term ability to sell system-level memory and storage products is reliant upon our
-customers’ ability to create, market, and sell their products containing our system-level solutions at sufficient volumes and prices in a timely
-manner. If we fail to successfully develop and market system-level products, our business, results of operations, or financial condition may be
-materially adversely affected.
+#### 54
 
 
-### 29 | 2023 10-K
-
-
-## Page 30
+## Page 55
 
 
 #### Table of Contents
 
-Manufacturing system-level solutions, such as SSDs, managed NAND, and HBM, typically results in higher per-unit manufacturing costs as
-compared to other products. Even if we are successful in selling system-level solutions to our customers in sufficient volume, we may be unable
-to generate sufficient profit if our per-unit manufacturing costs are not offset by higher per-unit selling prices. Manufacturing system-level
-solutions to customer specifications requires a longer development cycle, as compared to discrete products, to design, test, and qualify, which
-may increase our costs. Some of our system solutions are increasingly dependent on sophisticated firmware that may require significant
-customization to meet customer specifications, which increases our costs and time to market. Additionally, we may need to update our controller
-and hardware design as well as our firmware or develop new firmware as a result of new product introductions or changes in customer
-specifications and/or industry standards, which increases our costs. System complexities and extended warranties for system-level products
-could also increase our warranty costs. Our failure to cost-effectively manufacture system-level solutions and/or controller, hardware design, and
-firmware in a timely manner may result in reduced demand for our system-level products and could have a material adverse effect on our
-business, results of operations, or financial condition.
+The functional currency for all of our operations is the U.S. dollar. The substantial majority of our sales are transacted in the U.S. dollar; however,
+significant amounts of our operating expenses and capital expenditures, and certain assets and liabilities, are incurred in or exposed to other
+currencies, primarily the Chinese yuan, euro, Indian rupee, Japanese yen, Malaysian ringgit, New Taiwan dollar, and Singapore dollar. We have
+established currency risk management programs for our monetary assets and liabilities denominated in foreign currencies to hedge against
+fluctuations in the fair value and volatility of future cash flows caused by changes in currency exchange rates. We generally utilize currency
+forward contracts in these hedging programs, which reduce, but do not always entirely eliminate, the impact of currency exchange rate
+movements. We do not use derivative financial instruments for trading or speculative purposes.
 
-Products that fail to meet specifications, are defective, or are otherwise incompatible with end uses could impose significant costs on
-us.
-
-Products that do not meet specifications or that contain, or are perceived by our customers to contain, defects or that are otherwise incompatible
-with end uses could impose significant costs on us or otherwise materially adversely affect our business, results of operations, or financial
-condition. From time to time, we experience problems with nonconforming, defective, or incompatible products after we have shipped such
-products. In recent periods, we have further diversified and expanded our product offerings, which could potentially increase the chance that one
-or more of our products could fail to meet specifications in a particular application. Our products and solutions may be deemed fully or partially
-responsible for functionality in our customers’ products and may result in sharing or shifting of product or financial liability from our customers to
-us for costs incurred by the end user as a result of our customers’ products failing to perform as specified. In addition, if our products and
-solutions perform critical functions in our customers’ products or are used in high-risk consumer end products, such as autonomous driver
-assistance programs, home and enterprise security, smoke and noxious gas detectors, medical monitoring equipment, or wearables for child and
-elderly safety, our potential liability may increase. We could be adversely affected in several ways, including the following:
-
-•
-we may be required or agree to compensate customers for costs incurred or damages caused by defective or incompatible products and
-to replace products;
-•
-we could incur a decrease in revenue or adjustment to pricing commensurate with the reimbursement of such costs or alleged damages;
-and
-•
-we may encounter adverse publicity, which could cause a decrease in sales of our products or harm our reputation or relationships with
-existing or potential customers.
-
-Any of the foregoing items could have a material adverse effect on our business, results of operations, or financial condition.
+Based on monetary assets and liabilities denominated in foreign currencies, we estimate that a hypothetical 10% adverse change in exchange
+rates versus the U.S. dollar would result in losses of approximately $129 million as of August 31, 2023 and $186 million as of September 1, 2022.
+We hedge our exposure to changes in currency exchange rates by utilizing a rolling hedge strategy for our primary currency exposures with
+currency forward contracts that generally mature within three months. The effectiveness of our hedges is dependent, among other factors, upon
+our ability to accurately measure exposures on a timely basis. To hedge the exposure of changes in cash flows from changes in currency
+exchange rates for certain capital expenditures and manufacturing costs, we may utilize currency forward contracts that generally mature within
+two years. See “Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Derivative Instruments.”
 
 
-#### 30
+### 55 | 2023 10-K
+
+
+## Page 56
+
+### Table 56.1
+
+| Consolidated Statements of Operations | 57 |
+| --- | --- |
+| Consolidated Statements of Comprehensive Income (Loss) | 58 |
+| Consolidated Balance Sheets | 59 |
+| Consolidated Statements of Changes in Equity | 60 |
+| Consolidated Statements of Cash Flows | 61 |
+| Notes to Consolidated Financial Statements | 62 |
+| Report of Independent Registered Public Accounting Firm (PCAOB ID 238) | 91 |
+
+
+
+#### Table of Contents
+
+
+### ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+#### Index to Consolidated Financial Statements
+
+Consolidated Statements of Operations
+57
+Consolidated Statements of Comprehensive Income  (Loss)
+58
+Consolidated Balance Sheets
+59
+Consolidated Statements of Changes in Equity
+60
+Consolidated Statements of Cash Flows
+61
+Notes to Consolidated Financial Statements
+62
+Report of Independent Registered Public Accounting Firm (PCAOB ID 238)
+91
+
+
+#### 56
+
+
+## Page 57
+
+### Table 57.1
+
+| For the year ended | August 31, 2023 |  | September 1, 2022 |  | September 2, 2021 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Revenue | $ | 15,540 | $ | 30,758 | $ | 27,705 |
+| Cost of goods sold | 16,956 |  | 16,860 |  | 17,282 |  |
+| Gross margin | (1,416) |  | 13,898 |  | 10,423 |  |
+| Research and development | 3,114 |  | 3,116 |  | 2,663 |  |
+| Selling, general, and administrative | 920 |  | 1,066 |  | 894 |  |
+| Restructure and asset impairments | 171 |  | 48 |  | 488 |  |
+| Other operating (income) expense, net | 124 |  | (34) |  | 95 |  |
+| Operating income (loss) | (5,745) |  | 9,702 |  | 6,283 |  |
+| Interest income | 468 |  | 96 |  | 37 |  |
+| Interest expense | (388) |  | (189) |  | (183) |  |
+| Other non-operating income (expense), net | 7 |  | (38) |  | 81 |  |
+|  | (5,658) |  | 9,571 |  | 6,218 |  |
+| Income tax (provision) benefit | (177) |  | (888) |  | (394) |  |
+| Equity in net income (loss) of equity method investees | 2 |  | 4 |  | 37 |  |
+| Net income (loss) | $ | (5,833) | $ | 8,687 | $ | 5,861 |
+| Earnings (loss) per share |  |  |  |  |  |  |
+| Basic | $ | (5.34) | $ | 7.81 | $ | 5.23 |
+| Diluted | (5.34) |  | 7.75 |  | 5.14 |  |
+| Number of shares used in per share calculations |  |  |  |  |  |  |
+| Basic | 1,093 |  | 1,112 |  | 1,120 |  |
+| Diluted | 1,093 |  | 1,122 |  | 1,141 |  |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Statements of Operations
+
+
+#### (In millions, except per share amounts)
+
+
+#### For the year ended
+
+
+#### August 31,
+
+
+#### 2023
+
+
+#### September 1,
+
+
+#### 2022
+
+
+#### September 2,
+
+
+#### 2021
+
+Revenue
+$
+15,540 $
+30,758 $
+27,705 
+Cost of goods sold
+16,956 
+16,860 
+17,282 
+Gross margin
+(1,416)
+13,898 
+10,423
+
+Research and development
+3,114 
+3,116 
+2,663 
+Selling, general, and administrative
+920 
+1,066 
+894 
+Restructure and asset impairments
+171 
+48 
+488 
+Other operating (income) expense, net
+124 
+(34)
+95 
+Operating income (loss)
+(5,745)
+9,702 
+6,283
+
+Interest income
+468 
+96 
+37 
+Interest expense
+(388)
+(189)
+(183)
+Other non-operating income (expense), net
+7 
+(38)
+81 
+(5,658)
+9,571 
+6,218
+
+Income tax (provision) benefit
+(177)
+(888)
+(394)
+Equity in net income (loss) of equity method investees
+2 
+4 
+37
+
+Net income (loss)
+$
+(5,833) $
+8,687 $
+5,861
+
+
+#### Earnings (loss) per share
+
+Basic
+$
+(5.34) $
+7.81 $
+5.23 
+Diluted
+(5.34)
+7.75 
+5.14
+
+
+#### Number of shares used in per share calculations
+
+Basic
+1,093 
+1,112 
+1,120 
+Diluted
+1,093 
+1,122 
+1,141
+
+See accompanying notes to consolidated financial statements.
+
+
+### 57 | 2023 10-K
+
+
+## Page 58
+
+### Table 58.1
+
+| Net income (loss) | $ | (5,833) | $ | 8,687 | $ | 5,861 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss), net of tax |  |  |  |  |  |  |
+| Gains (losses) on derivative instruments | 234 |  | (516) |  | (67) |  |
+| Pension liability adjustments | 11 |  | 3 |  | 3 |  |
+| Unrealized gains (losses) on investments | 6 |  | (48) |  | (7) |  |
+| Foreign currency translation adjustments | (3) |  | (1) |  | 2 |  |
+| Other comprehensive income (loss) | 248 |  | (562) |  | (69) |  |
+| Total comprehensive income (loss) | $ | (5,585) | $ | 8,125 | $ | 5,792 |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Statements of Comprehensive Income (Loss)
+
+
+#### (In millions)
+
+
+#### For the year ended
+
+
+#### August 31,
+
+
+#### 2023
+
+
+#### September 1,
+
+
+#### 2022
+
+
+#### September 2,
+
+
+#### 2021
+
+Net income (loss)
+$
+(5,833) $
+8,687 $
+5,861
+
+
+#### Other comprehensive income (loss), net of tax
+
+Gains (losses) on derivative instruments
+234 
+(516)
+(67)
+Pension liability adjustments
+11 
+3 
+3 
+Unrealized gains (losses) on investments
+6 
+(48)
+(7)
+Foreign currency translation adjustments
+(3)
+(1)
+2 
+Other comprehensive income (loss)
+248 
+(562)
+(69)
+
+Total comprehensive income (loss)
+$
+(5,585) $
+8,125 $
+5,792
+
+See accompanying notes to consolidated financial statements.
+
+
+#### 58
+
+
+## Page 59
+
+### Table 59.1
+
+| Assets |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cash and equivalents | $ | 8,577 | $ | 8,262 |
+| Short-term investments | 1,017 |  | 1,069 |  |
+| Receivables | 2,443 |  | 5,130 |  |
+| Inventories | 8,387 |  | 6,663 |  |
+| Other current assets | 820 |  | 657 |  |
+| Total current assets | 21,244 |  | 21,781 |  |
+| Long-term marketable investments | 844 |  | 1,647 |  |
+| Property, plant, and equipment | 37,928 |  | 38,549 |  |
+| Operating lease right-of-use assets | 666 |  | 678 |  |
+| Intangible assets | 404 |  | 421 |  |
+| Deferred tax assets | 756 |  | 702 |  |
+| Goodwill | 1,150 |  | 1,228 |  |
+| Other noncurrent assets | 1,262 |  | 1,277 |  |
+| Total assets | $ | 64,254 | $ | 66,283 |
+| Liabilities and equity |  |  |  |  |
+| Accounts payable and accrued expenses | $ | 3,958 | $ | 6,090 |
+| Current debt | 278 |  | 103 |  |
+| Other current liabilities | 529 |  | 1,346 |  |
+| Total current liabilities | 4,765 |  | 7,539 |  |
+| Long-term debt | 13,052 |  | 6,803 |  |
+| Noncurrent operating lease liabilities | 603 |  | 610 |  |
+| Noncurrent unearned government incentives | 727 |  | 589 |  |
+| Other noncurrent liabilities | 987 |  | 835 |  |
+| Total liabilities | 20,134 |  | 16,376 |  |
+| Commitments and contingencies |  |  |  |  |
+| Shareholders’ equity |  |  |  |  |
+| Common stock, $0.10 par value, 3,000 shares authorized, 1,239 shares issued and 1,098 outstanding (1,226 shares issued and 1,094 outstanding as of September 1, 2022) | 124 |  | 123 |  |
+| Additional capital | 11,036 |  | 10,197 |  |
+| Retained earnings | 40,824 |  | 47,274 |  |
+| Treasury stock, 141 shares held (132 shares as of September 1, 2022) | (7,552) |  | (7,127) |  |
+| Accumulated other comprehensive income (loss) | (312) |  | (560) |  |
+| Total equity | 44,120 |  | 49,907 |  |
+| Total liabilities and equity | $ | 64,254 | $ | 66,283 |
+
+
+
+#### Table of Contents
+
+Micron Technology, Inc.
+Consolidated Balance Sheets
+
+
+#### (In millions, except par value amounts)
+
+
+#### As of
+
+
+#### August 31,
+
+
+#### 2023
+
+
+#### September 1,
+
+
+#### 2022
+
+Assets
+Cash and equivalents
+$
+8,577 $
+8,262 
+Short-term investments
+1,017 
+1,069 
+Receivables
+2,443 
+5,130 
+Inventories
+8,387 
+6,663 
+Other current assets
+820 
+657 
+Total current assets
+21,244 
+21,781 
+Long-term marketable investments
+844 
+1,647 
+Property, plant, and equipment
+37,928 
+38,549 
+Operating lease right-of-use assets
+666 
+678 
+Intangible assets
+404 
+421 
+Deferred tax assets
+756 
+702 
+Goodwill
+1,150 
+1,228 
+Other noncurrent assets
+1,262 
+1,277
+
+Total assets
+$
+64,254 $
+66,283
+
+Liabilities and equity
+Accounts payable and accrued expenses
+$
+3,958 $
+6,090 
+Current debt
+278 
+103 
+Other current liabilities
+529 
+1,346 
+Total current liabilities
+4,765 
+7,539 
+Long-term debt
+13,052 
+6,803 
+Noncurrent operating lease liabilities
+603 
+610 
+Noncurrent unearned government incentives
+727 
+589 
+Other noncurrent liabilities
+987 
+835 
+Total liabilities
+20,134 
+16,376
+
+
+#### Commitments and contingencies
+
+
+#### Shareholders’ equity
+
+Common stock, $0.10 par value, 3,000 shares authorized, 1,239 shares issued and 1,098 outstanding
+(1,226 shares issued and 1,094 outstanding as of September 1, 2022)
+124 
+123 
+Additional capital
+11,036 
+10,197 
+Retained earnings
+40,824 
+47,274 
+Treasury stock, 141 shares held (132 shares as of September 1, 2022)
+(7,552)
+(7,127)
+Accumulated other comprehensive income (loss)
+(312)
+(560)
+Total equity
+44,120 
+49,907
+
+Total liabilities and equity
+$
+64,254 $
+66,283
+
+See accompanying notes to consolidated financial statements.
+
+
+### 59 | 2023 10-K
+
+
+## Page 81
+
+### Table 81.1
+
+| Receivables | $ | 105 |
+| --- | --- | --- |
+| Other noncurrent assets | 179 |  |
+| Other current liabilities | 11 |  |
+| Noncurrent unearned government incentives | 727 |  |
+
+
+
+#### Table of Contents
+
+Income tax benefits related to the tax deductions for share-based awards are recognized only upon the settlement of the related share-based
+awards. Income tax benefits for share-based awards were $68 million, $77 million, and $83 million for 2023, 2022, and 2021, respectively. Stock-
+based compensation expense of $88 million and $48 million was capitalized and remained in inventory as of August 31, 2023 and September 1,
+2022, respectively. As of August 31, 2023, $1.26 billion of total unrecognized compensation costs for unvested awards, before the effect of any
+future forfeitures, was expected to be recognized through the fourth quarter of 2027, resulting in a weighted-average period of 1.3 years.
+
+
+#### Employee Benefit Plans
+
+We have employee retirement plans at our U.S. and international sites. Details of significant plans are as follows:
+
+
+#### Employee Savings Plan for U.S. Employees
+
+We have a 401(k) retirement plan under which U.S. employees may contribute up to 75% of their eligible pay, subject to Internal Revenue
+Service annual contribution limits, to various savings alternatives, none of which include direct investment in our stock. We match in cash eligible
+contributions from employees up to 5% of the employee’s annual eligible earnings. Contribution expense for the 401(k) plan was $ 59 million, $66
+million, and $77 million in 2023, 2022, and 2021, respectively.
+
+
+#### Retirement Plans
+
+We have pension plans available to employees at various foreign sites. As of August 31, 2023, the projected benefit obligations of our plans were
+$175 million and plan assets were $ 232 million. As of September 1, 2022, the projected benefit obligations of our plans were $ 186 million and
+plan assets were $221 million. Pension expense was not material for 2023, 2022, or 2021.
+
+
+#### Government Incentives
+
+We receive incentives from governmental entities primarily in India, Japan, Singapore, Taiwan, and the United States principally in the form of
+cash grants and tax credits. These incentives primarily relate to capital expenditures, have initial terms ranging from one year to 15 years, and
+may be subject to reimbursement if certain conditions are not met or maintained. The conditions attached to these incentives require us to incur
+expenditures related to the construction of new manufacturing facilities, the purchase and installation of specialized tools and equipment, R&D
+expenditures, and/or maintain certain levels of fixed asset investment or employee headcount during the incentive terms.
+
+The line items on the balance sheet affected by government incentives were as follows:
+
+
+#### As of
+
+
+#### August 31,
+
+
+#### 2023
+
+Receivables
+$
+105 
+Other noncurrent assets
+179 
+Other current liabilities
+11 
+Noncurrent unearned government incentives
+727
+
+As of August 31, 2023, we had aggregate commitments from various governmental entities of up to $ 2 billion to be received through 2033 (in
+addition to the receivables and other noncurrent assets in the table above), subject to achievement of certain performance conditions. We also
+receive a 25% investment tax credit on qualified investments in U.S. semiconductor manufacturing under the CHIPS Act. Subsequent to August
+31, 2023, we finalized an incentive arrangement under which we will receive additional grants of up to $1.3 billion.
+
+
+### 81 | 2023 10-K
+
+
+## Page 82
+
+### Table 82.1
+
+| DRAM | $ | 10,978 | $ 22,386 | $ | 20,039 |
+| --- | --- | --- | --- | --- | --- |
+| NAND | 4,206 |  | 7,811 | 7,007 |  |
+| Other (primarily NOR) | 356 |  | 561 | 659 |  |
+|  | $ | 15,540 | $ 30,758 | $ | 27,705 |
+
+
+### Table 82.2
+
+| For the year ended | 2023 |  | 2022 | 2021 |  |
+| --- | --- | --- | --- | --- | --- |
+| Employee severance | $ | 163 | $ — | $ | 3 |
+| Asset impairments and other asset-related costs | 14 |  | 63 | 478 |  |
+| Other | (6) |  | (15) | 7 |  |
+|  | $ | 171 | $ 48 | $ | 488 |
+
+
+
+#### Table of Contents
+
+Government incentives related to capital expenditures have reduced property, plant and equipment by $1.57 billion as of August 31, 2023, of
+which $584 million pertained to 2023 expenditures.
+
+In 2023, operating income (loss) benefited by $318 million (approximately 93% in COGS and 7% in R&D) from government incentives
+recognized as a reduction of expense, primarily in the form of reduced depreciation expense.
+
+
+#### Revenue
+
+Revenue is primarily recognized at a point in time when control of the promised goods is transferred to our customers in an amount that reflects
+the consideration we expect to be entitled to in exchange for those goods. Substantially all contracts with our customers are short-term in
+duration at fixed, negotiated prices with payment generally due shortly after delivery. From time to time, we have contracts with initial terms that
+include performance obligations that extend beyond one year. As of August 31, 2023, our future performance obligations beyond one year were
+not significant.
+
+As of August 31, 2023 and September 1, 2022, other current liabilities included $ 453 million and $1.26 billion, respectively, for estimates of
+consideration payable to customers including estimates for pricing adjustments and returns.
+
+In 2023, we received an aggregate of $228 million from settlements of insurance claims involving a power disruption in 2022 and an operational
+disruption in 2017, of which $186 million was for business interruption and recognized in revenue.
+
+
+#### Revenue by Technology
+
+For the year ended
+2023
+2022
+2021
+
+DRAM
+$
+10,978 $
+22,386 $
+20,039 
+NAND
+4,206 
+7,811 
+7,007 
+Other (primarily NOR)
+356 
+561 
+659 
+$
+15,540 $
+30,758 $
+27,705
+
+See “Segment and Other Information” for disclosure of disaggregated revenue by market segment.
+
+
+#### Restructure and Asset Impairments
+
+For the year ended
+2023
+2022
+2021
+
+Employee severance
+$
+163 $
+— $
+3 
+Asset impairments and other asset-related costs
+14 
+63 
+478 
+Other
+(6)
+(15)
+7 
+$
+171 $
+48 $
+488
+
+In 2023, we initiated the 2023 Restructure Plan in response to challenging industry conditions. Under the 2023 Restructure Plan, we expect our
+headcount reduction to approach 15% by the end of calendar 2023 through a combination of voluntary attrition and personnel reductions. In
+connection with the plan, we incurred restructure charges of $171 million in 2023, primarily related to employee severance costs. The plan was
+substantially completed in the third quarter of 2023. As of August 31, 2023, we had paid $167 million in 2023 in connection with the 2023
+Restructure Plan and the remaining liability was $4 million.
+
+Restructure and asset impairments for 2022 and 2021 are primarily related to the sale of our Lehi, Utah facility. See “Lehi, Utah Fab and 3D
+XPoint.”
+
+
+#### 82
+
+
+## Page 83
+
+### Table 83.1
+
+| For the year ended | 2023 | 2022 |  | 2021 |  |
+| --- | --- | --- | --- | --- | --- |
+| Goodwill impairment | $ 101 | $ | — | $ | — |
+| Litigation settlement | 68 | — |  | — |  |
+| Patent license charges | — | — |  | 128 |  |
+| (Gain) loss on disposition of property, plant, and equipment | (54) | (41) |  | (24) |  |
+| Other | 9 | 7 |  | (9) |  |
+|  | $ 124 | $ | (34) | $ | 95 |
+
+
+### Table 83.2
+
+| Gain (loss) on investments $ | (8) | $ | 26 | $ | 82 |
+| --- | --- | --- | --- | --- | --- |
+| Loss on debt repurchases and conversions | — | (83) |  | (1) |  |
+| Other | 15 | 19 |  | — |  |
+| $ | 7 | $ | (38) | $ | 81 |
+
+
+### Table 83.3
+
+| Income (loss) before income taxes and equity in net income (loss) of equity method investees |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| U.S. | $ 235 | $ | 112 | $ | (211) |
+| Foreign | (5,893) | 9,459 |  | 6,429 |  |
+|  | $ (5,658) | $ | 9,571 | $ | 6,218 |
+| Income tax (provision) benefit |  |  |  |  |  |
+| Current |  |  |  |  |  |
+| U.S. federal | $ (5) | $ | (65) | $ | (42) |
+| State | (1) | (1) |  | (1) |  |
+| Foreign | (178) | (528) |  | (370) |  |
+|  | (184) | (594) |  | (413) |  |
+| Deferred |  |  |  |  |  |
+| U.S. federal | (84) | (166) |  | (9) |  |
+| State | — | (225) |  | 28 |  |
+| Foreign | 91 | 97 |  | — |  |
+|  | 7 | (294) |  | 19 |  |
+| Income tax (provision) benefit | $ (177) | $ | (888) | $ | (394) |
+
+
+
+#### Table of Contents
+
+
+#### Other Operating (Income) Expense, Net
+
+For the year ended
+2023
+2022
+2021
+
+Goodwill impairment
+$
+101 $
+— $
+— 
+Litigation settlement
+68 
+— 
+— 
+Patent license charges
+— 
+— 
+128 
+(Gain) loss on disposition of property, plant, and equipment
+(54)
+(41)
+(24)
+Other
+9 
+7 
+(9)
+$
+124 $
+(34) $
+95
+
+
+#### Other Non-Operating Income (Expense), Net
+
+For the year ended
+2023
+2022
+2021
+
+Gain (loss) on investments
+$
+(8) $
+26 $
+82 
+Loss on debt repurchases and conversions
+— 
+(83)
+(1)
+Other
+15 
+19 
+— 
+$
+7 $
+(38) $
+81
+
+
+#### Income Taxes
+
+
+#### Our income tax (provision) benefit consisted of the following:
+
+For the year ended
+2023
+2022
+2021
+
+Income (loss) before income taxes and equity in net income (loss) of equity method
+investees
+
+U.S.
+$
+235 $
+112 $
+(211)
+Foreign
+(5,893)
+9,459 
+6,429
+
+$
+(5,658) $
+9,571 $
+6,218
+
+
+#### Income tax (provision) benefit
+
+
+#### Current
+
+U.S. federal
+$
+(5) $
+(65) $
+(42)
+State
+(1)
+(1)
+(1)
+Foreign
+(178)
+(528)
+(370)
+ 
+(184)
+(594)
+(413)
+Deferred
+
+U.S. federal
+(84)
+(166)
+(9)
+State
+— 
+(225)
+28 
+Foreign
+91 
+97 
+— 
+7 
+(294)
+19
+
+Income tax (provision) benefit
+$
+(177) $
+(888) $
+(394)
+
+
+### 83 | 2023 10-K
+
+
+## Page 84
+
+### Table 84.1
+
+| U.S. federal income tax (provision) benefit at statutory rate | $ | 1,188 | 21.0 | % | $ | (2,010) | 21.0 | % | $ | (1,306) | 21.0 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| U.S. tax on foreign operations | 6 |  | 0.1 | % | (322) |  | 3.4 | % | (226) |  | 3.6 | % |
+| Change in valuation allowance | (50) |  | (0.9) | % | (241) |  | 2.5 | % | 54 |  | (0.9) | % |
+| Change in unrecognized tax benefits | (30) |  | (0.5) | % | (67) |  | 0.7 | % | (238) |  | 3.8 | % |
+| Foreign tax rate differential | (1,285) |  | (22.8) | % | 1,601 |  | (16.7) | % | 951 |  | (15.4) | % |
+| Research and development tax credits | 43 |  | 0.8 | % | 66 |  | (0.7) | % | 123 |  | (2.0) | % |
+| State taxes, net of federal benefit | 37 |  | 0.7 | % | — |  | — | % | 59 |  | (0.9) | % |
+| Debt premium deductions | — |  | — | % | — |  | — | % | 130 |  | (2.1) | % |
+| Other | (86) |  | (1.5) | % | 85 |  | (0.9) | % | 59 |  | (0.8) | % |
+| Income tax (provision) benefit | $ | (177) | (3.1) | % | $ | (888) | 9.3 | % | $ | (394) | 6.3 | % |
+
+
+
+#### Table of Contents
+
+The table below reconciles our tax (provision) benefit based on the U.S. federal statutory rate to our effective rate:
+
+For the year ended
+2023
+2022
+2021
+
+U.S. federal income tax (provision) benefit at statutory rate
+$
+1,188 
+21.0 % $
+(2,010)
+21.0 % $
+(1,306)
+21.0 %
+U.S. tax on foreign operations
+6 
+0.1 %
+(322)
+3.4 %
+(226)
+3.6 %
+Change in valuation allowance
+(50)
+(0.9)%
+(241)
+2.5 %
+54 
+(0.9)%
+Change in unrecognized tax benefits
+(30)
+(0.5)%
+(67)
+0.7 %
+(238)
+3.8 %
+Foreign tax rate differential
+(1,285)
+(22.8)%
+1,601 
+(16.7)%
+951 
+(15.4)%
+Research and development tax credits
+43 
+0.8 %
+66 
+(0.7)%
+123 
+(2.0)%
+State taxes, net of federal benefit
+37 
+0.7 %
+— 
+— %
+59 
+(0.9)%
+Debt premium deductions
+— 
+— %
+— 
+— %
+130 
+(2.1)%
+Other
+(86)
+(1.5)%
+85 
+(0.9)%
+59 
+(0.8)%
+
+Income tax (provision) benefit
+$
+(177)
+(3.1)% $
+(888)
+9.3 % $
+(394)
+6.3 %
+
+We operate in a number of jurisdictions outside the United States, including Singapore, where we have tax incentive arrangements. These
+incentives expire, in whole or in part, at various dates through 2034 and are conditional, in part, upon meeting certain business operations and
+employment thresholds. As a result of a loss before taxes and geographic mix of income, the benefit from tax incentive arrangements was not
+material for 2023. These arrangements reduced our tax provision by $1.12 billion (benefiting our diluted earnings per share by $ 1.00) for 2022
+and by $758 million ($0.66 per diluted share) for 2021.
+
+As of August 31, 2023, certain non-U.S. subsidiaries had cumulative undistributed earnings of $ 4.28 billion that were deemed to be indefinitely
+reinvested. A provision has not been recognized to the extent that distributions from such subsidiaries are subject to additional foreign
+withholding or state income tax. Determination of the amount of unrecognized deferred tax liabilities related to investments in these foreign
+subsidiaries is not practicable.
+
+
+#### 84
+
+
+## Page 90
+
+### Table 90.1
+
+| United States | $ | 7,805 | $ | 16,026 | $ | 12,155 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Taiwan | 2,697 |  | 6,185 |  | 6,606 |  |
+| Mainland China (excluding Hong Kong) | 2,181 |  | 3,311 |  | 2,456 |  |
+| Japan | 987 |  | 1,696 |  | 1,652 |  |
+| Other Asia Pacific | 752 |  | 1,223 |  | 1,420 |  |
+| Europe | 682 |  | 505 |  | 573 |  |
+| Hong Kong | 340 |  | 1,665 |  | 2,582 |  |
+| Other | 96 |  | 147 |  | 261 |  |
+|  | $ | 15,540 | $ | 30,758 | $ | 27,705 |
+
+
+### Table 90.2
+
+| Taiwan | $ | 12,926 | $ | 13,143 |
+| --- | --- | --- | --- | --- |
+| Singapore | 11,283 |  | 12,045 |  |
+| Japan | 7,323 |  | 7,113 |  |
+| United States | 5,196 |  | 5,155 |  |
+| Malaysia | 1,124 |  | 994 |  |
+| China | 395 |  | 440 |  |
+| Other | 347 |  | 337 |  |
+|  | $ | 38,594 | $ | 39,227 |
+
+
+
+#### Table of Contents
+
+
+#### Geographic Information
+
+Revenue based on the geographic location of our customers’ headquarters was as follows:
+
+For the year ended
+2023
+2022
+2021
+
+United States
+$
+7,805 $
+16,026 $
+12,155 
+Taiwan
+2,697 
+6,185 
+6,606 
+Mainland China (excluding Hong Kong)
+2,181 
+3,311 
+2,456 
+Japan
+987 
+1,696 
+1,652 
+Other Asia Pacific
+752 
+1,223 
+1,420 
+Europe
+682 
+505 
+573 
+Hong Kong
+340 
+1,665 
+2,582 
+Other
+96 
+147 
+261 
+$
+15,540 $
+30,758 $
+27,705
+
+Long-lived assets by geographic area consisted of property, plant, and equipment and operating lease right-of-use assets and were as follows:
+
+
+#### As of
+
+
+#### August 31,
+
+
+#### 2023
+
+
+#### September 1,
+
+
+#### 2022
+
+Taiwan
+$
+12,926 $
+13,143 
+Singapore
+11,283 
+12,045 
+Japan
+7,323 
+7,113 
+United States
+5,196 
+5,155 
+Malaysia
+1,124 
+994 
+China
+395 
+440 
+Other
+347 
+337 
+$
+38,594 $
+39,227
+
+
+#### 90
+
+
+## Page 91
+
+
+#### Table of Contents
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of Micron Technology, Inc.
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of Micron Technology, Inc. and its subsidiaries (the “Company”) as of
+August 31, 2023 and September 1, 2022, and the related consolidated statements of operations, of comprehensive income (loss), of changes in
+equity and of cash flows for each of the three years in the period ended August 31, 2023, including the related notes and schedule of valuation
+and qualifying accounts for each of the three years in the period ended August 31, 2023 appearing under Item 15 (collectively referred to as the
+“consolidated financial statements”). We also have audited the Company’s internal control over financial reporting as of August 31, 2023, based
+on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO).
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the
+Company as of August 31, 2023 and September 1, 2022, and the results of its operations and its cash flows for each of the three years in the
+period ended August 31, 2023 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion,
+the Company maintained, in all material respects, effective internal control over financial reporting as of August 31, 2023, based on criteria
+established in Internal Control - Integrated Framework (2013) issued by the COSO.
+
+
+#### Change in Accounting Principle
+
+As discussed in the Significant Accounting Policies and Inventories notes to the consolidated financial statements, the Company changed the
+manner in which it accounts for inventory costing from the average cost inventory accounting method to the first-in, first-out inventory accounting
+method in 2021.
+
+
+#### Basis for Opinions
+
+The Company’s management is responsible for these consolidated financial statements, for maintaining effective internal control over financial
+reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in Management’s Report on Internal
+Control over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial
+statements and on the Company’s internal control over financial reporting based on our audits. We are a public accounting firm registered with
+the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in
+accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the
+PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and
+whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the
+consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also
+included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal
+control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating
+effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered
+necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+
+### 91 | 2023 10-K
+
+
+## Page 92
+
+
+#### Table of Contents
+
+
+#### Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A
+company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in
+reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and
+directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any
+evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or
+that the degree of compliance with the policies or procedures may deteriorate.
+
+
+#### Critical Audit Matters
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was
+communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the
+consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical
+audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by
+communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which
+it relates.
+
+
+#### Net Realizable Value of Finished Goods and Work in Process Inventories
+
+As described in the Inventories note to the consolidated financial statements, as of August 31, 2023, the Company had net finished goods and
+work in process inventories totaling $7.7 billion. As disclosed by management, determining the net realizable value of the Company's finished
+goods and work in process inventories involves significant judgments, including projecting future average selling prices, future sales volumes,
+and future cost per part. The memory and storage industry environment deteriorated sharply in the fourth quarter of 2022 and throughout 2023
+due to weak demand in many end markets combined with global and macroeconomic challenges and lower demand resulting from customer
+actions to reduce elevated inventory levels. This led to significant reductions in average selling prices for both DRAM and NAND, resulting in
+declines in revenue across all of the Company’s business segments and nearly all end markets. The Company recorded charges of $1.83 billion
+to cost of goods sold to write down the carrying value of work in process and finished goods inventories to their estimated net realizable value.
+
+The principal considerations for our determination that performing procedures relating to the net realizable value of finished goods and work in
+process inventories is a critical audit matter are (i) the significant judgment by management in determining the net realizable value of finished
+goods and work in process inventories and (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating
+management’s significant assumptions related to future average selling prices and future cost per part.
+
+
+#### 92
+
+
+## Page 93
+
+
+#### Table of Contents
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the
+consolidated financial statements. These procedures included testing the effectiveness of controls relating to management’s determination of the
+net realizable value of finished goods and work in process inventories, including controls over significant assumptions and data utilized. These
+procedures also included, among others (i) testing management's process for determining the net realizable value of finished goods and work in
+process inventories; (ii) evaluating the appropriateness of management’s methodology; (iii) testing the completeness and accuracy of underlying
+data used in determining the net realizable value; and (iv) evaluating the reasonableness of management's significant assumptions related to
+future average selling prices and future cost per part. Evaluating management's assumption related to future average selling prices for certain
+products involved evaluating whether the assumption used by management was reasonable considering (i) current and past results, including
+recent sales; (ii) the consistency with external market, industry data or current contract prices; (iii) a comparison of the prior year estimates to
+actual results in the current fiscal year; and (iv) whether the assumption was consistent with evidence obtained in other areas of the audit.
+Evaluating management's assumption related to future cost per part for certain products involved evaluating whether the assumption used by
+management was reasonable considering (i) current and past results; (ii) a comparison of the prior year estimates to actual results in the current
+fiscal year; and (iii) whether the assumption was consistent with evidence obtained in other areas of the audit.
+
+
+#### /s/ PricewaterhouseCoopers LLP
+
+San Jose, California
+October 6, 2023
+
+We have served as the Company’s auditor since 1984.
+
+
+### 93 | 2023 10-K

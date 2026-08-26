@@ -1,8 +1,8 @@
-# Annual Report: ADVANTEST_2022_Annual_Report
+# Financial Report: ADVANTEST_2022_Annual_Report
 
 - **Source File**: `ADVANTEST_2022_Annual_Report.pdf`
-- **Total Pages**: 21
-- **Parsed Pages**: 21
+- **Total PDF Pages**: 21
+- **Parsed Key Pages**: 21 (21 selected sections)
 
 ---
 

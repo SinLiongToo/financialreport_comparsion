@@ -1,8 +1,8 @@
-# Annual Report: ALPHABET-GOOGLE_2022_Q1_10-Q
+# Financial Report: ALPHABET-GOOGLE_2022_Q1_10-Q
 
 - **Source File**: `ALPHABET-GOOGLE_2022_Q1_10-Q.pdf`
-- **Total Pages**: 48
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 48
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3988,429 +3988,295 @@ or cash flows. However, the outcome of such matters is inherently unpredictable 
 #### 25
 
 
-## Page 26
+## Page 32
 
-### Table 26.1
+Table of Contents
+Alphabet Inc.
 
-|  | We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non- |
+◦
+Expenses associated with our data centers (including bandwidth, compensation expenses, depreciation, energy, and other
+equipment costs) as well as other operations costs (such as content review as well as customer and product support costs).
+
+◦
+Inventory and other costs related to the hardware we sell.
+
+The cost of revenues as a percentage of revenues generated from ads placed on Google Network properties are signiﬁcantly higher than
+the cost of revenues as a percentage of revenues generated from ads placed on Google Search & other properties, because most of the
+advertiser revenues from ads served on Google Network properties are paid as TAC to our Google Network partners.
+
+
+#### Operating Expenses
+
+Operating expenses are generally incurred during our normal course of business, which we categorize as either R&D, sales and marketing,
+or general and administrative.
+
+
+#### The main components of our R&D expenses are:
+
+•
+compensation expenses for engineering and technical employees responsible for R&D related to our existing and new products and
+services;
+
+•
+depreciation; and
+
+•
+professional services fees primarily related to consulting and outsourcing services.
+
+
+#### The main components of our sales and marketing expenses are:
+
+•
+compensation expenses for employees engaged in sales and marketing, sales support, and certain customer service functions; and
+
+•
+spending relating to our advertising and promotional activities in support of our products and services.
+
+
+#### The main components of our general and administrative expenses are:
+
+•
+compensation expenses for employees in ﬁnance, human resources, information technology, legal, and other administrative support
+functions;
+
+•
+expenses related to legal matters, including fines and settlements; and
+
+•
+professional services fees, including audit, consulting, outside legal, and outsourcing services.
+
+
+#### Other Income (Expense), Net
+
+Other income (expense), net primarily consists of interest income (expense), the eﬀect of foreign currency exchange gains (losses), net
+gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our
+equity method investments.
+
+For additional details, including how we account for our investments and factors that can drive ﬂuctuations in the value of our investments,
+see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 and Item 7A, “Quantitative and Qualitative Disclosures
+About Market Risk” in our Annual Report on Form 10-K for the ﬁscal year ended December 31, 2021 as well as Note 3 of the Notes to
+Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.
+
+
+#### Provision for Income Taxes
+
+Provision for income taxes represents the estimated amount of federal, state, and foreign income taxes incurred in the U.S. and the many
+jurisdictions in which we operate. The provision includes the effect of reserve provisions and changes to reserves that are considered appropriate
+as well as the related net interest and penalties.
+
+For additional details, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 in our Annual Report on
+Form 10-K for the ﬁscal year ended December 31, 2021 as well as Note 13 of the Notes to Consolidated Financial Statements included in Item 1
+of this Quarterly Report on Form 10-Q.
+
+
+#### 32
+
+
+## Page 33
+
+### Table 33.1
+
+| Consolidated revenues | $ | 55,314 |  |  | $ | 68,011 |  |  | 12,697 |  |  | 23 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Change in consolidated constant currency revenues |  |  |  |  |  |  |  |  |  |  |  | 26 | % |
+| Cost of revenues | $ | 24,103 |  |  | $ | 29,599 |  |  | $ | 5,496 |  | 23 | % |
+| Operating expenses | $ | 14,774 |  |  | $ | 18,318 |  |  | $ | 3,544 |  | 24 | % |
+| Operating income | $ | 16,437 |  |  | $ | 20,094 |  |  | $ | 3,657 |  | 22 | % |
+| Operating margin | 30 |  | % |  | 30 |  | % |  |  |  |  | 0 | % |
+| Other income (expense), net | $ | 4,846 |  |  | $ | (1,160) |  |  | $ | (6,006) |  | (124) | % |
+| Net Income | $ | 17,930 |  |  | $ | 16,436 |  |  | $ | (1,494) |  | (8) | % |
+| Diluted EPS | $ | 26.29 |  |  | $ | 24.62 |  |  | $ | (1.67) |  | (6) | % |
+| Number of Employees | 139,995 |  |  |  | 163,906 |  |  |  | 23,911 |  |  | 17 | % |
+
+
+### Table 33.2
+
+| • | R |
 | --- | --- |
-| income tax audits primarily arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these |  |
-| jurisdictions and the tax treatment of certain employee benefits. We accrue non-income taxes that may result from examinations by, or any |  |
-| negotiated agreements with, these tax authorities when a loss is probable and reasonably estimable. If we determine that a loss is reasonably |  |
-| possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. Due to the inherent complexity and |  |
-| uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from our expectations. |  |
 
-
-Table of Contents
-Alphabet Inc.
-
-We expense legal fees in the period in which they are incurred.
-
-
-#### Non-Income Taxes
-
-We are under audit by various domestic and foreign tax authorities with regards to non-income tax matters. The subject matter of non-
-income tax audits primarily arises from disputes on the tax treatment and tax rate applied to the sale of our products and services in these
-jurisdictions and the tax treatment of certain employee beneﬁts. We accrue non-income taxes that may result from examinations by, or any
-negotiated agreements with, these tax authorities when a loss is probable and reasonably estimable. If we determine that a loss is reasonably
-possible and the loss or range of loss can be estimated, we disclose the reasonably possible loss. Due to the inherent complexity and
-uncertainty of these matters and judicial process in certain jurisdictions, the final outcome may be materially different from our expectations.
-
-For information regarding income tax contingencies, see Note 13.
-
-
-#### Note 10. Stockholders' Equity
-
-
-#### Share Repurchases
-
-In April 2021, the Board of Directors of Alphabet authorized the company to repurchase up to $ 50.0 billion of its Class C stock. In July 2021,
-the Board of Directors of Alphabet approved an amendment to the April 2021 authorization, permitting the company to repurchase both Class A
-and Class C shares in a manner deemed in the best interest of the company and its stockholders, taking into account the economic cost and
-prevailing market conditions, including the relative trading prices and volumes of the Class A and Class C shares. As of March 31, 2022, $4.1
-billion remains available for Class A and Class C share repurchases under the amended authorization.
-
-In accordance with the authorizations of the Board of Directors of Alphabet, during the three months ended March 31, 2022, we
-repurchased and subsequently retired 4.9 million aggregate shares for $13.3 billion. Of the aggregate amount repurchased and subsequently
-retired during the three months ended March 31, 2022, 0.2 million shares were Class A stock for $ 660 million and 4.7 million shares were Class
-C stock for $12.6 billion.
-
-In April 2022, the Board of Directors of Alphabet authorized the company to repurchase up to an additional $ 70.0 billion of its Class A and
-Class C shares in a manner deemed in the best interest of the company and its stockholders, taking into account the economic cost and
-prevailing market conditions, including the relative trading prices and volumes of the Class A and Class C shares.
-
-Repurchases are executed from time to time, subject to general business and market conditions and other investment opportunities,
-through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase program does not
-have an expiration date.
-
-
-#### Stock Split Effected in Form of Stock Dividend (“Stock Split”)
-
-On February 1, 2022, the company announced that the Board of Directors had approved and declared a 20-for-one stock split in the form of
-a one-time special stock dividend on each share of the company’s Class A, Class B, and Class C stock. The Stock Split is subject to stockholder
-approval of an amendment to the company’s Amended and Restated Certiﬁcate of Incorporation to increase the number of authorized shares of
-Class A, Class B, and Class C stock to accommodate the Stock Split.
-
-If approval is obtained, each of the company’s stockholders of record at the close of business on July 1, 2022 (the “Record Date”), will
-receive, after the close of business on July 15, 2022, a dividend of 19 additional shares of the same class of stock for every share held by such
-stockholder as of the Record Date.
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| Basic net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings | $ | 8,011 |  | $ | 1,221 |  | $ | 8,698 |  | $ | 7,481 |  | $ | 1,109 |  | $ | 7,846 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in per share computation | 300,800 |  |  | 45,840 |  |  | 326,580 |  |  | 300,478 |  |  | 44,535 |  |  | 315,158 |  |
-| Basic net income per share | $ | 26.63 |  | $ | 26.63 |  | $ | 26.63 |  | $ | 24.90 |  | $ | 24.90 |  | $ | 24.90 |
-| Diluted net income per share: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Numerator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Allocation of undistributed earnings for basic computation | $ | 8,011 |  | $ | 1,221 |  | $ | 8,698 |  | $ | 7,481 |  | $ | 1,109 |  | $ | 7,846 |
-| Reallocation of undistributed earnings as a result of conversion of Class B to Class A shares | 1,221 |  |  | 0 |  |  | 0 |  |  | 1,109 |  |  | 0 |  |  | 0 |  |
-| Reallocation of undistributed earnings | (119) |  |  | (16) |  |  | 119 |  |  | (95) |  |  | (12) |  |  | 95 |  |
-| Allocation of undistributed earnings | $ | 9,113 |  | $ | 1,205 |  | $ | 8,817 |  | $ | 8,495 |  | $ | 1,097 |  | $ | 7,941 |
-| Denominator |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number of shares used in basic computation | 300,800 |  |  | 45,840 |  |  | 326,580 |  |  | 300,478 |  |  | 44,535 |  |  | 315,158 |  |
-| Weighted-average effect of dilutive securities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Add: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Conversion of Class B to Class A shares outstanding | 45,840 |  |  | 0 |  |  | 0 |  |  | 44,535 |  |  | 0 |  |  | 0 |  |
-| Restricted stock units and other contingently issuable shares | 18 |  |  | 0 |  |  | 8,833 |  |  | 5 |  |  | 0 |  |  | 7,375 |  |
-| Number of shares used in per share computation | 346,658 |  |  | 45,840 |  |  | 335,413 |  |  | 345,018 |  |  | 44,535 |  |  | 322,533 |  |
-| Diluted net income per share | $ | 26.29 |  | $ | 26.29 |  | $ | 26.29 |  | $ | 24.62 |  | $ | 24.62 |  | $ | 24.62 |
-
-
-### Table 27.2
-
-| Unvested as of December 31, 2021 | 16,894,713 |  | $ | 1,626.13 |
-| --- | --- | --- | --- | --- |
-| Granted | 6,698,922 |  | $ | 2,758.02 |
-| Vested | (2,431,649) |  | $ | 1,691.60 |
-| Forfeited/canceled | (536,815) |  | $ | 1,848.92 |
-| Unvested as of March 31, 2022 | 20,625,171 |  | $ | 1,980.24 |
 
 
 Table of Contents
 Alphabet Inc.
 
 
-#### Note 11. Net Income Per Share
+#### Executive Overview
 
-The following table sets forth the computation of basic and diluted net income per share of Class A, Class B, and Class C stock (in millions,
-except share amounts which are reflected in thousands, and per share amounts):
+The following table summarizes consolidated financial results (in millions, except per share information, percentages, and number of
+employees):
 
-Three Months Ended March 31,
- 
+
+#### Three Months Ended
+
+March 31,
 2021
 2022
- 
-Class A
-Class B
-Class C
-Class A
-Class B
-Class C
-Basic net income per share:
+$ Change
+% Change
+Consolidated revenues
+$
+55,314 
+$
+68,011 
+12,697 
+23 
+%
+Change in consolidated constant
+currency revenues
+26 
+%
 
+Cost of revenues
+$
+24,103 
+$
+29,599 
+$
+5,496 
+23 
+%
+Operating expenses
+$
+14,774 
+$
+18,318 
+$
+3,544 
+24 
+%
 
-#### Numerator
-
-Allocation of undistributed
-earnings
+Operating income
 $
-8,011 
+16,437 
 $
-1,221 
+20,094 
 $
-8,698 
-$
-7,481 
-$
-1,109 
-$
-7,846 
-Denominator
-
-Number of shares used in
-per share computation
-300,800 
-45,840 
-326,580 
-300,478 
-44,535 
-315,158 
-Basic net income per share
-$
-26.63 
-$
-26.63 
-$
-26.63 
-$
-24.90 
-$
-24.90 
-$
-24.90
-
-
-#### Diluted net income per share:
-
-
-#### Numerator
-
-Allocation of undistributed
-earnings for basic computation
-$
-8,011 
-$
-1,221 
-$
-8,698 
-$
-7,481 
-$
-1,109 
-$
-7,846 
-Reallocation of
-undistributed earnings as a
-result of conversion of Class B
-to Class A shares
-1,221 
+3,657 
+22 
+%
+Operating margin
+30 
+%
+30 
+%
 0 
-0 
-1,109 
-0 
-0 
-Reallocation of
-undistributed earnings
-(119)
-(16)
-119 
-(95)
-(12)
-95 
-Allocation of undistributed
-earnings
-$
-9,113 
-$
-1,205 
-$
-8,817 
-$
-8,495 
-$
-1,097 
-$
-7,941 
-Denominator
+%
 
-Number of shares used in
-basic computation
-300,800 
-45,840 
-326,580 
-300,478 
-44,535 
-315,158 
-Weighted-average effect of
-dilutive securities
+Other income (expense), net
+$
+4,846 
+$
+(1,160)
+$
+(6,006)
+(124)
+%
 
-Add:
-Conversion of Class B to
-Class A shares outstanding
-45,840 
-0 
-0 
-44,535 
-0 
-0 
-Restricted stock units
-and other contingently issuable
-shares
-18 
-0 
-8,833 
-5 
-0 
-7,375 
-Number of shares used in
-per share computation
-346,658 
-45,840 
-335,413 
-345,018 
-44,535 
-322,533 
-Diluted net income per share
+Net Income
 $
-26.29 
+17,930 
 $
-26.29 
+16,436 
+$
+(1,494)
+(8)
+%
+Diluted EPS
 $
 26.29 
 $
 24.62 
 $
-24.62 
-$
-24.62
+(1.67)
+(6)
+%
 
-For the periods presented above, the net income per share amounts are the same for Class A, Class B, and Class C stock because the
-holders of each class are entitled to equal per share dividends or distributions in liquidation in accordance with the Amended and Restated
-Certificate of Incorporation of Alphabet Inc.
+Number of Employees
+139,995 
+163,906
+23,911
+17 
+%
 
+•
+Revenues were $68.0 billion, an increase of 23% year over year, primarily driven by an increase in Google Services segment revenues
+of $10.3 billion or 20% and an increase in Google Cloud segment revenues of $1.8 billion or 44%.
 
-#### Note 12. Compensation Plans
+•
+Cost of revenues was $29.6 billion, an increase of 23% year over year, driven by increases in other costs of revenues and TAC.
 
-
-#### Stock-Based Compensation
-
-For the three months ended March 31, 2021 and 2022, total stock-based compensation (SBC) expense was $ 3.8 billion and $4.5 billion,
-including amounts associated with awards we expect to settle in Alphabet stock o f $3.7 billion and $4.4 billion, respectively.
-
-
-#### Stock-Based Award Activities
-
-The following table summarizes the activities for unvested Alphabet restricted stock units (RSUs) for the three months ended March 31,
-2022:
-
-
-#### Unvested Restricted Stock Units
-
-Number of
-Shares
-
-Weighted-
-Average
-Grant-Date
-
-Fair Value
-Unvested as of December 31, 2021
-16,894,713 
-$
-1,626.13 
-Granted
-6,698,922 
-$
-2,758.02 
-Vested
-(2,431,649)
-$
-1,691.60 
-Forfeited/canceled
-(536,815)
-$
-1,848.92 
-Unvested as of March 31, 2022
-20,625,171 
-$
-1,980.24
-
-As of March 31, 2022, there was $ 38.9 billion of unrecognized compensation cost related to unvested employee RSUs. This amount is
-expected to be recognized over a weighted-average period of 2.8 years.
+•
+Operating expenses were $18.3 billion, an increase of 24% year over year, primarily driven by headcount growth and increases in
+advertising and promotional expenses.
 
 
-#### 27
+#### Other information
+
+•
+During the ﬁrst quarter of 2022, we suspended the vast majority of our commercial activities in Russia and eﬀectively ceased business
+activities of our Russian entity. These direct actions did not have a material eﬀect on our ﬁnancial results. The ongoing broader
+economic effects resulting from the war in Ukraine on our future financial results may be unpredictable.
+
+•
+We entered into an agreement to acquire Mandiant, a leader in dynamic cyber defense and response, in March 2022 for $23.00 per
+share, in an all-cash transaction valued at approximately $5.4 billion, net of cash and debt. See Note 7 of the Notes to the Consolidated
+Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.
+
+•
+Repurchases of Class A and Class C shares were $13.3 billion. In April 2022, the Board of Directors of Alphabet authorized the company
+to repurchase up to an additional $70.0 billion of its Class A and Class C shares. See Note 10 of the Notes to the Consolidated Financial
+Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.
+
+•
+The company announced in February 2022 that the Board of Directors had approved and declared a 20-for-one stock split in the form of
+a one-time special stock dividend on each share of the company’s Class A, Class B, and Class C stock. See Note 10 of the Notes to
+Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.
+
+•
+Operating cash flow was $25.1 billion, primarily driven by revenues generated from our advertising products.
+
+•
+Capital expenditures of $9.8 billion reflects the increase in purchases of office facilities.
 
 
-## Page 28
-
-### Table 28.1
-
-| Income before provision for income taxes | $ | 21,283 |  |  | $ | 18,934 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Provision for income taxes | $ | 3,353 |  |  | $ | 2,498 |  |
-| Effective tax rate | 15.8 |  | % |  | 13.2 |  | % |
+#### 33
 
 
-### Table 28.2
+## Page 34
 
-| Revenues: |  |  |  |  |  |
+### Table 34.1
+
+| Google Search & other | $ | 31,879 |  | $ | 39,618 |
 | --- | --- | --- | --- | --- | --- |
-| Google Services | $ | 51,178 |  | $ | 61,472 |
+| YouTube ads | 6,005 |  |  | 6,869 |  |
+| Google Network | 6,800 |  |  | 8,174 |  |
+| Google advertising | 44,684 |  |  | 54,661 |  |
+| Google other | 6,494 |  |  | 6,811 |  |
+| Google Services total | 51,178 |  |  | 61,472 |  |
 | Google Cloud | 4,047 |  |  | 5,821 |  |
 | Other Bets | 198 |  |  | 440 |  |
 | Hedging gains (losses) | (109) |  |  | 278 |  |
 | Total revenues | $ | 55,314 |  | $ | 68,011 |
 
 
+### Table 34.2
+
+| Paid clicks change | 16% |
+| --- | --- |
+| Cost-per-click change | 8% |
+
+
 Table of Contents
 Alphabet Inc.
 
 
-#### Note 13. Income Taxes
-
-The following table presents provision for income taxes (in millions, except for effective tax rate):
+#### Financial Results
 
 
-#### Three Months Ended
-
-March 31,
-2021
-2022
-Income before provision for income taxes
-$
-21,283 
-$
-18,934 
-Provision for income taxes
-$
-3,353 
-$
-2,498 
-Effective tax rate
-15.8 %
-13.2 %
-
-We are subject to income taxes in the U.S. and foreign jurisdictions. Signiﬁcant judgment is required in evaluating our uncertain tax
-positions and determining our provision for income taxes. Total gross unrecognized tax beneﬁts were $5.2 billion and $5.4 billion as of
-December 31, 2021 and March 31, 2022, respectively. Total unrecognized tax benefits that, if recognized, would affect our effective tax rate were
-$3.7 billion and $3.9 billion as of December 31, 2021 and March 31, 2022, respectively.
-
-For information regarding non-income taxes, see Note 9.
+#### Revenues
 
 
-#### Note 14. Information about Segments and Geographic Areas
-
-
-#### We report our segment results as Google Services, Google Cloud, and Other Bets:
-
-•
-Google Services includes products and services such as ads, Android, Chrome, hardware, Google Maps, Google Play, Search, and
-YouTube. Google Services generates revenues primarily from advertising; sales of apps and in-app purchases, digital content products,
-and hardware; and fees received for subscription-based products such as YouTube Premium and YouTube TV.
-
-•
-Google Cloud includes Google’s infrastructure and platform services, collaboration tools, and other services for enterprise customers.
-Google Cloud generates revenues from fees received for Google Cloud Platform services, Google Workspace collaboration tools, and
-other enterprise services.
-
-•
-Other Bets is a combination of multiple operating segments that are not individually material. Revenues from Other Bets are generated
-primarily from the sale of health technology and internet services.
-
-Revenues, certain costs, such as costs associated with content and traﬃc acquisition, certain engineering activities, and hardware, as well
-as certain operating expenses are directly attributable to our segments. Due to the integrated nature of Alphabet, other costs and expenses, such
-as technical infrastructure and oﬃce facilities, are managed centrally at a consolidated level. The associated costs, including depreciation and
-impairment, are allocated to operating segments as a service cost generally based on usage or headcount.
-
-Unallocated corporate costs primarily include corporate initiatives, corporate shared costs, such as ﬁnance and legal, including certain ﬁnes
-and settlements, as well as costs associated with certain shared R&D activities. Additionally, hedging gains (losses) related to revenue are
-included in corporate costs.
-
-Our operating segments are not evaluated using asset information.
-
-
-#### The following table presents information about segments (in millions):
+#### The following table presents revenues by type (in millions):
 
 
 #### Three Months Ended
@@ -4419,12 +4285,25 @@ March 31,
  
 2021
 2022
-Revenues:
-
-Google Services
+Google Search & other
 $
+31,879 
+$
+39,618 
+YouTube ads
+6,005 
+6,869 
+Google Network
+6,800 
+8,174 
+Google advertising
+44,684 
+54,661 
+Google other
+6,494 
+6,811 
+Google Services total
 51,178 
-$
 61,472 
 Google Cloud
 4,047 
@@ -4434,7 +4313,8 @@ Other Bets
 440 
 Hedging gains (losses)
 (109)
-278 
+278
+
 Total revenues
 $
 55,314 
@@ -4442,169 +4322,167 @@ $
 68,011
 
 
-#### 28
+#### Google Services
 
 
-## Page 29
-
-### Table 29.1
-
-| Operating income (loss): |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Google Services | $ | 19,546 |  | $ | 22,920 |
-| Google Cloud | (974) |  |  | (931) |  |
-| Other Bets | (1,145) |  |  | (1,155) |  |
-| Corporate costs, unallocated | (990) |  |  | (740) |  |
-| Total income from operations | $ | 16,437 |  | $ | 20,094 |
+#### Google advertising revenues
 
 
-### Table 29.2
+#### Google Search & other
 
-|  | As of December 31, 2021 |  |  | As of March 31, 2022 |  |
-| --- | --- | --- | --- | --- | --- |
-| Long-lived assets: |  |  |  |  |  |
-|  |  |  |  | $ | 85,341 |
-| International | 30,351 |  |  | 31,869 |  |
-| Total long-lived assets | $ | 110,558 |  | $ | 117,210 |
+Google Search & other revenues increased $7.7 billion from the three months ended March 31, 2021 to the three months ended March 31,
+2022. The overall growth was driven by interrelated factors including increases in search queries resulting from growth in user adoption and
+usage, primarily on mobile devices, growth in advertiser spending, and improvements we have made in ad formats and delivery.
 
 
-Table of Contents
-Alphabet Inc.
+#### YouTube ads
+
+YouTube ads revenues increased $864 million from the three months ended March 31, 2021 to the three months ended March 31, 2022.
+The growth was driven by our brand and direct response advertising products. Growth for our brand advertising products was primarily driven by
+increased spending by our advertisers. Growth for our direct response advertising products was primarily driven by increased advertiser spending
+as well as improvements to ad formats and delivery.
+
+
+#### Google Network
+
+Google Network revenues increased $1.4 billion from the three months ended March 31, 2021 to the three months ended March 31, 2022.
+The growth was primarily driven by strength in AdSense and AdMob.
+
+
+#### Monetization Metrics
+
+
+#### Paid clicks and cost-per-click
+
+The following table presents year-over-year changes in paid clicks and cost-per-click (expressed as a percentage):
 
 
 #### Three Months Ended
 
 March 31,
  
-2021
 2022
-Operating income (loss):
+Paid clicks change
+16%
+Cost-per-click change
+8%
 
-Google Services
-$
-19,546 
-$
-22,920 
-Google Cloud
-(974)
-(931)
-Other Bets
-(1,145)
-(1,155)
-Corporate costs, unallocated
-(990)
-(740)
-Total income from operations
-$
-16,437 
-$
-20,094
-
-For revenues by geography, see Note 2.
-The following table presents long-lived assets by geographic area, which includes property and equipment, net and operating lease assets
-(in millions):
-
-As of 
-December 31, 2021
-
-As of
-March 31, 2022
-Long-lived assets:
-
-United States
-$
-80,207 
-$
-85,341 
-International
-30,351 
-31,869 
-Total long-lived assets
-$
-110,558 
-$
-117,210
+Paid clicks increased from the three months ended March 31, 2021 to the three months ended March 31, 2022, driven by a number of
+interrelated factors, including an increase in search queries resulting from growth in user adoption and usage, primarily on mobile devices;
+growth in advertiser spending; and improvements we have made in ad formats and delivery.
 
 
-#### 29
+#### 34
 
 
-## Page 30
+## Page 35
+
+### Table 35.1
+
+| Impressions change | 5% |
+| --- | --- |
+| Cost-per-impression change | 17% |
+
+
+### Table 35.2
+
+| United States | 45 | % |  | 47 | % |
+| --- | --- | --- | --- | --- | --- |
+| EMEA | 31 | % |  | 30 | % |
+| APAC | 19 | % |  | 17 | % |
+| Other Americas | 5 | % |  | 6 | % |
+
 
 Table of Contents
 Alphabet Inc.
 
-ITEM 2.
-MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
-Please read the following discussion and analysis of our ﬁnancial condition and results of operations together with "Note About Forward-
-Looking Statements" and our consolidated financial statements and related notes included under Item 1 of this Quarterly Report on Form 10-Q as
-well as our Annual Report on Form 10-K for the fiscal year ended December 31, 2021, including Part I, Item 1A "Risk Factors."
+The increase in cost-per-click from the three months ended March 31, 2021 to the three months ended March 31, 2022 was driven by a
+number of interrelated factors including changes in device mix, geographic mix, growth in advertiser spending, ongoing product changes, and
+property mix.
 
 
-#### Understanding Alphabet’s Financial Results
+#### Impressions and cost-per-impression
 
-Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google
-Cloud; we also report all non-Google businesses collectively as Other Bets. Other Bets include earlier stage technologies that are further aﬁeld
-from our core Google business. For further details on our segments, see Note 14 of the Notes to Consolidated Financial Statements included in
-Item 1 of this Quarterly Report on Form 10-Q.
+The following table presents year-over-year changes in impressions and cost-per-impression (expressed as a percentage):
 
 
-#### Seasonality and other
+#### Three Months Ended
 
-Our advertising revenues are aﬀected by seasonal ﬂuctuations in internet usage, advertising expenditures, and underlying business trends,
-such as traditional retail seasonality. Additionally, our non-advertising revenues, including those generated from Google Cloud, Google Play,
-hardware, and YouTube, may be aﬀected by ﬂuctuations driven by changes in pricing, digital content releases, fee structures, new product and
-service launches, and other market dynamics, as well as seasonality.
+March 31,
+ 
+2022
+Impressions change
+5%
+Cost-per-impression change
+17%
 
-
-#### Revenues and Monetization Metrics
-
-
-#### Google Services
-
-Google Services revenues consist of revenues generated from advertising (“Google advertising”) as well as revenues from other sources
-(“Google other revenues”).
-
-
-#### Google Advertising
+Impressions increased from the three months ended March 31, 2021 to the three months ended March 31, 2022, primarily driven by growth
+in Google Ad Manager and AdMob. The increase in cost-per-impression from the three months ended March 31, 2021 to the three months
+ended March 31, 2022 was driven by a number of interrelated factors including ongoing product and policy changes, improvements we have
+made in ad formats and delivery, changes in device mix, geographic mix, product mix, and property mix.
 
 
-#### Google advertising revenues are comprised of the following:
+#### Google other revenues
 
-•
-Google Search & other, which includes revenues generated on Google search properties (including revenues from traﬃc generated by
-search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and
-operated properties like Gmail, Google Maps, and Google Play;
-
-•
-YouTube ads, which includes revenues generated on YouTube properties; and
-
-•
-Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad
-Manager.
-
-We use certain metrics to track how well traﬃc across various properties is monetized as it relates to our advertising revenues: paid clicks
-and cost-per-click pertain to traﬃc on Google Search & other properties, while impressions and cost-per-impressions pertain to traﬃc on our
-Network partners’ properties.
-
-Paid clicks represent engagement by users and include clicks on advertisements by end-users on Google search properties and other
-Google owned and operated properties including Gmail, Google Maps, and Google Play. Cost-per-click is deﬁned as click-driven revenues
-divided by our total number of paid clicks and represents the average amount we charge advertisers for each engagement by users.
-
-Impressions include impressions displayed to users on Google Network properties participating primarily in AdMob, AdSense, and Google
-Ad Manager. Cost-per-impression is deﬁned as impression-based and click-based revenues divided by our total number of impressions, and
-represents the average amount we charge advertisers for each impression displayed to users.
-
-As our business evolves, we periodically review, reﬁne, and update our methodologies for monitoring, gathering, and counting the number
-of paid clicks and the number of impressions, and for identifying the revenues generated by the corresponding click and impression activity.
-
-Our advertising revenue growth, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change
-in impressions and cost-per-impression on Google Network properties and the correlation between these items, have been aﬀected and may
-continue to be affected by various factors, including:
-
-•
-advertiser competition for keywords;
+Google other revenues increased $317 million from the three months ended March 31, 2021 to the three months ended March 31, 2022.
+The growth was primarily driven by YouTube non-advertising, largely due to an increase in paid subscribers. The overall growth was partially
+offset by a decline in Google Play revenues largely driven by fee structure changes we announced in 2021.
 
 
-#### 30
+#### Google Cloud
+
+Google Cloud revenues increased $1.8 billion from the three months ended March 31, 2021 to the three months ended March 31, 2022.
+The growth was primarily driven by GCP followed by Google Workspace oﬀerings. Google Cloud's infrastructure and platform services were the
+largest drivers of growth in GCP.
+
+
+#### Revenues by Geography
+
+The following table presents revenues by geography as a percentage of revenues, determined based on the addresses of our customers:
+
+Three Months Ended
+ 
+March 31,
+ 
+2021
+2022
+United States
+45 
+%
+47 
+%
+EMEA
+31 
+%
+30 
+%
+APAC
+19 
+%
+17 
+%
+Other Americas
+5 
+%
+6 
+%
+
+For further details on revenues by geography, see Note 2 of the Notes to Consolidated Financial Statements included in Item 1 of this
+Quarterly Report on Form 10-Q.
+
+Use of Constant Currency Revenues and Constant Currency Revenue Percentage Change
+
+The eﬀect of currency exchange rates on our business is an important factor in understanding period to period comparisons. We use non-
+GAAP constant currency revenues and non-GAAP percentage change in constant currency revenues for ﬁnancial and operational decision-
+making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in
+addition to GAAP results helps improve the ability to understand our performance because it excludes the eﬀects of foreign currency volatility
+that are not indicative of our core operating results.
+
+Constant currency information compares results between periods as if exchange rates had remained constant period over period. We
+deﬁne constant currency revenues as total revenues excluding the eﬀect of foreign exchange rate movements and hedging activities, and use it
+to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by
+translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging eﬀects realized in the
+current period.
+
+
+#### 35

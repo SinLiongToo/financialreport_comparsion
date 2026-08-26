@@ -1,8 +1,8 @@
-# Annual Report: ALPHABET-GOOGLE_2025_10-K
+# Financial Report: ALPHABET-GOOGLE_2025_10-K
 
 - **Source File**: `ALPHABET-GOOGLE_2025_10-K.pdf`
-- **Total Pages**: 104
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 104
+- **Parsed Key Pages**: 47 (47 selected sections)
 
 ---
 
@@ -1827,163 +1827,1654 @@ Not applicable.
 24.
 
 
-## Page 26
+## Page 44
 
-### Table 26.1
+Table of Contents
+Alphabet Inc.
 
-|  | holders of record of our Class A stock and Class C stock, |
-| --- | --- |
-| respectively. Because many of our shares of Class A stock and Class C stock are held by brokers and other institutions on behalf of stockholders |  |
-| we are unable to estimate the total number of stockholders represented by these record holders. As of December 31, 2025, there were |  |
-| approximately |  |
+Our marketable equity securities are primarily publicly traded stocks or funds and our non-marketable equity securities are primarily
+investments in privately held companies, some of which are in the startup or development stages.
+
+We record marketable equity securities at fair value subject to market price volatility. These securities represent $5.1 billion and $6.3 billion
+of our investments as of December 31, 2024 and 2025, respectively. A hypothetical adverse price change of 10% on our December 31, 2025
+balance would decrease the fair value of marketable equity securities by $631 million. From time to time, we may enter into derivatives to hedge
+the market price risk on certain of our marketable equity securities.
+
+Our non-marketable equity securities not accounted for under the equity method are primarily adjusted to fair value for observable
+transactions for identical or similar investments of the same issuer or impairment (referred to as the measurement alternative). The fair value
+measured at the time of the observable transaction is not necessarily an indication of the current fair value as of the balance sheet date. These
+investments, especially those that are in the early stages, are inherently risky because the technologies or products these companies have under
+development are typically in the early phases and may never materialize, and they may experience a decline in ﬁnancial condition, which could
+result in a loss of a substantial part of our investment in these companies. Valuations of our equity investments in private companies are
+inherently more complex due to the lack of readily available market data and observable transactions at lower valuations could result in
+signiﬁcant losses. In addition, global economic conditions could result in additional volatility. The success of our investment in any private
+company is also typically dependent on the likelihood of our ability to realize appreciation in the value of investments through liquidity events
+such as public oﬀerings, acquisitions, private sales, or other market events. Changes in the valuation of non-marketable equity securities may
+not directly correlate with changes in valuation of marketable equity securities. As of December 31, 2024 and 2025, the carrying value of our
+non-marketable equity securities, which were accounted for under the measurement alternative, was $35.2 billion and $64.1 billion, respectively.
+
+The carrying values of our equity method investments, which totaled approximately $2.0 billion and $2.5 billion  as of December 31, 2024
+and 2025, respectively, generally do not ﬂuctuate based on market price changes. However, these investments could be impaired if the carrying
+value exceeds the fair value and is not expected to recover.
+
+For additional information about our equity investments, see Note 1 and Note 3 of the Notes to Consolidated Financial Statements included
+in Item 8 of this Annual Report on Form 10-K.
+
+43.
 
 
-### Table 26.2
+## Page 45
 
-| October 1 - 31 |  | 841 |  | 13,305 |  | $ | 253.20 |  | $ | 255.03 |  | 14,146 |  | $ | 71,231 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| November 1 - 30 |  | 209 |  | 5,885 |  | $ | 286.00 |  | $ | 281.46 |  |  |  |  |  |
-| December 1 - 31 |  | 0 |  | 0 |  | $ | 0.00 |  | $ | 0.00 |  | 0 |  | $ | 69,503 |
-| Total |  | 1,050 |  | 19,190 |  |  |  |  |  |  |  |  |  |  |  |
+Table of Contents
+Alphabet Inc.
 
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Alphabet Inc.
+
+
+### INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42)
+45
+Financial Statements:
+
+Consolidated Balance Sheets
+48
+Consolidated Statements of Income
+49
+Consolidated Statements of Comprehensive Income
+50
+Consolidated Statements of Stockholders’ Equity
+51
+Consolidated Statements of Cash Flows
+52
+Notes to Consolidated Financial Statements
+53
+
+44.
+
+
+## Page 46
 
 Table of Contents
 Alphabet Inc.
 
 
-### PART II
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
-ITEM 5.
-MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF
-
-
-### EQUITY SECURITIES
-
-As of October 2, 2015, Alphabet Inc. became the successor issuer of Google Inc. pursuant to Rule 12g-3(a) under the Exchange Act. Our
-Class A stock has been listed on the Nasdaq Global Select Market under the symbol “GOOG” since August 19, 2004, and under the symbol
-"GOOGL" since April 3, 2014. Prior to August 19, 2004, there was no public market for our stock. Our Class B stock is neither listed nor traded.
-Our Class C stock has been listed on the Nasdaq Global Select Market under the symbol “GOOG” since April 3, 2014.
+To the Stockholders and the Board of Directors of Alphabet Inc.
 
 
-#### Holders of Record
+#### Opinion on the Financial Statements
 
-As of December 31, 2025, there were approximately 5,861 and 1,611 stockholders of record of our Class A stock and Class C stock,
-respectively. Because many of our shares of Class A stock and Class C stock are held by brokers and other institutions on behalf of stockholders,
-we are unable to estimate the total number of stockholders represented by these record holders. As of December 31, 2025, there were
-approximately 57 stockholders of record of our Class B stock.
+We have audited the accompanying consolidated balance sheets of Alphabet Inc. (the Company) as of December 31, 2024 and 2025, the related
+consolidated statements of income, comprehensive income, stockholders' equity and cash ﬂows for each of the three years in the period ended
+December 31, 2025, and the related notes and ﬁnancial statement schedule listed in the Index at Item 15 (collectively referred to as the
+“consolidated ﬁnancial statements”). In our opinion, the consolidated ﬁnancial statements present fairly, in all material respects, the ﬁnancial
+position of the Company at December 31, 2024 and 2025, and the results of its operations and its cash ﬂows for each of the three years in the
+period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
 
-
-#### Dividend Program
-
-Dividend payments to stockholders of Class A, Class B, and Class C shares were $4.8 billion, $703 million, and $4.5 billion, respectively,
-for the year ended December 31, 2025. The company intends to pay quarterly cash dividends in the future, subject to review and approval by the
-company’s Board of Directors in its sole discretion. We regularly evaluate our cash and capital structure, including the size, pace, and form of
-capital return to stockholders.
-
-
-#### Issuer Purchases of Equity Securities
-
-The following table presents information with respect to Alphabet's repurchases of Class A and Class C stock during the quarter ended
-December 31, 2025:
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the
+Company's internal control over ﬁnancial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated
+February 4, 2026 expressed an unqualified opinion thereon.
 
 
-#### Period
+#### Basis for Opinion
+
+These ﬁnancial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s
+ﬁnancial statements based on our audits. We are a public accounting ﬁrm registered with the PCAOB and are required to be independent with
+respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and
+Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the ﬁnancial statements are free of material misstatement, whether due to error or fraud. Our audits
+included performing procedures to assess the risks of material misstatement of the ﬁnancial statements, whether due to error or fraud, and
+performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and
+disclosures in the ﬁnancial statements. Our audits also included evaluating the accounting principles used and signiﬁcant estimates made by
+management, as well as evaluating the overall presentation of the ﬁnancial statements. We believe that our audits provide a reasonable basis for
+our opinion.
 
 
-#### Total Number of Class
+#### Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the ﬁnancial statements that was communicated
+or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the ﬁnancial
+statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not
+alter in any way our opinion on the consolidated ﬁnancial statements, taken as a whole, and we are not, by communicating the critical audit
+matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+45.
 
 
-#### A Shares Purchased
+## Page 47
+
+Table of Contents
+Alphabet Inc.
 
 
-#### (in thousands)
+#### Loss Contingencies
+
+Description of the Matter
+The Company is subject to claims, lawsuits, regulatory and government inquiries and investigations, other
+proceedings, and consent orders. As described in Note 10 to the consolidated ﬁnancial statements, such claims,
+lawsuits, regulatory and government inquiries and investigations, other proceedings, and consent orders could result
+in adverse consequences.
+
+Signiﬁcant judgment is required to determine both the likelihood and the estimated amount of a loss related to such
+matters. Auditing management’s accounting for and disclosure of loss contingencies from these matters involved
+challenging and subjective auditor judgment in assessing the Company’s evaluation of the probability of a loss, and
+the estimated amount or range of loss.
+How We Addressed the
+Matter in Our Audit
+
+We tested relevant controls over the identiﬁed risks associated with management’s accounting for and disclosure of
+these matters. This included controls over management’s assessment of the probability of incurrence of a loss and
+whether the loss or range of loss was reasonably estimable and the development of related disclosures.
+
+Our audit procedures included, among others, gaining an understanding of previous rulings and the status of ongoing
+lawsuits, reviewing letters from internal and external legal counsel addressing the matters, meeting with internal legal
+counsel to discuss the allegations, and obtaining a representation letter from management on these matters. We also
+evaluated the Company’s disclosures in relation to these matters.
 
 
-#### Total Number of Class
+#### /s/ Ernst & Young LLP
+
+We have served as the Company's auditor since 1999.
+
+San Jose, California
+February 4, 2026
+
+46.
 
 
-#### C Shares Purchased
+## Page 48
+
+Table of Contents
+Alphabet Inc.
 
 
-#### (in thousands)
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
-Average Price
-Paid per Class
-
-
-#### A Share
-
-Average Price
-Paid per Class
+To the Stockholders and the Board of Directors of Alphabet Inc.
 
 
-#### C Share
+#### Opinion on Internal Control Over Financial Reporting
 
-Total Number of
-Shares Purchased as
+We have audited Alphabet Inc.’s internal control over ﬁnancial reporting as of December 31, 2025, based on criteria established in Internal
+Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the
+COSO criteria). In our opinion, Alphabet Inc. (the Company) maintained, in all material respects, eﬀective internal control over ﬁnancial reporting
+as of December 31, 2025, based on the COSO criteria.
 
-Part of Publicly
-Announced Programs
-
-
-#### (in thousands)
-
-Approximate Dollar
-Value of Shares that
-
-May Yet Be
-Purchased Under
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the 2025
+consolidated financial statements of the Company and our report dated February 4, 2026 expressed an unqualified opinion thereon.
 
 
-#### the Program
+#### Basis for Opinion
 
-(in millions)
-October 1 - 31
-841 
-13,305 
+The Company’s management is responsible for maintaining eﬀective internal control over ﬁnancial reporting and for its assessment of the
+eﬀectiveness of internal control over ﬁnancial reporting included in the accompanying Management’s Report on Internal Control over Financial
+Reporting. Our responsibility is to express an opinion on the Company’s internal control over ﬁnancial reporting based on our audit. We are a
+public accounting ﬁrm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S.
+federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over ﬁnancial reporting, assessing the risk that a material weakness exists,
+testing and evaluating the design and operating eﬀectiveness of internal control based on the assessed risk, and performing such other
+procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over ﬁnancial reporting is a process designed to provide reasonable assurance regarding the reliability of ﬁnancial
+reporting and the preparation of ﬁnancial statements for external purposes in accordance with generally accepted accounting principles. A
+company’s internal control over ﬁnancial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in
+reasonable detail, accurately and fairly reﬂect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of ﬁnancial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and
+directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over ﬁnancial reporting may not prevent or detect misstatements. Also, projections of any
+evaluation of eﬀectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or
+that the degree of compliance with the policies or procedures may deteriorate.
+
+
+#### /s/ Ernst & Young LLP
+
+San Jose, California
+February 4, 2026
+
+47.
+
+
+## Page 49
+
+### Table 49.1
+
+| Assets |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Current assets: |  |  |  |  |  |
+| Cash and cash equivalents | $ | 23,466 |  | $ | 30,708 |
+| Marketable securities | 72,191 |  |  | 96,135 |  |
+| Total cash, cash equivalents, and marketable securities | 95,657 |  |  | 126,843 |  |
+| Accounts receivable, net | 52,340 |  |  | 62,886 |  |
+| Other current assets | 15,714 |  |  | 16,309 |  |
+| Total current assets | 163,711 |  |  | 206,038 |  |
+| Non-marketable securities | 37,982 |  |  | 68,687 |  |
+| Deferred income taxes | 17,180 |  |  | 9,113 |  |
+| Property and equipment, net | 171,036 |  |  | 246,597 |  |
+| Operating lease assets | 13,588 |  |  | 15,221 |  |
+| Goodwill | 31,885 |  |  | 33,380 |  |
+| Other non-current assets | 14,874 |  |  | 16,245 |  |
+| Total assets | $ | 450,256 |  | $ | 595,281 |
+| Liabilities and Stockholders’ Equity |  |  |  |  |  |
+| Current liabilities: |  |  |  |  |  |
+| Accounts payable | $ | 7,987 |  | $ | 12,200 |
+| Accrued compensation and benefits | 15,069 |  |  | 17,546 |  |
+| Accrued expenses and other current liabilities | 51,228 |  |  | 55,557 |  |
+| Accrued revenue share | 9,802 |  |  | 10,864 |  |
+| Deferred revenue | 5,036 |  |  | 6,578 |  |
+| Total current liabilities | 89,122 |  |  | 102,745 |  |
+| Long-term debt | 10,883 |  |  | 46,547 |  |
+| Income taxes payable, non-current | 8,782 |  |  | 9,531 |  |
+| Operating lease liabilities | 11,691 |  |  | 12,744 |  |
+| Other long-term liabilities | 4,694 |  |  | 8,449 |  |
+| Total liabilities | 125,172 |  |  | 180,016 |  |
+| Commitments and Contingencies (Note 10) |  |  |  |  |  |
+| Stockholders’ equity: |  |  |  |  |  |
+| Preferred stock, $0.001 par value per share, 100 shares authorized; no shares issued and outstanding | 0 |  |  | 0 |  |
+| Class A, Class B, and Class C stock and additional paid-in capital, $0.001 par value per share: 300,000 shares authorized (Class A 180,000, Class B 60,000, Class C 60,000); 12,211 (Class A 5,835, Class B 861, Class C 5,515) and 12,088 (Class A 5,822, Class B 837, Class C 5,429) shares issued and outstanding | 84,800 |  |  | 93,126 |  |
+| Accumulated other comprehensive income (loss) | (4,800) |  |  | (1,916) |  |
+| Retained earnings | 245,084 |  |  | 324,055 |  |
+| Total stockholders’ equity | 325,084 |  |  | 415,265 |  |
+| Total liabilities and stockholders’ equity | $ | 450,256 |  | $ | 595,281 |
+
+
+Table of Contents
+Alphabet Inc.
+
+Alphabet Inc.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except par value per share amounts)
+
+As of December 31,
+2024
+2025
+Assets
+Current assets:
+
+Cash and cash equivalents
 $
-253.20 $
-255.03 
-14,146 
+23,466 
 $
-71,231 
-November 1 - 30
-209 
-5,885 
+30,708 
+Marketable securities
+72,191 
+96,135 
+Total cash, cash equivalents, and marketable securities
+95,657 
+126,843 
+Accounts receivable, net
+52,340 
+62,886 
+Other current assets
+15,714 
+16,309 
+Total current assets
+163,711 
+206,038 
+Non-marketable securities
+37,982 
+68,687 
+Deferred income taxes
+17,180 
+9,113 
+Property and equipment, net
+171,036 
+246,597 
+Operating lease assets
+13,588 
+15,221 
+Goodwill
+31,885 
+33,380 
+Other non-current assets
+14,874 
+16,245 
+Total assets
 $
-286.00 $
-281.46 
-6,094 
+450,256 
 $
-69,503 
-December 1 - 31
+595,281 
+Liabilities and Stockholders’ Equity
+Current liabilities:
+
+Accounts payable
+$
+7,987 
+$
+12,200 
+Accrued compensation and benefits
+15,069 
+17,546 
+Accrued expenses and other current liabilities
+51,228 
+55,557 
+Accrued revenue share
+9,802 
+10,864 
+Deferred revenue
+5,036 
+6,578 
+Total current liabilities
+89,122 
+102,745 
+Long-term debt
+10,883 
+46,547 
+Income taxes payable, non-current
+8,782 
+9,531 
+Operating lease liabilities
+11,691 
+12,744 
+Other long-term liabilities
+4,694 
+8,449 
+Total liabilities
+125,172 
+180,016 
+Commitments and Contingencies (Note 10)
+Stockholders’ equity:
+
+Preferred stock, $0.001 par value per share, 100 shares authorized; no shares issued and
+outstanding
 0 
 0 
+Class A, Class B, and Class C stock and additional paid-in capital, $ 0.001 par value per share:
+300,000 shares authorized (Class A 180,000, Class B 60,000, Class C 60,000); 12,211 (Class A
+5,835, Class B 861, Class C 5,515) and 12,088 (Class A 5,822, Class B 837, Class C 5,429)
+shares issued and outstanding
+84,800 
+93,126 
+Accumulated other comprehensive income (loss)
+(4,800)
+(1,916)
+Retained earnings
+245,084 
+324,055 
+Total stockholders’ equity
+325,084 
+415,265 
+Total liabilities and stockholders’ equity
 $
-0.00 $
-0.00 
-0 
+450,256 
 $
-69,503 
+595,281
+
+See accompanying notes.
+
+48.
+
+
+## Page 50
+
+### Table 50.1
+
+| Revenues | $ | 307,394 |  | $ | 350,018 |  | $ | 402,836 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |
+| Cost of revenues | 133,332 |  |  | 146,306 |  |  | 162,535 |  |
+| Research and development | 45,427 |  |  | 49,326 |  |  | 61,087 |  |
+| Sales and marketing | 27,917 |  |  | 27,808 |  |  | 28,693 |  |
+| General and administrative | 16,425 |  |  | 14,188 |  |  | 21,482 |  |
+| Total costs and expenses | 223,101 |  |  | 237,628 |  |  | 273,797 |  |
+| Income from operations | 84,293 |  |  | 112,390 |  |  | 129,039 |  |
+| Other income (expense), net | 1,424 |  |  | 7,425 |  |  | 29,787 |  |
+| Income before income taxes | 85,717 |  |  | 119,815 |  |  | 158,826 |  |
+| Provision for income taxes | 11,922 |  |  | 19,697 |  |  | 26,656 |  |
+| Net income | $ | 73,795 |  | $ | 100,118 |  | $ | 132,170 |
+| Basic net income per share (Note 12) | $ | 5.84 |  | $ | 8.13 |  | $ | 10.91 |
+| Diluted net income per share (Note 12) | $ | 5.80 |  | $ | 8.04 |  | $ | 10.81 |
+
+
+Table of Contents
+Alphabet Inc.
+
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+
+
+#### (in millions, except per share amounts)
+
+Year Ended December 31,
+ 
+2023
+2024
+2025
+Revenues
+$
+307,394 
+$
+350,018 
+$
+402,836 
+Costs and expenses:
+
+Cost of revenues
+133,332 
+146,306 
+162,535 
+Research and development
+45,427 
+49,326 
+61,087 
+Sales and marketing
+27,917 
+27,808 
+28,693 
+General and administrative
+16,425 
+14,188 
+21,482 
+Total costs and expenses
+223,101 
+237,628 
+273,797 
+Income from operations
+84,293 
+112,390 
+129,039 
+Other income (expense), net
+1,424 
+7,425 
+29,787 
+Income before income taxes
+85,717 
+119,815 
+158,826 
+Provision for income taxes
+11,922 
+19,697 
+26,656 
+Net income
+$
+73,795 
+$
+100,118 
+$
+132,170
+
+Basic net income per share (Note 12)
+$
+5.84 
+$
+8.13 
+$
+10.91 
+Diluted net income per share (Note 12)
+$
+5.80 
+$
+8.04 
+$
+10.81
+
+See accompanying notes.
+
+49.
+
+
+## Page 51
+
+### Table 51.1
+
+| Net income | $ | 73,795 |  | $ | 100,118 |  | $ | 132,170 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss): |  |  |  |  |  |  |  |  |
+| Change in foreign currency translation adjustment, net of income tax benefit (expense) of $63, $(49) and $180 | 735 |  |  | (1,673) |  |  | 2,522 |  |
+| Available-for-sale investments: |  |  |  |  |  |  |  |  |
+| Change in net unrealized gains (losses) | 1,344 |  |  | (116) |  |  | 1,146 |  |
+| Less: reclassification adjustment for net (gains) losses included in net income | 1,168 |  |  | 782 |  |  | (169) |  |
+| Net change, net of income tax benefit (expense) of $(698), $(190), and $(276) | 2,512 |  |  | 666 |  |  | 977 |  |
+| Cash flow hedges: |  |  |  |  |  |  |  |  |
+| Change in net unrealized gains (losses) | 168 |  |  | 775 |  |  | (779) |  |
+| Less: reclassification adjustment for net (gains) losses included in net income | (214) |  |  | (166) |  |  | 164 |  |
+| Net change, net of income tax benefit (expense) of $2, $(151), and $174 | (46) |  |  | 609 |  |  | (615) |  |
+| Other comprehensive income (loss) | 3,201 |  |  | (398) |  |  | 2,884 |  |
+| Comprehensive income | $ | 76,996 |  | $ | 99,720 |  | $ | 135,054 |
+
+
+Table of Contents
+Alphabet Inc.
+
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+#### (in millions)
+
+Year Ended December 31,
+ 
+2023
+2024
+2025
+Net income
+$
+73,795 
+$
+100,118 
+$
+132,170 
+Other comprehensive income (loss):
+
+Change in foreign currency translation adjustment, net of income tax benefit (expense) of
+$63, $(49) and $180
+735 
+(1,673)
+2,522 
+Available-for-sale investments:
+
+Change in net unrealized gains (losses)
+1,344 
+(116)
+1,146 
+Less: reclassification adjustment for net (gains) losses included in net income
+1,168 
+782 
+(169)
+Net change, net of income tax benefit (expense) of $( 698), $(190), and $(276)
+2,512 
+666 
+977 
+Cash flow hedges:
+
+Change in net unrealized gains (losses)
+168 
+775 
+(779)
+Less: reclassification adjustment for net (gains) losses included in net income
+(214)
+(166)
+164 
+Net change, net of income tax benefit (expense) of $ 2, $(151), and $174
+(46)
+609 
+(615)
+Other comprehensive income (loss)
+3,201 
+(398)
+2,884 
+Comprehensive income
+$
+76,996 
+$
+99,720 
+$
+135,054
+
+See accompanying notes.
+
+50.
+
+
+## Page 52
+
+### Table 52.1
+
+|  | Class A, Class B, Class C Stock and Additional Paid-In Capital |  |  |  |  | Accumulated Other Comprehensive Income (Loss) |  |  | Retained Earnings |  |  | Total Stockholders’ Equity |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Shares |  | Amount |  |  |  |  |  |  |  |  |  |  |
+| Balance as of December 31, 2022 | 12,849 |  | $ | 68,184 |  | $ | (7,603) |  | $ | 195,563 |  | $ | 256,144 |
+| Stock issued | 139 |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |
+| Stock-based compensation | 0 |  | 22,578 |  |  | 0 |  |  | 0 |  |  | 22,578 |  |
+| Tax withholding related to vesting of restricted stock units and other | 0 |  | (10,164) |  |  | 0 |  |  | 9 |  |  | (10,155) |  |
+| Repurchases of stock | (528) |  | (4,064) |  |  | 0 |  |  | (58,120) |  |  | (62,184) |  |
+| Net income | 0 |  | 0 |  |  | 0 |  |  | 73,795 |  |  | 73,795 |  |
+| Other comprehensive income (loss) | 0 |  | 0 |  |  | 3,201 |  |  | 0 |  |  | 3,201 |  |
+| Balance as of December 31, 2023 | 12,460 |  | 76,534 |  |  | (4,402) |  |  | 211,247 |  |  | 283,379 |  |
+| Stock issued | 130 |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |
+| Stock-based compensation | 0 |  | 22,937 |  |  | 0 |  |  | 0 |  |  | 22,937 |  |
+| Tax withholding related to vesting of restricted stock units and other | 0 |  | (12,507) |  |  | 0 |  |  | (16) |  |  | (12,523) |  |
+| Repurchases of stock | (379) |  | (3,359) |  |  | 0 |  |  | (58,688) |  |  | (62,047) |  |
+| Dividends and dividend equivalents declared ($0.60 per share) | 0 |  | 41 |  |  | 0 |  |  | (7,577) |  |  | (7,536) |  |
+| Sale of interest in consolidated entities | 0 |  | 1,154 |  |  | 0 |  |  | 0 |  |  | 1,154 |  |
+| Net income | 0 |  | 0 |  |  | 0 |  |  | 100,118 |  |  | 100,118 |  |
+| Other comprehensive income (loss) | 0 |  | 0 |  |  | (398) |  |  | 0 |  |  | (398) |  |
+| Balance as of December 31, 2024 | 12,211 |  | 84,800 |  |  | (4,800) |  |  | 245,084 |  |  | 325,084 |  |
+| Stock issued | 117 |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |
+| Stock-based compensation | 0 |  | 25,130 |  |  | 0 |  |  | 0 |  |  | 25,130 |  |
+| Tax withholding related to vesting of restricted stock units and other | 0 |  | (14,842) |  |  | 0 |  |  | 0 |  |  | (14,842) |  |
+| Repurchases of stock | (240) |  | (2,514) |  |  | 0 |  |  | (42,884) |  |  | (45,398) |  |
+| Dividends and dividend equivalents declared ($0.83 per share) | 0 |  | 152 |  |  | 0 |  |  | (10,315) |  |  | (10,163) |  |
+| Sale of interest in consolidated entities | 0 |  | 400 |  |  | 0 |  |  | 0 |  |  | 400 |  |
+| Net income | 0 |  | 0 |  |  | 0 |  |  | 132,170 |  |  | 132,170 |  |
+| Other comprehensive income (loss) | 0 |  | 0 |  |  | 2,884 |  |  | 0 |  |  | 2,884 |  |
+| Balance as of December 31, 2025 | 12,088 |  | $ | 93,126 |  | $ | (1,916) |  | $ | 324,055 |  | $ | 415,265 |
+
+
+Table of Contents
+Alphabet Inc.
+
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+
+#### (in millions)
+
+
+#### Class A, Class B, Class C Stock and
+
+
+#### Additional Paid-In Capital
+
+
+#### Accumulated
+
+Other
+Comprehensive
+
+
+#### Income (Loss)
+
+Retained
+Earnings
+
 Total
-1,050 
-19,190 
-20,240
+Stockholders’
 
-In April 2024, the company's Board of Directors authorized a $70.0 billion share repurchase program for its Class A and Class C shares. In April 2025,
+Equity
+ 
+Shares
+Amount
+Balance as of December 31, 2022
+12,849 
+$
+68,184 
+$
+(7,603)
+$
+195,563 
+$
+256,144 
+Stock issued
+139 
+0 
+0 
+0 
+0 
+Stock-based compensation
+0 
+22,578 
+0 
+0 
+22,578 
+Tax withholding related to vesting of restricted stock
+units and other
+0 
+(10,164)
+0 
+9 
+(10,155)
+Repurchases of stock
+(528)
+(4,064)
+0 
+(58,120)
+(62,184)
+Net income
+0 
+0 
+0 
+73,795 
+73,795 
+Other comprehensive income (loss)
+0 
+0 
+3,201 
+0 
+3,201 
+Balance as of December 31, 2023
+12,460 
+76,534 
+(4,402)
+211,247 
+283,379 
+Stock issued
+130 
+0 
+0 
+0 
+0 
+Stock-based compensation
+0 
+22,937 
+0 
+0 
+22,937 
+Tax withholding related to vesting of restricted stock
+units and other
+0 
+(12,507)
+0 
+(16)
+(12,523)
+Repurchases of stock
+(379)
+(3,359)
+0 
+(58,688)
+(62,047)
+Dividends and dividend equivalents declared ($ 0.60
+per share)
+0 
+41 
+0 
+(7,577)
+(7,536)
+Sale of interest in consolidated entities
+0 
+1,154 
+0 
+0 
+1,154 
+Net income
+0 
+0 
+0 
+100,118 
+100,118 
+Other comprehensive income (loss)
+0 
+0 
+(398)
+0 
+(398)
+Balance as of December 31, 2024
+12,211 
+84,800 
+(4,800)
+245,084 
+325,084 
+Stock issued
+117 
+0 
+0 
+0 
+0 
+Stock-based compensation
+0 
+25,130 
+0 
+0 
+25,130 
+Tax withholding related to vesting of restricted stock
+units and other
+0 
+(14,842)
+0 
+0 
+(14,842)
+Repurchases of stock
+(240)
+(2,514)
+0 
+(42,884)
+(45,398)
+Dividends and dividend equivalents declared ($ 0.83
+per share)
+0 
+152 
+0 
+(10,315)
+(10,163)
+Sale of interest in consolidated entities
+0 
+400 
+0 
+0 
+400 
+Net income
+0 
+0 
+0 
+132,170 
+132,170 
+Other comprehensive income (loss)
+0 
+0 
+2,884 
+0 
+2,884 
+Balance as of December 31, 2025
+12,088 
+$
+93,126 
+$
+(1,916)
+$
+324,055 
+$
+415,265
 
-the company's Board of Directors authorized an additional $70.0 billion share repurchase program for its Class A and Class C shares. Repurchases are
-being executed from time to time, subject to general business and market conditions and other investment opportunities, through open market
-purchases or privately negotiated transactions, including through Rule 10b5-1 plans. The repurchase programs do not have an expiration date. For
-additional information related to share repurchases, see Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual
-Report on Form 10-K.
-    Average price paid per share includes costs associated with the repurchases.
+See accompanying notes.
 
-(1)
+51.
+
+
+## Page 59
+
+Table of Contents
+Alphabet Inc.
+
+
+#### Variable Interest Entities
+
+We determine at the inception of each arrangement whether an entity in which we have made an investment or in which we have other
+variable interests is considered a variable interest entity (VIE). We consolidate VIEs when we are the primary beneﬁciary. We are the primary
+beneﬁciary of a VIE when we have the power to direct activities that most signiﬁcantly aﬀect the economic performance of the VIE and have the
+obligation to absorb the majority of their losses or beneﬁts. If we are not the primary beneﬁciary in a VIE, we account for the investment or other
+variable interests in a VIE in accordance with applicable GAAP.
+
+Periodically, we assess whether any changes in our interest or relationship with the entity aﬀect our determination of whether the entity is a
+VIE and, if so, whether we are the primary beneficiary.
+
+
+#### Property and Equipment
+
+Property and equipment is comprised of technical infrastructure, oﬃce space, corporate and other assets currently in service, and assets
+not yet in service. Technical infrastructure includes data center land, buildings and leasehold improvements, and servers and network equipment.
+Oﬃce space includes oﬃce land, buildings, and leasehold improvements. Assets not yet in service are those that are not ready for their intended
+use, including data center buildings and servers in the process of construction or assembly.
+
+Property and equipment are stated at cost less accumulated depreciation. Depreciation commences once assets are ready for their
+intended use and is recorded using the straight-line method over the estimated useful lives of the assets, which we regularly evaluate for factors
+such as technological obsolescence and our planned use and utilization. We depreciate data center and oﬃce buildings over periods of seven to
+40 years. We depreciate servers and network equipment generally over a period of six years. We depreciate corporate and other assets over
+periods of two to 25 years. We depreciate leasehold improvements over the shorter of the remaining lease term or the estimated useful lives of
+the assets. Land is not depreciated.
+
+
+#### Goodwill
+
+We allocate goodwill to reporting units based on the expected beneﬁt from the business combination. We evaluate our reporting units
+periodically, as well as when changes in our operating segments occur. For changes in reporting units, we reassign goodwill using a relative fair
+value allocation approach. We test our goodwill for impairment at least annually, or more frequently if events or changes in circumstances
+indicate that the asset may be impaired. Goodwill impairments were not material for the periods presented.
+
+
+#### Leases
+
+We determine if an arrangement is a lease at inception. Our lease agreements generally contain lease and non-lease components.
+Payments under our lease arrangements are primarily ﬁxed. Non-lease components primarily include payments for maintenance and utilities.
+We combine ﬁxed payments for non-lease components with lease payments and account for them together as a single lease component which
+increases the amount of our lease assets and liabilities.
+
+Certain lease agreements contain variable payments, which are expensed as incurred and not included in the lease assets and liabilities.
+These amounts primarily include payments affected by the Consumer Price Index, and payments for maintenance and utilities.
+
+Lease assets and liabilities are recognized at the present value of the future lease payments at the lease commencement date. The interest
+rate used to determine the present value of the future lease payments is our incremental borrowing rate, because the interest rate implicit in our
+leases is not readily determinable. Our incremental borrowing rate is estimated to approximate the interest rate on a collateralized basis with
+similar terms and payments, and in economic environments where the leased asset is located. Our lease terms and payments include periods
+under options to purchase, extend, or terminate the lease when it is reasonably certain that we will exercise that option. We generally use the
+base, non-cancelable, lease term when determining the lease assets and liabilities. Lease assets also include any prepaid lease payments and
+lease incentives.
+
+The current portion of our operating lease liabilities is included in accrued expenses and other current liabilities, and the long-term portion is
+included in operating lease liabilities. Finance lease assets are included in property and equipment, net. Finance lease liabilities are included in
+accrued expenses and other current liabilities or other long-term liabilities.
+
+Operating lease expense (excluding variable lease costs) is recognized on a straight-line basis over the lease term. Finance lease expense
+is recognized on a straight-line basis over the shorter of the lease term or the useful life of the asset, and interest expense is recognized based
+on the incremental borrowing rate.
+
+58.
+
+
+## Page 60
+
+Table of Contents
+Alphabet Inc.
+
+
+#### Impairment of Long-Lived Assets
+
+We review leases, property and equipment, and intangible assets, excluding goodwill, for impairment when events or changes in
+circumstances indicate the carrying amount may not be recoverable. The evaluation is performed at the lowest level of identiﬁable cash ﬂows
+independent of other assets. We measure recoverability of these assets by comparing the carrying amounts to the future undiscounted cash
+ﬂows that the assets or the asset group are expected to generate. If the carrying value of the assets or asset group is not recoverable, the
+impairment recognized is measured as the amount by which the carrying value exceeds its fair value.
+
+
+#### Income Taxes
+
+We account for income taxes using the asset and liability method, under which we recognize the amount of taxes payable or refundable for
+the current year and deferred tax assets and liabilities for the future tax consequences of events that have been recognized in our ﬁnancial
+statements or tax returns. We measure current and deferred tax assets and liabilities based on provisions of enacted tax law. We evaluate the
+likelihood of future realization of our deferred tax assets based on all available evidence and establish a valuation allowance to reduce deferred
+tax assets when it is more likely than not that they will not be realized or release a valuation allowance to increase deferred tax assets when it is
+more likely than not that they will be realized. We have elected to account for the tax effects of the global intangible low tax income provision as a
+current period expense.
+
+We recognize the ﬁnancial statement eﬀects of a tax position when it is more likely than not that, based on technical merits, the position will
+be sustained upon examination. The tax beneﬁts of the position recognized in the ﬁnancial statements are then measured based on the largest
+amount of beneﬁt that is greater than 50% likely to be realized upon settlement with a taxing authority. In addition, we recognize interest and
+penalties related to unrecognized tax benefits as a component of the income tax provision.
+
+
+#### Business Combinations
+
+We include the results of operations of the businesses that we acquire as of the acquisition date. We allocate the purchase price of the
+acquisitions to the assets acquired and liabilities assumed based on their estimated fair values, except for revenue contracts acquired, which are
+recognized in accordance with our revenue recognition policy. The excess of the purchase price over the fair values of identiﬁable assets and
+liabilities is recorded as goodwill. Acquisition-related expenses are recognized separately from the business combination and are expensed as
+incurred.
+
+
+#### Foreign Currency
+
+We translate the ﬁnancial statements of our international subsidiaries to US dollars using month-end exchange rates for assets and
+liabilities, and average rates for the period derived from month-end exchange rates for revenues, costs, and expenses. We record translation
+gains and losses in AOCI as a component of stockholders’ equity. We reﬂect net foreign exchange transaction gains and losses resulting from
+the conversion of the transaction currency to functional currency as a component of foreign currency exchange gain (loss) in OI&E.
+
+
+#### Recently Issued Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2024-03 "Income
+Statement: Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40)" to improve the disclosures about an
+entity’s expenses. Upon adoption, we will be required to disclose in the notes to the ﬁnancial statements a disaggregation of certain expense
+categories included within the relevant expense captions on the consolidated statements of income. The standard is eﬀective for our 2027
+annual period, and our interim periods beginning in 2028, with early adoption permitted. The standard can be applied either prospectively or
+retrospectively. We are currently assessing adoption timing, the method of adoption, and the eﬀect that the updated standard will have on our
+financial statement disclosures.
+
+In September 2025, the FASB issued ASU 2025-06 "Intangibles: Goodwill and Other‒Internal-Use Software (Subtopic 350-40): Targeted
+Improvements to the Accounting for Internal-Use Software" to modernize the accounting for software costs under Subtopic 350-40, Intangibles‒
+Goodwill and Other‒Internal-Use Software (referred to as “internal-use software”). Upon adoption, we will be required to account for internal-use
+software under the updated capitalization criteria. The standard is eﬀective for our interim and annual 2028 periods, with early adoption
+permitted. The standard can be applied either prospectively, retrospectively, or under a modiﬁed transition approach. We are currently assessing
+adoption timing, the method of adoption, and the effect that the updated standard will have on our consolidated financial statements.
+
+
+#### Recently Adopted Accounting Pronouncements
+
+59.
+
+
+## Page 61
+
+### Table 61.1
+
+| Google Search & other | $ | 175,033 |  | $ | 198,084 |  | $ | 224,532 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| YouTube ads | 31,510 |  |  | 36,147 |  |  | 40,367 |  |
+| Google Network | 31,312 |  |  | 30,359 |  |  | 29,792 |  |
+| Google advertising | 237,855 |  |  | 264,590 |  |  | 294,691 |  |
+| Google subscriptions, platforms, and devices | 34,688 |  |  | 40,340 |  |  | 48,030 |  |
+| Google Services total | 272,543 |  |  | 304,930 |  |  | 342,721 |  |
+| Google Cloud | 33,088 |  |  | 43,229 |  |  | 58,705 |  |
+| Other Bets | 1,527 |  |  | 1,648 |  |  | 1,537 |  |
+| Hedging gains (losses) | 236 |  |  | 211 |  |  | (127) |  |
+| Total revenues | $ | 307,394 |  | $ | 350,018 |  | $ | 402,836 |
+
+
+### Table 61.2
+
+| United States | $ | 146,286 |  | 47 | % |  | $ | 170,447 |  | 49 | % |  | $ | 194,229 |  | 48 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EMEA(1) | 91,038 |  |  | 30 |  |  | 102,127 |  |  | 29 |  |  | 117,152 |  |  | 29 |  |
+| APAC(1) | 51,514 |  |  | 17 |  |  | 56,815 |  |  | 16 |  |  | 67,680 |  |  | 17 |  |
+| Other Americas(1) | 18,320 |  |  | 6 |  |  | 20,418 |  |  | 6 |  |  | 23,902 |  |  | 6 |  |
+| Hedging gains (losses) | 236 |  |  | 0 |  |  | 211 |  |  | 0 |  |  | (127) |  |  | 0 |  |
+| Total revenues | $ | 307,394 |  | 100 | % |  | $ | 350,018 |  | 100 | % |  | $ | 402,836 |  | 100 | % |
+
+
+Table of Contents
+Alphabet Inc.
+
+In December 2023, the FASB issued ASU 2023-09 "Income Taxes (Topics 740): Improvements to Income Tax Disclosures" which expands
+the disclosure requirements for income taxes. We adopted this ASU for our 2025 annual period with the comparative periods updated to reﬂect
+additional disclosures. See Note 14 for the revised disclosures consistent with the new standard.
+
+
+#### Prior Period Reclassifications
+
+Certain amounts in prior periods have been reclassified to conform with current period presentation.
+
+
+#### Note 2. Revenues
+
+
+#### Disaggregated Revenues
+
+
+#### The following table presents revenues disaggregated by type (in millions):
+
+Year Ended December 31,
+2023
+2024
+2025
+Google Search & other
+$
+175,033 
+$
+198,084 
+$
+224,532 
+YouTube ads
+31,510 
+36,147 
+40,367 
+Google Network
+31,312 
+30,359 
+29,792 
+Google advertising
+237,855 
+264,590 
+294,691 
+Google subscriptions, platforms, and devices
+34,688 
+40,340 
+48,030 
+Google Services total
+272,543 
+304,930 
+342,721 
+Google Cloud
+33,088 
+43,229 
+58,705 
+Other Bets
+1,527 
+1,648 
+1,537 
+Hedging gains (losses)
+236 
+211 
+(127)
+Total revenues
+$
+307,394 
+$
+350,018 
+$
+402,836
+
+No individual customer or groups of affiliated customers represented more than 10% of our revenues in 2023, 2024, or 2025.
+
+The following table presents revenues disaggregated by geography, based on the addresses of our customers (in millions):
+
+Year Ended December 31,
+ 
+2023
+2024
+2025
+United States
+$
+146,286 
+47 %
+$
+170,447 
+49 %
+$
+194,229 
+48 %
+EMEA
+91,038 
+30 
+102,127 
+29 
+117,152 
+29 
+APAC
+51,514 
+17 
+56,815 
+16 
+67,680 
+17 
+Other Americas
+18,320 
+6 
+20,418 
+6 
+23,902 
+6 
+Hedging gains (losses)
+236 
+0 
+211 
+0 
+(127)
+0 
+Total revenues
+$
+307,394 
+100 %
+$
+350,018 
+100 %
+$
+402,836 
+100 %
+
+Regions represent Europe, the Middle East, and Africa (EMEA); Asia-Pacific (APAC); and Canada and Latin America ("Other Americas").
+
+
+#### Revenue Backlog
+
+As of December 31, 2025, we had $ 242.8 billion of remaining performance obligations (“revenue backlog"), primarily related to Google
+Cloud. Revenue backlog represents commitments in customer contracts that have not yet been recognized as revenue. We expect to recognize
+just over 50% of the revenue backlog as revenues over the next 24 months with the remainder to be recognized thereafter. The estimated
+revenue backlog and timing of revenue recognition for these commitments is largely driven by contract duration, our ability to deliver in
+accordance with relevant contract terms, and when our customers utilize services. Revenue backlog includes related deferred revenue currently
+recorded as well as amounts that will be invoiced in future periods, and excludes contracts with an original expected term of one year or less and
+cancellable contracts.
+
+
+#### Deferred Revenues
+
+We record deferred revenues when cash payments are received or due in advance of our performance, including amounts which are
+refundable. Deferred revenues primarily relate to Google Cloud and Google subscriptions, platforms, and devices. Total deferred revenue as of
+December 31, 2024 was $6.0 billion, of which $4.6 billion was
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+60.
+
+
+## Page 62
+
+### Table 62.1
+
+|  |  |  |  |  |  | $ |  |  |  |  | 12,407 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| equivalents: |  |  |  |  |  |  |  |  |  |  |  |
+| ney market funds $ |  |  | 8,15$4 |  |  |  | $0 |  |  |  | 8,154 |
+| e deposits |  | 0 |  |  |  | 2,081 |  |  |  | 2,081 |  |
+| ernment bonds |  | 0 |  |  |  | 746 |  |  |  | 746 |  |
+| porate debt securities |  | 0 |  |  |  | 78 |  |  |  | 78 |  |
+| otal cash and cash equivalents |  | 8,154 |  |  |  | 2,905 |  |  |  | 23,466 |  |
+| etable securities: |  |  |  |  |  |  |  |  |  |  |  |
+| ketable equity securities(1) |  | 4,708 |  |  |  | 105 |  |  |  | 4,813 |  |
+| e deposits |  | 0 |  |  |  | 136 |  |  |  | 136 |  |
+| ernment bonds |  | 0 |  |  |  | 28,709 |  |  |  | 28,709 |  |
+| porate debt securities |  | 0 |  |  |  | 21,116 |  |  |  | 21,116 |  |
+| tgage-backed and asset-backed securities |  | 0 |  |  |  | 17,417 |  |  |  | 17,417 |  |
+| otal marketable securities |  | 4,708 |  |  |  | 67,483 |  |  |  | 72,191 |  |
+| $ |  |  | 12,86$2 |  |  |  | 70,38$8 |  |  |  | 95,657 |
+
+
+Table of Contents
+Alphabet Inc.
+
+recognized as revenues for the year ended December 31, 2025. Total deferred revenue as of December 31, 2025 was $ 8.6 billion.
+
+
+#### Note 3. Financial Instruments
+
+
+#### Fair Value Measurements
+
+
+#### Investments Measured at Fair Value on a Recurring Basis
+
+Cash equivalents and marketable equity securities are measured at fair value and classiﬁed within Level 1 and Level 2 in the fair value
+hierarchy, because we use quoted prices for identical assets in active markets or inputs that are based upon quoted prices for similar
+instruments in active markets.
+
+Debt securities are measured at fair value and classiﬁed within Level 2 in the fair value hierarchy, because we use quoted market prices to
+the extent available or alternative pricing sources and models utilizing market observable inputs to determine fair value.
+
+The following tables summarize our cash, cash equivalents, and marketable securities measured at fair value on a recurring basis (in
+millions):
+
+As of December 31, 2024
+Quoted Prices in
+
+Active Markets
+for Identical Assets
+
+
+#### (Level 1)
+
+Significant Other
+Observable Inputs
+
+(Level 2)
+Total
+sh
+$
+12,407 
+sh equivalents:
+
+oney market funds
+$
+8,154 
+$
+0 
+$
+8,154 
+me deposits
+0 
+2,081 
+2,081 
+overnment bonds
+0 
+746 
+746 
+orporate debt securities
+0 
+78 
+78 
+Total cash and cash equivalents
+8,154 
+2,905 
+23,466 
+rketable securities:
+arketable equity securities
+4,708
+105
+4,813
+me deposits
+0 
+136 
+136 
+overnment bonds
+0
+28,709
+28,709
+orporate debt securities
+0
+21,116
+21,116
+ortgage-backed and asset-backed securities
+0
+17,417
+17,417
+Total marketable securities
+4,708 
+67,483 
+72,191 
+al
+$
+12,862 
+$
+70,388 
+$
+95,657
+
+The long-term portion of marketable equity securities (subject to long-term lock-up restrictions) of $266 million as of December 31, 2024 is included
+within other non-current assets.
+
+
+#### (1)
+
+
+#### (1)
+
+61.
+
+
+## Page 63
+
+### Table 63.1
+
+| Cash |  |  |  |  |  |  | $ | 15,305 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash equivalents: |  |  |  |  |  |  |  |  |
+| Money market funds |  | $ | 11,349 |  | $ | 0 | $ | 11,349 |
+| Time deposits |  | 0 |  |  | 3,353 |  | 3,353 |  |
+| Government bonds |  | 0 |  |  | 602 |  | 602 |  |
+| Corporate debt securities |  | 0 |  |  | 99 |  | 99 |  |
+| Total cash and cash equivalents |  | 11,349 |  |  | 4,054 |  | 30,708 |  |
+| Marketable securities: |  |  |  |  |  |  |  |  |
+| Marketable equity securities |  | 4,402 |  |  | 1,911 |  | 6,313 |  |
+| Time deposits |  | 0 |  |  | 0 |  | 0 |  |
+| Government bonds |  | 0 |  |  | 50,549 |  | 50,549 |  |
+| Corporate debt securities |  | 0 |  |  | 21,565 |  | 21,565 |  |
+| Mortgage-backed and asset-backed securities |  | 0 |  |  | 17,708 |  | 17,708 |  |
+| Total marketable securities |  | 4,402 |  |  | 91,733 |  | 96,135 |  |
+| Total |  | $ | 15,751 |  | $ | 95,787 | $ | 126,843 |
+
+
+### Table 63.2
+
+| Due in 1 year or less $ | 26,735 |
+| --- | --- |
+
+
+
+### Table 63.3
+
+| Due in 5 years through 10 years | 12,769 |
+| --- | --- |
+
+
+
+### Table 63.4
+
+| Total $ | 89,822 |
+| --- | --- |
+
+
+
+Table of Contents
+Alphabet Inc.
+
+As of December 31, 2025
+Quoted Prices in
+
+Active Markets
+for Identical Assets
+
+
+#### (Level 1)
+
+Significant Other
+Observable Inputs
+
+(Level 2)
+Total
+Cash
+$
+15,305 
+Cash equivalents:
+
+Money market funds
+$
+11,349 
+$
+0 
+$
+11,349 
+Time deposits
+0 
+3,353 
+3,353 
+Government bonds
+0 
+602 
+602 
+Corporate debt securities
+0 
+99 
+99 
+Total cash and cash equivalents
+11,349 
+4,054 
+30,708 
+Marketable securities:
+
+Marketable equity securities
+4,402
+1,911
+6,313
+Time deposits
+0 
+0 
+0 
+Government bonds
+0
+50,549
+50,549
+Corporate debt securities
+0
+21,565
+21,565
+Mortgage-backed and asset-backed securities
+0
+17,708
+17,708
+Total marketable securities
+4,402 
+91,733 
+96,135 
+Total
+$
+15,751 
+$
+95,787 
+$
+126,843
+
+
+#### Investments Measured at Fair Value on a Nonrecurring Basis
+
+Non-marketable equity securities accounted for under the measurement alternative are investments in privately held companies without
+readily determinable market values. The carrying value of these non-marketable equity securities is adjusted upward or downward to fair value
+upon observable transactions for identical or similar investments of the same issuer or impairment. Non-marketable equity securities that have
+been remeasured during the period based on observable transactions are classiﬁed within Level 2 or Level 3 in the fair value hierarchy, and
+remeasurements due to impairment are classiﬁed within Level 3. Our valuation methods include option pricing models, market comparable
+approach, and common stock equivalent method, which may include a combination of the observable transaction price at the transaction date
+and other unobservable inputs including volatility, expected time to exit, risk free rate, and the rights and obligations of the securities we hold.
+These inputs vary significantly based on investment type.
+
+As of December 31, 2025, the carrying value of our non-marketable equity securities accounted for under the measurement alternative was
+$64.1 billion, of which $45.6 billion were remeasured at fair value during the year ended December 31, 2025, and were primarily classiﬁed within
+Level 2 of the fair value hierarchy at the time of measurement.
+
+
+#### Debt and Equity Securities
+
+
+#### Debt Securities
+
+The following table summarizes the estimated fair value of investments in available-for-sale marketable debt securities by eﬀective
+contractual maturity dates (in millions):
+
+As of
+December 31, 2025
+Due in 1 year or less
+$
+26,735 
+Due in 1 year through 5 years
+37,001 
+Due in 5 years through 10 years
+12,769 
+Due after 10 years
+13,317 
+Total
+$
+89,822
+
+The following tables present fair values and gross unrealized gains and losses recorded to AOCI, less any expected credit losses,
+aggregated by investment category (in millions):
+
+62.
+
+
+## Page 67
+
+### Table 67.1
+
+| Derivatives designated as hedging instruments: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cash flow hedges | $ | 20,315 |  | $ | 23,852 |
+
+
+### Table 67.2
+
+| Net investment hedges | $ | 6,986 |  | $ | 14,203 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 67.3
+
+| Foreign exchange contracts | $ | 44,227 |  | $ | 56,085 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 67.4
+
+| Other contracts | $ | 15,082 |  | $ | 15,900 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 67.5
+
+| Derivatives designated as hedging instruments: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign exchange contracts | $ | 1,054 |  | $ | 0 |  | $ | 316 |  | $ | 197 |
+| Derivatives not designated as hedging instruments: |  |  |  |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts | 200 |  |  | 593 |  |  | 92 |  |  | 84 |  |
+| Other contracts | 474 |  |  | 19 |  |  | 324 |  |  | 98 |  |
+| Total derivatives not designated as hedging instruments | 674 |  |  | 612 |  |  | 416 |  |  | 182 |  |
+| Total | $ | 1,728 |  | $ | 612 |  | $ | 732 |  | $ | 379 |
+
+
+Table of Contents
+Alphabet Inc.
+
+subsidiaries. Net investment hedge amounts included in the assessment of hedge effectiveness  are recognized in AOCI.
+
+Changes in the fair value of hedge components of forward and option contracts that are excluded from the assessment of hedge
+eﬀectiveness are recognized in OI&E. Hedge components of cross-currency swaps that are excluded from the assessment of hedge
+eﬀectiveness are amortized over the life of the hedging instrument and recognized in OI&E. The diﬀerence between fair value changes of the
+excluded component and the amount amortized to OI&E is recorded in AOCI.
+
+We had no foreign currency-denominated debt as of December 31, 2024 and $ 15.4 billion carrying value of foreign currency-denominated
+debt designated as net investment hedges as of December 31, 2025.
+
+
+#### Derivatives Not Designated as Hedging Instruments
+
+We enter into derivatives not designated as hedging instruments to manage risks related to our ongoing business operations. The primary
+risk managed is foreign exchange risk related to the remeasurement of monetary assets or liabilities denominated in currencies other than the
+functional currency of a subsidiary. Gains and losses on these foreign exchange derivatives are recorded within the “foreign currency exchange
+gain (loss), net” component of OI&E.
+
+We also enter into derivatives to manage other risks, to enhance investment returns, and as a result of agreements with certain third parties
+to backstop certain obligations relating to data center leases. Gains and losses arising from other derivatives are primarily reﬂected within the
+“other” component of OI&E. See Note 7 for further details.
+
+The gross notional amounts of outstanding derivative instruments were as follows (in millions):
+
+As of December 31,
+2024
+2025
+Derivatives designated as hedging instruments:
+Foreign exchange contracts
+
+Cash flow hedges
+$
+20,315 
+$
+23,852 
+Fair value hedges
+$
+1,562 
+$
+0 
+Net investment hedges
+$
+6,986 
+$
+14,203 
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts
+$
+44,227 
+$
+56,085 
+Credit derivatives
+$
+0 
+$
+16,940 
+Other contracts
+$
+15,082 
+$
+15,900
+
+Notional amounts for credit derivatives are the backstop obligations related to certain third-party data center leases and represent the maximum potential
+
+amount of future payments that could be required in the event of certain default scenarios over remaining agreement periods of up to 15 years. In the
+event we are required to make payments under certain backstop obligations, we may receive equity in or cash payments from certain counterparties,
+the amounts for which are not reflected in the notional amounts for credit derivatives. See Note 5 for further details.
+
+The fair values of outstanding derivative instruments were as follows (in millions):
+
+As of December 31, 2024
+As of December 31, 2025
+ 
+Assets
+Liabilities
+Assets
+Liabilities
+Derivatives designated as hedging instruments:
+Foreign exchange contracts
+$
+1,054 
+$
+0 
+$
+316 
+$
+197 
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts
+200 
+593 
+92 
+84 
+Other contracts
+474 
+19 
+324 
+98 
+Total derivatives not designated as hedging instruments
+674 
+612 
+416 
+182 
+Total
+$
+1,728 
+$
+612 
+$
+732 
+$
+379
+
+Derivative assets are recorded as other current and non-current assets.
+
+Derivative liabilities are recorded as accrued expenses and other liabilities, current and non-current.
+
+
+#### (1)
+
+
+#### (1)
+
 (1)
 (2)
-(2)
 (1)
+(2)
 
 
 #### (1)
@@ -1991,227 +3482,1393 @@ Report on Form 10-K.
 
 #### (2)
 
-25.
+66.
 
 
-## Page 27
+## Page 68
+
+### Table 68.1
+
+| Cash flow hedging relationship: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign exchange and other contracts |  |  |  |  |  |  |  |  |
+| Amount included in the assessment of effectiveness | $ | 90 |  | $ | 857 |  | $ | (978) |
+| Amount excluded from the assessment of effectiveness | 84 |  |  | 77 |  |  | (45) |  |
+| Net investment hedging relationship: |  |  |  |  |  |  |  |  |
+| Amounts included in the assessment of effectiveness |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts | (287) |  |  | 223 |  |  | (765) |  |
+| Foreign currency-denominated debt | 0 |  |  | 0 |  |  | (393) |  |
+| Amounts excluded from the assessment of effectiveness |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts | 0 |  |  | 0 |  |  | 11 |  |
+| Total | $ | (113) |  | $ | 1,157 |  | $ | (2,170) |
+
+
+### Table 68.2
+
+| Total amounts included on the Consolidated Statements of Income | $ | 307,394 |  | $ | 1,424 |  | $ | 350,018 |  | $ | 7,425 |  | $ | 402,836 |  | $ | 29,787 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Effect of cash flow hedges: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Amount included in the assessment of effectiveness | 213 |  |  | 0 |  |  | 174 |  |  | 0 |  |  | (233) |  |  | 0 |  |
+| Amount excluded from the assessment of effectiveness | 24 |  |  | 0 |  |  | 37 |  |  | 0 |  |  | 107 |  |  | 0 |  |
+| Effect of fair value hedges: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hedged items | 0 |  |  | 59 |  |  | 0 |  |  | (59) |  |  | 0 |  |  | (9) |  |
+| Amount included in the assessment of effectiveness | 0 |  |  | (59) |  |  | 0 |  |  | 58 |  |  | 0 |  |  | 9 |  |
+| Amount excluded from the assessment of effectiveness | 0 |  |  | 15 |  |  | 0 |  |  | 13 |  |  | 0 |  |  | 1 |  |
+| Effect of net investment hedges: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Amount excluded from the assessment of effectiveness | 0 |  |  | 187 |  |  | 0 |  |  | 137 |  |  | 0 |  |  | 189 |  |
+| Effect of non-designated hedges: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Foreign exchange contracts | 0 |  |  | 7 |  |  | 0 |  |  | 335 |  |  | 0 |  |  | 445 |  |
+| Other contracts | 0 |  |  | 53 |  |  | 0 |  |  | 174 |  |  | 0 |  |  | (148) |  |
+| Total gains (losses) | $ | 237 |  | $ | 262 |  | $ | 211 |  | $ | 658 |  | $ | (126) |  | $ | 487 |
+
+
+Table of Contents
+Alphabet Inc.
+
+The gains (losses) on derivatives and non-derivative ﬁnancial instruments in cash ﬂow hedging and net investment hedging relationships
+recognized in other comprehensive income are summarized below (in millions):
+
+Year Ended December 31,
+2023
+2024
+2025
+Cash flow hedging relationship:
+Foreign exchange and other contracts
+
+Amount included in the assessment of effectiveness
+$
+90 
+$
+857 
+$
+(978)
+Amount excluded from the assessment of effectiveness
+84 
+77 
+(45)
+Net investment hedging relationship:
+
+
+#### Amounts included in the assessment of effectiveness
+
+Foreign exchange contracts
+(287)
+223 
+(765)
+Foreign currency-denominated debt
+0 
+0 
+(393)
+Amounts excluded from the assessment of effectiveness
+
+Foreign exchange contracts
+0 
+0 
+11 
+Total
+$
+(113)
+$
+1,157 
+$
+(2,170)
+
+The table below presents the gains (losses) of derivatives included on the Consolidated Statements of Income: (in millions):
+
+Year Ended December 31,
+2023
+2024
+2025
+
+
+#### Revenues
+
+Other income
+(expense), net
+Revenues
+
+Other income
+(expense), net
+Revenues
+
+Other income
+(expense), net
+Total amounts included on the Consolidated Statements
+of Income
+$
+307,394 
+$
+1,424 
+$
+350,018 
+$
+7,425 
+$
+402,836 
+$
+29,787
+
+
+#### Effect of cash flow hedges:
+
+
+#### Foreign exchange contracts
+
+Amount included in the assessment of
+effectiveness
+213 
+0 
+174 
+0 
+(233)
+0 
+Amount excluded from the assessment of
+effectiveness
+24 
+0 
+37 
+0 
+107 
+0 
+Effect of fair value hedges:
+
+
+#### Foreign exchange contracts
+
+Hedged items
+0 
+59 
+0 
+(59)
+0 
+(9)
+Amount included in the assessment of
+effectiveness
+0 
+(59)
+0 
+58 
+0 
+9 
+Amount excluded from the assessment of
+effectiveness
+0 
+15 
+0 
+13 
+0 
+1 
+Effect of net investment hedges:
+
+
+#### Foreign exchange contracts
+
+Amount excluded from the assessment of
+effectiveness
+0 
+187 
+0 
+137 
+0 
+189 
+Effect of non-designated hedges:
+
+Foreign exchange contracts
+0 
+7 
+0
+335 
+0 
+445 
+Other contracts
+0 
+53 
+0 
+174 
+0 
+(148)
+Total gains (losses)
+$
+237 
+$
+262 
+$
+211 
+$
+658 
+$
+(126)
+$
+487
+
+67.
+
+
+## Page 69
+
+### Table 69.1
+
+| erivatives assets | $ |  | 1,776 | $ |  | (48) |  | $ |  | 1,728 |  | $ |  | (516) |  | $ |  | (721) | $ |  | 491 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| erivatives liabilities | $ |  | 660 | $ |  | (48) |  | $ |  | 612 |  | $ |  | (516) |  |  |  | (9) | $ |  | 87 |  |
+
+
+### Table 69.2
+
+| erivatives assets | $ |  | 842 | $ |  | (110) |  | $ |  | 732 |  | $ |  | (140) |  | $ |  | (231) | $ |  | 361 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.3
+
+| Operating lease cost | $ | 3,362 |  | $ | 3,304 |  | $ | 3,345 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Finance lease cost: |  |  |  |  |  |  |  |  |
+| Amortization of lease assets | 469 |  |  | 413 |  |  | 553 |  |
+| Interest on lease liabilities | 35 |  |  | 31 |  |  | 65 |  |
+| Finance lease cost | 504 |  |  | 444 |  |  | 618 |  |
+| Variable lease cost | 1,182 |  |  | 1,425 |  |  | 1,739 |  |
+| Total lease cost | $ | 5,048 |  | $ | 5,173 |  | $ | 5,702 |
+
 
 Table of Contents
 Alphabet Inc.
 
 
-#### Stock Performance Graphs
+#### Offsetting of Derivatives
 
-The graph below matches Alphabet Inc. Class A's cumulative ﬁve-year total stockholder return on common stock with the cumulative total
-returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a
-$100 investment in our common stock and in each index (with the reinvestment of all dividends) from December 31, 2020, to December 31,
-2025. The returns shown are based on historical results and are not intended to suggest future performance.
+We enter into master netting arrangements and collateral security arrangements to reduce credit risk. Cash collateral received related to
+derivative instruments under our collateral security arrangements are included in other current assets with a corresponding liability. Cash and
+non-cash collateral pledged related to derivative instruments under our collateral security arrangements are primarily included in other current
+assets.
 
-
-### COMPARISON OF CUMULATIVE 5-YEAR TOTAL RETURN*
-
-
-### ALPHABET INC. CLASS A COMMON STOCK
+The gross amounts of derivative instruments subject to master netting arrangements with various counterparties, and cash and non-cash
+collateral received and pledged under such agreements were as follows (in millions):
 
 
-#### Among Alphabet Inc., the S&P 500 Index, the
+#### As of December 31, 2024
+
+Gross Amounts Not Offset in the
+Consolidated Balance Sheets, but
 
 
-#### NASDAQ Composite Index, and the RDG Internet Composite Index
-
-*$100 invested on December 31, 2020, in stock or index, including reinvestment of dividends.
-
-Copyright  2026 S&P, a division of The McGraw-Hill Companies Inc. All rights reserved.
-©
-
-26.
+#### Have Legal Rights to Offset
 
 
-## Page 28
+#### Gross Amounts
+
+
+#### Recognized
+
+
+#### Gross Amounts
+
+Offset in the
+Consolidated
+Balance Sheets
+
+Net Amounts
+Presented in the
+
+Consolidated
+Balance Sheets
+
+Financial
+Instruments
+
+
+#### Cash and Non-
+
+
+#### Cash Collateral
+
+
+#### Received or
+
+Pledged
+Net Amounts
+Derivatives assets
+$
+1,776 $
+(48) $
+1,728 $
+(516) $
+(721) $
+491 
+Derivatives liabilities
+$
+660 $
+(48) $
+612 $
+(516) $
+(9) $
+87
+
+
+#### As of December 31, 2025
+
+Gross Amounts Not Offset in the
+Consolidated Balance Sheets, but
+
+
+#### Have Legal Rights to Offset
+
+
+#### Gross Amounts
+
+
+#### Recognized
+
+
+#### Gross Amounts
+
+Offset in the
+Consolidated
+Balance Sheets
+
+Net Amounts
+Presented in the
+
+Consolidated
+Balance Sheets
+
+Financial
+Instruments
+
+
+#### Cash and Non-
+
+
+#### Cash Collateral
+
+
+#### Received or
+
+Pledged
+Net Amounts
+Derivatives assets
+$
+842 $
+(110) $
+732 $
+(140) $
+(231) $
+361 
+Derivatives liabilities
+$
+489 $
+(110) $
+379 $
+(140) $
+(15) $
+224
+
+The balances as of December 31, 2024 and 2025 were related to derivatives allowed to be net settled in accordance with our master netting
+
+agreements.
+
+
+#### Note 4. Leases
+
+We have entered into operating and ﬁnance lease agreements primarily for data centers, land, and oﬃces throughout the world with
+varying lease terms.
+
+
+#### Components of lease costs were as follows (in millions):
+
+Year Ended December 31,
+2023
+2024
+2025
+Operating lease cost
+$
+3,362 
+$
+3,304 
+$
+3,345 
+Finance lease cost:
+
+Amortization of lease assets
+469 
+413 
+553 
+Interest on lease liabilities
+35 
+31 
+65 
+Finance lease cost
+504 
+444 
+618 
+Variable lease cost
+1,182 
+1,425 
+1,739
+
+Total lease cost
+$
+5,048 
+$
+5,173 
+$
+5,702
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+68.
+
+
+## Page 70
+
+### Table 70.1
+
+| Weighted-average remaining lease term: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Operating leases | 7.8 years |  |  | 7.6 years |  |
+| Finance leases | 10.4 years |  |  | 8.3 years |  |
+| Weighted-average discount rate: |  |  |  |  |  |
+| Operating leases | 3.4 | % |  | 3.6 | % |
+| Finance leases | 2.8 | % |  | 3.1 | % |
+
+
+### Table 70.2
+
+| Operating leases: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Operating lease assets | $ | 13,588 |  | $ | 15,221 |
+| Accrued expenses and other liabilities | $ | 2,887 |  | $ | 3,209 |
+| Operating lease liabilities | 11,691 |  |  | 12,744 |  |
+| Total operating lease liabilities | $ | 14,578 |  | $ | 15,954 |
+| Finance leases: |  |  |  |  |  |
+| Property and equipment, at cost | $ | 4,622 |  | $ | 6,822 |
+| Accumulated depreciation | (2,037) |  |  | (2,025) |  |
+| Property and equipment, net | $ | 2,585 |  | $ | 4,797 |
+| Accrued expenses and other liabilities | $ | 235 |  | $ | 441 |
+| Other long-term liabilities | 1,442 |  |  | 2,059 |  |
+| Total finance lease liabilities | $ | 1,677 |  | $ | 2,500 |
+
+
+### Table 70.3
+
+| Cash payments for lease liabilities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Operating cash flows used for operating leases | $ | 3,173 |  | $ | 3,425 |  | $ | 3,370 |
+| Operating cash flows used for finance leases | $ | 35 |  | $ | 31 |  | $ | 65 |
+| Financing cash flows used for finance leases(1) | $ | 705 |  | $ | 405 |  | $ | 1,988 |
+| Assets obtained in exchange for lease liabilities: |  |  |  |  |  |  |  |  |
+| Operating leases | $ | 2,877 |  | $ | 2,510 |  | $ | 4,070 |
+| Finance leases | $ | 564 |  | $ | 313 |  | $ | 1,606 |
+
 
 Table of Contents
 Alphabet Inc.
 
-The graph below matches Alphabet Inc. Class C's cumulative ﬁve-year total stockholder return on capital stock with the cumulative total
-returns of the S&P 500 index, the NASDAQ Composite index, and the RDG Internet Composite index. The graph tracks the performance of a
-$100 investment in our Class C capital stock and in each index (with the reinvestment of all dividends) from December 31, 2020, to
-December 31, 2025. The returns shown are based on historical results and are not intended to suggest future performance.
+
+#### Supplemental information related to leases was as follows (in millions):
+
+December 31,
+2024
+2025
+Weighted-average remaining lease term:
+
+Operating leases
+7.8 years
+7.6 years
+Finance leases
+10.4 years
+8.3 years
+Weighted-average discount rate:
+
+Operating leases
+3.4 %
+3.6 %
+Finance leases
+2.8 %
+3.1 %
+
+December 31,
+2024
+2025
+Operating leases:
+
+Operating lease assets
+$
+13,588 
+$
+15,221
+
+Accrued expenses and other liabilities
+$
+2,887 
+$
+3,209 
+Operating lease liabilities
+11,691 
+12,744
+
+Total operating lease liabilities
+$
+14,578 
+$
+15,954 
+Finance leases:
+
+Property and equipment, at cost
+$
+4,622 
+$
+6,822 
+Accumulated depreciation
+(2,037)
+(2,025)
+
+Property and equipment, net
+$
+2,585 
+$
+4,797
+
+Accrued expenses and other liabilities
+$
+235 
+$
+441 
+Other long-term liabilities
+1,442 
+2,059
+
+Total finance lease liabilities
+$
+1,677 
+$
+2,500
+
+Year Ended December 31,
+2023
+2024
+2025
+Cash payments for lease liabilities:
+
+Operating cash flows used for operating leases
+$
+3,173 
+$
+3,425 
+$
+3,370 
+Operating cash flows used for finance leases
+$
+35 
+$
+31 
+$
+65 
+Financing cash flows used for finance leases
+$
+705 
+$
+405 
+$
+1,988 
+Assets obtained in exchange for lease liabilities:
+
+Operating leases
+$
+2,877 
+$
+2,510 
+$
+4,070 
+Finance leases
+$
+564 
+$
+313 
+$
+1,606
+
+Financing cash ﬂows used for ﬁnancing leases are included within ﬁnancing activities as repayments of debt. The year ended December 31, 2025
+includes $1.1 billion of prepayments for finance leases not yet commenced.
 
 
-### COMPARISON OF CUMULATIVE 5-YEAR TOTAL RETURN*
+#### (1)
 
 
-### ALPHABET INC. CLASS C CAPITAL STOCK
+#### (1)
+
+69.
 
 
-#### Among Alphabet Inc., the S&P 500 Index, the
-
-
-#### NASDAQ Composite Index, and the RDG Internet Composite Index
-
-*$100 invested on December 31, 2020, in stock or in index, including reinvestment of dividends.
-
-Copyright  2026 S&P, a division of The McGraw-Hill Companies Inc. All rights reserved.
-
-ITEM 6.
-[Reserved]
-
-
-#### ©
-
-27.
-
-
-## Page 29
+## Page 92
 
 Table of Contents
 Alphabet Inc.
 
-ITEM 7.
-MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-Please read the following discussion and analysis of our ﬁnancial condition and results of operations together with “Note about Forward-
-Looking Statements,” Part I, Item 1 "Business," Part I, Item 1A "Risk Factors," and our consolidated ﬁnancial statements and related notes
-included under Item 8 of this Annual Report on Form 10-K.
+### PART III
 
-The following section generally discusses 2025 results compared to 2024 results. Discussion of 2024 results compared to 2023 results to
-the extent not included in this report can be found in Item 7 of our 2024 Annual Report on Form 10-K.
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
 
+The information required by this item will be included under the caption "Directors, Executive Oﬃcers, and Corporate Governance" in our
+Proxy Statement for the 2026 Annual Meeting of Stockholders to be ﬁled with the SEC within 120 days of the ﬁscal year ended December 31,
+2025 (2026 Proxy Statement) and is incorporated herein by reference. The information required by this item regarding delinquent ﬁlers pursuant
+to Item 405 of Regulation S-K will be included under the caption "Delinquent Section 16(a) Reports" in the 2026 Proxy Statement and is
+incorporated herein by reference.
 
-#### Understanding Alphabet’s Financial Results
+We have adopted insider trading policies and procedures governing the purchase, sale, and other dispositions of securities of Alphabet by
+directors, oﬃcers, and employees that we believe are reasonably designed to promote compliance with insider trading laws, rules and
+regulations, and applicable Nasdaq listing standards. Our insider trading policy states, among other things, that our directors, oﬃcers, and
+employees are prohibited from trading in such securities while in possession of material, nonpublic information. The foregoing summary of our
+insider trading policies and procedures does not purport to be complete and is qualified by reference to our Policy Against Insider Trading filed as
+Exhibit 19.1 to our 2024 Annual Report on Form 10-K and incorporated by reference herein.
 
-Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google
-Cloud, and all non-Google businesses collectively as Other Bets. Supporting these businesses, we have centralized certain AI-related research
-and development focused on advanced research in AI and developing the frontier models that serve our businesses, which is reported in
-Alphabet-level activities. For further details on our segments, see Part I, Item 1 Business and Note 15 of the Notes to Consolidated Financial
-Statements included in Item 8 of this Annual Report on Form 10-K.
+ITEM 11.
+EXECUTIVE COMPENSATION
 
+The information required by this item will be included under the captions "Director Compensation," "Executive Compensation" and
+"Directors, Executive Oﬃcers, and Corporate Governance—Corporate Governance and Board Matters—Compensation Committee Interlocks
+and Insider Participation" in the 2026 Proxy Statement and is incorporated herein by reference, except as to information disclosed therein
+pursuant to Item 402(v) of Regulation S-K relating to pay versus performance.
 
-#### Trends in Our Business and Financial Effect
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER
+MATTERS
 
-The following long-term trends have contributed to the results of our consolidated operations, and we anticipate that they will continue to
-affect our future results:
+The information required by this item will be included under the captions "Common Stock Ownership of Certain Beneﬁcial Owners and
+Management" and "Equity Compensation Plan Information" in the 2026 Proxy Statement and is incorporated herein by reference.
 
-•
-As we continue to grow our business and meet the evolving behaviors and needs of our users and customers, our revenue
-growth and mix along with our cost and margin profiles are being influenced by a number of factors, including:
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
 
-Expanded AI Oﬀerings in our Products and Services: The continuing evolution of the online world has contributed to the growth of our
-business. We expect that this evolution, including user engagement with AI products and services, will continue to beneﬁt our business and
-our revenues. As we continue to incorporate AI into our products and services, such as with AI Overviews and AI Mode in Search, and with
-enterprise AI solutions on our Google Cloud Platform, we may monetize diﬀerently than our historical consumer and enterprise oﬀerings
-which could aﬀect revenue growth rates and margin trends. When developing new products and services we generally focus ﬁrst on user
-experience and then on monetization. At the same time, we face increasing competition, including from other developers and providers of
-AI products and services, which may affect our revenues.
+The information required by this item will be included under the captions "Certain Relationships and Related Transactions" and "Directors,
+Executive Oﬃcers, and Corporate Governance—Corporate Governance and Board Matters—Director Independence" in the 2026 Proxy
+Statement and is incorporated herein by reference.
 
-Increasing Revenues Beyond Advertising: Revenues from cloud, consumer subscriptions, platforms, and devices, which may have
-diﬀering characteristics than our advertising revenues, have grown over time. Certain of these revenues have been growing at a rate higher
-than our advertising revenues, becoming a larger percentage of our consolidated revenues, and we expect this trend to continue. The
-margins on these revenues vary significantly and are generally lower than the margins on our advertising revenues.
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
 
-Increased Investment in Technical Infrastructure:  We continue to invest in capital expenditures as we scale our technical infrastructure,
-in particular for AI, to meet the demand of our users and enterprise customers and to support research internally. We invested heavily in
-capital expenditures in 2025 and in 2026, we expect to significantly increase, relative to 2025, our i nvestment in our technical infrastructure,
-including servers and network equipment, and data centers. The costs associated with operating our technical infrastructure - depreciation,
-energy, equipment, and network capacity - are expected to signiﬁcantly increase as developing and serving AI oﬀerings require more
-compute power than our historical consumer and enterprise oﬀerings. While our technical infrastructure costs increase, we expect to
-continue to drive eﬃciencies in our data centers, for example, through the design of our AI models and our TPU and GPU-based technical
-infrastructure.
+The information required by this item will be included under the caption "Independent Registered Public Accounting Firm" in the 2026 Proxy
+Statement and is incorporated herein by reference.
 
-Continued Investment in Intellectual Property through R&D and Acquisitions: We continue to make signiﬁcant research and
-development investments in areas of strategic focus as we seek to develop new, innovative oﬀerings, and improve our existing oﬀerings
-across our businesses. Acquisitions and strategic investments remain important elements in our use of capital and contribute to the breadth
-and depth of our oﬀerings, expand our expertise in engineering and other functional areas, and build strong partnerships around strategic
-initiatives.
-
-Traﬃc Acquisition Costs Growth and Rate Changes:  We expect traﬃc acquisition costs ("TAC") paid to our distribution partners and
-Google Network partners to increase as our advertising revenues grow. Our overall TAC as a percentage of our advertising revenues ("TAC
-rate") has been decreasing primarily due to a revenue mix
-
-28.
+91.
 
 
-## Page 30
+## Page 93
+
+### Table 93.1
+
+| Year ended December 31, 2023 | $ | 1,213 |  | $ | 3,115 |  | $ | (2,737) |  | $ | 1,591 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Year ended December 31, 2024 | $ | 1,591 |  | $ | 2,895 |  | $ | (2,850) |  | $ | 1,636 |
+| Year ended December 31, 2025 | $ | 1,636 |  | $ | 4,128 |  | $ | (3,408) |  | $ | 2,356 |
+
 
 Table of Contents
 Alphabet Inc.
 
-shift from Google Network properties to Google Search & other properties. Our TAC rate will continue to be aﬀected by changes in device
-mix; geographic mix; partner agreement terms; partner mix; the percentage of queries channeled through paid access points; product mix;
-the relative revenue growth rates of advertising revenues from different channels; and revenue share terms.
 
-•
-We have raised capital through external ﬁnancing in the form of debt and we may continue to seek debt or other forms of
-financing in the future to support our capital and operating needs.
+### PART IV
 
-In 2025, we raised capital through the issuance of debt and we expect to continue to assess the use of debt and other forms of ﬁnancing in
-the future. We expect to continue to enter into ﬁnance leases, primarily for data centers. Additionally, in 2025, we provided credit support, such
-as through backstops and guarantees, to certain infrastructure related counterparties and may continue to provide additional credit support in the
-future.
+ITEM 15.
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES
 
-•
-We face an evolving regulatory environment, and we are subject to claims, lawsuits, investigations, and other forms of
-potential legal liability, which could affect our business practices and financial results.
-
-Changes in social, political, economic, tax, and regulatory conditions or in laws and policies governing a wide range of topics and related
-legal matters, including investigations, lawsuits, and regulatory actions, have resulted in ﬁnes and caused us to change our business practices.
-As the regulatory environment continues to evolve, we may continue to incur ﬁnes and we expect increased costs associated with compliance,
-modiﬁcations to our products and services, and limitations on our ability to pursue certain business practices. For additional information, see Part
-I, Item 1A Risk Factors and Legal Matters in Note 10 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report
-on Form 10-K.
+We have filed the following documents as part of this Annual Report on Form 10-K:
 
 
-#### Revenues and Monetization Metrics
+#### 1. Consolidated Financial Statements
 
-We generate revenues by delivering relevant, cost-eﬀective online advertising; cloud-based solutions that provide enterprise customers of
-all sizes with infrastructure, platform services, and applications; and sales of other products and services, such as fees received for subscription-
-based products, apps and in-app purchases, and devices. For additional information on how we recognize revenue, see Note 1 of the Notes to
-Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+Reports of Independent Registered Public Accounting Firm
+45
+Financial Statements:
 
-In addition to the long-term trends and their ﬁnancial eﬀect on our business discussed above, ﬂuctuations in our revenues have been and
-may continue to be affected by a combination of factors, including:
-
-•
-changes in foreign currency exchange rates;
-
-•
-changes in pricing, such as those resulting from changes in fee structures, discounts, and customer incentives;
-
-•
-general economic conditions and various external dynamics, including geopolitical events, regulations, and other measures and their
-effect on advertiser, consumer, and enterprise spending;
-
-•
-new product, service, and market launches; and
-
-•
-seasonality.
-
-Additionally, ﬂuctuations in our revenues generated from advertising ("Google advertising"), other sources ("Google subscriptions,
-platforms, and devices"), Google Cloud, and Other Bets have been, and may continue to be, aﬀected by other factors unique to each set of
-revenues, as described below.
+Consolidated Balance Sheets
+48
+Consolidated Statements of Income
+49
+Consolidated Statements of Comprehensive Income
+50
+Consolidated Statements of Stockholders’ Equity
+51
+Consolidated Statements of Cash Flows
+52
+Notes to Consolidated Financial Statements
+53
 
 
-#### Google Services
-
-Google Services revenues consist of Google advertising as well as Google subscriptions, platforms, and devices revenues.
+#### 2. Financial Statement Schedules
 
 
-#### Google Advertising
+#### Schedule II: Valuation and Qualifying Accounts
+
+The table below details the activity of the allowance for credit losses and sales credits for the years ended December 31, 2023, 2024, and
+2025 (in millions):
+
+Balance at
+Beginning of Year
+Additions
+Usage
+
+Balance at
+End of Year
+Year ended December 31, 2023
+$
+1,213 
+$
+3,115 
+$
+(2,737)
+$
+1,591 
+Year ended December 31, 2024
+$
+1,591 
+$
+2,895 
+$
+(2,850)
+$
+1,636 
+Year ended December 31, 2025
+$
+1,636 
+$
+4,128 
+$
+(3,408)
+$
+2,356
+
+Note:
+Additions to the allowance for credit losses are charged to expense. Additions to the allowance for sales credits are charged against revenues.
+
+All other schedules have been omitted because they are not required, not applicable, or the required information is otherwise included.
 
 
-#### Google advertising revenues are comprised of the following:
+#### 3. Exhibits
 
-•
-Google Search & other, which includes revenues generated on Google search properties (including revenues from traﬃc generated by
-search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and
-operated properties like Gmail, Google Maps, and Google Play;
+Exhibit
+Number
+Description
 
-•
-YouTube ads, which includes revenues generated on YouTube properties; and
+Incorporated by reference herein
+Form
+Date
+2.01
+Agreement and Plan of Merger, dated October 2,
+2015, by and among Google Inc., the Registrant and
+Maple Technologies Inc.
 
-•
-Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad
-Manager.
+Current Report on Form 8-K (File No.
+001-37580)
 
-29.
+
+#### October 2, 2015
+
+3.01
+Amended and Restated Certificate of Incorporation of
+the Registrant
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### June 3, 2022
+
+3.02
+Amended and Restated Bylaws of the Registrant,
+dated October 19, 2022
+
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### October 25, 2022
+
+4.01
+Specimen Class A Common Stock certificate
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.02
+Specimen Class C Capital Stock certificate
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.03
+u
+Alphabet Inc. Deferred Compensation Plan
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.04
+Transfer Restriction Agreement, dated October 2,
+2015, between the Registrant and Larry Page and
+certain of his affiliates
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.05
+Transfer Restriction Agreement, dated October 2,
+2015, between the Registrant and Sergey Brin and
+certain of his affiliates
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.06
+Joinder Agreement, dated December 31, 2021,
+among the Registrant, Sergey Brin and certain of his
+affiliates
+
+Annual Report on Form 10-K (File No.
+001-37580)
+
+
+#### February 2, 2022
+
+92.
+
+
+## Page 94
+
+Table of Contents
+Alphabet Inc.
+
+Exhibit
+Number
+Description
+
+Incorporated by reference herein
+Form
+Date
+4.07
+Transfer Restriction Agreement, dated October 2,
+2015, between the Registrant and Eric E. Schmidt
+and certain of its affiliates
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.08
+Class C Undertaking, dated October 2, 2015,
+executed by the Registrant
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### October 2, 2015
+
+4.09
+Indenture, dated February 12, 2016, between the
+Registrant and The Bank of New York Mellon Trust
+Company, N.A., as Trustee
+
+Registration Statement on Form S-3 
+(File No. 333-209510)
+
+
+#### February 12, 2016
+
+4.10
+Registrant Registration Rights Agreement dated
+December 14, 2015
+
+Registration Statement on Form S-3 
+(File No. 333-209518)
+
+
+#### February 12, 2016
+
+4.11
+First Supplemental Indenture, dated April 27, 2016,
+between the Registrant and The Bank of New York
+Mellon Trust Company, N.A., as trustee
+
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### April 27, 2016
+
+4.12
+Form of the Registrant’s 1.998% Note due 2026
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### August 9, 2016
+
+4.13
+Form of Global Note representing the Registrant’s
+0.800% notes due 2027
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### August 5, 2020
+
+4.14
+Form of Global Note representing the Registrant’s
+1.100% notes due 2030
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### August 5, 2020
+
+4.15
+Form of Global Note representing the Registrant’s
+1.900% notes due 2040
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### August 5, 2020
+
+4.16
+Form of Global Note representing the Registrant’s
+2.050% notes due 2050
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### August 5, 2020
+
+4.17
+Form of Global Note representing the Registrant’s
+2.250% notes due 2060
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### August 5, 2020
+
+4.18
+Form of Global Note representing the Registrant’s
+4.000% notes due 2030
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### May 1, 2025
+
+4.19
+Form of Global Note representing the Registrant’s
+4.500% notes due 2035
+
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### May 1, 2025
+
+4.20
+Form of Global Note representing the Registrant’s
+5.250% notes due 2055
+
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### May 1, 2025
+
+4.21
+Form of Global Note representing the Registrant’s
+5.300% notes due 2065
+
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### May 1, 2025
+
+4.22
+Form of Global Note representing the Registrant’s
+2.500% notes due 2029
+
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### May 6, 2025
+
+4.23
+Form of Global Note representing the Registrant’s
+3.000% notes due 2033
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### May 6, 2025
+
+4.24
+Form of Global Note representing the Registrant’s
+3.375% notes due 2037
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### May 6, 2025
+
+4.25
+Form of Global Note representing the Registrant’s
+3.875% notes due 2045
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### May 6, 2025
+
+4.26
+Form of Global Note representing the Registrant’s
+4.000% notes due 2054
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### May 6, 2025
+
+4.27
+Form of Global Note representing the Registrant’s
+2.375% notes due 2028
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### November 6, 2025
+
+4.28
+Form of Global Note representing the Registrant’s
+2.875% notes due 2031
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### November 6, 2025
+
+4.29
+Form of Global Note representing the Registrant’s
+3.125% notes due 2034
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### November 6, 2025
+
+4.30
+Form of Global Note representing the Registrant’s
+3.500% notes due 2038
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### November 6, 2025
+
+4.31
+Form of Global Note representing the Registrant’s
+4.000% notes due 2044
+
+Current Report on Form 8-K (File No.
+001-37580)
+
+
+#### November 6, 2025
+
+93.
+
+
+## Page 95
+
+Table of Contents
+Alphabet Inc.
+
+Exhibit
+Number
+Description
+
+Incorporated by reference herein
+Form
+Date
+4.32
+Form of Global Note representing the Registrant’s
+4.375% notes due 2064
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.33
+Form of Global Note representing the Registrant’s
+floating rate notes due 2028
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.34
+Form of Global Note representing the Registrant’s
+3.875% notes due 2028
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.35
+Form of Global Note representing the Registrant’s
+4.100% notes due 2030
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.36
+Form of Global Note representing the Registrant’s
+4.375% notes due 2032
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.37
+Form of Global Note representing the Registrant’s
+4.700% notes due 2035
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.38
+Form of Global Note representing the Registrant’s
+5.350% notes due 2045
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.39
+Form of Global Note representing the Registrant’s
+5.450% notes due 2055
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.40
+Form of Global Note representing the Registrant’s
+5.700% notes due 2075
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### November 6, 2025
+
+4.41
+Description of Registrant’s Securities
+Annual Report on Form 10-K (File
+No. 001-37580)
+
+
+#### February 3, 2023
+
+10.01
+u
+Form of Indemnification Agreement entered into
+between the Registrant, its affiliates and its directors
+and officers
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### October 2, 2015
+
+10.02
+u
+Form of Offer Letter for Directors
+Annual Report on Form 10-K (File
+No. 001-37580)
+
+
+#### January 31, 2024
+
+10.03
+u
+Letter Agreement dated June 3, 2024, between Anat
+Ashkenazi and Alphabet
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### June 7, 2024
+
+10.04
+u
+Compensation Plan Agreement, dated October 2,
+2015, between Google Inc. and the Registrant
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### October 2, 2015
+
+10.05
+u
+Director Arrangements Agreement, dated October 2,
+2015, between Google Inc. and the Registrant
+
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### October 2, 2015
+
+10.06
+u
+Alphabet Inc. Deferred Compensation Plan
+Current Report on Form 8-K (File
+No. 001-37580)
+
+
+#### October 2, 2015
+
+10.07
+u
+Alphabet Inc. Amended and Restated 2012 Stock Plan
+Current Report on Form 8-K
+(File No. 001-37580)
+
+
+#### June 5, 2020
+
+10.07.1
+u
+Alphabet Inc. Amended and Restated 2012 Stock Plan
+- Form of Alphabet Restricted Stock Unit Agreement
+
+Annual Report on Form 10-K
+(File No. 001-37580)
+
+
+#### February 4, 2020
+
+10.08
+u
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+Current Report on Form 8-K (file
+No. 001-37580)
+
+
+#### June 8, 2023
+
+10.08.1
+u
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+- Form of Alphabet Restricted Stock Unit Agreement
+
+Quarterly Report on Form 10-Q (file
+No. 001-37580)
+
+
+#### July 28, 2021
+
+10.08.2
+u
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+- Form of Alphabet Restricted Stock Unit Agreement
+
+Quarterly Report on Form 10-Q (File
+No. 001-37580)
+
+
+#### July 26, 2023
+
+10.08.3
+u
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+– Form of Alphabet Restricted Stock Unit Agreement
+
+Quarterly Report on Form 10-Q (File
+No. 001-37580)
+
+
+#### April 26, 2024
+
+10.08.4
+u
+Alphabet Inc. Amended and Restated 2021 Stock Plan
+- Form of Alphabet 2022 CEO Performance Stock Unit
+Agreement
+
+Annual Report on Form 10-K (File
+No. 001-37580)
+
+
+#### February 3, 2023
+
+94.

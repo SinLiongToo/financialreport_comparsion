@@ -1,8 +1,8 @@
-# Annual Report: AMD_2025_Annual_Report
+# Financial Report: AMD_2025_Annual_Report
 
 - **Source File**: `AMD_2025_Annual_Report.pdf`
-- **Total Pages**: 124
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 124
+- **Parsed Key Pages**: 65 (65 selected sections)
 
 ---
 
@@ -1597,240 +1597,6 @@ California 95054, and our telephone number is (408) 749-4000. For financial info
 #### 14
 
 
-## Page 27
-
-and for segment information with respect to revenues and operating results, refer to the information set forth in
-Note 4 of our consolidated financial statements. We use a 52- or 53-week fiscal year ending on the last Saturday
-in December. References in this report to 2025, 2024 and 2023 refer to the fiscal year unless explicitly stated
-otherwise.
-
-AMD, the AMD Arrow logo, 3D V-Cache, Alveo, Athlon, Atrix, CDNA, CoolRunner, EPYC, FidelityFX,
-FirePro, FreeSync, Geode, Infinity Fabric, AMD Instinct, Kintex, Kria, Opteron, Pensando, Radeon, RDNA,
-ROCm, Ryzen, Spartan, Threadripper, UltraScale, UltraScale+, Versal, Virtex, Vitis, Vivado, XDNA, Xilinx,
-Zynq and combinations thereof are trademarks of Advanced Micro Devices, Inc.
-
-Microsoft, Windows, and Xbox One are registered trademarks of Microsoft Corporation in the United States and/
-or other countries. Linux is the registered trademark of Linus Torvalds in the United States and/or other
-countries. PlayStation is a registered trademark of Sony Interactive Entertainment, Inc. Arm is a registered
-trademark of Arm Limited (or its subsidiaries) in the United States and/or other countries.
-
-Other names are for informational purposes only and are used to identify companies and products and may be
-trademarks of their respective owners.
-
-
-#### Website Access to Our SEC Filings and Corporate Governance Documents
-
-On the Investor Relations pages of our website, http://ir.amd.com, we post links to our filings with the SEC, our
-Principles of Corporate Governance, our Code of Ethics for our executive officers, all other senior finance
-executives and certain representatives from legal and internal audit, including our Chief Executive Officer, Chief
-Financial Officer, Chief Accounting Officer and persons performing similar functions, our Global Code of
-Conduct, which applies to our Board of Directors and all of our employees, and the charters of the committees of
-our Board of Directors.
-
-Our filings with the SEC are posted on our website as soon as reasonably practical after they are electronically
-filed with, or furnished to, the SEC. The SEC website, www.sec.gov, contains reports, proxy and information
-statements, and other information regarding issuers that file electronically with the SEC. You can also obtain
-copies of these documents by writing to us at: Corporate Secretary, AMD, 2485 Augustine Drive, Santa Clara,
-California 95054, or emailing us at: Corporate.Secretary@amd.com. All of these documents and filings are
-available free of charge.
-
-If we make substantive amendments to our Code of Ethics or grant any waiver, including any implicit waiver, to
-our principal executive officer, principal financial officer, principal accounting officer, controller or persons
-performing similar functions, we intend to disclose the nature of such amendment or waiver on our website.
-
-The information contained on our website is not incorporated by reference in, or considered to be a part of, this
-report.
-
-
-#### 15
-
-
-## Page 28
-
-
-### ITEM 1A. RISK FACTORS
-
-The risks and uncertainties described below are not the only ones we face. If any of the following risks actually
-occurs, our business, financial condition or results of operations could be materially adversely affected. In
-addition, you should consider the interrelationship and compounding effects of two or more risks occurring
-simultaneously.
-
-
-#### Risk Factors Summary
-
-The following is a summary of the principal risks that could adversely affect our business, financial condition
-and results of operations.
-
-
-#### Economic and Strategic Risks
-
-•
-The markets in which our products are sold are highly competitive and rapidly evolving.
-
-•
-The semiconductor industry is highly cyclical and has experienced severe downturns.
-
-•
-The demand for our products depends in part on the market conditions in the industries into which they are
-sold.
-
-•
-The success of our business depends on our ability to introduce products on a timely basis with features and
-performance levels that provide value to our customers while supporting significant industry transitions.
-
-•
-The loss of a significant customer may have a material adverse effect on us.
-
-•
-Economic and market uncertainty may adversely impact our business and operating results.
-
-•
-Our operating results are subject to quarterly and seasonal sales patterns.
-
-•
-If we cannot adequately protect our technology or other intellectual property through patents, copyrights,
-trade secrets, trademarks and other measures, we may lose a competitive advantage and incur significant
-expenses.
-
-•
-Unfavorable currency exchange rate fluctuations could adversely affect us.
-
-
-#### Operational and Technology Risks
-
-•
-We rely on third parties to manufacture our products, and if they are unable to do so on a timely basis in
-sufficient quantities and using competitive technologies, our business could be materially adversely affected.
-
-•
-Essential equipment, materials, substrates or manufacturing processes may not be available to us.
-
-•
-We may fail to achieve expected manufacturing yields for our products.
-
-•
-Our revenue from our semi-custom System-on-Chip (SoC) products is dependent upon our semi-custom SoC
-products being incorporated into customers’ products and the success of those products.
-
-•
-Our products may be subject to security vulnerabilities that could have a material adverse effect on us.
-
-•
-IT outages, data loss, data breaches and cyberattacks could disrupt operations and compromise our
-intellectual property or other sensitive information, be costly to remediate or cause significant damage to our
-business, reputation, financial condition and results of operations.
-
-•
-Uncertainties involving the ordering and shipment of our products could materially adversely affect us.
-
-•
-Our ability to design and introduce new products includes the use of third-party intellectual property.
-
-•
-We depend on third-party companies for the design, manufacture and supply of motherboards, software,
-memory and other computer platform components to support our business and products.
-
-
-#### 16
-
-
-## Page 29
-
-•
-If we lose Microsoft Corporation’s support for our products or other software vendors do not design and
-develop software to run on our products, our ability to sell our products could be materially adversely
-affected.
-
-•
-Our reliance on third-party distributors and add-in-board (AIB) partners subjects us to certain risks.
-
-•
-Our business depends on the proper functioning of our internal business processes and information systems.
-
-•
-Our products may not be compatible with some or all industry-standard software and hardware.
-
-•
-Costs related to defective products could have a material adverse effect on us.
-
-•
-We may fail to maintain the efficiency of our supply chain as we respond to changes in customer demand.
-
-•
-We outsource to third parties certain supply-chain logistics functions.
-
-•
-We may be unable to effectively control the sales of our products on the gray market.
-
-•
-Climate change may have an impact on our business.
-
-
-#### Legal and Regulatory Risks
-
-•
-Government actions and regulations, including but not limited to export regulations, import tariffs and trade
-protection measures, may limit our ability to export our products to certain customers.
-
-•
-If we cannot realize our deferred tax assets, our results of operations could be adversely affected.
-
-•
-Our business is subject to potential tax liabilities, including as a result of tax regulation changes.
-
-•
-We are party to litigation and may become a party to other claims or litigation.
-
-•
-We are subject to environmental laws, conflict minerals regulations, as well as a variety of other laws or
-regulations.
-
-•
-Evolving expectations from governments, investors, customers and other stakeholders regarding corporate
-responsibility matters could result in additional costs, harm to our reputation and a loss of customers.
-
-•
-Issues related to the responsible use of AI may result in reputational, competitive and financial harm and
-liability.
-
-•
-The agreements governing our notes, our guarantee of Xilinx’s notes and the Revolving Credit Agreement.
-
-•
-We may be required to satisfy financial obligations under guarantees and other commercial commitments.
-
-
-#### Merger, Acquisition, Divestiture, and Integration Risks
-
-•
-Acquisitions, joint ventures, and/or investments, and the failure to integrate acquired businesses may fail to
-materialize their anticipated benefits and could disrupt our business.
-
-•
-Any impairment of our tangible, definite-lived intangible or indefinite-lived intangible assets, including
-goodwill, may adversely impact our financial position and results of operations.
-
-
-#### General Risks
-
-•
-Our worldwide operations are subject to political, legal and economic risks and natural disasters.
-
-•
-We may incur future impairments of our technology license purchases.
-
-•
-Our inability to continue to attract and retain key employees may hinder our business.
-
-•
-Our stock price is subject to volatility.
-
-For a more complete discussion of the material risks facing our business, see below.
-
-
-#### 17
-
-
 ## Page 30
 
 
@@ -1890,3 +1656,3185 @@ the past impacted the semiconductor market as consumers and businesses have defe
 
 
 #### 18
+
+
+## Page 31
+
+negatively impacted demand for our products. Our financial performance has been, and may in the future be,
+negatively affected by these downturns.
+
+The growth of our business is also dependent on continued demand for our products from high-growth adjacent
+emerging global markets. Our ability to be successful in such markets depends in part on our ability to establish
+adequate local infrastructure, as well as our ability to cultivate and maintain local relationships in these markets.
+If demand from these markets is below our expectations, sales of our products may decrease, which would have a
+material adverse effect on us.
+
+The demand for our products depends in part on the market conditions in the industries into which they are
+sold. Fluctuations in demand for our products or a market decline in any of these industries could have a
+material adverse effect on our results of operations.
+
+Industry-wide fluctuations in the computer marketplace have materially adversely affected us in the past and may
+materially adversely affect us in the future. We offer products that are used in different end markets and the
+demand for our products can vary among our Data Center, Client, Gaming and Embedded end markets. In our
+Data Center segment, we offer products that are optimized for generative AI applications and since 2024, we
+have experienced significant demand for our AI accelerators. The demand for such products will in part depend
+on the extent to which our customers utilize generative AI solutions in a wide variety of applications, and both
+the near-term and long-term trajectory of such generative AI solutions is unknown. Some customers in AI
+markets may be unable to secure access to internal and external infrastructure, including availability of sufficient
+data center capacity or energy for the buildout of data centers that use our products. In addition, construction
+delays in the scheduled buildout of data centers could impact the timing of customer demand. Such delays in the
+buildout of data centers could have a material adverse effect on our business, financial condition and future
+growth strategy. Customers may also lack, or be unable to, secure capital to fund their required AI infrastructure
+and may request alternative financing or deferred-payment arrangements from vendors and suppliers. These
+limitations could delay or reduce the demand for our products, which could negatively impact our revenue.
+
+Our Client and Gaming segment revenue is focused on the consumer desktop and notebook PC segments and will
+depend in part on the market’s adoption of AI PCs. We are actively building AI capabilities into all our Client
+products, such as Ryzen AI PC processors, but there can be no assurance about the rate and pace of adoption of
+such product offerings. In the past, revenue from the Client and Gaming segment has experienced a decline
+driven by, among other factors, the adoption of smaller and other form factors, increased competition and
+changes in replacement cycles. In addition, our GPU revenue in the past has been affected in part by the volatility
+of the cryptocurrency mining market. If we are unable to manage the risks related to the volatility of the
+cryptocurrency mining market (including potential actions by global monetary authorities), our GPU business
+could be materially adversely affected. The success of our semi-custom SoC products in our Client and Gaming
+segment is dependent on securing customers for our semi-custom design pipeline and consumer market
+conditions, including the success of game console systems and next generation consoles for Sony and Microsoft.
+
+Our Embedded segment primarily includes embedded CPUs, APUs, FPGAs, System on Modules (SOMs) and
+adaptive SoC products some of which are subject to macroeconomic trends and volatile business conditions. To
+the extent our embedded customers are faced with higher inventory levels, they may choose to draw down their
+existing inventory and order less of our products.
+
+The success of our business depends on our ability to introduce products on a timely basis with features and
+performance levels that provide value to our customers while supporting and coinciding with significant
+industry transitions.
+
+Our success depends to a significant extent on the development, qualification, implementation and acceptance of
+new product designs and improvements that provide value to our customers. Our ability to identify industry
+changes, and adapt our strategy to develop, qualify and distribute, and have manufactured, new products and
+
+
+#### 19
+
+
+## Page 32
+
+related technologies to meet evolving industry trends and requirements, at prices acceptable to our customers and
+on a timely basis, are significant factors in determining our competitiveness in our target markets. We cannot
+assure you that we will be able to meet the evolving needs of industry changes or that our efforts to execute our
+product roadmap will result in innovative products and technologies that provide value to our customers. If we
+fail to or are delayed in identifying, developing, qualifying or shipping new products or technologies that provide
+value to our customers and address these new trends, or if we fail to predict which new form factors, product
+features preferences or requirements consumers will adopt and adapt our business accordingly, we may lose
+competitive positioning, which could cause us to lose market share. Although we make substantial investments in
+research and development, we cannot be certain that we will be able to develop, obtain or successfully implement
+new products and technologies on a timely basis or that they will be well-received by our customers. Moreover,
+our investments in new products and technologies involve certain risks and uncertainties and could disrupt our
+ongoing business. New investments may not generate sufficient revenue and we may incur unanticipated
+liabilities. We cannot be certain that our ongoing investments in new products and technologies will be
+successful, will meet our expectations and will not adversely affect our reputation, financial condition and
+operating results. For example, as part of our pervasive AI strategy, we have a portfolio of hardware products and
+software tools to allow our customers to develop scalable and pervasive AI solutions. We are actively building
+AI capabilities into our products, but there can be no assurance about the rate and pace of adoption of such
+product offerings. In our Data Center segment, we offer products that are optimized for generative AI
+applications and we have experienced significant demand for our AI accelerators. The demand for such products
+in part will depend on the extent to which our customers utilize generative AI solutions in a wide variety of
+applications as both the near-term and long-term trajectory of such generative AI solutions is unknown. If we fail
+to develop and timely offer or deploy such products and technologies, keep pace with the product offerings of our
+competitors, or adapt to unexpected changes in industry standards or disruptive technological innovation, our
+business could be adversely affected. Additionally, our efforts in developing new AI technology solutions are
+inherently risky and may not always succeed. We may incur significant costs, resources, investments and delays
+and not achieve a return on investment or capitalize on the opportunities presented by demand for AI solutions.
+Moreover, while AI adoption is likely to continue and may accelerate, the long-term trajectory of this
+technological trend is uncertain.
+
+Delays in developing, qualifying or shipping new products may cause us to miss our customers’ product design
+windows or, in some cases, breach contractual obligations. If our products are not selected by our customers in
+the initial design of their computer systems or products, they are typically excluded until at least the next design
+cycle. The process of being qualified for inclusion in a customer’s system or product can be lengthy and could
+cause us to further miss a cycle in the demand of end-users, which could result in a loss of market share and harm
+our business. We also depend on the timing and success of our customers’ platform launches. If our customers
+delay their product launches or if our customers do not effectively market their platforms with our products, it
+could result in a delay in bringing our products to market and cause us to miss a cycle in the demand of
+end-users, which could materially adversely affect our business. In addition, as market demand requires that
+products incorporate new features and performance standards on an industry-wide basis, product pricing declines
+over the life of a specific product. The introduction of new products and enhancements to existing products is
+necessary to maintain the overall corporate average selling price. If we are unable to introduce new products with
+sufficiently high sale prices or to increase unit sales volumes capable of offsetting the reductions in the sale
+prices of existing products over time, our business could be materially adversely affected.
+
+Product transition risks may increase as the computing industry shifts toward shorter launch cycles and a broader
+range of accelerated computing platforms. Product transitions are complex and as such we may ship both new
+and prior-generation products concurrently. Customer adoption patterns can vary and while some customers may
+shift to newer products more quickly and reduce demand for current-generation offerings, other customers may
+lower their inventory of existing products before purchasing new ones. The increased frequency of product
+transitions and expansion of our product portfolio heightens the challenges of managing our supply and demand,
+which could adversely affect our revenue and inventory management. The increasing frequency and complexity
+of our newly introduced products may also result in unanticipated quality or production issues that could result in
+product delays.
+
+
+#### 20
+
+
+## Page 33
+
+The loss of a significant customer may have a material adverse effect on us.
+
+We depend on a small number of customers for a substantial portion of our business and we expect that a small
+number of customers will continue to account for a significant part of our revenue and receivables in the future.
+If one of our key customers decides to stop buying our products, materially reduces its operations or its demand
+for our products, or has operations that are materially impaired for a significant period of time such that it is
+unable to receive or utilize our products, or pay its liabilities, our business would be materially adversely
+affected.
+
+Economic and market uncertainty may adversely impact our business and operating results.
+
+Uncertain global or regional economic conditions have and may in the future adversely impact our business.
+Uncertainty in the economic environment or other unfavorable changes in economic conditions, such as inflation,
+fluctuating interest rates, recession, slowing growth, increased unemployment, tighter credit markets, changes or
+uncertainty in fiscal monetary or trade policy, implementation of new or increased tariffs, retaliatory tariffs by
+other countries or other trade restrictions, or currency fluctuations, may negatively impact consumer confidence
+and spending causing our customers to stop or postpone purchases. During challenging economic times, our
+current or potential future customers may experience cash flow problems and as a result may modify, delay or
+cancel plans to purchase our products. Additionally, if our customers are not successful in generating sufficient
+revenue or are unable to secure financing, they may not be able to pay, or may delay payment of, accounts
+receivable that they owe us. If current or prospective customers default on or delay payments to us, our earnings
+and cash flow could be adversely impacted. This risk is heightened as we expect that a small number of
+customers will continue to account for a substantial part of our revenue. Moreover, our key suppliers may reduce
+their output or become insolvent, thereby adversely impacting our ability to manufacture our products. Adverse
+changes in economic conditions could increase costs of memory, equipment, materials or substrates and other
+supply chain expenses. For example, there is currently an industry-wide memory shortage as the demand for such
+components has outpaced supply. The price of memory has also increased as a result of the shortage. If we are
+not able to procure a stable supply of materials, including memory, on an ongoing basis and at reasonable costs
+to meet our production requirements, we could experience a supply shortage or an increase in production costs,
+which could negatively impact our gross margin and materially adversely affect our business. Our ability to
+forecast our operating results, make business decisions and execute our business strategy could be adversely
+impacted by challenging macroeconomic conditions. In addition, uncertain economic conditions could lead to
+higher borrowing costs and reduced availability of capital and credit markets, making it more difficult for us to
+raise funds through borrowings or private or public sales of debt or equity securities. An economic downturn or
+increased uncertainty could also lead to failures of counterparties including financial institutions and insurers,
+asset impairments and declines in the value of our financial instruments. If a banking institution in which we hold
+funds fails or is subject to significant adverse conditions in the financial or credit markets, we could be subject to
+a risk of loss of all or a portion of such uninsured funds or be subject to a delay in accessing all or a portion of
+such uninsured funds, which in turn could adversely impact our short-term liquidity and ability to meet our
+operating expense obligations.
+
+Our operating results are subject to quarterly and seasonal sales patterns.
+
+The profile of our sales may be weighted differently during the year. A large portion of our quarterly sales have
+historically been made in the last month of the quarter. This uneven sales pattern makes prediction of revenue for
+each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial
+condition. In addition, our operating results tend to vary seasonally with the markets in which our products are
+sold. For example, historically, our net revenue has been generally higher in the second half of the year than in
+the first half of the year, although market conditions and product transitions could impact these trends. Many of
+the factors that create and affect quarterly and seasonal trends are beyond our control.
+
+
+#### 21
+
+
+## Page 65
+
+The following table provides a summary of net revenue, cost of sales and operating expenses, and operating
+income (loss) by segment for 2025 and 2024:
+
+Year Ended
+December 27,
+2025
+December 28,
+2024
+(In millions)
+Net revenue:
+Data Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$16,635
+$12,579
+Client and Gaming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Client . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10,640
+7,054
+Gaming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,910
+2,595
+
+Total Client and Gaming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14,550
+9,649
+
+Embedded . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,454
+3,557
+
+Total net revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$34,639
+$25,785
+
+Cost of sales and operating expenses:
+Data Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$13,032
+$ 9,097
+Client and Gaming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11,695
+8,462
+Embedded . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,211
+2,136
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,007
+4,190
+
+Total cost of sales and operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$30,945
+$23,885
+
+Operating income (loss):
+Data Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 3,603
+$ 3,482
+
+Client and Gaming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,855
+1,187
+
+Embedded . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,243
+1,421
+
+All other . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4,007)
+(4,190)
+
+Total operating income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 3,694
+$ 1,900
+
+
+#### Data Center
+
+Data Center net revenue of $16.6 billion in 2025 increased by 32%, compared to net revenue of $12.6 billion in
+2024. The increase was primarily driven by strong demand for our AMD EPYC™processors and AMD Instinct™
+GPU accelerators.
+
+Data Center operating income was $3.6 billion in 2025, compared to operating income of $3.5 billion in 2024.
+The increase in operating income was primarily due to higher revenue, partially offset by higher cost of sales,
+approximately $440 million of net inventory and related charges associated with the U.S. government export
+control on AMD Instinct™MI308 Data Center GPU products and higher operating expenses.
+
+
+#### Client and Gaming
+
+Client and Gaming net revenue of $14.6 billion in 2025 increased by 51%, compared to net revenue of
+$9.6 billion in 2024.
+
+Client net revenue of $10.6 billion in 2025 increased by 51%, compared to net revenue of $7.1 billion in 2024,
+primarily driven by a 15% increase in unit shipments of processors and a 31% increase in average selling price of
+processors, reflecting strong demand for AMD desktop and mobile Ryzen processors.
+
+
+#### 53
+
+
+## Page 66
+
+Gaming net revenue of $3.9 billion in 2025 increased by 51%, compared to net revenue of $2.6 billion in 2024.
+The increase was primarily driven by higher semi-custom revenue and strong demand of our Radeon™gaming
+GPUs.
+
+Client and Gaming operating income was $2.9 billion in 2025, compared to operating income of $1.2 billion in
+2024. The increase in operating income was primarily driven by higher revenue, partially offset by higher cost of
+sales and operating expenses.
+
+
+#### Embedded
+
+Embedded net revenue of $3.5 billion in 2025 decreased by 3%, compared to net revenue of $3.6 billion in 2024.
+Net revenue decreased as certain end market demand remained mixed.
+
+Embedded operating income was $1.2 billion in 2025, compared to operating income of $1.4 billion in 2024. The
+decrease in operating income was primarily driven by lower revenue.
+
+
+#### All Other
+
+All Other operating loss of $4.0 billion in 2025 primarily consisted of $2.3 billion of amortization of acquisition-
+related intangibles and $1.6 billion of stock-based compensation expense. All Other operating loss of $4.2 billion
+in 2024 primarily consisted of $2.4 billion of amortization of acquisition-related intangibles and $1.4 billion of
+stock-based compensation expense.
+
+
+#### International Sales
+
+International sales as a percentage of net revenue were 67% in 2025 and 66% in 2024. We expect that
+international sales will continue to be a significant portion of total sales in the foreseeable future. Substantially
+all of our sales transactions are denominated in U.S. dollars.
+
+Comparison of Gross Margin, Expenses, Interest Expense, Other Income (expense) and Income Taxes
+
+The following is a summary of certain Consolidated Statement of Operations data for 2025 and 2024:
+
+December 27, 2025
+December 28, 2024
+(In millions, except for percentages)
+Net revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$34,639
+$25,785
+Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16,456
+12,114
+Amortization of acquisition-related intangibles . . . . . . . . . . . . . . . . . . . . . . .
+1,031
+946
+Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17,152
+12,725
+Gross margin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50%
+49%
+Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8,091
+6,456
+Marketing, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,144
+2,735
+Amortization of acquisition-related intangibles . . . . . . . . . . . . . . . . . . . . . . .
+1,223
+1,448
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(131)
+(92)
+Other income (expense), net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+577
+181
+Income tax provision (benefit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(103)
+381
+Income from discontinued operations, net of tax . . . . . . . . . . . . . . . . . . . . . .
+66
+—
+
+
+#### Gross Margin
+
+Gross margin of 50% increased by 1% compared to 49% in 2024, primarily due to product mix, partially offset
+by approximately $440 million of net inventory and related charges associated with the U.S. government export
+control on AMD Instinct™MI308 Data Center GPU products.
+
+
+#### 54
+
+
+## Page 67
+
+
+#### Expenses
+
+
+#### Research and Development Expenses
+
+Research and development expenses of $8.1 billion in 2025 increased by $1.6 billion, or 25%, compared to
+$6.5 billion in 2024. The increase was primarily due to higher employee-related costs from an increase in
+headcount in support of our continued focus on our AI strategy.
+
+
+#### Marketing, General and Administrative Expenses
+
+Marketing, general and administrative expenses of $4.1 billion in 2025 increased by $1.4 billion, or 52%,
+compared to $2.7 billion in 2024. The increase was primarily due to an increase in go-to-market activities to
+support our revenue growth.
+
+
+#### Amortization of Acquisition-Related Intangibles
+
+Amortization of acquisition-related intangibles of $2.3 billion for 2025 decreased by $140 million, or 6%,
+compared to $2.4 billion in 2024, primarily due to a lower balance of amortizable acquisition-related intangibles
+compared to the prior year.
+
+
+#### Interest Expense
+
+Interest expense of $131 million in 2025 increased by $39 million compared to $92 million in 2024, primarily
+due to the issuance of $1.5 billion in aggregate principal amount of 4.212% Notes and 4.319% Notes in March
+2025.
+
+
+#### Other Income (expense), net
+
+Other income (expense), net is primarily comprised of interest income from short-term investments, changes in
+valuation of long-term investments and foreign currency transaction gains and losses.
+
+Other income (expense), net of $577 million in 2025 increased by $396 million compared to $181 million in
+2024, primarily due to higher unrealized gains from long-term investments compared to the prior year.
+
+
+#### Income Tax Provision (Benefit)
+
+We recorded an income tax benefit of $103 million and an income tax provision of $381 million in 2025 and
+2024, respectively, representing effective tax rates of (2.5%) and 19%, respectively. The decrease in income tax
+provision in 2025 was primarily driven by an $853 million benefit related to the release of uncertain tax positions
+pertaining to the reasonable cause relief for dual consolidated losses approved by the Internal Revenue Service
+(IRS) in April 2025, whereas the income tax provision in 2024 included $373 million tax effect from an
+intercompany integration transaction.
+
+In July 2025, the One Big Beautiful Bill Act (OBBBA) was enacted into law. For fiscal year 2025, the primary
+impact of the OBBBA to our tax provision was the accelerated expensing of domestic R&D activities which
+decreased our income eligible for FDII, reduced our deferred tax assets, and reduced our current income tax
+liability. Other OBBBA changes did not have a material impact on the financial statements.
+
+
+#### Global Minimum Tax
+
+The OECD is continuing discussions surrounding fundamental changes in allocation of profits among tax
+jurisdictions in which companies do business, as well as the implementation of a global minimum tax (namely
+the “Pillar One” and “Pillar Two” proposals). The Council of the European Union has adopted the global
+
+
+#### 55
+
+
+## Page 68
+
+corporate 15% minimum tax as provided for in Pillar Two and has directed EU member states to implement
+legislation enacting Pillar Two. Many countries, including non-EU member states, have implemented laws based
+on Pillar Two proposals, with effective dates that started in 2024. Although many countries have already
+introduced Pillar Two legislation applicable to us effective in 2024, certain jurisdictions in which we operate
+have not adopted corresponding legislation to date. For 2024 and 2025, the impact to us associated with Pillar
+Two was immaterial.
+
+In January 2026, the OECD released a “side-by-side” package introducing new safe harbors and providing an
+exemption for U.S.-based multinational companies from parts of the global minimum tax framework. We
+continue to evaluate the impact of proposed and enacted legislative changes to our effective tax rate and cash
+flows as new guidance becomes available in each country.
+
+
+#### Discontinued Operations
+
+Net income from discontinued operations for 2025 was $66 million, net of tax expense of $54 million. This
+includes the results of operations of the ZT Manufacturing Business and the change in fair value of contingent
+consideration liability of $121 million.
+
+
+### FINANCIAL CONDITION
+
+
+#### Liquidity and Capital Resources
+
+As of December 27, 2025, our cash, cash equivalents and short-term investments were $10.6 billion compared to
+$5.1 billion as of December 28, 2024.
+
+Our operating, investing and financing cash flow activities for 2025 and 2024 were as follows:
+
+December 27, 2025
+December 28, 2024
+(In millions)
+Net cash provided by (used in):
+Net cash provided by operating activities of continuing operations . . . .
+$ 6,493
+$ 3,041
+Net cash provided by operating activities of discontinued operations . .
+1,216
+—
+
+Operating activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7,709
+3,041
+
+Net cash (used in) provided by investing activities of continuing
+operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6,851)
+(1,101)
+Net cash provided by investing activities of discontinued operations . .
+1,318
+—
+
+Investing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5,533)
+(1,101)
+
+Financing activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(431)
+(2,062)
+
+Net increase (decrease) in cash, cash equivalents and restricted cash . . . . . .
+$ 1,745
+$ (122)
+
+In March and October 2025, we paid a total of $2.0 billion in cash, net of cash acquired, and issued 9.1 million
+shares of our common stock in the acquisition of ZT Systems.
+
+In October 2025, upon completion of the sale of the ZT Manufacturing Business to Sanmina Corporation
+(Sanmina), we received a total of $1.4 billion in cash, net of cash divested, and 1.2 million shares of Sanmina
+common stock valued at $154 million. We are eligible to receive additional cash consideration of up to
+$450 million to the extent certain conditions are met following the close of the sale through 2028 (Sanmina
+Earn-out).
+
+As of December 27, 2025, our aggregate principal debt was $3.3 billion, with short-term and long-term debt
+obligations of $874 million and $2.3 billion, respectively.
+
+
+#### 56
+
+
+## Page 71
+
+
+### ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+Interest Rate Risk. Our exposure to market risk for changes in interest rates relates primarily to our investment
+portfolio and long-term debt. We usually invest our cash in investments with short maturities or with frequent
+interest reset terms. Accordingly, our interest income fluctuates with short-term market conditions. As of
+December 27, 2025, our investment portfolio consisted of fixed income instruments, time deposits and commercial
+paper. Our primary aim with our investment portfolio is to invest available cash while preserving principal and
+meeting liquidity needs. In accordance with our investment policy, we place investments with high credit quality
+issuers and limit the amount of credit exposure to any one issuer based upon the issuer’s credit rating. These
+securities are subject to interest rate risk and will decrease in value if market interest rates increase. A hypothetical
+50 basis-point (half percentage point) increase or decrease in interest rates compared to rates on December 27, 2025
+would have affected the fair value of our cash equivalent and investment portfolio by approximately $25 million.
+
+As of December 27, 2025, all of our outstanding long-term debt had fixed interest rates. Consequently, our exposure
+to market risk for changes in interest rates on reported interest expense and corresponding cash flows is minimal.
+
+We will continue to monitor our exposure to interest rate risk.
+
+Default Risk. We mitigate default risk in our investment portfolio by investing in only high credit quality
+securities and by constantly positioning our portfolio to respond to a significant reduction in a credit rating of any
+investment issuer or guarantor. Our portfolio includes investments in marketable debt securities with active
+secondary or resale markets to ensure portfolio liquidity. We are averse to principal loss and strive to preserve
+our invested funds by limiting default risk and market risk.
+
+We actively monitor market conditions and developments specific to the securities and security classes in which
+we invest. We believe that we take a conservative approach to investing our funds in that we invest only in
+highly-rated debt securities with relatively short maturities and do not invest in securities which we believe
+involve a higher degree of risk. As of December 27, 2025, all of our investments in debt securities were A-rated
+by at least one of the rating agencies. While we believe we take prudent measures to mitigate investment-related
+risks, such risks cannot be fully eliminated as there are circumstances outside of our control.
+
+Long-term Investment Risk. Our long-term investments are held in both marketable and non-marketable equity
+securities and other instruments. Marketable equity securities include investments in publicly traded companies.
+Non-marketable equity securities and other instruments include investments in privately held companies, which
+are often in a start-up or early development stage and are inherently risky. The technologies of these privately
+held companies are under research or development, typically in the early stages and may never materialize, and
+may result in a loss of our investment in these companies. As of December 27, 2025 and December 31, 2024, the
+carrying value of our investments in publicly traded companies was $198 million and $0, respectively, and the
+carrying value of our non-marketable equity securities and other instruments was $1.3 billion and $468 million,
+respectively. These securities are subject to a wide variety of market-related risks that could substantially reduce
+or increase the fair value of our holdings. We regularly review our non-marketable equity securities and other
+instruments for potential impairment.
+
+Foreign Exchange Risk. As a result of our foreign operations, we incur costs and we carry assets and liabilities
+that are denominated in foreign currencies, while sales of products are primarily denominated in U.S. dollars. We
+maintain a foreign currency hedging strategy which uses derivative financial instruments to mitigate the risks
+associated with changes in foreign currency exchange rates. This strategy takes into consideration all of our
+exposures. We do not use derivative financial instruments for trading or speculative purposes.
+
+As of December 27, 2025 and December 28, 2024, our portfolio of foreign currency forward contracts had an
+aggregate notional amount of $3.4 billion and $2.8 billion, respectively. All forward contracts mature within
+24 months. Our foreign currency forward contracts cover a range of currencies tied to our global operations,
+including but not limited to the Indian Rupee, Canadian Dollar and Chinese Renminbi. As of December 27, 2025
+and December 28, 2024, the estimated net fair-value position of these forwards was a $12 million gain and
+$66 million loss, respectively.
+
+
+#### 59
+
+
+## Page 72
+
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Advanced Micro Devices, Inc.
+
+
+#### Consolidated Statements of Operations
+
+Year Ended
+December 27,
+2025
+December 28,
+2024
+December 30,
+2023
+(In millions, except per share amounts)
+Net revenue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 34,639
+$ 25,785
+$ 22,680
+
+Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16,456
+12,114
+11,278
+Amortization of acquisition-related intangibles . . . . . . . . . . . . . . . . . . .
+1,031
+946
+942
+
+Total cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17,487
+13,060
+12,220
+
+Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17,152
+12,725
+10,460
+Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8,091
+6,456
+5,872
+Marketing, general and administrative . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,144
+2,735
+2,318
+Amortization of acquisition-related intangibles . . . . . . . . . . . . . . . . . . .
+1,223
+1,448
+1,869
+Restructuring charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+186
+—
+
+Total operating expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13,458
+10,825
+10,059
+
+Operating income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,694
+1,900
+401
+Interest expense . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(131)
+(92)
+(106)
+Other income (expense), net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+577
+181
+197
+
+Income from continuing operations before income taxes and equity
+income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,140
+1,989
+492
+Income tax provision (benefit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(103)
+381
+(346)
+Equity income in investee . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+33
+16
+
+Income from continuing operations, net of tax . . . . . . . . . . . . . . . . . . . .
+4,269
+1,641
+854
+Income from discontinued operations, net of tax . . . . . . . . . . . . . . . . . .
+66
+—
+—
+
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+4,335
+$
+1,641
+$
+854
+
+Earnings per share
+Earnings from continuing operations - basic . . . . . . . . . . . . . . . . . . . . .
+$
+2.63
+$
+1.01
+$
+0.53
+Earnings from discontinued operations - basic . . . . . . . . . . . . . . . . . . . .
+0.04
+—
+—
+
+Basic earnings per share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+2.67
+$
+1.01
+$
+0.53
+
+Earnings from continuing operations - diluted . . . . . . . . . . . . . . . . . . . .
+$
+2.61
+$
+1.00
+$
+0.53
+Earnings from discontinued operations - diluted . . . . . . . . . . . . . . . . . .
+0.04
+—
+—
+
+Diluted earnings per share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+2.65
+$
+1.00
+$
+0.53
+
+Shares used in per share calculation
+Basic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,624
+1,620
+1,614
+Diluted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,636
+1,637
+1,625
+
+See accompanying notes to the Consolidated Financial Statements.
+
+
+#### 60
+
+
+## Page 73
+
+Advanced Micro Devices, Inc.
+
+
+#### Consolidated Statements of Comprehensive Income
+
+Year Ended
+December 27,
+2025
+December 28,
+2024
+December 30,
+2023
+(In millions)
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 4,335
+$ 1,641
+$ 854
+Other comprehensive income (loss), net of tax
+Net change in unrealized gains (losses) on cash flow hedges . . . . .
+66
+(59)
+31
+
+Total comprehensive income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 4,401
+$ 1,582
+$ 885
+
+See accompanying notes to the Consolidated Financial Statements.
+
+
+#### 61
+
+
+## Page 74
+
+Advanced Micro Devices, Inc.
+
+
+#### Consolidated Balance Sheets
+
+December 27,
+2025
+December 28,
+2024
+(In millions, except par value
+amounts)
+ASSETS
+Current assets:
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 5,539
+$ 3,787
+Short-term investments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,013
+1,345
+Accounts receivable, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,315
+6,192
+Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7,920
+5,734
+Prepaid expenses and other current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,160
+1,991
+
+Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26,947
+19,049
+Property and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,312
+1,802
+Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25,126
+24,839
+Acquisition-related intangibles, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16,705
+18,930
+Deferred tax assets, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+384
+688
+Other non-current assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,452
+3,918
+
+Total assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$76,926
+$69,226
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 2,929
+$ 2,466
+Accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,250
+4,260
+Current portion of long-term debt, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+874
+—
+Other current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+402
+555
+
+Total current liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9,455
+7,281
+Long-term debt, net of current portion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,348
+1,721
+Long-term operating lease liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+625
+491
+Deferred tax liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+313
+349
+Other long-term liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,186
+1,816
+Commitments and contingencies (see Note 12)
+Stockholders’ equity:
+Capital stock:
+Common stock, par value $0.01; shares authorized: 4,000; shares issued: 1,695
+and 1,680; shares outstanding: 1,630 and 1,622 . . . . . . . . . . . . . . . . . . . . . . . .
+17
+17
+Additional paid-in capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+63,365
+61,362
+Treasury stock, at cost (shares held: 65 and 58) . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7,079)
+(6,106)
+Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,699
+2,364
+Accumulated other comprehensive loss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)
+(69)
+
+Total stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+62,999
+57,568
+
+Total liabilities and stockholders’ equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$76,926
+$69,226
+
+See accompanying notes to the Consolidated Financial Statements.
+
+
+#### 62
+
+
+## Page 79
+
+There are no variable consideration estimates associated with either combined development and IP arrangements
+or for standalone arrangements involving either the sale or licensing of IP.
+
+
+#### Inventories
+
+The Company values inventory at standard cost, adjusted to approximate the lower of actual cost or estimated net
+realizable value using assumptions about future demand and market conditions. In determining excess or
+obsolescence reserves for its products, the Company considers assumptions such as changes in business and
+economic conditions, other-than-temporary decreases in demand for its products, and changes in technology or
+customer requirements. In determining the lower of cost or net realizable value reserves, the Company considers
+assumptions such as recent historical sales activity and selling prices, as well as estimates of future selling prices.
+The Company fully reserves for inventories and non-cancellable purchase orders for inventory deemed obsolete.
+The Company performs periodic reviews of inventory items to identify excess inventories on hand by comparing
+on-hand balances and non-cancellable purchase orders to anticipated usage using recent historical activity as well
+as anticipated or forecasted demand. If estimates of customer demand diminish further or market conditions
+become less favorable than those projected by the Company, additional inventory carrying value adjustments
+may be required.
+
+
+#### Business Combinations
+
+The Company uses the acquisition method of accounting for business combinations which allocates the purchase
+consideration to the assets acquired and liabilities assumed from the acquiree based on their respective fair values
+as of the acquisition date. The excess of the fair value of purchase consideration over the fair value of these
+assets acquired and liabilities assumed is recorded as goodwill. When determining the fair values of assets
+acquired and liabilities assumed, management makes significant estimates and assumptions, especially with
+respect to intangible assets. Significant estimates and inputs used in valuing acquired assets and liabilities held
+for sale, developed technology, and other identifiable intangible assets include, but are not limited to, expected
+future revenue, future changes in technology, useful lives, risk-adjusted discount rates, and time and costs to
+recreate certain assets. Fair value estimates are based on the assumptions that management believes a market
+participant would use in pricing the asset or liability. These estimates are inherently uncertain and, therefore,
+actual results may differ from the estimates made.
+
+
+#### Goodwill
+
+The Company performs its goodwill impairment analysis as of the first day of the fourth quarter of each year and,
+if certain events or circumstances indicate that an impairment loss may have been incurred, on a more frequent
+basis. The analysis may include both qualitative and quantitative factors to assess the likelihood of an
+impairment.
+
+
+#### Long-Lived and Intangible Assets
+
+The Company reviews its long-lived and intangible assets for impairment if indicators of potential impairment
+are identified, at least quarterly. Indefinite-lived intangible assets are reviewed for impairment at least annually.
+Assets are grouped and evaluated for impairment at the lowest level of identifiable cash flows.
+
+
+#### Cash Equivalents
+
+Cash equivalents consist of financial instruments that are readily convertible into cash and have original
+maturities of three months or less at the time of purchase.
+
+
+#### 67
+
+
+## Page 80
+
+
+#### Accounts Receivable
+
+Accounts receivable are primarily comprised of trade receivables presented net of rebates, price protection and an
+allowance for credit loss. The Company manages its exposure to customer credit risk through credit limits, credit
+lines, ongoing monitoring procedures and credit approvals. While the Company maintains an allowance for
+customer credit losses, its accounts receivable write-offs have historically not been significant.
+
+
+#### Unbilled Receivables
+
+Unbilled receivables are recorded within Prepaid expenses and other current assets on the Company’s
+Consolidated Balance Sheets. Unbilled receivables primarily represent work completed on development services
+and on custom products under non-cancellable purchase orders that have no alternative use to the Company at
+contract inception, recognized as revenue but not yet invoiced to customers.
+
+
+#### Investments
+
+Available-for-Sale Debt Securities. Investments in marketable debt securities are available for use in current
+operations, including those with maturity dates beyond one year, and are classified within current assets on the
+Consolidated Balance Sheets. Available-for-sale debt securities are recorded at fair value, with the change in
+unrealized gains and losses, net of tax, reported in the Consolidated Statements of Comprehensive Income until
+realized. Fair value is determined based on quoted market rates when observable or utilizing data points that are
+observable. Securities with an amortized cost basis in excess of estimated fair value are assessed to determine
+what amount of the excess, if any, is caused by expected credit losses. The Company uses the first-in, first-out
+method as basis of the cost of securities sold.
+
+Long-term Investments. Long-term investments are held in both marketable and non-marketable equity securities
+and other instruments. Marketable equity securities include investments in publicly traded companies.
+Non-marketable equity securities include investments in privately held companies held for long-term strategic
+purposes and are accounted for under the measurement alternative, defined as cost, less impairments, adjusted for
+subsequent observable price changes and are periodically assessed for impairment when events or circumstances
+indicate that a decline in value may have occurred. These investments are recorded within Other non-current
+assets on the Consolidated Balance Sheets. Gains and losses are recorded in Other income, expense, net on the
+Consolidated Statements of Operations.
+
+
+#### Fair Value Measurements
+
+The Company’s financial instruments are measured and recorded at fair value on a recurring basis, except for
+non-marketable equity investments in privately-held companies, which are generally accounted for under the
+measurement alternative.
+
+
+#### Fair Value Hierarchy
+
+The fair value framework requires the categorization of assets and liabilities into three levels based upon the
+assumptions (inputs) used to price the assets or liabilities. The guidance for fair value measurements requires that
+assets and liabilities carried at fair value be classified and disclosed in one of the following categories:
+
+Level 1 — Quoted (unadjusted) prices in active markets for identical assets or liabilities.
+
+Level 2 — Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar
+assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are
+not active; or other inputs that are observable or can be corroborated by observable market data for substantially
+the full term of the asset or liability.
+
+
+#### 68
+
+
+## Page 81
+
+Level 3 — Unobservable inputs to the valuation methodology that are supported by little or no market activity
+and that are significant to the measurement of the fair value of the assets or liabilities. Level 3 assets and
+liabilities include those whose fair value measurements are determined using pricing models, discounted cash
+flow methodologies or similar valuation techniques, as well as significant management judgment or estimation.
+
+
+#### Property and Equipment
+
+Property and equipment are stated at cost. Depreciation and amortization are provided on a straight-line basis
+over the estimated useful lives of 2 to 7 years for equipment, up to 44 years for buildings, and leasehold
+improvements are measured by the shorter of the remaining terms of the leases or the estimated useful economic
+lives of the improvements.
+
+
+#### Leases
+
+The Company records operating and finance leases as right-of-use (ROU) assets and lease liabilities on the
+Company’s Consolidated Balance Sheets. ROU assets represent the Company’s right to use an underlying asset
+for the lease term and lease liabilities represent the Company’s obligation to make lease payments arising from
+the lease. Operating and finance lease ROU assets and liabilities are initially recognized based on the present
+value of lease payments over the lease term. In determining the present value of lease payments, the Company
+uses the implicit interest rate if readily determinable. When the implicit interest rate is not readily determinable,
+the Company uses its incremental borrowing rate, which is based on its collateralized borrowing capabilities over
+a similar term of the lease payments. When using the incremental borrowing rate, the Company utilizes the
+consolidated group incremental borrowing rate. Lease expense for operating lease payments is recognized on a
+straight-line basis over the lease term. The Company has elected the accounting policy to not recognize ROU
+assets and lease liabilities that arise from short-term (12 months or less) leases for any class of underlying asset.
+Operating leases are included in other non-current assets, other current liabilities, and long-term operating lease
+liabilities on the Company’s Consolidated Balance Sheets. The Company’s finance leases are immaterial.
+
+
+#### Foreign Currency Translation/Transactions
+
+The functional currency of the Company’s foreign subsidiaries is the U.S. dollar. Assets and liabilities
+denominated in non-U.S. dollars have been remeasured into U.S. dollars at current exchange rates for monetary
+assets and liabilities and historical exchange rates for non-monetary assets and liabilities. Non-U.S. dollar
+denominated transactions have been remeasured at average exchange rates in effect during each period, except
+for those cost of sales and expense transactions related to non-monetary balance sheet amounts which have been
+remeasured at historical exchange rates. The gains or losses from foreign currency remeasurement are included in
+earnings.
+
+
+#### Marketing and Advertising Expenses
+
+Advertising costs are expensed as incurred. In addition, the Company’s marketing and advertising expenses
+include certain cooperative advertising funding obligations under customer incentive programs, which costs are
+recorded as incurred. Cooperative advertising expenses are recorded as marketing, general and administrative
+expenses to the extent the cash paid does not exceed the estimated fair value of the advertising benefit received.
+Any excess of cash paid over the estimated fair value of the advertising benefit received is recorded as a
+reduction of revenue. Marketing and advertising expenses for 2025, 2024 and 2023 were approximately
+$2.4 billion, $1.2 billion and $695 million, respectively.
+
+
+#### Stock-Based Compensation
+
+The Company estimates stock-based compensation cost for stock options at the grant date based on the option’s
+fair value as calculated by the Black-Scholes model. For time-based restricted stock units (RSUs), fair value is
+based on the closing price of the Company’s common stock on the grant date. The Company estimates the grant-
+
+
+#### 69
+
+
+## Page 82
+
+date fair value of RSUs that involve a market condition using the Monte Carlo simulation model. The Company
+estimates the grant-date fair value of stock to be issued under the Company’s Employee Stock Purchase plan
+(ESPP) using the Black-Scholes model. Compensation expense is recognized over the vesting period of the
+applicable award using the straight-line method, except for the compensation expense related to RSUs with
+performance or market conditions (PRSUs), which are recognized ratably for each vesting tranche from the
+service inception date to the end of the requisite service period. Forfeiture rates are estimated at the time of grant
+and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates.
+
+
+#### Contingencies
+
+From time to time the Company may be a defendant or plaintiff in various legal actions that arise in the normal
+course of business. The Company is also subject to income tax, indirect tax or other tax claims by tax agencies in
+jurisdictions in which it conducts business. In addition, the Company is a party to environmental matters
+including local, regional, state and federal government clean-up activities at or near locations where the
+Company currently or has in the past conducted business. The Company is required to assess the likelihood of
+any adverse judgments or outcomes to these matters as well as potential ranges of reasonably possible losses. A
+determination of the amount of reserves required for these commitments and contingencies that would be
+charged to earnings, if any, includes assessing the probability of adverse outcomes and estimating the amount of
+potential losses. The required reserves, if any, may change due to new developments in each matter or changes in
+circumstances such as a change in settlement strategy.
+
+
+#### Income Taxes
+
+The Company computes the provision for income taxes using the liability method and recognizes deferred tax
+assets and liabilities for temporary differences between financial statement and income tax bases of assets and
+liabilities, as well as for operating loss and tax credit carryforwards. The Company measures deferred tax assets
+and liabilities using tax rates applicable to taxable income in effect for the years in which those tax assets are
+expected to be realized or settled and provides a valuation allowance against deferred tax assets when it cannot
+conclude that it is more likely than not that some or all deferred tax assets will be realized. The assessment
+requires significant judgment and is performed in each of the applicable taxing jurisdictions. In addition, the
+Company recognizes tax benefits from uncertain tax positions only if it is more likely than not that they will be
+sustained, based on the technical merits of the positions, on examination by the jurisdictional tax authority.
+Interest and penalties related to uncertain tax positions are recorded within the Income tax provision (benefit) line
+in the Company’s Consolidated Statements of Operations. The Company is subject to the Global Intangible Low
+Taxed Income (GILTI) tax in the U.S. and recognizes deferred taxes for temporary basis differences that are
+expected to reverse as GILTI tax in future years.
+
+
+#### Earnings Per Share
+
+Basic Earnings Per Share (EPS) is calculated using the weighted-average number of shares outstanding during
+the period. Diluted EPS is calculated using the weighted-average number of shares outstanding plus the effect of
+potentially dilutive shares outstanding which is determined using the treasury stock method. Potentially dilutive
+shares are excluded from the computation of diluted EPS in periods in which their effect is anti-dilutive.
+
+
+#### Recently Issued Accounting Standard Updates Adopted
+
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standard Update
+(ASU) Income Taxes – Improvement to Income Tax Disclosures (ASU 2023-09) that requires disclosure of
+disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate
+reconciliation, and modifies other income tax-related disclosures. The Company adopted ASU 2023-09 in the
+fourth quarter of 2025, with prospective application. See Note 17 – Income Taxes for further information.
+
+
+#### 70
+
+
+## Page 83
+
+
+#### Recently Issued Accounting Standard Updates Not Yet Adopted
+
+In November 2024, the FASB issued ASU 2024-03 Disaggregation – Income Statement Expenses (DISE) that
+expanded the annual and interim disclosure of certain costs and expense categories into specified categories in
+the notes to the financial statements. The ASU will be effective for the Company beginning with the fiscal year
+2027 and interim periods thereafter, and could be applied either prospectively or retrospectively, with early
+adoption permitted. The Company is currently evaluating the impact of this ASU on its financial statements.
+
+Although there are several other new accounting pronouncements issued by the FASB, the Company does not
+believe any of these accounting pronouncements had or will have a material impact on its financial statements.
+
+
+#### NOTE 3 – Supplemental Financial Statement Information
+
+
+#### Inventories
+
+December 27,
+2025
+December 28,
+2024
+(In millions)
+Raw materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 909
+$ 351
+Work in process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,768
+4,289
+Finished goods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2,243
+1,094
+
+Total inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$7,920
+$5,734
+
+
+#### Property and Equipment, net
+
+December 27,
+2025
+December 28,
+2024
+(In millions)
+Land, building and leasehold improvements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+967
+$
+853
+Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,453
+2,798
+Construction in progress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+508
+324
+
+Property and equipment, gross . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,928
+3,975
+Accumulated depreciation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2,616)
+(2,173)
+
+Total property and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 2,312
+$ 1,802
+
+Depreciation expense for 2025, 2024 and 2023 was $521 million, $454 million and $441 million, respectively.
+
+
+#### Accrued Liabilities
+
+December 27,
+2025
+December 28,
+2024
+(In millions)
+Accrued marketing programs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$1,454
+$1,063
+Accrued compensation and benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,645
+1,174
+Customer-related liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,194
+1,349
+Other accrued expenses and liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+957
+674
+Total accrued liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$5,250
+$4,260
+
+
+#### Revenue
+
+Revenue allocated to remaining performance obligations that are unsatisfied or partially unsatisfied include
+amounts received from customers and amounts that will be invoiced and recognized as revenue in future periods
+
+
+#### 71
+
+
+## Page 84
+
+for product revenue, development services, and IP licensing. As of December 27, 2025, the aggregate transaction
+price allocated to remaining performance obligations under contracts with an original expected duration of more
+than one year was $315 million, of which $201 million is expected to be recognized in the next 12 months. The
+revenue allocated to remaining performance obligations does not include amounts which have an original
+expected duration of one year or less.
+
+Revenue recognized over time associated with custom products and development services accounted for
+approximately 9%, 8% and 25% of the Company’s revenue in 2025, 2024 and 2023, respectively.
+
+
+#### Cost of Sales
+
+During the year ended December 27, 2025, the Company recorded approximately $440 million of net inventory
+and related charges associated with the U.S. government export control on AMD Instinct™MI308 Data Center
+GPU products in Cost of sales. The Company did not have any export control related charges in 2024 and 2023.
+
+
+#### NOTE 4 – Segment Reporting
+
+Management, including the Chief Operating Decision Maker (CODM), who is the Company’s Chief Executive
+Officer, reviews and assesses operating performance using segment net revenue, consolidated cost of sales and
+operating expenses and operating income (loss). These performance measures include the allocation of expenses
+to the reportable segments based on management’s judgment. The CODM is regularly provided segment
+operating income to assess relative segment performance. In the first quarter of fiscal year 2025, the Company
+changed its segment structure, combining the Client and Gaming segments into one reportable segment to align
+with how the Company manages its business. All prior period segment data were retrospectively adjusted.
+
+
+#### The Company’s three reportable segments are:
+
+•
+the Data Center segment,
+which primarily
+includes Artificial
+Intelligence
+(AI) accelerators,
+microprocessors (CPUs) for servers, graphics processing units (GPUs), accelerated processing units
+(APUs), data processing units (DPUs), AI Network Interface Cards (AI NICs), Field Programmable
+Gate Arrays (FPGAs) and adaptive System-on-Chip (SoC) products for data centers;
+
+•
+the Client and Gaming segment, which primarily includes CPUs, APUs, chipsets for desktops and
+notebooks, discrete GPUs, and semi-custom SoC products and development services; and
+
+•
+the Embedded segment, which primarily includes embedded CPUs, APUs, FPGAs, System on Modules
+(SOMs), and adaptive SoC products.
+
+From time to time, the Company may also sell or license portions of its IP portfolio.
+
+In addition to these reportable segments, the Company has an All Other category, which is not a reportable
+segment. This category primarily includes certain expenses and credits that are not allocated to any of the
+reportable segments because the CODM does not consider these expenses and credits in evaluating the
+performance of the reportable segments. This category primarily includes amortization of acquisition-related
+intangibles, employee stock-based compensation, acquisition-related and other costs, restructuring charges,
+inventory loss at (recovery from) contract manufacturer and licensing gain. Acquisition-related and other costs
+primarily include transaction costs, certain compensation charges, contract termination costs and workforce
+rebalancing charges.
+
+
+#### 72
+
+
+## Page 86
+
+The following table summarizes sales to external customers by geographic regions based on billing location of
+the customer:
+
+Year Ended
+December 27,
+2025
+December 28,
+2024
+December 30,
+2023
+(In millions)
+United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$11,363
+$ 8,693
+$ 7,837
+China (including Hong Kong) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7,751
+6,231
+3,417
+Taiwan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,186
+3,301
+1,841
+Singapore . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,284
+3,614
+2,231
+Other regions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6,055
+3,946
+7,354
+
+Total sales to external customers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$34,639
+$25,785
+$22,680
+
+No customer accounted for at least 10% of the Company’s consolidated net revenue in fiscal years 2025 and
+2024. One Client and Gaming segment customer accounted for 18% of consolidated net revenue in fiscal year
+2023.
+
+
+#### The following table summarizes property and equipment, net by geographic areas:
+
+December 27,
+2025
+December 28,
+2024
+(In millions)
+United States . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$1,717
+$1,312
+Singapore . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+157
+140
+Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+142
+104
+Other countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+296
+246
+Total property and equipment, net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$2,312
+$1,802
+
+
+#### NOTE 5 – Acquisitions and Divestitures
+
+
+#### Fiscal Year 2025 Acquisitions
+
+
+#### ZT Systems Acquisition and ZT Manufacturing Business Divestiture
+
+On March 31, 2025 (the Acquisition Date), the Company completed the acquisition of all issued and outstanding
+shares of ZT Systems, a provider of AI and general-purpose compute infrastructure for hyperscale computing
+companies, for a total purchase consideration of $4.4 billion. The acquisition is expected to enable the Company
+to deliver end-to-end AI solutions and accelerate the design and deployment of AMD-powered AI infrastructure
+at scale optimized for the cloud.
+
+
+#### The purchase consideration was comprised of the following (in millions):
+
+Cash paid on Acquisition Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$3,188
+Fair value of 8,335,849 shares(1) issued on Acquisition Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+860
+Fair value of contingent consideration(2) on Acquisition Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+361
+Total purchase consideration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$4,409
+
+(1)
+Represented the fair value based on the closing price of AMD common stock on March 28, 2025 of $103.22
+per share, as the transaction closed prior to the opening of markets on March 31, 2025.
+(2)
+Represented the estimated fair value of additional consideration of up to 740,961 shares of AMD common
+stock to be issued and up to $300 million of cash to be paid to former ZT Systems stockholders and warrant
+holders when the contingencies are fully met.
+
+
+#### 74
+
+
+## Page 87
+
+The purchase consideration was preliminarily allocated as follows (in millions):
+
+Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$1,500
+Assets held for sale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5,965
+Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+81
+Total assets acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7,546
+Liabilities held for sale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,221
+Other liabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+124
+Total liabilities assumed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3,345
+Fair value of net assets acquired . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4,201
+Goodwill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+208
+Total purchase consideration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$4,409
+
+The Company preliminarily allocated the purchase price to identifiable tangible and intangible assets acquired
+and liabilities assumed based on estimates of their fair values, which were determined using generally accepted
+valuation techniques based on estimates and assumptions made by management. The assets and liabilities related
+to the data center infrastructure manufacturing business (ZT Manufacturing Business), which was divested on
+October 27, 2025, were classified as held for sale. Fair values of assets and liabilities classified as held for sale
+were determined using the income and cost valuation approaches, which incorporate significant unobservable
+inputs. Goodwill was assigned to the Company’s Data Center reporting unit, primarily attributed to the
+assembled workforce and is not expected to be deductible for income tax purposes. The Company retained select
+intellectual property and employees associated with the design operations (ZT Design Business).
+
+The purchase consideration allocation, including the fair value allocation between ZT Systems’ Manufacturing
+and Design Businesses, is preliminary and subject to revision as additional information about the fair value of
+assets acquired and liabilities assumed becomes available. The Company may continue to evaluate and further
+revise the preliminary purchase consideration allocation during the remainder of the measurement period, which
+will not exceed 12 months from the Acquisition Date.
+
+The results of operations of the ZT Design Business are included in the Company’s continuing operations within
+the Data Center segment and are not material. The results of operations of the ZT Manufacturing Business are
+presented as discontinued operations in the Company’s Consolidated Financial Statements.
+
+In 2025, acquisition-related transaction costs of $47 million were recorded within Marketing, general and
+administrative expenses.
+
+The following table presents a reconciliation of the contingent consideration liability (in millions):
+
+Initial valuation of contingent consideration liability on Acquisition Date . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 361
+Change in fair value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+121
+Settlement in October 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(482)
+Contingent consideration liability, December 27, 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$ —
+
+The contingent consideration liability, which was measured at fair value on Acquisition Date and was
+remeasured to fair value until the contingencies were resolved, was settled in October 2025 with the former ZT
+shareholders and warrant holders as the contingencies were fully met. The change in fair value was recorded
+within Income from discontinued operations of the Company’s Consolidated Statements of Operations.
+
+On October 27, 2025, the Company completed the sale of the ZT Manufacturing Business to Sanmina
+Corporation (Sanmina) for $2.4 billion in cash, subject to certain purchase price adjustments and 1,151,052
+shares of Sanmina common stock. Upon close of the sale, the Company received cash of $1.4 billion, net of cash
+
+
+#### 75
+
+
+## Page 88
+
+divested and purchase price adjustments, and shares of Sanmina common stock valued at $154 million. The
+purchase consideration received from the sale of the ZT Manufacturing Business is subject to customary post-
+closing adjustments.
+
+The Company is eligible to receive additional cash consideration of up to $450 million to the extent certain
+conditions are met following the close of the sale through 2028 (Sanmina Earn-out). The Company applied the
+loss recovery approach, under which the difference between the fair value of the consideration received,
+excluding the Sanmina Earn-out, and the carrying amount of the net assets disposed, is recognized as an Earn-out
+receivable, to the extent it is probable of being received. Upon close of the sale, the Company recorded a
+Sanmina Earn-out receivable of $332 million within Other non-current assets in the Company’s Consolidated
+Balance Sheets. The Earn-out receivable will be subject to impairment assessment at the end of each reporting
+period prior to receipt of payment. The Company also entered into a Manufacturing Services Agreement with
+Sanmina with an initial term of five years.
+
+
+#### Other Acquisitions
+
+In 2025, the Company completed other business acquisitions for a total consideration of $90 million that resulted
+in the recognition of $79 million of goodwill. The financial results of these acquired businesses, which were not
+material, were included in the Company’s Consolidated Statements of Operations from their respective dates of
+acquisition within the Data Center segment.
+
+
+#### Pro Forma Information
+
+Since the ZT Manufacturing Business, which represented the majority of ZT Systems’ operations, was classified
+as held for sale upon acquisition and subsequently sold in October 2025, pro forma information presenting the
+combined results of operations of ZT Systems and other acquired entities were deemed neither material nor
+meaningful to the Company’s consolidated income from continuing operations and were omitted.
+
+
+#### Fiscal Year 2024 Acquisitions
+
+
+#### Silo AI Acquisition
+
+On August 9, 2024, the Company completed the acquisition of Silo AI Oy (Silo AI), an AI lab based in Finland,
+for $665 million in cash. The recorded purchase consideration of $553 million, net of closing adjustments,
+transaction costs and deferred cash compensation, was allocated to $19 million of identifiable intangible assets,
+$43 million of net liabilities assumed, and $577 million to goodwill. Goodwill was attributed to Silo AI’s
+workforce to accelerate the deployment and development of AI solutions on AMD hardware. Silo AI financial
+results, which were not material, were included in the Company’s Statement of Operations since the date of
+acquisition, primarily within the Data Center segment.
+
+
+#### Fiscal Year 2023 Acquisitions
+
+During the year ended December 30, 2023, the Company completed business acquisitions for a total
+consideration of $134 million, recognizing $49 million of identifiable net assets and $85 million of goodwill. The
+financial results of these acquired businesses, which were not material, were included in the Company’s
+Consolidated Statements of Operations from their respective dates of acquisition under the Data Center, Client
+and Gaming, and Embedded segments.
+
+
+#### NOTE 6 – Goodwill and Acquisition-related Intangibles, net
+
+
+#### Goodwill
+
+In the first quarter of fiscal year 2025, the Company assigned goodwill to its updated reporting units to reflect the
+change in its segment reporting structure and determined no impairment immediately prior to and after the
+change.
+
+
+#### 76
+
+
+## Page 89
+
+
+#### The following table summarizes Goodwill:
+
+
+#### Before segment change
+
+After segment
+change
+
+(in millions)
+Data Center
+Embedded
+Client
+Gaming
+Client and
+Gaming
+Total
+
+December 28, 2024 . . . . . . . . . . . . . . . . . .
+$3,403
+$21,072
+$ 126
+$ 238
+$—
+$24,839
+Reassignment due to segment change . . . .
+—
+—
+(126)
+(238)
+364
+—
+Acquisitions . . . . . . . . . . . . . . . . . . . . . . .
+287
+—
+—
+—
+—
+287
+
+December 27, 2025 . . . . . . . . . . . . . . . . . .
+$3,690
+$21,072
+$ —
+$ —
+$364
+$25,126
+
+During the fourth quarter of fiscal years 2025 and 2024, the Company conducted its annual qualitative
+impairment tests of goodwill and concluded that there was no goodwill impairment with respect to its reporting
+units.
+
+
+#### Acquisition-related Intangible Assets
+
+
+#### The following table summarizes Acquisition-related Intangible Assets:
+
+December 27, 2025
+December 28, 2024
+Gross
+Carrying
+Amount
+Accumulated
+Amortization
+Net Carrying
+Amount
+
+Gross
+Carrying
+Amount
+Accumulated
+Amortization
+Net Carrying
+Amount
+(In millions)
+(In millions)
+Developed technology . . . . . . . . . . .
+$13,599
+$ (3,560)
+$10,039
+$13,408
+$(2,529)
+$10,879
+Customer relationships . . . . . . . . . . .
+12,324
+(6,267)
+6,057
+12,324
+(5,124)
+7,200
+Product trademarks . . . . . . . . . . . . . .
+914
+(305)
+609
+914
+(225)
+689
+
+Acquisition-related intangible assets
+subject to amortization . . . . . . . . .
+26,837
+(10,132)
+16,705
+26,646
+(7,878)
+18,768
+In-process research and
+development (IPR&D) not subject
+to amortization . . . . . . . . . . . . . . .
+—
+—
+—
+162
+—
+162
+
+Total acquisition-related intangible
+assets, net . . . . . . . . . . . . . . . . . . .
+$26,837
+$(10,132)
+$16,705
+$26,808
+$(7,878)
+$18,930
+
+In April 2025, $162 million of IPR&D intangible asset reached technological feasibility, was placed in service as
+developed technology and started amortization over its estimated useful life of 5 years.
+
+Acquisition-related intangible amortization expense was $2.3 billion, $2.4 billion and $2.8 billion in fiscal year
+2025, 2024 and 2023, respectively.
+
+Based on the carrying value of acquisition-related intangibles recorded as of December 27, 2025, and assuming
+no subsequent impairment of the underlying assets, the estimated future annual amortization expense for
+acquisition-related intangibles is as follows:
+
+Fiscal Year
+2026
+2027
+2028
+2029
+2030
+2031 and
+thereafter
+Total
+(In millions)
+Future annual amortization . . . . . . . . . . . . . .
+$2,153
+$2,036
+$1,923
+$1,691
+$1,454
+$7,448
+$16,705
+
+
+#### 77
+
+
+## Page 90
+
+
+#### NOTE 7 – Related Parties—Equity Joint Ventures
+
+
+#### ATMP Joint Ventures
+
+The Company holds a 15% equity interest in two joint ventures (collectively, the ATMP JV) with affiliates of
+Tongfu Microelectronics Co., Ltd, a Chinese joint stock company. The Company has no obligation to fund the
+ATMP JV. The Company accounts for its equity interests in the ATMP JV under the equity method of
+accounting due to its significant influence over the ATMP JV. The carrying value of the investment was
+$176 million and $149 million as of December 27, 2025 and December 28, 2024, respectively, and are recorded
+within Other non-current assets on the Company’s Consolidated Balance Sheets.
+
+The ATMP JV provides assembly, test, mark and packaging (ATMP) services to the Company. The Company’s
+purchases from the ATMP JV were $2.0 billion and $1.7 billion in 2025 and 2024, respectively. The amounts
+payable to the ATMP JV were $408 million and $476 million as of December 27, 2025 and December 28, 2024,
+respectively, and are recorded within Accounts payable on the Company’s Consolidated Balance Sheets.
+
+In 2024, the Company provided a $100 million term loan to one of the ATMP JVs for general corporate
+purposes, with interest at the three months term Secured Overnight Financing Rate (SOFR) plus 50 basis points,
+payable quarterly. The loan matures on October 16, 2026. The loan and related interest receivable are recorded
+within Prepaid expenses and other current assets on the Company’s Consolidated Balance Sheets.
+
+During 2025, 2024 and 2023, the Company recorded income related to the ATMP JV of $26 million, $33 million
+and $16 million in Equity income in investee on its Consolidated Statement of Operations, respectively.
+
+
+#### NOTE 8 – Financial Instruments
+
+
+#### Financial Instruments Recorded at Fair Value on a Recurring Basis
+
+December 27, 2025
+December 28, 2024
+(In millions)
+Level 1
+Level 2
+Level 3
+Total
+Level 1
+Level 2
+Level 3
+Total
+
+Cash equivalents
+Money market funds . . . . . . . . . .
+$ 620
+$ —
+$—
+$
+620
+$1,496
+$ —
+$—
+$1,496
+Corporate debt securities . . . . . . .
+—
+1,869
+—
+1,869
+—
+806
+—
+806
+U.S. government and agency
+securities . . . . . . . . . . . . . . . . .
+1,148
+300
+—
+1,448
+130
+—
+—
+130
+Non-U.S. government and agency
+securities . . . . . . . . . . . . . . . . .
+—
+245
+—
+245
+—
+116
+—
+116
+Time deposits and certificates of
+deposits . . . . . . . . . . . . . . . . . .
+—
+173
+—
+173
+—
+107
+—
+107
+Short-term investments
+Corporate debt securities . . . . . . .
+—
+3,107
+—
+3,107
+—
+814
+—
+814
+U.S. government and agency
+securities . . . . . . . . . . . . . . . . .
+901
+718
+—
+1,619
+332
+82
+—
+414
+Non-U.S. government and agency
+securities . . . . . . . . . . . . . . . . .
+—
+256
+—
+256
+—
+79
+—
+79
+Time deposits and certificates of
+deposits . . . . . . . . . . . . . . . . . .
+—
+10
+—
+10
+—
+10
+—
+10
+Asset-backed and mortgage-
+backed securities . . . . . . . . . . .
+—
+22
+—
+22
+—
+28
+—
+28
+Other non-current assets
+Long-term investments . . . . . . . .
+198
+—
+202
+400
+—
+—
+25
+25
+Deferred compensation plan
+investments . . . . . . . . . . . . . . .
+257
+—
+—
+257
+197
+—
+—
+197
+Total assets measured at fair value . . .
+$3,124
+$6,700
+$202
+$10,026
+$2,155
+$2,042
+$ 25
+$4,222
+
+
+#### 78
+
+
+## Page 91
+
+Deferred compensation plan investments are primarily mutual fund investments held in a Rabbi trust established
+to maintain the Company’s executive deferred compensation plan.
+
+
+#### The following is a summary of cash equivalents and short-term investments:
+
+December 27, 2025
+December 28, 2024
+Cost/
+Amortized
+Cost
+
+Gross
+Unrealized
+Gains
+
+Gross
+Unrealized
+Losses
+
+Estimated
+Fair
+Value
+
+Cost/
+Amortized
+Cost
+
+Gross
+Unrealized
+Gains
+
+Gross
+Unrealized
+Losses
+
+Estimated
+Fair
+Value
+(in millions)
+(in millions)
+Money market funds . . . . . . . .
+$ 620
+$—
+$—
+$ 620
+$1,496
+$—
+$—
+$1,496
+Corporate debt securities . . . .
+4,974
+2
+—
+4,976
+1,621
+—
+(1)
+1,620
+U.S. government and agency
+securities . . . . . . . . . . . . . . .
+3,065
+2
+—
+3,067
+544
+—
+—
+544
+Non-U.S. government and
+agency securities . . . . . . . . .
+501
+—
+—
+501
+195
+—
+—
+195
+Time deposits and certificates
+of deposits . . . . . . . . . . . . . .
+183
+—
+—
+183
+117
+—
+—
+117
+Asset-backed and mortgage-
+backed securities . . . . . . . . .
+23
+—
+(1)
+22
+30
+—
+(2)
+28
+$9,366
+$
+4
+$ (1)
+$9,369
+$4,003
+$—
+$ (3)
+$4,000
+
+As of December 27, 2025 and December 28, 2024, the Company did not have material available-for-sale debt
+securities which had been in a continuous unrealized loss position of more than twelve months.
+
+The contractual maturities of investments classified as available-for-sale are as follows:
+
+December 27, 2025
+December 28, 2024
+Amortized Cost
+Fair Value
+Amortized Cost
+Fair Value
+(In millions)
+(In millions)
+Due within 1 year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$6,528
+$6,528
+$2,073
+$2,073
+Due in 1 year through 5 years . . . . . . . . . . . . . . . . . . . . . . .
+2,195
+2,199
+406
+405
+Due in 5 years and later . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+22
+27
+26
+
+$8,746
+$8,749
+$2,506
+$2,504
+
+
+#### Financial Instruments Measured at Fair Value on a Non-Recurring Basis
+
+As of December 27, 2025 and December 28, 2024, the Company had long-term investments in non-marketable
+equity securities of $1.1 billion and $468 million, respectively, which are recorded at estimated fair value based
+on observable events or adjustments from impairments.
+
+As of December 27, 2025, non-marketable equity investments had cumulative gross unrealized gains of
+$291 million and cumulative gross unrealized losses and impairments of $51 million. During the year ended
+December 27, 2025, the Company recognized gross unrealized gains of $289 million and gross unrealized losses
+and impairments of $53 million. As of December 28, 2024, cumulative and annual gross unrealized gains, losses
+and impairments were not material.
+
+
+#### 79
+
+
+## Page 92
+
+
+#### Financial Instruments Not Recorded at Fair Value
+
+The carrying amounts and estimated fair values of the Company’s long-term debt are as follows:
+
+December 27, 2025
+December 28, 2024
+Carrying
+Amount
+Estimated
+Fair Value
+Carrying
+Amount
+Estimated
+Fair Value
+(In millions)
+(In millions)
+Current portion of long-term debt, net . . . . . . . . . . . . . . . . . . . . . . . . .
+$ 874
+$ 879
+$ —
+$ —
+Long-term debt, net of current portion . . . . . . . . . . . . . . . . . . . . . . . . .
+$2,348
+$2,246
+$1,721
+$1,543
+
+The estimated fair value of the Company’s long-term debt is based on Level 2 inputs of quoted prices for the
+Company’s debt and comparable instruments in inactive markets.
+
+The fair value of the Company’s accounts receivable, accounts payable and other short-term obligations
+approximate their carrying value based on existing terms.
+
+
+#### Hedging Transactions and Derivative Financial Instruments
+
+
+#### Foreign Currency Forward Contracts Designated as Accounting Hedges
+
+The Company enters into foreign currency forward contracts to hedge its exposure to foreign currency exchange
+rate risk related to future forecasted transactions denominated in currencies other than the U.S. Dollar. These
+contracts generally mature within 24 months and are designated as accounting hedges. As of December 27, 2025
+and December 28, 2024, the notional value of the Company’s outstanding foreign currency forward contracts
+designated as cash flow hedges was $2.3 billion and $2.2 billion, respectively. The fair value of these contracts as
+of December 27, 2025 and December 28, 2024 was not material.
+
+
+#### Foreign Currency Forward Contracts Not Designated as Accounting Hedges
+
+The Company also enters into foreign currency forward contracts to reduce the short-term effects of foreign
+currency fluctuations on certain receivables or payables denominated in currencies other than the U.S. Dollar.
+These forward contracts generally mature within 3 months and are not designated as accounting hedges. As of
+December 27, 2025 and December 28, 2024, the notional value of these outstanding contracts was $1.1 billion
+and $642 million, respectively. The fair value of these contracts as of December 27, 2025 and December 28,
+2024 was not material.
+
+The cash flows associated with derivative instruments as cash flow hedging instruments are classified in the same
+category within the Consolidated Statement of Cash Flows as the cash flows of the related items.
+
+
+#### 80
+
+
+## Page 98
+
+
+#### Stock Repurchase Program
+
+On May 13, 2025, the Company’s board of directors approved a new $6 billion share repurchase program. The
+authorization is in addition to the Company’s existing share repurchase program (collectively, the Repurchase
+Program), increasing the total repurchase authority to $14 billion. During 2025, the Company repurchased
+12 million shares of its common stock under the Repurchase Program for $1.3 billion. The repurchased amounts
+do not include the 1% excise tax on stock repurchases enacted by the Inflation Reduction Act of 2022. As of
+December 27, 2025, $9.4 billion remained available for future stock repurchases under the Repurchase Program.
+The Repurchase Program does not obligate the Company to acquire any common stock, has no termination date
+and may be suspended or discontinued at any time.
+
+
+#### Warrant
+
+In October 2025, the Company issued to OpenAI OpCo, LLC (the Warrantholder) a warrant to purchase up to an
+aggregate of 160 million shares of the Company’s common stock at an exercise price of $0.01 per share. The
+warrant shares will vest in tranches based on AMD Instinct GPU purchase milestones by the Warrantholder, or
+its affiliates, or indirectly through third parties, and achievement of specified Company stock price targets and
+stock performance. Each vested tranche is further subject to the fulfillment of certain other technical and
+commercial conditions prior to exercise. Subject to certain terms and conditions, the warrant is exercisable
+through October 5, 2030. None of the warrant shares had met the vesting or exercise conditions as of
+December 27, 2025 and the issuance of the warrant had no impact to the Company’s financial statements for the
+year ended December 27, 2025. The Company will account for the warrant shares as a liability until certain
+conditions for equity classification are satisfied.
+
+
+#### Stock-Based Compensation
+
+The Company’s employee equity programs are intended to attract, retain and motivate highly qualified
+employees. On May 18, 2023, the Company’s stockholders approved the AMD 2023 Equity Incentive Plan (the
+2023 Plan). Under the 2023 Plan, 87,645,874 shares of the Company’s common stock are reserved and available
+for delivery pursuant to awards granted under the 2023 Plan. Generally, stock options granted under the 2023
+Plan vest and become exercisable over a four-year period from the date of grant and expire within seven years
+after the grant date. Unvested shares from the 2023 Plan that are reacquired by the Company from forfeited
+outstanding equity awards become available for grant and may be reissued as new awards. Under the 2023 Plan,
+the Company can grant (i) stock options, and (ii) RSUs, including time-based RSUs and PRSUs.
+
+Stock Options. Nonstatutory and incentive stock options may be granted to certain of the Company’s senior
+executives. The exercise price of the shares subject to each nonstatutory stock option and incentive stock option
+cannot be less than 100% of the fair market value of the Company’s common stock on the date of the grant. The
+exercise price of each option granted under the 2023 Plan must be paid in full at the time of the exercise.
+
+Time-based RSUs. Time-based RSUs are awards that can be granted to any employee, director or consultant and
+that obligate the Company to issue a specific number of shares of the Company’s common stock in the future if
+the vesting terms and conditions are satisfied.
+
+PRSUs. PRSUs can be granted to certain of the Company’s senior executives. The performance metrics can be
+financial performance, non-financial performance and/or market conditions. Each PRSU award reflects a target
+number of shares (Target Shares) that may be issued to an award recipient before adjusting based on the Company’s
+financial performance, non-financial performance and/or market conditions. The actual number of shares that a
+grant recipient receives at the end of the period may range from 0% to 250% of the Target Shares granted,
+depending upon the degree of achievement of the performance target designated by each individual award.
+
+ESPP. Under the 2017 Plan, eligible employees who participate in an offering period may have up to 15% of
+their eligible earnings withheld, up to certain limitations, to purchase shares of common stock at 85% of the
+
+
+#### 86
+
+
+## Page 99
+
+lower of the fair market value on the first or the last business day of the six-month offering period. The offering
+periods commence in May and November each year.
+
+As of December 27, 2025, the Company had 47 million shares of common stock that were available for future
+grants and 36 million shares reserved for issuance upon the exercise of outstanding stock options or the vesting
+of unvested RSUs, including PRSUs.
+
+
+#### Valuation and Expense
+
+Stock-based compensation expense was allocated in the Company’s Consolidated Statements of Operations as follows:
+
+Year Ended
+December 27,
+2025
+December 28,
+2024
+December 30,
+2023
+(In millions)
+Cost of sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$
+26
+$
+21
+$
+30
+Research and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1,287
+1,079
+1,002
+Marketing, general, and administrative . . . . . . . . . . . . . . . . . . . . . . . . . .
+325
+307
+352
+Total stock-based compensation expense before income taxes . . . . . . .
+1,638
+1,407
+1,384
+Income tax benefit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(293)
+(251)
+(249)
+Total stock-based compensation expense, net of income taxes . . . . . . .
+$1,345
+$1,156
+$1,135
+
+Stock Options. The weighted-average estimated fair value of employee stock options granted during 2025, 2024
+and 2023 was $89.01, $68.38 and $53.72 per share, respectively, using the following assumptions:
+
+December 27,
+2025
+December 28,
+2024
+December 30, 2023
+Expected volatility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52.25%
+54.34%
+52.36% - 52.42%
+Risk-free interest rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.82%
+3.80%
+3.93% - 4.11%
+Expected dividends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+— %
+— %
+— %
+Expected life (in years) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.97
+4.98
+4.96 - 5.04
+
+The Company uses a combination of the historical volatility of its common stock and the implied volatility for
+publicly traded options on the Company’s common stock as the expected volatility assumption. The risk-free
+interest rate is based on the rate for a U.S. Treasury zero-coupon yield curve with a term that approximates the
+expected life of the option grant at the date closest to the option grant date. The expected dividend yield is zero as
+the Company does not expect to pay dividends in the near future. The expected term of employee stock options
+represents the weighted-average period the stock options are expected to remain outstanding.
+
+
+#### The following table summarizes stock option activity and related information:
+
+Outstanding
+Number
+of Shares
+
+Weighted-
+Average
+Exercise
+Price
+
+Aggregate
+Intrinsic
+Value
+
+Weighted-
+Average
+Remaining
+Contractual
+Life
+(in years)
+(In millions, except share price)
+Balance as of December 28, 2024 . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+$ 89.73
+Granted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+$177.51
+Forfeited . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+$110.30
+Exercised . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+$ 43.04
+Balance as of December 27, 2025 . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+$117.60
+$77
+4.17
+Exercisable December 27, 2025 . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+$ 98.94
+$58
+3.06
+
+
+#### 87
+
+
+## Page 100
+
+The total intrinsic value of stock options exercised for 2025, 2024 and 2023 was $65 million, $86 million and
+$173 million, respectively. As of December 27, 2025, the Company had $51 million of total unrecognized
+compensation expense related to stock options, which will be recognized over the weighted-average period of
+2.55 years.
+
+Time-based RSUs. The weighted-average grant date fair values of time-based RSUs granted during 2025, 2024
+and 2023 were $158.26, $141.95 and $106.28 per share, respectively.
+
+
+#### The following table summarizes time-based RSU activity and related information:
+
+Number
+of Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+(In millions)
+Unvested shares as of December 28, 2024 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+$116.77
+Granted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16
+$158.26
+Forfeited . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)
+$120.12
+Vested . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)
+$113.34
+
+Unvested shares as of December 27, 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+$138.14
+
+The total fair value of time-based RSUs vested during 2025, 2024 and 2023 was $1.8 billion, $2.0 billion and
+$1.1 billion, respectively. As of December 27, 2025, the Company had $3.5 billion of total unrecognized
+compensation expense related to time-based RSUs, which will be recognized over the weighted-average period
+of 2.64 years.
+
+PRSUs. The weighted-average grant date fair values of PRSUs granted during 2025, 2024 and 2023 were
+$263.71, $118.98 and $134.87, respectively, using the following assumptions:
+
+December 27, 2025
+December 28, 2024
+December 30, 2023
+
+Expected volatility . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50.74% - 51.77%
+52.68% - 53.19%
+51.12% - 56.22%
+Risk-free interest rate . . . . . . . . . . . . . . . . . . . . . . . . .
+3.70% - 4.22%
+3.82% - 4.41%
+4.30% - 4.36%
+Expected dividends . . . . . . . . . . . . . . . . . . . . . . . . . . .
+— %
+— %
+— %
+Expected term (in years) . . . . . . . . . . . . . . . . . . . . . . .
+3.00
+2.48 - 3.00
+2.17 - 3.00
+
+The Company uses the historical volatility of its common stock and risk-free interest rate based on the rate for a
+U.S. Treasury zero-coupon yield curve with a term that approximates the expected life of the PRSUs grant at the
+date closest to the grant date. The expected dividend yield is zero as the Company does not expect to pay dividends
+in the near future. The expected term of PRSUs represents the requisite service periods of these PRSUs.
+
+
+#### The following table summarizes PRSU activity and related information:
+
+Number
+of Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+(In millions)
+Unvested shares as of December 28, 2024 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+$139.31
+Granted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+$263.71
+Forfeited . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+—
+$142.51
+Vested . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)
+$120.06
+
+Unvested shares as of December 27, 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+$180.93
+
+
+#### 88
+
+
+## Page 101
+
+The total fair value of PRSUs vested during 2025, 2024 and 2023 was $78 million, $226 million and
+$100 million, respectively. As of December 27, 2025, the Company had $232 million of total unrecognized
+compensation expense related to PRSUs, which will be recognized over the weighted-average period of 1.42
+years.
+
+ESPP. The weighted-average grant date fair value for the ESPP during 2025, 2024 and 2023 was $48.39, $43.80
+and $31.11 per share, respectively, using the following assumptions:
+
+December 27, 2025
+December 28, 2024
+December 30, 2023
+
+Expected volatility . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56.47% - 56.79%
+48.14% - 49.38%
+45.74% - 49.40%
+Risk-free interest rate . . . . . . . . . . . . . . . . . . . . . . . . .
+3.79% - 4.28%
+4.42% - 5.41%
+5.13% - 5.46%
+Expected dividends . . . . . . . . . . . . . . . . . . . . . . . . . . .
+— %
+— %
+— %
+Expected term (in years) . . . . . . . . . . . . . . . . . . . . . . .
+0.50
+0.50
+0.50
+
+The Company uses the historical volatility of its common stock and the risk-free interest rate based on the rate
+for a U.S. Treasury zero-coupon yield curve with a term that approximates the expected life of the ESPP grant at
+the date closest to the ESPP grant date. The expected dividend yield is zero as the Company does not expect to
+pay dividends in the near future. The expected term of the ESPP represents the six-month offering period.
+
+During 2025, 3 million shares of common stock were purchased under the ESPP at an average purchase price
+of $89.22 resulting in aggregate cash proceeds of $263 million. As of December 27, 2025, the Company had
+$52 million of total unrecognized compensation expense related to the ESPP, which will be recognized over the
+weighted-average period of 0.37 years.
+
+
+#### NOTE 15 – Retirement Benefit Plans
+
+The Company provides retirement benefit plans in the United States and certain foreign countries. The Company
+has a 401(k) retirement plan that allows participating employees in the United States to contribute as defined by
+the plan and subject to Internal Revenue Service limitations. The Company matches 75% of employees’
+contributions up to 6% of their eligible compensation. The Company’s contributions to the 401(k) plan for 2025,
+2024 and 2023 were approximately $84 million, $78 million and $70 million, respectively.
+
+
+#### NOTE 16 – Restructuring Charges
+
+In the fourth quarter of 2024, the Company implemented a restructuring plan (the 2024 Restructuring Plan)
+which reduced the global workforce by approximately 4% of headcount. Actions associated with the 2024
+Restructuring Plan were substantially completed in the first quarter of fiscal year 2025. The 2024 Restructuring
+Plan charges to date were $186 million, of which $113 million was related to employee severance and benefits
+and $73 million was related to asset impairment. For 2025 and 2024, the Company made $79 million and
+$24 million of severance payments, respectively. In 2025, there were no charges or adjustments to period
+expenses under the 2024 Restructuring Plan. As of December 27, 2025 and December 28, 2024, restructuring
+plan liabilities of $10 million and $89 million, respectively, were recorded within Accrued liabilities in the
+Company’s Consolidated Balance Sheets.
+
+
+#### NOTE 17 – Income Taxes
+
+
+#### Continuing Operations
+
+In 2025, the Company adopted ASU 2023-09 with prospective application. ASU 2023-09 updates disclosure
+requirements for the reconciliation of tax expense from continuing operations, income taxes paid and modifies
+other income tax-related disclosures.
+
+
+#### 89
+
+
+## Page 106
+
+Under current U.S. tax law, the impact of future distributions of earnings from foreign subsidiaries are
+anticipated to be subject to withholding taxes from local jurisdictions and non-conforming U.S. state
+jurisdictions. The deferred tax liability on these undistributed earnings is not material.
+
+The table below provides the updated requirements of ASU 2023-09 for cash paid for income taxes, net of
+refunds.
+
+Year Ended
+December 27,
+2025
+(In millions)
+Cash paid for income taxes, net of refunds:
+Federal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$578
+State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+149
+Foreign . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+157
+Total cash paid for income taxes, net of refunds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$884
+
+In 2025, cash paid for income taxes in California was $62 million. The Company has elected a refundable credit
+for the payments made as a result of the Business Credit Limitation in California.
+
+
+#### Discontinued Operations
+
+Net income from discontinued operations for 2025 was $66 million, net of tax expense of $54 million. This
+includes the results of operations of the ZT Manufacturing Business and the change in fair value of contingent
+consideration liability of $121 million.
+
+
+#### NOTE 18 – Other Income (Expense), Net
+
+
+#### The following table summarizes the components of Other income (expense), net:
+
+Year Ended
+December 27,
+2025
+December 28,
+2024
+December 30,
+2023
+(In millions)
+Interest income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$215
+$182
+$206
+Gains (losses) on long-term investments, net . . . . . . . . . . . . . . . . . . . . .
+366
+(2)
+1
+Other income (expense) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)
+1
+(10)
+
+Other income (expense), net . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$577
+$181
+$197
+
+
+#### NOTE 19 – Subsequent Events
+
+Subsequent to December 27, 2025, the Company entered into an agreement to guarantee a commercial partner’s
+data center lease obligations in the event of their default. The maximum gross exposure is $4.1 billion, which
+will be reduced as the commercial partner makes payments to the lessor over 15 years, or if the commercial
+partner enters into an agreement to sell the data center capacity to a third party. The fair value of the guarantee
+liability is not expected to be material to the Consolidated Financial Statements.
+
+
+#### 94
+
+
+## Page 107
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of
+Advanced Micro Devices, Inc.
+
+
+#### Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Advanced Micro Devices, Inc. (the Company)
+as of December 27, 2025 and December 28, 2024, the related consolidated statements of operations,
+comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended
+December 27, 2025, and the related notes (collectively referred to as the “consolidated financial statements”). In
+our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of
+the Company at December 27, 2025 and December 28, 2024, and the results of its operations and its cash flows
+for each of the three years in the period ended December 27, 2025, in conformity with U.S. generally accepted
+accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board
+(United States) (PCAOB), the Company’s internal control over financial reporting as of December 27, 2025,
+based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission (2013 framework), and our report dated February 3, 2026 expressed
+an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express
+an opinion on the Company’s financial statements based on our audits. We are a public accounting firm
+registered with the PCAOB and are required to be independent with respect to the Company in accordance with
+the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange
+Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial statements are free of material
+misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of
+material misstatement of the financial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements. Our audits also included evaluating the accounting principles used and
+significant estimates made by management, as well as evaluating the overall presentation of the financial
+statements. We believe that our audits provide a reasonable basis for our opinion.
+
+
+#### Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial
+statements that was communicated or required to be communicated to the audit committee and that: (1) relates to
+accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective or complex judgments. The communication of the critical audit matter does not alter in any way our
+opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical
+audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to
+which it relates.
+
+
+#### 95
+
+
+## Page 108
+
+Inventory Valuation
+Description of the
+Matter
+At
+December
+27,
+2025,
+the
+Company’s
+net
+inventory
+balance
+was
+$7,920 million. As discussed in Note 2 to the consolidated financial statements,
+the Company adjusts the inventory carrying value to the lower of actual cost or
+the estimated net realizable value after completing ongoing reviews of on-hand
+inventory quantities exceeding forecasted demand, and by considering recent
+historical activity as well as anticipated demand.
+
+Auditing management’s inventory excess and obsolescence reserves involved
+significant judgment because the estimates are based on several factors that are
+affected by market, industry, and competitive conditions outside the Company’s
+control. In estimating excess and obsolescence reserves, management developed
+certain assumptions, including forecasted demand which are sensitive to the
+competitiveness of product offerings, customer requirements, and product life
+cycles. These significant assumptions are forward-looking and could be affected
+by future economic and market conditions.
+
+How We
+Addressed the
+Matter in Our
+Audit
+
+We obtained an understanding, evaluated the design and tested the operating
+effectiveness of internal controls over the Company’s inventory excess and
+obsolescence reserves estimation process, including the basis for developing the
+above-described assumptions and management’s judgments.
+
+Our audit procedures included, among others, testing the reasonableness of
+management’s key assumptions and judgments and testing the accuracy and
+completeness of the underlying data used to determine the amount of excess and
+obsolescence reserves. We compared the quantities and carrying value of
+on-hand inventories to related unit sales, both historical and forecasted, and
+evaluated the appropriateness and adequacy of management’s adjustments to
+such sales forecasts by analyzing potential technological changes in line with
+product life cycles. We also assessed the accuracy of forecasts underlying
+management’s estimates by comparing management’s historical forecasts to
+actual results, evaluated industry and market factors and performed sensitivity
+analyses over the forecasted demand used by management to determine
+inventory excess and obsolescence reserves.
+
+
+#### /s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1970.
+
+San Jose, California
+February 3, 2026
+
+
+#### 96
+
+
+## Page 109
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of
+Advanced Micro Devices, Inc.
+
+
+#### Opinion on Internal Control Over Financial Reporting
+
+We have audited Advanced Micro Devices, Inc.’s internal control over financial reporting as of December 27,
+2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion,
+Advanced Micro Devices, Inc. (the Company) maintained, in all material respects, effective internal control over
+financial reporting as of December 27, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board
+(United States) (PCAOB), the consolidated balance sheets of the Company as of December 27, 2025 and
+December 28, 2024, the related consolidated statements of operations, comprehensive income, stockholders’
+equity and cash flows for each of the three years in the period ended December 27, 2025, and the related notes
+and our report dated February 3, 2026 expressed an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and
+for its assessment of the effectiveness of internal control over financial reporting included in the accompanying
+Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion
+on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm
+registered with the PCAOB and are required to be independent with respect to the Company in accordance with
+the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange
+Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether effective internal control over financial
+reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that
+a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based
+on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We
+believe that our audit provides a reasonable basis for our opinion.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles. A company’s internal control over financial reporting
+includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail,
+accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable
+assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the company are being made
+only in accordance with authorizations of management and directors of the company; and (3) provide reasonable
+assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the
+company’s assets that could have a material effect on the financial statements.
+
+
+#### 97
+
+
+## Page 110
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect
+misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that
+controls may become inadequate because of changes in conditions, or that the degree of compliance with the
+policies or procedures may deteriorate.
+
+
+#### /s/ Ernst & Young LLP
+
+San Jose, California
+February 3, 2026
+
+
+#### 98
+
+
+## Page 111
+
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+None.
+
+
+### ITEM 9A. CONTROLS AND PROCEDURES
+
+
+#### Disclosure Controls and Procedures
+
+We maintain disclosure controls and procedures that are designed with the objective of providing reasonable
+assurance that information required to be disclosed in our reports filed under the Exchange Act, such as this
+Annual Report on Form 10-K is recorded, processed, summarized and reported within the time periods specified
+in the SEC’s rules and forms, and that such information is accumulated and communicated to our management,
+including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions
+regarding required disclosure. In designing and evaluating our disclosure controls and procedures, our
+management recognizes that any controls and procedures, no matter how well designed and operated, can provide
+only reasonable assurance of achieving the desired control objectives, and our management is required to apply
+its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+
+As of December 27, 2025, the end of the period covered by this report, we carried out an evaluation, under the
+supervision and with the participation of our management, including our Chief Executive Officer and Chief
+Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures
+pursuant to Exchange Act Rules 13a-15(e) and 15d-15(e). This type of evaluation is performed on a quarterly
+basis so that conclusions of management, including our Chief Executive Officer and Chief Financial Officer,
+concerning the effectiveness of the disclosure controls can be reported in our periodic reports on Form 10-Q and
+Form 10-K. The overall goals of these evaluation activities are to monitor our disclosure controls and to modify
+them, as necessary. We intend to maintain the disclosure controls as dynamic systems that we adjust as
+circumstances merit. Based on the foregoing, our Chief Executive Officer and Chief Financial Officer concluded
+that our disclosure controls and procedures were effective at the reasonable assurance level as of the end of the
+period covered by this report.
+
+
+#### Management’s Report on Internal Control over Financial Reporting
+
+Internal control over financial reporting refers to the process designed by, or under the supervision of, our Chief
+Executive Officer and Chief Financial Officer, and effected by our Board of Directors, management and other
+personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with U.S. generally accepted accounting principles, and
+includes those policies and procedures that:
+
+1. Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and
+dispositions of the assets of the Company;
+
+2. Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial
+statements in accordance with U.S. generally accepted accounting principles, and that receipts and expenditures
+of the Company are being made only in accordance with authorizations of management and directors of the
+Company; and
+
+3. Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or
+disposition of the Company’s assets that could have a material effect on the financial statements. Internal control
+over financial reporting cannot provide absolute assurance of achieving financial reporting objectives because of
+its inherent limitations.
+
+Internal control over financial reporting is a process that involves human diligence and compliance and is subject
+to lapses in judgment and breakdowns resulting from human failures. Internal control over financial reporting
+
+
+#### 99
+
+
+## Page 113
+
+
+### PART III
+
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+AMD has adopted an insider trading policy governing the purchase, sale, and other dispositions of our securities
+by our directors, officers, employees and other individuals associated with us that we believe is reasonably
+designed to promote compliance with insider trading laws, rules and regulations, and any applicable listing
+standards. A copy of our insider trading policy is filed as Exhibit 19.1 to this Annual Report on Form 10-K.
+
+The information under the captions “Item 1—Election of Directors” (including “Consideration of Stockholder
+Nominees for Director”), “Corporate Governance,” “Meetings and Committees of the Board of Directors,”
+“Executive Officers” and “Delinquent Section 16(a) Reports” in our proxy statement for our 2026 annual
+meeting of stockholders (our 2026 Proxy Statement) is incorporated herein by reference. There were no material
+changes to the procedures by which stockholders may recommend nominees to our board of directors. See also,
+“Part 1, Item 1-Website Access to our SEC Filings and Corporate Governance Documents,” above.
+
+ITEM 11.
+EXECUTIVE COMPENSATION
+
+The information under the captions “Compensation Committee Interlocks and Insider Participation,” “Directors’
+Compensation and Benefits” (including “2025 Non-Employee Director Compensation”), “Compensation
+Discussion and Analysis,” “Executive Compensation” (including “2025 Summary Compensation Table,” “2025
+Nonqualified Deferred Compensation,” “Outstanding Equity Awards at 2025 Fiscal Year-End,” “Grants of Plan-
+Based Awards in 2025” and “Option Exercises and Stock Vested in 2025,” “Severance and Change in Control
+Arrangements” and “Chief Executive Officer Pay Ratio”), and “Compensation and Leadership Resources
+Committee Report” in our 2026 Proxy Statement is incorporated herein by reference.
+
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS
+
+The information under the captions “Principal Stockholders,” “Security Ownership of Directors and Executive
+Officers” and “Equity Compensation Plan Information” in our 2026 Proxy Statement is incorporated herein by
+reference.
+
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR
+INDEPENDENCE
+
+The information under the captions “Corporate Governance—Independence of Directors” and “Certain
+Relationships and Related Transactions” in our 2026 Proxy Statement is incorporated herein by reference.
+
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information under the captions “Item 2—Ratification of Appointment of Independent Registered Public
+Accounting Firm—Independent Registered Public Accounting Firm’s Fees” in our 2026 Proxy Statement is
+incorporated herein by reference.
+
+With the exception of the information specifically incorporated by reference in Part III of this Annual Report on
+Form 10-K from our 2026 Proxy Statement, our 2026 Proxy Statement will not be deemed to be filed as part of
+this report. Without limiting the foregoing, the information under the captions “Compensation and Leadership
+Resources Committee Report” and “Audit and Finance Committee Report” in our 2026 Proxy Statement is not
+incorporated by reference in this Annual Report on Form 10-K.
+
+
+#### 101
+
+
+## Page 114
+
+
+### PART IV
+
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+1.
+Financial Statements
+
+The financial statements of AMD are set forth in Item 8 of this Annual Report on Form 10-K, as indexed below.
+
+
+#### Index to Consolidated Financial Statements
+
+Consolidated Statements of Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+Consolidated Statements of Comprehensive Income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+Consolidated Balance Sheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+62
+Consolidated Statements of Stockholders’ Equity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+63
+Consolidated Statements of Cash Flows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+64
+Notes to Consolidated Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+65
+Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42) . . . . . . . . . . . . . . . . . . . . . . . . .
+95
+
+All schedules have been omitted because the information is not required, is not applicable, or is included in the
+Notes to the Consolidated Financial Statements.
+
+
+#### 2. Exhibits
+
+The exhibits listed in the accompanying Index to Exhibits are filed as part of, or incorporated by reference into,
+this Annual Report on Form 10-K. The following is a list of such Exhibits:
+
+Exhibit
+Description of Exhibits
+
+2.1
+Agreement and Plan of Merger by and among Advanced Micro Devices, Inc., Thrones Merger
+Sub, Inc., and Xilinx, Inc. dated October 26, 2020, filed as Exhibit 2.1 to AMD’s Current Report
+on Form 8-K dated October 26, 2020, is hereby incorporated by reference.
+
+2.2
+Stock Purchase Agreement dated as of August 17, 2024, by and among Advanced Micro
+Devices, Inc., ZT Group Int’l, Inc., the Sellers listed therein and Frank Zhang, as the
+representative of the Sellers, filed as Exhibit 2.1 to AMD’s Current Report on Form 8-K dated
+August 19, 2024, is hereby incorporated by reference.
+
+2.3
+Equity Purchase Agreement dated as of May 18, 2025, by and among Advanced Micro Designs,
+Inc., AMD Design, LLC, ZT Group Int’l, Inc. and Sanmina Corporation, filed as Exhibit 2.1 to
+AMD’s Current Report on Form 8-K on May 18, 2025, is hereby incorporated by reference.
+
+3.1
+Amended and Restated Certificate of Incorporation of Advanced Micro Devices, Inc., filed as
+Exhibit 3.1 to AMD’s Current Report on Form 8-K/A dated May 14, 2025, is hereby
+incorporated by reference.
+
+3.2
+Advanced Micro Devices, Inc. Amended and Restated Bylaws, as amended on February 13,
+2024 filed as Exhibit 3.1 to AMD’s Current Report on Form 8-K dated February 20, 2024, is
+hereby incorporated by reference.
+
+4.1
+Description of Advanced Micro Devices, Inc. Capital Stock
+
+4.2
+Indenture by and among Advanced Micro Devices, Inc. and Wells Fargo Bank N.A., dated
+September 14, 2016, filed as Exhibit 4.1 to AMD’s Current Report on Form 8-K dated
+September 14, 2016, is hereby incorporated by reference.
+
+4.3
+First Supplemental Indenture governing 2.125% Convertible Senior Notes due 2026, including
+Form of 2.125% Note, between Advanced Micro Devices, Inc. and Wells Fargo Bank, N.A.
+dated September 14, 2016, filed as Exhibit 4.2 to AMD’s Current Report on Form 8-K dated
+September 14, 2016, is hereby incorporated by reference.
+
+
+#### 102
+
+
+## Page 115
+
+Exhibit
+Description of Exhibits
+4.4
+First Supplemental Indenture by and among Advanced Micro Devices, Inc. and Wells Fargo
+Bank N.A., dated September 23, 2016, filed as Exhibit 4.1 to AMD’s Quarterly Report on
+Form 10-Q for the fiscal quarter ended September 24, 2016, is hereby incorporated by reference.
+
+4.5
+Second Supplemental Indenture governing the Xilinx 2.2375% Senior Notes due 2030, by and
+among Xilinx, Inc., Advanced Micro Devices, Inc. and U.S. Bank Trust Company, National
+Association, dated February 14, 2022, filed as Exhibit 4.2 to AMD’s Current Report on
+Form 8-K dated February 14, 2022, is hereby incorporated by reference.
+
+4.6
+Indenture, dated as of June 9, 2022, by and between Advanced Micro Devices, Inc. and U.S.
+Bank Trust Company, National Association, as trustee, filed as Exhibit 4.1 to AMD’s Current
+Report on Form 8-K dated June 9, 2022, is hereby incorporated by reference.
+
+4.7
+First Supplemental Indenture, dated as of June 9, 2022, by and between the Company and U.S.
+Bank Trust Company, National Association, as trustee, including the Form of 2032 Note and
+Form of 2052 Note, filed as Exhibit 4.2 to AMD’s Current Report on Form 8-K dated June 9,
+2022, is hereby incorporated by reference.
+
+4.8
+Second Supplemental Indenture, dated as of March 24, 2025, by and between the Company and
+U.S. Bank Trust Company, National Association, as trustee, filed as Exhibit 4.1 to AMD’s
+Current Report on Form 8-K dated March 24, 2025, is hereby incorporated by reference.
+
+4.9
+Warrant to Purchase Shares of Common Stock, dated October 5, 2025, between Advanced
+Micro Devices, Inc. and OpenAI OpCo, LLC, filed as Exhibit 4.1 to AMD’s Current Report on
+Form 8-K dated October 5, 2025, is hereby incorporated by reference.
+
+*10.1
+2011 Executive Incentive Plan, filed as Exhibit 10.2 to AMD’s Quarterly Report on Form 10-Q
+for the period ended April 2, 2011, is hereby incorporated by reference.
+
+*10.2
+AMD Executive Severance Plan and Summary Plan Description for Senior Vice Presidents,
+effective June 1, 2013, filed as Exhibit 10.1 to AMD’s Current Report on Form 8-K dated
+June 7, 2013, is hereby incorporated by reference.
+
+*10.3
+AMD Deferred Income Account Plan, as amended and restated, effective January 1, 2008, filed
+as Exhibit 10.18 to AMD’s Annual Report on Form 10-K for the fiscal year ended December 29,
+2007, is hereby incorporated by reference.
+
+*10.4
+Amendment No. 1 to the AMD Deferred Income Account Plan, as amended and restated,
+effective July 1, 2012, filed as Exhibit 10.16(a) to AMD’s Annual Report on Form 10-K for the
+period ended December 29, 2012, is hereby incorporated by reference.
+
+*10.5
+Form of Indemnity Agreement, between Advanced Micro Devices, Inc. and its officers and
+directors, filed as Exhibit 10.1 to AMD’s Current Report on Form 8-K dated October 6, 2008, is
+hereby incorporated by reference.
+
+*10.6
+Form of Management Continuity Agreement, as amended and restated, filed as Exhibit 10.13(b)
+to AMD’s Annual Report on Form 10-K for the fiscal year ended December 29, 2007, is hereby
+incorporated by reference.
+
+*10.7
+Form of Change in Control Agreement, filed as Exhibit 10.11 to AMD’s Annual Report on
+Form 10-K for the fiscal year ended December 26, 2009, is hereby incorporated by reference.
+
+*10.8
+Offer Letter, between Advanced Micro Devices, Inc. and Mark D. Papermaster, dated October 7,
+2011, filed as Exhibit 10.63 to AMD’s Annual Report on Form 10-K for the period ended
+December 31, 2011, is hereby incorporated by reference.
+
+10.9
+Settlement Agreement, between Advanced Micro Devices, Inc. and Intel Corporation, dated
+November 11, 2009, filed as Exhibit 10.1 to AMD’s Current Report on Form 8-K dated
+November 11, 2009, is hereby incorporated by reference.
+
+**10.10
+Patent Cross License Agreement, between Advanced Micro Devices, Inc. and Intel Corporation
+filed, dated November 11, 2009, as Exhibit 10.2 to AMD’s Current Report on Form 8-K dated
+November 17, 2009, is hereby incorporated by reference.
+
+
+#### 103
+
+
+## Page 116
+
+Exhibit
+Description of Exhibits
+10.11
+Sublease Agreement, between Lantana HP, LTD and Advanced Micro Devices, Inc., dated
+March 26, 2013, filed as Exhibit 10.2 to AMD’s Quarterly Report on Form 10-Q for the period
+ended March 30, 2013, is hereby incorporated by reference.
+
+10.12
+Master Landlord’s Consent to Sublease, between 7171 Southwest Parkway Holdings, L.P.,
+Lantana HP, Ltd. and Advanced Micro Devices, Inc., dated March 26, 2013, filed as Exhibit
+10.3 to AMD’s Quarterly Report on Form 10-Q for the period ended March 30, 2013, is hereby
+incorporated by reference.
+
+10.13
+Lease Agreement, between 7171 Southwest Parkway Holdings, L.P. and Lantana HP, Ltd., dated
+March 26, 2013, filed as Exhibit 10.4 to AMD’s Quarterly Report on Form 10-Q for the period
+ended March 30, 2013, is hereby incorporated by reference.
+
+*10.14
+Employment Agreement by and between Lisa T. Su and Advanced Micro Devices, Inc. effective
+October 8, 2014, filed as Exhibit 10.2 to AMD’s Current Report on Form 8-K/A dated
+October 14, 2014, is hereby incorporated by reference.
+
+*10.15
+Form of Stock Option Agreement for Senior Vice Presidents and Above under the 2004 Equity
+Incentive Plan, filed as Exhibit 10.1 to AMD’s Quarterly Report on Form 10-Q for the fiscal
+quarter ended September 27, 2014, is hereby incorporated by reference.
+
+*10.16
+Offer Letter, between Advanced Micro Devices, Inc. and Forrest E. Norrod, dated October 20,
+2014, filed as Exhibit 10.66 to AMD’s Annual Report on Form 10-K for the fiscal year ended
+December 27, 2014, is hereby incorporated by reference.
+
+*10.17
+Advanced Micro Devices, Inc. Executive Severance Plan and Summary Plan Description for
+Senior Vice Presidents effective December 31, 2014, filed as Exhibit 10.68 to AMD’s Annual
+Report on Form 10-K for the fiscal year ended December 27, 2014, is hereby incorporated by
+reference.
+
+*10.18
+Form of Stock Option Agreement for Senior Vice Presidents and Above under the 2004 Equity
+Incentive Plan, filed as Exhibit 10.1 to AMD’s Quarterly Report on Form 10-Q for the fiscal
+quarter ended September 26, 2015, is hereby incorporated by reference.
+
+10.19
+Equity Interest Purchase Agreement by and between Advanced Micro Devices, Inc. and
+Nantong Fujitsu Microelectronics Co., Ltd. dated as of October 15, 2015, filed as Exhibit 10.1 to
+AMD’s Current Report on Form 8-K dated October 15, 2015, is hereby incorporated by
+reference.
+
+*10.20
+Form of Stock Option Agreement for Senior Vice Presidents and Above under the 2004 Equity
+Incentive Plan, filed as Exhibit 10.78 to AMD’s Annual Report on Form 10-K for the fiscal year
+ended December 26, 2015, is hereby incorporated by reference.
+
+*10.21
+Form of Restricted Stock Unit Agreement for Senior Vice Presidents and Above under the 2004
+Equity Incentive Plan, filed as Exhibit 10.79 to AMD’s Annual Report on Form 10-K for the
+fiscal year ended December 26, 2015, is hereby incorporated by reference.
+
+*10.22
+Form of Performance-Based Restricted Stock Unit Agreement for Senior Vice Presidents and
+Above under the 2004 Equity Incentive Plan, filed as Exhibit 10.80 to AMD’s Annual Report on
+Form 10-K for the fiscal year ended December 26, 2015, is hereby incorporated by reference.
+
+*10.23
+Form of Stock Option Agreement for Senior Vice Presidents and Above under the 2004 Equity
+Incentive Plan, filed as Exhibit 10.88 to AMD’s Annual Report on Form 10-K for the fiscal year
+ended December 31, 2016, is hereby incorporated by reference.
+
+*10.24
+Form of Restricted Stock Unit Agreement for Senior Vice Presidents and Above under the 2004
+Equity Plan, filed as Exhibit 10.89 to AMD’s Annual Report on Form 10-K for the fiscal year
+ended December 31, 2016, is hereby incorporated by reference.
+
+*10.25
+Form of Performance-Based Restricted Stock Unit Agreement for Senior Vice Presidents and
+Above under the 2004 Equity Incentive Plan, filed as Exhibit 10.90 to AMD’s Annual Report on
+Form 10-K for the fiscal year ended December 31, 2016, is hereby incorporated by reference.
+
+
+#### 104

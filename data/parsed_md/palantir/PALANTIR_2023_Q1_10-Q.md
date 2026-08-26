@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2023_Q1_10-Q
+# Financial Report: PALANTIR_2023_Q1_10-Q
 
 - **Source File**: `PALANTIR_2023_Q1_10-Q.pdf`
-- **Total Pages**: 88
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 88
+- **Parsed Key Pages**: 34 (34 selected sections)
 
 ---
 
@@ -3578,3 +3578,278 @@ amortization of upfront debt issuance costs.
 
 
 #### 30
+
+
+## Page 32
+
+
+#### Table of contents
+
+
+#### Operating Activities
+
+Net cash provided by operating activities was $187.4 million and $35.5 million for the three months ended March 31, 2023 and 2022,
+respectively. The increase was primarily driven by timing of the receipt of payments from our customers, and timing of payments to vendors.
+
+
+#### Investing Activities
+
+Net cash used in investing activities was $1.6 billion and $96.5 million for the three months ended March 31, 2023 and 2022, respectively. The
+increase in cash used by investing activities was primarily due to purchases of marketable securities, primarily comprised of U.S. treasury
+securities, offset by proceeds from sales and redemptions of marketable securities.
+
+
+#### Financing Activities
+
+Net cash provided by ﬁnancing activities was $26.0 million and $27.2 million for the three months ended March 31, 2023 and 2022, respectively,
+each of which primarily consisted of proceeds from the exercise of common stock options.
+
+
+#### Contractual Obligations and Commitments
+
+Our contractual obligations and commitments primarily consist of operating lease commitments for our facilities, and non-cancelable purchase
+commitments related to third-party cloud hosting services. For additional information, refer to Note 7. Commitments and Contingencies to our
+condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q. Except as already disclosed in Note 7.
+Commitments and Contingencies in our condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q,
+there has been no material change in our contractual obligations and commitments other than in the ordinary course of business since our ﬁscal
+year ended December 31, 2022. See our Annual Report on Form 10-K for the year ended December 31, 2022, which was ﬁled with the
+Securities and Exchange Commission (“SEC”) on February 21, 2023, for additional information regarding the Company’s contractual obligations.
+
+
+#### Critical Accounting Policies and Estimates
+
+Our condensed consolidated ﬁnancial statements and the accompanying notes thereto included elsewhere in this Quarterly Report on Form 10-
+Q are prepared in accordance with GAAP. The preparation of condensed consolidated ﬁnancial statements requires us to make estimates and
+assumptions that aﬀect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates
+on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could diﬀer
+signiﬁcantly from our estimates. To the extent that there are diﬀerences between our estimates and actual results, our future ﬁnancial statement
+presentation, financial condition, results of operations, and cash flows will be affected.
+
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and
+estimates discussed in the Annual Report on Form 10-K for the year ended December 31, 2022, which was ﬁled with the SEC on February 21,
+2023, except as described in Note 2. Signiﬁcant Accounting Policies to the condensed consolidated ﬁnancial statements included elsewhere in
+this Quarterly Report on Form 10-Q.
+
+
+#### Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, if any, refer to Note 2. Signiﬁcant Accounting Policies in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risks in the ordinary course of our business, which primarily relate to ﬂuctuations in the value of our investments,
+interest rates, foreign currency exchange, and inflation.
+
+
+#### Market Risk
+
+As of March 31, 2023, we had outstanding shares of publicly-traded equity securities valued at $16.6 million. We have sold, and may continue to
+sell, some or all of our existing equity securities. These equity securities are often in early- or growth-stage companies that have minimal public
+trading history; as such the fair value of these equity securities may ﬂuctuate depending on the ﬁnancial outcome and prospects of the investees,
+as well as global market conditions including recent and ongoing volatility related to the impacts of the ongoing COVID-19 pandemic, the ongoing
+Russia-Ukraine conflict, rising interest rates, and
+
+
+#### 32
+
+
+## Page 33
+
+
+#### Table of contents
+
+ﬁnancial services sector instability. Additionally, investing in, or holding securities of, early- or growth- stage companies carries inherent risks
+because, among other things, the technologies or products that are being developed by these companies are typically in the early phases and
+may never materialize or they may not achieve their growth or other business objectives, and they have and may continue to experience a
+decline in ﬁnancial condition or ﬁle for bankruptcy, which could result in a loss of all or a substantial part of our equity holdings in these
+companies. We record gains or losses as the fair value of these investments change and as we sell them. We anticipate additional volatility to our
+condensed consolidated statements of operations due to changes in market prices and declines in ﬁnancial conditions of applicable investees,
+and as such gains and losses are realized. For the three months ended March 31, 2023, net unrealized losses related to publicly-traded equity
+securities held at the end of such period of $8.2 million were recorded in other income (expense), net on our condensed consolidated statements
+of operations. We do not currently anticipate entering into new Investment Agreements, as deﬁned in Note 4. Investments and Fair Value
+Measurements in our condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q, to purchase, or
+commit to purchase, securities of special purpose acquisition companies. However, we have and may continue to accept securities as
+compensation or invest in securities, which may contribute to additional volatility to our condensed consolidated statements of operations.
+
+
+#### Interest Rate Risk
+
+Our cash, cash equivalents, restricted cash, and available-for-sale debt securities consist of cash, certiﬁcates of deposit, money market funds,
+and U.S. treasury securities. Our primary investment policy and strategies are focused on the preservation of capital and supporting our liquidity
+requirements; however, to a lesser extent we have made and may continue to make investments in early- and growth-stage companies, as
+disclosed in Note 4. Investments and Fair Value Measurements in our condensed consolidated ﬁnancial statements included elsewhere in this
+Quarterly Report on Form 10-Q.
+
+Due to the short-term nature of the financial instruments, we have not been exposed to, nor do we anticipate being exposed to, material risks due
+to changes in interest rates.
+
+
+#### Foreign Currency Exchange Risk
+
+Our contracts with customers are primarily denominated in U.S. dollars, with the remaining denominated in foreign currencies. Our expenses are
+generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the United States, United
+Kingdom, and other European countries. Our results of current and future operations and cash ﬂows are, therefore, subject to ﬂuctuations due to
+changes in foreign currency exchange rates, particularly changes in JPY, the Euro, and GBP. We have experienced, and may continue to
+experience, ﬂuctuations in net income (loss) as a result of transaction gains or losses related to remeasuring certain assets and liability balances
+that are denominated in foreign currencies. These exposures may change over time as business practices evolve and economic conditions
+change. To date, foreign currency transaction gains and losses have not been material to our condensed consolidated ﬁnancial statements, and
+we have not engaged in any foreign currency hedging transactions.
+
+
+#### Inflation Risk
+
+We do not believe that inﬂation has had a material eﬀect on our business, results of operations, or ﬁnancial condition. If our costs were to
+become subject to signiﬁcant inﬂationary pressures, we may not be able to fully oﬀset such higher costs through price increases. Our inability or
+failure to do so could harm our business, financial condition, or results of operations.
+
+
+### ITEM 4. CONTROLS AND PROCEDURES
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we file or submit under
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized, and reported within the time
+periods speciﬁed in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief
+Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Our management, with the participation and supervision of our Chief Executive Oﬃcer and our Chief Financial Oﬃcer, have evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of
+the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Oﬃcer and Chief Financial Oﬃcer
+have concluded that, as of such date, our disclosure controls and procedures were, in design and operation, eﬀective at a reasonable assurance
+level.
+
+
+#### 33
+
+
+## Page 34
+
+
+#### Table of contents
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d) and
+15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that have materially aﬀected, or
+are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the exercise
+of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct
+completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal
+control over ﬁnancial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute, assurance
+of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the fact that there are
+resource constraints and that management is required to apply its judgment in evaluating the beneﬁts of possible controls and procedures
+relative to their costs. Moreover, projections of any evaluation of eﬀectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to
+continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot assure you that such
+improvements will be sufficient to provide us with effective internal control over financial reporting.
+
+
+#### 34
+
+
+## Page 35
+
+
+#### Table of contents
+
+
+### PART II - OTHER INFORMATION
+
+
+### ITEM 1. LEGAL PROCEEDINGS
+
+From time to time, we are subject to legal proceedings and claims arising in the ordinary course of business. Based on our current knowledge, we
+believe that the amount or range of reasonably possible losses will not, either individually or in the aggregate, have a material adverse eﬀect on
+our business, results of operations, or financial condition.
+
+The results of any litigation cannot be predicted with certainty, and an unfavorable resolution in any legal proceedings could materially aﬀect our
+future business, results of operations, or ﬁnancial condition. Regardless of the outcome, litigation can have an adverse impact on us because of
+defense and settlement costs, diversion of management resources, and other factors.
+
+For information on legal proceedings, refer to Note 7. Commitments and Contingencies—Litigation and Legal Proceedings in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 1A. RISK FACTORS
+
+Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks and uncertainties described below,
+together with all of the other information in this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” and our condensed consolidated ﬁnancial statements and accompanying notes,
+before making a decision to invest in our Class A common stock. Our business, ﬁnancial condition, results of operations, or prospects could also
+be harmed by risks and uncertainties not currently known to us or that we currently do not believe are material. If any of the risks actually occur,
+our business, ﬁnancial condition, results of operations, and prospects could be adversely aﬀected. In that event, the trading price of our Class A
+common stock could decline, and you could lose part or all of your investment.
+
+
+#### Risk Factor Summary
+
+Our business is subject to numerous risks and uncertainties that you should consider before investing in our Class A common stock. These risks
+are described more fully below and include, but are not limited to, risks relating to the following:
+
+•
+we have a history of losses, we anticipate our operating expenses will continue to increase in the future, and we may not be able to achieve
+or maintain profitability in the future;
+
+•
+we may not be able to sustain our revenue growth rate;
+
+•
+our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable;
+
+•
+a limited number of customers account for a substantial portion of our revenue;
+
+•
+our results of operations and our key business measures are likely to fluctuate significantly on a quarterly basis;
+
+•
+seasonality may cause fluctuations in our results of operations and financial position;
+
+•
+our platforms are complex and may have a lengthy implementation process;
+
+•
+we may not successfully develop and deploy new technologies to address the needs of our customers;
+
+•
+our platforms must operate with third-party products and services;
+
+•
+we may be unable to hire, retain, train, and motivate qualiﬁed personnel and senior management and deploy our personnel and resources to
+meet customer demand;
+
+•
+we may be unable to successfully build, expand, and deploy our marketing and sales organization;
+
+•
+we may not be able to maintain and enhance our brand and reputation;
+
+•
+unfavorable news or social media coverage may harm our reputation and business;
+
+•
+exclusive arrangements or unique terms with customers or partners may result in significant risks or liabilities to us;
+
+•
+we face intense competition in our markets;
+
+•
+we may be unable to maintain or properly manage our culture as we grow;
+
+•
+we may not enter into relationships with potential customers if we consider their activities to be inconsistent with our organizational mission
+or values;
+
+•
+joint ventures, channel sales relationships, platform partnerships, and strategic alliances may be unsuccessful;
+
+
+#### 35

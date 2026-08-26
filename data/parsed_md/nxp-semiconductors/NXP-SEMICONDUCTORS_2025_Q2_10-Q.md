@@ -1,8 +1,8 @@
-# Annual Report: NXP-SEMICONDUCTORS_2025_Q2_10-Q
+# Financial Report: NXP-SEMICONDUCTORS_2025_Q2_10-Q
 
 - **Source File**: `NXP-SEMICONDUCTORS_2025_Q2_10-Q.pdf`
-- **Total Pages**: 51
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 51
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3231,463 +3231,597 @@ growth in our ADAS – Safety products.
 #### 22
 
 
-## Page 26
+## Page 31
 
-### Table 26.1
+### Table 31.1
 
-| Research and development | 573 |  |  | 594 |  |  | (3.5) | % |  | 1,120 |  |  | 1,158 |  |  | (3.3) | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| As a percentage of revenue | 19.6 | % |  | 19.0 | % |  | 0.6 | ppt |  | 19.4 | % |  | 18.5 | % |  | 0.9 | ppt |
-
-
-Revenue in the Industrial & IoT end market was $1,054 million, a decrease of $136 million or 11.4% versus the year ago period. Within the
-Industrial & IoT end market, the decrease was primarily attributable to our processors portfolio.
-
-Revenue in the Mobile end market was $669 million, a decrease of $25 million or 3.6% versus the year ago period. The decrease in the Mobile
-end market revenue was attributable to declines in our advanced analog products, which was offset by growth in our mobile wallet products.
-
-Revenue in the Communication Infrastructure & Other end market was $635 million, a decrease of $202 million or 24.1% versus the year ago
-period. The decrease in the Communication Infrastructure & Other end market was attributable to declines in our processors and secure cards
-products.
-
-When aggregating all end markets together, and reviewing sales channel performance, revenues through NXP’s third party distribution partners
-was $3,160 million, a decrease of 10.8% versus the year-ago period. Revenues through direct OEM and EMS customers was $2,541 million, a
-decrease of 4.1% versus the year-ago period.
-
-From a geographic perspective, revenue increased year-on-year in the China region by 0.5%, while revenue decreased in the Asia Pacific
-region by 14.9%, in the Americas region by 14.2%, and in the EMEA region by 7.2%.
-
-Gross profit
-Q2 2025 compared to Q2 2024
-Gross profit for the three months ended June 29, 2025 was $1,562 million, or 53.4% of revenue, compared to $1,792 million, or 57.3% of revenue
-for the three months ended June 30, 2024. The decrease in gross margin is primarily due to price and unfavorable product / channel mix.
-
-YTD 2025 compared to YTD 2024
-Gross profit for the six months ended June 29, 2025 was $3,122 million, or 54.2% of revenue, compared to $3,575 million, or 57.2% of revenue
-for the six months ended June 30, 2024. The decrease in gross margin is primarily due to price and unfavorable product mix.
-
-Operating expenses
-Q2 2025 compared to Q2 2024
-Operating expenses for the three months ended June 29, 2025 totaled $876 million, or 29.9% of revenue, compared to $892 million, or 28.5% of
-revenue for the three months ended June 30, 2024.
-
-YTD 2025 compared to YTD 2024
-Operating expenses for the six months ended June 29, 2025 totaled $1,731 million, or 30.0% of revenue, compared to $1,813 million, or 29.0% of
-revenue for the six months ended June 30, 2024.
-
-•
-Research and development
-
-($ in millions, unless otherwise stated)
-Q2 2025
-Q2 2024
-% change
-YTD 2025
-YTD 2024
-% change
-Research and development
-573 
-594 
-(3.5) %
-1,120 
-1,158 
-(3.3) %
-As a percentage of revenue
-19.6 %
-19.0 %
-0.6  ppt
-19.4 %
-18.5 %
-0.9  ppt
-
-Q2 2025 compared to Q2 2024
-R&D costs for the three months ended June 29, 2025 decreased by $21 million, or 3.5%, when compared to the three months ended June 30,
-2024, driven by lower personnel related costs, inclusive of a reduction in variable compensation costs.
-
-YTD 2025 compared to YTD 2024
-R&D costs for the six months ended June 29, 2025 decreased by $38 million, or 3.3%, when compared to the six months ended June 30, 2024,
-driven by lower personnel related costs, inclusive of a reduction in variable compensation costs.
+| Revenue | 3,246 |
+| --- | --- |
+| Gross Profit | 1,457 |
+| Operating income | 305 |
+| Net income | (60) |
 
 
-#### 23
+### Table 31.2
+
+| Current assets | 3,121 |  | 3,273 |
+| --- | --- | --- | --- |
+| Non-current assets | 12,037 |  | 12,191 |
+| Total assets | 15,158 |  | 15,464 |
+| Current liabilities | 2,739 |  | 1,244 |
+| Non-current liabilities | 9,958 |  | 10,967 |
+| Total liabilities | 12,697 |  | 12,211 |
+| Obligor's Group equity | 2,461 |  | 3,253 |
+| Total liabilities and Obligor's Group equity | 15,158 |  | 15,464 |
 
 
-## Page 27
 
-### Table 27.1
+#### Information Regarding Guarantors of NXP (unaudited)
 
-| Selling, general and administrative | 278 |  |  | 270 |  |  | 3.0 | % | 559 |  |  | 576 |  |  | (3.0) | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| As a percentage of revenue | 9.5 | % |  | 8.6 | % |  | 0.9 | ppt | 9.7 | % |  | 9.2 | % |  | 0.5 | ppt |
+Summarized Combined Financial Information for Guarantee of Securities of Subsidiaries
+All debt instruments are guaranteed, fully and unconditionally, jointly and severally, by NXP Semiconductors N.V. and issued or guaranteed by
+NXP USA, Inc., NXP B.V. and NXP LLC, (together, the “Subsidiary Obligors” and together with NXP Semiconductors N.V., the “Obligor Group”).
+Other than the Subsidiary Obligors, none of the Company’s subsidiaries (together the “Non-Guarantor Subsidiaries”) guarantee the Notes. The
+Company consolidates the Subsidiary Obligors in its Consolidated Financial Statements and each of the Subsidiary Obligors are wholly owned
+subsidiaries of the Company.
 
-
-### Table 27.2
-
-| Amortization of acquisition-related intangible assets | 25 |  |  | 28 |  |  | (10.7) | % | 52 |  |  | 79 |  |  | (34.2) | % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| As a percentage of revenue | 0.9 | % |  | 0.9 | % |  | — | ppt | 0.9 | % |  | 1.3 | % |  | (0.4) | ppt |
-
-
-### Table 27.3
-
-| Interest income | 39 |  | 39 |  | 74 | 89 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Interest expense | (115) |  | (97) |  | (221) | (202) |
-| Other financial income/ (expense) | (10) |  | (17) |  | (31) | (32) |
-| Total | (86) |  | (75) |  | (178) | (145) |
+All of the existing guarantees by the Company rank equally in right of payment with all of the existing and future senior indebtedness of the
+Obligor Group. There are no significant restrictions on the ability of the Obligor Group to obtain funds from respective subsidiaries by dividend or
+loan.
+The following tables present summarized financial information of the Obligor Group on a combined basis, with intercompany balances and
+transactions between entities of the Obligor Group eliminated and investments and equity in the earnings of the Non-Guarantor Subsidiaries
+excluded. The Obligor Group’s amounts due from, amounts due to, and intercompany transactions with Non-Guarantor Subsidiaries have been
+disclosed below the table, when material.
 
 
-•
-Selling, general and administrative
-
-($ in millions, unless otherwise stated)
-Q2 2025
-Q2 2024
-% change
-YTD 2025
-YTD 2024
-% change
-Selling, general and administrative
-278 
-270 
-3.0 %
-559 
-576 
-(3.0) %
-As a percentage of revenue
-9.5 %
-8.6 %
-0.9 ppt
-9.7 %
-9.2 %
-0.5 ppt
-
-Q2 2025 compared to Q2 2024
-SG&A costs for the three months ended June 29, 2025 increased by $8 million, or 3.0%, when compared to the three months ended June 30,
-2024 due to higher expenses related to our closed or pending acquisitions ($9 million), higher restructuring related expenses and higher legal
-expenses, partly offset by lower personnel related costs, driven by a reduction in variable compensation costs.
-
-YTD 2025 compared to YTD 2024
-SG&A costs for the six months ended June 29, 2025 decreased by $17 million, or 3.0%, when compared to the six months ended June 30, 2024
-due to lower legal expenses of $21 million.
-
-•
-Amortization of acquisition-related intangible assets
-
-($ in millions, unless otherwise stated)
-Q2 2025
-Q2 2024
-% change
-YTD 2025
-YTD 2024
-% change
-Amortization of acquisition-related intangible assets
-25 
-28 
-(10.7) %
-52 
-79 
-(34.2) %
-As a percentage of revenue
-0.9 %
-0.9 %
-—  ppt
-0.9 %
-1.3 %
-(0.4) ppt
-
-Q2 2025 compared to Q2 2024
-Amortization of acquisition-related intangible assets for the three months ended June 29, 2025 decreased by $3 million, or 10.7%, when
-compared to the three months ended June 30, 2024.
-
-YTD 2025 compared to YTD 2024
-Amortization of acquisition-related intangible assets for the six months ended June 29, 2025 decreased by $27 million, or 34.2%, when compared
-to the six months ended June 30, 2024 primarily due to the effect of certain acquisition-related intangibles becoming fully amortized.
-
-Financial income (expense)
-The following table presents the details of financial income and expenses:
-
-($ in millions, unless otherwise stated)
-Q2 2025
-Q2 2024
-YTD 2025
-YTD 2024
-Interest income
-39 
-39 
-74 
-89 
-Interest expense
-(115)
-(97)
-(221)
-(202)
-Other financial income/ (expense)
-(10)
-(17)
-(31)
-(32)
-Total
-(86)
-(75)
-(178)
-(145)
-
-Q2 2025 compared to Q2 2024
-Financial income (expense) was an expense of $86 million for the three months ended June 29, 2025, compared to an expense of $75 million for
-the three months ended June 30, 2024. Interest income remained flat, whereas interest expense increased by $18 million due to the interest
-expenses on the EIB loans as well as the commercial paper. Within Other financial income/ (expense), fair value adjustments in equity securities
-resulted in a profit of $3 million for the three months ended June 29, 2025, versus a loss of $3 million for the three months ended June 30, 2024.
-
-YTD 2025 compared to YTD 2024
-Financial income (expense) was an expense of $178 million for the six months ended June 29, 2025, compared to an expense of $145 million for
-the six months ended June 30, 2024. Interest income decreased by $15 million due to higher cash levels but lower interest rates, whereas
-interest expense increased by $19 million due to the interest expenses on the EIB loans and commercial paper. Within Other financial income/
-(expense), fair value adjustments in equity securities resulted in a loss of $3 million for the six months ended June 29, 2025, versus a loss of $5
-million for the six months ended June 30, 2024.
+#### Summarized Statements of Income
 
 
-#### 24
+#### For the six months
+
+ended
+($ in millions)
+June 29, 2025
+
+Revenue
+3,246 
+Gross Profit
+1,457 
+Operating income
+305 
+Net income
+(60)
 
 
-## Page 28
+#### Summarized Balance Sheets
 
-### Table 28.1
+As of
+($ in millions)
+June 29, 2025
+December 31, 2024
 
-| Tax benefit (provision) calculated at EAETR | (112) |  |  | (147) |  |  | (231) |  |  | (286) |  |
+Current assets
+3,121 
+3,273 
+Non-current assets
+12,037 
+12,191
+
+Total assets
+15,158 
+15,464
+
+Current liabilities
+2,739 
+1,244 
+Non-current liabilities
+9,958 
+10,967 
+Total liabilities
+12,697 
+12,211
+
+Obligor's Group equity
+2,461 
+3,253
+
+Total liabilities and Obligor's Group equity
+15,158 
+15,464
+
+NXP Semiconductors N.V. is the head of a fiscal unity for the corporate income tax and VAT that contains the most significant Dutch wholly-
+owned group companies. The Company is therefore jointly and severally liable for the tax liabilities of the tax entity as a whole, and as such the
+income tax expense of the Dutch fiscal unity has been included in the Net income of the Obligor Group.
+
+The financial information of the Obligor Group includes sales executed through a Non-Guarantor Subsidiary single-billing entity as a sales agent
+on behalf of an entity in the Obligor Group. The Obligor Group has sales to non-guarantors (for the six months ended June 29, 2025: $345
+million). The Obligor Group has amounts due from equity financing (June 29, 2025: $7,114 million; December 31, 2024: $5,749 million) and due
+to debt financing (June 29, 2025: $3,082 million; December 31, 2024: $2,283 million) with non-guarantor subsidiaries.
+
+
+#### 28
+
+
+## Page 32
+
+### Table 32.1
+
+| Non-GAAP Adjustment or Measure |  | Definition |  | Usefulness to Management and Investors |
+| --- | --- | --- | --- | --- |
+| Purchase price accounting effects |  | Purchase price accounting ("PPA") effects reflect the fair value adjustments impacting acquisition accounting and other acquisition adjustments charged to the Consolidated Statement of Operations. This typically relates to inventory, property, plant and equipment, as well as intangible assets, such as developed technology and marketing and customer relationships acquired. The PPA effects are recorded within both cost of revenue and operating expenses in our US GAAP financial statements. These charges are recorded over the estimated useful life of the related acquired asset, and thus are generally recorded over multiple years. |  | We believe that excluding these charges related to fair value adjustments for purposes of calculating certain non-GAAP measures allows the users of our financial statements to better understand the historic and current cost of our products, our gross margin, our operating costs, our operating margin, and also facilitates comparisons to peer companies. |
+| Restructuring |  | Restructuring charges are costs associated with a restructuring plan and are primarily related to employee severance and benefit arrangements. Charges related to restructuring are recorded within both cost of revenue and operating expenses in our US GAAP financial statements |  | We exclude restructuring charges, including any adjustments to charges recorded in prior periods, for purposes of calculating certain non-GAAP measures because these costs do not reflect our core operating performance. These adjustments facilitate a useful evaluation of our core operating performance and comparisons to past operating results and provide investors with additional means to evaluate expense trends. |
+| Share-based compensation |  | Share-based compensation consists of incentive expense granted to eligible employees in the form of equity based instruments. Charges related to share- based compensation are recorded within both cost of revenue and operating expenses in our US GAAP financial statements. |  | We exclude charges related to share-based compensation for purposes of calculating certain non- GAAP measures because we believe these charges, which are non-cash, are not representative of our core operating performance as they can fluctuate from period to period based on factors that are not within our control, such as our stock price on the dates share- based grants are issued. We believe these adjustments provide investors with a useful view, through the eyes of management, of our core business model, how management currently evaluates core operational performance, and additional means to evaluate expense trends. |
+| Other incidentals |  | Other incidentals consist of certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company’s core operating performance. These may include such items as process and product transfer costs, certain charges related to acquisitions and divestitures, litigation and legal settlements, costs associated with the exit of a product line, factory or facility, environmental or governmental settlements, and other items of similar nature. |  | We exclude these certain items which may be non- recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company’s core operating performance for purposes of calculating certain non-GAAP measures. These adjustments facilitate a useful evaluation of our core operating performance and comparisons to past operating results and provide investors with additional means to evaluate expense trends. |
+
+
+
+#### Use of Certain Non-GAAP Financial Measures
+
+Non-GAAP Financial Measures
+In addition to providing financial information on a basis consistent with U.S. generally accepted accounting principles (“US GAAP” or “GAAP”),
+NXP also provides selected financial measures on a non-GAAP basis which are adjusted for specified items. The adjustments made to achieve
+these non-GAAP financial measures or the non-GAAP financial measures as specified are described below, including the usefulness to
+management and investors.
+
+In managing NXP’s business on a consolidated basis, management develops an annual operating plan, which is approved by our Board of
+Directors, using non-GAAP financial measures. In measuring performance against this plan, management considers the actual or potential
+impacts on these non-GAAP financial measures from actions taken to reduce costs with the goal of increasing our gross margin and operating
+margin and when assessing appropriate levels of research and development efforts. In addition, management relies upon these non-GAAP
+financial measures when making decisions about product spending, administrative budgets, and other operating expenses. We believe that
+these non-GAAP financial measures, when coupled with the GAAP results and the reconciliations to corresponding GAAP financial measures,
+provide a more complete understanding of the Company’s results of operations and the factors and trends affecting NXP’s business. We believe
+that they enable investors to perform additional comparisons of our operating results, to assess our liquidity and capital position and to analyze
+financial performance excluding the effect of expenses unrelated to core operating performance, certain non-cash expenses and share-based
+compensation expense, which may obscure trends in NXP’s underlying performance. This information also enables investors to compare
+financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with
+respect to key metrics used by management.
+
+The presentation of these and other similar items in NXP’s non-GAAP financial results should not be interpreted as implying that these items are
+non-recurring, infrequent, or unusual. These non-GAAP financial measures are provided in addition to, and not as a substitute for, or superior to,
+measures of financial performance prepared in accordance with GAAP.
+
+Non-GAAP Adjustment or
+Measure
+
+Definition
+Usefulness to Management and Investors
+
+Purchase price accounting
+effects
+
+Purchase price accounting ("PPA") effects reflect the fair value adjustments
+impacting acquisition accounting and other acquisition adjustments charged to
+the Consolidated Statement of Operations. This typically relates to inventory,
+property, plant and equipment, as well as intangible assets, such as developed
+technology and marketing and customer relationships acquired. The PPA effects
+are recorded within both cost of revenue and operating expenses in our US
+GAAP financial statements. These charges are recorded over the estimated
+useful life of the related acquired asset, and thus are generally recorded over
+multiple years.
+
+We believe that excluding these charges related to fair
+value adjustments for purposes of calculating certain
+non-GAAP measures allows the users of our financial
+statements to better understand the historic and current
+cost of our products, our gross margin, our operating
+costs, our operating margin, and also facilitates
+comparisons to peer companies.
+
+Restructuring
+Restructuring charges are costs associated with a restructuring plan and are
+primarily related to employee severance and benefit arrangements. Charges
+related to restructuring are recorded within both cost of revenue and operating
+expenses in our US GAAP financial statements
+
+We exclude restructuring charges, including any
+adjustments to charges recorded in prior periods, for
+purposes of calculating certain non-GAAP measures
+because these costs do not reflect our core operating
+performance. These adjustments facilitate a useful
+evaluation of our core operating performance and
+comparisons to past operating results and provide
+investors with additional means to evaluate expense
+trends.
+Share-based compensation
+Share-based compensation consists of incentive expense granted to eligible
+employees in the form of equity based instruments. Charges related to share-
+based compensation are recorded within both cost of revenue and operating
+expenses in our US GAAP financial statements.
+
+We exclude charges related to share-based
+compensation for purposes of calculating certain non-
+GAAP measures because we believe these charges,
+which are non-cash, are not representative of our core
+operating performance as they can fluctuate from
+period to period based on factors that are not within our
+control, such as our stock price on the dates share-
+based grants are issued. We believe these
+adjustments provide investors with a useful view,
+through the eyes of management, of our core business
+model, how management currently evaluates core
+operational performance, and additional means to
+evaluate expense trends.
+Other incidentals
+Other incidentals consist of certain items which may be non-recurring, unusual,
+infrequent or directly related to an event that is distinct and non-reflective of the
+Company’s core operating performance. These may include such items as
+process and product transfer costs, certain charges related to acquisitions and
+divestitures, litigation and legal settlements, costs associated with the exit of a
+product line, factory or facility, environmental or governmental settlements, and
+other items of similar nature.
+
+We exclude these certain items which may be non-
+recurring, unusual, infrequent or directly related to an
+event that is distinct and non-reflective of the
+Company’s core operating performance for purposes of
+calculating certain non-GAAP measures. These
+adjustments facilitate a useful evaluation of our core
+operating performance and comparisons to past
+operating results and provide investors with additional
+means to evaluate expense trends.
+
+
+#### 29
+
+
+## Page 33
+
+### Table 33.1
+
+| Non-GAAP Adjustment or Measure |  | Definition |  | Usefulness to Management and Investors |
+| --- | --- | --- | --- | --- |
+| Non-GAAP Provision for income taxes |  | Non-GAAP provision for income taxes is NXP's GAAP provision for income taxes adjusted for the income tax effects of the adjustments to our GAAP measure, including PPA effects, restructuring costs, share-based compensation, other incidental items and certain other adjustments to financial income (expense) items. Additionally, adjustments are made for the income tax effect of any discrete items that occur in the interim period. Discrete items primarily relate to unexpected tax events that may occur as these amounts cannot be forecasted (e.g., the impact of changes in tax law and/or rates, changes in estimates or resolved tax audits relating to prior year tax provisions, the excess or deficit tax effects on share-based compensation, etc.). |  | The non-GAAP provision for income taxes is used to ascertain and present on a comparable basis NXP's provision for income tax after adjustments, the usefulness of which is described within this table. Additionally, the income tax effects of the adjustments to achieve the noted non-GAAP measures are used to determine NXP's non-GAAP net income (loss) attributable to stockholders and accordingly, our diluted non-GAAP earnings per share attributable to stockholders. |
+| Free Cash Flow |  | Free Cash Flow represents operating cash flow adjusted for net additions to property, plant and equipment. |  | We believe that free cash flow provides insight into our cash-generating capability and our financial performance, and is an efficient means by which users of our financial statements can evaluate our cash flow after meeting our capital expenditure. |
+| Net debt |  | Net debt represents total debt (short-term and long-term) after deduction of cash and cash equivalents and short-term deposits. |  | We believe this measure provides investors with useful supplemental information about the financial performance of our business, enables comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect of calculating our net leverage. |
+
+
+### Table 33.2
+
+| GAAP gross profit | $ | 1,562 |  |  | $ | 1,560 |  |  | $ | 1,792 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Discrete tax benefit (provision) items | (4) |  |  | (7) |  |  | (15) |  |  | (9) |  |
-| Benefit (provision) for income taxes | (116) |  |  | (154) |  |  | (246) |  |  | (295) |  |
-| Effective tax rate | 19.3 | % |  | 18.8 | % |  | 20.0 | % |  | 18.4 | % |
+| PPA effects | (7) |  |  |  | (8) |  |  |  | (12) |  |  |
+| Restructuring | (61) |  |  |  | (4) |  |  |  | (4) |  |  |
+| Share-based compensation | (14) |  |  |  | (16) |  |  |  | (15) |  |  |
+| Other incidentals | (8) |  |  |  | (3) |  |  |  | (10) |  |  |
+| Non-GAAP gross profit | $ | 1,652 |  |  | $ | 1,591 |  |  | $ | 1,833 |  |
+| GAAP Gross Margin | 53.4 |  | % |  | 55.0 |  | % |  | 57.3 |  | % |
+| Non-GAAP Gross Margin | 56.5 |  | % |  | 56.1 |  | % |  | 58.6 |  | % |
+| GAAP research and development | $ | (573) |  |  | $ | (547) |  |  | $ | (594) |  |
+| Restructuring | (3) |  |  |  | (7) |  |  |  | (4) |  |  |
+| Share-based compensation | (58) |  |  |  | (64) |  |  |  | (58) |  |  |
+| Other incidentals | (7) |  |  |  | (1) |  |  |  | — |  |  |
+| Non-GAAP research and development | $ | (505) |  |  | $ | (475) |  |  | $ | (532) |  |
+| GAAP selling, general and administrative | $ | (278) |  |  | $ | (281) |  |  | $ | (270) |  |
+| PPA effects | — |  |  |  | — |  |  |  | (1) |  |  |
+| Restructuring | (3) |  |  |  | (3) |  |  |  | 2 |  |  |
+| Share-based compensation | (45) |  |  |  | (47) |  |  |  | (41) |  |  |
+| Other incidentals | (15) |  |  |  | (20) |  |  |  | (2) |  |  |
+| Non-GAAP selling, general and administrative | $ | (215) |  |  | $ | (211) |  |  | $ | (228) |  |
+| GAAP operating income (loss) | $ | 687 |  |  | $ | 723 |  |  | $ | 896 |  |
 
 
-Benefit (provision) for income taxes
-Our provision for income taxes for 2025 is based on our EAETR of 18.8%, which is lower than the Netherlands statutory tax rate of 25.8%,
-primarily due to tax benefits from the Netherlands and foreign tax incentives.
+Non-GAAP Adjustment or
+Measure
 
-Q2 2025
-Q2 2024
-YTD 2025
-YTD 2024
-Tax benefit (provision) calculated at EAETR
-(112)
-(147)
-(231)
-(286)
-Discrete tax benefit (provision) items
-(4)
+Definition
+Usefulness to Management and Investors
+
+Non-GAAP Provision for
+income taxes
+
+Non-GAAP provision for income taxes is NXP's GAAP provision for income taxes
+adjusted for the income tax effects of the adjustments to our GAAP measure,
+including PPA effects, restructuring costs, share-based compensation, other
+incidental items and certain other adjustments to financial income (expense)
+items. Additionally, adjustments are made for the income tax effect of any
+discrete items that occur in the interim period. Discrete items primarily relate to
+unexpected tax events that may occur as these amounts cannot be forecasted
+(e.g., the impact of changes in tax law and/or rates, changes in estimates or
+resolved tax audits relating to prior year tax provisions, the excess or deficit tax
+effects on share-based compensation, etc.).
+
+The non-GAAP provision for income taxes is used to
+ascertain and present on a comparable basis NXP's
+provision for income tax after adjustments, the
+usefulness of which is described within this table.
+Additionally, the income tax effects of the adjustments
+to achieve the noted non-GAAP measures are used to
+determine NXP's non-GAAP net income (loss)
+attributable to stockholders and accordingly, our diluted
+non-GAAP earnings per share attributable to
+stockholders.
+Free Cash Flow
+Free Cash Flow represents operating cash flow adjusted for net additions to
+property, plant and equipment.
+
+We believe that free cash flow provides insight into our
+cash-generating capability and our financial
+performance, and is an efficient means by which users
+of our financial statements can evaluate our cash flow
+after meeting our capital expenditure.
+Net debt
+Net debt represents total debt (short-term and long-term) after deduction of cash
+and cash equivalents and short-term deposits.
+
+We believe this measure provides investors with useful
+supplemental information about the financial
+performance of our business, enables comparison of
+financial results between periods where certain items
+may vary independent of business performance, and
+allow for greater transparency with respect of
+calculating our net leverage.
+
+The following are reconciliations of our most comparable US GAAP measures to our non-GAAP measures presented:
+
+($ in millions)
+For the three months ended
+June 29, 2025
+March 30, 2025
+June 30, 2024
+GAAP gross profit
+$
+1,562 
+$
+1,560 
+$
+1,792 
+PPA effects
 (7)
+(8)
+(12)
+Restructuring
+(61)
+(4)
+(4)
+Share-based compensation
+(14)
+(16)
 (15)
-(9)
-Benefit (provision) for income taxes
+Other incidentals
+(8)
+(3)
+(10)
+Non-GAAP gross profit
+$
+1,652 
+$
+1,591 
+$
+1,833 
+GAAP Gross Margin
+53.4 %
+55.0 %
+57.3 %
+Non-GAAP Gross Margin
+56.5 %
+56.1 %
+58.6 %
+GAAP research and development
+$
+(573)
+$
+(547)
+$
+(594)
+Restructuring
+(3)
+(7)
+(4)
+Share-based compensation
+(58)
+(64)
+(58)
+Other incidentals
+(7)
+(1)
+— 
+Non-GAAP research and development
+$
+(505)
+$
+(475)
+$
+(532)
+GAAP selling, general and administrative
+$
+(278)
+$
+(281)
+$
+(270)
+PPA effects
+— 
+— 
+(1)
+Restructuring
+(3)
+(3)
+2 
+Share-based compensation
+(45)
+(47)
+(41)
+Other incidentals
+(15)
+(20)
+(2)
+Non-GAAP selling, general and administrative
+$
+(215)
+$
+(211)
+$
+(228)
+GAAP operating income (loss)
+$
+687 
+$
+723 
+$
+896
+
+
+#### 30
+
+
+## Page 34
+
+### Table 34.1
+
+| GAAP operating income (loss) | $ | 687 |  |  | $ 723 |  |  | $ | 896 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PPA effects | (32) |  |  |  | (40) |  |  | (41) |  |  |
+| Restructuring | (67) |  |  |  | (14) |  |  | (6) |  |  |
+| Share-based compensation | (117) |  |  |  | (127) |  |  | (114) |  |  |
+| Other incidentals | (32) |  |  |  | — |  |  | (14) |  |  |
+| Non-GAAP operating income (loss) | $ | 935 |  |  | $ 904 |  |  | $ | 1,071 |  |
+| GAAP Operating Margin | 23.5 |  | % |  | 25.5 | % |  | 28.7 |  | % |
+| Non-GAAP Operating Margin | 32.0 |  | % |  | 31.9 | % |  | 34.3 |  | % |
+| GAAP Income tax benefit (provision) | $ | (116) |  |  | $ (130) |  |  | $ | (154) |  |
+| Income tax effect | 32 |  |  |  | 13 |  |  | 15 |  |  |
+| Non-GAAP Income tax benefit (provision) | $ | (148) |  |  | $ (143) |  |  | $ | (169) |  |
+
+
+### Table 34.2
+
+| Net cash provided by (used for) operating activities | $ | 779 |  | $ | 565 |  | $ | 761 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net capital expenditures on property, plant and equipment | (83) |  |  | (138) |  |  | (184) |  |
+| Non-GAAP free cash flow | $ | 696 |  | $ | 427 |  | $ | 577 |
+
+
+### Table 34.3
+
+| Long-term debt | $ | 9,479 |  | $ | 10,226 |  | $ | 9,681 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Short-term debt | 1,999 |  |  | 1,499 |  |  | 499 |  |
+| Total debt | 11,478 |  |  | 11,725 |  |  | 10,180 |  |
+| Less: cash and cash equivalents | (3,170) |  |  | (3,988) |  |  | (2,859) |  |
+| Less: short-term deposits | — |  |  | — |  |  | (400) |  |
+| Net debt | $ | 8,308 |  | $ | 7,737 |  | $ | 6,921 |
+
+
+($ in millions)
+For the three months ended
+June 29, 2025
+March 30, 2025
+June 30, 2024
+GAAP operating income (loss)
+$
+687 
+$
+723 
+$
+896 
+PPA effects
+(32)
+(40)
+(41)
+Restructuring
+(67)
+(14)
+(6)
+Share-based compensation
+(117)
+(127)
+(114)
+Other incidentals
+(32)
+— 
+(14)
+Non-GAAP operating income (loss)
+$
+935 
+$
+904 
+$
+1,071 
+GAAP Operating Margin
+23.5 %
+25.5 %
+28.7 %
+Non-GAAP Operating Margin
+32.0 %
+31.9 %
+34.3 %
+GAAP Income tax benefit (provision)
+$
 (116)
+$
+(130)
+$
 (154)
-(246)
-(295)
+Income tax effect
+32 
+13 
+15 
+Non-GAAP Income tax benefit (provision)
+$
+(148)
+$
+(143)
+$
+(169)
 
-Effective tax rate
-19.3 %
-18.8 %
-20.0 %
-18.4 %
-
-Q2 2025 compared to Q2 2024
-The effective tax rate of 19.3% for the second quarter of 2025 was higher than the EAETR due to the income tax expense for discrete items of $4
-million. The discrete items are primarily related to the impact of changes in the litigation accrual and related insurance reimbursements relating to
-the Motorola Personal Injury Lawsuits regarding previous years.
-
-YTD 2025 compared to YTD 2024
-For the first six months ended 2025, the effective tax rate of 20.0% was higher than 18.4% due to a net result of unfavorable discrete items of
-$15 million.
-
-The effective tax rate of 20.0% for the first six months of 2025 was higher compared to the rate for the first six months ended 2024 of 18.4% due
-to a different mix of the benefit (provision) for income taxes in our operating locations, lower foreign tax incentives in the current period as a
-result of a decrease in qualifying income, and also due to the impact of the discrete items in the respective periods.
-
-Subsequent event
-On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the U.S. The OBBBA includes significant provisions, such as the
-permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the
-restoration of favorable tax treatment for certain business provisions. The legislation has multiple effective dates, with certain provisions effective
-in 2025 and others implemented as of 2026. We are currently assessing its impact on our consolidated financial statements. We also note that
-there is unclarity about what the G7 statement in relation to the US on global minimum taxes, as announced on June 28, 2025, could mean for
-the Company.
-
-Results Relating to Equity-accounted Investees
-Q2 2025 compared to Q2 2024
-Results relating to equity-accounted investees amounted to a loss of $28 million (which includes an impairment charge of $27 million related to
-our investment in SigmaSense) for the three months ended June 29, 2025, whereas the three months ended June 30, 2024 results relating to
-equity-accounted investees amounted to a loss of $3 million.
-
-YTD 2025 compared to YTD 2024
-Results relating to equity-accounted investees amounted to a loss of $32 million (which includes an impairment charge of $27 million related to
-our investment in SigmaSense) for the six months ended June 29, 2025, whereas the six months ended June 30, 2024 results relating to equity-
-accounted investees amounted to a loss of $4 million.
-
-Non-controlling Interests
-Q2 2025 compared to Q2 2024
-Non-controlling interests are related to the third-party share in the results of consolidated companies, predominantly SSMC. Their share of non-
-controlling interests amounted to a profit of $12 million for the three months ended June 29, 2025, compared to a profit of $6 million for the three
-months ended June 30, 2024.
-
-YTD 2025 compared to YTD 2024
-Non-controlling interests are related to the third-party share in the results of consolidated companies, predominantly SSMC. Their share of non-
-controlling interests amounted to a profit of $19 million for the six months ended June 29, 2025, compared to a profit of $11 million for the six
-months ended June 30, 2024.
-
-
-#### 25
-
-
-## Page 29
-
-### Table 29.1
-
-| Cash from operations | 1,344 |  | 1,612 |
-| --- | --- | --- | --- |
-| Capital expenditures | 222 |  | 411 |
-| Cash to shareholders | 1,022 |  | 1,134 |
-
-
-
-#### Liquidity and Capital Resources
-
-We derive our liquidity and capital resources primarily from our cash flows from operations. We continue to generate strong positive operating
-cash flows. At the end of the second quarter of 2025, our cash balance was $3,170 million, a decrease of $122 million compared to December
-31, 2024. Taking into account the available amount of the Unsecured Revolving Credit Facility of $2,500 million, we had access to $5,670 million
-of liquidity as of June 29, 2025. We currently use cash to fund operations, meet working capital requirements, for capital expenditures and for
-potential common stock repurchases, dividends and strategic investments. Based on past performance and current expectations, we believe that
-our current available sources of funds (including cash and cash equivalents, RCF Agreement of $2.5 billion, plus anticipated cash generated from
-operations) will be adequate to finance our operations, working capital requirements, capital expenditures and potential dividends for at least the
-next twelve months.
-
-($ in millions, unless otherwise stated)
-YTD 2025
-YTD 2024
-Cash from operations
-1,344 
-1,612 
-Capital expenditures
-222 
-411 
-Cash to shareholders
-1,022 
-1,134
-
-Cash
-At June 29, 2025, our cash balance was $3,170 million of which $302 million was held by SSMC, our consolidated joint venture company with
-TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be distributed by way of a dividend to us, but 38.8%
-of the dividend will be paid to our joint venture partner.
-
-Capital expenditures
-Our cash outflows for capital expenditures were $222 million in the first six months of 2025, compared to $411 million in the first six months of
-2024.
-
-Capital return
-Under our Quarterly Dividend Program, interim dividends of $1.014 per ordinary share were paid on January 8, 2025 ($258 million), dividends of
-$1.014 per ordinary share were paid on April 9, 2025 ($257 million) and dividends of $1.014 per ordinary share were paid on July 9, 2025 ($256
-million).
-
-In the first six months of 2025 we repurchased approximately $507 million of shares.
-
-Debt
-Our total debt, inclusive of aggregate principal, unamortized discounts, premiums, debt issuance costs and fair value adjustments, amounted to
-$11,478 million as of June 29, 2025, an increase of $624 million compared to December 31, 2024 ($10,854 million).
-As of June 29, 2025, we had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of $9,750 million (collectively
-the “Notes”), of which $1.25 billion is payable within 12 months. Future interest payments associated with the Notes total $2,522 million, with
-$364 million payable within 12 months.
-
-As of June 29, 2025, the Company had outstanding loans with the European Investment Bank (EIB) for an aggregated principal amount of
-$1,040 million. Future interest payments associated with the EIB loans total $264 million, with $47 million payable within 12 months.
-
-As of June 29, 2025, we had $750 million commercial paper notes outstanding with a duration less than 12 months.
-
-Our net debt position (see section Use of Certain Non-GAAP Financial Measures) at June 29, 2025 amounted to $8,308 million, compared to
-$7,562 million as of December 31, 2024.
-
-Additional Capital Requirements
-Expected working and other capital requirements are described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024
-in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”. At June 29, 2025, other than for
-changes disclosed in the “Notes to Condensed Consolidated Financial Statements” and “Liquidity and Capital Resources” in this Quarterly
-Report, there have been no other material changes to our expected working and other capital requirements described in our Annual Report on
-Form 10-K for the fiscal year ended December 31, 2024.
-
-
-#### 26
-
-
-## Page 30
-
-### Table 30.1
-
-| Net cash provided by (used for) operating activities | 1,344 |  | 1,612 |
-| --- | --- | --- | --- |
-| Net cash (used for) provided by investing activities | (1,108) |  | (513) |
-| Net cash provided by (used for) financing activities | (364) |  | (2,095) |
-| Increase (decrease) in cash and cash equivalents | (128) |  | (996) |
-
-
-
-#### Cash flows
-
-Our cash and cash equivalents during the first six months of 2025 decreased by $128 million (excluding the effect of changes in exchange rates
-on our cash position of $6 million) as follows:
-
-($ in millions, unless otherwise stated)
-YTD 2025
-YTD 2024
+($ in millions)
+For the three months ended
+June 29, 2025
+March 30, 2025
+June 30, 2024
 Net cash provided by (used for) operating activities
-1,344 
-1,612 
-Net cash (used for) provided by investing activities
-(1,108)
-(513)
-Net cash provided by (used for) financing activities
-(364)
-(2,095)
-Increase (decrease) in cash and cash equivalents
-(128)
-(996)
+$
+779 
+$
+565 
+$
+761 
+Net capital expenditures on property, plant and equipment
+(83)
+(138)
+(184)
+Non-GAAP free cash flow
+$
+696 
+$
+427 
+$
+577
 
-Cash Flow from Operating Activities
-For the first six months of 2025 our operating activities provided $1,344 million in cash. This was primarily the result of net income of $954 million,
-adjustments to reconcile the net income of $647 million and changes in operating assets and liabilities of $(271) million. Adjustments to net
-income (loss) include non-cash items, such as depreciation and amortization of $416 million, share-based compensation of $244 million and
-changes in deferred taxes of $(24) million. Changes in operating assets and liabilities were primarily driven by a $135 million increase in
-receivables and other current assets driven by the change in the insurance reimbursements relating to the Motorola Personal Injury Lawsuits,
-$84 million increase in inventories in order to align inventory on hand with expected demand, and $77 million decrease in accounts payable and
-other liabilities as a result of lower purchase volumes and timing related to payments.
-
-For the first six months of 2024 our operating activities provided $1,612 million in cash. This was primarily the result of net income of $1,308
-million, adjustments to reconcile the net income of $602 million and changes in operating assets and liabilities of $(305) million. Adjustments to
-net income (loss) includes non-cash items, such as depreciation and amortization of $448 million, share-based compensation of $229 million and
-changes in deferred taxes of $(87) million. Changes in operating assets and liabilities were primarily driven by a $322 million decrease in
-accounts payable and other liabilities as a result of lower purchase volumes and timing related to payments, $15 million increase in receivables
-and other current assets due to the linearity of revenue between the two periods, customer mix, and the related timing of cash collection, and $14
-million increase in inventories in order to align inventory on hand with expected demand, partially offset by a $46 million decrease in other non-
-current assets from the application of prepayments used to secure long-term production supply.
-
-Cash Flow from Investing Activities
-Net cash used for investing activities amounted to $1,108 million for the first six months of 2025 and principally consisted of the purchase of
-interests in business (net of cash acquired) of $679 million (acquisition of TTTech Auto), capital expenditures of $222 million, $146 million for the
-purchase of investments (driven primarily by the capital contributions of $70 million into VSMC and approximately $32 million into ESMC) and $62
-million for the purchase of identified intangible assets, including EDA (electronic design automation).
-
-Net cash used for investing activities amounted to $513 million for the first six months of 2024 and principally consisted of the cash outflows for
-capital expenditures of $411 million, $34 million for the purchase of investments (driven primarily by the initial capital contribution of
-approximately $22 million into ESMC), and $87 million for the purchase of identified intangible assets, including EDA (electronic design
-automation).
-
-Cash Flow from Financing Activities
-Net cash used for financing activities of $364 million for the first six months of 2025 was primarily driven by the repayment of commercial paper
-notes of $1,461 million, dividend payments to common stockholders of $515 million, purchase of treasury shares and restricted stock unit
-holdings of $507 million, and repurchase of long-term debt of 500 million, partially offset by the proceeds from the issuance of commercial paper
-notes of $2,211 million, proceeds from issuance of long-term debt of $370 million, and the proceeds from the issuance of common stock through
-stock plans of $39 million.
-
-Net cash used for financing activities of $2,095 million for the first six months of 2024 was primarily driven by the payment of $1 billion to retire at
-maturity our outstanding 4.875% senior unsecured notes due March 2024, dividend payment to common stockholders of $521 million, and
-purchase of treasury shares and restricted stock unit holdings of $613 million; partially offset by the proceeds from the issuance of common stock
-through stock plans of $40 million.
+($ in millions)
+For the three months ended
+June 29, 2025
+March 30, 2025
+June 30, 2024
+Long-term debt
+$
+9,479 
+$
+10,226 
+$
+9,681 
+Short-term debt
+1,999 
+1,499 
+499 
+Total debt
+11,478 
+11,725 
+10,180 
+Less: cash and cash equivalents
+(3,170)
+(3,988)
+(2,859)
+Less: short-term deposits
+— 
+— 
+(400)
+Net debt
+$
+8,308 
+$
+7,737 
+$
+6,921
 
 
-#### 27
+#### 31

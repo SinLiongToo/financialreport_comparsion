@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2025_Q1_10-Q
+# Financial Report: AMAZON_2025_Q1_10-Q
 
 - **Source File**: `AMAZON_2025_Q1_10-Q.pdf`
-- **Total Pages**: 50
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 50
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3141,224 +3141,6 @@ unit sales, including sales by third-party sellers, advertising sales, and subsc
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| Operating Expenses: |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of sales | $ | 72,633 |  |  | $ | 76,976 |  |
-| Fulfillment | 22,317 |  |  |  | 24,593 |  |  |
-| Technology and infrastructure | 20,424 |  |  |  | 22,994 |  |  |
-| Sales and marketing | 9,662 |  |  |  | 9,763 |  |  |
-| General and administrative | 2,742 |  |  |  | 2,628 |  |  |
-| Other operating expense (income), net | 228 |  |  |  | 308 |  |  |
-| Total operating expenses | $ | 128,006 |  |  | $ | 137,262 |  |
-| Year-over-year Percentage Growth (Decline): |  |  |  |  |  |  |  |
-| Cost of sales | 7 |  | % |  | 6 |  | % |
-| Fulfillment | 7 |  |  |  | 10 |  |  |
-| Technology and infrastructure | — |  |  |  | 13 |  |  |
-| Sales and marketing | (5) |  |  |  | 1 |  |  |
-| General and administrative | (10) |  |  |  | (4) |  |  |
-| Other operating expense (income), net | 2 |  |  |  | 35 |  |  |
-| Percent of Net Sales: |  |  |  |  |  |  |  |
-| Cost of sales | 50.7 |  | % |  | 49.4 |  | % |
-| Fulfillment | 15.6 |  |  |  | 15.8 |  |  |
-| Technology and infrastructure | 14.3 |  |  |  | 14.8 |  |  |
-| Sales and marketing | 6.7 |  |  |  | 6.3 |  |  |
-| General and administrative | 1.9 |  |  |  | 1.7 |  |  |
-| Other operating expense (income), net | 0.2 |  |  |  | 0.2 |  |  |
-
-
-
-#### Table of Contents
-
-were driven largely by our continued focus on price, selection, and convenience for our customers, including from our fast shipping offers.
-Changes in foreign exchange rates reduced International net sales by $1.0 billion for Q1 2025.
-
-AWS sales increased 17% in Q1 2025 compared to the comparable prior year period. The sales growth primarily reflects increased
-customer usage, partially offset by pricing changes primarily driven by long-term customer contracts.
-
-
-#### Operating Expenses
-
-
-#### Information about operating expenses is as follows (in millions):
-
-
-#### Three Months Ended
-
-
-#### March 31,
-
-2024
-2025
-Operating Expenses:
-
-Cost of sales
-$
-72,633 
-$
-76,976 
-Fulfillment
-22,317 
-24,593 
-Technology and infrastructure
-20,424 
-22,994 
-Sales and marketing
-9,662 
-9,763 
-General and administrative
-2,742 
-2,628 
-Other operating expense (income), net
-228 
-308 
-Total operating expenses
-$
-128,006 
-$
-137,262
-
-
-#### Year-over-year Percentage Growth (Decline):
-
-Cost of sales
-7 %
-6 %
-Fulfillment
-7 
-10 
-Technology and infrastructure
-— 
-13 
-Sales and marketing
-(5)
-1 
-General and administrative
-(10)
-(4)
-Other operating expense (income), net
-2 
-35 
-Percent of Net Sales:
-
-Cost of sales
-50.7 %
-49.4 %
-Fulfillment
-15.6 
-15.8 
-Technology and infrastructure
-14.3 
-14.8 
-Sales and marketing
-6.7 
-6.3 
-General and administrative
-1.9 
-1.7 
-Other operating expense (income), net
-0.2 
-0.2
-
-
-#### Cost of Sales
-
-Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
-to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
-gross, including video and music.
-
-The increase in cost of sales in Q1 2025, compared to the comparable prior year period, is primarily due to increased product and shipping
-costs resulting from increased sales, partially offset by fulfillment network efficiencies, including lower transportation costs. Changes in foreign
-exchange rates reduced cost of sales by $910 million for Q1 2025.
-
-Shipping costs were $21.8 billion and $22.5 billion in Q1 2024 and Q1 2025. Shipping costs to receive products from our suppliers are
-included in our inventory and recognized as cost of sales upon sale of products to our customers. We expect our cost of shipping to continue to
-increase to the extent our customers accept and use our shipping offers at an increasing rate, we use more expensive shipping methods, and we
-offer additional services. We seek to mitigate costs of shipping over time in part through achieving higher sales volumes, optimizing our fulfillment
-network, negotiating better terms with our suppliers, and achieving better operating efficiencies. We believe that offering low prices to our
-customers is fundamental to our future success, and one way we offer lower prices is through shipping offers.
-
-Costs to operate our AWS segment are primarily classified as “Technology and infrastructure” as we leverage a shared infrastructure that
-supports both our internal technology requirements and external sales to AWS customers.
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-
-#### Fulfillment
-
-Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International fulfillment centers,
-physical stores, and customer service centers and payment processing costs. While AWS payment processing and related transaction costs are
-included in “Fulfillment,” AWS costs are primarily classified as “Technology and infrastructure.” Fulfillment costs as a percentage of net sales may
-vary due to several factors, such as payment processing and related transaction costs, our level of productivity and accuracy, changes in volume,
-size, and weight of units received and fulfilled, the extent to which third-party sellers utilize Fulfillment by Amazon services, timing of fulfillment
-network and physical store expansion, the extent we utilize fulfillment services provided by third parties, mix of products and services sold, and
-our ability to affect customer service contacts per unit by implementing improvements in our operations and enhancements to our customer self-
-service features. Additionally, sales by our sellers have higher payment processing and related transaction costs as a percentage of net sales
-compared to our retail sales because payment processing costs are based on the gross purchase price of underlying transactions.
-
-The increase in fulfillment costs in Q1 2025, compared to the comparable prior year period, is primarily due to increased sales and
-investments in our fulfillment network, partially offset by fulfillment network efficiencies. Changes in foreign exchange rates reduced fulfillment
-costs by $232 million for Q1 2025.
-
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
-
-
-#### Technology and Infrastructure
-
-Technology and infrastructure costs include payroll and related expenses for employees involved in the research and development of new
-and existing products and services, development, design, and maintenance of our stores, curation and display of products and services made
-available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related
-depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
-costs reflect the investments we make in order to offer a wide variety of products and services to our customers, including expenditures related to
-initiatives to build and deploy innovative and efficient software and electronic devices and the development of a satellite network for global
-broadband service and autonomous vehicles for ride-hailing services.
-
-We seek to invest efficiently in numerous areas of technology and infrastructure so we may continue to enhance the customer experience
-and improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and
-infrastructure investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and
-the cross-functionality of our systems and operations. We expect spending in technology and infrastructure to increase over time as we continue
-to add employees and infrastructure. These costs are allocated to segments based on usage. The increase in technology and infrastructure costs
-in Q1 2025, compared to the comparable prior year period, is primarily due to an increase in spending on infrastructure, partially offset by
-decreased payroll and related costs associated with technical teams responsible for expanding our existing products and services and initiatives
-to introduce new products and service offerings. Changes in foreign exchange rates reduced technology and infrastructure costs by $190 million
-for Q1 2025. We currently expense the majority of the costs associated with the development of our satellite network for global broadband
-service (including production, launch, and payroll costs, and launch services deposits upon launch). We will capitalize certain of these costs once
-the service achieves commercial viability, including sales to customers. See Item 7 of Part II, “Management’s Discussion and Analysis of
-Financial Condition and Results of Operations — Overview” of our 2024 Annual Report on Form 10-K for a discussion of how management views
-advances in technology and the importance of innovation.
-
-
-#### Sales and Marketing
-
-Sales and marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities,
-including sales commissions related to AWS. We direct customers to our stores primarily through a number of marketing channels, such as our
-sponsored search, third-party customer referrals, social and online advertising, television advertising, and other initiatives. Our marketing costs
-are largely variable, based on growth in sales and changes in rates. To the extent there is increased or decreased competition for these traffic
-sources, or to the extent our mix of these channels shifts, we would expect to see a corresponding change in our marketing costs.
-
-The increase in sales and marketing costs in Q1 2025 compared to the comparable prior year period, is primarily due to increased
-advertising expenses, partially offset by decreased payroll and related expenses for personnel engaged in marketing and selling activities.
-Changes in foreign exchange rates reduced sales and marketing costs by $134 million for Q1 2025.
-
-While costs associated with Amazon Prime membership benefits and other shipping offers are not included in sales and marketing
-expense, we view these offers as effective worldwide marketing tools, and intend to continue offering them indefinitely.
-
-
-#### 27
-
-
 ## Page 28
 
 ### Table 28.1
@@ -3656,3 +3438,65 @@ concluded.
 
 
 #### 30
+
+
+## Page 31
+
+
+#### Table of Contents
+
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our
+investments. Information relating to quantitative and qualitative disclosures about market risk is set forth below and in Item 2 of Part I,
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources.”
+
+
+#### Interest Rate Risk
+
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our debt. Our long-term debt is
+carried at amortized cost and fluctuations in interest rates do not impact our consolidated financial statements. However, the fair value of our
+long-term debt, which pays interest at a fixed rate, will generally fluctuate with movements of interest rates, increasing in periods of declining
+rates of interest and declining in periods of increasing rates of interest. We generally invest our excess cash in investment grade short- to
+intermediate-term marketable debt securities and AAA-rated money market funds. Marketable debt securities with fixed interest rates may have
+their fair market value adversely affected due to a rise in interest rates, and we may suffer losses in principal if forced to sell securities that have
+declined in market value due to changes in interest rates.
+
+
+#### Foreign Exchange Risk
+
+During Q1 2025, net sales from our International segment accounted for 21% of our consolidated revenues. Net sales and related
+expenses generated from our internationally-focused stores, including within Canada and Mexico (which are included in our North America
+segment), are primarily denominated in the functional currencies of the corresponding stores and primarily include Euros, British Pounds, and
+Japanese Yen. The results of operations of, and certain of our intercompany balances associated with, our internationally-focused stores and
+AWS are exposed to foreign exchange rate fluctuations. Upon consolidation, as foreign exchange rates vary, net sales and other operating
+results may differ materially from expectations, and we may record significant gains or losses on the remeasurement of intercompany balances.
+For example, as a result of fluctuations in foreign exchange rates throughout the period compared to rates in effect the prior year, International
+segment net sales in Q1 2025 decreased by $1.0 billion in comparison with Q1 2024.
+
+We have foreign exchange risk related to foreign-denominated cash, cash equivalents, and marketable securities (“foreign funds”). Based
+on the balance of foreign funds as of March 31, 2025, of $18.6 billion, an assumed 5%, 10%, and 20% adverse change to foreign exchange
+would result in declines of $930 million, $1.9 billion, and $3.7 billion.
+
+We also have foreign exchange risk related to our intercompany balances denominated in various currencies. Based on the intercompany
+balances as of March 31, 2025, an assumed 5%, 10%, and 20% adverse change to foreign exchange rates would result in losses of $315 million,
+$630 million, and $1.3 billion, recorded to “Other income (expense), net.”
+
+See Item 2 of Part I, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations —
+Effect of Foreign Exchange Rates” for additional information on the effect on reported results of changes in foreign exchange rates.
+
+
+#### Equity Investment Risk
+
+As of March 31, 2025, our recorded value in equity, equity warrant, and convertible debt investments in public and private companies was
+$21.0 billion. Our equity and equity warrant investments in publicly traded companies, which include our equity investment in Rivian, represent
+$3.8 billion of our investments as of March 31, 2025, and are recorded at fair value, which is subject to market price volatility. We record our
+equity warrant investments in private companies at fair value and adjust our equity investments in private companies, which primarily include our
+equity investment in Anthropic, PBC, for observable price changes or impairments. We record our available-for-sale convertible debt investments
+in private companies at fair value, which primarily relate to Anthropic, PBC. Valuations of private companies are inherently more complex due to
+the lack of readily available market data. The current global economic conditions provide additional uncertainty. As such, we believe that market
+sensitivities are not practicable.
+
+
+#### 31

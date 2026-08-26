@@ -1,8 +1,8 @@
-# Annual Report: APPLIED-MATERIALS_2021_10-K
+# Financial Report: APPLIED-MATERIALS_2021_10-K
 
 - **Source File**: `APPLIED-MATERIALS_2021_10-K.pdf`
-- **Total Pages**: 116
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 116
+- **Parsed Key Pages**: 57 (57 selected sections)
 
 ---
 
@@ -1833,259 +1833,3223 @@ the need to comply with, or work to establish, industry standards and practices.
 #### 25
 
 
-## Page 26
+## Page 54
 
+### Table 54.1
 
-#### Table of Contents
+| Semiconductor Systems Non-GAAP Adjusted Operating Income |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Reported operating income - GAAP basis |  | $ | 6,311 |  |  | $ | 3,714 |  |  | $ | 2,464 |  |
+| Certain items associated with acquisitions1 |  | 38 |  |  |  | 41 |  |  |  | 43 |  |  |
+| Acquisition integration costs |  | (2) |  |  |  | 3 |  |  |  | — |  |  |
+| Certain incremental expenses related to COVID-192 |  | 12 |  |  |  | 20 |  |  |  | — |  |  |
+| Other charges |  | 3 |  |  |  | — |  |  |  | — |  |  |
+| Non-GAAP adjusted operating income |  | $ | 6,362 |  |  | $ | 3,778 |  |  | $ | 2,507 |  |
+| Non-GAAP adjusted operating margin |  | 39.1 |  | % |  | 33.2 |  | % |  | 27.8 |  | % |
+| AGS Non-GAAP Adjusted Operating Income |  |  |  |  |  |  |  |  |  |  |  |  |
+| Reported operating income - GAAP basis |  | $ | 1,508 |  |  | $ | 1,127 |  |  | $ | 1,101 |  |
+| Certain incremental expenses related to COVID-192 |  | 8 |  |  |  | 8 |  |  |  | — |  |  |
+| Other charges |  | 1 |  |  |  | — |  |  |  | — |  |  |
+| Non-GAAP adjusted operating income |  | $ | 1,517 |  |  | $ | 1,135 |  |  | $ | 1,101 |  |
+| Non-GAAP adjusted operating margin |  | 30.3 |  | % |  | 27.3 |  | % |  | 28.6 |  | % |
+| Display and Adjacent Markets Non-GAAP Adjusted Operating Income |  |  |  |  |  |  |  |  |  |  |  |  |
+| Reported operating income - GAAP basis |  | $ | 314 |  |  | $ | 291 |  |  | $ | 294 |  |
+| Certain items associated with acquisitions1 |  | 4 |  |  |  | 12 |  |  |  | 12 |  |  |
+| Acquisition integration costs |  | — |  |  |  | — |  |  |  | 1 |  |  |
+| Certain incremental expenses related to COVID-192 |  | 1 |  |  |  | 1 |  |  |  | — |  |  |
+| Severance and related charges3 |  | 8 |  |  |  | — |  |  |  | — |  |  |
+| Non-GAAP adjusted operating income |  | $ | 327 |  |  | $ | 304 |  |  | $ | 307 |  |
+| Non-GAAP adjusted operating margin |  | 20.0 |  | % |  | 18.9 |  | % |  | 18.6 |  | % |
 
-In addition, Applied from time to time receives funding from United States and other government agencies for certain strategic development programs to
-increase its research and development resources and address new market opportunities. As a condition to this government funding, Applied is often subject to
-certain record-keeping, audit, intellectual property rights-sharing, and/or other obligations.
-
-The ability to attract, retain and motivate key employees is vital to Applied’s success.
-
-Applied’s success, competitiveness and ability to execute on its global strategies and maintain a culture of innovation depend in large part on its ability to
-attract, retain and motivate qualiﬁed employees and leaders with expertise and capabilities, representing diverse backgrounds and experiences. Achieving this
-objective may be diﬃcult due to many factors, including ﬂuctuations in global economic and industry conditions, management changes, Applied’s organizational
-structure, increasing local and global competition for talent, the availability of qualiﬁed employees in the local and global markets, cost reduction activities
-(including workforce reductions and unpaid shutdowns), availability of career development opportunities, the ability to obtain necessary authorizations for
-workers to provide services outside their home countries, and the attractiveness of Applied’s compensation and beneﬁt programs, including its share-based
-programs. If we are unable to attract, retain and motivate qualiﬁed employees and leaders, we may be unable to fully capitalize on current and new market
-opportunities, which could adversely impact Applied’s business and results of operations. The loss or retirement of employees presents particular challenges to
-the extent they involve the departure of knowledgeable and experienced employees and the resulting need to identify and train existing or new candidates to
-perform necessary functions, which may result in unexpected costs, reduced productivity, and/or difficulties with respect to internal processes and controls.
-
-Applied is exposed to risks associated with operating in jurisdictions with complex and changing tax laws.
-
-Applied is subject to income taxes in the United States and foreign jurisdictions. Signiﬁcant judgment is required to determine and estimate worldwide tax
-liabilities. Applied’s provision for income taxes and eﬀective tax rates could be aﬀected by numerous factors, including changes in applicable tax laws,
-interpretations of applicable tax laws, amount and composition of pre-tax income in jurisdictions with diﬀering tax rates, and valuation of deferred tax assets.
-There have been a number of proposed changes in the tax laws that, if enacted, would increase our tax liability. While it is too early to predict the outcome of
-these proposals, if enacted, they could have a material impact on our provision for income taxes and eﬀective tax rate. An increase in Applied’s provision for
-income taxes and effective tax rate could, in turn, have a material adverse impact on Applied’s results of operations and financial condition.
-
-Consistent with the international nature of its business, Applied conducts certain manufacturing, supply chain, and other operations in Asia, bringing these
-activities closer to customers and reducing operating costs. In certain foreign jurisdictions, conditional reduced income tax rates have been granted to Applied.
-To obtain the beneﬁt of these tax incentives, Applied must meet requirements relating to various activities. Applied’s ability to realize beneﬁts from these
-incentives could be materially affected if, among other things, applicable requirements are not met or Applied incurs net losses in these jurisdictions.
-
-In addition, Applied is subject to examination by the U.S. Internal Revenue Service and other tax authorities, and from time to time amends previously ﬁled
-tax returns. Applied regularly assesses the likelihood of favorable or unfavorable outcomes resulting from these examinations and amendments to determine
-the adequacy of its provision for income taxes, which requires estimates and judgments. Although Applied believes its tax estimates are reasonable, there can
-be no assurance that the tax authorities will agree with such estimates. Applied may have to engage in litigation to achieve the results reﬂected in the
-estimates, which may be time-consuming and expensive. There can be no assurance that Applied will be successful or that any ﬁnal determination will not be
-materially different from the treatment reflected in Applied’s historical income tax provisions and effective tax rates.
-
-Applied’s indebtedness and debt covenants could adversely affect its financial condition and business.
-
-Applied has $5.5 billion in aggregate principal amount of senior unsecured notes outstanding. Under the indenture governing the senior unsecured notes,
-it may be required to oﬀer to repurchase the notes at a price equal to 101% of the principal amount, plus accrued and unpaid interest, upon a change of control
-of Applied and a contemporaneous downgrade of the notes below investment grade. Applied also has in place a $1.5 billion revolving credit facility. While no
-amounts were outstanding under this credit facility as of October 31, 2021, Applied may borrow amounts in the future under this credit facility. Applied may also
-enter into new ﬁnancing arrangements. Applied’s ability to satisfy its debt obligations is dependent upon the results of its business operations and subject to
-other risks discussed in this section. Signiﬁcant changes in Applied’s credit rating, disruptions in the global ﬁnancial markets or changes in the interest rate
-environment could have a material adverse consequence on Applied’s access to and cost of capital for future ﬁnancings, and ﬁnancial condition. If Applied fails
-to satisfy its debt obligations, or comply with ﬁnancial and other debt covenants, it may be in default and any borrowings may become immediately due and
-payable, and such default may also constitute a default under other of Applied’s obligations. There can be no assurance that Applied would have suﬃcient
-financial resources or be able to arrange financing to repay any borrowings at such time.
-
-
-#### 26
-
-
-## Page 27
 
 
 #### Table of Contents
 
-The failure to successfully implement enterprise resource planning and other information systems changes could adversely impact Applied’s
-business and results of operations.
+The following table presents a reconciliation of the GAAP and non-GAAP adjusted segment results for the past three fiscal years:
 
-Applied periodically implements new or enhanced enterprise resource planning and related information systems in order to better manage its business
-operations, align its global organizations and enable future growth. Implementation of new business processes and information systems requires the
-commitment of signiﬁcant personnel, training and ﬁnancial resources, and entails risks to Applied’s business operations. If Applied does not successfully
-implement enterprise resource planning and related information systems improvements, or if there are delays or diﬃculties in implementing these systems,
-Applied may not realize anticipated productivity improvements or cost eﬃciencies, and may experience interruptions in service and operational diﬃculties, such
-as its ability to track orders, timely manufacture and ship products, project inventory requirements, eﬀectively manage its supply chain and allocate human
-resources, aggregate ﬁnancial data and report operating results, and otherwise eﬀectively manage its business, all of which could result in quality issues,
-reputational harm, lost market and revenue opportunities, and otherwise adversely affect Applied’s business, financial condition and results of operations.
+APPLIED MATERIALS, INC.
+UNAUDITED RECONCILIATION OF GAAP TO NON-GAAP ADJUSTED RESULTS
 
-Applied may incur impairment charges related to goodwill or long-lived assets.
+(In millions, except percentages)
+2021
+2020
+2019
 
-Applied has a signiﬁcant amount of goodwill and other acquired intangible assets related to acquisitions. Goodwill and purchased intangible assets with
-indeﬁnite useful lives are not amortized, but are reviewed for impairment annually during the fourth quarter of each ﬁscal year, and more frequently when events
-or changes in circumstances indicate that the carrying value of an asset may not be recoverable. The review compares the fair value for each of Applied’s
-reporting units to its associated carrying value, including goodwill. Factors that could lead to impairment of goodwill and intangible assets include adverse
-industry or economic trends, reduced estimates of future cash ﬂows, declines in the market price of Applied common stock, changes in Applied’s strategies or
-product portfolio, and restructuring activities. Applied’s valuation methodology for assessing impairment requires management to make judgments and
-assumptions based on historical experience and projections of future operating performance. Applied may be required to record future charges to earnings
-during the period in which an impairment of goodwill or intangible assets is determined to exist.
+Semiconductor Systems Non-GAAP Adjusted Operating Income
+Reported operating income - GAAP basis
+$
+6,311 
+$
+3,714 
+$
+2,464 
+Certain items associated with acquisitions
+38 
+41 
+43 
+Acquisition integration costs
+(2)
+3 
+—
+Certain incremental expenses related to COVID-19
+12 
+20 
+—
+Other charges
+3 
+— 
+—
+Non-GAAP adjusted operating income
+$
+6,362 
+$
+3,778 
+$
+2,507 
+Non-GAAP adjusted operating margin
+39.1 %
+33.2 %
+27.8 %
+
+AGS Non-GAAP Adjusted Operating Income
+Reported operating income - GAAP basis
+$
+1,508 
+$
+1,127 
+$
+1,101 
+Certain incremental expenses related to COVID-19
+8 
+8 
+— 
+Other charges
+1 
+— 
+— 
+Non-GAAP adjusted operating income
+$
+1,517 
+$
+1,135 
+$
+1,101 
+Non-GAAP adjusted operating margin
+30.3 %
+27.3 %
+28.6 %
+
+Display and Adjacent Markets Non-GAAP Adjusted Operating Income
+Reported operating income - GAAP basis
+$
+314 
+$
+291 
+$
+294 
+Certain items associated with acquisitions
+4 
+12 
+12 
+Acquisition integration costs
+— 
+— 
+1 
+Certain incremental expenses related to COVID-19
+1 
+1 
+— 
+Severance and related charges
+8 
+— 
+—
+
+Non-GAAP adjusted operating income
+$
+327 
+$
+304 
+$
+307 
+Non-GAAP adjusted operating margin
+20.0 %
+18.9 %
+18.6 %
+
+1 
+These items are incremental charges attributable to completed acquisitions, consisting of amortization of purchased intangible assets.
+2
+Temporary incremental employee compensation during the COVID-19 pandemic.
+3
+The severance and related charges related to workforce reduction actions globally across the Display and Adjacent Market business.
+
+Note: The reconciliation of GAAP and non-GAAP adjusted segment results above does not include certain revenues, costs of products sold and operating
+expenses that are reported within corporate and other and included in consolidated operating income.
 
 
-#### Risks Related to Intellectual Property and Cybersecurity
-
-Applied is exposed to various risks related to protection and enforcement of intellectual property rights.
-
-Applied’s success depends in signiﬁcant part on the protection of its technology using patents, trade secrets, copyrights and other intellectual property
-rights. Infringement of Applied’s rights by a third party, such as the unauthorized manufacture or sale of equipment or spare parts, could result in
-uncompensated lost market and revenue opportunities for Applied. Monitoring and detecting any unauthorized use of intellectual property is diﬃcult and costly
-and Applied cannot be certain that the protective measures it has implemented will completely prevent misuse. Applied’s ability to enforce its intellectual
-property rights is subject to litigation risks, as well as uncertainty as to the protection and enforceability of those rights in some countries. If Applied seeks to
-enforce its intellectual property rights, it may be subject to claims that those rights are invalid or unenforceable, and others may seek counterclaims against
-Applied, which could have a negative impact on its business. If Applied is unable to enforce and protect intellectual property rights, or if they are circumvented,
-rendered obsolete or invalidated by the rapid pace of technological change, it could have an adverse impact on its competitive position and business. In
-addition, changes in intellectual property laws or their interpretation may impact Applied’s ability to protect and assert its intellectual property rights, increase
-costs and uncertainties in the prosecution of patent applications or related enforcement actions, and diminish the value and competitive advantage conferred by
-Applied’s intellectual property assets.
-
-Third parties may also assert claims against Applied and its products. Claims that Applied’s products infringe the rights of others, whether or not
-meritorious, can be expensive and time-consuming to defend and resolve, and may divert the eﬀorts and attention of management and personnel. The inability
-to obtain rights to use third party intellectual property on commercially reasonable terms could have an adverse impact on Applied’s business. In addition,
-Applied may face claims based on the theft or unauthorized use or disclosure of third-party trade secrets and other conﬁdential business information. Any such
-incidents and claims could severely harm Applied’s business and reputation, result in signiﬁcant expenses, harm its competitive position, and prevent Applied
-from selling certain products, all of which could have a significant adverse impact on Applied’s business and results of operations.
+#### 1
 
 
-#### 27
+#### 2
 
 
-## Page 28
+#### 2
+
+
+#### 1
+
+
+#### 2
+
+
+#### 3
+
+
+#### 54
+
+
+## Page 55
 
 
 #### Table of Contents
 
-Applied is exposed to risks related to cybersecurity threats and incidents.
 
-In the conduct of its business, Applied collects, uses, transmits and stores data on information technology systems, including systems owned and
-maintained by Applied or its third-party providers. These data include conﬁdential information and intellectual property belonging to Applied or its customers or
-other business partners, as well as personal information of individuals. All information technology systems are subject to disruption, breach or failure. Applied
-and its third-party providers have experienced, and expect to continue to experience, cybersecurity incidents, some of which may be successful. These
-cybersecurity incidents may range from employee error or misuse, to individual attempts to gain unauthorized access to these information systems, to
-sophisticated cybersecurity attacks, known as advanced persistent threats, any of which may target the Company directly or indirectly through its third party
-providers and global supply chain. Although no such cybersecurity incident has been material to the Company to date, Applied continues to devote signiﬁcant
-resources to network security, data encryption, and other measures to protect its systems and data from unauthorized access or misuse, and it may be required
-to expend greater resources in the future, especially in the face of continuously evolving cybersecurity threats and privacy and data protection laws. Depending
-on their nature and scope, cybersecurity incidents may result in business disruption, such as delay in the development and delivery of Applied’s products or
-disruption of Applied’s manufacturing processes; the misappropriation of intellectual property; corruption, loss of, or inability to access (e.g., through
-ransomware or denial of service) confidential information and critical data (i.e., that of Applied and its third party providers and customers); reputational damage;
-litigation or regulatory enforcement action related to contractual or regulatory privacy, cybersecurity, data protection, or other conﬁdentiality obligations;
-diminution in the value of Applied’s investment in research, development and engineering; and increased costs associated with the implementation of
-cybersecurity measures to detect, deter, protect against, and recover from such incidents. Compliance with, and changes to, laws and regulations concerning
-privacy, cybersecurity, data protection and data localization could result in signiﬁcant expense, and any failure to comply could result in proceedings against
-Applied by regulatory authorities or other third parties. Further, customers and third-party providers increasingly demand rigorous contractual provisions
-regarding privacy, cybersecurity, data protection, confidentiality, and intellectual property, which may also increase our overall compliance burden.
+#### Item 7A:       Quantitative and Qualitative Disclosures About Market Risk
+
+Applied is exposed to financial market risks, including fluctuations in interest rate and foreign currency exchange rates.
 
 
-#### Risks Related to Legal and Compliance
+#### Interest Rate Risk
 
-Applied is exposed to various risks related to legal proceedings.
+Available-for-sale Debt Securities. The market value of Applied's investments in available-for-sales securities was approximately $1.8 billion at October 31,
+2021. An immediate hypothetical 100 basis point increase in interest rates would result in a decrease in the fair value of investments as of October 31, 2021 of
+approximately $26 million.
 
-Applied from time to time is, and in the future may be involved in legal proceedings or claims regarding patent infringement, trade secret misappropriation,
-and other intellectual property rights, trade, including import, export and customs, antitrust, environmental regulations, privacy, data protection, securities,
-contracts, product performance, product liability, unfair competition, employment, workplace safety, and other matters. Applied also on occasion receives
-notiﬁcation from customers who believe that Applied owes them indemniﬁcation, product warranty or has other obligations related to claims made against such
-customers by third parties.
-
-Legal proceedings and claims, whether with or without merit, and associated internal investigations, may be time-consuming and expensive to prosecute,
-defend or conduct; divert management’s attention and other Applied resources; inhibit Applied’s ability to sell its products; result in adverse judgments for
-damages, injunctive relief, penalties and ﬁnes; and negatively aﬀect Applied’s business. There can be no assurance regarding the outcome of current or future
-legal proceedings, claims or investigations.
-
-Applied is subject to risks associated with environmental, health and safety regulations and sustainability requirements.
-
-Applied is subject to environmental, health and safety regulations in connection with its global business operations, including but not limited to: regulations
-related to the development, manufacture, shipping and use of its products; handling, discharge, recycling and disposal of hazardous materials used in its
-products or in producing its products; the operation of its facilities; and the use of its real property. The failure or inability to comply with existing or future
-environmental, health and safety regulations, including those relating to climate change, could result in: signiﬁcant remediation or other legal liabilities; the
-imposition of penalties and ﬁnes; restrictions on the development, manufacture, sale, shipping or use of certain of its products; limitations on the operation of its
-facilities or ability to use its real property; and a decrease in the value of its real property.
-
-In addition to regulatory compliance, growing customer sustainability requirements, as well as Applied’s sustainability targets, could cause Applied from
-time to time to alter its manufacturing, operations or equipment designs, and incur substantial expense to meet these regulatory and sustainability requirements.
-Any failure to comply with these regulations, or meet these customer requirements or sustainability targets, could adversely impact the demand for Applied’s
-products and subject Applied to signiﬁcant costs and liabilities and reputational risks that could adversely aﬀect Applied’s business, ﬁnancial condition and
-results of operations.
+Debt. At October 31, 2021, the aggregate principal of long-term senior unsecured notes issued by Applied was $5.5 billion with an estimated fair value of
+$6.4 billion. A hypothetical decrease in interest rates of 100 basis points would result in an increase in the fair value of Applied’s long-term senior notes
+issuances of approximately $731 million at October 31, 2021. From time to time Applied uses interest rate swaps or rate lock agreements to mitigate the
+potential impact of changes in benchmark interest rates on interest expense and cash flows.
 
 
-#### 28
+#### Foreign Currency Risk
+
+Certain operations of Applied are conducted in foreign currencies, such as Japanese yen, Israeli shekel, euro and Taiwanese dollar. Hedges are used to
+reduce, but not eliminate, the impact of foreign currency exchange rate movements on the consolidated balance sheet, statement of operations, and statement
+of cash flows.
+
+Applied uses primarily foreign currency forward contracts to oﬀset the impact of foreign exchange movements on non-U.S. dollar denominated monetary
+assets and liabilities. The foreign exchange gains and losses on the assets and liabilities are recorded in interest and other income (net) and are oﬀset by the
+gains and losses on the hedges.
+
+Applied uses foreign currency forward and option contracts to hedge a portion of anticipated non-U.S. dollar denominated revenues and expenses
+expected to occur within the next 24 months. Gains and losses on these hedging contracts generally mitigate the eﬀect of currency movements on Applied’s net
+sales, cost of products sold, and operating expenses. A hypothetical 10% adverse change in foreign currency exchange rates relative to the U.S. Dollar would
+result in a decrease in the fair value of these hedging contracts of $177 million at October 31, 2021.
+
+Applied does not use foreign currency forward or option contracts for trading or speculative purposes.
 
 
-## Page 29
+#### Item 8:      Financial Statements and Supplementary Data
 
+The consolidated financial statements required by this Item are set forth on the pages indicated at Item 15(a).
 
-#### Table of Contents
-
-Applied is exposed to various risks related to the global regulatory environment.
-
-As a public company with global operations, Applied is subject to the laws of the United States and multiple foreign jurisdictions and the rules and
-regulations of various governing bodies, which may diﬀer among jurisdictions, including those related to ﬁnancial and other disclosures, accounting standards,
-corporate governance, intellectual property, tax, trade (including import, export and customs), antitrust, environment, health and safety (including those relating
-to climate change), employment, immigration and travel regulations, privacy, data protection and localization, and anti-corruption. Changing, inconsistent or
-conﬂicting laws, rules and regulations, and ambiguities in their interpretation and application create uncertainty and challenges, and compliance with laws, rules
-and regulations may be onerous and expensive, divert management time and attention from revenue-generating activities, and otherwise adversely impact
-Applied’s business operations. Violations of law, rules and regulations, including, among others, those related to ﬁnancial and other disclosures, trade and
-import, antitrust, privacy, data protection, and anti-corruption, could result in ﬁnes, criminal penalties, restrictions on Applied’s business, and damage to its
-reputation, and could have an adverse impact on its business operations, financial condition and results of operations.
-
-
-#### Item 1B:      Unresolved Staff Comments
+Item 9:      Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 
 None.
 
 
-#### 29
+#### 55
 
 
-## Page 30
-
-### Table 30.1
-
-| Owned | 4,855 |  | 2,472 |  | 7,327 |
-| --- | --- | --- | --- | --- | --- |
-| Leased | 1,912 |  | 1,800 |  | 3,712 |
-| Total | 6,767 |  | 4,272 |  | 11,039 |
-
+## Page 56
 
 
 #### Table of Contents
 
 
-#### Item 2:      Properties
+#### Item 9A:      Controls and Procedures
 
 
-#### Information concerning Applied’s properties is set forth below:
+#### Disclosure Controls and Procedures
 
-(Square feet in thousands)
-United States
-Other Countries
+As of the end of the period covered by this report, management of Applied conducted an evaluation, under the supervision and with the participation of
+Applied’s Chief Executive Oﬃcer and Chief Financial Oﬃcer, of the eﬀectiveness of Applied’s disclosure controls and procedures, as such term is deﬁned in
+Rule 13a-15(e) of the Securities Exchange Act of 1934 (the Exchange Act). Based upon that evaluation, Applied’s Chief Executive Oﬃcer and Chief Financial
+Oﬃcer concluded that Applied’s disclosure controls and procedures were eﬀective as of the end of the period covered by this report in ensuring that information
+required to be disclosed was recorded, processed, summarized and reported within the time periods speciﬁed in the SEC’s rules and forms, and to provide
+reasonable assurance that information required to be disclosed by Applied in such reports is accumulated and communicated to the Company’s management,
+including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+
+#### Management’s Report on Internal Control over Financial Reporting
+
+Applied’s management is responsible for establishing and maintaining adequate internal control over ﬁnancial reporting, as such term is deﬁned in
+Rule 13a-15(f) of the Exchange Act. Under the supervision and with the participation of Applied’s Chief Executive Oﬃcer and Chief Financial Oﬃcer,
+management of Applied conducted an evaluation of the eﬀectiveness of Applied’s internal control over ﬁnancial reporting based upon the framework in “Internal
+Control — Integrated Framework (2013)” issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on that evaluation,
+Applied’s management concluded that Applied’s internal control over financial reporting was effective as of October 31, 2021.
+
+KPMG LLP, an independent registered public accounting ﬁrm, has audited the consolidated ﬁnancial statements included in this Form 10-K and, as part of
+the audit, has issued a report, included herein, on the effectiveness of Applied’s internal control over financial reporting as of October 31, 2021.
+
+
+#### Changes in Internal Control over Financial Reporting
+
+Due to the ongoing COVID-19 pandemic, Applied continues to support workplace ﬂexibility such as remote work where possible. Business continuity plans
+are in eﬀect in order to mitigate potential impact on Applied’s control environment and its operating and disclosure controls and procedures. The design of
+business continuity plans, which include remote access to secure data when needed, allow for remote and reliable execution of Applied’s operating and
+disclosure controls and procedures.
+
+Applied evaluated the impact of the ongoing COVID-19 pandemic on its internal control over ﬁnancial reporting. During the fourth quarter of ﬁscal 2021,
+there were no changes in the internal control over ﬁnancial reporting that materially aﬀected, or are reasonably likely to materially aﬀect, Applied’s internal
+control over financial reporting.
+
+Inherent Limitations of Disclosure Controls and Procedures and Internal Control over Financial Reporting
+
+It should be noted that any system of controls, however well designed and operated, can provide only reasonable, and not absolute, assurance that the
+objectives of the system will be met. In addition, the design of any control system is based in part upon certain assumptions about the likelihood of future
+events.
+ 
+Item 9B:      Other Information
+
+
+#### None
+
+
+#### 56
+
+
+## Page 57
+
+
+#### Table of Contents
+
+
+### PART III
+
+
+#### Item 10:      Directors, Executive Officers and Corporate Governance
+
+Except for the information regarding executive oﬃcers required by Item 401 of Regulation S-K (which is included in Part I, Item 1 of this Annual Report on
+Form 10-K, under “Information about our Executive Oﬃcers”) and code of ethics (which is set forth below), the information required by this item will be provided
+in accordance with Instruction G(3) to Form 10-K no later than February 28, 2022.
+
+Applied has implemented the Standards of Business Conduct, a code of ethics with which every person who works for Applied and every member of the
+Board of Directors is expected to comply. If any substantive amendments are made to the Standards of Business Conduct or any waiver is granted, including
+any implicit waiver, from a provision of the code to Applied’s Chief Executive Oﬃcer, Chief Financial Oﬃcer or Chief Accounting Oﬃcer, Applied will disclose
+the nature of such amendment or waiver on its website or in a report on Form 8-K. The above information, including the Standards of Business Conduct, is
+available on Applied’s website under the Corporate Governance section at http://www.appliedmaterials.com/company/investor-relations/governance. This
+website address is intended to be an inactive, textual reference only. None of the materials on, or accessible through, this website is part of this report or is
+incorporated by reference herein.
+ 
+Item 11:      Executive Compensation
+
+The information required by this Item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 28, 2022.
+
+
+#### 57
+
+
+## Page 59
+
+
+#### Table of Contents
+
+Item 13:      Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this Item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 28, 2022.
+ 
+Item 14:      Principal Accounting Fees and Services
+
+The information required by this Item will be provided in accordance with Instruction G(3) to Form 10-K no later than February 28, 2022.
+
+
+#### 59
+
+
+## Page 60
+
+
+#### Table of Contents
+
+
+### PART IV
+
+
+#### Item 15:      Exhibits, Financial Statement Schedules
+
+(a) The following documents are filed as part of this Annual Report on Form 10-K:
+
+Page
+Number
+(1)
+Financial Statements:
+
+Reports of Independent Registered Public Accounting Firm
+61
+
+Consolidated Statements of Operations
+64
+
+Consolidated Statements of Comprehensive Income
+65
+
+Consolidated Balance Sheets
+66
+
+Consolidated Statements of Stockholders’ Equity
+67
+
+Consolidated Statements of Cash Flows
+68
+
+Notes to Consolidated Financial Statements
+69
+
+(2)
+Exhibits:
+
+The exhibits listed in the accompanying Index to Exhibits are filed or incorporated by reference as part of this Annual Report on
+Form 10-K
+105
+
+All other schedules are omitted because they are not applicable or the required information is shown in the Consolidated Financial Statements or Notes
+thereto.
+
+
+#### Item 16:      Form 10-K Summary
+
+None.
+
+
+#### 60
+
+
+## Page 61
+
+
+#### Table of Contents
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and Board of Directors
+Applied Materials, Inc.:
+
+
+#### Opinion on the Consolidated Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Applied Materials, Inc. and subsidiaries (the Company) as of October 31, 2021 and
+October 25, 2020, the related consolidated statements of operations, comprehensive income, stockholders’ equity, and cash ﬂows for each of the years in the
+three-year period ended October 31, 2021, and the related notes (collectively, the consolidated ﬁnancial statements). In our opinion, the consolidated ﬁnancial
+statements present fairly, in all material respects, the ﬁnancial position of the Company as of October 31, 2021 and October 25, 2020, and the results of its
+operations and its cash ﬂows for each of the years in the three-year period ended October 31, 2021, in conformity with U.S. generally accepted accounting
+principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal
+control over ﬁnancial reporting as of October 31, 2021, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee
+of Sponsoring Organizations of the Treadway Commission, and our report dated December 17, 2021 expressed an unqualiﬁed opinion on the eﬀectiveness of
+the Company’s internal control over financial reporting.
+
+
+#### Changes in Accounting Principles
+
+As discussed in note 1 to the consolidated ﬁnancial statements, the Company changed its method of accounting for leases as of October 28, 2019 due to the
+adoption of Accounting Standards Codiﬁcation Topic 842, Leases. As discussed in note 16 to the consolidated ﬁnancial statements, the Company changed its
+method of accounting for intra-entity transfers of assets other than inventory as of October 29, 2018 due to the adoption of Accounting Standards Update No.
+2016-16, Income Taxes: Intra-Entity Transfers of Assets Other Than Inventory .
+
+
+#### Basis for Opinion
+
+These consolidated ﬁnancial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated
+ﬁnancial statements based on our audits. We are a public accounting ﬁrm registered with the PCAOB and are required to be independent with respect to the
+Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the
+PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the consolidated ﬁnancial statements are free of material misstatement, whether due to error or fraud. Our audits included performing
+procedures to assess the risks of material misstatement of the consolidated ﬁnancial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated ﬁnancial
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall
+presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+
+#### Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated ﬁnancial statements that was communicated
+or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated ﬁnancial statements
+and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion
+on the consolidated ﬁnancial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on
+the critical audit matter or on the accounts or disclosures to which it relates.
+
+Evaluation of net realizable value adjustments to inventories for excess or obsolescence
+
+As discussed in notes 1 and 8 to the consolidated ﬁnancial statements, the Company has inventories with a carrying value of $4,309 million as of October
+31, 2021. The Company adjusts inventory carrying value for estimated excess or obsolescence equal to the diﬀerence between cost of inventory and the
+estimated net realizable value based upon assumptions about future demand and market conditions. If actual demand were to be substantially lower than
+estimated, there could be a significant adverse impact on the carrying value of inventories and results of operations.
+
+
+#### 61
+
+
+## Page 62
+
+
+#### Table of Contents
+
+We identiﬁed the evaluation of net realizable value adjustments to inventories for excess or obsolescence as a critical audit matter. Evaluation of the
+Company’s estimates regarding forecasted sales and inventory consumption involved a high degree of auditor judgment.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating eﬀectiveness
+of certain internal controls over the Company’s process for determining net realizable value adjustments for inventory excess or obsolescence, including
+controls related to estimating forecasted sales and inventory consumption. We evaluated certain inventories for excess or obsolescence by comparing the
+Company’s sales and inventory consumption forecast to historical sales, historical inventory usage, known customer orders, and industry outlook reports. In
+addition, for certain inventories, we compared the Company’s historical estimates of net realizable value adjustments for excess and obsolescence to the
+actual physical inventory disposals to evaluate the Company’s ability to accurately estimate the net realizable value adjustments.
+
+/S/    KPMG LLP
+KPMG LLP
+
+We have served as the Company’s auditor since 2004.
+
+Santa Clara, California
+December 17, 2021
+
+
+#### 62
+
+
+## Page 63
+
+
+#### Table of Contents
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and Board of Directors
+Applied Materials, Inc.:
+
+Opinion on Internal Control Over Financial Reporting
+We have audited Applied Materials, Inc. and subsidiaries’ (the Company) internal control over ﬁnancial reporting as of October 31, 2021, based on criteria
+established in Internal Control - Integrated Framework (2013)  issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our
+opinion, the Company maintained, in all material respects, eﬀective internal control over ﬁnancial reporting as of October 31, 2021, based on criteria established
+in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated
+balance sheets of the Company as of October 31, 2021 and October 25, 2020, the related consolidated statements of operations, comprehensive income,
+stockholders’ equity, and cash ﬂows for each of the years in the three-year period ended October 31, 2021, and the related notes (collectively, the consolidated
+financial statements), and our report dated December 17, 2021 expressed an unqualified opinion on those consolidated financial statements.
+
+
+#### Basis for Opinion
+
+The Company’s management is responsible for maintaining eﬀective internal control over ﬁnancial reporting and for its assessment of the eﬀectiveness of
+internal control over ﬁnancial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is
+to express an opinion on the Company’s internal control over ﬁnancial reporting based on our audit. We are a public accounting ﬁrm registered with the PCAOB
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of
+the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether eﬀective internal control over ﬁnancial reporting was maintained in all material respects. Our audit of internal control over ﬁnancial
+reporting included obtaining an understanding of internal control over ﬁnancial reporting, assessing the risk that a material weakness exists, and testing and
+evaluating the design and operating eﬀectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as
+we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over ﬁnancial reporting is a process designed to provide reasonable assurance regarding the reliability of ﬁnancial reporting and
+the preparation of ﬁnancial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over
+ﬁnancial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reﬂect
+the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit
+preparation of ﬁnancial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being
+made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or
+timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over ﬁnancial reporting may not prevent or detect misstatements. Also, projections of any evaluation of
+eﬀectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate.
+
+/s/    KPMG LLP
+KPMG LLP
+
+Santa Clara, California
+December 17, 2021
+
+
+#### 63
+
+
+## Page 64
+
+### Table 64.1
+
+| Net sales | $ | 23,063 |  | $ | 17,202 |  | $ | 14,608 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of products sold | 12,149 |  |  | 9,510 |  |  | 8,222 |  |
+| Gross profit | 10,914 |  |  | 7,692 |  |  | 6,386 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |
+| Research, development and engineering | 2,485 |  |  | 2,234 |  |  | 2,054 |  |
+| Marketing and selling | 609 |  |  | 526 |  |  | 521 |  |
+| General and administrative | 620 |  |  | 567 |  |  | 461 |  |
+| Severance and related charges | 157 |  |  | — |  |  | — |  |
+| Deal termination fee | 154 |  |  | — |  |  | — |  |
+| Total operating expenses | 4,025 |  |  | 3,327 |  |  | 3,036 |  |
+| Income from operations | 6,889 |  |  | 4,365 |  |  | 3,350 |  |
+| Interest expense | 236 |  |  | 240 |  |  | 237 |  |
+| Interest and other income, net | 118 |  |  | 41 |  |  | 156 |  |
+| Income before income taxes | 6,771 |  |  | 4,166 |  |  | 3,269 |  |
+| Provision for income taxes | 883 |  |  | 547 |  |  | 563 |  |
+| Net income | $ | 5,888 |  | $ | 3,619 |  | $ | 2,706 |
+| Earnings per share: |  |  |  |  |  |  |  |  |
+| Basic | $ | 6.47 |  | $ | 3.95 |  | $ | 2.89 |
+| Diluted | $ | 6.40 |  | $ | 3.92 |  | $ | 2.86 |
+| Weighted average number of shares: |  |  |  |  |  |  |  |  |
+| Basic | 910 |  |  | 916 |  |  | 937 |  |
+| Diluted | 919 |  |  | 923 |  |  | 945 |  |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+#### (In millions, except per share amounts)
+
+Fiscal Year
+2021
+2020
+2019
+ 
+Net sales
+$
+23,063 
+$
+17,202 
+$
+14,608 
+Cost of products sold
+12,149 
+9,510 
+8,222 
+Gross profit
+10,914 
+7,692 
+6,386 
+Operating expenses:
+
+Research, development and engineering
+2,485 
+2,234 
+2,054 
+Marketing and selling
+609 
+526 
+521 
+General and administrative
+620 
+567 
+461 
+Severance and related charges
+157 
+— 
+— 
+Deal termination fee
+154 
+— 
+— 
+Total operating expenses
+4,025 
+3,327 
+3,036 
+Income from operations
+6,889 
+4,365 
+3,350 
+Interest expense
+236 
+240 
+237 
+Interest and other income, net
+118 
+41 
+156 
+Income before income taxes
+6,771 
+4,166 
+3,269 
+Provision for income taxes
+883 
+547 
+563 
+Net income
+$
+5,888 
+$
+3,619 
+$
+2,706 
+Earnings per share:
+
+Basic
+$
+6.47 
+$
+3.95 
+$
+2.89 
+Diluted
+$
+6.40 
+$
+3.92 
+$
+2.86 
+Weighted average number of shares:
+
+Basic
+910 
+916 
+937 
+Diluted
+919 
+923 
+945
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 64
+
+
+## Page 65
+
+### Table 65.1
+
+| Net income | $ | 5,888 |  | $ | 3,619 |  | $ | 2,706 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss), net of tax: |  |  |  |  |  |  |  |  |
+| Change in unrealized gain (loss) on available-for-sale investments | (21) |  |  | 9 |  |  | 21 |  |
+| Change in unrealized net loss on derivative instruments | 30 |  |  | (117) |  |  | (7) |  |
+| Change in defined and postretirement benefit plans | 30 |  |  | (11) |  |  | (51) |  |
+| Change in cumulative translation adjustments | — |  |  | — |  |  | (1) |  |
+| Other comprehensive income (loss), net of tax | 39 |  |  | (119) |  |  | (38) |  |
+| Comprehensive income | $ | 5,927 |  | $ | 3,500 |  | $ | 2,668 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+#### (In millions)
+
+Fiscal Year
+2021
+2020
+2019
+
+Net income
+$
+5,888 
+$
+3,619 
+$
+2,706 
+Other comprehensive income (loss), net of tax:
+
+Change in unrealized gain (loss) on available-for-sale investments
+(21)
+9 
+21 
+Change in unrealized net loss on derivative instruments
+30 
+(117)
+(7)
+Change in defined and postretirement benefit plans
+30 
+(11)
+(51)
+Change in cumulative translation adjustments
+— 
+— 
+(1)
+Other comprehensive income (loss), net of tax
+39 
+(119)
+(38)
+
+Comprehensive income
+$
+5,927 
+$
+3,500 
+$
+2,668
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 65
+
+
+## Page 66
+
+### Table 66.1
+
+| ASSETS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Current assets: |  |  |  |  |  |
+| Cash and cash equivalents | $ | 4,995 |  | $ | 5,351 |
+| Short-term investments | 464 |  |  | 387 |  |
+| Accounts receivable, net | 4,953 |  |  | 2,963 |  |
+| Inventories | 4,309 |  |  | 3,904 |  |
+| Other current assets | 1,386 |  |  | 764 |  |
+| Total current assets | 16,107 |  |  | 13,369 |  |
+| Long-term investments | 2,055 |  |  | 1,538 |  |
+| Property, plant and equipment, net | 1,934 |  |  | 1,604 |  |
+| Goodwill | 3,479 |  |  | 3,466 |  |
+| Purchased technology and other intangible assets, net | 104 |  |  | 153 |  |
+| Deferred income taxes and other assets | 2,146 |  |  | 2,223 |  |
+| Total assets | $ | 25,825 |  | $ | 22,353 |
+
+
+### Table 66.2
+
+| Current liabilities: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Accounts payable and accrued expenses | $ | 4,268 |  | $ | 3,138 |
+| Contract liabilities | 2,076 |  |  | 1,321 |  |
+| Total current liabilities | 6,344 |  |  | 4,459 |  |
+| Long-term debt | 5,452 |  |  | 5,448 |  |
+| Income taxes payable | 1,090 |  |  | 1,206 |  |
+| Other liabilities | 692 |  |  | 662 |  |
+| Total liabilities | 13,578 |  |  | 11,775 |  |
+| Commitments and contingencies (Note 17) |  |  |  |  |  |
+| Stockholders’ equity: |  |  |  |  |  |
+| Preferred stock: $0.01 par value per share; 1 shares authorized; no shares issued | — |  |  | — |  |
+| Common stock: $0.01 par value per share; 2,500 shares authorized; 892 and 914 shares outstanding at 2021 and 2020, respectively | 9 |  |  | 9 |  |
+
+
+### Table 66.3
+
+| Retained earnings | 32,246 |  | 27,209 |
+| --- | --- | --- | --- |
+
+
+
+### Table 66.4
+
+| Accumulated other comprehensive loss | (260) |  | (299) |
+| --- | --- | --- | --- |
+
+
+
+### Table 66.5
+
+| Total liabilities and stockholders’ equity | $ | 25,825 |  | $ | 22,353 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED BALANCE SHEETS
+
+
+#### (In millions, except per share amounts)
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+ASSETS
+Current assets:
+
+Cash and cash equivalents
+$
+4,995 
+$
+5,351 
+Short-term investments
+464 
+387 
+Accounts receivable, net
+4,953 
+2,963 
+Inventories
+4,309 
+3,904 
+Other current assets
+1,386 
+764 
+Total current assets
+16,107 
+13,369 
+Long-term investments
+2,055 
+1,538 
+Property, plant and equipment, net
+1,934 
+1,604 
+Goodwill
+3,479 
+3,466 
+Purchased technology and other intangible assets, net
+104 
+153 
+Deferred income taxes and other assets
+2,146 
+2,223 
+Total assets
+$
+25,825 
+$
+22,353
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+
+Accounts payable and accrued expenses
+$
+4,268 
+$
+3,138 
+Contract liabilities
+2,076 
+1,321 
+Total current liabilities
+6,344 
+4,459 
+Long-term debt
+5,452 
+5,448 
+Income taxes payable
+1,090 
+1,206 
+Other liabilities
+692 
+662 
+Total liabilities
+13,578 
+11,775 
+Commitments and contingencies (Note 17)
+Stockholders’ equity:
+
+Preferred stock: $0.01 par value per share; 1 shares authorized; no shares issued
+— 
+— 
+Common stock: $0.01 par value per share; 2,500 shares authorized; 892 and 914 shares outstanding at 2021 and
+2020, respectively
+9 
+9 
+Additional paid-in capital
+8,247 
+7,904 
+Retained earnings
+32,246 
+27,209 
+Treasury stock: 1,119 and 1,091 shares at 2021 and 2020, respectively
+(27,995)
+(24,245)
+Accumulated other comprehensive loss
+(260)
+(299)
+Total stockholders’ equity
+12,247 
+10,578 
+Total liabilities and stockholders’ equity
+$
+25,825 
+$
+22,353
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 66
+
+
+## Page 68
+
+### Table 68.1
+
+| Cash flows from operating activities: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net income | $ | 5,888 |  | $ | 3,619 |  | $ | 2,706 |
+| Adjustments required to reconcile net income to cash provided by operating activities: |  |  |  |  |  |  |  |  |
+| Depreciation and amortization | 394 |  |  | 376 |  |  | 363 |  |
+| Severance and related charges | 148 |  |  | — |  |  | — |  |
+| Deferred income taxes | 80 |  |  | 80 |  |  | 49 |  |
+| Other | (70) |  |  | 60 |  |  | (19) |  |
+| Share-based compensation | 346 |  |  | 307 |  |  | 263 |  |
+| Changes in operating assets and liabilities, net of amounts acquired: |  |  |  |  |  |  |  |  |
+| Accounts receivable | (1,989) |  |  | (427) |  |  | (207) |  |
+| Inventories | (405) |  |  | (421) |  |  | 248 |  |
+| Other current and non-current assets | (602) |  |  | (161) |  |  | (86) |  |
+| Accounts payable and accrued expenses | 465 |  |  | 327 |  |  | (247) |  |
+| Contract liabilities | 755 |  |  | (16) |  |  | 135 |  |
+| Income taxes payable | 396 |  |  | (10) |  |  | 44 |  |
+| Other liabilities | 36 |  |  | 70 |  |  | (2) |  |
+| Cash provided by operating activities | 5,442 |  |  | 3,804 |  |  | 3,247 |  |
+| Cash flows from investing activities: |  |  |  |  |  |  |  |  |
+| Capital expenditures | (668) |  |  | (422) |  |  | (441) |  |
+| Cash paid for acquisitions, net of cash acquired | (12) |  |  | (107) |  |  | (28) |  |
+| Proceeds from sales and maturities of investments | 1,471 |  |  | 1,754 |  |  | 1,940 |  |
+| Purchases of investments | (2,007) |  |  | (1,355) |  |  | (1,914) |  |
+| Cash used in investing activities | (1,216) |  |  | (130) |  |  | (443) |  |
+| Cash flows from financing activities: |  |  |  |  |  |  |  |  |
+| Debt borrowings, net of issuance costs | — |  |  | 2,979 |  |  | — |  |
+| Debt repayments | — |  |  | (2,882) |  |  | — |  |
+| Proceeds from common stock issuances | 175 |  |  | 174 |  |  | 145 |  |
+| Common stock repurchases | (3,750) |  |  | (649) |  |  | (2,403) |  |
+| Tax withholding payments for vested equity awards | (178) |  |  | (172) |  |  | (86) |  |
+| Payments of dividends to stockholders | (838) |  |  | (787) |  |  | (771) |  |
+| Cash used in financing activities | (4,591) |  |  | (1,337) |  |  | (3,115) |  |
+| Increase (decrease) in cash, cash equivalents and restricted cash equivalents | (365) |  |  | 2,337 |  |  | (311) |  |
+| Cash, cash equivalents and restricted cash equivalents — beginning of period | 5,466 |  |  | 3,129 |  |  | 3,440 |  |
+| Cash, cash equivalents and restricted cash equivalents — end of period | $ | 5,101 |  | $ | 5,466 |  | $ | 3,129 |
+| Reconciliation of cash, cash equivalents, and restricted cash equivalents |  |  |  |  |  |  |  |  |
+| Cash and cash equivalents | $ | 4,995 |  | $ | 5,351 |  | $ | 3,129 |
+| Restricted cash equivalents included in deferred income taxes and other assets | 106 |  |  | 115 |  |  | — |  |
+| Total cash, cash equivalents, and restricted cash equivalents | $ | 5,101 |  | $ | 5,466 |  | $ | 3,129 |
+| Supplemental cash flow information: |  |  |  |  |  |  |  |  |
+| Cash payments for income taxes | $ | 851 |  | $ | 542 |  | $ | 522 |
+| Cash refunds from income taxes | $ | 27 |  | $ | 68 |  | $ | 22 |
+| Cash payments for interest | $ | 205 |  | $ | 219 |  | $ | 219 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+### CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+#### (In millions)
+
+Fiscal Year
+2021
+2020
+2019
+
+Cash flows from operating activities:
+Net income
+$
+5,888 
+$
+3,619 
+$
+2,706 
+Adjustments required to reconcile net income to cash provided by operating activities:
+
+Depreciation and amortization
+394 
+376 
+363 
+Severance and related charges
+148 
+— 
+— 
+Deferred income taxes
+80 
+80 
+49 
+Other
+(70)
+60 
+(19)
+Share-based compensation
+346 
+307 
+263 
+Changes in operating assets and liabilities, net of amounts acquired:
+
+Accounts receivable
+(1,989)
+(427)
+(207)
+Inventories
+(405)
+(421)
+248 
+Other current and non-current assets
+(602)
+(161)
+(86)
+Accounts payable and accrued expenses
+465 
+327 
+(247)
+Contract liabilities
+755 
+(16)
+135 
+Income taxes payable
+396 
+(10)
+44 
+Other liabilities
+36 
+70 
+(2)
+Cash provided by operating activities
+5,442 
+3,804 
+3,247 
+Cash flows from investing activities:
+
+Capital expenditures
+(668)
+(422)
+(441)
+Cash paid for acquisitions, net of cash acquired
+(12)
+(107)
+(28)
+Proceeds from sales and maturities of investments
+1,471 
+1,754 
+1,940 
+Purchases of investments
+(2,007)
+(1,355)
+(1,914)
+Cash used in investing activities
+(1,216)
+(130)
+(443)
+Cash flows from financing activities:
+
+Debt borrowings, net of issuance costs
+— 
+2,979 
+— 
+Debt repayments
+— 
+(2,882)
+— 
+Proceeds from common stock issuances
+175 
+174 
+145 
+Common stock repurchases
+(3,750)
+(649)
+(2,403)
+Tax withholding payments for vested equity awards
+(178)
+(172)
+(86)
+Payments of dividends to stockholders
+(838)
+(787)
+(771)
+Cash used in financing activities
+(4,591)
+(1,337)
+(3,115)
+Increase (decrease) in cash, cash equivalents and restricted cash equivalents
+(365)
+2,337 
+(311)
+Cash, cash equivalents and restricted cash equivalents — beginning of period
+5,466 
+3,129 
+3,440 
+Cash, cash equivalents and restricted cash equivalents — end of period
+$
+5,101 
+$
+5,466 
+$
+3,129 
+Reconciliation of cash, cash equivalents, and restricted cash equivalents
+
+Cash and cash equivalents
+$
+4,995 
+$
+5,351 
+$
+3,129 
+Restricted cash equivalents included in deferred income taxes and other assets
+106 
+115 
+— 
+Total cash, cash equivalents, and restricted cash equivalents
+$
+5,101 
+$
+5,466 
+$
+3,129 
+Supplemental cash flow information:
+
+Cash payments for income taxes
+$
+851 
+$
+542 
+$
+522 
+Cash refunds from income taxes
+$
+27 
+$
+68 
+$
+22 
+Cash payments for interest
+$
+205 
+$
+219 
+$
+219
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+#### 68
+
+
+## Page 69
+
+
+#### Table of Contents
+
+
+#### Note 1      Summary of Significant Accounting Policies
+
+
+#### Principles of Consolidation and Basis of Presentation
+
+The consolidated ﬁnancial statements include the accounts of Applied Materials, Inc. and its subsidiaries (Applied or the Company) after elimination of
+intercompany balances and transactions. All references to a ﬁscal year apply to Applied’s ﬁscal year which ends on the last Sunday in October. Fiscal 2021,
+2020 and 2019 contained 53, 52 and 52 weeks, respectively. The ﬁrst ﬁscal quarter of 2021 contained 14 weeks, while the second, third and fourth quarters of
+fiscal 2021 contained 13 weeks. Each fiscal quarter of 2020 and 2019 contained 13 weeks.
+
+
+#### Use of Estimates
+
+The preparation of ﬁnancial statements in conformity with accounting principles generally accepted in the United States of America requires management
+to make judgments, estimates and assumptions that aﬀect the amounts reported in the ﬁnancial statements and accompanying notes. Actual results could diﬀer
+materially from those estimates. On an ongoing basis, Applied evaluates its estimates, including those related to standalone selling price (SSP) related to
+revenue recognition, accounts receivable and sales allowances, fair values of ﬁnancial instruments, inventories, intangible assets and goodwill, useful lives of
+intangible assets and property and equipment, fair values of share-based awards, and income taxes, among others. Applied bases its estimates on historical
+experience and on various other assumptions that are believed to be reasonable, the results of which form the basis for making judgments about the carrying
+values of assets and liabilities.
+
+As of October 31, 2021, the COVID-19 pandemic and worldwide response remains ﬂuid. As a result, many of Applied’s estimates and assumptions are
+subject to increased judgment and volatility. These estimates may diﬀer materially in future periods as the pandemic continues to evolve and additional
+information becomes available.
+
+
+#### Cash Equivalents
+
+All highly-liquid investments with a remaining maturity of three months or less at the time of purchase are considered to be cash equivalents. Cash
+equivalents consist primarily of investments in institutional money market funds.
+
+
+#### Investments
+
+All of Applied’s investments, except equity investments, are classified as available-for-sale at the respective balance sheet dates. Investments classified as
+available-for-sale are measured and recorded in the Consolidated Balance Sheets at fair value, and unrealized gains and losses, net of tax, is reported as a
+separate component of other comprehensive income. Interest earned on cash and investments, as well as realized gains and losses on sale of securities, are
+included in interest and other income, net in the Consolidated Statements of Operations.
+
+Applied’s equity investments with readily determinable values consist of publicly traded equity securities. These investments are measured at fair value
+using quoted prices for identical assets in an active market. Privately-held equity investments without readily determinable fair value are measured at cost, less
+impairment, adjusted by observable price changes. Adjustments resulting from impairments and observable prices changes are recorded in the Consolidated
+Statements of Operations.
+
+
+#### Allowance for Credit Losses
+
+Applied maintains an allowance for credit losses for estimated losses resulting from the inability of its customers to make required payments. This
+allowance is based on historical experience, credit evaluations, speciﬁc customer collection history and any customer-speciﬁc issues Applied has identiﬁed.
+Changes in circumstances, such as an unexpected material adverse change in a major customer’s ability to meet its ﬁnancial obligation to Applied or its
+payment trends, may require Applied to further adjust its estimates of the recoverability of amounts due to Applied. Bad debt expense and any reversals are
+recorded in marketing and selling expenses in the Consolidated Statement of Operations.
+
+
+#### 69
+
+
+## Page 70
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Inventories
+
+Inventories are stated at the lower of cost or net realizable value, with cost determined on a ﬁrst-in, ﬁrst-out (FIFO) basis. Applied adjusts inventory
+carrying value for estimated obsolescence equal to the diﬀerence between the cost of inventory and the estimated net realizable value based upon assumptions
+about future demand and market conditions. Applied fully writes down inventories and noncancelable purchase orders for inventory deemed obsolete. Applied
+performs periodic reviews of inventory items to identify excess inventories on hand by comparing on-hand balances to anticipated usage using recent historical
+activity as well as anticipated or forecasted demand. If estimates of customer demand diminish further or market conditions become less favorable than those
+projected by Applied, additional inventory adjustments may be required.
+
+
+#### Property, Plant and Equipment
+
+Property, plant and equipment is stated at cost. Depreciation is provided over the estimated useful lives of the assets using the straight-line method.
+Estimated useful lives for ﬁnancial reporting purposes are as follows: buildings and improvements, 3 to 30 years; demonstration and manufacturing equipment,
+3 to 5 years; software, 3 to 5 years; and furniture, fixtures and other equipment, 3 to 5 years. Land improvements are amortized over the shorter of 15 years or
+the estimated useful life. Leasehold improvements are amortized over the shorter of five years or the lease term.
+
+
+#### Intangible Assets
+
+Goodwill and indeﬁnite-lived assets are not amortized, but are reviewed for impairment annually during the fourth quarter of each ﬁscal year and
+whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. Purchased technology and other intangible
+assets are presented at cost, net of accumulated amortization, and are amortized over their estimated useful lives of 1 to 15 years using the straight-line
+method.
+
+
+#### Long-Lived Assets
+
+Applied reviews long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of these assets or asset
+group may not be recoverable. Applied assesses these assets for impairment based on estimated future cash flows from these assets.
+
+
+#### Revenue Recognition from Contracts with Customers
+
+Applied recognizes revenue when promised goods or services are transferred to a customer in an amount that reﬂects the consideration to which Applied
+expects to be entitled in exchange for those goods or services. Applied determines revenue recognition through the following ﬁve steps: (1) identiﬁcation of the
+contract(s) with customers, (2) identiﬁcation of the performance obligations in the contract, (3) determination of the transaction price, (4) allocation of the
+transaction price to the performance obligations in the contract, and (5) recognition of revenue when, or as, a performance obligation is satisfied.
+
+Identifying the contract(s) with customers. Applied sells manufacturing equipment, services, and spare parts directly to its customers in the semiconductor,
+display, and related industries. The Company generally considers written documentation including, but not limited to, signed purchase orders, master
+agreements, and sales orders as contracts provided that collection is probable. Collectability is assessed based on the customer’s creditworthiness determined
+by reviewing the customer’s published credit and financial information, historical payment experience, as well as other relevant factors.
+
+Identifying the performance obligations. Applied’s performance obligations include delivery of manufacturing equipment, service agreements, spare parts,
+installation, extended warranty and training. Applied’s service agreements are considered one performance obligation and may include multiple goods and
+services that Applied provides to the customer to deliver against a performance metric. Judgment is used to determine whether multiple promised goods or
+services in a contract should be accounted for separately or as a group.
+
+Determine the transaction price. The transaction price for Applied’s contracts with customers may include ﬁxed and variable consideration. Applied
+includes variable consideration in the transaction price to the extent that it is probable that a signiﬁcant reversal of revenue will not occur when the uncertainty
+associated with the variable consideration is subsequently resolved.
+
+Allocate the transaction price to the performance obligations . A contract’s transaction price is allocated to each distinct performance obligation identiﬁed
+within the contract. Applied generally estimates the standalone selling price of a distinct performance obligation based on historical cost plus an appropriate
+margin. For contracts with multiple performance obligations, Applied allocates the contract’s transaction price to each performance obligation using the relative
+standalone selling price of each distinct good or service in the contract.
+
+
+#### 70
+
+
+## Page 71
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Recognizing the revenue as performance obligations are satisﬁed.  Applied recognizes revenue from equipment and spares parts at a point in time when
+Applied has satisﬁed its performance obligation by transferring control of the goods to the customer which typically occurs at shipment or delivery. Revenue
+from service agreements is recognized over time, typically within 12 months, as customers receive the benefits of services.
+
+The incremental costs to obtain a contract are not material.
+
+Payment Terms. Payment terms vary by contract. Generally, the majority of payments are due within a certain number of days from shipment of goods or
+performance of service. The remainder is typically due upon customer technical acceptance. Applied typically receives deposits on future deliverables from
+customers in the Display and Adjacent Markets segment and, in certain instances, may also receive deposits from customers in the Applied Global Services
+segment. Applied’s payment terms do not generally contain a significant financing component.
+
+
+#### Shipping and Handling Costs
+
+Applied accounts for shipping and handling activities related to contracts with customers as costs to fulfill our promise to transfer the associated products.
+Accordingly, amounts billed for shipping and handling costs are recorded as a component of net sales and costs as a component of cost of products sold.
+
+
+#### Warranty
+
+Applied provides for the estimated cost of warranty when revenue is recognized. Estimated warranty costs are determined by analyzing speciﬁc product,
+current and historical conﬁguration statistics and regional warranty support costs. Applied’s warranty obligation is aﬀected by product and component failure
+rates, material usage and labor costs incurred in correcting product failures during the warranty period. If actual warranty costs differ substantially from Applied’s
+estimates, revisions to the estimated warranty liability would be required.
+
+Applied also sells extended warranty contracts to its customers which provide an extension of the standard warranty coverage period of up to 2 years.
+Applied receives payment at the inception of the contract and recognizes revenue ratably over the extended warranty coverage period, as the customer
+simultaneously receives and consumes the benefits of the extended warranty.
+
+
+#### Sales and Value Added Taxes
+
+Taxes collected from customers and remitted to governmental authorities are presented on a net basis in the Consolidated Statements of Operations.
+
+
+#### Research, Development and Engineering Costs
+
+Research, development and engineering costs are expensed as incurred.
+
+
+#### Income Taxes
+
+Applied recognizes a current tax liability for the estimated amount of income tax payable on tax returns for the current ﬁscal year. Deferred tax assets and
+liabilities are recognized for the estimated future tax eﬀects of temporary diﬀerences between the book and tax bases of assets and liabilities. Deferred tax
+assets are also recognized for net operating loss and tax credit carryovers. Deferred tax assets are oﬀset by a valuation allowance to the extent it is more likely
+than not that they are not expected to be realized.
+
+Applied recognizes tax beneﬁts from uncertain tax positions only if it is more likely than not that the tax position will be sustained upon examination by the
+taxing authorities, based on the technical merits of the position. The tax beneﬁts recognized from such positions are estimated based on the largest beneﬁt that
+has a greater than 50% likelihood of being realized upon ultimate settlement. Any changes in judgment related to uncertain tax positions are recognized in
+Applied’s provision for income taxes in the quarter in which such change occurs. Interest and penalties related to uncertain tax positions are recognized in
+Applied’s provision for income taxes.
+
+
+#### 71
+
+
+## Page 72
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Derivative Financial Instruments
+
+Applied uses ﬁnancial instruments, such as forward exchange and currency option contracts, to hedge a portion of, but not all, existing and anticipated
+foreign currency denominated transactions typically expected to occur within 24 months. The purpose of Applied’s foreign currency management is to mitigate
+the eﬀect of exchange rate ﬂuctuations on certain foreign currency denominated revenues, costs and eventual cash ﬂows. In certain cases, Applied also uses
+interest rate swap or lock agreements to hedge against the variability of cash ﬂows due to changes in the benchmark interest rate of ﬁxed rate debt. The terms
+of derivative ﬁnancial instruments used for hedging purposes are generally consistent with the timing of the transactions being hedged. Applied’s derivative
+ﬁnancial instruments are recorded as assets or liabilities at fair value. For derivative instruments designated and qualifying as cash ﬂow hedges, the gain or loss
+is reported as a component of accumulated other comprehensive income (loss) in stockholders’ equity, and is reclassiﬁed into earnings when the hedged
+transaction aﬀects earnings. Any portion excluded from the assessment of eﬀectiveness is recognized in the same line as the hedged transaction but may be
+recognized in a diﬀerent manner, e.g. amortized. If a hedged transaction becomes probable of not occurring according to the original strategy, the hedge
+relationship is discontinued and the gain or loss on the associated derivative is recorded promptly in earnings. For hedges of existing foreign currency
+denominated assets or liabilities, the gain or loss is recorded promptly in earnings to oﬀset the changes in the fair value of the assets or liabilities being hedged.
+
+
+#### Foreign Currency
+
+As of October 31, 2021, all of Applied’s subsidiaries use the United States dollar as their functional currency. Accordingly, assets and liabilities of these
+subsidiaries are remeasured using exchange rates in eﬀect at the end of the period, except for non-monetary assets, such as inventories and property, plant
+and equipment, which are remeasured using historical exchange rates. Foreign currency-denominated revenues and costs are remeasured using average
+exchange rates for the period, except for costs related to the non-monetary assets and liabilities, which are remeasured using historical exchange rates. The
+resulting remeasurement gains and losses are included in interest and other income, net in the Consolidated Statements of Operations as incurred.
+
+
+#### Concentrations of Credit Risk
+
+Financial instruments that potentially subject Applied to signiﬁcant concentrations of credit risk consist principally of cash equivalents, investments, trade
+accounts receivable and derivative ﬁnancial instruments used in hedging activities. Applied invests in a variety of ﬁnancial instruments, such as, but not limited
+to, commercial paper, corporate and municipal bonds, United States Treasury and agency securities, and asset-backed and mortgage-backed securities, and,
+by policy, limits the amount of credit exposure with any one ﬁnancial institution or commercial issuer. Applied is exposed to credit-related losses in the event of
+nonperformance by counterparties to derivative ﬁnancial instruments, but does not expect any counterparties to fail to meet their obligations. Applied performs
+ongoing credit evaluations of its customers’ ﬁnancial condition and generally requires no collateral to secure accounts receivable. Applied maintains an
+allowance reserve for potentially uncollectible accounts receivable based on its assessment of the collectability of accounts receivable. Applied regularly
+reviews the allowance by considering factors such as historical experience, credit quality, age of the accounts receivable balances, and current economic
+conditions that may aﬀect a customer’s ability to pay. In addition, Applied utilizes deposits and/or letters of credit to mitigate credit risk when considered
+appropriate.
+
+
+#### Recent Accounting Pronouncements
+
+
+#### Accounting Standards Adopted
+
+Leases. In February 2016, the Financial Accounting Standard Board (FASB) issued authoritative guidance for lease accounting, which requires lessees to
+recognize lease assets and liabilities on the balance sheet for certain lease arrangements that are classiﬁed as operating leases under the previous standard,
+and to provide for enhanced disclosures. Applied adopted this guidance in the ﬁrst quarter of ﬁscal 2020 using the modiﬁed retrospective transition method
+which required applying the new standard as of the beginning of the period of adoption with no adjustment to comparative prior periods. Applied elected the
+package of practical expedients permitted under the transition guidance, which allow Applied not to reassess whether a contract contains a lease, initial direct
+costs and lease classiﬁcation for leases existing prior to adoption. Applied also elected to combine the lease and non-lease components as a single lease
+component and not to use hindsight in determining the lease term. Upon adoption, Applied recognized right-of-use assets of $160 million, net of deferred rent of
+$4 million and lease liabilities of $164 million.
+
+
+#### 72
+
+
+## Page 73
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Retirement Beneﬁts: Changes to the Disclosure Requirements for Deﬁned Beneﬁt and other Postretirement Plans. In August 2018, the Financial
+Accounting Standard Board (FASB) issued authoritative guidance that adds, removes, and clariﬁes disclosure requirements for deﬁned beneﬁt and other
+postretirement plans. Applied adopted this guidance in the ﬁrst quarter of ﬁscal 2021 on a retrospective basis. The adoption of this guidance did not have a
+significant impact on Applied’s defined benefit and other postretirement disclosures.
+
+Goodwill Impairment. In January 2017, the FASB issued authoritative guidance that simplifies the process required to test goodwill for impairment. Applied
+adopted this guidance in the ﬁrst quarter of ﬁscal 2021. The adoption of this guidance did not have a signiﬁcant impact on Applied’s consolidated condensed
+financial statements.
+
+Financial Instruments: Credit Losses. In June 2016, the FASB issued authoritative guidance that modiﬁes the impairment model for certain ﬁnancial
+assets by requiring use of an expected loss methodology, which will result in more timely recognition of credit losses. Applied adopted this guidance in the ﬁrst
+quarter of ﬁscal 2021 on a modiﬁed retrospective basis. The adoption of this guidance did not have a signiﬁcant impact on Applied’s consolidated condensed
+financial statements.
+
+
+#### Accounting Standards Not Yet Adopted
+
+Simplifying the Accounting for Income Taxes.  In December 2019, the FASB issued an accounting standard update to simplify the accounting for income
+taxes (Topic 740). This amendment removes certain exceptions and improves consistent application of accounting principles for certain areas in Topic 740.
+Applied will adopt this authoritative guidance in the ﬁrst quarter of ﬁscal 2022. The adoption of this guidance is not expected to have a signiﬁcant impact on
+Applied’s consolidated financial statements.
+
+Contract Assets and Contract Liabilities from Revenue Contracts with Customers in a Business Combination.  In October 2021, the FASB issued an
+accounting standard update to improve the accounting for contract assets and contract liabilities from revenue contracts with customers in a business
+combination (Topic 805). This amendment improves comparability for both the recognition and measurement of acquired revenue contracts with customers at
+the date of and after a business combination. This authoritative guidance will be eﬀective for Applied in the ﬁrst quarter of ﬁscal 2024, with early adoption
+permitted. Applied is currently evaluating the effect of this new guidance on Applied’s consolidated financial statements.
+
+
+#### 73
+
+
+## Page 74
+
+### Table 74.1
+
+| Numerator: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 74.2
+
+| Denominator: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 74.3
+
+| Effect of weighted dilutive stock options, restricted stock units and employee stock purchase plan shares | 9 |  | 7 |  | 8 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 74.4
+
+| Basic earnings per share | $ | 6.47 |  | $ | 3.95 |  | $ | 2.89 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 74.5
+
+| Potentially weighted dilutive securities | — |  | — |  | 3 |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Note 2      Earnings Per Share
+
+Basic earnings per share is determined using the weighted average number of common shares outstanding during the period. Diluted earnings per share
+is determined using the weighted average number of common shares and potential common shares (representing the dilutive eﬀect of restricted stock units,
+and employee stock purchase plan shares) outstanding during the period. Applied’s net income has not been adjusted for any period presented for purposes of
+computing basic or diluted earnings per share due to the Company’s non-complex capital structure.
+
+Fiscal Year
+2021
+2020
+2019
+
+(In millions, except per share amounts)
+Numerator:
+
+Net income
+$
+5,888 
+$
+3,619 
+$
+2,706 
+Denominator:
+
+Weighted average common shares outstanding
+910 
+916 
+937 
+Effect of weighted dilutive stock options, restricted stock units and employee stock purchase plan shares
+9 
+7 
+8 
+Denominator for diluted earnings per share
+919 
+923 
+945 
+Basic earnings per share
+$
+6.47 
+$
+3.95 
+$
+2.89 
+Diluted earnings per share
+$
+6.40 
+$
+3.92 
+$
+2.86 
+Potentially weighted dilutive securities
+— 
+— 
+3
+
+Potentially weighted dilutive securities attributable to outstanding restricted stock units are excluded from the calculation of diluted earnings per share
+where the combined exercise price and average unamortized fair value are greater than the average market price of Applied common stock, and therefore their
+inclusion would be anti-dilutive.
+
+
+#### 74
+
+
+## Page 76
+
+### Table 76.1
+
+| Cash | $ | 1,136 |  | $ | — |  | $ | — |  | $ | 1,136 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash equivalents: |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds | 4,209 |  |  | — |  |  | — |  |  | 4,209 |  |
+| Municipal securities | 6 |  |  | — |  |  | — |  |  | 6 |  |
+| Total Cash equivalents | 4,215 |  |  | — |  |  | — |  |  | 4,215 |  |
+| Total Cash and Cash equivalents | $ | 5,351 |  | $ | — |  | $ | — |  | $ | 5,351 |
+| Short-term and long-term investments: |  |  |  |  |  |  |  |  |  |  |  |
+| U.S. Treasury and agency securities | $ | 394 |  | $ | 4 |  | $ | — |  | $ | 398 |
+| Municipal securities | 359 |  |  | 6 |  |  | — |  |  | 365 |  |
+| Commercial paper, corporate bonds and medium-term notes | 492 |  |  | 8 |  |  | 1 |  |  | 499 |  |
+| Asset-backed and mortgage-backed securities | 470 |  |  | 9 |  |  | — |  |  | 479 |  |
+| Total fixed income securities | 1,715 |  |  | 27 |  |  | 1 |  |  | 1,741 |  |
+| Publicly traded equity securities | 11 |  |  | 36 |  |  | 2 |  |  | 45 |  |
+| Equity investments in privately-held companies | 121 |  |  | 25 |  |  | 7 |  |  | 139 |  |
+| Total equity investments | 132 |  |  | 61 |  |  | 9 |  |  | 184 |  |
+| Total short-term and long-term investments | $ | 1,847 |  | $ | 88 |  | $ | 10 |  | $ | 1,925 |
+| Total Cash, Cash equivalents and Investments | $ | 7,198 |  | $ | 88 |  | $ | 10 |  | $ | 7,276 |
+
+
+### Table 76.2
+
+| Due in one year or less | $ | 393 |  | $ | 395 |
+| --- | --- | --- | --- | --- | --- |
+| Due after one through five years | 878 |  |  | 878 |  |
+| Due after five years | 2 |  |  | 2 |  |
+| No single maturity date** | 1,138 |  |  | 1,244 |  |
+| Total | $ | 2,411 |  | $ | 2,519 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+October 25, 2020
+Cost
+
+Gross
+Unrealized
+
+
+#### Gains
+
+Gross
+Unrealized
+
+
+#### Losses
+
+Estimated
+Fair Value
+
+(In millions)
+Cash
+$
+1,136 
+$
+— 
+$
+— 
+$
+1,136 
+Cash equivalents:
+
+Money market funds
+4,209 
+— 
+— 
+4,209 
+Municipal securities
+6 
+— 
+— 
+6 
+Total Cash equivalents
+4,215 
+— 
+— 
+4,215 
+Total Cash and Cash equivalents
+$
+5,351 
+$
+— 
+$
+— 
+$
+5,351 
+Short-term and long-term investments:
+
+U.S. Treasury and agency securities
+$
+394 
+$
+4 
+$
+— 
+$
+398 
+Municipal securities
+359 
+6 
+— 
+365 
+Commercial paper, corporate bonds and medium-term notes
+492 
+8 
+1 
+499 
+Asset-backed and mortgage-backed securities
+470 
+9 
+— 
+479 
+Total fixed income securities
+1,715 
+27 
+1 
+1,741 
+Publicly traded equity securities
+11 
+36 
+2 
+45 
+Equity investments in privately-held companies
+121 
+25 
+7 
+139 
+Total equity investments
+132 
+61 
+9 
+184 
+Total short-term and long-term investments
+$
+1,847 
+$
+88 
+$
+10 
+$
+1,925
+
+Total Cash, Cash equivalents and Investments
+$
+7,198 
+$
+88 
+$
+10 
+$
+7,276
+
+
+#### ________________________
+
+
+#### Maturities of Investments
+
+The following table summarizes the contractual maturities of Applied’s investments at October 31, 2021:
+
+Cost
+Estimated Fair Value
+
+(In millions)
+Due in one year or less
+$
+393 
+$
+395 
+Due after one through five years
+878 
+878 
+Due after five years
+2 
+2 
+No single maturity date**
+1,138 
+1,244 
 Total
-Owned
-4,855
-2,472
-7,327
-Leased
-1,912
-1,800
-3,712
+$
+2,411 
+$
+2,519
+
+
+#### _________________________
+
+** Securities with no single maturity date include publicly-traded and privately-held equity securities, and asset-backed and mortgage-backed securities.
+
+
+#### 76
+
+
+## Page 77
+
+### Table 77.1
+
+| Publicly traded equity securities |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unrealized gain | $ | 14 |  | $ | 14 |  | $ | 28 |
+| Unrealized loss | (11) |  |  | (17) |  |  | (5) |  |
+| Realized gain on sales | 2 |  |  | 1 |  |  | 2 |  |
+| Equity investments in privately-held companies |  |  |  |  |  |  |  |  |
+| Unrealized gain | 65 |  |  | 18 |  |  | 13 |  |
+| Unrealized loss | (12) |  |  | (7) |  |  | (6) |  |
+| Realized gain on sales | 48 |  |  | 8 |  |  | 5 |  |
+| Realized loss on sales or impairment | (7) |  |  | (8) |  |  | (1) |  |
+| Total gain (loss) on equity investments, net | $ | 99 |  | $ | 9 |  | $ | 36 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Gains and Losses on Investments
+
+At October 31, 2021, gross unrealized losses related to Applied’s debt investment portfolio were not material. Applied regularly reviews its debt investment
+portfolio to identify and evaluate investments that have indications of possible impairment from credit losses or other factors. Factors considered in determining
+whether an unrealized loss is considered to be a credit loss include: the signiﬁcance of the decline in value compared to the cost basis; the ﬁnancial condition;
+credit quality and near-term prospects of the investee; and whether it is more likely than not that Applied will be required to sell the security prior to recovery.
+Credit losses related to available-for-sale debt securities are recorded as an allowance for credit losses through interest and other income, net. Any additional
+changes in fair value that are not related to credit losses are recognized in accumulated other comprehensive income.
+
+During ﬁscal 2021, with the adoption of credit losses authoritative guidance, Applied did not recognize signiﬁcant credit losses and the ending allowance
+for credit losses was not material. Applied determined that the gross unrealized losses on its marketable ﬁxed-income securities at October 25, 2020 and
+October 27, 2019 were temporary in nature and therefore it did not recognize any impairment of its marketable ﬁxed-income securities for ﬁscal 2020 or 2019.
+During ﬁscal 2021, 2020 and 2019, impairment charges on equity investments in privately-held companies were not material. These impairment charges are
+included in interest and other income, net in the Consolidated Statement of Operations.
+
+The components of gain (loss) on equity investments for each fiscal year were as follows:
+
+2021
+2020
+2019
+
+(In millions)
+Publicly traded equity securities
+
+Unrealized gain
+$
+14 
+$
+14 
+$
+28 
+Unrealized loss
+(11)
+(17)
+(5)
+Realized gain on sales
+2 
+1 
+2
+Equity investments in privately-held companies
+
+Unrealized gain
+65 
+18 
+13
+Unrealized loss
+(12)
+(7)
+(6)
+Realized gain on sales
+48 
+8 
+5
+Realized loss on sales or impairment
+(7)
+(8)
+(1)
+
+Total gain (loss) on equity investments, net
+$
+99 
+$
+9 
+$
+36
+
+
+#### 77
+
+
+## Page 78
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Note 4       Fair Value Measurements
+
+Applied’s ﬁnancial assets are measured and recorded at fair value on a recurring basis, except for equity investments in privately-held companies. These
+equity investments are generally accounted for under the measurement alternative, deﬁned as cost, less impairments, adjusted for subsequent observable
+price changes and are periodically assessed for impairment when events or circumstances indicate that a decline in value may have occurred. Applied’s
+nonﬁnancial assets, such as goodwill, intangible assets, and property, plant and equipment, are recorded at cost and are assessed for impairment whenever
+events or changes in circumstances indicate that the carrying value of an asset may not be recoverable.
+
+
+#### Fair Value Hierarchy
+
+Applied uses the following fair value hierarchy, which prioritizes the inputs to valuation techniques used to measure fair value into three levels and bases
+the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+
+•
+Level 1 — Quoted prices in active markets for identical assets or liabilities;
+•
+Level 2 — Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities, quoted prices
+in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the
+assets or liabilities; and
+•
+Level 3 — Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+
+Applied’s investments consist primarily of debt securities that are classiﬁed as available-for-sale and recorded at their fair values. In determining the fair
+value of investments, Applied uses pricing information from pricing services that value securities based on quoted market prices and models that utilize
+observable market inputs. In the event a fair value estimate is unavailable from a pricing service, Applied generally obtains non-binding price quotes from
+brokers. Applied then reviews the information provided by the pricing services or brokers to determine the fair value of its short-term and long-term investments.
+In addition, to validate pricing information obtained from pricing services, Applied periodically performs supplemental analysis on a sample of securities. Applied
+reviews any signiﬁcant unanticipated diﬀerences identiﬁed through this analysis to determine the appropriate fair value. As of October 31, 2021, substantially all
+of Applied’s available-for-sale, short-term and long-term investments were recognized at fair value that was determined based upon observable inputs.
+
+Applied’s equity investments with readily determinable values consist of publicly traded equity securities. These investments are measured at fair value
+using quoted prices for identical assets in an active market and the changes in fair value of these equity investments are recognized in the consolidated
+statements of operations.
+
+Investments with remaining eﬀective maturities of 12 months or less from the balance sheet date are classiﬁed as short-term investments. Investments
+with remaining effective maturities of more than 12 months from the balance sheet date are classified as long-term investments.
+
+
+#### 78
+
+
+## Page 79
+
+### Table 79.1
+
+| Assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Available-for-sale debt security investments |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds* | $ | 3,662 |  | $ | — |  | $ | 3,662 |  | $ | 4,324 |  | $ | — |  | $ | 4,324 |
+| U.S. Treasury and agency securities | 296 |  |  | 18 |  |  | 314 |  |  | 375 |  |  | 23 |  |  | 398 |  |
+| Non-U.S. government securities | — |  |  | 5 |  |  | 5 |  |  | — |  |  | — |  |  | — |  |
+| Municipal securities | — |  |  | 391 |  |  | 391 |  |  | — |  |  | 371 |  |  | 371 |  |
+| Commercial paper, corporate bonds and medium-term notes | — |  |  | 597 |  |  | 597 |  |  | — |  |  | 499 |  |  | 499 |  |
+| Asset-backed and mortgage-backed securities | — |  |  | 557 |  |  | 557 |  |  | — |  |  | 479 |  |  | 479 |  |
+| Total available-for-sale debt security investments | $ | 3,958 |  | $ | 1,568 |  | $ | 5,526 |  | $ | 4,699 |  | $ | 1,372 |  | $ | 6,071 |
+| Equity investments with readily determinable values |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Publicly traded equity securities | $ | 58 |  | $ | — |  | $ | 58 |  | $ | 45 |  | $ | — |  | $ | 45 |
+| Total equity investments with readily determinable values | $ | 58 |  | $ | — |  | $ | 58 |  | $ | 45 |  | $ | — |  | $ | 45 |
+| Total | $ | 4,016 |  | $ | 1,568 |  | $ | 5,584 |  | $ | 4,744 |  | $ | 1,372 |  | $ | 6,116 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Assets Measured at Fair Value on a Recurring Basis
+
+Financial assets (excluding cash balances) measured at fair value on a recurring basis are summarized below:
+
+October 31, 2021
+October 25, 2020
+ 
+Level 1
+Level 2
 Total
-6,767
-4,272
-11,039
+Level 1
+Level 2
+Total
 
-Because of the interrelation of Applied’s operations, properties within a country may be shared by the segments operating within that country. The
-Company’s headquarters oﬃces are in Santa Clara, California. Products in Semiconductor Systems are manufactured in Santa Clara, California; Austin, Texas;
-Gloucester, Massachusetts; Kalispell, Montana; Rehovot, Israel; and Singapore. Remanufactured equipment products in the Applied Global Services segment
-are produced primarily in Austin, Texas. Products in the Display and Adjacent Markets segment are manufactured in Alzenau, Germany and Tainan, Taiwan.
+(In millions)
+Assets:
+Available-for-sale debt security investments
 
-Applied also owns and leases oﬃces, plants and warehouse locations in many locations throughout the world, including in Europe, Japan, North America
-(principally the United States), Israel, China, India, Korea, Southeast Asia and Taiwan. These facilities are principally used for manufacturing; research,
-development and engineering; and marketing, sales and customer support.
+Money market funds*
+$
+3,662 
+$
+— 
+$
+3,662 
+$
+4,324 
+$
+— 
+$
+4,324 
+U.S. Treasury and agency securities
+296 
+18 
+314 
+375 
+23 
+398 
+Non-U.S. government securities
+— 
+5 
+5 
+— 
+— 
+— 
+Municipal securities
+— 
+391 
+391 
+— 
+371 
+371 
+Commercial paper, corporate bonds and medium-term notes
+— 
+597 
+597 
+— 
+499 
+499 
+Asset-backed and mortgage-backed securities
+— 
+557 
+557 
+— 
+479 
+479 
+Total available-for-sale debt security investments
+$
+3,958 
+$
+1,568 
+$
+5,526 
+$
+4,699 
+$
+1,372 
+$
+6,071 
+Equity investments with readily determinable values
 
-Applied also owns a total of approximately 269 acres of buildable land in Montana, Texas, California, Israel and Italy that could accommodate additional
-building space.
+Publicly traded equity securities
+$
+58 
+$
+— 
+$
+58 
+$
+45 
+$
+— 
+$
+45 
+Total equity investments with readily determinable values
+$
+58 
+$
+— 
+$
+58 
+$
+45 
+$
+— 
+$
+45
 
-Applied considers the properties that it owns or leases as adequate to meet its current and future requirements. Applied regularly assesses the size,
-capability and location of its global infrastructure and periodically makes adjustments based on these assessments.
+Total
+$
+4,016 
+$
+1,568 
+$
+5,584 
+$
+4,744 
+$
+1,372 
+$
+6,116
+
+_________________________
+* Amounts as of October 31, 2021 and October 25, 2020 include $106 million and $115 million, respectively, invested in money market funds related to deferred
+compensation plans. Due to restrictions on the distribution of these funds, they are classiﬁed as restricted cash equivalents and are included in deferred income
+taxes and other assets in the Consolidated Condensed Balance Sheets.
+
+Applied did not have any ﬁnancial assets measured at fair value on a recurring basis within Level 3 fair value measurements as of October 31, 2021 or
+October 25, 2020.
+
+Assets and Liabilities without Readily Determinable Values Measured on a Non-recurring Basis
+
+Applied’s equity investments without readily determinable values consist of equity investments in privately-held companies. Applied elected the
+measurement alternative, deﬁned as cost, less impairments, adjusted for subsequent observable price changes on a prospective basis for certain equity
+investments without readily determinable fair values and is required to account for any subsequent observable changes in fair value within the statements of
+operations. These investments are classiﬁed as Level 3 within the fair value hierarchy and periodically assessed for impairment when an event or circumstance
+indicates that a decline in value may have occurred.
+
+During fiscal 2021, 2020 and 2019, impairment charges on equity investments in privately-held companies were not material.
 
 
-#### 30
+#### Other
+
+The carrying amounts of Applied’s ﬁnancial instruments, including cash and cash equivalents, restricted cash equivalents, accounts receivable, notes
+payable - short term, and accounts payable and accrued expenses, approximate fair value due to their short maturities. At October 31, 2021, the aggregate
+principal amount of long-term senior unsecured notes was $5.5 billion, and the estimated fair value was $ 6.4 billion. At October 25, 2020, the aggregate
+principal amount of long-term senior unsecured notes was $5.5 billion and the estimated fair value was $ 6.6 billion. The estimated fair value of long-term senior
+unsecured notes is determined by Level 2 inputs and is based primarily on quoted market prices for the same or similar issues. See Note 11 of the Notes to the
+Consolidated Financial Statements for further detail of existing debt.
+
+
+#### 79
+
+
+## Page 80
+
+### Table 80.1
+
+| Foreign exchange contracts | $ | 36 |  | $ | 3 |  | $ | (14) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Interest rate contracts | — |  |  | (151) |  |  | — |  |
+| Total | $ | 36 |  | $ | (148) |  | $ | (14) |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Note 5      Derivative Instruments and Hedging Activities
+
+
+#### Derivative Financial Instruments
+
+Applied conducts business in a number of foreign countries, with certain transactions denominated in local currencies, such as the Japanese yen, Israeli
+shekel, euro and Taiwanese dollar. Applied uses derivative ﬁnancial instruments, such as forward exchange contracts and currency option contracts, to hedge
+certain forecasted foreign currency denominated transactions expected to occur typically within the next 24 months. The purpose of Applied’s foreign currency
+management is to mitigate the eﬀect of exchange rate ﬂuctuations on certain foreign currency denominated revenues, costs and eventual cash ﬂows. The terms
+of currency instruments used for hedging purposes are generally consistent with the timing of the transactions being hedged.
+
+Applied does not use derivative ﬁnancial instruments for trading or speculative purposes. Derivative instruments and hedging activities, including foreign
+currency exchange and interest rate contracts, are recognized on the balance sheet at fair value. Changes in the fair value of derivatives that do not qualify for
+hedge accounting treatment are recognized currently in earnings. All of Applied’s derivative ﬁnancial instruments are recorded at their fair value in other current
+assets or in accounts payable and accrued expenses.
+
+Hedges related to anticipated transactions are designated and documented at the inception of the hedge as cash ﬂow hedges and foreign exchange
+derivatives are typically entered into once per month. Cash ﬂow hedges are evaluated for eﬀectiveness quarterly. The eﬀective portion of the gain or loss on
+these hedges is reported as a component of AOCI in stockholders’ equity and is reclassiﬁed into earnings when the hedged transaction aﬀects earnings. The
+majority of the after-tax net income or loss related to foreign exchange derivative instruments included in AOCI at October 31, 2021 is expected to be
+reclassiﬁed into earnings within 12 months. Changes in fair value caused by changes in time value of option contracts designated as cash ﬂow hedges are
+excluded from the assessment of eﬀectiveness. The initial value of this excluded component is amortized on a straight-line basis over the life of the hedging
+instrument and recognized in the ﬁnancial statement line item to which the hedge relates. If the transaction being hedged is probable not to occur, Applied
+promptly recognizes the gain or loss on the associated ﬁnancial instrument in the consolidated condensed statement of operations. The amount recognized due
+to discontinuance of cash ﬂow hedges that were probable of not occurring by the end of the originally speciﬁed time period was not signiﬁcant for ﬁscal years
+2021, 2020 or 2019.
+
+Foreign currency forward contracts are generally used to hedge certain foreign currency denominated assets or liabilities. Accordingly, changes in the fair
+value of these hedges are recorded in earnings to offset the changes in the fair value of the assets or liabilities being hedged.
+
+As of October 31, 2021 and October 25, 2020, the total outstanding notional amount of foreign exchange contracts was $ 2.1 billion and $1.6 billion,
+respectively. The fair values of foreign exchange derivative instruments at October 31, 2021 and October 25, 2020 were not material.
+
+Applied is also exposed to interest rate risk associated with its potential future borrowings. During ﬁscal 2020, Applied entered into a series of interest rate
+contracts to hedge against the variability of cash ﬂows due to changes in the benchmark interest rate of ﬁxed rate debt. These instruments were designated as
+cash flow hedges at inception and were settled in conjunction with the issuance of debt in May 2020.
+
+The gain (loss) on derivatives in cash ﬂow hedging relationships recognized in AOCI for derivatives designated as hedging instruments for the indicated
+periods were as follows:
+
+Derivatives in Cash Flow Hedging Relationships
+2021
+2020
+2019
+(In millions)
+Foreign exchange contracts
+$
+36 
+$
+3 
+$
+(14)
+Interest rate contracts
+— 
+(151)
+—
+
+Total
+$
+36 
+$
+(148)
+$
+(14)
+
+
+#### 80
+
+
+## Page 81
+
+### Table 81.1
+
+| 2021 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign Exchange Contracts: |  |  |  |  |  |  |  |  |
+| Net Sales | $ | 23,063 |  | $ | 4 |  | $ | — |
+| Cost of products sold | $ | 12,149 |  | 2 |  |  | (2) |  |
+| Research, development and engineering | $ | 2,485 |  | 3 |  |  | — |  |
+| General and administrative | $ | 620 |  | 1 |  |  | — |  |
+| Interest Rate Contracts: |  |  |  |  |  |  |  |  |
+| Interest expense | $ | 236 |  | (13) |  |  | — |  |
+|  |  |  |  | $ | (3) |  | $ | (2) |
+
+
+### Table 81.2
+
+| 2020 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign Exchange Contracts: |  |  |  |  |  |  |  |  |
+| Net Sales | $ | 17,202 |  | $ | (2) |  | $ | 4 |
+| Cost of products sold | $ | 9,510 |  | 6 |  |  | (3) |  |
+| Research, development and engineering | $ | 2,234 |  | 4 |  |  | — |  |
+| General and administrative | $ | 567 |  | 1 |  |  | — |  |
+| Interest Rate Contracts: |  |  |  |  |  |  |  |  |
+| Interest expense | $ | 240 |  | (7) |  |  | — |  |
+|  |  |  |  | $ | 2 |  | $ | 1 |
+
+
+### Table 81.3
+
+| 2019 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign Exchange Contracts: |  |  |  |  |  |  |  |  |
+| Cost of products sold | $ | 8,222 |  | $ | 2 |  | $ | 15 |
+| General and administrative | $ | 461 |  | (3) |  |  | (6) |  |
+| Interest Rate Contracts: |  |  |  |  |  |  |  |  |
+| Interest expense | $ | 237 |  | (3) |  |  | — |  |
+|  |  |  |  | $ | (4) |  | $ | 9 |
+
+
+### Table 81.4
+
+| Derivatives Not Designated as Hedging Instruments |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign exchange contracts | General and administrative |  | $ | — |  | $ | — |  | $ | (8) |
+| Foreign exchange contracts | Interest and other income, net |  | 29 |  |  | (10) |  |  | — |  |
+| Total return swaps - deferred compensation | Cost of products sold |  | 3 |  |  | 1 |  |  | — |  |
+| Total return swaps - deferred compensation | Operating expenses |  | 29 |  |  | 6 |  |  | — |  |
+| Total return swaps - deferred compensation | Interest and other income, net |  | (1) |  |  | (1) |  |  | — |  |
+| Total |  |  | $ | 60 |  | $ | (4) |  | $ | (8) |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The effects of derivative instruments and hedging activities on the Consolidated Statements of Operations were as follows:
+
+
+#### Derivatives in Cash Flow Hedging Relationships
+
+Total Amount Presented in the Consolidated
+Statement of Operations in which the Effects
+
+
+#### of Cash Flow Hedges are Recorded
+
+
+#### Amount of Gain or (Loss)
+
+Reclassified
+from AOCI into
+Consolidated Statement of Operations
+
+
+#### Amounts of Gain (Loss) Excluded from
+
+
+#### Effectiveness Testing
+
+Recognized in
+Consolidated Statement of Operations
+(In millions)
+2021
+Foreign Exchange Contracts:
+
+Net Sales
+$
+23,063 
+$
+4 
+$
+—
+
+Cost of products sold
+$
+12,149 
+2 
+(2)
+
+Research, development and engineering
+$
+2,485 
+3 
+—
+
+General and administrative
+$
+620 
+1 
+— 
+Interest Rate Contracts:
+
+Interest expense
+$
+236 
+(13)
+— 
+$
+(3)
+$
+(2)
+
+2020
+Foreign Exchange Contracts:
+
+Net Sales
+$
+17,202 
+$
+(2)
+$
+4
+
+Cost of products sold
+$
+9,510 
+6 
+(3)
+
+Research, development and engineering
+$
+2,234 
+4 
+—
+
+General and administrative
+$
+567 
+1 
+— 
+Interest Rate Contracts:
+
+Interest expense
+$
+240 
+(7)
+— 
+$
+2 
+$
+1
+
+2019
+Foreign Exchange Contracts:
+
+Cost of products sold
+$
+8,222 
+$
+2 
+$
+15
+
+General and administrative
+$
+461 
+(3)
+(6)
+Interest Rate Contracts:
+
+Interest expense
+$
+237 
+(3)
+— 
+$
+(4)
+$
+9
+
+Amount of Gain or (Loss) 
+Recognized in Consolidated Statement of Operations
+Location of Gain or (Loss) Recognized in
+
+Consolidated Statement of Operations
+2021
+2020
+2019
+
+(In millions)
+Derivatives Not Designated as Hedging Instruments
+Foreign exchange contracts
+General and administrative
+$
+— 
+$
+— 
+$
+(8)
+Foreign exchange contracts
+Interest and other income, net
+29 
+(10)
+— 
+Total return swaps - deferred compensation
+Cost of products sold
+3 
+1 
+— 
+Total return swaps - deferred compensation
+Operating expenses
+29 
+6 
+— 
+Total return swaps - deferred compensation
+Interest and other income, net
+(1)
+(1)
+—
+
+Total
+$
+60 
+$
+(4)
+$
+(8)
+
+
+#### 81
+
+
+## Page 82
+
+### Table 82.1
+
+| Beginning balance | $ | 30 |  | $ | 30 |  | $ | 33 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Provision | — |  |  | — |  |  | — |  |
+| Deductions1 | (1) |  |  | — |  |  | (3) |  |
+| Ending balance | $ | 29 |  | $ | 30 |  | $ | 30 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Credit Risk Contingent Features
+
+If Applied’s credit rating were to fall below investment grade, it would be in violation of credit risk contingent provisions of the derivative instruments
+discussed above, and certain counterparties to the derivative instruments could request immediate payment on derivative instruments in net liability positions.
+The aggregate fair value of all derivative instruments with credit-risk related contingent features that were in a net liability position was immaterial as of
+October 31, 2021 and October 25, 2020.
+
+Entering into derivative contracts with banks exposes Applied to credit-related losses in the event of the banks’ nonperformance. However, Applied’s
+exposure is not considered significant.
+ 
+Note 6      Accounts Receivable, Net
+
+Applied has agreements with various ﬁnancial institutions to sell accounts receivable and discount promissory notes from selected customers. Applied
+sells its accounts receivable generally without recourse. Applied, from time to time, also discounts letters of credit issued by customers through various ﬁnancial
+institutions. The discounting of letters of credit depends on many factors, including the willingness of ﬁnancial institutions to discount the letters of credit and the
+cost of such arrangements.
+
+Applied sold $1.3 billion, $1.2 billion and $1.5 billion of accounts receivable during ﬁscal 2021, 2020 and 2019, respectively. Applied did not discount
+letters of credit issued by customers in ﬁscal 2021. Applied discounted letters of credit issued by customers of $105 million and $48 million in ﬁscal 2020 and
+2019, respectively. There was no discounting of promissory notes in each of ﬁscal 2021, 2020 and 2019. Financing charges on the sale of receivables and
+discounting of letters of credit are included in interest expense in the accompanying Consolidated Statements of Operations and were not material for all years
+presented.
+
+Accounts receivable are presented net of allowance for credit losses of $ 29 million and $30 million at October 31, 2021 and October 25, 2020, respectively.
+Changes in allowance for credit losses in each fiscal year were as follows:
+
+2021
+2020
+2019
+
+(In millions)
+Beginning balance
+$
+30 
+$
+30 
+$
+33 
+Provision
+— 
+— 
+— 
+Deductions
+(1)
+— 
+(3)
+
+Ending balance
+$
+29 
+$
+30 
+$
+30
+
+
+#### _____________________________
+
+Deductions primarily represent releases of credit losses credited to expense as a result of an overall lower risk profile of Applied’s customers and cash collections.
+
+Applied sells its products principally to manufacturers within the semiconductor and display industries. While Applied believes that its allowance for credit
+losses is adequate and represents its best estimate as of October 31, 2021, it continues to closely monitor customer liquidity and industry and economic
+conditions, which may result in changes to Applied’s estimates.
+
+
+#### Note 7      Contract Balances
+
+Contract assets primarily result from receivables for goods transferred to customers where payment is conditional upon technical sign oﬀ and not just the
+passage of time. Contract liabilities consist of unsatisﬁed performance obligations related to advance payments received and billings in excess of revenue
+recognized. Applied’s contract assets and liabilities are reported in a net position on a contract-by-contract basis at the end of each reporting period.
+
+Contract assets are generally classiﬁed as current and are included in Other Current Assets in the Consolidated Balance Sheets. Contract liabilities are
+classified as current or non-current based on the timing of when performance obligations will be satisfied and associated revenue is expected to be recognized.
+
+
+#### 1
+
+
+#### 1
+
+
+#### 82
+
+
+## Page 83
+
+### Table 83.1
+
+| Contract assets | $ | 201 | $ | 148 |
+| --- | --- | --- | --- | --- |
+| Contract liabilities | $ | 2,076 | $ | 1,321 |
+
+
+### Table 83.2
+
+| Inventories |  |  |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 83.3
+
+| Raw materials | 1,136 |  | 870 |
+| --- | --- | --- | --- |
+
+
+
+### Table 83.4
+
+| Finished goods | 1,049 |  | 1,140 |
+| --- | --- | --- | --- |
+
+
+
+### Table 83.5
+
+| Other Current Assets |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Prepaid income taxes and income taxes receivable | $ | 593 |  | $ | 162 |
+| Prepaid expenses and other | 793 |  |  | 602 |  |
+|  | $ | 1,386 |  | $ | 764 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Contract balances at the end of each reporting period were as follows:
+
+October 31, 2021
+October 25, 2020
+(In millions)
+
+Contract assets
+$
+201 
+$
+148 
+Contract liabilities
+$
+2,076 
+$
+1,321
+
+The increase in contract assets during ﬁscal 2021, was primarily due to goods transferred to customers where payment was conditional upon technical
+sign off, offset by the reclassification of contract assets to net accounts receivable upon meeting conditions to the right to payment.
+
+During ﬁscal 2021, Applied recognized revenue of approximately $ 1.0 billion related to contract liabilities at October 25, 2020. This reduction in contract
+liabilities was oﬀset by new billings for products and services for which there were unsatisﬁed performance obligations to customers and revenue had not yet
+been recognized as of October 31, 2021.
+
+There were no credit losses recognized on Applied’s accounts receivables and contract assets during fiscal 2021 and 2020.
+
+As of October 31, 2021, the amount of remaining unsatisﬁed performance obligations on contracts with an original estimated duration of one year or more
+was approximately $779 million, of which approximately 43% is expected to be recognized within 12 months and the remainder is expected to be recognized
+within the following 24 months thereafter.
+
+Applied has elected the available practical expedient to exclude the value of unsatisﬁed performance obligations for contracts with an original expected
+duration of one year or less.
+
+
+#### Note 8      Balance Sheet Detail
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+(In millions)
+Inventories
+Customer service spares
+$
+1,251 
+$
+1,270 
+Raw materials
+1,136 
+870 
+Work-in-process
+873 
+624 
+Finished goods
+1,049 
+1,140 
+$
+4,309 
+$
+3,904
+
+Included in ﬁnished goods inventory are $ 58 million at October 31, 2021 and $ 16 million at October 25, 2020, of newly-introduced systems at customer
+locations where the sales transaction did not meet Applied’s revenue recognition criteria as set forth in Note 1. Finished goods inventory includes $380 million
+and $416 million of evaluation inventory at October 31, 2021 and October 25, 2020, respectively.
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+(In millions)
+Other Current Assets
+Prepaid income taxes and income taxes receivable
+$
+593 
+$
+162 
+Prepaid expenses and other
+793 
+602 
+$
+1,386 
+$
+764
+
+
+#### 83
+
+
+## Page 84
+
+### Table 84.1
+
+| Property, Plant and Equipment, Net |  |  |
+| --- | --- | --- |
+
+
+
+### Table 84.2
+
+| Buildings and improvements | 3-30 | 1,780 | 1,655 |
+| --- | --- | --- | --- |
+
+
+
+### Table 84.3
+
+| Furniture, fixtures and other equipment | 3-5 | 720 | 646 |
+| --- | --- | --- | --- |
+
+
+
+### Table 84.4
+
+| Gross property, plant and equipment |  | 4,980 | 4,380 |
+| --- | --- | --- | --- |
+
+
+
+### Table 84.5
+
+|  |  | $ | 1,934 | $ 1,604 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 84.6
+
+| Deferred Income Taxes and Other Assets |  |  |  |
+| --- | --- | --- | --- |
+| Non-current deferred income taxes | $ | 1,623 | $ 1,711 |
+| Operating lease right-of-use assets | 294 |  | 252 |
+| Income tax receivables and other assets | 229 |  | 260 |
+|  | $ | 2,146 | $ 2,223 |
+
+
+### Table 84.7
+
+| Accounts Payable and Accrued Expenses |  |  |
+| --- | --- | --- |
+| Accounts payable | $ 1,472 | $ 1,124 |
+| Compensation and employee benefits | 924 | 800 |
+| Warranty | 242 | 201 |
+| Dividends payable | 214 | 201 |
+| Income taxes payable | 734 | 222 |
+| Other accrued taxes | 24 | 33 |
+| Interest payable | 39 | 36 |
+| Operating lease liabilities, current | 73 | 64 |
+| Other | 546 | 457 |
+|  | $ 4,268 | $ 3,138 |
+
+
+### Table 84.8
+
+| Other Liabilities |  |  |  |
+| --- | --- | --- | --- |
+| Defined and postretirement benefit plans | $ | 193 | $ 241 |
+| Operating lease liabilities, non-current | 228 |  | 195 |
+| Other | 271 |  | 226 |
+|  | $ | 692 | $ 662 |
+
+
+
+#### Table of Contents
+
+APPLIED MATERIALS, INC.
+
+
+#### NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+
+#### Useful Life
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+(In years)
+(In millions)
+Property, Plant and Equipment, Net
+Land and improvements
+$
+334 
+$
+256 
+Buildings and improvements
+3-30
+1,780 
+1,655 
+Demonstration and manufacturing equipment
+3-5
+1,820 
+1,586 
+Furniture, fixtures and other equipment
+3-5
+720 
+646 
+Construction in progress
+326 
+237 
+Gross property, plant and equipment
+4,980 
+4,380 
+Accumulated depreciation
+(3,046)
+(2,776)
+$
+1,934 
+$
+1,604
+
+Depreciation expense was $345 million, $320 million and $306 million for fiscal 2021, 2020 and 2019 respectively.
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+(In millions)
+Deferred Income Taxes and Other Assets
+Non-current deferred income taxes
+$
+1,623 
+$
+1,711 
+Operating lease right-of-use assets
+294 
+252 
+Income tax receivables and other assets
+229 
+260 
+$
+2,146 
+$
+2,223
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+(In millions)
+Accounts Payable and Accrued Expenses
+Accounts payable
+$
+1,472 
+$
+1,124 
+Compensation and employee benefits
+924 
+800 
+Warranty
+242 
+201 
+Dividends payable
+214 
+201 
+Income taxes payable
+734 
+222 
+Other accrued taxes
+24 
+33 
+Interest payable
+39 
+36 
+Operating lease liabilities, current
+73 
+64 
+Other
+546 
+457 
+$
+4,268 
+$
+3,138
+
+
+#### October 31,
+
+
+#### 2021
+
+
+#### October 25,
+
+
+#### 2020
+
+(In millions)
+Other Liabilities
+Defined and postretirement benefit plans
+$
+193 
+$
+241 
+Operating lease liabilities, non-current
+228 
+195 
+Other
+271 
+226 
+$
+692 
+$
+662
+
+
+#### 84
+
+
+## Page 111
+
+LEGAL ENTITY NAME
+PLACE OF INCORPORATION
+(d) Applied Materials Italia S.r.l. owns the following subsidiary:
+
+Baccini Kesheng Italia S.r. l.
+Italy
+
+(e) Applied Materials Japan, Inc. owns the following subsidiary:
+      Sigmameltec Ltd.
+Japan
+
+(f) Applied Ventures Investment Management GP I, LLC and Applied Materials South East
+Asia Pte. Ltd., collectively own 60% of the following subsidiary:
+      Applied Ventures Innovation Fund I, L.P.
+Delaware
+
+(g) Applied Ventures ITIC Innovation Fund GP, LLC and Applied Materials, Inc. collectively
+own 31% of the following subsidiary:
+      Applied Ventures ITIC Innovation Fund, L.P.
+Delaware
+
+(h) Applied Materials South East Asia Pte. Ltd. owns the followings subsidiaries:
+      Applied Materials Europe B.V.
+The Netherlands
+      Applied Materials Hong Kong Limited
+(j)
+Hong Kong
+ Applied Materials Philippines LLC
+Nevada
+      Applied Materials Singapore Technology Pte. Ltd.
+Singapore
+      DMO Systems Limited
+Cayman Islands
+      MDLSoft LLC
+(k)
+Delaware
+      Perceptive Engineering Limited
+(l)
+United Kingdom
+      Sage Design Automation, Ltd.
+(m)
+Israel
+
+(i) Applied Materials GmbH & Co. KG owns the following subsidiary:
+      Applied Materials WEB Coating GmbH
+Germany
+
+(j) Applied Materials Hong Kong Limited owns the following subsidiary:
+      Baccini Kesheng Pte. Ltd.
+Singapore
+
+(k) MDLSoft LLC owns the following subsidiary:
+      MDLab S.r. l. in liquidation
+Italy
+
+(l) Perceptive Engineering Limited owns the following subsidiaries:
+      Perceptive Engineering Limited
+Ireland
+      Perceptive Engineering Pte. Ltd.
+Singapore
+
+(m) Sage Design Automation, Ltd. owns the following subsidiaries:
+      Sage Design Automation LLC
+California
+      NP Komplete Technologies, B.V.
+The Netherlands
+
+
+#### 3
+
+
+## Page 112
+
+
+#### Exhibit 23
+
+
+#### Consent of Independent Registered Public Accounting Firm
+
+The Board of Directors
+Applied Materials, Inc.:
+
+We consent to the incorporation by reference in the registration statements on Form S‑8 (Nos. 333-35396; 333‑116393; 333-143377;
+333‑157661; 333‑181666; 333‑211965; 333‑225578; 333-256559; and 333-256561) and Form S‑3ASR (333‑257078) of Applied Materials, Inc.
+of our report dated December 17, 2021, with respect to the consolidated balance sheets of Applied Materials, Inc. and subsidiaries as of October
+31, 2021 and October 25, 2020, the related consolidated statements of operations, comprehensive income, stockholders’ equity, and cash ﬂows
+for each of the years in the three-year period ended October 31, 2021, and the related notes (collectively, the consolidated ﬁnancial statements),
+and the eﬀectiveness of internal control over ﬁnancial reporting as of October 31, 2021, which report appears in the October 31, 2021 annual
+report on Form 10‑K of Applied Materials, Inc.
+
+Our report dated December 17, 2021 refers to a change in the Company’s methods of accounting for leases as of October 28, 2019 and intra-
+entity transfers of assets other than inventory as of October 29, 2018 due to the adoption of new accounting standards.
+
+/s/ KPMG LLP
+KPMG LLP
+
+Santa Clara, California
+December 17, 2021
+
+
+#### 1
+
+
+## Page 113
+
+
+### EXHIBIT 31.1
+
+
+### CERTIFICATION
+
+
+#### I, Gary E. Dickerson, certify that:
+
+
+#### 1. I have reviewed this Annual Report on Form 10-K of Applied Materials, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying oﬃcer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as
+deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial reporting (as deﬁned in Exchange Act Rules 13a-
+15(f) and 15d-15(f)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
+
+b) Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of ﬁnancial reporting and the preparation of ﬁnancial
+statements for external purposes in accordance with generally accepted accounting principles;
+
+c) Evaluated the eﬀectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions
+about the eﬀectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
+
+d) Disclosed in this report any change in the registrant's internal control over ﬁnancial reporting that occurred during the registrant's
+most recent ﬁscal quarter (the registrant's fourth ﬁscal quarter in the case of an annual report) that has materially aﬀected, or is reasonably
+likely to materially affect, the registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying oﬃcer(s) and I have disclosed, based on our most recent evaluation of internal control over ﬁnancial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over ﬁnancial reporting which are
+reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant role in the registrant's
+internal control over financial reporting.
+
+
+#### Date: December 17, 2021
+
+/s/ GARY E. DICKERSON
+Gary E. Dickerson
+President, Chief Executive Officer
+
+
+## Page 114
+
+
+### EXHIBIT 31.2
+
+
+### CERTIFICATION
+
+
+#### I, Robert J. Halliday, certify that:
+
+
+#### 1. I have reviewed this Annual Report on Form 10-K of Applied Materials, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying oﬃcer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as
+deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial reporting (as deﬁned in Exchange Act Rules 13a-
+15(f) and 15d-15(f)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
+
+b) Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of ﬁnancial reporting and the preparation of ﬁnancial
+statements for external purposes in accordance with generally accepted accounting principles;
+
+c) Evaluated the eﬀectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions
+about the eﬀectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
+
+d) Disclosed in this report any change in the registrant's internal control over ﬁnancial reporting that occurred during the registrant's
+most recent ﬁscal quarter (the registrant's fourth ﬁscal quarter in the case of an annual report) that has materially aﬀected, or is reasonably
+likely to materially affect, the registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying oﬃcer(s) and I have disclosed, based on our most recent evaluation of internal control over ﬁnancial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent
+functions):
+
+a) All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over ﬁnancial reporting which are
+reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+
+b) Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant role in the registrant's
+internal control over financial reporting.
+
+
+#### Date: December 17, 2021
+
+/s/ ROBERT J. HALLIDAY
+Robert J. Halliday
+Senior Vice President, Chief Financial Officer

@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2024_Q3_10-Q
+# Financial Report: AMAZON_2024_Q3_10-Q
 
 - **Source File**: `AMAZON_2024_Q3_10-Q.pdf`
-- **Total Pages**: 150
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 150
+- **Parsed Key Pages**: 33 (33 selected sections)
 
 ---
 
@@ -3491,568 +3491,456 @@ for the nine months ended September 30, 2024.
 #### 25
 
 
-## Page 26
+## Page 55
 
-### Table 26.1
 
-| Operating Income (Loss) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| North America | $ | 4,307 |  | $ | 5,663 |  | $ | 8,416 |  | $ | 15,711 |
-| International | (95) |  |  | 1,301 |  |  | (2,237) |  |  | 2,477 |  |
-| AWS | 6,976 |  |  | 10,447 |  |  | 17,464 |  |  | 29,202 |  |
-| Consolidated | $ | 11,188 |  | $ | 17,411 |  | $ | 23,643 |  | $ | 47,390 |
+### 364-DAY REVOLVING CREDIT AGREEMENT
 
+This 364-DAY REVOLVING CREDIT AGREEMENT dated as of October 30, 2024 (this “Agreement”), is entered into by
+and among AMAZON.COM, INC., a Delaware corporation (the “Borrower”), each LENDER from time to time party hereto and
+CITIBANK, N.A., as Administrative Agent.
 
+The Borrower has requested that the Lenders provide a 364-day credit facility to the Borrower, and the Lenders are
+willing to do so on the terms and conditions set forth herein.
 
-#### Table of Contents
+In consideration of the mutual covenants and agreements herein contained, the parties hereto covenant and agree as
+follows:
 
-International sales increased 12% in Q3 2024, and 9% for the nine months ended September 30, 2024  compared to the comparable prior
-year periods. The sales growth primarily reflects increased unit sales, including sales by third-party sellers, advertising sales, and subscription
-services. Increased unit sales were driven largely by our continued focus on price, selection, and convenience for our customers, including from
-our fast shipping offers. Changes in foreign exchange rates did not significantly impact International net sales for Q3 2024, but reduced
-International net sales by $1.3 billion for the nine months ended September 30, 2024 .
+ARTICLE I.
 
-AWS sales increased 19% in Q3 2024, and 18% for the nine months ended September 30, 2024 compared to the comparable prior year
-periods. The sales growth primarily reflects increased customer usage, partially offset by pricing changes primarily driven by long-term customer
-contracts.
 
-
-#### Operating Income (Loss)
-
-
-#### Operating income (loss) by segment is as follows (in millions):
+### DEFINITIONS AND ACCOUNTING TERMS
 
+1.01
+Defined Terms. As used in this Agreement, the following terms shall have the meanings set forth below:
 
-#### Three Months Ended
+“Administrative Agent” means Citibank, N.A. in its capacity as administrative agent under the Loan Documents, or any
+successor administrative agent appointed in accordance with Section 9.06. Unless the context requires otherwise, the term
+“Administrative Agent” shall include any Aﬃliate of Citibank, N.A. through which it shall perform any of its obligations in such
+capacity under the Loan Documents.
 
+“Administrative Agent’s Account” means the Administrative Agent’s account set forth on Schedule 11.02, or such other
+account as the Administrative Agent may from time to time notify the Borrower or the Lenders, as applicable.
 
-#### September 30,
+“Administrative Questionnaire” means an Administrative Questionnaire in the form supplied by the Administrative Agent.
 
+“Affected Financial Institution” means (a) any EEA Financial Institution or (b) any UK Financial Institution.
 
-#### Nine Months Ended
+“Affiliate” means, with respect to a speciﬁed Person, another Person that directly, or indirectly through one or more
+intermediaries, Controls or is Controlled by or is under common Control with the Person specified.
 
+“Aggregate Commitments” means, at any time, the Commitments of all the Lenders at such time. As of the Closing Date,
+the Aggregate Commitments equal to US$5,000,000,000.
 
-#### September 30,
+“Agreement” has the meaning specified in the preamble hereto.
 
-2023
-2024
-2023
-2024
-Operating Income (Loss)
+“Amazon Seller Lending Entity” means any Subsidiary of the Borrower that constitutes a special purpose entity
+established in connection with the Amazon Seller Lending Facility.
 
-North America
-$
-4,307 
-$
-5,663 
-$
-8,416 
-$
-15,711 
-International
-(95)
-1,301 
-(2,237)
-2,477 
-AWS
-6,976 
-10,447 
-17,464 
-29,202 
-Consolidated
-$
-11,188 
-$
-17,411 
-$
-23,643 
-$
-47,390
+“Amazon Seller Lending Facility” means any credit facility or other ﬁnancing facility, together with related documentation
+and arrangements, providing for financing in respect of the Borrower’s and its Subsidiaries’ seller lending program.
 
-Operating income increased from $11.2 billion in Q3 2023 to $17.4 billion in Q3 2024, and increased from $23.6 billion for the nine months
-ended September 30, 2023 to $47.4 billion for the nine months ended September 30, 2024. We believe that operating income is a more
-meaningful measure than gross profit and gross margin due to the diversity of our product categories and services.
+“Ancillary Document” has the meaning specified in Section 11.10.
 
-The increase in North America operating income in Q3 2024 and for the nine months ended September 30, 2024, compared to the
-comparable prior year periods, is primarily due to increased unit sales and increased advertising sales, partially offset by increased fulfillment and
-shipping costs.
 
-The International operating income in Q3 2024 and for the nine months ended September 30, 2024, as compared to the operating loss in
-the comparable prior year periods, is primarily due to increased unit sales and increased advertising sales, partially offset by increased shipping
-and fulfillment costs. Changes in foreign exchange rates did not significantly impact operating income for Q3 2024 or for the nine months ended
-September 30, 2024.
+#### 5
 
-The increase in AWS operating income in Q3 2024 and for the nine months ended September 30, 2024, compared to the comparable prior
-year periods, is primarily due to increased sales, decreased payroll and related expenses, and a reduction in depreciation and amortization
-expense from our change in the estimated useful lives of our servers, partially offset by spending on technology infrastructure that was primarily
-driven by additional investments to support AWS business growth. Changes in foreign exchange rates did not significantly impact operating
-income for Q3 2024, but positively impacted operating income by $183 million for the nine months ended September 30, 2024.
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| Operating Expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of sales | $ | 75,022 |  |  | $ | 80,977 |  |  | $ | 212,186 |  |  | $ | 227,395 |  |
-| Fulfillment | 22,314 |  |  |  | 24,660 |  |  |  | 64,524 |  |  |  | 70,543 |  |  |
-| Technology and infrastructure | 21,203 |  |  |  | 22,245 |  |  |  | 63,584 |  |  |  | 64,973 |  |  |
-| Sales and marketing | 10,551 |  |  |  | 10,609 |  |  |  | 31,468 |  |  |  | 30,783 |  |  |
-| General and administrative | 2,561 |  |  |  | 2,713 |  |  |  | 8,806 |  |  |  | 8,496 |  |  |
-| Other operating expense (income), net | 244 |  |  |  | 262 |  |  |  | 613 |  |  |  | 587 |  |  |
-| Total operating expenses | $ | 131,895 |  |  | $ | 141,466 |  |  | $ | 381,181 |  |  | $ | 402,777 |  |
-| Year-over-year Percentage Growth (Decline): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 7 |  | % |  | 8 |  | % |  | 4 |  | % |  | 7 |  | % |
-| Fulfillment | 8 |  |  |  | 11 |  |  |  | 5 |  |  |  | 9 |  |  |
-| Technology and infrastructure | 9 |  |  |  | 5 |  |  |  | 21 |  |  |  | 2 |  |  |
-| Sales and marketing | (4) |  |  |  | 1 |  |  |  | 7 |  |  |  | (2) |  |  |
-| General and administrative | (16) |  |  |  | 6 |  |  |  | 3 |  |  |  | (4) |  |  |
-| Other operating expense (income), net | 48 |  |  |  | 8 |  |  |  | 22 |  |  |  | (4) |  |  |
-| Percent of Net Sales: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 52.4 |  | % |  | 51.0 |  | % |  | 52.4 |  | % |  | 50.5 |  | % |
-| Fulfillment | 15.6 |  |  |  | 15.5 |  |  |  | 15.9 |  |  |  | 15.7 |  |  |
-| Technology and infrastructure | 14.8 |  |  |  | 14.0 |  |  |  | 15.7 |  |  |  | 14.4 |  |  |
-| Sales and marketing | 7.4 |  |  |  | 6.7 |  |  |  | 7.8 |  |  |  | 6.8 |  |  |
-| General and administrative | 1.8 |  |  |  | 1.7 |  |  |  | 2.2 |  |  |  | 1.9 |  |  |
-| Other operating expense (income), net | 0.2 |  |  |  | 0.2 |  |  |  | 0.2 |  |  |  | 0.1 |  |  |
-
-
-
-#### Table of Contents
-
-
-#### Operating Expenses
-
-
-#### Information about operating expenses is as follows (in millions):
-
-
-#### Three Months Ended
-
-
-#### September 30,
-
-
-#### Nine Months Ended
-
-
-#### September 30,
-
-2023
-2024
-2023
-2024
-Operating Expenses:
-
-Cost of sales
-$
-75,022 
-$
-80,977 
-$
-212,186 
-$
-227,395 
-Fulfillment
-22,314 
-24,660 
-64,524 
-70,543 
-Technology and infrastructure
-21,203 
-22,245 
-63,584 
-64,973 
-Sales and marketing
-10,551 
-10,609 
-31,468 
-30,783 
-General and administrative
-2,561 
-2,713 
-8,806 
-8,496 
-Other operating expense (income), net
-244 
-262 
-613 
-587 
-Total operating expenses
-$
-131,895 
-$
-141,466 
-$
-381,181 
-$
-402,777
-
-
-#### Year-over-year Percentage Growth (Decline):
-
-Cost of sales
-7 %
-8 %
-4 %
-7 %
-Fulfillment
-8 
-11 
-5 
-9 
-Technology and infrastructure
-9 
-5 
-21 
-2 
-Sales and marketing
-(4)
-1 
-7 
-(2)
-General and administrative
-(16)
-6 
-3 
-(4)
-Other operating expense (income), net
-48 
-8 
-22 
-(4)
-Percent of Net Sales:
-
-Cost of sales
-52.4 %
-51.0 %
-52.4 %
-50.5 %
-Fulfillment
-15.6 
-15.5 
-15.9 
-15.7 
-Technology and infrastructure
-14.8 
-14.0 
-15.7 
-14.4 
-Sales and marketing
-7.4 
-6.7 
-7.8 
-6.8 
-General and administrative
-1.8 
-1.7 
-2.2 
-1.9 
-Other operating expense (income), net
-0.2 
-0.2 
-0.2 
-0.1
-
-
-#### Cost of Sales
-
-Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
-to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
-gross, including video and music.
-
-The increase in cost of sales in Q3 2024 and for the nine months ended September 30, 2024, compared to the comparable prior year
-periods, is primarily due to increased product and shipping costs resulting from increased sales, partially offset by fulfillment network efficiencies,
-including lower transportation costs. Changes in foreign exchange rates reduced cost of sales by $196 million for Q3 2024, and by $1.1 billion for
-the nine months ended September 30, 2024.
-
-Shipping costs were $21.8 billion and $23.5 billion in Q3 2023 and Q3 2024, and $62.2 billion and $67.3 billion for the nine months ended
-September 30, 2023 and 2024. Shipping costs to receive products from our suppliers are included in our inventory and recognized as cost of
-sales upon sale of products to our customers. We expect our cost of shipping to continue to increase to the extent our customers accept and use
-our shipping offers at an increasing rate, we use more expensive shipping methods, and we offer additional services. We seek to mitigate costs
-of shipping over time in part through achieving higher sales volumes, optimizing our fulfillment network, negotiating better terms with our
-suppliers, and achieving better operating efficiencies. We believe that offering low prices to our customers is fundamental to our future success,
-and one way we offer lower prices is through shipping offers.
-
-Costs to operate our AWS segment are primarily classified as “Technology and infrastructure” as we leverage a shared infrastructure that
-supports both our internal technology requirements and external sales to AWS customers.
-
-
-#### Fulfillment
-
-Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International fulfillment centers,
-physical stores, and customer service centers and payment processing costs. While AWS payment processing
-
-
-#### 27
-
-
-## Page 28
-
-
-#### Table of Contents
-
-and related transaction costs are included in “Fulfillment,” AWS costs are primarily classified as “Technology and infrastructure.” Fulfillment costs
-as a percentage of net sales may vary due to several factors, such as payment processing and related transaction costs, our level of productivity
-and accuracy, changes in volume, size, and weight of units received and fulfilled, the extent to which third-party sellers utilize Fulfillment by
-Amazon services, timing of fulfillment network and physical store expansion, the extent we utilize fulfillment services provided by third parties, mix
-of products and services sold, and our ability to affect customer service contacts per unit by implementing improvements in our operations and
-enhancements to our customer self-service features. Additionally, sales by our sellers have higher payment processing and related transaction
-costs as a percentage of net sales compared to our retail sales because payment processing costs are based on the gross purchase price of
-underlying transactions.
-
-The increase in fulfillment costs in Q3 2024 and for the nine months ended September 30, 2024 compared to the comparable prior year
-periods, is primarily due to increased sales and investments in our fulfillment network, partially offset by fulfillment network efficiencies. Changes
-in foreign exchange rates did not significantly impact fulfillment costs for Q3 2024, but reduced fulfillment costs by $127 million for the nine
-months ended September 30, 2024.
-
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
-
-
-#### Technology and Infrastructure
-
-Technology and infrastructure costs include payroll and related expenses for employees involved in the research and development of new
-and existing products and services, development, design, and maintenance of our stores, curation and display of products and services made
-available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related
-depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
-costs reflect the investments we make in order to offer a wide variety of products and services to our customers, including expenditures related to
-initiatives to build and deploy innovative and efficient software and electronic devices and the development of a satellite network for global
-broadband service and autonomous vehicles for ride-hailing services.
-
-We seek to invest efficiently in numerous areas of technology and infrastructure so we may continue to enhance the customer experience
-and improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and
-infrastructure investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and
-the cross-functionality of our systems and operations. We expect spending in technology and infrastructure to increase over time as we continue
-to add employees and infrastructure. These costs are allocated to segments based on usage. The increase in technology and infrastructure costs
-in Q3 2024 and for the nine months ended September 30, 2024, compared to the comparable prior year periods, is primarily due to an increase
-in spending on infrastructure, partially offset by a reduction in depreciation and amortization expense from our change in the estimated useful life
-of our servers and decreased payroll and related costs associated with technical teams responsible for expanding our existing products and
-services and initiatives to introduce new products and service offerings. Changes in foreign exchange rates did not significantly impact
-technology and infrastructure costs for Q3 2024, but reduced technology and infrastructure costs by $166 million for the nine months ended
-September 30, 2024. We currently expense the majority of the costs associated with the development of our satellite network for global
-broadband service (including production, launch, and payroll costs, and launch services deposits upon launch). We will capitalize certain of these
-costs once the service achieves commercial viability, including sales to customers. See Item 7 of Part II, “Management’s Discussion and Analysis
-of Financial Condition and Results of Operations — Overview” of our 2023 Annual Report on Form 10-K for a discussion of how management
-views advances in technology and the importance of innovation.
-
-
-#### Sales and Marketing
-
-Sales and marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities,
-including sales commissions related to AWS. We direct customers to our stores primarily through a number of marketing channels, such as our
-sponsored search, third-party customer referrals, social and online advertising, television advertising, and other initiatives. Our marketing costs
-are largely variable, based on growth in sales and changes in rates. To the extent there is increased or decreased competition for these traffic
-sources, or to the extent our mix of these channels shifts, we would expect to see a corresponding change in our marketing costs.
-
-Sales and marketing costs in Q3 2024 did not significantly change compared to the comparable prior year period. The decrease in sales
-and marketing costs for the nine months ended September 30, 2024, compared to the comparable prior year period, is primarily due to
-decreased payroll and related expenses for personnel engaged in marketing and selling activities, partially offset by increased advertising
-expenses. Changes in foreign exchange rates did not significantly impact sales and marketing costs for Q3 2024, but reduced sales and
-marketing costs by $161 million for the nine months ended September 30, 2024.
 
+## Page 56
 
-#### 28
+“Applicable Percentage” means, with respect to any Lender at any time, the percentage (carried out to the ninth decimal
+place) of the Aggregate Commitments represented by such Lender’s Commitment at such time. If the Aggregate Commitments
+have terminated pursuant to Section 2.04 or 8.02, then the Applicable Percentage of each Lender shall be determined based on
+the Applicable Percentage of such Lender most recently in effect, giving effect to any subsequent assignments.
 
+“Applicable Rate” means (a) with respect to Base Rate Loans, 0.00% per annum, (b) with respect to Term SOFR Loans
+and, if applicable pursuant to Section 3.03, Daily Simple SOFR Loans, 0.45% per annum and (c) with respect to the commitment
+fee set forth in Section 2.07(a), 0.03% per annum.
 
-## Page 29
+“Approved Fund” means any Fund that is administered or managed by (a) a Lender, (b) an Aﬃliate of a Lender or (c) an
+entity or an Affiliate of an entity that administers or manages a Lender.
 
+“Arranger” means Citibank, N.A., in its capacities as sole lead arranger and joint bookrunner.
 
-#### Table of Contents
+“Assignment and Assumption” means an assignment and assumption entered into by a Lender and an Eligible Assignee
+(with the consent of any Person whose consent is required by Section 11.06(b)), and accepted by the Administrative Agent, in
+substantially the form of Exhibit C or any other form (including electronic documentation generated by use of the Platform)
+reasonably satisfactory to the Administrative Agent.
 
-While costs associated with Amazon Prime membership benefits and other shipping offers are not included in sales and marketing
-expense, we view these offers as effective worldwide marketing tools, and intend to continue offering them indefinitely.
+“Attributable Indebtedness” means, on any date, (a) in respect of any capital lease of any Person, the capitalized amount
+thereof that would appear on a balance sheet of such Person prepared as of such date in accordance with GAAP, and (b) in
+respect of any Synthetic Lease Obligation, the capitalized amount of the remaining lease payments under the relevant lease that
+would appear on a balance sheet of such Person prepared as of such date in accordance with GAAP if such lease were
+accounted for as a capital lease.
 
+“Audited Financial Statements” means the audited consolidated balance sheet of the Borrower and its Subsidiaries as of
+December 31, 2023 and the related consolidated statements of income or operations, stockholders’ equity and cash ﬂows of the
+Borrower and its Subsidiaries for the fiscal year then ended, including the notes thereto.
 
-#### General and Administrative
+“Availability Period” means the period from and including the Closing Date to the earliest of (a) the Maturity Date and
+(b) the date of termination of the Aggregate Commitments pursuant to Section 2.04 or 8.02.
 
-General and administrative costs in Q3 2024 did not significantly change compared to the comparable prior year period. The decrease in
-general and administrative costs for the nine months ended September 30, 2024, compared to the comparable prior year period, is primarily due
-to a decrease in payroll and related expenses.
+“Available Tenor” means, as of any date of determination and with respect to the then-current Benchmark, any tenor for
+such Benchmark (or component thereof) or payment period for interest calculated with reference to such Benchmark (or
+component thereof), as applicable, that is or may be used for determining the length of an Interest Period for any term rate or
+otherwise for determining any frequency of making payments of interest calculated pursuant to this Agreement as of such date
+and not including, for the avoidance of doubt, any tenor for such Benchmark that is then-removed from the deﬁnition of “Interest
+Period” pursuant to Section 3.03(b)(iv).
 
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers by the applicable Resolution Authority in
+respect of any liability of any Affected Financial Institution.
 
-#### Other Operating Expense (Income), Net
+“Bail-In Legislation” means (a) with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU
+of the European Parliament and of the Council of the European Union, the implementing law, regulation, rule or requirement for
+such EEA Member Country from time to time that is described in the EU Bail-In Legislation Schedule and (b) with respect to the
+United Kingdom, Part I of the United Kingdom Banking Act 2009 (as amended from time to time) and any other law, regulation or
+
+
+#### 6
+
+
+## Page 57
+
+rule applicable in the United Kingdom relating to the resolution of unsound or failing banks, investment ﬁrms or other ﬁnancial
+institutions or their Affiliates (other than through liquidation, administration or other insolvency proceedings).
 
-Other operating expense (income), net was $244 million and $262 million for Q3 2023 and Q3 2024, and $613 million and $587 million for
-the nine months ended September 30, 2023 and 2024, and was primarily related to asset impairments and the amortization of intangible assets.
-
+“Base Rate” means, for any day, a rate per annum equal to the highest of (a) the NYFRB Rate in eﬀect on such day plus
+1/2 of 1.00% per annum, (b) the Prime Rate in eﬀect on such day, and (c) the Term SOFR for a one month Interest Period as
+published two U.S. Government Securities Business Days prior to such day (or, if such day is not a U.S. Government Securities
+Business Day, the immediately preceding U.S. Government Securities Business Day) plus the diﬀerence between the
+Applicable Rate for Term SOFR Loans and the Applicable Rate for Base Rate Loans on such day. For purposes of clause (c)
+above, the Term SOFR on any day shall be based on the Term SOFR Reference Rate at approximately 5:00 a.m., Chicago
+time, on such day (or any amended publication time for the Term SOFR Reference Rate, as speciﬁed by the CME Term SOFR
+Administrator in the Term SOFR Reference Rate methodology); provided that if such rate shall be less than zero, such rate shall
+be deemed to be zero. Any change in the Base Rate due to a change in the NYFRB Rate, the Prime Rate or the Term SOFR
+shall be eﬀective from and including the eﬀective date of such change in the NYFRB Rate, the Prime Rate or the Term SOFR,
+as the case may be. If the Base Rate is being used as an alternate rate of interest pursuant to Section 3.03 (for the avoidance of
+doubt, only until the Benchmark Replacement has been determined pursuant to Section 3.03(b)), then for purposes of clause (c)
+above the Term SOFR shall be deemed to be zero.
+
+“Base Rate Borrowing” means any Borrowing comprised of Base Rate Loans.
+
+“Base Rate Loan” means a Loan that bears interest at a rate based on the Base Rate.
+
+“Benchmark” means, initially, the Term SOFR; provided that if a Benchmark Transition Event and the related Benchmark
+Replacement Date have occurred with respect to the Term SOFR or the then-current Benchmark, then “Benchmark” means the
+applicable Benchmark Replacement to the extent that such Benchmark Replacement has replaced such prior benchmark rate
+pursuant to Section 3.03(b)(i).
+
+“Benchmark Replacement” means, for any Available Tenor, the alternative set forth in clause (1) below, or if such
+alternative is not reasonably determinable by the Administrative Agent for the applicable Benchmark Replacement Date, the
+alternative set forth in clause (2) below:
+
+
+#### (1)    the Daily Simple SOFR; and
+
+(2)    the sum of: (a) the alternate benchmark rate that has been selected by the Administrative Agent and the
+Borrower as the replacement for the then-current Benchmark for the applicable Corresponding Tenor giving due
+consideration to (i) any selection or recommendation of a replacement benchmark rate or the mechanism for determining
+such a rate by the Relevant Governmental Body and/or (ii) any evolving or then-prevailing market convention for
+determining a benchmark rate as a replacement for the then-current Benchmark for syndicated credit facilities
+denominated in US Dollars at such time in the United States and (b) the related Benchmark Replacement Adjustment.
+
+If the Benchmark Replacement as determined pursuant to clause (1) or (2) above would be less than the Floor, the
+Benchmark Replacement will be deemed to be the Floor for the purposes of this Agreement and the other Loan Documents.
+
+“Benchmark Replacement Adjustment” means, with respect to any replacement of a then-current Benchmark with an
+Unadjusted Benchmark Replacement for any applicable Interest Period and Available Tenor for any setting of such Unadjusted
+Benchmark Replacement, the spread adjustment or method for calculating or determining such spread adjustment (which may
+be a positive or negative value or zero)
+
+
+#### 7
+
+
+## Page 58
+
+that has been selected by the Administrative Agent and the Borrower for the applicable Corresponding Tenor giving due
+consideration to (a) any selection or recommendation of a spread adjustment, or method for calculating or determining such
+spread adjustment, for the replacement of such Benchmark with the applicable Unadjusted Benchmark Replacement by the
+Relevant Governmental Body on the applicable Benchmark Replacement Date and/or (b) any evolving or then-prevailing market
+convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, for the
+replacement of such Benchmark with the applicable Unadjusted Benchmark Replacement for syndicated credit facilities
+denominated in US Dollars at such time in the United States.
+
+“Benchmark Replacement Conforming Changes” means, with respect to any Benchmark Replacement, any technical,
+administrative or operational changes (including changes to the deﬁnition of “Base Rate”, the deﬁnition of “Business Day”, the
+deﬁnition of “Interest Period”, the deﬁnition of “U.S. Government Securities Business Day”, timing and frequency of determining
+rates and making payments of interest, timing of borrowing requests or prepayment, conversion or continuation notices, length of
+lookback periods, the applicability of breakage provisions, and other technical, administrative or operational matters) that the
+Administrative Agent determines in its reasonable discretion may be appropriate to reﬂect the adoption and implementation of
+the applicable Benchmark and to permit the administration thereof by the Administrative Agent in a manner substantially
+consistent with market practice (or, if the Administrative Agent determines in its reasonable discretion that adoption of any
+portion of such market practice is not administratively feasible or if the Administrative Agent determines that no market practice
+for the administration of the Benchmark Replacement exists, in such other manner of administration as the Administrative Agent
+determines in its reasonable discretion is reasonably necessary in connection with the administration of this Agreement and the
+other Loan Documents).
 
-#### Interest Income and Expense
+“Benchmark Replacement Date” means, with respect to any Benchmark, the earliest to occur of the following events with
+respect to such then-current Benchmark:
 
-Our interest income was $776 million and $1.3 billion during Q3 2023 and Q3 2024, and $2.0 billion and $3.4 billion for the nine months
-ended September 30, 2023 and 2024, primarily due to an increase in prevailing rates. We generally invest our excess cash in AAA-rated money
-market funds and investment grade short- to intermediate-term marketable debt securities. Our interest income corresponds with the average
-balance of invested funds based on the prevailing rates, which vary depending on the geographies and currencies in which they are invested.
-
-Interest expense was $806 million and $603 million during Q3 2023 and Q3 2024, and $2.5 billion and $1.8 billion for the nine months
-ended September 30, 2023 and 2024, and was primarily related to debt and finance leases. See Item 1 of Part I, “Financial Statements — Note 3
-— Leases and Note 5 — Debt” for additional information.
-
-
-#### Other Income (Expense), Net
+(1)    in the case of clause (1) or (2) of the deﬁnition of “Benchmark Transition Event”, the later of (a) the date of
+the public statement or publication of information referenced therein and (b) the date on which the administrator of such
+Benchmark (or the published component used in the calculation thereof) permanently or indeﬁnitely ceases to provide all
+Available Tenors of such Benchmark (or such component thereof); or
 
-Other income (expense), net was $1.0 billion and $(27) million during Q3 2023 and Q3 2024, and $649 million and $(2.7) billion for the nine
-months ended September 30, 2023 and 2024. The primary components of other income (expense), net are related to equity securities valuations
-and adjustments, equity warrant valuations, and foreign currency. Included in other income (expense), net is a marketable equity securities
-valuation gain (loss) of $1.2 billion and $(348) million in Q3 2023 and Q3 2024, and $926 million and $(1.9) billion for the nine months ended
-September 30, 2023 and 2024, from our equity investment in Rivian.
-
+(2)    in the case of clause (3) of the deﬁnition of “Benchmark Transition Event”, the ﬁrst date on which such
+Benchmark (or the published component used in the calculation thereof) has been or, if such Benchmark is a term rate,
+all Available Tenors of such Benchmark (or such component thereof) have been determined and announced by the
+regulatory supervisor for the administrator of such Benchmark (or such component thereof) to be no longer
+representative; provided that such non-representativeness will be determined by reference to the most recent statement
+or publication referenced in such clause (3) and even if such Benchmark (or such component thereof) or, if such
+Benchmark is a term rate, any Available Tenor of such Benchmark (or such component thereof) continues to be provided
+on such date.
+
+For the avoidance of doubt, (i) if the event giving rise to the Benchmark Replacement Date occurs on the same day as,
+but earlier than, the Reference Time in respect of any determination, the Benchmark Replacement Date will be deemed to have
+occurred prior to the Reference Time for such determination and (ii) the “Benchmark Replacement Date” will be deemed to have
+occurred in the case of clause (1) or (2) with respect to any Benchmark upon the occurrence of the applicable event or events
+set forth therein with respect to all then-current Available Tenors of such Benchmark (or the published component used in the
+calculation thereof).
+
+
+#### 8
+
+
+## Page 96
+
+5.07
+ERISA Compliance.
+
+(a)
+Except as would not reasonably be expected to result in a Material Adverse Eﬀect, either individually or in the
+aggregate: (i) no ERISA Event has occurred, and the Borrower is not aware of any fact, event or circumstance that would
+reasonably be expected to constitute or result in an ERISA Event with respect to any Pension Plan; (ii) the Borrower and each
+ERISA Aﬃliate has met all applicable requirements under the Pension Funding Rules in respect of each Pension Plan, and no
+waiver of the minimum funding standards under the Pension Funding Rules has been applied for or obtained by the Borrower;
+(iii) neither the Borrower nor any ERISA Aﬃliate has incurred any liability to the PBGC other than for the payment of premiums,
+and there are no premium payments which have become due that are delinquent under Section 4007 of ERISA; and (iv) neither
+the Borrower nor any ERISA Aﬃliate has engaged in a transaction that is subject to Section 4069 or Section 4212(c) of ERISA
+and (v) no Pension Plan has been terminated by the plan administrator thereof nor by the PBGC, and no event or circumstance
+has occurred or exists that would reasonably be expected to cause the PBGC to institute proceedings under Title IV of ERISA
+to terminate any Pension Plan.
+
+(b)
+As of the Closing Date, the Borrower is not and will not be using “plan assets” (within the meaning of 29 CFR §
+2510.3-101, as modiﬁed by Section 3(42) of ERISA) of one or more Beneﬁt Plans in connection with the Loans or the
+Commitments.
+
+5.08
+Investment Company Act. The Borrower is not and is not required to be registered as an “investment company”
+under the Investment Company Act of 1940.
+
+5.09
+Compliance with Laws. Each of the Borrower and its Subsidiaries is in compliance in all material respects with
+the requirements of all Laws and all orders, writs, injunctions and decrees applicable to it or to its properties, except in such
+instances in which (a) such requirement of Law or order, writ, injunction or decree is being contested in good faith by appropriate
+proceedings diligently conducted or (b) the failure to comply therewith, either individually or in the aggregate, would not
+reasonably be expected to result in a Material Adverse Effect.
+
+5.10
+Anti-Corruption. (a) Neither the Borrower nor any of its Subsidiaries is in violation of the United States Foreign
+Corrupt Practices Act of 1977, the UK Bribery Act 2010, or other similar anti-corruption legislation in other jurisdictions
+applicable to the Borrower or any Subsidiary from time to time, the eﬀect of which is or would reasonably be expected to be
+material to the Borrower and its Subsidiaries taken as a whole and (b) the Borrower has instituted and maintained policies and
+procedures reasonably designed to promote and achieve compliance with such laws.
+
+5.11
+Sanctions. Neither the Borrower nor any of its Subsidiaries, nor, to the knowledge of the Borrower, any director,
+oﬃcer or (other than with respect to clause (c) below) employee thereof, is an individual or entity that is (a) currently the subject
+or target of any Sanctions, (b) included on OFAC’s List of Specially Designated Nationals, His Majesty’s Treasury’s
+Consolidated List of Financial Sanctions Targets and the Investment Ban List, or any similar list enforced by the United States
+federal government (including OFAC), the European Union or the United Kingdom (including His Majesty’s Treasury) or (c)
+located, organized or resident in a Designated Jurisdiction.
+
+5.12
+Affected Financial Institution. The Borrower is not an Affected Financial Institution.
+
+ARTICLE VI.
+
+
+### AFFIRMATIVE COVENANTS
+
+
+#### 46
+
+
+## Page 97
+
+So long as any Lender shall have any Commitment hereunder, or any Loan or other Obligation hereunder shall remain
+unpaid or unsatisﬁed, the Borrower shall, and shall (except in the case of the covenants set forth in Sections 6.01, 6.02, and
+6.03) cause each Material Subsidiary to:
+
+6.01
+Financial Statements. Deliver to the Administrative Agent for distribution to the Lenders:
+
+(a)
+as soon as available, but in any event within 120 days after the end of each ﬁscal year of the Borrower, a
+consolidated balance sheet of the Borrower and its Subsidiaries as at the end of such ﬁscal year, and the related consolidated
+statements of income or operations, changes in stockholders’ equity, and cash ﬂows for such ﬁscal year, prepared in
+accordance with GAAP, audited and accompanied by a report and opinion of an independent registered public accounting firm of
+nationally recognized standing, it being agreed that delivery of the Borrower’s annual report on Form 10-K will satisfy this
+requirement; and
+
+(b)
+as soon as available, but in any event within 45 days after the end of each of the ﬁrst three ﬁscal quarters of each
+ﬁscal year of the Borrower, a consolidated balance sheet of the Borrower and its Subsidiaries as at the end of such ﬁscal
+quarter, the related consolidated statements of income or operations for such ﬁscal quarter and for the portion of the Borrower’s
+ﬁscal year then ended, and the related consolidated statements of changes in stockholders’ equity, and cash ﬂows for the
+portion of the Borrower’s ﬁscal year then ended, certiﬁed by the chief executive oﬃcer, chief ﬁnancial oﬃcer, treasurer or
+controller of the Borrower as having been prepared in accordance with GAAP, subject only to normal year-end audit
+adjustments and the omission of certain information and footnote disclosures as permitted under the rules of the SEC, it being
+agreed that delivery of the Borrower’s quarterly report on Form 10-Q will satisfy this requirement.
+
+As to any information contained in materials furnished pursuant to Section 6.02(a), the Borrower shall not be separately required
+to furnish such information under subsection (a) or (b) above, but the foregoing shall not be in derogation of the obligation of the
+Borrower to furnish the information and materials described in subsections (a) and (b) above at the times specified therein.
 
-#### Income Taxes
-
-Our income tax provision for the nine months ended September 30, 2023 was $4.1 billion, which included $175 million of net discrete tax
-expense. Our income tax provision for the nine months ended September 30, 2024 was $6.9 billion, which included $2.4 billion of net discrete tax
-benefits primarily attributable to excess tax benefits from stock-based compensation. See Item 1 of Part I, “Financial Statements — Note 7 —
-Income Taxes” for additional information.
-
-
-#### Non-GAAP Financial Measures
-
-Regulation G, Conditions for Use of Non-GAAP Financial Measures, and other SEC regulations define and prescribe the conditions for use
-of certain non-GAAP financial information. Our measures of free cash flows and the effect of foreign exchange rates on our consolidated
-statements of operations meet the definition of non-GAAP financial measures.
-
-We provide multiple measures of free cash flows because we believe these measures provide additional perspective on the impact of
-acquiring property and equipment with cash and through finance leases and financing obligations.
-
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Net cash provided by (used in) operating activities | $ | 71,654 |  | $ | 112,706 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (50,220) |  |  | (64,959) |  |
-| Free cash flow | $ | 21,434 |  | $ | 47,747 |
-| Net cash provided by (used in) investing activities | $ | (48,053) |  | $ | (69,500) |
-| Net cash provided by (used in) financing activities | $ | (9,047) |  | $ | (15,250) |
-
-
-### Table 30.2
-
-| Net cash provided by (used in) operating activities | $ | 71,654 |  | $ | 112,706 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (50,220) |  |  | (64,959) |  |
-| Free cash flow | 21,434 |  |  | 47,747 |  |
-| Principal repayments of finance leases | (5,245) |  |  | (2,489) |  |
-| Principal repayments of financing obligations | (260) |  |  | (320) |  |
-| Free cash flow less principal repayments of finance leases and financing obligations | $ | 15,929 |  | 44,938 |  |
-| Net cash provided by (used in) investing activities | $ | (48,053) |  | $ | (69,500) |
-| Net cash provided by (used in) financing activities | $ | (9,047) |  | $ | (15,250) |
-
-
-
-#### Table of Contents
-
-
-#### Free Cash Flow
-
-Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
-The following is a reconciliation of free cash flow to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating
-activities,” for the trailing twelve months ended September 30, 2023 and 2024 (in millions):
-
-
-#### Twelve Months Ended
-
-
-#### September 30,
-
-2023
-2024
-Net cash provided by (used in) operating activities
-$
-71,654 
-$
-112,706 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(50,220)
-(64,959)
-Free cash flow
-$
-21,434 
-$
-47,747
-
-Net cash provided by (used in) investing activities
-$
-(48,053)
-$
-(69,500)
-
-Net cash provided by (used in) financing activities
-$
-(9,047)
-$
-(15,250)
-
-Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations
-
-Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by “Principal repayments of
-finance leases” and “Principal repayments of financing obligations.” Principal repayments of finance leases and financing obligations
-approximates the actual payments of cash for our finance leases and financing obligations. The following is a reconciliation of free cash flow less
-principal repayments of finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for the trailing twelve months ended September 30, 2023 and 2024 (in millions):
-
-
-#### Twelve Months Ended
-
-
-#### September 30,
-
-2023
-2024
-Net cash provided by (used in) operating activities
-$
-71,654 
-$
-112,706 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(50,220)
-(64,959)
-Free cash flow
-21,434 
-47,747 
-Principal repayments of finance leases
-(5,245)
-(2,489)
-Principal repayments of financing obligations
-(260)
-(320)
-Free cash flow less principal repayments of finance leases and financing obligations
-$
-15,929 
-44,938
-
-Net cash provided by (used in) investing activities
-$
-(48,053)
-$
-(69,500)
-
-Net cash provided by (used in) financing activities
-$
-(9,047)
-$
-(15,250)
-
-Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations
-
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash
-flow reduced by equipment acquired under finance leases, which is included in “Property and equipment acquired under finance leases, net of
-remeasurements and modifications,” principal repayments of all other finance lease liabilities, which is included in “Principal repayments of
-finance leases,” and “Principal repayments of financing obligations.” All other finance lease liabilities and financing obligations consists of
-property. In this measure, equipment acquired under finance leases is reflected as if these assets had been purchased with cash, which is not the
-case as these assets have been leased. The following is a reconciliation of free cash flow less equipment finance leases and principal
-repayments of all other finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for the trailing twelve months ended September 30, 2023 and 2024 (in millions):
-
-
-#### 30
+6.02
+Certificates; Other Information. Deliver to the Administrative Agent and each Lender:
+
+(a)
+promptly after the same are publicly available, copies of each annual report, proxy or ﬁnancial statement or other
+report or communication sent to the stockholders of the Borrower, and copies of all annual, regular, periodic and special reports
+and registration statements which the Borrower may ﬁle or be required to ﬁle with the SEC under Section 13 or 15(d) of the
+Securities Exchange Act of 1934, and not otherwise required to be delivered to the Administrative Agent pursuant hereto; and
+
+(b)
+promptly following any reasonable request therefor, such additional information regarding the financial condition of
+the Borrower or the Borrower’s compliance with the terms of the Loan Documents, as the Administrative Agent or any Lender
+may from time to time reasonably request; provided that the Administrative Agent and the Lenders shall only be permitted to
+make a request under this subclause (b) during the existence of a Default.
+
+Documents required to be delivered pursuant to Section 6.01(a), 6.01(b) or 6.02(a) shall be deemed to have been
+delivered on the date (i) on which the Borrower posts such documents, or provides a link thereto, on the Borrower’s website on
+the Internet at www.amazon.com/ir; (ii) on which such documents are posted on the Borrower’s behalf on an Internet or intranet
+website, if any, to which each Lender and the Administrative Agent have access (whether a commercial, third-party website or
+whether sponsored by the Administrative Agent) or (iii) on which the Borrower publicly posts such documents at www.sec.gov.
+The Administrative Agent shall have no obligation to request the posting or other
+
+
+#### 47
+
+
+## Page 98
+
+electronic delivery of the documents referred to above and in any event shall have no responsibility to monitor compliance by
+the Borrower.
+
+The Borrower hereby acknowledges that the Administrative Agent may, but shall not be obligated to, make available to
+the Lenders any notices, demands, communications, documents, materials and/or information provided by or on behalf of the
+Borrower hereunder or under any other Loan Document (collectively, “Borrower Materials”) by posting the Borrower Materials on
+DebtDomain, IntraLinks, Syndtrak, ClearPar or any other electronic platform chosen by the Administrative Agent to be its
+electronic transmission system (the “Platform”). The Borrower further acknowledges and agrees that (x) all Borrower Materials
+will be treated as private and may contain material nonpublic information with respect to the Borrower or its securities for
+purposes of United States federal and state securities Laws (“MNPI”); and (y) the Administrative Agent will treat all Borrower
+Materials as being suitable only for posting on a portion of the Platform not designated “PUBLIC”, “Public Investor”, “Public
+Lender” or a like term. Furthermore, the Borrower shall be under no obligation to mark any Borrower Materials “PUBLIC”.
+
+6.03
+Notices. Promptly after any Responsible Oﬃcer of the Borrower obtains actual knowledge thereof, notify the
+Administrative Agent and each Lender of the occurrence of any Default. Each notice pursuant to this Section 6.03 shall be
+accompanied by a statement of a Responsible Oﬃcer of the Borrower setting forth details of the occurrence referred to therein
+and stating what action the Borrower or applicable Subsidiary has taken and proposes to take with respect thereto.
+
+6.04
+Payment of Taxes. Pay and discharge as the same shall become due and payable, all Taxes upon it or its
+properties or assets that, if not paid, would reasonably be expected to result in a Material Adverse Eﬀect, unless such Taxes are
+being contested in good faith by appropriate proceedings diligently conducted.
+
+6.05
+Preservation of Existence; Etc. In the case of the Borrower, preserve and maintain its corporate existence and
+the rights, licenses and permits material to the conduct of its business; provided that the foregoing shall not prohibit any
+transaction permitted under Section 7.02.
+
+6.06
+Compliance with Laws. Comply in all material respects with the requirements of all Laws (including all anti-
+corruption Laws) and all orders, writs, injunctions and decrees applicable to it or to its business or property, except in such
+instances in which (a) such requirement of Law or order, writ, injunction or decree is being contested in good faith by appropriate
+proceedings diligently conducted or (b) the failure to comply therewith would not reasonably be expected to result in a Material
+Adverse Effect.
+
+6.07
+Books and Records. Maintain proper books of record and account that permit the preparation of consolidated
+financial statements of the Borrower materially in accordance with GAAP.
+
+6.08
+Use of Proceeds. Use the proceeds of each Loan solely for working capital, capital expenditures, acquisitions
+(including any related expenses, earn-outs and deferred payments incurred in connection with any such acquisition), payment of
+fees and expenses associated with this Agreement and other general corporate purposes not in contravention of any Law or of
+any Loan Document; provided that the Borrower will not use the proceeds of the Loans in a manner that violates Regulation U
+issued by the Federal Reserve Board.
+
+6.09
+Anti-Corruption Laws and Sanctions. Maintain policies and procedures reasonably designed to promote and
+achieve compliance by the Borrower, its Subsidiaries, its and their respective directors, oﬃcers and employees and its and their
+respective agents acting in such capacity in connection with, or beneﬁtting from, this Agreement or the proceeds of any Loan
+hereunder, in each case, with the United States Foreign Corrupt Practices Act of 1977, the UK Bribery Act 2010 and other
+similar anti-
+
+
+#### 48
+
+
+## Page 99
+
+corruption legislation in other jurisdictions applicable to the Borrower or any Subsidiary from time to time and the applicable
+Sanctions.
+
+ARTICLE VII.
+
+
+### NEGATIVE COVENANTS
+
+So long as any Lender shall have any Commitment hereunder, or any Loan or other Obligation hereunder shall remain
+unpaid or unsatisfied:
+
+7.01
+Liens. The Borrower shall not, nor shall it permit any Subsidiary to, create or suﬀer to exist any Lien upon any of
+its property, assets or revenues, whether now owned or hereafter acquired, other than the following:
+
+(a)
+Liens pursuant to any Loan Document;
+
+(b)
+Liens existing on the date hereof and, in the case of Liens securing any Indebtedness having (individually or
+together with related items of Indebtedness so secured) a principal amount greater than US$250,000,000, listed on Schedule
+7.01, and any renewals, replacements or extensions thereof; provided that (i) no such Lien is expanded to cover any additional
+property (other than additions and improvements thereto) and (ii) the principal amount secured or beneﬁted thereby is not
+increased (other than as a result of pay-in-kind interest);
+
+(c)
+Liens for Taxes not yet delinquent or which are being contested in good faith and by appropriate proceedings
+diligently conducted;
+
+(d)
+carriers’, warehousemen’s, mechanics’, materialmen’s, repairmen’s, workmen’s, landlords’, bailees’ or other like
+Liens arising in the ordinary course of business;
+
+(e)
+pledges or deposits in the ordinary course of business in connection with workers’ compensation, unemployment
+insurance and other social security legislation, employee benefit plans from time to time in effect, other than any Lien imposed by
+ERISA;
+
+(f)
+Liens (i) consisting of deposits of property or assets to secure (or in lieu of) safety, appeal or customs bonds in
+proceedings to which the Borrower or any of its Subsidiaries is a party in the ordinary course of business, (ii) otherwise incurred
+in the ordinary course of business to secure the performance of tenders, statutory or regulatory obligations, surety, stay,
+customs and appeal bonds, statutory bonds, bids, leases, government contracts, trade contracts, performance and return of
+money bonds and other similar obligations (exclusive of obligations for the payment of borrowed money) or (iii) arising by virtue
+of deposits made in the ordinary course of business to secure liability for premiums to insurance carriers;
+
+(g)
+easements, rights-of-way, restrictions (including zoning restrictions), licenses, encroachments, protrusions and
+other similar charges or encumbrances, and minor title deﬁciencies, aﬀecting real property which, in the aggregate, are not
+substantial in amount, and which do not in any case materially detract from the value of the property subject thereto or materially
+interfere with the ordinary conduct of the business of the applicable Person;
+
+(h)
+Liens securing Indebtedness in respect of operating leases or capital leases (including lease lines, interim lease
+lines or progress payment agreements entered into in connection with or under capital leases), Synthetic Lease Obligations,
+purchase money obligations and other obligations, in each case, the proceeds of which are used in whole or in part to design,
+acquire, install or construct or make
+
+
+#### 49

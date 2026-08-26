@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2022_Q2_10-Q
+# Financial Report: AMAZON_2022_Q2_10-Q
 
 - **Source File**: `AMAZON_2022_Q2_10-Q.pdf`
-- **Total Pages**: 79
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 79
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3562,686 +3562,200 @@ $335 million for Q2 2022, and by $498 million for the six months ended June 30, 
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| Operating expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of sales | $ | 64,176 |  |  | $ | 66,424 |  |  | $ | 126,579 |  |  | $ | 132,923 |  |
-| Fulfillment | 17,638 |  |  |  | 20,342 |  |  |  | 34,168 |  |  |  | 40,613 |  |  |
-| Technology and content | 13,871 |  |  |  | 18,072 |  |  |  | 26,359 |  |  |  | 32,914 |  |  |
-| Sales and marketing | 7,524 |  |  |  | 10,086 |  |  |  | 13,731 |  |  |  | 18,406 |  |  |
-| General and administrative | 2,158 |  |  |  | 2,903 |  |  |  | 4,145 |  |  |  | 5,497 |  |  |
-| Other operating expense (income), net | 11 |  |  |  | 90 |  |  |  | 49 |  |  |  | 339 |  |  |
-| Total operating expenses | $ | 105,378 |  |  | $ | 117,917 |  |  | $ | 205,031 |  |  | $ | 230,692 |  |
-| Year-over-year Percentage Growth: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 22 |  | % |  | 4 |  | % |  | 31 |  | % |  | 5 |  | % |
-| Fulfillment | 28 |  |  |  | 15 |  |  |  | 35 |  |  |  | 19 |  |  |
-| Technology and content | 34 |  |  |  | 30 |  |  |  | 34 |  |  |  | 25 |  |  |
-| Sales and marketing | 73 |  |  |  | 34 |  |  |  | 50 |  |  |  | 34 |  |  |
-| General and administrative | 37 |  |  |  | 35 |  |  |  | 37 |  |  |  | 33 |  |  |
-| Other operating expense (income), net | (96) |  |  |  | 673 |  |  |  | (86) |  |  |  | 588 |  |  |
-| Percent of Net Sales: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 56.8 |  | % |  | 54.8 |  | % |  | 57.1 |  | % |  | 55.9 |  | % |
-| Fulfillment | 15.6 |  |  |  | 16.8 |  |  |  | 15.4 |  |  |  | 17.1 |  |  |
-| Technology and content | 12.3 |  |  |  | 14.9 |  |  |  | 11.9 |  |  |  | 13.8 |  |  |
-| Sales and marketing | 6.7 |  |  |  | 8.3 |  |  |  | 6.2 |  |  |  | 7.7 |  |  |
-| General and administrative | 1.9 |  |  |  | 2.4 |  |  |  | 1.9 |  |  |  | 2.3 |  |  |
-| Other operating expense (income), net | 0.0 |  |  |  | 0.1 |  |  |  | 0.0 |  |  |  | 0.1 |  |  |
-
+## Page 31
 
 
 #### Table of Contents
 
 
-#### Operating Expenses
+#### Guidance
+
+We provided guidance on July 28, 2022, in our earnings release furnished on Form 8-K as set forth below. These forward-looking
+statements reflect Amazon.com’s expectations as of July 28, 2022, and are subject to substantial uncertainty. Our results are inherently
+unpredictable and may be materially affected by many factors, such as uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations
+in foreign exchange rates, changes in global economic conditions and customer demand and spending, inflation, regional labor market and global
+supply chain constraints, world events, the rate of growth of the Internet, online commerce, and cloud services, as well as those outlined in
+Item 1A of Part II, “Risk Factors.” This guidance reflects our estimates as of July 28, 2022 regarding the impacts of the COVID-19 pandemic on
+our operations as well as the effect of other factors discussed above.
 
 
-#### Information about operating expenses is as follows (in millions):
+#### Third Quarter 2022 Guidance
+
+•
+Net sales are expected to be between $125.0 billion and $130.0 billion, or to grow between 13% and 17% compared with third quarter
+2021. This guidance anticipates an unfavorable impact of approximately 390 basis points from foreign exchange rates.
+
+•
+Operating income is expected to be between $0 and $3.5 billion, compared with $4.9 billion in third quarter 2021.
+
+•
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are
+concluded.
 
 
-#### Three Months Ended
+#### 31
 
 
-#### June 30,
-
-
-#### Six Months Ended
-
-
-#### June 30,
-
-2021
-2022
-2021
-2022
-Operating expenses:
-
-Cost of sales
-$
-64,176 
-$
-66,424 
-$
-126,579 
-$
-132,923 
-Fulfillment
-17,638 
-20,342 
-34,168 
-40,613 
-Technology and content
-13,871 
-18,072 
-26,359 
-32,914 
-Sales and marketing
-7,524 
-10,086 
-13,731 
-18,406 
-General and administrative
-2,158 
-2,903 
-4,145 
-5,497 
-Other operating expense (income), net
-11 
-90 
-49 
-339 
-Total operating expenses
-$
-105,378 
-$
-117,917 
-$
-205,031 
-$
-230,692
-
-
-#### Year-over-year Percentage Growth:
-
-Cost of sales
-22 %
-4 %
-31 %
-5 %
-Fulfillment
-28 
-15 
-35 
-19 
-Technology and content
-34 
-30 
-34 
-25 
-Sales and marketing
-73 
-34 
-50 
-34 
-General and administrative
-37 
-35 
-37 
-33 
-Other operating expense (income), net
-(96)
-673 
-(86)
-588 
-Percent of Net Sales:
-
-Cost of sales
-56.8 %
-54.8 %
-57.1 %
-55.9 %
-Fulfillment
-15.6 
-16.8 
-15.4 
-17.1 
-Technology and content
-12.3 
-14.9 
-11.9 
-13.8 
-Sales and marketing
-6.7 
-8.3 
-6.2 
-7.7 
-General and administrative
-1.9 
-2.4 
-1.9 
-2.3 
-Other operating expense (income), net
-0.0 
-0.1 
-0.0 
-0.1
-
-
-#### Cost of Sales
-
-Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
-to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
-gross, including video and music.
-
-The increase in cost of sales in absolute dollars in Q2 2022, and for the six months ended June 30, 2022, compared to the comparable
-prior year periods, is primarily due to increased product and shipping costs resulting from increased sales, increased investments in our
-fulfillment network, as well as increased transportation costs, increased wage rates and incentives, and fulfillment network inefficiencies resulting
-from regional labor market and global supply chain constraints. Changes in foreign exchange rates reduced cost of sales by $2.5 billion for Q2
-2022, and by $3.8 billion for the six months ended June 30, 2022.
-
-Shipping costs to receive products from our suppliers are included in our inventory and recognized as cost of sales upon sale of products to
-our customers. Shipping costs, which include sortation and delivery centers and transportation costs, were $17.7 billion and $19.3 billion in Q2
-2021 and Q2 2022, and $34.9 billion and $38.9 billion for the six months ended June 30, 2021 and 2022. We expect our cost of shipping to
-continue to increase to the extent our customers accept and use our shipping offers at an increasing rate, we use more expensive shipping
-methods, including faster delivery, and we offer additional services. We seek to mitigate costs of shipping over time in part through achieving
-higher sales volumes, optimizing our fulfillment network, negotiating better terms with our suppliers, and achieving better operating efficiencies.
-We believe that offering low prices to our customers is fundamental to our future success, and one way we offer lower prices is through shipping
-offers.
-
-Costs to operate our AWS segment are primarily classified as “Technology and content” as we leverage a shared infrastructure that
-supports both our internal technology requirements and external sales to AWS customers.
-
-
-#### 26
-
-
-## Page 27
+## Page 32
 
 
 #### Table of Contents
 
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
 
-#### Fulfillment
-
-Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International fulfillment centers,
-physical stores, and customer service centers and payment processing costs. While AWS payment processing and related transaction costs are
-included in “Fulfillment,” AWS costs are primarily classified as “Technology and content.” Fulfillment costs as a percentage of net sales may vary
-due to several factors, such as payment processing and related transaction costs, our level of productivity and accuracy, changes in volume, size,
-and weight of units received and fulfilled, the extent to which third party sellers utilize Fulfillment by Amazon services, timing of fulfillment network
-and physical store expansion, the extent we utilize fulfillment services provided by third parties, mix of products and services sold, and our ability
-to affect customer service contacts per unit by implementing improvements in our operations and enhancements to our customer self-service
-features. Additionally, sales by our sellers have higher payment processing and related transaction costs as a percentage of net sales compared
-to our retail sales because payment processing costs are based on the gross purchase price of underlying transactions.
-
-The increase in fulfillment costs in absolute dollars in Q2 2022 and for the six months ended June 30, 2022, compared to the comparable
-prior year periods, is primarily due to increased investments in our fulfillment network and variable costs corresponding with increased product
-and service sales volume and inventory levels, increased wage rates and incentives and fulfillment network inefficiencies resulting from regional
-labor market and global supply chain constraints.
-
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
+We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our
+investments. Information relating to quantitative and qualitative disclosures about market risk is set forth below and in Item 2 of Part I,
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources.”
 
 
-#### Technology and Content
+#### Interest Rate Risk
 
-Technology and content costs include payroll and related expenses for employees involved in the research and development of new and
-existing products and services, development, design, and maintenance of our stores, curation and display of products and services made
-available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related
-depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
-costs reflect the investments we make in order to offer a wide variety of products and services to our customers.
-
-We seek to invest efficiently in numerous areas of technology and content so we may continue to enhance the customer experience and
-improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and content
-investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and the cross-
-functionality of our systems and operations. We expect spending in technology and content to increase over time as we continue to add
-employees and technology infrastructure. These costs are allocated to segments based on usage. The increase in technology and content costs
-in absolute dollars in Q2 2022 and for the six months ended June 30, 2022, compared to the comparable prior year periods, is primarily due to
-increased payroll and related costs associated with technical teams responsible for expanding our existing products and services and initiatives
-to introduce new products and service offerings, and an increase in spending on technology infrastructure, partially offset by a reduction in
-depreciation and amortization expense from our change in the estimated useful lives of our servers and networking equipment. See Item 7 of
-Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Overview” of our 2021 Annual Report on
-Form 10-K for a discussion of how management views advances in technology and the importance of innovation. See Item 1 of Part I, “Financial
-Statements — Note 1 — Accounting Policies and Supplemental Disclosures — Use of Estimates” for additional information on the change in
-estimated useful lives of our servers and networking equipment.
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our long-term debt. Our long-term
+debt is carried at amortized cost and fluctuations in interest rates do not impact our consolidated financial statements. However, the fair value of
+our debt, which pays interest at a fixed rate, will generally fluctuate with movements of interest rates, increasing in periods of declining rates of
+interest and declining in periods of increasing rates of interest. We generally invest our excess cash in AAA-rated money market funds and
+investment grade short- to intermediate-term fixed income securities. Fixed income securities may have their fair market value adversely affected
+due to a rise in interest rates, and we may suffer losses in principal if forced to sell securities that have declined in market value due to changes
+in interest rates.
 
 
-#### Sales and Marketing
+#### Foreign Exchange Risk
 
-Sales and marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities,
-including sales commissions related to AWS. We direct customers to our stores primarily through a number of marketing channels, such as our
-sponsored search, social and online advertising, third party customer referrals, television advertising, and other initiatives. Our marketing costs
-are largely variable, based on growth in sales and changes in rates. To the extent there is increased or decreased competition for these traffic
-sources, or to the extent our mix of these channels shifts, we would expect to see a corresponding change in our marketing costs.
+During Q2 2022, net sales from our International segment accounted for 22% of our consolidated revenues. Net sales and related
+expenses generated from our internationally-focused stores, including within Canada and Mexico (which are included in our North America
+segment), are primarily denominated in the functional currencies of the corresponding stores and primarily include Euros, British Pounds, and
+Japanese Yen. The results of operations of, and certain of our intercompany balances associated with, our internationally-focused stores and
+AWS are exposed to foreign exchange rate fluctuations. Upon consolidation, as foreign exchange rates vary, net sales and other operating
+results may differ materially from expectations, and we may record significant gains or losses on the remeasurement of intercompany balances.
+For example, as a result of fluctuations in foreign exchange rates throughout the period compared to rates in effect the prior year, International
+segment net sales in Q2 2022 decreased by $3.5 billion in comparison with Q2 2021.
 
-The increase in sales and marketing costs in absolute dollars in Q2 2022 and for the six months ended June 30, 2022, compared to the
-comparable prior year periods, is primarily due to increased payroll and related expenses for personnel engaged in marketing and selling
-activities and higher marketing spend.
+We have foreign exchange risk related to foreign-denominated cash, cash equivalents, and marketable securities (“foreign funds”). Based
+on the balance of foreign funds as of June 30, 2022, of $12.4 billion, an assumed 5%, 10%, and 20% adverse change to foreign exchange would
+result in fair value declines of $620 million, $1.2 billion, and $2.5 billion. Fluctuations in fair value are recorded in “Accumulated other
+comprehensive income (loss),” a separate component of stockholders’ equity. Equity securities with readily determinable fair values are included
+in “Marketable securities” on our consolidated balance sheets and are measured at fair value with changes recognized in “Other income
+(expense), net” on our consolidated statements of operations.
 
-While costs associated with Amazon Prime membership benefits and other shipping offers are not included in sales and marketing
-expense, we view these offers as effective worldwide marketing tools, and intend to continue offering them indefinitely.
+We have foreign exchange risk related to our intercompany balances denominated in various foreign currencies. Based on the
+intercompany balances as of June 30, 2022, an assumed 5%, 10%, and 20% adverse change to foreign exchange rates would result in losses of
+$405 million, $805 million, and $1.6 billion, recorded to “Other income (expense), net.”
+
+See Item 2 of Part I, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations —
+Effect of Foreign Exchange Rates” for additional information on the effect on reported results of changes in foreign exchange rates.
 
 
-#### 27
+#### Equity Investment Risk
+
+As of June 30, 2022, our recorded value in equity and equity warrant investments in public and private companies was $8.8 billion. Our
+equity and equity warrant investments in publicly traded companies, which primarily relate to Rivian, represent $6.6 billion of our investments as
+of June 30, 2022, and are recorded at fair value, which is subject to market price volatility. We record our equity warrant investments in private
+companies at fair value and adjust our equity investments in private companies for observable price changes or impairments. Valuations of
+private companies are inherently more complex due to the lack of readily available market data. The current global economic conditions provide
+additional uncertainty. As such, we believe that market sensitivities are not practicable.
 
 
-## Page 28
+#### 32
 
-### Table 28.1
 
-| Net cash provided by (used in) operating activities | $ | 59,322 |  | $ | 35,574 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (47,176) |  |  | (59,061) |  |
-| Free cash flow | $ | 12,146 |  | $ | (23,487) |
-| Net cash provided by (used in) investing activities | $ | (63,659) |  | $ | (38,580) |
-| Net cash provided by (used in) financing activities | $ | 6,246 |  | $ | 740 |
-
+## Page 33
 
 
 #### Table of Contents
 
+Item 4.
+Controls and Procedures
 
-#### General and Administrative
+We carried out an evaluation required by the Securities Exchange Act of 1934 (the “1934 Act”), under the supervision and with the
+participation of our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures, as defined in Rule 13a-15(e) of the 1934 Act, as of the end of the period covered by this report. Based on this
+evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective to
+provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the 1934 Act is recorded,
+processed, summarized, and reported within the time periods specified in the SEC’s rules and forms and to provide reasonable assurance that
+such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as
+appropriate to allow timely decisions regarding required disclosure.
 
-The increase in general and administrative costs in absolute dollars in Q2 2022 and for the six months ended June 30, 2022, compared to
-the comparable prior year periods, is primarily due to increases in payroll and related expenses and professional fees.
+During the most recent fiscal quarter, there has not occurred any change in our internal control over financial reporting that has materially
+affected, or is reasonably likely to materially affect, our internal control over financial reporting.
 
-
-#### Other Operating Expense (Income), Net
-
-Other operating expense (income), net was $11 million and $90 million for Q2 2021 and Q2 2022, and $49 million and $339 million for the
-six months ended June 30, 2021 and 2022, and was primarily related to impairments of property and equipment and operating leases in 2022
-and the amortization of intangible assets.
-
-
-#### Interest Income and Expense
-
-Our interest income was $106 million and $159 million during Q2 2021 and Q2 2022, and $211 million and $267 million for the six months
-ended June 30, 2021 and 2022. We generally invest our excess cash in AAA-rated money market funds and investment grade short- to
-intermediate-term fixed income securities. Our interest income corresponds with the average balance of invested funds based on the prevailing
-rates, which vary depending on the geographies and currencies in which they are invested.
-
-Interest expense was $435 million and $584 million during Q2 2021 and Q2 2022, and $834 million and $1.1 billion for the six months
-ended June 30, 2021 and 2022, and was primarily related to debt and finance leases.
+Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their objectives as specified above.
+Management does not expect, however, that our disclosure controls and procedures will prevent or detect all error and fraud. Any control system,
+no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that its
+objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or
+that all control issues and instances of fraud, if any, within the Company have been detected.
 
 
-#### Other Income (Expense), Net
-
-Other income (expense), net was $1.3 billion and $(5.5) billion during Q2 2021 and Q2 2022, and $3.0 billion and $(14.1) billion for the six
-months ended June 30, 2021 and 2022. The primary components of other income (expense), net are related to equity securities valuations and
-adjustments, equity warrant valuations, and foreign currency. Included in other income (expense), net is a marketable equity securities valuation
-loss of $3.9 billion in Q2 2022, and $11.5 billion for the six months ended June 30, 2022, from our equity investment in Rivian.
+#### 33
 
 
-#### Income Taxes
-
-Our income tax provision for the six months ended June 30, 2021 was $3.0 billion, which included $1.4 billion of net discrete tax benefits
-primarily attributable to excess tax benefits from stock-based compensation and audit-related developments. Our income tax benefit for the six
-months ended June 30, 2022 was $2.1 billion, which included $3.2 billion of net discrete tax benefits primarily attributable to a valuation loss
-related to our equity investment in Rivian. See Item 1 of Part I, “Financial Statements — Note 7 — Income Taxes” for additional information.
-
-
-#### Non-GAAP Financial Measures
-
-Regulation G, Conditions for Use of Non-GAAP Financial Measures, and other SEC regulations define and prescribe the conditions for use
-of certain non-GAAP financial information. Our measures of free cash flows and the effect of foreign exchange rates on our consolidated
-statements of operations meet the definition of non-GAAP financial measures.
-
-We provide multiple measures of free cash flows because we believe these measures provide additional perspective on the impact of
-acquiring property and equipment with cash and through finance leases and financing obligations.
-
-
-#### Free Cash Flow
-
-Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
-The following is a reconciliation of free cash flow to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating
-activities,” for the trailing twelve months ended June 30, 2021 and 2022 (in millions):
-
-
-#### Twelve Months Ended
-
-
-#### June 30,
-
-2021
-2022
-Net cash provided by (used in) operating activities
-$
-59,322 
-$
-35,574 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(47,176)
-(59,061)
-Free cash flow
-$
-12,146 
-$
-(23,487)
-
-Net cash provided by (used in) investing activities
-$
-(63,659)
-$
-(38,580)
-
-Net cash provided by (used in) financing activities
-$
-6,246 
-$
-740
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Net cash provided by (used in) operating activities | $ | 59,322 |  | $ | 35,574 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (47,176) |  |  | (59,061) |  |
-| Free cash flow | 12,146 |  |  | (23,487) |  |
-| Principal repayments of finance leases | (11,435) |  |  | (9,789) |  |
-| Principal repayments of financing obligations | (116) |  |  | (205) |  |
-| Free cash flow less principal repayments of finance leases and financing obligations | $ | 595 |  | (33,481) |  |
-| Net cash provided by (used in) investing activities | $ | (63,659) |  | $ | (38,580) |
-| Net cash provided by (used in) financing activities | $ | 6,246 |  | $ | 740 |
-
-
-### Table 29.2
-
-| Net cash provided by (used in) operating activities | $ | 59,322 |  | $ | 35,574 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (47,176) |  |  | (59,061) |  |
-| Free cash flow | 12,146 |  |  | (23,487) |  |
-| Equipment acquired under finance leases (1) | (7,295) |  |  | (1,621) |  |
-| Principal repayments of all other finance leases (2) | (550) |  |  | (751) |  |
-| Principal repayments of financing obligations | (116) |  |  | (205) |  |
-| Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations | $ | 4,185 |  | $ | (26,064) |
-| Net cash provided by (used in) investing activities | $ | (63,659) |  | $ | (38,580) |
-| Net cash provided by (used in) financing activities | $ | 6,246 |  | $ | 740 |
-
+## Page 34
 
 
 #### Table of Contents
 
-Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations
-
-Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by “Principal repayments of
-finance leases” and “Principal repayments of financing obligations.” Principal repayments of finance leases and financing obligations
-approximates the actual payments of cash for our finance leases and financing obligations. The following is a reconciliation of free cash flow less
-principal repayments of finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for the trailing twelve months ended June 30, 2021 and 2022 (in millions):
-
-
-#### Twelve Months Ended
-
-
-#### June 30,
-
-2021
-2022
-Net cash provided by (used in) operating activities
-$
-59,322 
-$
-35,574 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(47,176)
-(59,061)
-Free cash flow
-12,146 
-(23,487)
-Principal repayments of finance leases
-(11,435)
-(9,789)
-Principal repayments of financing obligations
-(116)
-(205)
-Free cash flow less principal repayments of finance leases and financing obligations
-$
-595 
-(33,481)
-
-Net cash provided by (used in) investing activities
-$
-(63,659)
-$
-(38,580)
-
-Net cash provided by (used in) financing activities
-$
-6,246 
-$
-740
-
-Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations
-
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash
-flow reduced by equipment acquired under finance leases, which is included in “Property and equipment acquired under finance leases, net of
-remeasurements and modifications,” principal repayments of all other finance lease liabilities, which is included in “Principal repayments of
-finance leases,” and “Principal repayments of financing obligations.” All other finance lease liabilities and financing obligations consists of
-property. In this measure, equipment acquired under finance leases is reflected as if these assets had been purchased with cash, which is not the
-case as these assets have been leased. The following is a reconciliation of free cash flow less equipment finance leases and principal
-repayments of all other finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for the trailing twelve months ended June 30, 2021 and 2022 (in millions):
-
-
-#### Twelve Months Ended
-
-
-#### June 30,
+PART II. OTHER INFORMATION
+Item 1.
+Legal Proceedings
 
-2021
-2022
-Net cash provided by (used in) operating activities
-$
-59,322 
-$
-35,574 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(47,176)
-(59,061)
-Free cash flow
-12,146 
-(23,487)
-Equipment acquired under finance leases (1)
-(7,295)
-(1,621)
-Principal repayments of all other finance leases (2)
-(550)
-(751)
-Principal repayments of financing obligations
-(116)
-(205)
+See Item 1 of Part I, “Financial Statements — Note 4 — Commitments and Contingencies — Legal Proceedings.”
 
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and
-financing obligations
-$
-4,185 
-$
-(26,064)
+Item 1A.
+Risk Factors
 
-Net cash provided by (used in) investing activities
-$
-(63,659)
-$
-(38,580)
+Please carefully consider the following discussion of significant factors, events, and uncertainties that make an investment in our securities
+risky. The events and consequences discussed in these risk factors could, in circumstances we may or may not be able to accurately predict,
+recognize, or control, have a material adverse effect on our business, growth, reputation, prospects, financial condition, operating results
+(including components of our financial results), cash flows, liquidity, and stock price. These risk factors do not identify all risks that we face; our
+operations could also be affected by factors, events, or uncertainties that are not presently known to us or that we currently do not consider to
+present significant risks to our operations. In addition to the effects of the COVID-19 pandemic and resulting global disruptions on our business
+and operations discussed in Item 2 of Part I, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and in
+the risk factors below, global economic conditions and additional or unforeseen circumstances, developments, or events may give rise to or
+amplify many of the risks discussed below.
 
-Net cash provided by (used in) financing activities
-$
-6,246 
-$
-740
 
-___________________
-(1) For the twelve months ended June 30, 2021 and 2022, this amount relates to equipment included in “Property and equipment acquired under
+#### Business and Industry Risks
 
-finance leases, net of remeasurements and modifications” of $9,976 million and $3,579 million.
-(2) For the twelve months ended June 30, 2021 and 2022, this amount relates to property included in “Principal repayments of finance leases” of
 
-$11,435 million and $9,789 million.
+#### We Face Intense Competition
 
+Our businesses are rapidly evolving and intensely competitive, and we have many competitors across geographies, including cross-border
+competition, and in different industries, including physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure
+computing services, electronic devices, digital content, advertising, grocery, and transportation and logistics services. Some of our current and
+potential competitors have greater resources, longer histories, more customers, and/or greater brand recognition, particularly with our newly-
+launched products and services and in our newer geographic regions. They may secure better terms from vendors, adopt more aggressive
+pricing, and devote more resources to technology, infrastructure, fulfillment, and marketing.
 
-#### 29
+Competition continues to intensify, including with the development of new business models and the entry of new and well-funded
+competitors, and as our competitors enter into business combinations or alliances and established companies in other market segments expand
+to become competitive with our business. In addition, new and enhanced technologies, including search, web and infrastructure computing
+services, digital content, and electronic devices continue to increase our competition. The Internet facilitates competitive entry and comparison
+shopping, which enhances the ability of new, smaller, or lesser known businesses to compete against us. As a result of competition, our product
+and service offerings may not be successful, we may fail to gain or may lose business, and we may be required to increase our spending or lower
+prices, any of which could materially reduce our sales and profits.
 
+Our Expansion into New Products, Services, Technologies, and Geographic Regions Subjects Us to Additional Risks
 
-## Page 30
+We may have limited or no experience in our newer market segments, and our customers may not adopt our product or service offerings.
+These offerings, which can present new and difficult technology challenges, may subject us to claims if customers of these offerings experience
+service disruptions or failures or other quality issues. In addition, profitability, if any, in our newer activities may not meet our expectations, and we
+may not be successful enough in these newer activities to recoup our investments in them. Failure to realize the benefits of amounts we invest in
+new technologies, products, or services could result in the value of those investments being written down or written off. In addition, our
+sustainability initiatives may be unsuccessful for a variety of reasons, including if we are unable to realize the expected benefits of new
+technologies or if we do not successfully plan or execute new strategies, which could harm our business or damage our reputation.
 
-### Table 30.1
 
-| Net sales | $ | 113,080 |  | $ | (2,471) |  | $ | 110,609 |  | $ | 121,234 |  | $ | 3,599 |  | $ | 124,833 |  | $ | 221,598 |  | $ | (4,544) |  | $ | 217,054 |  | $ | 237,678 |  | $ | 5,440 |  | $ | 243,118 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Operating expenses | 105,378 |  |  | (2,464) |  |  | 102,914 |  |  | 117,917 |  |  | 3,764 |  |  | 121,681 |  |  | 205,031 |  |  | (4,430) |  |  | 200,601 |  |  | 230,692 |  |  | 5,731 |  |  | 236,423 |  |
-| Operating income | 7,702 |  |  | (7) |  |  | 7,695 |  |  | 3,317 |  |  | (165) |  |  | 3,152 |  |  | 16,567 |  |  | (114) |  |  | 16,453 |  |  | 6,986 |  |  | (291) |  |  | 6,695 |  |
+#### Our International Operations Expose Us to a Number of Risks
 
+Our international activities are significant to our revenues and profits, and we plan to further expand internationally. In certain international
+market segments, we have relatively little operating experience and may not benefit from any first-to-market advantages or otherwise succeed. It
+is costly to establish, develop, and maintain international operations and stores, and promote our brand internationally. Our international
+operations may not become profitable on a sustained basis.
 
+In addition to risks described elsewhere in this section, our international sales and operations are subject to a number of risks, including:
 
-#### Table of Contents
+•
+local economic and political conditions;
 
-All of these free cash flows measures have limitations as they omit certain components of the overall cash flow statement and do not
-represent the residual cash flow available for discretionary expenditures. For example, these measures of free cash flows do not incorporate the
-portion of payments representing principal reductions of debt or cash payments for business acquisitions. Additionally, our mix of property and
-equipment acquisitions with cash or other financing options may change over time. Therefore, we believe it is important to view free cash flows
-measures only as a complement to our entire consolidated statements of cash flows.
 
-
-#### Effect of Foreign Exchange Rates
-
-Information regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and operating
-income is provided to show reported period operating results had the foreign exchange rates remained the same as those in effect in the
-comparable prior year period. The effect on our net sales, operating expenses, and operating income from changes in our foreign exchange
-rates versus the U.S. Dollar is as follows (in millions):
-
-Three Months Ended June 30,
-Six Months Ended June 30,
-
-2021
-2022
-2021
-2022
-
-As
-Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-As Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-
-As
-Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-As Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-
-Net sales
-$
-113,080 
-$
-(2,471)
-$
-110,609 
-$
-121,234 
-$
-3,599 
-$
-124,833 
-$
-221,598 
-$
-(4,544)
-$
-217,054 
-$
-237,678 
-$
-5,440 
-$
-243,118
-
-Operating expenses
-105,378 
-(2,464)
-102,914 
-117,917 
-3,764 
-121,681 
-205,031 
-(4,430)
-200,601 
-230,692 
-5,731 
-236,423
-
-Operating income
-7,702 
-(7)
-7,695 
-3,317 
-(165)
-3,152 
-16,567 
-(114)
-16,453 
-6,986 
-(291)
-6,695
-
-___________________
-(1) Represents the change in reported amounts resulting from changes in foreign exchange rates from those in effect in the comparable prior
-
-year period for operating results.
-(2) Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the
-
-comparable prior year period for operating results.
-
-
-#### 30
+#### 34

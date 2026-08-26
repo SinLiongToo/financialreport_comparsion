@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2025_10-K
+# Financial Report: META-PLATFORMS_2025_10-K
 
 - **Source File**: `META-PLATFORMS_2025_10-K.pdf`
-- **Total Pages**: 145
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 145
+- **Parsed Key Pages**: 62 (62 selected sections)
 
 ---
 
@@ -1677,317 +1677,3681 @@ refunds or other concessions provided to advertisers;
 #### 24
 
 
-## Page 26
+## Page 70
 
 
 #### Table of Contents
 
-•
-share-based compensation expense, including acquisition-related expense;
 
-•
-adverse litigation judgments, settlements, or other litigation-related costs;
+#### Critical Accounting Estimates
 
-•
-changes in the legislative or regulatory environment, including with respect to privacy, data protection, consumer protection,
-antitrust, content, or AI, or actions by governments or regulators, including fines, orders, or consent decrees;
+Our consolidated ﬁnancial statements are prepared in accordance with GAAP. The preparation of these consolidated ﬁnancial statements
+requires us to make estimates and assumptions that aﬀect the reported amounts of assets, liabilities, revenue, costs and expenses, and related
+disclosures. On an ongoing basis, we evaluate our accounting estimates based on historical experience and on various other assumptions that
+we believe are reasonable under the circumstances. The actual impact on our ﬁnancial performance could diﬀer from these estimates under
+different assumptions or conditions.
 
-•
-the overall tax rate for our business, which is aﬀected by the mix of income we earn in the U.S. and in jurisdictions with diﬀerent tax
-rates, the eﬀects of share-based compensation, the eﬀects of integrating intellectual property from acquisitions, the eﬀects of
-changes in our business or structure, and the effects of discrete items such as legal and tax settlements and tax elections;
-
-•
-the impact of changes in tax laws or judicial or regulatory interpretations of tax laws, which are recorded in the period such laws are
-enacted or interpretations are issued, and may significantly affect the effective tax rate of that period;
-
-•
-tax obligations that may arise from resolutions of tax examinations, including the examination we are currently under by the Internal
-Revenue Service (IRS), that materially differ from the amounts we have anticipated;
-
-•
-ﬂuctuations in currency exchange rates and changes in the proportion of our revenue and expenses denominated in foreign
-currencies;
-
-•
-trading activity in our share repurchase program;
-
-•
-ﬂuctuations in the market values of our investments in marketable securities, in the valuation of our non-marketable equity
-investments, and in interest rates;
-
-•
-the incurrence of indebtedness or our ability to refinance existing indebtedness on acceptable terms;
-
-•
-changes in U.S. generally accepted accounting principles; and
-
-•
-changes in regional or global business, macroeconomic, or geopolitical conditions, which may impact the other factors described
-above.
-
-Unfavorable media coverage negatively affects our business.
-
-We receive a high degree of media coverage around the world. Our reputation has been, and could in the future be, adversely aﬀected by
-unfavorable publicity regarding, for example, our privacy practices, advertising policies, product decisions, product quality, litigation or regulatory
-activity, government surveillance, the actions of our advertisers, the actions of our developers whose products are integrated with our products,
-the use of our products or services for illicit or objectionable ends, the substance or enforcement of our community standards, terms of service, or
-other policies, the actions of our users, the quality and integrity of content shared on our platform, the perceived or actual impacts of our products
-or services on user well-being, including for younger users, our management, or the actions of other companies that provide similar services to
-ours. For example, we have been the subject of signiﬁcant media coverage involving concerns around our handling of political speech, hate
-speech, and other content, advertising, and deceptive activity on our platform, as well as user well-being issues, and we continue to receive
-negative publicity related to these topics. Beginning in September 2021, we became the subject of signiﬁcant media coverage as a result of
-allegations and the release of internal company documents by a former employee. In addition, we have been, and may in the future be, subject
-to negative publicity in connection with our handling of misinformation and other illicit or objectionable use of our products or services, including
-in connection with geopolitical events and elections in the United States and around the world. We have also been, and expect to continue to be,
-subject to media coverage in connection with litigation matters. For example, several bellwether trials in our youth-related litigation matters are
-scheduled for 2026 and beyond. Any such negative publicity could have an adverse eﬀect on the size, engagement, and loyalty of our user base
-and marketer demand for advertising on our products, which could result in decreased revenue and adversely aﬀect our business and ﬁnancial
-results, and we have experienced such adverse effects to varying degrees from time to time.
+An accounting estimate is considered critical if both (i) the nature of the estimates or assumptions is material due to the levels of
+subjectivity and judgment involved, and (ii) the impact within a reasonable range of outcomes of the estimates and assumptions is material to our
+consolidated ﬁnancial statements. We believe that the estimates and assumptions associated with loss contingencies, income taxes, and
+valuation of non-marketable equity investments, when applicable, have the greatest potential impact on our consolidated ﬁnancial statements.
+Therefore, we consider these to be our critical accounting estimates. For further information on all of our signiﬁcant accounting policies, see
+Note 1 — Summary of Signiﬁcant Accounting Policies in the accompanying notes to the consolidated ﬁnancial statements included in Part II,
+Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
 
 
-#### 25
+#### Loss Contingencies
+
+We are involved in legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the ordinary
+course of business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. Additionally, we are
+required to comply with various legal and regulatory obligations around the world, and we regularly become subject to new laws and regulations
+in the jurisdictions in which we operate. The requirements for complying with these obligations may be uncertain and subject to interpretation and
+enforcement by regulatory and other authorities, and any failure or perceived failure to comply with such obligations could eventually lead to
+asserted legal or regulatory action. With respect to these matters, asserted and unasserted, we evaluate the associated developments on a
+regular basis and accrue a liability when we believe that it is both probable that a loss has been incurred and the amount can be reasonably
+estimated.
+
+We review the developments in our contingencies that could aﬀect the amount of the estimated liability that has been previously recorded,
+and the matters and related reasonably possible losses disclosed. We make adjustments to our estimated liability and changes to our disclosures
+accordingly to reﬂect the merits of our defenses and the impact of negotiations, settlements, regulatory proceedings, rulings, advice of legal
+counsel, and updated information. Signiﬁcant judgment is required to determine the likelihood of loss and the estimated amount of loss, including
+when and if the probability and estimate has changed for asserted and unasserted matters. Certain factors, in particular, have resulted in
+signiﬁcant changes to these estimates and judgments in prior quarters based on updated information available. For example, in certain
+jurisdictions where we operate, fines and penalties may be the result of new laws and preliminary interpretations regarding the basis of assessing
+damages, which may make it diﬃcult to estimate what such ﬁnes and penalties would amount to if successfully asserted against us. As a result
+of these and other factors, we reasonably expect that our estimates and judgments with respect to our contingencies may continue to be revised
+in the future.
+
+The ultimate outcome of these matters, such as whether the likelihood of loss is remote, reasonably possible, or probable or if and when
+the possible range of loss is reasonably estimable, is inherently uncertain. Therefore, if one or more of these matters were resolved against us
+for amounts that materially diﬀer from management's estimates of losses, it could have a favorable or unfavorable impact on our results of
+operations and financial condition. See Note 11 — Commitments and Contingencies and Note 14 — Income Taxes of the accompanying notes to
+the consolidated ﬁnancial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" and Part I, Item 3, "Legal
+Proceedings" of this Annual Report on Form 10-K for additional information regarding these contingencies.
 
 
-## Page 27
+#### Income Taxes
+
+We are subject to income taxes in the United States and numerous foreign jurisdictions. Signiﬁcant judgment is required in determining our
+provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and
+complex tax laws. Our actual and forecasted income (loss) before provision is subject to change due to economic, political and other conditions
+and significant judgment is required in determining our ability to recognize our net deferred tax assets.
+
+
+#### 69
+
+
+## Page 71
 
 
 #### Table of Contents
 
-We are subject to the risk of catastrophic events and crises, which may have a signiﬁcant adverse impact on our business and
+As a result of certain U.S. income tax provisions of the One Big Beautiful Bill Act enacted in July 2025, we expect to incur Corporate
+Alternative Minimum Tax (CAMT) beginning in 2025. In assessing the realizability of our deferred tax assets and determining the need for a
+valuation allowance, our accounting policy incorporates the expected impact of future years' CAMT.
+
+We recognize tax beneﬁts from uncertain tax positions only if we believe that it is more likely than not that the tax position will be sustained
+on examination by the taxing authorities based on the technical merits of the position. These uncertain tax positions include our estimates related
+to uncertainties with our research and development tax credits that are based on an assessment of whether our available documentation
+corroborating the nature of our activities supporting the tax credits will be suﬃcient. Similarly, our estimates for transfer pricing have been
+developed based upon analyses of appropriate arms-length prices. Although we believe that we have adequately reserved for our uncertain tax
+positions (including net interest and penalties), we can provide no assurance that the ﬁnal tax outcome of these matters will not be materially
+diﬀerent, as signiﬁcant judgment is required in evaluating and estimating our provision for income taxes. We make adjustments to these reserves
+in accordance with the income tax accounting guidance when facts and circumstances change, such as the closing of a tax audit or the
+reﬁnement of an estimate. To the extent that the ﬁnal tax outcome of these matters is diﬀerent from the amounts recorded, such diﬀerences will
+aﬀect the provision for income taxes in the period in which such determination is made, and could have a material impact on our ﬁnancial
+condition and operating results. For additional information, see Note 14 — Income Taxes of the accompanying notes to the consolidated financial
+statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
+
+
+#### Valuation of Non-marketable Equity Investments
+
+Impairment testing for non-marketable equity investments, including equity investments without readily determinable fair values accounted
+for using either the measurement alternative or the equity method, is performed at each reporting date to determine whether there are triggering
+events for impairment. Such qualitative assessment considers factors such as, but not limited to, the investee's ﬁnancial condition and business
+outlook; industry and sector performance; regulatory, economic or technological environment; operational and ﬁnancing cash ﬂows; and other
+relevant events and factors aﬀecting the investee. When indicators of impairment exist, we estimate the fair value of our non-marketable equity
+investments using the market approach and/or the income approach and recognize impairment loss in our consolidated statements of income if
+the estimated fair value is less than the carrying value. For equity method investments, an impairment loss is recognized when the impairment is
+considered other-than-temporary.
+
+In addition, under the measurement alternative, determining whether another non-marketable equity investment of the same issuer is
+similar to the non-marketable equity investment we hold may require judgment in (a) assessment of diﬀerences in rights and obligations
+associated with the instruments such as voting rights, distribution rights and preferences, and conversion features, and (b) adjustments to the
+observable price for diﬀerences such as, but not limited to, rights and obligations, control premium, liquidity, or principal or most advantageous
+markets. The identiﬁcation of observable transactions will depend on the timely reporting of these transactions from our investee companies,
+which may occur in a period subsequent to when the transactions take place. Therefore, our fair value adjustment for these observable
+transactions may occur in a period subsequent to when the transaction actually occurred. For additional information, see Note 5 — Non-
+Marketable Equity Investments of the accompanying notes to the consolidated ﬁnancial statements included in Part II, Item 8, "Financial
+Statements and Supplementary Data" of this Annual Report on Form 10-K.
+
+
+#### Change in Accounting Estimate
+
+In January 2025, we completed an assessment of the useful lives of property and equipment, which resulted in an increase in the
+estimated useful lives of most servers and network assets to 5.5 years, eﬀective January 1, 2025. For additional information regarding the
+change in useful lives of our servers and network assets, see Note 1 — Summary of Signiﬁcant Accounting Policies in the accompanying notes
+to the consolidated ﬁnancial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on
+Form 10-K.
+
+
+#### 70
+
+
+## Page 72
+
+
+#### Table of Contents
+
+
+#### Components of Results of Operations
+
+
+#### Revenue
+
+
+#### Family of Apps (FoA)
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad
+products on Facebook, Instagram, Messenger, and third-party mobile applications. Marketers pay for ad products either directly or through their
+relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks, taken
+by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. In particular, the ads we show may vary by product (for example, our
+video and Reels products are not currently monetized at the same rate as our Feed or Stories products), and from time to time we increase or
+decrease the number or frequency of ads we show as part of our product and monetization strategies. We calculate average price per ad as total
+advertising revenue divided by the number of ads delivered, representing the average price paid per ad by a marketer regardless of their desired
+objective such as impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net
+basis.
+
+Other revenue. Other revenue consists of revenue from paid messaging from WhatsApp, Meta Veriﬁed subscriptions, net fees we receive
+from developers using our Payments infrastructure, and revenue from various other sources.
+
+
+#### Reality Labs (RL)
+
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest and AI glasses, and related software and
+content.
+
+
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly
+include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network
+infrastructure and buildings, employee compensation which includes payroll, share-based compensation and beneﬁts for employees on our
+operations teams, and energy and bandwidth costs. Cost of revenue also consists of costs associated with partner arrangements, including
+traﬃc acquisition costs and credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of
+products sold and estimated losses on non-cancelable contractual commitments; and content costs.
+
+Research and development. Research and development expenses consist mostly of employee compensation which includes payroll,
+share-based compensation and beneﬁts for our employees on our engineering and technical teams who are responsible for developing new
+technologies and products; infrastructure costs; RL technology development costs; and facilities-related costs.
+
+Marketing and sales. Marketing and sales expenses consist mostly of employee compensation which includes payroll, share-based
+compensation and beneﬁts for our employees engaged in sales, sales support, marketing, business development, and customer service
+functions; professional services to support our community and product operations; and marketing and promotional expenses.
+
+General and administrative. General and administrative expenses consist primarily of employee compensation which includes payroll,
+share-based compensation and beneﬁts for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications
+and policy, and other administrative employees; legal-related costs, which include estimated ﬁnes, settlements, or other losses in connection
+with legal and related matters, as well as other legal fees; other taxes, such as digital services taxes and other non-income-based tax levies; and
+professional services.
+
+
+#### 71
+
+
+## Page 73
+
+### Table 73.1
+
+| Revenue | $ | 200,966 |  | $ | 164,501 |  | $ | 134,902 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |
+| Cost of revenue | 36,175 |  |  | 30,161 |  |  | 25,959 |  |
+| Research and development | 57,372 |  |  | 43,873 |  |  | 38,483 |  |
+| Marketing and sales | 11,991 |  |  | 11,347 |  |  | 12,301 |  |
+| General and administrative | 12,152 |  |  | 9,740 |  |  | 11,408 |  |
+| Total costs and expenses | 117,690 |  |  | 95,121 |  |  | 88,151 |  |
+| Income from operations | 83,276 |  |  | 69,380 |  |  | 46,751 |  |
+| Interest and other income, net | 2,656 |  |  | 1,283 |  |  | 677 |  |
+| Income before provision for income taxes | 85,932 |  |  | 70,663 |  |  | 47,428 |  |
+| Provision for income taxes | 25,474 |  |  | 8,303 |  |  | 8,330 |  |
+| Net income | $ | 60,458 |  | $ | 62,360 |  | $ | 39,098 |
+
+
+### Table 73.2
+
+| Revenue | 100 | % |  | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |
+| Cost of revenue | 18 |  |  | 18 |  |  | 19 |  |
+| Research and development | 29 |  |  | 27 |  |  | 29 |  |
+| Marketing and sales | 6 |  |  | 7 |  |  | 9 |  |
+| General and administrative | 6 |  |  | 6 |  |  | 8 |  |
+| Total costs and expenses | 59 |  |  | 58 |  |  | 65 |  |
+| Income from operations | 41 |  |  | 42 |  |  | 35 |  |
+| Interest and other income, net | 1 |  |  | 1 |  |  | 1 |  |
+| Income before provision for income taxes | 43 |  |  | 43 |  |  | 35 |  |
+| Provision for income taxes | 13 |  |  | 5 |  |  | 6 |  |
+| Net income | 30 | % |  | 38 | % |  | 29 | % |
+
+
+
+#### Table of Contents
+
+
+#### Results of Operations
+
+In this section, we discuss the results of our operations for the year ended December 31, 2025 compared to the year ended December 31,
+2024. For a discussion of the year ended December 31, 2024 compared to the year ended December 31, 2023, please refer to Part II, Item 7,
+"Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the year
+ended December 31, 2024.
+
+The following table sets forth our consolidated statements of income data (in millions):
+
+Year Ended December 31,
+2025
+2024
+2023
+Revenue
+$
+200,966 
+$
+164,501 
+$
+134,902 
+Costs and expenses:
+ 
+Cost of revenue
+36,175 
+30,161 
+25,959 
+Research and development
+57,372 
+43,873 
+38,483 
+Marketing and sales
+11,991 
+11,347 
+12,301 
+General and administrative
+12,152 
+9,740 
+11,408 
+Total costs and expenses
+117,690 
+95,121 
+88,151 
+Income from operations
+83,276 
+69,380 
+46,751 
+Interest and other income, net
+2,656 
+1,283 
+677 
+Income before provision for income taxes
+85,932 
+70,663 
+47,428 
+Provision for income taxes
+25,474 
+8,303 
+8,330
+
+Net income
+$
+60,458 
+$
+62,360 
+$
+39,098
+
+The following table sets forth our consolidated statements of income data (as a percentage of revenue)
+:
+
+Year Ended December 31,
+2025
+2024
+2023
+Revenue
+100 %
+100 %
+100 %
+Costs and expenses:
+
+Cost of revenue
+18 
+18 
+19 
+Research and development
+29 
+27 
+29 
+Marketing and sales
+6 
+7 
+9 
+General and administrative
+6 
+6 
+8 
+Total costs and expenses
+59 
+58 
+65 
+Income from operations
+41 
+42 
+35 
+Interest and other income, net
+1 
+1 
+1 
+Income before provision for income taxes
+43 
+43 
+35 
+Provision for income taxes
+13 
+5 
+6
+
+Net income
+30 %
+38 %
+29 %
+
+_________________________
+(1)
+Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### (1)
+
+
+#### 72
+
+
+## Page 74
+
+### Table 74.1
+
+| Advertising | $ | 196,175 |  | $ | 160,633 |  | $ | 131,948 |  | 22 | % |  | 22 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 2,584 |  |  | 1,722 |  |  | 1,058 |  |  | 50 | % |  | 63 | % |
+| Family of Apps | 198,759 |  |  | 162,355 |  |  | 133,006 |  |  | 22 | % |  | 22 | % |
+| Reality Labs | 2,207 |  |  | 2,146 |  |  | 1,896 |  |  | 3 | % |  | 13 | % |
+| Total revenue | $ | 200,966 |  | $ | 164,501 |  | $ | 134,902 |  | 22 | % |  | 22 | % |
+
+
+
+#### Table of Contents
+
+
+#### Revenue
+
+
+#### The following table sets forth our revenue by source and by segment:
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+
+
+#### 2025 vs 2024 %
+
+
+#### change
+
+
+#### 2024 vs 2023 %
+
+
+#### change
+
+(in millions, except percentages)
+Advertising
+$
+196,175 
+$
+160,633 
+$
+131,948 
+22 %
+22 %
+Other revenue
+2,584 
+1,722 
+1,058 
+50 %
+63 %
+Family of Apps
+198,759 
+162,355 
+133,006 
+22 %
+22 %
+Reality Labs
+2,207 
+2,146 
+1,896 
+3 %
+13 %
+
+Total revenue
+$
+200,966 
+$
+164,501 
+$
+134,902 
+22 %
+22 %
+
+
+#### Family of Apps
+
+FoA revenue in 2025 increased $36.40 billion, or 22%, compared to 2024. The increase was almost entirely driven by advertising revenue.
+
+
+#### Advertising
+
+Advertising revenue in 2025 increased $35.54 billion, or 22%, compared to 2024 due to increases in ad impressions delivered and average
+price per ad. In 2025, ad impressions delivered increased by 12%, as compared with an increase of 11% in 2024, year-over-year. Ad
+impressions delivered during 2025 grew in all regions, especially in Asia-Paciﬁc, which was driven by increases in users and their engagement
+on our products. In 2025, the average price per ad increased by 9%, as compared with an increase of 10% in 2024, year-over-year. The increase
+in average price per ad in 2025 was driven by an increase in advertising demand, which we believe is mostly due to ongoing improvements to
+our ad performance from our ad targeting and measurement tools. This increase was partially oﬀset by a higher number of ad impressions
+delivered, especially in geographies and in products, such as Reels, that monetize at lower rates. Other factors are discussed in the section
+entitled "—Executive Overview of Full Year 2025 Results." In addition, the online commerce vertical was the largest contributor to the increase in
+advertising revenue in 2025 compared to 2024. We anticipate that future advertising revenue will be driven by a combination of price and ad
+impressions delivered.
+
+
+#### Other revenue
+
+FoA other revenue in 2025 increased $862 million, or 50%, compared to 2024. The increase was mostly driven by paid messaging from
+WhatsApp and Meta Verified subscriptions.
+
+
+#### Reality Labs
+
+RL revenue in 2025 increased $61 million, or 3%, compared to 2024. The increase was driven by an increase in sales of AI glasses,
+partially offset by a decrease in Meta Quest sales.
+
+
+#### Revenue Seasonality
+
+Revenue is traditionally seasonally strong in the fourth quarter of each year due in part to seasonal holiday demand. We believe that this
+seasonality in both advertising revenue and RL consumer hardware sales aﬀects our quarterly results, which generally reﬂect signiﬁcant growth
+in revenue between the third and fourth quarters and a decline between the fourth and subsequent ﬁrst quarters. For instance, our total revenue
+increased 17%, 19%, and 17% between the third and fourth quarters of 2025, 2024, and 2023, respectively, while total revenue for the ﬁrst
+quarters of 2025, 2024, and 2023 declined 13%, 9%, and 11% compared to the fourth quarters of 2024, 2023, and 2022, respectively.
+
+
+#### 73
+
+
+## Page 75
+
+### Table 75.1
+
+| Cost of revenue | $ | 36,175 |  |  | $ | 30,161 |  |  | $ | 25,959 |  |  | 20 | % |  | 16 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 18 |  | % |  | 18 |  | % |  | 19 |  | % |  |  |  |  |  |  |
+
+
+### Table 75.2
+
+| Research and development | $ | 57,372 |  |  | $ | 43,873 |  |  | $ | 38,483 |  |  | 31 | % |  | 14 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 29 |  | % |  | 27 |  | % |  | 29 |  | % |  |  |  |  |  |  |
+
+
+### Table 75.3
+
+| Marketing and sales | $ | 11,991 |  |  | $ | 11,347 |  |  | $ | 12,301 |  |  | 6 | % |  | (8) | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 6 |  | % |  | 7 |  | % |  | 9 |  | % |  |  |  |  |  |  |
+
+
+
+#### Table of Contents
+
+
+#### Foreign Exchange Impact on Revenue
+
+Changes in foreign exchange rates had an unfavorable impact on our revenue in the full year 2025 compared to the same period in 2024.
+To calculate revenue on a constant currency basis, we translated revenue using the prior year's monthly exchange rates for our settlement or
+billing currencies other than the U.S. dollar. Using these constant rates for full year 2025, our total revenue and advertising revenue would have
+been $201.38 billion and $196.60 billion, which were $418 million and $420 million higher than actual total revenue and advertising revenue,
+respectively.
+
+
+#### Cost of revenue
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+
+
+#### 2025 vs 2024 %
+
+
+#### change
+
+
+#### 2024 vs 2023 %
+
+
+#### change
+
+(in millions, except percentages)
+Cost of revenue
+$
+36,175 
+$
+30,161 
+$
+25,959 
+20 %
+16 %
+Percentage of revenue
+18 %
+18 %
+19 %
+
+Cost of revenue in 2025 increased $6.01 billion, or 20%, compared to 2024. The increase was mainly due to higher operational expenses
+related to our data centers and technical infrastructure, which included decreases in the depreciation growth rate due to an extension in the
+useful lives of servers and network assets, eﬀective January 1, 2025. To a lesser extent, higher costs associated with partner arrangements also
+contributed to the increase.
+
+See Note 1 — Summary of Signiﬁcant Accounting Policies in the notes to the consolidated ﬁnancial statements included in Part II, Item 8,
+"Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for additional information regarding changes in the
+estimated useful life of our servers and network assets.
+
+
+#### Research and development
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+
+
+#### 2025 vs 2024 %
+
+
+#### change
+
+
+#### 2024 vs 2023 %
+
+
+#### change
+
+(in millions, except percentages)
+Research and development
+$
+57,372 
+$
+43,873 
+$
+38,483 
+31 %
+14 %
+Percentage of revenue
+29 %
+27 %
+29 %
+
+Research and development expenses in 2025 increased $13.50 billion, or 31%, compared to 2024. The increase was mostly due to higher
+employee compensation and infrastructure costs related to research and development, including our AI initiatives.
+
+The higher employee compensation was primarily from an 8% growth in employee headcount from 2024 to 2025 in engineering and other
+technical functions and an increase in share-based compensation expense.
+
+
+#### Marketing and sales
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+
+
+#### 2025 vs 2024 %
+
+
+#### change
+
+
+#### 2024 vs 2023 %
+
+
+#### change
+
+(in millions, except percentages)
+Marketing and sales
+$
+11,991 
+$
+11,347 
+$
+12,301 
+6 %
+(8) %
+Percentage of revenue
+6 %
+7 %
+9 %
+
+Marketing and sales expenses in 2025 increased $644 million, or 6%, compared to 2024. The increase was mainly due to higher
+professional services related to our ongoing platform integrity efforts.
+
+
+#### 74
+
+
+## Page 80
+
+
+#### Table of Contents
+
+
+#### Material Cash Requirements
+
+We currently anticipate that our available funds and cash ﬂow from operations and ﬁnancing activities will be suﬃcient to meet our
+operational cash needs and fund our cash commitments for investing and ﬁnancing activities, including investments in infrastructure and AI
+initiatives, as well as any return of capital to stockholders over the next 12 months and thereafter for the foreseeable future. We have increased
+investments in infrastructure and AI initiatives and expect to continue to do so. From time to time we may also seek to raise additional capital
+through debt, equity, or other ﬁnancing arrangements. We continuously evaluate our liquidity and capital resources, including our access to
+external capital, to ensure we can finance our future capital requirements.
+
+
+#### Leases and Contractual Commitments
+
+Our operating and ﬁnance leases include data centers, oﬃces, and certain network infrastructure. In addition to lease liabilities included in
+our consolidated balance sheets, we have leases that have not yet commenced, with total lease obligations of approximately $103.77 billion,
+mostly for data centers, colocations, and network infrastructure, as of December 31, 2025. These operating and ﬁnance leases will commence
+between 2026 and 2030 with lease terms of greater than one year to 30 years.
+
+We also have $131.05 billion of contractual commitments as of December 31, 2025, mostly related to third-party cloud capacity
+arrangements and our continued investments in servers and network infrastructure, data centers, and consumer hardware products in Reality
+Labs with $30.63 billion due in 2026.
+
+
+#### Long-term Debt
+
+As of December 31, 2025, we had outstanding long-term debt in the form of senior unsecured notes for an aggregate principal amount of
+$59.0 billion, which mature from 2027 through 2064. Short-term and long-term future interest payments obligations as of December 31, 2025
+were $2.98 billion and $56.74 billion, respectively.
+
+
+#### Capital Return Program
+
+
+#### Share Repurchase
+
+Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and
+does not have an expiration date. In 2025, we repurchased and subsequently retired 40 million shares of our Class A common stock for an
+aggregate amount of $26.26 billion. As of December 31, 2025, $25.03 billion remained available and authorized for repurchases.
+
+The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price,
+general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or
+privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange
+Act of 1934, as amended. Our share repurchase program may be suspended, delayed, discontinued, or accelerated at any time.
+
+
+#### Dividend
+
+Beginning in the ﬁrst quarter of 2025, we increased our quarterly cash dividends from $0.50 to $0.525 per share of Class A and Class B
+common stock. Total dividends and dividend equivalents paid were $5.32 billion for the year ended December 31, 2025. Subject to legally
+available funds and future declaration by our board of directors, we currently intend to continue to pay a quarterly cash dividend and dividend
+equivalents on our outstanding common stock.
+
+
+#### Taxes
+
+Cash paid for income taxes was $7.58 billion for the year ended December 31, 2025. Our long-term income tax liabilities include $11.23
+billion related to the uncertain tax positions and $9.78 billion related to deferred tax liabilities as of December 31, 2025. Due to the uncertainty in
+the timing of the resolution of our uncertain tax positions, we are unable to make a reasonably reliable estimate of the timing of payments.
+
+
+#### 79
+
+
+## Page 81
+
+
+#### Table of Contents
+
+
+#### Loss Contingencies
+
+We are involved in legal proceedings, claims, and regulatory, tax or government inquiries and investigations. Signiﬁcant judgment is
+required to determine both probability and the estimated amount of loss. Such matters are inherently unpredictable and subject to signiﬁcant
+uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to be incorrect, it could
+have a material impact on our results of operations, financial position, and cash flows.
+
+See Note 5 — Non-Marketable Equity Investments, Note 7 — Leases, Note 10 — Long-term Debt, Note 11 — Commitments and
+Contingencies, Note 12 — Stockholders' Equity, and Note 14 — Income Taxes in the notes to the consolidated ﬁnancial statements included in
+Part II, Item 8, and "Legal Proceedings" contained in Part I, Item 3 of this Annual Report on Form 10-K for additional information.
+
+
+#### Recently Issued Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, see Note 1 — Summary of Signiﬁcant Accounting Policies in the
+accompanying notes to the consolidated ﬁnancial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this
+Annual Report on Form 10-K.
+
+
+#### Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risks, including changes to foreign currency exchange rates, interest rates, and equity price risk.
+
+
+#### Foreign Currency Exchange Risk
+
+We have foreign currency risks related to our revenue and operating expenses denominated in currencies other than the U.S. dollar, the
+majority of which is in Euro. Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. dollar, have in the past, and
+may in the future, negatively aﬀect our revenue and other operating results as expressed in U.S. dollars. See Management's Discussion and
+Analysis of Financial Condition and Results of Operations — Foreign Exchange Impact on Revenue section included in Part II, Item 7 of this
+Annual Report on Form 10-K for additional information.
+
+We have experienced and will continue to experience ﬂuctuations in our net income as a result of transaction gains or losses related to
+remeasuring monetary asset and liability balances that are denominated in currencies other than the functional currency of the entities in which
+they are recorded. Foreign currency transaction gains, net were $352 million for the year ended December 31, 2025 and foreign currency
+transaction losses, net were $690 million, and $366 million for the years ended December 31, 2024 and 2023, respectively.
+
+Beginning in 2025, we use short-term foreign currency forward contracts for cash management to reduce, but not entirely eliminate,
+exchange rate impacts on foreign currency cash conversions. These contracts are not designated as hedging instruments. As of December 31,
+2025, no such contracts were outstanding. Realized gains, losses, and forward points for 2025 were not material and recorded within interest and
+other income, net in the consolidated statements of income.
+
+
+#### Interest Rate Sensitivity
+
+Our exposure to changes in interest rates relates primarily to interest income and market value of our cash equivalents, marketable debt
+securities, and the fair value of our long-term debt.
+
+Our cash, cash equivalents, and marketable debt securities consist of cash, time deposits, money market funds, U.S. government and
+agency securities, and investment grade corporate debt securities. Our investment policy and strategy are focused on preservation of capital and
+supporting our liquidity requirements. Changes in U.S. interest rates aﬀect the interest earned on our cash, cash equivalents, and marketable
+debt securities, and the market value of those securities. A hypothetical 100 basis point increase in market interest rates would have resulted in a
+decrease of $711 million and $680 million in the market value of our available-for-sale debt securities and cash equivalents as of December 31,
+2025 and 2024, respectively. Any realized gains or losses resulting from such interest rate changes and from the current unrealized gains or
+losses would only occur if we sold the investments prior to maturity.
+
+
+#### 80
+
+
+## Page 82
+
+
+#### Table of Contents
+
+As of December 31, 2025 and 2024, we also had aggregate principal amounts of ﬁxed-rate senior notes (the Notes) outstanding of $59.0
+billion and $29.0 billion, respectively. Since our Notes bear interest at ﬁxed rates and are carried at amortized cost, ﬂuctuations in interest rates
+do not have any impact on our consolidated ﬁnancial statements. However, the fair value of the Notes will ﬂuctuate with movements in market
+interest rates, increasing in periods of declining interest rates and declining in periods of increasing interest rates.
+
+
+#### Equity Price Risk
+
+Our equity investments include marketable and non-marketable equity investments subject to equity price risks that could have a material
+impact on the fair value or carrying value of our holdings. Our marketable equity securities are publicly traded stocks and our non-marketable
+equity investments are investments in privately-held companies without readily determinable fair values.
+
+We record marketable equity securities at fair value based on readily determinable market values, of which publicly traded stocks are
+subject to market price volatility and represent $5.99 billion and $1.23 billion of our investments as of December 31, 2025 and 2024, respectively.
+A hypothetical adverse price change of 10% on our December 31, 2025 balance would decrease the fair value of marketable equity securities by
+$599 million.
+
+Our non-marketable equity investments accounted for under the measurement alternative are adjusted for changes in fair value resulting
+from observable transactions for identical or similar securities of the same issuer. Valuations of our non-marketable equity investments are
+complex due to the lack of readily available market data and observable transactions. Uncertainties in the global economic climate and ﬁnancial
+markets could adversely impact the valuation of the companies we invest in and, therefore, result in a material impairment or downward
+adjustment in these investments. The carrying value of the non-marketable equity investments accounted for under the measurement alternative
+was $20.08 billion and $6.02 billion as of December 31, 2025 and 2024, respectively.
+
+The carrying value of our non-marketable equity method investments was $7.45 billion and $52 million as of December 31, 2025 and 2024,
+respectively. These investments could be impaired if the carrying value exceeds the fair value and is not expected to recover.
+
+For additional information, see Note 1 — Summary of Signiﬁcant Accounting Policies, Note 4 — Financial Instruments, Note 5 — Non-
+Marketable Equity Investments, and Note 10 — Long-term Debt in the notes to the consolidated ﬁnancial statements included in Part II, Item 8,
+"Financial Statements and Supplementary Data" and Part II, Item 7, "Management’s Discussion and Analysis of Financial Conditions and Results
+of Operations — Critical Accounting Estimates" contained in this Annual Report on Form 10-K.
+
+
+#### 81
+
+
+## Page 83
+
+
+#### Table of Contents
+
+
+#### Item 8. Financial Statements and Supplementary Data
+
+META PLATFORMS, INC.
+
+
+### INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+Reports of Independent Registered Public Accounting Firm (PCAOB ID No. 42)
+83
+Consolidated Financial Statements:
+Consolidated Balance Sheets
+88
+Consolidated Statements of Income
+89
+Consolidated Statements of Comprehensive Income
+90
+Consolidated Statements of Stockholders' Equity
+91
+Consolidated Statements of Cash Flows
+92
+Notes to Consolidated Financial Statements
+94
+
+
+#### 82
+
+
+## Page 84
+
+
+#### Table of Contents
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Meta Platforms, Inc.
+
+
+#### Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Meta Platforms, Inc. (the Company) as of December 31, 2025 and 2024, the
+related consolidated statements of income, comprehensive income, stockholders' equity and cash ﬂows for each of the three years in the period
+ended December 31, 2025, and the related notes (collectively referred to as the "consolidated ﬁnancial statements"). In our opinion, the
+consolidated ﬁnancial statements present fairly, in all material respects, the ﬁnancial position of the Company at December 31, 2025 and 2024,
+and the results of its operations and its cash ﬂows for each of the three years in the period ended December 31, 2025, in conformity with U.S.
+generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the
+Company's internal control over ﬁnancial reporting as of December 31, 2025, based on criteria established in Internal Control–Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated
+January 28, 2026 expressed an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+These ﬁnancial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's
+ﬁnancial statements based on our audits. We are a public accounting ﬁrm registered with the PCAOB and are required to be independent with
+respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and
+Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the ﬁnancial statements are free of material misstatement, whether due to error or fraud. Our audits
+included performing procedures to assess the risks of material misstatement of the ﬁnancial statements, whether due to error or fraud, and
+performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and
+disclosures in the ﬁnancial statements. Our audits also included evaluating the accounting principles used and signiﬁcant estimates made by
+management, as well as evaluating the overall presentation of the ﬁnancial statements. We believe that our audits provide a reasonable basis for
+our opinion.
+
+
+#### Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the ﬁnancial statements that were
+communicated or required to be communicated to the Audit & Privacy Committee and that: (1) relate to accounts or disclosures that are material
+to the ﬁnancial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit
+matters does not alter in any way our opinion on the consolidated ﬁnancial statements, taken as a whole, and we are not, by communicating the
+critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+
+#### 83
+
+
+## Page 85
+
+
+#### Table of Contents
+
+
+#### Loss Contingencies
+
+Description of the Matter
+As described in Note 11 to the consolidated ﬁnancial statements, the Company is party to various legal
+proceedings, claims, and regulatory or government inquiries and investigations. The Company accrues a liability
+when it believes a loss is probable and the amount can be reasonably estimated. In addition, the Company
+believes it is reasonably possible that it will incur a loss in some of these matters described above. When
+applicable, the Company discloses an estimate of the amount of loss or range of possible loss that may be
+incurred or that the amount of such losses or a range of possible losses cannot be reasonably estimated.
+
+Auditing the Company's accounting for, and disclosure of these loss contingencies was especially challenging due
+to the signiﬁcant judgment required to evaluate management's assessments of the probability of loss, and its
+estimate of the potential amount or range of such losses.
+
+How We Addressed the
+Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating eﬀectiveness of controls over the
+identiﬁcation, evaluation and disclosure of loss contingencies, including controls relating to the Company's
+assessment of the likelihood that a loss will be incurred and its ability to reasonably estimate the potential range of
+possible losses.
+
+Our audit procedures included reading the proceedings, claims, and regulatory or government inquiries and
+investigations, or summaries as we deemed appropriate, requesting and receiving legal counsel conﬁrmation
+letters, meeting with legal counsel to discuss the nature of the various matters, and obtaining representations from
+management. We also evaluated the appropriateness of the related disclosures included in Note 11 to the
+consolidated financial statements.
+
+
+#### 84
+
+
+## Page 86
+
+
+#### Table of Contents
+
+
+#### Uncertain Tax Positions
+
+Description of the Matter
+As discussed in Note 14 to the consolidated ﬁnancial statements, the Company has received notices from the
+Internal Revenue Service (IRS) related to transfer pricing with the Company's foreign subsidiaries for certain
+periods examined. The IRS has also applied its position to tax years subsequent to those examined. If the IRS
+prevails in its position, the Company may incur an additional federal tax liability, plus interest and any penalties
+asserted. The Company uses judgment to (1) determine whether a tax position's technical and legal merits are
+more-likely-than-not to be sustained and (2) measure the amount of tax benefit that qualifies for recognition.
+
+Auditing the Company's accounting for, and disclosure of, these uncertain tax positions was especially challenging
+due to the signiﬁcant judgment required to assess management's evaluation of technical merits and the
+measurement of the tax positions based on interpretations of tax laws and legal rulings.
+
+How We Addressed the
+Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating eﬀectiveness of controls over the
+Company's process to assess the technical merits of tax positions related to these transfer pricing and related legal
+rulings and to measure the benefit of those tax positions.
+
+As part of our audit procedures over the Company's accounting for these positions, we involved our tax
+professionals to assist with our assessment of the technical merits of the Company's tax positions. This included
+assessing the Company's correspondence with the relevant tax authorities, evaluating legal rulings, evaluating
+income tax opinions or other third-party advice obtained by the Company, and requesting and receiving
+conﬁrmation letters from third-party advisors. We also used our knowledge of, and experience with, the application
+of international and local income tax laws by the relevant income tax authorities to evaluate the Company's
+accounting for those tax positions. We analyzed the Company's assumptions and data used to determine the
+amount of the federal tax liability recognized and tested the mathematical accuracy of the underlying data and
+calculations. We also evaluated the appropriateness of the related disclosures included in Note 14 to the
+consolidated financial statements in relation to these matters.
+
+
+#### 85
+
+
+## Page 87
+
+
+#### Table of Contents
+
+
+#### Consolidation accounting for a variable interest entity
+
+Description of the Matter
+As described in Note 5 to the consolidated ﬁnancial statements, the Company entered into an arrangement (the
+“Venture”) to co-develop a data center campus. The Company determined whether it holds a variable interest in
+the Venture, whether the entity in which the Company has a variable interest is a variable interest entity (“VIE”),
+and whether the Company is required to consolidate the entity. A VIE is consolidated by its primary beneﬁciary,
+which is the party that has both the power to direct the activities that most signiﬁcantly aﬀect the economic
+performance of the VIE and a variable interest that absorbs losses or receives beneﬁts from the VIE that could
+potentially be significant to the VIE.
+
+Auditing the Company’s determination of the primary beneﬁciary of the VIE was especially challenging due to the
+signiﬁcant judgment required in determining the activities that most signiﬁcantly aﬀect the VIE’s economic
+performance based on the purpose and design of the entity and assessing whether the Company has the power to
+direct those activities.
+
+How We Addressed the
+Matter in Our Audit
+
+We obtained an understanding, evaluated the design and tested the operating eﬀectiveness of controls over the
+Company’s determination of the primary beneﬁciary of the VIE, including controls relating to the determination of
+the activities that most signiﬁcantly aﬀect the VIE’s economic performance and assessing which party has the
+power to direct those activities.
+
+To test the Company’s consolidation conclusion with respect to its interest in the VIE related to the Venture, our
+procedures included, among others, reading the relevant agreements related to the VIE to understand the purpose
+and design of the Venture. We audited the Company’s determination of the primary beneﬁciary of the VIE,
+including its determination of the activities that most signiﬁcantly aﬀect the Venture’s economic performance and
+assessing which party has the power to direct those activities. We also evaluated the appropriateness of the
+related disclosures included in Note 5 to the consolidated financial statements.
+
+We have served as the Company's auditor since 2007.
+
+
+#### /s/ Ernst & Young LLP
+
+San Jose, California
+January 28, 2026
+
+
+#### 86
+
+
+## Page 88
+
+
+#### Table of Contents
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Meta Platforms, Inc.
+
+
+#### Opinion on Internal Control Over Financial Reporting
+
+We have audited Meta Platforms, Inc.'s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal
+Control–Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the
+COSO criteria). In our opinion, Meta Platforms, Inc. (the Company) maintained, in all material respects, eﬀective internal control over ﬁnancial
+reporting as of December 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the
+consolidated balance sheets of the Company as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive
+income, stockholders' equity and cash ﬂows for each of the three years in the period ended December 31, 2025, and the related notes and our
+report dated January 28, 2026 expressed an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+The Company's management is responsible for maintaining eﬀective internal control over ﬁnancial reporting and for its assessment of the
+eﬀectiveness of internal control over ﬁnancial reporting included in the accompanying Management's Report on Internal Control over Financial
+Reporting. Our responsibility is to express an opinion on the Company's internal control over ﬁnancial reporting based on our audit. We are a
+public accounting ﬁrm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S.
+federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over ﬁnancial reporting, assessing the risk that a material weakness exists,
+testing and evaluating the design and operating eﬀectiveness of internal control based on the assessed risk, and performing such other
+procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company's internal control over ﬁnancial reporting is a process designed to provide reasonable assurance regarding the reliability of ﬁnancial
+reporting and the preparation of ﬁnancial statements for external purposes in accordance with generally accepted accounting principles. A
+company's internal control over ﬁnancial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in
+reasonable detail, accurately and fairly reﬂect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of ﬁnancial statements in accordance with generally accepted accounting
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and
+directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company's assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over ﬁnancial reporting may not prevent or detect misstatements. Also, projections of any
+evaluation of eﬀectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or
+that the degree of compliance with the policies or procedures may deteriorate.
+
+
+#### /s/ Ernst & Young LLP
+
+San Jose, California
+January 28, 2026
+
+
+#### 87
+
+
+## Page 89
+
+### Table 89.1
+
+| Assets |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Current assets: |  |  |  |  |  |
+| Cash and cash equivalents | $ | 35,873 |  | $ | 43,889 |
+| Marketable securities | 45,719 |  |  | 33,926 |  |
+| Accounts receivable, net | 19,769 |  |  | 16,994 |  |
+| Prepaid expenses and other current assets | 7,361 |  |  | 5,236 |  |
+| Total current assets | 108,722 |  |  | 100,045 |  |
+| Non-marketable equity investments | 27,524 |  |  | 6,070 |  |
+| Property and equipment, net | 176,400 |  |  | 121,346 |  |
+| Operating lease right-of-use assets | 20,404 |  |  | 14,922 |  |
+| Goodwill | 24,534 |  |  | 20,654 |  |
+| Other assets | 8,437 |  |  | 13,017 |  |
+| Total assets | $ | 366,021 |  | $ | 276,054 |
+| Liabilities and stockholders' equity |  |  |  |  |  |
+| Current liabilities: |  |  |  |  |  |
+| Accounts payable | $ | 8,894 |  | $ | 7,687 |
+| Operating lease liabilities, current | 2,213 |  |  | 1,942 |  |
+| Accrued expenses and other current liabilities | 30,729 |  |  | 23,967 |  |
+| Total current liabilities | 41,836 |  |  | 33,596 |  |
+| Operating lease liabilities, non-current | 22,940 |  |  | 18,292 |  |
+| Long-term debt | 58,744 |  |  | 28,826 |  |
+| Long-term income taxes | 21,005 |  |  | 9,987 |  |
+| Other liabilities | 4,253 |  |  | 2,716 |  |
+| Total liabilities | 148,778 |  |  | 93,417 |  |
+| Commitments and contingencies |  |  |  |  |  |
+| Stockholders' equity: |  |  |  |  |  |
+| Common stock, $0.000006 par value; 5,000 million Class A shares authorized, 2,187 million and 2,190 million shares issued and outstanding, as of December 31, 2025 and 2024, respectively; 4,141 million Class B shares authorized, 343 million and 344 million shares issued and outstanding, as of December 31, 2025 and 2024, respectively | — |  |  | — |  |
+| Additional paid-in capital | 95,793 |  |  | 83,228 |  |
+| Accumulated other comprehensive income (loss) | 271 |  |  | (3,097) |  |
+| Retained earnings | 121,179 |  |  | 102,506 |  |
+| Total stockholders' equity | 217,243 |  |  | 182,637 |  |
+| Total liabilities and stockholders' equity | $ | 366,021 |  | $ | 276,054 |
+
+
+
+#### Table of Contents
+
+META PLATFORMS, INC.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except number of shares and par value)
+
+
+#### December 31,
+
+2025
+2024
+Assets
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+$
+35,873 
+$
+43,889 
+Marketable securities
+45,719 
+33,926 
+Accounts receivable, net
+19,769 
+16,994 
+Prepaid expenses and other current assets
+7,361 
+5,236 
+Total current assets
+108,722 
+100,045 
+Non-marketable equity investments
+27,524 
+6,070 
+Property and equipment, net
+176,400 
+121,346 
+Operating lease right-of-use assets
+20,404 
+14,922 
+Goodwill
+24,534 
+20,654 
+Other assets
+8,437 
+13,017
+
+Total assets
+$
+366,021 
+$
+276,054
+
+Liabilities and stockholders' equity
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+$
+8,894 
+$
+7,687 
+Operating lease liabilities, current
+2,213 
+1,942 
+Accrued expenses and other current liabilities
+30,729 
+23,967 
+Total current liabilities
+41,836 
+33,596 
+Operating lease liabilities, non-current
+22,940 
+18,292 
+Long-term debt
+58,744 
+28,826 
+Long-term income taxes
+21,005 
+9,987 
+Other liabilities
+4,253 
+2,716 
+Total liabilities
+148,778 
+93,417 
+Commitments and contingencies
+Stockholders' equity:
+ 
+ 
+Common stock, $0.000006 par value; 5,000 million Class A shares authorized, 2,187 million and 2,190
+million shares issued and outstanding, as of December 31, 2025 and 2024, respectively; 4,141 million
+Class B shares authorized, 343 million and 344 million shares issued and outstanding, as of
+December 31, 2025 and 2024, respectively
+— 
+— 
+Additional paid-in capital
+95,793 
+83,228 
+Accumulated other comprehensive income (loss)
+271 
+(3,097)
+Retained earnings
+121,179 
+102,506 
+Total stockholders' equity
+217,243 
+182,637
+
+Total liabilities and stockholders' equity
+$
+366,021 
+$
+276,054
+
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+#### 88
+
+
+## Page 90
+
+### Table 90.1
+
+| Revenue | $ | 200,966 |  | $ | 164,501 |  | $ | 134,902 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |  |  |  |
+| Cost of revenue | 36,175 |  |  | 30,161 |  |  | 25,959 |  |
+| Research and development | 57,372 |  |  | 43,873 |  |  | 38,483 |  |
+| Marketing and sales | 11,991 |  |  | 11,347 |  |  | 12,301 |  |
+| General and administrative | 12,152 |  |  | 9,740 |  |  | 11,408 |  |
+| Total costs and expenses | 117,690 |  |  | 95,121 |  |  | 88,151 |  |
+| Income from operations | 83,276 |  |  | 69,380 |  |  | 46,751 |  |
+| Interest and other income, net | 2,656 |  |  | 1,283 |  |  | 677 |  |
+| Income before provision for income taxes | 85,932 |  |  | 70,663 |  |  | 47,428 |  |
+| Provision for income taxes | 25,474 |  |  | 8,303 |  |  | 8,330 |  |
+| Net income | $ | 60,458 |  | $ | 62,360 |  | $ | 39,098 |
+| Earnings per share: |  |  |  |  |  |  |  |  |
+| Basic | $ | 23.98 |  | $ | 24.61 |  | $ | 15.19 |
+| Diluted | $ | 23.49 |  | $ | 23.86 |  | $ | 14.87 |
+| Weighted-average shares used to compute earnings per share: |  |  |  |  |  |  |  |  |
+| Basic | 2,521 |  |  | 2,534 |  |  | 2,574 |  |
+| Diluted | 2,574 |  |  | 2,614 |  |  | 2,629 |  |
+
+
+
+#### Table of Contents
+
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+
+
+#### (In millions, except per share amounts)
+
+Year Ended December 31,
+2025
+2024
+2023
+Revenue
+$
+200,966 
+$
+164,501 
+$
+134,902 
+Costs and expenses:
+ 
+ 
+Cost of revenue
+36,175 
+30,161 
+25,959 
+Research and development
+57,372 
+43,873 
+38,483 
+Marketing and sales
+11,991 
+11,347 
+12,301 
+General and administrative
+12,152 
+9,740 
+11,408 
+Total costs and expenses
+117,690 
+95,121 
+88,151 
+Income from operations
+83,276 
+69,380 
+46,751 
+Interest and other income, net
+2,656 
+1,283 
+677 
+Income before provision for income taxes
+85,932 
+70,663 
+47,428 
+Provision for income taxes
+25,474 
+8,303 
+8,330
+
+Net income
+$
+60,458 
+$
+62,360 
+$
+39,098 
+Earnings per share:
+ 
+ 
+ 
+Basic
+$
+23.98 
+$
+24.61 
+$
+15.19 
+Diluted
+$
+23.49 
+$
+23.86 
+$
+14.87 
+Weighted-average shares used to compute earnings per share:
+
+Basic
+2,521 
+2,534 
+2,574 
+Diluted
+2,574 
+2,614 
+2,629
+
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+#### 89
+
+
+## Page 91
+
+### Table 91.1
+
+| Net income | $ | 60,458 |  | $ | 62,360 |  | $ | 39,098 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss): |  |  |  |  |  |  |  |  |
+| Change in foreign currency translation adjustment, net of tax | 2,693 |  |  | (1,413) |  |  | 618 |  |
+| Change in unrealized gain (loss) on available-for-sale investments and other, net of tax | 675 |  |  | 471 |  |  | 757 |  |
+| Comprehensive income | $ | 63,826 |  | $ | 61,418 |  | $ | 40,473 |
+
+
+
+#### Table of Contents
+
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+#### (In millions)
+
+Year Ended December 31, 
+2025
+2024
+2023
+Net income
+$
+60,458 
+$
+62,360 
+$
+39,098 
+Other comprehensive income (loss):
+
+Change in foreign currency translation adjustment, net of tax
+2,693 
+(1,413)
+618 
+Change in unrealized gain (loss) on available-for-sale investments and other, net of
+tax
+675 
+471 
+757
+
+Comprehensive income
+$
+63,826 
+$
+61,418 
+$
+40,473
+
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+#### 90
+
+
+## Page 92
+
+### Table 92.1
+
+| Balances at December 31, 2022 | 2,614 |  | $ | — |  | $ | 64,444 |  | $ | (3,530) |  | $ | 64,799 |  | $ | 125,713 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net income | — |  | — |  |  | — |  |  | — |  |  | 39,098 |  |  | 39,098 |  |
+| Other comprehensive income | — |  | — |  |  | — |  |  | 1,375 |  |  | — |  |  | 1,375 |  |
+| Issuance of common stock | 65 |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |
+| Shares withheld related to net share settlement | (26) |  | — |  |  | (5,218) |  |  | — |  |  | (1,794) |  |  | (7,012) |  |
+| Share-based compensation | — |  | — |  |  | 14,027 |  |  | — |  |  | — |  |  | 14,027 |  |
+| Share repurchases | (92) |  | — |  |  | — |  |  | — |  |  | (20,033) |  |  | (20,033) |  |
+| Balances at December 31, 2023 | 2,561 |  | — |  |  | 73,253 |  |  | (2,155) |  |  | 82,070 |  |  | 153,168 |  |
+| Net income | — |  | — |  |  | — |  |  | — |  |  | 62,360 |  |  | 62,360 |  |
+| Other comprehensive loss | — |  | — |  |  | — |  |  | (942) |  |  | — |  |  | (942) |  |
+| Issuance of common stock | 65 |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |
+| Shares withheld related to net share settlement | (27) |  | — |  |  | (6,721) |  |  | — |  |  | (7,049) |  |  | (13,770) |  |
+| Share-based compensation | — |  | — |  |  | 16,690 |  |  | — |  |  | — |  |  | 16,690 |  |
+| Share repurchases | (65) |  | — |  |  | — |  |  | — |  |  | (29,754) |  |  | (29,754) |  |
+| Dividends and dividend equivalents declared (1) | — |  | — |  |  | — |  |  | — |  |  | (5,121) |  |  | (5,121) |  |
+| Other | — |  | — |  |  | 6 |  |  | — |  |  | — |  |  | 6 |  |
+| Balances at December 31, 2024 | 2,534 |  | — |  |  | 83,228 |  |  | (3,097) |  |  | 102,506 |  |  | 182,637 |  |
+| Net income | — |  | — |  |  | — |  |  | — |  |  | 60,458 |  |  | 60,458 |  |
+| Other comprehensive income | — |  | — |  |  | — |  |  | 3,368 |  |  | — |  |  | 3,368 |  |
+| Issuance of common stock | 63 |  | — |  |  | 450 |  |  | — |  |  | — |  |  | 450 |  |
+| Shares withheld related to net share settlement | (27) |  | — |  |  | (8,312) |  |  | — |  |  | (10,088) |  |  | (18,400) |  |
+| Share-based compensation | — |  | — |  |  | 20,427 |  |  | — |  |  | — |  |  | 20,427 |  |
+| Share repurchases | (40) |  | — |  |  | — |  |  | — |  |  | (26,264) |  |  | (26,264) |  |
+| Dividends and dividend equivalents declared (1) | — |  | — |  |  | — |  |  | — |  |  | (5,421) |  |  | (5,421) |  |
+| Other | — |  | — |  |  | — |  |  | — |  |  | (12) |  |  | (12) |  |
+| Balances at December 31, 2025 | 2,530 |  | $ | — |  | $ | 95,793 |  | $ | 271 |  | $ | 121,179 |  | $ | 217,243 |
+
+
+
+#### Table of Contents
+
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+#### (In millions, except per share amounts)
+
+
+#### Class A and Class B
+
+Common Stock
+Additional
+
+Paid-In
+Capital
+
+
+#### Accumulated
+
+Other
+Comprehensive
+
+
+#### Income (Loss)
+
+Retained
+Earnings
+
+Total
+Stockholders'
+
+Equity
+Shares
+Par Value
+Balances at December 31, 2022
+2,614 $
+— 
+$
+64,444 
+$
+(3,530)
+$
+64,799 $
+125,713 
+Net income
+— 
+— 
+— 
+— 
+39,098 
+39,098 
+Other comprehensive income
+— 
+— 
+— 
+1,375 
+— 
+1,375 
+Issuance of common stock
+65 
+— 
+— 
+— 
+— 
+— 
+Shares withheld related to net share settlement
+(26)
+— 
+(5,218)
+— 
+(1,794)
+(7,012)
+Share-based compensation
+— 
+— 
+14,027 
+— 
+— 
+14,027 
+Share repurchases
+(92)
+— 
+— 
+— 
+(20,033)
+(20,033)
+Balances at December 31, 2023
+2,561 
+— 
+73,253 
+(2,155)
+82,070 
+153,168 
+Net income
+— 
+— 
+— 
+— 
+62,360 
+62,360 
+Other comprehensive loss
+— 
+— 
+— 
+(942)
+— 
+(942)
+Issuance of common stock
+65 
+— 
+— 
+— 
+— 
+— 
+Shares withheld related to net share settlement
+(27)
+— 
+(6,721)
+— 
+(7,049)
+(13,770)
+Share-based compensation
+— 
+— 
+16,690 
+— 
+— 
+16,690 
+Share repurchases
+(65)
+— 
+— 
+— 
+(29,754)
+(29,754)
+Dividends and dividend equivalents declared 
+— 
+— 
+— 
+— 
+(5,121)
+(5,121)
+Other
+— 
+— 
+6 
+— 
+— 
+6 
+Balances at December 31, 2024
+2,534 
+— 
+83,228 
+(3,097)
+102,506 
+182,637 
+Net income
+— 
+— 
+— 
+— 
+60,458 
+60,458 
+Other comprehensive income
+— 
+— 
+— 
+3,368 
+— 
+3,368 
+Issuance of common stock
+63 
+— 
+450 
+— 
+— 
+450 
+Shares withheld related to net share settlement
+(27)
+— 
+(8,312)
+— 
+(10,088)
+(18,400)
+Share-based compensation
+— 
+— 
+20,427 
+— 
+— 
+20,427 
+Share repurchases
+(40)
+— 
+— 
+— 
+(26,264)
+(26,264)
+Dividends and dividend equivalents declared 
+— 
+— 
+— 
+— 
+(5,421)
+(5,421)
+Other
+— 
+— 
+— 
+— 
+(12)
+(12)
+
+Balances at December 31, 2025
+2,530 $
+— 
+$
+95,793 
+$
+271 
+$
+121,179 $
+217,243
+
+_______________________
+(1)
+Dividend per share was $2.10 and $2.00 for the years ended December 31, 2025 and 2024, respectively.
+
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 91
+
+
+## Page 94
+
+### Table 94.1
+
+| Supplemental cash flow data |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash paid for income taxes, net | $ | 7,578 |  | $ | 10,554 |  | $ | 6,607 |
+| Cash paid for interest, net of amounts capitalized | $ | 696 |  | $ | 486 |  | $ | 448 |
+| Non-cash investing and financing activities: |  |  |  |  |  |  |  |  |
+| Property and equipment in accounts payable and accrued expenses and other current liabilities | $ | 9,331 |  | $ | 7,127 |  | $ | 4,105 |
+| Acquisition of businesses and intangible assets in accounts payable, accrued expenses and other current liabilities, and other liabilities | $ | 2,659 |  | $ | 172 |  | $ | 119 |
+
+
+
+#### Table of Contents
+
+META PLATFORMS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+#### (In millions)
+
+Year Ended December 31, 
+2025
+2024
+2023
+Supplemental cash flow data
+
+Cash paid for income taxes, net
+$
+7,578 
+$
+10,554 
+$
+6,607 
+Cash paid for interest, net of amounts capitalized
+$
+696 
+$
+486 
+$
+448 
+Non-cash investing and financing activities:
+
+Property and equipment in accounts payable and accrued expenses and other
+current liabilities
+$
+9,331 
+$
+7,127 
+$
+4,105 
+Acquisition of businesses and intangible assets in accounts payable, accrued
+expenses and other current liabilities, and other liabilities
+$
+2,659 
+$
+172 
+$
+119
+
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+#### 93
+
+
+## Page 95
+
+
+#### Table of Contents
+
+META PLATFORMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+#### Note 1. Summary of Significant Accounting Policies
+
+
+#### Organization and Description of Business
+
+We were incorporated in Delaware in July 2004. Our mission is to build the future of human connection and the technology that makes it
+possible.
+
+We report our ﬁnancial results based on two reportable segments: Family of Apps (FoA) and Reality Labs (RL). The segment information
+aligns with how the chief operating decision maker (CODM), who is our chief executive oﬃcer (CEO), reviews and manages the business. We
+generate substantially all of our revenue from advertising.
+
+
+#### Basis of Presentation
+
+We prepared the consolidated ﬁnancial statements in accordance with U.S. generally accepted accounting principles (GAAP). The
+consolidated ﬁnancial statements include the accounts of Meta Platforms, Inc. and its subsidiaries where we have controlling ﬁnancial interests.
+All intercompany balances and transactions have been eliminated.
+
+
+#### Use of Estimates
+
+Preparation of consolidated ﬁnancial statements in conformity with GAAP requires the use of estimates and judgments that aﬀect the
+reported amounts in the consolidated ﬁnancial statements and accompanying notes. These estimates form the basis for judgments we make
+about the carrying values of our assets and liabilities, which are not readily apparent from other sources. We base our estimates and judgments
+on historical information and on various other assumptions that we believe are reasonable under the circumstances. GAAP requires us to make
+estimates and judgments in several areas, including, but not limited to, those related to loss contingencies, income taxes, valuation of non-
+marketable equity investments, valuation of long-lived assets and their associated estimated useful lives, revenue recognition, valuation of
+goodwill, credit losses of available-for-sale debt securities, accounts receivable, and fair value of ﬁnancial instruments and leases. These
+estimates are based on management's knowledge about current events, interpretation of regulations, and expectations about actions we may
+undertake in the future. Actual results could differ materially from those estimates.
+
+In January 2025, we completed an assessment of the useful lives of property and equipment, which resulted in an increase in the
+estimated useful lives of most servers and network assets to 5.5 years, eﬀective January 1, 2025. Based on the servers and network assets
+placed in service as of December 31, 2024, the ﬁnancial impact of this change in estimate included a reduction in depreciation expense of $2.92
+billion and an increase in net income of $2.59 billion, or $1.00 per diluted share, for the year ended December 31, 2025.
+
+
+#### Revenue Recognition
+
+We recognize revenue under Accounting Standards Codiﬁcation (ASC) 606 Revenue from Contracts with Customers . Revenue is
+recognized when control of the promised goods or services is transferred to our customers, in an amount that reﬂects the consideration we
+expect to be entitled to in exchange for those goods or services.
+
+Sales commissions we pay in connection with contracts are expensed when incurred because the amortization period is one year or less.
+These costs are recorded within marketing and sales on our consolidated statements of income. We do not disclose the value of unsatisﬁed
+performance obligations for contracts with an original expected length of one year or less.
+
+Revenue includes sales and usage‑based taxes, except for cases where we are acting as a pass‑through agent.
+
+
+#### Advertising Revenue
+
+Advertising revenue is generated by displaying ad products on Facebook, Instagram, Messenger, and third-party mobile applications.
+Marketers pay for ad products either directly or through their relationships with advertising agencies or resellers, based on the number of
+impressions delivered or the number of actions, such as clicks, taken by our users.
+
+
+#### 94
+
+
+## Page 96
+
+
+#### Table of Contents
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to users. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. In general, we report advertising revenue on a gross basis, since we control
+the advertising inventory before it is transferred to our customers. Our control is evidenced by our sole ability to monetize the advertising
+inventory before it is transferred to our customers.
+
+For revenue generated from arrangements that involve third parties, we evaluate whether we are the principal, and report revenue on a
+gross basis, or the agent, and report revenue on a net basis. In this assessment, we consider if we obtain control of the speciﬁed goods or
+services before they are transferred to the customer, as well as other indicators such as the party primarily responsible for fulﬁllment, inventory
+risk, and discretion in establishing price.
+
+We may accept lower consideration than the amount promised per the contract for certain revenue transactions and certain customers
+may receive cash-based incentives, credits, or refunds, which are accounted for as variable consideration when estimating the amount of
+revenue to recognize. We estimate these amounts and reduce revenue based on the amounts expected to be provided to customers. We believe
+that there will not be significant changes to our estimates of variable consideration for the reported periods.
+
+
+#### Reality Labs Revenue
+
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest and AI glasses, and related software and
+content. Revenue is recognized at the time control of the products is transferred to customers, which is generally at the time of delivery, in an
+amount that reflects the consideration RL expects to be entitled to in exchange for the products.
+
+
+#### Other Revenue
+
+FoA other revenue consists of revenue from paid messaging from WhatsApp, Meta Veriﬁed subscriptions, net fees we receive from
+developers using our Payments infrastructure, and revenue from various other sources.
+
+
+#### Cost of Revenue
+
+Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly include expenses
+related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network infrastructure and
+buildings, employee compensation which includes payroll, share-based compensation and beneﬁts for employees on our operations teams, and
+energy and bandwidth costs. Cost of revenue also consists of costs associated with partner arrangements, including traﬃc acquisition costs and
+credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of products sold and estimated
+losses on non-cancelable contractual commitments; and content costs.
+
+
+#### Content Costs
+
+Our content costs are mostly related to payments to content providers from whom we license video and music to increase engagement on
+the platform. We pay fees to these content providers based on revenue generated, a ﬂat fee, or both. For licensed video, we expense the cost
+per title when the title is accepted and available for viewing if the capitalization criteria are not met. Video content costs that meet the criteria for
+capitalization were not material to date.
+
+For licensed music, we expense the license fees over the contractual license period. We pay fees to music partners based on revenue
+generated, minimum guaranteed fees, ﬂat fees, or a combination thereof. Expensed content costs are included in cost of revenue on our
+consolidated statements of income.
+
+
+#### Software Development Costs
+
+Software development costs, including costs to develop software products or the software component of products to be marketed or sold to
+external users, are expensed before the software or technology reach technological feasibility, which is typically reached shortly before the
+release of such products. Software development costs also include costs to develop software to be used solely to meet internal needs and
+applications used to deliver our services. These software development
+
+
+#### 95
+
+
+## Page 97
+
+
+#### Table of Contents
+
+costs meet the criteria for capitalization once the preliminary project stage is complete, and it is probable that the project will be completed and
+the software will be used to perform the function intended. Software development costs that meet the criteria for capitalization were not material
+to date.
+
+
+#### Share-based Compensation
+
+Share-based compensation expense consists of our restricted stock units (RSUs) expense. RSUs granted to employees are measured
+based on the grant-date fair value. In general, our RSUs vest over a service period of four years. Share-based compensation expense is
+generally recognized on the straight-line basis over the requisite service period and forfeitures are accounted for as they occur.
+
+
+#### Income Taxes
+
+We are subject to income taxes in the United States and numerous foreign jurisdictions. Signiﬁcant judgment is required in determining our
+provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and
+complex tax laws.
+
+We record a provision for income taxes for the anticipated tax consequences of the reported results of operations using the asset and
+liability method. Under this method, we recognize deferred income tax assets and liabilities for the expected future consequences of temporary
+diﬀerences between the ﬁnancial reporting and tax bases of assets and liabilities, as well as for loss and tax credit carryforwards. Deferred tax
+assets and liabilities are measured using the tax rates that are expected to apply to taxable income for the years in which those tax assets and
+liabilities are expected to be realized or settled. We recognize the deferred income tax eﬀects of a change in tax rates in the period of the
+enactment.
+
+We record a valuation allowance to reduce our deferred tax assets to the net amount that we believe is more likely than not to be realized.
+We consider all available evidence, both positive and negative, including historical levels of income, expectations and risks associated with
+estimates of future taxable income and ongoing tax planning strategies in assessing the need for a valuation allowance. In determining the
+valuation allowance, our accounting policy incorporates the expected impact of future years’ Corporate Alternative Minimum Tax in assessing the
+realizability of our deferred tax assets.
+
+We recognize tax beneﬁts from uncertain tax positions only if we believe that it is more likely than not that the tax position will be sustained
+on examination by the taxing authorities based on the technical merits of the position. We recognize interest and penalties related to uncertain
+tax positions as a component of the provision for income taxes.
+
+
+#### Advertising Expense
+
+Advertising costs are expensed when incurred and are included in marketing and sales expenses on our consolidated statements of
+income. We incurred advertising expenses of $ 2.09 billion, $2.06 billion, and $2.02 billion for the years ended December 31, 2025, 2024, and
+2023, respectively.
+
+
+#### Cash and Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents
+
+Cash and cash equivalents consist of cash on deposit with ﬁnancial institutions globally and highly liquid investments with maturities of
+90 days or less from the date of purchase. We classify amounts in transit from customer credit cards and payment service providers as cash on
+our consolidated balance sheets.
+
+We classify certain restricted cash and cash equivalent balances, consisting mainly of cash related to insurance policies, cash reserves
+designated for a speciﬁc purpose, as well as retention and indemniﬁcation holdback for our acquisitions, within prepaid expenses and other
+current assets and other assets on our consolidated balance sheets, based upon the expected duration of the restrictions.
+
+
+#### Marketable Securities
+
+We hold investments in marketable debt securities, consisting of U.S. government securities, U.S. government agency securities, and
+investment grade corporate debt securities. Our marketable debt securities are classiﬁed as available-for-sale (AFS) investments in marketable
+securities within current assets on our consolidated balance sheets because they represent investments of cash available for current operations.
+The AFS investments are carried at estimated fair value with any
+
+
+#### 96
+
+
+## Page 98
+
+
+#### Table of Contents
+
+unrealized gains and losses, net of taxes, included in accumulated other comprehensive income (loss) in stockholders' equity. AFS debt
+securities with an amortized cost basis in excess of estimated fair value are assessed to determine what amount of that diﬀerence, if any, is
+caused by expected credit losses. Allowance for credit losses on AFS debt securities are recognized as a charge in interest and other income
+(expense), net on our consolidated statements of income, and any remaining unrealized losses, net of taxes, are included in accumulated other
+comprehensive income (loss) in stockholders' equity. We determine realized gains or losses on sale of marketable securities on a speciﬁc
+identification method and include such gains or losses in interest and other income (expense), net on our consolidated statements of income.
+
+We also hold investments in marketable equity securities that are publicly traded stocks. We classify these equity securities as marketable
+securities within current assets on our consolidated balance sheets because they are available to be converted into cash to fund current
+operations without any restriction. These marketable equity securities are measured at fair value at each reporting date with gains and losses
+recognized in interest and other income (expense), net on our consolidated statements of income.
+
+
+#### Non-marketable Equity Investments
+
+Our non-marketable equity investments include equity investments without readily determinable fair values accounted for using either the
+measurement alternative or the equity method. Non-marketable equity investments accounted for using the measurement alternative, which is
+cost, less any impairment, are adjusted for changes in fair value resulting from observable transactions for identical or similar investments of the
+same issuer as of the respective transaction dates. Other non-marketable equity investments, through which we exercise signiﬁcant inﬂuence
+but do not have control over the investee, are accounted for under the equity method.
+
+We periodically review our non-marketable equity investments for impairment. When indicators of impairment exist and the estimated fair
+value of an investment is below its carrying amount, we write down the investment to its fair value in interest and other income (expense), net on
+our consolidated statements of income. An impairment loss is recognized when the impairment is considered other-than-temporary for equity
+method investments. For the years ended December 31, 2025 and 2024, impairment for non-marketable equity investments were not material.
+For additional information, see Note 5 — Non-Marketable Equity Investments and Part II, Item 7, "Management’s Discussion and Analysis of
+Financial Conditions and Results of Operations — Critical Accounting Estimates" contained in this Annual Report on Form 10-K.
+
+
+#### Fair Value Measurements
+
+We apply fair value accounting for all ﬁnancial assets and liabilities and non-ﬁnancial assets and liabilities that are recognized or disclosed
+at fair value in the ﬁnancial statements on a recurring basis. We deﬁne fair value as the price that would be received to sell an asset or paid to
+transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value
+measurements for assets and liabilities, we consider the principal or most advantageous market in which we would transact and the market-
+based risk measurements or assumptions that market participants would use in pricing the asset or liability, such as risks inherent in valuation
+techniques, transfer restrictions and credit risk. Fair value is estimated by applying the following three-level hierarchy, which prioritizes the inputs
+used to measure fair value based on the lowest level of input that is available and significant to the fair value measurement:
+
+Level 1- Quoted prices in active markets for identical assets or liabilities.
+
+Level 2- Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or
+similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for
+substantially the full term of the assets or liabilities.
+
+Level 3- Inputs that are generally unobservable and typically reﬂect management's estimate of assumptions that market participants would
+use in pricing the asset or liability.
+
+Our cash equivalents, marketable securities, and restricted cash equivalents are classiﬁed within Level 1 or Level 2 of the fair value
+hierarchy because their fair values are derived from quoted market prices or alternative pricing sources and models utilizing observable market
+inputs. Certain other assets are classiﬁed within Level 3 because factors used to develop the estimated fair value are unobservable inputs that
+are not supported by market activity.
+
+
+#### 97
+
+
+## Page 99
+
+### Table 99.1
+
+| Servers and network assets |  | Five to 5.5 years |
+| --- | --- | --- |
+| Buildings |  | 25 to 30 years |
+| Equipment and other |  | One to 25 years |
+| Finance lease right-of-use assets |  | Five to 20 years |
+| Leasehold improvements |  | Lesser of estimated useful life or remaining lease term |
+
+
+
+#### Table of Contents
+
+Our non-marketable equity investments accounted for using the measurement alternative are recorded at fair value on a non-recurring
+basis. When an impairment loss or upward adjustment from observable price changes of qualiﬁed transactions occur, the respective non-
+marketable equity investment would be classiﬁed within Level 3 of the fair value hierarchy because the valuation methods include a combination
+of the observable transaction price at the transaction date and other unobservable inputs including volatility, rights, and obligations of the
+securities we hold. For the years ended December 31, 2025 and 2024, changes in the fair value recorded for our non-marketable equity
+securities were not material. For additional information, see Note 5 — Non-Marketable Equity Investments.
+
+
+#### Variable Interest Entities
+
+At the inception of each arrangement, we determine whether an entity in which we have made an investment or in which we have other
+variable interests is considered a variable interest entity (VIE). Signiﬁcant judgment is required to identify the activities that most signiﬁcantly
+aﬀect the VIE’s economic performance, based on its purpose and design. We assess whether we have both the power to direct those activities
+and the obligation to absorb the majority of the VIE’s losses or beneﬁts. We evaluate whether we are the primary beneﬁciary of the VIE, in which
+case we would consolidate the entity.
+
+As of December 31, 2025, we are not the primary beneﬁciary of the VIEs related to our investments, and therefore the VIEs are not
+consolidated. These investments are accounted for as equity method investments included within non-marketable equity investments on our
+consolidated balance sheet. We continually monitor our involvement with the VIEs and will consolidate them if we become the primary
+beneficiary in the future. For additional information, see Note 5 — Non-Marketable Equity Investments.
+
+
+#### Accounts Receivable and Allowances
+
+Accounts receivable are recorded and carried at the original invoiced amount less an allowance for any potential uncollectible amounts.
+We make estimates of expected credit and collectibility trends for the allowance for credit losses and allowance for unbilled receivables based
+upon our assessment of various factors, including historical experience, the age of the accounts receivable balances, credit quality of our
+customers, current economic conditions, reasonable and supportable forecasts of future economic conditions, and other factors that may aﬀect
+our ability to collect from customers. Expected credit losses are recorded as general and administrative expenses on our consolidated
+statements of income. As of December 31, 2025 and 2024, the allowance for credit losses on accounts receivable were not material.
+
+
+#### Property and Equipment
+
+Property and equipment, including ﬁnance leases, are depreciated and stated at cost less accumulated depreciation. Depreciation is
+computed using the straight-line method over the estimated useful lives of the assets or the remaining lease term, whichever is shorter.
+
+The estimated useful lives of property and equipment and amortization periods of ﬁnance lease right-of-use (ROU) assets as of
+December 31, 2025 are described below:
+
+Property and Equipment 
+Useful Life/ Amortization period
+Servers and network assets
+Five to 5.5 years
+Buildings
+25 to 30 years
+Equipment and other
+One to 25 years
+Finance lease right-of-use assets
+Five to 20 years
+Leasehold improvements
+Lesser of estimated useful life or remaining lease term
+
+We evaluate at least annually the recoverability of property and equipment for possible impairment whenever events or circumstances
+indicate that the carrying amount of such assets may not be recoverable. If such review indicates that the carrying amount of property and
+equipment assets is not recoverable, and the asset's fair value is less than the carrying amount, an impairment loss is recognized in income
+from operations.
+
+The useful lives of our property and equipment are management's estimates when the assets are initially recognized and are routinely
+reviewed for the remaining estimated useful lives. Our estimate of useful lives represents the best estimate
+
+
+#### 98
+
+
+## Page 100
+
+
+#### Table of Contents
+
+of the useful lives based on current facts and circumstances, but may diﬀer from the actual useful lives due to changes to our business
+operations, changes in the planned use of assets, and technological advancements. When we change the estimated useful life assumption for
+any asset, the remaining carrying amount of the asset is accounted for prospectively and depreciated or amortized over the revised estimated
+useful life.
+
+Servers and network assets include equipment mostly in our data centers, which are used to support our core business and AI eﬀorts.
+Land and assets held within construction in progress (CIP) are not depreciated. CIP assets are related to the construction or development of
+property and equipment that have not yet been placed in service for their intended use. We also capitalize interest on our debt related to certain
+eligible CIP assets and depreciate the capitalized interest over the useful life of the related assets.
+
+The cost of maintenance and repairs is expensed as incurred. When assets are retired or otherwise disposed of, the cost and related
+accumulated depreciation are removed from their respective accounts, and gain or loss on such sale or disposal is reﬂected in income from
 operations.
 
-We are subject to the risk of public health crises such as pandemics, earthquakes, adverse weather conditions, other natural disasters,
-terrorism, geopolitical conﬂict, other physical security threats, power loss, cyber-attacks, and other catastrophic events and crises. For example,
-the COVID-19 pandemic previously signiﬁcantly impacted our business and results of operations. In particular, the pandemic led to volatility in
-the demand for and pricing of our advertising services at various points throughout the pandemic, and we may experience similar eﬀects in the
-future as a result of other catastrophic events. Such events also expose our business, operations, and workforce to a variety of other risks,
-including: volatility in the size of our user base and user engagement; delays in product development or releases, or reductions in manufacturing
-production and sales of consumer hardware, as a result of inventory shortages, supply chain or labor shortages; signiﬁcant volatility and
-disruption of global ﬁnancial markets, which could cause ﬂuctuations in currency exchange rates or negatively impact our ability to access capital
-in the future; illnesses to key employees, or a significant portion of our workforce, which may result in inefficiencies, delays, and disruptions in our
-business; and increased volatility and uncertainty in the ﬁnancial projections we use as the basis for estimates used in our ﬁnancial statements.
-Any of these developments may adversely affect our business, harm our reputation, or result in legal or regulatory actions against us.
 
-We incur signiﬁcant expenses in operating our business, and some of our investments, particularly our investments in our artiﬁcial
-intelligence initiatives as well as Reality Labs, have the eﬀect of reducing our operating margin and proﬁtability. If our investments are
-not successful longer-term, our business and financial performance will be harmed.
+#### Lease Obligations
 
-We incur signiﬁcant expenses in operating our business, and we expect our expenses to continue to increase in the future as we continue
-to invest in new and unproven technologies, including AI and machine learning, as we broaden our user base, as users increase the amount and
-types of content they consume and the data they share with us, for example with respect to video, as we develop and implement new products,
-as we market new and existing products and promote our brands, as we continue to expand our technical infrastructure, and as we continue our
-eﬀorts to focus on privacy, safety, security, and content and advertising review and enforcement. We have previously undertaken cost reduction
-measures in light of a more challenging operating environment, which may adversely aﬀect these or other business initiatives, and some of these
-measures have involved, and may in the future involve, up-front charges and outlays of cash to reduce certain longer-term expenses. In addition,
-from time to time we are subject to settlements, judgments, ﬁnes, or other monetary penalties in connection with legal and regulatory
-developments that may be material to our business.
+Our operating leases mostly comprise of certain data centers, oﬃces, and colocations. We also have ﬁnance leases for certain network
+infrastructure. We determine if an arrangement is a lease at inception and most of our leases contain lease and non-lease components. Non-
+lease components include ﬁxed payments for maintenance, utilities, real estate taxes, and management fees. We combine ﬁxed lease and non-
+lease components and account for them as a single lease component. Our lease agreements may contain variable costs such as contingent rent
+escalations, common area maintenance, insurance, real estate taxes, or other costs. These amounts are aﬀected by the Consumer Price Index,
+payments contingent on energy production for renewable energy purchase arrangements, and maintenance and utilities. Such variable lease
+costs are expensed as incurred on our consolidated statements of income. For certain colocation and equipment leases, we apply a portfolio
+approach to effectively account for the operating lease ROU assets and lease liabilities.
 
-We have made signiﬁcant investments in AI initiatives, including investments in infrastructure and headcount, including specialized
-technical personnel, to support our efforts to enhance our products, features, and advertising tools, as well as to develop and train our AI models,
-and expect to continue to increase these investments. We are also continuing to increase our investments in new platforms and technologies,
-including as part of our VR, Horizon, and wearables eﬀorts. Some of these investments, particularly our signiﬁcant investments in Reality Labs,
-have generated only limited revenue and reduced our operating margin and proﬁtability, and we expect the adverse ﬁnancial impact of such
-investments to continue for the foreseeable future. For example, our investments in Reality Labs reduced our 2025 overall operating proﬁt by
-approximately $19.19 billion, and we expect our 2026 Reality Labs operating losses to remain similar to 2025. If our investments are not
-successful longer-term, our business and financial performance will be harmed.
+For leases with a lease term greater than 12 months, ROU assets and lease liabilities are recognized on our consolidated balance sheets
+at the commencement date based on the present value of the remaining ﬁxed lease payments and includes only payments that are ﬁxed and
+determinable at the time of commencement.
 
-Our ability to support these investments is dependent on generating suﬃcient proﬁts from other areas of our business. From time to time
-we may also seek to raise additional capital through debt, equity, or other ﬁnancing arrangements to support our business operations, strategic
-initiatives, or other corporate purposes. Such ﬁnancings may not be available on favorable terms or at all. The incurrence of additional debt also
-results in increased fixed obligations and interest expense, while the issuance of additional equity securities results in dilution to our stockholders.
-If we are unable to obtain adequate ﬁnancing when needed, our ability to ﬁnance our business operations and initiatives could be adversely
-affected.
+Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise such options.
+When determining the probability of exercising such options, we consider contract-based, asset-based, entity-based, and market-based factors.
+We do not assume renewals in our determination of the lease term unless the renewals are deemed to be reasonably assured. Our lease
+agreements generally do not contain any material restrictive covenants.
 
-Our business is dependent on our ability to maintain and scale our technical infrastructure, and any signiﬁcant disruption in our
-products and services could damage our reputation, result in a potential loss of users and engagement, and adversely aﬀect our
-financial results.
+As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at the
+commencement date in determining the present value of lease payments. Our incremental borrowing rate is based on our understanding of what
+our credit rating would be in a similar economic environment.
 
-Our reputation and ability to attract, retain, and serve our users is dependent upon the reliable performance of our products and services
-and our underlying technical infrastructure. We have experienced, and may in the future experience, interruptions in the availability or
-performance of our products and services from time to time. Our systems may not be adequately designed or may not operate with the reliability
-and redundancy necessary to avoid performance delays or outages
+Operating leases are included in operating lease ROU assets, operating lease liabilities, current, and operating lease liabilities, non-
+current on our consolidated balance sheets. Finance leases are included in property and equipment, net, accrued expenses and other current
+liabilities, and other liabilities on our consolidated balance sheets.
+
+Operating lease costs are recognized on a straight-line basis over the lease terms. Finance lease assets are amortized on a straight-line
+basis over the shorter of the estimated useful lives of the assets or the lease terms.
 
 
-#### 26
+#### Loss Contingencies
+
+We are involved in legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the ordinary
+course of business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. Additionally, we are
+required to comply with various legal and regulatory obligations around the world, and we regularly become subject to new laws and regulations
+in the jurisdictions in which we operate. The requirements for complying with these obligations may be uncertain and subject to interpretation and
+enforcement by regulatory and other authorities, and any failure or perceived failure to comply with such obligations could eventually lead to
+asserted legal or regulatory action. With respect to these matters, asserted and unasserted, we evaluate the associated developments on a
+regular basis and accrue a liability when we believe that it is both probable that a loss has been incurred and the amount can
 
 
-## Page 28
+#### 99
+
+
+## Page 101
 
 
 #### Table of Contents
 
-that could be harmful to our business. If our products or services are unavailable when users attempt to access them, or if they do not load as
-quickly as expected, users may not use our products or services as often in the future, or at all, and our ability to serve ads may be disrupted, any
-of which could adversely aﬀect our business and ﬁnancial performance. We have experienced such issues to varying degrees from time to time.
-In addition, as the amount and types of information shared on our products continue to grow and evolve, as the usage patterns of our global
-community continue to evolve, and as our internal operational demands continue to grow, especially with the deployment of AI technologies, we
-will need an increasing amount of technical infrastructure, including network capacity, computing power, and related energy requirements, to
-continue to satisfy our needs. Although we are making signiﬁcant investments in our technical infrastructure, it is possible that we may fail to
-continue to eﬀectively scale and grow our technical infrastructure to accommodate these increased demands or achieve our business objectives,
-which may adversely aﬀect our user engagement and advertising revenue. In addition, our business may be subject to interruptions, delays, or
-failures resulting from earthquakes, adverse weather conditions, other natural disasters, power loss, terrorism, geopolitical conﬂict, other
-physical security threats, cyber-attacks, or other catastrophic events and crises. Global climate change could result in certain types of natural
-disasters occurring more frequently or with more intense eﬀects. Any such events may result in users being subject to service disruptions or
-outages and we may not be able to recover our technical infrastructure and user data in a timely manner to restart or provide our services, which
-may adversely aﬀect our ﬁnancial results. We also have been, and may in the future be, subject to increased energy and/or other costs to
-maintain the availability or performance of our products and services in connection with any such events.
+be reasonably estimated. We record such losses as general and administrative expenses on our consolidated statements of income.
 
-A substantial portion of our technical infrastructure is provided by third parties. Any disruption or failure in the services we receive from
-these providers could harm our ability to handle existing or increased traﬃc and could signiﬁcantly harm our business. Any ﬁnancial or other
-diﬃculties these providers face may adversely aﬀect our business, and we exercise little control over these providers, which increases our
-vulnerability to problems with the services they provide. We have experienced, and expect to continue to experience, various challenges with the
-supply chain related to supporting our technical infrastructure. As a result, we have adjusted, and may continue to adjust in the future, our
-procurement practices to adapt to the evolving landscape. We may not be able to secure suﬃcient components, equipment, or services from
-third parties to satisfy our needs, or we may be required to procure such components, equipment, or services on unfavorable terms.
-
-Any of these developments may result in interruptions in the availability or performance of our products or services, require unfavorable
-changes to existing products or services, delay the introduction of future products or services, or otherwise adversely aﬀect our business and
-financial results.
-
-We have experienced, and could experience in the future, diﬃculties in building and operating key portions of our technical
-infrastructure.
-
-We have designed and built our own data centers and key portions of our technical infrastructure through which we serve our products, and
-we plan to continue to signiﬁcantly expand the size of our infrastructure primarily through data centers, subsea and terrestrial ﬁber optic cable
-systems, and other projects. The infrastructure expansion we are undertaking is complex and involves projects in multiple locations around the
-world, including in developing regions that expose us to increased risks relating to anti-corruption compliance, trade compliance, environmental,
-health, and safety compliance, and political challenges, among others. We have changed, suspended, and terminated certain of these projects
-as a result of various factors, and may continue to do so in the future. Additional unanticipated delays or disruptions in the completion of these
-projects, including due to the availability of components, power or network capacity, or any shortage of labor necessary in building portions of
-such projects, challenges in obtaining required government or regulatory approvals, or other geopolitical challenges or actions by governments,
-including trade disputes or other developments, may lead to increased project costs, operational ineﬃciencies, interruptions in the delivery or
-degradation of the quality or reliability of our products and services, or impairment of assets on our balance sheet. For example, like others in our
-industry, we rely on certain third-party equipment and components for our technical infrastructure that are manufactured by a small number of
-third parties, often with signiﬁcant operations in a single region such as Asia. Any of the foregoing delays or disruptions, including actions by
-governments or geopolitical events such as international conﬂicts, tariﬀs, sanctions, export or import controls, and other measures that restrict
-international trade, could reduce or eliminate the ability of our suppliers, manufacturers, or other third-party providers to continue their operations
-to manufacture, or limit or eliminate our ability to purchase, key components of our technical infrastructure.
-
-In addition, there may be issues related to this infrastructure that are not identiﬁed during the testing phases of design and implementation,
-which may only become evident after we have started to fully utilize the underlying equipment, that could further degrade the user experience or
-increase our costs. Further, much of our technical infrastructure is located
+If we determine that a loss is probable or reasonably possible and the loss or range of loss can be reasonably estimated, we disclose the
+possible loss in the accompanying notes to the consolidated financial statements to the extent material.
 
 
-#### 27
+#### Business Combinations
+
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired
+based on their estimated fair values as of the acquisition date. The excess of the fair value of purchase consideration over the fair values of
+these identiﬁable assets and liabilities is recorded as goodwill to reporting units based on the expected beneﬁt from the business combination.
+Allocation of purchase consideration to identiﬁable assets and liabilities aﬀects the amortization expense, as acquired ﬁnite-lived intangible
+assets are amortized over the useful life, whereas any indeﬁnite-lived intangible assets, including goodwill, are not amortized. During the
+measurement period, which is not to exceed one year from the acquisition date, we record adjustments to the assets acquired and liabilities
+assumed, with the corresponding oﬀset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded
+to earnings. Acquisition-related expenses are recognized separately from business combinations and are expensed as incurred. For more
+information, see Note 8 —Acquisitions, Goodwill, and Intangible Assets.
 
 
-## Page 29
+#### Goodwill and Intangibles Assets
+
+We allocate goodwill to reporting units based on the expected beneﬁt from business combinations. We evaluate our reporting units
+annually, as well as when changes in our operating segments occur. For changes in reporting units, we reassign goodwill using a relative fair
+value allocation approach. Goodwill is tested for impairment at the reporting unit level annually or more frequently if events or changes in
+circumstances would more likely than not reduce the fair value of a reporting unit below its carrying value. We have two reporting units, Family of
+Apps (FoA) and Reality Labs (RL), subject to goodwill impairment testing. As of December 31, 2025, no impairment of goodwill has been
+identified.
+
+We evaluate the recoverability of ﬁnite-lived intangible assets for possible impairment whenever events or circumstances indicate that the
+carrying amount of such assets may not be recoverable. The evaluation of these intangible assets is performed at the lowest level for which
+identiﬁable cash ﬂows are largely independent of the cash ﬂows of other assets and liabilities. Recoverability of these assets is measured by a
+comparison of the carrying amounts to the future undiscounted cash ﬂows the assets are expected to generate from the use and eventual
+disposition. If such review indicates that the carrying amount of a ﬁnite-lived intangible asset is not recoverable and the asset's fair value is less
+than the carrying amount, an impairment loss is recognized. The impairment losses of ﬁnite-lived intangible assets were not material during the
+reporting periods presented.
+
+Our ﬁnite-lived intangible assets are amortized on a straight-line basis over the estimated useful lives of the assets. Indeﬁnite-lived
+intangible assets are not amortized. If an indeﬁnite-lived intangible asset is subsequently determined to have a ﬁnite useful life, the asset will be
+tested for impairment and accounted for as a ﬁnite-lived intangible asset prospectively over its estimated remaining useful life. We routinely
+review the remaining estimated useful lives of ﬁnite-lived intangible assets. If we change the estimated useful life assumption for any asset, the
+remaining unamortized balance is amortized over the revised estimated useful life. Intangible assets are included within other assets on our
+consolidated balance sheet.
 
 
-#### Table of Contents
+#### Foreign Currency
 
-outside the United States, and action by a foreign government, or our response to such government action, has resulted, and may result in the
-future, in the impairment of a portion of our technical infrastructure, which may interrupt the delivery or degrade the quality or reliability of our
-products and lead to a negative user experience or increase our costs. Any of these events could adversely aﬀect our business, reputation, or
-financial results.
+Generally, the functional currency of our international subsidiaries is the local currency. We translate the ﬁnancial statements of these
+subsidiaries to U.S. dollars using month-end rates of exchange for assets and liabilities, and average rates of exchange for revenue, costs, and
+expenses. Translation gains and losses are recorded in accumulated other comprehensive income (loss) as a component of stockholders' equity.
+As of December 31, 2025, cumulative translation gains, net of tax was not material. As of December 31, 2024, cumulative translation losses, net
+of tax was $2.66 billion.
 
-Real or perceived inaccuracies in our community and other metrics may harm our reputation and negatively affect our business.
-
-The numbers for our key metrics, which include our daily active people (DAP) and average revenue per person (ARPP), are calculated
-using internal company data based on the activity of user accounts. While these numbers are based on what we believe to be reasonable
-estimates of our user base for the applicable period of measurement, there are inherent challenges in measuring usage of our products across
-large online and mobile populations around the world. The methodologies used to measure these metrics require signiﬁcant judgment and are
-also susceptible to algorithm or other technical errors. In addition, we are continually seeking to improve our estimates of our user base, and such
-estimates may change due to improvements or changes in our methodology. We regularly review our processes for calculating these metrics,
-and from time to time we discover inaccuracies in our metrics or make adjustments to improve their accuracy, which can result in adjustments to
-our historical metrics. Our ability to recalculate our historical metrics may be impacted by data limitations or other factors that require us to apply
-diﬀerent methodologies for such adjustments. We generally do not intend to update previously disclosed Family metrics for any such
-inaccuracies or adjustments that are within the error margins disclosed below.
-
-In addition, our Family metrics estimates will diﬀer from estimates published by third parties due to diﬀerences in methodology or other
-factors such as data limitations or other challenges in measuring large online and mobile populations. For example, our methodologies include
-measurements of our user base that have in some instances exceeded estimates of addressable online and mobile populations that are based
-on data published by third parties.
-
-Many people in our community have user accounts on more than one of our products, and some people have multiple user accounts
-within an individual product. Accordingly, for our Family metrics, we do not seek to count the total number of user accounts across our products
-because we believe that would not reﬂect the actual size of our community. Rather, our Family metrics represent our estimates of the number of
-unique people using at least one of Facebook, Instagram, Messenger, and WhatsApp. We do not require people to use a common identiﬁer or
-link their accounts to use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products
-to individual people. To calculate these metrics, we rely upon complex techniques, algorithms and machine learning models that seek to count
-the individual people behind user accounts, including by matching multiple user accounts within an individual product and across multiple
-products when we believe they are attributable to a single person, and counting such group of accounts as one person. These techniques and
-models require signiﬁcant judgment, are subject to data and other limitations discussed below, and inherently are subject to statistical variances
-and uncertainties. We estimate the potential error in our Family metrics primarily based on user survey data as described further below, which
-itself is subject to error as well. While we expect the error margin for our Family metrics to vary from period to period, we estimate that such
-margin generally will be approximately 3% of our worldwide DAP. At our scale, it is very diﬃcult to attribute multiple user accounts within and
-across products to individual people, and it is possible that the actual numbers of unique people using our products may vary signiﬁcantly from
-our estimates, potentially beyond our estimated error margins. As a result, it is also possible that our Family metrics may indicate changes or
-trends in user numbers that do not match actual changes or trends.
-
-To calculate our estimates of DAP, we currently use a series of machine learning models that are developed based on internal reviews of
-limited samples of user accounts and calibrated against user survey data. We apply signiﬁcant judgment in designing these models and
-calculating these estimates. For example, to match user accounts within individual products and across multiple products, we use data signals
-such as similar device information, IP addresses, and user names. We also calibrate our models against data from periodic user surveys of
-varying sizes and frequency across our products, which survey questions are based on monthly usage, and which are inherently subject to error.
-The timing and results of such user surveys have in the past contributed, and may in the future contribute, to changes in our reported Family
-metrics from period to period. In addition, our data limitations may affect our understanding of certain details of our business and increase the risk
-of error for our Family metrics estimates. Our techniques and models rely on a variety of data signals from diﬀerent products, and we rely on
-more limited data signals for some products compared to others. For example, as a result of limited visibility into encrypted products, we have
-fewer data signals from WhatsApp user accounts and primarily rely on phone numbers and device information to match WhatsApp user
-accounts with accounts on our other products. Any loss of access to data signals we use in our process for calculating Family metrics, whether
-as a result of our own product decisions, actions by third-party
+Foreign currency transaction gains and losses from transactions denominated in a currency other than the functional currency of the
+subsidiary involved are recorded within interest and other income (expense), net on our consolidated statements of income. Foreign currency
+transaction gains, net were $352 million for the year ended December 31, 2025 and foreign currency transaction losses, net were $ 690 million,
+and $366 million for the years ended December 31, 2024 and 2023, respectively.
 
 
-#### 28
+#### 100
 
 
-## Page 30
+## Page 102
 
 
 #### Table of Contents
 
-browser or mobile platforms, regulatory or legislative requirements, or other factors, also may impact the stability or accuracy of our reported
-Family metrics, as well as our ability to report these metrics at all. Our estimates of Family metrics also may change as our methodologies evolve,
-including through the application of new data signals or technologies, product changes, or other improvements in our user surveys, algorithms, or
-machine learning that may improve our ability to match accounts within and across our products or otherwise evaluate the broad population of
-our users. In addition, such evolution may allow us to identify previously undetected violating accounts (as defined below).
 
-We regularly evaluate our Family metrics to estimate the percentage of our DAP consisting solely of "violating" accounts. We deﬁne
-"violating" accounts as accounts which we believe are intended to be used for purposes that violate our terms of service, including bots and
-spam. Our violating accounts estimation is based on an internal review of a limited sample of accounts, and we apply signiﬁcant judgment in
-making this determination. For example, we look for account information and behaviors associated with Facebook and Instagram accounts that
-appear to be inauthentic to the reviewers, but we have less visibility into WhatsApp user activity due to encryption. In addition, if we believe an
-individual person has one or more violating accounts, we do not include such person in our violating accounts estimation as long as we believe
-they have one active account that does not constitute a violating account. In the fourth quarter of 2025, we made certain updates to the
-methodology we use for this estimation, including to incorporate updated data signals as a result of improvements in our ability to identify activity
-we believe to be violating our policies, as well as to focus on the most recent account activity when determining whether to include a person in
-our violating accounts estimation. Accordingly, in the fourth quarter of 2025, we estimated that less than 5% of our worldwide DAP consisted
-solely of violating accounts. We believe the increase compared to our prior estimation was a result of the methodology update described above.
-From time to time, we disable certain user accounts, make product changes, or take other actions to reduce the number of violating accounts
-among our users, which may also reduce our DAP estimates in a particular period. We intend to continue to disclose our estimates of the
-percentage of our DAP consisting solely of violating accounts on an annual basis in our Annual Report on Form 10-K. Violating accounts are very
-difficult to measure at our scale, and it is possible that the actual number of violating accounts may vary significantly from our estimates.
+#### Credit Risk and Concentration
 
-Other data limitations also may aﬀect our understanding of certain details of our business. For example, while user-provided data indicates
-a decline in usage among younger users, this age data may be unreliable because a disproportionate number of our younger users register with
-an inaccurate age. Accordingly, our understanding of usage by age group may not be complete.
+Our ﬁnancial instruments that are potentially subject to concentrations of credit risk consist primarily of cash, cash equivalents, restricted
+cash and restricted cash equivalents, marketable debt securities, and accounts receivable. Cash equivalents consist mostly of money market
+funds, that primarily invest in U.S. government and agency securities. Marketable debt securities consist of investments in U.S. government
+securities, U.S. government agency securities, and investment grade corporate debt securities. As part of our cash management strategy, we
+concentrate cash deposits with large ﬁnancial institutions and our marketable debt securities are held in diversiﬁed highly rated securities. Our
+investment portfolio in corporate debt securities is highly liquid and diversiﬁed among individual issuers. The amount of credit losses recorded for
+the year ended December 31, 2025 was not material.
 
-Our estimates for revenue by user location, as well as year-over-year percentage changes in ad impressions delivered and the average
-price per ad by user location, are also aﬀected by data limitations and other challenges in measuring user geography. Our data regarding the
-geographic location of our users is estimated based on a number of factors, such as the user's IP address and self-disclosed location. These
-factors may not always accurately reﬂect the user's actual location. For example, a user may appear to be accessing our products from the
-location of the proxy server that the user connects to rather than from the user's actual location. The methodologies used to measure our metrics
-are also susceptible to algorithm or other technical errors.
+Accounts receivable are typically unsecured and are derived from revenue earned from customers across diﬀerent industries and
+countries. We generated 37% , 36%, and 37% of our revenue for the years ended December 31, 2025, 2024, and 2023, respectively, from
+marketers and developers based in the United States, with a majority of the revenue outside of the United States in 2025 coming from customers
+located in western Europe, China, Singapore, and Brazil.
 
-In addition, from time to time we provide, or rely on, certain other metrics and estimates, including those relating to the reach and
-effectiveness of our ads. Many of our metrics involve the use of estimations and judgments, and our metrics and estimates are subject to software
-bugs, inconsistencies in our systems, and human error. Such metrics and estimates also change from time to time due to improvements or
-changes in our terminology or methodology, including as a result of loss of access to data signals we use in calculating such metrics and
-estimates. We have been, and may in the future be, subject to litigation as well as marketer, regulatory, and other inquiries regarding the
-accuracy of such metrics and estimates. Where marketers, developers, or investors do not perceive our metrics or estimates to be accurate, or
-where we discover material inaccuracies in our metrics or estimates, we may be subject to liability, our reputation may be harmed, and marketers
-and developers may be less willing to allocate their budgets or resources to our products that deliver ad impressions, which could negatively
-affect our business and financial results.
+We perform ongoing credit evaluations of our customers and generally do not require collateral. We maintain an allowance for estimated
+credit losses, and bad debt expense on these losses was not material during the years ended December 31, 2025, 2024, and 2023. In the event
+that accounts receivable collection cycles deteriorate, our operating results and financial position could be adversely affected.
 
-We cannot assure you that we will effectively manage our scale.
-
-Our employee headcount and the scale and complexity of our business have increased signiﬁcantly over time. The scale of our business
-and breadth of our products create signiﬁcant challenges for our management, operational, and ﬁnancial resources, including managing multiple
-relationships with users, marketers, developers, and other third parties, and maintaining information technology systems and internal controls
-and procedures that support the scale and complexity of our business. To eﬀectively manage our scale, we must maintain, and continue to
-adapt, our operational, financial, and
+No customer represented 10% or more of total revenue or accounts receivable for the years ended December 31, 2025, 2024, and 2023.
 
 
-#### 29
+#### Recently Adopted Accounting Pronouncements
+
+Beginning in 2025 annual reporting, we adopted Accounting Standards Update (ASU) No. 2023-09, Income Taxes (Topic 740):
+Improvements to Income Tax Disclosures (ASU 2023-09) on a prospective basis. This standard improves the transparency of income tax
+disclosures by requiring consistent categories and greater disaggregation of information in the eﬀective tax rate reconciliation and income taxes
+paid disaggregated by jurisdiction. It also includes certain other amendments to improve the eﬀectiveness of income tax disclosures. The
+adoption of this new standard did not have a material impact on our consolidated ﬁnancial statements. For additional information, see Note 14 —
+Income Taxes.
+
+
+#### Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation
+Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses (ASU 2024-03). The guidance requires disaggregated
+information about certain income statement expense line items on an annual and interim basis. This guidance will be eﬀective for annual periods
+beginning with the year ending December 31, 2027 and for interim periods thereafter. The new standard permits early adoption and can be
+applied prospectively or retrospectively. We are evaluating the eﬀect that this guidance will have on our consolidated ﬁnancial statements and
+related disclosures.
+
+In September 2025, the FASB issued ASU No. 2025-06,  Intangibles: Goodwill and Other‒Internal-Use Software  (Subtopic 350-40):
+Targeted Improvements to the Accounting for Internal-Use Software (ASU 2025-06). The guidance modernizes the accounting for software costs
+and enhances the transparency about an entity's software costs. The guidance will be eﬀective for the annual periods beginning with the year
+ending December 31, 2027 and for interim periods beginning January 1, 2028. Early adoption is permitted. Upon adoption, the guidance can be
+applied prospectively, retrospectively, or under a modiﬁed transition approach. We are evaluating the eﬀect that this guidance and do not expect
+the adoption of this guidance to have a material impact on our consolidated financial statements.
+
+In December 2025, the FASB issued ASU No. 2025-11, Interim Reporting (Topic 270): Narrow-Scope Improvements  (ASU 2025-11),
+which clariﬁes interim disclosure requirements and the applicability of Topic 270. The guidance will be eﬀective for interim periods beginning
+January 1, 2028. Early adoption is permitted. Upon adoption, the guidance can be applied prospectively or retrospectively. We do not expect the
+adoption of this guidance to have a material impact on our consolidated financial statements.
+
+
+#### 101
+
+
+## Page 103
+
+### Table 103.1
+
+|  | Year Ended December 31, |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2025 |  |  | 2024 |  |  | 2023 |  |
+| Advertising | $ | 196,175 |  | $ | 160,633 |  | $ | 131,948 |
+| Other revenue | 2,584 |  |  | 1,722 |  |  | 1,058 |  |
+| Family of Apps | 198,759 |  |  | 162,355 |  |  | 133,006 |  |
+|  | 2,207 |  |  | 2,146 |  |  | 1,896 |  |
+| Total revenue | $ | 200,966 |  | $ | 164,501 |  | $ | 134,902 |
+
+
+### Table 103.2
+
+| United States and Canada (1) | $ | 78,866 |  | $ | 63,207 |  | $ | 52,888 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Europe (2) | 46,569 |  |  | 38,361 |  |  | 31,210 |  |
+| Asia-Pacific | 53,817 |  |  | 45,009 |  |  | 36,154 |  |
+| Rest of World (2) | 21,714 |  |  | 17,924 |  |  | 14,650 |  |
+| Total revenue | $ | 200,966 |  | $ | 164,501 |  | $ | 134,902 |
+
+
+
+#### Table of Contents
+
+In December 2025, the FASB issued ASU No. 2025-10, Accounting for Government Grants (Topic 832): Accounting for Government
+Grants Received by Business Entities (ASU 2025-10) to establish authoritative guidance on the recognition, measurement, and presentation of
+government grants received by business entities. The guidance will be eﬀective for the annual periods beginning with the year ending December
+31, 2028 and for interim periods beginning January 1, 2029. Early adoption is permitted. Upon adoption, the guidance can be applied using a
+modiﬁed prospective, modiﬁed retrospective, or under a retrospective approach. We are evaluating the eﬀect that this guidance and do not
+expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+
+
+#### Note 2. Revenue
+
+Revenue disaggregated by revenue source and by segment consists of the following (in millions):
+
+Year Ended December 31, 
+2025
+2024
+2023
+Advertising
+$
+196,175 
+$
+160,633 
+$
+131,948 
+Other revenue
+2,584 
+1,722 
+1,058 
+Family of Apps
+198,759 
+162,355 
+133,006 
+Reality Labs
+2,207 
+2,146 
+1,896
+
+Total revenue
+$
+200,966 
+$
+164,501 
+$
+134,902
+
+Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+United States and Canada 
+$
+78,866 
+$
+63,207 
+$
+52,888 
+Europe 
+46,569 
+38,361 
+31,210 
+Asia-Pacific
+53,817 
+45,009 
+36,154 
+Rest of World 
+21,714 
+17,924 
+14,650
+
+Total revenue
+$
+200,966 
+$
+164,501 
+$
+134,902
+
+_________________________
+(1)
+United States revenue was $74.78 billion, $59.73 billion, and $49.78 billion for the years ended December 31, 2025, 2024, and 2023, respectively.
+(2)
+Europe includes Russia and Turkey, and Rest of World includes Africa, Latin America, and the Middle East.
+
+Deferred revenue was $1.08 billion and $772 million as of December 31, 2025 and 2024, respectively. Our deferred revenue primarily
+relates to advertising prepayments and credits, as well as software updates and upgrades associated with RL hardware sales, most of which are
+expected to be realized in less than a year.
+
+
+#### (1)
+
+
+#### (2)
+
+
+#### (2)
+
+
+#### 102
+
+
+## Page 120
+
+### Table 120.1
+
+| Record Date |  | Payment Date |  | Dividend Per Share |  |  | Class A |  |  | Class B |  |  | Total |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2025 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| March 14, 2025 |  | March 26, 2025 |  | $ | 0.525 |  | $ | 1,145 |  | $ | 180 |  | $ | 1,325 |
+| June 16, 2025 |  | June 26, 2025 |  | $ | 0.525 |  | $ | 1,142 |  | $ | 180 |  | $ | 1,322 |
+| September 22, 2025 |  | September 29, 2025 |  | $ | 0.525 |  | $ | 1,143 |  | $ | 180 |  | $ | 1,323 |
+| December 15, 2025 |  | December 23, 2025 |  | $ | 0.525 |  | $ | 1,148 |  | $ | 180 |  | $ | 1,328 |
+| 2024 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| February 22, 2024 |  | March 26, 2024 |  | $ | 0.50 |  | $ | 1,099 |  | $ | 174 |  | $ | 1,273 |
+| June 14, 2024 |  | June 26, 2024 |  | $ | 0.50 |  | $ | 1,093 |  | $ | 173 |  | $ | 1,266 |
+| September 16, 2024 |  | September 26, 2024 |  | $ | 0.50 |  | $ | 1,090 |  | $ | 172 |  | $ | 1,262 |
+| December 16, 2024 |  | December 27, 2024 |  | $ | 0.50 |  | $ | 1,095 |  | $ | 172 |  | $ | 1,267 |
+
+
+
+#### Table of Contents
+
+
+#### Note 12. Stockholders' Equity
+
+
+#### Common Stock
+
+Our certiﬁcate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2025,
+we are authorized to issue 5,000 million shares of Class A common stock and 4,141 million shares of Class B common stock, each with a par
+value of $0.000006 per share. Holders of our Class A common stock and Class B common stock are entitled to dividends when, as, and if
+declared by our board of directors, subject to the rights of the holders of all classes of stock outstanding having priority rights to dividends. The
+holder of each share of Class A common stock is entitled to one vote, while the holder of each share of Class B common stock is entitled to ten
+votes. Shares of our Class B common stock are convertible into an equivalent number of shares of our Class A common stock and generally
+convert into shares of our Class A common stock upon transfer. Class A common stock and Class B common stock are collectively referred to as
+common stock throughout the notes to these ﬁnancial statements, unless otherwise noted. As of December 31, 2025, there were 2,187 million
+shares of Class A common stock and 343 million shares of Class B common stock issued and outstanding.
+
+
+#### Capital Return Program
+
+
+#### Share Repurchase
+
+Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and
+does not have an expiration date. As of December 31, 2024, $51.28 billion remained available and authorized for repurchases under this
+program. In 2025, we repurchased and subsequently retired 40 million shares of our Class A common stock for an aggregate amount of
+$26.26 billion, including excise taxes. As of December 31, 2025, $ 25.03 billion remained available and authorized for repurchases.
+
+The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price,
+general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or
+privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange
+Act of 1934, as amended. Our share repurchase program may be suspended, delayed, discontinued, or accelerated at any time.
+
+
+#### Dividend
+
+The following table summarizes our dividends activities for the periods presented (in millions, except per share amounts):
+
+Record Date
+Payment Date
+Dividend Per Share
+Class A
+Class B
+Total
+2025
+
+March 14, 2025
+March 26, 2025
+$
+0.525 
+$
+1,145 
+$
+180 
+$
+1,325 
+June 16, 2025
+June 26, 2025
+$
+0.525 
+$
+1,142 
+$
+180 
+$
+1,322 
+September 22, 2025
+September 29, 2025
+$
+0.525 
+$
+1,143 
+$
+180 
+$
+1,323 
+December 15, 2025
+December 23, 2025
+$
+0.525 
+$
+1,148 
+$
+180 
+$
+1,328 
+2024
+
+February 22, 2024
+March 26, 2024
+$
+0.50 
+$
+1,099 
+$
+174 
+$
+1,273 
+June 14, 2024
+June 26, 2024
+$
+0.50 
+$
+1,093 
+$
+173 
+$
+1,266 
+September 16, 2024
+September 26, 2024
+$
+0.50 
+$
+1,090 
+$
+172 
+$
+1,262 
+December 16, 2024
+December 27, 2024
+$
+0.50 
+$
+1,095 
+$
+172 
+$
+1,267
+
+Beginning in the first quarter of 2025, our board of directors increased the cash dividend by 5% to $0.525 per share of outstanding Class A
+and Class B common stock. During the years ended December 31, 2025 and 2024, dividend equivalent payments on eligible equity awards,
+which are not included above, were not material.
+
+Subject to legally available funds and future declaration by our board of directors, we currently intend to continue to pay a quarterly cash
+dividend on our outstanding common stock. The declaration and payment of future dividends is at the sole
+
+
+#### 119
+
+
+## Page 121
+
+### Table 121.1
+
+| Cost of revenue | $ | 1,124 |  | $ | 1,055 |  | $ | 740 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development | 17,485 |  |  | 13,683 |  |  | 11,429 |  |
+| Marketing and sales | 926 |  |  | 1,026 |  |  | 952 |  |
+| General and administrative | 892 |  |  | 926 |  |  | 906 |  |
+| Total | $ | 20,427 |  | $ | 16,690 |  | $ | 14,027 |
+
+
+### Table 121.2
+
+| Unvested at December 31, 2024 | 122,632 |  | $ | 302.27 |
+| --- | --- | --- | --- | --- |
+| Granted | 69,666 |  | $ | 661.57 |
+| Vested | (61,906) |  | $ | 317.68 |
+| Forfeited | (14,840) |  | $ | 379.82 |
+| Unvested at December 31, 2025 | 115,552 |  | $ | 500.68 |
+
+
+
+#### Table of Contents
+
+discretion of our board of directors after taking into account various factors, including our ﬁnancial condition, operating results, available cash,
+and current and anticipated cash needs.
+
+
+#### Share-based Compensation Plan
+
+Our board of directors and stockholders approved our 2025 Equity Incentive Plan (2025 Plan), eﬀective as of May 28, 2025, which serves
+as the successor to our 2012 Equity Incentive Plan (2012 Plan) and provides for the issuance of RSUs, incentive and nonqualiﬁed stock options,
+restricted stock awards, stock appreciation rights, performance shares, and stock bonuses to qualiﬁed employees, directors, and consultants. No
+new awards will be issued under the 2012 Plan as of the eﬀective date of the 2025 Plan. Outstanding awards under the 2012 Plan continue to be
+subject to the terms and conditions of the 2012 Plan. Shares that are withheld in connection with the net settlement of RSUs granted under the
+2012 Plan and 2025 Plan, as well as forfeited shares underlying RSUs that were granted under the 2012 Plan and 2025 Plan, are added to the
+reserves of the 2025 Plan.
+
+As of December 31, 2025, there were 454 million shares of our Class A common stock reserved for future issuance under our 2025 Plan.
+Pursuant to the automatic increase provision under our 2025 Plan, the number of shares reserved for issuance increases automatically on
+January 1 of each of the calendar years during the term of the 2025 Plan, which will continue through May 2035, by a number of shares of Class
+A common stock equal to the lesser of (i) 2.5% of the total issued and outstanding shares of our Class A common stock as of the immediately
+preceding December 31st or (ii) a number of shares determined by our board of directors. Pursuant to this automatic increase provision, our
+board of directors approved an increase of 55 million shares of Class A common stock reserved for issuance, effective January 1, 2026.
+
+The following table summarizes our share-based compensation expense, which consists of the RSU expense, by line item in our
+consolidated statements of income (in millions):
+
+Year Ended December 31, 
+2025
+2024
+2023
+Cost of revenue
+$
+1,124 
+$
+1,055 
+$
+740 
+Research and development
+17,485 
+13,683 
+11,429 
+Marketing and sales
+926 
+1,026 
+952 
+General and administrative
+892 
+926 
+906
+
+Total
+$
+20,427 
+$
+16,690 
+$
+14,027
+
+The following table summarizes the activities for our unvested RSUs for the year ended December 31, 2025:
+
+
+#### Number of Shares
+
+
+#### Weighted-Average
+
+Grant Date Fair
+Value Per Share
+(in thousands)
+Unvested at December 31, 2024
+122,632 
+$
+302.27 
+Granted
+69,666 
+$
+661.57 
+Vested
+(61,906)
+$
+317.68 
+Forfeited
+(14,840)
+$
+379.82
+
+Unvested at December 31, 2025
+115,552 
+$
+500.68
+
+The fair value as of the respective vesting dates of RSUs that vested during the years ended December 31, 2025, 2024, and 2023 was
+$43.11 billion, $33.14 billion, and $17.46 billion, respectively. The income tax beneﬁt recognized related to awards vested during the years ended
+December 31, 2025, 2024, and 2023 was $9.33 billion, $6.95 billion, and $3.65 billion, respectively.
+
+As of December 31, 2025, unrecognized share-based compensation expense related to RSU awards was $ 54.81 billion, which is expected
+to be recognized over a weighted-average period of approximately three years based on vesting under the award service conditions.
+
+
+#### 120
+
+
+## Page 122
+
+### Table 122.1
+
+| Interest income | $ | 2,123 |  | $ | 2,517 |  | $ | 1,639 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Interest expense | (1,165) |  |  | (715) |  |  | (446) |  |
+| Foreign currency exchange gains (losses), net | 352 |  |  | (690) |  |  | (366) |  |
+| Other income (expense), net | 1,346 |  |  | 171 |  |  | (150) |  |
+| Total interest and other income, net | $ | 2,656 |  | $ | 1,283 |  | $ | 677 |
+
+
+### Table 122.2
+
+| Domestic | $ | 79,644 |  | $ | 66,342 |  | $ | 43,499 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Foreign | 6,288 |  |  | 4,321 |  |  | 3,929 |  |
+| Income before provision for income taxes | $ | 85,932 |  | $ | 70,663 |  | $ | 47,428 |
+
+
+### Table 122.3
+
+| Current: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Federal | $ | 2,820 |  | $ | 9,569 |  | $ | 4,934 |
+| State | 745 |  |  | 775 |  |  | 577 |  |
+| Foreign | 3,154 |  |  | 2,696 |  |  | 2,688 |  |
+| Total current tax expense | 6,719 |  |  | 13,040 |  |  | 8,199 |  |
+| Deferred: |  |  |  |  |  |  |  |  |
+| Federal | 18,379 |  |  | (4,709) |  |  | 67 |  |
+| State | 395 |  |  | (43) |  |  | 123 |  |
+| Foreign | (19) |  |  | 15 |  |  | (59) |  |
+| Total deferred tax (benefits) expense | 18,755 |  |  | (4,737) |  |  | 131 |  |
+| Provision for income taxes | $ | 25,474 |  | $ | 8,303 |  | $ | 8,330 |
+
+
+
+#### Table of Contents
+
+
+#### Note 13. Interest and Other Income, Net
+
+The following table presents the detail of interest and other income, net (in millions):
+
+Year Ended December 31,
+2025
+2024
+2023
+Interest income
+$
+2,123 
+$
+2,517 
+$
+1,639 
+Interest expense
+(1,165)
+(715)
+(446)
+Foreign currency exchange gains (losses), net
+352 
+(690)
+(366)
+Other income (expense), net
+1,346 
+171 
+(150)
+
+Total interest and other income, net
+$
+2,656 
+$
+1,283 
+$
+677
+
+
+#### Note 14. Income Taxes
+
+The components of income before provision for income taxes are as follows (in millions):
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+Domestic
+$
+79,644 
+$
+66,342 
+$
+43,499 
+Foreign
+6,288 
+4,321 
+3,929
+
+Income before provision for income taxes
+$
+85,932 
+$
+70,663 
+$
+47,428
+
+
+#### The provision for income taxes consists of the following (in millions):
+
+
+#### Year Ended December 31,
+
+2025
+2024
+2023
+Current:
+ 
+ 
+ 
+Federal
+$
+2,820 
+$
+9,569 
+$
+4,934 
+State
+745 
+775 
+577 
+Foreign
+3,154 
+2,696 
+2,688 
+Total current tax expense
+6,719 
+13,040 
+8,199
+
+Deferred:
+ 
+ 
+ 
+Federal
+18,379 
+(4,709)
+67 
+State
+395 
+(43)
+123 
+Foreign
+(19)
+15 
+(59)
+Total deferred tax (benefits) expense
+18,755 
+(4,737)
+131
+
+Provision for income taxes
+$
+25,474 
+$
+8,303 
+$
+8,330
+
+As a result of the implementation of the One Big Beautiful Bill Act (OBBBA) enacted in July 2025, we expect to incur Corporate Alternative
+Minimum Tax (CAMT) beginning in 2025. We recorded a $15.93 billion charge in the third quarter of 2025, of which $ 14.03 billion was a
+valuation allowance against our U.S. federal deferred tax assets as of the enactment date of OBBBA, and the remaining was mostly related to
+the reduction of the beneﬁt of the foreign-derived intangible income deduction. In determining the valuation allowance, our accounting policy
+incorporates the expected impact of future years’ CAMT in assessing the realizability of our deferred tax assets.
+
+
+#### 121
+
+
+## Page 123
+
+### Table 123.1
+
+| U.S. federal statutory income tax rate | $ | 18,046 | 21.0 | % |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 123.2
+
+| Foreign tax effects | 1,464 | 1.7 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 123.3
+
+| Research and development tax credits | (3,912) | (4.6) |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 123.4
+
+| Valuation allowances (2) | 11,974 | 13.9 |  |
+| --- | --- | --- | --- |
+| Changes in unrecognized tax benefits (3) | 3,127 | 3.6 |  |
+| Other adjustments |  |  |  |
+| Excess tax benefits from share-based compensation | (4,307) | (5.0) |  |
+| Other (4) | 689 | 0.8 |  |
+| Effective tax rate | $ 25,474 |  |  |
+
+
+### Table 123.5
+
+| U.S. federal statutory income tax rate |  | 21.0 | % | 21.0 | % |
+| --- | --- | --- | --- | --- | --- |
+| State income taxes, net of federal benefit |  | 0.7 |  | 1.1 |  |
+| Share-based compensation |  | (3.7) |  | (0.6) |  |
+| Research and development tax credits |  | (2.9) |  | (1.5) |  |
+| Foreign-derived intangible income deduction |  | (4.9) |  | (4.3) |  |
+| Effect of non-U.S. operations |  | 0.2 |  | 0.9 |  |
+| Other |  | 1.4 |  | 1.0 |  |
+| Effective tax rate |  | 11.8 | % | 17.6 | % |
+
+
+
+#### Table of Contents
+
+Beginning in 2025 annual reporting, we adopted ASU 2023-09 prospectively. See Note 1 — Summary of Significant Accounting Policies  –
+Recently Adopted Accounting Pronouncements for additional details on the adoption of ASU 2023-09. A reconciliation of the U.S. federal
+statutory income tax rate to our effective tax rate pursuant to the disclosure requirements of ASU 2023-09 for the year ended December 31, 2025
+is as follows (in millions, except percentages):
+
+Year Ended December 31, 2025
+U.S. federal statutory income tax rate
+$
+18,046 
+21.0 %
+State and local income taxes, net of federal income tax effect 
+(202)
+(0.2)
+Foreign tax effects
+1,464 
+1.7 
+Tax credits
+
+Research and development tax credits
+(3,912)
+(4.6)
+U.S. foreign tax credits
+(1,405)
+(1.6)
+Valuation allowances 
+11,974 
+13.9 
+Changes in unrecognized tax benefits 
+3,127 
+3.6 
+Other adjustments
+
+Excess tax benefits from share-based compensation
+(4,307)
+(5.0)
+Other 
+689 
+0.8
+
+Effective tax rate
+$
+25,474 
+29.6 %
+
+_________________________
+(1)
+California represents the majority of the tax effect in this category.
+(2)
+Primarily related to the implementation of OBBBA.
+(3)
+Changes in unrecognized tax benefits on an aggregated basis for all jurisdictions.
+(4)
+Includes the tax eﬀects of enactment of new tax laws (excluding implementation of OBBBA reﬂected in valuation allowances), eﬀect of cross-border tax
+laws, and nontaxable or nondeductible items.
+
+A reconciliation of the U.S. federal statutory income tax rates to our eﬀective tax rate for the years ended December 31, 2024 and 2023 is
+as follows (in percentages):
+
+
+#### Year Ended December 31,
+
+2024
+2023
+U.S. federal statutory income tax rate
+21.0 %
+21.0 %
+State income taxes, net of federal benefit
+0.7 
+1.1 
+Share-based compensation
+(3.7)
+(0.6)
+Research and development tax credits
+(2.9)
+(1.5)
+Foreign-derived intangible income deduction
+(4.9)
+(4.3)
+Effect of non-U.S. operations
+0.2 
+0.9 
+Other
+1.4 
+1.0
+
+Effective tax rate
+11.8 %
+17.6 %
+
+
+#### (1)
+
+
+#### (2)
+
+
+#### (3)
+
+
+#### (4)
+
+
+#### 122
+
+
+## Page 130
+
+
+#### Table of Contents
+
+Olivan and his affiliated entities. The plan will terminate on February 20, 2027, subject to early termination for certain specified events set forth in
+the plan.
+
+On November 25, 2025, Peggy Alford, a member of our board of directors , entered into a trading plan  that provides for the sale of an
+aggregate of up to $1 million worth of shares of our Class A common stock. The plan will terminate on November 15, 2026, subject to early
+termination for certain specified events set forth in the plan.
+
+On November 25, 2025, Susan Li, our Chief Financial Officer, entered into a trading plan  that provides for the sale of an aggregate of up
+to 112,273 shares of our Class A common stock and up to all of the net shares received during 2026 pursuant to Ms. Li and her spouse's
+outstanding equity awards and any future equity award grants. The plan will terminate on November 24, 2026, subject to early termination for
+certain specified events set forth in the plan.
+
+
+#### Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not Applicable.
+
+
+### PART III
+
+
+#### Item 10. Directors, Executive Officers and Corporate Governance
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to
+be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Our board of directors has adopted codes of conduct applicable to all oﬃcers, directors, and employees, which are available on our
+website (investor.atmeta.com) under "Leadership & Governance." We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K
+regarding amendment to, or waiver from, a provision of our code of conduct by posting such information on the website address and location
+specified above.
+
+We have adopted insider trading and 10b5-1 trading plan policies and procedures applicable to our directors, oﬃcers, employees, and
+other covered persons, and have implemented processes for the company, that we believe are reasonably designed to promote compliance with
+insider trading laws, rules and regulations, and the Nasdaq Stock Market LLC listing standards. Our insider trading policy and our 10b5-1 trading
+plan policy are filed as Exhibit 19.1 and Exhibit 19.2, respectively, to this Annual Report on Form 10-K.
+
+
+#### Item 11. Executive Compensation
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to
+be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to
+be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to
+be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+
+#### Item 14. Principal Accountant Fees and Services
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to
+be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+
+#### 129
+
+
+## Page 131
+
+
+#### Table of Contents
+
+
+### PART IV
+
+
+#### Item 15. Exhibit and Financial Statement Schedules
+
+
+#### We have filed the following documents as part of this Form 10-K:
+
+
+#### 1. Consolidated Financial Statements:
+
+Page
+Reports of Independent Registered Public Accounting Firm (PCAOB ID No. 42)
+83
+Consolidated Balance Sheets
+88
+Consolidated Statements of Income
+89
+Consolidated Statements of Comprehensive Income
+90
+Consolidated Statements of Stockholders' Equity
+91
+Consolidated Statements of Cash Flows
+92
+Notes to Consolidated Financial Statements
+94
+
+
+#### 2. Financial Statement Schedules
+
+All schedules have been omitted because they are not required, not applicable, not present in amounts suﬃcient to require submission of the
+schedule, or the required information is otherwise included.
+
+
+#### 3. Exhibits
+
+Exhibit
+Incorporated by Reference
+Filed
+Herewith
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing Date
+
+3.1
+Amended and Restated Certificate of
+Incorporation (including all amendments
+thereto).
+
+10-Q
+001-35551
+3.1
+August 1, 2024
+
+3.2
+Amended and Restated Bylaws.
+8-K
+001-35551
+3.1
+September 10, 2024
+4.1
+Form of Class A Common Stock Certificate.
+10-K
+001-35551
+4.1
+February 3, 2022
+4.2
+Form of Class B Common Stock Certificate.
+10-K
+001-35551
+4.2
+February 3, 2022
+4.3
+Indenture, dated as of August 9, 2022,
+between Meta Platforms, Inc. and U.S. Bank
+Trust Company, National Association, as
+trustee.
+
+8-K
+001-35551
+4.1
+August 9, 2022
+
+4.4
+First Supplemental Indenture, dated as of
+August 9, 2022, between Meta Platforms,
+Inc. and U.S. Bank Trust Company, National
+Association, as trustee.
+
+8-K
+001-35551
+4.2
+August 9, 2022
+
+4.5
+Second Supplemental Indenture, dated as of
+May 3, 2023, by and between Meta
+Platforms, Inc. and U.S. Bank Trust
+Company, National Association, as trustee.
+
+8-K
+001-35551
+4.1
+May 3, 2023
+
+4.6
+Third Supplemental Indenture, dated as of
+August 9, 2024, by and between Meta
+Platforms, Inc. and U.S. Bank Trust
+Company, National Association, as trustee.
+
+8-K
+001-35551
+4.1
+August 9, 2024
+
+
+#### 130
+
+
+## Page 132
+
+
+#### Table of Contents
+
+Exhibit
+Incorporated by Reference
+Filed
+Herewith
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing Date
+
+4.7
+Fourth Supplemental Indenture, dated as of
+November 3, 2025, by and between Meta
+Platforms, Inc. and U.S. Bank Trust
+Company, National Association, as trustee.
+
+8-K
+001-35551
+4.1
+November 3, 2025
+
+4.8
+Description of Registrant's Capital Stock.
+10-K
+001-35551
+4.6
+February 2, 2024
+10.1+
+Form of Indemnification Agreement.
+8-K
+001-35551
+10.1
+April 15, 2019
+10.2(A)+
+2012 Equity Incentive Plan, as amended.
+10-K
+001-35551
+10.2(A)
+February 2, 2023
+10.2(B)+
+Third Amendment to the 2012 Equity
+Incentive Plan.
+
+10-K
+001-35551
+10.2(B)
+February 2, 2023
+
+10.2(C)+
+Fourth Amendment to the 2012 Equity
+Incentive Plan.
+
+10-Q
+001-35551
+10.1
+August 1, 2024
+
+10.2(D)+
+2012 Equity Incentive Plan forms of award
+agreements.
+
+10-Q
+001-35551
+10.2
+April 30, 2020
+
+10.2(E)+
+2012 Equity Incentive Plan forms of award
+agreements (Additional Forms).
+
+10-Q
+001-35551
+10.2
+July 29, 2021
+
+10.2(F)+
+2012 Equity Incentive Plan forms of award
+agreements (Additional Forms).
+
+10-Q
+001-35551
+10.3
+April 28, 2022
+
+10.2(G)+
+2012 Equity Incentive Plan forms of award
+agreements (Additional Forms).
+
+10-Q
+001-35551
+10.1
+April 27, 2023
+
+10.2(H)+
+2012 Equity Incentive Plan forms of award
+agreements (Additional Forms).
+
+10-Q
+001-35551
+10.2
+April 25, 2024
+
+10.2(I)+
+2025 Equity Incentive Plan.
+10-Q
+001-35551
+10.1
+July 31, 2025
+10.2(J)+
+2025 Equity Incentive Plan forms of award
+agreements.
+
+10-Q
+001-35551
+10.2
+July 31, 2025
+
+10.3+
+Amended and Restated Bonus Plan,
+effective January 1, 2025.
+
+10-Q
+001-35551
+10.1
+May 1, 2025
+
+10.4+
+Amended and Restated Bonus Plan,
+effective January 1, 2026.
+
+
+### X
+
+10.5+
+Amended and Restated Offer Letter, dated
+January 27, 2012, between Registrant and
+Mark Zuckerberg.
+
+S-1
+333-179287
+10.6
+February 8, 2012
+
+10.6+
+Offer Letter, dated June 5, 2020, between
+Registrant and Christopher K. Cox.
+
+10-Q
+001-35551
+10.1
+April 29, 2021
+
+10.7+
+Offer Letter, dated December 22, 2022,
+between Registrant and Javier Olivan.
+
+10-K
+001-35551
+10.8
+February 2, 2023
+
+10.8+
+Offer Letter, dated March 14, 2022, between
+Registrant and Andrew Bosworth.
+
+10-Q
+001-35551
+10.3
+April 27, 2023
+
+10.9+
+Offer Letter, dated November 1, 2022,
+between Registrant and Susan Li.
+
+10-Q
+001-35551
+10.4
+April 27, 2023
+
+10.10+
+Form of Executive Officer Offer Letter.
+10-Q
+001-35551
+10.3
+July 25, 2019
+10.11+
+Director Compensation Policy, as amended.
+10-Q
+001-35551
+10.3
+July 31, 2025
+10.12+
+Amended and Restated Deferred
+Compensation Plan for Non-Employee
+Directors.
+
+10-Q
+001-35551
+10.4
+July 31, 2025
+
+10.13+
+Indemnification Agreement Relating to
+Subsidiary Operations, dated March 14,
+2021, between Registrant and Mark
+Zuckerberg.
+
+10-Q
+001-35551
+10.2
+April 29, 2021
+
+10.14+*
+Aircraft Time Sharing Agreement, dated
+March 27, 2024, between Registrant and
+Mark Zuckerberg.
+
+10-Q
+001-35551
+10.1
+April 25, 2024
+
+
+#### 131
+
+
+## Page 133
+
+
+#### Table of Contents
+
+Exhibit
+Incorporated by Reference
+Filed
+Herewith
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Filing Date
+
+10.15+*
+Form of Director Aircraft Time Sharing
+Agreement.
+
+10-Q
+001-35551
+10.1
+October 31, 2024
+
+19.1
+Insider Trading Policy.
+10-K
+001-35551
+19.1
+January 30, 2025
+19.2
+10b5-1 Trading Plan Policy.
+10-K
+001-35551
+19.2
+January 30, 2025
+21.1
+List of Subsidiaries.
+X
+23.1
+Consent of Independent Registered Public
+Accounting Firm.
+
+
+### X
+
+31.1
+Certification of Mark Zuckerberg, Chief
+Executive Officer, pursuant to Rule 13a-
+14(a)/15d-14(a), as adopted pursuant to
+Section 302 of the Sarbanes-Oxley Act of
+2002.
+
+
+### X
+
+31.2
+Certification of Susan Li, Chief Financial
+Officer, pursuant to Rule 13a-14(a)/15d-
+14(a), as adopted pursuant to Section 302 of
+the Sarbanes-Oxley Act of 2002.
+
+
+### X
+
+32.1#
+Certification of Mark Zuckerberg, Chief
+Executive Officer, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of
+2002.
+
+
+### X
+
+32.2#
+Certification of Susan Li, Chief Financial
+Officer, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002.
+
+
+### X
+
+97.1
+Compensation Recoupment Policy.
+10-K
+001-35551
+97.1
+February 2, 2024
+101.INS
+Inline XBRL Instance Document (the instance
+document does not appear in the Interactive
+Data File because its XBRL tags are
+embedded within the Inline XBRL document).
+
+
+### X
+
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+Document.
+
+
+### X
+
+101.CAL
+Inline XBRL Taxonomy Extension Calculation
+Linkbase Document.
+
+
+### X
+
+101.DEF
+Inline XBRL Taxonomy Extension Definition
+Linkbase Document.
+
+
+### X
+
+101.LAB
+Inline XBRL Taxonomy Extension Labels
+Linkbase Document.
+
+
+### X
+
+101.PRE
+Inline XBRL Taxonomy Extension
+Presentation Linkbase Document.
+
+
+### X
+
+104
+Cover Page Interactive Data File (formatted
+as inline XBRL and contained in Exhibit 101).
+
+
+### X
+
++ Indicates a management contract or compensatory plan.
+* Certain portions of this exhibit have been omitted pursuant to Item 601(b)(10) of Regulation S-K.
+# This certiﬁcation is deemed not ﬁled for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or
+otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any ﬁling under the Securities Act of 1933,
+as amended, or the Exchange Act.
+
+
+#### Item 16. Form 10-K Summary
+
+None.
+
+
+#### 132

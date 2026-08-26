@@ -131,14 +131,14 @@
       "op_per_emp": 73871.0,
       "ni_per_emp": 61613.0,
       "rd_per_emp": 22258.0,
-      "rev_growth_yoy": 10.58,
-      "gp_growth_yoy": 15.41,
-      "op_growth_yoy": 14.61,
-      "ni_growth_yoy": 13.96,
-      "rd_growth_yoy": 3.29,
-      "hc_growth_yoy": 1.31,
-      "gm_diff_pp": 2.57,
-      "op_diff_pp": 1.42
+      "rev_growth_yoy": 18.56,
+      "gp_growth_yoy": 20.76,
+      "op_growth_yoy": 26.38,
+      "ni_growth_yoy": 28.88,
+      "rd_growth_yoy": 8.49,
+      "hc_growth_yoy": 2.65,
+      "gm_diff_pp": 1.12,
+      "op_diff_pp": 2.49
     },
     "2025 Q2": {
       "revenue": 2950,
@@ -156,14 +156,14 @@
       "op_per_emp": 76603.0,
       "ni_per_emp": 62821.0,
       "rd_per_emp": 22564.0,
-      "rev_growth_yoy": 3.8,
-      "gp_growth_yoy": 3.95,
-      "op_growth_yoy": 4.37,
-      "ni_growth_yoy": 2.62,
-      "rd_growth_yoy": 2.03,
-      "hc_growth_yoy": 0.65,
-      "gm_diff_pp": 0.09,
-      "op_diff_pp": 0.22
+      "rev_growth_yoy": 18.62,
+      "gp_growth_yoy": 19.74,
+      "op_growth_yoy": 24.22,
+      "ni_growth_yoy": 68.1,
+      "rd_growth_yoy": 7.98,
+      "hc_growth_yoy": 2.63,
+      "gm_diff_pp": 0.57,
+      "op_diff_pp": 1.83
     },
     "2025 Q3": {
       "revenue": 2820,
@@ -181,14 +181,14 @@
       "op_per_emp": 70701.0,
       "ni_per_emp": 54459.0,
       "rd_per_emp": 22803.0,
-      "rev_growth_yoy": -4.41,
-      "gp_growth_yoy": -5.46,
-      "op_growth_yoy": -7.11,
-      "ni_growth_yoy": -12.76,
-      "rd_growth_yoy": 1.7,
-      "hc_growth_yoy": 0.64,
-      "gm_diff_pp": -0.67,
-      "op_diff_pp": -1.15
+      "rev_growth_yoy": 19.49,
+      "gp_growth_yoy": 22.15,
+      "op_growth_yoy": 26.42,
+      "ni_growth_yoy": 42.26,
+      "rd_growth_yoy": 10.49,
+      "hc_growth_yoy": 2.95,
+      "gm_diff_pp": 1.33,
+      "op_diff_pp": 2.16
     },
     "2025 Q4": {
       "revenue": 2888,
@@ -206,56 +206,140 @@
       "op_per_emp": 72785.0,
       "ni_per_emp": 56329.0,
       "rd_per_emp": 23101.0,
-      "rev_growth_yoy": 2.41,
-      "gp_growth_yoy": 1.52,
-      "op_growth_yoy": 3.6,
-      "ni_growth_yoy": 4.09,
-      "rd_growth_yoy": 1.96,
-      "hc_growth_yoy": 0.64,
-      "gm_diff_pp": -0.54,
-      "op_diff_pp": 0.46
+      "rev_growth_yoy": 12.37,
+      "gp_growth_yoy": 15.15,
+      "op_growth_yoy": 15.12,
+      "ni_growth_yoy": 6.21,
+      "rd_growth_yoy": 9.28,
+      "hc_growth_yoy": 3.27,
+      "gm_diff_pp": 1.45,
+      "op_diff_pp": 0.95
     }
   },
   "sales_breakdown": {
     "categories": [
-      "Semiconductor Process Control",
-      "Specialty Process",
-      "PCB & Display",
-      "Services & Upgrades"
+      "Process Control (Wafer Inspection / Metrology)",
+      "Specialty Semiconductor Process",
+      "PCB, Display & Component Inspection",
+      "Services"
     ],
     "colors": [
-      "#0284C7",
-      "#3B82F6",
       "#F59E0B",
-      "#10B981"
+      "#3B82F6",
+      "#10B981",
+      "#64748B"
     ],
     "data": {
-      "2024 Q4": {
+      "2024 Q1": {
         "value": [
-          1720,
-          130,
-          140,
-          580
+          1519,
+          137,
+          210,
+          532
         ],
         "volume": [
-          220,
-          55,
-          100,
-          1150
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          1576,
+          142,
+          217,
+          552
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          1495,
+          134,
+          206,
+          524
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1628,
+          146,
+          225,
+          571
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1817,
+          168,
+          245,
+          613
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1886,
+          174,
+          254,
+          636
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1803,
+          166,
+          243,
+          608
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
         ]
       },
       "2025 Q4": {
         "value": [
-          1950,
-          145,
-          148,
-          645
+          1846,
+          170,
+          249,
+          623
         ],
         "volume": [
-          250,
-          60,
-          105,
-          1220
+          64,
+          6,
+          9,
+          21
         ]
       }
     }

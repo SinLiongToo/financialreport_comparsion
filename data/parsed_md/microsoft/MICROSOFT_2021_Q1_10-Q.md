@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2021_Q1_10-Q
+# Financial Report: MICROSOFT_2021_Q1_10-Q
 
 - **Source File**: `MICROSOFT_2021_Q1_10-Q.pdf`
-- **Total Pages**: 63
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 63
+- **Parsed Key Pages**: 30 (30 selected sections)
 
 ---
 

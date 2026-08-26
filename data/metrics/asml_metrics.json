@@ -5,8 +5,6 @@
   "unit": "€M",
   "freq": "quarterly",
   "years": [
-    "2021",
-    "2023",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
@@ -15,7 +13,6 @@
     "2024 Q2",
     "2024 Q3",
     "2024 Q4",
-    "2025",
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
@@ -38,14 +35,14 @@
       "op_per_emp": 53877.0,
       "ni_per_emp": 48296.0,
       "rd_per_emp": 23407.0,
-      "rev_growth_yoy": 232.32,
-      "gp_growth_yoy": 68.13,
-      "op_growth_yoy": -66.44,
-      "ni_growth_yoy": 0.0,
-      "rd_growth_yoy": -53.3,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": -49.4,
-      "op_diff_pp": -287.9
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
     },
     "2023 Q2": {
       "revenue": 6902,
@@ -138,14 +135,14 @@
       "op_per_emp": 32500.0,
       "ni_per_emp": 28598.0,
       "rd_per_emp": 24112.0,
-      "rev_growth_yoy": -26.91,
-      "gp_growth_yoy": -27.59,
-      "op_growth_yoy": -42.4,
-      "ni_growth_yoy": -40.23,
-      "rd_growth_yoy": 0.39,
-      "hc_growth_yoy": 0.91,
-      "gm_diff_pp": -0.5,
-      "op_diff_pp": -7.08
+      "rev_growth_yoy": -21.58,
+      "gp_growth_yoy": -20.95,
+      "op_growth_yoy": -36.25,
+      "ni_growth_yoy": -37.42,
+      "rd_growth_yoy": 8.86,
+      "hc_growth_yoy": 5.68,
+      "gm_diff_pp": 0.4,
+      "op_diff_pp": -6.06
     },
     "2024 Q2": {
       "revenue": 6243,
@@ -163,14 +160,14 @@
       "op_per_emp": 42414.0,
       "ni_per_emp": 36276.0,
       "rd_per_emp": 24368.0,
-      "rev_growth_yoy": 18.02,
-      "gp_growth_yoy": 19.16,
-      "op_growth_yoy": 32.64,
-      "ni_growth_yoy": 28.92,
-      "rd_growth_yoy": 2.71,
-      "hc_growth_yoy": 1.64,
-      "gm_diff_pp": 0.5,
-      "op_diff_pp": 3.26
+      "rev_growth_yoy": -9.55,
+      "gp_growth_yoy": -9.18,
+      "op_growth_yoy": -18.47,
+      "ni_growth_yoy": -18.74,
+      "rd_growth_yoy": 6.32,
+      "hc_growth_yoy": 4.82,
+      "gm_diff_pp": 0.2,
+      "op_diff_pp": -3.24
     },
     "2024 Q3": {
       "revenue": 7467,
@@ -188,14 +185,14 @@
       "op_per_emp": 55477.0,
       "ni_per_emp": 47205.0,
       "rd_per_emp": 24318.0,
-      "rev_growth_yoy": 19.61,
-      "gp_growth_yoy": 17.98,
-      "op_growth_yoy": 32.3,
-      "ni_growth_yoy": 31.62,
-      "rd_growth_yoy": 0.94,
-      "hc_growth_yoy": 1.15,
-      "gm_diff_pp": -0.7,
-      "op_diff_pp": 3.14
+      "rev_growth_yoy": 11.9,
+      "gp_growth_yoy": 9.53,
+      "op_growth_yoy": 11.87,
+      "ni_growth_yoy": 9.72,
+      "rd_growth_yoy": 6.15,
+      "hc_growth_yoy": 4.76,
+      "gm_diff_pp": -1.1,
+      "op_diff_pp": -0.01
     },
     "2024 Q4": {
       "revenue": 9263,
@@ -213,14 +210,14 @@
       "op_per_emp": 70554.0,
       "ni_per_emp": 60791.0,
       "rd_per_emp": 25029.0,
-      "rev_growth_yoy": 24.05,
-      "gp_growth_yoy": 26.07,
-      "op_growth_yoy": 28.19,
-      "ni_growth_yoy": 29.8,
-      "rd_growth_yoy": 3.74,
-      "hc_growth_yoy": 0.79,
-      "gm_diff_pp": 0.8,
-      "op_diff_pp": 1.09
+      "rev_growth_yoy": 27.98,
+      "gp_growth_yoy": 28.34,
+      "op_growth_yoy": 29.57,
+      "ni_growth_yoy": 31.64,
+      "rd_growth_yoy": 7.98,
+      "hc_growth_yoy": 4.56,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": 0.41
     },
     "2025 Q1": {
       "revenue": 7200,
@@ -238,14 +235,14 @@
       "op_per_emp": 51775.0,
       "ni_per_emp": 44494.0,
       "rd_per_emp": 25169.0,
-      "rev_growth_yoy": 254.68,
-      "gp_growth_yoy": 82.66,
-      "op_growth_yoy": -74.47,
-      "ni_growth_yoy": 0.0,
-      "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": -48.5,
-      "op_diff_pp": -412.48
+      "rev_growth_yoy": 36.11,
+      "gp_growth_yoy": 37.44,
+      "op_growth_yoy": 65.64,
+      "ni_growth_yoy": 61.76,
+      "rd_growth_yoy": 8.53,
+      "hc_growth_yoy": 3.97,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 5.71
     },
     "2025 Q2": {
       "revenue": 8100,
@@ -263,14 +260,14 @@
       "op_per_emp": 59933.0,
       "ni_per_emp": 51570.0,
       "rd_per_emp": 25785.0,
-      "rev_growth_yoy": 12.5,
-      "gp_growth_yoy": 13.59,
-      "op_growth_yoy": 16.02,
-      "ni_growth_yoy": 16.16,
-      "rd_growth_yoy": 2.68,
-      "hc_growth_yoy": 0.22,
+      "rev_growth_yoy": 29.75,
+      "gp_growth_yoy": 31.01,
+      "op_growth_yoy": 44.88,
+      "ni_growth_yoy": 45.75,
+      "rd_growth_yoy": 8.49,
+      "hc_growth_yoy": 2.53,
       "gm_diff_pp": 0.5,
-      "op_diff_pp": 1.0
+      "op_diff_pp": 3.45
     },
     "2025 Q3": {
       "revenue": 8400,
@@ -288,14 +285,14 @@
       "op_per_emp": 61074.0,
       "ni_per_emp": 52573.0,
       "rd_per_emp": 26398.0,
-      "rev_growth_yoy": 3.7,
-      "gp_growth_yoy": 3.7,
-      "op_growth_yoy": 2.13,
-      "ni_growth_yoy": 2.17,
-      "rd_growth_yoy": 2.61,
-      "hc_growth_yoy": 0.22,
-      "gm_diff_pp": 0.0,
-      "op_diff_pp": -0.5
+      "rev_growth_yoy": 12.49,
+      "gp_growth_yoy": 15.16,
+      "op_growth_yoy": 11.84,
+      "ni_growth_yoy": 13.14,
+      "rd_growth_yoy": 10.28,
+      "hc_growth_yoy": 1.59,
+      "gm_diff_pp": 1.2,
+      "op_diff_pp": -0.19
     },
     "2025 Q4": {
       "revenue": 8800,
@@ -313,86 +310,14 @@
       "op_per_emp": 63683.0,
       "ni_per_emp": 55134.0,
       "rd_per_emp": 26786.0,
-      "rev_growth_yoy": 4.76,
-      "gp_growth_yoy": 5.59,
-      "op_growth_yoy": 4.51,
-      "ni_growth_yoy": 5.11,
-      "rd_growth_yoy": 1.69,
-      "hc_growth_yoy": 0.22,
-      "gm_diff_pp": 0.4,
-      "op_diff_pp": -0.08
-    },
-    "2021": {
-      "revenue": 2030.0,
-      "gross_profit": 2030.0,
-      "rd_expense": 2030.0,
-      "operating_income": null,
-      "net_income": null,
-      "gross_margin": 100.0,
-      "operating_margin": 0.0,
-      "net_margin": 0.0,
-      "rd_pct_rev": 100.0,
-      "rev_per_emp": 78077.0,
-      "gp_per_emp": 78077.0,
-      "op_per_emp": 0,
-      "ni_per_emp": 0,
-      "rd_per_emp": 78077.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
-    },
-    "2023": {
-      "revenue": 2030.0,
-      "gross_profit": 2030.0,
-      "rd_expense": 2030.0,
-      "operating_income": 6501,
-      "net_income": null,
-      "gross_margin": 100.0,
-      "operating_margin": 320.25,
-      "net_margin": 0.0,
-      "rd_pct_rev": 100.0,
-      "rev_per_emp": 78077.0,
-      "gp_per_emp": 78077.0,
-      "op_per_emp": 250038.0,
-      "ni_per_emp": 0,
-      "rd_per_emp": 78077.0,
-      "rev_growth_yoy": 0.0,
-      "gp_growth_yoy": 0.0,
-      "op_growth_yoy": 0.0,
-      "ni_growth_yoy": 0.0,
-      "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": 0.0,
-      "op_diff_pp": 320.25
-    },
-    "2025": {
-      "revenue": 2030.0,
-      "gross_profit": 2030.0,
-      "rd_expense": null,
-      "operating_income": 9023,
-      "net_income": null,
-      "gross_margin": 100.0,
-      "operating_margin": 444.48,
-      "net_margin": 0.0,
-      "rd_pct_rev": 0.0,
-      "rev_per_emp": 78077.0,
-      "gp_per_emp": 78077.0,
-      "op_per_emp": 347038.0,
-      "ni_per_emp": 0,
-      "rd_per_emp": 0,
-      "rev_growth_yoy": -78.08,
-      "gp_growth_yoy": -57.55,
-      "op_growth_yoy": 188.37,
-      "ni_growth_yoy": 0.0,
-      "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": -41.37,
-      "gm_diff_pp": 48.4,
-      "op_diff_pp": 410.7
+      "rev_growth_yoy": -5.0,
+      "gp_growth_yoy": -3.55,
+      "op_growth_yoy": -8.82,
+      "ni_growth_yoy": -8.38,
+      "rd_growth_yoy": 8.11,
+      "hc_growth_yoy": 1.02,
+      "gm_diff_pp": 0.8,
+      "op_diff_pp": -1.36
     }
   },
   "sales_breakdown": {
@@ -403,122 +328,178 @@
       "Metrology & Inspection (M&I)"
     ],
     "colors": [
-      "#1A365D",
       "#00A3E0",
-      "#90CDF4",
-      "#ED8936"
+      "#0072CE",
+      "#1E3A8A",
+      "#64748B"
     ],
     "data": {
-      "2024 Q1": {
+      "2023 Q1": {
         "value": [
-          1600,
-          1500,
-          1400,
-          790
+          2231,
+          2990,
+          587,
+          937
         ],
         "volume": [
-          11,
-          22,
-          54,
-          48
+          53,
+          125,
+          172,
+          210
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          2283,
+          3060,
+          601,
+          958
+        ],
+        "volume": [
+          53,
+          125,
+          172,
+          210
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          2207,
+          2958,
+          581,
+          927
+        ],
+        "volume": [
+          53,
+          125,
+          172,
+          210
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          2394,
+          3209,
+          630,
+          1005
+        ],
+        "volume": [
+          53,
+          125,
+          172,
+          210
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          1806,
+          2173,
+          491,
+          820
+        ],
+        "volume": [
+          48,
+          112,
+          165,
+          230
         ]
       },
       "2024 Q2": {
         "value": [
-          1950,
-          1850,
-          1600,
-          843
+          2132,
+          2564,
+          580,
+          968
         ],
         "volume": [
-          12,
-          26,
-          62,
-          55
+          48,
+          112,
+          165,
+          230
         ]
       },
       "2024 Q3": {
         "value": [
-          2150,
-          2100,
-          2100,
-          1117
+          2549,
+          3067,
+          693,
+          1157
         ],
         "volume": [
-          12,
-          29,
-          74,
-          64
+          48,
+          112,
+          165,
+          230
         ]
       },
       "2024 Q4": {
         "value": [
-          2600,
-          2500,
-          1763,
-          2400
+          3163,
+          3804,
+          860,
+          1436
         ],
         "volume": [
-          13,
-          33,
-          75,
-          68
+          48,
+          112,
+          165,
+          230
         ]
       },
       "2025 Q1": {
         "value": [
-          2450,
-          2050,
-          1700,
-          1000
+          2751,
+          2837,
+          602,
+          1010
         ],
         "volume": [
-          14,
-          28,
-          68,
-          60
+          60,
+          128,
+          175,
+          250
         ]
       },
       "2025 Q2": {
         "value": [
-          2800,
-          2200,
-          1900,
-          1200
+          3095,
+          3192,
+          677,
+          1136
         ],
         "volume": [
-          15,
-          30,
-          70,
-          65
+          60,
+          128,
+          175,
+          250
         ]
       },
       "2025 Q3": {
         "value": [
-          2900,
-          2300,
-          1850,
-          1350
+          3210,
+          3310,
+          702,
+          1179
         ],
         "volume": [
-          15,
-          31,
-          71,
-          67
+          60,
+          128,
+          175,
+          250
         ]
       },
       "2025 Q4": {
         "value": [
-          3050,
-          2350,
-          1500,
-          1900
+          3362,
+          3467,
+          736,
+          1235
         ],
         "volume": [
-          16,
-          31,
-          71,
-          68
+          60,
+          128,
+          175,
+          250
         ]
       }
     }

@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2025_10-K
+# Financial Report: MICROSOFT_2025_10-K
 
 - **Source File**: `MICROSOFT_2025_10-K.pdf`
-- **Total Pages**: 165
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 165
+- **Parsed Key Pages**: 52 (52 selected sections)
 
 ---
 
@@ -1720,264 +1720,4395 @@ orders to cease the alleged noncompliant activity. If our products do not meet c
 regulatory or legal actions, and our business, operations, financial condition, and results of operations could be adversely affected.
 
 
-## Page 26
+## Page 49
 
-PART I
-Item 1A
+### Table 49.1
 
+| Foreign currency – Revenue |  | 10% decrease in foreign exchange rates |  | $ | (11,596 | ) |  |  | Earnings |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-#### 26
 
-We have claims and lawsuits against us that may result in adverse outcomes. We are subject to a variety of claims and lawsuits. These 
-claims may arise from a wide variety of business practices and initiatives, including major new product releases, AI services, significant business 
-transactions, warranty or product claims, employment practices, and regulation. As we continue to expand our business and offerings, we may 
-experience new and novel legal claims. Adverse outcomes in some or all of these claims may result in significant monetary damages or 
-injunctive relief that could adversely affect our ability to conduct our business. Litigation and other claims are subject to inherent uncertainties and 
-management’s view of these matters may change in the future. An adverse impact to our financial condition and results of operations could occur 
-for the period in which the effect of an unfavorable outcome becomes probable and reasonably estimable.
 
-Our business with government customers may present additional uncertainties. We derive substantial revenue from government 
-contracts. Government contracts and regulatory requirements can present risks and challenges not present in private commercial agreements. 
-For instance, we are subject to government audits and investigations relating to these contracts, and we are required to provide assurance and 
-attestations about our products and processes. If we do not satisfy contractual or regulatory requirements, we could be suspended or debarred 
-as a governmental contractor, we could incur civil and criminal fines and penalties, and under certain circumstances contracts may be rescinded. 
-Some agreements may allow a government to terminate without cause and provide for higher liability limits for certain losses. Some contracts 
-may be subject to periodic funding approval, reductions, cancellations, or delays which could adversely impact public-sector demand for our 
-products and services. These events could negatively impact our financial condition, results of operations, and reputation.
+### Table 49.2
 
-We may have additional tax liabilities. We are subject to income taxes in the U.S. and many foreign jurisdictions. Significant judgment is 
-required in determining our worldwide provision for income taxes. In the course of our business, there are many transactions and calculations 
-where the ultimate tax determination is uncertain. We may recognize additional tax expense and be subject to additional tax liabilities due to 
-changes in tax laws, regulations, and administrative practices and principles, including changes to the global tax framework, in various 
-jurisdictions. In recent years, multiple domestic and international tax proposals were proposed to impose greater tax burdens on large 
-multinational enterprises. For example, the Organisation for Economic Co-operation and Development continues to advance proposals or 
-guidance in international taxation, including the establishment of a global minimum tax.
+| Interest rate |  | 100 basis point increase in U.S. treasury interest rates |  |  | (1,415 | ) |  |  | Fair Value |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-We are regularly under audit by tax authorities in different jurisdictions. Although we believe that our provision for income taxes and our tax 
-estimates are reasonable, tax authorities may disagree with certain positions we have taken. In addition, economic and political pressures to 
-increase tax revenue in various jurisdictions may make resolving tax disputes favorably more difficult. We are currently under IRS audit for prior 
-tax years and have received Notices of Proposed Adjustment (“NOPAs”) from the IRS for the tax years 2004 to 2013. The primary issues in the 
-NOPAs relate to intercompany transfer pricing. In the NOPAs, the IRS is seeking an additional tax payment of $28.9 billion plus penalties and 
-interest. The final resolution of the proposed adjustments, and other audits or litigation, may differ from the amounts recorded in our consolidated 
-financial statements and adversely affect our results of operations in the period or periods in which that determination is made.
 
-We earn a significant amount of our operating income outside the U.S. A change in the mix of earnings and losses in countries with differing 
-statutory tax rates, changes in our business or structure, or the expiration of or disputes about certain tax agreements in a particular country may 
-result in higher effective tax rates for the company. In addition, changes in U.S. federal and state or international tax laws applicable to corporate 
-multinationals, other global fundamental law changes currently being considered by many countries, including in the U.S., and changes in taxing 
-jurisdictions’ administrative interpretations, decisions, policies, and positions could adversely affect our financial condition and results of 
-operations.
 
+### Table 49.3
 
-### INTELLECTUAL PROPERTY RISKS
+| Equity |  | 10% decrease in equity market prices |  |  | (1,213 | ) |  |  | Earnings |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-We face risks related to the protection and utilization of our intellectual property that may result in our business and operating results 
-being harmed. Protecting our intellectual property rights and combating unlicensed copying and use of our software, source code, and other 
-intellectual property on a global basis is difficult. Similarly, the absence of harmonized patent laws makes it more difficult to ensure consistent 
-respect for patent rights.
-
-Changes in the law may continue to weaken our ability to prevent the use of patented technology. Our increasing engagement with open source 
-software will also cause us to license our intellectual property rights broadly in certain situations. If we are unable to protect our intellectual 
-property, our results of operations could be adversely affected.
-
-
-## Page 27
-
-PART I
-Item 1A
-
-
-#### 27
-
-Source code, the detailed program commands for our operating systems and other software programs, is critical to our business. If our source 
-code leaks, we might lose future trade secret protection for that code. It may then become easier for third parties to compete with our products by 
-copying functionality, which could adversely affect our results of operations. Unauthorized access to or disclosure of source code or other 
-intellectual property also increases the security risks described elsewhere in these risk factors.
-
-Third parties may claim that we infringe their intellectual property. From time to time, others claim we infringe their intellectual property 
-rights, including current copyright infringement and other claims arising from AI training and output. To resolve these claims, we may enter into 
-royalty-bearing data access or licensing agreements on terms that are less favorable than currently available, stop selling or redesign affected 
-products or services, or pay damages to satisfy indemnification commitments with our customers. Adverse outcomes could also include 
-monetary damages or injunctive relief that may limit or prevent importing, marketing, and selling our products or services that have infringing 
-technologies. We have paid significant amounts to settle claims related to the use of technology and intellectual property rights and to procure 
-intellectual property rights as part of our strategy to manage this risk, and may continue to do so, which could adversely affect our results of 
-operations.
-
-
-### GENERAL RISKS
-
-If our reputation or our brands are damaged, our business and results of operations may be harmed. Our reputation and brands are 
-globally recognized and are important to our business. Our reputation and brands affect our ability to attract and retain consumer, business, and 
-public-sector customers. There are numerous ways our reputation or brands could be damaged. These include product safety or quality issues, 
-our environmental impact and sustainability, supply chain practices, or human rights record. We may experience backlash from customers, 
-government entities, advocacy groups, employees, and other stakeholders that disagree with our product offering decisions, public policy 
-positions, or corporate philanthropic initiatives. Damage to our reputation or our brands may occur from, among other things:
-
-•The introduction of new features, products, services, or terms of service that customers, users, or partners do not like.
-
-•Public scrutiny of our decisions regarding user privacy, data practices, content, or development and deployment of AI.
-
-•Data security breaches, cybersecurity incidents, responsible AI failures, compliance failures, or actions of partners or individual 
-employees.
-
-Social media may increase the likelihood, speed, and magnitude of negative brand events. If our brands or reputation are damaged, it could 
-adversely affect our business, results of operations, or ability to attract the most highly qualified employees.
-
-Adverse economic or market conditions could harm our business. Worsening economic conditions, including inflation, recession, 
-pandemic, or other changes in economic conditions, may cause lower IT spending and adversely affect our results of operations. If demand for 
-computing power, PCs, servers, and other computing devices declines, or consumer or business spending for those products declines, our 
-results of operations could be adversely affected.
-
-Our product distribution system relies on an extensive partner and retail network. OEMs building devices that run our software have also been a 
-significant means of distribution. The impact of economic conditions on our partners, such as the bankruptcy of a major distributor, OEM, or 
-retailer, could cause sales channel disruption.
-
-Challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased. As a result, 
-allowances for doubtful accounts and write-offs of accounts receivable may increase.
-
-We maintain an investment portfolio of various holdings, types, and maturities. These investments are subject to general credit, liquidity, market, 
-and interest rate risks, which may be exacerbated by market downturns or events that affect global financial markets. A significant part of our 
-investment portfolio comprises U.S. government securities. If global financial markets decline for long periods, or if there is a downgrade of the 
-U.S. government credit rating due to an actual or threatened default on government debt, our investment portfolio could be adversely affected 
-and we could determine that more of our investments have experienced a decline in fair value, requiring impairment charges that could adversely 
-affect our financial condition and results of operations.
 
 
-## Page 28
+PART II
+Item 7A
 
-PART I
-Item 1A
 
+#### 49
 
-#### 28
 
-Catastrophic events or geopolitical conditions could disrupt our business. A disruption or failure of our systems, operations, or supply 
-chain because of a major earthquake, weather event, cyberattack, terrorist attack, pandemic, or other catastrophic event could cause delays in 
-completing sales, providing services, or performing other critical functions. Our corporate headquarters, a significant portion of our research and 
-development activities, and certain other essential business operations are in the Seattle, Washington area, and we have other business 
-operations in the Silicon Valley area of California, both of which are seismically active regions. A catastrophic event that results in the destruction 
-or disruption of any of our critical business or systems, or the infrastructure or systems they rely on, such as power grids, could harm our ability to 
-conduct normal business operations or adversely affect our results of operations. Providing our customers with more services and solutions in 
-the cloud puts a premium on the resilience of our systems and strength of our business continuity management plans and magnifies the potential 
-negative consequences of prolonged service outages.
+### ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 
-Abrupt political change, terrorist activity, and armed conflict, such as the ongoing conflict in Ukraine, pose economic and other risks, which may 
-negatively impact our ability to sell to and collect from customers, increase our operating costs, or otherwise disrupt our operations in markets 
-both directly and indirectly impacted by such events. These conditions also may add uncertainty to the timing and budget for technology 
-investment decisions by our customers and may cause supply chain disruptions for hardware manufacturers. Geopolitical change may result in 
-changing regulatory systems and requirements and market interventions that could impact our operating strategies, access to national, regional, 
-and global markets, hiring, and profitability. Geopolitical instability may lead to sanctions and impact our ability to do business in some markets or 
-with some public-sector customers. Any of these changes could adversely affect our results of operations. Changes in geopolitical conditions 
-also increase the security risks described elsewhere in these risk factors.
 
-The occurrence of regional epidemics or a global pandemic, such as COVID-19, could adversely affect our business, operations, financial 
-condition, and results of operations. The extent to which global pandemics impact our business going forward will depend on factors such as the 
-duration and scope of the pandemic; governmental, business, and individuals' actions in response to the pandemic; and the impact on economic 
-activity, including the possibility of recession or financial market instability. Measures to contain a global pandemic may intensify other risks 
-described in these Risk Factors.
+### RISKS
 
-The long-term effects of climate change on the global economy and the IT industry in particular are unclear. Environmental regulations or 
-changes in the supply, demand, or available sources of energy or other resources may affect the availability or cost of goods and services, 
-including natural resources, necessary to run our business. Changes in climate where we operate may increase the costs of powering and 
-cooling computer hardware we use to develop software and provide cloud-based services.
+We are exposed to economic risk from foreign exchange rates, interest rates, credit risk, and equity prices. We use derivatives instruments to 
+manage these risks, however, they may still impact our consolidated financial statements.
 
-Our global business exposes us to operational and economic risks. Our customers, employees, and infrastructure are located throughout 
-the world and a significant part of our revenue comes from international sales. The global nature of our business creates operational, economic, 
-and geopolitical risks. Global, regional, and local economic developments, monetary policy, geopolitical tension, particularly between the U.S. 
-and Europe, restrictions on international trade, such as tariffs and other controls on imports or exports, inflation, and recession, as well as political 
-and military disputes, could adversely affect our results of operations. Non-compliance with sanctions as well as general ecosystem disruptions 
-could result in reputational harm, operational delays, monetary fines, loss of revenue, increased costs, loss of export privileges, or criminal 
-sanctions, which could adversely affect our business, financial condition, and results of operations.
-
-In addition, our international growth strategy includes certain markets, the developing nature of which presents several risks, including 
-deterioration of social, political, labor, or economic conditions in a country or region, and difficulties in staffing and managing foreign operations. 
-Emerging nationalist and protectionist trends and concerns about human rights, the environment, and political expression in specific countries 
-may significantly alter the trade and commercial environments. Changes to trade policy or agreements as a result of populism, protectionism, or 
-economic nationalism may result in higher tariffs, local sourcing initiatives, and non-local sourcing restrictions, export controls, investment 
-restrictions, or other developments that make it more difficult to operate and sell our products in foreign countries. Disruptions of these kinds in 
-developed or emerging markets could negatively impact demand for our products and services, impair our ability to operate in certain regions, or 
-increase operating costs. Although we hedge a portion of our international currency exposure, significant fluctuations in foreign exchange rates 
-between the U.S. dollar and foreign currencies could adversely affect our results of operations.
-
-
-## Page 29
-
-PART I
-Item 1A
-
-
-#### 29
-
-Our business depends on our ability to attract and retain talented employees. Our business is based on successfully attracting, training, 
-and retaining talented employees representing diverse backgrounds, experiences, and skill sets. The market for highly skilled workers and 
-leaders in our industry is extremely competitive. Maintaining our brand and reputation, as well as an inclusive work environment that enables all 
-our employees to thrive, are important to our ability to recruit and retain employees. We are also limited in our ability to recruit internationally by 
-restrictive domestic immigration laws. Restraints on the flow of technical and professional talent, including those derived from changes to U.S. 
-immigration policies or laws, may inhibit our ability to adequately staff our research and development efforts. If we are less successful in our 
-recruiting efforts, or if we cannot retain highly skilled workers and key leaders, our ability to develop and deliver successful products and services 
-could be adversely affected. Effective succession planning is also important to our long-term success. Failure to ensure effective transfer of 
-knowledge and smooth transitions involving key employees could hinder our strategic planning and execution. How employment-related laws are 
-interpreted and applied to our workforce practices may result in increased operating costs and less flexibility in how we meet our workforce 
-needs. Our global workforce is predominantly non-unionized, although we do have some employees in the U.S. and internationally who are 
-represented by unions or works councils. In the U.S., there has been a general increase in workers exercising their right to form or join a union. 
-The unionization of significant employee populations could result in higher costs and other operational changes necessary to respond to 
-changing conditions and to establish new relationships with worker representatives.
-
-
-## Page 30
-
-PART I
-Item 1B, 1C
-
-
-#### 30
-
-
-### ITEM 1B. UNRESOLVED STAFF COMMENTS
-
-We have received no written comments regarding our periodic or current reports from the staff of the Securities and Exchange Commission that 
-were issued 180 days or more preceding the end of our fiscal year 2025 that remain unresolved.
-
-
-### ITEM 1C. CYBERSECURITY
-
-
-### RISK MANAGEMENT AND STRATEGY
-
-Microsoft plays a central role in the world’s digital ecosystem. We have made it the top corporate priority to protect the computing environment 
-used by our customers and employees and to support the resiliency of our cloud infrastructure and services, products, devices, and our internal 
-corporate resources from determined adversaries. In response to the evolving cybersecurity threat landscape, we launched the Secure Future 
-Initiative (“SFI”) in November 2023 and expanded the scope of SFI in May 2024. The SFI focuses our business strategy and efforts on continual 
-improvement in cybersecurity protection, and is aligned around three security principles:
-
-•Secure by Design: Security comes first when designing any product or service.
-
-•Secure by Default: Security protections are enabled and enforced by default, require no extra effort, and are not optional.
-
-•Secure Operations: Security controls and monitoring will continuously be improved to meet current and future threats.
-
-We operate a cybersecurity program and governance framework designed to protect our computing environments against cybersecurity threats, 
-and we have controls, policies, and procedures to identify, manage, and mitigate cybersecurity threats. Annually, we assess our cybersecurity 
-program’s alignment with the National Institute of Standards & Technology’s Cyber Security Framework (“NIST”) and other applicable industry 
-standards. We also undertake integrated planning and preparedness activities to support business continuity and operational resiliency. We 
-assess our program's effectiveness through various exercises, including tabletop simulations and production environment tests, penetration and 
-vulnerability tests, red team exercises, and other related activities. We conduct mandatory cybersecurity training, provide employees with tools to 
-report suspected incidents and assess their own security posture, and conduct real-time simulated employee education exercises, such as 
-phishing email campaigns designed to emulate real-world attacks. We also engage in robust cybersecurity assessments and remediation efforts 
-for acquired companies.
-
-Our computing environments, products, and services are reviewed by our internal audit teams as well as independent third-party assessors. We 
-are committed to managing the most significant risks to our strategies and ambitions, including cybersecurity risks. The Enterprise Risk 
-Management (“ERM”) organization supports management in this commitment by facilitating the semiannual risk assessment, which documents 
-the priority and status of these risks and aligns them with our strategic mitigation efforts. ERM is structured using a framework based on the 
-Committee of Sponsoring Organization (“COSO”) guidance on Enterprise Risk Management Integrating Strategy with Performance and it also 
-aligns with the International Organization for Standardization 31000:2018 Risk Management Standard.
-
-We continuously monitor our computing environments, products, and services for vulnerabilities and signs of compromise, and we utilize our own 
-security products to combat cybersecurity threats. We integrate security into our computing environments, products, and services through our 
-Security Development Lifecycle (“SDL”). Our SDL introduces security and privacy considerations throughout all phases of our development 
-process and through the adoption of zero-trust end-to-end architecture. We utilize machine learning and AI-powered security tools to gain 
-insights from 84 trillion signals per day. We track over 1,500 unique threat actors, including more than 600 nation-state actors, 300 cybercriminal 
-groups, 200 influence operation groups, and hundreds of others. To support our efforts, we operate a Cyber Defense Operations Center 
-connected to over 10,000 security and threat intelligence experts, including engineers, researchers, data scientists, cybersecurity experts, threat 
-hunters, geopolitical analysts, investigators, and frontline responders across the globe.
+
+#### Foreign Currencies
+
+Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign currency exposures daily to 
+maximize the economic effectiveness of our foreign currency positions, including hedges. Principal currency exposures include the Euro, 
+Japanese yen, British pound, Canadian dollar, and Australian dollar.
+
+
+#### Interest Rate
+
+Securities held in our fixed-income portfolio are subject to different interest rate risks based on their maturities. We manage the average maturity 
+of the fixed-income portfolio to achieve economic returns that correlate to certain global fixed-income indices.
+
+
+#### Credit
+
+Our fixed-income portfolio is diversified and consists primarily of investment-grade securities. We manage credit exposures relative to broad-
+based indices to facilitate portfolio diversification.
+
+
+#### Equity
+
+Securities held in our equity investments portfolio are subject to price risk.
+
+
+### SENSITIVITY ANALYSIS
+
+The following table sets forth the potential loss in future earnings or fair values, including associated derivatives, resulting from hypothetical 
+changes in relevant market rates or prices: 
+ 
+(In millions)
+
+Risk Categories
+ Hypothetical Change
+
+
+#### June 30,
+
+2025
+Impact
+
+Foreign currency – Revenue
+ 10% decrease in foreign exchange rates
+ $
+
+
+#### (11,596
+
+
+#### )
+
+
+#### Earnings
+
+Foreign currency – Investments
+ 10% decrease in foreign exchange rates
+  
+(17)
+  Fair Value
+ 
+Interest rate
+ 100 basis point increase in U.S. treasury interest rates
+  
+(1,415)
+  Fair Value
+ 
+Credit 
+ 100 basis point increase in credit spreads
+  
+(436)
+  Fair Value
+ 
+Equity
+ 10% decrease in equity market prices
+  
+(1,213)
+  Earnings
+
+
+## Page 50
+
+### Table 50.1
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.2
+
+| Service and other |  |  | 217,778 |  |  |  | 180,349 |  |  |  | 147,216 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.3
+
+| Cost of revenue: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.4
+
+| Service and other |  |  | 74,330 |  |  |  | 58,842 |  |  |  | 48,059 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.5
+
+| Gross margin |  |  | 193,893 |  |  |  | 171,008 |  |  |  | 146,052 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.6
+
+| Sales and marketing |  |  | 25,654 |  |  |  | 24,456 |  |  |  | 22,759 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.7
+
+| Operating income |  |  | 128,528 |  |  |  | 109,433 |  |  |  | 88,523 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.8
+
+| Income before income taxes |  |  | 123,627 |  |  |  | 107,787 |  |  |  | 89,311 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.9
+
+| Net income |  | $ | 101,832 |  |  | $ | 88,136 |  |  | $ | 72,361 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.10
+
+| Basic |  | $ | 13.70 |  |  | $ | 11.86 |  |  | $ | 9.72 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.11
+
+| Weighted average shares outstanding: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 50.12
+
+| Diluted |  |  | 7,465 |  |  |  | 7,469 |  |  |  | 7,472 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 50
+
+
+### ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+INCOME STATEMENTS
+ 
+(In millions, except per share amounts)
+
+Year Ended June 30,
+ 
+2025  
+2024  
+2023
+
+Revenue:
+  
+    
+    
+  
+Product
+ $
+63,946  $
+64,773  $
+64,699 
+Service and other
+  
+217,778   
+180,349   
+147,216
+
+Total revenue
+  
+281,724   
+245,122   
+211,915
+
+Cost of revenue:
+  
+    
+    
+  
+Product
+  
+13,501   
+15,272   
+17,804 
+Service and other
+  
+74,330   
+58,842   
+48,059
+
+Total cost of revenue
+  
+87,831   
+74,114   
+65,863
+
+Gross margin
+  
+193,893   
+171,008   
+146,052 
+Research and development
+  
+32,488   
+29,510   
+27,195 
+Sales and marketing
+  
+25,654   
+24,456   
+22,759 
+General and administrative
+  
+7,223   
+7,609   
+7,575
+
+Operating income
+  
+128,528   
+109,433   
+88,523 
+Other income (expense), net 
+  
+(4,901)   
+(1,646)   
+788
+
+Income before income taxes
+  
+123,627   
+107,787   
+89,311 
+Provision for income taxes
+  
+21,795   
+19,651   
+16,950
+
+Net income
+ $
+101,832  $
+88,136  $
+72,361
+
+Earnings per share:
+  
+   
+   
+ 
+Basic
+ $
+13.70  $
+11.86  $
+9.72 
+Diluted
+ $
+13.64  $
+11.80  $
+9.68 
+Weighted average shares outstanding:
+  
+   
+   
+ 
+Basic
+  
+7,433   
+7,431   
+7,446 
+Diluted
+  
+7,465   
+7,469   
+7,472
+
+Refer to accompanying notes.
+
+
+## Page 51
+
+### Table 51.1
+
+| Net income |  | $ | 101,832 |  |  | $ | 88,136 |  |  | $ | 72,361 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 51.2
+
+| Net change related to derivatives |  |  | (5 | ) |  |  | 24 |  |  |  | (14 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 51.3
+
+| Translation adjustments and other |  |  | 674 |  |  |  | (228 | ) |  |  | (207 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 51.4
+
+| Comprehensive income |  | $ | 104,075 |  |  | $ | 88,889 |  |  | $ | 70,696 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 51
+
+COMPREHENSIVE INCOME STATEMENTS
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025
+2024
+2023
+
+Net income
+ $
+101,832  $
+88,136  $
+72,361
+
+Other comprehensive income (loss), net of tax:
+  
+    
+    
+  
+Net change related to derivatives
+  
+(5)   
+24   
+(14)
+Net change related to investments
+  
+1,574   
+957   
+(1,444)
+Translation adjustments and other
+  
+674   
+(228)   
+(207)
+
+Other comprehensive income (loss)
+  
+2,243   
+753   
+(1,665)
+
+Comprehensive income
+ $
+104,075  $
+88,889  $
+70,696
+
+Refer to accompanying notes.
+
+
+## Page 52
+
+### Table 52.1
+
+| Assets |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.2
+
+| Cash and cash equivalents |  | $ | 30,242 |  |  | $ | 18,315 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.3
+
+| Total cash, cash equivalents, and short-term investments |  |  | 94,565 |  |  |  | 75,543 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.4
+
+| Inventories |  |  | 938 |  |  |  | 1,246 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.5
+
+| Total current assets |  |  | 191,131 |  |  |  | 159,734 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.6
+
+| Operating lease right-of-use assets |  |  | 24,823 |  |  |  | 18,961 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.7
+
+| Goodwill |  |  | 119,509 |  |  |  | 119,220 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.8
+
+| Other long-term assets |  |  | 40,565 |  |  |  | 36,460 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.9
+
+| L iabilities and stockholders’ equity |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.10
+
+| Accounts payable |  | $ | 27,724 |  |  | $ | 21,996 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.11
+
+| Current portion of long-term debt |  |  | 2,999 |  |  |  | 2,249 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.12
+
+| Short-term income taxes |  |  | 7,211 |  |  |  | 5,017 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.13
+
+| Other current liabilities |  |  | 25,020 |  |  |  | 19,185 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.14
+
+| Long-term debt |  |  | 40,152 |  |  |  | 42,688 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.15
+
+| Long-term unearned revenue |  |  | 2,710 |  |  |  | 2,602 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.16
+
+| Operating lease liabilities |  |  | 17,437 |  |  |  | 15,497 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.17
+
+| Total liabilities |  |  | 275,524 |  |  |  | 243,686 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.18
+
+| Stockholders’ equity: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.19
+
+| Retained earnings |  |  | 237,731 |  |  |  | 173,144 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 52.20
+
+| Total stockholders’ equity |  |  | 343,479 |  |  |  | 268,477 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 52
+
+BALANCE SHEETS
+ 
+(In millions)
+
+June 30,
+ 
+2025  
+2024
+
+Assets
+  
+   
+ 
+Current assets:
+  
+   
+ 
+Cash and cash equivalents
+ $
+30,242  $
+18,315 
+Short-term investments
+  
+64,323   
+57,228
+
+Total cash, cash equivalents, and short-term investments
+  
+94,565   
+75,543 
+Accounts receivable, net of allowance for doubtful accounts of $944 and $830
+  
+69,905   
+56,924 
+Inventories
+  
+938   
+1,246 
+Other current assets
+  
+25,723   
+26,021
+
+Total current assets
+  
+191,131   
+159,734 
+Property and equipment, net of accumulated depreciation of $93,653 and $76,421
+  
+204,966   
+135,591 
+Operating lease right-of-use assets
+  
+24,823   
+18,961 
+Equity and other investments
+  
+15,405   
+14,600 
+Goodwill
+  
+119,509   
+119,220 
+Intangible assets, net
+  
+22,604   
+27,597 
+Other long-term assets
+  
+40,565   
+36,460
+
+Total assets
+ $
+619,003  $
+512,163
+
+Liabilities and stockholders’ equity
+  
+   
+ 
+Current liabilities:
+  
+   
+ 
+Accounts payable
+ $
+27,724  $
+21,996 
+Short-term debt
+  
+0   
+6,693 
+Current portion of long-term debt
+  
+2,999   
+2,249 
+Accrued compensation
+  
+13,709   
+12,564 
+Short-term income taxes
+  
+7,211   
+5,017 
+Short-term unearned revenue
+  
+64,555   
+57,582 
+Other current liabilities
+  
+25,020   
+19,185
+
+Total current liabilities
+  
+141,218   
+125,286 
+Long-term debt
+  
+40,152   
+42,688 
+Long-term income taxes
+  
+25,986   
+27,931 
+Long-term unearned revenue
+  
+2,710   
+2,602 
+Deferred income taxes
+  
+2,835   
+2,618 
+Operating lease liabilities
+  
+17,437   
+15,497 
+Other long-term liabilities
+  
+45,186   
+27,064
+
+Total liabilities
+  
+275,524   
+243,686
+
+Commitments and contingencies
+  
+   
+ 
+Stockholders’ equity:
+  
+   
+ 
+Common stock and paid-in capital – shares authorized 24,000; outstanding 7,434 and 7,434
+  
+109,095   
+100,923 
+Retained earnings
+  
+237,731   
+173,144 
+Accumulated other comprehensive loss
+  
+(3,347)   
+(5,590)
+
+Total stockholders’ equity
+  
+343,479   
+268,477
+
+Total liabilities and stockholders’ equity
+ $
+619,003  $
+512,163
+
+Refer to accompanying notes.
+
+
+## Page 53
+
+### Table 53.1
+
+| Operations |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.2
+
+| Adjustments to reconcile net income to net cash from operations: |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.3
+
+| Stock-based compensation expense |  |  | 11,974 |  |  |  | 10,734 |  |  |  | 9,611 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.4
+
+| Deferred income taxes |  |  | (7,056 | ) |  |  | (4,738 | ) |  |  | (6,059 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.5
+
+| Accounts receivable |  |  | (10,581 | ) |  |  | (7,191 | ) |  |  | (4,087 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.6
+
+| Other current assets |  |  | (3,044 | ) |  |  | (1,648 | ) |  |  | (1,991 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.7
+
+| Accounts payable |  |  | 569 |  |  |  | 3,545 |  |  |  | (2,721 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.8
+
+| Income taxes |  |  | (38 | ) |  |  | 1,687 |  |  |  | (358 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.9
+
+| Other long-term liabilities |  |  | (975 | ) |  |  | 749 |  |  |  | 553 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.10
+
+| Financing |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.11
+
+| Proceeds from issuance of debt |  |  | 0 |  |  |  | 24,395 |  |  |  | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.12
+
+| Common stock issued |  |  | 2,056 |  |  |  | 2,002 |  |  |  | 1,866 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.13
+
+| Common stock cash dividends paid |  |  | (24,082 | ) |  |  | (21,771 | ) |  |  | (19,800 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.14
+
+| Net cash used in financing |  |  | (51,699 | ) |  |  | (37,757 | ) |  |  | (43,935 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.15
+
+| Additions to property and equipment |  |  | (64,551 | ) |  |  | (44,477 | ) |  |  | (28,107 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.16
+
+| Purchases of investments |  |  | (29,775 | ) |  |  | (17,732 | ) |  |  | (37,651 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.17
+
+| Sales of investments |  |  | 9,309 |  |  |  | 10,894 |  |  |  | 14,354 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.18
+
+| Net cash used in investing |  |  | (72,599 | ) |  |  | (96,970 | ) |  |  | (22,680 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.19
+
+| Net change in cash and cash equivalents |  |  | 11,927 |  |  |  | (16,389 | ) |  |  | 20,773 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 53.20
+
+| Cash and cash equivalents, end of period |  | $ | 30,242 |  |  | $ | 18,315 |  |  | $ | 34,704 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 53
+
+CASH FLOWS STATEMENTS
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025
+2024
+2023
+
+Operations
+  
+    
+    
+ 
+Net income
+ $
+101,832  $
+88,136 
+$
+72,361 
+Adjustments to reconcile net income to net cash from operations:
+  
+ 
+ 
+ 
+ 
+Depreciation, amortization, and other
+  
+34,153
+ 
+22,287 
+ 
+13,861 
+Stock-based compensation expense
+  
+11,974
+ 
+10,734 
+ 
+9,611 
+Net recognized losses on investments and derivatives
+  
+609 
+ 
+305 
+ 
+196 
+Deferred income taxes
+  
+(7,056)
+ 
+(4,738)
+ 
+(6,059)
+Changes in operating assets and liabilities:
+  
+ 
+ 
+ 
+ 
+ 
+Accounts receivable
+  
+(10,581)
+ 
+(7,191)
+ 
+(4,087)
+Inventories
+  
+309   
+1,284 
+ 
+1,242 
+Other current assets
+  
+(3,044)
+ 
+(1,648)
+ 
+(1,991)
+Other long-term assets
+  
+(2,950)
+ 
+(6,817)
+ 
+(2,833)
+Accounts payable
+  
+569 
+ 
+3,545 
+ 
+(2,721)
+Unearned revenue
+  
+5,438   
+5,348   
+5,535 
+Income taxes
+  
+(38)   
+1,687   
+(358)
+Other current liabilities
+  
+5,922   
+4,867 
+ 
+2,272 
+Other long-term liabilities
+  
+(975)
+ 
+749 
+ 
+553
+
+Net cash from operations
+  
+136,162 
+ 
+118,548 
+ 
+87,582
+
+Financing
+  
+    
+    
+ 
+Proceeds from issuance (repayments) of debt, maturities of 90 days or less, net
+  
+(5,746)   
+5,250   
+0 
+Proceeds from issuance of debt
+  
+0   
+24,395   
+0 
+Repayments of debt
+  
+(3,216)
+ 
+(29,070)
+ 
+(2,750)
+Common stock issued
+  
+2,056 
+ 
+2,002 
+ 
+1,866 
+Common stock repurchased
+  
+(18,420)
+ 
+(17,254)
+ 
+(22,245)
+Common stock cash dividends paid
+  
+(24,082)
+ 
+(21,771)
+ 
+(19,800)
+Other, net
+  
+(2,291)
+ 
+(1,309)
+ 
+(1,006)
+
+Net cash used in financing
+  
+(51,699)
+ 
+(37,757)
+ 
+(43,935)
+
+Investing
+  
+    
+    
+ 
+Additions to property and equipment
+
+
+#### (64,551
+
+
+#### )
+
+
+#### (44,477
+
+
+#### )
+
+
+#### (28,107
+
+)
+Acquisition of companies, net of cash acquired and divestitures, and purchases of
+
+
+#### intangible and other assets
+
+(5,978)
+ 
+(69,132)
+ 
+(1,670)
+
+Purchases of investments
+  
+(29,775)
+ 
+(17,732)
+ 
+(37,651)
+Maturities of investments
+  
+16,079 
+ 
+24,775 
+ 
+33,510 
+Sales of investments
+  
+9,309 
+ 
+10,894 
+ 
+14,354 
+Other, net
+  
+2,317 
+ 
+(1,298)
+ 
+(3,116)
+
+Net cash used in investing
+  
+(72,599)
+ 
+(96,970)
+ 
+(22,680)
+
+Effect of foreign exchange rates on cash and cash equivalents
+  
+63 
+ 
+(210)
+ 
+(194)
+
+Net change in cash and cash equivalents
+  
+11,927 
+ 
+(16,389)
+ 
+20,773 
+Cash and cash equivalents, beginning of period
+  
+18,315 
+ 
+34,704 
+ 
+13,931
+
+Cash and cash equivalents, end of period
+ $
+30,242 
+$
+18,315 
+$
+34,704
+
+Refer to accompanying notes.
+
+
+## Page 54
+
+### Table 54.1
+
+| Common stock and paid-in capital |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.2
+
+| Common stock issued |  |  | 2,056 |  |  |  | 2,002 |  |  |  | 1,866 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.3
+
+| Stock-based compensation expense |  |  | 11,974 |  |  |  | 10,734 |  |  |  | 9,611 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.4
+
+| Balance, end of period |  |  | 109,095 |  |  |  | 100,923 |  |  |  | 93,718 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.5
+
+| Balance, beginning of period |  |  | 173,144 |  |  |  | 118,848 |  |  |  | 84,281 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.6
+
+| Common stock cash dividends |  |  | (24,677 | ) |  |  | (22,293 | ) |  |  | (20,226 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.7
+
+| Balance, end of period |  |  | 237,731 |  |  |  | 173,144 |  |  |  | 118,848 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.8
+
+| Balance, beginning of period |  |  | (5,590 | ) |  |  | (6,343 | ) |  |  | (4,678 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.9
+
+| Balance, end of period |  |  | (3,347 | ) |  |  | (5,590 | ) |  |  | (6,343 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 54.10
+
+| Cash dividends declared per common share |  | $ | 3.32 |  |  | $ | 3.00 |  |  | $ | 2.72 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 54
+
+STOCKHOLDERS’ EQUITY STATEMENTS
+ 
+(In millions, except per share amounts)
+
+Year Ended June 30,
+ 
+2025  
+2024  
+2023
+
+Common stock and paid-in capital
+   
+    
+    
+ 
+Balance, beginning of period
+ $
+100,923  $
+93,718  $
+86,939 
+Common stock issued
+  
+2,056   
+2,002   
+1,866 
+Common stock repurchased
+  
+(5,856)   
+(5,712)   
+(4,696)
+Stock-based compensation expense
+  
+11,974   
+10,734   
+9,611 
+Other, net
+  
+(2)   
+181   
+(2)
+
+Balance, end of period
+  
+109,095   
+100,923   
+93,718
+
+Retained earnings
+  
+   
+   
+ 
+Balance, beginning of period
+  
+173,144   
+118,848   
+84,281 
+Net income
+  
+101,832   
+88,136   
+72,361 
+Common stock cash dividends
+  
+(24,677)   
+(22,293)   
+(20,226)
+Common stock repurchased
+  
+(12,568)   
+(11,547)   
+(17,568)
+
+Balance, end of period
+  
+237,731   
+173,144   
+118,848
+
+Accumulated other comprehensive loss
+  
+   
+   
+ 
+Balance, beginning of period
+  
+(5,590)   
+(6,343)   
+(4,678)
+
+Other comprehensive income (loss)
+  
+2,243   
+753
+
+
+#### (1,665
+
+
+#### )
+
+Balance, end of period
+  
+(3,347)   
+(5,590)   
+(6,343)
+
+Total stockholders’ equity
+ $
+343,479  $
+268,477  $
+206,223
+
+Cash dividends declared per common share
+ $
+3.32  $
+3.00  $
+2.72
+
+Refer to accompanying notes.
+
+
+## Page 55
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 55
+
+
+### NOTES TO FINANCIAL STATEMENTS
+
+
+### NOTE 1 — ACCOUNTING POLICIES
+
+
+#### Accounting Principles
+
+Our consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the 
+United States of America (“GAAP”).
+
+
+#### Principles of Consolidation
+
+The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries. Intercompany transactions and 
+balances have been eliminated.
+
+
+#### Recast of Certain Prior Period Information
+
+In August 2024, we announced changes to the composition of our segments. These changes align our segments with how we currently manage 
+our business, most notably bringing the commercial components of Microsoft 365 together in the Productivity and Business Processes segment. 
+Beginning in fiscal year 2025, the information that our chief operating decision maker is regularly provided and reviews for purposes of allocating 
+resources and assessing performance reflects these segment changes. Prior period segment information has been recast to conform to the way 
+we internally manage and monitor our business during fiscal year 2025. These changes primarily impacted Note 8 – Goodwill, Note 12 – 
+Unearned Revenue, and Note 18 – Segment Information and Geographic Data.
+
+The recast of prior period information had no impact on our consolidated balance sheets, consolidated income statements, or consolidated cash 
+flows statements.
+
+
+#### Estimates and Assumptions
+
+Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, 
+revenue, and expenses. Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of 
+satisfaction of performance obligations, and determining the standalone selling price ("SSP") of performance obligations, variable consideration, 
+and other obligations such as product returns and refunds; loss contingencies; the fair value of and/or potential impairment of goodwill and 
+intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; 
+stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax 
+positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of 
+impairments for investments. Actual results and outcomes may differ from management’s estimates and assumptions due to risks and 
+uncertainties.
+
+
+#### Foreign Currencies
+
+Assets and liabilities recorded in foreign currencies are translated at the exchange rate on the balance sheet date. Revenue and expenses are 
+translated at average rates of exchange prevailing during the year. Translation adjustments resulting from this process are recorded to other 
+comprehensive income.
+
+
+#### Revenue
+
+
+#### Product Revenue and Service and Other Revenue
+
+Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server applications, business 
+solution applications, desktop and server management tools, software development tools, video games, and hardware such as PCs, tablets, 
+gaming and entertainment consoles, other intelligent devices, and related accessories.
+
+Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such 
+as Office 365, Azure, Dynamics 365, and gaming; solution support; and consulting services. Service and other revenue also includes sales from 
+online advertising and LinkedIn.
+
+
+## Page 56
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 56
+
+
+#### Revenue Recognition
+
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we 
+expect to receive in exchange for those products or services. We enter into contracts that can include various combinations of products and 
+services, which are generally capable of being distinct and accounted for as separate performance obligations. Revenue is recognized net of 
+allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
+
+
+#### Nature of Products and Services
+
+Licenses for on-premises software provide the customer with a right to use the software as it exists when made available to the customer. 
+Customers may purchase perpetual licenses or subscribe to licenses, which provide customers with the same functionality and differ mainly in 
+the duration over which the customer benefits from the software. Revenue from distinct on-premises licenses is recognized upfront at the point 
+in time when the software is made available to the customer. In cases where we allocate revenue to software updates, primarily because the 
+updates are provided at no additional charge, revenue is recognized as the updates are provided, which is generally ratably over the estimated 
+life of the related device or license.
+
+Cloud services, which allow customers to use hosted software over the contract period without taking possession of the software, are provided 
+on either a subscription or consumption basis. Revenue related to cloud services provided on a subscription basis is recognized ratably over the 
+contract period. Revenue related to cloud services provided on a consumption basis, such as the amount of storage used in a period, is 
+recognized based on the customer utilization of such resources. When cloud services require a significant level of integration and 
+interdependency with software and the individual components are not considered distinct, all revenue is recognized over the period in which the 
+cloud services are provided.
+
+Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (“SA”). 
+SA conveys rights to new software and upgrades released over the contract period and provides support, tools, and training to help customers 
+deploy and use products more efficiently. On-premises licenses are considered distinct performance obligations when sold with SA. Revenue 
+allocated to SA is generally recognized ratably over the contract period as customers simultaneously consume and receive benefits, given that 
+SA comprises distinct performance obligations that are satisfied over time.
+
+Revenue from search advertising is recognized when the advertisement appears in the search results or when the action necessary to earn the 
+revenue has been completed. Revenue from consulting services is recognized as services are provided.
+
+Our hardware is generally highly dependent on, and interrelated with, the underlying operating system and cannot function without the operating 
+system. In these cases, the hardware and software license are accounted for as a single performance obligation and revenue is recognized at 
+the point in time when ownership is transferred to resellers or directly to end customers through retail stores and online marketplaces.
+
+Refer to Note 18 – Segment Information and Geographic Data for further information, including revenue by significant product and service 
+offering.
+
+
+#### Significant Judgments
+
+Our contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and 
+services are considered distinct performance obligations that should be accounted for separately versus together may require significant 
+judgment. When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine 
+whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud 
+service and recognized over time. Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and 
+interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation. Revenue from 
+Office 365 is recognized ratably over the period in which the cloud services are provided.
+
+
+## Page 57
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 57
+
+Judgment is required to determine the SSP for each distinct performance obligation. We use a single amount to estimate SSP for items that are 
+not sold separately, including on-premises licenses sold with SA or software updates provided at no additional charge. We use a range of 
+amounts to estimate SSP when we sell each of the products and services separately and need to determine whether there is a discount to be 
+allocated based on the relative SSP of the various products and services.
+
+In instances where SSP is not directly observable, such as when we do not sell the product or service separately, we determine the SSP using 
+information that may include market conditions and other observable inputs. We typically have more than one SSP for individual products and 
+services due to the stratification of those products and services by customers and circumstances. In these instances, we may use information 
+such as the size of the customer and geographic region in determining the SSP.
+
+Due to the various benefits from and the nature of our SA program, judgment is required to assess the pattern of delivery, including the exercise 
+pattern of certain benefits across our portfolio of customers.
+
+Our products are generally sold with a right of return, we may provide other credits or incentives, and in certain instances we estimate customer 
+usage of our products and services, which are accounted for as variable consideration when determining the amount of revenue to recognize. 
+Returns and credits are estimated at contract inception and updated at the end of each reporting period if additional information becomes 
+available. Changes to our estimated variable consideration were not material for the periods presented.
+
+
+#### Contract Balances and Other Receivables
+
+Timing of revenue recognition may differ from the timing of invoicing to customers. We record a receivable when revenue is recognized prior to 
+invoicing, or unearned revenue when revenue is recognized subsequent to invoicing. For multi-year agreements, we generally invoice customers 
+annually at the beginning of each annual coverage period. We record a receivable related to revenue recognized for multi-year on-premises 
+licenses as we have an unconditional right to invoice and receive payment in the future related to those licenses.
+
+Unearned revenue comprises mainly unearned revenue related to volume licensing programs, which may include cloud services and SA. 
+Unearned revenue is generally invoiced annually at the beginning of each contract period for multi-year agreements and recognized ratably over 
+the coverage period. Unearned revenue also includes payments for consulting services to be performed in the future, LinkedIn subscriptions, 
+Office 365 subscriptions, Xbox subscriptions, Windows post-delivery support, Dynamics business solutions, and other offerings for which we 
+have been paid in advance and earn the revenue when we transfer control of the product or service.
+
+Refer to Note 12 – Unearned Revenue for further information, including unearned revenue by segment and changes in unearned revenue during 
+the period.
+
+Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 30 to 60 days. In 
+instances where the timing of revenue recognition differs from the timing of invoicing, we have determined our contracts generally do not include 
+a significant financing component. The primary purpose of our invoicing terms is to provide customers with simplified and predictable ways of 
+purchasing our products and services, not to receive financing from our customers or to provide customers with financing. Examples include 
+invoicing at the beginning of a subscription term with revenue recognized ratably over the contract period, and multi-year on-premises licenses 
+that are invoiced annually with revenue recognized upfront.
+
+As of June 30, 2025 and 2024, long-term accounts receivable, net of allowance for doubtful accounts, was $5.2 billion and $4.9 billion, 
+respectively, and is included in other long-term assets in our consolidated balance sheets.
+
+As of June 30, 2025 and 2024, other receivables related to activities to facilitate the purchase of server components were $8.2 billion and $10.5 
+billion, respectively, and are included in other current assets in our consolidated balance sheets.
+
+We record financing receivables when we offer certain customers the option to acquire our software products and services offerings through a 
+financing program in a limited number of countries. As of June 30, 2025 and 2024, our financing receivables, net were $4.3 billion and $4.5 
+billion, respectively, for short-term and long-term financing receivables, which are included in other current assets and other long-term assets in 
+our consolidated balance sheets.
+
+
+## Page 61
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 61
+
+ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease 
+payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value 
+of lease payments over the lease term. As most of our leases do not provide an implicit rate, we generally use our incremental borrowing rate 
+based on the estimated rate of interest for collateralized borrowing over a similar term of the lease payments at commencement date. The 
+operating lease ROU asset also includes any lease payments made and excludes lease incentives. Our lease terms may include options to 
+extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments is recognized on 
+a straight-line basis over the lease term.
+
+We have lease agreements with lease and non-lease components, which are generally accounted for separately. For certain equipment leases, 
+such as vehicles, we account for the lease and non-lease components as a single lease component. Additionally, for certain equipment leases, 
+we apply a portfolio approach to effectively account for the operating lease ROU assets and liabilities.
+
+
+#### Goodwill
+
+Goodwill is tested for impairment at the reporting unit level (operating segment or one level below an operating segment) on an annual basis 
+(May 1) and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting 
+unit below its carrying value.
+
+
+#### Intangible Assets
+
+Our intangible assets are subject to amortization and are amortized over the estimated useful life in proportion to the economic benefits received. 
+We evaluate the recoverability of intangible assets periodically by taking into account events or circumstances that may warrant revised 
+estimates of useful lives or that indicate the asset may be impaired.
+
+
+#### Related Party Transactions
+
+In March 2024, we entered into an agreement with Inflection AI, Inc. (“Inflection”), pursuant to which we obtained a non-exclusive license to 
+Inflection’s intellectual property. Reid Hoffman, a member of our Board of Directors, is a co-founder of and serves on the board of directors of 
+Inflection. As of the date of the agreement with Inflection, Reprogrammed Interchange LLC (“Reprogrammed”) and entities affiliated with 
+Greylock Ventures (“Greylock”) each held less than a 10% equity interest in Inflection. Mr. Hoffman may be deemed to beneficially own the 
+shares held by Reprogrammed and Greylock by virtue of his relationship with such entities. Mr. Hoffman did not participate in any portions of the 
+meetings of our Board of Directors or any committee thereof to review and approve the transaction with Inflection.
+
+
+#### Recent Accounting Guidance
+
+
+#### Recently Adopted Accounting Guidance
+
+
+#### Segment Reporting – Improvements to Reportable Segment Disclosures
+
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued a new standard to improve reportable segment disclosures. The 
+guidance expands the disclosures required for reportable segments in our annual and interim consolidated financial statements, primarily 
+through enhanced disclosures about significant segment expenses. We adopted the standard beginning with our annual reporting for fiscal year 
+2025. The adoption resulted in incremental segment reporting disclosures, most notably disclosure of cost of revenue and operating expenses for 
+each reportable segment. Refer to Note 18 – Segment Information and Geographic Data.
+
+
+#### Recent Accounting Guidance Not Yet Adopted
+
+
+#### Income Taxes – Improvements to Income Tax Disclosures
+
+In December 2023, the FASB issued a new standard to improve income tax disclosures. The guidance requires disclosure of disaggregated 
+income taxes paid, prescribes standardized categories for the components of the effective tax rate reconciliation, and modifies other income tax-
+related disclosures. The standard will be effective for us beginning with our annual reporting for fiscal year 2026, with early adoption permitted. 
+We are currently evaluating the impact of this standard on our income tax disclosures.
+
+
+## Page 62
+
+### Table 62.1
+
+| Net income available for common shareholders (A) |  | $ | 101,832 |  |  | $ | 88,136 |  |  | $ | 72,361 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 62.2
+
+| Dilutive effect of stock-based awards |  |  | 32 |  |  |  | 38 |  |  |  | 26 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 62.3
+
+| Basic (A/B) |  | $ | 13.70 |  |  | $ | 11.86 |  |  | $ | 9.72 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 62.4
+
+| Interest and dividends income |  | $ | 2,647 |  |  | $ | 3,157 |  |  | $ | 2,994 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 62.5
+
+| Net recognized gains (losses) on investments |  |  | (349 | ) |  |  | (118 | ) |  |  | 260 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 62.6
+
+| Net gains (losses) on foreign currency remeasurements |  |  | 171 |  |  |  | (244 | ) |  |  | 181 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 62.7
+
+| Total |  | $ | (4,901 | ) |  | $ | (1,646 | ) |  | $ | 788 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 62
+
+
+#### Income Statement – Disaggregation of Income Statement Expenses
+
+In November 2024, the FASB issued a new standard to expand disclosures about income statement expenses. The guidance requires 
+disaggregation of certain costs and expenses included in each relevant expense caption on our consolidated income statements in a separate 
+note to the financial statements at each interim and annual reporting period, including amounts of purchases of inventory, employee 
+compensation, depreciation, and intangible asset amortization. The standard will be effective for us beginning with our annual reporting for fiscal 
+year 2028 and interim periods thereafter, with early adoption permitted. We are currently evaluating the impact of this standard on our 
+disclosures.
+
+
+### NOTE 2 — EARNINGS PER SHARE
+
+Basic earnings per share (“EPS”) is computed based on the weighted average number of shares of common stock outstanding during the period. 
+Diluted EPS is computed based on the weighted average number of shares of common stock plus the effect of dilutive potential common shares 
+outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and stock 
+awards.
+
+The components of basic and diluted EPS were as follows:                                                                                           
+ 
+(In millions, except per share amounts)
+
+Year Ended June 30,
+ 
+2025
+2024
+2023
+
+Net income available for common shareholders (A)
+ $
+101,832  $
+88,136  $
+72,361
+
+Weighted average outstanding shares of common stock (B)
+  
+7,433   
+7,431   
+7,446 
+Dilutive effect of stock-based awards
+  
+32   
+38   
+26
+
+Common stock and common stock equivalents (C)
+  
+7,465   
+7,469   
+7,472
+
+
+#### Earnings Per Share
+
+Basic (A/B)
+ $
+13.70  $
+11.86  $
+9.72 
+Diluted (A/C)
+ $
+13.64  $
+11.80  $
+9.68
+
+Anti-dilutive stock-based awards excluded from the calculations of diluted EPS were immaterial during the periods presented.
+
+
+### NOTE 3 — OTHER INCOME (EXPENSE), NET
+
+The components of other income (expense), net were as follows: 
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025
+2024
+2023
+
+Interest and dividends income
+ $
+2,647 
+$
+3,157 
+$
+2,994 
+Interest expense
+  
+(2,385)
+ 
+(2,935)
+ 
+(1,968)
+Net recognized gains (losses) on investments
+  
+(349) 
+ 
+(118)  
+260 
+Net losses on derivatives
+  
+(260)
+ 
+(187)
+ 
+(456)
+Net gains (losses) on foreign currency remeasurements
+  
+171 
+ 
+(244)
+ 
+181 
+Other, net
+  
+(4,725)
+ 
+(1,319)
+ 
+(223)
+
+Total
+ $
+(4,901) 
+$
+(1,646) $
+788
+
+Other, net primarily reflects net recognized losses on equity method investments, including OpenAI.
+
+
+## Page 63
+
+### Table 63.1
+
+| Realized gains from sales of available-for-sale securities |  | $ | 40 |  |  | $ | 22 |  |  | $ | 36 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 63.2
+
+| Impairments and allowance for credit losses |  |  | 8 |  |  |  | 23 |  |  |  | (10 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 63.3
+
+| Net realized gains on investments sold |  | $ | 83 |  |  | $ | 18 |  |  | $ | 75 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 63.4
+
+| Impairments of investments |  |  | (951 | ) |  |  | (229 | ) |  |  | (20 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 63
+
+
+#### Net Recognized Gains (Losses) on Investments
+
+Net recognized gains (losses) on debt investments were as follows: 
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025 
+2024 
+2023
+
+Realized gains from sales of available-for-sale securities
+ $
+40 
+$
+22 
+$
+36 
+Realized losses from sales of available-for-sale securities
+  
+(65)
+ 
+(98)
+ 
+(124) 
+Impairments and allowance for credit losses
+  
+8 
+ 
+23 
+ 
+(10)
+
+Total
+ $
+(17)
+$
+(53)
+$
+(98)
+
+Net recognized gains (losses) on equity investments were as follows:
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025
+2024
+2023
+
+Net realized gains on investments sold
+ $
+83 
+$
+18 
+$
+75 
+Net unrealized gains on investments still held
+  
+536 
+ 
+146 
+ 
+303 
+Impairments of investments
+  
+(951)
+ 
+(229)
+ 
+(20)
+
+Total
+ $
+(332) 
+$
+(65) $
+358
+
+
+## Page 64
+
+### Table 64.1
+
+| Commercial paper |  |  | Level 2 |  |  | $ | 10,880 |  |  | $ | 0 |  |  | $ | 0 |  |  | $ | 10,880 |  |  | $ | 9,939 |  |  | $ | 941 |  |  | $ | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.2
+
+| U.S. government securities |  |  | Level 1 |  |  |  | 52,878 |  |  |  | 71 |  |  |  | (1,462 | ) |  |  | 51,487 |  |  |  | 4,742 |  |  |  | 46,745 |  |  |  | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.3
+
+| Foreign government bonds |  |  | Level 2 |  |  |  | 349 |  |  |  | 24 |  |  |  | (9 | ) |  |  | 364 |  |  |  | 0 |  |  |  | 364 |  |  |  | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.4
+
+| Corporate notes and bonds |  |  | Level 2 |  |  |  | 10,763 |  |  |  | 124 |  |  |  | (101 | ) |  |  | 10,786 |  |  |  | 0 |  |  |  | 10,786 |  |  |  | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.5
+
+| Municipal securities |  |  | Level 2 |  |  |  | 207 |  |  |  | 1 |  |  |  | (7 | ) |  |  | 201 |  |  |  | 0 |  |  |  | 201 |  |  |  | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.6
+
+| Total debt investments |  |  |  |  |  | $ | 85,589 |  |  | $ | 295 |  |  | $ | (1,625 | ) |  | $ | 84,259 |  |  | $ | 17,486 |  |  | $ | 64,313 |  |  | $ | 2,460 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.7
+
+| Equity investments |  |  | Level 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | $ | 4,577 |  |  | $ | 1,045 |  |  | $ | 0 |  |  | $ | 3,532 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.8
+
+| Total equity investments |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | $ | 13,718 |  |  | $ | 1,045 |  |  | $ | 0 |  |  | $ | 12,673 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 64.9
+
+| Derivatives, net (a) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 282 |  |  |  | 0 |  |  |  | 10 |  |  |  | 272 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 64
+
+
+### NOTE 4 — INVESTMENTS
+
+
+#### Investment Components
+
+
+#### The components of investments were as follows:
+
+
+#### (In millions)
+
+
+#### Fair Value
+
+
+#### Level
+
+Adjusted
+Cost Basis
+
+
+#### Unrealized
+
+
+#### Gains
+
+
+#### Unrealized
+
+
+#### Losses
+
+
+#### Recorded
+
+
+#### Basis
+
+Cash
+and Cash
+Equivalents
+
+Short-term
+Investments
+
+
+#### Equity and
+
+Other
+Investments
+
+
+#### June 30, 2025
+
+
+#### Changes in Fair Value
+
+Recorded in Other 
+Comprehensive Income
+
+Commercial paper
+  
+Level 2
+  $
+10,880  $
+0  $
+0  $
+10,880  $
+9,939  $
+941  $
+0 
+Certificates of deposit
+  
+Level 2
+   
+2,653   
+0   
+0   
+2,653   
+2,309   
+344   
+0 
+U.S. government
+
+
+#### securities
+
+
+#### Level 1
+
+52,878   
+71   
+(1,462)   
+51,487   
+4,742   
+46,745   
+0 
+U.S. agency securities
+  
+Level 2
+   
+2,686   
+0   
+0   
+2,686   
+496   
+2,190   
+0 
+Foreign government
+
+
+#### bonds
+
+
+#### Level 2
+
+349   
+24   
+(9)   
+364   
+0   
+364   
+0 
+Mortgage- and asset-
+
+
+#### backed securities
+
+Level 2
+   
+2,558   
+10   
+(27)   
+2,541   
+0   
+2,541   
+0 
+Corporate notes and
+
+
+#### bonds
+
+
+#### Level 2
+
+10,763   
+124   
+(101)   
+10,786   
+0   
+10,786   
+0 
+Corporate notes and
+
+
+#### bonds
+
+
+#### Level 3
+
+2,511   
+65   
+(5)   
+2,571   
+0   
+111   
+2,460 
+Municipal securities
+  
+Level 2
+   
+207   
+1   
+(7)   
+201   
+0   
+201   
+0 
+Municipal securities
+  
+Level 3
+   
+104   
+0   
+(14)   
+90   
+0   
+90   
+0
+
+Total debt investments
+   
+  $
+85,589  $
+295  $
+(1,625)  $
+84,259  $
+17,486  $
+64,313  $
+2,460
+
+
+#### Changes in Fair Value
+
+
+#### Recorded in Net Income
+
+Equity investments
+  
+Level 1
+    
+    
+    
+  $
+4,577  $
+1,045  $
+0  $
+3,532 
+Equity investments
+  
+Other
+    
+    
+    
+   
+9,141   
+0   
+0   
+9,141
+
+Total equity investments
+   
+    
+    
+    
+  $
+13,718  $
+1,045  $
+0  $
+12,673
+
+Cash
+   
+    
+    
+    
+  $
+11,711  $
+11,711  $
+0  $
+0 
+Derivatives, net
+   
+    
+    
+    
+   
+282   
+0   
+10   
+272
+
+Total
+   
+    
+    
+    
+  $
+109,970  $
+30,242  $
+64,323  $
+15,405
+
+
+#### (a)
+
+
+## Page 68
+
+### Table 68.1
+
+| Foreign exchange contracts purchased |  | $ | 1,492 |  |  | $ | 1,492 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.2
+
+| Foreign exchange contracts purchased |  |  | 15,214 |  |  |  | 7,167 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.3
+
+| Equity contracts purchased |  |  | 5,434 |  |  |  | 4,016 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.4
+
+| Other contracts purchased |  |  | 2,769 |  |  |  | 2,113 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.5
+
+| Foreign exchange contracts |  | $ | 89 |  |  | $ | (44 | ) |  | $ | 24 |  |  | $ | (76 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.6
+
+| Foreign exchange contracts |  |  | 248 |  |  |  | (809 | ) |  |  | 213 |  |  |  | (230 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Equity contracts |  |  | 385 |  |  |  | (983 | ) |  |  | 63 |  |  |  | (491 | ) |
+| Other contracts |  |  | 21 |  |  |  | (1 | ) |  |  | 12 |  |  |  | (3 | ) |
+
+
+### Table 68.7
+
+| Gross amounts of derivatives |  |  | 758 |  |  |  | (1,837 | ) |  |  | 331 |  |  |  | (800 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gross amounts of derivatives offset in the balance sheets |  |  | (258 | ) |  |  | 260 |  |  |  | (151 | ) |  |  | 152 |  |
+| Cash collateral received |  |  | 0 |  |  |  | (99 | ) |  |  | 0 |  |  |  | (104 | ) |
+
+
+### Table 68.8
+
+| Net amounts of derivatives |  | $ | 500 |  |  | $ | (1,676 | ) |  | $ | 180 |  |  | $ | (752 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.9
+
+| Short-term investments |  | $ | 10 |  |  | $ | 0 |  |  | $ | 12 |  |  | $ | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.10
+
+| Equity and other investments |  |  | 272 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.11
+
+| Other current liabilities |  |  | 0 |  |  |  | (1,639 | ) |  |  | 0 |  |  |  | (401 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 68.12
+
+| Total |  | $ | 500 |  |  | $ | (1,676 | ) |  | $ | 180 |  |  | $ | (752 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 68
+
+The following table presents the notional amounts of our outstanding derivative instruments measured in U.S. dollar equivalents:
+
+
+#### (In millions)
+
+
+#### June 30,
+
+
+#### 2025
+
+
+#### June 30,
+
+
+#### 2024
+
+
+#### Designated as Hedging Instruments
+
+Foreign exchange contracts purchased
+ $
+1,492  $
+1,492 
+Interest rate contracts purchased
+  
+1,150   
+1,100
+
+
+#### Not Designated as Hedging Instruments
+
+Foreign exchange contracts purchased
+  
+15,214   
+7,167 
+Foreign exchange contracts sold
+  
+43,307   
+31,793 
+Equity contracts purchased
+  
+5,434   
+4,016 
+Equity contracts sold
+  
+2,189   
+2,165 
+Other contracts purchased
+  
+2,769   
+2,113 
+Other contracts sold
+  
+1,242   
+811
+
+
+#### Fair Values of Derivative Instruments
+
+The following table presents our derivative instruments:
+ 
+ 
+ 
+Derivative  
+Derivative  
+Derivative  
+Derivative  
+(In millions)
+ 
+Assets 
+Liabilities 
+Assets 
+Liabilities
+
+
+#### June 30,
+
+
+#### 2025
+
+
+#### June 30,
+
+
+#### 2024
+
+
+#### Designated as Hedging Instruments
+
+Foreign exchange contracts
+ $
+89  $
+(44)  $
+24  $
+(76)
+Interest rate contracts
+  
+15   
+0   
+19   
+0
+
+
+#### Not Designated as Hedging Instruments
+
+Foreign exchange contracts
+  
+248   
+(809)   
+213   
+(230)
+Equity contracts
+  
+385   
+(983)   
+63   
+(491)
+Other contracts
+  
+21   
+(1)   
+12   
+(3)
+
+Gross amounts of derivatives
+  
+758   
+(1,837)   
+331   
+(800)
+Gross amounts of derivatives offset in the balance sheets
+  
+(258)   
+260   
+(151)   
+152 
+Cash collateral received
+  
+0   
+(99)   
+0   
+(104)
+
+Net amounts of derivatives
+ $
+500  $
+(1,676)  $
+180  $
+(752)
+
+
+#### Reported as
+
+Short-term investments
+ $
+10  $
+0  $
+12  $
+0 
+Other current assets
+  
+201   
+0   
+149   
+0 
+Equity and other investments
+  
+272   
+0   
+0   
+0 
+Other long-term assets
+  
+17   
+0   
+19   
+0 
+Other current liabilities
+  
+0   
+(1,639)   
+0   
+(401)
+Other long-term liabilities
+  
+0   
+(37)   
+0   
+(351)
+
+Total
+ $
+500  $
+(1,676)  $
+180  $
+(752)
+
+Gross derivative assets and liabilities subject to legally enforceable master netting agreements for which we have elected to offset were $452 
+million and $1.8 billion, respectively, as of June 30, 2025, and $304 million and $800 million, respectively, as of June 30, 2024.
+
+
+## Page 69
+
+### Table 69.1
+
+| Derivative assets |  | $ | 1 |  |  | $ | 474 |  |  | $ | 283 |  |  | $ | 758 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.2
+
+| Derivative assets |  |  | 0 |  |  |  | 327 |  |  |  | 4 |  |  |  | 331 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.3
+
+| Interest rate contracts |  |  |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 69.4
+
+| Hedged items |  |  | (45 | ) |  |  | (25 | ) |  |  | 38 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.5
+
+| Foreign exchange contracts |  |  |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 69.6
+
+| Foreign exchange contracts |  |  | (938 | ) |  |  | 367 |  |  |  | (73 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Equity contracts |  |  | (266 | ) |  |  | (177 | ) |  |  | (420 | ) |
+| Other contracts |  |  | 21 |  |  |  | (15 | ) |  |  | (41 | ) |
+
+
+### Table 69.7
+
+| Foreign exchange contracts |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.8
+
+| Land |  | $ | 9,338 |  |  | $ | 8,163 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.9
+
+| Leasehold improvements |  |  | 12,117 |  |  |  | 9,594 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.10
+
+| Furniture and equipment |  |  | 6,407 |  |  |  | 6,532 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 69.11
+
+| Accumulated depreciation |  |  | (93,653 | ) |  |  | (76,421 | ) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 69
+
+The following table presents the fair value of our derivatives instruments on a gross basis:
+ 
+(In millions)
+ 
+Level 1   
+Level 2  
+Level 3  
+Total
+
+
+#### June 30, 2025
+
+Derivative assets
+ $
+1  $
+474  $
+283  $
+758 
+Derivative liabilities
+  
+0   
+(1,832)   
+(5)   
+(1,837)
+
+
+#### June 30, 2024
+
+Derivative assets
+  
+0   
+327   
+4   
+331 
+Derivative liabilities
+  
+(1)   
+(799)   
+0   
+(800)
+
+Gains (losses) on derivative instruments recognized in other income (expense), net were as follows:
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025  
+2024  
+2023
+
+
+#### Designated as Fair Value Hedging Instruments
+
+
+#### Interest rate contracts
+
+Derivatives
+ $
+5  $
+(23)  $
+(65)
+Hedged items
+  
+(45)   
+(25)   
+38
+
+
+#### Designated as Cash Flow Hedging Instruments
+
+Foreign exchange contracts
+ 
+ 
+ 
+Amount reclassified from accumulated other comprehensive loss
+  
+103   
+(48)   
+61
+
+
+#### Not Designated as Hedging Instruments
+
+Foreign exchange contracts
+  
+(938)   
+367   
+(73)
+Equity contracts
+  
+(266)   
+(177)   
+(420)
+Other contracts
+  
+21   
+(15)   
+(41)
+
+Gains (losses), net of tax, on derivative instruments recognized in our consolidated comprehensive income statements were as follows:
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025  
+2024  
+2023
+
+
+#### Designated as Cash Flow Hedging Instruments
+
+Foreign exchange contracts
+  
+    
+    
+  
+Included in effectiveness assessment
+ $
+77  $
+(14)  $
+34
+
+
+### NOTE 6 — PROPERTY AND EQUIPMENT
+
+The components of property and equipment were as follows:                                                                                         
+ 
+(In millions)
+
+June 30,
+ 
+2025
+2024
+
+Land
+ $
+9,338  $
+8,163 
+Buildings and improvements
+  
+137,921   
+93,943 
+Leasehold improvements
+
+12,117   
+9,594 
+Computer equipment and software
+  
+132,836   
+93,780 
+Furniture and equipment
+  
+6,407   
+6,532
+
+Total, at cost
+  
+298,619   
+212,012 
+Accumulated depreciation
+  
+(93,653)   
+(76,421)
+
+Total, net
+ $
+204,966  $
+135,591
+
+During fiscal years 2025, 2024, and 2023, depreciation expense was $22.0 billion, $15.2 billion, and $11.0 billion, respectively.
+
+As of June 30, 2025, 2024, and 2023, purchases of property and equipment remaining in accounts payable were $6.9 billion, $4.3 billion, and 
+$3.8 billion, respectively. As of June 30, 2025, we have committed $32.1 billion for the construction of new buildings, building improvements, and 
+leasehold improvements, primarily related to datacenters.
+
+
+## Page 70
+
+### Table 70.1
+
+| Cash and cash equivalents | $ | 12,976 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 70.2
+
+| Intangible assets |  | 21,969 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 70.3
+
+| Long-term debt |  | (2,799 | ) |
+| --- | --- | --- | --- |
+
+
+
+### Table 70.4
+
+| Deferred income taxes |  | (4,676 | ) |
+| --- | --- | --- | --- |
+
+
+
+### Table 70.5
+
+| Total purchase price | $ | 75,408 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 70.6
+
+| Marketing-related |  | $ | 11,619 |  | 24 years |  |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 70.7
+
+| Customer-related |  |  | 661 |  | 4 years |  |
+| --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 70.8
+
+| Revenue |  | $ | 247,442 |  | $ | 219,790 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 70.9
+
+| Diluted earnings per share |  |  | 11.82 |  |  | 9.55 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 70
+
+
+### NOTE 7 — BUSINESS COMBINATIONS
+
+Activision Blizzard, Inc.
+
+On October 13, 2023, we completed our acquisition of Activision Blizzard, Inc. (“Activision Blizzard”) for a total purchase price of $75.4 billion, 
+consisting primarily of cash. Activision Blizzard is a leader in game development and an interactive entertainment content publisher. The 
+acquisition will accelerate the growth in our gaming business across mobile, PC, console, and cloud gaming. The financial results of Activision 
+Blizzard have been included in our consolidated financial statements since the date of the acquisition. Activision Blizzard is reported as part of 
+our More Personal Computing segment.
+
+The allocation of the purchase price to the assets acquired and liabilities assumed was completed as of September 30, 2024. The major classes 
+of assets and liabilities to which we have allocated the purchase price were as follows:
+ 
+(In millions)
+
+Cash and cash equivalents
+ $
+12,976 
+Goodwill 
+ 
+ 
+51,001 
+Intangible assets
+ 
+ 
+21,969 
+Other assets
+ 
+ 
+2,503 
+Long-term debt
+ 
+ 
+(2,799)
+Long-term income taxes
+ 
+ 
+(1,946)
+Deferred income taxes
+ 
+ 
+(4,676)
+Other liabilities
+ 
+ 
+(3,620)
+
+Total purchase price
+ $
+75,408
+
+Goodwill was assigned to our More Personal Computing segment. The goodwill was primarily attributed to increased synergies that are expected 
+to be achieved from the integration of Activision Blizzard. Substantially all of the goodwill is expected to be non-deductible for income tax 
+purposes.
+
+Following are the details of the purchase price allocated to the intangible assets acquired:
+
+(In millions, except average life)
+Amount
+
+Weighted
+Average Life
+
+Marketing-related
+ $
+11,619   
+24 years 
+Technology-based
+  
+9,689   
+4 years 
+Customer-related
+  
+661   
+4 years
+
+Fair value of intangible assets acquired
+ $
+21,969   
+15 years
+
+Following are the supplemental consolidated financial results of Microsoft Corporation on an unaudited pro forma basis, as if the acquisition had 
+been consummated on July 1, 2022:
+ 
+(In millions, except per share amounts)
+
+Year Ended June 30,
+  
+2024   
+2023
+
+Revenue
+ $
+247,442  $
+219,790 
+Net income
+  
+88,308   
+71,383 
+Diluted earnings per share
+  
+11.82   
+9.55
+
+These pro forma results were based on estimates and assumptions, which we believe are reasonable. They are not the results that would have 
+been realized had we been a combined company during the periods presented and are not necessarily indicative of our consolidated results of 
+operations in future periods. The pro forma results include adjustments related to purchase accounting, primarily amortization of intangible 
+assets. Acquisition costs and other nonrecurring charges were immaterial and are included in the earliest period presented.
+
+
+## Page 71
+
+### Table 71.1
+
+| Productivity and Business Processes |  | $ | 31,359 |  |  | $ | 0 |  |  | $ | 2 |  |  | $ | 31,361 |  |  | $ | 0 |  |  | $ | 96 |  |  | $ | 31,457 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 71.2
+
+| More Personal Computing |  |  | 10,851 |  |  |  | 51,235 |  |  |  | 125 |  |  |  | 62,211 |  |  |  | 0 |  |  |  | 152 |  |  |  | 62,363 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 71.3
+
+| Marketing-related |  | $ | 16,502 |  |  | $ | (3,901 | ) |  | $ | 12,601 |  |  | $ | 16,500 |  |  | $ | (3,101 | ) |  | $ | 13,399 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 71.4
+
+| Customer-related |  |  | 4,278 |  |  |  | (2,050 | ) |  |  | 2,228 |  |  |  | 6,038 |  |  |  | (3,051 | ) |  |  | 2,987 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 71.5
+
+| Total |  | $ | 43,557 |  |  | $ | (20,953 | ) |  | $ | 22,604 |  |  | $ | 44,509 |  |  | $ | (16,912 | ) |  | $ | 27,597 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 71
+
+
+### NOTE 8 — GOODWILL
+
+
+#### Changes in the carrying amount of goodwill were as follows:
+
+
+#### (In millions)
+
+
+#### June 30,
+
+2023
+ 
+Acquisitions
+ 
+Other
+
+
+#### June 30,
+
+2024    
+Acquisitions
+   
+Other
+
+
+#### June 30,
+
+
+#### 2025
+
+
+#### Productivity and
+
+Business Processes
+ $
+31,359
+$
+0
+$
+2 
+$
+31,361
+$
+0   $
+96 
+$
+31,457
+Intelligent Cloud
+ 
+25,676
+0
+(28)
+25,648
+0  
+41 
+25,689
+More Personal
+
+Computing
+ 
+10,851
+51,235 
+125 
+62,211
+0  
+152 
+62,363
+
+Total
+ $
+67,886  $
+51,235 
+$
+99 
+$
+119,220   $
+0  $
+289 
+$
+119,509
+
+We have recast certain prior period amounts to conform to the way we internally manage and monitor our business. Refer to Note 1 – 
+Accounting Policies for further information.
+
+The measurement periods for the valuation of assets acquired and liabilities assumed end as soon as information on the facts and circumstances 
+that existed as of the acquisition dates becomes available, but do not exceed 12 months. Adjustments in purchase price allocations may require 
+a change in the amounts allocated to goodwill during the periods in which the adjustments are determined.
+
+Any change in the goodwill amounts resulting from foreign currency translations and purchase accounting adjustments are presented as “Other” 
+in the table above. Also included in “Other” are business dispositions and transfers between segments due to reorganizations, as applicable.
+
+As discussed in Note 1 – Accounting Policies, during the first quarter of fiscal year 2025 we made changes to our segments. These segment 
+changes also resulted in changes to our reporting units. We reallocated goodwill across impacted reporting units using a relative fair value 
+approach. In addition, we completed an assessment of any potential goodwill impairment for all reporting units immediately prior to the 
+reallocation and determined that no impairment existed.
+
+
+#### Goodwill Impairment
+
+We test goodwill for impairment annually on May 1 at the reporting unit level, primarily using a discounted cash flow methodology with a peer-
+based, risk-adjusted weighted average cost of capital. We believe use of a discounted cash flow approach is the most reliable indicator of the fair 
+values of the businesses.
+
+No instances of impairment were identified in our May 1, 2025, May 1, 2024, or May 1, 2023 tests. As of June 30, 2025 and 2024, accumulated 
+goodwill impairment was $11.3 billion.
+
+
+### NOTE 9 — INTANGIBLE ASSETS
+
+The components of intangible assets, all of which are finite-lived, were as follows:
+
+
+#### (In millions)
+
+Gross
+Carrying
+
+
+#### Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Net Carrying
+
+
+#### Amount
+
+Gross
+Carrying
+
+
+#### Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Net Carrying
+
+
+#### Amount
+
+June 30,
+  
+   
+  
+2025   
+ 
+  
+  
+2024
+
+Marketing-related
+ $
+16,502  $
+(3,901)  $
+12,601  $
+16,500  $
+(3,101)  $
+13,399 
+Technology-based
+
+22,560   
+(14,959)   
+7,601   
+21,913   
+(10,741)   
+11,172 
+Customer-related
+  
+4,278   
+(2,050)   
+2,228   
+6,038   
+(3,051)   
+2,987 
+Contract-based
+  
+217   
+(43)   
+174   
+58   
+(19)   
+39
+
+Total
+ $
+43,557  $
+(20,953)  $
+22,604  $
+44,509 
+ $
+(16,912)  $
+27,597
+
+No material impairments of intangible assets were identified during fiscal years 2025, 2024, or 2023. We estimate that we have no significant 
+residual value related to our intangible assets.
+
+
+## Page 83
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 83
+
+
+#### Intelligent Cloud
+
+Our Intelligent Cloud segment consists of our public, private, and hybrid server products and cloud services that power modern business and 
+developers. This segment primarily comprises:
+
+•Server products and cloud services, including Azure and other cloud services, comprising cloud and AI consumption-based services, 
+GitHub cloud services, Nuance Healthcare cloud services, virtual desktop offerings, and other cloud services; and Server products, 
+comprising SQL Server, Windows Server, Visual Studio, System Center, related Client Access Licenses (“CALs”), and other on-premises 
+offerings.
+
+•Enterprise and partner services, including Enterprise Support Services, Industry Solutions, Nuance professional services, Microsoft 
+Partner Network, and Learning Experience.
+
+
+#### More Personal Computing
+
+Our More Personal Computing segment consists of products and services that put customers at the center of the experience with our technology. 
+This segment primarily comprises:
+
+•Windows and Devices, including Windows OEM licensing (Windows Pro and non-Pro licenses sold through the OEM channel) and 
+Devices, comprising Surface and PC accessories.
+
+•Gaming, including Xbox hardware and Xbox content and services, comprising first- and third-party content (including games and in-
+game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, and other cloud services.
+
+•Search and news advertising, comprising Bing and Copilot, Microsoft News, Microsoft Edge, and third-party affiliates.
+
+Revenue and costs are generally directly attributed to our segments. However, due to the integrated structure of our business, certain revenue 
+recognized and costs incurred by one segment may benefit other segments. Revenue from certain contracts is allocated among the segments 
+based on the relative value of the underlying products and services, which can include allocation based on actual prices charged, prices when 
+sold separately, or estimated costs plus a profit margin. Cost of revenue is allocated in certain cases based on a relative revenue methodology. 
+Operating expenses that are allocated primarily include those relating to marketing of products and services from which multiple segments 
+benefit and are generally allocated based on relative gross margin.
+
+In addition, certain costs are incurred at a corporate level and allocated to our segments. These allocated costs generally include legal, including 
+settlements and fines, information technology, human resources, finance, excise taxes, field selling, shared facilities services, customer service 
+and support, and severance incurred as part of a corporate program. Each allocation is measured differently based on the specific facts and 
+circumstances of the costs being allocated and is generally based on relative gross margin or relative headcount.
+
+
+## Page 84
+
+### Table 84.1
+
+| Revenue |  | $ | 120,810 |  |  | $ | 106,820 |  |  | $ | 94,151 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.2
+
+| Operating expenses |  |  | 28,615 |  |  |  | 27,548 |  |  |  | 26,875 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.3
+
+| Revenue |  | $ | 106,265 |  |  | $ | 87,464 |  |  | $ | 72,944 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.4
+
+| Operating expenses |  |  | 21,505 |  |  |  | 20,040 |  |  |  | 20,424 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.5
+
+| Revenue |  | $ | 54,649 |  |  | $ | 50,838 |  |  | $ | 44,820 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.6
+
+| Operating expenses |  |  | 15,245 |  |  |  | 13,987 |  |  |  | 10,230 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.7
+
+| Revenue |  | $ | 281,724 |  |  | $ | 245,122 |  |  | $ | 211,915 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.8
+
+| Operating expenses |  |  | 65,365 |  |  |  | 61,575 |  |  |  | 57,529 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.9
+
+| United States (a) |  | $ | 144,546 |  |  | $ | 124,704 |  |  | $ | 106,744 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 84.10
+
+| Total |  | $ | 281,724 |  |  | $ | 245,122 |  |  | $ | 211,915 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 84
+
+Segment revenue, cost of revenue, operating expenses, and operating income were as follows during the periods presented:
+ 
+(In millions)
+
+Year Ended June 30,
+  
+2025   
+2024   
+2023
+
+
+#### Productivity and Business Processes
+
+Revenue
+ $
+120,810  $
+106,820  $
+94,151 
+Cost of revenue
+  
+22,422   
+19,611   
+17,202 
+Operating expenses
+  
+28,615   
+27,548   
+26,875
+
+Operating Income
+ $
+69,773  $
+59,661  $
+50,074
+
+
+#### Intelligent Cloud
+
+Revenue
+ $
+106,265  $
+87,464  $
+72,944 
+Cost of revenue
+ 
+ 
+40,171   
+29,611   
+24,109 
+Operating expenses
+ 
+ 
+21,505  
+ 
+20,040  
+ 
+20,424
+
+Operating Income
+ $
+44,589  $
+37,813  $
+28,411
+
+
+#### More Personal Computing
+
+Revenue
+ $
+54,649  $
+50,838  $
+44,820 
+Cost of revenue
+  
+25,238   
+24,892   
+24,552 
+Operating expenses
+  
+15,245   
+13,987   
+10,230
+
+Operating Income
+ $
+14,166  $
+11,959   $
+10,038
+
+
+#### Total
+
+Revenue
+ $
+281,724  $
+245,122  $
+211,915 
+Cost of revenue
+  
+87,831   
+74,114   
+65,863 
+Operating expenses
+  
+65,365   
+61,575   
+57,529
+
+Operating Income
+ $
+128,528  $
+109,433  $
+88,523
+
+No sales to an individual customer or country other than the United States accounted for more than 10% of revenue for fiscal years 2025, 2024, 
+or 2023. Revenue, classified by the major geographic areas in which our customers were located, was as follows:
+ 
+(In millions)
+
+Year Ended June 30,
+ 
+2025  
+2024  
+2023
+
+United States 
+ $
+144,546  $
+124,704  $
+106,744 
+Other countries
+  
+137,178   
+120,418   
+105,171
+
+Total
+ $
+281,724  $
+245,122  $
+211,915
+
+(a)Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of 
+determining the geographic source of the revenue.
+
+
+#### (a)
+
+
+## Page 85
+
+### Table 85.1
+
+| Server products and cloud services |  | $ | 98,435 |  |  | $ | 79,828 |  |  | $ | 65,007 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 85.2
+
+| Gaming |  |  | 23,455 |  |  |  | 21,503 |  |  |  | 15,466 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 85.3
+
+| Windows and Devices |  |  | 17,314 |  |  |  | 17,026 |  |  |  | 17,147 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 85.4
+
+| Dynamics products and cloud services |  |  | 7,827 |  |  |  | 6,831 |  |  |  | 5,796 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 85.5
+
+| Microsoft 365 Consumer products and cloud services |  |  | 7,404 |  |  |  | 6,648 |  |  |  | 6,417 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other |  |  | 72 |  |  |  | 45 |  |  |  | 119 |  |
+
+
+### Table 85.6
+
+| Total |  | $ | 281,724 |  |  | $ | 245,122 |  |  | $ | 211,915 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 85.7
+
+| United States |  | $ | 230,069 |  |  | $ | 186,106 |  |  | $ | 114,380 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other countries |  |  | 141,833 |  |  |  | 115,263 |  |  |  | 72,859 |  |
+
+
+### Table 85.8
+
+| Total |  | $ | 371,902 |  |  | $ | 301,369 |  |  | $ | 187,239 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 85
+
+Revenue, classified by significant product and service offerings, was as follows:
+
+
+#### (In millions)
+
+Year Ended June 30,
+ 
+2025  
+2024  
+2023
+
+Server products and cloud services
+ $
+98,435  $
+79,828  $
+65,007 
+Microsoft 365 Commercial products and cloud services
+  
+87,767  
+ 
+76,969   
+66,949 
+Gaming
+  
+23,455  
+21,503   
+15,466 
+LinkedIn
+  
+17,812
+
+
+#### 16,372
+
+14,989 
+Windows and Devices
+ 
+ 
+17,314  
+ 
+17,026   
+17,147 
+Search and news advertising
+  
+13,878  
+ 
+12,306  
+ 
+12,125 
+Dynamics products and cloud services
+  
+7,827   
+6,831   
+5,796 
+Enterprise and partner services
+  
+7,760   
+7,594   
+7,900 
+Microsoft 365 Consumer products and cloud services
+  
+7,404  
+6,648   
+6,417 
+Other
+  
+72   
+45   
+119
+
+Total
+ $
+281,724  $
+245,122  $
+211,915
+
+Our Microsoft Cloud revenue, which includes Microsoft 365 Commercial cloud, Azure and other cloud services, the commercial portion of 
+LinkedIn, and Dynamics 365, was $168.9 billion, $137.7 billion, and $111.6 billion in fiscal years 2025, 2024, and 2023, respectively. These 
+amounts are included in Microsoft 365 Commercial products and cloud services, Server products and cloud services, LinkedIn, and Dynamics 
+products and cloud services in the table above.
+
+Assets are not allocated to segments for internal reporting presentations. A portion of amortization and depreciation is included with various other 
+costs in an overhead allocation to each segment. It is impracticable for us to separately identify the amount of amortization and depreciation by 
+segment that is included in the measure of segment profit or loss.
+
+Long-lived assets, excluding financial instruments and tax assets, classified by the location of the controlling statutory company and with 
+countries over 10% of the total shown separately, were as follows:
+ 
+(In millions)
+
+June 30,
+ 
+2025  
+2024  
+2023
+
+United States
+ $
+230,069  $
+186,106  $
+114,380 
+Other countries
+  
+141,833   
+115,263   
+72,859
+
+Total
+ $
+371,902  $
+301,369  $
+187,239
+
+
+## Page 86
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 86
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+#### To the Stockholders and the Board of Directors of Microsoft Corporation
+
+
+#### Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Microsoft Corporation and subsidiaries (the "Company") as of June 
+30, 2025 and 2024, the related consolidated statements of income, comprehensive income, cash flows, and stockholders' equity, for each 
+of the three years in the period ended June 30, 2025, and the related notes (collectively referred to as the "financial statements"). In our 
+opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of June 30, 2025 and 
+2024, and the results of its operations and its cash flows for each of the three years in the period ended June 30, 2025, in conformity with 
+accounting principles generally accepted in the United States of America.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), 
+the Company's internal control over financial reporting as of June 30, 2025, based on criteria established in Internal Control — Integrated 
+Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated July 30, 
+2025, expressed an unqualified opinion on the Company's internal control over financial reporting.
+
+
+#### Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the 
+Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be 
+independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of 
+the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our 
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or 
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding 
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits 
+provide a reasonable basis for our opinion.
+
+
+#### Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were 
+communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to 
+the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit 
+matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical 
+audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+
+## Page 87
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 87
+
+
+#### Revenue Recognition – Refer to Note 1 to the financial statements
+
+
+#### Critical Audit Matter Description
+
+The Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects the 
+consideration the Company expects to receive in exchange for those products or services. The Company offers customers the ability to 
+acquire multiple licenses of software products and services, including cloud-based services, in its customer agreements through its 
+volume licensing programs.
+
+Significant judgment is exercised by the Company in determining revenue recognition for certain customer agreements, and includes the 
+following:
+
+•Determination of whether products and services are considered distinct performance obligations that should be accounted for separately 
+versus together, such as software licenses and related services that are sold with cloud-based services.
+
+•The pattern of delivery (i.e., timing of when revenue is recognized) for each distinct performance obligation.
+
+•Identification and treatment of contract terms that may impact the timing and amount of revenue recognized (e.g., variable consideration, 
+optional purchases, and free services).
+
+•Determination of stand-alone selling prices for each distinct performance obligation and for products and services that are not sold 
+separately.
+
+Given these factors and due to the volume of transactions, the related audit effort in evaluating management's judgments in determining 
+revenue recognition for certain customer agreements was extensive and required a high degree of auditor judgment.
+
+
+#### How the Critical Audit Matter Was Addressed in the Audit
+
+Our principal audit procedures related to the Company's revenue recognition for certain customer agreements included the following:
+
+•We tested the effectiveness of controls related to the identification of distinct performance obligations, the determination of the timing of 
+revenue recognition, and the estimation of variable consideration.
+
+•We evaluated management's significant accounting policies related to certain customer agreements for reasonableness.
+
+•We selected a sample of customer agreements and performed the following procedures:
+
+oObtained and read contract source documents for each selection, including master agreements, and other documents that 
+were part of the agreement.
+
+oTested management's identification and treatment of contract terms.
+
+oAssessed the terms in the customer agreement and evaluated the appropriateness of management's application of their 
+accounting policies, along with their use of estimates, in the determination of revenue recognition conclusions.
+
+•We evaluated the reasonableness of management's estimate of stand-alone selling prices for products and services that are not sold 
+separately.
+
+•We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the 
+financial statements.
+
+
+## Page 88
+
+
+### PART II
+
+
+#### Item 8
+
+
+#### 88
+
+Income Taxes – Uncertain Tax Positions – Refer to Note 11 to the financial statements
+
+
+#### Critical Audit Matter Description
+
+The Company’s long-term income taxes liability includes uncertain tax positions related to transfer pricing issues that remain unresolved 
+with the Internal Revenue Service (“IRS”). The Company remains under IRS audit, or subject to IRS audit, for tax years subsequent to 
+2003. During fiscal year 2024, the Company received Notices of Proposed Adjustments (“NOPAs”) for the tax years 2004 to 2013, 
+primarily related to intercompany transfer pricing. While the Company has settled a portion of the IRS audits, resolution of the remaining 
+matters could have a material impact on the Company’s financial statements.
+
+Conclusions on recognizing and measuring uncertain tax positions involve significant estimates and management judgment and include 
+complex considerations of the Internal Revenue Code, related regulations, tax case laws, and prior-year audit settlements. Given the 
+complexity and the subjective nature of certain transfer pricing issues that remain unresolved with the IRS, evaluating management’s 
+estimates relating to their determination of uncertain tax positions required a high degree of auditor judgment, including involvement of our 
+tax specialists.
+
+
+#### How the Critical Audit Matter Was Addressed in the Audit
+
+Our principal audit procedures to evaluate management’s estimates of uncertain tax positions related to unresolved transfer pricing issues 
+included the following:
+
+•We evaluated management’s methods and assumptions used in the measurement and disclosure of uncertain tax positions, which 
+included testing the effectiveness of the related internal controls.
+
+•We tested the reasonableness of management’s judgments regarding the future resolution of uncertain tax positions, as follows:
+
+oWe evaluated whether management had appropriately considered new information that could significantly change the 
+measurement of the uncertain tax positions.
+
+oWe evaluated the reasonableness of management’s estimates by considering how changes in tax law, including statutes, 
+regulations, and recent case law, impacted management’s judgments.
+
+•We evaluated the appropriateness of the disclosures in relation to the underlying facts, judgments, and conclusions.
+ 
+/s/ DELOITTE & TOUCHE LLP
+ 
+Seattle, Washington
+July 30, 2025
+ 
+We have served as the Company's auditor since 1983.
+
+
+## Page 92
+
+
+### PART III
+
+
+#### Item 14
+
+
+#### 92
+
+
+### ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Information concerning fees and services provided by our principal accountant, Deloitte & Touche LLP (PCAOB ID No. 34), appears in the Proxy 
+Statement under the headings “Fees Billed by Deloitte & Touche” and “Policy on Audit Committee Pre-Approval of Audit and Permissible Non-
+Audit Services of Independent Auditor” and is incorporated herein by reference.
+
+
+## Page 93
+
+
+### PART IV
+
+
+#### Item 15
+
+
+#### 93
+
+
+### PART IV
+
+
+### ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
+
+
+#### (a)Financial Statements and Schedules
+
+The financial statements are set forth under Part II, Item 8 of this Form 10-K, as indexed below. Financial statement schedules have been 
+omitted since they either are not required, not applicable, or the information is otherwise included. 
+ 
+Index to Financial Statements
+ 
+Page
+
+Income Statements
+ 
+50
+
+Comprehensive Income Statements
+ 
+51
+
+Balance Sheets
+ 
+52
+
+Cash Flows Statements
+ 
+53
+
+Stockholders’ Equity Statements
+ 
+54
+
+Notes to Financial Statements
+ 
+55
+
+Report of Independent Registered Public Accounting Firm
+ 
+86
+
+
+#### (b)Exhibit Listing
+
+Incorporated by Reference
+ 
+Exhibit
+Number
+ Exhibit Description
+
+Filed
+Herewith
+ 
+Form
+
+Period
+Ending
+Exhibit
+Filing Date
+
+
+#### 3.1
+
+Amended and Restated Articles of Incorporation 
+of Microsoft Corporation
+
+8-K
+ 
+3.1
+12/1/2016
+
+3.2
+ Bylaws of Microsoft Corporation
+  
+ 
+8-K
+3.2
+7/1/2025
+
+
+#### 4.1
+
+Indenture, dated as of May 18, 2009, between 
+Microsoft Corporation and The Bank of New York 
+Mellon Trust Company, N.A., as Trustee (“Base 
+Indenture”)
+
+S-3ASR  
+  
+4.1  
+10/29/2015
+
+
+#### 4.2
+
+Form of First Supplemental Indenture for 2.95% 
+Notes due 2014, 4.20% Notes due 2019, and 
+5.20% Notes due 2039, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as Trustee, to the Base Indenture
+
+8-K
+4.2
+5/15/2009
+
+
+#### 4.5
+
+Form of Second Supplemental Indenture for 
+0.875% Notes due 2013, 1.625% Notes due 
+2015, 3.00% Notes due 2020, and 4.50% Notes 
+due 2040, dated as of September 27, 2010, 
+between Microsoft Corporation and The Bank of 
+New York Mellon Trust Company, N.A., as 
+Trustee, to the Indenture, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as Trustee
+
+8-K  
+  
+4.2  
+9/27/2010
+
+
+## Page 94
+
+
+### PART IV
+
+
+#### Item 15
+
+
+#### 94
+
+Incorporated by Reference
+ 
+Exhibit
+Number
+ Exhibit Description
+
+Filed
+Herewith
+ 
+Form
+
+Period
+Ending
+Exhibit
+Filing Date
+
+
+#### 4.6
+
+Third Supplemental Indenture for 2.500% Notes 
+due 2016, 4.000% Notes due 2021, and 5.300% 
+Notes due 2041, dated as of February 8, 2011, 
+between Microsoft Corporation and The Bank of 
+New York Mellon Trust Company, N.A., as 
+Trustee, to the Indenture, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as Trustee
+
+8-K
+4.2
+2/8/2011
+
+
+#### 4.7
+
+Fourth Supplemental Indenture for 0.875% Notes 
+due 2017, 2.125% Notes due 2022, and 3.500% 
+Notes due 2042, dated as of November 7, 2012, 
+between Microsoft Corporation and The Bank of 
+New York Mellon Trust Company, N.A., as 
+Trustee, to the Indenture, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as Trustee
+
+8-K
+4.1
+11/7/2012
+
+
+#### 4.8
+
+Fifth Supplemental Indenture for 2.625% Notes 
+due 2033, dated as of May 2, 2013, between 
+Microsoft Corporation and The Bank of New York 
+Mellon Trust Company, N.A., as Trustee, to the 
+Indenture, dated as of May 18, 2009, between 
+Microsoft Corporation and The Bank of New York 
+Mellon Trust Company, N.A., as Trustee
+
+8-K
+4.1
+5/1/2013
+
+
+#### 4.9
+
+Sixth Supplemental Indenture for 1.000% Notes 
+due 2018, 2.375% Notes due 2023, and 3.750% 
+Notes due 2043, dated as of May 2, 2013, 
+between Microsoft Corporation and The Bank of 
+New York Mellon Trust Company, N.A., as 
+Trustee, to the Indenture, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as Trustee
+
+8-K
+4.2
+5/1/2013
+
+
+#### 4.10
+
+Seventh Supplemental Indenture for 2.125% 
+Notes due 2021 and 3.125% Notes due 2028, 
+dated as of December 6, 2013, between Microsoft 
+Corporation and The Bank of New York Mellon 
+Trust Company, N.A., as Trustee, to the 
+Indenture, dated as of May 18, 2009, between 
+Microsoft Corporation and The Bank of New York 
+Mellon Trust Company, N.A., as Trustee
+
+8-K  
+  
+4.1  
+12/6/2013
+
+
+## Page 95
+
+
+### PART IV
+
+
+#### Item 15
+
+
+#### 95
+
+Incorporated by Reference
+ 
+Exhibit
+Number
+ Exhibit Description
+
+Filed
+Herewith
+ 
+Form
+
+Period
+Ending
+Exhibit
+Filing Date
+
+
+#### 4.11
+
+Eighth Supplemental Indenture for 1.625% Notes 
+due 2018, 3.625% Notes due 2023, and 4.875% 
+Notes due 2043, dated as of December 6, 2013, 
+between Microsoft Corporation and The Bank of 
+New York Mellon Trust Company, N.A., as 
+Trustee, to the Indenture, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as Trustee
+
+
+### 8-K
+
+4.2  
+12/6/2013
+
+
+#### 4.12
+
+Ninth Supplemental Indenture for 1.850% Notes 
+due 2020, 2.375% Notes due 2022, 2.700% 
+Notes due 2025, 3.500% Notes due 2035, 
+3.750% Notes due 2045, and 4.000% Notes due 
+2055, dated as of February 12, 2015, between 
+Microsoft Corporation and U.S. Bank National 
+Association, as Trustee, to the Indenture, dated 
+as of May 18, 2009, between Microsoft 
+Corporation and The Bank of New York Mellon 
+Trust Company, N.A., as trustee
+
+
+### 8-K
+
+4.1  
+2/12/2015
+
+
+#### 4.13
+
+Tenth Supplemental Indenture for 1.300% Notes 
+due 2018, 2.000% Notes due 2020, 2.650% 
+Notes due 2022, 3.125% Notes due 2025, 
+4.200% Notes due 2035, 4.450% Notes due 
+2045, and 4.750% Notes due 2055, dated as of 
+November 3, 2015, between Microsoft 
+Corporation and U.S. Bank National Association, 
+as Trustee, to the Indenture, dated as of May 18, 
+2009, between Microsoft Corporation and The 
+Bank of New York Mellon Trust Company, N.A., 
+as trustee
+
+
+### 8-K
+
+4.1  
+11/3/2015
+
+
+#### 4.14
+
+Eleventh Supplemental Indenture for 1.100% 
+Notes due 2019, 1.550% Notes due 2021, 
+2.000% Notes due 2023, 2.400% Notes due 
+2026, 3.450% Notes due 2036, 3.700% Notes 
+due 2046, and 3.950% Notes due 2056, dated as 
+of August 8, 2016, between Microsoft Corporation 
+and U.S. Bank, National Association, as Trustee, 
+to the Indenture, dated as of May 18, 2009, 
+between Microsoft Corporation and The Bank of 
+New York Mellon Trust Company, N.A., as trustee
+
+
+### 8-K
+
+4.1  
+8/5/2016

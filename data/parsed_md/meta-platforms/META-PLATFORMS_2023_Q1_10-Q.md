@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2023_Q1_10-Q
+# Financial Report: META-PLATFORMS_2023_Q1_10-Q
 
 - **Source File**: `META-PLATFORMS_2023_Q1_10-Q.pdf`
-- **Total Pages**: 145
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 145
+- **Parsed Key Pages**: 33 (33 selected sections)
 
 ---
 
@@ -3100,127 +3100,6 @@ possibility that we may incur a loss in some of these matters. With respect to t
 #### 25
 
 
-## Page 26
-
-
-#### Table of Contents
-
-described below that do not include an estimate of the amount of loss or range of possible loss, such losses or range of possible losses either
-cannot be estimated or are not individually material, but we believe there is a reasonable possibility that they may be material in the aggregate.
-
-We are also party to various other legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the
-ordinary course of business. Additionally, we are required to comply with various legal and regulatory obligations around the world. The
-requirements for complying with these obligations may be uncertain and subject to interpretation and enforcement by regulatory and other
-authorities, and any failure to comply with such obligations could eventually lead to asserted legal or regulatory action. With respect to these
-other legal proceedings, claims, regulatory, tax, or government inquiries and investigations, and other matters, asserted and unasserted, we
-evaluate the associated developments on a regular basis and accrue a liability when we believe a loss is probable and the amount can be
-reasonably estimated. In addition, we believe there is a reasonable possibility that we may incur a loss in some of these other matters. We
-believe that the amount of losses or any estimable range of possible losses with respect to these other matters will not, either individually or in
-the aggregate, have a material adverse effect on our business and condensed consolidated financial statements.
-
-The ultimate outcome of the legal and related matters described in this section, such as whether the likelihood of loss is remote,
-reasonably possible, or probable, or if and when the reasonably possible range of loss is estimable, is inherently uncertain. Therefore, if one or
-more of these matters were resolved against us for amounts in excess of management's estimates of loss, our results of operations and ﬁnancial
-condition, including in a particular reporting period in which any such outcome becomes probable and estimable, could be materially adversely
-affected.
-
-For information regarding income tax contingencies, see Note 14 — Income Taxes.
-
-
-#### Privacy and Related Matters
-
-Beginning on March 20, 2018, multiple putative class actions were ﬁled in state and federal courts in the United States and elsewhere
-against us and certain of our directors and oﬃcers alleging various causes of action in connection with our platform and user data practices as
-well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking
-unspecified damages and injunctive relief. With respect to the putative class actions alleging fraud and violations of consumer protection, privacy,
-and other laws in connection with the same matters, several of the cases brought on behalf of consumers in the United States were consolidated
-in the U.S. District Court for the Northern District of California. On September 9, 2019, the court granted, in part, and denied, in part, our motion
-to dismiss the consolidated putative consumer class action. On December 22, 2022, the parties entered into a settlement agreement to resolve
-the lawsuit, which provides for a payment of $725 million by us and is subject to court approval. In addition, our platform and user data practices,
-as well as the events surrounding the misuse of certain data by a developer, became the subject of U.S. Federal Trade Commission (FTC), state
-attorneys general, and other government inquiries in the United States, Europe, and other jurisdictions. We entered into a settlement and
-modiﬁed consent order to resolve the FTC inquiry, which took eﬀect in April 2020. Among other matters, our settlement with the FTC required us
-to pay a penalty of $5.0 billion which was paid in April 2020 upon the eﬀectiveness of the modiﬁed consent order. The state attorneys general
-inquiry and certain government inquiries in other jurisdictions remain ongoing. On July 16, 2021, a stockholder derivative action was ﬁled in
-Delaware Chancery Court against certain of our directors and oﬃcers asserting breach of ﬁduciary duty and related claims relating to our
-historical platform and user data practices, as well as our settlement with the FTC. On July 20, 2021, other stockholders ﬁled an amended
-derivative complaint in a related Delaware Chancery Court action, asserting breach of ﬁduciary duty and related claims against certain of our
-current and former directors and oﬃcers in connection with our historical platform and user data practices. On November 4, 2021, the lead
-plaintiﬀs ﬁled a second amended and consolidated complaint in the stockholder derivative action. We believe the lawsuits described above are
-without merit, and we are vigorously defending them.
-
-We also notify the Irish Data Protection Commission (IDPC), our lead European Union privacy regulator under the General Data Protection
-Regulation (GDPR), of certain other personal data breaches and privacy issues, and are subject to inquiries and investigations by the IDPC and
-other European regulators regarding various aspects of our regulatory compliance. For example, we are currently subject to an IDPC inquiry
-regarding Meta Platforms Ireland's ability to transfer European Economic Area Facebook user data to the United States, which is described
-further in "Legal Proceedings" contained in Part II, Item 1 of this Quarterly Report on Form 10-Q. The interpretation of the GDPR is still evolving
-and draft decisions in investigations by the IDPC are subject to review by other European privacy regulators as part of the GDPR's
-
-
-#### 26
-
-
-## Page 27
-
-
-#### Table of Contents
-
-cooperation and consistency mechanisms, which may lead to signiﬁcant changes in the ﬁnal outcome of such investigations. As a result, the
-interpretation and enforcement of the GDPR, as well as the imposition and amount of penalties for non-compliance, are subject to signiﬁcant
-uncertainty. Although we are vigorously defending our regulatory compliance, we have accrued significant amounts for loss contingencies related
-to these inquiries and investigations in Europe, and we believe there is a reasonable possibility that additional accruals for losses related to these
-matters could be material individually or in the aggregate.
-
-On February 14, 2022, the State of Texas ﬁled a lawsuit against us in Texas state court alleging that "tag suggestions" and other uses of
-facial recognition technology violated the Texas Capture or Use of Biometric Identiﬁers Act and the Texas Deceptive Trade Practices-Consumer
-Protection Act, and seeking statutory damages and injunctive relief. The case is currently scheduled for trial in January 2024. We believe this
-lawsuit is without merit, and we are vigorously defending it.
-
-Beginning on June 7, 2021, multiple putative class actions were ﬁled against us alleging that we improperly received individuals'
-information from third-party websites or apps via our business tools in violation of our terms and various state and federal laws and seeking
-unspecified damages and injunctive relief. We believe these lawsuits are without merit, and we are vigorously defending them.
-
-
-#### Competition
-
-We are subject to various litigation and government inquiries and investigations, formal or informal, by competition authorities in the United
-States, Europe, and other jurisdictions. Such investigations, inquiries, and lawsuits concern, among other things, our business practices in the
-areas of social networking or social media services, digital advertising, and/or mobile or online applications, as well as our acquisitions. For
-example, in June 2019 we were informed by the FTC that it had opened an antitrust investigation of our company. On December 9, 2020, the
-FTC ﬁled a complaint against us in the U.S. District Court for the District of Columbia alleging that we engaged in anticompetitive conduct and
-unfair methods of competition in violation of Section 5 of the Federal Trade Commission Act and Section 2 of the Sherman Act, including by
-acquiring Instagram in 2012 and WhatsApp in 2014 and by maintaining conditions on access to our platform. In addition, beginning in the third
-quarter of 2019, we became the subject of antitrust investigations by the U.S. Department of Justice and state attorneys general. On
-December 9, 2020, the attorneys general from 46 states, the territory of Guam, and the District of Columbia ﬁled a complaint against us in the
-U.S. District Court for the District of Columbia alleging that we engaged in anticompetitive conduct in violation of Section 2 of the Sherman Act,
-including by acquiring Instagram in 2012 and WhatsApp in 2014 and by maintaining conditions on access to our platform. The complaint also
-alleged that we violated Section 7 of the Clayton Act by acquiring Instagram and WhatsApp. The complaints of the FTC and attorneys general
-both sought a permanent injunction against our company's alleged violations of the antitrust laws, and other equitable relief, including divestiture
-or reconstruction of Instagram and WhatsApp. On June 28, 2021, the court granted our motions to dismiss the complaints ﬁled by the FTC and
-attorneys general, dismissing the FTC's complaint with leave to amend and dismissing the attorneys general's case without prejudice. On
-July 28, 2021, the attorneys general ﬁled a notice of appeal of the order dismissing their case and that appeal is now pending before the U.S.
-Court of Appeals for the District of Columbia Circuit. On August 19, 2021, the FTC ﬁled an amended complaint, and on October 4, 2021, we ﬁled
-a motion to dismiss this amended complaint. On January 11, 2022, the court denied our motion to dismiss the FTC's amended complaint.
-Multiple putative class actions have also been ﬁled in state and federal courts in the United States and in the United Kingdom against us alleging
-violations of antitrust laws and other causes of action in connection with these acquisitions and/or other alleged anticompetitive conduct, and
-seeking damages and injunctive relief. Several of the cases brought on behalf of certain advertisers and users in the United States were
-consolidated in the U.S. District Court for the Northern District of California. On January 14, 2022, the court granted, in part, and denied, in part,
-our motion to dismiss the consolidated actions. On March 1, 2022, a ﬁrst amended consolidated complaint was ﬁled in the putative class action
-brought on behalf of certain advertisers. On December 6, 2022, the court denied our motion to dismiss the ﬁrst amended consolidated complaint
-ﬁled in the putative class action brought on behalf of certain advertisers. We believe these lawsuits are without merit, and we are vigorously
-defending them. In December 2022, the European Commission issued a Statement of Objections alleging that we tie Facebook Marketplace to
-Facebook and use data in a manner that infringes European Union competition rules.
-
-
-#### Securities and Other Actions
-
-Beginning on March 20, 2018, multiple putative class actions and derivative actions were ﬁled in state and federal courts in the United
-States and elsewhere against us and certain of our directors and officers alleging violations of securities
-
-
-#### 27
-
-
 ## Page 28
 
 
@@ -3458,3 +3337,496 @@ completed in March 2020 and the final trial session was completed in August 2022
 
 
 #### 30
+
+
+## Page 31
+
+
+#### Table of Contents
+
+on the information provided, we believe that, if the IRS prevails in its updated position, this could result in an additional federal tax liability of an
+estimated, aggregate amount of up to approximately $9.0 billion in excess of the amounts in our originally ﬁled U.S. return, plus interest and any
+penalties asserted.
+
+In March 2018, we received a second Notice from the IRS in conjunction with the examination of our 2011 through 2013 tax years. The
+IRS applied its position from the 2010 tax year to each of these years and also proposed new adjustments related to other transfer pricing with
+our foreign subsidiaries and certain tax credits that we claimed. If the IRS prevails in its position for these new adjustments, this could result in an
+additional federal tax liability of up to approximately $680 million in excess of the amounts in our originally filed U.S. returns, plus interest and any
+penalties asserted. We do not agree with the positions of the IRS in the second Notice and have ﬁled a petition in the Tax Court challenging the
+second Notice.
+
+We have previously accrued an estimated unrecognized tax beneﬁt consistent with the guidance in ASC 740,  Income Taxes (ASC 740),
+that is lower than the potential additional federal tax liability from the positions taken by the IRS in the two Notices and its Pretrial Memorandum.
+In addition, if the IRS prevails in its positions related to transfer pricing with our foreign subsidiaries, the additional tax that we would owe would
+be partially oﬀset by a reduction in the tax that we owe under the mandatory transition tax on accumulated foreign earnings from the 2017 Tax
+Cuts and Jobs Act. As of March 31, 2023, we have not resolved these matters and proceedings continue in the Tax Court.
+
+We believe that adequate amounts have been reserved in accordance with ASC 740 for any adjustments to the provision for income taxes
+or other tax items that may ultimately result from these examinations. The timing of the resolution, settlement, and closure of any audits is highly
+uncertain, and it is reasonably possible that the balance of gross unrecognized tax beneﬁts could signiﬁcantly change in the next 12 months.
+Given the number of years remaining that are subject to examination, we are unable to estimate the full range of possible adjustments to the
+balance of gross unrecognized tax beneﬁts. If the tax authorities prevail in the assessment of additional tax due, the assessed tax, interest, and
+penalties, if any, could have a material adverse impact on our financial position, results of operations, and cash flows.
+
+
+#### Note 15. Segment and Geographical Information
+
+We report our ﬁnancial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook,
+Instagram, Messenger, WhatsApp, and other services. RL includes augmented and virtual reality related consumer hardware, software, and
+content. Our operating segments are the same as our reportable segments.
+
+Revenue and costs and expenses are generally directly attributed to our segments. These costs and expenses include certain product
+development related operating expenses, costs associated with partnership arrangements, consumer hardware product costs, content costs,
+and legal-related costs. Indirect costs are allocated to segments based on a reasonable allocation methodology, when such costs are signiﬁcant
+to the performance measures of the operating segments. Indirect cost of revenue is allocated to our segments based on usage, such as costs
+related to the operation of our data centers and technical infrastructure. Indirect operating expenses, such as facilities, information technology,
+certain shared research and development activities, recruiting, and physical security expenses, are mostly allocated based on headcount.
+
+
+#### 31
+
+
+## Page 44
+
+
+#### Table of Contents
+
+
+#### Components of Results of Operations
+
+
+#### Revenue
+
+
+#### Family of Apps (FoA)
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad
+products on Facebook, Instagram, Messenger, and third-party mobile applications. Marketers pay for ad products either directly or through their
+relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks, taken
+by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. In particular, the number of ads we show may vary by product (for
+example, our video and Reels products are monetized at a lower rate than our feed or Stories products), and from time to time we increase or
+decrease the number or frequency of ads we show as part of our product and monetization strategies. We calculate average price per ad as total
+advertising revenue divided by the number of ads delivered, representing the average price paid per ad by a marketer regardless of their desired
+objective such as impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net
+basis.
+
+Other revenue. Other revenue consists of net fees we receive from developers using our Payments infrastructure and revenue from
+WhatsApp Business Platform and various other sources.
+
+
+#### Reality Labs (RL)
+
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest, wearables, and related software and
+content.
+
+
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists mostly of expenses associated with the delivery and distribution of our products. These
+include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network
+infrastructure and buildings, as well as payroll and related expenses which include share-based compensation for employees on our operations
+teams, and energy and bandwidth costs. Cost of revenue also includes costs associated with partner arrangements, including traﬃc acquisition
+costs and credit card and other fees related to processing customer transactions, and content costs. Additionally, cost of revenue includes RL
+inventory costs, which consist of cost of products sold and estimated losses on non-cancelable contractual commitments.
+
+Research and development. Research and development expenses consist primarily of payroll and related expenses which include share-
+based compensation, facilities-related costs for employees on our engineering and technical teams who are responsible for developing new
+products as well as improving existing products, RL technology development costs, and professional services.
+
+Marketing and sales. Marketing and sales expenses consist mostly of marketing and promotional expenses as well as payroll and related
+expenses, which include share-based compensation, for our employees engaged in sales, sales support, marketing, business development, and
+customer service functions. Our marketing and sales expenses also include professional services such as content reviewers to support our
+community and product operations.
+
+General and administrative. General and administrative expenses consist primarily of payroll and related expenses which include share-
+based compensation for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications and policy, and
+other administrative employees; legal-related costs, which include estimated ﬁnes, settlements, or other losses in connection with legal and
+related matters, as well as other legal fees; professional services, and other taxes, such as digital services taxes, other tax levies.
+
+
+#### 44
+
+
+## Page 45
+
+### Table 45.1
+
+| Revenue | $ | 28,645 |  | $ | 27,908 |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 6,108 |  |  | 6,005 |  |
+| Research and development | 9,381 |  |  | 7,707 |  |
+| Marketing and sales | 3,044 |  |  | 3,312 |  |
+| General and administrative | 2,885 |  |  | 2,360 |  |
+| Total costs and expenses | 21,418 |  |  | 19,384 |  |
+| Income from operations | 7,227 |  |  | 8,524 |  |
+| Interest and other income, net | 80 |  |  | 384 |  |
+| Income before provision for income taxes | 7,307 |  |  | 8,908 |  |
+| Provision for income taxes | 1,598 |  |  | 1,443 |  |
+| Net income | $ | 5,709 |  | $ | 7,465 |
+
+
+### Table 45.2
+
+| Revenue | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 21 |  |  | 22 |  |
+| Research and development | 33 |  |  | 28 |  |
+| Marketing and sales | 11 |  |  | 12 |  |
+| General and administrative | 10 |  |  | 8 |  |
+| Total costs and expenses | 75 |  |  | 69 |  |
+| Income from operations | 25 |  |  | 31 |  |
+| Interest and other income, net | — |  |  | 1 |  |
+| Income before provision for income taxes | 26 |  |  | 32 |  |
+| Provision for income taxes | 6 |  |  | 5 |  |
+| Net income | 20 | % |  | 27 | % |
+
+
+
+#### Table of Contents
+
+
+#### Results of Operations
+
+The following table sets forth our condensed consolidated statements of income data (in millions):
+
+Three Months Ended March 31,
+ 
+2023
+2022
+Revenue
+$
+28,645 
+$
+27,908 
+Costs and expenses:
+
+Cost of revenue
+6,108 
+6,005 
+Research and development
+9,381 
+7,707 
+Marketing and sales
+3,044 
+3,312 
+General and administrative
+2,885 
+2,360 
+Total costs and expenses
+21,418 
+19,384 
+Income from operations
+7,227 
+8,524 
+Interest and other income, net
+80 
+384 
+Income before provision for income taxes
+7,307 
+8,908 
+Provision for income taxes
+1,598 
+1,443
+
+Net income
+$
+5,709 
+$
+7,465
+
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue)
+:
+
+Three Months Ended March 31,
+ 
+2023
+2022
+Revenue
+100 %
+100 %
+Costs and expenses:
+
+Cost of revenue
+21 
+22 
+Research and development
+33 
+28 
+Marketing and sales
+11 
+12 
+General and administrative
+10 
+8 
+Total costs and expenses
+75 
+69 
+Income from operations
+25 
+31 
+Interest and other income, net
+— 
+1 
+Income before provision for income taxes
+26 
+32 
+Provision for income taxes
+6 
+5
+
+Net income
+20 %
+27 %
+
+____________________________________
+(1)    Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### (1)
+
+
+#### 45
+
+
+## Page 46
+
+### Table 46.1
+
+| Advertising | $ | 28,101 |  | $ | 26,998 |  | 4 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 205 |  |  | 215 |  |  | (5) | % |
+| Family of Apps | 28,306 |  |  | 27,213 |  |  | 4 | % |
+| Reality Labs | 339 |  |  | 695 |  |  | (51) | % |
+| Total revenue | $ | 28,645 |  | $ | 27,908 |  | 3 | % |
+
+
+
+#### Table of Contents
+
+
+#### Revenue
+
+
+#### The following table sets forth our revenue by source and by segment:
+
+Three Months Ended March 31,
+ 
+ 
+2023
+2022
+% change
+
+(in millions, except percentages)
+Advertising
+$
+28,101 
+$
+26,998 
+4 %
+Other revenue
+205 
+215 
+(5) %
+Family of Apps
+28,306 
+27,213 
+4 %
+Reality Labs
+339 
+695 
+(51)%
+
+Total revenue
+$
+28,645 
+$
+27,908 
+3 %
+
+
+#### Family of Apps
+
+FoA revenue in the three months ended March 31, 2023 increased $1.09 billion, or 4%, compared to the same period in 2022. The
+increase was driven by advertising revenue.
+
+
+#### Advertising
+
+Advertising revenue in the three months ended March 31, 2023 increased $1.10 billion, or 4%, compared to the same period in 2022 due
+to an increase in the number of ads delivered, partially oﬀset by a decrease in the average price per ad. During the three months ended
+March 31, 2023, the number of ads delivered increased by 26% year-over-year as compared with an increase of 15% in the same period in
+2022. Ad impressions grew in all regions during the three months ended March 31, 2023 as compared to the same period in 2022, primarily
+driven by an increase in ads delivered in Asia-Paciﬁc and Rest of World. The increase in ads delivered during the three months ended March 31,
+2023 was driven by increases in the number and frequency of ads displayed across our products and an increase in users. During the three
+months ended March 31, 2023, the average price per ad decreased by 17% year-over-year, as compared with a decrease of 8% in the same
+period in 2022. The decrease in average price per ad was driven by an increase in the number of ads delivered, especially in geographies and in
+products such as video and Reels that monetize at lower rates, an unfavorable foreign exchange impact, and lower advertising demand, which
+we believe continued to be impacted by a more challenging macroeconomic environment, as well as, to a lesser extent, the other factors
+discussed in the section entitled "—Executive Overview of First Quarter Results." In addition, year-over-year advertising revenue growth was
+driven mostly by marketer spending in the online commerce, healthcare, and entertainment and media industries. We anticipate that future
+advertising revenue will be driven by a combination of price and the number of ads delivered.
+
+
+#### Reality Labs
+
+RL revenue in the three months ended March 31, 2023 decreased $356 million, or 51%, compared to the same period in 2022. The
+decrease in RL revenue was primarily driven by a decrease in the volume of Meta Quest sales.
+
+
+#### Foreign Exchange Impact on Revenue
+
+The general strengthening of the U.S. dollar relative to certain foreign currencies for the three months ended March 31, 2023 compared to
+the same period in 2022 had an unfavorable impact on revenue. If we had translated revenue for the three months ended March 31, 2023 using
+the prior year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total revenue and advertising
+revenue would have been $29.46 billion and $28.91 billion, respectively. Using these constant rates, total revenue and advertising revenue
+would have been $816 million and $806 million higher than actual total revenue and advertising revenue, respectively, for the three months
+ended March 31, 2023.
+
+
+#### 46
+
+
+## Page 47
+
+### Table 47.1
+
+| Cost of revenue | $ | 6,108 |  |  | $ | 6,005 |  |  | 2 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 21 |  | % |  | 22 |  | % |  |  |  |
+
+
+### Table 47.2
+
+| Research and development | $ | 9,381 |  |  | $ | 7,707 |  |  | 22 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |  |  |  |  |
+
+
+### Table 47.3
+
+| Marketing and sales | $ | 3,044 |  |  | $ | 3,312 |  |  | (8) | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue |  |  |  |  |  |  |  |  |  |  |
+
+
+### Table 47.4
+
+| General and administrative | $ | 2,885 |  |  | $ | 2,360 |  |  | 22 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 10 |  | % |  | 8 |  | % |  |  |  |
+
+
+
+#### Table of Contents
+
+
+#### Cost of revenue
+
+Three Months Ended March 31,
+ 
+ 
+2023
+2022
+% change
+
+(in millions, except percentages)
+Cost of revenue
+$
+6,108 
+$
+6,005 
+2 %
+Percentage of revenue
+21 %
+22 %
+
+Cost of revenue in the three months ended March 31, 2023 increased $103 million, or 2%, compared to the same period in 2022. The
+increase was driven by an increase in operational expenses related to our data centers and technical infrastructure, partially oﬀset by a decrease
+in RL inventory cost and a $168 million reduction of data center restructuring charges recorded in 2022.
+
+
+#### Research and development
+
+Three Months Ended March 31,
+ 
+ 
+2023
+2022
+% change
+
+(in millions, except percentages)
+Research and development
+$
+9,381 
+$
+7,707 
+22 %
+Percentage of revenue
+33 %
+28 %
+
+Research and development expenses in the three months ended March 31, 2023 increased $1.67 billion, or 22%, compared to the same
+period in 2022. The increase was partly due to restructuring charges related to facilities consolidation and severance and other personnel costs.
+In addition, higher payroll and related expenses, including an increase in share-based compensation expense in engineering and other technical
+functions supporting our continued investment in RL and FoA, also contributed to the increase.
+
+
+#### Marketing and sales
+
+Three Months Ended March 31,
+ 
+ 
+2023
+2022
+% change
+
+(in millions, except percentages)
+Marketing and sales
+$
+3,044 
+$
+3,312 
+(8) %
+Percentage of revenue
+11 %
+12 %
+
+Marketing and sales expenses in the three months ended March 31, 2023 decreased $268 million, or 8%, compared to the same period in
+2022. The decrease was mainly due to decreases in marketing and promotional expenses as well as payroll and related expenses. Our payroll
+and related expenses decreased as a result of a 13% decrease in employee headcount from March 31, 2022 to March 31, 2023 in our marketing
+and sales functions.
+
+
+#### General and administrative
+
+Three Months Ended March 31,
+ 
+ 
+2023
+2022
+% change
+
+(in millions, except percentages)
+General and administrative
+$
+2,885 
+$
+2,360 
+22 %
+Percentage of revenue
+10 %
+8 %
+
+General and administrative expenses in the three months ended March 31, 2023 increased $525 million, or 22%, compared to the same
+period in 2022. The increase was primarily due to increases in restructuring charges, related to severance and other personnel costs and
+facilities consolidation, as well as higher legal-related costs.
+
+
+#### 47

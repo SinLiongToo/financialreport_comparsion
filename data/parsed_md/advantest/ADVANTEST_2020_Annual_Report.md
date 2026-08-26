@@ -1,8 +1,8 @@
-# Annual Report: ADVANTEST_2020_Annual_Report
+# Financial Report: ADVANTEST_2020_Annual_Report
 
 - **Source File**: `ADVANTEST_2020_Annual_Report.pdf`
-- **Total Pages**: 22
-- **Parsed Pages**: 22
+- **Total PDF Pages**: 22
+- **Parsed Key Pages**: 22 (22 selected sections)
 
 ---
 

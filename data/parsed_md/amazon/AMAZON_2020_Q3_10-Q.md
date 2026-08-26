@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2020_Q3_10-Q
+# Financial Report: AMAZON_2020_Q3_10-Q
 
 - **Source File**: `AMAZON_2020_Q3_10-Q.pdf`
-- **Total Pages**: 50
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 50
+- **Parsed Key Pages**: 29 (29 selected sections)
 
 ---
 
@@ -3359,673 +3359,177 @@ by $127 million for the nine months ended September 30, 2020.
 #### 25
 
 
-## Page 26
+## Page 44
 
-### Table 26.1
 
-| Operating Expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of sales | $ | 41,302 |  |  | $ | 57,106 |  |  | $ | 111,559 |  |  | $ | 154,023 |  |
-| Fulfillment | 10,167 |  |  |  | 14,705 |  |  |  | 28,040 |  |  |  | 40,043 |  |  |
-| Technology and content | 9,200 |  |  |  | 10,976 |  |  |  | 26,191 |  |  |  | 30,691 |  |  |
-| Marketing | 4,752 |  |  |  | 5,434 |  |  |  | 12,707 |  |  |  | 14,605 |  |  |
-| General and administrative | 1,348 |  |  |  | 1,668 |  |  |  | 3,791 |  |  |  | 4,700 |  |  |
-| Other operating expense (income), net | 55 |  |  |  | 62 |  |  |  | 136 |  |  |  | 421 |  |  |
-| Total operating expenses | $ | 66,824 |  |  | $ | 89,951 |  |  | $ | 182,424 |  |  | $ | 244,483 |  |
-| Year-over-year Percentage Growth: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 25 |  | % |  | 38 |  | % |  | 18 |  | % |  | 38 |  | % |
-| Fulfillment | 23 |  |  |  | 45 |  |  |  | 17 |  |  |  | 43 |  |  |
-| Technology and content | 28 |  |  |  | 19 |  |  |  | 24 |  |  |  | 17 |  |  |
-| Marketing | 44 |  |  |  | 14 |  |  |  | 43 |  |  |  | 15 |  |  |
-| General and administrative | 29 |  |  |  | 24 |  |  |  | 18 |  |  |  | 24 |  |  |
-| Other operating expense (income), net | (19) |  |  |  | 12 |  |  |  | (35) |  |  |  | 209 |  |  |
-| Percent of Net Sales: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cost of sales | 59.0 |  | % |  | 59.4 |  | % |  | 57.8 |  | % |  | 59.1 |  | % |
-| Fulfillment | 14.5 |  |  |  | 15.3 |  |  |  | 14.5 |  |  |  | 15.4 |  |  |
-| Technology and content | 13.1 |  |  |  | 11.4 |  |  |  | 13.6 |  |  |  | 11.8 |  |  |
-| Marketing | 6.8 |  |  |  | 5.7 |  |  |  | 6.6 |  |  |  | 5.6 |  |  |
-| General and administrative | 1.9 |  |  |  | 1.7 |  |  |  | 2.0 |  |  |  | 1.8 |  |  |
-| Other operating expense (income), net | 0.1 |  |  |  | 0.1 |  |  |  | 0.1 |  |  |  | 0.2 |  |  |
+#### Table of Contents
 
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+None.
+
+Item 3.
+Defaults Upon Senior Securities
+
+None.
+
+Item 4.
+Mine Safety Disclosures
+
+Not applicable.
+
+Item 5.
+Other Information
+
+Not applicable.
+
+
+#### 44
+
+
+## Page 45
+
+
+#### Table of Contents
+
+Item 6.
+Exhibits
+
+Exhibit
+Number
+Description
+
+3.1
+Restated Certificate of Incorporation of the Company (incorporated by reference to the Company’s Current Report on Form
+8-K, filed May 29, 2020).
+
+3.2
+Amended and Restated Bylaws of the Company (incorporated by reference to the Company’s Current Report on Form 8-
+K, filed May 29, 2020).
+
+31.1
+Certification of Jeffrey P. Bezos, Chairman and Chief Executive Officer of Amazon.com, Inc., pursuant to Rule 13a-14(a)
+under the Securities Exchange Act of 1934.
+
+31.2
+Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc., pursuant to Rule
+13a-14(a) under the Securities Exchange Act of 1934.
+
+32.1
+Certification of Jeffrey P. Bezos, Chairman and Chief Executive Officer of Amazon.com, Inc., pursuant to 18 U.S.C.
+Section 1350.
+
+32.2
+Certification of Brian T. Olsavsky, Senior Vice President and Chief Financial Officer of Amazon.com, Inc., pursuant to 18
+U.S.C. Section 1350.
+
+101
+The following financial statements from the Company’s Quarterly Report on Form 10-Q for the quarter ended September
+30, 2020, formatted in Inline XBRL: (i) Consolidated Statements of Cash Flows, (ii) Consolidated Statements of Operations,
+(iii) Consolidated Statements of Comprehensive Income, (iv) Consolidated Balance Sheets, and (v) Notes to Consolidated
+Financial Statements, tagged as blocks of text and including detailed tags.
+
+104
+The cover page from the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2020, formatted
+in Inline XBRL (included as Exhibit 101).
+
+
+#### 45
+
+
+## Page 46
 
 
 #### Table of Contents
 
 
-#### Operating Expenses
-
-
-#### Information about operating expenses is as follows (in millions):
-
-
-#### Three Months Ended
-
-
-#### September 30,
-
-
-#### Nine Months Ended
-
-September 30,
- 
-2019
-2020
-2019
-2020
-Operating Expenses:
-
-Cost of sales
-$
-41,302 
-$
-57,106 
-$
-111,559 
-$
-154,023 
-Fulfillment
-10,167 
-14,705 
-28,040 
-40,043 
-Technology and content
-9,200 
-10,976 
-26,191 
-30,691 
-Marketing
-4,752 
-5,434 
-12,707 
-14,605 
-General and administrative
-1,348 
-1,668 
-3,791 
-4,700 
-Other operating expense (income), net
-55 
-62 
-136 
-421 
-Total operating expenses
-$
-66,824 
-$
-89,951 
-$
-182,424 
-$
-244,483 
-Year-over-year Percentage Growth:
-
-Cost of sales
-25 %
-38 %
-18 %
-38 %
-Fulfillment
-23 
-45 
-17 
-43 
-Technology and content
-28 
-19 
-24 
-17 
-Marketing
-44 
-14 
-43 
-15 
-General and administrative
-29 
-24 
-18 
-24 
-Other operating expense (income), net
-(19)
-12 
-(35)
-209 
-Percent of Net Sales:
-
-Cost of sales
-59.0 %
-59.4 %
-57.8 %
-59.1 %
-Fulfillment
-14.5 
-15.3 
-14.5 
-15.4 
-Technology and content
-13.1 
-11.4 
-13.6 
-11.8 
-Marketing
-6.8 
-5.7 
-6.6 
-5.6 
-General and administrative
-1.9 
-1.7 
-2.0 
-1.8 
-Other operating expense (income), net
-0.1 
-0.1 
-0.1 
-0.2
-
-
-#### Cost of Sales
-
-Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
-to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
-gross, including video and music.
-
-The increase in cost of sales in absolute dollars in Q3 2020 and for the nine months ended September 30, 2020, compared to the
-comparable prior year periods, is primarily due to increased product and shipping costs resulting from increased sales. We expect cost of sales
-as a percentage of net sales to continue to be negatively impacted through at least Q4 2020 by COVID-19 related costs.
-
-Shipping costs to receive products from our suppliers are included in our inventory and recognized as cost of sales upon sale of products to
-our customers. Shipping costs, which include sortation and delivery centers and transportation costs, were $9.6 billion and $15.1 billion in Q3
-2019 and Q3 2020, and $25.1 billion and $39.7 billion for the nine months ended September 30, 2019 and 2020. We expect our cost of shipping
-to continue to increase to the extent our customers accept and use our shipping offers at an increasing rate, we reduce shipping rates, we use
-more expensive shipping methods, including faster delivery, and we offer additional services. We seek to mitigate costs of shipping over time in
-part through achieving higher sales volumes, optimizing our fulfillment network, negotiating better terms with our suppliers, and achieving better
-operating efficiencies. We believe that offering low prices to our customers is fundamental to our future success, and one way we offer lower
-prices is through shipping offers.
+### SIGNATURES
 
-Costs to operate our AWS segment are primarily classified as “Technology and content” as we leverage a shared infrastructure that
-supports both our internal technology requirements and external sales to AWS customers.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
 
 
-#### 26
+### AMAZON.COM, INC. (REGISTRANT)
 
+By:
+/s/ Shelley L. Reynolds
 
-## Page 27
+Shelley L. Reynolds
+Vice President, Worldwide Controller
 
 
-#### Table of Contents
+#### (Principal Accounting Officer)
 
 
-#### Fulfillment
+#### Dated: October 29, 2020
 
-Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International fulfillment centers,
-physical stores, and customer service centers and payment processing costs. While AWS payment processing and related transaction costs are
-included in “Fulfillment,” AWS costs are primarily classified as “Technology and content.” Fulfillment costs as a percentage of net sales may vary
-due to several factors, such as payment processing and related transaction costs, our level of productivity and accuracy, changes in volume, size,
-and weight of units received and fulfilled, the extent to which third party sellers utilize Fulfillment by Amazon services, timing of fulfillment network
-and physical store expansion, the extent we utilize fulfillment services provided by third parties, mix of products and services sold, and our ability
-to affect customer service contacts per unit by implementing improvements in our operations and enhancements to our customer self-service
-features. Additionally, sales by our sellers have higher payment processing and related transaction costs as a percentage of net sales compared
-to our retail sales because payment processing costs are based on the gross purchase price of underlying transactions.
 
-The increase in fulfillment costs in absolute dollars in Q3 2020 and for the nine months ended September 30, 2020, compared to the
-comparable prior year periods, is primarily due to variable costs corresponding with increased product and service sales volume and inventory
-levels, costs from expanding our fulfillment network, and the COVID-19 related impact of lower productivity, costs to maintain safe workplaces,
-and increased employee hiring and benefits. We expect fulfillment costs as a percentage of net sales to continue to be negatively impacted
-through at least Q4 2020 by COVID-19 related costs.
+#### 46
 
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
 
+## Page 47
 
-#### Technology and Content
 
-Technology and content costs include payroll and related expenses for employees involved in the research and development of new and
-existing products and services, development, design, and maintenance of our stores, curation and display of products and services made
-available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related
-depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
-costs reflect the investments we make in order to offer a wide variety of products and services to our customers.
+#### Exhibit 31.1
 
-We seek to invest efficiently in numerous areas of technology and content so we may continue to enhance the customer experience and
-improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and content
-investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and the cross-
-functionality of our systems and operations. We expect spending in technology and content to increase over time as we continue to add
-employees and technology infrastructure. These costs are allocated to segments based on usage. The increase in technology and content costs
-in absolute dollars in Q3 2020 and for the nine months ended September 30, 2020, compared to the comparable prior year periods, is primarily
-due to increased payroll and related costs associated with technical teams responsible for expanding our existing products and services and
-initiatives to introduce new products and service offerings and an increase in spending on technology infrastructure, offset by a reduction in
-depreciation and amortization expense from our change in the estimated useful life of our servers. See Item 7 of Part II, “Management’s
-Discussion and Analysis of Financial Condition and Results of Operations — Overview” of our 2019 Annual Report on Form 10-K for a discussion
-of how management views advances in technology and the importance of innovation. See Item 1 of Part I, “Financial Statements — Note 1 —
-Accounting Policies and Supplemental Disclosures — Use of Estimates” for additional information on our change in the estimated useful life of
-our servers.
 
+### CERTIFICATIONS
 
-#### Marketing
 
-Marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities, including
-sales commissions related to AWS. We direct customers to our stores primarily through a number of marketing channels, such as our sponsored
-search, third party customer referrals, social and online advertising, television advertising, and other initiatives. Our marketing costs are largely
-variable, based on growth in sales and changes in rates. To the extent there is increased or decreased competition for these traffic sources, or to
-the extent our mix of these channels shifts, we would expect to see a corresponding change in our marketing costs.
+#### I, Jeffrey P. Bezos, certify that:
 
-The increase in marketing costs in absolute dollars in Q3 2020 and for the nine months ended September 30, 2020, compared to the
-comparable prior year periods, is primarily due to increased payroll and related expenses for personnel engaged in marketing and selling
-activities, partially offset by lower spending on marketing channels as a result of COVID-19. We expect marketing costs as a percentage of net
-sales to continue to be favorably impacted through at least Q4 2020 by COVID-19.
 
-While costs associated with Amazon Prime memberships and other shipping offers are not included in marketing expense, we view these
-offers as effective worldwide marketing tools, and intend to continue offering them indefinitely.
+#### 1. I have reviewed this Form 10-Q of Amazon.com, Inc.;
 
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
 
-#### 27
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
 
+4. The registrant’s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-
+15(f) and 15d-15(f)) for the registrant and have:
 
-## Page 28
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;
 
-### Table 28.1
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;
 
-| Net cash provided by (used in) operating activities | $ | 35,332 |  | $ | 55,292 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (11,868) |  |  | (25,791) |  |
-| Free cash flow | $ | 23,464 |  | $ | 29,501 |
-| Net cash provided by (used in) investing activities | $ | (24,317) |  | $ | (46,110) |
-| Net cash provided by (used in) financing activities | $ | (8,255) |  | $ | (2,859) |
+(c) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
 
+(d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s
+most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant’s internal control over financial reporting; and
 
+5. The registrant’s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent
+functions):
 
-#### Table of Contents
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and
 
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s
+internal control over financial reporting.
 
-#### General and Administrative
 
-The increase in general and administrative costs in absolute dollars in Q3 2020 and for the nine months ended September 30, 2020,
-compared to the comparable prior year periods, is primarily due to increases in payroll and related expenses.
+#### /s/ Jeffrey P. Bezos
 
+Jeffrey P. Bezos
+Chairman and Chief Executive Officer
 
-#### Other Operating Expense (Income), Net
 
-Other operating expense (income), net was $55 million and $62 million for Q3 2019 and Q3 2020, and $136 million and $421 million for the
-nine months ended September 30, 2019 and 2020, and was primarily related to a lease impairment in Q2 2020 and the amortization of intangible
-assets.
+#### (Principal Executive Officer)
 
 
-#### Interest Income and Expense
+#### Date: October 29, 2020
 
-Our interest income was $224 million and $118 million during Q3 2019 and Q3 2020, and $621 million and $455 million for the nine months
-ended September 30, 2019 and 2020. We generally invest our excess cash in AAA-rated money market funds and investment grade short- to
-intermediate-term fixed income securities. Our interest income corresponds with the average balance of invested funds based on the prevailing
-rates, which vary depending on the geographies and currencies in which they are invested.
 
-Interest expense was $396 million and $428 million during Q3 2019 and Q3 2020, and $1.1 billion and $1.2 billion for the nine months
-ended September 30, 2019 and 2020, and was primarily related to debt and finance leases.
-
-
-#### Other Income (Expense), Net
-
-Other income (expense), net was $(353) million and $925 million during Q3 2019 and Q3 2020, and $(215) million and $1.2 billion for the
-nine months ended September 30, 2019 and 2020. The primary components of other income (expense), net are related to warrant and equity
-securities valuations and adjustments and foreign currency.
-
-
-#### Income Taxes
-
-Our income tax provisions for the nine months ended September 30, 2019 and 2020 were $1.6 billion and $2.3 billion, which included $1.0
-billion and $1.5 billion of net discrete tax benefits primarily attributable to excess tax benefits from stock-based compensation. See Item 1 of Part
-I, “Financial Statements — Note 7 — Income Taxes” for additional information.
-
-
-#### Non-GAAP Financial Measures
-
-Regulation G, Conditions for Use of Non-GAAP Financial Measures, and other SEC regulations define and prescribe the conditions for use
-of certain non-GAAP financial information. Our measures of free cash flows and the effect of foreign exchange rates on our consolidated
-statements of operations meet the definition of non-GAAP financial measures.
-
-We provide multiple measures of free cash flows because we believe these measures provide additional perspective on the impact of
-acquiring property and equipment with cash and through finance leases and financing obligations.
-
-
-#### Free Cash Flow
-
-Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
-The following is a reconciliation of free cash flow to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating
-activities,” for the trailing twelve months ended September 30, 2019 and 2020 (in millions):
-
-
-#### Twelve Months Ended
-
-September 30,
- 
-2019
-2020
-Net cash provided by (used in) operating activities
-$
-35,332 
-$
-55,292 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(11,868)
-(25,791)
-Free cash flow
-$
-23,464 
-$
-29,501
-
-Net cash provided by (used in) investing activities
-$
-(24,317)
-$
-(46,110)
-Net cash provided by (used in) financing activities
-$
-(8,255)
-$
-(2,859)
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Net cash provided by (used in) operating activities | $ | 35,332 |  | $ | 55,292 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (11,868) |  |  | (25,791) |  |
-| Free cash flow | 23,464 |  |  | 29,501 |  |
-| Principal repayments of finance leases | (8,754) |  |  | (11,054) |  |
-| Principal repayments of financing obligations | (129) |  |  | (68) |  |
-| Free cash flow less principal repayments of finance leases and financing obligations | $ | 14,581 |  | $ | 18,379 |
-| Net cash provided by (used in) investing activities | $ | (24,317) |  | $ | (46,110) |
-| Net cash provided by (used in) financing activities | $ | (8,255) |  | $ | (2,859) |
-
-
-### Table 29.2
-
-| Net cash provided by (used in) operating activities | $ | 35,332 |  | $ | 55,292 |
-| --- | --- | --- | --- | --- | --- |
-| Purchases of property and equipment, net of proceeds from sales and incentives | (11,868) |  |  | (25,791) |  |
-| Free cash flow | 23,464 |  |  | 29,501 |  |
-| Equipment acquired under finance leases (1) | (12,580) |  |  | (11,116) |  |
-| Principal repayments of all other finance leases (2) | (302) |  |  | (413) |  |
-| Principal repayments of financing obligations | (129) |  |  | (68) |  |
-| Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations | $ | 10,453 |  | $ | 17,904 |
-| Net cash provided by (used in) investing activities | $ | (24,317) |  | $ | (46,110) |
-| Net cash provided by (used in) financing activities | $ | (8,255) |  | $ | (2,859) |
-
-
-
-#### Table of Contents
-
-Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations
-
-Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by “Principal repayments of
-finance leases” and “Principal repayments of financing obligations.” Principal repayments of finance leases and financing obligations
-approximates the actual payments of cash for our finance leases and financing obligations. The following is a reconciliation of free cash flow less
-principal repayments of finance leases and financing obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used
-in) operating activities,” for the trailing twelve months ended September 30, 2019 and 2020 (in millions):
-
-
-#### Twelve Months Ended
-
-September 30,
- 
-2019
-2020
-Net cash provided by (used in) operating activities
-$
-35,332 
-$
-55,292 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(11,868)
-(25,791)
-Free cash flow
-23,464 
-29,501 
-Principal repayments of finance leases
-(8,754)
-(11,054)
-Principal repayments of financing obligations
-(129)
-(68)
-Free cash flow less principal repayments of finance leases and financing obligations
-$
-14,581 
-$
-18,379
-
-Net cash provided by (used in) investing activities
-$
-(24,317)
-$
-(46,110)
-Net cash provided by (used in) financing activities
-$
-(8,255)
-$
-(2,859)
-
-Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations
-
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash
-flow reduced by equipment acquired under finance leases, which is included in “Property and equipment acquired under finance leases,” principal
-repayments of all other finance lease liabilities, which is included in “Principal repayments of finance leases,” and “Principal repayments of
-financing obligations.” All other finance lease liabilities and financing obligations consists of property. In this measure, equipment acquired under
-finance leases is reflected as if these assets had been purchased with cash, which is not the case as these assets have been leased. The
-following is a reconciliation of free cash flow less equipment finance leases and principal repayments of all other finance leases and financing
-obligations to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating activities,” for the trailing twelve months
-ended September 30, 2019 and 2020 (in millions):
-
-
-#### Twelve Months Ended
-
-September 30,
- 
-2019
-2020
-Net cash provided by (used in) operating activities
-$
-35,332 
-$
-55,292 
-Purchases of property and equipment, net of proceeds from sales and incentives
-(11,868)
-(25,791)
-Free cash flow
-23,464 
-29,501 
-Equipment acquired under finance leases (1)
-(12,580)
-(11,116)
-Principal repayments of all other finance leases (2)
-(302)
-(413)
-Principal repayments of financing obligations
-(129)
-(68)
-Free cash flow less equipment finance leases and principal repayments of all other finance leases and
-financing obligations
-$
-10,453 
-$
-17,904
-
-Net cash provided by (used in) investing activities
-$
-(24,317)
-$
-(46,110)
-Net cash provided by (used in) financing activities
-$
-(8,255)
-$
-(2,859)
-
-___________________
-(1) For the twelve months ended September 30, 2019 and 2020, this amount relates to equipment included in “Property and equipment acquired
-
-under finance leases” of $13,222 million and $13,075 million.
-(2) For the twelve months ended September 30, 2019 and 2020, this amount relates to property included in “Principal repayments of finance
-
-leases” of $8,754 million and $11,054 million.
-
-All of these free cash flows measures have limitations as they omit certain components of the overall cash flow statement and do not
-represent the residual cash flow available for discretionary expenditures. For example, these measures of free cash flows do
-
-
-#### 29
-
-
-## Page 30
-
-### Table 30.1
-
-| Net sales | $ | 69,981 |  | $ | 500 |  | $ | 70,481 |  | $ | 96,145 |  | $ | (691) |  | $ | 95,454 |  | $ | 193,086 |  | $ | 2,440 |  | $ | 195,526 |  | $ | 260,509 |  | $ | 278 |  | $ | 260,787 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Operating expenses | 66,824 |  |  | 522 |  |  | 67,346 |  |  | 89,951 |  |  | (558) |  |  | 89,393 |  |  | 182,424 |  |  | 2,604 |  |  | 185,028 |  |  | 244,483 |  |  | 585 |  |  | 245,068 |  |
-| Operating income | 3,157 |  |  | (22) |  |  | 3,135 |  |  | 6,194 |  |  | (133) |  |  | 6,061 |  |  | 10,662 |  |  | (164) |  |  | 10,498 |  |  | 16,026 |  |  | (307) |  |  | 15,719 |  |
-
-
-
-#### Table of Contents
-
-not incorporate the portion of payments representing principal reductions of debt or cash payments for business acquisitions. Additionally, our
-mix of property and equipment acquisitions with cash or other financing options may change over time. Therefore, we believe it is important to
-view free cash flows measures only as a complement to our entire consolidated statements of cash flows.
-
-
-#### Effect of Foreign Exchange Rates
-
-Information regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and operating
-income is provided to show reported period operating results had the foreign exchange rates remained the same as those in effect in the
-comparable prior year periods. The effect on our net sales, operating expenses, and operating income from changes in our foreign exchange
-rates versus the U.S. Dollar is as follows (in millions):
-
-Three Months Ended September 30,
-Nine Months Ended September 30,
-
-2019
-2020
-2019
-2020
-
-As
-Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-As Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-
-As
-Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-As Reported
-
-
-#### Exchange
-
-Rate
-Effect (1)
-
-
-#### At Prior
-
-Year
-Rates (2)
-Net sales
-$
-69,981 
-$
-500 
-$
-70,481 
-$
-96,145 
-$
-(691)
-$
-95,454 
-$
-193,086 
-$
-2,440 
-$
-195,526 
-$
-260,509 
-$
-278 
-$
-260,787 
-Operating expenses
-66,824 
-522 
-67,346 
-89,951 
-(558)
-89,393 
-182,424 
-2,604 
-185,028 
-244,483 
-585 
-245,068 
-Operating income
-3,157 
-(22)
-3,135 
-6,194 
-(133)
-6,061 
-10,662 
-(164)
-10,498 
-16,026 
-(307)
-15,719
-
-___________________
-(1) Represents the change in reported amounts resulting from changes in foreign exchange rates from those in effect in the comparable prior
-
-year period for operating results.
-(2) Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the
-
-comparable prior year period for operating results.
-
-
-#### 30
+#### 47

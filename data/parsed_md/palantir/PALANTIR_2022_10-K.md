@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2022_10-K
+# Financial Report: PALANTIR_2022_10-K
 
 - **Source File**: `PALANTIR_2022_10-K.pdf`
-- **Total Pages**: 139
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 139
+- **Parsed Key Pages**: 65 (65 selected sections)
 
 ---
 
@@ -1861,353 +1861,4114 @@ Western liberal democracy and its strategic allies. Our decisions to not enter i
 #### 25
 
 
-## Page 26
+## Page 67
 
 
-#### Table of Contents
+#### Customer Impacts
 
-may not produce the long-term ﬁnancial beneﬁts and results that we expect, in which case our growth prospects, business, and results of operations
-could be harmed. Although we endeavor to do business with customers and governments that are aligned with our mission and values, we cannot
-predict how the activities and values of our government and private sector customers will evolve over time, and they may evolve in a manner
-inconsistent with our mission.
-
-We do not work with the Chinese communist party and have chosen not to host our platforms in China, which may limit our growth
-prospects.
-
-Our leadership believes that working with the Chinese communist party is inconsistent with our culture and mission. We do not consider any sales
-opportunities with the Chinese communist party, do not host our platforms in China, and impose limitations on access to our platforms in China in order
-to protect our intellectual property, to promote respect for and defend privacy and civil liberties protections, and to promote data security. Our decision to
-avoid this large potential market may limit our growth prospects and could adversely impact our business, results of operations, and ﬁnancial condition,
-and we may not compete successfully against our current or potential competitors who choose to work in China.
-
-Joint ventures, channel sales relationships, platform partnerships, and strategic alliances may have a material adverse eﬀect on our
-business, results of operations and prospects.
-
-We expect to continue to enter into joint ventures, channel sales relationships (including original equipment manufacturer (“OEM”) and reseller
-relationships), platform partnerships, and strategic alliances as part of our long-term business strategy. Joint ventures, channel sales relationships,
-platform partnerships, strategic alliances, and other similar arrangements involve signiﬁcant investments of both time and resources, and there can be
-no assurances that they will be successful. They may present signiﬁcant challenges and risks, including that they may not advance our business
-strategy, we may get an unsatisfactory return on our investment or lose some or all of our investment, they may distract management and divert
-resources from our core business, including our business development and product development eﬀorts, they may expose us to unexpected liabilities,
-they may conﬂict with our increased sales hiring and direct sales strategy, or we may choose a partner that does not cooperate as we expect them to
-and that fails to meet its obligations or that has economic, business, or legal interests or goals that are inconsistent with ours. For example, in January
-2021, we entered into a channel sales relationship with International Business Machines Corporation (“IBM”), pursuant to which IBM is supplying a new
-product leveraging certain components of Foundry integrated with IBM’s Cloud Pak for Data. In addition, in November 2019, we created a jointly
-controlled entity in Japan with SOMPO Holdings, Inc., in which we subsequently obtained a controlling interest in November 2022. For more information
-see Note 14. Business Combinations in the consolidated ﬁnancial statements included elsewhere in this Annual Report on Form 10-K. We also created
-a jointly-owned entity in South Korea with HD Hyundai Co. Ltd. in December 2022 in which we also have a controlling interest. We believe these
-arrangements oﬀer our business strategic operational advantages within the Japanese and Korean markets, but they also limit our ability to
-independently sell our platforms, provide certain services, engage certain customers, or compete in the Japanese and Korean markets or related
-industry verticals, which in turn limits our opportunities for growth in Japan and Korea and, depending on the success of each respective entity, may
-negatively impact our results. Additionally, in 2016, we entered into a partnership with Airbus that, over time, developed into the Skywise platform
-partnership, which provides our business strategic advantages but also limits our ability to independently provide our platforms to certain airlines and
-companies that compete with Airbus.
-
-Entry into certain joint ventures, channel sales relationships, platform partnerships, or strategic alliances now or in the future may be subject to
-government regulation, including review by U.S. or foreign government entities related to foreign direct investment. If a joint venture or similar
-arrangement were subject to regulatory review, such regulatory review might limit our ability to enter into the desired strategic alliance and thus our
-ability to carry out our long-term business strategy.
-
-As our joint ventures, channel sales relationships, platform partnerships, and strategic alliances come to an end or terminate, we may be unable to
-renew or replace them on comparable terms, or at all. When we enter into joint ventures, channel sales relationships, platform partnerships, and
-strategic alliances, our partners may be required to undertake some portion of sales, marketing, implementation services, engineering services, or
-software conﬁguration that we would otherwise provide. In such cases, our partner may be less successful than we would have otherwise been absent
-the arrangement and our ability to inﬂuence, or have visibility into, the sales, marketing, and related eﬀorts of our partners may be limited. In the event
-we enter into an arrangement with a particular partner, we may be less likely (or unable) to work with one or more direct competitors of our partner with
-which we would have worked absent the arrangement. We may have interests that are diﬀerent from our joint venture partners and/or which may aﬀect
-our ability to successfully collaborate with a given partner. Similarly, one or more of our partners in a joint venture, channel sales relationship, platform
-partnership, or strategic alliance may independently suﬀer a bankruptcy or other economic hardship that negatively aﬀects its ability to continue as a
-going concern or successfully perform on its obligation under the arrangement. In addition, customer satisfaction with our products provided in
-connection with these arrangements may be less favorable than anticipated, negatively impacting anticipated revenue growth and results of operations
-of arrangements in question. Further, some of our strategic partners oﬀer competing products and services or work with our competitors. As a result of
-these and other factors, many of the companies with which we have or are seeking joint ventures, channel sales relationships, platform partnerships, or
-strategic alliances may choose to pursue alternative technologies and
+Current macroeconomic conditions may also adversely impact our customers’ business, particularly our early- and growth-stage customers.
+Relationships with early- or growth-stage customers carry inherent risks because, among other things, such customers may be unable to generate
+suﬃcient revenues or proﬁtability or to access any necessary ﬁnancing or funding in a timely manner or on favorable terms to them in the current
+macroeconomic environment, which has impacted, and may continue to impact, our expected revenue and collections. As a result, current
+macroeconomic conditions may continue to impact our ability to realize the full value of our commercial contracts with such early- or growth-stage
+customers. For additional information see Note 4. Investments and Fair Value Measurements  in the consolidated ﬁnancials statements included
+elsewhere in this Annual Report on Form 10-K.
 
 
-#### 26
+#### Key Business Measure
+
+In addition to the measures presented in our consolidated ﬁnancial statements, we use the following key non-GAAP business measure to help us
+evaluate our business, identify trends affecting our business, formulate business plans and financial projections, and make strategic decisions.
 
 
-## Page 27
+#### Contribution Margin
+
+We believe that the revenue we generate relative to the costs we incur in order to generate such revenue is an important measure of the eﬃciency of
+our business. We deﬁne contribution margin as revenue less our cost of revenue and sales and marketing expenses, excluding stock-based
+compensation, divided by revenue.
+
+Revenue is allocated to each customer account directly. The cost of revenue and sales and marketing costs include both the costs associated with the
+deployment and operation of our software as well as expenses associated with identifying new customers and expanding partnerships with existing
+ones. Our software engineers working with existing customers often manage the deployment and operation of our platforms as well as identify new
+ways that those platforms can be used. To calculate the contribution by segment, we allocate cost of revenue and sales and marketing expenses,
+excluding stock-based compensation, to an account pro rata based on headcount and time spent on the account during the period. To the extent certain
+costs or personnel are not directly assigned to a speciﬁc account, they are allocated pro rata based on total headcount staﬀed during such period.
+Direct costs, such as third-party cloud hosting services, are directly allocated to the account to which they relate. Allocated revenues and expenses are
+then aggregated into a segment based upon the customer account to which they relate.
+
+Contribution margin, both across our business and segments, is intended to capture how much we have earned from customers after accounting for the
+costs associated with deploying and operating our software, as well as any sales and marketing expenses involved in acquiring and expanding our
+partnerships with those customers, including allocated overhead. We exclude stock-based compensation as it is a non-cash expense.
+
+We believe that our contribution margin provides an important measure of the eﬃciency of our operations over time. We have included contribution
+margin because it is a key measure used by our management to evaluate our performance, and we believe that it also provides useful information to
+investors and others in understanding and evaluating our operating results in the same manner as our management team. Our calculation of
+contribution margin may diﬀer from similarly titled measures, if any, reported by other companies. Contribution margin should not be considered in
+isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+
+For more information about contribution margin, including the limitations of this measure, and a reconciliation to loss from operations, see the section
+titled “Non-GAAP Reconciliations” below.
 
 
-#### Table of Contents
+#### Non-GAAP Reconciliations
 
-develop alternative products and services in addition to or in lieu of our platforms, either on their own or in collaboration with others, including our
-competitors. If we are unsuccessful in establishing or maintaining our relationships with these partners, our ability to compete in a given marketplace or
-to grow our revenue would be impaired, and our results of operations may suﬀer. Even if we are successful in establishing and maintaining these
-relationships with our partners, we cannot assure you that these relationships will result in increased customer usage of our platforms or increased
-revenue. Additionally, if our partners’ brand, reputation, or products are negatively impacted in any way, that could impact our expected outcomes in
-those markets.
+We use the non-GAAP measures contribution margin; gross proﬁt and gross margin, excluding stock-based compensation; and adjusted income from
+operations, which excludes stock-based compensation and related employer payroll taxes to help us evaluate our business, identify trends aﬀecting our
+business, formulate business plans and ﬁnancial projections, and make strategic decisions. We exclude stock-based compensation, which is a non-
+cash expense, from these non-GAAP ﬁnancial measures because we believe that excluding this item provides meaningful supplemental information
+regarding operational performance and provides useful information to investors and others in understanding and evaluating our operating results in the
+same manner as our management team. Additionally, we exclude employer payroll taxes related to stock-based compensation as it is diﬃcult to predict
+and outside of our control.
 
-Further, winding down joint ventures, channel sales relationships, platform partnerships, or other strategic alliances can result in additional costs,
-litigation, and negative publicity. Any of these events could adversely aﬀect our business, ﬁnancial condition, results of operations, and growth
-prospects.
 
-If we are not successful in executing our sales strategy, our results of operations may suffer.
+#### 67
 
-An important part of our growth strategy is to increase sales of our platforms to large enterprises and government entities. Sales to large enterprises and
-government entities involve risks that may not be present (or that are present to a lesser extent) with sales to small-to-mid-sized entities. These risks
-include:
+
+## Page 68
+
+### Table 68.1
+
+| Loss from operations | $ | (161,201) |  | $ | (411,046) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Add: |  |  |  |  |  |  |
+| Research and development expenses (1) | 265,808 |  |  | 237,189 |  |  |
+| General and administrative expenses (1) | 365,768 |  |  | 295,071 |  |  |
+| Total stock-based compensation expense | 564,798 |  |  | 778,215 |  |  |
+| Total contribution | $ | 1,035,173 |  | $ | 899,429 |  |
+| Contribution margin | 54 |  | % | 58 |  | % |
+
+
+### Table 68.2
+
+| Gross profit | $ | 1,497,322 |  | $ | 1,202,485 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Add: stock-based compensation | 44,061 |  |  | 68,546 |  |  |
+| Gross profit, excluding stock-based compensation | $ | 1,541,383 |  | $ | 1,271,031 |  |
+| Gross margin, excluding stock-based compensation | 81 |  | % | 82 |  | % |
+
+
+### Table 68.3
+
+| Loss from operations | $ | (161,201) |  | $ | (411,046) |
+| --- | --- | --- | --- | --- | --- |
+| Add: stock-based compensation | 564,798 |  |  | 778,215 |  |
+| Add: employer payroll taxes related to stock-based compensation | 17,156 |  |  | 106,283 |  |
+| Adjusted income from operations | $ | 420,753 |  | $ | 473,452 |
+
+
+Our deﬁnitions may diﬀer from the deﬁnitions used by other companies and therefore comparability may be limited. In addition, other companies may
+not publish these or similar metrics. Further, these metrics have certain limitations, as they do not include the impact of certain expenses that are
+reﬂected in our consolidated statement of operations. Thus, our non-GAAP contribution margin; gross proﬁt and gross margin, excluding stock-based
+compensation; and adjusted income from operations should be considered in addition to, not as a substitute for, or in isolation from, measures prepared
+in accordance with GAAP.
+
+We compensate for these limitations by providing reconciliations of these non-GAAP measures to the most comparable GAAP measures. We
+encourage investors and others to review our business, results of operations, and ﬁnancial information in its entirety, not to rely on any single ﬁnancial
+measure, and to view these non-GAAP measures in conjunction with the most directly comparable GAAP financial measures.
+
+
+#### Contribution Margin
+
+The following table provides a reconciliation of contribution margin for the years ended December 31, 2022 and 2021 (in thousands, except
+percentages):
+
+Years Ended December 31,
+2022
+2021
+Loss from operations
+$
+(161,201)
+$
+(411,046)
+Add:
+Research and development expenses
+265,808 
+237,189 
+General and administrative expenses 
+365,768 
+295,071 
+Total stock-based compensation expense
+564,798 
+778,215 
+Total contribution
+$
+1,035,173 
+$
+899,429
+
+Contribution margin
+54 %
+58 %
+
+
+#### ————
+
+Excludes stock-based compensation.
+
+
+#### Gross Profit and Gross Margin, Excluding Stock-Based Compensation
+
+The following table provides a reconciliation of gross proﬁt and gross margin, excluding stock-based compensation for the years ended December 31,
+2022 and 2021 (in thousands, except percentages):
+
+Years Ended December 31,
+2022
+2021
+Gross profit
+$
+1,497,322 
+$
+1,202,485 
+Add: stock-based compensation
+44,061 
+68,546 
+Gross profit, excluding stock-based compensation
+$
+1,541,383 
+$
+1,271,031
+
+Gross margin, excluding stock-based compensation
+81 %
+82 %
+
+
+#### Adjusted Income from Operations
+
+The following table provides a reconciliation of adjusted income from operations, which excludes stock-based compensation and related employer
+payroll taxes for the years ended December 31, 2022 and 2021 (in thousands):
+
+Years Ended December 31,
+2022
+2021
+Loss from operations
+$
+(161,201)
+$
+(411,046)
+Add: stock-based compensation
+564,798 
+778,215 
+Add: employer payroll taxes related to stock-based compensation
+17,156 
+106,283
+
+Adjusted income from operations
+$
+420,753 
+$
+473,452
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 68
+
+
+## Page 69
+
+
+#### Components of Results of Operations
+
+
+#### Revenue
+
+We generate revenue from the sale of subscriptions to access our software in our hosted environment along with ongoing O&M services (“Palantir
+Cloud”), software subscriptions in our customers’ environments with ongoing O&M services (“On-Premises Software”), and professional services.
+
+
+#### Palantir Cloud
+
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir and are
+sold together with stand-ready O&M services, as further described below. We promise to provide continuous access to the hosted software throughout
+the contract term. Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term on a ratable basis, which is
+consistent with the transfer of control of the Palantir services to the customer.
+
+
+#### On-Premises Software
+
+Sales of our software subscriptions grant customers the right to use functional intellectual property, either on their internal hardware infrastructure or on
+their own cloud instance, over the contractual term and are also sold together with stand-ready O&M services. O&M services include critical updates
+and support and maintenance services required to operate the software and, as such, are necessary for the software to maintain its intended utility over
+the contractual term. Because of this requirement, we have concluded that the software subscriptions and O&M services, which together we refer to as
+our On-Premises Software, are highly interdependent and interrelated and represent a single distinct performance obligation within the context of the
+contract. Revenue is generally recognized over the contract term on a ratable basis.
+
+
+#### Professional Services
+
+Our professional services support the customers’ use of the software and include, as needed, on-demand user support, user-interface conﬁguration,
+training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of on-demand professional
+services for the duration of the contractual term. These services are typically coterminous with a Palantir Cloud or On-Premises Software subscriptions.
+Professional services are on-demand, whereby we perform services throughout the contract period; therefore, the revenue is recognized over the
+contractual term.
+
+
+#### Cost of Revenue
+
+Cost of revenue primarily includes salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing O&M and
+professional services, as well as field service representatives, third-party cloud hosting services, travel costs, allocated overhead, and other direct costs.
+
+We expect that cost of revenue will increase in absolute dollars as our revenue grows and will vary from period to period as a percentage of revenue.
+
+
+#### Sales and Marketing
+
+Our sales and marketing eﬀorts span all stages of our sales cycle, including personnel involved with sales functions, and executing pilots at new or
+existing customers. Sales and marketing costs primarily include salaries, stock-based compensation expense, and beneﬁts for our sales force and
+personnel involved in sales functions, executing on pilots and customer growth activities; as well as third-party cloud hosting services for our pilots,
+marketing and sales event-related costs, travel costs, and allocated overhead. Sales and marketing costs are generally expensed as incurred.
+
+We expect that sales and marketing expenses will increase in absolute dollars as we continue to invest in our potential and current customers, in
+growing our business, sales force, and enhancing our brand awareness.
+
+
+#### Research and Development
+
+Our research and development eﬀorts are aimed at continuing to develop and reﬁne our platforms, including adding new features and modules,
+increasing their functionality, and enhancing the usability of our platforms. Research and development costs primarily include salaries, stock-based
+compensation expense, and benefits for personnel involved in performing the activities to develop and refine our platforms, internal use third-party cloud
+hosting services and other IT-related costs, travel costs, and allocated overhead. Research and development costs are expensed as incurred.
+
+
+#### 69
+
+
+## Page 70
+
+We plan to continue to invest in personnel to support our research and development eﬀorts. As a result, we expect that research and development
+expenses will increase in absolute dollars for the foreseeable future as we continue to invest to support these activities.
+
+
+#### General and Administrative
+
+General and administrative costs include salaries, stock-based compensation expense, and beneﬁts for personnel involved in our executive, ﬁnance,
+legal, human resources, and administrative functions, as well as third-party professional services and fees, travel costs, and allocated overhead.
+
+We expect that general and administrative expenses will increase in absolute dollars as we hire additional personnel and enhance our systems,
+processes, and controls to support the growth in our business as well as our increased compliance and reporting requirements as a public company.
+
+
+#### Interest Income
+
+Interest income consists primarily of interest income earned on our cash, cash equivalents, and restricted cash balances.
+
+
+#### Interest Expense
+
+Interest expense consists primarily of interest expense and commitment fees incurred under our credit facility.
+
+
+#### Other Income (Expense), Net
+
+Other income (expense), net consists primarily of foreign currency exchange gains and losses, realized and unrealized losses from Investments, and
+our share of income and losses from our equity method investments. The year ended December 31, 2022 also included a gain from a step acquisition.
+
+
+#### Provision for (Benefit from) Income Taxes
+
+Provision for (beneﬁt from) income taxes consists of income taxes related to foreign and state jurisdictions in which we conduct business and
+withholding taxes.
+
+
+#### Net Income (Loss) Attributable to Noncontrolling Interests
+
+Net income (loss) attributable to noncontrolling interests represents our joint venture partners’ proportionate share of the results of operations of the
+respective joint venture.
+
+
+#### Segments
+
+We have two operating segments, commercial and government, which were determined based on the manner in which the chief operating decision
+maker (“CODM”), who is our chief executive oﬃcer, manages our operations for purposes of allocating resources and evaluating performance. Various
+factors, including our organizational and management reporting structure and customer type, were considered in determining these operating segments.
+
+
+#### Our operating segments are described below:
 
 •
-increased leverage held by large customers in negotiating contractual arrangements with us;
+Commercial: This segment primarily serves customers working in non-government industries.
 
 •
-changes in key decision makers within these organizations that may negatively impact our ability to negotiate in the future;
+Government: This segment primarily serves customers that are U.S. government and non-U.S. government agencies.
+
+Segment proﬁtability is evaluated based on contribution and contribution margin. Contribution is segment revenue less the related costs of revenue and
+sales and marketing expenses, excluding stock-based compensation expense. Contribution margin is contribution divided by revenue. To the extent
+costs of revenue or sales and marketing expenses are not directly attributable to a particular segment, they are allocated based upon headcount at each
+operating segment during the period. We use it, in part, to evaluate the performance of, and allocate resources to, each of our operating segments,
+which excludes certain operating expenses that are not allocated to operating segments because they are separately managed at the consolidated
+corporate level. These unallocated costs include stock-based compensation expense, research and development costs, and general and administrative
+costs, such as legal and accounting.
+
+
+#### 70
+
+
+## Page 71
+
+### Table 71.1
+
+| Revenue | $ | 1,905,871 |  | $ | 1,541,889 |  | $ 1,092,673 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of revenue (1) | 408,549 |  |  | 339,404 |  |  | 352,547 |
+| Gross profit | 1,497,322 |  |  | 1,202,485 |  |  | 740,126 |
+| Operating expenses: |  |  |  |  |  |  |  |
+| Sales and marketing (1) | 702,511 |  |  | 614,512 |  |  | 683,701 |
+| Research and development (1) | 359,679 |  |  | 387,487 |  |  | 560,660 |
+| General and administrative (1) | 596,333 |  |  | 611,532 |  |  | 669,444 |
+| Total operating expenses | 1,658,523 |  |  | 1,613,531 |  |  | 1,913,805 |
+| Loss from operations | (161,201) |  |  | (411,046) |  |  | (1,173,679) |
+| Interest income | 20,309 |  |  | 1,607 |  |  | 4,680 |
+| Interest expense | (4,058) |  |  | (3,640) |  |  | (14,139) |
+| Other income (expense), net | (216,077) |  |  | (75,415) |  |  | 4,111 |
+| Loss before provision for (benefit from) income taxes | (361,027) |  |  | (488,494) |  |  | (1,179,027) |
+| Provision for (benefit from) income taxes | 10,067 |  |  | 31,885 |  |  | (12,636) |
+| Net loss | (371,094) |  |  | (520,379) |  |  | (1,166,391) |
+| Less: Net income attributable to noncontrolling interests | 2,611 |  |  | — |  |  | — |
+| Net loss attributable to common stockholders | $ | (373,705) |  | $ | (520,379) |  | $ (1,166,391) |
+
+
+### Table 71.2
+
+| Cost of revenue | $ | 44,061 |  | $ | 68,546 | $ | 139,627 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Sales and marketing | 196,301 |  |  | 242,910 |  | 398,205 |  |
+| Research and development | 93,871 |  |  | 150,298 |  | 357,063 |  |
+| General and administrative | 230,565 |  |  | 316,461 |  | 375,807 |  |
+| Total stock-based compensation expense (i) | $ | 564,798 |  | $ | 778,215 | $ | 1,270,702 |
+
+
+
+#### Results of Operations
+
+The following table summarizes our consolidated statements of operations data (in thousands):
+
+Years Ended December 31,
+2022
+2021
+2020
+Revenue
+$
+1,905,871 $
+1,541,889 $
+1,092,673 
+Cost of revenue
+408,549 
+339,404 
+352,547 
+Gross profit
+1,497,322 
+1,202,485 
+740,126 
+Operating expenses:
+
+Sales and marketing
+702,511 
+614,512 
+683,701 
+Research and development
+359,679 
+387,487 
+560,660 
+General and administrative
+596,333 
+611,532 
+669,444 
+Total operating expenses
+1,658,523 
+1,613,531 
+1,913,805 
+Loss from operations
+(161,201)
+(411,046)
+(1,173,679)
+Interest income
+20,309 
+1,607 
+4,680 
+Interest expense
+(4,058)
+(3,640)
+(14,139)
+Other income (expense), net
+(216,077)
+(75,415)
+4,111 
+Loss before provision for (benefit from) income taxes
+(361,027)
+(488,494)
+(1,179,027)
+Provision for (benefit from) income taxes
+10,067 
+31,885 
+(12,636)
+Net loss
+(371,094)
+(520,379)
+(1,166,391)
+Less: Net income attributable to noncontrolling interests
+2,611 
+— 
+— 
+Net loss attributable to common stockholders
+$
+(373,705)
+$
+(520,379)
+$
+(1,166,391)
+
+
+#### ————
+
+
+#### Includes stock-based compensation expense as follows (in thousands):
+
+Years Ended December 31,
+2022
+2021
+2020
+Cost of revenue
+$
+44,061 
+$
+68,546 
+$
+139,627 
+Sales and marketing
+196,301 
+242,910 
+398,205 
+Research and development
+93,871 
+150,298 
+357,063 
+General and administrative
+230,565 
+316,461 
+375,807 
+Total stock-based compensation expense 
+$
+564,798 
+$
+778,215 
+$
+1,270,702
+
+————
+(i) On September 30, 2020, in connection with our Direct Listing, we incurred $769.5 million and $8.4 million of stock-based compensation using the accelerated attribution
+
+method related to the satisfaction of the performance-based vesting condition for RSUs and growth units, respectively, that had satisﬁed the service-based vesting condition
+as of such date.
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (i)
+
+
+#### 71
+
+
+## Page 72
+
+### Table 72.1
+
+| Revenue | 100 | % |  | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of revenue | 21 |  |  | 22 |  |  | 32 |  |
+| Gross profit | 79 |  |  | 78 |  |  | 68 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |
+| Sales and marketing | 37 |  |  | 40 |  |  | 63 |  |
+| Research and development | 19 |  |  | 25 |  |  | 51 |  |
+| General and administrative | 31 |  |  | 40 |  |  | 61 |  |
+| Total operating expenses | 87 |  |  | 105 |  |  | 175 |  |
+| Loss from operations | (8) |  |  | (27) |  |  | (107) |  |
+| Interest income | 1 |  |  | — |  |  | — |  |
+| Interest expense | — |  |  | — |  |  | (1) |  |
+| Other income (expense), net | (12) |  |  | (5) |  |  | — |  |
+| Loss before provision for (benefit from) income taxes | (19) |  |  | (32) |  |  | (108) |  |
+| Provision for (benefit from) income taxes | 1 |  |  | 2 |  |  | (1) |  |
+| Net loss | (20) |  |  | (34) |  |  | (107) |  |
+| Less: Net income attributable to noncontrolling interests | — |  |  | — |  |  | — |  |
+| Net loss attributable to common stockholders | (20) | % |  | (34) | % |  | (107) | % |
+
+
+### Table 72.2
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Government | $ | 1,071,776 |  | $ | 897,356 |  | $ | 174,420 |  | 19 | % |
+| Commercial | 834,095 |  |  | 644,533 |  |  | 189,562 |  |  | 29 | % |
+| Total revenue | $ | 1,905,871 |  | $ | 1,541,889 |  | $ | 363,982 |  | 24 | % |
+
+
+The following table sets forth the components of our consolidated statements of operations data as a percentage of revenue:
+
+Years Ended December 31,
+2022
+2021
+2020
+Revenue
+100 %
+100 %
+100 %
+Cost of revenue
+21 
+22 
+32 
+Gross profit
+79 
+78 
+68 
+Operating expenses:
+
+Sales and marketing
+37 
+40 
+63 
+Research and development
+19 
+25 
+51 
+General and administrative
+31 
+40 
+61 
+Total operating expenses
+87 
+105 
+175 
+Loss from operations
+(8)
+(27)
+(107)
+Interest income
+1 
+— 
+— 
+Interest expense
+— 
+— 
+(1)
+Other income (expense), net
+(12)
+(5)
+— 
+Loss before provision for (benefit from) income taxes
+(19)
+(32)
+(108)
+Provision for (benefit from) income taxes
+1 
+2 
+(1)
+Net loss
+(20)
+(34)
+(107)
+Less: Net income attributable to noncontrolling interests
+— 
+— 
+— 
+Net loss attributable to common stockholders
+(20)%
+(34)%
+(107)%
+
+
+#### Comparison of the Years Ended December 31, 2022 and 2021
+
+
+#### Revenue
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+%
+Revenue:
+
+Government
+$
+1,071,776 $
+897,356 
+$
+174,420 
+19 %
+Commercial
+834,095 
+644,533 
+189,562 
+29 %
+Total revenue
+$
+1,905,871 $
+1,541,889 $
+363,982 
+24 %
+
+Revenue increased by $364.0 million, or 24%, for the year ended December 31, 2022 compared to 2021. Revenue from government customers
+increased by $174.4 million, or 19%, for the year ended December 31, 2022 compared to 2021, primarily from customers in the United States. Revenue
+growth slowed compared to the prior year as a result of increased delays in the completion of the U.S. government budgeting process when compared
+to their budgeting process in the prior year. Of the increase, $151.1 million was from government customers existing as of December 31, 2021.
+Generally, increases in revenue from our existing customers are a result of expanded use of our products and services within their organizations.
+Revenue from U.S. government customers was $826.3 million for the year ended December 31, 2022 compared to $678.2 million for the same period
+in 2021. Revenue from commercial customers increased by $189.6 million, or 29%, for the year ended December 31, 2022 compared to 2021. Of the
+increase, $96.8 million was from new customers as of December 31, 2021, of which $27.0 million was revenue from customers with which we had
+entered into concurrent Investment Agreements. See Note 4. Investments and Fair Value Measurements  in our consolidated ﬁnancial statements
+included elsewhere in this Annual Report on Form 10-K for additional information.
+
+
+#### 72
+
+
+## Page 73
+
+### Table 73.1
+
+| Cost of revenue | $ | 408,549 |  |  | $ 339,404 |  |  | $ | 69,145 |  | 20 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gross profit | 1,497,322 |  |  |  | 1,202,485 |  |  | 294,837 |  |  | 25 | % |
+| Gross margin | 79 |  | % |  | 78 | % |  |  |  |  |  |  |
+
+
+### Table 73.2
+
+| Sales and marketing | $ | 702,511 | $ | 614,512 |  | $ | 87,999 |  | 14 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development | 359,679 |  | 387,487 |  |  | (27,808) |  |  | (7) | % |
+| General and administrative | 596,333 |  | 611,532 |  |  | (15,199) |  |  | (2) | % |
+| Total operating expenses | $ | 1,658,523 | $ | 1,613,531 |  | $ | 44,992 |  | 3 | % |
+
+
+
+#### Cost of Revenue and Gross Profit
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+%
+Cost of revenue
+$
+408,549 
+$
+339,404 
+$
+69,145 
+20 %
+Gross profit
+1,497,322 
+1,202,485 
+294,837 
+25 %
+Gross margin
+79 %
+78 %
+
+Cost of revenue for the year ended December 31, 2022 increased by $69.1 million, or 20%, compared to 2021. The increase was primarily due to
+increases of $33.0 million in third-party cloud hosting services driven by increased usage from customer growth and expansion, $29.4 million in ﬁeld
+service representatives mainly related to new projects, $18.1 million in payroll and other payroll-related costs as a result of increased headcount
+attributable to our cost of revenue function, and $11.9 million in travel and office-related costs. The increases were partially offset by a decrease of $31.0
+million in stock-based compensation expense and related expenses. For additional information, see the section titled “Stock-Based Compensation”
+below.
+
+Our gross margin for the year ended December 31, 2022 increased by 1% compared to 2021. Gross margin increased as a result of revenue growth
+outpacing costs of revenue. The primary cause of this growth rate variation was the decrease in stock-based compensation expense and related
+expenses in cost of revenue relative to total expense growth as compared to the prior year.
+
+
+#### Operating Expenses
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+%
+Sales and marketing
+$
+702,511 
+$
+614,512 
+$
+87,999 
+14 %
+Research and development
+359,679 
+387,487 
+(27,808)
+(7)%
+General and administrative
+596,333 
+611,532 
+(15,199)
+(2)%
+Total operating expenses
+$
+1,658,523 $
+1,613,531 
+$
+44,992 
+3 %
+
+
+#### Sales and Marketing
+
+Sales and marketing expenses increased by $88.0 million, or 14%, for the year ended December 31, 2022 compared to 2021. The increase was
+primarily due to increases of $93.1 million in payroll and other payroll-related costs driven by increased headcount attributable to our sales and
+marketing function, $36.3 million in travel and office-related costs, and $23.5 million in marketing and advertising expenses. The increases were partially
+oﬀset by a decrease of $81.3 million in stock-based compensation expense and related expenses. For additional information, see the section titled
+“Stock-Based Compensation” below.
+
+
+#### Research and Development
+
+Research and development expenses decreased by $27.8 million, or 7%, for the year ended December 31, 2022 compared to 2021. The decrease was
+primarily due to a decrease of $75.1 million in stock-based compensation expense and related expenses. For additional information, see the section
+titled “Stock-Based Compensation” below. The decrease was partially oﬀset by increases of $22.8 million in payroll and other payroll-related costs
+driven by increased headcount attributable to our research and development function, $12.0 million in travel and office-related costs, and $11.6 million in
+third-party cloud hosting services and other IT costs driven by increased usage to support customer growth and expansion, as well as other IT costs to
+support company growth.
+
+
+#### General and Administrative
+
+General and administrative expenses decreased by $15.2 million, or 2%, for the year ended December 31, 2022 compared to 2021. The decrease was
+primarily due to a decrease of $113.0 million in stock-based compensation expense and related expenses. For additional information see the section
+titled “Stock-Based Compensation” below. This decrease was partially offset by increases of $34.1 million in travel and office-related costs, $28.9 million
+in payroll and other payroll-related costs driven by increased headcount attributable to our general and administrative functions, $15.0 million in
+professional service fees mainly related to legal and financial services, and a $10.1 million allowance for credit losses.
+
+
+#### 73
+
+
+## Page 74
+
+### Table 74.1
+
+| Cost of revenue | $ | 44,061 |  | $ | 68,546 |  | $ | (24,485) |  | (36) | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sales and marketing | 196,301 |  |  | 242,910 |  |  | (46,609) |  |  | (19) | % |
+| Research and development | 93,871 |  |  | 150,298 |  |  | (56,427) |  |  | (38) | % |
+| General and administrative | 230,565 |  |  | 316,461 |  |  | (85,896) |  |  | (27) | % |
+| Total stock-based compensation expense | $ | 564,798 |  | $ | 778,215 |  | $ | (213,417) |  | (27) | % |
+
+
+### Table 74.2
+
+| Interest income $ | 20,309 | $ 1,607 | $ | 18,702 |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 74.3
+
+| Interest expense $ | (4,058) | $ (3,640) | $ | (418) |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 74.4
+
+| Other income (expense), net | $ (216,077) | $ (75,415) | $ | (140,662) |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 74.5
+
+| Provision for income taxes | $ 10,067 | $ 31,885 | $ | (21,818) |
+| --- | --- | --- | --- | --- |
+
+
+
+
+#### Stock-Based Compensation
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+%
+Cost of revenue
+$
+44,061 $
+68,546 $
+(24,485)
+(36)%
+Sales and marketing
+196,301 
+242,910 
+(46,609)
+(19)%
+Research and development
+93,871 
+150,298 
+(56,427)
+(38)%
+General and administrative
+230,565 
+316,461 
+(85,896)
+(27)%
+Total stock-based compensation expense
+$
+564,798 
+$
+778,215 
+$
+(213,417)
+(27)%
+
+Stock-based compensation expenses decreased by $213.4 million, or 27%, for the year ended December 31, 2022 compared to 2021. The decrease
+was primarily driven by forfeitures and lower expense under the accelerated attribution method for RSUs granted prior to September 30, 2020, the date
+of our Direct Listing, during the year ended December 31, 2022 compared to the same period in 2021, partially oﬀset by an increase related to awards
+granted after December 31, 2021.
+
+
+#### Interest Income
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+Interest income
+$
+20,309 $
+1,607 $
+18,702
+
+Interest income increased by $18.7 million for the year ended December 31, 2022 compared to 2021 primarily due to an increase in U.S. interest rates
+on interest earned from our cash, cash equivalents, and restricted cash.
+
+
+#### Interest Expense
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+Interest expense
+$
+(4,058) $
+(3,640) $
+(418)
+
+Interest expense increased by $0.4 million for the year ended December 31, 2022 compared to 2021 driven by the amendments to our credit facility
+during the year.
+
+
+#### Other Income (Expense), Net
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+Other income (expense), net
+$
+(216,077)
+$
+(75,415) $
+(140,662)
+
+Other income (expense), net changed by $140.7 million for the year ended December 31, 2022 compared to 2021 primarily due to $272.1 million of net
+unrealized and realized losses from our investments in marketable securities, partially oﬀset by a $44.3 million gain from a “step acquisition” (as deﬁned
+by U.S. GAAP). For additional information see Note 4. Investments and Fair Value Measurements  and Note 14. Business Combinations in our
+consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+
+#### Provision for Income Taxes
+
+Years Ended December 31,
+Change
+2022
+2021
+Amount
+Provision for income taxes
+$
+10,067 $
+31,885 $
+(21,818)
+
+Provision for income taxes decreased by $21.8 million for the year ended December 31, 2022 compared to 2021 primarily due to the prior year
+establishment of a full valuation allowance against its U.K. deferred tax assets during the fourth quarter of 2021 partially oﬀset by permanent diﬀerences
+associated with U.S. Base Erosion and Anti Abuse Tax elections. The Company maintains a full valuation allowance against its U.S. federal and state
+and U.K. deferred tax assets. For additional information see Note 11. Income Taxes in our consolidated ﬁnancial statements included elsewhere in this
+Annual Report on Form 10-K.
+
+
+#### 74
+
+
+## Page 77
+
+
+#### Revenue Recognition
+
+We generate revenue from the sale of subscriptions to access our software Palantir Cloud and On-Premises Software, with ongoing O&M services and
+professional services.
+
+In accordance with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers , we recognized revenue upon the transfer
+of promised goods or services to customers in an amount that reﬂects the consideration to which we expect to be entitled in exchange for promised
+goods or services. We apply the following five-step revenue recognition model in accounting for our revenue arrangements:
 
 •
-customer IT departments may perceive that our platforms and services pose a threat to their internal control and advocate for legacy or
-internally developed solutions over our platforms;
+identiﬁcation of the contract(s) with the customer, including whether collectability of the consideration is probable by considering the customers’
+ability and intention to pay;
 
 •
-resources may be spent on a potential customer that ultimately elects not to purchase our platforms and services;
+identification of the performance obligations in the contract;
 
 •
-more stringent requirements in our service contracts, including stricter service response times, and increased penalties for any failure to meet
-service requirements;
+determination of the transaction price;
 
 •
-increased competition from larger competitors, such as defense contractors, system integrators, or large software and service companies that
-traditionally target large enterprises and government entities and that may already have purchase commitments from those customers; and
+allocation of the transaction price to the performance obligations in the contract; and
 
 •
-less predictability in completing some of our sales than we do with smaller customers.
+recognition of revenue when, or as, we satisfy a performance obligation.
 
-Large enterprises and government entities often undertake a signiﬁcant evaluation process that results in a lengthy sales cycle, in some cases over
-twelve months, requiring approvals of multiple management personnel and more technical personnel than would be typical of a smaller organization.
-Due to the length, size, scope, and stringent requirements of these evaluations, we typically provide short-term pilot deployments of our platforms at no
-or low cost initially. We sometimes spend substantial time, eﬀort, and money in our sales eﬀorts without producing any sales. The success of the
-investments that we make in the earlier stages of our sales cycle depends on factors such as our ability to identify potential customers for which our
-platforms have an opportunity to add signiﬁcant value to the customer’s organization, our ability to identify and agree with the potential customer on an
-appropriate pilot deployment to demonstrate the value of our platforms, and whether we successfully execute on such pilot deployment. Even if the pilot
-deployment is successful, we or the customer could choose not to enter into a larger contract for a variety of reasons. For example, product purchases
-by large enterprises and government entities are frequently subject to budget constraints, leadership changes, multiple approvals, and unplanned
-administrative, processing, and other delays, any of which could signiﬁcantly delay or entirely prevent our realization of sales. Finally, large enterprises
-and government entities typically (i) have longer implementation cycles, (ii) require greater product functionality and scalability and a broader range of
-services, including design services, (iii) demand that vendors take on a larger share of risks, (iv) sometimes require acceptance provisions that can lead
-to a delay in revenue recognition, (v) typically have more complex IT and data environments, and (vi) expect greater payment ﬂexibility from vendors.
-Customers, and sometimes we, may also engage third parties to be the users of our platforms, which may result in contractual complexities and risks,
-require additional investment of time and human resources to train the third parties and allow third parties (who may be building competitive projects or
-engaging in other competitive activities) to inﬂuence our customers’ perception of our platforms. All these factors can add further risk to business
-conducted with these customers. If sales expected from a large customer for a particular quarter are not realized in that quarter or at all, our business,
-financial condition, results of operations, and growth prospects could be materially and adversely affected.
-
-In addition, part of our growth strategy involves supporting a broader set of potential customers. Sales to such customers involve risks that vary from
-those present with sales to large or otherwise established organizations, due to their limited operating history, limited resources for adopting new
-technologies, and uncertain resources for future operations, among other things. Accordingly, we will continue to reﬁne our business strategy and
-pricing structures to attract and retain such customers,
+Each of our significant performance obligations and our application of ASC 606 to our revenue arrangements is discussed in further detail below.
 
 
-#### 27
+#### Palantir Cloud
+
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir and are
+also sold together with stand-ready O&M services. We promise to provide continuous access to the hosted software throughout the contract term.
+Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term on a ratable basis, which is consistent with the
+transfer of control of the Palantir Cloud services to the customer.
 
 
-## Page 28
+#### On-Premises Software
+
+Sales of our software subscriptions grant customers the right to use functional intellectual property, either on their internal hardware infrastructure or on
+their own cloud instance, over the contractual term and are sold together with stand-ready O&M services. The O&M services include critical updates,
+support, and maintenance services required to operate our software and, as such, are necessary for our software to maintain its intended utility over the
+contractual term. Because of this requirement, we have concluded that the software subscriptions and O&M services, which together we refer to as our
+On-Premises Software, are highly interdependent and interrelated and represent a single distinct performance obligation within the context of the
+contract. Revenue is generally recognized over the contract term on a ratable basis.
 
 
-#### Table of Contents
+#### Professional Services
 
-as well as existing and larger customers across the potential customer base. There is no guarantee that our existing or proposed business strategies,
-including subscription-based or usage-based pricing structures, will achieve broad adoption by current or prospective customers or be appropriately
-structured to attract and retain other potential customers across the customer base.
-
-If we are not successful in executing our sales strategy, our business, financial condition, results of operations, and growth prospects could be adversely
-affected.
-
-The ongoing global COVID-19 pandemic, ongoing Russia-Ukraine conﬂict, and related challenging macroeconomic conditions may
-adversely aﬀect our business and operations, and the duration and extent to which these factors may impact our future business, ﬁnancial
-condition, and results of operations remain uncertain.
-
-While the ongoing COVID-19 pandemic and the ongoing Russia-Ukraine conﬂict have provided certain new opportunities for our business to expand,
-they have also created many negative headwinds that present risks to our business and results of operations. The ongoing COVID-19 pandemic, the
-ongoing Russia-Ukraine conﬂict, and related challenging macroeconomic conditions have generally disrupted the operations of our customers and
-prospective customers, and may continue to disrupt their operations, including as a result of widespread supply chain disruptions, increases in the
-prices of many goods and services, uncertainty in the ﬁnancial markets or other harm to their business and ﬁnancial results. Challenging
-macroeconomic conditions could decrease information technology budgets for our customers and prospective customers; adversely aﬀect demand for
-our platform and services; cause one or more of our customers or partners to ﬁle for bankruptcy protection or go out of business; cause one or more of
-our customers to fail to renew, terminate, or seek to renegotiate their contracts with us; cause delayed purchasing decisions, longer sales cycles,
-extended or alternative payment terms or delayed payments; impact our ability to attract new customers on similar contractual terms or at all, or retain
-and expand our relationships with existing customers; and result in postponed or canceled projects, all of which would negatively impact our business,
-ﬁnancial condition, and results of operations, including sales and cash ﬂows. For example, one of our early-stage Investee (as deﬁned below)
-customers ﬁled for bankruptcy in 2022 and we may not realize the full value of our commercial contract with that customer as a result. It is not possible
-at this time to estimate the full impact that the COVID-19 pandemic, Russia-Ukraine conﬂict, and related challenging macroeconomic conditions will
-have on our business, as the impact will depend on future developments, which are highly uncertain and cannot be predicted. We cannot guarantee
-that it will not be materially negative.
-
-In addition, as a result of the COVID-19 pandemic and the related work and travel restrictions, many of our field sales, operations and maintenance, and
-professional services activities were conducted remotely, and a majority of our workforce worked remotely. We have reopened our oﬃces and have
-allowed business travel to resume, but some of our employees will continue to work remotely. We have a limited history of operating with a hybrid
-workforce. There is no guarantee that we will realize any anticipated beneﬁts to our business from this model, including cost savings, operational
-eﬃciencies, or productivity. It is also possible that remote work arrangements may have a negative impact on our operations; the execution of our
-business plans; our ability to recruit, train, manage, and retain employees; our ability to maintain and strengthen our company culture; the productivity
-and availability of key personnel and other employees necessary to conduct our business; and on third-party service providers who perform critical
-services for us, or otherwise cause operational failures due to changes in our normal business practices. If a natural disaster, power outage,
-connectivity issue or other event occurred that impacted our employees’ ability to work remotely, it may be difficult or, in certain cases, impossible, for us
-to continue our business for a substantial period of time. The increase in remote working may also result in increased consumer privacy, data security,
-and fraud risks, and our understanding of applicable legal and regulatory requirements, as well as the latest guidance from regulatory authorities may be
-subject to legal or regulatory challenge, particularly as regulatory guidance evolves in response to future developments. If we are unable to successfully
-address the foregoing risks and challenges as we encounter them, our business and operations could be adversely affected.
-
-Moreover, to the extent the ongoing COVID-19 pandemic, the ongoing Russia-Ukraine conﬂict, and related challenging macroeconomic conditions
-adversely aﬀect our business, ﬁnancial condition, and results of operations, these events, alone or in combination, may also have the eﬀect of
-heightening many of the other risks described in this “Risk Factors”  section, including but not limited to, those related to our ability to increase sales to
-existing and new customers, continue to perform on existing contracts, develop and deploy new technologies, expand our marketing capabilities and
-sales organization, generate suﬃcient cash ﬂow to service our indebtedness, volatility in the trading price of our Class A common stock and comply with
-the covenants in the agreements that govern our indebtedness.
-
-If the market for our platforms and services develops more slowly than we expect, our growth may slow or stall, and our business, ﬁnancial
-condition, and results of operations could be harmed.
-
-The market for our platforms is rapidly evolving. Our future success will depend in large part on the growth and expansion of this market, which is
-diﬃcult to predict and relies on a number of factors, including customer adoption, customer demand, changing customer needs, the entry of competitive
-products, the success of existing competitive products, potential customers’ willingness to adopt an alternative approach to data collection, storage, and
-processing and their willingness to invest in new
+Our professional services support the customers’ use of the software and include, as needed, on-demand user support, user-interface conﬁguration,
+training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of on-demand professional
+services for the duration of the contractual term. These services are typically coterminous with a Palantir Cloud subscription or the On-Premises
+Software. Professional services are on-demand, whereby we perform services throughout the contract period; therefore, the revenue is recognized over
+the contractual term.
 
 
-#### 28
+#### Contract Liabilities
+
+The timing of customer billing and payment relative to the start of the service period varies from contract to contract; however, we bill many of our
+customers in advance of the provision of services under our contracts, resulting in contract liabilities consisting of either deferred revenue or customer
+deposits. Deferred revenue represents billings under noncancelable contracts before the related product or service is transferred to the customer.
+Customer deposits consist of amounts billed and/or paid in advance of the start of the contractual term or for anticipated revenue generating activities
+for the portion of a contract term that is subject to cancellation by our customers. Many of our arrangements include terms that allow the customer to
+terminate the contract for convenience and receive a pro-rata refund of the amount of the customer deposit for the period of time remaining in the
+contract term after the applicable termination notice period expires. In these arrangements, we concluded there are no enforceable rights and
+obligations after such notice period and therefore the consideration received or due from the customer that is subject to termination for convenience is
+recorded as customer deposits.
+
+The payment terms and conditions vary by contract; however, our terms generally require payment within 30 to 60 days from the invoice date. In
+instances where the timing of revenue recognition differs from the timing of payment, we elected to apply
 
 
-## Page 29
+#### 77
 
 
-#### Table of Contents
+## Page 78
 
-software after signiﬁcant prior investments in legacy data collection, storage, and processing software. The estimates and assumptions that are used to
-calculate our market opportunity are subject to change over time, and there is no guarantee that any particular number or percentage of the
-organizations covered by our market opportunity estimates will pay for our platforms and services at all or generate any particular level of revenue for
-us. Even if the market in which we compete meets the size estimates and growth forecasts, our business could fail to grow at the levels we expect or at
-all for a variety of reasons outside our control, including competition in our industry. Further, if we or other data management and analytics providers
-experience security breaches or incidents, loss, corruption, or unavailability of or unauthorized access to customer data, disruptions in delivery, or other
-problems, this market as a whole, including our platforms, may be negatively aﬀected. If software for the challenges that we address does not achieve
-widespread adoption, or there is a reduction in demand caused by a lack of customer acceptance, technological challenges, weakening economic
-conditions (including due to the ongoing COVID-19 pandemic, the ongoing Russia-Ukraine conﬂict and related economic sanctions, rising inﬂation and
-interest rates, and monetary policy changes), security or privacy concerns, competing technologies and products, decreases in corporate spending, or
-otherwise, or, alternatively, if the market develops but we are unable to continue to penetrate it due to the cost, performance, and perceived value
-associated with our platforms, or other factors, it could result in decreased revenue and our business, financial condition, and results of operations could
-be adversely affected.
+the practical expedient in accordance with ASC 606 to not adjust contract consideration for the eﬀects of a signiﬁcant ﬁnancing component as we
+expect, at contract inception, that the period between when promised goods and services are transferred to the customer and when the customer pays
+for those goods and services will be one year or less. As such, we determined our contracts do not generally contain a significant financing component.
 
-We will face risks associated with the growth of our business in new commercial markets and with new customer verticals, and we may
-neither be able to continue our organic growth nor have the necessary resources to dedicate to the overall growth of our business.
 
-We plan to continue to expand our operations in new commercial markets, including those where we may have limited operating experience, and may
-be subject to increased business, technology and economic risks that could aﬀect our ﬁnancial results. In recent periods, we have increased our focus
-on commercial customers. In the future, we may increasingly focus on such customers, including in the banking, ﬁnancial services, healthcare,
-pharmaceutical, manufacturing, telecommunication, automotive, airlines and aerospace, consumer packaged goods, insurance, retail, transportation,
-shipping and logistics, energy, and other emerging industries. Entering new verticals and expanding in the verticals in which we are already operating
-will continue to require signiﬁcant resources and there is no guarantee that such eﬀorts will be successful or beneﬁcial to us. Historically, sales to new
-customers have often led to additional sales to the same customers or similarly situated customers. As we expand into and within new and emerging
-markets and heavily regulated industry verticals, we will likely face additional regulatory scrutiny, risks, and burdens from the governments and
-agencies which regulate those markets and industries. While this approach to expansion within new commercial markets and verticals has proven
-successful in the past, it is uncertain we will achieve the same penetration and organic growth in the future and our reputation, business, ﬁnancial
-condition, and results of operations could be negatively impacted.
+#### Areas of Judgment and Estimation
 
-In the future, we may not be able to secure the financing necessary to operate and grow our business as planned, or to make acquisitions.
+Our contracts with customers can include multiple promises to transfer goods or services to the customer. Determining whether promises are distinct
+performance obligations that should be accounted for separately – or not distinct within the context of the contract and, thus, accounted for together –
+requires signiﬁcant judgment. We concluded that the promise to provide a software subscription is highly interdependent and interrelated with the
+promise to provide O&M services and such promises are not distinct within the context of our contracts and are accounted for as a single performance
+obligation for our On-Premises Software.
 
-In the future, we may seek to raise or borrow additional funds to expand our product or business development eﬀorts, make acquisitions or otherwise
-fund or grow our business and operations. During April 2021, we fully repaid the outstanding term loans in an aggregate principal amount of $200.0
-million and mutually agreed with the lenders and other applicable parties under our revolving credit facility to amend our credit facility to, among other
-things, increase the commitments under the revolving credit facility by $200.0 million, for total revolving commitments of $400.0 million. In March 2022,
-our revolving credit facility was further amended to, among other things, extend the maturity date of the revolving loan facility and increase the
-commitments under the revolving credit facility by $100.0 million, and in July 2022, our revolving credit facility was further amended to, among other
-things, provide a new incremental delayed draw term loan (“DDTL”) commitment in an aggregate principal amount of $450.0 million, upon the terms and
-conditions set forth in the credit agreement, as amended, with new and existing lenders. The DDTL commitment is available to draw upon through July
-1, 2023 and any drawn amounts will mature on March 31, 2027. The existing revolving credit facility, as amended, matures in March 2027. The DDTL
-commitment together with our existing revolving commitments under our credit facility, as amended, provides for total commitments of up to $950.0
-million, all of which are undrawn as of the date of this Annual Report on Form 10-K. Any interest or facility payments are due and payable quarterly or
-more or less frequently in certain circumstances. Additional equity or debt financing may not be available on favorable terms, or at all.
+Additionally, the pricing of our contracts is generally ﬁxed; however, it is possible for contracts to include variable consideration, which can be based on
+subjective or objective criteria. We include the estimated amount of variable consideration that we expect to receive to the extent it is probable that a
+significant revenue reversal will not occur. Variable consideration received was not material in the periods presented.
 
-Historically, we have funded our operations and capital expenditures primarily through equity issuances, proceeds from option exercises, and payments
-received from our customers. Although we currently anticipate that our existing cash and cash equivalents will be sufficient to meet our cash needs for at
-least the next twelve months, we may require additional ﬁnancing, and we may not be able to obtain debt or equity ﬁnancing on favorable terms, if at all.
-If we raise equity ﬁnancing to fund operations or on an opportunistic basis, our stockholders may experience signiﬁcant dilution of their ownership
-interests. If adequate funds are not available on acceptable terms, or at all, we may be unable to, among other things:
+Signiﬁcant estimates and assumptions are used in the identiﬁcation of performance obligations in customer contracts and collectability of contract
+consideration, including accounts receivable. Estimates and judgments are based on historical experience, forecasted events, and various other
+assumptions that management believes to be reasonable under the circumstances. Actual results could diﬀer from those estimates and such
+differences could affect our financial position and results of operations.
+
+
+#### Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, if any, refer to Note 2. Signiﬁcant Accounting Policies in our consolidated ﬁnancial
+statements included elsewhere in this Annual Report on Form 10-K.
+
+
+### ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risks in the ordinary course of our business, which primarily relate to ﬂuctuations in the value of our investments, interest
+rates, foreign exchange, and inflation.
+
+
+#### Market Risk
+
+As of December 31, 2022, we had outstanding investments in marketable securities valued at $35.1 million. We have sold, and may continue to sell,
+some or all of our existing investments. These Investments are often in early- or growth-stage companies that have minimal public trading history; as
+such the fair value of these Investments may ﬂuctuate depending on the ﬁnancial outcome and prospects of the Investees, as well as global market
+conditions including recent and ongoing volatility related to the impacts of the ongoing COVID-19 pandemic, the ongoing Russia-Ukraine conﬂict, and
+rising interest rates. Additionally, investing in early- or growth-stage companies carries inherent risks because, among other things, the technologies or
+products that are being developed by these companies are typically in the early phases and may never materialize or they may not achieve their growth
+or other business objectives, and they have and may continue to experience a decline in ﬁnancial condition, which could result in a loss of all or a
+substantial part of our investment in these companies. We record gains or losses as the fair value of these Investments change and as we sell them. We
+anticipate additional volatility to our consolidated statements of operations due to changes in market prices and declines in ﬁnancial conditions of
+Investees, and as such gains and losses are realized. During the ﬁscal year ended December 31, 2022, net unrealized losses of $159.0 million and net
+realized losses of $113.1 million related to marketable securities were recorded in other income (expense), net on the consolidated statements of
+operations. We do not currently anticipate entering into new Investment Agreements to purchase, or commit to purchase, securities of special purpose
+acquisition companies.
+
+
+#### Interest Rate Risk
+
+Our cash, cash equivalents, and restricted cash consist of cash, certiﬁcates of deposit, and money market funds. Our primary investment policy and
+strategies are focused on the preservation of capital and supporting our liquidity requirements; however, to a lesser extent we have made and may
+continue to make investments in early- and growth-stage companies as disclosed in Note 4. Investments and Fair Value Measurements  in our
+consolidated ﬁnancial statements included elsewhere in this Annual Report on Form 10-K. We do not currently anticipate entering into new Investment
+Agreements to purchase, or commit to purchase, securities of special purpose acquisition companies.
+
+
+#### 78
+
+
+## Page 79
+
+Due to the short-term nature of the ﬁnancial instruments, we have not been exposed to, nor do we anticipate being exposed to, material risks due to
+changes in interest rates.
+
+
+#### Foreign Currency Exchange Risk
+
+Our contracts with customers are primarily denominated in U.S. dollars, with the remaining denominated in foreign currencies. Our expenses are
+generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the United States, United
+Kingdom, and other European countries. Our results of current and future operations and cash ﬂows are, therefore, subject to ﬂuctuations due to
+changes in foreign currency exchange rates, particularly changes in the Euro and GBP. We have experienced, and may continue to experience,
+ﬂuctuations in net loss as a result of transaction gains or losses related to remeasuring certain assets and liability balances that are denominated in
+foreign currencies. These exposures may change over time as business practices evolve and economic conditions change. To date, foreign currency
+transaction gains and losses have not been material to our consolidated ﬁnancial statements, and we have not engaged in any foreign currency
+hedging transactions.
+
+
+#### Inflation Risk
+
+We do not believe that inﬂation has had a material eﬀect on our business, results of operations, or ﬁnancial condition. If our costs were to become
+subject to signiﬁcant inﬂationary pressures, we may not be able to fully oﬀset such higher costs through price increases. Our inability or failure to do so
+could harm our business, financial condition, or results of operations.
+
+
+#### 79
+
+
+## Page 80
+
+
+### ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+### INDEX
+
+Page
+Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42)
+81
+Consolidated Balance Sheets
+85
+Consolidated Statements of Operations
+86
+Consolidated Statements of Comprehensive Loss
+87
+Consolidated Statements of Redeemable Convertible and Convertible Preferred Stock and Stockholders' Equity
+88
+Consolidated Statements of Cash Flows
+90
+Notes to Consolidated Financial Statements
+92
+
+
+#### 80
+
+
+## Page 81
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Palantir Technologies Inc.
+
+
+#### Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Palantir Technologies Inc. (the Company) as of December 31, 2022 and 2021, the
+related consolidated statements of operations, comprehensive loss, redeemable convertible and convertible preferred stock and stockholders’ equity,
+and cash ﬂows for each of the three years in the period ended December 31, 2022, and the related notes (collectively referred to as the “consolidated
+ﬁnancial statements”). In our opinion, the consolidated ﬁnancial statements present fairly, in all material respects, the ﬁnancial position of the Company
+at December 31, 2022 and 2021, and the results of its operations and its cash ﬂows for each of the three years in the period ended December 31,
+2022, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s
+internal control over ﬁnancial reporting as of December 31, 2022, based on criteria established in Internal Control-Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated February 21, 2023 expressed an
+unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+These ﬁnancial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s ﬁnancial
+statements based on our audits. We are a public accounting ﬁrm registered with the PCAOB and are required to be independent with respect to the
+Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and
+the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the ﬁnancial statements are free of material misstatement, whether due to error or fraud. Our audits included
+performing procedures to assess the risks of material misstatement of the ﬁnancial statements, whether due to error or fraud, and performing
+procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+ﬁnancial statements. Our audits also included evaluating the accounting principles used and signiﬁcant estimates made by management, as well as
+evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+
+#### Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the ﬁnancial statements that was communicated or
+required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the ﬁnancial statements and (2)
+involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our
+opinion on the consolidated ﬁnancial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a
+separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+
+#### 81
+
+
+## Page 82
+
+Revenue Recognition
+Description of the Matter
+As discussed in Note 2 to the consolidated ﬁnancial statements, the Company generates its revenue primarily from
+the sale of subscriptions to access its software in the Company’s hosted environment, along with ongoing
+operations and maintenance (“O&M”) services (“Palantir Cloud”); software licenses, primarily term licenses in the
+customers’ environments, with ongoing O&M services (“On-Premises Software”); and professional services.
+Management applies signiﬁcant judgment in identifying and evaluating any non-standard terms and conditions in
+customer arrangements which may impact the determination of performance obligations or the timing of revenue
+recognition. In addition, the determining whether promises are distinct performance obligations that should be
+accounted for separately – or not distinct within the context of the contract and, thus, accounted for together –
+requires signiﬁcant judgment. The Company concluded that the promise to provide a software license is highly
+interdependent and interrelated with the promise to provide O&M services and such promises are not distinct within
+the context of its contracts and are accounted for as a single performance obligation for the Company’s On-
+Premises Software.
+
+Auditing revenue recognition was complex and required a significant level of auditor judgment to identify and
+evaluate non-standard terms and conditions that impact revenue recognition and to assess whether the software
+licenses and O&M services should be accounted for as distinct performance obligations or combined as a single
+performance obligation.
+How We Addressed the Matter in
+Our Audit
+
+We obtained an understanding, evaluated the design, and tested the operating eﬀectiveness of the Company’s
+controls to identify and evaluate terms and conditions and performance obligations in customer arrangements that
+would impact revenue recognition.
+
+Our substantive procedures included, among others, testing the completeness and accuracy of management’s
+identiﬁcation and evaluation of non-standard terms and conditions, reading executed contracts for a sample of
+revenue transactions and evaluating whether the Company appropriately applied its revenue recognition policy to
+the arrangements based on the terms and conditions therein and consistent with U.S. GAAP. In addition, we
+evaluated management’s key assumptions and analysis of its performance obligations, including their assessment
+of the nature, interdependency, and level of integration between the software license and O&M services. We also
+evaluated the appropriateness of the related disclosures in the consolidated financial statements.
+
+
+#### /s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 2008.
+San Jose, California
+
+
+#### February 21, 2023
+
+
+#### 82
+
+
+## Page 83
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Palantir Technologies Inc.
+
+
+#### Opinion on Internal Control Over Financial Reporting
+
+We have audited Palantir Technologies Inc.’s internal control over ﬁnancial reporting as of December 31, 2022, based on criteria established in Internal
+Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO
+criteria). In our opinion, Palantir Technologies Inc. (the Company) maintained, in all material respects, eﬀective internal control over ﬁnancial reporting
+as of December 31, 2022, based on the COSO criteria.
+
+As indicated in the accompanying Management’s Report on Internal Control over Financial Reporting, management’s assessment of and conclusion on
+the eﬀectiveness of internal control over ﬁnancial reporting did not include the internal controls of Palantir Technologies Japan K.K, which is included in
+the 2022 consolidated ﬁnancial statements of the Company and constituted 0.3% and 0.1% of total and net assets, respectively, as of December 31,
+2022 and 0.4% and 0.5% of revenues and net loss, respectively, for the year then ended. Our audit of internal control over ﬁnancial reporting of the
+Company also did not include an evaluation of the internal control over financial reporting of Palantir Technologies Japan K.K.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated
+balance sheets of the Company as of December 31, 2022 and 2021, the related consolidated statements of operations, comprehensive loss,
+redeemable convertible and convertible preferred stock and stockholders’ equity, and cash ﬂows for each of the three years in the period ended
+December 31, 2022, and the related notes and our report dated February 21, 2023 expressed an unqualified opinion thereon.
+
+
+#### Basis for Opinion
+
+The Company’s management is responsible for maintaining eﬀective internal control over ﬁnancial reporting and for its assessment of the eﬀectiveness
+of internal control over ﬁnancial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our
+responsibility is to express an opinion on the Company’s internal control over ﬁnancial reporting based on our audit. We are a public accounting ﬁrm
+registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the
+applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over ﬁnancial reporting, assessing the risk that a material weakness exists, testing and
+evaluating the design and operating eﬀectiveness of internal control based on the assessed risk, and performing such other procedures as we
+considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+
+#### Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over ﬁnancial reporting is a process designed to provide reasonable assurance regarding the reliability of ﬁnancial
+reporting and the preparation of ﬁnancial statements for external purposes in accordance with generally accepted accounting principles. A company’s
+internal control over ﬁnancial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail,
+accurately and fairly reﬂect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are
+recorded as necessary to permit preparation of ﬁnancial statements in accordance with generally accepted accounting principles, and that receipts and
+expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have
+a material effect on the financial statements.
+
+
+#### 83
+
+
+## Page 84
+
+Because of its inherent limitations, internal control over ﬁnancial reporting may not prevent or detect misstatements. Also, projections of any evaluation
+of eﬀectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate.
+
+
+#### /s/ Ernst & Young LLP
+
+San Jose, California
+February 21, 2023
+
+
+#### 84
+
+
+## Page 85
+
+### Table 85.1
+
+| Assets |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Current assets: |  |  |  |  |  |
+| Cash and cash equivalents | $ | 2,598,540 |  | $ | 2,290,674 |
+| Restricted cash | 16,244 |  |  | 36,628 |  |
+| Accounts receivable, net | 258,346 |  |  | 190,923 |  |
+| Marketable securities | 35,135 |  |  | 234,153 |  |
+| Prepaid expenses and other current assets | 133,312 |  |  | 110,872 |  |
+| Total current assets | 3,041,577 |  |  | 2,863,250 |  |
+| Property and equipment, net | 69,170 |  |  | 31,304 |  |
+| Restricted cash, noncurrent | 12,551 |  |  | 39,612 |  |
+| Operating lease right-of-use assets | 200,240 |  |  | 216,898 |  |
+| Other assets | 137,701 |  |  | 96,386 |  |
+| Total assets | $ | 3,461,239 |  | $ | 3,247,450 |
+| Liabilities and Stockholders' Equity |  |  |  |  |  |
+| Current liabilities: |  |  |  |  |  |
+| Accounts payable | $ | 44,788 |  | $ | 74,907 |
+| Accrued liabilities | 172,715 |  |  | 155,806 |  |
+| Deferred revenue | 183,350 |  |  | 227,816 |  |
+| Customer deposits | 141,989 |  |  | 161,605 |  |
+| Operating lease liabilities | 45,099 |  |  | 39,927 |  |
+| Total current liabilities | 587,941 |  |  | 660,061 |  |
+| Deferred revenue, noncurrent | 9,965 |  |  | 40,217 |  |
+| Customer deposits, noncurrent | 3,936 |  |  | 33,699 |  |
+| Operating lease liabilities, noncurrent | 204,305 |  |  | 220,146 |  |
+| Other noncurrent liabilities | 12,655 |  |  | 2,297 |  |
+| Total liabilities | 818,802 |  |  | 956,420 |  |
+| Commitments and Contingencies (Note 8) |  |  |  |  |  |
+| Stockholders’ equity: |  |  |  |  |  |
+| Common stock, $0.001 par value: 20,000,000 Class A shares authorized as of December 31, 2022 and December 31, 2021; 1,995,414 and 1,926,589 shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively; 2,700,000 Class B shares authorized as of December 31, 2022 and December 31, 2021; 102,656 and 99,880 shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively; and 1,005 Class F shares authorized, issued, and outstanding as of December 31, 2022 and December 31, 2021 | 2,099 |  |  | 2,027 |  |
+| Additional paid-in capital | 8,427,998 |  |  | 7,777,085 |  |
+| Accumulated other comprehensive loss | (5,333) |  |  | (2,349) |  |
+| Accumulated deficit | (5,859,438) |  |  | (5,485,733) |  |
+| Total stockholders’ equity | 2,565,326 |  |  | 2,291,030 |  |
+| Noncontrolling interests | 77,111 |  |  | — |  |
+| Total equity | 2,642,437 |  |  | 2,291,030 |  |
+| Total liabilities and equity | $ | 3,461,239 |  | $ | 3,247,450 |
+
+
+Palantir Technologies Inc.
+Consolidated Balance Sheets
+(in thousands, except per share amounts)
+
+As of December 31,
+2022
+2021
+Assets
+Current assets:
+
+Cash and cash equivalents
+$
+2,598,540 
+$
+2,290,674 
+Restricted cash
+16,244 
+36,628 
+Accounts receivable, net
+258,346 
+190,923 
+Marketable securities
+35,135 
+234,153 
+Prepaid expenses and other current assets
+133,312 
+110,872 
+Total current assets
+3,041,577 
+2,863,250 
+Property and equipment, net
+69,170 
+31,304 
+Restricted cash, noncurrent
+12,551 
+39,612 
+Operating lease right-of-use assets
+200,240 
+216,898 
+Other assets
+137,701 
+96,386
+
+Total assets
+$
+3,461,239 
+$
+3,247,450
+
+Liabilities and Stockholders' Equity
+Current liabilities:
+
+Accounts payable
+$
+44,788 
+$
+74,907 
+Accrued liabilities
+172,715 
+155,806 
+Deferred revenue
+183,350 
+227,816 
+Customer deposits
+141,989 
+161,605 
+Operating lease liabilities
+45,099 
+39,927 
+Total current liabilities
+587,941 
+660,061 
+Deferred revenue, noncurrent
+9,965 
+40,217 
+Customer deposits, noncurrent
+3,936 
+33,699 
+Operating lease liabilities, noncurrent
+204,305 
+220,146 
+Other noncurrent liabilities
+12,655 
+2,297 
+Total liabilities
+818,802 
+956,420 
+Commitments and Contingencies (Note 8)
+Stockholders’ equity:
+
+Common stock, $0.001 par value: 20,000,000 Class A shares authorized as of December 31, 2022 and December 31, 2021;
+
+1,995,414 and 1,926,589 shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively;
+2,700,000 Class B shares authorized as of December 31, 2022 and December 31, 2021; 102,656 and 99,880 shares issued
+and outstanding as of December 31, 2022 and December 31, 2021, respectively; and 1,005 Class F shares authorized,
+issued, and outstanding as of December 31, 2022 and December 31, 2021
+2,099 
+2,027 
+Additional paid-in capital
+8,427,998 
+7,777,085 
+Accumulated other comprehensive loss
+(5,333)
+(2,349)
+Accumulated deficit
+(5,859,438)
+(5,485,733)
+Total stockholders’ equity
+2,565,326 
+2,291,030 
+Noncontrolling interests
+77,111 
+— 
+Total equity
+2,642,437 
+2,291,030
+
+Total liabilities and equity
+$
+3,461,239 
+$
+3,247,450
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### 85
+
+
+## Page 86
+
+### Table 86.1
+
+| Revenue | $ | 1,905,871 |  | $ | 1,541,889 |  | $ | 1,092,673 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cost of revenue | 408,549 |  |  | 339,404 |  |  | 352,547 |  |
+| Gross profit | 1,497,322 |  |  | 1,202,485 |  |  | 740,126 |  |
+| Operating expenses: |  |  |  |  |  |  |  |  |
+| Sales and marketing | 702,511 |  |  | 614,512 |  |  | 683,701 |  |
+| Research and development | 359,679 |  |  | 387,487 |  |  | 560,660 |  |
+| General and administrative | 596,333 |  |  | 611,532 |  |  | 669,444 |  |
+| Total operating expenses | 1,658,523 |  |  | 1,613,531 |  |  | 1,913,805 |  |
+| Loss from operations | (161,201) |  |  | (411,046) |  |  | (1,173,679) |  |
+| Interest income | 20,309 |  |  | 1,607 |  |  | 4,680 |  |
+| Interest expense | (4,058) |  |  | (3,640) |  |  | (14,139) |  |
+| Other income (expense), net | (216,077) |  |  | (75,415) |  |  | 4,111 |  |
+| Loss before provision for (benefit from) income taxes | (361,027) |  |  | (488,494) |  |  | (1,179,027) |  |
+| Provision for (benefit from) income taxes | 10,067 |  |  | 31,885 |  |  | (12,636) |  |
+| Net loss | (371,094) |  |  | (520,379) |  |  | (1,166,391) |  |
+| Less: Net income attributable to noncontrolling interests | 2,611 |  |  | — |  |  | — |  |
+| Net loss attributable to common stockholders | $ | (373,705) |  | $ | (520,379) |  | $ | (1,166,391) |
+| Net loss per share attributable to common stockholders, basic | $ | (0.18) |  | $ | (0.27) |  | $ | (1.19) |
+| Net loss per share attributable to common stockholders, diluted | $ | (0.18) |  | $ | (0.27) |  | $ | (1.20) |
+| Weighted-average shares of common stock outstanding used in computing net loss per share attributable to common stockholders, basic | 2,063,793 |  |  | 1,923,617 |  |  | 977,722 |  |
+| Weighted-average shares of common stock outstanding used in computing net loss per share attributable to common stockholders, diluted | 2,063,793 |  |  | 1,923,617 |  |  | 979,330 |  |
+
+
+Palantir Technologies Inc.
+Consolidated Statements of Operations
+(in thousands, except per share amounts)
+
+Years Ended December 31,
+2022
+2021
+2020
+Revenue
+$
+1,905,871 
+$
+1,541,889 
+$
+1,092,673 
+Cost of revenue
+408,549 
+339,404 
+352,547 
+Gross profit
+1,497,322 
+1,202,485 
+740,126 
+Operating expenses:
+
+Sales and marketing
+702,511 
+614,512 
+683,701 
+Research and development
+359,679 
+387,487 
+560,660 
+General and administrative
+596,333 
+611,532 
+669,444 
+Total operating expenses
+1,658,523 
+1,613,531 
+1,913,805 
+Loss from operations
+(161,201)
+(411,046)
+(1,173,679)
+Interest income
+20,309 
+1,607 
+4,680 
+Interest expense
+(4,058)
+(3,640)
+(14,139)
+Other income (expense), net
+(216,077)
+(75,415)
+4,111 
+Loss before provision for (benefit from) income taxes
+(361,027)
+(488,494)
+(1,179,027)
+Provision for (benefit from) income taxes
+10,067 
+31,885 
+(12,636)
+Net loss
+(371,094)
+(520,379)
+(1,166,391)
+Less: Net income attributable to noncontrolling interests
+2,611 
+— 
+—
+
+Net loss attributable to common stockholders
+$
+(373,705)
+$
+(520,379)
+$
+(1,166,391)
+
+Net loss per share attributable to common stockholders, basic
+$
+(0.18)
+$
+(0.27)
+$
+(1.19)
+
+Net loss per share attributable to common stockholders, diluted
+$
+(0.18)
+$
+(0.27)
+$
+(1.20)
+
+Weighted-average shares of common stock outstanding used in computing net loss per share
+
+attributable to common stockholders, basic
+2,063,793 
+1,923,617 
+977,722 
+Weighted-average shares of common stock outstanding used in computing net loss per share
+
+attributable to common stockholders, diluted
+2,063,793 
+1,923,617 
+979,330
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### 86
+
+
+## Page 87
+
+### Table 87.1
+
+| Net loss | $ | (371,094) |  | $ | (520,379) |  | $ | (1,166,391) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other comprehensive income (loss) |  |  |  |  |  |  |  |  |
+| Foreign currency translation adjustments | (2,984) |  |  | 396 |  |  | (2,042) |  |
+| Comprehensive loss | (374,078) |  |  | (519,983) |  |  | (1,168,433) |  |
+| Less: Comprehensive income attributable to noncontrolling interests | 2,611 |  |  | — |  |  | — |  |
+| Comprehensive loss attributable to common stockholders | $ | (376,689) |  | $ | (519,983) |  | $ | (1,168,433) |
+
+
+Palantir Technologies Inc.
+Consolidated Statements of Comprehensive Loss
+
+
+#### (in thousands)
+
+Years Ended December 31,
+2022
+2021
+2020
+Net loss
+$
+(371,094)
+$
+(520,379)
+$
+(1,166,391)
+Other comprehensive income (loss)
+
+Foreign currency translation adjustments
+(2,984)
+396 
+(2,042)
+Comprehensive loss
+(374,078)
+(519,983)
+(1,168,433)
+Less: Comprehensive income attributable to noncontrolling interests
+2,611 
+— 
+— 
+Comprehensive loss attributable to common stockholders
+$
+(376,689)
+$
+(519,983)
+$
+(1,168,433)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### 87
+
+
+## Page 88
+
+### Table 88.1
+
+| Balance as of December 31, 2019 | 4,017 |  | $ | 33,569 |  | 742,840 |  | $ | 2,093,662 |  |  | 581,497 |  | $ | 588 |  | $ | 1,857,331 |  | 6,393 |  | $ | (38,895) |  | $ | (703) |  | $ | (3,798,963) |  | $ | (1,980,642) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Conversion of Series H-1 convertible preferred stock to common stock | — |  | — |  |  | (28) |  | (100) |  |  |  | 28 |  | — |  |  | 100 |  |  | — |  | — |  |  | — |  |  | — |  |  | 100 |  |
+| Issuance of Series K convertible preferred stock | — |  | — |  |  | 121 |  | 947 |  |  |  | — |  | — |  |  | — |  |  | — |  | — |  |  | — |  |  | — |  |  | — |  |
+| Issuance of Series D preferred stock upon net exercise of Series D preferred stock warrants | — |  | — |  |  | 2,380 |  | 10,810 |  |  |  | — |  | — |  |  | — |  |  | — |  | — |  |  | — |  |  | — |  |  | — |  |
+| Repurchase of common stock, held in treasury | — |  | — |  |  | — |  | — |  |  |  | (808) |  | — |  |  | — |  |  | 808 |  | (3,777) |  |  | — |  |  | — |  |  | (3,777) |  |
+| Retirement of treasury stock | — |  | — |  |  | — |  | — |  |  |  | — |  | (7) |  |  | (42,665) |  |  | (7,201) |  | 42,672 |  |  | — |  |  | — |  |  | — |  |
+| Issuance of common stock upon net exercise of common stock warrants | — |  | — |  |  | — |  | — |  |  |  | 7,631 |  | 8 |  |  | (8) |  |  | — |  | — |  |  | — |  |  | — |  |  | — |  |
+| Issuance of common stock, net of issuance costs | — |  | — |  |  | — |  | — |  |  |  | 206,501 |  | 207 |  |  | 942,322 |  |  | — |  | — |  |  | — |  |  | — |  |  | 942,529 |  |
+| Conversion of redeemable convertible preferred stock to common stock | (4,017) |  | (33,569) |  |  | — |  | — |  |  |  | 4,017 |  | 4 |  |  | 33,565 |  |  | — |  | — |  |  | — |  |  | — |  |  | 33,569 |  |
+| Conversion of convertible preferred stock to common stock | — |  | — |  |  | (745,313) |  | (2,105,319) |  |  |  | 793,726 |  | 794 |  |  | 2,104,525 |  |  | — |  | — |  |  | — |  |  | — |  |  | 2,105,319 |  |
+| Conversion of preferred stock warrants to common stock warrants | — |  | — |  |  | — |  | — |  |  |  | — |  | — |  |  | 31,007 |  |  | — |  | — |  |  | — |  |  | — |  |  | 31,007 |  |
+| Issuance of common stock from the exercise of stock options | — |  | — |  |  | — |  | — |  |  |  | 120,618 |  | 120 |  |  | 298,709 |  |  | — |  | — |  |  | — |  |  | — |  |  | 298,829 |  |
+| Issuance of common stock upon vesting of restricted stock units ("RSUs") | — |  | — |  |  | — |  | — |  |  |  | 82,430 |  | 82 |  |  | (82) |  |  | — |  | — |  |  | — |  |  | — |  |  | — |  |
+| Stock-based compensation | — |  | — |  |  | — |  | — |  |  |  | — |  | — |  |  | 1,264,254 |  |  | — |  | — |  |  | — |  |  | — |  |  | 1,264,254 |  |
+| Settlement of employee loan accounted for as a modification to stock option | — |  | — |  |  | — |  | — |  |  |  | (3,500) |  | (4) |  |  | (201) |  |  | — |  | — |  |  | — |  |  | — |  |  | (205) |  |
+| Other comprehensive loss | — |  | — |  |  | — |  | — |  |  |  | — |  | — |  |  | — |  |  | — |  | — |  |  | (2,042) |  |  | — |  |  | (2,042) |  |
+| Net loss | — |  | — |  |  | — |  | — |  |  |  | — |  | — |  |  | — |  |  | — |  | — |  |  | — |  |  | (1,166,391) |  |  | (1,166,391) |  |
+| Balance as of December 31, 2020 | — |  | $ | — |  | — |  | $ | — |  |  | 1,792,140 |  | $ | 1,792 |  | $ | 6,488,857 |  | — |  | $ | — |  | $ | (2,745) |  | $ | (4,965,354) |  | $ | 1,522,550 |
+
+
+Palantir Technologies Inc.
+Consolidated Statements of Redeemable Convertible and Convertible Preferred Stock and Stockholders’ Equity
+
+
+#### (in thousands)
+
+Redeemable
+Convertible Preferred
+
+
+#### Stock
+
+
+#### Convertible Preferred
+
+Stock
+Common Stock
+Additional
+
+Paid-in
+Capital
+
+
+#### Treasury Stock
+
+
+#### Accumulated
+
+Other
+Comprehensive
+
+
+#### Loss
+
+
+#### Accumulated
+
+
+#### Deficit
+
+Total
+Stockholders’
+(Deficit) Equity
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Shares
+Amount
+Balance as of December 31, 2019
+4,017 
+$ 33,569 
+742,840 
+$ 2,093,662 
+581,497 
+$
+588 
+$ 1,857,331 
+6,393 
+$ (38,895)
+$
+(703)
+$ (3,798,963)
+$
+(1,980,642)
+Conversion of Series H-1 convertible
+
+preferred stock to common stock
+— 
+— 
+(28)
+(100)
+28 
+— 
+100 
+— 
+— 
+— 
+— 
+100 
+Issuance of Series K convertible
+
+preferred stock
+— 
+— 
+121 
+947 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+Issuance of Series D preferred stock
+
+upon net exercise of Series D
+preferred stock warrants
+— 
+— 
+2,380 
+10,810 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+Repurchase of common stock, held in
+
+treasury
+— 
+— 
+— 
+— 
+(808)
+— 
+— 
+808 
+(3,777)
+— 
+— 
+(3,777)
+Retirement of treasury stock
+— 
+— 
+— 
+— 
+— 
+(7)
+(42,665)
+(7,201)
+42,672 
+— 
+— 
+— 
+Issuance of common stock upon net
+
+exercise of common stock warrants
+— 
+— 
+— 
+— 
+7,631 
+8 
+(8)
+— 
+— 
+— 
+— 
+— 
+Issuance of common stock, net of
+
+issuance costs
+— 
+— 
+— 
+— 
+206,501 
+207 
+942,322 
+— 
+— 
+— 
+— 
+942,529 
+Conversion of redeemable convertible
+
+preferred stock to common stock
+(4,017)
+(33,569)
+— 
+— 
+4,017 
+4 
+33,565 
+— 
+— 
+— 
+— 
+33,569 
+Conversion of convertible preferred
+
+stock to common stock
+— 
+— 
+(745,313)
+(2,105,319)
+793,726 
+794 
+2,104,525 
+— 
+— 
+— 
+— 
+2,105,319 
+Conversion of preferred stock warrants
+
+to common stock warrants
+— 
+— 
+— 
+— 
+— 
+— 
+31,007 
+— 
+— 
+— 
+— 
+31,007 
+Issuance of common stock from the
+
+exercise of stock options
+— 
+— 
+— 
+— 
+120,618 
+120 
+298,709 
+— 
+— 
+— 
+— 
+298,829 
+Issuance of common stock upon vesting
+
+of restricted stock units ("RSUs")
+— 
+— 
+— 
+— 
+82,430 
+82 
+(82)
+— 
+— 
+— 
+— 
+— 
+Stock-based compensation
+— 
+— 
+— 
+— 
+— 
+— 
+1,264,254 
+— 
+— 
+— 
+— 
+1,264,254 
+Settlement of employee loan accounted
+
+for as a modification to stock option
+— 
+— 
+— 
+— 
+(3,500)
+(4)
+(201)
+— 
+— 
+— 
+— 
+(205)
+Other comprehensive loss
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+(2,042)
+— 
+(2,042)
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+(1,166,391)
+(1,166,391)
+
+Balance as of December 31, 2020
+— 
+$
+— 
+— 
+$
+— 
+1,792,140 
+$ 1,792 
+$ 6,488,857 
+— 
+$
+— 
+$
+(2,745)
+$ (4,965,354)
+$
+1,522,550
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+
+#### 88
+
+
+## Page 92
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements
+
+
+#### 1. Organization
+
+Palantir Technologies Inc. (including its subsidiaries, “Palantir” or the “Company”) was incorporated in Delaware on May 6, 2003. The Company builds
+and deploys software platforms that serve as the central operating systems for its customers.
+
+
+#### 2. Significant Accounting Policies
+
+
+#### Basis of Presentation and Consolidation
+
+The accompanying consolidated ﬁnancial statements have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”)
+and applicable rules and regulations of the Securities and Exchange Commission regarding annual ﬁnancial reporting. The accompanying consolidated
+ﬁnancial statements include the accounts of Palantir Technologies Inc. and its consolidated subsidiaries. All signiﬁcant intercompany balances and
+transactions have been eliminated in consolidation. Investments in entities where the Company holds at least a 20% ownership interest and has the
+ability to exercise signiﬁcant inﬂuence over, but does not control, the investee are accounted for using the equity method of accounting. For such
+investments, the share of the investee’s results of operations is included as a component of other income (expense), net in the consolidated statements
+of operations and the investment balance is included in other assets and classiﬁed as noncurrent in the consolidated balance sheets. Certain prior year
+balances have been reclassiﬁed to conform to the current year presentation. Such reclassiﬁcations did not aﬀect total revenues, loss from operations,
+net loss, or cash flows. The Company’s fiscal year ends on December 31.
+
+
+#### Direct Listing
+
+On September 30, 2020, the Company completed a direct listing of its Class A common stock on the New York Stock Exchange (“NYSE”) (the “Direct
+Listing”). Immediately prior to the Direct Listing, all outstanding shares of redeemable convertible preferred stock and convertible preferred stock were
+converted into Class B common stock, and all of the Company’s outstanding preferred stock warrants were converted into common stock warrants,
+which resulted in the reclassification of the warrants liability to additional paid-in capital.
+
+
+#### Use of Estimates
+
+The preparation of the consolidated ﬁnancial statements in conformity with GAAP requires management to make certain estimates, judgments, and
+assumptions that aﬀect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the consolidated
+financial statements, and the reported amounts of revenue and expenses during the reporting periods.
+
+Signiﬁcant estimates and assumptions made in the accompanying consolidated ﬁnancial statements include, but are not limited to, the identiﬁcation of
+performance obligations in customer contracts; the valuation of deferred tax assets and uncertain tax positions; the collectability of contract
+consideration, including accounts receivable; the useful lives of tangible assets; the valuation of assets acquired and liabilities assumed from business
+combinations, including intangible assets and goodwill; and the incremental borrowing rate for operating leases. Estimates and judgments are based on
+historical experience, forecasted events, and various other assumptions that management believes to be reasonable under the circumstances. Actual
+results could differ from those estimates, and such differences could affect the Company’s financial position and results of operations.
+
+
+#### Segments
+
+The Company has two operating segments, commercial and government, which were determined based on the manner in which the chief operating
+decision maker (“CODM”), who is the chief executive oﬃcer, manages the operations of the Company for purposes of allocating resources and
+evaluating performance. Various factors, including the Company’s organizational and management reporting structure and customer type, were
+considered in determining these operating segments.
+
+
+#### The Company’s operating segments are described below:
 
 •
-develop new products, features, capabilities, and enhancements;
+Commercial: This segment primarily serves customers working in non-government industries.
 
 •
-continue to expand our product development, sales, and marketing organizations;
+Government: This segment primarily serves customers that are United States (“U.S.”) government and non-U.S. government agencies.
 
 
-#### 29
+#### 92
 
 
-## Page 30
+## Page 93
+
+### Table 93.1
+
+| Cash and cash equivalents | $ | 2,598,540 |  | $ | 2,290,674 |  | $ | 2,011,323 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Restricted cash | 16,244 |  |  | 36,628 |  |  | 37,285 |  |
+| Restricted cash, noncurrent | 12,551 |  |  | 39,612 |  |  | 79,538 |  |
+| Total cash, cash equivalents, and restricted cash | $ | 2,627,335 |  | $ | 2,366,914 |  | $ | 2,128,146 |
 
 
-#### Table of Contents
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+
+#### Cash, Cash Equivalents, and Restricted Cash
+
+The Company considers all highly liquid investments purchased with an original maturity of three months or less at the time of purchase to be cash
+equivalents. Cash equivalents primarily consist of amounts invested in money market funds.
+
+Restricted cash primarily consists of cash and certificates of deposit that are held as collateral against letters of credit and guarantees that the Company
+is required to maintain for operating lease agreements, certain customer contracts, and other guarantees and financing arrangements.
+
+The following table provides a reconciliation of cash, cash equivalents, and restricted cash reported within the consolidated balance sheets that sum to
+the total of the amounts shown in the consolidated statements of cash flows (in thousands):
+
+As of December 31,
+2022
+2021
+2020
+Cash and cash equivalents
+$
+2,598,540 
+$
+2,290,674 
+$
+2,011,323 
+Restricted cash
+16,244 
+36,628 
+37,285 
+Restricted cash, noncurrent
+12,551 
+39,612 
+79,538 
+Total cash, cash equivalents, and restricted cash
+$
+2,627,335 
+$
+2,366,914 
+$
+2,128,146
+
+
+#### Accounts Receivable and Allowance for Credit Losses
+
+Accounts receivable are recorded at the invoiced amount, net of an allowance for credit losses. The Company generally grants non-collateralized credit
+terms to its customers. Allowance for credit losses is based on the Company’s best estimate of probable losses inherent in its accounts receivable
+portfolio and is determined based on expectations of the customer’s ability to pay by considering factors such as customer type (commercial or
+government), historical experience, ﬁnancial position of the customer, age of the accounts receivable, current economic conditions, including the
+ongoing COVID-19 pandemic, and reasonable and supportable forward-looking factors about its portfolio and future economic conditions. Accounts
+receivable are written-oﬀ and charged against an allowance for credit losses when the Company has exhausted collection eﬀorts without success.
+Based upon the Company’s assessment as of December 31, 2022 the Company recorded an allowance for credit losses of $10.1 million. Based upon
+the Company’s assessment as of December 31, 2021, the allowances for credit losses were not material.
+
+
+#### Concentrations of Credit Risk
+
+Financial instruments that potentially subject the Company to signiﬁcant concentrations of credit risk consist primarily of cash, cash equivalents,
+restricted cash, accounts receivable, and marketable securities. Cash equivalents primarily consist of money market funds with original maturities of
+three months or less, which are invested primarily with U.S. ﬁnancial institutions. Cash deposits with ﬁnancial institutions, including restricted cash,
+generally exceed federally insured limits. Management believes minimal credit risk exists with respect to these ﬁnancial institutions and the Company
+has not experienced any losses on such amounts.
+
+The Company is exposed to concentrations of credit risk with respect to accounts receivable presented on the consolidated balance sheets. The
+Company’s accounts receivable balances as of December 31, 2022 and 2021 were $258.3 million and $190.9 million, respectively. No customer
+represented more than 10% of total accounts receivable as of December 31, 2022 and 2021.
+
+For the years ended December 31, 2022 and 2021, no customer represented 10% or more of total revenue. For the year ended December 31, 2020,
+Customer F, which is in the government operating segment, represented 10% of total revenue. No other customers represented more than 10% of total
+revenue for the year ended December 31, 2020.
+
+
+#### Alternative Investments
+
+Alternative investments include gold bars and are recorded in prepaid expenses and other current assets on the consolidated balance sheets. The
+investments are initially recorded at cost and subsequently remeasured at the lower of cost or market each reporting period. Market value is determined
+by using quoted market prices of identical or similar assets from active markets. Unrealized losses are recorded in other income (expense), net in the
+consolidated statements of operations. Realized gains and losses are recorded in other income (expense), net upon realization.
+
+
+#### 93
+
+
+## Page 94
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+
+#### Property and Equipment, Net
+
+Property and equipment, net are stated at cost less accumulated depreciation and amortization. Depreciation is recognized using the straight-line
+method over the estimated useful lives of the respective assets, which are generally three years. Leasehold improvements are capitalized and
+amortized using the straight-line method over the shorter of the remaining lease term or the estimated useful life, which is generally ﬁve years.
+Maintenance and repairs that do not improve or extend the useful lives of the assets are expensed when incurred. Upon sale or retirement of assets,
+the cost and related accumulated depreciation and amortization are derecognized from the consolidated balance sheet and any resulting gain or loss is
+recorded in the consolidated statements of operations in the period realized.
+
+
+#### Privately-held Securities
+
+Equity securities in private-held companies without readily determinable fair values are recorded using the measurement alternative. Such investments
+are carried at cost, less any impairments, and are adjusted for subsequent observable price changes in orderly transactions for identical or similar
+investments of the same issuer. Changes in the basis of the equity securities are recognized in other income (expense), net in the consolidated
+statements of operations.
+
+
+#### Business Combinations
+
+Business combinations are accounted for using the acquisition method of accounting in accordance with Accounting Standards Codiﬁcation (“ASC”)
+805, Business Combinations, and are included in our consolidated ﬁnancial statements from their respective acquisition dates. Assets acquired and
+liabilities assumed, if any, are measured at fair value on the acquisition date using the appropriate valuation method. Goodwill generated from
+acquisitions is recognized if the fair value of the purchase consideration transferred, or the fair value of the acquirer’s interest in the acquiree if no
+consideration is transferred, and any noncontrolling interests is in excess of the net fair value of the identiﬁable assets acquired and the liabilities
+assumed. In determining the fair value of identiﬁable assets, we use various valuation techniques which require us to make estimates and assumptions
+surrounding projected revenues and costs, future growth, and discount rates.
+
+
+#### Goodwill
+
+Goodwill represents the excess of the fair value of the purchase consideration transferred, or the fair value of the acquirer’s interest in the acquiree if no
+consideration is transferred, and any noncontrolling interests over the net fair value of the identiﬁable assets acquired and the liabilities assumed in
+business combinations. Goodwill is not amortized but is subject to an annual impairment test. We perform our annual goodwill impairment assessment
+on the ﬁrst day of the fourth quarter. Tests are performed more frequently if events occur or circumstances change that would more likely than not
+reduce the fair value of the reporting unit below its carrying amount. Goodwill is recorded in other assets in the consolidated balance sheet.
+
+
+#### Other Intangible Assets
+
+Other intangible assets include ﬁnite-lived intangible assets, which mainly consist of customer relationships, reacquired rights, and backlog. These
+assets are amortized over their estimated useful lives and are tested for impairment using a similar methodology to our property and equipment, as
+described below. Other intangible assets are recorded in other assets in the consolidated balance sheet.
+
+
+#### Impairment of Long-Lived Assets
+
+Long-lived assets are reviewed for impairment annually or whenever events or changes in circumstances indicate that the carrying amount of an asset
+may not be recoverable. Recoverability is measured by comparing the carrying amount of an asset to the future undiscounted cash ﬂows that the asset
+is expected to generate. If the carrying amount of an asset exceeds its estimated future cash ﬂows, an impairment charge is recognized in the amount
+by which the carrying amount of the asset exceeds the fair value of the asset. Impairments of long-lived assets during the years ended December 31,
+2022, 2021, and 2020 were not material.
+
+
+#### Leases
+
+The Company adopted the Accounting Standard Update (“ASU”) 2016-02, Leases, and additional ASUs issued to clarify and update the guidance in
+ASU 2016-02 (collectively “ASC 842”), as of January 1, 2020.
+
+The Company determines if an arrangement is a lease at inception. An arrangement is or contains a lease if it conveys the right to control the use of an
+identiﬁed asset for a period of time in exchange for consideration. If a lease is identiﬁed, classiﬁcation is determined at lease commencement.
+Operating lease liabilities are recognized at the present value of the future lease payments at the lease commencement date. The Company’s leases
+do not provide an implicit interest rate and therefore the Company estimates its incremental borrowing rate to discount lease payments. The
+incremental borrowing rate reflects the
+
+
+#### 94
+
+
+## Page 95
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+interest rate that the Company would have to pay to borrow on a collateralized basis an amount equal to the lease payments in a similar economic
+environment over a similar term. Operating lease right-of-use (“ROU”) assets are based on the corresponding lease liability adjusted for any lease
+payments made at or before commencement, initial direct costs, and lease incentives. Renewals or early terminations are not accounted for unless the
+Company is reasonably certain to exercise these options. Operating lease expense is recognized and the ROU asset is amortized on a straight-line
+basis over the lease term.
+
+The Company has lease agreements with lease and non-lease components, which are accounted for as a single lease component. The Company
+elected to use the transition relief package of practical expedients but did not elect to use the hindsight practical expedient in determining a lease term
+and impairment of ROU assets at the adoption date. For short-term leases, defined as leases with a term of twelve months or less, the Company elected
+the practical expedient to not recognize an associated lease liability and ROU asset. Lease payments for short-term leases are expensed on a straight-
+line basis over the lease term.
+
+Operating leases are included in operating lease right-of-use assets, operating lease liabilities, and operating lease liabilities, non-current  on the
+Company’s consolidated balance sheets. Finance leases are not material.
+
+
+#### Fair Value Measurement
+
+Fair value is deﬁned as the exchange price that would be received for an asset or paid to transfer a liability, or an exit price, in the principal or most
+advantageous market for that asset or liability in an orderly transaction between market participants on the measurement date.
+
+The Company measures fair value based on a three-level hierarchy of inputs, maximizing the use of observable inputs, where available, and minimizing
+the use of unobservable inputs when measuring fair value. A ﬁnancial instrument’s level within the three-level hierarchy is based on the lowest level of
+input that is significant to the fair value measurement. The three-level hierarchy of inputs is as follows:
+
+Level 1: Observable inputs such as unadjusted, quoted prices in active markets for identical assets or liabilities at the measurement date;
+
+Level 2: Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities, quoted prices in markets that are not
+active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or
+liabilities; and
+
+Level 3: Unobservable inputs that are supported by little or no market activity and that are signiﬁcant to the fair value of the assets or liabilities.
+These inputs are based on the Company’s own assumptions about current market conditions and require signiﬁcant management judgment or
+estimation.
+
+Financial instruments consist of money market funds and certiﬁcates of deposit included in cash equivalents and restricted cash, accounts receivable,
+marketable securities, other assets accounted for at fair value, accounts payable, and accrued liabilities. Money market funds, certiﬁcates of deposit,
+and marketable securities are stated at fair value on a recurring basis. Accounts receivable, accounts payable, and accrued liabilities are stated at their
+carrying value, which approximates fair value due to the short time to the expected receipt or payment date.
+
+
+#### Revenue Recognition
+
+The Company generates revenue from the sale of subscriptions to access its software in the Company’s hosted environment, along with ongoing
+operations and maintenance (“O&M”) services (“Palantir Cloud”); software licenses, primarily term licenses in the customers’ environments, with
+ongoing O&M services (“On-Premises Software”); and professional services.
+
+In accordance with ASC 606, Revenue from Contracts with Customers , the Company recognizes revenue upon the transfer of promised goods or
+services to customers in an amount that reﬂects the consideration to which the Company expects to be entitled in exchange for promised goods or
+services. The Company applies the following five-step revenue recognition model in accounting for its revenue arrangements:
 
 •
-recruit, hire, train, and retain employees;
+Identiﬁcation of the contract(s) with the customer, including whether collectability of the consideration is probable by considering the customers’
+ability and intention to pay;
 
 •
-respond to competitive pressures or unanticipated working capital requirements; or
+Identification of the performance obligations in the contract;
 
 •
-pursue acquisition or other growth or investment opportunities.
-
-Our inability to take any of these actions because adequate funds are not available on acceptable terms could have an adverse impact on our business,
-financial condition, results of operations, and growth prospects.
-
-Our debt agreements contain restrictions that may limit our flexibility in operating our business.
-
-Our credit agreement and related documents, including our pledge and security agreements, contain, and instruments governing any future
-indebtedness of ours would likely contain, a number of covenants that will impose signiﬁcant operating and ﬁnancial restrictions on us, including
-restrictions on our ability to, among other things:
+Determination of the transaction price;
 
 •
-create liens on certain assets;
+Allocation of the transaction price to the performance obligations in the contract; and
 
 •
-incur additional debt;
-
-•
-consolidate, merge, sell or otherwise dispose of all or substantially all of our assets;
-
-•
-sell certain assets;
-
-•
-pay dividends on or make distributions in respect of our capital stock;
-
-•
-place restrictions on certain activities of subsidiaries;
-
-•
-transact with our affiliates; and
-
-•
-use a portion of our cash resources.
-
-Any of these restrictions could limit our ability to plan for or react to market conditions and could otherwise restrict corporate activities. Any failure to
-comply with these covenants could result in a default under our credit facility or instruments governing any future indebtedness of ours. Additionally, our
-credit facility is secured by substantially all of our assets. Upon a default, unless waived, the lenders under our credit facility could elect to terminate
-their commitments and cease making further loans, and, when amounts are outstanding, foreclose on our assets pledged to such lenders to secure our
-obligations under our credit agreement and force us into bankruptcy or liquidation. In addition, a default under our credit facility could trigger a cross
-default under agreements governing any future indebtedness. If we experience a default under our credit facility or instruments governing our future
-indebtedness, our business, financial condition, and results of operations may be adversely impacted.
-
-In addition, a portion of our cash is pledged as cash collateral for letters of credit and bank guarantees which support certain of our real estate leases,
-customer contracts, and other guarantees and ﬁnancing obligations. While these obligations remain outstanding and are cash collateralized, we do not
-have access to and cannot use the pledged cash for our operations or to repay our other indebtedness. As of December 31, 2022, we were in
-compliance with all covenants and restrictions associated with our credit facility.
-
-Variable rate indebtedness that we may incur under our credit facility will subject us to interest rate risk, which could cause our debt service
-obligations to increase significantly.
-
-As of December 31, 2022, no borrowings were outstanding under our credit facility. Any borrowings under the credit facility bear interest at variable
-rates, which exposes us to interest rate risk. Our loans under our credit facility would incur interest at the Secured Overnight Financing Rate (“SOFR”)
-as administered by the Federal Reserve Bank of New York, or a successor administrator of the SOFR (or the applicable benchmark replacement) plus
-2.00% or a base rate plus 1.00%, subject to certain adjustments, and is payable quarterly or more or less frequently in certain circumstances.
-
-We have invested in, and may in the future acquire or invest in, companies and technologies, which may divert our management’s attention,
-and result in additional dilution to our stockholders. We may be unable to integrate acquired businesses and technologies successfully or
-achieve the expected beneﬁts of such acquisitions or investments. We are subject to risks associated with our investments, including a
-partial or complete loss of invested capital.
-
-As part of our business strategy, we have engaged in strategic transactions and alternative investments in the past and expect to evaluate and consider
-potential strategic transactions, including acquisitions of, or investments in, businesses, technologies, services, products and other assets in the future.
-We also may enter into relationships with other businesses to complement or expand our products or our ability to provide services. An acquisition,
-investment or business relationship may result in unforeseen risks, operating difficulties and expenditures, including the following:
+Recognition of revenue when, or as, the Company satisfies a performance obligation.
 
 
-#### 30
+#### 95
+
+
+## Page 96
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+Each of the Company’s signiﬁcant performance obligations and the Company’s application of ASC 606 to its revenue arrangements is discussed in
+further detail below.
+
+
+#### Palantir Cloud
+
+The Company’s Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by
+Palantir and are sold together with stand-ready O&M services, as further described below. The Company promises to provide continuous access to the
+hosted software throughout the contract term. Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term on
+a ratable basis, which is consistent with the transfer of control of the Palantir Cloud subscription to the customer.
+
+
+#### On-Premises Software
+
+Sales of the Company’s software licenses, primarily term licenses, grant customers the right to use functional intellectual property, either on their
+internal hardware infrastructure or on their own cloud instance, over the contractual term and are also sold together with stand-ready O&M services.
+The O&M services include critical updates, support, and maintenance services required to operate the software and, as such, are necessary for the
+software to maintain its intended utility over the contractual term. Because of this requirement, the Company has concluded that the software licenses
+and O&M services, which together the Company refers to as On-Premises Software, are highly interdependent and interrelated and represent a single
+distinct performance obligation within the context of the contract. Revenue is generally recognized over the contract term on a ratable basis.
+
+
+#### Professional Services
+
+The Company’s professional services support the customers’ use of the software and include, as needed, on-demand user support, user-interface
+conﬁguration, training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of on-demand
+professional services for the duration of the contractual term. These services are typically coterminous with a Palantir Cloud subscription or the On-
+Premises Software. Professional services are on-demand, whereby the Company performs services throughout the contract period; therefore, the
+revenue is recognized over the contractual term.
+
+
+#### Contract Liabilities
+
+The timing of customer billing and payment relative to the start of the service period varies from contract to contract; however, the Company bills many
+of its customers in advance of the provision of services under its contracts, resulting in contract liabilities consisting of either deferred revenue or
+customer deposits (“contract liabilities”). Deferred revenue represents billings under noncancelable contracts before the related product or service is
+transferred to the customer. Customer deposits consist of amounts billed and/or paid in advance of the start of the contractual term or for anticipated
+revenue generating activities for the portion of a contract term that is subject to cancellation by our customers. Many of the Company’s arrangements
+include terms that allow the customer to terminate the contract for convenience and receive a pro-rata refund of the amount of the customer deposit for
+the period of time remaining in the contract term after the applicable termination notice period expires. In these arrangements, the Company concluded
+there are no enforceable rights and obligations after such notice period and therefore the consideration received or due from the customer that is
+subject to termination for convenience is recorded as customer deposits.
+
+The payment terms and conditions vary by contract; however, the Company’s terms generally require payment within 30 to 60 days from the invoice
+date. In instances where the timing of revenue recognition diﬀers from the timing of payment, the Company elected to apply the practical expedient in
+accordance with ASC 606 to not adjust contract consideration for the eﬀects of a signiﬁcant ﬁnancing component as the Company expects, at contract
+inception, that the period between when promised goods and services are transferred to the customer and when the customer pays for those goods and
+services will be one year or less. As such, the Company determined its contracts do not generally contain a significant financing component.
+
+
+#### Areas of Judgment and Estimation
+
+The Company’s contracts with customers can include multiple promises to transfer goods or services to the customer. Determining whether promises
+are distinct performance obligations that should be accounted for separately – or not distinct within the context of the contract and, thus, accounted for
+together – requires signiﬁcant judgment. The Company concluded that the promise to provide a software license is highly interdependent and
+interrelated with the promise to provide O&M services and such promises are not distinct within the context of its contracts and are accounted for as a
+single performance obligation as the Company’s On-Premises Software.
+
+Additionally, the pricing of the Company’s contracts is generally ﬁxed; however, it is possible for contracts to include variable consideration, which can
+be based on subjective or objective criteria. The Company includes the estimated amount of variable
+
+
+#### 96
+
+
+## Page 97
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+consideration that it expects to receive to the extent it is probable that a signiﬁcant revenue reversal will not occur. Variable consideration received was
+not material in the periods presented.
+
+
+#### Costs to Obtain and Fulfill Contracts
+
+Incremental costs of obtaining a contract include only those costs that are directly related to the acquisition of contracts, including sales commissions,
+and that would not have been incurred if the contract had not been obtained. The Company recognizes a contract cost asset for the incremental costs
+of obtaining a contract with a customer if it is expected that the economic beneﬁt and amortization period will be longer than one year. Costs to obtain
+contracts were not material in the periods presented.
+
+The Company recognizes an asset for the costs to fulﬁll a contract with a customer if the costs are speciﬁcally identiﬁable, generate or enhance
+resources used to satisfy future performance obligations, and are expected to be recovered. Costs to fulﬁll contracts were not material in the periods
+presented.
+
+
+#### Software Development Costs
+
+The Company evaluates capitalization of certain software development costs subsequent to the establishment of technological feasibility. Based on the
+Company’s product development process and substantial development risks, technological feasibility is established for the Company’s products when
+they are made available for general release. Accordingly, the Company has charged all such costs to research and development expense in the period
+incurred.
+
+
+#### Cost of Revenue
+
+Cost of revenue primarily includes salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing O&M and
+professional services, as well as third-party cloud hosting services, travel costs, allocated overhead, and other direct costs.
+
+
+#### Sales and Marketing Costs
+
+Sales and marketing costs primarily include salaries, stock-based compensation expense, and beneﬁts for personnel involved in sales functions,
+executing on pilots, and performing other brand building activities, as well as third-party cloud hosting services for our pilots, marketing and sales event-
+related costs, travel costs, and allocated overhead. The Company generally charges all such costs to sales and marketing expense in the period
+incurred. Advertising costs are expensed as incurred and included in sales and marketing expense within the consolidated statements of operations.
+Advertising expense totaled $38.6 million and $26.3 million for the years ended December 31, 2022 and 2021, respectively, and was immaterial for the
+year ended December 31, 2020.
+
+
+#### Research and Development Costs
+
+Research and development costs primarily include salaries, stock-based compensation expense, and beneﬁts for personnel involved in performing the
+activities to develop and improve the Company’s platforms and products, as well as third-party cloud hosting services, travel costs, and allocated
+overhead. Research and development costs are expensed as incurred.
+
+
+#### Commitments and Contingencies
+
+Liabilities for loss contingencies arising from claims, disputes, legal proceedings, ﬁnes and penalties, and other sources are recorded when it is
+probable that a liability has been or will be incurred and the amount of the liability can be reasonably estimated. Legal costs incurred in connection with
+loss contingencies are expensed as incurred. Recoveries of such legal costs from insurance policies are recorded as an oﬀset to legal expenses in the
+period they are received.
+
+
+#### Stock-Based Compensation
+
+The Company accounts for stock-based compensation expense in accordance with the fair value recognition and measurement provisions of GAAP,
+which require compensation cost for the grant-date fair value of stock-based awards to be recognized over the requisite service period. The Company
+determines the fair value of stock-based awards granted or modified on the grant date or modification date using appropriate valuation techniques.
+
+
+#### Service-Based Vesting
+
+The Company grants RSUs and stock option awards that vest only based upon the satisfaction of a service condition. For RSUs, the Company
+determines the grant-date fair value of the RSUs as the fair value of the Company’s common stock on the grant date. The Company records stock-
+based compensation expense for stock options and RSUs that vest only based upon the
+
+
+#### 97
+
+
+## Page 98
+
+### Table 98.1
+
+| The rights, including the liquidation and dividend rights, of the holders of Class A, Class B, and Class F common stock (collectively, the “common |
+| --- |
+| stock”) are identical, except with respect to voting and conversion. As the liquidation and dividend rights are identical, the undistributed earnings are |
+| allocated on a proportionate basis and the resulting net loss per share will, therefore, be the same for all classes of common stock on an individual or |
+| comb |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+satisfaction of a service condition on a straight-line basis over the requisite service period, which is generally four years. For stock option awards, the
+Company uses the Black-Scholes option pricing model to determine the fair value of the stock options granted. The Black-Scholes option pricing model
+requires the input of highly subjective assumptions, including the expected term of the option, the expected volatility of the price of the common stock,
+risk-free interest rates, and the expected dividend yield of the common stock. The assumptions used to determine the fair value of the option awards
+represent management’s best estimates. These estimates involve inherent uncertainties and the application of management’s judgment. The Company
+recognizes forfeitures as they occur.
+
+
+#### Performance-Based Vesting
+
+The Company grants awards, including RSUs, that vest upon the satisfaction of both a service condition and a performance condition. The
+performance-based vesting condition for the RSUs granted prior to the Company’s Direct Listing was satisﬁed upon the occurrence of the Direct Listing
+and are expensed using the accelerated attribution method over the remaining service period.
+
+
+#### Employee Benefit Plan
+
+The Company sponsors a 401(k) tax-deferred savings plan for all employees who meet certain eligibility requirements. Participants may contribute, on a
+pretax and post-tax basis, a percentage of their qualifying annual compensation, but not to exceed a maximum contribution amount pursuant to
+Section 401(k) of the Internal Revenue Code. The Company may make additional matching contributions on behalf of the participants. The Company
+did not make matching contributions for the years ended December 31, 2022, 2021, and 2020.
+
+
+#### Income Taxes
+
+The Company estimates its current tax expense together with assessing temporary diﬀerences resulting from diﬀering treatment of items not currently
+deductible for tax purposes. These diﬀerences result in deferred tax assets and liabilities on the Company’s consolidated balance sheets, which are
+estimated based upon the diﬀerence between the ﬁnancial statement and tax bases of assets and liabilities using the enacted tax rates that will be in
+eﬀect when these diﬀerences reverse. In general, deferred tax assets represent future tax beneﬁts to be received when certain expenses previously
+recognized in the Company’s consolidated statements of operations become deductible expenses under applicable income tax laws or loss or credit
+carryforwards are utilized. Accordingly, the realization of the Company’s deferred tax assets is dependent on future taxable income against which these
+deductions, losses, and credits can be utilized.
+
+The Company evaluates the realizability of its deferred tax assets and recognizes a valuation allowance when it is more likely than not that a future
+beneﬁt on such deferred tax assets will not be realized. Changes in the valuation allowance, when recorded, would be included in the Company’s
+consolidated statements of operations. Management’s judgment is required in determining the Company’s valuation allowance recorded against its net
+deferred tax assets.
+
+The Company recognizes the tax beneﬁt from an uncertain tax position only if it is more likely than not that the tax position will be sustained on
+examination by the taxing authorities based on the technical merits of the position. The tax beneﬁts recognized in the consolidated ﬁnancial statements
+from such positions are then measured based on the largest beneﬁt that has a greater than 50% likelihood of being realized upon settlement. The
+Company is subject to the Global Intangible Low Taxed Income (“GILTI”) tax in the U.S. and has elected to treat taxes on future GILTI inclusions as
+current period expense if and when incurred.
+
+
+#### Net Loss Per Share Attributable to Common Stockholders
+
+The Company computes net loss per share attributable to its common stockholders using the two-class method required for participating securities,
+which determines net loss per common share for each class of common stock and participating securities according to dividends declared or
+accumulated and participation rights in distributed and undistributed earnings. The two-class method requires income available to common stockholders
+for the period to be allocated between common stock and participating securities based upon their respective rights to receive dividends as if all income
+for the period had been distributed.
+
+The rights, including the liquidation and dividend rights, of the holders of Class A, Class B, and Class F common stock (collectively, the “common
+stock”) are identical, except with respect to voting and conversion. As the liquidation and dividend rights are identical, the undistributed earnings are
+allocated on a proportionate basis and the resulting net loss per share will, therefore, be the same for all classes of common stock on an individual or
+combined basis. As such, the Company has presented the net loss attributed to its common stock on a combined basis.
+
+
+#### 98
+
+
+## Page 99
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+
+#### Noncontrolling Interests
+
+A noncontrolling interest represents the proportionate equity interest in a subsidiary that is not attributable, either directly or indirectly, to the Company
+and is reported as equity of the Company, separate from the Company’s controlling interest. Revenues, expenses, gains, losses, net income (loss), and
+other comprehensive income (loss) are reported in the consolidated ﬁnancial statements at the consolidated amounts, which include the amounts
+attributable to both the controlling and noncontrolling interest.
+
+
+#### Foreign Currency
+
+Generally, the functional currency of the Company’s international subsidiaries is the local currency of the country in which they operate. The Company
+translates the assets and liabilities of its non-U.S. dollar functional currency subsidiaries into U.S. dollars using exchange rates in eﬀect at the end of
+each reporting period. Revenue and expenses for these subsidiaries are translated using rates that approximate those in eﬀect during the period. Gains
+and losses from these translations are recognized as a cumulative translation adjustment and included in accumulated other comprehensive income
+(loss).
+
+For transactions that are not denominated in the local functional currency, the Company remeasures monetary assets and liabilities at exchange rates
+in eﬀect at the end of each reporting period. Transaction gains and losses from the remeasurement are recognized in other income (expense), net
+within the consolidated statements of operations.
+
+
+#### Recently Adopted Accounting Pronouncements
+
+In October 2021, the Financial Accounting Standards Board issued ASU 2021-08, Business Combinations—Accounting for Contract Assets and
+Contract Liabilities from Contracts with Customers (Topic 805). The new guidance requires contract assets and contract liabilities acquired in a
+business combination to be recognized in accordance with ASC 606 as if the acquirer had originated the contracts. The standard is eﬀective for ﬁscal
+years beginning after December 15, 2022, including interim periods within those ﬁscal years. Early adoption is permitted, including an adoption in an
+interim period. The Company adopted this standard eﬀective October 1, 2022. The adoption of this standard did not have a material eﬀect on the
+Company’s consolidated financial statements.
+
+
+#### 3. Contract Liabilities and Remaining Performance Obligations
+
+
+#### Contract Liabilities
+
+The Company’s contract liabilities consist of deferred revenue and customer deposits. As of December 31, 2022 and 2021, the Company’s contract
+liability balances were $339.2 million and $463.3 million, respectively. Revenue of $ 384.3 million and $378.4 million was recognized during the years
+ended December 31, 2022 and 2021, respectively, that was included in the contract liabilities balances as of December 31, 2021 and 2020,
+respectively.
+
+
+#### Remaining Performance Obligations
+
+The Company’s arrangements with its customers often have terms that span over multiple years. However, the Company allows many of its customers
+to terminate contracts for convenience prior to the end of the stated term with less than twelve months’ notice. Revenue allocated to remaining
+performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in
+certain instances, amounts that will be invoiced. The Company has elected the practical expedient allowing the Company to not disclose remaining
+performance obligations for contracts with original terms of twelve months or less. Cancelable contracted revenue, which includes customer deposits, is
+not considered a remaining performance obligation.
+
+The Company’s remaining performance obligations were $972.7 million as of December 31, 2022, of which the Company expects to recognize
+approximately 53% as revenue over the next 12 months, 38% as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+
+
+#### Disaggregation of Revenue
+
+See Note 13. Segment and Geographic Information for disaggregated revenue by customer segment and geographic region.
+
+
+#### 99
+
+
+## Page 100
+
+### Table 100.1
+
+| Assets: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash and cash equivalents: |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds | $ | 1,149,302 |  | $ | 1,149,302 |  | $ | — |  | $ | — |
+| Certificates of deposit | 6,791 |  |  | — |  |  | 6,791 |  |  | — |  |
+| Restricted cash, current and noncurrent |  |  |  |  |  |  |  |  |  |  |  |
+| Certificates of deposit | 18,707 |  |  | — |  |  | 18,707 |  |  | — |  |
+| Marketable securities: |  |  |  |  |  |  |  |  |  |  |  |
+| Marketable securities | 35,135 |  |  | 35,135 |  |  | — |  |  | — |  |
+| Total | $ | 1,209,935 |  | $ | 1,184,437 |  | $ | 25,498 |  | $ | — |
+
+
+### Table 100.2
+
+| Assets: |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cash and cash equivalents: |  |  |  |  |  |  |  |  |  |  |  |
+| Money market funds | $ | 507,317 |  | $ | 507,317 |  | $ | — |  | $ | — |
+| Certificates of deposit | 6,844 |  |  | — |  |  | 6,844 |  |  | — |  |
+| Restricted cash, current and noncurrent |  |  |  |  |  |  |  |  |  |  |  |
+| Certificates of deposit | 45,048 |  |  | — |  |  | 45,048 |  |  | — |  |
+| Marketable securities: |  |  |  |  |  |  |  |  |  |  |  |
+| Marketable securities | 234,153 |  |  | 234,153 |  |  | — |  |  | — |  |
+| Total | $ | 793,362 |  | $ | 741,470 |  | $ | 51,892 |  | $ | — |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+
+#### 4. Investments and Fair Value Measurements
+
+The following tables present the Company’s assets that are measured at fair value on a recurring basis and indicate the fair value hierarchy of the
+valuation (in thousands):
+
+As of December 31, 2022
+Total
+Level 1
+Level 2
+Level 3
+Assets:
+
+
+#### Cash and cash equivalents:
+
+Money market funds
+$
+1,149,302 
+$
+1,149,302 
+$
+— 
+$
+— 
+Certificates of deposit
+6,791 
+— 
+6,791 
+— 
+Restricted cash, current and noncurrent
+
+Certificates of deposit
+18,707 
+— 
+18,707 
+— 
+Marketable securities:
+
+Marketable securities
+35,135 
+35,135 
+— 
+— 
+Total
+$
+1,209,935 
+$
+1,184,437 
+$
+25,498 
+$
+—
+
+As of December 31, 2021
+Total
+Level 1
+Level 2
+Level 3
+Assets:
+
+
+#### Cash and cash equivalents:
+
+Money market funds
+$
+507,317 
+$
+507,317 
+$
+— 
+$
+— 
+Certificates of deposit
+6,844 
+— 
+6,844 
+— 
+Restricted cash, current and noncurrent
+
+Certificates of deposit
+45,048 
+— 
+45,048 
+— 
+Marketable securities:
+
+Marketable securities
+234,153 
+234,153 
+— 
+— 
+Total
+$
+793,362 
+$
+741,470 
+$
+51,892 
+$
+—
+
+
+#### Certificates of Deposit
+
+The Company’s Level 2 instruments consist of restricted cash invested in certiﬁcates of deposit. The fair value of such instruments is estimated based
+on valuations obtained from third-party pricing services that utilize industry standard valuation models, including both income-based and market-based
+approaches, for which all signiﬁcant inputs are observable either directly or indirectly. These inputs include interest rate curves, foreign exchange rates,
+and credit ratings.
+
+
+#### Marketable Securities
+
+Marketable securities consist of equity securities in publicly-traded companies and are recorded at fair market value each reporting period. Realized and
+unrealized gains and losses are recorded in other income (expense), net on the consolidated statements of operations. During the years ended
+December 31, 2022 and 2021, the Company recorded net unrealized losses of $159.0 million and $72.8 million, respectively, and realized losses of
+$113.1 million during the year ended December 31, 2022. An immaterial amount of realized gains and losses were recorded during the year ended
+December 31, 2021. Net realized and unrealized gains and losses are recorded within other income (expense), net on the consolidated statements of
+operations.
+
+
+#### Investments
+
+Since 2021, the Company has approved and entered into certain agreements (“Investment Agreements”) to purchase shares of various entities,
+including special purpose acquisition companies and/or other privately-held or publicly-traded entities (each, an “Investee,” and such purchases, the
+“Investments”). During the year ended December 31, 2021, the Company purchased shares for a total investment of $326.0 million.
+
+
+#### 100
+
+
+## Page 101
+
+### Table 101.1
+
+| Fast Radius | 2,000 |  | $ | 20,000 |
+| --- | --- | --- | --- | --- |
+| Energy Vault | 850 |  | 8,500 |  |
+| Tritium | 2,500 |  | 15,000 |  |
+| Rigetti | 1,000 |  | 10,000 |  |
+| Allego | 2,000 |  | 20,000 |  |
+| Starry Group Holdings | 2,133 |  | 16,000 |  |
+| Rubicon Technologies | 3,500 |  | 35,000 |  |
+| Total | 13,983 |  | $ | 124,500 |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+The following table presents the details of the investments purchased under such Investment Agreements during the year ended December 31, 2022
+(in thousands):
+
+Entity 
+Share Amount
+Investment Amount
+Fast Radius
+2,000 
+$
+20,000 
+Energy Vault
+850 
+8,500 
+Tritium
+2,500 
+15,000 
+Rigetti
+1,000 
+10,000 
+Allego
+2,000 
+20,000 
+Starry Group Holdings
+2,133 
+16,000 
+Rubicon Technologies
+3,500 
+35,000 
+Total
+13,983 
+$
+124,500
+
+
+#### —————
+
+Investments are in publicly-traded marketable securities at the time of investment.
+
+In connection with signing the Investment Agreements, each Investee or an associated entity and the Company entered into a commercial contract for
+access to the Company’s products and services (collectively, the “Strategic Commercial Contracts”). As of December 31, 2022, the terms of such
+contracts, including contractual options, range from three years to eight years and are subject to termination for cause provisions.
+
+The Company assesses the concurrent agreements under the noncash and consideration paid or payable to a customer  guidance within ASC 606,
+Revenue from Contracts with Customers, as well as the commercial substance of each arrangement considering the customer’s ability and intention to
+pay as well as the Company’s obligation to perform under each contract. As currently assessed, the total value of such Strategic Commercial Contracts
+with Investees or associated entities was $492.7 million as of December 31, 2022, which is inclusive of $ 63.7 million of contractual options. The
+Company performs ongoing assessments of customers’ ﬁnancial condition, including the consideration of customers’ ability and intention to pay, and
+whether all or some portion of the value of such contracts continue to meet the criteria for revenue recognition, among other factors. As of December
+31, 2022, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $166.6 million, of which $118.4 million of revenue
+was recognized during the year ended December 31, 2022.
+
+
+#### Alternative Investments
+
+During the year ended December 31, 2021, the Company purchased $ 50.9 million in 100-ounce gold bars. The gold bars are kept in a secure third-
+party facility located in the northeastern United States. The Company is able to take physical possession of the gold bars stored at the facility at any
+time with reasonable notice. Net unrealized losses related to alternative investments, which are recorded within other income (expense), net on the
+consolidated statements of operations, were not material for the years ended December 31, 2022 and 2021.
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 101
+
+
+## Page 102
+
+### Table 102.1
+
+| Leasehold improvements | $ 80,378 | $ | 72,834 |
+| --- | --- | --- | --- |
+| Computer equipment, software, and other | 52,688 | 16,916 |  |
+| Furniture and fixtures | 13,010 | 8,358 |  |
+| Construction in progress | 5,506 | 3,126 |  |
+| Total property and equipment, gross | 151,582 | 101,234 |  |
+| Less: accumulated depreciation and amortization | (82,412) | (69,930) |  |
+| Total property and equipment, net | $ 69,170 | $ | 31,304 |
+
+
+### Table 102.2
+
+| Accrued payroll and related expenses | $ 43,495 | $ | 60,732 |
+| --- | --- | --- | --- |
+| Accrued taxes | 41,326 | 22,550 |  |
+| Accrued other liabilities | 87,894 | 72,524 |  |
+| Total accrued liabilities | $ 172,715 | $ | 155,806 |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+
+#### 5. Balance Sheet Components
+
+
+#### Property and Equipment, Net
+
+
+#### Property and equipment, net consisted of the following (in thousands):
+
+As of December 31,
+2022
+2021
+Leasehold improvements
+$
+80,378 
+$
+72,834 
+Computer equipment, software, and other
+52,688 
+16,916 
+Furniture and fixtures
+13,010 
+8,358 
+Construction in progress
+5,506 
+3,126 
+Total property and equipment, gross
+151,582 
+101,234 
+Less: accumulated depreciation and amortization
+(82,412)
+(69,930)
+Total property and equipment, net
+$
+69,170 
+$
+31,304
+
+Depreciation and amortization expense related to property and equipment, net was $ 19.5 million, $12.8 million, and $13.9 million for the years ended
+December 31, 2022, 2021, and 2020, respectively.
+
+
+#### Accrued Liabilities
+
+
+#### Accrued liabilities consisted of the following (in thousands):
+
+As of December 31,
+2022
+2021
+Accrued payroll and related expenses
+$
+43,495 
+$
+60,732 
+Accrued taxes
+41,326 
+22,550 
+Accrued other liabilities
+87,894 
+72,524 
+Total accrued liabilities
+$
+172,715 
+$
+155,806
+
+
+#### 6. Debt
+
+
+#### 2014 Credit Facility
+
+In October 2014, the Company entered into an unsecured revolving credit facility, which has been subsequently secured by substantially all of the
+Company’s assets and amended from time to time (as amended, the “2014 Credit Facility”), including on March 31, 2022 (the “March 2022
+Amendment”) and on July 1, 2022 (the “July 2022 Amendment”). The March 2022 Amendment provided for, among other things, an extension of the
+revolving loan facility maturity date to March 31, 2027 and an increase of $100.0 million to the lenders’ revolving commitments for total revolving
+commitments of $500.0 million. The July 2022 Amendment provided for, among other things, a new incremental delayed draw term loan (“DDTL”)
+commitment in an aggregate principal amount of up to $450.0 million, upon the terms and conditions set forth in the 2014 Credit Facility, as amended,
+with new and existing lenders. The DDTL commitment is available to draw upon through July1, 2023 and any drawn amounts will mature on March31,
+2027. As of December 31, 2022, the 2014 Credit Facility allows for the drawdown of up to $950.0 million to fund working capital and general corporate
+expenditures.
+
+Outstanding balances under the 2014 Credit Facility would incur interest at the Secured Overnight Financing Rate (“SOFR”) as administered by the
+Federal Reserve Bank of New York, or a successor administrator of the SOFR (or the applicable benchmark replacement), plus 2.00% or a base rate
+plus 1.00%, subject to certain adjustments. The Company incurs a commitment fee of 0.30% assessed on the daily average undrawn portion of
+revolving and DDTL commitments. Applicable interest and commitment fees are payable quarterly or more or less frequently in certain circumstances.
+The 2014 Credit Facility also allows for an incremental loan facility of additional term loans or revolving loans in an aggregate principal amount up to the
+amount and upon the terms and conditions set forth therein with one or more existing or new lenders upon mutual agreement between the Company
+and such lenders.
+
+
+#### 102
+
+
+## Page 103
+
+### Table 103.1
+
+| Right-of-use assets: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Operating leases |  | Operating lease right-of-use assets |  | $ | 200,240 |  | $ | 216,898 |
+| Total right-of-use assets |  |  |  | $ | 200,240 |  | $ | 216,898 |
+| Lease liabilities: |  |  |  |  |  |  |  |  |
+| Operating leases |  | Operating lease liabilities |  | $ | 45,099 |  | $ | 39,927 |
+|  |  | Operating lease liabilities, noncurrent |  | 204,305 |  |  | 220,146 |  |
+| Total lease liabilities |  |  |  | $ | 249,404 |  | $ | 260,073 |
+
+
+### Table 103.2
+
+| Operating lease expense | $ | 55,483 |  | $ | 51,330 |
+| --- | --- | --- | --- | --- | --- |
+| Short-term lease expense | 4,956 |  |  | 4,165 |  |
+| Variable lease expense | 5,309 |  |  | 7,518 |  |
+| Sublease income | (13,011) |  |  | (19,957) |  |
+| Total lease expense, net | $ | 52,737 |  | $ | 43,056 |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+As of December 31, 2022, the Company had no outstanding debt balances and an aggregate of $ 950.0 million undrawn of revolving and DDTL
+commitments under the 2014 Credit Facility.
+
+The 2014 Credit Facility contains customary representations and warranties, and certain ﬁnancial and nonﬁnancial covenants, including but not limited
+to maintaining minimum liquidity of $50.0 million, and certain limitations on liens and indebtedness. The Company was in compliance with all covenants
+associated with the 2014 Credit Facility as of December 31, 2022.
+
+
+#### 7. Leases
+
+The Company has operating leases primarily for corporate oﬃce space and equipment. Certain lease agreements contain renewal options, rent
+abatement, and escalation clauses that are factored into our determination of lease payments when appropriate. The Company's leases have remaining
+terms up to December 2033, some of which include one or more options to extend the leases up to June 2033. Additionally, some lease contracts
+include termination options within the next five years.
+
+Supplemental balance sheet information related to lease liabilities at December 31, 2022 and 2021 was as follows (in thousands):
+
+As of December 31,
+Lease-Related Assets and Liabilities
+Financial Statement Line Items
+2022
+2021
+Right-of-use assets:
+
+Operating leases
+Operating lease right-of-use assets
+$
+200,240 
+$
+216,898 
+Total right-of-use assets
+$
+200,240 
+$
+216,898 
+Lease liabilities:
+
+Operating leases
+Operating lease liabilities
+$
+45,099 
+$
+39,927 
+Operating lease liabilities, noncurrent
+204,305 
+220,146 
+Total lease liabilities
+$
+249,404 
+$
+260,073
+
+The components of lease expense included in the Company's consolidated statements of operations include (in thousands):
+
+Years Ended December 31,
+2022
+2021
+Operating lease expense
+$
+55,483 
+$
+51,330 
+Short-term lease expense
+4,956 
+4,165 
+Variable lease expense
+5,309 
+7,518 
+Sublease income
+(13,011)
+(19,957)
+Total lease expense, net
+$
+52,737 
+$
+43,056
+
+Variable lease costs are primarily related to payments made to lessors for common area maintenance, property taxes, insurance, and other operating
+expenses. Short-term lease costs primarily represent temporary employee housing. Finance lease costs were not material for the years ended
+December 31, 2022 and 2021.
+
+
+#### 103
+
+
+## Page 104
+
+### Table 104.1
+
+| Year ended December 31, |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023 | $ | 58,843 |  | $ | 18,458 | $ | 40,385 |
+| 2024 | 54,672 |  |  | 16,593 |  | 38,079 |  |
+| 2025 | 50,910 |  |  | 14,356 |  | 36,554 |  |
+| 2026 | 39,173 |  |  | 13,748 |  | 25,425 |  |
+| 2027 | 27,548 |  |  | 14,423 |  | 13,125 |  |
+| Thereafter | 82,738 |  |  | 43,231 |  | 39,507 |  |
+| Total undiscounted liabilities | 313,884 |  |  | 120,809 |  | 193,075 |  |
+| Less: Leases not yet commenced | (8,446) |  |  | — |  | (8,446) |  |
+| Less: Imputed interest | (56,034) |  |  | — |  | (56,034) |  |
+| Total operating lease liabilities | $ | 249,404 |  | $ | 120,809 | $ | 128,595 |
+
+
+### Table 104.2
+
+| Cash paid for operating lease liabilities | $ | 53,772 | $ | 49,228 |
+| --- | --- | --- | --- | --- |
+| Lease liabilities arising from obtaining right-of-use assets | $ | 28,169 | $ | 34,606 |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+Maturities of operating lease liabilities as of December 31, 2022 were as follows (in thousands):
+
+As of December 31, 2022
+Operating Lease
+
+
+#### Commitments
+
+
+#### Less: Sublease
+
+
+#### Income
+
+Net Lease
+Commitments
+Year ended December 31,
+2023
+$
+58,843 
+$
+18,458 
+$
+40,385 
+2024
+54,672 
+16,593 
+38,079 
+2025
+50,910 
+14,356 
+36,554 
+2026
+39,173 
+13,748 
+25,425 
+2027
+27,548 
+14,423 
+13,125 
+Thereafter
+82,738 
+43,231 
+39,507 
+Total undiscounted liabilities
+313,884 
+120,809 
+193,075 
+Less: Leases not yet commenced
+(8,446)
+— 
+(8,446)
+Less: Imputed interest
+(56,034)
+— 
+(56,034)
+Total operating lease liabilities
+$
+249,404 
+$
+120,809 
+$
+128,595
+
+The weighted-average remaining lease term related to the Company’s operating lease liabilities as of December 31, 2022 and 2021 was 6.5 and 6.9
+years, respectively. The weighted-average discount rate related to the Company’s operating lease liabilities as of December 31, 2022 and 2021 was
+6.25% and 6.03%, respectively.
+
+The following table sets forth the supplemental information related to the Company's operating leases for the years ended December 31, 2022 and 2021
+(in thousands):
+
+Years Ended December 31,
+2022
+2021
+Cash paid for operating lease liabilities
+$
+53,772 
+$
+49,228 
+Lease liabilities arising from obtaining right-of-use assets
+$
+28,169 
+$
+34,606
+
+As of December 31, 2022, the Company has additional operating leases for office space that have not yet commenced with future lease obligations of
+$8.4 million. These operating leases will commence in 2023 with lease terms of up to ten years.
+
+
+#### 8. Commitments and Contingencies
+
+
+#### Purchase Commitments
+
+In December 2019, the Company entered into, and subsequently amended, a minimum annual commitment to purchase cloud hosting services of at
+least $1.49 billion over six contract years, with an optional carryover period through June 30, 2029, in exchange for various discounts on such services.
+In May 2022, the agreement was amended to extend the second contract year from June 30, 2022 to September 30, 2022 and the optional carryover
+period from June 30, 2029 to September 30, 2029. If the spend does not meet the minimum annual commitment each year or at the end of the term, the
+Company is obligated to make a return payment. If the diﬀerence is greater than $30.0 million for each of the ﬁrst three contract years or $50.0 million
+for each of the contract years thereafter (“relief amounts”), the Company has the option to pay the respective relief amount for that year for services to
+be utilized in the future and the excess amount of the diﬀerence above the relief amount would be added to the minimum annual commitment of the
+following year through the end of the contract. As of December 31, 2022, the Company had satisﬁed $40.9 million of its $199.0 million commitment for
+the contract year ending September 30, 2023.
+
+
+#### Litigation and Legal Proceedings
+
+From time to time, third parties may assert patent infringement claims against the Company. In addition, from time to time, the Company may be subject
+to other legal proceedings and claims in the ordinary course of business, including claims of alleged infringement of trademarks, copyrights, and other
+intellectual property rights; employment claims; securities claims; investor claims; corporate claims; class action claims; and general contract, tort, or
+other claims. The Company may from time to time also be subject to various legal or government claims, disputes, or investigations. Such matters may
+include, but not be limited to, claims, disputes, allegations, or investigations related to warranty; refund; breach of contract; breach, leak, or misuse of
+
+
+#### 104
+
+
+## Page 105
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+personal data or conﬁdential information; employment; government procurement; intellectual property; government regulation or compliance (including
+but not limited to anti-corruption requirements, export or other trade controls, data privacy or data protection, cybersecurity requirements, or
+antitrust/competition law requirements); securities; investor; corporate; or other matters. The Company establishes an accrual for loss contingencies
+when the loss is both probable and reasonably estimable.
+
+On December 14, 2017, members of KT4 Partners LLC (Managing Member Marc Abramowitz) and Sandra Martin Clark, as trustee for the Marc
+Abramowitz Irrevocable Trust Number 7 (together, “KT4 Plaintiﬀs”), ﬁled an action in the Delaware Superior Court against the Company and Disruptive
+Technology Advisers LLC. The complaint alleges tortious interference with prospective economic advantage and civil conspiracy in connection with a
+potential sale of stock by the KT4 Plaintiﬀs to a third party. The KT4 Plaintiﬀs sought compensatory and punitive damages, interest, fees, and costs. On
+June 27, 2022, the Company and the KT4 Plaintiﬀs entered into an agreement to settle the litigation and certain other matters. The Company has paid
+the amount of the settlement in full and has received the insurance reimbursement as of December 31, 2022. This matter is now concluded.
+
+On September 15, 2022, October 25, 2022, and November 4, 2022, putative securities class action complaints were ﬁled in the United States District
+Court for the District of Colorado, captioned Cupat v. Palantir Technologies Inc., et al. , Case No. 1:22-cv-02384, Allegheny County Employees’
+Retirement System v. Palantir Technologies, Inc., et al., Case No. 1:22-cv-02805, and Shijun Liu, Individually and as Trustee of the Liu Family Trust
+2019 v. Palantir Technologies Inc., et al.,  Case No. 1:22-cv-02893, respectively, naming the Company and certain current and former oﬃcers and
+directors as defendants. The suits allege false and misleading statements about our business and prospects, and purport to allege claims under the
+Securities Exchange Act of 1934, as amended (the “Exchange Act”) and the Securities Act of 1933, as amended (the “Securities Act”), and seek
+unspeciﬁed damages and remedies under Sections 10(b), 20(a), and 20(A) of the Exchange Act and Sections 11 and 15 of the Securities Act. These
+three actions subsequently were consolidated as Cupat v. Palantir Technologies Inc., et al. , Lead Civil Action No. 1:22-cv-02834-CNS-SKC,
+consolidated with civil actions 1:22-cv-02805-CNS-SKC and 1:22-cv-02893-CNS-SKC. On November 21, 2022 and January 13, 2023, stockholder
+derivative actions were ﬁled in the United States District Court for the District of Colorado, captioned Li v. Karp, et al. , Case No. 22-cv-3028 and
+Parmenter v. Karp, et al. , Case No. 23-cv-118, and on January 27, 2023, a stockholder derivative action was ﬁled in the United States District Court for
+the District of Delaware captioned Miao v. Karp, et al. , Case No. 1:23-cv-00103-MN, each against certain current and former oﬃcers and directors
+asserting breach of ﬁduciary duty and related claims relating to the allegations of the securities class action complaints and seek unspeciﬁed damages
+and injunctive remedies under Section 14(a) of the Exchange Act and Delaware law. Because the litigation is in early stages, the Company is unable to
+estimate the reasonably possible loss or range of loss, if any, that may result from these matters.
+
+As of December 31, 2022 and 2021, the Company was not aware of any currently pending legal matters or claims, individually or in the aggregate, that
+are expected to have a material adverse impact on its consolidated financial statements.
+
+
+#### Letters of Credit and Guarantees
+
+The Company had irrevocable standby letters of credit and guarantees, including bank guarantees, outstanding in the amounts of $ 28.8 million and
+$76.2 million as of December 31, 2022 and 2021, respectively, which were fully collateralized. The Company is required to maintain these letters of
+credit and guarantees primarily in connection with operating lease agreements, certain customer contracts, and other guarantees and ﬁnancing
+arrangements. As of December 31, 2022, these letters of credit and guarantees had expiration dates through August 2031.
+
+
+#### Warranties and Indemnification
+
+The Company generally provides a warranty for its software products and services and a service level agreement (“SLA”) for the Company’s
+performance of software operations via its O&M services to its customers. The Company’s products are generally warranted to perform substantially as
+described in the associated product documentation during the subscription term or for a period of up to 90 days where the software is hosted by the
+customer, and the Company includes O&M services as part of its subscription and license agreements to support this warranty and maintain the
+operability of the software. The Company’s services are generally warranted to be performed in a professional manner and by an adequate staﬀ with
+knowledge about the products. In the event there is a failure of such warranties, the Company generally is obligated to correct the product or service to
+conform to the warranty provision, as set forth in the applicable SLA, or, if the Company is unable to do so, the customer is entitled to seek a refund of
+the purchase price of the product and service (generally prorated over the contract term). Due to the absence of historical warranty claims, the
+Company’s expectations of future claims related to products under warranty continue to be insigniﬁcant. The Company has not recorded warranty
+expense or related accruals as of December 31, 2022 and 2021.
+
+The Company generally agrees to indemnify its customers against legal claims that the Company’s software products infringe certain third-party
+intellectual property rights and accounts for its indemniﬁcation obligations. In the event of such a claim, the Company is generally obligated to defend its
+customer against the claim and to either settle the claim at the Company’s expense
+
+
+#### 105
+
+
+## Page 112
+
+### Table 112.1
+
+| Unrecognized tax benefit beginning of year | $ | 65,070 |  | $ | 75,557 |  | $ | 31,702 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Increases in current year tax positions | 5,733 |  |  | 19,638 |  |  | 43,855 |  |
+| Increases in prior year tax positions | 11,497 |  |  | 967 |  |  | — |  |
+| Decreases in prior year tax positions | (36) |  |  | (30,895) |  |  | — |  |
+| Decreases in prior year tax positions due to settlements | (360) |  |  | (197) |  |  | — |  |
+| Decreases in prior year tax positions due to lapse of statute of limitations | — |  |  | — |  |  | — |  |
+| Unrecognized tax benefit end of year | $ | 81,904 |  | $ | 65,070 |  | $ | 75,557 |
+
+
+### Table 112.2
+
+| Numerator |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Net loss attributable to common stockholders | $ | (373,705) |  | $ | (520,379) |  | $ | (1,166,391) |
+| Less: Change in fair value attributable to participating securities | — |  |  | — |  |  | (5,483) |  |
+| Net loss attributable to common stockholders for diluted net loss per share | $ | (373,705) |  | $ | (520,379) |  | $ | (1,171,874) |
+| Denominator |  |  |  |  |  |  |  |  |
+| Weighted-average shares used in computing net loss per share, basic | 2,063,793 |  |  | 1,923,617 |  |  | 977,722 |  |
+| Weighted-average shares used in computing net loss per share, diluted | 2,063,793 |  |  | 1,923,617 |  |  | 979,330 |  |
+| Net loss per share |  |  |  |  |  |  |  |  |
+| Net loss per share attributable to common stockholders, basic | $ | (0.18) |  | $ | (0.27) |  | $ | (1.19) |
+| Net loss per share attributable to common stockholders, diluted | $ | (0.18) |  | $ | (0.27) |  | $ | (1.20) |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+
+#### Uncertain Tax Positions
+
+A reconciliation of the gross unrecognized tax benefits consists of the following (in thousands):
+
+Years Ended December 31,
+2022
+2021
+2020
+Unrecognized tax benefit beginning of year
+$
+65,070 
+$
+75,557 
+$
+31,702 
+Increases in current year tax positions
+5,733 
+19,638 
+43,855 
+Increases in prior year tax positions
+11,497 
+967 
+— 
+Decreases in prior year tax positions
+(36)
+(30,895)
+— 
+Decreases in prior year tax positions due to settlements
+(360)
+(197)
+— 
+Decreases in prior year tax positions due to lapse of statute of limitations
+— 
+— 
+— 
+Unrecognized tax benefit end of year
+$
+81,904 
+$
+65,070 
+$
+75,557
+
+For the years ended December 31, 2022, 2021, and 2020, the Company recorded gross unrecognized tax beneﬁts of $ 81.9 million, $65.1 million, and
+$75.6 million, respectively, that, if recognized, would not beneﬁt the Company’s eﬀective tax rate due to the valuation allowance that currently oﬀsets
+deferred tax assets.
+
+As of December 31, 2022, no significant increases or decreases are expected to the Company’s uncertain tax positions within the next twelve months.
+
+It is the Company’s policy to recognize interest and penalties related to income tax matters in income tax expense. The Company has recorded
+immaterial interest and penalties related to uncertain tax positions as of December 31, 2022 and 2021.
+
+The Company ﬁles U.S. federal, state, and foreign income tax returns in jurisdictions with varying statutes of limitation. The material jurisdictions where
+the Company is subject to potential examination by tax authorities are the U.S. (federal and state) for tax years 2004 through 2022 and the UK for tax
+years 2013 through 2022.
+
+
+#### 12. Net Loss Per Share Attributable to Common Stockholders
+
+The following table presents the calculation of basic and diluted net loss per share attributable to common stockholders (in thousands, except share and
+per share amounts):
+
+As of December 31,
+2022
+2021
+2020
+Numerator
+Net loss attributable to common stockholders
+$
+(373,705) $
+(520,379) $
+(1,166,391)
+Less: Change in fair value attributable to participating securities
+— 
+— 
+(5,483)
+Net loss attributable to common stockholders for diluted net loss per share
+$
+(373,705) $
+(520,379) $
+(1,171,874)
+Denominator
+
+Weighted-average shares used in computing net loss per share, basic
+2,063,793 
+1,923,617 
+977,722 
+Weighted-average shares used in computing net loss per share, diluted
+2,063,793 
+1,923,617 
+979,330 
+Net loss per share
+
+Net loss per share attributable to common stockholders, basic
+$
+(0.18) $
+(0.27) $
+(1.19)
+
+Net loss per share attributable to common stockholders, diluted
+$
+(0.18) $
+(0.27) $
+(1.20)
+
+
+#### 112
+
+
+## Page 113
+
+### Table 113.1
+
+| Options and SARs issued and outstanding | 326,913 |  | 349,977 |  | 535,792 |
+| --- | --- | --- | --- | --- | --- |
+| RSUs outstanding | 126,426 |  | 153,749 |  | 184,870 |
+| Warrants to purchase common stock | 13,042 |  | 13,042 |  | 19,068 |
+| Growth units outstanding | — |  | — |  | 3,583 |
+| Total | 466,381 |  | 516,768 |  | 743,313 |
+
+
+### Table 113.2
+
+| Revenue: |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Government | $ | 1,071,776 |  | $ | 897,356 |  | $ | 610,198 |
+| Commercial | 834,095 |  |  | 644,533 |  |  | 482,475 |  |
+| Total revenue | $ | 1,905,871 |  | $ | 1,541,889 |  | $ | 1,092,673 |
+
+
+### Table 113.3
+
+| Contribution: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Government | $ | 620,677 |  | 58 | % |  | $ | 541,883 |  | 60 | % |  | $ | 346,937 |  | 57 | % |
+| Commercial | 414,496 |  |  | 50 | % |  | 357,546 |  |  | 55 | % |  | 247,320 |  |  | 51 | % |
+| Total contribution | $ | 1,035,173 |  | 54 | % |  | $ | 899,429 |  | 58 | % |  | $ | 594,257 |  | 54 | % |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+The following outstanding potentially dilutive common stock equivalents have been excluded from the computation of diluted net loss per share
+attributable to common stockholders for the periods presented due to their anti-dilutive effect (in thousands):
+
+As of December 31,
+2022
+2021
+2020
+Options and SARs issued and outstanding
+326,913 
+349,977 
+535,792 
+RSUs outstanding
+126,426 
+153,749 
+184,870 
+Warrants to purchase common stock
+13,042 
+13,042 
+19,068 
+Growth units outstanding
+— 
+— 
+3,583 
+Total
+466,381 
+516,768 
+743,313
+
+
+#### 13. Segment and Geographic Information
+
+The following reporting segment tables reﬂect the results of the Company’s reportable operating segments consistent with the manner in which the
+CODM evaluates the performance of each segment and allocates the Company’s resources. The CODM does not evaluate the performance of the
+Company’s assets on a segment basis for internal management reporting and, therefore, such information is not presented.
+
+Contribution is used, in part, to evaluate the performance of, and allocate resources to, each of the segments. A segment’s contribution is calculated as
+segment revenue less the related costs of revenue and sales and marketing expenses. It excludes certain operating expenses that are not allocated to
+segments because they are separately managed at the consolidated corporate level. These unallocated costs include stock-based compensation
+expense, research and development expenses, and general and administrative expenses.
+
+Financial information for each reportable segment was as follows (in thousands):
+
+Years Ended December 31,
+2022
+2021
+2020
+Revenue:
+Government
+$
+1,071,776 
+$
+897,356 
+$
+610,198 
+Commercial
+834,095 
+644,533 
+482,475 
+Total revenue
+$
+1,905,871 
+$
+1,541,889 
+$
+1,092,673
+
+Years Ended December 31,
+2022
+2021
+2020
+Amount
+%
+Amount
+%
+Amount
+%
+Contribution:
+Government
+$
+620,677 
+58 % $
+541,883 
+60 % $
+346,937 
+57 %
+Commercial
+414,496 
+50 %
+357,546 
+55 %
+247,320 
+51 %
+Total contribution
+$
+1,035,173 
+54 % $
+899,429 
+58 % $
+594,257 
+54 %
+
+
+#### 113
+
+
+## Page 114
+
+### Table 114.1
+
+| Loss from operations | $ | (161,201) |  | $ (411,046) |  | $ | (1,173,679) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development expenses (1) | 265,808 |  |  | 237,189 |  | 203,597 |  |
+| General and administrative expenses (1) | 365,768 |  |  | 295,071 |  | 293,637 |  |
+| Total stock-based compensation expense | 564,798 |  |  | 778,215 |  | 1,270,702 |  |
+| Total contribution | $ | 1,035,173 |  | $ 899,429 |  | $ | 594,257 |
+
+
+### Table 114.2
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| United States | $ | 1,161,416 |  | 61 | % | $ | 879,156 | 57 | % |  | $ | 573,549 |  | 52 | % |
+| United Kingdom | 220,942 |  |  | 12 | % | 173,362 |  | 11 | % |  | 132,427 |  |  | 12 | % |
+| Rest of world (1) | 523,513 |  |  | 27 | % | 489,371 |  | 32 | % |  | 386,697 |  |  | 36 | % |
+| Total revenue | $ | 1,905,871 |  | 100 | % | $ | 1,541,889 | 100 | % |  | $ | 1,092,673 |  | 100 | % |
+
+
+### Table 114.3
+
+| Property and equipment, net: |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| United States | $ | 46,599 | 67 | % |  | $ | 18,728 |  | 60 | % |
+| Japan | 13,318 |  | 19 | % |  | 1,340 |  |  | 4 | % |
+| United Kingdom | 6,746 |  | 10 | % |  | 8,375 |  |  | 27 | % |
+| Rest of world | 2,507 |  | 4 | % |  | 2,861 |  |  | 9 | % |
+| Total property and equipment, net | $ | 69,170 | 100 | % |  | $ | 31,304 |  | 100 | % |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+The reconciliation of contribution to loss from operations is as follows (in thousands):
+
+Years Ended December 31,
+2022
+2021
+2020
+Loss from operations
+$
+(161,201) $
+(411,046) $
+(1,173,679)
+Research and development expenses
+265,808 
+237,189 
+203,597 
+General and administrative expenses 
+365,768 
+295,071 
+293,637 
+Total stock-based compensation expense
+564,798 
+778,215 
+1,270,702 
+Total contribution
+$
+1,035,173 
+$
+899,429 
+$
+594,257
+
+
+#### —————
+
+Excludes stock-based compensation expense.
+
+
+#### Geographic Information
+
+Revenue by geography is based on the customer’s headquarters or agency location at the time of sale. Revenue is as follows (in thousands, except
+percentages):
+
+Years Ended December 31,
+2022
+2021
+2020
+Amount
+%
+Amount
+%
+Amount
+%
+Revenue:
+United States
+$
+1,161,416 
+61 % $
+879,156 
+57 % $
+573,549 
+52 %
+United Kingdom
+220,942 
+12 %
+173,362 
+11 %
+132,427 
+12 %
+Rest of world 
+523,513 
+27 %
+489,371 
+32 %
+386,697 
+36 %
+Total revenue
+$
+1,905,871 
+100 % $
+1,541,889 
+100 % $
+1,092,673 
+100 %
+
+
+#### —————
+
+No other country represented 10% or more of total revenue for the years ended December 31, 2022, 2021, or 2020.
+
+Property and equipment, net is attributed to the Company’s office locations as follows (in thousands, except percentages):
+
+As of December 31,
+2022
+2021
+Amount
+%
+Amount
+%
+Property and equipment, net:
+United States
+$
+46,599 
+67 % $
+18,728 
+60 %
+Japan
+13,318 
+19 %
+1,340 
+4 %
+United Kingdom
+6,746 
+10 %
+8,375 
+27 %
+Rest of world
+2,507 
+4 %
+2,861 
+9 %
+Total property and equipment, net
+$
+69,170 
+100 % $
+31,304 
+100 %
+
+
+#### 14. Business Combinations
+
+On November 8, 2022, the Company gained the right to majority representation on the board of directors of Palantir Japan, thereby obtaining a
+controlling interest. Prior to obtaining a controlling interest, the Company accounted for its 50% ownership in Palantir Japan as an equity method
+investment, which was created to distribute Palantir platforms to the Japanese market. This transaction was accounted for as a “step acquisition” (as
+deﬁned by U.S. GAAP), as such, the Company remeasured its pre-existing equity interest in Palantir Japan immediately prior to the completion of the
+acquisition to its estimated fair value. The results of Palantir Japan have been included in the Company’s consolidated ﬁnancial statements since the
+acquisition date, with the portion outside of its control forming a noncontrolling interest.
+
+The fair value of Palantir Japan on the acquisition date totaled $ 149.0 million, which included the Company’s equity interest immediately prior to the
+acquisition of $74.5 million and the noncontrolling interest of $ 74.5 million. The amounts recognized
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### (1)
+
+
+#### 114
+
+
+## Page 115
+
+### Table 115.1
+
+| Customer relationships | 4.85 |  | $ | 10,400 |  | $ | (347) |  | $ | 10,053 |  | $ | — |  | $ | — |  | $ | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Reacquired rights | 6.85 |  | 17,618 |  |  | (419) |  |  | 17,199 |  |  | — |  |  | — |  |  | — |  |
+| Backlog | 1.85 |  | 6,700 |  |  | (558) |  |  | 6,142 |  |  | — |  |  | — |  |  | — |  |
+| Other | 1.27 |  | 5,717 |  |  | (3,572) |  |  | 2,145 |  |  | 5,717 |  |  | (1,881) |  |  | 3,836 |  |
+| Total intangible assets |  |  | $ | 40,436 |  | $ | (4,897) |  | $ | 35,539 |  | $ | 5,717 |  | $ | (1,881) |  | $ | 3,836 |
+
+
+### Table 115.2
+
+| 2023 | $ | 9,637 |
+| --- | --- | --- |
+| 2024 | 7,844 |  |
+| 2025 | 4,597 |  |
+| 2026 | 4,597 |  |
+| 2027 | 4,250 |  |
+| Thereafter | 4,614 |  |
+| Total | $ | 35,539 |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+of assets acquired and liabilities assumed as of the acquisition date included: cash of $ 66.7 million; goodwill of $36.1 million; intangible assets of
+$34.7 million related to customer relationships, reacquired rights, and backlog; $32.5 million of other identiﬁable assets; and $ 21.0 million of net
+liabilities. The intangible assets are reported in other assets and are being amortized over a period of two to seven years in accordance with the
+underlying pattern of economic beneﬁt reﬂected by the future net cash ﬂows. Goodwill is reported in other assets and is primarily attributed to the value
+expected from synergies resulting from the Palantir Japan acquisition. None of the goodwill recognized is expected to be deductible for income tax
+purposes.
+
+The acquisition-date fair value of the noncontrolling and controlling equity interest was determined using a combination of the income and market
+approaches. With respect to intangible assets, the estimated fair values were determined based on the excess earnings method of the income
+approach. These models used primarily Level 3 inputs, including estimates of projected revenue growth rates, projected EBITDA margins, and an
+estimated discount rate.
+
+In accordance with accounting for a step acquisition, the Company recognized a gain of $ 44.3 million as a result of remeasuring its pre-existing interest
+in Palantir Japan held immediately before the business combination, which is included in other income (expense), net in the consolidated statements of
+operations.
+
+The amounts of Palantir Japan’s revenue and net income included in the Company’s consolidated statement of operations for the year ended
+December 31, 2022 were immaterial. This acquisition did not have a material impact on the Company’s reported revenue or net loss amounts for any
+period presented; therefore, historical and pro forma disclosures have not been presented.
+
+
+#### 15. Intangible Assets and Goodwill
+
+Intangible assets subject to amortization that are not fully amortized are as follows (in thousands):
+
+Weighted
+average useful
+
+
+#### life
+
+As of December 31, 2022
+As of December 31, 2021
+
+Gross
+Carrying
+
+
+#### Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Net Carrying
+
+
+#### Amount
+
+Gross
+Carrying
+
+
+#### Amount
+
+
+#### Accumulated
+
+
+#### Amortization
+
+
+#### Net Carrying
+
+Amount
+Customer relationships
+4.85 $
+10,400 
+$
+(347)
+$
+10,053 
+$
+— 
+$
+— 
+$
+— 
+Reacquired rights
+6.85
+17,618 
+(419)
+17,199 
+— 
+— 
+— 
+Backlog
+1.85
+6,700 
+(558)
+6,142 
+— 
+— 
+— 
+Other
+1.27
+5,717 
+(3,572)
+2,145 
+5,717 
+(1,881)
+3,836 
+Total intangible assets
+$
+40,436 
+$
+(4,897)
+$
+35,539 
+$
+5,717 
+$
+(1,881)
+$
+3,836
+
+Amortization expense of intangible assets was not material for the years ended December 31, 2022 and 2021.
+
+As of December 31, 2022, expected amortization expense for the unamortized ﬁnite-lived intangible assets for the next ﬁve years and thereafter is as
+follows (in thousands):
+
+Year ended December 31,
+Amount
+2023
+$
+9,637 
+2024
+7,844 
+2025
+4,597 
+2026
+4,597 
+2027
+4,250 
+Thereafter
+4,614 
+Total
+$
+35,539
+
+
+#### 115
+
+
+## Page 116
+
+### Table 116.1
+
+| Goodwill at December 31, 2021 | $ | 1,869 |
+| --- | --- | --- |
+| Acquisitions | 36,069 |  |
+| Goodwill at December 31, 2022 | $ | 37,938 |
+
+
+Palantir Technologies Inc.
+Notes to Consolidated Financial Statements (continued)
+
+Changes in the carrying amount of goodwill, which is reported in the commercial segment, for the year ended December 31, 2022 are as follows (in
+thousands):
+
+Amount
+Goodwill at December 31, 2021
+$
+1,869 
+Acquisitions
+36,069 
+Goodwill at December 31, 2022
+$
+37,938
+
+
+#### 116
+
+
+## Page 117
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+
+### ITEM 9A. CONTROLS AND PROCEDURES
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we ﬁle or submit under the
+Exchange Act is recorded, processed, summarized, and reported within the time periods speciﬁed in SEC rules and forms, and that such information is
+accumulated and communicated to our management, including our Chief Executive Oﬃcer and Chief Financial Oﬃcer, as appropriate, to allow timely
+decisions regarding required disclosure.
+
+Our management, with the participation and supervision of our Chief Executive Oﬃcer and our Chief Financial Oﬃcer, have evaluated the eﬀectiveness
+of our disclosure controls and procedures (as deﬁned in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by
+this Annual Report on Form 10-K. Based on such evaluation, our Chief Executive Oﬃcer and Chief Financial Oﬃcer have concluded that as of such
+date, our disclosure controls and procedures were, in design and operation, effective at a reasonable assurance level.
+
+
+#### Management’s Report on Internal Control Over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over ﬁnancial reporting, as deﬁned in Rule 13a-15(f) of the
+Exchange Act. Under the supervision and with the participation of our principal executive oﬃcer and principal ﬁnancial oﬃcer and oversight of the Board
+of Directors, we conducted an evaluation of the eﬀectiveness of our internal control over ﬁnancial reporting based on the criteria set forth in Internal
+Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on our
+evaluation, management concluded that our internal control over financial reporting was effective as of December 31, 2022.
+
+In accordance with guidance issued by the SEC, companies are permitted to exclude acquisitions from their ﬁnal assessment of internal control over
+ﬁnancial reporting for the ﬁrst ﬁscal year in which the acquisition occurred. Our management’s evaluation of internal control over ﬁnancial reporting
+excluded the internal control activities of Palantir Japan, which we acquired in November 2022, as discussed in Note 14. Business Combinations in the
+consolidated ﬁnancial statements included elsewhere within this Annual Report on Form 10-K. The ﬁnancial results of Palantir Japan were included in
+the consolidated ﬁnancial statements from the date of acquisition and constituted less than 5% of total and net assets as of December 31, 2022 and
+less than 1% of revenues for the year then ended.
+
+Our independent registered public accounting ﬁrm, Ernst & Young LLP, has issued an audit report with respect to our internal control over ﬁnancial
+reporting, which is included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d) and 15d-
+15(d) of the Exchange Act that occurred during the period covered by this Annual Report on Form 10-K that have materially aﬀected, or are reasonably
+likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the exercise of
+judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct completely.
+Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal control over
+ﬁnancial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute assurance of achieving the
+desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the fact that there are resource constraints and that
+management is required to apply its judgment in evaluating the beneﬁts of possible controls and procedures relative to their costs. Moreover,
+projections of any evaluation of eﬀectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor and upgrade our internal
+controls as necessary or appropriate for our business but cannot assure you that such improvements will be suﬃcient to provide us with eﬀective
+internal control over financial reporting.
+
+
+#### 117

@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2021_Q3_10-Q
+# Financial Report: MICROSOFT_2021_Q3_10-Q
 
 - **Source File**: `MICROSOFT_2021_Q3_10-Q.pdf`
-- **Total Pages**: 71
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 71
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -6179,781 +6179,6 @@ expiration date, and may be terminated at any time. As of March 31, 2021, $14.9 
 #### 25
 
 
-## Page 26
-
-### Table 26.1
-
-| First Quarter |  |  | 25 |  |  | $ | 5,270 |  |  |  | 29 |  |  | $ | 4,000 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.2
-
-| Third Quarter |  |  | 25 |  |  |  | 5,750 |  |  |  | 37 |  |  |  | 6,000 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.3
-
-| September 15, 2020 |  |  | November 19, 2020 |  |  | December 10, 2020 |  |  | $ | 0.56 |  |  | $ | 4,230 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.4
-
-| March 16, 2021 |  |  | May 20, 2021 |  |  | June 10, 2021 |  |  |  | 0.56 |  |  |  | 4,219 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.5
-
-| September 18, 2019 |  |  | November 21, 2019 |  |  | December 12, 2019 |  |  | $ | 0.51 |  |  | $ | 3,886 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.6
-
-| March 9, 2020 |  |  | May 21, 2020 |  |  | June 11, 2020 |  |  |  | 0.51 |  |  |  | 3,865 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-We repurchased the following shares of common stock under the share repurchase program:
- 
-(In millions)
- 
-Shares  
-Amount  
-Shares  
-Amount
-
-Fiscal Year
- 
-   
-2021  
-   
-2020
-
-First Quarter
-  
-25  $
-5,270   
-29  $
-4,000 
-Second Quarter
-  
-27   
-5,750   
-32   
-4,600 
-Third Quarter
-  
-25   
-5,750   
-37   
-6,000 
- 
-  
-    
-    
-    
-  
- 
-  
-    
-    
-    
-  
-Total
-  
-77  $
-16,770   
-98  $
-14,600 
- 
-  
- 
-   
-    
-    
-  
- 
-Shares repurchased during ﬁscal year 2021 were under the share repurchase program approved on September 18, 2019. Shares repurchased
-during the third quarter of ﬁscal year 2020 were under the share repurchase programs approved on both September 20, 2016 and September
-18, 2019. Shares repurchased during the ﬁrst and second quarters of ﬁscal year 2020 were under the share repurchase program approved on
-September 20, 2016. The above table excludes shares repurchased to settle employee tax withholding related to the vesting of stock awards of
-$1.1 billion and $3.4 billion for the three and nine months ended March 31, 2021, respectively, and $ 1.1 billion and $2.6 billion for the three and
-nine months ended March 31, 2020, respectively. All repurchases were made using cash resources.
-
-
-#### Dividends
-
-
-#### Our Board of Directors declared the following dividends:
-
-
-#### Declaration Date
-
-
-#### Record Date
-
-
-#### Payment Date
-
-Dividend
-Per Share  
-Amount
-
-Fiscal Year 2021
-   
-   
-  
-   
-(In millions)
-
-September 15, 2020
-  November 19, 2020
-  December 10, 2020
-  $
-0.56  $
-4,230 
-December 2, 2020
-  February 18, 2021
-  March 11, 2021
-   
-0.56   
-4,221 
-March 16, 2021
-  May 20, 2021
-  June 10, 2021
-   
-0.56   
-4,219 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
- 
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
-Total
-   
-    
-  $
-1.68  $
-12,670 
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
-Fiscal Year 2020
-
-September 18, 2019
-  November 21, 2019
-  December 12, 2019
-  $
-0.51  $
-3,886 
-December 4, 2019
-  February 20, 2020
-  March 12, 2020
-   
-0.51   
-3,876 
-March 9, 2020
-  May 21, 2020
-  June 11, 2020
-   
-0.51   
-3,865 
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
-Total
-   
-   
-  $
-1.53  $
-11,627 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-    
-  
- 
-The dividend declared on March 16, 2021 was included in other current liabilities as of March 31, 2021.
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| Balance, beginning of period |  | $ | (26 | ) |  | $ | (6 | ) |  | $ | (38 | ) |  | $ | 0 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.2
-
-| Reclassification adjustments for (gains) losses included in earnings |  |  | 26 |  |  |  | 12 |  |  |  | (15 | ) |  |  | 9 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.3
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | 20 |  |  |  | 10 |  |  |  | (13 | ) |  |  | 8 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.4
-
-| Balance, end of period |  | $ | (8 | ) |  | $ | (42 | ) |  | $ | (8 | ) |  | $ | (42 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.5
-
-| Balance, beginning of period |  | $ | 4,795 |  |  | $ | 1,645 |  |  | $ | 5,478 |  |  | $ | 1,488 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.6
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | (11 | ) |  |  | 5 |  |  |  | (47 | ) |  |  | (1 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.7
-
-| Amounts reclassified from accumulated other comprehensive income (loss) |  |  | (9 | ) |  |  | 4 |  |  |  | (37 | ) |  |  | (1 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.8
-
-| Cumulative effect of accounting changes |  |  | 0 |  |  |  | 0 |  |  |  | 10 |  |  |  | 0 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.9
-
-| Balance, beginning of period |  | $ | (1,402 | ) |  | $ | (1,894 | ) |  | $ | (2,254 | ) |  | $ | (1,828 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.10
-
-| Balance, end of period |  | $ | (1,620 | ) |  | $ | (2,435 | ) |  | $ | (1,620 | ) |  | $ | (2,435 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-### NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
-
-The following table summarizes the changes in accumulated other comprehensive income (loss) by component:
-
-
-#### (In millions)
-
-
-#### Three Months Ended
-
-
-#### March 31,
-
-
-#### Nine Months Ended
-
-
-#### March 31,
-
-
-#### 2021
-
-2020 
- 
- 
-2021 
- 
- 
-2020
-
-
-#### Derivatives
-
-Balance, beginning of period
- 
-$
-(26)  
-$
-(6)  
-$
-(38)  
-$
-0 
-Unrealized gains (losses), net of tax of $0, $(12), $12, and
-
-
-#### $(13)
-
-
-#### (2)
-
-
-#### (46)
-
-
-#### 43
-
-
-#### (50)
-
-
-#### Reclassification adjustments for (gains) losses included in
-
-
-#### earnings
-
-
-#### 26
-
-
-#### 12
-
-
-#### (15)
-
-9 
-Tax expense (benefit) included in provision for income taxes
- 
- 
-(6)  
- 
-(2)   
-2   
-(1)
-
-
-#### Amounts reclassified from accumulated other
-
-
-#### comprehensive income (loss)
-
-
-#### 20
-
-
-#### 10
-
-
-#### (13)
-
-8 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Net change related to derivatives, net of tax of $6, $(10), $10,
-
-
-#### and $(12)
-
-
-#### 18
-
-
-#### (36)
-
-
-#### 30
-
-
-#### (42)
-
-Balance, end of period
- 
-$
-(8)
- 
-$
-(42)  
-$
-(8)  
-$
-(42)
-
-
-#### Investments
-
-Balance, beginning of period
- 
-$
-4,795 
- 
-$
-1,645  
-$
-5,478  
-$
-1,488 
-Unrealized gains (losses), net of tax of  $(451), $932, $(629),
-
-
-#### and $977
-
-
-#### (1,696)
-
-
-#### 3,504
-
-
-#### (2,361)
-
-3,666 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Reclassification adjustments for (gains) losses included in
-
-
-#### other income (expense), net
-
-
-#### (11)
-
-
-#### 5
-
-
-#### (47)
-
-(1)
-Tax expense (benefit) included in provision for income taxes
- 
- 
-2 
- 
- 
-(1)   
-10   
-0 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Amounts reclassified from accumulated other
-
-
-#### comprehensive income (loss)
-
-
-#### (9)
-
-
-#### 4
-
-
-#### (37)
-
-
-#### (1)
-
-
-#### Net change related to investments, net of tax of $(453), $933,
-
-
-#### $(639), and $977
-
-
-#### (1,705)
-
-
-#### 3,508
-
-
-#### (2,398)
-
-3,665 
-Cumulative effect of accounting changes
-  
-0 
-  
-0   
-10   
-0 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Balance, end of period
- 
-$
-3,090 
- 
-$
-5,153  
-$
-3,090  
-$
-5,153 
- 
-   
-    
-    
-    
- 
- 
-   
-    
-    
-    
- 
-Translation Adjustments and Other
-
-Balance, beginning of period
- 
-$
-(1,402)
- 
-$
-(1,894)  
-$
-(2,254)  
-$
-(1,828)
-Translation adjustments and other, net of tax of $0, $(51),
-
-
-#### $(9), and $(59)
-
-
-#### (218)
-
-
-#### (541)
-
-
-#### 634
-
-
-#### (607)
-
-Balance, end of period
- 
-$
-(1,620)
- 
-$
-(2,435)  
-$
-(1,620)  
-$
-(2,435)
-
-Accumulated other comprehensive income, end of period
- 
-$
-1,462 
- 
-$
-2,676  
-$
-1,462  
-$
-2,676
-
-
-#### 27
-
-
 ## Page 28
 
 
@@ -7383,3 +6608,209 @@ customary closing conditions.
 
 
 #### 30
+
+
+## Page 31
+
+
+### PART I
+
+
+#### Item 1
+
+
+### REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+#### To the Stockholders and the Board of Directors of Microsoft Corporation
+
+
+#### Results of Review of Interim Financial Information
+
+We have reviewed the accompanying consolidated balance sheet of Microsoft Corporation and subsidiaries (the "Company") as of March
+31, 2021, the related consolidated statements of income, comprehensive income, cash ﬂows, and stockholders' equity for the three-month
+and nine-month periods ended March 31, 2021 and 2020, and the related notes (collectively referred to as the "interim ﬁnancial
+information"). Based on our reviews, we are not aware of any material modiﬁcations that should be made to the accompanying interim
+financial information for it to be in conformity with accounting principles generally accepted in the United States of America.
+
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States)
+(PCAOB), the consolidated balance sheet of the Company as of June 30, 2020, and the related consolidated statements of income,
+comprehensive income, cash ﬂows, and stockholders’ equity for the year then ended (not presented herein); and in our report dated July
+30, 2020, we expressed an unqualiﬁed opinion on those consolidated ﬁnancial statements. In our opinion, the information set forth in the
+accompanying consolidated balance sheet as of June 30, 2020, is fairly stated, in all material respects, in relation to the consolidated
+balance sheet from which it has been derived.
+
+
+#### Basis for Review Results
+
+This interim ﬁnancial information is the responsibility of the Company's management. We are a public accounting ﬁrm registered with the
+PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the
+applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our reviews in accordance with standards of the PCAOB. A review of interim ﬁnancial information consists principally of
+applying analytical procedures and making inquiries of persons responsible for ﬁnancial and accounting matters. It is substantially less in
+scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion
+regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+
+/S/ DELOITTE & TOUCHE LLP
+ 
+Seattle, Washington
+April 27, 2021
+
+
+#### 31
+
+
+## Page 32
+
+
+### PART I
+
+
+#### Item 2
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+
+### OPERATIONS
+
+
+#### Note About Forward-Looking Statements
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of
+1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the
+following sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” (Part II, Item 1A
+of this Form 10-Q). These forward-looking statements generally are identiﬁed by the words “believe,” “project,” “expect,” “anticipate,” “estimate,”
+“intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar
+expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may
+cause actual results to diﬀer materially. We describe risks and uncertainties that could cause actual results and events to diﬀer materially in
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures about
+Market Risk” (Part I, Item 3 of this Form 10-Q), and “Risk Factors”. We undertake no obligation to update or revise publicly any forward-looking
+statements, whether because of new information, future events, or otherwise.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader
+understand the results of operations and ﬁnancial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read
+in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2020, and our ﬁnancial statements and the accompanying
+Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+
+
+### OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive
+to create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity,
+large business competitiveness, and public-sector eﬃciency. They also support new startups, improve educational and health outcomes, and
+empower human ingenuity.
+
+We generate revenue by oﬀering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of
+software products; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most
+signiﬁcant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services;
+datacenter costs in support of our cloud-based services; and income taxes.
+
+As the world continues to respond to the coronavirus (“COVID-19”), we are working to do our part by ensuring the safety of our employees,
+striving to protect the health and well-being of the communities in which we operate, and providing technology and resources to our customers to
+help them do their best work while remote.
+
+Highlights from the third quarter of fiscal year 2021 compared with the third quarter of fiscal year 2020 included:
+
+•
+Commercial cloud revenue increased 33% to $17.7 billion.
+
+•
+Office Commercial products and cloud services revenue increased 14%, driven by Office 365 Commercial growth of 22%.
+
+•
+Oﬃce Consumer products and cloud services revenue increased 5%, and Microsoft 365 Consumer subscribers increased to 50.2
+million.
+
+•
+LinkedIn revenue increased 25%.
+
+•
+Dynamics products and cloud services revenue increased 26%, driven by Dynamics 365 growth of 45%.
+
+•
+Server products and cloud services revenue increased 26%, driven by Azure growth of 50%.
+
+•
+Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 10%.
+
+•
+Windows Commercial products and cloud services revenue increased 10%.
+
+•
+Xbox content and services revenue increased 34%.
+
+
+#### 32
+
+
+## Page 33
+
+
+### PART I
+
+
+#### Item 2
+
+•
+Search advertising revenue, excluding traffic acquisition costs, increased 17%.
+
+•
+Surface revenue increased 12%.
+
+On March 9, 2021, we completed our acquisition of ZeniMax Media Inc. (“ZeniMax”), the parent company of Bethesda Softworks LLC, for a total
+purchase price of $8.1 billion, consisting primarily of cash. The purchase price included $768 million of cash and cash equivalents acquired. The
+ﬁnancial results of ZeniMax have been included in our consolidated ﬁnancial statements since the date of the acquisition. ZeniMax is reported as
+part of our More Personal Computing segment. Refer to Note 7 – Business Combinations of the Notes to Financial Statements (Part I, Item 1 of
+this Form 10-Q) for further discussion.
+
+
+#### Industry Trends
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the
+changing demands of customers and users, industry trends, and competitive forces.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers
+prefer evolve rapidly, and inﬂuence how users access services in the cloud, and in some cases, the user’s choice of which suite of cloud-based
+services to use. We must continue to evolve and adapt over an extended time in pace with this changing environment. The investments we are
+making in infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+
+Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide.
+We compete for talented individuals globally by oﬀering an exceptional working environment, broad customer reach, scale in resources, the
+ability to grow one’s career across many diﬀerent products and businesses, and competitive compensation and beneﬁts. Aggregate demand for
+our software, services, and devices is correlated to global macroeconomic and geopolitical factors, which remain dynamic.
+
+Our international operations provide a signiﬁcant portion of our total revenue and expenses. Many of these revenue and expenses are
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may signiﬁcantly aﬀect revenue and
+expenses. Weakening of the U.S. dollar relative to certain foreign currencies increased reported revenue and expenses from our international
+operations for the three months ended March 31, 2021, and did not have a material impact on reported revenue or expenses from our
+international operations for the nine months ended March 31, 2021.
+
+Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and other risks.
+
+
+### COVID-19
+
+In ﬁscal year 2021, the COVID-19 pandemic continued to impact our business operations and ﬁnancial results. Cloud usage and demand
+beneﬁted as customers accelerate their digital transformation priorities. Our consumer businesses also beneﬁted from the remote environment,
+with continued demand for PCs and productivity tools, as well as strong engagement across our Gaming platform. We saw improvement in
+customer advertising spend, but continued to experience weakness in transactional licensing and savings in operating expenses related to
+COVID-19. The COVID-19 pandemic may continue to impact our business operations and ﬁnancial operating results, and there is uncertainty in
+the nature and degree of its continued effects over time. Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for further discussion.
+
+
+#### Seasonality
+
+Our revenue ﬂuctuates quarterly and is generally higher in the second and fourth quarters of our ﬁscal year. Second quarter revenue is driven by
+corporate year-end spending trends in our major markets and holiday season spending by consumers, and fourth quarter revenue is driven by
+the volume of multi-year on-premises contracts executed during the period.
+
+
+#### 33

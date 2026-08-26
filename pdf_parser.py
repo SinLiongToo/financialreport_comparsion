@@ -94,13 +94,44 @@ class PDFToMarkdownParser:
 
         doc = fitz.open(pdf_path)
         total_pages = len(doc)
-        pages_to_process = min(total_pages, max_pages) if max_pages else total_pages
+
+        # Smart Page Selection:
+        # If PDF has <= 40 pages, parse all.
+        # If PDF is long (e.g. 100-200 pages 10-K/20-F), always include:
+        # 1. Front sections (pages 1..25) for Business overview, MD&A, and Human capital disclosures
+        # 2. Financial Statements (Consolidated Statements of Income/Operations, Balance Sheets, Segment Reporting)
+        target_pages = set()
+        if total_pages <= 40:
+            target_pages = set(range(total_pages))
+        else:
+            # Front matter & human capital
+            for i in range(min(25, total_pages)):
+                target_pages.add(i)
+            
+            # Deep scan remaining pages for financial statement tables & segment notes
+            statement_keywords = [
+                "consolidated statements of income", "consolidated statements of operations",
+                "consolidated statements of earnings", "statements of consolidated income",
+                "consolidated income statements", "statement of operations", "income statements",
+                "item 8. financial statements", "item 8 financial statements",
+                "revenue by product", "disaggregated revenue", "segment revenue",
+                "human capital", "number of employees", "total employees"
+            ]
+            for idx, page in enumerate(doc):
+                text_low = page.get_text().lower()
+                if any(kw in text_low for kw in statement_keywords):
+                    # Add current page and adjacent 2 pages to capture complete multi-page tables & footnotes
+                    for p in range(max(0, idx - 1), min(total_pages, idx + 3)):
+                        target_pages.add(p)
+
+        sorted_pages = sorted(list(target_pages))
+        pages_to_process = len(sorted_pages)
 
         md_content = []
-        md_content.append(f"# Annual Report: {base_name}\n")
+        md_content.append(f"# Financial Report: {base_name}\n")
         md_content.append(f"- **Source File**: `{filename}`")
-        md_content.append(f"- **Total Pages**: {total_pages}")
-        md_content.append(f"- **Parsed Pages**: {pages_to_process}\n")
+        md_content.append(f"- **Total PDF Pages**: {total_pages}")
+        md_content.append(f"- **Parsed Key Pages**: {pages_to_process} ({len(sorted_pages)} selected sections)\n")
         md_content.append("---\n")
 
         plumber_doc = None
@@ -110,10 +141,10 @@ class PDFToMarkdownParser:
             except Exception as e:
                 print(f"Warning: Could not open pdfplumber for tables: {e}")
 
-        for page_idx in range(pages_to_process):
-            msg = f"Parsing {filename} [Page {page_idx+1}/{pages_to_process}]..."
+        for step_idx, page_idx in enumerate(sorted_pages):
+            msg = f"Parsing {filename} [Page {page_idx+1}/{total_pages}]..."
             if progress_callback:
-                progress_callback(msg, page_idx + 1, pages_to_process)
+                progress_callback(msg, step_idx + 1, pages_to_process)
 
             md_content.append(f"\n## Page {page_idx + 1}\n")
 

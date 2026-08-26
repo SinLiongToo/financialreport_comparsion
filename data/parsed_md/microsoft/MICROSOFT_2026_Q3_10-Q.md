@@ -1,8 +1,8 @@
-# Annual Report: MICROSOFT_2026_Q3_10-Q
+# Financial Report: MICROSOFT_2026_Q3_10-Q
 
 - **Source File**: `MICROSOFT_2026_Q3_10-Q.pdf`
-- **Total Pages**: 103
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 103
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -5445,287 +5445,6 @@ Total
 The dividend declared on March 10, 2026 was included in other current liabilities as of March 31, 2026.
 
 
-## Page 26
-
-### Table 26.1
-
-| Balance, beginning of period |  | $ | (14 | ) |  | $ | 21 |  |  | $ | (8 | ) |  | $ | (3 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.2
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | 34 |  |  |  | (50 | ) |  |  | 46 |  |  |  | 7 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.3
-
-| Amounts reclassified from accumulated other comprehensive loss |  |  | 27 |  |  |  | (40 | ) |  |  | 37 |  |  |  | 5 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.4
-
-| Balance, end of period |  | $ | (14 | ) |  | $ | 1 |  |  | $ | (14 | ) |  | $ | 1 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.5
-
-| Balance, beginning of period |  | $ | (525 | ) |  | $ | (1,945 | ) |  | $ | (1,051 | ) |  | $ | (2,625 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.6
-
-| Reclassification adjustments for (gains) losses included in other income (expense), net |  |  | (30 | ) |  |  | 6 |  |  |  | (29 | ) |  |  | 25 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.7
-
-| Amounts reclassified from accumulated other comprehensive loss |  |  | (24 | ) |  |  | 5 |  |  |  | (23 | ) |  |  | 20 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.8
-
-| Balance, end of period |  | $ | (764 | ) |  | $ | (1,495 | ) |  | $ | (764 | ) |  | $ | (1,495 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.9
-
-| Balance, beginning of period |  | $ | (2,163 | ) |  | $ | (3,692 | ) |  | $ | (2,288 | ) |  | $ | (2,962 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 26.10
-
-| Balance, end of period |  | $ | (2,450 | ) |  | $ | (3,339 | ) |  | $ | (2,450 | ) |  | $ | (3,339 | ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
-### PART I
-
-
-#### Item 1
-
-
-#### 26
-
-
-### NOTE 15 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
-
-The following table summarizes the changes in accumulated other comprehensive income (loss) by component:
-
-
-#### (In millions)
-
-
-#### Three Months Ended
-
-
-#### March 31,
-
-
-#### Nine Months Ended
-
-
-#### March 31,
-
-2026   
-2025   
-2026  
- 
-2025
-
-
-#### Derivatives
-
-Balance, beginning of period
- $
-(14)  $
-21  $
-(8)  $
-(3)
-Unrealized gains (losses), net of tax of $(7), $5, $(11), and $(1)
-  
-(27
-
-
-#### )
-
-
-#### 20
-
-
-#### (43
-
-)   
-(1)
-Reclassification adjustments for (gains) losses included in other income
-
-
-#### (expense), net
-
-
-#### 34
-
-(50)   
-46   
-7 
-Tax expense (benefit) included in provision for income taxes
-  
-(7)   
-10   
-(9)   
-(2)
-
-Amounts reclassified from accumulated other comprehensive loss
-  
-27   
-(40)   
-37   
-5
-
-Net change related to derivatives, net of tax of $0, $(5), $(2), and $1
-  
-0   
-(20)   
-(6)   
-4
-
-Balance, end of period
- $
-(14)  $
-1  $
-(14)  $
-1
-
-
-#### Investments
-
-Balance, beginning of period
- $
-(525)  $
-(1,945)  $
-(1,051)  $
-(2,625)
-Unrealized gains (losses), net of tax of $(58), $118, $82, and $294
-  
-(215)   
-445   
-310   
-1,110 
-Reclassification adjustments for (gains) losses included in other income
-
-
-#### (expense), net
-
-
-#### (30)
-
-6   
-(29)   
-25 
-Tax expense (benefit) included in provision for income taxes
-  
-6   
-(1)   
-6   
-(5)
-
-Amounts reclassified from accumulated other comprehensive loss
-  
-(24)   
-5   
-(23)   
-20
-
-Net change related to investments, net of tax of $(64), $119, $76, and $299
-  
-(239)   
-450   
-287   
-1,130
-
-Balance, end of period
- $
-(764)  $
-(1,495)  $
-(764)  $
-(1,495)
-
-
-#### Translation Adjustments and Other
-
-Balance, beginning of period
- $
-(2,163)  $
-(3,692)  $
-(2,288)  $
-(2,962)
-Translation adjustments and other, net of tax of $0, $0, $0, and $0
-
-
-#### (287
-
-
-#### )
-
-
-#### 353
-
-
-#### (162
-
-
-#### )
-
-
-#### (377
-
-
-#### )
-
-Balance, end of period
- $
-(2,450)  $
-(3,339)  $
-(2,450)  $
-(3,339)
-
-Accumulated other comprehensive loss, end of period
- $
-(3,228)  $
-(4,833)  $
-(3,228)  $
-(4,833)
-
-
-### NOTE 16 — SEGMENT INFORMATION AND GEOGRAPHIC DATA
-
-In its operation of the business, management, including our chief operating decision maker (“CODM”), who is also our Chief Executive Officer, 
-reviews certain financial information, including segmented internal profit and loss statements. The primary profitability measure used by the 
-CODM to review segment operating results is operating income. The CODM uses operating income to allocate resources during our annual 
-planning process and throughout the year, as well as to assess the performance of our segments, primarily by monitoring actual results 
-compared to prior periods and expected results. During the periods presented, we reported our financial performance based on the following 
-segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.
-
-
 ## Page 27
 
 
@@ -6271,3 +5990,138 @@ regarding the financial statements taken as a whole. Accordingly, we do not expr
  
 Seattle, Washington
 April 29, 2026
+
+
+## Page 31
+
+
+### PART I
+
+
+#### Item 2
+
+
+#### 31
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+
+
+### OPERATIONS
+
+
+#### Note About Forward-Looking Statements
+
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are 
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 
+1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the 
+following sections: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” (Part II, Item 1A 
+of this Form 10-Q). These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” 
+“intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar 
+expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may 
+cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in 
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations,” “Quantitative and Qualitative Disclosures About 
+Market Risk” (Part I, Item 3 of this Form 10-Q), and “Risk Factors”. We undertake no obligation to update or revise publicly any forward-looking 
+statements, whether because of new information, future events, or otherwise.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader 
+understand the results of operations and financial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read 
+in conjunction with, our Annual Report on Form 10-K for the year ended June 30, 2025, and our consolidated financial statements and the 
+accompanying Notes to Financial Statements (Part I, Item 1 of this Form 10-Q).
+
+
+### OVERVIEW
+
+Microsoft is a technology company committed to making digital technology and artificial intelligence (“AI”) available broadly and doing so 
+responsibly, with a mission to empower every person and every organization on the planet to achieve more. We create platforms and tools, 
+powered by AI, that deliver innovative solutions that meet the evolving needs of our customers.
+
+We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and 
+supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices. Our most 
+significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter 
+operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes.
+
+Highlights from the third quarter of fiscal year 2026 compared with the third quarter of fiscal year 2025 included:
+
+•Microsoft Cloud revenue increased 29% to $54.5 billion.
+
+•Commercial remaining performance obligation increased 99% to $627 billion.
+
+•Microsoft 365 Commercial cloud revenue increased 19%.
+
+•Microsoft 365 Consumer cloud revenue increased 33%.
+
+•LinkedIn revenue increased 12%.
+
+•Dynamics 365 revenue increased 22%.
+
+•Azure and other cloud services revenue increased 40%.
+
+•Windows OEM and Devices revenue decreased 2%.
+
+•Xbox content and services revenue decreased 5%.
+
+•Search advertising (formerly Search and news advertising) revenue excluding traffic acquisition costs increased 12%.
+
+
+## Page 32
+
+
+### PART I
+
+
+#### Item 2
+
+
+#### 32
+
+
+#### Industry Trends and Opportunities
+
+Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an 
+opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we 
+push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the 
+changing demands of customers and users, industry trends, and competitive forces.
+
+We have a long-term strategic partnership with OpenAI which was originally established in 2019. In October 2025 and April 2026, we extended 
+this partnership and continue to build on our shared vision to advance artificial intelligence responsibly and make its benefits broadly accessible. 
+Microsoft is a major investor in OpenAI and will continue to receive revenue-sharing payments. We hold rights to OpenAI’s intellectual property, 
+including models and infrastructure, for integration into our products.
+
+
+#### Economic Conditions, Challenges, and Risks
+
+The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software 
+and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers 
+prefer evolve rapidly, influencing how users access services in the cloud and, in some cases, the user’s choice of which suite of cloud-based 
+services to use. Aggregate demand for our software, services, and devices is also correlated to global macroeconomic and geopolitical factors, 
+which remain dynamic. We must continue to evolve and adapt over an extended time in pace with this changing environment.
+
+The investments we are making in cloud and AI infrastructure and devices will continue to increase our operating costs and may decrease our 
+operating margins. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to 
+meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of 
+permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units and other components. 
+Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other 
+manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain 
+components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture 
+devices on time to meet consumer demand.
+
+Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. 
+We compete for talented individuals globally by offering an exceptional working environment, broad customer reach, scale in resources, the 
+ability to grow one’s career across many different products and businesses, and competitive compensation and benefits.
+
+Our international operations provide a significant portion of our total revenue and expenses. Many of these revenue and expenses are 
+denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may significantly affect revenue and 
+expenses. Fluctuations in the U.S. dollar relative to certain foreign currencies increased reported revenue and expenses from our international 
+operations for the three and nine months ended March 31, 2026.
+
+Further, global, regional, and local economic developments and changes in global trade policies such as restrictions on international trade, 
+including tariffs and other controls on imports or exports, could result in increased supply chain challenges, cost volatility, and consumer and 
+economic uncertainty which may adversely affect our results of operations.
+
+Refer to Risk Factors (Part II, Item 1A of this Form 10-Q) for a discussion of these factors and other risks.
+
+
+#### Seasonality
+
+Our revenue fluctuates quarterly and is generally higher in the fourth quarter of our fiscal year. Fourth quarter revenue is driven by a higher 
+volume of multi-year contracts executed during the period.

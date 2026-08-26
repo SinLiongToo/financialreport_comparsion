@@ -14,6 +14,8 @@ let CURRENT_THEME = localStorage.getItem("app_theme") || "dark";
 let CURRENT_FREQ = "annual"; // "annual" | "quarterly"
 let GLOBAL_METRICS_DATA = null;
 let COMPARISON_DATA = null;
+let COMPARE_SORT_COL = "revenue";
+let COMPARE_SORT_DIR = "desc";
 let ACTIVE_VIEW = "single"; // "single" | "compare"
 
 const COMPANY_COLORS = {
@@ -107,6 +109,8 @@ const I18N_DICT = {
         chart4_title: "Chart 4: R&D Expense & Technology Moat Intensity",
         chart5_title: "Chart 5: Profit vs. Headcount Growth Dynamics (YoY Triangulation)",
         chart6_title: "Chart 6: Value-vs-Volume Sales Asymmetry Breakdown",
+        chart6a_title: "Chart 6A: High-Value Revenue Segment Breakdown ($M)",
+        chart6b_title: "Chart 6B: Product Shipment Volume & Mix Breakdown (%)",
         table_title: "Official Audited Master Financial & Productivity Statement",
         table_subtitle: "Comprehensive breakdown of Revenue, Margins, R&D, Headcount, and Productivity per FTE",
         table_th_metric: "Metric / Unit",
@@ -412,36 +416,109 @@ function setupChartZoomModal() {
     });
 }
 
-// Safe cloner to avoid "TypeError: Converting circular structure to JSON" with Plotly internal references
-function safeClone(obj, depth = 0) {
-    if (depth > 5) return null;
-    if (obj === null || typeof obj !== "object") return obj;
-    if (Array.isArray(obj)) {
-        return obj.map(item => safeClone(item, depth + 1));
-    }
-    const copy = {};
-    for (const key in obj) {
-        if (Object.prototype.hasOwnProperty.call(obj, key)) {
-            if (key.startsWith("_") || key === "scene" || key === "_module" || key === "_context" || key === "_fullLayout") {
-                continue; // Skip Plotly internal circular references
-            }
-            try {
-                copy[key] = safeClone(obj[key], depth + 1);
-            } catch (e) {
-                // Ignore any property that cannot be cloned
-            }
+// -----------------------------------------------------------------------------
+// Interactive Full-Screen Chart Inspection / Zoom In (100% Non-Blocking Clean Renderer)
+// -----------------------------------------------------------------------------
+function extractCleanTraces(dataArray) {
+    if (!dataArray || !Array.isArray(dataArray)) return [];
+    return dataArray.map(t => {
+        const clean = {
+            x: Array.isArray(t.x) ? [...t.x] : t.x,
+            y: Array.isArray(t.y) ? [...t.y] : t.y,
+            name: t.name || "",
+            type: t.type || "scatter"
+        };
+        if (t.mode) clean.mode = t.mode;
+        if (t.yaxis) clean.yaxis = t.yaxis;
+        if (t.xaxis) clean.xaxis = t.xaxis;
+        if (t.showlegend !== undefined) clean.showlegend = t.showlegend;
+        if (t.hovertemplate) clean.hovertemplate = t.hovertemplate;
+        if (t.marker) {
+            clean.marker = {};
+            if (t.marker.color) clean.marker.color = t.marker.color;
+            if (t.marker.opacity !== undefined) clean.marker.opacity = t.marker.opacity;
+            if (t.marker.size !== undefined) clean.marker.size = t.marker.size;
         }
+        if (t.line) {
+            clean.line = {};
+            if (t.line.color) clean.line.color = t.line.color;
+            if (t.line.width !== undefined) clean.line.width = t.line.width;
+            if (t.line.dash) clean.line.dash = t.line.dash;
+        }
+        return clean;
+    });
+}
+
+function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
+    const layout = srcLayout || {};
+    const clean = {
+        paper_bgcolor: "transparent",
+        plot_bgcolor: "transparent",
+        autosize: true,
+        margin: {
+            t: isMultiTrace ? 40 : 55,
+            r: isMultiTrace ? 170 : 45,
+            l: 60,
+            b: 55
+        },
+        font: { color: fontColor, size: 12, family: "Inter, system-ui, sans-serif" },
+        hovermode: "closest",
+        legend: {
+            orientation: isMultiTrace ? "v" : "h",
+            x: isMultiTrace ? 1.02 : 0,
+            y: isMultiTrace ? 1 : 1.15,
+            font: { size: 11.5, color: fontColor }
+        }
+    };
+
+    if (layout.barmode) clean.barmode = layout.barmode;
+
+    if (layout.xaxis) {
+        clean.xaxis = {
+            showgrid: true,
+            gridcolor: gridColor,
+            automargin: true
+        };
+        if (layout.xaxis.title) {
+            clean.xaxis.title = typeof layout.xaxis.title === 'string' ? layout.xaxis.title : (layout.xaxis.title.text || "");
+        }
+        if (layout.xaxis.tickangle !== undefined) clean.xaxis.tickangle = layout.xaxis.tickangle;
+        if (layout.xaxis.categoryorder) clean.xaxis.categoryorder = layout.xaxis.categoryorder;
+        if (layout.xaxis.categoryarray) clean.xaxis.categoryarray = [...layout.xaxis.categoryarray];
     }
-    return copy;
+
+    if (layout.yaxis) {
+        clean.yaxis = {
+            showgrid: true,
+            gridcolor: gridColor,
+            autorange: true
+        };
+        if (layout.yaxis.title) {
+            clean.yaxis.title = typeof layout.yaxis.title === 'string' ? layout.yaxis.title : (layout.yaxis.title.text || "");
+        }
+        if (layout.yaxis.ticksuffix) clean.yaxis.ticksuffix = layout.yaxis.ticksuffix;
+    }
+
+    if (layout.yaxis2) {
+        clean.yaxis2 = {
+            overlaying: layout.yaxis2.overlaying || "y",
+            side: layout.yaxis2.side || "right",
+            showgrid: false,
+            autorange: true
+        };
+        if (layout.yaxis2.title) {
+            clean.yaxis2.title = typeof layout.yaxis2.title === 'string' ? layout.yaxis2.title : (layout.yaxis2.title.text || "");
+        }
+        if (layout.yaxis2.ticksuffix) clean.yaxis2.ticksuffix = layout.yaxis2.ticksuffix;
+    }
+
+    return clean;
 }
 
 window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconClass) {
     try {
         const modal = document.getElementById("chartZoomModal");
-        if (!modal) {
-            console.error("chartZoomModal element not found in DOM");
-            return;
-        }
+        if (!modal) return;
 
         CURRENT_ZOOMED_CHART_ID = chartId;
         const titleEl = document.getElementById("zoomModalTitle");
@@ -450,9 +527,38 @@ window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconCl
         const subtitleEl = document.getElementById("zoomModalSubtitle");
         const insightEl = document.getElementById("zoomModalInsight");
 
+        const singleContainer = document.getElementById("zoomedSingleContainer");
+        const dualContainer = document.getElementById("zoomedDualContainer");
+
         // Title & badge setup with i18n
-        const dict = I18N_DICT[CURRENT_LANGUAGE] || {};
-        const titleText = dict[titleKey] || titleKey || "Chart Inspection";
+        const dict = (typeof I18N_DICT !== 'undefined' ? I18N_DICT[CURRENT_LANGUAGE] : null) || {};
+        let titleText = dict[titleKey];
+        if (!titleText) {
+            const btnEl = document.querySelector(`button[data-chart="${chartId}"]`);
+            if (btnEl && btnEl.getAttribute('data-title') && dict[btnEl.getAttribute('data-title')]) {
+                titleText = dict[btnEl.getAttribute('data-title')];
+            } else {
+                const i18nEl = document.querySelector(`[data-i18n="${titleKey}"]`);
+                if (i18nEl) titleText = i18nEl.textContent.trim();
+            }
+        }
+        if (!titleText || titleText.startsWith("chart") || titleText.startsWith("compare_chart")) {
+            const fallbackMap = {
+                "chart1_title": CURRENT_LANGUAGE === "zh" ? "圖表 1：員工人數與毛利率轉折分析" : "Chart 1: Headcount vs. Gross Margin % (The Pivot)",
+                "chart2_title": CURRENT_LANGUAGE === "zh" ? "圖表 2：人均生產力三部曲" : "Chart 2: Human Capital Productivity Trio",
+                "chart3_title": CURRENT_LANGUAGE === "zh" ? "圖表 3：營業利益率與獲利能力趨勢" : "Chart 3: Operating Profitability & Leverage",
+                "chart4_title": CURRENT_LANGUAGE === "zh" ? "圖表 4：研發費用與護城河強度" : "Chart 4: R&D Expense & Technology Moat Intensity",
+                "chart5_title": CURRENT_LANGUAGE === "zh" ? "圖表 5：利潤與人力增長動能對比" : "Chart 5: Profit vs. Headcount Growth Dynamics",
+                "chart6_title": CURRENT_LANGUAGE === "zh" ? "圖表 6：高價值 vs 出貨量結構分拆" : "Chart 6: Value-vs-Volume Sales Asymmetry Breakdown",
+                "chart6a_title": CURRENT_LANGUAGE === "zh" ? "圖表 6A：高價值營收結構分拆 ($M)" : "Chart 6A: High-Value Revenue Segment Breakdown ($M)",
+                "chart6b_title": CURRENT_LANGUAGE === "zh" ? "圖表 6B：產品出貨量與結構佔比 (%)" : "Chart 6B: Product Shipment Volume & Mix Breakdown (%)",
+                "compare_chart1_title": CURRENT_LANGUAGE === "zh" ? "毛利率跨公司對比 (Gross Margin %)" : "Gross Margin % Benchmark",
+                "compare_chart2_title": CURRENT_LANGUAGE === "zh" ? "人均營收跨公司對比 (Revenue / FTE)" : "Revenue per FTE Benchmark",
+                "compare_chart3_title": CURRENT_LANGUAGE === "zh" ? "營業利益率跨公司對比 (Operating Margin %)" : "Operating Margin % Benchmark",
+                "compare_chart4_title": CURRENT_LANGUAGE === "zh" ? "研發強度跨公司對比 (R&D % of Revenue)" : "R&D Intensity Benchmark"
+            };
+            titleText = fallbackMap[titleKey] || titleText || "Chart Inspection";
+        }
         if (titleEl) titleEl.textContent = titleText;
         if (badgeEl) badgeEl.textContent = badgeText || "Metric";
         if (iconEl) iconEl.className = `fa-solid ${iconClass || 'fa-chart-line'} text-sm`;
@@ -474,84 +580,58 @@ window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconCl
         modal.style.display = "flex";
         document.body.style.overflow = "hidden";
 
-        const srcEl = document.getElementById(chartId);
-        if (!srcEl) {
-            console.warn("Chart element not found:", chartId);
-            return;
-        }
-
-        const rawData = srcEl.data || srcEl._fullData;
-        if (!rawData || rawData.length === 0) {
-            console.warn("Chart data not yet ready on element:", chartId);
-            document.getElementById("zoomedChartCanvas").innerHTML = '<div class="flex items-center justify-center h-full text-slate-400 text-sm">Rendering high-resolution chart...</div>';
-            setTimeout(() => {
-                const retryEl = document.getElementById(chartId);
-                if (retryEl && (retryEl.data || retryEl._fullData)) {
-                    window.zoomChart(chartId, titleKey, badgeText, insightKeyOrId, iconClass);
-                }
-            }, 100);
-            return;
-        }
-
-        // Deep clone traces and layout safely without JSON.stringify circular crashes
-        const srcData = safeClone(rawData);
-        const srcLayout = safeClone(srcEl.layout) || {};
-
         const isLight = CURRENT_THEME === "light";
         const fontColor = isLight ? "#1e293b" : "#f1f5f9";
         const gridColor = isLight ? "#cbd5e1" : "#334155";
 
-        const isMultiTrace = (srcData && srcData.length > 4);
+        // =====================================================================
+        // DUAL-CHART ZOOM MODE FOR CHART 6 (Two completely separate canvases)
+        // =====================================================================
+        if (chartId === "chartSalesBreakdown" || chartId === "chartSalesValue" || chartId === "chartSalesVolume") {
+            if (singleContainer) singleContainer.style.display = "none";
+            if (dualContainer) dualContainer.style.display = "grid";
 
-        // Adjust layout for immersive high-resolution presentation
-        srcLayout.autosize = true;
-        delete srcLayout.height;
-        delete srcLayout.width;
-        srcLayout.margin = {
-            t: isMultiTrace ? 40 : 65,
-            r: isMultiTrace ? 170 : 40,
-            l: 65,
-            b: 60
-        };
+            const valEl = document.getElementById("chartSalesValue");
+            const volEl = document.getElementById("chartSalesVolume");
 
-        if (srcLayout.font) {
-            srcLayout.font.size = 12.5;
-            srcLayout.font.color = fontColor;
-        }
-        if (srcLayout.xaxis && srcLayout.xaxis.title) {
-            if (typeof srcLayout.xaxis.title === "object") srcLayout.xaxis.title.font = { size: 13.5, color: fontColor };
-        }
-        if (srcLayout.yaxis && srcLayout.yaxis.title) {
-            if (typeof srcLayout.yaxis.title === "object") srcLayout.yaxis.title.font = { size: 13.5, color: fontColor };
-        }
-        if (srcLayout.yaxis2 && srcLayout.yaxis2.title) {
-            if (typeof srcLayout.yaxis2.title === "object") srcLayout.yaxis2.title.font = { size: 13.5, color: fontColor };
-        }
-        if (srcLayout.legend) {
-            srcLayout.legend.orientation = isMultiTrace ? "v" : "h";
-            srcLayout.legend.x = isMultiTrace ? 1.02 : 0;
-            srcLayout.legend.y = isMultiTrace ? 1 : 1.15;
-            srcLayout.legend.xanchor = "left";
-            srcLayout.legend.yanchor = isMultiTrace ? "top" : "bottom";
-            srcLayout.legend.font = { size: 12.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" };
-            srcLayout.legend.bgcolor = isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)";
-            srcLayout.legend.bordercolor = isLight ? "rgba(203, 213, 225, 0.9)" : "rgba(71, 85, 105, 0.9)";
-            srcLayout.legend.borderwidth = 1;
-        }
-        srcLayout.hovermode = "closest";
-        srcLayout.hoverlabel = {
-            bgcolor: isLight ? "#ffffff" : "#0f172a",
-            bordercolor: isLight ? "#cbd5e1" : "#3b82f6",
-            font: {
-                color: isLight ? "#0f172a" : "#f8fafc",
-                size: 13,
-                family: "Inter, system-ui, sans-serif"
-            },
-            namelength: -1
-        };
+            if (valEl && valEl.data) {
+                const cleanValTraces = extractCleanTraces(valEl.data);
+                const cleanValLayout = extractCleanLayout(valEl.layout, fontColor, gridColor, false);
+                cleanValLayout.margin = { t: 30, r: 25, l: 55, b: 50 };
+                Plotly.newPlot("zoomedCanvasLeft", cleanValTraces, cleanValLayout, { responsive: true, displayModeBar: true, displaylogo: false });
+            }
 
-        // Plot into zoomed canvas with full interactive tools
-        Plotly.newPlot("zoomedChartCanvas", srcData, srcLayout, {
+            if (volEl && volEl.data) {
+                const cleanVolTraces = extractCleanTraces(volEl.data);
+                const cleanVolLayout = extractCleanLayout(volEl.layout, fontColor, gridColor, false);
+                cleanVolLayout.margin = { t: 30, r: 25, l: 55, b: 50 };
+                Plotly.newPlot("zoomedCanvasRight", cleanVolTraces, cleanVolLayout, { responsive: true, displayModeBar: true, displaylogo: false });
+            }
+
+            setTimeout(() => {
+                Plotly.Plots.resize("zoomedCanvasLeft");
+                Plotly.Plots.resize("zoomedCanvasRight");
+            }, 60);
+            return;
+        }
+
+        // =====================================================================
+        // STANDARD SINGLE-CHART ZOOM MODE
+        // =====================================================================
+        if (singleContainer) singleContainer.style.display = "block";
+        if (dualContainer) dualContainer.style.display = "none";
+
+        const srcEl = document.getElementById(chartId);
+        if (!srcEl || !srcEl.data) {
+            console.warn("Chart element not found or data not ready:", chartId);
+            return;
+        }
+
+        const isMultiTrace = (srcEl.data && srcEl.data.length > 4);
+        const cleanTraces = extractCleanTraces(srcEl.data);
+        const cleanLayout = extractCleanLayout(srcEl.layout, fontColor, gridColor, isMultiTrace);
+
+        Plotly.newPlot("zoomedChartCanvas", cleanTraces, cleanLayout, {
             responsive: true,
             displayModeBar: true,
             displaylogo: false,
@@ -1079,45 +1159,65 @@ function renderCharts(data) {
         yaxis: { title: "Growth Rate (%)", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
-    // Chart 6: Value vs Volume Sales Breakdown
+    // Chart 6A: High-Value Revenue Segment Breakdown ($M) (Standalone Independent Chart)
     const sb = data.sales_breakdown || {};
     const sbCats = sb.categories || [];
-    const sbColors = sb.colors || ["#1E3A8A", "#0284C7", "#059669", "#D97706"];
+    const sbColors = sb.colors || ["#1E3A8A", "#0284C7", "#059669", "#D97706", "#8B5CF6", "#EC4899"];
     const sbData = sb.data || {};
-    const sbYears = Object.keys(sbData).sort();
+    const sbYears = Object.keys(sbData).sort((a, b) => {
+        if (a.includes("Q") && b.includes("Q")) {
+            const pa = a.split(" "), pb = b.split(" ");
+            const ya = parseInt(pa[0]) || 0, yb = parseInt(pb[0]) || 0;
+            if (ya !== yb) return ya - yb;
+            const qa = parseInt(pa[1]?.replace("Q", "")) || 0;
+            const qb = parseInt(pb[1]?.replace("Q", "")) || 0;
+            return qa - qb;
+        }
+        return (parseInt(a) || 0) - (parseInt(b) || 0) || a.localeCompare(b);
+    });
+
+    const isZh = CURRENT_LANGUAGE === "zh";
 
     const tracesValue = sbCats.map((cat, idx) => ({
         x: sbYears,
-        y: sbYears.map(y => sbData[y]?.value[idx] || 0),
+        y: sbYears.map(y => (sbData[y]?.value ? (sbData[y].value[idx] || 0) : 0)),
         name: cat,
         type: "bar",
-        xaxis: "x",
-        yaxis: "y",
-        marker: { color: sbColors[idx] || "#3B82F6" }
+        marker: { color: sbColors[idx] || "#3B82F6" },
+        hovertemplate: `<b>${cat}</b><br>${isZh ? '時間期間' : 'Period'}: %{x}<br>${isZh ? '營收價值' : 'Revenue'}: <b>${unit}%{y:,.0f}</b><extra></extra>`
     }));
 
+    Plotly.newPlot("chartSalesValue", tracesValue, {
+        ...commonLayout,
+        barmode: "stack",
+        yaxis: {
+            title: `${isZh ? '營收金額' : 'Revenue Value'} (${unit})`,
+            showgrid: true,
+            gridcolor: gridColor,
+            autorange: true
+        }
+    }, { responsive: true, displayModeBar: false });
+
+    // Chart 6B: Product Shipment Volume & Mix Breakdown (%) (Standalone Independent Chart)
     const tracesVolume = sbCats.map((cat, idx) => ({
         x: sbYears,
-        y: sbYears.map(y => sbData[y]?.volume[idx] || 0),
-        name: `${cat} (Units)`,
+        y: sbYears.map(y => (sbData[y]?.volume ? (sbData[y].volume[idx] || 0) : 0)),
+        name: cat,
         type: "bar",
-        xaxis: "x2",
-        yaxis: "y2",
-        showlegend: false,
-        marker: { color: sbColors[idx] || "#3B82F6", opacity: 0.7 }
+        marker: { color: sbColors[idx] || "#3B82F6", opacity: 0.85 },
+        hovertemplate: `<b>${cat}</b><br>${isZh ? '時間期間' : 'Period'}: %{x}<br>${isZh ? '出貨/佔比' : 'Volume/Mix'}: <b>%{y:,.0f}</b><extra></extra>`
     }));
 
-    const layout6 = {
+    Plotly.newPlot("chartSalesVolume", tracesVolume, {
         ...commonLayout,
-        grid: { rows: 1, columns: 2, pattern: "independent" },
         barmode: "stack",
-        xaxis: { domain: [0, 0.46], title: `Value (${unit})` },
-        yaxis: { title: unit, showgrid: true, gridcolor: gridColor, autorange: true },
-        xaxis2: { domain: [0.54, 1.0], title: "Volume (Units / Systems)" },
-        yaxis2: { title: "Units / Systems", showgrid: true, gridcolor: gridColor, autorange: true }
-    };
-
-    Plotly.newPlot("chartSalesBreakdown", [...tracesValue, ...tracesVolume], layout6, { responsive: true, displayModeBar: false });
+        yaxis: {
+            title: isZh ? "出貨量 / 結構佔比 (Units / %)" : "Shipment Volume / Mix (Units / %)",
+            showgrid: true,
+            gridcolor: gridColor,
+            autorange: true
+        }
+    }, { responsive: true, displayModeBar: false });
 }
 
 // -----------------------------------------------------------------------------
@@ -1400,12 +1500,70 @@ function renderComparisonView(companiesData) {
         yaxis: { title: "R&D % of Rev", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
-    // 5. Render Comparison Master Table
+    // 5. Render Comparison Master Table with Dynamic Multi-Column Sorting
+    renderComparisonTableRows(companiesData, tickers);
+
+// -----------------------------------------------------------------------------
+// Comparison Table Sorting & Row Rendering Engine
+// -----------------------------------------------------------------------------
+function renderComparisonTableRows(companiesData, tickersList) {
     const tbody = document.getElementById("compareTableBody");
     if (!tbody) return;
     tbody.innerHTML = "";
 
-    tickers.forEach(t => {
+    const tickers = tickersList || (companiesData ? Object.keys(companiesData) : []);
+    if (!tickers || tickers.length === 0) return;
+
+    // Helper to extract sortable values per company
+    const getVal = (t, col) => {
+        const c = companiesData[t] || {};
+        const years = c.years || [];
+        const latestY = years.length > 0 ? years[years.length - 1] : "";
+        const f = c.financials ? c.financials[latestY] || {} : {};
+        switch (col) {
+            case "company": return (c.company_name || c.ticker || t).toLowerCase();
+            case "year": {
+                const p = String(latestY).split(" ");
+                const y = parseInt(p[0]) || 0;
+                const q = p[1] ? (parseInt(p[1].replace("Q", "")) || 0) : 0;
+                return y * 10 + q;
+            }
+            case "revenue": return f.revenue != null ? f.revenue : -Infinity;
+            case "gm": return f.gross_margin != null ? f.gross_margin : -Infinity;
+            case "opm": return f.operating_margin != null ? f.operating_margin : -Infinity;
+            case "rd": return f.rd_pct_rev != null ? f.rd_pct_rev : -Infinity;
+            case "headcount": return f.headcount != null ? f.headcount : -Infinity;
+            case "rev_per_emp": return f.rev_per_emp != null ? f.rev_per_emp : -Infinity;
+            case "gp_per_emp": return f.gp_per_emp != null ? f.gp_per_emp : -Infinity;
+            default: return 0;
+        }
+    };
+
+    // Sort tickers array
+    const sortedTickers = [...tickers].sort((a, b) => {
+        const valA = getVal(a, COMPARE_SORT_COL);
+        const valB = getVal(b, COMPARE_SORT_COL);
+        if (typeof valA === "string") {
+            return COMPARE_SORT_DIR === "asc" ? valA.localeCompare(valB) : valB.localeCompare(valA);
+        }
+        return COMPARE_SORT_DIR === "asc" ? (valA - valB) : (valB - valA);
+    });
+
+    // Update Header Sort Icons
+    const colList = ["company", "year", "revenue", "gm", "opm", "rd", "headcount", "rev_per_emp", "gp_per_emp"];
+    colList.forEach(col => {
+        const icon = document.getElementById(`sort-icon-${col}`);
+        if (icon) {
+            if (col === COMPARE_SORT_COL) {
+                icon.className = `fa-solid ${COMPARE_SORT_DIR === "asc" ? "fa-sort-up" : "fa-sort-down"} text-blue-400 text-[11px]`;
+            } else {
+                icon.className = "fa-solid fa-sort text-slate-600 text-[10px]";
+            }
+        }
+    });
+
+    // Render sorted rows
+    sortedTickers.forEach(t => {
         const c = companiesData[t];
         const years = c.years || [];
         const latestY = years.length > 0 ? years[years.length - 1] : "-";
@@ -1418,20 +1576,33 @@ function renderComparisonView(companiesData) {
         tr.className = "hover:bg-slate-800/50 transition-colors";
         tr.innerHTML = `
             <td class="py-3 px-4 font-bold flex items-center gap-2 text-white">
-                <span class="w-2.5 h-2.5 rounded-full" style="background-color: ${col}"></span>
-                ${c.company_name || c.ticker || t.toUpperCase()}
+                <span class="w-2.5 h-2.5 rounded-full shrink-0" style="background-color: ${col}"></span>
+                <span>${c.company_name || c.ticker || t.toUpperCase()}</span>
             </td>
             <td class="py-3 px-4 font-mono text-slate-300">${latestY}</td>
-            <td class="py-3 px-4 font-mono text-slate-200">${unit}${formatNumber(f.revenue)}</td>
-            <td class="py-3 px-4 font-mono font-bold text-emerald-400">${f.gross_margin || '-'}%</td>
-            <td class="py-3 px-4 font-mono font-bold text-cyan-400">${f.operating_margin || '-'}%</td>
-            <td class="py-3 px-4 font-mono text-rose-400">${f.rd_pct_rev || '-'}%</td>
-            <td class="py-3 px-4 font-mono text-amber-300">${formatNumber(f.headcount)}</td>
-            <td class="py-3 px-4 font-mono font-bold text-purple-400">${currSym}${formatNumber(f.rev_per_emp)}</td>
-            <td class="py-3 px-4 font-mono font-bold text-indigo-400">${currSym}${formatNumber(f.gp_per_emp)}</td>
+            <td class="py-3 px-4 font-mono text-slate-200 text-right">${unit}${formatNumber(f.revenue)}</td>
+            <td class="py-3 px-4 font-mono font-bold text-emerald-400 text-right">${f.gross_margin != null ? f.gross_margin + '%' : '-'}</td>
+            <td class="py-3 px-4 font-mono font-bold text-cyan-400 text-right">${f.operating_margin != null ? f.operating_margin + '%' : '-'}</td>
+            <td class="py-3 px-4 font-mono text-rose-400 text-right">${f.rd_pct_rev != null ? f.rd_pct_rev + '%' : '-'}</td>
+            <td class="py-3 px-4 font-mono text-amber-300 text-right">${formatNumber(f.headcount)}</td>
+            <td class="py-3 px-4 font-mono font-bold text-purple-400 text-right">${currSym}${formatNumber(f.rev_per_emp)}</td>
+            <td class="py-3 px-4 font-mono font-bold text-indigo-400 text-right">${currSym}${formatNumber(f.gp_per_emp)}</td>
         `;
         tbody.appendChild(tr);
     });
+}
+
+window.sortCompareTable = function(col) {
+    if (COMPARE_SORT_COL === col) {
+        COMPARE_SORT_DIR = COMPARE_SORT_DIR === "asc" ? "desc" : "asc";
+    } else {
+        COMPARE_SORT_COL = col;
+        COMPARE_SORT_DIR = (col === "company" || col === "year") ? "asc" : "desc";
+    }
+    if (COMPARISON_DATA) {
+        renderComparisonTableRows(COMPARISON_DATA);
+    }
+};
 }
 
 function exportComparisonToCSV() {

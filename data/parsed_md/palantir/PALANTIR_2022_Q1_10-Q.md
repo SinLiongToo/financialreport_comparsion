@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2022_Q1_10-Q
+# Financial Report: PALANTIR_2022_Q1_10-Q
 
 - **Source File**: `PALANTIR_2022_Q1_10-Q.pdf`
-- **Total Pages**: 81
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 81
+- **Parsed Key Pages**: 35 (35 selected sections)
 
 ---
 
@@ -3240,3 +3240,326 @@ Our management, with the participation and supervision of our Chief Executive O�
 
 
 #### 30
+
+
+## Page 31
+
+
+#### Table of contents
+
+Executive Officer and Chief Financial Officer have concluded that, as of such date, our disclosure controls and procedures were, in design and operation, effective at a reasonable assurance level.
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly
+Report on Form 10-Q that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the exercise of judgment in designing, implementing, operating, and evaluating the controls and
+procedures, and the inability to eliminate misconduct completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal control over ﬁnancial reporting,
+including ours, no matter how well designed and operated, can only provide reasonable, not absolute, assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the
+fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs. Moreover, projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor and
+upgrade our internal controls as necessary or appropriate for our business but cannot assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+
+
+#### 31
+
+
+## Page 32
+
+
+#### Table of contents
+
+
+### PART II - OTHER INFORMATION
+
+
+### ITEM 1. LEGAL PROCEEDINGS
+
+From time to time, we are subject to legal proceedings and claims arising in the ordinary course of business. Based on our current knowledge, we believe that the amount or range of reasonably possible losses will not, either
+individually or in the aggregate, have a material adverse effect on our business, results of operations, or financial condition.
+
+The results of any litigation cannot be predicted with certainty, and an unfavorable resolution in any legal proceedings could materially aﬀect our future business, results of operations, or ﬁnancial condition. Regardless of the outcome,
+litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources, and other factors.
+
+For information on legal proceedings, refer to Note 7. Commitments and Contingencies—Litigation and Legal Proceedings in our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 1A. RISK FACTORS
+
+Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks and uncertainties described below, together with all of the other information in this Quarterly Report on Form 10-Q, including
+the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our condensed consolidated ﬁnancial statements and accompanying notes, before making a decision to invest in our
+Class A common stock. Our business, ﬁnancial condition, results of operations, or prospects could also be harmed by risks and uncertainties not currently known to us or that we currently do not believe are material. If any of the risks
+actually occur, our business, ﬁnancial condition, results of operations, and prospects could be adversely aﬀected. In that event, the trading price of our Class A common stock could decline, and you could lose part or all of your
+investment.
+
+
+#### Risk Factor Summary
+
+Our business is subject to numerous risks and uncertainties that you should consider before investing in our Class A common stock. These risks are described more fully below and include, but are not limited to, risks relating to the
+following:
+
+•
+we have incurred losses each year and we may not become profitable in the future;
+
+•
+we may not be able to sustain our revenue growth rate;
+
+•
+our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable;
+
+•
+a limited number of customers account for a substantial portion of our revenue;
+
+•
+our results of operations and our key business measures are likely to fluctuate significantly on a quarterly basis;
+
+•
+seasonality may cause fluctuations in our results of operations and financial position;
+
+•
+our platforms are complex and may have a lengthy implementation process;
+
+•
+we may not successfully develop and deploy new technologies to address the needs of our customers;
+
+•
+our platforms must operate with third-party products and services;
+
+•
+we may be unable to hire, retain, train, and motivate qualified personnel and senior management and deploy our personnel and resources to meet customer demand;
+
+•
+we may be unable to successfully build, expand, and deploy our marketing and sales organization;
+
+•
+we may not be able to maintain and enhance our brand and reputation;
+
+•
+unfavorable news or social media coverage may harm our reputation and business;
+
+•
+exclusive arrangements or unique terms with customers or partners may result in significant risks or liabilities to us;
+
+•
+we face intense competition in our markets;
+
+•
+we may be unable to maintain or properly manage our culture as we grow;
+
+•
+we may not enter into relationships with potential customers if we consider their activities to be inconsistent with our organizational mission or values;
+
+•
+joint ventures, channel sales relationships, platform partnerships, and strategic alliances may be unsuccessful;
+
+•
+we may not be successful in executing our strategy to increase our sales to larger customers;
+
+
+#### 32
+
+
+## Page 33
+
+
+#### Table of contents
+
+•
+breach of the systems of any third parties upon which we rely, our customers’ cloud or on-premises environments, or our internal systems or unauthorized access to data;
+
+•
+the COVID-19 pandemic may continue to significantly affect our business and operations;
+
+•
+the market for our platforms and services may develop more slowly than we expect;
+
+•
+we have made and may continue to make strategic investments to support key business initiatives, including in privately-held and publicly-traded companies, as well as alternative investments, and we may not realize a return on
+these investments;
+
+•
+issues raised by the use of artificial intelligence in our platforms may result in reputational harm or liability;
+
+•
+we depend on computing infrastructure of third parties and they may experience errors, disruption, performance problems, or failure;
+
+•
+we may fail to adequately obtain, maintain, protect, and enforce our intellectual property and other proprietary rights;
+
+•
+we may be subject to intellectual property rights claims;
+
+•
+there may be real or perceived errors, failures, defects, or bugs in our platforms;
+
+•
+we rely on the availability of third-party technology that may be difficult to replace or that may cause errors;
+
+•
+our business is subject to complex and evolving U.S. and non-U.S. laws and regulations regarding privacy, data protection and security, technology protection, and other matters;
+
+•
+our non-U.S. sales and operations subject us to additional risks and regulations;
+
+•
+we may encounter unfavorable outcomes in legal, regulatory, and administrative inquiries and proceedings;
+
+•
+we may fail to receive and maintain government contracts or there may be changes in the contracting or fiscal policies of the public sector;
+
+•
+many of our customer contracts may be terminated by the customer at any time for convenience and may contain other provisions permitting the customer to discontinue contract performance;
+
+•
+we may not realize the full deal value of our customer contracts;
+
+•
+there may be a decline in the U.S. and other government budgets, changes in spending or budgetary priorities, or delays in contract awards; and
+
+•
+the multi-class structure of our common stock, the Founder Voting Trust Agreement and the Founder Voting Agreement concentrate voting power with certain stockholders, in particular, our Founders and their affiliates.
+
+
+#### Risks Related to Our Business and Industry
+
+We have incurred losses each year since our inception, we expect our operating expenses to increase, and we may not become profitable in the future.
+
+We have incurred losses each year since our inception as reﬂected in our condensed consolidated statements of operations included elsewhere in this ﬁling, and we may never achieve or maintain proﬁtability. In addition, our operating
+expenses have increased over time. As we continue to expand our business, industry verticals, and the breadth of our operations, upgrade our infrastructure, hire additional employees, expand into new markets, invest in research and
+development, invest in sales and marketing, including expanding our sales organization and related sales-based payments that may come with such expansion, lease more real estate to accommodate our anticipated future growth, and
+incur costs associated with general administration, including expenses related to being a public company, we expect that our costs of revenue and operating expenses will continue to increase. To the extent we are successful in
+increasing our customer base, we may also incur increased losses because the costs associated with acquiring and growing our customers and with research and development are generally incurred upfront, while our revenue from
+customer contracts is generally recognized over the contract term. Furthermore, our sales model often requires us to spend months and invest signiﬁcant resources working with customers on pilot deployments at no or low cost to
+them, which may result in no or minimal future revenue. We may not be able to increase our revenue at a rate suﬃcient to oﬀset increases in our costs of revenue and operating expenses in the near term or at all, which would prevent
+us from achieving or maintaining profitability in the future. Any failure by us to achieve, and then sustain or increase, profitability on a consistent basis could adversely affect our business, financial condition, and results of operations.
+
+We may not be able to sustain our revenue growth rate in the future.
+
+Although our revenue has increased in recent periods, there can be no assurances that revenue will continue to grow or do so at current rates, and you should not rely on the revenue of any prior quarterly or annual period as an
+indication of our future performance. Our revenue growth rate may decline in future periods. Many factors may contribute to declines in our revenue growth rate, including increased competition, slowing demand for our platforms from
+existing and new customers, a failure by us to continue
+
+
+#### 33
+
+
+## Page 34
+
+
+#### Table of contents
+
+capitalizing on growth opportunities, terminations of existing contracts or failure to exercise existing options by our customers, and the maturation of our business, among others. If our revenue growth rate declines, our business,
+financial condition, and results of operations could be adversely affected.
+
+Our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable.
+
+Our results of operations may ﬂuctuate, in part, because of the intensive nature of our sales eﬀorts and the length and unpredictability of our sales cycle. As part of our sales eﬀorts, we invest considerable time and expense evaluating
+the speciﬁc organizational needs of our potential customers and educating these potential customers about the technical capabilities and value of our platforms and services. We often also provide our platforms to potential customers
+at no or low cost initially to them for evaluation purposes through short-term pilot deployments of our platforms, and there is no guarantee that we will be able to convert customers from these short-term pilot deployments to full
+revenue-generating contracts. In addition, we have a growing direct sales force, and our sales eﬀorts have historically depended on the signiﬁcant involvement of our senior management team. The length of our sales cycle, from initial
+demonstration of our platforms to sale of our platforms and services, tends to be long and varies substantially from customer to customer. Our sales cycle often lasts six to nine months but can extend to a year or more for some
+customers. Because decisions to purchase our platforms involve signiﬁcant ﬁnancial commitments, potential customers generally evaluate our platforms at multiple levels within their organization, each of which often have speciﬁc
+requirements, and typically involve their senior management.
+
+Our results of operations depend on sales to enterprise customers, which make product purchasing decisions based in part or entirely on factors, or perceived factors, not directly related to the features of the platforms, including,
+among others, that customer’s projections of business growth, uncertainty about economic conditions (including as a result of the ongoing COVID-19 pandemic or geopolitical tensions), capital budgets, anticipated cost savings from the
+implementation of our platforms, potential preference for such customer’s internally-developed software solutions, perceptions about our business and platforms, more favorable terms oﬀered by potential competitors, and previous
+technology investments. In addition, certain decision makers and other stakeholders within our potential customers tend to have vested interests in the continued use of internally developed or existing software, which may make it
+more diﬃcult for us to sell our platforms and services. As a result of these and other factors, our sales eﬀorts typically require an extensive eﬀort throughout a customer’s organization, a signiﬁcant investment of human resources,
+expense and time, including by our senior management, and there can be no assurances that we will be successful in making a sale to a potential customer. If our sales eﬀorts to a potential customer do not result in suﬃcient revenue
+to justify our investments, including in our growing direct sales force, our business, financial condition, and results of operations could be adversely affected.
+
+Historically, existing customers have expanded their relationships with us, which has resulted in a limited number of customers accounting for a substantial portion of our revenue. If existing customers do not make
+subsequent purchases from us or renew their contracts with us, or if our relationships with our largest customers are impaired or terminated, our revenue could decline, and our results of operations would be
+adversely impacted.
+
+We derive a significant portion of our revenue from existing customers that expand their relationships with us. Increasing the size and number of the deployments of our existing customers is a major part of our growth strategy. We may
+not be effective in executing this or any other aspect of our growth strategy.
+
+Our top three customers together accounted for 18% and 25% of our revenue for the years ended December 31, 2021 and 2020, respectively, and 17% and 20% of our revenue for the three months ended March 31, 2022 and 2021,
+respectively. Our top three customers by revenue, for the three months ended March 31, 2022, have been with us for an average of ﬁve years as of March 31, 2022. Certain of our customers, including customers that represent a
+signiﬁcant portion of our business, have in the past reduced their spend with us or terminated their agreements with us, which has reduced our anticipated future payments or revenue from these customers, and which has required us
+to refund some previously paid amounts to these customers. It is not possible for us to predict the future level of demand from our larger customers for our platforms and applications.
+
+While we generally oﬀer contract terms up to ﬁve years in length, our customers sometimes enter into shorter-term contracts, such as one-year subscriptions, which may not provide for automatic renewal and may require the customer
+to opt-in to extend the term. Our customers have no obligation to renew, upgrade, or expand their agreements with us after the terms of their existing agreements have expired. In addition, many of our customer contracts permit the
+customer to terminate their contracts with us with notice periods of varying lengths, generally three to six months. If one or more of our customers terminate their contracts with us, whether for convenience, for default in the event of a
+breach by us, or for other reasons speciﬁed in our contracts, as applicable; if our customers elect not to renew their contracts with us; if our customers renew their contractual arrangements with us for shorter contract lengths or for a
+reduced scope; or if our customers otherwise seek to renegotiate terms of their existing agreements on terms less favorable to us, our business and results of operations could be adversely aﬀected. This adverse impact would be even
+more pronounced for customers that represent a material portion of our revenue or business operations.
+
+Our ability to renew or expand our customer relationships may decrease or vary as a result of a number of factors, including our customers’ satisfaction or dissatisfaction with our platforms and services, the frequency and severity of
+software and implementation errors, our platforms’ reliability, our pricing, the eﬀects of general economic conditions, competitive oﬀerings or alternatives, or reductions in our customers’ spending levels. If our customers do not renew
+or expand their agreements with us or if they renew their
+
+
+#### 34
+
+
+## Page 35
+
+
+#### Table of contents
+
+contracts for shorter lengths or on other terms less favorable to us, our revenue may grow more slowly than expected or decline, and our business could suﬀer. Our business, ﬁnancial condition, and results of operations would also be
+adversely affected if we face difficulty collecting our accounts receivable from our customers or if we are required to refund customer deposits.
+
+Achieving renewal or expansion of deployments may require us to increasingly engage in sophisticated and costly sales eﬀorts that may not result in additional sales. In addition, our customers’ decisions to expand the deployment of
+our platforms depends on a number of factors, including general economic conditions, the functioning of our platforms, the ability of our forward-deployed engineers to assist our customers in identifying new use cases, modernizing
+their data architectures, and achieving success with data-driven initiatives, and our customers’ satisfaction with our services. If our efforts to expand within our existing customer base are not successful, our business may suffer.
+
+We may not realize the full deal value of our customer contracts, which may result in lower than expected revenue.
+
+As of December 31, 2021, the total remaining deal value of the contracts that we had been awarded by, or entered into with, commercial and government customers, including existing contractual obligations and contractual options
+available to those customers, was $3.8 billion. Of our total remaining deal value, as of December 31, 2021, $2.6 billion was the remaining deal value of our contracts with commercial customers and $1.2 billion was the remaining deal
+value of our contracts with government customers.
+
+Many of these contracts are subject to termination for convenience provisions. Also, a majority of commercial contracts entered into in connection with our strategic investments are subject to termination, including for convenience in
+the event the proposed business combination is not completed. Additionally, the U.S. federal government is prohibited from exercising contract options more than one year in advance. As a result, there can be no guarantee that our
+customer contracts will not be terminated or that contract options will be exercised.
+
+We historically have not realized all of the revenue from the full deal value of our customer contracts, and we may not do so in the future. This is because the actual timing and amount of revenue under contracts included are subject to
+various contingencies, including exercise of contractual options, customers not terminating their contracts, and renegotiation of contracts. In addition, delays in the completion of the U.S. government’s budgeting process, the use of
+continuing resolutions, and a potential lapse in appropriations, or similar events in other jurisdictions, could adversely affect our ability to timely recognize revenue under certain government contracts.
+
+Our results of operations and our key business measures are likely to ﬂuctuate signiﬁcantly on a quarterly basis in future periods and may not fully reﬂect the underlying performance of our business, which makes
+our future results difficult to predict and could cause our results of operations to fall below expectations.
+
+Our quarterly results of operations, including cash ﬂows, have ﬂuctuated signiﬁcantly in the past and are likely to continue to do so in the future. Accordingly, the results of any one quarter should not be relied upon as an indication of
+future performance. Our quarterly results, ﬁnancial position, and operations are likely to ﬂuctuate as a result of a variety of factors, many of which are outside of our control, and as a result, may not fully reﬂect the underlying
+performance of our business. Fluctuation in quarterly results may negatively impact the value of our Class A common stock.
+
+We typically close a large portion of our sales in the last several weeks of a quarter, which impacts our ability to plan and manage margins and cash ﬂows. Our sales cycle is often long, and it is diﬃcult to predict exactly when, or if, we
+will actually make a sale with a potential customer. As a result, large individual sales have, in some cases, occurred in quarters subsequent to those we anticipated, or have not occurred at all. The loss or delay of one or more large
+sales transactions in a quarter would impact our results of operations and cash ﬂow for that quarter and any future quarters in which revenue from that transaction is lost or delayed. In addition, downturns in new sales may not be
+immediately reﬂected in our revenue because we generally recognize revenue over the term of our contracts. The timing of customer billing and payment varies from contract to contract. A delay in the timing of receipt of such
+collections, or a default on a large contract, may negatively impact our liquidity for the period and in the future. Because a substantial portion of our expenses are relatively ﬁxed in the short-term and require time to adjust, our results of
+operations and liquidity would suffer if revenue falls below our expectations in a particular period.
+
+Other factors that may cause fluctuations in our quarterly results of operations and financial position include, without limitation, those listed below:
+
+•
+The success of our sales and marketing efforts, including the success of our pilot deployments;
+
+•
+Our ability to increase our contribution margins;
+
+•
+The timing of expenses and revenue recognition;
+
+•
+The timing and amount of payments received from our customers;
+
+•
+Termination of one or more large contracts by customers, including for convenience;
+
+•
+The time and cost-intensive nature of our sales efforts and the length and variability of sales cycles;
+
+
+#### 35

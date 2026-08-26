@@ -1,8 +1,8 @@
-# Annual Report: AMAZON_2026_Q1_10-Q
+# Financial Report: AMAZON_2026_Q1_10-Q
 
 - **Source File**: `AMAZON_2026_Q1_10-Q.pdf`
-- **Total Pages**: 54
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 54
+- **Parsed Key Pages**: 31 (31 selected sections)
 
 ---
 
@@ -3080,51 +3080,158 @@ actual and forecasted earnings are subject to
 #### 25
 
 
-## Page 26
+## Page 31
 
-### Table 26.1
+### Table 31.1
 
-| Cash provided by (used in): |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Operating activities | $ | 17,015 |  | $ | 26,032 |  | $ | 113,903 |  | $ | 148,531 |
-| Investing activities | (29,803) |  |  | (64,212) |  |  | (106,283) |  |  | (176,954) |  |
-| Financing activities | (47) |  |  | 52,767 |  |  | (10,603) |  |  | 62,475 |  |
+| Operating Income |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| North America | $ | 5,841 |  | $ | 8,267 |
+| International | 1,017 |  |  | 1,424 |  |
+| AWS | 11,547 |  |  | 14,161 |  |
+| Consolidated | $ | 18,405 |  | $ | 23,852 |
 
 
 
 #### Table of Contents
 
-change due to economic, political, and other conditions and significant judgment is required in determining our ability to use our deferred tax
-assets.
-
-Our effective tax rates could be affected by numerous factors, such as changes in our business operations, acquisitions, investments, entry
-into new businesses and geographies, intercompany transactions, the relative amount of our foreign earnings, including earnings being lower
-than anticipated in jurisdictions where we have lower statutory rates and higher than anticipated in jurisdictions where we have higher statutory
-rates, losses incurred in jurisdictions for which we are not able to realize related tax benefits, the applicability of special tax regimes, changes in
-foreign exchange rates, changes in our stock price, changes to our forecasts of income and loss and the mix of jurisdictions to which they relate,
-changes in our deferred tax assets and liabilities and their valuation, changes in the laws, regulations, administrative practices, principles, and
-interpretations related to tax, including changes to the global tax framework, competition, and other laws and accounting rules in various
-jurisdictions. In addition, a number of countries have enacted or are actively pursuing changes to their tax laws applicable to corporate
-multinationals.
-
-We are also currently subject to tax controversies in various jurisdictions, and these jurisdictions may assess additional income tax liabilities
-against us. Developments in an audit, investigation, or other tax controversy could have a material effect on our operating results or cash flows in
-the period or periods for which that development occurs, as well as for prior and subsequent periods. We regularly assess the likelihood of an
-adverse outcome resulting from these proceedings to determine the adequacy of our tax accruals. Although we believe our tax estimates are
-reasonable, the final outcome of audits, investigations, and any other tax controversies could be materially different from our historical income
-tax provisions and accruals.
+While costs associated with Amazon Prime membership benefits and other shipping offers are not included in sales and marketing
+expense, we view these offers as effective worldwide marketing tools, and intend to continue offering them indefinitely.
 
 
-#### Liquidity and Capital Resources
+#### General and Administrative
+
+General and administrative costs in Q1 2026 did not significantly change compared to the comparable prior year period.
 
 
-#### Cash flow information is as follows (in millions):
+#### Other Operating Expense (Income), Net
+
+Other operating expense (income), net was $308 million and $447 million for Q1 2025 and Q1 2026, and was primarily related to charges
+associated with damaged data centers in the Middle East in Q1 2026, asset impairments, and the amortization of intangible assets.
+
+
+#### Operating Income
+
+
+#### Operating income by segment is as follows (in millions):
 
 
 #### Three Months Ended
 
 
 #### March 31,
+
+2025
+2026
+Operating Income
+
+North America
+$
+5,841 
+$
+8,267 
+International
+1,017 
+1,424 
+AWS
+11,547 
+14,161 
+Consolidated
+$
+18,405 
+$
+23,852
+
+Operating income increased from $18.4 billion in Q1 2025 to $23.9 billion in Q1 2026. We believe that operating income is a more
+meaningful measure than gross profit and gross margin due to the diversity of our product categories and services. For more information on the
+operating expenses that impact segment operating income, see “Operating Expenses” and the descriptions of operating expense line item
+changes on pages 29 to 31, and “Note 8 — Segment Information” on page 21.
+
+The increase in North America operating income in Q1 2026, compared to the comparable prior year period, is primarily due to increased
+unit sales and increased advertising sales, partially offset by increased shipping, fulfillment, and technology and infrastructure costs.
+
+The increase in International operating income in Q1 2026, compared to the comparable prior year period, is primarily due to increased unit
+sales and increased advertising sales, partially offset by increased shipping and fulfillment costs. Changes in foreign exchange rates positively
+impacted operating income by $347 million for Q1 2026.
+
+The increase in AWS operating income in Q1 2026, compared to the comparable prior year period, is primarily due to increased sales,
+partially offset by spending on technology infrastructure that was primarily driven by additional investments to support AWS business growth.
+Changes in foreign exchange rates negatively impacted operating income by $339 million for Q1 2026.
+
+
+#### Interest Income and Expense
+
+Our interest income was $1.1 billion during Q1 2025 and Q1 2026, primarily due to a decrease in prevailing rates, offset by a higher
+average balance of invested funds. We generally invest our excess cash in investment grade short- to intermediate-term marketable debt
+securities and AAA-rated money market funds. Our interest income corresponds with the average balance of invested funds based on the
+prevailing rates, which vary depending on the geographies and currencies in which they are invested.
+
+Interest expense was $541 million and $800 million during Q1 2025 and Q1 2026, and was primarily related to debt and finance leases.
+See Item 1 of Part I, “Financial Statements — Note 3 — Leases and Note 5 — Debt” for additional information.
+
+
+#### Other Income (Expense), Net
+
+Other income (expense), net was $2.7 billion and $15.6 billion during Q1 2025 and Q1 2026. The primary components of other income
+(expense), net are related to equity securities valuations and adjustments, equity warrant valuations, foreign currency, and reclassification
+adjustments for gains (losses) on available-for-sale debt securities. The net gain of $2.7 billion in Q1 2025 is primarily from the reclassification
+adjustment for the gain on available-for-sale debt securities from the portion of our convertible notes investments in Anthropic that were
+converted to nonvoting preferred stock during Q1 2025. The net gain of $15.6 billion in Q1 2026 is primarily from an upward adjustment for
+observable changes in price relating to our nonvoting preferred stock in
+
+
+#### 31
+
+
+## Page 32
+
+### Table 32.1
+
+| Net cash provided by (used in) operating activities | $ | 113,903 |  | $ | 148,531 |
+| --- | --- | --- | --- | --- | --- |
+| Purchases of property and equipment, net of proceeds from sales and incentives | (87,978) |  |  | (147,299) |  |
+| Free cash flow | $ | 25,925 |  | $ | 1,232 |
+| Net cash provided by (used in) investing activities | $ | (106,283) |  | $ | (176,954) |
+| Net cash provided by (used in) financing activities | $ | (10,603) |  | $ | 62,475 |
+
+
+### Table 32.2
+
+| Net sales | $ | 155,667 |  | $ | 1,440 |  | $ | 157,107 |  | $ | 181,519 |  | $ | (2,877) |  | $ | 178,642 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Operating expenses | 137,262 |  |  | 1,493 |  |  | 138,755 |  |  | 157,667 |  |  | (2,910) |  |  | 154,757 |  |
+| Operating income | 18,405 |  |  | (53) |  |  | 18,352 |  |  | 23,852 |  |  | 33 |  |  | 23,885 |  |
+
+
+
+#### Table of Contents
+
+Anthropic and the reclassification adjustment for the gains on available-for-sale debt securities from the portions of our convertible notes
+investments in Anthropic that were converted to nonvoting preferred stock during Q1 2026.
+
+
+#### Income Taxes
+
+Our income tax provision for the three months ended March 31, 2025 was $4.6 billion, which included $559 million of net discrete tax
+expense. Our income tax provision for the three months ended March 31, 2026 was $9.6 billion, which included $4.1 billion of net discrete tax
+expense primarily attributable to the net gains from our investments in Anthropic. See Item 1 of Part I, “Financial Statements — Note 7 —
+Income Taxes” for additional information.
+
+
+#### Non-GAAP Financial Measures
+
+Regulation G, Conditions for Use of Non-GAAP Financial Measures, and other SEC regulations define and prescribe the conditions for use
+of certain non-GAAP financial information. Free cash flow and the effect of foreign exchange rates on our consolidated statements of operations
+meet the definition of non-GAAP financial measures.
+
+
+#### Free Cash Flow
+
+Our financial focus is on long-term, sustainable growth in free cash flow. We provide a free cash flow measure because we believe it
+provides additional perspective on the impact of acquiring property and equipment with cash. Free cash flow is cash flow from operations
+reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.” The following is a reconciliation of free cash flow
+to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating activities,” for the trailing twelve months ended
+March 31, 2025 and 2026 (in millions):
 
 
 #### Twelve Months Ended
@@ -3134,452 +3241,309 @@ tax provisions and accruals.
 
 2025
 2026
-2025
-2026
-Cash provided by (used in):
-
-Operating activities
-$
-17,015 
-$
-26,032 
+Net cash provided by (used in) operating activities
 $
 113,903 
 $
 148,531 
-Investing activities
-(29,803)
-(64,212)
+Purchases of property and equipment, net of proceeds from sales and incentives
+(87,978)
+(147,299)
+Free cash flow
+$
+25,925 
+$
+1,232
+
+Net cash provided by (used in) investing activities
+$
 (106,283)
+$
 (176,954)
-Financing activities
-(47)
-52,767 
+
+Net cash provided by (used in) financing activities
+$
 (10,603)
+$
 62,475
 
-Our principal sources of liquidity are cash flows generated from operations and our cash, cash equivalents, and marketable securities
-balances, which, at fair value, were $123.0 billion and $143.1 billion as of December 31, 2025 and March 31, 2026. Amounts held in foreign
-currencies were $29.7 billion and $22.1 billion as of December 31, 2025 and March 31, 2026. Our foreign currency balances include British
-Pounds, Canadian Dollars, Euros, Indian Rupees, and Japanese Yen.
-
-Cash provided by (used in) operating activities was $17.0 billion and $26.0 billion for Q1 2025 and Q1 2026. Our operating cash flows result
-primarily from cash received from our consumer, seller, developer, enterprise, and content creator customers, and advertisers, offset by cash
-payments we make for products and services, employee compensation, payment processing and related transaction costs, operating leases, and
-interest payments. Cash received from our customers and other activities generally corresponds to our net sales. The increase in operating cash
-flow for the trailing twelve months ended March 31, 2026, compared to the comparable prior year period, was due to an increase in net income,
-excluding non-cash expenses, and changes in working capital. Working capital at any specific point in time is subject to many variables,
-including variability in demand, inventory management and category expansion, the timing of cash receipts and payments, customer and vendor
-payment terms, and fluctuations in foreign exchange rates.
-
-Cash provided by (used in) investing activities corresponds with cash capital expenditures, including leasehold improvements, incentives
-received from property and equipment vendors, proceeds from asset sales, cash outlays for acquisitions, investments in other companies and
-intellectual property rights, and purchases, sales, and maturities of marketable securities. Cash provided by (used in) investing activities was
-$(29.8) billion and $(64.2) billion for Q1 2025 and Q1 2026, with the variability caused primarily by purchases, sales, and maturities of
-marketable securities and cash capital expenditures. Cash capital expenditures were $24.3 billion and $43.2 billion during Q1 2025 and Q1 2026,
-which primarily reflect investments in technology infrastructure (the majority of which is to support AWS business growth) and in additional
-capacity to support our fulfillment network, both of which we expect to increase in 2026. We did not have significant acquisition and other
-investment activity during Q1 2025. We made cash payments, net of acquired cash, related to acquisition and other investment activity of $15.4
-billion during Q1 2026. In Q1 2026, we invested $15.0 billion in OpenAI’s Series C Preferred Stock and entered into an equity commitment letter
-agreement to purchase an additional $35.0 billion of OpenAI’s Series C Preferred Stock, subject to certain conditions. We expect to fund this
-investment with cash on hand.
+Free cash flow has limitations as it omits certain components of the overall cash flow statement and does not represent the residual cash
+flow available for discretionary expenditures. For example, free cash flow does not incorporate the portion of payments representing principal
+reductions of debt or cash payments for business acquisitions. Additionally, our mix of property and equipment acquisitions with cash or other
+financing options may change over time. Therefore, we believe it is important to view free cash flow only as a complement to our entire
+consolidated statements of cash flows.
 
 
-#### 26
+#### Effect of Foreign Exchange Rates
+
+Information regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and operating
+income is provided to show reported period operating results had the foreign exchange rates remained the same as those in effect in the
+comparable prior year period. The effect on our net sales, operating expenses, and operating income from changes in our foreign exchange
+rates versus the U.S. Dollar is as follows (in millions):
 
 
-## Page 27
-
-
-#### Table of Contents
-
-Cash provided by (used in) financing activities was $(47) million and $52.8 billion for Q1 2025 and Q1 2026. Cash inflows from financing
-activities resulted from proceeds from short-term debt, and other and long-term debt of $2.6 billion and $59.5 billion for Q1 2025 and Q1 2026.
-We expect to undertake additional financing activities in 2026. Cash outflows from financing activities resulted from payments of short-term debt,
-and other, long-term debt, finance leases, and financing obligations of $2.6 billion and $6.7 billion for Q1 2025 and Q1 2026. Property and
-equipment acquired under finance leases was $54 million and $1.6 billion during Q1 2025 and Q1 2026.
-
-We had no borrowings outstanding under the two unsecured revolving credit facilities or the commercial paper programs as of March 31,
-2026. See Item 1 of Part I, “Financial Statements — Note 5 — Debt” for additional information.
-
-Certain foreign subsidiary earnings and losses are subject to current U.S. taxation and the subsequent repatriation of those earnings is not
-subject to tax in the U.S. We intend to invest substantially all of our foreign subsidiary earnings, as well as our capital in our foreign subsidiaries,
-indefinitely outside of the U.S. in those jurisdictions in which we would incur significant, additional costs upon repatriation of such amounts.
-
-Our U.S. taxable income is reduced by accelerated depreciation deductions and the amortization of previously capitalized research and
-development costs. U.S. tax rules provide for enhanced accelerated depreciation deductions by allowing the election of full expensing of qualified
-property, as well as various alternatives for amortizing previously capitalized research and development costs. The 2026 Notice, which applied
-retroactively to 2025, is expected to result in a significant decrease of 2024 and 2025 cash taxes paid. Cash paid for U.S. (federal and state) and
-foreign income taxes (net of refunds) totaled $877 million and $1.3 billion for Q1 2025 and Q1 2026.
-
-As of December 31, 2025 and March 31, 2026, restricted cash, cash equivalents, and marketable securities were $3.3 billion and $2.9
-billion. See Item 1 of Part I, “Financial Statements — Note 4 — Commitments and Contingencies” and “Financial Statements — Note 5 — Debt”
-for additional discussion of our principal contractual commitments, as well as our pledged assets. Additionally, we have purchase obligations and
-open purchase orders, including for inventory and capital expenditures, that support normal operations and are primarily due in the next twelve
-months. These purchase obligations and open purchase orders are generally cancellable in full or in part through the contractual provisions.
-
-We believe that cash flows generated from operations and our cash, cash equivalents, and marketable securities balances, as well as our
-borrowing arrangements and other financing activities, will be sufficient to meet our anticipated operating cash needs for at least the next twelve
-months. However, any projections of future cash needs and cash flows are subject to substantial uncertainty. See Item 1A of Part II, “Risk
-Factors.” We continually evaluate opportunities to sell additional equity or debt securities, obtain credit facilities, obtain finance and operating
-lease arrangements, enter into financing obligations, repurchase common stock, pay dividends, repurchase, refinance, or otherwise restructure
-our debt, or access capital through other financing arrangements for strategic reasons or to further strengthen our financial position.
-
-The sale of additional equity or convertible debt securities would be dilutive to our shareholders. In addition, we will, from time to time,
-consider the acquisition of, or investment in, complementary businesses, products, services, capital infrastructure, and technologies, which might
-affect our liquidity requirements or cause us to secure additional financing, or issue additional equity or debt securities. There can be no
-assurance that additional credit lines or financing instruments will be available in amounts or on terms acceptable to us, if at all. In addition,
-economic conditions and actions by policymaking bodies are contributing to changing interest rates and significant capital market volatility, which,
-along with any increases in our borrowing levels, could increase our future borrowing costs.
-
-
-#### 27
-
-
-## Page 28
-
-### Table 28.1
-
-| Net Sales: |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| North America | $ | 92,887 |  |  | $ | 104,143 |  |
-| International | 33,513 |  |  |  | 39,789 |  |  |
-| AWS | 29,267 |  |  |  | 37,587 |  |  |
-| Consolidated | $ | 155,667 |  |  | $ | 181,519 |  |
-| Year-over-year Percentage Growth: |  |  |  |  |  |  |  |
-| North America | 8 |  | % |  | 12 |  | % |
-| International | 5 |  |  |  | 19 |  |  |
-| AWS | 17 |  |  |  | 28 |  |  |
-| Consolidated | 9 |  |  |  | 17 |  |  |
-| Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: |  |  |  |  |  |  |  |
-| North America | 8 |  | % |  | 12 |  | % |
-| International | 8 |  |  |  | 11 |  |  |
-| AWS | 17 |  |  |  | 28 |  |  |
-| Consolidated | 10 |  |  |  | 15 |  |  |
-| Net Sales Mix: |  |  |  |  |  |  |  |
-| North America | 60 |  | % |  | 57 |  | % |
-| International | 21 |  |  |  | 22 |  |  |
-| AWS | 19 |  |  |  | 21 |  |  |
-| Consolidated | 100 |  | % |  | 100 |  | % |
-
-
-
-#### Table of Contents
-
-
-#### Results of Operations
-
-We have organized our operations into three segments: North America, International, and AWS. These segments reflect the way the
-Company evaluates its business performance and manages its operations. See Item 1 of Part I, “Financial Statements — Note 8 — Segment
-Information.”
-
-
-#### Overview
-
-Macroeconomic factors, including changes in inflation and interest rates, resource and supply volatility, global economic and geopolitical
-developments, including unpredictable shifts in global tariff and trade policies, and the development and adoption of technologies and services,
-including artificial intelligence, have direct and indirect impacts on our results of operations that are difficult to predict, isolate, and quantify. These
-could affect customer demand for our products and services, our ability to forecast growth needs, expenses, and benefits from new technologies.
-Further, we expect to continue making additional investments in our artificial intelligence initiatives. We expect some or all of these factors to
-continue to impact our results of operations into Q2 2026.
-
-
-#### Net Sales
-
-Net sales include product and service sales. Product sales represent revenue from the sale of products and related shipping fees and
-digital media content where we record revenue gross. Service sales primarily represent third-party seller fees, which includes commissions and
-any related fulfillment and shipping fees, AWS sales, advertising services, Amazon Prime membership fees, and certain digital media content
-subscriptions. Net sales information is as follows (in millions):
-
-
-#### Three Months Ended
-
-March 31,
-2025
-2026
-Net Sales:
-
-North America
-$
-92,887 
-$
-104,143 
-International
-33,513 
-39,789 
-AWS
-29,267 
-37,587 
-Consolidated
-$
-155,667 
-$
-181,519 
-Year-over-year Percentage Growth:
-
-North America
-8 %
-12 %
-International
-5 
-19 
-AWS
-17 
-28 
-Consolidated
-9 
-17 
-Year-over-year Percentage Growth, excluding the effect of foreign exchange rates:
-
-North America
-8 %
-12 %
-International
-8 
-11 
-AWS
-17 
-28 
-Consolidated
-10 
-15 
-Net Sales Mix:
-
-North America
-60 %
-57 %
-International
-21 
-22 
-AWS
-19 
-21 
-Consolidated
-100 %
-100 %
-
-Sales increased 17% in Q1 2026 compared to the comparable prior year period. Changes in foreign exchange rates increased net sales by
-$2.9 billion for Q1 2026. For a discussion of the effect of foreign exchange rates on sales growth, see “Effect of Foreign Exchange Rates” below.
-
-North America sales increased 12% in Q1 2026 compared to the comparable prior year period. The sales growth primarily reflects
-increased unit sales, including sales by third-party sellers, advertising sales, and subscription services. Increased unit sales were driven largely
-by our continued focus on price, selection, and convenience for our customers, including from our fast shipping offers. Changes in foreign
-exchange rates increased North America net sales by $346 million for Q1 2026.
-
-
-#### 28
-
-
-## Page 29
-
-### Table 29.1
-
-| Operating Expenses: |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Cost of sales | $ | 76,976 |  |  | $ | 87,463 |  |
-| Fulfillment | 24,593 |  |  |  | 27,289 |  |  |
-| Technology and infrastructure | 22,994 |  |  |  | 29,567 |  |  |
-| Sales and marketing | 9,763 |  |  |  | 10,314 |  |  |
-| General and administrative | 2,628 |  |  |  | 2,587 |  |  |
-| Other operating expense (income), net | 308 |  |  |  | 447 |  |  |
-| Total operating expenses | $ | 137,262 |  |  | $ | 157,667 |  |
-| Year-over-year Percentage Growth (Decline): |  |  |  |  |  |  |  |
-| Cost of sales | 6 |  | % |  | 14 |  | % |
-| Fulfillment | 10 |  |  |  | 11 |  |  |
-| Technology and infrastructure | 13 |  |  |  | 29 |  |  |
-| Sales and marketing | 1 |  |  |  | 6 |  |  |
-| General and administrative | (4) |  |  |  | (2) |  |  |
-| Other operating expense (income), net | 35 |  |  |  | 45 |  |  |
-| Percent of Net Sales: |  |  |  |  |  |  |  |
-| Cost of sales | 49.4 |  | % |  | 48.2 |  | % |
-| Fulfillment | 15.8 |  |  |  | 15.0 |  |  |
-| Technology and infrastructure | 14.8 |  |  |  | 16.3 |  |  |
-| Sales and marketing | 6.3 |  |  |  | 5.7 |  |  |
-| General and administrative | 1.7 |  |  |  | 1.4 |  |  |
-| Other operating expense (income), net | 0.2 |  |  |  | 0.2 |  |  |
-
-
-
-#### Table of Contents
-
-International sales increased 19% in Q1 2026 compared to the comparable prior year period. The sales growth primarily reflects increased
-unit sales, including sales by third-party sellers, advertising sales, and subscription services. Increased unit sales were driven largely by our
-continued focus on price, selection, and convenience for our customers, including from our fast shipping offers. Changes in foreign exchange
-rates increased International net sales by $2.5 billion for Q1 2026.
-
-AWS sales increased 28% in Q1 2026 compared to the comparable prior year period. The sales growth primarily reflects increased
-customer usage, partially offset by pricing changes primarily driven by long-term customer contracts.
-
-
-#### Operating Expenses
-
-
-#### Information about operating expenses is as follows (in millions):
-
-
-#### Three Months Ended
-
-
-#### March 31,
+#### Three Months Ended March 31,
 
 2025
 2026
-Operating Expenses:
 
-Cost of sales
+As
+Reported
+
+
+#### Exchange
+
+Rate
+Effect (1)
+
+
+#### At Prior
+
+Year
+Rates (2)
+As Reported
+
+
+#### Exchange
+
+Rate
+Effect (1)
+
+
+#### At Prior
+
+Year
+Rates (2)
+Net sales
+$ 155,667 
 $
-76,976 
+1,440 
+$ 157,107 
+$ 181,519 
 $
-87,463 
-Fulfillment
-24,593 
-27,289 
-Technology and infrastructure
-22,994 
-29,567 
-Sales and marketing
-9,763 
-10,314 
-General and administrative
-2,628 
-2,587 
-Other operating expense (income), net
-308 
-447 
-Total operating expenses
-$
+(2,877)
+$ 178,642 
+Operating expenses
 137,262 
-$
-157,667
+1,493 
+138,755 
+157,667 
+(2,910)
+154,757 
+Operating income
+18,405 
+(53)
+18,352 
+23,852 
+33 
+23,885
+
+___________________
+(1) Represents the change in reported amounts resulting from changes in foreign exchange rates from those in effect in the comparable prior
+
+year period for operating results.
+(2) Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the
+
+comparable prior year period for operating results.
 
 
-#### Year-over-year Percentage Growth (Decline):
-
-Cost of sales
-6 %
-14 %
-Fulfillment
-10 
-11 
-Technology and infrastructure
-13 
-29 
-Sales and marketing
-1 
-6 
-General and administrative
-(4)
-(2)
-Other operating expense (income), net
-35 
-45 
-Percent of Net Sales:
-
-Cost of sales
-49.4 %
-48.2 %
-Fulfillment
-15.8 
-15.0 
-Technology and infrastructure
-14.8 
-16.3 
-Sales and marketing
-6.3 
-5.7 
-General and administrative
-1.7 
-1.4 
-Other operating expense (income), net
-0.2 
-0.2
+#### 32
 
 
-#### Cost of Sales
-
-Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs, including costs related
-to sortation and delivery centers and where we are the transportation service provider, and digital media content costs where we record revenue
-gross, including video and music.
-
-The increase in cost of sales in Q1 2026, compared to the comparable prior year period, is primarily due to increased product and shipping
-costs resulting from increased sales, partially offset by operational efficiencies. Changes in foreign exchange rates increased cost of sales by
-$1.8 billion for Q1 2026.
-
-Shipping costs were $22.5 billion and $25.7 billion in Q1 2025 and Q1 2026. Shipping costs to receive products from our suppliers are
-included in our inventory and recognized as cost of sales upon sale of products to our customers. We expect our cost of shipping to continue to
-increase to the extent our customers accept and use our shipping offers at an increasing rate, we use more expensive shipping methods, and we
-offer additional services. We seek to mitigate costs of shipping over time in part through achieving higher sales volumes, optimizing our fulfillment
-network, negotiating better terms with our suppliers, and achieving better operating efficiencies. We believe that offering low prices to our
-customers is fundamental to our future success, and one way we offer lower prices is through shipping offers.
-
-
-#### 29
-
-
-## Page 30
+## Page 33
 
 
 #### Table of Contents
 
-Costs to operate our AWS segment are primarily classified as “Technology and infrastructure” as we leverage a shared infrastructure that
-supports both our internal technology requirements and external sales to AWS customers.
+
+#### Guidance
+
+We provided guidance on April 29, 2026, in our earnings release furnished on Form 8-K as set forth below. These forward-looking
+statements reflect Amazon.com’s expectations as of April 29, 2026, and are subject to substantial uncertainty. Our results are inherently
+unpredictable and may be materially affected by many factors, such as fluctuations in foreign exchange rates and energy prices, changes in
+global economic and geopolitical conditions, tariff and trade policies, resource and supply volatility, including for memory chips, and customer
+demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events, the
+rate of growth of the internet, online commerce, cloud services, and new and emerging technologies, as well as those outlined in Item 1A of Part
+II, “Risk Factors.”
 
 
-#### Fulfillment
+#### Second Quarter 2026 Guidance
 
-Fulfillment costs primarily consist of those costs incurred in operating and staffing our North America and International fulfillment centers,
-physical stores, and customer service centers and payment processing costs. While AWS payment processing and related transaction costs are
-included in “Fulfillment,” AWS costs are primarily classified as “Technology and infrastructure.” Fulfillment costs as a percentage of net sales may
-vary due to several factors, such as payment processing and related transaction costs, our level of productivity and accuracy, changes in volume,
-size, and weight of units received and fulfilled, the extent to which third-party sellers utilize Fulfillment by Amazon services, timing of fulfillment
-network and physical store expansion, the extent we utilize fulfillment services provided by third parties, mix of products and services sold, and
-our ability to affect customer service contacts per unit by implementing improvements in our operations and enhancements to our customer self-
-service features. Additionally, sales by our sellers have higher payment processing and related transaction costs as a percentage of net sales
-compared to our retail sales because payment processing costs are based on the gross purchase price of underlying transactions.
+•
+Net sales are expected to be between $194.0 billion and $199.0 billion, or to grow between 16% and 19% compared with second
+quarter 2025. This guidance anticipates an unfavorable impact of approximately 10 basis points from foreign exchange rates.
 
-The increase in fulfillment costs in Q1 2026, compared to the comparable prior year period, is primarily due to increased sales and
-investments in our fulfillment network, partially offset by operational efficiencies. Changes in foreign exchange rates increased fulfillment costs by
-$478 million for Q1 2026.
+•
+Operating income is expected to be between $20.0 billion and $24.0 billion, compared with $19.2 billion in second quarter 2025.
 
-We seek to expand our fulfillment network to accommodate a greater selection and in-stock inventory levels and to meet anticipated
-shipment volumes from sales of our own products as well as sales by third parties for which we provide the fulfillment services. We regularly
-evaluate our facility requirements.
+•
+This guidance assumes that Prime Day occurs in second quarter 2026.
+
+•
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are
+concluded.
 
 
-#### Technology and Infrastructure
-
-Technology and infrastructure costs include payroll and related expenses for employees involved in the research and development of new
-and existing products and services, development, design, and maintenance of our stores, curation and display of products and services made
-available in our online stores, and infrastructure costs. Infrastructure costs include servers, networking equipment, and data center related
-depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. Collectively, these
-costs reflect the investments we make in order to offer a wide variety of products and services to our customers, including expenditures related to
-initiatives to build and deploy innovative and efficient software and electronic devices and the development of a satellite network for global
-broadband service and autonomous vehicles for ride-hailing services.
-
-We seek to invest efficiently in numerous areas of technology and infrastructure so we may continue to enhance the customer experience
-and improve our process efficiency through rapid technology developments, while operating at an ever increasing scale. Our technology and
-infrastructure investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and
-the cross-functionality of our systems and operations. We expect spending in technology and infrastructure to increase over time as we continue
-to add infrastructure and employees, including to support our artificial intelligence and machine learning initiatives. These costs are allocated to
-segments based on usage. The increase in technology and infrastructure costs in Q1 2026, compared to the comparable prior year period, is
-primarily due to an increase in spending on infrastructure, including depreciation and amortization. Changes in foreign exchange rates increased
-technology and infrastructure costs by $374 million for Q1 2026. We currently expense the majority of the costs associated with the development
-of our satellite network for global broadband service (including production, launch, and payroll costs, and launch services deposits upon launch).
-We will capitalize certain of these costs once the service achieves commercial viability, including sales to customers. See Item 7 of Part II,
-“Management’s Discussion and Analysis of Financial Condition and Results of Operations — Overview” of our 2025 Annual Report on Form 10-K
-for a discussion of how management views advances in technology and the importance of innovation.
+#### 33
 
 
-#### Sales and Marketing
-
-Sales and marketing costs include advertising and payroll and related expenses for personnel engaged in marketing and selling activities,
-including sales commissions related to AWS. We direct customers to our stores primarily through a number of marketing channels, such as our
-third-party customer referrals, sponsored search, social and online advertising, television advertising, and other initiatives. Our marketing costs
-are largely variable, based on growth in sales and changes in rates. To the extent there is increased or decreased competition for these traffic
-sources, or to the extent our mix of these channels shifts, we would expect to see a corresponding change in our marketing costs.
-
-Sales and marketing costs in Q1 2026 did not significantly change compared to the comparable prior year period. Changes in foreign
-exchange rates increased sales and marketing costs by $233 million for Q1 2026.
+## Page 34
 
 
-#### 30
+#### Table of Contents
+
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our
+investments. Information relating to quantitative and qualitative disclosures about market risk is set forth below and in Item 2 of Part I,
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Capital Resources.”
+
+
+#### Interest Rate Risk
+
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our debt. Our long-term debt
+primarily bears interest at fixed rates and is carried at amortized cost and fluctuations in interest rates do not impact our consolidated financial
+statements. However, the fair value of our long-term debt will generally fluctuate with movements of interest rates, increasing in periods of
+declining rates of interest and declining in periods of increasing rates of interest. We generally invest our excess cash in investment grade short-
+to intermediate-term marketable debt securities and AAA-rated money market funds. Marketable debt securities with fixed interest rates may
+have their fair market value adversely affected due to a rise in interest rates, and we may suffer losses in principal if forced to sell securities that
+have declined in market value due to changes in interest rates.
+
+
+#### Foreign Exchange Risk
+
+During Q1 2026, net sales from our International segment accounted for 22% of our consolidated revenues. Net sales and related
+expenses generated from our internationally-focused stores, including within Canada and Mexico (which are included in our North America
+segment), are primarily denominated in the functional currencies of the corresponding stores and primarily include Euros, British Pounds, and
+Japanese Yen. The results of operations of, and certain of our intercompany balances associated with, our internationally-focused stores and
+AWS are exposed to foreign exchange rate fluctuations. Upon consolidation, as foreign exchange rates vary, net sales and other operating
+results may differ materially from expectations, and we may record significant gains or losses on the remeasurement of intercompany balances.
+For example, as a result of fluctuations in foreign exchange rates throughout the period compared to rates in effect the prior year, International
+segment net sales in Q1 2026 increased by $2.5 billion in comparison with Q1 2025.
+
+We have foreign exchange risk related to foreign-denominated cash, cash equivalents, and marketable securities (“foreign funds”). Based
+on the balance of foreign funds as of March 31, 2026, of $22.1 billion, an assumed 5%, 10%, and 20% adverse change to foreign exchange
+would result in declines of $1.1 billion, $2.2 billion, and $4.4 billion.
+
+We also have foreign exchange risk related to our intercompany balances denominated in various currencies. Based on the intercompany
+balances as of March 31, 2026, an assumed 5%, 10%, and 20% adverse change to foreign exchange rates would result in losses of $525 million,
+$1.0 billion, and $2.1 billion, recorded to “Other income (expense), net.”
+
+Our March 2026 Euro-denominated Notes issuance of €14.5 billion creates an exposure to changes in foreign exchange rates. We
+designated these notes as net investment hedges to mitigate foreign currency exposures related to the translation of our investments in foreign
+operations to U.S. dollars. Foreign currency unrealized gains and losses on these notes are included in “Accumulated other comprehensive
+income (loss)” until the foreign operations are sold or substantially liquidated, at which point these amounts and any translation adjustment of the
+foreign operations are reclassified to our consolidated statements of operations.
+
+See Item 2 of Part I, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations —
+Effect of Foreign Exchange Rates” for additional information on the effect on reported results of changes in foreign exchange rates.
+
+
+#### Equity Investment Risk
+
+As of March 31, 2026, our recorded value in equity, equity warrant, and convertible debt investments in public and private companies was
+$96.5 billion. Our equity and equity warrant investments in publicly traded companies represent $3.8 billion of our investments as of March 31,
+2026, and are recorded at fair value, which is subject to market price volatility. We record our equity warrant investments in private companies at
+fair value and adjust our equity investments in private companies, which primarily relate to our equity investments in Anthropic and OpenAI, for
+observable price changes or impairments. We record our available-for-sale convertible debt investments in private companies at fair value, which
+primarily relate to Anthropic. Valuations of private companies are inherently more complex due to the lack of readily available market data. The
+current global economic conditions provide additional uncertainty. As such, we believe that market sensitivities are not practicable.
+
+
+#### 34
+
+
+## Page 35
+
+
+#### Table of Contents
+
+Item 4.
+Controls and Procedures
+
+We carried out an evaluation required by the Securities Exchange Act of 1934 (the “1934 Act”), under the supervision and with the
+participation of our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures, as defined in Rule 13a-15(e) of the 1934 Act, as of the end of the period covered by this report. Based on this
+evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective to
+provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the 1934 Act is recorded,
+processed, summarized, and reported within the time periods specified in the SEC’s rules and forms and to provide reasonable assurance that
+such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as
+appropriate to allow timely decisions regarding required disclosure.
+
+During the most recent fiscal quarter, there has not occurred any change in our internal control over financial reporting that has materially
+affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their objectives as specified above.
+Management does not expect, however, that our disclosure controls and procedures will prevent or detect all error and fraud. Any control
+system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute,
+assurance that its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or
+fraud will not occur or that all control issues and instances of fraud, if any, within the Company have been detected.
+
+
+#### 35
+
+
+## Page 36
+
+
+#### Table of Contents
+
+PART II. OTHER INFORMATION
+Item 1.
+Legal Proceedings
+
+See Item 1 of Part I, “Financial Statements — Note 4 — Commitments and Contingencies — Legal Proceedings.”
+
+Item 1A.
+Risk Factors
+
+Please carefully consider the following discussion of significant factors, events, and uncertainties that make an investment in our securities
+risky. The events and consequences discussed in these risk factors could, in circumstances we may or may not be able to accurately predict,
+recognize, or control, have a material adverse effect on our business, growth, reputation, prospects, financial condition, operating results
+(including components of our financial results), cash flows, liquidity, and stock price. These risk factors do not identify all risks that we face; our
+operations could also be affected by factors, events, or uncertainties that are not presently known to us or that we currently do not consider to
+present significant risks to our operations. In addition to the factors discussed in Item 7 of Part II, “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations,” and in the risk factors below, global economic and geopolitical conditions and additional or
+unforeseen circumstances, developments, or events may give rise to or amplify many of the risks discussed below. Many of the risks discussed
+below also impact our customers, including third-party sellers, which could indirectly have a material adverse effect on us. The disclosures in this
+section reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future. References to past events are
+provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have
+occurred in the past.
+
+
+#### Business and Industry Risks
+
+
+#### We Face Intense Competition
+
+Our businesses are rapidly evolving and intensely competitive, and we have many competitors across geographies, including cross-border
+competition, and in different industries, including physical, e-commerce, and omnichannel retail, e-commerce services, web and infrastructure
+computing services, electronic devices, digital content, advertising, grocery, healthcare, communications, and transportation and logistics
+services. Some of our current and potential competitors have greater resources, longer histories, more customers, and/or greater brand
+recognition, particularly with our newly-launched products and services and in our newer geographic regions. They may secure better terms from
+vendors, adopt more aggressive pricing, and devote more resources to technology, infrastructure, fulfillment, and marketing.
+
+Competition continues to intensify, including with the development of new business models and the entry of new and well-funded
+competitors, and as our competitors enter into business combinations or alliances and established companies in other market segments expand
+to become competitive with our business. In addition, new and enhanced technologies, including search, web and infrastructure computing
+services, practical applications of artificial intelligence and machine learning, digital content, satellites, and electronic devices continue to
+increase our competition. The internet and other technologies including artificial intelligence facilitate competitive entry and comparison
+shopping, which enhances the ability of new, smaller, or lesser-known businesses to compete against us. As a result of competition, our product
+and service offerings may not be successful, we may fail to gain or may lose business, and we may be required to increase our spending or lower
+prices, any of which could materially reduce our sales and profits.
+
+Our Expansion into New Products, Services, Technologies, and Geographic Regions Subjects Us to Additional Risks
+
+We may have limited or no experience in our newer market segments, and our customers may not adopt our product or service offerings.
+These offerings, which can present new and difficult technology challenges, may subject us to claims if customers of these offerings experience,
+or are otherwise impacted by, service disruptions, delays, setbacks, or failures or quality issues. In addition, profitability or other intended
+benefits, if any, in our newer activities (including development and adoption of automation, artificial intelligence, and machine learning
+technologies for customer and internal use), may not meet our expectations, and we may not be successful enough in these newer activities to
+recoup our investments in them, which investments are often significant. Failure to realize the benefits of amounts we invest in new technologies,
+products, or services could result in the value of those investments being written down or written off. In addition, our sustainability initiatives may
+be unsuccessful for a variety of reasons, including if we are unable to realize the expected benefits of new technologies or if we do not
+successfully plan or execute new strategies, which could harm our business or damage our reputation.
+
+
+#### 36

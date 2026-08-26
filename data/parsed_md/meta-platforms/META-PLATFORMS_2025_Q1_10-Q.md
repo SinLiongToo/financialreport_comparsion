@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2025_Q1_10-Q
+# Financial Report: META-PLATFORMS_2025_Q1_10-Q
 
 - **Source File**: `META-PLATFORMS_2025_Q1_10-Q.pdf`
-- **Total Pages**: 98
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 98
+- **Parsed Key Pages**: 30 (30 selected sections)
 
 ---
 
@@ -2752,295 +2752,426 @@ Includes costs and expenses in RL segment for inventory, professional services, 
 #### 26
 
 
-## Page 27
-
-Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
-
-You should read the following discussion of our ﬁnancial condition and results of operations in conjunction with our condensed consolidated
-ﬁnancial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated ﬁnancial
-statements included in our Annual Report on Form 10-K for the year ended December 31, 2024, as ﬁled with the Securities and Exchange
-Commission. In addition to our historical condensed consolidated ﬁnancial information, the following discussion contains forward-looking
-statements that reﬂect our plans, estimates, and beliefs. Our actual results could diﬀer materially from those discussed in the forward-looking
-statements. Factors that could cause or contribute to these diﬀerences include those discussed below and elsewhere in this Quarterly Report on
-Form 10-Q, particularly in Part II, Item 1A, "Risk Factors." For a discussion of limitations in the measurement of our Family metrics, see the
-section entitled "Limitations of Key Metrics and Other Data" in this Quarterly Report on Form 10-Q.
-
-To supplement our condensed consolidated ﬁnancial statements, which are prepared and presented in accordance with generally accepted
-accounting principles in the United States (GAAP), we present revenue on a constant currency basis, which is a non-GAAP ﬁnancial measure.
-Revenue on a constant currency basis is presented in the section entitled "—Revenue—Foreign Exchange Impact on Revenue." To calculate
-revenue on a constant currency basis, we translated revenue for the three months ended March 31, 2025 using the prior year's monthly
-exchange rates for our settlement or billing currencies other than the U.S. dollar.
-
-This non-GAAP ﬁnancial measure is not intended to be considered in isolation or as a substitute for, or superior to, ﬁnancial information prepared
-and presented in accordance with GAAP. This measure may be diﬀerent from non-GAAP ﬁnancial measures used by other companies, limiting
-its usefulness for comparison purposes. Moreover, presentation of revenue on a constant currency basis is provided for year-over-year
-comparison purposes, and investors should be cautioned that the eﬀect of changing foreign currency exchange rates has an actual eﬀect on our
-operating results. We believe this non-GAAP ﬁnancial measure provides investors with useful supplemental information about the ﬁnancial
-performance of our business, enables comparison of ﬁnancial results between periods where certain items may vary independent of business
-performance, and allows for greater transparency with respect to key metrics used by management in operating our business.
+## Page 36
 
 
-#### Executive Overview of First Quarter Results
-
-Our mission is to build the future of human connection and the technology that makes it possible.
-
-Our ﬁnancial results and key Family metrics for the ﬁrst quarter of 2025 are set forth below. Total revenue for the ﬁrst quarter of 2025 was
-$42.31 billion, an increase of 16% compared to the ﬁrst quarter of 2024, due to an increase in advertising revenue. Revenue on a constant
-currency basis would have increased 19% compared to the ﬁrst quarter of 2024. Ad impressions delivered across our Family of Apps in the ﬁrst
-quarter of 2025 increased 5% year-over-year, and our average price per ad in the first quarter of 2025 increased 10% year-over-year.
-
-Income from operations for the ﬁrst quarter of 2025 was $17.56 billion, an increase of $3.74 billion, or 27%, compared to the ﬁrst quarter of
-2024, driven by an increase in advertising revenue, partially oﬀset by an increase in costs and expenses. The increase in costs and expenses
-was primarily due to increases in employee compensation and infrastructure costs, partially offset by lower legal-related costs.
+#### Table of Contents
 
 
-#### 27
+#### Components of Results of Operations
 
 
-## Page 28
+#### Revenue
 
-### Table 28.1
 
-| Revenue | $ | 41,902 |  |  | $ | 36,015 |  |  | 16% |  | $ | 412 |  |  | $ | 440 |  |  | (6)% |  | $ | 42,314 |  |  | $ | 36,455 |  |  | 16% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Costs and expenses | 20,137 |  |  |  | 18,351 |  |  |  | 10% |  | 4,622 |  |  |  | 4,286 |  |  |  | 8% |  | 24,759 |  |  |  | 22,637 |  |  |  | 9% |
-| Income (loss) from operations | $ | 21,765 |  |  | $ | 17,664 |  |  | 23% |  | $ | (4,210) |  |  | $ | (3,846) |  |  | (9)% |  | $ | 17,555 |  |  | $ | 13,818 |  |  | 27% |
-| Operating margin | 52 |  | % |  | 49 |  | % |  |  |  | (1,022) |  | % |  | (874) |  | % |  |  |  | 41 |  | % |  | 38 |  | % |  |  |
+#### Family of Apps (FoA)
+
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad
+products on Facebook, Instagram, Messenger, and third-party mobile applications. Marketers pay for ad products either directly or through their
+relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks, taken
+by users.
+
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered.
+Impressions are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the
+period in which a user takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we
+continue to evolve our ads business and the structure of our ads products. In particular, the ads we show may vary by product (for example, our
+video and Reels products are not currently monetized at the same rate as our Feed or Stories products), and from time to time we increase or
+decrease the number or frequency of ads we show as part of our product and monetization strategies. We calculate average price per ad as total
+advertising revenue divided by the number of ads delivered, representing the average price paid per ad by a marketer regardless of their desired
+objective such as impression or action. For advertising revenue arrangements where we are not the principal, we recognize revenue on a net
+basis.
+
+Other revenue. Other revenue consists of revenue from WhatsApp Business Platform, Meta Veriﬁed subscriptions, net fees we receive
+from developers using our Payments infrastructure, and revenue from various other sources.
+
+
+#### Reality Labs (RL)
+
+RL revenue is generated from the delivery of consumer hardware products, such as Meta Quest and Ray-Ban Meta AI glasses, and
+related software and content.
+
+
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly
+include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network
+infrastructure and buildings, employee compensation which includes payroll, share-based compensation and beneﬁts for employees on our
+operations teams, and energy and bandwidth costs. Cost of revenue also consists of costs associated with partner arrangements, including
+traﬃc acquisition costs and credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of
+products sold and estimated losses on non-cancelable contractual commitments; and content costs.
+
+Research and development. Research and development expenses consist mostly of employee compensation which includes payroll,
+share-based compensation and beneﬁts for our employees on our engineering and technical teams who are responsible for developing new
+technologies and products; RL technology development costs; infrastructure costs; and facilities-related costs.
+
+Marketing and sales. Marketing and sales expenses consist primarily of employee compensation which includes payroll, share-based
+compensation and beneﬁts for our employees engaged in sales, sales support, marketing, business development, and customer service
+functions; marketing and promotional expenses; and professional services to support our community and product operations.
+
+General and administrative. General and administrative expenses consist primarily of employee compensation which includes payroll,
+share-based compensation and beneﬁts for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications
+and policy, and other administrative employees; legal-related costs, which include estimated ﬁnes, settlements, or other losses in connection
+with legal and related matters, as well as other legal fees; other taxes, such as digital services taxes and other non-income-based tax levies; and
+professional services.
+
+
+#### 36
+
+
+## Page 37
+
+### Table 37.1
+
+| Revenue | $ | 42,314 |  | $ | 36,455 |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 7,572 |  |  | 6,640 |  |
+| Research and development | 12,150 |  |  | 9,978 |  |
+| Marketing and sales | 2,757 |  |  | 2,564 |  |
+| General and administrative | 2,280 |  |  | 3,455 |  |
+| Total costs and expenses | 24,759 |  |  | 22,637 |  |
+| Income from operations | 17,555 |  |  | 13,818 |  |
+| Interest and other income, net | 827 |  |  | 365 |  |
+| Income before provision for income taxes | 18,382 |  |  | 14,183 |  |
+| Provision for income taxes | 1,738 |  |  | 1,814 |  |
+| Net income | $ | 16,644 |  | $ | 12,369 |
+
+
+### Table 37.2
+
+| Revenue | 100 | % |  | 100 | % |
+| --- | --- | --- | --- | --- | --- |
+| Costs and expenses: |  |  |  |  |  |
+| Cost of revenue | 18 |  |  | 18 |  |
+| Research and development | 29 |  |  | 27 |  |
+| Marketing and sales | 7 |  |  | 7 |  |
+| General and administrative | 5 |  |  | 9 |  |
+| Total costs and expenses | 59 |  |  | 62 |  |
+| Income from operations | 41 |  |  | 38 |  |
+| Interest and other income, net | 2 |  |  | 1 |  |
+| Income before provision for income taxes | 43 |  |  | 39 |  |
+| Provision for income taxes | 4 |  |  | 5 |  |
+| Net income | 39 | % |  | 34 | % |
 
 
 
 #### Table of Contents
 
 
-#### Consolidated and Segment Results
+#### Results of Operations
 
-We report our ﬁnancial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes Facebook,
-Instagram, Messenger, WhatsApp, and other services. RL includes our virtual, augmented, and mixed reality related consumer hardware,
-software, and content.
+The following table sets forth our condensed consolidated statements of income data (in millions):
 
-Family of Apps
-Reality Labs
-Total
-
-
-#### Three Months Ended March
-
-
-#### 31,
-
-
-#### % change
-
-
-#### Three Months Ended March 31,
-
-
-#### % change
-
-
-#### Three Months Ended March
-
-
-#### 31,
-
-% change
+Three Months Ended March 31,
+ 
 2025
 2024
-2025
-2024
-2025
-2024
-
-(in millions, except percentages)
 Revenue
 $
-41,902
+42,314 
 $
-36,015
-16%
-$
-412
-$
-440
-(6)%
-$
-42,314
-$
-36,455
-16%
-Costs and expenses
-20,137
-18,351
-10%
-4,622
-4,286
-8%
-24,759
-22,637
-9%
-Income (loss) from
-operations
-$
-21,765
-$
-17,664
-23%
-$
-(4,210)
-$
-(3,846)
-(9)%
-$
-17,555
-$
-13,818
-27%
+36,455 
+Costs and expenses:
 
-Operating margin
-52 
-%
-49 
-%
-(1,022)
-%
-(874)
-%
+Cost of revenue
+7,572 
+6,640 
+Research and development
+12,150 
+9,978 
+Marketing and sales
+2,757 
+2,564 
+General and administrative
+2,280 
+3,455 
+Total costs and expenses
+24,759 
+22,637 
+Income from operations
+17,555 
+13,818 
+Interest and other income, net
+827 
+365 
+Income before provision for income taxes
+18,382 
+14,183 
+Provision for income taxes
+1,738 
+1,814
+
+Net income
+$
+16,644 
+$
+12,369
+
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue)
+:
+
+Three Months Ended March 31,
+ 
+2025
+2024
+Revenue
+100 %
+100 %
+Costs and expenses:
+
+Cost of revenue
+18 
+18 
+Research and development
+29 
+27 
+Marketing and sales
+7 
+7 
+General and administrative
+5 
+9 
+Total costs and expenses
+59 
+62 
+Income from operations
 41 
-%
 38 
+Interest and other income, net
+2 
+1 
+Income before provision for income taxes
+43 
+39 
+Provision for income taxes
+4 
+5
+
+Net income
+39 %
+34 %
+
+____________________________________
+(1)
+Percentages have been rounded for presentation purposes and may differ from unrounded results.
+
+
+#### (1)
+
+
+#### 37
+
+
+## Page 38
+
+### Table 38.1
+
+| Advertising | $ | 41,392 |  | $ | 35,635 |  | 16 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Other revenue | 510 |  |  | 380 |  |  | 34 | % |
+| Family of Apps | 41,902 |  |  | 36,015 |  |  | 16 | % |
+| Reality Labs | 412 |  |  | 440 |  |  | (6) | % |
+| Total revenue | $ | 42,314 |  | $ | 36,455 |  | 16 | % |
+
+
+
+#### Table of Contents
+
+
+#### Revenue
+
+
+#### The following table sets forth our revenue by source and by segment:
+
+Three Months Ended March 31,
+ 
+2025
+2024
+% change
+
+(in millions, except percentages)
+Advertising
+$
+41,392 
+$
+35,635 
+16 %
+Other revenue
+510 
+380 
+34 %
+Family of Apps
+41,902 
+36,015 
+16 %
+Reality Labs
+412 
+440 
+(6) %
+
+Total revenue
+$
+42,314 
+$
+36,455 
+16 %
+
+
+#### Family of Apps
+
+FoA revenue in the three months ended March 31, 2025 increased $5.89 billion, or 16%, compared to the same period in 2024. The
+increase was almost entirely driven by advertising revenue.
+
+
+#### Advertising
+
+Advertising revenue in the three months ended March 31, 2025 increased $5.76 billion, or 16%, compared to the same period in 2024, due
+to increases in ad impressions delivered and average price per ad. During the three months ended March 31, 2025, ad impressions delivered
+increased by 5%, year-over-year, as compared with a 20% increase in the same period in 2024. Ad impressions delivered during the three
+months ended March 31, 2025 grew in all regions, especially in Asia-Paciﬁc, which was primarily driven by increases in users and their
+engagement on our products. During the three months ended March 31, 2025, the average price per ad increased by 10%, year-over-year, as
+compared with an increase of 6% in the same period in 2024. The increase in average price per ad during the three months ended March 31,
+2025 was driven by an increase in advertising demand, which we believe is mostly due to ongoing improvements to our ad performance from our
+ad targeting and measurement tools. This increase was partially oﬀset by a higher number of ad impressions delivered, especially in
+geographies and in products, such as Reels, that monetize at lower rates. Other factors are discussed in the section entitled "—Executive
+Overview of First Quarter Results." In addition, the online commerce vertical was the largest contributor to the increase in advertising revenue in
+the three months ended March 31, 2025 compared to the same period in 2024. We anticipate that future advertising revenue will be driven by a
+combination of price and ad impressions delivered.
+
+
+#### Other revenue
+
+FoA other revenue in the three months ended March 31, 2025 increased $130 million, or 34%, compared to the same period in 2024. The
+increase was mostly driven by revenue from WhatsApp Business Platform and Meta Verified subscriptions.
+
+
+#### Reality Labs
+
+RL revenue in the three months ended March 31, 2025 decreased $28 million, or 6%, compared to the same period in 2024. The decrease
+in RL revenue was driven by a net decrease in Meta Quest sales, partially offset by an increase in sales of Ray-Ban Meta AI glasses.
+
+
+#### Foreign Exchange Impact on Revenue
+
+Changes in foreign exchange rates had an unfavorable impact on our revenue in the three months ended March 31, 2025 compared to the
+same period in 2024. To calculate revenue on a constant currency basis, we translated revenue using the prior year's monthly exchange rates
+for our settlement or billing currencies other than the U.S. dollar. Using these constant rates for the three months ended March 31, 2025, our
+total revenue and advertising revenue would have been $43.55 billion and $42.62 billion, which were $1.24 billion and $1.22 billion higher than
+actual total revenue and advertising revenue, respectively.
+
+
+#### 38
+
+
+## Page 39
+
+### Table 39.1
+
+| Cost of revenue | $ 7,572 |  |  | $ | 6,640 |  |  | 14 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 18 | % |  | 18 |  | % |  |  |  |
+
+
+### Table 39.2
+
+| Research and development $ | 12,150 |  |  | $ | 9,978 |  |  | 22 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 29 | % |  | 27 |  | % |  |  |  |
+
+
+### Table 39.3
+
+| Marketing and sales | $ 2,757 |  |  | $ | 2,564 |  |  | 8 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage of revenue | 7 | % |  | 7 |  | % |  |  |  |
+
+
+
+#### Table of Contents
+
+
+#### Cost of revenue
+
+Three Months Ended March 31,
+ 
+2025
+2024
+% change
+
+(in millions, except percentages)
+Cost of revenue
+$
+7,572
+$
+6,640
+14 %
+Percentage of revenue
+18 
+%
+18 
 %
 
-•
-Net income was $16.64 billion, with diluted earnings per share (EPS) of $6.43 for the three months ended March 31, 2025.
-•
-Capital expenditures, including principal payments on finance leases, were $13.69 billion for the three months ended March 31, 2025.
-•
-Share repurchases of our Class A common stock were $13.40 billion and total dividend and dividend equivalent payments were $1.33
-billion for the three months ended March 31, 2025.
-•
-Cash, cash equivalents, and marketable securities were $70.23 billion as of March 31, 2025.
-•
-Effective tax rate was 9% for the three months ended March 31, 2025.
-•
-Headcount was 76,834 as of March 31, 2025, an increase of 11% year-over-year.
+Cost of revenue in the three months ended March 31, 2025 increased $932 million, or 14%, compared to the same period in 2024. The
+increase was mainly due to higher operational expenses related to our data centers and technical infrastructure, which included a decrease in
+the depreciation growth rate due to an extension in the useful lives of servers and network assets, eﬀective January 1, 2025. To a lesser extent,
+higher costs associated with partner arrangements also contributed to the increase in the three months ended March 31, 2025.
+
+See Note 1 — Summary of Signiﬁcant Accounting Policies in the notes to the condensed consolidated ﬁnancial statements included in
+Part I, Item 1, of this Quarterly Report on Form 10-Q for additional information regarding changes in the estimated useful life of our servers and
+network assets.
 
 
-#### Family of Apps Metrics
+#### Research and development
 
-•
-Family daily active people (DAP) was 3.43 billion on average for March 2025, an increase of 6% year-over-year.
-•
-Ad impressions delivered across our Family of Apps in the first quarter of 2025 increased by 5% year-over-year.
-•
-Average price per ad in the first quarter of 2025 increased by 10% year-over-year.
+Three Months Ended March 31,
+ 
+2025
+2024
+% change
 
+(in millions, except percentages)
+Research and development
+$
+12,150
+$
+9,978
+22 %
+Percentage of revenue
+29 
+%
+27 
+%
 
-#### Developments in Advertising
+Research and development expenses in the three months ended March 31, 2025 increased $2.17 billion, or 22%, compared to the same
+period in 2024. The increase was mostly due to higher employee compensation and infrastructure costs for research and development.
 
-Substantially all of our revenue is currently generated from advertising on Facebook and Instagram. We rely on targeting and
-measurement tools that incorporate data signals from user activity on websites and services that we do not control, as well as signals generated
-within our products, in order to deliver relevant and eﬀective ads to our users. Our advertising revenue has been, and we expect will continue to
-be, adversely aﬀected by reduced marketer spending as a result of limitations on our ad targeting and measurement tools arising from changes
-to the regulatory environment and third-party mobile operating systems and browsers.
-
-In particular, legislative and regulatory developments such as the General Data Protection Regulation, including its evolving interpretation
-through decisions of the Court of Justice of the European Union, ePrivacy Directive, European Digital Services Act, Digital Markets Act, and U.S.
-state privacy laws including the California Consumer Privacy Act, as amended by the California Privacy Rights Act, have impacted our ability to
-use data signals in our ad products, and an increasing number of laws have been introduced limiting or prohibiting the provision of our services to
-younger users. We expect these and other developments will have further impact in the future. As a result, we have implemented, and we will
-continue to implement, whether voluntarily or otherwise, changes to our products and user data practices, which reduce our ability to eﬀectively
-target and measure ads and may negatively impact our advertising revenue and user engagement. For example, in response to regulatory
-developments in Europe, we announced our plans to change the legal basis for behavioral advertising on Facebook and Instagram in the
-European Union, European Economic Area, and Switzerland from "legitimate interests" to "consent," and began oﬀering users in the region a
-"subscription for no ads" alternative. We subsequently began oﬀering users in the region who elect to continue using our services free-of-charge,
-supported by ads, an option to see less personalized ads, which are less relevant and eﬀective than our premium ad oﬀerings. We are engaging
-with regulators on
+The higher employee compensation was mainly from a 14% growth in employee headcount from March 31, 2024 to March 31, 2025 in
+engineering and other technical functions supporting our continued investment in our family of products and Reality Labs.
 
 
-#### 28
+#### Marketing and sales
+
+Three Months Ended March 31,
+ 
+2025
+2024
+% change
+
+(in millions, except percentages)
+Marketing and sales
+$
+2,757
+$
+2,564
+8 %
+Percentage of revenue
+7 
+%
+7 
+%
+
+Marketing and sales expenses in the three months ended March 31, 2025 increased $193 million, or 8%, compared to the same period in
+2024. The increase was mainly due to an increase in professional services related to ongoing platform integrity efforts.
 
 
-## Page 29
-
-
-#### Table of Contents
-
-our consent model. In addition, mobile operating system and browser providers, such as Apple and Google, have implemented product changes
-and/or announced future plans to limit the ability of websites and application developers to collect and use these signals to target and measure
-advertising. For example, in 2021, Apple made certain changes to its products and data use policies in connection with changes to its iOS
-operating system that reduce our and other iOS developers' ability to target and measure advertising, which has negatively impacted, and we
-expect will continue to negatively impact, the size of the budgets marketers are willing to commit to us and other advertising platforms.
-
-To mitigate these developments, we are continually working to evolve our advertising systems to improve the performance of our ad
-products. We are developing privacy enhancing technologies to deliver relevant ads and measurement capabilities while reducing the amount of
-personal information we process, including by relying more on anonymized or aggregated third-party data. In addition, we are developing tools
-that enable marketers to share their data into our systems, as well as ad products that generate more valuable signals within our apps. More
-broadly, we also continue to innovate our advertising tools to help marketers prepare campaigns and connect with consumers, including
-developing growing formats such as Reels ads and our business messaging ad products. Across all of these eﬀorts, we are making signiﬁcant
-investments in artificial intelligence (AI), including generative AI, to improve our delivery, targeting, and measurement capabilities. Further, we are
-focused on driving onsite conversions in our business messaging ad products by developing new features and scaling existing features.
-
-We are also engaging with others across our industry to explore the possibility of new open standards for the private and secure
-processing of data for advertising purposes. We believe our ongoing improvements to ad targeting and measurement are continuing to drive
-improved results for advertisers. However, we expect that some of these eﬀorts will be long-term initiatives, and that the legislative, regulatory
-and platform developments described above will continue to adversely impact our advertising revenue for the foreseeable future.
-
-In addition, we maintain advertising policies to protect the security and integrity of our platform and comply with global content, security,
-and integrity obligations. Our ongoing eﬀorts to enhance enforcement against ads and marketers which violate our advertising policies adversely
-aﬀect our revenue, and we expect that the continued enhancement of such eﬀorts will have an impact on our revenue in the future, which may
-be material.
-
-
-#### Other Business and Macroeconomic Conditions
-
-Other global and regional business, macroeconomic, and geopolitical conditions also have had, and we believe will continue to have, an
-impact on our user growth and engagement and advertising revenue. In particular, we believe advertising budgets have been pressured from
-time to time by factors such as inﬂation, economic policies and international trade, high interest rates, and related market uncertainty, which has
-led to reduced marketer spending. We are currently subject to increased business, macroeconomic, and geopolitical uncertainty, including as a
-result of volatility around international trade, which could impact our financial results in future periods.
-
-In addition, competitive products and services have reduced some users' engagement with our products and services. We are investing in
-Reels and in AI initiatives across our products, including our AI-powered discovery engine to recommend relevant content, which we have
-already seen results in improved user engagement and monetization of our products. However, we continue to face competition from other
-products and services within certain demographics, in particular younger users. In addition, while Reels is growing in usage, it monetizes at a
-lower rate than our Feed and Stories products and we expect it will continue to monetize at a lower rate for the foreseeable future. We also have
-seen ﬂuctuations and declines in the size of our active user base in one or more regions from time to time due to geopolitical conditions, which
-have adversely aﬀected our user growth and engagement. These trends have adversely aﬀected our advertising revenue and we expect will
-continue to adversely affect our advertising revenue in the foreseeable future.
-
-Although we regularly evaluate a variety of sources to understand trends in our advertising revenue, we do not have perfect visibility into
-the factors driving advertiser spending decisions and our assessments involve complex judgments about what is driving advertising decisions
-across a large and diversiﬁed advertiser base across the globe. Trends impacting advertising spend are also dynamic and interrelated. As a
-result, it is diﬃcult to identify with precision which advertiser spending decisions are attributable to which trends, and we are unable to quantify
-the exact impact that each trend had on our advertising revenue during the periods presented.
-
-
-#### 29
-
-
-## Page 30
-
-
-#### Table of Contents
-
-
-#### Investment Philosophy
-
-We remain focused on operating eﬃciently while investing in signiﬁcant opportunities. In the three months ended March 31, 2025, 81% of
-our total costs and expenses were recognized in FoA and 19% were recognized in RL. Our FoA investments include expenses relating to
-headcount, data centers, and technical infrastructure as part of our efforts to develop our apps and our advertising services. These efforts include
-significant investments in AI initiatives, including to recommend relevant content across our products, enhance our advertising tools, develop new
-products, and develop new features for existing products using generative AI. In particular, we expect our AI initiatives will require increased
-investment in infrastructure and headcount.
-
-We are also making signiﬁcant investments in our metaverse and wearables eﬀorts, including developing virtual, augmented, and mixed
-reality devices, software for social platforms, neural interfaces, and other foundational technologies. Our RL investments include expenses
-relating to technology development across these eﬀorts. Many of our RL investments are directed toward long-term, cutting-edge research and
-development for products that may only be fully realized in the next decade. During the three months ended March 31, 2025, our RL segment
-reduced our overall operating proﬁt by approximately $4.21 billion, and we continue to expect our full-year RL operating losses to increase in
-2025. We expect this will be a complex, evolving, and long-term initiative, and our ability to support our RL eﬀorts is dependent on generating
-suﬃcient proﬁts from other areas of our business. We are investing now because we believe this will become the next computing platform and
-will unlock monetization opportunities for businesses, developers, and creators, including around advertising, hardware, and digital goods.
-
-
-#### 30
+#### 39

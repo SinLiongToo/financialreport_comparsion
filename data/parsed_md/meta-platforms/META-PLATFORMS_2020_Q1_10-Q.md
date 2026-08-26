@@ -1,8 +1,8 @@
-# Annual Report: META-PLATFORMS_2020_Q1_10-Q
+# Financial Report: META-PLATFORMS_2020_Q1_10-Q
 
 - **Source File**: `META-PLATFORMS_2020_Q1_10-Q.pdf`
-- **Total Pages**: 158
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 158
+- **Parsed Key Pages**: 33 (33 selected sections)
 
 ---
 
@@ -3424,245 +3424,876 @@ December 31, 2019, respectively. We expect to continue to accrue
 #### 25
 
 
-## Page 26
-
-
-#### Table of Contents
-
-unrecognized tax benefits for certain recurring tax positions.
-
-On July 27, 2015, the United States Tax Court issued a decision (Tax Court Decision) in Altera Corp. v. Commissioner , which concluded that
-related parties in a cost sharing arrangement are not required to share expenses related to share-based compensation. The Tax Court Decision was
-appealed by the Commissioner to the Ninth Circuit Court of Appeals (Ninth Circuit). On June 7, 2019, the Ninth Circuit issued an opinion (Altera Ninth
-Circuit Opinion) that reversed the Tax Court Decision. Based on the Altera Ninth Circuit Opinion, we recorded a cumulative income tax expense of
-$1.11 billion in the second quarter of 2019. On July 22, 2019, the taxpayer requested a rehearing before the full Ninth Circuit and the request was
-denied on November 12, 2019. The taxpayer has requested a hearing before the Supreme Court of the United States. As a result, the ﬁnal outcome
-of the case is uncertain. In November 2019, we made a $1.64 billion payment related to this matter and recorded the payment to net against the
-related tax liability included within other liabilities in our consolidated balance sheets. If the Altera Ninth Circuit Opinion is reversed, we would
-anticipate recording an income tax benefit at that time.
-
-We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are
-subject to potential examination include the United States and Ireland. We are under examination by the Internal Revenue Service (IRS) for our 2014
-through 2016 tax years and by the Ireland tax authorities for our 2012 through 2015 tax years. Our 2017 and subsequent tax years remain open to
-examination by the IRS. Our 2016 and subsequent tax years remain open to examination in Ireland.
-
-In July 2016, we received a Statutory Notice of Deﬁciency (Notice) from the IRS related to transfer pricing with our foreign subsidiaries in
-conjunction with the examination of the 2010 tax year. While the Notice applies only to the 2010 tax year, the IRS stated that it will also apply its
-position for tax years subsequent to 2010. We do not agree with the position of the IRS and have ﬁled a petition in the Tax Court challenging the
-Notice. On January 15, 2020, the IRS ﬁled its Pretrial Memorandum in the case stating that it planned to assert at trial an adjustment that is higher
-than the adjustment stated in the Notice. The ﬁrst session of the trial began in February 2020 and a second session is expected to continue later in
-the year. It is not clear how the IRS intends to apply the revised adjustment to future years. Based on the information provided, we believe that, if the
-IRS prevails in its updated position, this could result in an additional federal tax liability of an estimated, aggregate amount of up to approximately
-$9.0 billion in excess of the amounts in our originally filed U.S. return, plus interest and any penalties asserted.
-
-In March 2018, we received a second Notice from the IRS in conjunction with the examination of our 2011 through 2013 tax years. The IRS
-applied its position from the 2010 tax year to each of these years and also proposed new adjustments related to other transfer pricing with our foreign
-subsidiaries and certain tax credits that we claimed. If the IRS prevails in its position for these new adjustments, this could result in an additional
-federal tax liability of up to approximately $680 million in excess of the amounts in our originally ﬁled U.S. returns, plus interest and any penalties
-asserted. We do not agree with the positions of the IRS in the second Notice and have filed a petition in the Tax Court challenging the second Notice.
-
-We have previously accrued an estimated unrecognized tax beneﬁt consistent with the guidance in ASC 740,  Income Taxes, that is lower than
-the potential additional federal tax liability from the positions taken by the IRS in the two Notices and its Pretrial Memorandum. In addition, if the IRS
-prevails in its positions related to transfer pricing with our foreign subsidiaries, the additional tax that we would owe would be partially oﬀset by a
-reduction in the tax that we owe under the mandatory transition tax on accumulated foreign earnings from the 2017 Tax Cuts and Jobs Act (Tax Act).
-As of March 31, 2020, we have not resolved these matters and proceedings continue in the Tax Court.
-
-We believe that adequate amounts have been reserved in accordance with ASC 740 for any adjustments to the provision for income taxes or
-other tax items that may ultimately result from these examinations. The timing of the resolution, settlement, and closure of any audits is highly
-uncertain, and it is reasonably possible that the balance of gross unrecognized tax beneﬁts could signiﬁcantly change in the next 12 months. Given
-the number of years remaining that are subject to examination, we are unable to estimate the full range of possible adjustments to the balance of
-gross unrecognized tax beneﬁts. If the taxing authorities prevail in the assessment of additional tax due, the assessed tax, interest, and penalties, if
-any, could have a material adverse impact on our financial position, results of operations, and cash flows.
-
-
-#### 26
-
-
-## Page 27
-
-### Table 27.1
-
-| United States | $ | 37,390 |  |  | $ | 35,858 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table 27.2
-
-| Total long-lived assets | $ | 46,486 |  |  | $ | 44,783 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-
+## Page 37
 
 
 #### Table of Contents
 
 
-#### Note 13. Geographical Information
+#### Components of Results of Operations
 
-The following table sets forth our long-lived assets by geographic area, which consist of property and equipment, net and operating lease right-
-of-use assets, net (in millions):
 
-March 31, 2020
-December 31, 2019
-United States
-$
-37,390
-$
-35,858
+#### Revenue
 
-Rest of the world (1)
-9,096
-8,925
+Advertising. We generate substantially all of our revenue from advertising. Our advertising revenue is generated by displaying ad products on
+Facebook, Instagram, Messenger, and third-party aﬃliated websites or mobile applications. Marketers pay for ad products either directly or through
+their relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions, such as clicks,
+taken by users.
 
-Total long-lived assets
+We recognize revenue from the display of impression-based ads in the contracted period in which the impressions are delivered. Impressions
+are considered delivered when an ad is displayed to a user. We recognize revenue from the delivery of action-based ads in the period in which a user
+takes the action the marketer contracted for. The number of ads we show is subject to methodological changes as we continue to evolve our ads
+business and the structure of our ads products. We calculate price per ad as total ad revenue divided by the number of ads delivered, representing
+the eﬀective price paid per impression by a marketer regardless of their desired objective such as impression or action. For advertising revenue
+arrangements where we are not the principal, we recognize revenue on a net basis.
+
+Other revenue. Other revenue consists of revenue from the delivery of consumer hardware devices and net fees we receive from developers
+using our Payments infrastructure, as well as revenue from various other sources.
+
+
+#### Cost of Revenue and Operating Expenses
+
+Cost of revenue. Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These
+include expenses related to the operation of our data centers and technical infrastructure, such as facility and server equipment depreciation, salaries,
+beneﬁts, and share-based compensation for employees on our operations teams, and energy and bandwidth costs. Cost of revenue also includes
+costs associated with partner arrangements, including traffic acquisition and content acquisition costs, credit card and other transaction fees related to
+processing customer transactions, and cost of consumer hardware devices sold.
+
+Research and development. Research and development expenses consist primarily of salaries and beneﬁts, share-based compensation, and
+facilities-related costs for employees on our engineering and technical teams who are responsible for building new products as well as improving
+existing products. We currently expense all of our research and development costs as they are incurred.
+
+Marketing and sales. Marketing and sales expenses consist of salaries and beneﬁts, and share-based compensation for our employees
+engaged in sales, sales support, marketing, business development, and customer service functions. Our marketing and sales expenses also include
+marketing and promotional expenditures and professional services such as content reviewers to support our community and product operations.
+
+General and administrative. General and administrative expenses consist of legal-related costs; salaries and beneﬁts, and share-based
+compensation for certain of our executives as well as our legal, ﬁnance, human resources, corporate communications and policy, and other
+administrative employees; and professional services.
+
+
+#### 37
+
+
+## Page 38
+
+### Table 38.1
+
+| Revenue | $ | 17,737 | $ | 15,077 |  |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 38.2
+
+| Cost of revenue | 3,459 | 2,816 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 38.3
+
+| Marketing and sales | 2,787 | 2,020 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 38.4
+
+| Total costs and expenses | 11,844 | 11,760 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 38.5
+
+| Interest and other income (expense), net | (32) | 165 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 38.6
+
+| Provision for income taxes | 959 | 1,053 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 38.7
+
+| Revenue | 100 | % | 100 | % |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 38.8
+
+| Cost of revenue | 20 |  | 19 |  |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 38.9
+
+| Marketing and sales | 16 |  | 13 |  |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 38.10
+
+| Total costs and expenses | 67 |  | 78 |  |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 38.11
+
+| Interest and other income (expense), net | — |  | 1 |  |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 38.12
+
+| Provision for income taxes | 5 |  | 7 |  |
+| --- | --- | --- | --- | --- |
+
+
+
+### Table 38.13
+
+| Cost of revenue | $ | 94 | $ | 87 |  |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 38.14
+
+| Marketing and sales | 149 | 113 |  |
+| --- | --- | --- | --- |
+
+
+
+### Table 38.15
+
+| Total share-based compensation expense | $ | 1,335 | $ | 1,010 |  |
+| --- | --- | --- | --- | --- | --- |
+
+
+
+
+#### Table of Contents
+
+
+#### Results of Operations
+
+The following table sets forth our condensed consolidated statements of income data:
+
+
+#### Three Months Ended March 31,
+
+2020
+2019
+
+(in millions)
+Revenue
 $
-46,486
+17,737
 $
-44,783
+15,077
+
+
+#### Costs and expenses:
+
+Cost of revenue
+3,459
+2,816
+
+Research and development
+4,015
+2,860
+
+Marketing and sales
+2,787
+2,020
+
+General and administrative
+1,583
+4,064
+
+Total costs and expenses
+11,844
+11,760
+
+Income from operations
+5,893
+3,317
+
+Interest and other income (expense), net
+(32)
+165
+
+Income before provision for income taxes
+5,861
+3,482
+
+Provision for income taxes
+959
+1,053
+
+Net income
+$
+4,902
+$
+2,429
+
+The following table sets forth our condensed consolidated statements of income data (as a percentage of revenue) (1):
+
+
+#### Three Months Ended March 31,
+
+2020
+2019
+Revenue
+100%
+100%
+
+
+#### Costs and expenses:
+
+Cost of revenue
+20
+19
+
+Research and development
+23
+19
+
+Marketing and sales
+16
+13
+
+General and administrative
+9
+27
+
+Total costs and expenses
+67
+78
+
+Income from operations
+33
+22
+
+Interest and other income (expense), net
+—
+1
+
+Income before provision for income taxes
+33
+23
+
+Provision for income taxes
+5
+7
+
+Net income
+28%
+16%
 
 ____________________________________
-(1) No individual country, other than disclosed above, exceeded 10% of our total long-lived assets for any period
+(1) Percentages have been rounded for presentation purposes and may diﬀer from unrounded
 
-presented.
-
-
-#### Note 14. Subsequent Event
-
-On April 21, 2020, we entered into a deﬁnitive agreement to invest in Jio Platforms Limited, a subsidiary of Reliance Industries Limited, for
-approximately $5.7 billion at the current exchange rate.
+results.
 
 
-#### 27
+#### Share-based compensation expense included in costs and expenses:
 
 
-## Page 28
+#### Three Months Ended March 31,
+
+2020
+2019
+
+(in millions)
+Cost of revenue
+$
+94
+$
+87
+
+Research and development
+999
+723
+
+Marketing and sales
+149
+113
+
+General and administrative
+93
+87
+
+Total share-based compensation expense
+$
+1,335
+$
+1,010
 
 
-#### Table of Contents
-
-Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
-
-You should read the following discussion of our ﬁnancial condition and results of operations in conjunction with our condensed consolidated ﬁnancial
-statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated ﬁnancial statements
-included in our Annual Report on Form 10-K for the year ended December 31, 2019, as ﬁled with the Securities and Exchange Commission. In
-addition to our historical condensed consolidated ﬁnancial information, the following discussion contains forward-looking statements that reﬂect our
-plans, estimates, and beliefs. Our actual results could diﬀer materially from those discussed in the forward-looking statements. Factors that could
-cause or contribute to these diﬀerences include those discussed below and elsewhere in this Quarterly Report on Form 10-Q, particularly in Part II,
-Item 1A, "Risk Factors." For a discussion of limitations in the measurement of certain of our community metrics, see the section entitled "Limitations of
-Key Metrics and Other Data" in this Quarterly Report on Form 10-Q.
-
-Certain revenue information in the section entitled "— Three Months Ended March 31,  2020 and 2019—Revenue—Foreign Exchange Impact on
-Revenue" is presented on a constant currency basis. This information is a non-GAAP ﬁnancial measure. To calculate revenue on a constant currency
-basis, we translated revenue for the three months ended March 31, 2020 using the prior year's monthly exchange rates for our settlement or billing
-currencies other than the U.S. dollar. This non-GAAP ﬁnancial measure is not intended to be considered in isolation or as a substitute for, or superior
-to, ﬁnancial information prepared and presented in accordance with GAAP. This measure may be diﬀerent from non-GAAP ﬁnancial measures used
-by other companies, limiting its usefulness for comparison purposes. Moreover, presentation of revenue on a constant currency basis is provided for
-year-over-year comparison purposes, and investors should be cautioned that the eﬀect of changing foreign currency exchange rates has an actual
-eﬀect on our operating results. We believe this non-GAAP ﬁnancial measure provides investors with useful supplemental information about the
-ﬁnancial performance of our business, enables comparison of ﬁnancial results between periods where certain items may vary independent of
-business performance, and allows for greater transparency with respect to key metrics used by management in operating our business.
+#### 38
 
 
-#### Executive Overview of First Quarter Results
+## Page 39
 
-Our key community metrics and financial results for the first quarter of 2020 are as follows:
+### Table 39.1
 
-
-#### Community growth:
-
-•
-Facebook daily active users (DAUs) were 1.73 billion on average for March 2020, an increase of 11% year-over-year.
-•
-Facebook monthly active users (MAUs) were 2.60 billion as of March 31, 2020, an increase of 10% year-over-year.
-•
-Family daily active people (DAP) was 2.36 billion on average for March 2020, an increase of 12% year-over-year.
-•
-Family monthly active people (MAP) was 2.99 billion as of March 31, 2020, an increase of 11% year-over-year.
+| Cost of revenue | 1 | % |  | 1 | % |
+| --- | --- | --- | --- | --- | --- |
 
 
-#### Financial results:
 
-•
-Revenue was $17.74 billion, up 18% year-over-year, and advertising revenue was $17.44 billion, up 17% year-over‑year.
-•
-Total costs and expenses were $ 11.84 billion.
-•
-Income from operations was $5.89 billion and operating margin was 33%.
-•
-Net income was $4.90 billion with diluted earnings per share of $1.71.
-•
-Capital expenditures, including principal payments on finance leases, were $3.66 billion.
-•
-Effective tax rate was 16%.
-•
-Cash and cash equivalents and marketable securities were $60.29 billion as of March 31, 2020.
-•
-Headcount was 48,268 as of March 31, 2020, an increase of 28% year-over-year.
+### Table 39.2
 
-In the first quarter of 2020, we continued to focus on our main revenue growth priorities: (i) helping marketers use our products to connect with
-consumers where they are and (ii) making our ads more relevant and effective.
-
-In response to the COVID-19 pandemic, we have focused on helping people stay connected, assisting the public health response, and working
-on the economic recovery. We have also continued to invest based on the following company priorities that we believe will further our mission to give
-people the power to build community and bring the world closer together: (i) continue making progress on the major social issues facing the internet
-and our company, including privacy, safety, and security; (ii) build new experiences that meaningfully improve people's lives today and set the stage
-for even bigger improvements in the future; (iii) keep building our business by supporting the millions of businesses that rely on our services to grow
-and create jobs; and (iv) communicate more transparently about what we're doing and the role our services play in the world.
+| Marketing and sales | 1 |  |  | 1 |  |
+| --- | --- | --- | --- | --- | --- |
 
 
-#### 28
+
+### Table 39.3
+
+| Total share-based compensation expense | 8 | % |  | 7 | % |
+| --- | --- | --- | --- | --- | --- |
 
 
-## Page 29
+
+### Table 39.4
+
+| Advertising | $ | 17,440 |  |  | $ | 14,912 |  |  | 17 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 39.5
+
+| Total revenue | $ | 17,737 |  |  | $ | 15,077 |  |  | 18 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
 
 
 #### Table of Contents
 
-Our business has been impacted by the COVID-19 pandemic, which has resulted in authorities implementing numerous preventative measures
-to contain or mitigate the outbreak of the virus, such as travel bans and restrictions, limitations on business activity, quarantines, and shelter-in-place
-orders. These measures have caused, and are continuing to cause, business slowdowns or shutdowns in aﬀected areas, both regionally and
-worldwide, which have signiﬁcantly impacted our business and results of operations. We have seen a signiﬁcant increase in the size of our user base
-and user engagement as a result of these preventative measures. At the same time, we experienced a signiﬁcant reduction in the demand for
-advertising, as well as a related decline in the pricing of our ads, over the last three weeks of the ﬁrst quarter of 2020. After the initial steep decrease
-in our advertising revenue growth rates in March compared to earlier in the ﬁrst quarter of 2020, we have seen signs of stability reﬂected in the ﬁrst
-three weeks of April, where advertising revenue has been approximately ﬂat compared to the same period a year ago, down from the 17% year-over-
-year growth in the ﬁrst quarter of 2020. We expect that we will lose at least some of the increased user engagement when various shelter-in-place
-restrictions are relaxed in the future. In addition, the demand for and pricing of our advertising services, as well as our overall results of operations,
-may be materially and adversely impacted by the pandemic for the duration of 2020 or longer, and we are unable to predict the duration or degree of
-such impact with any certainty. We also intend to continue to invest in our business based on our company priorities, and we anticipate that additional
-investments in our data center capacity, network infrastructure, and office facilities, as well as scaling our headcount to support our growth and certain
-initiatives related to the COVID-19 pandemic, will continue to drive expense growth in 2020.
+Share-based compensation expense included in costs and expenses (as a percentage of revenue) (1):
 
 
-#### 29
+#### Three Months Ended March 31,
+
+2020
+2019
+Cost of revenue
+1%
+1%
+
+Research and development
+6
+5
+
+Marketing and sales
+1
+1
+
+General and administrative
+1
+1
+
+Total share-based compensation expense
+8%
+7%
+
+____________________________________
+(1) Percentages have been rounded for presentation purposes and may diﬀer from unrounded
+
+results.
 
 
-## Page 30
+#### Three Months Ended March 31, 2020 and 2019
+
+
+#### Revenue
+
+
+#### Three Months Ended March 31,
+
+2020
+2019
+ 
+% change
+
+(in millions, except for percentages)
+Advertising
+$
+17,440
+$
+14,912  
+17%
+
+Other revenue
+297
+165  
+80%
+
+Total revenue
+$
+17,737
+$
+15,077  
+18%
+
+Revenue in the three months ended March 31, 2020 increased $2.66 billion, or 18%, compared to the same period in 2019. The increase was
+almost entirely due to an increase in advertising revenue as a result of an increase in the number of ads delivered, partially offset by a decrease in the
+average price per ad.
+
+During the three months ended March 31, 2020, the number of ads delivered increased by 39%, as compared with approximately 32% in the
+same period in 2019. The increase in the ads delivered was driven by an increase in the number and frequency of ads displayed across our
+products, and an increase in users and their engagement. During the three months ended March 31, 2020, the average price per ad decreased by
+16%, as compared with a decrease of approximately 4%, in the same period in 2019. The decrease in average price per ad was primarily driven by a
+decrease in advertising demand globally due to the COVID-19 pandemic over the last three weeks of the quarter. To a lesser extent, the decrease in
+average price per ad was also caused by an increasing proportion of the number of ads delivered as Stories ads and in geographies that monetize at
+lower rates. In the near-term, we anticipate that future advertising revenue growth will be determined primarily by the extent to which the COVID-19
+pandemic and related economic slowdown result in a decrease in advertising demand.
+
+
+#### Foreign Exchange Impact on Revenue
+
+The general strengthening of the U.S. dollar relative to certain foreign currencies in the three months ended March 31, 2020 compared to the
+same period in 2019 had an unfavorable impact on revenue. If we had translated revenue for the three months ended March 31, 2020 using the prior
+year's monthly exchange rates for our settlement or billing currencies other than the U.S. dollar, our total revenue and advertising revenue would
+have been $18.01 billion and $17.71 billion, respectively. Using these constant rates, total revenue and advertising revenue would have been
+$275 million and $274 million higher than actual total revenue and advertising revenue, respectively, for the three months ended March 31, 2020.
+
+
+#### 39
+
+
+## Page 40
+
+### Table 40.1
+
+| Cost of revenue | $ | 3,459 |  |  | $ | 2,816 |  |  | 23 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 40.2
+
+| Research and development | $ | 4,015 |  |  | $ | 2,860 |  |  | 40 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 40.3
+
+| Marketing and sales | $ | 2,787 |  |  | $ | 2,020 |  |  | 38 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 40.4
+
+| Legal accrual related to FTC settlement | $ | — |  |  | $ | 3,000 |  |  | NM |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
+### Table 40.5
+
+| General and administrative | $ | 1,583 |  |  | $ | 4,064 |  |  | (61 | )% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
 
 
 #### Table of Contents
 
 
-#### Trends in Our Facebook User Metrics
+#### Cost of revenue
 
-The numbers for our key Facebook metrics, our DAUs, MAUs, and average revenue per user (ARPU), do not include users on Instagram,
-WhatsApp, or our other products, unless they would otherwise qualify as DAUs or MAUs, respectively, based on their other activities on Facebook.
 
-Trends in the number of users aﬀect our revenue and ﬁnancial results by inﬂuencing the number of ads we are able to show, the value of our
-ads to marketers, the volume of Payments transactions, as well as our expenses and capital expenditures. Substantially all of our daily and monthly
-active users (as defined below) access Facebook on mobile devices.
+#### Three Months Ended March 31,
+
+2020
+2019
+ 
+% change
+
+(in millions, except for percentages)
+Cost of revenue
+$
+3,459
+$
+2,816
+ 
+23%
+
+Percentage of revenue
+20%
+19%
+
+Cost of revenue in the three months ended March 31, 2020 increased $643 million, or 23%, compared to the same period in 2019. The
+increase was primarily due to an increase in operational expenses related to our data centers and technical infrastructure and, to a lesser extent,
+higher cost of consumer hardware devices sold and traffic acquisition costs.
+
+
+#### Research and development
+
+
+#### Three Months Ended March 31,
+
+2020
+2019
+ 
+% change
+
+(in millions, except for percentages)
+Research and development
+$
+4,015
+$
+2,860
+ 
+40%
+
+Percentage of revenue
+23%
+19%
+
+Research and development expenses in the three months ended March 31, 2020 increased $1.15 billion, or 40%, compared to the same
+period in 2019. The increase was primarily due to increases in payroll and beneﬁts expenses and facilities-related costs as a result of a 35% growth
+in employee headcount from March 31, 2019 to March 31, 2020 in our engineering and other technical functions.
+
+
+#### Marketing and sales
+
+
+#### Three Months Ended March 31,
+
+2020
+2019
+ 
+% change
+
+(in millions, except for percentages)
+Marketing and sales
+$
+2,787
+$
+2,020
+ 
+38%
+
+Percentage of revenue
+16%
+13%
+
+Marketing and sales expenses in the three months ended March 31, 2020 increased $767 million, or 38%, compared to the same period in
+2019. The increase was primarily driven by increases in marketing expenses and payroll and beneﬁts expenses. Our payroll and beneﬁts expenses
+increased as a result of a 20% increase in employee headcount from March 31, 2019 to March 31, 2020 in our marketing and sales functions.
+
+
+#### General and administrative
+
+
+#### Three Months Ended March 31,
+
+2020
+2019
+ 
+% change
+
+(in millions, except for percentages)
+Legal accrual related to FTC settlement
+$
+—
+$
+3,000
+ 
+NM
+
+Other general and administrative
+1,583
+1,064
+ 
+49 %
+
+General and administrative
+$
+1,583
+$
+4,064
+ 
+(61)%
+
+Percentage of revenue
+9%
+27%
+
+General and administrative expenses in the three months ended March 31, 2020 decreased $2.48 billion, or 61%, compared to the same
+period in 2019. The decrease was mostly due to the $3.0 billion legal accrual recorded in the ﬁrst quarter of 2019 related to our FTC settlement,
+partially oﬀset by an increase of $193 million in bad debt expense, a majority of which was due to an increase in our estimated credit losses as the
+result of economic slowdown caused by the COVID-19 pandemic. In addition, our payroll and beneﬁts expenses increased as a result of a 29%
+increase in employee headcount from March 31, 2019 to March 31, 2020 in our general and administrative functions.
+
+
+#### 40
+
+
+## Page 71
+
+
+#### Table of Contents
+
+Many people in our community have user accounts on more than one of our products, and some people have multiple user accounts within an
+individual product. Accordingly, for our Family metrics, we do not seek to count the total number of user accounts across our products because we
+believe that would not reﬂect the actual size of our community. Rather, our Family metrics represent our estimates of the number of unique people
+using at least one of Facebook, Instagram, Messenger, and WhatsApp. We do not require people to use a common identiﬁer or link their accounts to
+use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products to individual people. To
+calculate these metrics, we rely upon complex techniques, algorithms and machine learning models that seek to count the individual people behind
+user accounts, including by matching multiple user accounts within an individual product and across multiple products when we believe they are
+attributable to a single person, and counting such group of accounts as one person. These techniques and models require signiﬁcant judgment, are
+subject to data and other limitations discussed below, and inherently are subject to statistical variances and uncertainties. We estimate the potential
+error in our Family metrics primarily based on user survey data, which itself is subject to error as well. While we expect the error margin for our Family
+metrics to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide MAP. At our scale, it is very
+diﬃcult to attribute multiple user accounts within and across products to individual people, and it is possible that the actual numbers of unique people
+using our products may vary signiﬁcantly from our estimates, potentially beyond our estimated error margins. As a result, it is also possible that our
+Family metrics may indicate changes or trends in user numbers that do not match actual changes or trends.
+
+To calculate our estimates of Family DAP and MAP, we currently use a series of machine learning models that are developed based on internal
+reviews of limited samples of user accounts and calibrated against user survey data. We apply signiﬁcant judgment in designing these models and
+calculating these estimates. For example, to match user accounts within individual products and across multiple products, we use data signals such
+as similar device information, IP addresses, and user names. We also calibrate our models against data from periodic user surveys of varying sizes
+and frequency across our products, which are inherently subject to error. In addition, our data limitations may aﬀect our understanding
+of certain details of our business and increase the risk of error for our Family metrics estimates. Our techniques and models rely on a variety of data
+signals from diﬀerent products, and we rely on more limited data signals for some products compared to others. For example, as a result of limited
+visibility into encrypted products, we have fewer data signals from WhatsApp user accounts and primarily rely on phone numbers and device
+information to match WhatsApp user accounts with accounts on our other products. Similarly, although Messenger Kids users are included in our
+Family metrics, we do not seek to match their accounts with accounts on our other applications for purposes of calculating DAP and MAP. Any loss of
+access to data signals we use in our process for calculating Family metrics, whether as a result of our own product decisions, actions by third-party
+browser or mobile platforms, regulatory or legislative requirements, limitations while our personnel work remotely during the COVID-19 pandemic, or
+other factors, also may impact the stability or accuracy of our reported Family metrics. Our estimates of Family metrics also may change as our
+methodologies evolve, including through the application of new data signals or technologies, product changes, or other improvements in our user
+surveys, algorithms, or machine learning that may improve our ability to match accounts within and across our products or otherwise evaluate the
+broad population of our users. In addition, such evolution may allow us to identify previously undetected violating accounts (as defined below).
+
+We regularly evaluate our Family metrics to estimate the percentage of our MAP consisting solely of "violating" accounts. We deﬁne "violating"
+accounts as accounts which we believe are intended to be used for purposes that violate our terms of service, including bots and spam. In the fourth
+quarter of 2019, we estimated that approximately 3% of our worldwide MAP consisted solely of violating accounts. Such estimation is based on an
+internal review of a limited sample of accounts, and we apply signiﬁcant judgment in making this determination. For example, we look for account
+information and behaviors associated with Facebook and Instagram accounts that appear to be inauthentic to the reviewers, but we have limited
+visibility into WhatsApp user activity due to encryption. In addition, if we believe an individual person has one or more violating accounts, we do not
+include such person in our violating accounts estimation as long as we believe they have one account that does not constitute a violating account.
+From time to time, we disable certain user accounts, make product changes, or take other actions to reduce the number of violating accounts among
+our users, which may also reduce our DAP and MAP estimates in a particular period. We intend to disclose our estimates of the percentage of our
+MAP consisting solely of violating accounts on an annual basis. Violating accounts are very diﬃcult to measure at our scale, and it is possible that the
+actual number of violating accounts may vary significantly from our estimates.
+
+Other data limitations also may aﬀect our understanding of certain details of our business. For example, while user-provided data indicates a
+decline in usage among younger users, this age data is unreliable because a disproportionate number of our younger users register with an
+inaccurate age. Accordingly, our understanding of usage by age group may not be complete.
+
+
+#### 71
+
+
+## Page 72
+
+
+#### Table of Contents
+
+In addition, our data regarding the geographic location of our users is estimated based on a number of factors, such as the user's IP address
+and self-disclosed location. These factors may not always accurately reﬂect the user's actual location. For example, a user may appear to be
+accessing Facebook from the location of the proxy server that the user connects to rather than from the user's actual location. The methodologies
+used to measure our metrics are also susceptible to algorithm or other technical errors, and our estimates for revenue by user location and revenue by
+user device are also affected by these factors.
+
+In addition, from time to time we provide, or rely on, certain other metrics, including those relating to the reach and eﬀectiveness of our ads. All
+of our metrics are subject to software bugs, inconsistencies in our systems, and human error. If marketers, developers, or investors do not perceive
+our metrics to be accurate, or if we discover material inaccuracies in our metrics, we may be subject to liability, our reputation may be harmed, and
+marketers and developers may be less willing to allocate their budgets or resources to Facebook or our other products, which could negatively aﬀect
+our business and financial results.
+
+We cannot assure you that we will effectively manage our growth.
+
+Our employee headcount and the scope and complexity of our business have increased signiﬁcantly, with the number of employees increasing
+to 48,268 as of March 31, 2020 from 37,773 as of March 31, 2019, and we expect headcount growth to continue for the foreseeable future. In
+addition, we plan to continue to hire a number of employees and contractors in order to address various privacy, safety, security, and content review
+initiatives. The growth and expansion of our business and products create signiﬁcant challenges for our management, operational, and ﬁnancial
+resources, including managing multiple relationships with users, marketers, developers, and other third parties. Additionally, the vast majority of our
+personnel are currently working remotely as a result of the COVID-19 pandemic, which limits their ability to perform certain job functions and may
+negatively impact productivity. As our operations and the number of our third-party relationships continue to grow, our information technology systems
+or our internal controls and procedures may not be adequate to support such growth. In addition, some members of our management do not have
+signiﬁcant experience managing a large global business operation, so our management may not be able to manage such growth eﬀectively. To
+eﬀectively manage our growth, we must adapt to a remote work environment and continue to improve our operational, ﬁnancial, and management
+processes and systems and to eﬀectively expand, train, and manage our personnel. As our organization continues to grow, and we are required to
+implement more complex organizational management structures, we may ﬁnd it increasingly diﬃcult to maintain the beneﬁts of our corporate culture,
+including our ability to quickly develop and launch new and innovative products. This could negatively affect our business performance.
+
+The loss of one or more of our key personnel, or our failure to attract and retain other highly qualiﬁed personnel in the future, could harm
+our business.
+
+We currently depend on the continued services and performance of our key personnel, including Mark Zuckerberg and Sheryl K. Sandberg.
+Although we have entered into employment agreements with Mr. Zuckerberg and Ms. Sandberg, the agreements have no speciﬁc duration and
+constitute at-will employment. In addition, many of our key technologies and systems are custom-made for our business by our personnel. The loss of
+key personnel, including members of management as well as key engineering, product development, marketing, and sales personnel, could disrupt
+our operations and have an adverse effect on our business.
+
+As we continue to grow, we cannot guarantee we will continue to attract and retain the personnel we need to maintain our competitive position.
+In particular, we intend to continue to hire a signiﬁcant number of technical personnel in the foreseeable future, and we expect to continue to face
+signiﬁcant challenges in hiring such personnel, particularly in the San Francisco Bay Area, where our headquarters are located, whether as a result of
+competition with other companies, challenges due to the high cost of living, facilities and infrastructure constraints, or other factors. As we continue to
+mature, the incentives to attract, retain, and motivate employees provided by our equity awards or by future arrangements may not be as eﬀective as
+in the past, and if we issue signiﬁcant equity to attract additional employees or to retain our existing employees, we would incur substantial additional
+share-based compensation expense and the ownership of our existing stockholders would be further diluted. Our ability to attract, retain, and motivate
+employees may also be adversely aﬀected by stock price volatility. As a result of these factors, it may be diﬃcult for us to continue to retain and
+motivate our employees. If we do not succeed in attracting, hiring, and integrating excellent personnel, or retaining and motivating existing personnel,
+we may be unable to grow effectively.
+
+
+#### 72
+
+
+## Page 73
+
+
+#### Table of Contents
+
+We may not be able to continue to successfully maintain or grow usage of and engagement with mobile and web applications that
+integrate with Facebook and our other products.
+
+We have made and are continuing to make investments to enable developers to build, grow, and monetize mobile and web applications that
+integrate with Facebook and our other products. Such existing and prospective developers may not be successful in building, growing, or monetizing
+mobile and/or web applications that create and maintain user engagement. Additionally, developers may choose to build on other platforms, including
+mobile platforms controlled by third parties, rather than building products that integrate with Facebook and our other products. We are continuously
+seeking to balance the distribution objectives of our developers with our desire to provide an optimal user experience, and we may not be successful
+in achieving a balance that continues to attract and retain such developers. For example, from time to time, we have taken actions to reduce the
+volume of communications from these developers to users on Facebook and our other products with the objective of enhancing the user experience,
+and such actions have reduced distribution from, user engagement with, and our monetization opportunities from, mobile and web applications
+integrated with our products. In addition, as part of our eﬀorts related to privacy, safety, and security, we are conducting investigations and audits of a
+large number of platform applications, and we also have announced several product changes that restrict developer access to certain user data. In
+some instances, these actions, as well as other actions to enforce our policies applicable to developers, have adversely aﬀected, or will adversely
+aﬀect, our relationships with developers. If we are not successful in our eﬀorts to maintain or grow the number of developers that choose to build
+products that integrate with Facebook and our other products or if we are unable to continue to build and maintain good relations with such
+developers, our user growth and user engagement and our financial results may be adversely affected.
+
+Payment transactions may subject us to additional regulatory requirements and other risks that could be costly and diﬃcult to comply
+with or that could harm our business.
+
+Our users can purchase virtual and digital goods from developers that oﬀer applications using our Payments infrastructure on the Facebook
+website. In addition, certain of our users can use our Payments infrastructure, including on Messenger, for other activities, such as sending money to
+other users and making donations to certain charitable organizations. We are subject to a variety of laws and regulations in the United States, Europe,
+and elsewhere, including those governing anti-money laundering and counter-terrorist ﬁnancing, money transmission, gift cards and other prepaid
+access instruments, electronic funds transfer, charitable fundraising, and import and export restrictions. Depending on how our Payments product
+evolves, we may also be subject to other laws and regulations including those governing gambling, banking, and lending. In some jurisdictions, the
+application or interpretation of these laws and regulations is not clear. To increase ﬂexibility in how our use of Payments may evolve and to mitigate
+regulatory uncertainty, we have received certain money transmitter licenses in the United States and an Electronic Money (E-Money) license that
+allows us to conduct certain regulated payment activities in the participating member countries of the European Economic Area, which will generally
+require us to demonstrate compliance with many domestic and foreign laws in these areas. Our eﬀorts to comply with these laws and regulations
+could be costly and result in diversion of management time and eﬀort and may still not guarantee compliance. In the event that we are found to be in
+violation of any such legal or regulatory requirements, we may be subject to monetary fines or other penalties such as a cease and desist order, or we
+may be required to make product changes, any of which could have an adverse effect on our business and financial results.
+
+In addition, we may be subject to a variety of additional risks as a result of Payments transactions, including: increased costs and diversion of
+management time and eﬀort and other resources to deal with bad transactions or customer disputes; potential fraudulent or otherwise illegal activity
+by users, developers, employees, or third parties; restrictions on the investment of consumer funds used to transact Payments; and additional
+disclosure and reporting requirements. We also intend to launch certain payments functionality on WhatsApp and have announced plans to develop
+digital payments products and services, which may subject us to many of the foregoing risks and additional licensing requirements.
+
+Our participation in the Libra Association will subject us to signiﬁcant regulatory scrutiny and other risks that could adversely aﬀect our
+business, reputation, or financial results.
+
+In June 2019, we announced our participation in the Libra Association, which will oversee a proposed digital payments system powered by
+blockchain technology, and our plans for Calibra, a digital wallet for Libra which we expect to launch in Messenger, WhatsApp, and as a standalone
+application.
+
+Libra is based on relatively new and unproven technology, and the laws and regulations surrounding blockchain-based payments are uncertain
+and evolving. Libra has drawn significant scrutiny from governments and regulators in multiple jurisdictions and we expect that scrutiny to continue. As
+a primary sponsor of the initiative, we are participating in responses to
+
+
+#### 73
+
+
+## Page 74
+
+
+#### Table of Contents
+
+inquiries from governments and regulators, and adverse government or regulatory actions or negative publicity resulting from such participation may
+adversely affect our reputation and harm our business.
+
+As this initiative evolves, we may be subject to a variety of laws and regulations in the United States and international jurisdictions, including
+those governing payments, ﬁnancial services, anti-money laundering, counter-terrorism ﬁnancing, economic sanctions, data protection, tax, and
+competition. In many jurisdictions, the application or interpretation of these laws and regulations is not clear, particularly with respect to evolving laws
+and regulations that are applied to blockchain and digital payments. These laws and regulations, as well as any associated inquiries or investigations,
+may delay or impede the launch of the Libra currency as well as the development of our products and services, increase our operating costs, require
+significant management time and attention, or otherwise harm our business.
+
+In addition, market acceptance of such currency is subject to signiﬁcant uncertainty. As such, there can be no assurance that Libra or our
+associated products and services will be made available in a timely manner, or at all. We do not have signiﬁcant prior experience with blockchain-
+based payments technology, which may adversely aﬀect our ability to successfully develop and market these products and services. We will also
+incur increased costs in connection with our participation in the Libra Association and the development and marketing of associated products and
+services, and our investments may not be successful. Any of these events could adversely affect our business, reputation, or financial results.
+
+We have signiﬁcant international operations and plan to continue expanding our operations abroad where we have more limited operating
+experience, and this may subject us to increased business and economic risks that could affect our financial results.
+
+We have signiﬁcant international operations and plan to continue the international expansion of our business operations and the translation of
+our products. We currently make Facebook available in more than 100 diﬀerent languages, and we have oﬃces or data centers in more than 30
+different countries. We may enter new international markets where we have limited or no experience in marketing, selling, and deploying our products.
+Our products are generally available globally, but some or all of our products or functionality may not be available in certain markets due to legal and
+regulatory complexities. For example, Facebook and certain of our other products are not generally available in China. We also outsource certain
+operational functions to third-party vendors globally. If we fail to deploy, manage, or oversee our international operations successfully, our business
+may suffer. In addition, we are subject to a variety of risks inherent in doing business internationally, including:
 
 •
-Daily Active Users (DAUs). We deﬁne a daily active user as a registered and logged-in Facebook user who visited Facebook through our
-website or a mobile device, or used our Messenger application (and is also a registered Facebook user), on a given day. We view DAUs, and
-DAUs as a percentage of MAUs, as measures of user engagement on Facebook.
+political, social, or economic instability;
 
-Note: For purposes of reporting DAUs, MAUs, and ARPU by geographic region, Europe includes all users in Russia and Turkey and Rest of World includes all users in
-Africa, Latin America, and the Middle East.
+•
+risks related to legal, regulatory, and other government scrutiny applicable to U.S. companies with sales and operations in foreign
+jurisdictions, including with respect to privacy, tax, law enforcement, content, trade compliance, competition, consumer protection,
+intellectual property, and terrestrial infrastructure matters;
 
-Worldwide DAUs increased 11% to 1.73 billion on average during March 2020 from 1.56 billion during March 2019. Users in India, Indonesia,
-and the Philippines represented key sources of growth in DAUs during March 2020, relative to the same period in 2019.
+•
+potential damage to our brand and reputation due to compliance with local laws, including potential censorship or requirements to provide
+user information to local authorities;
+
+•
+enhanced diﬃculty in reviewing content on our platform and enforcing our community standards across diﬀerent languages and
+countries;
+
+•
+fluctuations in currency exchange rates and compliance with currency controls;
+
+•
+foreign exchange controls and tax and other regulations and orders that might prevent us from repatriating cash earned in countries
+outside the United States or otherwise limit our ability to move cash freely, and impede our ability to invest such cash efficiently;
+
+•
+higher levels of credit risk and payment fraud;
+
+•
+enhanced difficulties of integrating any foreign acquisitions;
+
+•
+burdens of complying with a variety of foreign laws, including laws related to taxation, content removal, data localization, and regulatory
+oversight;
+
+•
+reduced protection for intellectual property rights in some countries;
+
+•
+difficulties in staffing, managing, and overseeing global operations and the increased travel, infrastructure, and
 
 
-#### 30
+#### 74

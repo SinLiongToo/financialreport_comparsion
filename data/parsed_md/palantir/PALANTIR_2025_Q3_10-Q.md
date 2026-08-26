@@ -1,8 +1,8 @@
-# Annual Report: PALANTIR_2025_Q3_10-Q
+# Financial Report: PALANTIR_2025_Q3_10-Q
 
 - **Source File**: `PALANTIR_2025_Q3_10-Q.pdf`
-- **Total Pages**: 93
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 93
+- **Parsed Key Pages**: 36 (36 selected sections)
 
 ---
 
@@ -4110,3 +4110,721 @@ Net income attributable to common stockholders
 
 
 #### 30
+
+
+## Page 31
+
+### Table 31.1
+
+| Revenue: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Government | $ | 632,676 |  | $ | 408,341 |  | $ | 224,335 |  | 55 | % |  | $ | 1,672,622 |  | $ | 1,114,481 | $ | 558,141 |  | 50 | % |
+| Commercial | 548,416 |  |  | 317,175 |  |  | 231,241 |  |  | 73 | % |  | 1,396,022 |  |  | 923,507 |  | 472,515 |  |  | 51 | % |
+| Total revenue | $ | 1,181,092 |  | $ | 725,516 |  | $ | 455,576 |  | 63 | % |  | $ | 3,068,644 |  | $ | 2,037,988 | $ | 1,030,656 |  | 51 | % |
+
+
+### Table 31.2
+
+| Cost of revenue | $ | 207,307 |  |  | $ | 146,639 |  |  | $ | 60,668 |  |  | 41 | % |  | $ | 573,211 |  |  | $ 391,457 |  | $ | 181,754 |  |  | 46 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gross profit | $ | 973,785 |  |  | $ | 578,877 |  |  | $ | 394,908 |  |  | 68 | % |  | $ | 2,495,433 |  |  | $ 1,646,531 |  | $ | 848,902 |  |  | 52 | % |
+| Gross margin | 82 |  | % |  | 80 |  | % |  | 2 |  | % |  |  |  |  | 81 |  | % |  | 81 | % | — |  | % |  |  |  |
+
+
+
+#### Table of contents
+
+Comparison of the Three and Nine Months Ended Months Ended September 30, 2025 and 2024
+
+
+#### Revenue
+
+
+#### Three Months Ended
+
+September 30,
+Change
+
+
+#### Nine Months Ended
+
+September 30,
+Change
+2025
+2024
+Amount
+%
+2025
+2024
+Amount
+%
+Revenue:
+Government
+$
+632,676 
+$
+408,341 
+$
+224,335 
+55 % $
+1,672,622 $
+1,114,481 $
+558,141 
+50 %
+Commercial
+548,416 
+317,175 
+231,241 
+73 %
+1,396,022 
+923,507 
+472,515 
+51 %
+Total revenue
+$
+1,181,092 $
+725,516 
+$
+455,576 
+63 % $
+3,068,644 $
+2,037,988 $ 1,030,656 
+51 %
+
+Revenue increased by $455.6 million, or 63%, for the three months ended September 30, 2025 compared to the same period in 2024. Revenue
+from government customers increased by $224.3 million, or 55%, for the three months ended September 30, 2025 compared to the same period
+in 2024. Of the increase, $205.7 million was from government customers existing as of December 31, 2024. Revenue from U.S. government
+customers was $485.9 million for the three months ended September 30, 2025 compared to $319.8 million for the same period in 2024. Revenue
+from commercial customers increased by $231.2 million, or 73%, for the three months ended September 30, 2025 compared to the same period
+in 2024. Of the increase, $124.1 million was from commercial customers existing as of December 31, 2024, including a decrease of $6.7 million
+of revenue from Strategic Commercial Contracts. Revenue from U.S. commercial customers was $396.7 million for the three months ended
+September 30, 2025 compared to $179.2 million for the same period in 2024, a 121% increase.
+
+Revenue increased by $1.0 billion, or 51%, for the nine months ended September 30, 2025 compared to the same period in 2024. Revenue from
+government customers increased by $558.1 million, or 50%, for the nine months ended September 30, 2025 compared to the same period in
+2024. Of the increase, $528.6 million was from government customers existing as of December 31, 2024. Revenue from U.S. government
+customers was $1.3 billion for the nine months ended September 30, 2025 compared to $854.5 million for the same period in 2024. Revenue
+from commercial customers increased by $472.5 million, or 51%, for the nine months ended September 30, 2025 compared to the same period
+in 2024. Of the increase, $283.9 million was from commercial customers existing as of December 31, 2024, including a decrease of $29.5 million
+of revenue from Strategic Commercial Contracts. Revenue from U.S. commercial customers was $958.6 million for the nine months ended
+September 30, 2025 compared to $488.1 million for the same period in 2024, a 96% increase.
+
+Generally, increases in revenue from our existing customers are related to increased adoption of our products and services within their
+organizations. For additional information on Strategic Commercial Contracts, see Note 4. Investments and Fair Value Measurements  in our
+condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+#### Cost of Revenue and Gross Profit
+
+
+#### Three Months Ended
+
+September 30,
+Change
+
+
+#### Nine Months Ended
+
+September 30,
+Change
+2025
+2024
+Amount
+%
+2025
+2024
+Amount
+%
+Cost of revenue
+$
+207,307 
+$
+146,639 
+$
+60,668 
+41 % $
+573,211 
+$
+391,457 
+$
+181,754 
+46 %
+Gross profit
+$
+973,785 
+$
+578,877 
+$
+394,908 
+68 % $
+2,495,433 
+$
+1,646,531 
+$
+848,902 
+52 %
+Gross margin
+82 %
+80 %
+2 %
+81 %
+81 %
+— %
+
+Cost of revenue for the three months ended September 30, 2025 increased by $60.7 million compared to the same period in 2024. The increase
+was primarily due to increases of $29.5 million in third-party cloud hosting services, $8.3 million in subcontractor expenses, $7.3 million in ﬁeld
+service representatives and $6.5 million in payroll and other payroll-related costs.
+
+Our gross margin for the three months ended September 30, 2025 and 2024 was 82% and 80%, respectively.
+
+Cost of revenue for the nine months ended September 30, 2025 increased by $181.8 million, or 46%, compared to the same period in 2024. The
+increase was primarily due to increases of $58.4 million in third-party cloud hosting services, $35.0 million in subcontractor expenses,
+$24.1 million in ﬁeld-service representatives, $22.4 million in stock-based compensation expense and related expenses, and $21.8 million in
+payroll and other payroll-related costs.
+
+Our gross margin for each of the nine months ended September 30, 2025 and 2024 was 81%.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### 31
+
+
+## Page 32
+
+### Table 32.1
+
+| Sales and marketing | $ | 274,636 | $ | 209,474 | $ | 65,162 |  | 31 | % |  | $ | 754,733 | $ | 599,460 |  | $ | 155,273 |  | 26 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Research and development | 144,191 |  |  | 117,555 |  | 26,636 |  | 23 | % |  | 414,123 |  | 336,376 |  |  | 77,747 |  |  | 23 | % |
+| General and administrative | 161,702 |  |  | 138,708 |  | 22,994 |  | 17 | % |  | 487,956 |  | 411,335 |  |  | 76,621 |  |  | 19 | % |
+| Total operating expenses | $ | 580,529 | $ | 465,737 | $ | 114,792 |  | 25 | % |  | $ | 1,656,812 | $ | 1,347,171 |  | $ | 309,641 |  | 23 | % |
+
+
+### Table 32.2
+
+| Cost of revenue | $ | 15,789 | $ | 13,123 | $ | 2,666 |  | 20 | % |  | $ | 45,778 |  | $ | 35,941 |  | $ | 9,837 |  | 27 | % |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sales and marketing | 63,148 |  | 50,698 |  | 12,450 |  |  | 25 | % |  | 171,701 |  |  | 141,168 |  |  | 30,533 |  |  | 22 | % |
+| Research and development | 35,049 |  | 30,715 |  | 4,334 |  |  | 14 | % |  | 98,951 |  |  | 87,532 |  |  | 11,419 |  |  | 13 | % |
+| General and administrative | 58,332 |  | 47,889 |  | 10,443 |  |  | 22 | % |  | 171,198 |  |  | 145,199 |  |  | 25,999 |  |  | 18 | % |
+| Total stock-based compensation expense | $ | 172,318 | $ | 142,425 | $ | 29,893 |  | 21 | % |  | $ | 487,628 |  | $ | 409,840 |  | $ | 77,788 |  | 19 | % |
+
+
+
+#### Table of contents
+
+
+#### Operating Expenses
+
+
+#### Three Months Ended
+
+September 30,
+Change
+
+
+#### Nine Months Ended
+
+September 30,
+Change
+2025
+2024
+Amount
+%
+2025
+2024
+Amount
+%
+Sales and marketing
+$
+274,636 
+$
+209,474 
+$
+65,162 
+31 % $
+754,733 
+$
+599,460 
+$
+155,273 
+26 %
+Research and development
+144,191 
+117,555 
+26,636 
+23 %
+414,123 
+336,376 
+77,747 
+23 %
+General and administrative
+161,702 
+138,708 
+22,994 
+17 %
+487,956 
+411,335 
+76,621 
+19 %
+Total operating expenses
+$
+580,529 
+$
+465,737 
+$
+114,792 
+25 % $
+1,656,812 $
+1,347,171 $
+309,641 
+23 %
+
+
+#### Sales and Marketing
+
+Sales and marketing costs increased by $65.2 million, or 31%, for the three months ended September 30, 2025 compared to the same period in
+2024. The increase was primarily due to increases of $24.6 million in payroll and other payroll-related costs, $16.6 million in stock-based
+compensation expense and related expenses, and $5.6 million in marketing expenses.
+
+Sales and marketing costs increased by $155.3 million, or 26%, for the nine months ended September 30, 2025 compared to the same period in
+2024. The increase was primarily due to increases of $57.8 million in stock-based compensation expense and related expenses, $48.4 million in
+payroll and other payroll-related costs, and $12.0 million in travel costs.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### Research and Development
+
+Research and development costs increased by $26.6 million, or 23%, for the three months ended September 30, 2025 compared to the same
+period in 2024. The increase was primarily due to increases of $12.3 million in third-party cloud hosting services and $8.4 million in stock-based
+compensation expense and related expenses.
+
+Research and development costs increased by $77.7 million, or 23%, for the nine months ended September 30, 2025 compared to the same
+period in 2024. The increase was primarily due to increases of $32.2 million in stock-based compensation expense and related expenses, $22.2
+million in third-party cloud hosting services, and $13.1 million in payroll and other payroll-related costs.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### General and Administrative
+
+General and administrative costs increased by $23.0 million, or 17%, for the three months ended September 30, 2025 compared to the same
+period in 2024. The increase was primarily due to increases of $15.6 million in stock-based compensation expense and related expenses and
+$4.8 million in payroll and other payroll-related costs.
+
+General and administrative costs increased by $76.6 million, or 19%, for the nine months ended September 30, 2025 compared to the same
+period in 2024. The increase was primarily due to increases of $48.5 million in stock-based compensation expense and related expenses and
+$12.5 million in payroll and other payroll-related costs.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+
+#### Stock-Based Compensation
+
+
+#### Three Months Ended
+
+September 30,
+Change
+
+
+#### Nine Months Ended
+
+September 30,
+Change
+2025
+2024
+Amount
+%
+2025
+2024
+Amount
+%
+Cost of revenue
+$
+15,789 $
+13,123 $
+2,666 
+20 % $
+45,778 $
+35,941 $
+9,837 
+27 %
+Sales and marketing
+63,148 
+50,698 
+12,450 
+25 %
+171,701 
+141,168 
+30,533 
+22 %
+Research and development
+35,049 
+30,715 
+4,334 
+14 %
+98,951 
+87,532 
+11,419 
+13 %
+General and administrative
+58,332 
+47,889 
+10,443 
+22 %
+171,198 
+145,199 
+25,999 
+18 %
+Total stock-based compensation
+
+expense
+$
+172,318 
+$
+142,425 
+$
+29,893 
+21 % $
+487,628 
+$
+409,840 
+$
+77,788 
+19 %
+
+
+#### 32
+
+
+## Page 34
+
+### Table 34.1
+
+| Net cash provided by (used in): |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Operating activities | $ | 1,357,178 |  | $ | 693,538 |
+| Investing activities | (1,825,720) |  |  | (980,849) |  |
+| Financing activities | (16,012) |  |  | 224,700 |  |
+| Effect of foreign exchange on cash, cash equivalents, and restricted cash | 9,444 |  |  | 960 |  |
+| Net decrease in cash, cash equivalents, and restricted cash | $ | (475,110) |  | $ | (61,651) |
+
+
+
+#### Table of contents
+
+As of September 30, 2025, we had no outstanding debt balances and additional available and undrawn revolving commitments of $500.0 million
+under our credit facility. For more information, see Note 6. Debt in our condensed consolidated ﬁnancial statements included elsewhere in this
+Quarterly Report on Form 10-Q.
+
+In August 2023, our Board of Directors authorized a stock repurchase program of up to $1.0 billion of our outstanding shares of Class A common
+stock (the “Share Repurchase Program”). During the nine months ended September 30, 2025, the Company repurchased and subsequently
+retired 0.5 million shares of its Class A common stock for an aggregate amount, including commissions, of $55.8 million under the Share
+Repurchase Program. As of September 30, 2025, approximately $880.0 million of the originally authorized amount under the Share Repurchase
+Program remained available for future repurchases.
+
+Our future capital requirements will depend on many factors, including, but not limited to, the rate of our growth, our ability to attract and retain
+customers and their willingness and ability to pay for our products and services, and the timing and extent of spending to support our eﬀorts to
+market and develop our products. Further, we may enter into future arrangements to acquire or invest in businesses, products, services,
+strategic partnerships, and technologies; additionally, we have, and may in the future, repurchase shares of our Class A common stock from time
+to time under our Share Repurchase Program. As such, we may seek additional equity or debt ﬁnancing on an as needed or opportunistic basis.
+In the event that additional ﬁnancing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If
+additional funds are not available to us on acceptable terms, or at all, our business, ﬁnancial condition, and results of operations could be
+adversely aﬀected. For additional information on our Share Repurchase Program, see Note 8. Stockholders’ Equity in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+The following table summarizes our cash flows for the periods indicated (in thousands):
+
+
+#### Nine Months Ended
+
+September 30,
+2025
+2024
+Net cash provided by (used in):
+Operating activities
+$
+1,357,178 $
+693,538 
+Investing activities
+(1,825,720)
+(980,849)
+Financing activities
+(16,012)
+224,700 
+Effect of foreign exchange on cash, cash equivalents, and restricted cash
+9,444 
+960 
+Net decrease in cash, cash equivalents, and restricted cash
+$
+(475,110)
+$
+(61,651)
+
+
+#### Operating Activities
+
+Net cash provided by operating activities was $1.4 billion and $0.7 billion for the nine months ended September 30, 2025 and 2024, respectively.
+The increase was primarily driven by revenue growth.
+
+
+#### Investing Activities
+
+Net cash used in investing activities was $1.8 billion and $1.0 billion for the nine months ended September 30, 2025 and 2024, respectively. The
+increase in cash used in investing activities was primarily due to purchases of short-term U.S. Treasury securities compared to prior year,
+partially offset by sales and redemptions of marketable securities.
+
+
+#### Financing Activities
+
+Net cash used in ﬁnancing activities was $16.0 million for the nine months ended September 30, 2025, and net cash provided by ﬁnancing
+activities was $224.7 million for the nine months ended September 30, 2024. Financing cash inﬂows consisted primarily of proceeds from the
+exercise of common stock options. Financing cash outﬂows were driven by taxes paid related to the net share settlement of SARs and
+repurchases of our Class A common stock.
+
+
+#### Contractual Obligations and Commitments
+
+Our contractual obligations and commitments primarily consist of operating lease commitments for our facilities and non-cancelable purchase
+commitments related to third-party cloud hosting services. For additional information, refer to Note 7. Commitments and Contingencies to our
+condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q. Except as already disclosed in Note 7.
+Commitments and Contingencies in our condensed consolidated ﬁnancial statements included elsewhere in this Quarterly Report on Form 10-Q,
+there has been no material change in our contractual obligations and commitments other than in the ordinary course of business since our ﬁscal
+year ended December 31, 2024. See our Annual Report on Form 10-K for the year ended December 31, 2024, which was ﬁled with the
+Securities and
+
+
+#### 34
+
+
+## Page 35
+
+
+#### Table of contents
+
+Exchange Commission (“SEC”) on February 18, 2025, for additional information regarding the Company’s contractual obligations.
+
+
+#### Critical Accounting Policies and Estimates
+
+Our condensed consolidated ﬁnancial statements and the accompanying notes thereto included elsewhere in this Quarterly Report on Form 10-
+Q are prepared in accordance with GAAP. The preparation of condensed consolidated ﬁnancial statements requires us to make estimates and
+assumptions that aﬀect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates
+on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could diﬀer
+signiﬁcantly from our estimates. To the extent that there are diﬀerences between our estimates and actual results, our future ﬁnancial statement
+presentation, financial condition, results of operations, and cash flows will be affected.
+
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and
+estimates discussed in the Annual Report on Form 10-K for the year ended December 31, 2024, which was ﬁled with the SEC on February 18,
+2025, except as described in Note 2. Signiﬁcant Accounting Policies to the condensed consolidated ﬁnancial statements included elsewhere in
+this Quarterly Report on Form 10-Q.
+
+
+#### Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, if any, refer to Note 2. Signiﬁcant Accounting Policies in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to market risks in the ordinary course of our business, which primarily relate to ﬂuctuations in the value of our investments,
+interest rates, foreign currency exchange, and inflation.
+
+
+#### Market Risk
+
+As of September 30, 2025, we held publicly-traded equity securities valued at $42.1 million. We have sold, and may continue to sell, some or all
+of such equity securities. These equity securities are often in early- or growth-stage companies that have minimal public trading history; as such
+the fair value of these equity securities, and the value of our equity holdings, may ﬂuctuate depending on the ﬁnancial outcome and prospects of
+the issuers, as well as global market conditions, including ongoing volatility related to the Russia-Ukraine, and Israel and broader Middle East
+conflicts, heightened interest rates, or the potential or actual imposition of tariffs or other impacts on trade relations.
+
+As of September 30, 2025, we held privately-held equity securities valued at $163.2 million. Valuations of our privately-held equity securities are
+complex due to, among other things, the lack of liquidity and the lack of readily available market data. Uncertainties in the global economic
+climate and ﬁnancial markets, or in the business, ﬁnancial results, or conditions of companies we hold equity in, could adversely impact the
+valuations of such companies and, therefore, result in an impairment or downward adjustment in the value of our holdings.
+
+We have and may continue to accept securities as consideration or invest in securities, which may contribute to additional volatility to our
+condensed consolidated statements of operations.
+
+
+#### Interest Rate Risk
+
+Our cash, cash equivalents, restricted cash, and available-for-sale debt securities consist of cash, short-term U.S. Treasury securities, money
+market funds, and certiﬁcates of deposit. The primary objective of our investment activities and strategies are focused on the preservation of
+capital and supporting our liquidity requirements.
+
+Due to the short-term nature of the financial instruments, we have not been exposed to, nor do we anticipate being exposed to, material risks due
+to changes in interest rates.
+
+
+#### Foreign Currency Exchange Risk
+
+Our contracts with customers are primarily denominated in U.S. dollars, with the remaining denominated in foreign currencies. Our expenses are
+generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the United States, United
+Kingdom, and other countries. Our results of current and future operations and cash flows are, therefore, subject to fluctuations due to changes in
+foreign currency exchange rates, particularly changes in JPY, Euro, and GBP. We have experienced, and may continue to experience,
+fluctuations in net income as a result of transaction gains or losses
+
+
+#### 35
+
+
+## Page 36
+
+
+#### Table of contents
+
+related to remeasuring certain asset and liability balances that are denominated in foreign currencies. These exposures may change over time
+as business practices evolve and economic conditions change. To date, foreign currency transaction gains and losses have not been material to
+our condensed consolidated financial statements, and we have not engaged in any foreign currency hedging transactions.
+
+
+#### Inflation Risk
+
+We do not believe that inﬂation has had a material eﬀect on our business, results of operations, or ﬁnancial condition. If our costs were to
+become subject to signiﬁcant inﬂationary pressures, we may not be able to fully oﬀset such higher costs through price increases. Our inability or
+failure to do so could harm our business, financial condition, or results of operations.
+
+
+### ITEM 4. CONTROLS AND PROCEDURES
+
+
+#### Evaluation of Disclosure Controls and Procedures
+
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we file or submit under
+the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized, and reported within the time
+periods speciﬁed in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief
+Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Our management, with the participation and supervision of our Chief Executive Oﬃcer and our Chief Financial Oﬃcer, have evaluated the
+eﬀectiveness of our disclosure controls and procedures (as deﬁned in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of
+the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Oﬃcer and Chief Financial Oﬃcer
+have concluded that, as of such date, our disclosure controls and procedures were, in design and operation, eﬀective at a reasonable assurance
+level.
+
+
+#### Changes in Internal Controls Over Financial Reporting
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in connection with the evaluation required by Rule 13a-15(d) and
+15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that have materially aﬀected, or
+are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+#### Inherent Limitations on the Effectiveness of Controls
+
+The eﬀectiveness of any system of internal control over ﬁnancial reporting, including ours, is subject to inherent limitations, including the exercise
+of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct
+completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal
+control over ﬁnancial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute, assurance
+of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reﬂect the fact that there are
+resource constraints and that management is required to apply its judgment in evaluating the beneﬁts of possible controls and procedures
+relative to their costs. Moreover, projections of any evaluation of eﬀectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to
+continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot assure you that such
+improvements will be sufficient to provide us with effective internal control over financial reporting.
+
+
+#### 36
+
+
+## Page 37
+
+
+#### Table of contents
+
+
+### PART II - OTHER INFORMATION
+
+
+### ITEM 1. LEGAL PROCEEDINGS
+
+From time to time, we are subject to legal proceedings and claims arising in the ordinary course of business. Based on our current knowledge, we
+believe that the amount or range of reasonably possible losses will not, either individually or in the aggregate, have a material adverse eﬀect on
+our business, results of operations, or financial condition.
+
+The results of any litigation cannot be predicted with certainty, and an unfavorable resolution in any legal proceedings could materially aﬀect our
+future business, results of operations, or ﬁnancial condition. Regardless of the outcome, litigation can have an adverse impact on us because of
+defense and settlement costs, diversion of management resources, and other factors.
+
+For information on legal proceedings, refer to Note 7. Commitments and Contingencies—Litigation and Legal Proceedings in our condensed
+consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q.
+
+
+### ITEM 1A. RISK FACTORS
+
+Investing in our Class A common stock involves a high degree of risk. You should carefully consider the risks and uncertainties described below,
+together with all of the other information in this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” and our condensed consolidated ﬁnancial statements and accompanying notes,
+before making a decision to invest in our Class A common stock. Our business, ﬁnancial condition, results of operations, or prospects could also
+be harmed by risks and uncertainties not currently known to us or that we currently do not believe are material. If any of the risks actually occur,
+our business, ﬁnancial condition, results of operations, and prospects could be adversely aﬀected. In that event, the trading price of our Class A
+common stock could decline, and you could lose part or all of your investment.
+
+
+#### Risk Factor Summary
+
+Our business is subject to numerous risks and uncertainties that you should consider before investing in our Class A common stock. These risks
+are described more fully below and include, but are not limited to, risks relating to the following:
+
+•
+we had a history of incurring net losses prior to achieving profitability, and we anticipate our operating expenses will continue to increase, and
+we may not be able to maintain profitability in the future;
+
+•
+we may not be able to sustain our revenue growth;
+
+•
+our sales efforts involve considerable time and expense and our sales cycle is often long and unpredictable;
+
+•
+a limited number of customers account for a substantial portion of our revenue;
+
+•
+our results of operations and our key business measures are likely to fluctuate significantly on a quarterly basis;
+
+•
+seasonality may cause fluctuations in our results of operations and financial position;
+
+•
+our platforms are complex and may have a lengthy implementation process;
+
+•
+we may not successfully develop and deploy new technologies (such as technologies incorporating AI) to address the needs of our
+customers;
+
+•
+our platforms must operate with third-party products and services;
+
+•
+we may be unable to hire, retain, train, and motivate qualiﬁed personnel and senior management and deploy our personnel and resources to
+meet customer demand;
+
+•
+we may be unable to successfully build, expand, and deploy our marketing and sales organization;
+
+•
+we may not be able to maintain and enhance our brand and reputation;
+
+•
+unfavorable news or social media coverage may harm our reputation and business;
+
+•
+exclusive arrangements or unique terms with customers or partners may result in significant risks or liabilities to us;
+
+•
+we face intense competition in our markets;
+
+•
+we may be unable to maintain or properly manage our culture as we grow;
+
+•
+we may not enter into relationships with potential customers if we consider their activities to be inconsistent with our organizational mission
+or values;
+
+
+#### 37

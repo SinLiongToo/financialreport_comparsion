@@ -1,8 +1,8 @@
-# Annual Report: NVIDIA_2025_Annual_Report
+# Financial Report: NVIDIA_2025_Annual_Report
 
 - **Source File**: `NVIDIA_2025_Annual_Report.pdf`
-- **Total Pages**: 181
-- **Parsed Pages**: 30
+- **Total PDF Pages**: 181
+- **Parsed Key Pages**: 80 (80 selected sections)
 
 ---
 
@@ -3701,401 +3701,6 @@ CS principles and practices into every aspect of the Company.  This proxy statem
 #### 11
 
 
-## Page 26
-
-NVIDIA CORPORATION
-2788 SAN TOMAS EXPRESSWAY
-SANTA CLARA, CALIFORNIA 95051
-
-
-#### (408) 486-2000
-
-
-#### ____________________________________________________
-
-
-### PROXY STATEMENT FOR THE 2025 ANNUAL MEETING OF STOCKHOLDERS - JUNE 25, 2025
-
-
-#### ____________________________________________________
-
-
-#### Information About the 2025 Meeting
-
-Your proxy is being solicited on behalf of the Board for use at the 2025 Meeting.  Our 2025 Meeting will take place 
-virtually on Wednesday, June 25, 2025 at 9:00 a.m. Pacific Time.
-
-
-#### Virtual Meeting Philosophy and Benefits
-
-The Board believes holding the 2025 Meeting in a virtual format invites stockholder participation, while reducing costs to 
-stockholders and the Company.  This balance allows the 2025 Meeting to remain focused on matters directly relevant to 
-stockholder interests in an efficient way.  We have designed the virtual format to protect stockholder rights, including by 
-offering multiple opportunities to ask questions, publishing answers to questions received for the 2025 Meeting on our 
-Investor Relations website, and providing a replay of the webcast after the 2025 Meeting.
-
-
-#### Meeting Attendance
-
-If you were an NVIDIA stockholder as of the close of business on the April 28, 2025 record date, or if you hold a valid 
-proxy, you can attend, ask questions during, and vote at our 2025 Meeting at www.virtualshareholdermeeting.com/
-NVDA2025.  Our 2025 Meeting will be held virtually; use the Control Number included on your Notice or printed proxy card 
-to enter.  Anyone can also listen to the 2025 Meeting live; if you encounter any difficulties accessing the virtual 2025 
-Meeting, please call the technical support number available at www.virtualshareholdermeeting.com/NVDA2025.
-
-A replay of the webcast will be available at www.nvidia.com/proxy through June 24, 2026.  Even if you plan to attend the 
-2025 Meeting virtually, we recommend that you also vote by proxy as described below so that your vote will be counted if 
-you later decide not to attend.
-
-
-#### Asking Questions
-
-We encourage stockholders to submit questions through our pre-meeting forum at www.proxyvote.com (using the 
-Control Number included on your Notice or printed proxy card), as well as during the 2025 Meeting at 
-www.virtualshareholdermeeting.com/NVDA2025.  During the 2025 Meeting, we will answer as many stockholder-
-submitted questions related to the business of the 2025 Meeting as time permits.  We will publish on our Investor 
-Relations website answers to questions as soon as practicable after the 2025 Meeting.  We intend to group questions and 
-answers by topic and substantially similar questions will be answered only once.  To promote fairness to all stockholders 
-and efficient use of the Company’s resources, we will respond to one question per stockholder.  We reserve the right to 
-exclude questions that are not pertinent to company business or are otherwise unsuitable for the conduct of the 2025 
-Meeting.
-
-
-#### Quorum and Voting
-
-To hold our 2025 Meeting, we need a majority of the outstanding shares entitled to vote at the close of business on the 
-April 28, 2025 record date, or a quorum, represented at the 2025 Meeting either by attendance virtually or by proxy.  On 
-April 28, 2025, there were 24,387,557,065 shares of common stock outstanding and entitled to vote, meaning 
-12,193,778,533 shares must be represented at the 2025 Meeting or by proxy to have a quorum.  A list of stockholders 
-entitled to vote at the close of business on the record date will be available at our headquarters, 2788 San Tomas 
-Expressway, Santa Clara, California, for 10 days prior to the 2025 Meeting to stockholders of record for any legally valid
-
-
-#### 12
-
-
-## Page 27
-
-### Table 27.1
-
-| Change Your Revoke Your Vote Vote Proxy |
-| --- |
-| Virtually attend and vote at the 2025 Meeting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ü ü |
-
-
-purpose germane to the 2025 Meeting.  To schedule an appointment to view the stockholder list during this period, 
-please contact us at shareholdermeeting@nvidia.com.
-
-Your shares will count towards the quorum only if you submit a valid proxy or vote at the 2025 Meeting.  Abstentions and 
-broker non-votes will count towards the quorum requirement.  If there is not a quorum, a majority of the votes present 
-may adjourn the 2025 Meeting to another date.
-
-For Proposal 1, you may vote FOR or AGAINST any Board nominee, or you may ABSTAIN from voting. For each other 
-matter to be voted on, you may vote FOR or AGAINST or ABSTAIN from voting.
-
-
-#### Stockholder of Record
-
-You are a stockholder of record if your shares were registered directly in your name with our transfer agent, 
-Computershare, on April 28, 2025.  You can vote shares, change your vote, or revoke your proxy before the final vote at 
-the 2025 Meeting in any of the following ways:
-
-
-#### Vote
-
-
-#### Change Your
-
-
-#### Vote
-
-
-#### Revoke Your
-
-Proxy
-Virtually attend and vote at the 2025 Meeting    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-ü
-ü
-Via mail, by signing and mailing your proxy card to us before the 2025 
-Meeting      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-ü
-
-By telephone or online, by following the instructions provided in the Notice or 
-your proxy materials     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-ü
-ü
-
-Submit another properly completed proxy card with a later date    . . . . . . . . . . . . .
-ü
-Send a written notice that you are revoking your proxy to NVIDIA Corporation, 
-2788 San Tomas Expressway, Santa Clara, California 95051, Attention: 
-Timothy S. Teter, Secretary, or via email to shareholdermeeting@nvidia.com     . .
-
-
-#### ü
-
-If you do not vote using any of the ways described above, your shares will not be voted.
-
-
-#### Street Name Holder
-
-If your shares were held through a nominee, such as a bank or broker, as of April 28, 2025, then you were the beneficial 
-owner of shares held in “street name,” and you have the right to direct the nominee how to vote those shares for the 
-2025 Meeting.  The nominee should provide you a separate Notice or voting instructions, which you should follow to tell 
-the nominee how to vote.  To vote by attending the 2025 Meeting virtually, you must obtain a valid proxy from your 
-nominee.
-
-If you are a beneficial holder and do not provide voting instructions to your nominee, the nominee will not be authorized 
-to vote your shares on “non-routine” matters, including elections of directors (even if not contested) and executive 
-compensation (including any advisory stockholder votes on executive compensation), the amendment of the Charter, and 
-stockholder proposals.  This is called a “broker non-vote.”  However, the nominee can still register your shares as being 
-present at the 2025 Meeting for determining quorum, and the nominee will have discretion to vote for matters 
-considered by the NYSE to be “routine,” including Proposal 3 regarding the ratification of the selection of our independent 
-registered public accounting firm.  If you are a beneficial owner and want to ensure that all of the shares you beneficially 
-own are voted for or against Proposal 3, you must give your nominee specific instructions to do so or the nominee will 
-have discretion to vote on that proposal.  For Proposals 1, 2, 4, 5, 6, and 7, which are “non-discretionary” items, you 
-MUST give your nominee instructions in order for your vote to be counted.  We strongly encourage you to vote.
-
-Any NVIDIA stockholder whose shares are held in street name by a member brokerage firm may revoke a proxy and vote 
-their shares at the 2025 Meeting only in accordance with applicable rules and procedures of the national stock 
-exchanges, as used by the holder’s brokerage firm.
-
-
-#### 13
-
-
-## Page 28
-
-### Table 28.1
-
-| 1 Election of thirteen directors . . . . . . . More FOR than AGAINST votes None None |
-| --- |
-| Majority of shares present, in Advisory approval of our executive 2 person or represented by proxy, Against None compensation . . . . . . . . . . . . . . . . . . . . . and entitled to vote on this matter |
-| Ratification of the selection of PwC Majority of shares present, in 3 as our independent registered public person or represented by proxy, Against N/A (1) accounting firm for Fiscal 2026 . . . . . and entitled to vote on this matter |
-| Approval of an amended and 4 restated Charter to remove all 66 2/3% of shares outstanding Against Against supermajority provisions . . . . . . . . . . . |
-| Majority of shares present, in Stockholder Proposal: Special 5 person or represented by proxy, Against None Shareholder Meeting Improvement . and entitled to vote on this matter |
-| Stockholder Proposal: Director Majority of shares present, in 6 Election Resignation Governance person or represented by proxy, Against None Policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and entitled to vote on this matter |
-| Majority of shares present, in Stockholder Proposal: Workforce 7 person or represented by proxy, Against None Data Reporting . . . . . . . . . . . . . . . . . . . . and entitled to vote on this matter |
-
-
-
-#### Vote Count
-
-On each matter to be voted upon, stockholders have one vote for each share of NVIDIA common stock owned as of April 
-28, 2025.  Votes will be counted by the inspector of election as follows:
-
-
-#### Proposal
-
-Number
-Proposal Description
-Vote Required for Approval
-
-Effect of 
-Abstentions
-
-Broker 
-Non-Votes
-
-1
-Election of thirteen directors     . . . . . . .
-More FOR than AGAINST votes
-None
-None
-
-2
-Advisory approval of our executive 
-compensation       . . . . . . . . . . . . . . . . . . . . .
-
-Majority of shares present, in 
-person or represented by proxy, 
-and entitled to vote on this matter
-
-Against
-None
-
-
-#### 3
-
-Ratification of the selection of PwC 
-as our independent registered public 
-accounting firm for Fiscal 2026    . . . . .
-
-Majority of shares present, in 
-person or represented by proxy, 
-and entitled to vote on this matter
-
-Against
-N/A (1)
-
-
-#### 4
-
-Approval of an amended and 
-restated Charter to remove all 
-supermajority provisions       . . . . . . . . . . .
-
-66 2/3% of shares outstanding
-Against
-Against
-
-5
-Stockholder Proposal: Special 
-Shareholder Meeting Improvement      .
-
-Majority of shares present, in 
-person or represented by proxy, 
-and entitled to vote on this matter
-
-Against
-None
-
-
-#### 6
-
-Stockholder Proposal: Director 
-Election Resignation Governance 
-Policy    . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Majority of shares present, in 
-person or represented by proxy, 
-and entitled to vote on this matter
-
-Against
-None
-
-7
-Stockholder Proposal: Workforce 
-Data Reporting      . . . . . . . . . . . . . . . . . . . .
-
-Majority of shares present, in 
-person or represented by proxy, 
-and entitled to vote on this matter
-
-Against
-None
-
-(1) Because this is a routine proposal, there are no broker non-votes.
-
-If you are a stockholder of record and you return a signed proxy card without marking any selections, your shares will be 
-voted FOR each of the nominees listed in Proposal 1, FOR Proposals 2, 3 and 4, and AGAINST Proposals 5, 6, and 7. If any 
-other matter is properly presented at the 2025 Meeting, one of the proxyholders will vote your shares using his best 
-judgment.
-
-
-#### Vote Results
-
-Preliminary voting results will be announced at the 2025 Meeting.  Final voting results will be published in a current report 
-on Form 8-K, which will be filed with the SEC by July 1, 2025.
-
-
-#### Proxy Materials
-
-As permitted by SEC rules, we are making our proxy materials available to stockholders online at www.nvidia.com/proxy.  
-On or about May 13, 2025, we sent stockholders who owned our common stock at the close of business on April 28, 2025 
-(except those who previously requested electronic or paper delivery) a Notice with instructions on how to access our 
-proxy materials, vote online or by telephone, and elect to receive future proxy materials electronically or in printed form 
-by mail.
-
-If you choose to receive future proxy materials electronically (via www.proxyvote.com for stockholders of record and 
-www.icsdelivery.com/nvda for street name holders), you will receive an email next year with links to the proxy materials 
-and proxy voting site.
-
-SEC rules also permit companies and intermediaries, such as brokers, to satisfy Notice and proxy material delivery 
-requirements for multiple stockholders with the same address by delivering a single Notice or set of proxy materials 
-addressed to those stockholders.  We follow this practice, known as “householding,” unless we have received contrary 
-instructions from any stockholder at that address.
-
-If you received more than one Notice or full set of proxy materials, your shares are either registered in more than one 
-name or held in different accounts. Please vote the shares covered by each Notice or proxy card.  To modify your 
-instructions so that you receive one Notice or proxy card for each account or name, contact your broker.  Your 
-“householding” election will continue until you are notified otherwise or until you revoke your consent.
-
-
-#### 14
-
-
-## Page 29
-
-To change how you receive proxy materials (electronically or in print), or to request receipt of a separate set of 
-documents to a household, contact our Investor Relations Department through our website at www.nvidia.com, by email 
-to shareholdermeeting@nvidia.com, by phone at (408) 486-2000, or by mail at 2788 San Tomas Expressway, Santa Clara, 
-California 95051.
-
-We will pay the entire cost of soliciting proxies.  Our directors and employees may also solicit proxies in person, by 
-telephone, by mail, via the Internet, or by other means.  Our directors and employees will not receive any additional 
-compensation for soliciting proxies.  We have also retained MacKenzie Partners on an advisory basis for an approximate 
-fee of $17,000; they may help us solicit proxies from brokers, bank nominees, and other institutional owners.  We may 
-also reimburse brokerage firms, banks, and other agents for the cost of forwarding proxy materials to beneficial owners.
-
-2026 Meeting Deadlines for Submission of Stockholder Proposals, Nomination of Directors, and Other Business
-
-Proposals to be Considered for Inclusion in Our Proxy Materials Pursuant to Rule 14a-8
-
-Stockholders who wish to present proposals pursuant to Rule 14a-8 promulgated under the Exchange Act for inclusion in 
-our 2026 Meeting proxy materials must submit their proposals in writing to NVIDIA Corporation, 2788 San Tomas 
-Expressway, 
-Santa 
-Clara, 
-California 
-95051, 
-Attention: 
-Timothy 
-S. 
-Teter, 
-Secretary, 
-or 
-by 
-email 
-to 
-shareholdermeeting@nvidia.com, on or before January 13, 2026.
-
-
-#### Director Nominations Under Our Proxy Access Bylaw
-
-A stockholder (or a group of up to 20 stockholders) who has owned at least 3% of the voting power of our outstanding 
-capital stock for at least three continuous years and has complied with the other requirements in our Bylaws may 
-nominate and include in our proxy materials director nominees constituting up to the greater of (a) up to two director 
-candidates or (b) up to 20% of the number of directors in office on the last day that a submission may be delivered.  
-Notice of a proxy access nomination for consideration at our 2026 Meeting must be received following the above 
-instructions not later than the close of business on March 27, 2026, and not earlier than February 25, 2026.  If we hold 
-the 2026 Meeting more than 30 days prior to, or delayed by more than 30 days after, the first anniversary of the 2025 
-Meeting, for written notice by the stockholder to be timely, such notice must be delivered following the above 
-instructions not earlier than the close of business on the 120th day prior to the 2026 Meeting and not later than the close 
-of business on the 90th day prior to the 2026 Meeting or the 10th day following the day on which public announcement 
-of the date of the 2026 Meeting is first made by us, whichever is later.
-
-
-#### Other Director Nominations and Proposals
-
-Apart from Rule 14a-8 and the proxy access provision of our Bylaws, under our Bylaws certain procedures must be 
-followed for a stockholder to nominate a director or introduce an item of business at an annual meeting of stockholders.  
-If you wish to nominate a director or introduce an item of business at the 2026 Meeting that is not included in our 2026 
-Meeting proxy materials, you must do so in writing following the above instructions not later than the close of business 
-on March 27, 2026, and not earlier than February 25, 2026. If we hold the 2026 Meeting more than 30 days prior to, or 
-delayed by more than 70 days after, the first anniversary of the 2025 Meeting, for written notice by the stockholder to be 
-timely, such notice must be delivered following the above instructions not earlier than the close of business on the 120th 
-day prior to the 2026 Meeting and not later than the close of business on the 90th day prior to the 2026 Meeting or the 
-10th day following the day on which public announcement of the date of the 2026 Meeting is first made by us, whichever 
-is later.
-
-
-#### Additional Requirements and Information
-
-We advise you to review our Bylaws, which include additional requirements for advance notice of stockholder proposals, 
-director nominations, and proxy access nominations.  We recognize the importance of stockholders’ ability to nominate 
-directors to our Board.  Accordingly, our Board will consider feedback received through our stockholder engagement 
-process regarding the process and disclosure requirements of our Bylaws for nominating directors and other proposals.  
-Our Board will engage with stockholders of various holdings size regarding any proposed amendments to our Bylaws that 
-would require a nominating stockholder to disclose to us (i) such stockholder’s plans to nominate candidates to the 
-boards of other public companies, or disclose prior director nominations or proposals that such stockholder privately 
-submitted to other public companies, or (ii) information about such stockholder’s limited partners or business associates 
-beyond the existing requirements of our Bylaws.
-
-
-#### 15
-
-
 ## Page 30
 
 ### Table 30.1
@@ -4346,3 +3951,6664 @@ CC, NCGC
 
 
 #### 16
+
+
+## Page 31
+
+
+#### Director Qualifications and Nomination of Directors
+
+The NCGC identifies, reviews and assesses the qualifications of current and potential directors and recommends 
+nominees for Board approval.  In accordance with our Corporate Governance Policies and the NCGC Charter, the NCGC is 
+committed to maintaining a Board with diverse perspectives and considers a nominee’s background and experience to 
+ensure that a broad range of perspectives is represented.  The NCGC may conduct appropriate and necessary inquiries 
+into the backgrounds and qualifications of possible candidates and may engage a professional search firm to assist the 
+committee in identifying, evaluating, and conducting due diligence on potential director nominees.  The NCGC has not 
+established specific age, gender, education, experience, or skill requirements, and instead considers numerous factors 
+regarding the nominee, including those listed below, taking into account our current and future business models:
+
+• Integrity and candor
+• Independence
+• Senior leadership and operational experience
+• Professional, technical and industry knowledge
+• Financial expertise
+• Financial community experience (including as an investor in
+
+other companies)
+• Marketing, communications and brand management
+
+background
+• Governance and public company board experience
+• Experience with emerging technologies and new business
+
+models
+• Regulatory, legal, and risk management expertise, including in
+
+
+#### cybersecurity matters
+
+• Mix of backgrounds, experiences, and perspectives
+• Human capital management experience
+• Experience in academia
+• Willingness and ability to devote substantial time and effort to
+
+Board responsibilities and Company oversight
+• Ability to represent the interests of the stockholders as a whole
+
+rather than special interest groups or constituencies
+• All relationships between the proposed nominee and any of our
+
+stockholders, competitors, customers, suppliers, or other 
+persons with a relationship to NVIDIA
+• For nominees for re-election, overall service to NVIDIA, including
+
+past attendance, participation and contributions to the 
+activities of the Board and its committees
+
+The NCGC and the Board understand the importance of Board refreshment, and strive to maintain an appropriate balance 
+of tenure, diversity of professional experience and backgrounds, skills, and education on the Board.  While the Board 
+benefits from the experience and institutional knowledge that our longer-serving directors bring, it has also brought in 
+new perspectives and ideas through the appointment of four new directors, and the retirement of three directors, since 
+2020.  The Board also regularly rotates committee membership and chairpersons to help promote different viewpoints on 
+the Board committees.  Our longer-tenured directors are familiar with our operations and business areas and have the 
+perspective of overseeing our activities from a variety of economic and competitive environments, which enhances the 
+Board’s oversight of strategy and risks.  Given the growth of the Company and the breadth of our product offerings, as 
+well as the increasingly complex macroeconomic and geopolitical factors we face, these experienced directors are a 
+significant asset to the Board.  Our newer directors have brought expertise in brand development and cybersecurity, 
+familiarity with technology developments at leading academic institutions, and senior management, operating, and 
+finance experience, all of which are important to supporting NVIDIA as it enters new markets.  Each year, the NCGC and 
+Board review each director’s individual performance, including the director’s past contributions, outside experiences and 
+activities, and committee participation, and determine how his or her experience and skills continue to add value to 
+NVIDIA and the Board.
+
+
+#### 17
+
+
+## Page 32
+
+Below are the skills, competencies, and attributes that our Board considers important for our directors to have, 
+considering our current business and future market opportunities:
+
+Senior Leadership 
+& Operations 
+Experience
+
+Directors with senior leadership and operations experience provide informed oversight 
+of our business, and unique experiences and perspectives.  They are uniquely positioned 
+to contribute practical insight into business strategy and operations, driving growth, 
+building and strengthening corporate culture, and supporting the achievement of 
+strategic priorities and objectives.
+
+Industry & 
+Technical
+
+Directors with industry experience and technical backgrounds facilitate within the Board 
+a deeper understanding of innovations and a technical assessment of our products and 
+services.
+
+Financial/Financial 
+Community
+
+Experience in financial matters and the financial community assists our Board with 
+review of our operations and finances, including overseeing our financial statements, 
+capital structure and internal controls.  Those with a venture capital background also 
+offer valuable stockholder perspectives.
+
+Governance & 
+Public Company 
+Board
+
+Directors with experience in corporate governance, such as service on boards and board 
+committees, or as executives of other large, public companies, are familiar with the 
+dynamics and operation of a board of directors and the impact that governance policies 
+have on a company.  This experience supports our goals of strong Board and 
+management accountability, transparency, and protection of stockholder interests.  
+Public company board experience also helps our directors identify challenges and risks 
+we face as a public company, including oversight of strategic, operational, and 
+compliance-related matters, and stockholder relations.
+
+Emerging 
+Technologies & 
+Business Models
+
+Experience in emerging technologies and business models is integral to our growth 
+strategies given our unique business model and provides important insights as our 
+business expands into new areas.
+
+Marketing, 
+Communications & 
+Brand 
+Management
+
+Directors with experience in marketing, communications, and brand management offer 
+guidance on our products directly marketed to consumers, important perspectives on 
+expanding our market share, and expertise in communicating with our customers and 
+other stakeholders.
+
+Regulatory, Legal & 
+Risk Management
+
+Our business requires compliance with a variety of regulatory requirements in different 
+jurisdictions.  We face new regulatory matters and regulations as our business grows.  
+We are also subject to multiple lawsuits.  Directors with experience in governmental, 
+public policy, legal, and risk management areas, including cybersecurity, help provide 
+valuable insights and oversight for our Company.
+
+Human Capital 
+Management 
+Experience
+
+Our people are critical to our success.  Directors with experience in organizational 
+management, talent development, and developing values and culture in a large global 
+workforce provide key insights.  Human capital management experience also assists our 
+Board in overseeing executive and employee compensation, development, and 
+engagement.
+
+The NCGC evaluates candidates proposed by stockholders using the same criteria as it uses for other candidates. 
+Stockholders seeking to recommend a prospective nominee should follow the instructions under Stockholder 
+Communications with the Board of Directors below.  The stockholder(s) must provide timely written notice of such 
+recommended nominee and the stockholder(s) and such recommended nominee must satisfy the other requirements 
+specified in our Bylaws and Corporate Governance Policies, both of which are available on the Investor Relations section 
+of our website at www.nvidia.com. Stockholders are advised to review these documents.
+
+
+#### Proxy Access
+
+Our Board has voluntarily adopted proxy access.  As a result, we will include in our proxy statement information regarding 
+the greater of (i) up to two director candidates or (ii) up to 20% of the number of directors in office on the last day that a 
+submission may be delivered, if nominated by a stockholder (or group of up to 20 stockholders) owning at least 3% of the 
+voting power of our outstanding capital stock for at least three continuous years.  The stockholder(s) must provide timely 
+written notice of such nomination and the stockholder(s) and nominee must satisfy the other requirements specified in 
+our Bylaws.  This summary of our proxy access rules is not intended to be complete and is subject to limitations set forth 
+in our Bylaws and Corporate Governance Policies, both of which are available on the Investor Relations section of our 
+website at www.nvidia.com.  Stockholders are advised to review these documents.  The NCGC did not receive any 
+stockholder nominations during Fiscal 2025.
+
+
+#### 18
+
+
+## Page 33
+
+
+#### Our Director Nominees
+
+The biographies below include information, as of the date of this proxy statement, regarding the particular experience, 
+qualifications, attributes or skills of each director, relative to the skills matrix above, that led the NCGC and Board to 
+believe that he or she should continue to serve on the Board.
+
+
+### ROBERT K. BURGESS
+
+
+#### Independent Consultant
+
+Age:  67
+Director Since:  2011
+Committees:  CC, NCGC*
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+Independent Director
+Financial Expert
+
+Robert K. Burgess has served as an independent investor and board member to technology 
+companies since 2005. He was Chief Executive Officer from 1996 to 2005 of Macromedia, Inc., a 
+provider of internet and multimedia software, which was acquired by Adobe Systems Incorporated; 
+he also served from 1996 to 2005 on its board of directors, as Chairman of its board of directors 
+from 1998 to 2005, and as Executive Chairman for his final year. Previously, he held key executive 
+positions from 1984 to 1991 at Silicon Graphics, Inc. (SGI), a graphics and computing company; from 
+1991 to 1995, served as Chief Executive Officer and a board member of Alias Research, Inc., a 
+publicly traded 3D software company, until its acquisition by SGI; and resumed executive positions 
+at SGI during 1996. Mr. Burgess was a director of Adobe from 2005 to 2019, and of Rogers 
+Communications, Inc., a communications and media company, from 2016 to 2019. He holds a BCom 
+degree from McMaster University.
+
+Mr. Burgess brings to the Board senior management and operating experience and expertise in the 
+areas of financial and risk management. He has been in the computer graphics industry since 1984. He 
+has a broad understanding of the roles and responsibilities of a corporate board and provides valuable 
+insight on a range of issues in the technology industry.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+
+#### Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+*Mr. Burgess will serve on the CC until the 2025 Meeting and start to serve on the NCGC after the 2025 Meeting.
+
+
+### TENCH COXE
+
+
+#### Former Managing Director, Sutter Hill Ventures
+
+Age:  67
+Director Since:  1993
+Committees:  CC, AC*
+
+
+#### Other Current Public Company
+
+Boards: Artisan Partners Asset 
+Management Inc. (since 1995)**
+
+
+#### Independent Director
+
+Tench Coxe was a Managing Director of Sutter Hill Ventures, a venture capital investment firm, from 
+1989 to 2020, where he focused on investments in the IT sector. Prior to joining Sutter Hill Ventures 
+in 1987, he was Director of Marketing and MIS at Digital Communication Associates. He serves on 
+the board of directors of Artisan Partners Asset Management Inc., an institutional money 
+management firm.**  He was a director of Mattersight Corp., a customer loyalty software firm, from 
+2000 to 2018. Mr. Coxe holds a BA degree in Economics from Dartmouth College and an MBA 
+degree from Harvard Business School.
+
+Mr. Coxe brings to the Board expertise in financial and transactional analysis and provides valuable 
+perspectives on corporate strategy and emerging technology trends.  His significant financial 
+community experience gives the Board an understanding of the methods by which companies can 
+increase value for their stockholders.
+
+
+#### Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+*Mr. Coxe will start to serve on the AC after the 2025 Meeting.  He will continue to serve on the CC after the 
+2025 Meeting.
+
+**Mr. Coxe will no longer serve on the Artisan board as of the 2025 Artisan Annual Meeting of Stockholders.
+
+
+#### 19
+
+
+## Page 34
+
+
+### JOHN O. DABIRI
+
+Centennial Professor of Aeronautics and 
+Mechanical Engineering, California Institute of Technology
+
+Age:  45
+Director Since:  2020
+Committees:  CC
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+
+#### Independent Director
+
+John O. Dabiri is the Centennial Professor of Aeronautics and Mechanical Engineering at the 
+California Institute of Technology.  He is a recipient of the National Medal of Science, a MacArthur 
+Foundation "Genius Grant," the National Science Foundation Alan T. Waterman Award, and the 
+Presidential Early Career Award for Scientists and Engineers.   He heads the Dabiri Lab, which 
+conducts research at the intersections of fluid mechanics, energy and environment, and biology. 
+From 2021 to January 2025, he served on President Biden's Council of Advisors on Science and 
+Technology (PCAST) and Energy Secretary Granholm's Energy Advisory Board (SEAB). From 2015 to 
+2019, he served as a Professor of Civil and Environmental Engineering and of Mechanical 
+Engineering at Stanford University, where he was recognized with the Eugene L. Grant Award for 
+Excellence in Teaching.  From 2005 to 2015, he was a Professor of Aeronautics and Bioengineering 
+at the California Institute of Technology, during which time he also served as Director of the Center 
+for Bioinspired Wind Energy, Chair of the Faculty, and Dean of Students.  Dr. Dabiri is a Fellow of the 
+American Physical Society, where he previously served as Chair of the Division of Fluid Dynamics. He 
+also serves on the board of trustees of the Gordon and Betty Moore Foundation and previously 
+served as a member of the National Academies’ Committee on Science, Technology, and Law.  Dr. 
+Dabiri holds a PhD degree in Bioengineering and an MS degree in Aeronautics from the California 
+Institute of Technology, and a BSE degree summa cum laude in Mechanical and Aerospace 
+Engineering from Princeton University.
+
+Dr. Dabiri brings to the Board a versatile research background and cutting-edge expertise in various 
+engineering fields, along with a proven record of successful innovation.
+
+
+#### Industry & Technical
+
+Emerging 
+Technologies & 
+Business Models
+
+
+### PERSIS S. DRELL
+
+Professor of Materials Science and Engineering and Physics, and Former Provost, Stanford
+
+University
+Age:  69
+Director Since:  2015
+Committees:  NCGC, CC*
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+
+#### Independent Director
+
+Persis S. Drell is a Professor of Materials Science and Engineering and Professor of Physics of 
+Stanford University.  Dr. Drell has been on the faculty at Stanford since 2002 and was the Dean of 
+the Stanford School of Engineering from 2014 to 2017 and the Provost of Stanford from 2017 to 
+2023. She also served as the Director of SLAC from 2007 to 2012.  Dr. Drell is a member of the 
+National Academy of Sciences and the American Academy of Arts and Sciences, and is a Fellow of 
+the American Physical Society and a Fellow of the American Association for the Advancement of 
+Science.  She has been the recipient of a Guggenheim Fellowship and a National Science Foundation 
+Presidential Young Investigator Award.  Dr. Drell holds a PhD degree from the University of 
+California, Berkeley and an AB degree in Mathematics and Physics from Wellesley College.
+
+An accomplished researcher and educator, Dr. Drell brings to the Board expert leadership in guiding 
+innovation in science and technology.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+Industry & Technical
+Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+*Dr. Drell will serve on the NCGC until the 2025 Meeting and start to serve on the CC after the 2025 Meeting.
+
+
+#### 20
+
+
+## Page 35
+
+
+### JEN-HSUN HUANG
+
+
+#### President and Chief Executive Officer, NVIDIA Corporation
+
+Age:  62
+Director Since:  1993
+Committees:  None
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+Jen-Hsun Huang founded NVIDIA in 1993 and has served since its inception as President, Chief 
+Executive Officer, and a member of the Board.
+
+Since its founding, NVIDIA has pioneered accelerated computing. The Company’s invention of the 
+GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, and 
+ignited the era of modern AI.  NVIDIA is now driving the platform shift of accelerated computing and 
+generative AI, transforming the world's largest industries and profoundly impacting society.
+
+Mr. Huang has been elected to the National Academy of Engineering and is a recipient of the 
+Semiconductor Industry Association’s highest honor, the Robert N. Noyce Award; the IEEE Founder’s 
+Medal; the Dr. Morris Chang Exemplary Leadership Award; and honorary doctorate degrees from 
+Taiwan’s National Chiao Tung University, National Taiwan University, and Oregon State University.  
+He has been named the world’s best CEO by Fortune, the Economist, and Brand Finance, as well as 
+one of TIME magazine’s 100 most influential people.
+
+Prior to founding NVIDIA, Mr. Huang worked at LSI Logic, a semiconductor and software company, 
+and Advanced Micro Devices, a global semiconductor company.  He holds a BSEE degree from 
+Oregon State University and an MSEE degree from Stanford University.
+
+Mr. Huang is one of the technology industry’s most respected executives, having taken NVIDIA from a 
+startup to a world leader in accelerated computing.  Under his guidance, NVIDIA has compiled a record 
+of consistent innovation and sharp execution, marked by products that have gained strong market 
+share.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+Industry & Technical
+Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+Marketing, 
+Communications & 
+Brand Management
+
+
+#### Regulatory, Legal &
+
+
+#### Risk Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+### DAWN HUDSON
+
+Former Chief Marketing Officer, National Football League & Former CEO Pepsi-Cola North
+
+America
+Age:  67
+Director Since:  2013
+Committees:  CC
+
+
+#### Other Current Public Company
+
+Boards: The Interpublic Group 
+of Companies, Inc. (since 2011)
+
+Independent Director
+Financial Expert
+
+Dawn Hudson serves on the boards of various companies.  From 2014 to 2018, Ms. Hudson served 
+as Chief Marketing Officer for the National Football League.  Previously, she served from 2009 to 
+2014 as Vice Chairman of The Parthenon Group, an advisory firm focused on strategy consulting.  
+She was President and Chief Executive Officer of Pepsi-Cola North America, the beverage division of 
+PepsiCo, Inc. for the U.S. and Canada, from 2005 to 2007 and President from 2002, and 
+simultaneously served as Chief Executive Officer of the foodservice division of PepsiCo, Inc. from 
+2005 to 2007.  Previously, she spent 13 years in marketing, advertising and branding strategy, 
+holding leadership positions at major agencies, such as D’Arcy Masius Benton  & Bowles and 
+Omnicom Group Inc.  Ms. Hudson currently serves on the board of directors of The Interpublic Group 
+of Companies, Inc., an advertising holding company, a private skincare company and a private 
+consumer diagnostic portfolio company.  She was a director of P.F. Chang’s China Bistro, Inc., a 
+restaurant chain, from 2010 to 2012; of Allergan, Inc., a biopharmaceutical company, from 2008 to 
+2014; of Lowes Companies, Inc., a home improvement retailer, from 2001 to 2015; of Amplify Snack 
+Brands, Inc., a snack food company, from 2014 to 2018; and of Modern Times Group MTG AB, a 
+gaming company, from 2020 to 2023.  She holds a BA degree in English from Dartmouth College.
+
+Ms. Hudson brings to the board experience in executive leadership. As a longtime marketing executive, 
+she has valuable expertise and insights in leveraging brands, brand development and consumer 
+behavior.  She also has considerable corporate governance  experience, gained from more than two 
+decades of serving on the boards of public companies.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+
+#### Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Marketing, 
+Communications & 
+Brand Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+#### 21
+
+
+## Page 36
+
+
+### HARVEY C. JONES
+
+
+#### Managing Partner, Square Wave Ventures
+
+Age:  72
+Director Since:  1993
+Committees:  AC, NCGC
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+Independent Director
+Financial Expert
+
+Harvey C. Jones has been the Managing Partner of Square Wave Ventures, a private investment 
+firm, since 2004.  Mr. Jones has been an entrepreneur, high technology executive, and active venture 
+investor for over 30 years.  In 1981, he co-founded Daisy Systems Corp., a computer-aided 
+engineering company, ultimately serving as its President and Chief Executive Officer until 1987.  
+Between 1987 and 1998, he led Synopsys, Inc., a major electronic design automation company, 
+serving as its Chief Executive Officer for seven years and then as Executive Chairman.  In 1997, Mr. 
+Jones co-founded Tensilica Inc., a privately held technology IP company that developed and licensed 
+high performance embedded processing cores.  He served as Chairman of the Tensilica board of 
+directors from inception through its 2013 acquisition by Cadence Design Systems, Inc.  He was a 
+director of Tintri Inc., a company that built data storage solutions for virtual and cloud environments, 
+from 2014 until 2018.  Mr. Jones holds a BS degree in Mathematics and Computer Sciences from 
+Georgetown University and an MS degree in Management from Massachusetts Institute of 
+Technology.
+
+Mr. Jones brings to the board an executive management background, an understanding of 
+semiconductor technologies and complex system design.  He provides valuable insight into innovation 
+strategies, research and development efforts, as well as management and development of our technical 
+employees.  His significant financial community experience gives the Board an understanding of the 
+methods by which companies can increase value for their stockholders.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+Industry & Technical
+Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+Marketing, 
+Communications & 
+Brand Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+### MELISSA B. LORA
+
+
+#### Former President, Taco Bell International
+
+Age:  62
+Director Since:  2023
+Committees: AC
+
+
+#### Other Current Public Company
+
+Boards: Conagra Brands, Inc.
+
+
+#### (since 2019)
+
+Independent Director
+Financial Expert
+
+Melissa B. Lora has served in several senior executive roles over her 31-year career at Taco Bell Corp., 
+a subsidiary of Yum! Brands, Inc., one of the world’s largest restaurant companies, including as 
+President of Taco Bell International at her retirement in 2018 and Global Chief Financial and 
+Development Officer and Chief Financial and Development Officer at Taco Bell Corp.  Ms. Lora 
+served on the board of directors of KB Home, a homebuilding company, from 2004 to April 2024, 
+and was a Lead Independent Director thereof from 2016. She was the chair of the audit committee 
+from 2008 to 2018 at KB Home.  She has served on the board of directors of Conagra Brands, Inc., a 
+consumer packaged goods holding company, since 2019 and is the chair of the audit & finance 
+committee and a member of the nominating and governance committee.  Ms. Lora previously served 
+on the board of directors of MGIC Investment Corporation from 2018 to 2022.  Ms. Lora holds a BS 
+degree in Finance from California State University-Long Beach and an MBA degree emphasizing 
+Corporate Finance from the University of Southern California.
+
+Ms. Lora brings to the Board senior management and operating experience as well as finance 
+experience gained in a large corporate setting.  Additionally, she has decades of public company board 
+of director experience in a variety of industries and board governance roles.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+
+#### Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+Marketing, 
+Communications & 
+Brand Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+#### 22
+
+
+## Page 37
+
+
+### STEPHEN C. NEAL
+
+
+#### Chairman Emeritus and Senior Counsel, Cooley LLP
+
+Age:  76
+Director Since:  2019
+Committees: NCGC
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+Independent Director
+Lead Director
+
+Stephen C. Neal serves as Chairman Emeritus and Senior Counsel of the law firm Cooley LLP, where 
+he was also Chief Executive Officer from 2001 until 2008.  In addition to his extensive experience as 
+a trial lawyer on a broad range of corporate issues, Mr. Neal has represented and advised numerous 
+boards of directors, special committees of boards, and individual directors on corporate governance 
+and other legal matters. Prior to joining Cooley in 1995, Mr. Neal was a partner of the law firm 
+Kirkland & Ellis LLP.  Mr. Neal served on the board of directors of Levi Strauss & Co. from 2007 to 
+2021 and as Chairperson from 2011 to 2021.  Mr. Neal also is Chairman of the Oversight Board 
+Trust, a perpetual Delaware special purpose trust.  Previously, Mr. Neal served as Chairman of the 
+boards of the William and Flora Hewlett Foundation and of the Monterey Bay Aquarium.  Mr. Neal 
+holds an AB degree from Harvard University and a JD degree from Stanford Law School.
+
+Mr. Neal brings to the Board deep knowledge and broad experience in corporate governance as well as 
+his perspectives drawn from advising many companies throughout his career.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Marketing, 
+Communications & 
+Brand Management
+
+
+#### Regulatory, Legal &
+
+
+#### Risk Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+### ELLEN OCHOA
+
+
+#### Former Director, NASA Johnson Space Center
+
+Age:  67
+Director Since:  2024
+Committees: NCGC
+
+
+#### Other Current Public Company
+
+
+#### Boards: Service Corporation
+
+
+#### International (since 2015)
+
+
+#### Independent Director
+
+Ellen Ochoa is the former Director of NASA’s Johnson Space Center and serves on the boards of 
+various corporate and nonprofit organizations. Dr. Ochoa served in several roles at the NASA 
+Johnson Space Center from 1990 to 2018, including Center Director, Deputy Center Director, and 
+astronaut. Previously, she was branch chief and research engineer at NASA Ames Research Center 
+from 1988 to 1990, and a researcher at Sandia National Laboratories from 1985 to 1988. Dr. Ochoa 
+has served on the boards of directors of Service Corporation International, a publicly traded funeral 
+homes and services company, since 2015, and of Mutual of America Financial Group, a retirement 
+plan and financial services company, since 2017. She has served on the boards of trustees of the 
+Gordon and Betty Moore Foundation, a scientific discovery and environmental conservation 
+foundation, since 2018, and of SRI International, a nonprofit scientific research institution, since 
+2023. She previously served as Chair of the National Science Board, on the boards of directors of the 
+Federal Reserve Bank of Dallas and Manned Space Flight Education Foundation, and the board of 
+trustees of Stanford University. Dr. Ochoa holds a BS degree in Physics from San Diego State 
+University and MS and PhD degrees in Electrical Engineering from Stanford University.
+
+Dr. Ochoa brings to the board a unique blend of technical expertise in aerospace innovation, advanced 
+technology development, STEM advocacy and leadership, supporting the company's innovation and 
+strategic growth.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+Industry & Technical
+Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+
+#### Regulatory, Legal &
+
+
+#### Risk Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+#### 23
+
+
+## Page 38
+
+
+### A. BROOKE SEAWELL
+
+
+#### Venture Partner, New Enterprise Associates
+
+Age:  77
+Director Since:  1997
+Committees: AC
+
+
+#### Other Current Public Company
+
+Boards: Tenable Holdings, Inc.
+
+
+#### (since 2017)
+
+Independent Director
+Financial Expert
+
+A. Brooke Seawell has served since 2005 as a Venture Partner at New Enterprise Associates, and was 
+a Partner from 2000 to 2005 at Technology Crossover Ventures.  He was Executive Vice President 
+from 1997 to 1998 at NetDynamics, Inc., an application server software company, which was 
+acquired by Sun Microsystems, Inc.  He was Senior Vice President and Chief Financial Officer from 
+1991 to 1997 of Synopsys, Inc., an electronic design automation software company.  He serves on 
+the board of directors of Tenable Holdings, Inc., a cybersecurity company, and one privately held 
+company.  Mr. Seawell served on the board of directors and as audit chair of Glu Mobile, Inc., a 
+publisher of mobile games, from 2006 to 2014, of Informatica Corp., a data integration software 
+company, from 1997 to 2015, of Tableau Software, Inc., a business intelligence software company, 
+from 2011 to 2019, and of Eargo, Inc., a medical device company, from 2020 to 2022. In 2024, the 
+National Association of Corporate Directors named Mr. Seawell as one of the Top 100 directors in 
+the nation. He also previously served as a member of the Stanford University Athletic Board and on 
+the Management Board of the Stanford Graduate School of Business.  Mr. Seawell holds a BA degree 
+in Economics and an MBA degree in Finance from Stanford University.
+
+Mr. Seawell brings to the Board operational expertise and senior management experience, including 
+knowledge of the complex issues facing public companies, and a deep understanding of accounting 
+principles and financial reporting.  His significant financial community experience gives the Board an 
+understanding of the methods by which companies can increase value for their stockholders.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+
+#### Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+
+#### Regulatory, Legal &
+
+
+#### Risk Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+### AARTI SHAH
+
+Former Senior Vice President & Chief Information and Digital Officer, Eli Lilly and Company
+
+Age:  60
+Director Since:  2020
+Committees: AC, CC
+
+
+#### Other Current Public Company
+
+
+#### Boards: Sandoz International
+
+
+#### GmbH
+
+
+#### Independent Director
+
+Aarti Shah serves on the boards of various companies and non-profit organizations.  Dr. Shah 
+worked at Eli Lilly and Company for 27.5 years until 2021 and served in several functional and 
+business leadership roles, most recently as Senior Vice President and Chief Information and Digital 
+Officer, as well as Senior Statistician, Research Scientist, Vice President for Biometrics, and Global 
+Brand Development Leader in Lilly’s Bio-Medicines business unit.  Dr. Shah has served on the board 
+and as a member of the science, innovation & development committee and human capital and ESG 
+committee of Sandoz International GmbH, a pharmaceutical company, since 2023.   Dr. Shah has 
+served on the board of trustees and as a member of the audit committee and distribution and 
+technology committee of Northwestern Mutual since 2020, a financial services organization. Dr. 
+Shah serves on the board, strategic planning committee, and global and technology committee of 
+St. Jude Children's Research Hospital and American Lebanese Syrian Associated Charities (ALSAC), a 
+non-profit organization. She also serves as a trustee of the non-profit organization, Shrimad 
+Rajchandra Mission Dharampur USA.  She served on the Indianapolis Public Library Foundation board 
+for the full term of 9 years and on the Center for Interfaith Cooperation for the full term of 4 years.  
+Dr. Shah received her BS and MS degrees in Statistics and Mathematics in India before completing 
+her PhD degree in Applied Statistics from the University of California, Riverside.
+
+Dr. Shah brings to the Board executive leadership and senior operating experience.  Additionally she 
+brings expertise in drug development and technical expertise in the areas of information technology, 
+cybersecurity, advanced analytics, data sciences, and digital health.
+
+
+#### Senior Leadership &
+
+Operations 
+Experience
+
+Industry & Technical
+Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+Marketing, 
+Communications & 
+Brand Management
+
+
+#### Regulatory, Legal &
+
+
+#### Risk Management
+
+
+#### Human Capital
+
+
+#### Management
+
+
+#### Experience
+
+
+#### 24
+
+
+## Page 39
+
+
+### MARK A. STEVENS
+
+
+#### Managing Partner, S-Cubed Capital
+
+Age:  65
+Director Since:  2008
+(previously served 1993-2006)
+
+
+#### Committees: AC, NCGC, CC*
+
+
+#### Other Current Public Company
+
+
+#### Boards: None
+
+
+#### Independent Director
+
+Mark A. Stevens has been the Managing Partner of S-Cubed Capital, a private family office 
+investment firm, since 2012.  He was a Managing Partner from 1993 to 2011 of Sequoia Capital, a 
+venture capital investment firm, where he had been an associate for the preceding four years.  
+Previously, he held technical sales and marketing positions at Intel Corporation, and was a member 
+of the technical staff at Hughes Aircraft Co.  Mr. Stevens is a trustee and the chair of investment 
+committee of the University of Southern California.  He was a director of Quantenna 
+Communications, Inc., a provider of Wi-Fi solutions, from 2016 until 2019.  Mr. Stevens holds a BSEE 
+degree, a BA degree in Economics and an MS degree in Computer Engineering from the University of 
+Southern California, and an MBA degree from Harvard Business School.
+
+Mr. Stevens brings to the Board a deep understanding of the technology industry, and the drivers of 
+structural change and high-growth opportunities.  He provides valuable insight regarding corporate 
+strategy development and the analysis of acquisitions and divestitures.  His significant financial 
+community experience gives the Board an understanding of the methods by which companies can 
+increase value for their stockholders.
+
+Industry & Technical
+Financial/Financial
+
+
+#### Community
+
+
+#### Governance & Public
+
+
+#### Company Board
+
+Emerging 
+Technologies & 
+Business Models
+
+*Mr. Stevens will serve on the AC until the 2025 Meeting.  He will serve on the CC and continue to serve on the 
+NCGC after the 2025 Meeting.
+
+
+#### 25
+
+
+## Page 40
+
+### Table 40.1
+
+| Our Lead Director |
+| --- |
+| Stephen C. Neal Director since 2019 Chairperson of the NCGC |
+| Experience |
+| ü Extensive experience as a trial attorney ü Has advised numerous companies, boards and individuals on governance and legal matters ü Helped clients manage internal and government investigations ü Executive experience as Cooley LLP’s CEO, and board and chairman experience on the Levi Strauss & Co. board of directors |
+
+
+
+#### Information About the Board of Directors and Corporate Governance
+
+
+#### Independence of the Members of the Board of Directors
+
+Nasdaq rules and our Corporate Governance Policies (as further described below) require that a majority of our directors 
+not have a relationship that would interfere with their exercise of independent judgment in carrying out their 
+responsibilities and that they meet any other qualification requirements required by the SEC and Nasdaq.
+
+After considering all relevant relationships and transactions, our Board determined that, except for Mr. Huang, all of our 
+directors are “independent” as defined by Nasdaq’s rules and regulations.  The Board also determined that all members of 
+our AC, CC, and NCGC are independent under applicable Nasdaq listing standards, and that each of Mr. Seawell, Mr. Jones 
+and Ms. Lora of the AC are “audit committee financial experts” as defined under applicable SEC rules.
+
+
+#### Board Leadership Structure
+
+Our Board ensures that each member has an equal voice in the affairs and the management of NVIDIA by having an 
+independent Lead Director, rather than a chairperson, which the Board believes best serves our stockholders.  The 
+independent directors consider the role and designation of the person to serve as Lead Director on an annual basis.  The 
+Board recognizes that different board leadership structures may be appropriate under different circumstances and its 
+annual review includes consideration of whether having a Lead Director continues to best meet NVIDIA’s evolving needs 
+and serves in the best interest of its stockholders.
+
+
+#### Our Board believes its current leadership structure is appropriate because:
+
+•
+The active involvement of each of our independent directors, combined with the qualifications and significant 
+responsibilities of, and strong oversight by, our Lead Director, provide balance on the Board;  
+•
+It promotes independent oversight of our management and affairs;  
+•
+It effectively allocates authority, responsibility, and oversight between management and our independent 
+directors; and 
+•
+It provides the right foundation to pursue the Company’s strategic and operational objectives, particularly in light 
+of the evolution of our business and operating environment.
+
+Our CEO has primary responsibility for the operational leadership and strategic direction of the Company, and the Lead 
+Director facilitates our Board’s independent oversight of management, promotes communication between management 
+and our Board, and supports our Board’s consideration of key governance matters. This arrangement promotes open 
+dialogue among the Board, including discussions of the independent directors during quarterly executive sessions led by 
+our Lead Director, without the presence of our CEO.  We believe that our current structure best serves our stockholders, 
+without the need to appoint a person to serve as chairperson of the Board.
+
+Under our Corporate Governance Policies, the Board may select a chairperson in its discretion, but, if it does not, a Lead 
+Director shall be designated annually by a majority of the independent directors and identified in the Company’s proxy 
+statement.  These policies help to ensure a robust independent leadership structure on our Board.
+
+While the Board has discretion to consider other leadership structures, including having the Lead Director (or chairperson, 
+if any) and CEO roles filled by a single individual, it would only consider a change if it best aligned with the interests of our 
+stockholders, management, and the Board, and it complied with applicable laws and regulations.  If in the future our CEO 
+were to take a leadership position on the Board, such as chairperson, we expect that the Board would continue to appoint 
+an independent Lead Director to maintain a balanced and strong leadership structure and otherwise represent the Board 
+independently from the Company’s management team.  Any changes to the Board’s leadership structure would take into 
+account stockholder views, including through our ongoing stockholder outreach, and would be communicated to 
+stockholders on our Investor Relations website and in our proxy statement. Our Lead Director may provide input on the 
+design of the Board as requested by the NCGC.  In his role as NCGC Chairperson, our Lead Director will continue to lead 
+discussions, provide input, and oversee the design of the Board itself.
+
+
+#### Our Lead Director
+
+
+#### Stephen C. Neal
+
+Director since 2019
+Chairperson of the NCGC
+
+
+#### Experience
+
+
+#### ü Extensive experience as a trial attorney
+
+
+#### ü Has advised numerous companies, boards and individuals on
+
+
+#### governance and legal matters
+
+
+#### ü Helped clients manage internal and government investigations
+
+
+#### ü Executive experience as Cooley LLP’s CEO, and board and
+
+
+#### chairman experience on the Levi Strauss & Co. board of directors
+
+
+#### 26
+
+
+## Page 42
+
+### Table 42.1
+
+| AC Current Members Members as of our 2025 Meeting • A. Brooke Seawell (Chairperson) • A. Brooke Seawell (Chairperson) • Harvey C. Jones • Tench Coxe • Melissa B. Lora • Harvey C. Jones • Aarti Shah • Melissa B. Lora • Mark A. Stevens • Aarti Shah |  |  |  |
+| --- | --- | --- | --- |
+|  | Current Members | Members as of our 2025 Meeting |  |
+|  | • A. Brooke Seawell (Chairperson) • Harvey C. Jones • Melissa B. Lora • Aarti Shah • Mark A. Stevens | • A. Brooke Seawell (Chairperson) • Tench Coxe • Harvey C. Jones • Melissa B. Lora • Aarti Shah |  |
+|  | In Fiscal 2025, the AC met four times. Selected highlights from its agenda topics included: capitalization review and strategy, tax, treasury, internal audit, information security, enterprise risk management, and insurance reviews. |  |  |
+|  | Committee Role and Responsibilities |  |  |
+|  | • Oversees our corporate accounting and financial reporting process; • Oversees our internal audit function; • Determines and approves the engagement, compensation, retention, and termination of the independent registered public accounting firm; • Evaluates the performance and qualifications of our independent registered public accounting firm; • Reviews and approves the retention of the independent registered public accounting firm for permissible audit and non-audit services; • Confers with management and our independent registered public accounting firm on the results of the annual audit, our quarterly financial statements and results, and the effectiveness of internal control over financial reporting, including those regarding information security; • Reviews the financial statements to be included in our quarterly reports on Form 10-Q and annual reports on Form 10-K; • Reviews earnings press releases and the substance of financial information and outlook provided to investors and analysts on earnings calls; • Adopts and maintains policies regarding preapproval of employment of individuals employed or formerly employed by auditors and engaged on our account; • Prepares their report as required to be included by SEC rules in our annual proxy statement or annual report on Form 10-K; • Establishes procedures for the receipt, retention, and treatment of complaints we receive regarding accounting, internal accounting controls or auditing matters and the confidential and anonymous submission by employees of concerns regarding accounting or auditing matters; • Oversees risks related to financial reporting and exposures, internal audit functions, regulatory, and accounting policies; and • Reviews and reports on the adequacy and effectiveness of the Company’s information security policies and practices and the internal controls regarding information security risks |  |  |
+
+
+
+#### Committees of the Board of Directors
+
+The Board has three committees: an AC, a CC, and a NCGC.  Each of these committees operates under a written charter, 
+which may be viewed under Governance in the Investor Relations section of our website at www.nvidia.com.
+
+Committee assignments are determined based on background and the expertise which individual directors can bring to a 
+committee.  Our Board believes regular committee rotations are a good corporate governance practice which introduces 
+diverse perspectives and ideas, more fully informs its members regarding the full scope of the Board and our activities, 
+and benefits each committee and the Board as a whole.  The composition and functions of our committees are set forth 
+below.
+
+
+### AC
+
+Current Members
+Members as of our 2025 Meeting
+•
+A. Brooke Seawell (Chairperson)
+•
+Harvey C. Jones
+•
+Melissa B. Lora
+•
+Aarti Shah
+•
+Mark A. Stevens
+
+•
+A. Brooke Seawell (Chairperson)
+•
+Tench Coxe
+•
+Harvey C. Jones
+•
+Melissa B. Lora
+•
+Aarti Shah
+
+In Fiscal 2025, the AC met four times.  Selected highlights from its agenda topics included: capitalization review and 
+strategy, tax, treasury, internal audit, information security, enterprise risk management, and insurance reviews.
+
+
+#### Committee Role and Responsibilities
+
+•
+Oversees our corporate accounting and financial reporting process;
+•
+Oversees our internal audit function;
+•
+Determines and approves the engagement, compensation, retention, and termination of the independent 
+registered public accounting firm;
+•
+Evaluates the performance and qualifications of our independent registered public accounting firm;
+•
+Reviews and approves the retention of the independent registered public accounting firm for permissible 
+audit and non-audit services;
+•
+Confers with management and our independent registered public accounting firm on the results of the 
+annual audit, our quarterly financial statements and results, and the effectiveness of internal control over 
+financial reporting, including those regarding information security;
+•
+Reviews the financial statements to be included in our quarterly reports on Form 10-Q and annual reports 
+on Form 10-K;
+•
+Reviews earnings press releases and the substance of financial information and outlook provided to 
+investors and analysts on earnings calls;
+•
+Adopts and maintains policies regarding preapproval of employment of individuals employed or formerly 
+employed by auditors and engaged on our account;
+•
+Prepares their report as required to be included by SEC rules in our annual proxy statement or annual 
+report on Form 10-K; 
+•
+Establishes procedures for the receipt, retention, and treatment of complaints we receive regarding 
+accounting, internal accounting controls or auditing matters and the confidential and anonymous 
+submission by employees of concerns regarding accounting or auditing matters; 
+•
+Oversees risks related to financial reporting and exposures, internal audit functions, regulatory, and 
+accounting policies; and
+•
+Reviews and reports on the adequacy and effectiveness of the Company’s information security policies and 
+practices and the internal controls regarding information security risks
+
+
+#### 28
+
+
+## Page 43
+
+### Table 43.1
+
+| CC Current Members Members as of our 2025 Meeting • Dawn Hudson (Chairperson) • Dawn Hudson (Chairperson) • Robert K. Burgess • Tench Coxe • Tench Coxe • John O. Dabiri • John O. Dabiri • Persis S. Drell • Aarti Shah • Aarti Shah • Mark A. Stevens |  |  |  |
+| --- | --- | --- | --- |
+|  | Current Members | Members as of our 2025 Meeting |  |
+|  | • Dawn Hudson (Chairperson) • Robert K. Burgess • Tench Coxe • John O. Dabiri • Aarti Shah | • Dawn Hudson (Chairperson) • Tench Coxe • John O. Dabiri • Persis S. Drell • Aarti Shah • Mark A. Stevens |  |
+|  | In Fiscal 2025, the CC met four times. Selected highlights from its agenda topics included: executive, employee, and director compensation, review of benefits, wellness and retirement programs, executive protection, human capital management, and workforce metrics. |  |  |
+|  | Committee Role and Responsibilities |  |  |
+|  | • Reviews and approves our overall compensation strategy and policies; • Reviews and recommends to the Board the compensation of our Board members; • Reviews and approves the compensation of Mr. Huang and other executive officers; • Reviews and approves corporate performance goals and objectives related to the compensation of our executive officers and other senior management; • Reviews and approves our CD&A disclosure for inclusion in the proxy statement and annual report on Form 10-K; • Administers our stock purchase plans, variable compensation plans, and other similar programs; • Oversees our human capital management; • Assesses and monitors whether our compensation policies and programs could create material risks; and • Oversees risks related to compensation plans, programs and policies |  |  |
+
+
+### Table 43.2
+
+| NCGC Current Members Members as of our 2025 Meeting • Stephen C. Neal (Chairperson) • Stephen C. Neal (Chairperson) • Persis S. Drell • Robert K. Burgess • Harvey C. Jones • Harvey C. Jones • Ellen Ochoa • Ellen Ochoa • Mark A. Stevens • Mark A. Stevens |  |  |  |
+| --- | --- | --- | --- |
+|  | Current Members | Members as of our 2025 Meeting |  |
+|  | • Stephen C. Neal (Chairperson) • Persis S. Drell • Harvey C. Jones • Ellen Ochoa • Mark A. Stevens | • Stephen C. Neal (Chairperson) • Robert K. Burgess • Harvey C. Jones • Ellen Ochoa • Mark A. Stevens |  |
+|  | In Fiscal 2025, the NCGC met three times. Selected highlights from its agenda topics included: Board recruiting, trade compliance and regulatory matters, stockholder proposals, corporate governance matters, and addressing stockholder concerns. |  |  |
+|  | Committee Role and Responsibilities |  |  |
+|  | • Identifies, reviews, and evaluates candidates to serve as directors; • Recommends candidates for election to our Board; • Makes recommendations to the Board regarding committee membership and chairpersons; • Assesses the performance of the Board and its committees; • Reviews and assesses our corporate governance principles and practices; • Monitors changes in corporate governance practices, rules, and regulations; • Approves related party transactions; • Reviews and assesses our CS strategy, risks, and opportunities periodically, including related programs and initiatives; • Oversees and reviews policies and practices on trade compliance, regulatory matters, and related risks; • Establishes procedures for receiving, retaining, and addressing complaints we receive regarding violations of our Code of Conduct; • Monitors the effectiveness of our anonymous tip process; and • Oversees the Company’s policies, practices, and investigation procedures in connection with the Company’s compliance program |  |  |
+
+
+CC
+Current Members
+Members as of our 2025 Meeting
+•
+Dawn Hudson (Chairperson)
+•
+Robert K. Burgess 
+•
+Tench Coxe
+•
+John O. Dabiri
+•
+Aarti Shah
+
+•
+Dawn Hudson (Chairperson)
+•
+Tench Coxe
+•
+John O. Dabiri
+•
+Persis S. Drell
+•
+Aarti Shah
+•
+Mark A. Stevens
+
+In Fiscal 2025, the CC met four times.  Selected highlights from its agenda topics included: executive, employee, and 
+director compensation, review of benefits, wellness and retirement programs, executive protection, human capital 
+management, and workforce metrics.
+
+
+#### Committee Role and Responsibilities
+
+•
+Reviews and approves our overall compensation strategy and policies;
+•
+Reviews and recommends to the Board the compensation of our Board members;
+•
+Reviews and approves the compensation of Mr. Huang and other executive officers;
+•
+Reviews and approves corporate performance goals and objectives related to the compensation of our 
+executive officers and other senior management;
+•
+Reviews and approves our CD&A disclosure for inclusion in the proxy statement and annual report on 
+Form 10-K;
+•
+Administers our stock purchase plans, variable compensation plans, and other similar programs; 
+•
+Oversees our human capital management;
+•
+Assesses and monitors whether our compensation policies and programs could create material risks; and
+•
+Oversees risks related to compensation plans, programs and policies
+
+
+### NCGC
+
+Current Members
+Members as of our 2025 Meeting
+•
+Stephen C. Neal (Chairperson)
+•
+Persis S. Drell 
+•
+Harvey C. Jones
+•
+Ellen Ochoa
+•
+Mark A. Stevens
+
+•
+Stephen C. Neal (Chairperson)
+•
+Robert K. Burgess
+•
+Harvey C. Jones
+•
+Ellen Ochoa
+•
+Mark A. Stevens
+
+In Fiscal 2025, the NCGC met three times.  Selected highlights from its agenda topics included: Board recruiting, 
+trade compliance and regulatory matters, stockholder proposals, corporate governance matters, and addressing 
+stockholder concerns.
+
+
+#### Committee Role and Responsibilities
+
+•
+Identifies, reviews, and evaluates candidates to serve as directors;
+•
+Recommends candidates for election to our Board;
+•
+Makes recommendations to the Board regarding committee membership and chairpersons;
+•
+Assesses the performance of the Board and its committees;
+•
+Reviews and assesses our corporate governance principles and practices;
+•
+Monitors changes in corporate governance practices, rules, and regulations;
+•
+Approves related party transactions;
+•
+Reviews and assesses our CS strategy, risks, and opportunities periodically, including related programs and 
+initiatives; 
+•
+Oversees and reviews policies and practices on trade compliance, regulatory matters, and related risks;
+•
+Establishes procedures for receiving, retaining, and addressing complaints we receive regarding violations of 
+our Code of Conduct; 
+•
+Monitors the effectiveness of our anonymous tip process; and
+•
+Oversees the Company’s policies, practices, and investigation procedures in connection with the Company’s 
+compliance program
+
+
+#### Compensation Committee Interlocks and Insider Participation
+
+At the beginning of Fiscal 2025, the CC initially consisted of Messrs. Burgess, Coxe, Dabiri, and Jones and Ms. Hudson.  
+After the 2024 Meeting, the members of the CC consisted of Messrs. Burgess, Coxe, and Dabiri, Ms. Hudson and Dr. 
+Shah.  No member of the CC is an officer or employee of NVIDIA, and none of our executive officers serve as a member of 
+the board or compensation committee of any entity that has one or more executive officers serving as a member of our
+
+
+#### 29
+
+
+## Page 44
+
+### Table 44.1
+
+| RISK OVERSIGHT AT NVIDIA |
+| --- |
+| Board of Directors |
+| Oversees management of major risks, including: ü Business Model, including AI ü Strategic Execution ü Product Quality and Safety ü Operational, including Supply Chain ü Regulatory, Public Policy, Legal, ü Financial and Macroeconomic and Sourcing Intellectual Property, and Compliance ü Information Security, including ü Brand and Reputation ü Business Continuity Cybersecurity ü Corporate Development and ü Management Development ü Enterprise Resource Planning Acquisitions AC CC NCGC ü Financial statement and earnings ü Compensation policies, plans, ü Governance structure, processes materials integrity and reporting practices and programs for and policies, including regulatory directors, executives, and changes and other developments employees ü Financial risk exposures, including ü Human capital management, ü Stockholder concerns and investments, cash management, including recruiting, retention, communications foreign exchange management and development, and other insurance coverage workforce matters ü Disclosure controls and procedures ü Compliance program and effectiveness of our anonymous tip process ü Information security and ü Corporate sustainability, including cybersecurity policies and practices environmental, social, and corporate and the internal controls regarding governance matters information security risks ü Internal audit performance, ü Trade compliance and non-financial including auditor functions, regulatory matters performance, and independence ü Accounting and audit principles and ü Board and committee composition policies, and regulatory and and board evaluation accounting initiatives ü Legal and regulatory compliance, ü Related party transactions particularly as related to the above matter ü Policies and practices related to government relations, public policy, and related expenditures |
+| Management |
+| Management identifies, evaluates, and mitigates business risks and reports to the Board on them |
+| Internal Audit |
+| Provides independent assurance on design and effectiveness of internal controls and governance processes |
+
+
+Board or CC.  Other than Dr. Shah, no member of the CC had a relationship requiring disclosure in Review of Transactions 
+with Related Persons above.
+
+
+#### Role of the Board in Risk Oversight
+
+The Board oversees risk management at NVIDIA and delegates oversight of appropriate topics to its committees.  The 
+oversight responsibility of our Board and its committees is enabled by management reporting processes, including our 
+ERM process, that are designed to provide visibility to our Board about the identification, assessment, and management 
+of critical risks and management’s risk mitigation strategies.
+
+
+### RISK OVERSIGHT AT NVIDIA
+
+
+#### Board of Directors
+
+
+#### Oversees management of major risks, including:
+
+ü Business Model, including AI
+ü Strategic Execution
+ü Product Quality and Safety
+ü Operational, including Supply Chain
+
+
+#### and Sourcing
+
+
+#### ü Regulatory, Public Policy, Legal,
+
+Intellectual Property, and 
+Compliance
+
+
+#### ü Financial and Macroeconomic
+
+
+#### ü Information Security, including
+
+
+#### Cybersecurity
+
+ü Brand and Reputation
+ü Business Continuity
+
+
+#### ü Corporate Development and
+
+
+#### Acquisitions
+
+ü Management Development
+ü Enterprise Resource Planning
+
+AC
+CC
+NCGC
+
+
+#### ü Financial statement and earnings
+
+
+#### materials integrity and reporting
+
+
+#### ü Compensation policies, plans,
+
+practices and programs for 
+directors, executives, and 
+employees
+
+
+#### ü Governance structure, processes
+
+and policies, including regulatory 
+changes and other developments
+
+
+#### ü Financial risk exposures, including
+
+investments, cash management, 
+foreign exchange management and 
+insurance coverage
+
+
+#### ü Human capital management,
+
+including recruiting, retention, 
+development, and other 
+workforce matters
+
+
+#### ü Stockholder concerns and
+
+
+#### communications
+
+ü Disclosure controls and procedures
+ü Compliance program and
+
+effectiveness of our anonymous tip 
+process
+
+
+#### ü Information security and
+
+cybersecurity policies and practices 
+and the internal controls regarding 
+information security risks
+
+
+#### ü Corporate sustainability, including
+
+environmental, social, and corporate 
+governance matters
+
+
+#### ü Internal audit performance,
+
+including auditor functions, 
+performance, and independence
+
+
+#### ü Trade compliance and non-financial
+
+
+#### regulatory matters
+
+
+#### ü Accounting and audit principles and
+
+policies, and regulatory and 
+accounting initiatives
+
+
+#### ü Board and committee composition
+
+
+#### and board evaluation
+
+
+#### ü Legal and regulatory compliance,
+
+particularly as related to the above 
+matter
+
+
+#### ü Related party transactions
+
+
+#### ü Policies and practices related to
+
+government relations, public policy, 
+and related expenditures
+
+
+#### Management
+
+Management identifies, evaluates, and mitigates business risks and reports to the Board on them
+
+
+#### Internal Audit
+
+Provides independent assurance on design and effectiveness of internal controls and governance processes
+
+NVIDIA’s Board reviews risk and risk management practices, including strategic and information security matters, to 
+support the Company’s long-term objectives and to ensure thorough assessment of these matters.
+
+Our Board retains direct oversight of strategic risks to NVIDIA and other risk areas not delegated to its committees. 
+Board committees enhance risk oversight by allocating authority and responsibility to the committee best suited to 
+oversee specific risks, as outlined in their charters, with escalation to the full Board when necessary. Committee 
+chairpersons regularly report to the full Board on reviewed matters, including key risks, and collaborate with the Board to
+
+
+#### 30
+
+
+## Page 45
+
+### Table 45.1
+
+| ERM Process |
+| --- |
+| ü Annual assessment of the Company’s risk environment led by management ü Identifies and evaluates risks across different timeframes, including short-, intermediate- and long- term ü Identifies, assesses, and manages the Company’s most significant risks and uncertainties that could materially impact the long-term health of the Company or prevent the achievement of strategic objectives ü Regular updates reported to senior management, including CEO ü Overseen and reviewed by the Board and AC, at least annually ü Board and committees have direct access to management to receive updates on risk exposures and mitigation strategies, and give feedback on key and emerging risks, including cybersecurity, trade compliance, risk management and the ERM process ü Board and committee agendas adjusted throughout the year by CEO and Lead Director to address emerging risks and key topics ü Includes interviews with senior management and Board members to identify major risks ü The Board, its committees, and senior management may engage outside advisors, experts, and consultants to help develop and analyze the Company’s risk management and mitigation efforts, and anticipate future threats and trends |
+
+
+ensure effective risk management oversight. The Board believes its leadership structure facilitates robust risk oversight, 
+with the independent Lead Director and independent committees proactively providing oversight and engagement with 
+management on our key risks. For further details, see Board Leadership Structure above.
+
+Given the importance of topics like information security, including cybersecurity, the Board retains full oversight of these 
+matters. The AC reviews the adequacy and effectiveness of the Company’s information security policies, practices, and 
+internal controls. The AC receives regular updates on information security from management, including the Chief Security 
+Officer and security team, while the Board receives annual reports on these matters. The AC also meets in executive 
+session with leaders of key control functions, ensuring direct access to management teams and appropriate staffing and 
+resources.
+
+
+#### ERM Process
+
+ü
+Annual assessment of the Company’s risk environment led by management
+ü
+Identifies and evaluates risks across different timeframes, including short-, intermediate- and long- term
+ü
+Identifies, assesses, and manages the Company’s most significant risks and uncertainties that could materially 
+impact the long-term health of the Company or prevent the achievement of strategic objectives
+ü
+Regular updates reported to senior management, including CEO
+ü
+Overseen and reviewed by the Board and AC, at least annually
+ü
+Board and committees have direct access to management to receive updates on risk exposures and mitigation 
+strategies, and give feedback on key and emerging risks, including cybersecurity, trade compliance, risk 
+management and the ERM process
+ü
+Board and committee agendas adjusted throughout the year by CEO and Lead Director to address emerging risks 
+and key topics
+ü
+Includes interviews with senior management and Board members to identify major risks
+ü
+The Board, its committees, and senior management may engage outside advisors, experts, and consultants to help 
+develop and analyze the Company’s risk management and mitigation efforts, and anticipate future threats and 
+trends
+
+The Company’s ERM process is an annual assessment of its risk environment, integrating risk evaluation with the 
+Company’s operations and strategies. This process examines internal and external factors, risk amplifiers, and emerging 
+trends to prioritize mitigation efforts based on the risk horizon. It evaluates the potential impact and likelihood of risks 
+materializing over relevant timeframes, considers future threats and trends, and identifies the actions, strategies, 
+processes, controls, and procedures in place or to be implemented to manage and mitigate these risks.
+
+While the Company does not have a Chief Compliance Officer, the ERM process and action plan are reviewed by the CEO, 
+other NEOs reporting directly to the CEO, and senior management members. These leaders are responsible for managing 
+and monitoring key risks within their respective functional areas. The Company’s internal audit team administers the ERM 
+program on behalf of management.
+
+The ERM process is designed to align the Board’s risk oversight with the Company’s disclosure controls and procedures. 
+Public reports are prepared by management involved in the ERM process and reviewed by the Board or its committees to 
+ensure that disclosure controls and procedures function effectively. These processes are structured to identify potential 
+risks for disclosure appropriately.
+
+
+#### Corporate Governance
+
+
+#### Corporate Governance Policies
+
+The Board has adopted Corporate Governance Policies to ensure that the Board has the necessary authority and 
+processes in place to review and evaluate our business operations as needed and to make decisions that are independent 
+of our management.  These policies include practices the Board follows with respect to its composition and selection, 
+regular evaluations of the Board and its committees, Board meetings and involvement of senior management, senior 
+management performance evaluation, and Board committees and compensation.  These policies may be viewed under 
+Governance in the Investor Relations section of our website at www.nvidia.com.
+
+
+#### Executive Sessions of the Board
+
+As required under Nasdaq’s listing standards, our independent directors meet regularly in scheduled executive sessions at 
+which only independent directors are present, as well as in sessions with the CEO. In Fiscal 2025, our independent 
+directors met in both types of executive sessions at four of our scheduled quarterly Board meetings.
+
+
+#### Director Attendance at Annual Meeting
+
+We expect that our directors will attend each annual meeting, absent a valid reason.  All Board members attended the 
+2024 Meeting, except Dr. Ochoa who was appointed after the 2024 Meeting.
+
+
+#### 31
+
+
+## Page 46
+
+
+#### Board Self-Assessments
+
+The NCGC oversees an evaluation process, conducted at least annually, whereby outside legal counsel for NVIDIA 
+interviews each director to obtain his or her evaluation of the Board as a whole, and of the committees on which he or she 
+serves.  The interviews solicit ideas from the directors about, among other things, improving the quality of Board and/or 
+committee oversight, effectiveness regarding strategic direction, financial and audit matters, executive compensation, 
+acquisition activity, and other key matters.  The interviews also focus on Board process and identifying specific issues 
+which should be discussed in the future.  After these evaluations are complete, our outside corporate counsel summarizes 
+the results, reviews them with our Lead Director, and then submits the summary for discussion by the NCGC.
+
+In response to the evaluations conducted in Fiscal 2025, our Board determined to focus on geopolitical and regulatory 
+risks, supply chain, AI regulations, growth management, the Company’s strategic ecosystem, and management 
+development.  The Board also determined to continue to focus on the Board’s composition and process for Board 
+refreshment.
+
+
+#### Director Orientation and Continuing Education
+
+The NCGC and our General Counsel are responsible for new director orientation and for administering or approving 
+eligible director continuing education programs.  Continuing education programs for directors may include a combination 
+of internally developed materials and presentations, programs presented by third parties, and financial and administrative 
+support for attendance at qualifying academic or other independent programs.
+
+
+#### Director Time Commitment and Outside Board Memberships
+
+Our directors are expected to devote sufficient time to Board and committee duties and to understanding the Company’s 
+business. The NCGC reviews the other commitments of potential Board candidates, and does so annually for existing 
+Board members, to determine if this expectation can be met. In making this determination, the NCGC considers, among 
+other factors, stakeholder guidelines regarding numerical limits on public company boards on which a director may sit. 
+None of our directors serve on more than two public company boards (including NVIDIA), and none of our non-employee 
+directors serve as a CEO or executive officer of a public company.
+
+
+#### Director Stock Ownership Guidelines
+
+Our Corporate Governance Policies require each non-employee director to hold shares of our common stock with a total 
+value equal to six times the annual cash retainer for Board service during the period in which he or she serves as a 
+director (or ten times his base salary, in the case of the CEO).  The shares may include vested deferred stock, shares held 
+in trust, and shares held by immediate family members, but not unvested or unexercised equity awards.  Non-employee 
+directors have five years after their Board appointment to reach the ownership threshold.  Our stock ownership 
+guidelines are intended to further align director interests with stockholder interests.
+
+Each non-employee director and Mr. Huang currently meets or exceeds the stock ownership requirements, with the 
+exception of Dr. Ochoa, who joined our Board in 2024 and has five years from joining the Board to reach the ownership 
+threshold.
+
+
+#### Senior Management Development
+
+We believe in extensive leadership development.  Our structure ensures that many senior managers work directly with our 
+CEO to execute our corporate strategies.  This approach results in strategic alignment, exposes leaders to a broad 
+spectrum of corporate activities, and presents the Board with a pool of excellent candidates for future promotion. Our 
+CEO also selects senior leaders to engage directly with the Board on key initiatives and provides periodic updates to our 
+Board on management development.
+
+
+#### Outside Advisors
+
+The Board and each of its principal committees may retain outside advisors and consultants of their choosing at our 
+expense.  The Board need not obtain management’s consent to retain outside advisors.  In addition, the principal 
+committees need not obtain either the Board’s or management’s consent to retain outside advisors.
+
+
+#### Code of Conduct
+
+Our directors, executives, and employees are expected to conduct themselves with the highest degree of integrity, ethics, 
+and honesty.  Our credibility and reputation depend upon their good judgment, ethical standards, and personal integrity.  
+Our Code of Conduct applies to all executive officers, directors, and employees, including our principal executive officer, 
+principal financial officer, and principal accounting officer.  The Financial Team Code of Conduct applies to our executive 
+officers, directors, members of our finance department, and all employees involved in the preparation and review of 
+externally-reported periodic financial reports, filings, and documents.  We regularly review our Code of Conduct and 
+related policies to ensure that they provide clear guidance to our directors, executives, and employees.  We also regularly 
+train our employees on our Code of Conduct and other policies.
+
+
+#### 32
+
+
+## Page 48
+
+meeting right strikes a balance between enabling urgent action and protecting the Company and its stockholders from 
+narrow, short-term interests.
+
+
+#### Board Meeting Information
+
+The Board met four times during Fiscal 2025, including meetings during which the Board discussed the strategic 
+direction of NVIDIA, explored and discussed new business and strategic opportunities and the product roadmap, and 
+other matters facing NVIDIA.  We expect each Board member to attend each meeting of the Board and the committees 
+on which he or she serves.  Each Board member attended 75% or more of the applicable meetings of the Board and of 
+each committee on which he or she served during Fiscal 2025.
+
+
+#### 34
+
+
+## Page 49
+
+### Table 49.1
+
+| Scope 1 and 2: In our upcoming Sustainability Report for Fiscal 2025, we plan to announce that we achieved and |
+| --- |
+| will maintain 100% renewable electricity for offices and data centers under our operational control. By delivering |
+| on this commitment, we continue to aim to reduce our Scope 1 and 2 emissions in line with prevalent climate |
+| science standards. |
+
+
+### Table 49.2
+
+| Scope 3: By the end of Fiscal 2026, we expect to engage manufacturing suppliers comprising at least 67% of |
+| --- |
+| NVIDIA’s scope 3 category 1 GHG emissions, with the goal of effecting supplier adoption of science-based |
+| targets. |
+
+
+
+#### Corporate Sustainability
+
+NVIDIA invents computing technologies that improve lives and address global challenges. Our goal is to integrate sound 
+CS principles and practices into every aspect of the Company. Our Board and management believe that environmental 
+stewardship, social responsibility, and solid governance are important to our business strategy and long-term value 
+creation. While the full Board has ultimate responsibility for CS matters that impact our business, each committee of the 
+Board oversees CS matters across our business operations in the areas that align with their respective responsibilities. 
+The NCGC is responsible for reviewing and discussing with management our policies, issues, and reporting related to 
+sustainability, including overall sustainability strategy, risks, and opportunities, and related programs and initiatives. Our 
+CS team updates the NCGC at least semiannually on these topics, as well as pertinent regulations and stakeholder inputs, 
+and gathers feedback from the NCGC on issues such as climate change and human rights. The CS team also reports on 
+sustainability issues to the full Board annually.
+
+In Fiscal 2024, we launched a Corporate Sustainability Steering Committee, or the CSSC, comprised of members of our 
+executive leadership team.  The CSSC oversees and provides input on our sustainability strategy and program.  Feedback 
+from the Board, the NCGC and CSSC, along with specific input from our executive team, helps to determine the focus and 
+scope of our sustainability strategy and program.
+
+The following sections provide an overview of our sustainability principles and practices.  More information can be found 
+on the Corporate Sustainability section of our website and in our annual Sustainability Report.  Information contained on 
+our website or in our annual Sustainability Report is not incorporated by reference into this or any other report we file 
+with the SEC.  Refer to “Item 1A. Risk Factors” in our Form 10-K for a discussion of risks and uncertainties we face related 
+to CS.
+
+
+#### Climate and Efficiency
+
+We assess our carbon footprint across our product lifecycle and assess climate risks, including current and emerging 
+regulations and market impacts.  Improving performance and energy efficiency is a principal goal in each step of our 
+research, development, and design processes, and our product-level environmental assessments confirm that continuing 
+to enhance the energy efficiency of our products is the most impactful sustainability initiative our company can pursue.  
+NVIDIA GPUs powered 8 of the top 10 systems on the November 2024 Green500 list, including the top super computer.  
+Our Earth-2 initiative aims to harness AI and high-performance computing to unlock the potential of vast quantities of 
+climate data to inform decision-making.
+
+We commit to the following greenhouse gas emissions, or GHG emissions, reduction goals:
+
+•
+Scope 1 and 2: In our upcoming Sustainability Report for Fiscal 2025, we plan to announce that we achieved and 
+will maintain 100% renewable electricity for offices and data centers under our operational control.  By delivering 
+on this commitment, we continue to aim to reduce our Scope 1 and 2 emissions in line with prevalent climate 
+science standards.
+
+•
+Scope 3: By the end of Fiscal 2026, we expect to engage manufacturing suppliers comprising at least 67% of 
+NVIDIA’s scope 3 category 1 GHG emissions, with the goal of effecting supplier adoption of science-based 
+targets.
+
+
+#### Human Capital Management
+
+We believe that our employees are our greatest asset, and they play a key role in creating long-term value for our 
+stakeholders.  The CC provides oversight of the Company’s human capital management, including policies and strategies 
+relating to human capital management.
+
+To execute our business strategy successfully, we must recruit, develop, and retain the very best talent globally, including 
+exceptional executives, scientists, engineers, and technical and non-technical staff.
+
+
+#### Recruitment
+
+As the demand for global technical talent remains high, we have grown our technical workforce and have successfully 
+attracted top talent to NVIDIA.  We have attracted talent worldwide through our strong employer brand and 
+differentiated hiring strategies for college, professional, and leadership talent.  Our workforce is 82% technical and 51% 
+hold advanced degrees.  Additionally, we have increased our focus on diversity recruiting, and we welcome employees of 
+all backgrounds. Our own employees help to surface top talent, with over 41% of our new hires in Fiscal 2025 coming 
+from employee referrals.
+
+
+#### Development and Retention
+
+To support employee development, we provide opportunities to learn on-the-job through training courses, targeted 
+development programs, mentoring and peer coaching and ongoing feedback. We constantly upgrade our learning 
+offerings to ensure that our employees are exposed to the most current content and technologies available. We offer
+
+
+#### 35
+
+
+## Page 50
+
+tuition reimbursement programs to subsidize educational programs and advanced certifications and encourage internal 
+job mobility. We have also implemented specifically designed mentoring and development programs for women and 
+employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.
+
+To evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party 
+platform.  We want NVIDIA to be a place where people can build their careers over their lifetime.  Our employees tend to 
+come and stay.  In Fiscal 2025, our overall turnover rate was 2.5%.
+
+
+#### Compensation, Benefits, and Well-Being
+
+Our compensation program rewards performance and is structured to encourage employees to invest in the Company’s 
+future. Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock 
+price and vests over time to retain employees while simultaneously aligning their interests with those of our stockholders.
+
+We offer comprehensive benefits to support our employees’ and their families’ physical health, well-being, and financial 
+health.  Programs include 401(k) programs in the U.S., statutory and supplemental pension programs outside the U.S., our 
+employee stock purchase program, flexible work hours, and time off policies. We evaluate our benefit offerings globally 
+and aim to provide comparable support across the regions where we operate. We offer tailored benefits based on the 
+needs of our employees, including continuing support for parents, both new birth parents and those who wish to become 
+parents.
+
+
+#### Diversity, Inclusion, and Belonging at NVIDIA
+
+We believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all our 
+employees.
+
+When recruiting new talent or developing our current employees, we strive to build a diverse talent pipeline that includes 
+those underrepresented in the technology field, including women, Black/African American, and Hispanic/Latino 
+candidates.
+
+
+#### To this end we:
+
+• 
+Hire, promote and compensate our employees based on merit;
+
+• 
+Partner with institutions and professional organizations serving historically underrepresented communities;
+
+• 
+Enlist dedicated recruiting teams to shepherd underrepresented candidates through the interview process and 
+identify internal opportunities;
+
+• 
+Support the development and growth of women employees through programs aimed at building a pipeline of 
+future leaders;
+
+• 
+Provide peer support and executive sponsors for our internal community resource groups;
+
+• 
+Provide training and education to managers and peers on fostering supportive environments that allow all our 
+employees to excel;
+
+• 
+Track equity and parity in retention, promotions, pay, and employee feedback; and
+
+• 
+Measure year over year progress and provide leadership visibility on talent and diversity efforts.
+
+As of the end of Fiscal 2025, our global workforce was 78% male, 21% female, and 1% not declared, with 6% of our 
+workforce in the United States composed of Black or African American and Hispanic or Latino employees.
+
+We strive to provide equitable compensation and opportunities for advancement to all employees and to achieve 
+promotion parity based on a variety of considerations.
+
+
+#### Flexible Working Environment
+
+We support a flexible work environment, allowing us to recruit the very best employees, regardless of where they live.   
+This flexibility supports diverse hiring, retention of talent, including working parents and other caregivers and employee 
+engagement, which we believe makes NVIDIA a great place to work.
+
+We also provide company-wide designated time off each quarter for employees to rest, recharge and manage personal 
+and family responsibilities.
+
+
+#### 36
+
+
+## Page 51
+
+
+#### Product Value Chain
+
+We seek to promote human rights throughout our supply chain and expect our suppliers to respect human rights 
+whenever they provide products or services for us.
+
+We are a full member of the RBA, an international industry organization dedicated to corporate social responsibility in 
+global supply chains.  Since adopting the RBA Code of Conduct in 2007 when we first became an RBA member, we have 
+continued to integrate its elements into our processes, including auditing strategic suppliers and conducting internal 
+assessments to confirm that we are addressing all aspects of responsible supply chain management.  All of our 
+manufacturing suppliers are expected to comply with the RBA Code of Conduct and associated NVIDIA policies, including 
+an Agreement for Manufacturer Environmental Compliance.
+
+We expect our suppliers to maintain progressive employment, environmental, health, safety, and ethical practices that 
+meet or exceed applicable laws, the RBA Code of Conduct, our Code of Conduct, and our Human Rights Policy.  We also 
+encourage suppliers to use the RBA Code of Conduct as a platform to go above and beyond compliance.  We monitor our 
+supply chain through Validated Assessment Program audits and work directly with suppliers to implement any corrective 
+actions.
+
+Our goal is to use only conflict-free gold, tantalum, tungsten, and tin (3TG) in our products and to achieve 100% 
+Responsible Minerals Assurance Process-compliant 3TG processing facilities, as explained in more detail in our 
+Responsible Minerals Policy.
+
+
+#### Human Rights
+
+We define human rights as the fundamental rights, freedoms, and standards of treatment belonging to all humans.  We 
+follow the laws of the countries in which we operate, and endorse internationally recognized principles, including the 
+United Nations Global Compact, the United Nations Guiding Principles, the Universal Declaration of Human Rights, the 
+International Covenant on Civil and Political Rights, the International Covenant on Economic, Social and Cultural Rights, 
+the Core Conventions of the International Labour Organization, and the International Labour Organization Declaration on 
+Fundamental Principles and Rights at Work.
+
+We have codified our approach to human rights in our Human Rights Policy and work to embed human rights 
+considerations into decision-making processes throughout the Company.
+
+In Fiscal 2025, we ran a human rights impact assessment (HRIA) aligned with the UN Declaration on Business and Human 
+Rights.  The HRIA covered our value chain and was performed by an independent firm with deep expertise in human 
+rights.  We expect to use the results of the HRIA to inform our human rights strategy and our Human Rights Policy going 
+forward.
+
+
+#### Trustworthy AI
+
+Our artificial intelligence, or AI, principles, which we share with customers and partners, reflect our core values and our 
+Code of Conduct.  We endeavor to deliver trustworthy AI models that comply with privacy and data protection laws, 
+perform safely and as intended, provide transparency about a model’s design and limitations, minimize unwanted bias, 
+and give equal opportunity to benefit from AI.
+
+Our products are programmable and non-specific in nature.  When we provide tools to help developers create applications 
+for specific industries, we focus on creating products and services that enable developers to create and accelerate 
+socially beneficial applications.
+
+
+#### Public Policy Engagement and Accountability
+
+Our NCGC oversees and periodically reviews our public policy engagement and accountability.  Our Government Relations 
+team engages in the public policy process to advance the long-term interests of the Company and its stockholders, 
+including in areas relevant to our operations, semiconductors, artificial intelligence, global trade, research and 
+development, workforce and energy. NVIDIA’s U.S. federal lobbying activities are disclosed quarterly and publicly reported.  
+We belong to trade associations worldwide. Management reports to the NCGC about our policies and practices in 
+connection with governmental relations, public policy, and related expenditures.
+
+
+#### 37
+
+
+## Page 86
+
+
+#### Opposing Statement of the Board
+
+Our Board recommends a vote AGAINST Proposal 6 because it believes it is unnecessary and not in the best interests of 
+NVIDIA and our stockholders.
+
+Our Bylaws and governance policies already provide an effective remedy for nominees not receiving a majority vote.
+
+Directors who do not receive majority support must offer their resignation, which the NCGC reviews and then 
+recommends to the Board. The Board must act on the recommendation within 90 days, publicly disclosing its decision and 
+reasoning. This process allows the Board to consider all factors in determining what is best for NVIDIA and its 
+stockholders, ensuring appropriate discretion and judgment.
+
+The proposal would unduly restrict and undermine the role of the Board in exercising its judgment.
+
+Proposal 6 requires automatic resignation if a director fails to receive majority support for two consecutive years. This 
+would undermine the Board’s ability to make informed decisions, regardless of circumstances. No other major U.S. 
+company has adopted the policy requested in the Proposal, and such a policy is out of step with market practice. Our 
+current policies provide for the Board to engage with stockholders and apply reasoned judgment to evaluate next steps. 
+This measured approach ensures stability and continuity, avoiding disruptions to the Board’s functions while respecting 
+stockholder input.
+
+Our stockholders have consistently shown strong support for our director nominees.
+
+Stockholders consistently support NVIDIA’s director nominees, as shown by high vote percentages and positive feedback 
+during annual meetings and outreach. In the past ten years, nominees have averaged 97.2% support. NVIDIA’s robust 
+stockholder engagement program allows for ongoing dialogue, ensuring the Board is aware of stockholder views.
+
+Our corporate governance policies ensure Board accountability and responsiveness to stockholder concerns.
+
+Our governance practices, including regular stockholder outreach, annual director elections, and independent board 
+leadership, already ensure accountability and responsiveness. In addition, the Board has taken steps to continue board 
+refreshment, support elimination of supermajority voting provisions (Proposal 4), and maintain a market-standard proxy 
+access bylaw provision.
+
+The Board believes that Proposal 6’s restrictive provisions are unnecessary, potentially harmful, and not in the best 
+interests of NVIDIA and its stockholders.
+
+
+#### Recommendation of the Board
+
+Our Board recommends that you vote AGAINST Proposal 6—Director Election Resignation Governance Policy.
+
+
+#### 72
+
+
+## Page 87
+
+
+#### Proposal 7—Stockholder Proposal: Workforce Data Reporting
+
+What am I voting on?  A stockholder proposal to request workforce public reporting to include EEOC job categories.
+
+Vote required:  A majority of the shares present, in person or represented by proxy, and entitled to vote on this matter.
+
+Effect of abstentions:  Same as a vote AGAINST.
+
+Effect of broker non-votes:  None.
+
+Below is a stockholder proposal and supporting statement of the stockholder proponent, for which we and our Board 
+accept no responsibility. This stockholder proposal is required to be voted upon at the 2025 Meeting only if properly 
+presented. Our Board opposes adoption of this stockholder proposal and recommends that you vote AGAINST Proposal 
+7. Trillium ESG Global Equity Fund has notified us of its intent to present the following proposal at the 2025 Meeting.
+
+
+#### Stockholder Proposal and Supporting Statement
+
+
+#### Proposal 7 – Workforce Data Reporting
+
+RESOLVED: Shareholders request that NVIDIA Corporation enhance existing public reporting, at reasonable cost and 
+omitting confidential information, to include a chart identifying employees according to gender and race in each of the 
+nine Equal Employment Opportunity Commission (EEOC)-defined job categories, listing either numbers or percentages in 
+each category.
+
+
+### WHEREAS:
+
+As of the filing date of this shareholder proposal, NVIDIA has decreased its workforce data transparency from previous 
+years, which may prevent investors from assessing its workforce trends or efficacy of workplace culture and talent 
+management programs.
+
+For example, NVIDIA consistently disclosed EEO-1 data between 2018 through 2021 but has seemingly reversed course 
+and has not disclosed data from 2022 through the present. Market standards and stakeholder expectations, however, 
+have significantly changed around such disclosures. As of April 2024, over 80 percent of the S&P 500 and nearly 50 
+percent of the Russell 1000 Index companies disclose EEO-1 data, establishing this as best practice in workforce data 
+reporting.1 NVIDIA’s change in practice has furthermore led to it lagging peers in disclosures. In comparison to NVIDIA, 
+Advanced Micro Devices, Intel, Broadcom, and Qualcomm release EEO-1 data.
+
+Investors need annual disclosure of granular workforce data to determine whether investments in workplace culture and 
+talent management programs have translated to measurable impacts at various levels of the company. The 
+comprehensive, consistent, and standardized nature of EEO-1 data disclosure also facilitates comparison across firms. As 
+NVIDIA is required to report EEO-1 data to the federal government, it is able to provide a more complete picture of its 
+workforce without additional burdens on the company to collect data.
+
+Workplace culture and human capital management programs are critical to a company’s talent attraction and retention 
+pipeline, which may affect both social equality and financial performance.2 As You Sow and Whistle Stop Capital reviewed 
+the workforce diversity of 1,641 companies between 2016-2021, finding statistically significant positive correlations 
+between manager diversity and return on equity, return on invested capital, and 10-year revenue growth, among other 
+indicators.3
+
+Implementing more robust reporting via the disclosure of EEO-1 data would provide transparency and insight to 
+investors, employees, and stakeholders. Further, comparing the data collected to internal and external standards and 
+peers may enhance talent management, workplace culture strategy, and promote employee retention. Subsequent 
+disclosures around these activities would enable investors to better understand and assess NVIDIA’s human capital 
+management trends and performance.
+
+
+#### 73
+
+1 https://diversiq.com/blog/whats-new-this-proxy-season-trends-at-the-halfway-point/
+2 https://www.cnbc.com/2021/04/30/diversity-equity-and-inclusion-are-important-to-workers-survey-shows.html  
+3 https://www.asyousow.org/report-page/2023-capturing-the-diversity-benefit
+
+
+## Page 88
+
+
+#### Opposing Statement of the Board
+
+Our Board recommends a vote AGAINST Proposal 7 because it believes it is unnecessary and not in the best interests of 
+NVIDIA and our stockholders.
+
+We publish robust workforce and diversity data.
+
+The Board agrees that “workplace culture and human capital management programs are critical to a company’s talent 
+attraction and retention pipeline,” and believes our employees are our greatest asset. Consequently, the Board has long 
+supported NVIDIA’s human capital programs and extensive workforce-related disclosures.
+
+
+#### For example, NVIDIA’s 2024 Sustainability Report contains:
+
+•
+Fiscal 2024, 2023, and 2022 workforce data on geographic regions, employee type, age, gender, positions held by 
+women, and race/ethnicity (U.S.), disability, and veterans.
+
+•
+Detailed hiring data by age, gender, region, and race/ethnicity (U.S.).
+
+•
+Pay ratios of women to men, Asian to White, Black/African American to White, and Hispanic/Latino to White, 
+along with annual turnover rate statistics by gender and race/ethnicity (U.S.).
+
+•
+Expansive discussions of NVIDIA’s workforce initiatives, such as community resource groups, learning and 
+development programs, employee engagement, mentorship, and our benefits and compensation programs.
+
+The Board is proud of NVIDIA’s human capital accomplishments and the success of our employees in creating long-term 
+value for our stakeholders. For example, NVIDIA continues to be among America’s best places to work, ranking fourth on 
+Glassdoor’s list of best employers for 2025.
+
+We believe the requested disclosures are not suited to our business.
+
+Proposal 7 suggests our reporting is deficient because we have not tailored our workforce disclosure to report on gender 
+and race according to the specific job categories used by the federal Equal Employment Opportunity Commission for 
+EEO-1 Component 1 reporting. These nine broadly defined roles, including “first/mid-level officials and managers,” “craft 
+workers,” “operatives,” and “laborers and helpers,” are generic categories applicable to all business types across the U.S. 
+For example, the “operative” category includes jobs as diverse as laundry workers, weaving machine operators, bakers, 
+and poultry and fish processing workers. These categories are designed for employers with more than 100 employees and 
+are not suited for describing NVIDIA’s workforce.  Publishing data based on generic categories is uninformative and may 
+create confusion regarding our workforce, operations, and human capital practices.
+
+Our workforce disclosures are used by our stockholders and other stakeholders as an important tool for understanding 
+our business. We take great care in selecting and preparing the most relevant and useful data for these audiences. The 
+Board believes our stockholders are best served by publishing workforce disclosures based on metrics and categories 
+most relevant to our business and stakeholders, such as the detailed datapoints in our sustainability reports.
+
+Our management is well-positioned to determine the most appropriate workforce reporting metrics.
+
+The Board believes NVIDIA’s management, supported by our Corporate Sustainability team and overseen by the CC and 
+NCGC, as applicable, is best positioned to assess the most appropriate workforce metrics to be published.
+
+In 2024, NVIDIA launched a Corporate Sustainability Steering Committee of our executives to oversee our Corporate 
+Sustainability team and guide our sustainability strategy and program, in collaboration with the Board and NCGC. The 
+Corporate Sustainability team designs and implements NVIDIA’s extensive public disclosures, including NVIDIA’s annual 
+sustainability report, which is guided by leading disclosure frameworks. The Corporate Sustainability team strives to 
+incorporate stockholder feedback and conducts regular outreach to solicit input and provide updates on progress.
+
+Given management’s awareness of stockholder priorities and understanding of our business and workforce, the Board 
+believes Proposal 7’s imposition of potentially misleading reporting requirements is inappropriate and unhelpful to our 
+stockholders and other stakeholders.
+
+
+#### Recommendation of the Board
+
+Our Board recommends that you vote AGAINST Proposal 7—Workforce Data Reporting.
+
+
+#### 74
+
+
+## Page 89
+
+
+#### Equity Compensation Plan Information
+
+The number of shares that were issuable upon the vesting of outstanding RSUs and PSUs, and the number of shares that 
+remained available for future issuance, under each of our equity compensation plans as of January  26, 2025, are 
+summarized below.  We have not had any stock options outstanding since the end of Fiscal 2024.
+
+
+#### Plan Category
+
+
+#### Number of securities to be
+
+
+#### issued upon exercise of
+
+outstanding options, 
+warrants, and rights (a)
+
+
+#### Weighted-average exercise
+
+
+#### price of outstanding
+
+
+#### options, warrants,
+
+
+#### and rights (b)
+
+Number of securities remaining 
+available for future issuance under 
+equity compensation plans (excluding
+
+securities reflected in column (a)) (c)
+Equity compensation plans 
+approved by security holders (1)      .
+ 
+274,212,251 
+ 
+— 
+ 
+3,628,661,705 (2)
+
+Equity compensation plans not 
+approved by security holders    . . . .
+ 
+— 
+ 
+— 
+ 
+—
+
+Total      . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 
+274,212,251 
+ 
+3,628,661,705
+
+(1)
+This row includes our 2007 Plan and our ESPP.  Under our ESPP, participants are permitted to purchase our common stock at a discount on certain 
+dates through payroll deductions within a pre-determined purchase period.  Accordingly, the number of shares to be issued upon exercise of 
+outstanding rights under our ESPP as of January 26, 2025 is not determinable.
+
+(2) 
+As of January 26, 2025, (a) the number of shares that remained available for future issuance under the 2007 Plan was 1,388,693,763, and (b) the 
+number of shares that remained available for future issuance under the ESPP was 2,239,967,942, of which up to 3,383,394 shares may be purchased 
+under the ESPP in the current purchase period which runs until August 29, 2025, based on estimated participation and contribution rates, purchase 
+prices based on the applicable offering date prices, and the $25,000 limit under Section 423(b)(8) of the Internal Revenue Code.
+
+During Fiscal 2025, we granted an aggregate of 82,467,905 shares under our 2007 Plan in the form of RSUs and PSUs, 
+1,655,590 of which were granted to our NEOs, 26,137 of which were granted to our non-employee directors, and 
+80,786,178 of which were granted to our other employees.  For this purpose, PSUs are counted in the year of grant at the 
+maximum number of shares that may become eligible to vest.  Also during Fiscal 2025, an aggregate of 30,121,348 shares 
+were purchased under our ESPP, 5,505 of which were purchased by our NEOs, and 30,115,843 of which were purchased 
+by our other employees.  Our non-employee directors are not eligible to participate in our ESPP.
+
+
+#### Additional Information
+
+
+#### Delinquent Section 16(a) Reports
+
+Section 16(a) of the Exchange Act requires our executive officers, directors and persons who own more than 10% of a 
+registered class of our equity securities to file initial reports of ownership and reports of changes in ownership of our 
+common stock and other equity securities with the SEC.  Executive officers, directors and greater than 10% stockholders 
+are required by SEC regulations to furnish us with copies of all Section 16(a) forms they file.  To our knowledge, based 
+solely on a review of the copies of such reports furnished to us and written representations that no other reports were 
+required, all Section 16(a) filing requirements applicable to individuals who were, during Fiscal 2025, our executive 
+officers, directors and greater than 10% beneficial owners were complied with, except for Dr. Drell, who did not file two 
+Forms 4 with respect to two transactions, both of which were reported on a Form 5.
+
+
+#### Other Matters
+
+The Board knows of no other matters that will be presented for consideration at the 2025 Meeting.  If any other matters 
+are properly brought before the 2025 Meeting, it is the intention of the persons named in the accompanying proxy to 
+vote on such matters in accordance with their best judgment.
+
+
+#### By Order of the Board of Directors
+
+Timothy S. Teter 
+Secretary
+May 13, 2025
+
+A COPY OF OUR ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED JANUARY 26, 2025 AS FILED WITH 
+THE SEC IS BEING FURNISHED TO STOCKHOLDERS CONCURRENTLY HEREWITH.  UPON WRITTEN REQUEST, WE WILL 
+PROVIDE, WITHOUT CHARGE, AN ADDITIONAL COPY OF THE ANNUAL REPORT.  STOCKHOLDERS MAY SUBMIT THEIR 
+REQUESTS TO: INVESTOR RELATIONS, NVIDIA CORPORATION, 2788 SAN TOMAS EXPRESSWAY, SANTA CLARA, 
+CALIFORNIA 95051 OR TO SHAREHOLDERMEETING@NVIDIA.COM.  WE WILL ALSO FURNISH A COPY OF ANY EXHIBIT 
+TO THE ANNUAL REPORT ON FORM 10-K IF SPECIFICALLY REQUESTED IN WRITING.
+
+NVIDIA and the NVIDIA logo are either registered trademarks or trademarks of NVIDIA Corporation in the United States and 
+other countries.  Other company names used in this publication are for identification purposes only and may be trademarks of 
+their respective companies.
+
+
+#### 75
+
+
+## Page 90
+
+
+### APPENDIX A
+
+AMENDED AND RESTATED
+CERTIFICATE OF INCORPORATION
+
+OF
+NVIDIA CORPORATION
+(Originally incorporated on February 24, 1998 
+under the name NVIDIA Delaware Corporation)
+
+I.
+
+The name of this corporation is NVIDIA Corporation.
+
+II.
+
+The address of the registered office of the corporation in the State of Delaware is 251 Little Falls Drive, 
+City of Wilmington, County of New Castle 19808, and the name of the registered agent of the corporation in the State of 
+Delaware at such address is Corporation Service Company.
+
+Ill.
+
+The purpose of this corporation is to engage in any lawful act or activity for which a corporation may be 
+organized under the General Corporation Law of the State of Delaware.
+
+IV.
+
+A. 
+This corporation is authorized to issue two classes of stock to be designated, respectively, 
+“Common Stock” and “Preferred Stock.” The total number of shares which the corporation is authorized to issue is Eighty 
+Billion Two Million (80,002,000,000) shares. Eighty Billion (80,000,000,000) shares shall be Common Stock, each having a 
+par value of one-tenth of one cent ($.001). Two Million (2,000,000) shares shall be Preferred Stock, each having a par value 
+of one-tenth of one cent ($.001).
+
+At the Effective Time, each share of Common Stock issued as of immediately prior to the Effective Time 
+shall be automatically subdivided and reclassified into ten (10) validly issued, fully paid and non-assessable shares of 
+Common Stock, without any further action by the Corporation or the holder thereof (the “Stock Split”). Each certificate 
+that immediately prior to the Effective Time represented shares of Common Stock shall thereafter represent that 
+number of shares of Common Stock into which the shares of Common Stock represented by such certificate shall have 
+been subdivided and reclassified pursuant to the Stock Split.
+
+The Preferred Stock may be issued from time to time in one or more series. The Board of Directors is 
+hereby authorized, by filing a certificate (a “Preferred Stock Designation”) pursuant to the Delaware General Corporation 
+Law, to fix or alter from time to time the designation, powers, preferences and rights of the shares of each such series 
+and the qualifications, limitations or restrictions of any wholly unissued series of Preferred Stock, and to establish from 
+time to time the number of shares constituting any such series or any of them; and to increase or decrease the number 
+of shares of any series subsequent to the issuance of shares of that series, but not below the number of shares of such 
+series then outstanding. In case the number of shares of any series shall be decreased in accordance with the foregoing 
+sentence, the shares constituting such decrease shall resume the status that they had prior to the adoption of the 
+resolution originally fixing the number of shares of such series.
+
+V.
+
+For the management of the business and for the conduct of the affairs of the Ccorporation, and in 
+further definition, limitation and regulation of the powers of the Ccorporation, of its directors and of its stockholders or 
+any class thereof, as the case may be, it is further provided that:
+
+A.
+1. 
+The management of the business and the conduct of the affairs of the Ccorporation 
+shall be vested in its Board of Directors. The number of directors which shall constitute the whole Board of Directors shall 
+be fixed exclusively by one or more resolutions adopted by the Board of Directors.
+
+2.  
+Subject to the other provisions of this paragraph, the Board of Directors is and shall 
+remain divided into three classes, with the directors in each class serving for a term expiring at the third annual meeting 
+of stockholders held after their election. Subject to the rights of the holders of any series of Preferred Stock to elect 
+additional directors under specified circumstances, the terms of the members of the Board of Directors shall be as 
+follows: (i) at the annual meeting of stockholders to be held in 2012, the directors whose terms expire at that meeting or 
+such directors' successors shall be elected to hold office for a term expiring at the annual meeting of stockholders to be 
+held in 2013; (ii) at the annual meeting of stockholders to be held in 2013, the directors whose terms expire at that 
+meeting or such directors' successors shall be elected to hold office for a term expiring at the annual meeting of 
+stockholders to be held in 2014; and (iii) at the annual meeting of stockholders to be held in 2014 and at each annual 
+meeting of stockholders thereafter, all directors shall be elected to hold office for a term expiring at the next annual 
+meeting of stockholders. The classification of the Board of Directors shall terminate at the annual meeting of 
+stockholders to be held in 2014 and all directors shall be elected in accordance with clause (iii) above.
+
+
+### A-1
+
+
+## Page 102
+
+•
+our strategic technology or product directions in different countries;
+
+•
+the degree to which IP laws exist and are meaningfully enforced in different jurisdictions; and
+
+•
+the commercial significance of our operations and our competitors' operations in particular countries and 
+regions.
+
+We have licensed technology from third parties and expect to continue entering such license agreements.
+
+
+#### Government Regulations
+
+Our worldwide business activities are subject to various laws, rules, and regulations of the United States as well as of 
+foreign governments.
+
+Over the past three years, we have been subject to a series of shifting and expanding export control restrictions, 
+impacting our ability to serve customers outside the United States.
+
+In August 2022, the U.S. government, or the USG, announced licensing requirements that, with certain exceptions, impact 
+exports to China (including Hong Kong and Macau) and Russia of our A100 and H100 integrated circuits, DGX or any other 
+systems or boards which incorporate A100 or H100 integrated circuits.
+
+In July 2023, the USG informed us of an additional licensing requirement for a subset of A100 and H100 products 
+destined to certain customers and other regions, including some countries in the Middle East.
+
+In October 2023, the USG announced new and updated licensing requirements that became effective in our fourth 
+quarter of fiscal year 2024 for exports to China and Country Groups D1, D4, and D5 (including but not limited to Saudi 
+Arabia, the United Arab Emirates, and Vietnam, but excluding Israel) of our products exceeding certain performance 
+thresholds, including, but not limited to, the A100, A800, H100, H800, L4, L40, L40S and RTX 4090. The licensing 
+requirements also apply to the export of products exceeding certain performance thresholds to a party headquartered in, 
+or with an ultimate parent headquartered in, Country Group D5, including China. On October 23, 2023, the USG informed 
+us that the licensing requirements were effective immediately for shipments of our A100, A800, H100, H800, and L40S 
+products (removing the grace period granted by the official rule). Blackwell systems, such as GB200 NVL 72 and NVL 36 
+as well as B200 are also subject to these requirements and therefore require a license for any shipment to certain entities 
+and to China and Country Groups D1, D4 and D5, excluding Israel. To date, we have not received licenses to ship these 
+restricted products to China. Additionally, we understand that partners and customers have also not received a license to 
+ship these restricted products.
+
+On January 15, 2025, the USG published the “AI Diffusion” IFR in the Federal Register. After a 120-day delayed compliance 
+period, the IFR will, unless modified, impose a worldwide licensing requirement on all products classified under Export 
+Control Classification Numbers, or ECCNs, 3A090.a, 4A090.a, or corresponding .z ECCNs, including all related software 
+and technology. Any system that incorporates one or more of the covered integrated circuits, or ICs, (including but not 
+limited to NVIDIA DGX, HGX, and MGX systems) will be covered by the new licensing requirement. The licensing 
+requirement will include future NVIDIA ICs, boards, or systems classified with ECCN 3A090.a or 4A090.a, or 
+corresponding .z ECCNs, achieving certain total processing performance and/or performance density.
+
+Unless a license exception is available, the worldwide licensing requirements will apply to the following NVIDIA products, 
+and any others we develop that meet the characteristics of 3A090.a or 4A090.a, including but not limited to: A100, A800, 
+H100, H200, H800, B100, B200, GB200, L4, L40S, and RTX 6000 Ada.
+
+Our competitive position has been harmed by the existing export controls, and our competitive position and future 
+results may be further harmed, over the long term, if there are further changes in the USG’s export controls. Given the 
+increasing strategic importance of AI and rising geopolitical tensions, the USG has changed and may again change the 
+export control rules at any time and further subject a wider range of our products to export restrictions and licensing 
+requirements, negatively impacting our business and financial results. In the event of such change, we may be unable to 
+sell our inventory of such products and may be unable to develop replacement products not subject to the licensing 
+requirements, effectively excluding us from all or part of the China market, as well as other impacted markets, including 
+the Middle East and countries designated “Tier 2” by the AI Diffusion IFR. In addition to export controls, the USG may 
+impose restrictions on the import and sale of products that incorporate technologies developed or manufactured in 
+whole or in part in China. For example, the USG is considering restrictions on the import and sale of certain automotive 
+products in the United States, which if adopted and interpreted broadly, could impact our ability to develop and supply 
+solutions for our automotive customers.
+
+While we work to enhance the resiliency and redundancy of our supply chain, which is currently concentrated in the Asia-
+Pacific region, new and existing export controls or changes to existing export controls could limit alternative 
+manufacturing locations and negatively impact our business. Refer to “Item 1A. Risk Factors – Risks Related to 
+Regulatory, Legal, Our Stock and Other Matters” for a discussion of this potential impact.
+
+
+#### 10
+
+
+## Page 103
+
+Compliance with laws, rules, and regulations has not otherwise had a material effect upon our capital expenditures, 
+results of operations, or competitive position and we do not currently anticipate material capital expenditures for 
+environmental control facilities. Compliance with existing or future governmental regulations, including, but not limited 
+to, those pertaining to IP ownership and infringement, taxes, import and export requirements and tariffs, anti-corruption, 
+business acquisitions, foreign exchange controls and cash repatriation restrictions, data privacy requirements, 
+competition and antitrust, advertising, employment, product regulations, cybersecurity, environmental, health and safety 
+requirements, the responsible use of AI, climate change, cryptocurrency, and consumer laws, could further increase our 
+costs, impact our competitive position, and otherwise may have a material adverse impact on our business, financial 
+condition and results of operations in subsequent periods. Refer to “Item 1A. Risk Factors” for a discussion of these 
+potential impacts.
+
+
+#### Sustainability and Governance
+
+NVIDIA invents computing technologies that improve lives and address global challenges. Our goal is to integrate sound 
+environmental, social, and corporate governance principles and practices into every aspect of the Company. The 
+Nominating and Corporate Governance Committee of our Board of Directors is responsible for reviewing and discussing 
+with management our practices related to sustainability and corporate governance. We assess our programs annually in 
+consideration of stakeholder expectations, market trends, and business risks and opportunities. These issues are 
+important for our continued business success and reflect the topics of highest concern to NVIDIA and our stakeholders.
+
+The following section and the Human Capital Management Section below provide an overview of our principles and 
+practices. More information can be found on our website and in our annual Sustainability Report. Information contained 
+on our website or in our annual Sustainability Report is not incorporated by reference into this or any other report we file 
+with the Securities and Exchange Commission, or the SEC. Refer to “Item 1A. Risk Factors” for a discussion of risks and 
+uncertainties we face related to sustainability.
+
+
+#### Climate Change
+
+In the area of environmental sustainability, we work to address our climate impacts across our product lifecycle and 
+assess related risks, including current and emerging regulations and market impacts.
+
+In May 2024, we published metrics related to our environmental impact for fiscal year 2024. Fiscal year 2025 metrics are 
+expected to be published in the first half of fiscal year 2026. There has been no material impact to our capital 
+expenditures, results of operations or competitive position associated with global environmental sustainability 
+regulations, compliance, or costs from sourcing renewable energy. We committed to purchase or generate enough 
+renewable energy to match 100% of our global electricity usage for offices and data centers under our operational 
+control starting with our fiscal year 2025. In fiscal year 2024, we made progress towards this goal and increased the 
+percentage of our electricity use matched by renewable energy to 76%. By the end of fiscal year 2026, we also aim to 
+engage manufacturing suppliers comprising at least 67% of NVIDIA’s scope 3 category 1 GHG emissions with the goal of 
+effecting supplier adoption of science-based targets.
+
+Whether it is creation of technology to power next-generation laptops or designs to support high-performance 
+supercomputers, improving energy efficiency is important in our research, development, and design processes. GPU-
+accelerated computing is inherently more energy efficient than traditional computing for many workloads because it is 
+optimized for throughput, performance per watt, and certain AI workloads. We continue to have a strong presence on the 
+Green500 list of the most energy-efficient systems—we powered 8 of the top 10 most energy efficient systems, 
+including the top supercomputer, on the November 2024 Green500 list.
+
+We launched our Earth-2 initiative to create a digital twin of the Earth on NVIDIA AI and NVIDIA Omniverse platforms. 
+Earth-2 will enable scientists, companies, and policy makers to do ultra-high-resolution predictions of the impact of 
+climate change and explore mitigation and adaptation strategies.
+
+
+#### Human Capital Management
+
+We believe that our employees are our greatest assets, and they play a key role in creating long-term value for our 
+stakeholders. As of the end of fiscal year 2025, we had approximately 36,000 employees in 38 countries; 27,100 were 
+engaged in research and development and 8,900 were engaged in sales, marketing, operations, and administrative 
+positions. The Compensation Committee of our Board of Directors assists in the oversight of policies and strategies 
+relating to human capital management.
+
+To execute our business strategy successfully, we must recruit, develop, and retain the very best talent globally, including 
+exceptional executives, scientists, engineers, and technical and non-technical staff.
+
+
+#### Recruitment
+
+As the demand for global technical talent continues to be high, we have grown our technical workforce and have been 
+successful in attracting top talent to NVIDIA. We have attracted talent worldwide through our strong employer brand and 
+differentiated hiring strategies for college, professional, and leadership talent. Our workforce is 82% technical and 51%
+
+
+#### 11
+
+
+## Page 104
+
+hold advanced degrees. Additionally, we have increased our focus on diversity recruiting and we welcome employees of all 
+backgrounds. Our own employees also help to surface top talent, with over 41% of our new hires in fiscal year 2025 
+coming from employee referrals.
+
+
+#### Development and Retention
+
+To support employee development, we provide opportunities to learn on-the-job through training courses, targeted 
+development programs, mentoring and peer coaching and ongoing feedback. We constantly upgrade our learning 
+offerings to ensure that our employees are exposed to the most current content and technologies available. We offer 
+tuition reimbursement programs to subsidize educational programs and advanced certifications and encourage internal 
+job mobility. We have also implemented specifically designed mentoring and development programs for women and 
+employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.
+
+To evaluate employee sentiment and engagement, we use pulse surveys, a suggestion box, and an anonymous third-party 
+platform. We want NVIDIA to be a place where people can grow their careers over their lifetime and our employees tend 
+to come and stay. In fiscal year 2025, our overall turnover rate was 2.5%.
+
+
+#### Compensation, Benefits, and Well-Being
+
+Our compensation program rewards performance and is structured to encourage employees to invest in the Company’s 
+future. Employees receive equity, except where unavailable due to local regulations, that is tied to the value of our stock 
+price and vests over time to retain employees while simultaneously aligning their interests with those of our shareholders.
+
+We offer comprehensive benefits to support our employees’ and their families’ physical health, well-being, and financial 
+health. Programs include 401(k) programs in the U.S., statutory and supplemental pension programs outside the U.S., our 
+employee stock purchase program, flexible work hours, and time off policies. We evaluate our benefit offerings globally 
+and aim to provide comparable support across the regions where we operate. We offer tailored benefits based on the 
+needs of our employees including continuing support for parents; both new birth parents and those who wish to become 
+parents. Our support is enhanced during times of crisis, such as war or economic volatility, to take care of our existing 
+team of world-class talent and their families.
+
+
+#### Diversity, Inclusion and Belonging at NVIDIA
+
+We believe that diverse teams fuel innovation, and we are committed to creating an inclusive culture that supports all our 
+employees.
+
+When recruiting new talent or developing our current employees, we strive to build a diverse talent pipeline that includes 
+those underrepresented in the technology field, including women, Black/African American, and Hispanic/Latino 
+candidates.
+
+
+#### To this end, we:
+
+•
+Hire, promote and compensate our employees based on merit;
+
+•
+Partner with institutions and professional organizations serving historically underrepresented communities;
+
+•
+Enlist dedicated recruiting teams to shepherd underrepresented candidates through the interview process and 
+identify internal opportunities;
+
+•
+Support the development and growth of women employees through programs aimed at building a pipeline of 
+future leaders;
+
+•
+Provide peer support and executive sponsors for our internal community resource groups;
+
+•
+Provide training and education to managers and peers on fostering supportive environments that allow all our 
+employees to do their best work;
+
+•
+Track equity and parity in retention, promotions, pay, and employee engagement scores; and
+
+•
+Measure year over year progress and provide leadership visibility on talent and diversity efforts.
+
+As of the end of fiscal year 2025, our global workforce was 78% male, 21% female, and 1% not declared, with 6% of our 
+workforce in the United States composed of Black or African American and Hispanic or Latino employees.
+
+
+#### Flexible Working Environment
+
+We support a flexible work environment allowing us to recruit the very best employees, regardless of where they live. This 
+flexibility supports diverse hiring, retention of talent, including working parents and other caregivers and employee 
+engagement, which we believe makes NVIDIA a great place to work. We also provide company-wide 2-days off per quarter 
+for employees to rest and recharge.
+
+
+#### 12
+
+
+## Page 105
+
+### Table 105.1
+
+| Jen-Hsun Huang 62 President and Chief Executive Officer |
+| --- |
+| Colette M. Kress 57 Executive Vice President and Chief Financial Officer |
+| Ajay K. Puri 70 Executive Vice President, Worldwide Field Operations |
+| Debora Shoquist 70 Executive Vice President, Operations |
+| Timothy S. Teter 58 Executive Vice President and General Counsel |
+
+
+
+#### Information About Our Executive Officers
+
+The following sets forth certain information regarding our executive officers, their ages, and positions as of February 21, 
+2025:
+
+Name
+Age
+Position
+
+Jen-Hsun Huang
+62
+President and Chief Executive Officer
+
+Colette M. Kress
+57
+Executive Vice President and Chief Financial Officer
+
+Ajay K. Puri
+70
+Executive Vice President, Worldwide Field Operations
+
+Debora Shoquist
+70
+Executive Vice President, Operations
+
+Timothy S. Teter
+58
+Executive Vice President and General Counsel
+
+Jen-Hsun Huang co-founded NVIDIA in 1993 and has served as our President, Chief Executive Officer, and a member of 
+the Board of Directors since our inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a 
+computer chip manufacturer, where he held a variety of positions including as Director of Coreware, the business unit 
+responsible for LSI's SOC. From 1983 to 1985, Mr. Huang was a microprocessor designer for AMD, a semiconductor 
+company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford 
+University.
+
+Colette M. Kress joined NVIDIA in 2013 as Executive Vice President and Chief Financial Officer. Prior to NVIDIA, Ms. Kress 
+most recently served as Senior Vice President and Chief Financial Officer of the Business Technology and Operations 
+Finance organization at Cisco Systems, Inc., a networking equipment company, since 2010. At Cisco, Ms. Kress was 
+responsible for financial strategy, planning, reporting and business development for all business segments, engineering 
+and operations. From 1997 to 2010 Ms. Kress held a variety of positions at Microsoft, a software company, including, 
+beginning in 2006, Chief Financial Officer of the Server and Tools division, where Ms. Kress was responsible for financial 
+strategy, planning, reporting and business development for the division. Prior to joining Microsoft, Ms. Kress spent eight 
+years at Texas Instruments Incorporated, a semiconductor company, where she held a variety of finance positions. Ms. 
+Kress holds a B.S. degree in Finance from University of Arizona and an M.B.A. degree from Southern Methodist University.
+
+Ajay K. Puri joined NVIDIA in 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, 
+Worldwide Field Operations in 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over 
+a 22-year career at Sun Microsystems, Inc., a computing systems company. Mr. Puri previously held marketing, 
+management consulting, and product development positions at Hewlett-Packard, an information technology company, 
+Booz Allen Hamilton Inc., a management and technology consulting company, and Texas Instruments Incorporated. Mr. 
+Puri holds a B.S.E.E. degree from the University of Minnesota, an M.S.E.E. degree from the California Institute of 
+Technology and an M.B.A. degree from Harvard Business School.
+
+Debora Shoquist joined NVIDIA in 2007 as Senior Vice President of Operations and in 2009 became Executive Vice 
+President of Operations. Prior to NVIDIA, Ms. Shoquist served from 2004 to 2007 as Executive Vice President of 
+Operations at JDS Uniphase Corp., a provider of communications test and measurement solutions and optical products 
+for the telecommunications industry. She served from 2002 to 2004 as Senior Vice President and General Manager of the 
+Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Previously, she 
+worked at Quantum Corp., a data protection company, as President of the Personal Computer Hard Disk Drive Division, 
+and at Hewlett-Packard. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. 
+degree in Biology from Santa Clara University.
+
+Timothy S. Teter joined NVIDIA in 2017 as Senior Vice President, General Counsel and Secretary and became Executive 
+Vice President, General Counsel and Secretary in February 2018. Prior to NVIDIA, Mr. Teter spent more than two decades 
+at the law firm of Cooley LLP, where he focused on litigating patent and technology related matters. Prior to attending 
+law school, he worked as an engineer at Lockheed Missiles and Space Company, an aerospace company. Mr. Teter holds a 
+B.S. degree in Mechanical Engineering from the University of California at Davis and a J.D. degree from Stanford Law 
+School.
+
+
+#### Available Information
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, 
+amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 
+1934, as amended, or the Exchange Act, are available free of charge on or through our website, http://www.nvidia.com, as 
+soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange 
+Commission, or the SEC. The SEC’s website, http://www.sec.gov, contains reports, proxy and information statements, and 
+other information regarding issuers that file electronically with the SEC. Our web site and the information on it or 
+connected to it are not a part of this Annual Report on Form 10-K.
+
+
+#### Item 1A. Risk Factors
+
+The following risk factors should be considered in addition to the other information in this Annual Report on Form 10-K. The 
+following risks could harm our business, financial condition, results of operations or reputation, which could cause our stock
+
+
+#### 13
+
+
+## Page 131
+
+commitments compared to assumptions about future demand and market conditions, which requires management 
+judgment.
+
+Situations that may result in excess or obsolete inventory or excess product purchase commitments include changes in 
+business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our 
+products, including potential cancellation or deferral of customer purchase orders, inventory obsolescence because of 
+changing technology and customer requirements, new product introductions resulting in less demand for existing 
+products or inconsistent spikes in demand, failure to estimate customer demand properly, ordering in advance of 
+historical lead-times, government regulations and the impact of changes in future demand, or increase in demand for 
+competitive products, including competitive actions.
+
+The net effect on our gross margin from inventory provisions and sales of items previously written down was an 
+unfavorable impact of 2.3% in fiscal year 2025 and 2.7% in fiscal year 2024. Our inventory and capacity purchase 
+commitments are based on forecasts of future customer demand and consider our third-party manufacturers' lead times 
+and constraints. Our manufacturing lead times can be and have been long, and in some cases, extended beyond twelve 
+months for some products. We may place non-cancellable inventory orders for certain product components in advance of 
+our historical lead times, pay premiums and provide deposits to secure future supply and capacity. We also adjust to 
+other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and 
+macroeconomic conditions - all of which may impact demand for our products.
+
+Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further 
+discussion.
+
+
+#### Income Taxes
+
+We are subject to income taxes in the U.S. and foreign jurisdictions. Our calculation of deferred tax assets and liabilities is 
+based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. 
+Our estimates of deferred tax assets and liabilities may change based, in part, on added certainty or finality to an 
+anticipated outcome, changes in accounting standards or tax laws in the U.S. or foreign jurisdictions where we operate, or 
+changes in other facts or circumstances. In addition, we recognize liabilities for potential U.S. and foreign income tax 
+contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine 
+that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may 
+be required to recognize an income tax benefit or additional income tax expense in our financial statements accordingly.
+
+We record a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be 
+realized based on all available evidence. To the extent realization of the deferred tax assets becomes more-likely-than-not, 
+we would recognize such deferred tax assets as income tax benefits during the period.
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon 
+audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to 
+unrecognized tax benefits as a component of income tax expense.
+
+
+#### Revenue Recognition
+
+
+#### Revenue Allowances
+
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for 
+estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if 
+product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional 
+sales return allowances are required to reflect our estimated exposure for product returns. Return rights for certain 
+stocking distributors for specific products are contractually limited based on a percentage of prior quarter shipments. 
+For shipments to other customers, we do not allow returns, although we may approve returns for credit or refund based 
+on applicable facts and circumstances.
+
+We account for customer programs, which involve rebates and marketing development funds, or MDFs, as a reduction in 
+revenue and accrue for such programs based on the amount we expect to be claimed by customers. Certain customer 
+programs include distributor price incentives or other channel programs for specific products and customer classes 
+which require judgement as to whether the applicable incentives will be attained. Estimates for customer program 
+accruals include a combination of historical attainment and claim rates and may be adjusted based on relevant internal 
+and external factors.
+
+
+#### License and Development Arrangements
+
+Revenue from License and Development Arrangements is recognized over the period in which the development services 
+are performed. Each fiscal reporting period, we measure progress to completion based on actual cost incurred to date as 
+a percentage of the estimated total cost required to complete each project. Estimated total cost for each project 
+includes a forecast of internal engineer personnel time expected to be incurred and other third-party costs as applicable.
+
+
+#### 39
+
+
+## Page 132
+
+### Table 132.1
+
+| Revenue 100.0 % 100.0 % |
+| --- |
+| Cost of revenue 25.0 27.3 |
+| Gross profit 75.0 72.7 |
+| Operating expenses |
+| Research and development 9.9 14.2 |
+| Sales, general and administrative 2.7 4.4 |
+| Total operating expenses 12.6 18.6 |
+| Operating income 62.4 54.1 |
+| Interest income 1.4 1.4 |
+| Interest expense (0.2) (0.4) |
+| Other, net 0.8 0.4 |
+| Other income (expense), net 2.0 1.4 |
+| Income before income tax 64.4 55.5 |
+| Income tax expense 8.6 6.6 |
+| Net income 55.8 % 48.9 % |
+
+
+
+#### Contracts with Multiple Performance Obligations
+
+Our contracts may contain more than one performance obligation. Judgement is required in determining whether each 
+performance obligation within a customer contract is distinct. Except for License and Development Arrangements, 
+NVIDIA products and services function on a standalone basis and do not require a significant amount of integration or 
+interdependency. Therefore, multiple performance obligations contained within a customer contract are considered 
+distinct and are not combined for revenue recognition purposes.
+
+We allocate the total transaction price to each distinct performance obligation in an arrangement with multiple 
+performance obligations on a relative standalone selling price basis. In certain cases, we can establish standalone selling 
+price based on directly observable prices of products or services sold separately in comparable circumstances to similar 
+customers. If standalone selling price is not directly observable, such as when we do not sell a product or service 
+separately, we determine standalone selling price based on market data and other observable inputs.
+
+
+#### Results of Operations
+
+A discussion regarding our financial condition and results of operations for fiscal year 2025 compared to fiscal year 2024 
+is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2024 compared 
+to fiscal year 2023 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 28, 
+2024, filed with the SEC on February  21, 2024, which is available free of charge on the SEC’s website at http://
+www.sec.gov and at our investor relations website, http://investor.nvidia.com.
+
+The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income 
+expressed as a percentage of revenue.
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+Revenue
+ 100.0 %
+ 100.0 %
+
+Cost of revenue
+ 25.0 
+ 27.3
+
+Gross profit
+ 75.0 
+ 72.7
+
+
+#### Operating expenses
+
+Research and development
+ 9.9 
+ 14.2
+
+Sales, general and administrative
+ 2.7 
+ 4.4
+
+Total operating expenses
+ 12.6 
+ 18.6
+
+Operating income
+ 62.4 
+ 54.1
+
+Interest income
+ 1.4 
+ 1.4
+
+Interest expense
+ (0.2) 
+ (0.4)
+
+Other, net
+ 0.8 
+ 0.4
+
+Other income (expense), net
+ 2.0 
+ 1.4
+
+Income before income tax
+ 64.4 
+ 55.5
+
+Income tax expense
+ 8.6 
+ 6.6
+
+Net income
+ 55.8 %
+ 48.9 %
+
+
+#### 40
+
+
+## Page 133
+
+### Table 133.1
+
+| Compute & Networking $ 116,193 $ 47,405 $ 68,788 145 % |
+| --- |
+| Graphics 14,304 13,517 787 6 % |
+| Total $ 130,497 $ 60,922 $ 69,575 114 % |
+
+
+### Table 133.2
+
+| Compute & Networking $ 82,875 $ 32,016 $ 50,859 159 % |
+| --- |
+| Graphics 5,085 5,846 (761) (13) % |
+| All Other (6,507) (4,890) (1,617) 33 % |
+| Total $ 81,453 $ 32,972 $ 48,481 147 % |
+
+
+### Table 133.3
+
+| Direct Customer A | 12 % | * |
+| --- | --- | --- |
+| Direct Customer B | 11 % | 13 % |
+| Direct Customer C | 11 % | * |
+
+
+
+#### Reportable Segments
+
+
+#### Revenue by Reportable Segments
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+$
+Change
+
+%
+Change
+
+
+#### ($ in millions)
+
+Compute & Networking
+$ 
+116,193 
+$ 
+47,405 
+$ 
+68,788 
+ 145 %
+
+Graphics
+ 
+14,304 
+ 
+13,517 
+ 
+787 
+ 6 %
+
+Total
+$ 
+130,497 
+$ 
+60,922 
+$ 
+69,575 
+ 114 %
+
+
+#### Operating Income by Reportable Segments
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+$
+Change
+
+%
+Change
+
+
+#### ($ in millions)
+
+Compute & Networking
+$ 
+82,875 
+$ 
+32,016 
+$ 
+50,859 
+ 159 %
+
+Graphics
+ 
+5,085 
+ 
+5,846 
+ 
+(761) 
+ (13) %
+
+All Other
+ 
+(6,507)  
+(4,890)  
+(1,617) 
+ 33 %
+
+Total
+$ 
+81,453 
+$ 
+32,972 
+$ 
+48,481 
+ 147 %
+
+Compute & Networking revenue – The year over year increase was due to strong demand for our accelerated computing 
+and AI solutions. Revenue from Data Center computing grew 162% driven primarily by demand for our Hopper computing 
+platform used for large language models, recommendation engines, and generative AI applications. Revenue from Data 
+Center networking grew 51% driven by Ethernet for AI revenue, which includes Spectrum-X end-to-end ethernet 
+platform.
+
+Graphics revenue – The year over year increase was driven by sales of our GeForce RTX 40 Series GPUs.
+
+Reportable segment operating income – The year over year increase in Compute & Networking segment operating income 
+was driven by growth in revenue. The year over year decrease in Graphics segment operating income was driven by an 
+increase of 44% in segment operating expenses, partially offset by growth in revenue.
+
+All Other operating loss – The year over year increase was due to an increase in stock-based compensation expense 
+reflecting employee growth and compensation increases.
+
+
+#### Concentration of Revenue
+
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, 
+ODMs, OEMs, and system integrators. We have certain customers that may purchase products directly from NVIDIA and 
+may use either internal resources or third-party system integrators to complete their build. We also have indirect 
+customers, who purchase products through our direct customers; indirect customers include CSPs, consumer internet 
+companies, enterprises, and public sector entities.
+
+Direct Customers – Sales to direct customers which represented 10% or more of total revenue, all of which were primarily 
+attributable to the Compute & Networking segment, are presented in the following table:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+Direct Customer A
+ 12 %
+*
+
+Direct Customer B
+ 11 %
+ 13 %
+
+Direct Customer C
+ 11 %
+*
+
+* Less than 10% of total revenue.
+
+No customer represented 10% or more of total revenue for fiscal year 2023.
+
+
+#### 41
+
+
+## Page 134
+
+### Table 134.1
+
+| Research and development expenses $ 12,914 $ 8,675 $ 4,239 49 % |
+| --- |
+| % of net revenue 9.9 % 14.2 % |
+| Sales, general and administrative expenses 3,491 2,654 837 32 % |
+| % of net revenue 2.7 % 4.4 % |
+| Total operating expenses $ 16,405 $ 11,329 $ 5,076 45 % |
+| % of net revenue 12.6 % 18.6 % |
+
+
+Indirect Customers – Indirect customer revenue is an estimation based upon multiple factors including customer purchase 
+order information, product specifications, internal sales data, and other sources. Actual indirect customer revenue may 
+differ from our estimates. For fiscal year 2025, an indirect customer which primarily purchases our products through 
+system integrators and distributors, including through Direct Customer B, is estimated to represent 10% or more of total 
+revenue, attributable to the Compute & Networking segment.
+
+We have experienced periods where we receive a significant amount of our revenue from a limited number of customers, 
+and this trend may continue.
+
+Revenue by geographic region is designated based on the billing location even if the revenue may be attributable to 
+indirect customers in a different location. Revenue from sales to customers outside of the United States accounted for 
+53% and 56% of total revenue for fiscal years 2025 and 2024, respectively.
+
+
+#### Gross Profit and Gross Margin
+
+Gross profit consists of total net revenue less cost of revenue. Cost of revenue consists primarily of the cost of 
+semiconductors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing 
+support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and 
+warranty provisions, memory and component costs, tariffs, and shipping costs. Cost of revenue also includes acquisition-
+related intangible amortization expense, costs for license and development and service arrangements, IP-related costs, 
+and stock-based compensation related to personnel associated with manufacturing operations.
+
+Gross margins increased to 75.0% in fiscal year 2025 from 72.7% in fiscal year 2024. The year over year increase was 
+primarily driven by a higher mix of Data Center revenue.
+
+Provisions for inventory and excess inventory purchase obligations totaled $3.7 billion and $2.2 billion for fiscal years 
+2025 and 2024, respectively. Sales of previously reserved inventory and settlements of excess inventory purchase 
+obligations resulted in a provision release of $689 million and $540 million for fiscal years 2025 and 2024, respectively. 
+The net effect on our gross margin was an unfavorable impact of 2.3% and 2.7% in fiscal years 2025 and 2024, 
+respectively.
+
+
+#### Operating Expenses
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+$
+Change
+
+%
+Change
+
+
+#### ($ in millions)
+
+Research and development expenses
+$ 
+12,914 
+$ 
+8,675 
+$ 
+4,239 
+ 49 %
+
+% of net revenue
+ 9.9 %
+ 14.2 %
+
+Sales, general and administrative expenses
+ 
+3,491 
+ 
+2,654 
+ 
+837 
+ 32 %
+
+% of net revenue
+ 2.7 %
+ 4.4 %
+
+Total operating expenses
+$ 
+16,405 
+$ 
+11,329 
+$ 
+5,076 
+ 45 %
+
+% of net revenue
+ 12.6 %
+ 18.6 %
+
+The increases in research and development expenses for fiscal year 2025 were driven by a 32% increase in compensation 
+and benefits, including stock-based compensation, reflecting employee growth and compensation increases, a 100% 
+increase in compute and infrastructure, and a 234% increase in engineering development costs for new product 
+introductions.
+
+The increases in sales, general and administrative expenses for fiscal year 2025 were primarily driven by compensation 
+and benefits, including stock-based compensation, reflecting employee growth and compensation increases.
+
+
+#### 42
+
+
+## Page 140
+
+
+#### Item 11. Executive Compensation
+
+Information regarding our executive compensation required by this item will be contained in our 2025 Proxy Statement 
+under the captions “Executive Compensation,” “Compensation Committee Interlocks and Insider Participation,” “Director 
+Compensation,” and “Compensation Committee Report,” and is hereby incorporated by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder 
+Matters
+
+
+#### Ownership of NVIDIA Securities
+
+Information regarding ownership of NVIDIA securities required by this item will be contained in our 2025 Proxy Statement 
+under the caption “Security Ownership of Certain Beneficial Owners and Management,” and is hereby incorporated by 
+reference.
+
+
+#### Equity Compensation Plan Information
+
+Information regarding our equity compensation plans required by this item will be contained in our 2025 Proxy Statement 
+under the caption "Equity Compensation Plan Information," and is hereby incorporated by reference.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Information regarding related transactions and director independence required by this item will be contained in our 2025 
+Proxy Statement under the captions “Review of Transactions with Related Persons” and “Information About the Board of 
+Directors and Corporate Governance — Independence of the Members of the Board of Directors,” and is hereby 
+incorporated by reference.
+
+
+#### Item 14. Principal Accountant Fees and Services
+
+Information regarding accounting fees and services required by this item will be contained in our 2025 Proxy Statement 
+under the caption “Fees Billed by the Independent Registered Public Accounting Firm,” and is hereby incorporated by 
+reference.
+
+
+#### 48
+
+
+## Page 141
+
+
+#### Part IV
+
+
+#### Item 15. Exhibits and Financial Statement Schedules
+
+
+#### Page
+
+(a)
+1.
+Financial Statements
+
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 238)
+50
+
+Consolidated Statements of Income for the years ended January 26, 2025, January 28, 2024, and 
+January 29, 2023
+52
+
+Consolidated Statements of Comprehensive Income for the years ended January 26, 2025, January 
+28, 2024, and January 29, 2023
+53
+
+Consolidated Balance Sheets as of January 26, 2025 and January 28, 2024
+54
+
+Consolidated Statements of Shareholders’ Equity for the years ended January 26, 2025, January 
+28, 2024, and January 29, 2023
+55
+
+Consolidated Statements of Cash Flows for the years ended January 26, 2025, January 28, 2024, 
+and January 29, 2023
+56
+
+Notes to the Consolidated Financial Statements
+57
+
+2.
+Financial Statement Schedule
+
+Schedule II Valuation and Qualifying Accounts for the years ended January 26, 2025, January 28, 
+2024, and January 29, 2023
+82
+
+3.
+Exhibits
+
+The exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as a 
+part of this Annual Report on Form 10-K.
+83
+
+
+#### 49
+
+
+## Page 142
+
+
+#### Report of Independent Registered Public Accounting Firm
+
+
+#### To the Board of Directors and Shareholders of NVIDIA Corporation
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of NVIDIA Corporation and its subsidiaries (the 
+“Company”) as of January 26, 2025 and January 28, 2024, and the related consolidated statements of income, 
+comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended January 26, 
+2025, including the related notes and financial statement schedule listed in the index appearing under Item 15(a)(2) 
+(collectively referred to as the “consolidated financial statements”). We also have audited the Company's internal control 
+over financial reporting as of January 26, 2025, based on criteria established in Internal Control - Integrated Framework 
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial 
+position of the Company as of January 26, 2025 and January 28, 2024, and the results of its operations and its cash flows 
+for each of the three years in the period ended January 26, 2025 in conformity with accounting principles generally 
+accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective 
+internal control over financial reporting as of January 26, 2025, based on criteria established in Internal Control - 
+Integrated Framework (2013) issued by the COSO.
+
+
+#### Basis for Opinions
+
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal 
+control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, 
+included in Management’s Annual Report on Internal Control over Financial Reporting appearing under Item 9A. Our 
+responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal 
+control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company 
+Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in 
+accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange 
+Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and 
+perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of 
+material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was 
+maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material 
+misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that 
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and 
+disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used 
+and significant estimates made by management, as well as evaluating the overall presentation of the consolidated 
+financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal 
+control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design 
+and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such 
+other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis 
+for our opinions.
+
+
+#### Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the 
+reliability of financial reporting and the preparation of financial statements for external purposes in accordance with 
+generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and 
+procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the 
+transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are 
+recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting 
+principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of 
+management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely 
+detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the 
+financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become 
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may 
+deteriorate.
+
+
+#### 50
+
+
+## Page 143
+
+
+#### Critical Audit Matters
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated 
+financial statements that was communicated or required to be communicated to the audit committee and that (i) relates 
+to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially 
+challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our 
+opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit 
+matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it 
+relates.
+
+Valuation of Inventories - Provisions for Excess or Obsolete Inventories and Excess Product Purchase Commitments
+
+As described in Notes 1, 9 and 12 to the consolidated financial statements, the Company charges cost of sales for 
+inventory provisions to write-down inventory for excess or obsolete inventory and for excess product purchase 
+commitments. Most of the Company’s inventory provisions relate to excess quantities of products, based on the 
+Company’s inventory levels and future product purchase commitments compared to assumptions about future demand 
+and market conditions. As of January 26, 2025, the Company’s consolidated inventories balance was $10.1 billion and the 
+Company’s consolidated outstanding inventory purchase and long-term supply and capacity obligations balance was 
+$30.8 billion, of which a significant portion relates to inventory purchase obligations.
+
+The principal considerations for our determination that performing procedures relating to the valuation of inventories, 
+specifically the provisions for excess or obsolete inventories and excess product purchase commitments, is a critical audit 
+matter are the significant judgment by management when developing provisions for excess or obsolete inventories and 
+excess product purchase commitments, including developing assumptions related to future demand and market 
+conditions. This in turn led to significant auditor judgment, subjectivity, and effort in performing procedures and 
+evaluating management’s assumptions related to future demand and market conditions.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our 
+overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls 
+relating to management’s provisions for excess or obsolete inventories and excess product purchase commitments, 
+including controls over management’s assumptions related to future demand and market conditions. These procedures 
+also included, among others, testing management’s process for developing the provisions for excess or obsolete 
+inventories and excess product purchase commitments; evaluating the appropriateness of management’s approach; 
+testing the completeness and accuracy of underlying data used in the approach; and evaluating the reasonableness of 
+management’s assumptions related to future demand and market conditions. Evaluating management’s assumptions 
+related to future demand and market conditions involved evaluating whether the assumptions used by management were 
+reasonable considering (i) current and past results, including historical product life cycle, (ii) the consistency with external 
+market and industry data, and (iii) changes in technology.
+
+
+#### /s/ PricewaterhouseCoopers LLP
+
+San Jose, California
+February 26, 2025
+
+We have served as the Company’s auditor since 2004.
+
+
+#### 51
+
+
+## Page 144
+
+### Table 144.1
+
+| Revenue $ 130,497 $ 60,922 $ 26,974 |
+| --- |
+| Cost of revenue 32,639 16,621 11,618 |
+| Gross profit 97,858 44,301 15,356 |
+| Operating expenses |
+| Research and development 12,914 8,675 7,339 |
+| Sales, general and administrative 3,491 2,654 2,440 |
+| Acquisition termination cost — — 1,353 |
+| Total operating expenses 16,405 11,329 11,132 |
+| Operating income 81,453 32,972 4,224 |
+| Interest income 1,786 866 267 |
+| Interest expense (247) (257) (262) |
+| Other, net 1,034 237 (48) |
+| Other income (expense), net 2,573 846 (43) |
+| Income before income tax 84,026 33,818 4,181 |
+| Income tax expense (benefit) 11,146 4,058 (187) |
+| Net income $ 72,880 $ 29,760 $ 4,368 |
+| Net income per share: |
+| Basic $ 2.97 $ 1.21 $ 0.18 |
+| Diluted $ 2.94 $ 1.19 $ 0.17 |
+| Weighted average shares used in per share computation: |
+| Basic 24,555 24,690 24,870 |
+| Diluted 24,804 24,940 25,070 |
+
+
+
+#### NVIDIA Corporation and Subsidiaries
+
+
+#### Consolidated Statements of Income
+
+
+#### (In millions, except per share data)
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+Revenue
+$ 
+130,497 
+$ 
+60,922 
+$ 
+26,974
+
+Cost of revenue
+ 
+32,639 
+ 
+16,621 
+ 
+11,618
+
+Gross profit
+ 
+97,858 
+ 
+44,301 
+ 
+15,356
+
+
+#### Operating expenses
+
+Research and development
+ 
+12,914 
+ 
+8,675 
+ 
+7,339
+
+Sales, general and administrative
+ 
+3,491 
+ 
+2,654 
+ 
+2,440
+
+Acquisition termination cost
+ 
+— 
+ 
+— 
+ 
+1,353
+
+Total operating expenses
+ 
+16,405 
+ 
+11,329 
+ 
+11,132
+
+Operating income
+ 
+81,453 
+ 
+32,972 
+ 
+4,224
+
+Interest income
+ 
+1,786 
+ 
+866 
+ 
+267
+
+Interest expense
+ 
+(247)  
+(257)  
+(262)
+
+Other, net
+ 
+1,034 
+ 
+237 
+ 
+(48)
+
+Other income (expense), net
+ 
+2,573 
+ 
+846 
+ 
+(43)
+
+Income before income tax
+ 
+84,026 
+ 
+33,818 
+ 
+4,181
+
+Income tax expense (benefit)
+ 
+11,146 
+ 
+4,058 
+ 
+(187)
+
+Net income
+$ 
+72,880 
+$ 
+29,760 
+$ 
+4,368
+
+
+#### Net income per share:
+
+Basic
+$ 
+2.97 
+$ 
+1.21 
+$ 
+0.18
+
+Diluted
+$ 
+2.94 
+$ 
+1.19 
+$ 
+0.17
+
+
+#### Weighted average shares used in per share computation:
+
+Basic
+ 
+24,555 
+ 
+24,690 
+ 
+24,870
+
+Diluted
+ 
+24,804 
+ 
+24,940 
+ 
+25,070
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+
+#### 52
+
+
+## Page 145
+
+### Table 145.1
+
+| Net income $ 72,880 $ 29,760 $ 4,368 |
+| --- |
+| Other comprehensive income (loss), net of tax |
+| Available-for-sale securities: |
+| Net change in unrealized gain (loss) 1 80 (31) |
+| Reclassification adjustments for net realized gain included in net income — — 1 |
+| Net change in unrealized gain (loss) 1 80 (30) |
+| Cash flow hedges: |
+| Net change in unrealized gain 21 38 47 |
+| Reclassification adjustments for net realized loss included in net income (21) (48) (49) |
+| Net change in unrealized loss — (10) (2) |
+| Other comprehensive income (loss), net of tax 1 70 (32) |
+| Total comprehensive income $ 72,881 $ 29,830 $ 4,336 |
+
+
+NVIDIA Corporation and Subsidiaries
+Consolidated Statements of Comprehensive Income
+
+
+#### (In millions)
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+Net income
+$ 
+72,880 
+$ 
+29,760 
+$ 
+4,368
+
+
+#### Other comprehensive income (loss), net of tax
+
+
+#### Available-for-sale securities:
+
+Net change in unrealized gain (loss)
+ 
+1 
+ 
+80 
+ 
+(31)
+
+Reclassification adjustments for net realized gain included in net 
+income
+ 
+— 
+ 
+— 
+ 
+1
+
+Net change in unrealized gain (loss)
+ 
+1 
+ 
+80 
+ 
+(30)
+
+
+#### Cash flow hedges:
+
+Net change in unrealized gain
+ 
+21 
+ 
+38 
+ 
+47
+
+Reclassification adjustments for net realized loss included in net 
+income
+ 
+(21)  
+(48)  
+(49)
+
+Net change in unrealized loss
+ 
+— 
+ 
+(10)  
+(2)
+
+Other comprehensive income (loss), net of tax
+ 
+1 
+ 
+70 
+ 
+(32)
+
+Total comprehensive income
+$ 
+72,881 
+$ 
+29,830 
+$ 
+4,336
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+
+#### 53
+
+
+## Page 146
+
+### Table 146.1
+
+| Assets |
+| --- |
+| Current assets: |
+| Cash and cash equivalents $ 8,589 $ 7,280 |
+| Marketable securities 34,621 18,704 |
+| Accounts receivable, net 23,065 9,999 |
+| Inventories 10,080 5,282 |
+| Prepaid expenses and other current assets 3,771 3,080 |
+| Total current assets 80,126 44,345 |
+| Property and equipment, net 6,283 3,914 |
+| Operating lease assets 1,793 1,346 |
+| Goodwill 5,188 4,430 |
+| Intangible assets, net 807 1,112 |
+| Deferred income tax assets 10,979 6,081 |
+| Other assets 6,425 4,500 |
+| Total assets $ 111,601 $ 65,728 |
+| Liabilities and Shareholders' Equity |
+| Current liabilities: |
+| Accounts payable $ 6,310 $ 2,699 |
+| Accrued and other current liabilities 11,737 6,682 |
+| Short-term debt — 1,250 |
+| Total current liabilities 18,047 10,631 |
+| Long-term debt 8,463 8,459 |
+| Long-term operating lease liabilities 1,519 1,119 |
+| Other long-term liabilities 4,245 2,541 |
+| Total liabilities 32,274 22,750 |
+| Commitments and contingencies - see Note 12 — — |
+| Shareholders’ equity: |
+| Preferred stock, $0.001 par value; 20 shares authorized; none issued — — |
+| Common stock, $0.001 par value; 80,000 shares authorized; 24,477 shares issued and outstanding as of January 26, 2025; 24,643 shares issued and outstanding as of January 28, 2024 24 25 |
+| Additional paid-in capital 11,237 13,109 |
+| Accumulated other comprehensive income 28 27 |
+| Retained earnings 68,038 29,817 |
+| Total shareholders' equity 79,327 42,978 |
+| Total liabilities and shareholders' equity $ 111,601 $ 65,728 |
+
+
+
+#### NVIDIA Corporation and Subsidiaries
+
+Consolidated Balance Sheets
+(In millions, except par value)
+
+Jan 26, 2025
+Jan 28, 2024
+
+
+#### Assets
+
+
+#### Current assets:
+
+Cash and cash equivalents
+$ 
+8,589 
+$ 
+7,280
+
+Marketable securities
+ 
+34,621 
+ 
+18,704
+
+Accounts receivable, net
+ 
+23,065 
+ 
+9,999
+
+Inventories
+ 
+10,080 
+ 
+5,282
+
+Prepaid expenses and other current assets
+ 
+3,771 
+ 
+3,080
+
+Total current assets
+ 
+80,126 
+ 
+44,345
+
+Property and equipment, net
+ 
+6,283 
+ 
+3,914
+
+Operating lease assets
+ 
+1,793 
+ 
+1,346
+
+Goodwill
+ 
+5,188 
+ 
+4,430
+
+Intangible assets, net
+ 
+807 
+ 
+1,112
+
+Deferred income tax assets
+ 
+10,979 
+ 
+6,081
+
+Other assets
+ 
+6,425 
+ 
+4,500
+
+Total assets
+$ 
+111,601 
+$ 
+65,728
+
+
+#### Liabilities and Shareholders' Equity
+
+
+#### Current liabilities:
+
+Accounts payable
+$ 
+6,310 
+$ 
+2,699
+
+Accrued and other current liabilities
+ 
+11,737 
+ 
+6,682
+
+Short-term debt
+ 
+— 
+ 
+1,250
+
+Total current liabilities
+ 
+18,047 
+ 
+10,631
+
+Long-term debt
+ 
+8,463 
+ 
+8,459
+
+Long-term operating lease liabilities 
+ 
+1,519 
+ 
+1,119
+
+Other long-term liabilities
+ 
+4,245 
+ 
+2,541
+
+Total liabilities
+ 
+32,274 
+ 
+22,750
+
+Commitments and contingencies - see Note 12
+ 
+— 
+ 
+—
+
+
+#### Shareholders’ equity:
+
+Preferred stock, $0.001 par value; 20 shares authorized; none issued
+ 
+— 
+ 
+—
+
+Common stock, $0.001 par value; 80,000 shares authorized; 24,477 shares 
+issued and outstanding as of January 26, 2025; 24,643 shares issued and 
+outstanding as of January 28, 2024
+ 
+24 
+ 
+25
+
+Additional paid-in capital
+ 
+11,237 
+ 
+13,109
+
+Accumulated other comprehensive income
+ 
+28 
+ 
+27
+
+Retained earnings
+ 
+68,038 
+ 
+29,817
+
+Total shareholders' equity
+ 
+79,327 
+ 
+42,978
+
+Total liabilities and shareholders' equity
+$ 
+111,601 
+$ 
+65,728
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+
+#### 54
+
+
+## Page 150
+
+
+#### License and Development Arrangements
+
+Our license and development arrangements with customers typically require significant customization of our IP 
+components. As a result, we recognize the revenue from the license and the revenue from the development services as a 
+single performance obligation over the period in which the development services are performed. We measure progress to 
+completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each 
+project. If a loss on an arrangement becomes probable during a period, we record a provision for such loss in that period.
+
+
+#### Software Licensing
+
+Our software licenses provide our customers with a right to use the software when it is made available to the customer. 
+Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over 
+which the customer benefits from the software. Software licenses are frequently sold along with support, which includes 
+the right to receive, on a when-and-if available basis, future unspecified software updates and upgrades. Revenue from 
+software licenses is recognized up front when the software is made available to the customer. Software support revenue 
+is recognized ratably over the service period, or as services are performed.
+
+
+#### Cloud Services
+
+Cloud services, which allow customers to use hosted software and hardware infrastructure without taking possession of 
+the software or hardware, are provided on a subscription basis or a combination of subscription plus usage. Revenue 
+related to subscription-based cloud services is recognized ratably over the contract period. Revenue related to cloud 
+services based on usage is recognized as usage occurs. Cloud services are typically sold on a standalone basis, but certain 
+offerings may be sold with hardware and/or software and related support.
+
+
+#### Contracts with Multiple Performance Obligations
+
+Our contracts may contain more than one of the products and services listed above, each of which is separately 
+accounted for as a distinct performance obligation. We account for multiple agreements with a single customer as a 
+single contract if the contractual terms and/or substance of those agreements indicate that they may be so closely 
+related that they are, in effect, parts of a single contract.
+
+We allocate the total transaction price to each distinct performance obligation in an arrangement with multiple 
+performance obligations on a relative standalone selling price basis. The standalone selling price reflects the price we 
+would charge for a specific product or service if it were sold separately in similar circumstances and to similar customers. 
+When determining standalone selling price, we maximize the use of observable inputs.
+
+
+#### Product Warranties
+
+We offer a limited warranty to end-users ranging from one to three years for products to repair or replace products for 
+manufacturing defects or hardware component failures. Cost of revenue includes the estimated cost of product 
+warranties that are calculated at the point of revenue recognition. Under limited circumstances, we may offer an 
+extended limited warranty to customers for certain products. We also accrue for known warranty and indemnification 
+issues if a loss is probable and can be reasonably estimated.
+
+
+#### Stock-based Compensation
+
+We use the closing trading price of our common stock on the date of grant, minus a dividend yield discount, as the fair 
+value of awards of restricted stock units, or RSUs, and performance stock units, or PSUs, that are based on our corporate 
+financial performance targets. We use a Monte Carlo simulation on the date of grant to estimate the fair value of PSUs 
+that are based on our stock performance compared to market performance, or market-based PSUs. The compensation 
+expense for RSUs and market-based PSUs is recognized using a straight-line attribution method over the requisite 
+employee service period while compensation expense for PSUs is recognized using an accelerated amortization model 
+based on performance targets probable of achievement. We estimate the fair value of shares to be issued under our 
+employee stock purchase plan, or ESPP, using the Black-Scholes model at the commencement of an offering period in 
+March and September of each year. Stock-based compensation for our ESPP is expensed using an accelerated 
+amortization model. Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our 
+historical forfeitures.
+
+
+#### Litigation, Investigation and Settlement Costs
+
+We currently, are, and will likely continue to be subject to claims, litigation, and other actions, including potential 
+regulatory proceedings, involving patent and other intellectual property matters, taxes, labor and employment, 
+competition and antitrust, commercial disputes, goods and services offered by us and by third parties, and other matters. 
+There are many uncertainties associated with any litigation or investigation, and we cannot be certain that these actions 
+or other third-party claims against us will be resolved without litigation, fines and/or substantial settlement payments or 
+judgments. If information becomes available that causes us to determine that a loss in any of our pending litigation,
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 58
+
+
+## Page 151
+
+investigations or settlements is probable, and we can reasonably estimate the loss associated with such events, we will 
+record the loss. However, the actual liability in any such litigation or investigation may be materially different from our 
+estimates, which could require us to record additional costs. If we determine that a loss is reasonably possible and the 
+loss or range of loss can be estimated, we disclose the reasonably possible loss.
+
+
+#### Foreign Currency Remeasurement
+
+We use the U.S. dollar as our functional currency for our subsidiaries. Foreign currency monetary assets and liabilities are 
+remeasured into United States dollars at end-of-period exchange rates. Non-monetary assets and liabilities such as 
+property and equipment and equity are remeasured at historical exchange rates. Revenue and expenses are remeasured 
+at exchange rates in effect during each period, except for those expenses related to non-monetary balance sheet 
+amounts, which are remeasured at historical exchange rates. Gains or losses from foreign currency remeasurement are 
+included in earnings in our Consolidated Statements of Income and to date have not been significant.
+
+
+#### Income Taxes
+
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or 
+refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or 
+liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; 
+and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on 
+available evidence and judgment, are not expected to be realized.
+
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing 
+with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change 
+based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in 
+the U.S., or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize 
+liabilities for potential U.S. and foreign income tax contingencies based on our estimate of whether, and the extent to 
+which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax 
+liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income 
+tax expense in our financial statements accordingly.
+
+As of January 26, 2025, we had a valuation allowance of $1.6 billion related to capital loss carryforwards, and certain state 
+and other deferred tax assets that management determined are not likely to be realized due, in part, to jurisdictional 
+projections of future taxable income, including capital gains. To the extent realization of the deferred tax assets becomes 
+more-likely-than-not, we would recognize such deferred tax assets as income tax benefits during the period.
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon 
+audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to 
+unrecognized tax benefits as a component of income tax expense.
+
+
+#### Net Income Per Share
+
+Basic net income per share is computed using the weighted average number of common shares outstanding during the 
+period. Diluted net income per share is computed using the weighted average number of common and potentially dilutive 
+shares outstanding during the period, using the treasury stock method. Any anti-dilutive effect of equity awards 
+outstanding is not included in the computation of diluted net income per share.
+
+
+#### Cash and Cash Equivalents and Marketable Securities
+
+We consider all highly liquid investments that are readily convertible into cash and have an original maturity of three 
+months or less at the time of purchase to be cash equivalents. Marketable securities consist of highly liquid debt 
+investments with maturities of greater than three months when purchased and publicly-held equity securities. We 
+classify these investments as current based on the nature of the investments and their availability for use in current 
+operations.
+
+We classify our cash equivalents and marketable debt securities at the date of acquisition as available-for-sale. These 
+available-for-sale debt securities are reported at fair value with the related unrealized gains and losses included in 
+accumulated other comprehensive income or loss, a component of shareholders’ equity, net of tax. The fair value of 
+interest-bearing debt securities includes accrued interest. Realized gains and losses on the sale of marketable securities 
+are determined using the specific-identification method and recorded in the Other income (expense), net, section of our 
+Consolidated Statements of Income.
+
+Available-for-sale debt securities are subject to impairment review. If the estimated fair value of available-for-sale debt 
+securities is less than its amortized cost basis, we determine if the difference, if any, is caused by expected credit losses 
+and write-down the amortized cost basis of the securities if it is more likely than not we will be required or we intend to
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 59
+
+
+## Page 152
+
+sell the securities before recovery of its amortized cost basis. Allowances for credit losses and write-downs are 
+recognized in the Other income (expense), net section of our Consolidated Statements of Income.
+
+Publicly-held equity securities have readily determinable fair values with changes in fair value recorded in Other income 
+(expense), net.
+
+
+#### Fair Value of Financial Instruments
+
+The carrying value of cash equivalents, accounts receivable, accounts payable and accrued liabilities approximate their fair 
+values due to their relatively short maturities as of January 26, 2025 and January 28, 2024. Marketable debt and equity 
+securities are reported at fair value based on quoted market prices. Derivative instruments are recognized as either 
+assets or liabilities and are measured at fair value. The accounting for changes in the fair value of a derivative depends on 
+the intended use of the derivative and the resulting designation. For fair value hedges, the gains or losses are recognized 
+in earnings in the periods of change together with the offsetting losses or gains on the hedged items attributed to the 
+risk being hedged. For derivative instruments designated as accounting hedges, the effective portion of the gains or 
+losses on the derivatives is initially reported as a component of other comprehensive income or loss and is subsequently 
+recognized in earnings when the hedged exposure is recognized in earnings. For derivative instruments not designated as 
+accounting hedges, changes in fair value are recognized in earnings.
+
+
+#### Concentration of Credit Risk
+
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash equivalents, 
+marketable securities, and accounts receivable. Our investment policy requires the purchase of highly-rated fixed income 
+securities, the diversification of investment type and credit exposures, and includes certain limits on our portfolio 
+maturities. We perform ongoing credit evaluations of our customers’ financial condition and maintain an allowance for 
+potential credit losses. This allowance consists of an amount identified for specific customers and an amount based on 
+overall estimated exposure. Our overall estimated exposure excludes amounts covered by credit insurance and letters of 
+credit.
+
+
+#### Inventories
+
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-
+out basis. Inventory costs consist primarily of the cost of semiconductors, including wafer fabrication, assembly, testing 
+and packaging, manufacturing support costs, including labor and overhead associated with such purchases, final test 
+yield fallout, and shipping costs, as well as the cost of purchased memory products and other component parts. We 
+charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for 
+obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory provisions relate to 
+excess quantities of products, based on our inventory levels and future product purchase commitments compared to 
+assumptions about future demand and market conditions. Once inventory has been written-off or written-down, it 
+creates a new cost basis for the inventory that is not subsequently written-up. We record a liability for noncancelable 
+purchase commitments with suppliers for quantities in excess of our future demand forecasts consistent with our 
+valuation of obsolete or excess inventory.
+
+
+#### Property and Equipment
+
+Property and equipment are stated at cost less accumulated depreciation. Depreciation of property and equipment is 
+computed using the straight-line method based on the estimated useful lives of the assets of two to seven years. Once 
+an asset is identified for retirement or disposition, the related cost and accumulated depreciation or amortization are 
+removed, and a gain or loss is recorded. The estimated useful lives of our buildings are up to thirty years. Depreciation 
+expense includes the amortization of assets recorded under finance leases. Leasehold improvements and assets recorded 
+under finance leases are amortized over the shorter of the expected lease term or the estimated useful life of the asset.
+
+
+#### Leases
+
+We determine if an arrangement is or contains a lease at inception. Operating leases with lease terms of more than 12 
+months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease 
+liabilities on our consolidated balance sheet. Operating lease assets represent our right to use an underlying asset for the 
+lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments 
+discounted using our incremental borrowing rate. Operating lease assets also include initial direct costs incurred and 
+prepaid lease payments, minus any lease incentives. Our lease terms include options to extend or terminate the lease 
+when it is reasonably certain that we will exercise that option. Lease expense is recognized on a straight-line basis over 
+the lease term.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 60
+
+
+## Page 153
+
+
+#### Goodwill
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier if indicators of 
+potential impairment exist.  In completing our  impairment test, we  perform either a qualitative or a quantitative 
+analysis on a reporting unit basis.
+
+Qualitative factors include industry and market considerations, overall financial performance, and other relevant events 
+and factors affecting the reporting units.
+
+The quantitative impairment test considers both the income approach and the market approach to estimate a reporting 
+unit’s fair value. The income and market valuation approaches consider factors that include, but are not limited to, 
+prospective financial information, growth rates, residual values, discount rates and comparable multiples from publicly 
+traded companies in our industry and require us to make certain assumptions and estimates regarding industry economic 
+factors and the future profitability of our business.
+
+
+#### Intangible Assets and Other Long-Lived Assets
+
+Intangible assets primarily represent acquired intangible assets including developed technology and customer 
+relationships, as well as rights acquired under technology licenses, patents, and acquired IP. We currently amortize our 
+intangible assets with finite lives over periods ranging from one to twenty years using a method that reflects the pattern 
+in which the economic benefits of the intangible asset are consumed or otherwise used up or, if that pattern cannot be 
+reliably determined, using a straight-line amortization method.
+
+Long-lived assets, such as property and equipment and intangible assets subject to amortization, are reviewed for 
+impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group 
+may not be recoverable. The recoverability of assets or asset groups to be held and used is measured by a comparison of 
+the carrying amount of an asset or asset group to estimated undiscounted future cash flows expected to be generated 
+by the asset or asset group. If the carrying amount of an asset or asset group exceeds its estimated future cash flows, an 
+impairment charge is recognized for the amount by which the carrying amount of the asset or asset group exceeds the 
+estimated fair value of the asset or asset group. Fair value is determined based on the estimated discounted future cash 
+flows expected to be generated by the asset or asset group. Assets and liabilities to be disposed of would be separately 
+presented in the Consolidated Balance Sheet and the assets would be reported at the lower of the carrying amount or fair 
+value less costs to sell, and would no longer be depreciated.
+
+
+#### Business Combination
+
+We allocate the fair value of the purchase price of an acquisition to the tangible assets acquired, liabilities assumed, and 
+intangible assets acquired, based on their estimated fair values. The excess of the fair value of the purchase price over 
+the fair values of these net tangible and intangible assets acquired is recorded as goodwill. Management’s estimates of 
+fair value are based upon assumptions believed to be reasonable, but our estimates and assumptions are inherently 
+uncertain and subject to refinement. The estimates and assumptions used in valuing intangible assets include, but are not 
+limited to, the amount and timing of projected future cash flows, discount rate used to determine the present value of 
+these cash flows and asset lives. These estimates are inherently uncertain and, therefore, actual results may differ from 
+the estimates made. As a result, during the measurement period of up to one year from the acquisition date, we may 
+record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the 
+measurement period's conclusion or final determination of the fair value of the purchase price of an acquisition, 
+whichever comes first, any subsequent adjustments are recorded to our Consolidated Statements of Income.
+
+Acquisition-related expenses are recognized separately from the business combination and expensed as incurred.
+
+
+#### Non-Marketable Equity Securities
+
+Non-marketable equity securities consist of investments in privately-held companies that do not have a readily 
+determinable fair value. These investments are measured at cost minus impairment, if any, and are adjusted for changes 
+resulting from observable price changes in orderly transactions for an identical or similar investment in the same issuer, 
+or the measurement alternative. Fair value is based upon observable inputs in an inactive market and the valuation 
+requires our judgment due to the absence of market prices and inherent lack of liquidity. All gains and losses on these 
+investments, realized and unrealized, are recognized in other income (expense), net on our Consolidated Statements of 
+Income.
+
+We assess whether an impairment loss has occurred on our investments in non-marketable equity securities, accounted 
+for under the measurement alternative based on quantitative and qualitative factors. If any impairment is identified for 
+non-marketable equity securities, we write down the investment to its fair value and record the corresponding charge 
+through other income (expense), net on our Consolidated Statements of Income.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 61
+
+
+## Page 154
+
+### Table 154.1
+
+| Cost of revenue $ 178 $ 141 $ 138 |
+| --- |
+| Research and development 3,423 2,532 1,892 |
+| Sales, general and administrative 1,136 876 680 |
+| Total $ 4,737 $ 3,549 $ 2,710 |
+
+
+
+#### Recently Issued Accounting Pronouncements
+
+
+#### Recently Adopted Accounting Pronouncement
+
+In November 2023, the Financial Accounting Standards Board, or FASB, issued a new accounting standard requiring 
+disclosures of significant expenses in operating segments. We adopted this standard in our fiscal year 2025 annual 
+report. Refer to Note 16 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report 
+on Form 10-K for further information.
+
+
+#### Recent Accounting Pronouncements Not Yet Adopted
+
+In December 2023, the FASB issued a new accounting standard which includes new and updated income tax disclosures, 
+including disaggregation of information in the rate reconciliation and income taxes paid. We expect to adopt this 
+standard in our fiscal year 2026 annual report. We do not expect the adoption of this standard to have a material impact 
+on our Consolidated Financial Statements other than additional disclosures.
+
+In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense 
+information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, 
+employee compensation, depreciation and intangible asset amortization included within each income statement expense 
+caption, as applicable. We expect to adopt this standard in our fiscal year 2028 annual report. We do not expect the 
+adoption of this standard to have a material impact on our Consolidated Financial Statements other than additional 
+disclosures.
+
+
+#### Note 2 - Business Combination
+
+
+#### Termination of the Arm Share Purchase Agreement
+
+In February 2022, NVIDIA and SoftBank Group Corp, or SoftBank, announced the termination of the Share Purchase 
+Agreement whereby NVIDIA would have acquired Arm from SoftBank. The parties agreed to terminate it due to 
+significant regulatory challenges preventing the completion of the transaction. We recorded an acquisition termination 
+cost of $1.4 billion in fiscal year 2023 reflecting the write-off of the prepayment provided at signing.
+
+
+#### Note 3 - Stock-Based Compensation
+
+Stock-based compensation expense is associated with RSUs, PSUs, market-based PSUs, and our ESPP.
+
+Consolidated Statements  of Income include stock-based compensation expense,  net of amounts capitalized into 
+inventory and subsequently recognized to cost of revenue, as follows:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+
+#### (In millions)
+
+Cost of revenue
+$ 
+178 
+$ 
+141 
+$ 
+138
+
+Research and development
+ 
+3,423 
+ 
+2,532 
+ 
+1,892
+
+Sales, general and administrative
+ 
+1,136 
+ 
+876 
+ 
+680
+
+Total
+$ 
+4,737 
+$ 
+3,549 
+$ 
+2,710
+
+Stock-based compensation capitalized in inventories was not significant during fiscal years 2025, 2024, and 2023.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 62
+
+
+## Page 155
+
+### Table 155.1
+
+| RSUs, PSUs and Market-based PSUs |
+| --- |
+| Awards granted 89 140 250 |
+| Estimated total grant-date fair value $ 7,834 $ 5,316 $ 4,505 |
+| Weighted average grant-date fair value per share $ 87.99 $ 37.41 $ 18.37 |
+| ESPP |
+| Shares purchased 30 30 30 |
+| Weighted average price per share $ 17.74 $ 15.81 $ 12.25 |
+| Weighted average grant-date fair value per share $ 8.61 $ 6.99 $ 5.19 |
+
+
+### Table 155.2
+
+| Weighted average expected life (in years) 0.1-2.0 0.1-2.0 0.1-2.0 |
+| --- |
+| Risk-free interest rate 3.6%-5.4% 3.9%-5.5% —%-4.6% |
+| Volatility 31%-75% 31%-67% 43%-72% |
+| Dividend yield 0.03% 0.06% 0.09% |
+
+
+The following is a summary of equity awards granted under our equity incentive plans:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+
+#### (In millions, except per share data)
+
+
+#### RSUs, PSUs and Market-based PSUs
+
+Awards granted
+ 
+89 
+ 
+140 
+ 
+250
+
+Estimated total grant-date fair value
+$ 
+7,834 
+$ 
+5,316 
+$ 
+4,505
+
+Weighted average grant-date fair value per share
+$ 
+87.99 
+$ 
+37.41 
+$ 
+18.37
+
+
+### ESPP
+
+Shares purchased
+ 
+30 
+ 
+30 
+ 
+30
+
+Weighted average price per share
+$ 
+17.74 
+$ 
+15.81 
+$ 
+12.25
+
+Weighted average grant-date fair value per share
+$ 
+8.61 
+$ 
+6.99 
+$ 
+5.19
+
+As of January 26, 2025, aggregate unearned stock-based compensation expense was $11.6 billion, which is expected to 
+be recognized over a weighted average period of 2.2 years for RSUs, PSUs, and market-based PSUs, and one year for 
+ESPP.
+
+The fair value of shares issued under our ESPP have been estimated with the following assumptions:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+
+#### (Using the Black-Scholes model)
+
+
+### ESPP
+
+Weighted average expected life (in years)
+0.1-2.0
+0.1-2.0
+0.1-2.0
+
+Risk-free interest rate
+3.6%-5.4%
+3.9%-5.5%
+—%-4.6%
+
+Volatility
+31%-75%
+31%-67%
+43%-72%
+
+Dividend yield
+0.03%
+0.06%
+0.09%
+
+For ESPP shares, the expected term represents the average term from the first day of the offering period to the 
+purchase date. The risk-free interest rate assumption used to value ESPP shares is based upon observed interest rates on 
+Treasury bills appropriate for the expected term. Our expected stock price volatility assumption for ESPP is estimated 
+using historical volatility. For awards granted, we use the dividend yield at grant date. Our RSUs, PSUs, and market-based 
+PSUs are not eligible for cash dividends prior to vesting; therefore, the fair values of RSUs, PSUs, and market-based PSUs 
+are discounted for the dividend yield.
+
+Additionally, for RSUs, PSUs, and market-based PSUs, we estimate expected forfeitures based on our historical 
+forfeitures.
+
+
+#### Equity Incentive Program
+
+We grant RSUs, PSUs, market-based PSUs, and stock purchase rights under the following equity incentive plans. In 
+addition, in connection with our acquisitions of various companies, we have assumed certain stock-based awards granted 
+under their stock incentive plans and converted them into our RSUs.
+
+
+#### Amended and Restated 2007 Equity Incentive Plan
+
+In 2007, our shareholders approved the NVIDIA Corporation 2007 Equity Incentive Plan, or as most recently amended and 
+restated, the 2007 Plan.
+
+The 2007 Plan authorizes the issuance of incentive stock options, non-statutory stock options, restricted stock, RSUs, 
+stock appreciation rights, performance stock awards, performance cash awards, and other stock-based awards to 
+employees, directors and consultants. Only our employees may receive incentive stock options. We grant RSUs, PSUs and 
+market-based PSUs under the 2007 Plan. As of January 26, 2025, up to 274 million shares of our common stock could be 
+issued pursuant to stock awards granted under the 2007 Plan, and 1.4 billion shares were available for future grants.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 63
+
+
+## Page 159
+
+### Table 159.1
+
+| Corporate debt securities $ 10,126 $ 31 $ (5) $ 10,152 $ 2,231 $ 7,921 |
+| --- |
+| Debt securities issued by the U.S. Treasury 9,517 17 (10) 9,524 1,315 8,209 |
+| Money market funds 3,031 — — 3,031 3,031 — |
+| Debt securities issued by U.S. government agencies 2,326 8 (1) 2,333 89 2,244 |
+| Certificates of deposit 510 — — 510 294 216 |
+| Foreign government bonds 174 — — 174 60 114 |
+| Total debt securities with fair value changes recorded in other comprehensive income $ 25,684 $ 56 $ (16) $ 25,724 $ 7,020 $ 18,704 |
+
+
+### Table 159.2
+
+| Debt securities issued by the U.S. Treasury $ 6,315 $ (22) $ 177 $ — $ 6,492 $ (22) |
+| --- |
+| Corporate debt securities 5,291 (29) 15 — 5,306 (29) |
+| Debt securities issued by U.S. government agencies 816 (5) 21 — 837 (5) |
+| Total $ 12,422 $ (56) $ 213 $ — $ 12,635 $ (56) |
+
+
+### Table 159.3
+
+| Debt securities issued by the U.S. Treasury $ 3,343 $ (5) $ 1,078 $ (5) $ 4,421 $ (10) |  |
+| --- | --- |
+|  | 1,306 (3) 618 (2) 1,924 (5) |
+| Debt securities issued by U.S. government agencies 670 (1) — — 670 (1) |  |
+| Total $ 5,319 $ (9) $ 1,696 $ (7) $ 7,015 $ (16) |  |
+
+
+
+#### Jan 28, 2024
+
+
+#### Amortized
+
+
+#### Cost
+
+
+#### Unrealized
+
+
+#### Gain
+
+
+#### Unrealized
+
+
+#### Loss
+
+
+#### Estimated
+
+
+#### Fair Value
+
+
+#### Reported as
+
+Cash 
+Equivalents
+
+
+#### Marketable
+
+
+#### Securities
+
+
+#### (In millions)
+
+Corporate debt securities
+$ 
+10,126 
+$ 
+31 
+$ 
+(5) $ 
+10,152 
+$ 
+2,231 
+$ 
+7,921
+
+Debt securities issued by the 
+U.S. Treasury
+ 
+9,517 
+ 
+17 
+ 
+(10)  
+9,524 
+ 
+1,315 
+ 
+8,209
+
+Money market funds
+ 
+3,031 
+ 
+— 
+ 
+— 
+ 
+3,031 
+ 
+3,031 
+ 
+—
+
+Debt securities issued by U.S. 
+government agencies
+ 
+2,326 
+ 
+8 
+ 
+(1)  
+2,333 
+ 
+89 
+ 
+2,244
+
+Certificates of deposit
+ 
+510 
+ 
+— 
+ 
+— 
+ 
+510 
+ 
+294 
+ 
+216
+
+Foreign government bonds
+ 
+174 
+ 
+— 
+ 
+— 
+ 
+174 
+ 
+60 
+ 
+114
+
+Total debt securities with fair 
+value changes recorded in other 
+comprehensive income
+$ 
+25,684 
+$ 
+56 
+$ 
+(16) $ 
+25,724 
+$ 
+7,020 
+$ 
+18,704
+
+The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time 
+that individual debt securities have been in a continuous loss position:
+
+
+#### Jan 26, 2025
+
+Less than 12 Months
+12 Months or Greater
+Total
+
+
+#### Estimated
+
+
+#### Fair Value
+
+Gross 
+Unrealized
+
+
+#### Loss
+
+
+#### Estimated
+
+
+#### Fair Value
+
+Gross 
+Unrealized
+
+
+#### Loss
+
+
+#### Estimated
+
+
+#### Fair Value
+
+Gross 
+Unrealized
+
+
+#### Loss
+
+
+#### (In millions)
+
+Debt securities issued by the 
+U.S. Treasury
+$ 
+6,315 
+$ 
+(22) $ 
+177 
+$ 
+— $ 
+6,492 $ 
+(22)
+
+Corporate debt securities
+ 
+5,291 
+ 
+(29)  
+15 
+ 
+—  
+5,306  
+(29)
+
+Debt securities issued by U.S. 
+government agencies
+ 
+816 
+ 
+(5)  
+21 
+ 
+—  
+837  
+(5)
+
+Total
+$ 
+12,422 
+$ 
+(56) $ 
+213 
+$ 
+— $ 
+12,635 $ 
+(56)
+
+
+#### Jan 28, 2024
+
+Less than 12 Months
+12 Months or Greater
+Total
+
+
+#### Estimated
+
+
+#### Fair Value
+
+Gross 
+Unrealized
+
+
+#### Loss
+
+
+#### Estimated
+
+
+#### Fair Value
+
+Gross 
+Unrealized
+
+
+#### Loss
+
+
+#### Estimated
+
+
+#### Fair Value
+
+Gross 
+Unrealized
+
+
+#### Loss
+
+
+#### (In millions)
+
+Debt securities issued by the 
+U.S. Treasury
+$ 
+3,343 
+$ 
+(5) $ 
+1,078 
+$ 
+(5) $ 
+4,421 $ 
+(10)
+
+Corporate debt securities
+ 
+1,306 
+ 
+(3)  
+618 
+ 
+(2)  
+1,924  
+(5)
+
+Debt securities issued by U.S. 
+government agencies
+ 
+670 
+ 
+(1)  
+— 
+ 
+—  
+670  
+(1)
+
+Total
+$ 
+5,319 
+$ 
+(9) $ 
+1,696 
+$ 
+(7) $ 
+7,015 $ 
+(16)
+
+Gross unrealized losses are related to fixed income securities, driven primarily by changes in interest rates.
+
+The amortized cost and estimated fair value of debt securities included in cash equivalents and marketable securities are 
+shown below by contractual maturity.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 67
+
+
+## Page 160
+
+### Table 160.1
+
+| Less than one year $ 18,426 $ 18,450 $ 16,336 $ 16,329 |
+| --- |
+| Due in 1 - 5 years 23,636 23,656 9,348 9,395 |
+| Total $ 42,062 $ 42,106 $ 25,684 $ 25,724 |
+
+
+### Table 160.2
+
+| Cash equivalents and marketable securities: |
+| --- |
+| Money market funds Level 1 $ 3,760 $ 3,031 |
+| Publicly-held equity securities Level 1 $ 381 $ — |
+| Corporate debt securities Level 2 $ 18,526 $ 10,152 |
+| Debt securities issued by the U.S. Treasury Level 2 $ 16,769 $ 9,524 |
+| Debt securities issued by U.S. government agencies Level 2 $ 2,777 $ 2,333 |
+| Foreign government bonds Level 2 $ 177 $ 174 |
+| Certificates of deposit Level 2 $ 97 $ 510 |
+| Other assets: |
+| Publicly-held equity securities Level 1 $ — $ 225 |
+| Liabilities (1) |
+| 0.584% Notes Due 2024 Level 2 $ — $ 1,228 |
+| 3.20% Notes Due 2026 Level 2 $ 982 $ 970 |
+| 1.55% Notes Due 2028 Level 2 $ 1,136 $ 1,115 |
+| 2.85% Notes Due 2030 Level 2 $ 1,376 $ 1,367 |
+| 2.00% Notes Due 2031 Level 2 $ 1,064 $ 1,057 |
+| 3.50% Notes Due 2040 Level 2 $ 824 $ 851 |
+| 3.50% Notes Due 2050 Level 2 $ 1,482 $ 1,604 |
+| 3.70% Notes Due 2060 Level 2 $ 367 $ 403 |
+
+
+Jan 26, 2025
+Jan 28, 2024
+
+
+#### Amortized
+
+
+#### Cost
+
+
+#### Estimated
+
+
+#### Fair Value
+
+
+#### Amortized
+
+
+#### Cost
+
+
+#### Estimated
+
+
+#### Fair Value
+
+
+#### (In millions)
+
+Less than one year
+$ 
+18,426 
+$ 
+18,450 
+$ 
+16,336 
+$ 
+16,329
+
+Due in 1 - 5 years
+ 
+23,636 
+ 
+23,656 
+ 
+9,348 
+ 
+9,395
+
+Total
+$ 
+42,062 
+$ 
+42,106 
+$ 
+25,684 
+$ 
+25,724
+
+Note 8 - Fair Value of Financial Assets and Liabilities and Non-marketable Equity Securities
+
+The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or 
+market prices of similar assets from active markets. We review fair value classification on a quarterly basis.
+
+
+#### Fair Value at
+
+Pricing Category
+Jan 26, 2025
+Jan 28, 2024
+
+
+#### (In millions)
+
+
+#### Assets
+
+
+#### Cash equivalents and marketable securities:
+
+Money market funds
+Level 1
+$ 
+3,760 
+$ 
+3,031
+
+Publicly-held equity securities
+Level 1
+$ 
+381 
+$ 
+—
+
+Corporate debt securities
+Level 2
+$ 
+18,526 
+$ 
+10,152
+
+Debt securities issued by the U.S. Treasury
+Level 2
+$ 
+16,769 
+$ 
+9,524
+
+Debt securities issued by U.S. government agencies
+Level 2
+$ 
+2,777 
+$ 
+2,333
+
+Foreign government bonds
+Level 2
+$ 
+177 
+$ 
+174
+
+Certificates of deposit
+Level 2
+$ 
+97 
+$ 
+510
+
+
+#### Other assets:
+
+Publicly-held equity securities
+Level 1
+$ 
+— 
+$ 
+225
+
+
+#### Liabilities (1)
+
+0.584% Notes Due 2024
+Level 2
+$ 
+— 
+$ 
+1,228
+
+3.20% Notes Due 2026
+Level 2
+$ 
+982 
+$ 
+970
+
+1.55% Notes Due 2028
+Level 2
+$ 
+1,136 
+$ 
+1,115
+
+2.85% Notes Due 2030
+Level 2
+$ 
+1,376 
+$ 
+1,367
+
+2.00% Notes Due 2031
+Level 2
+$ 
+1,064 
+$ 
+1,057
+
+3.50% Notes Due 2040
+Level 2
+$ 
+824 
+$ 
+851
+
+3.50% Notes Due 2050
+Level 2
+$ 
+1,482 
+$ 
+1,604
+
+3.70% Notes Due 2060
+Level 2
+$ 
+367 
+$ 
+403
+
+(1) 
+Liabilities are carried on our Consolidated Balance Sheets at their original issuance value, net of unamortized debt discount and issuance costs.
+
+
+#### Non-marketable Equity Securities
+
+Our non-marketable equity securities are recorded in long-term other assets on our Consolidated Balance Sheets and 
+valued under the measurement alternative. Gains and losses on these investments, realized and unrealized, are recognized 
+in Other income (expense), net on our Consolidated Statements of Income.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 68
+
+
+## Page 161
+
+### Table 161.1
+
+| Balance at beginning of period $ 1,321 $ 288 |
+| --- |
+| Adjustments related to non-marketable equity securities: |
+| Net additions 1,309 859 |
+| Unrealized gains 816 194 |
+| Impairments and unrealized losses (59) (20) |
+| Balance at end of period $ 3,387 $ 1,321 |
+
+
+### Table 161.2
+
+| Raw materials $ 3,408 $ 1,719 |
+| --- |
+| Work in process 3,399 1,505 |
+| Finished goods 3,273 2,058 |
+| Total inventories (1) $ 10,080 $ 5,282 |
+
+
+### Table 161.3
+
+| Land $ 511 $ 218 (A) |
+| --- |
+| Buildings, leasehold improvements, and furniture 2,076 1,816 (B) |
+| Equipment, compute hardware, and software 7,568 5,200 2-7 |
+| Construction in process 529 189 (C) |
+| Total property and equipment, gross 10,684 7,423 |
+| Accumulated depreciation and amortization (4,401) (3,509) |
+| Total property and equipment, net $ 6,283 $ 3,914 |
+
+
+Adjustments to the carrying value of our non-marketable equity securities during fiscal years 2025 and 2024 were as 
+follows:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+
+#### (In millions)
+
+Balance at beginning of period
+$ 
+1,321 
+$ 
+288
+
+
+#### Adjustments related to non-marketable equity securities:
+
+Net additions
+ 
+1,309 
+ 
+859
+
+Unrealized gains
+ 
+816 
+ 
+194
+
+Impairments and unrealized losses
+ 
+(59)  
+(20)
+
+Balance at end of period
+$ 
+3,387 
+$ 
+1,321
+
+Non-marketable equity securities had cumulative gross unrealized gains of $1.1 billion and $270 million, and cumulative 
+gross unrealized losses and impairments of $105 million and $45 million on securities held as of January 26, 2025 and 
+January 28, 2024, respectively.
+
+In the fourth quarter of fiscal year 2025, one of our private company investments completed a secondary equity 
+transaction that resulted in an unrealized gain of $565 million.
+
+
+#### Note 9 - Balance Sheet Components
+
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, 
+ODMs, OEMs, and system integrators. We have certain customers that may purchase products directly from NVIDIA and 
+may use either internal resources or third-party system integrators to complete their build. Two direct customers 
+accounted for 17% and 16% of our accounts receivable balance as of January 26, 2025. Two direct customers accounted 
+for 24% and 11% of our accounts receivable balance as of January 28, 2024.
+
+
+#### Certain balance sheet components are as follows:
+
+Jan 26, 2025
+Jan 28, 2024
+
+Inventories:
+(In millions)
+
+Raw materials
+$ 
+3,408 
+$ 
+1,719
+
+Work in process
+ 
+3,399 
+ 
+1,505
+
+Finished goods
+ 
+3,273 
+ 
+2,058
+
+Total inventories (1)
+$ 
+10,080 
+$ 
+5,282
+
+(1) 
+In fiscal years 2025 and 2024, we recorded an inventory provision of $1.6 billion and $774 million, respectively, in cost of revenue.
+
+Jan 26, 2025
+Jan 28, 2024
+
+Estimated
+Useful Life
+
+Property and Equipment:
+(In millions)
+(In years)
+
+Land
+$ 
+511 
+$ 
+218 
+(A)
+
+Buildings, leasehold improvements, and furniture
+ 
+2,076 
+ 
+1,816 
+(B)
+
+Equipment, compute hardware, and software
+ 
+7,568 
+ 
+5,200 
+2-7
+
+Construction in process
+ 
+529 
+ 
+189 
+(C)
+
+Total property and equipment, gross
+ 
+10,684 
+ 
+7,423
+
+Accumulated depreciation and amortization
+ 
+(4,401)  
+(3,509)
+
+Total property and equipment, net
+$ 
+6,283 
+$ 
+3,914
+
+(A)
+Land is a non-depreciable asset.
+
+(B)
+The estimated useful lives of our buildings are up to thirty years. Leasehold improvements and finance leases are amortized based on the lesser of 
+either the asset’s estimated useful life or the expected remaining lease term.
+
+(C)
+Construction in process represents assets that are not available for their intended use as of the balance sheet date.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 69
+
+
+## Page 162
+
+### Table 162.1
+
+| Non-marketable equity securities $ 3,387 $ 1,321 |
+| --- |
+| Prepaid supply and capacity agreements (1) 1,747 2,458 |
+| Income tax receivable 750 — |
+| Prepaid royalties 340 364 |
+| Other 201 357 |
+| Total other assets $ 6,425 $ 4,500 |
+
+
+### Table 162.2
+
+| Customer program accruals $ 4,880 $ 2,081 |
+| --- |
+| Excess inventory purchase obligations (1) 2,095 1,655 |
+| Product warranty and return provisions 1,373 415 |
+| Taxes payable 881 296 |
+| Accrued payroll and related expenses 848 675 |
+| Deferred revenue (2) 837 764 |
+| Operating leases 288 228 |
+| Licenses and royalties 175 182 |
+| Unsettled share repurchases 132 187 |
+| Other 228 199 |
+| Total accrued and other current liabilities $ 11,737 $ 6,682 |
+
+
+### Table 162.3
+
+| Income tax payable (1) $ 2,188 $ 1,361 |
+| --- |
+| Deferred revenue (2) 976 573 |
+| Deferred income tax 886 462 |
+| Licenses payable 116 80 |
+| Other 79 65 |
+| Total other long-term liabilities $ 4,245 $ 2,541 |
+
+
+Depreciation expense for fiscal years 2025, 2024, and 2023 was $1.3 billion, $894 million, and $844 million, respectively.
+
+Accumulated amortization of leasehold improvements and finance leases was $410 million and $400 million as of 
+January 26, 2025 and January 28, 2024, respectively.
+
+Property, equipment and intangible assets acquired by assuming related liabilities during fiscal years 2025, 2024, and 
+2023 were $525 million, $170 million, and $374 million, respectively.
+
+Jan 26, 2025
+Jan 28, 2024
+
+Other Assets (Long Term):
+(In millions)
+
+Non-marketable equity securities
+$ 
+3,387 
+$ 
+1,321
+
+Prepaid supply and capacity agreements (1)
+ 
+1,747 
+ 
+2,458
+
+Income tax receivable
+ 
+750 
+ 
+—
+
+Prepaid royalties
+ 
+340 
+ 
+364
+
+Other
+ 
+201 
+ 
+357
+
+Total other assets
+$ 
+6,425 
+$ 
+4,500
+
+(1)
+Prepaid supply and capacity agreements of $3.3 billion and $2.5 billion were included in Prepaid expenses and other current assets as of January 26, 
+2025 and January 28, 2024, respectively.
+
+Jan 26, 2025
+Jan 28, 2024
+
+Accrued and Other Current Liabilities:
+(In millions)
+
+Customer program accruals
+$ 
+4,880 
+$ 
+2,081
+
+Excess inventory purchase obligations (1)
+ 
+2,095 
+ 
+1,655
+
+Product warranty and return provisions
+ 
+1,373 
+ 
+415
+
+Taxes payable
+ 
+881 
+ 
+296
+
+Accrued payroll and related expenses
+ 
+848 
+ 
+675
+
+Deferred revenue (2)
+ 
+837 
+ 
+764
+
+Operating leases
+ 
+288 
+ 
+228
+
+Licenses and royalties
+ 
+175 
+ 
+182
+
+Unsettled share repurchases
+ 
+132 
+ 
+187
+
+Other
+ 
+228 
+ 
+199
+
+Total accrued and other current liabilities
+$ 
+11,737 
+$ 
+6,682
+
+(1)
+In fiscal years 2025 and 2024, we recorded an expense of approximately $2.0 billion and $1.4 billion, respectively, in cost of revenue.
+
+(2)
+Includes customer advances and unearned revenue related to hardware support, software support, cloud services, and license and development 
+arrangements. The balance as of January 26, 2025 and January 28, 2024 included $81 million and $233 million of customer advances, respectively.
+
+Jan 26, 2025
+Jan 28, 2024
+
+Other Long-Term Liabilities:
+(In millions)
+
+Income tax payable (1)
+$ 
+2,188 
+$ 
+1,361
+
+Deferred revenue (2)
+ 
+976 
+ 
+573
+
+Deferred income tax
+ 
+886 
+ 
+462
+
+Licenses payable
+ 
+116 
+ 
+80
+
+Other
+ 
+79 
+ 
+65
+
+Total other long-term liabilities
+$ 
+4,245 
+$ 
+2,541
+
+(1)
+Income tax payable is comprised of the long-term portion of the one-time transition tax payable, unrecognized tax benefits, and related interest and 
+penalties.
+
+(2)
+Includes unearned revenue related to hardware support, software support and cloud services.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 70
+
+
+## Page 168
+
+### Table 168.1
+
+| Deferred tax assets: |  |
+| --- | --- |
+| Capitalized research and development expenditure $ 6,256 $ 3,376 |  |
+| GILTI deferred tax assets 2,820 1,576 |  |
+| Accruals and reserves, not currently deductible for tax purposes 2,058 1,121 |  |
+| Research and other tax credit carryforwards 759 936 |  |
+| Net operating loss and capital loss carryforwards 456 439 |  |
+| Operating lease liabilities 299 263 |  |
+| Stock-based compensation 124 106 |  |
+| Property, equipment and intangible assets 82 64 |  |
+| Other deferred tax assets 360 179 |  |
+| Gross deferred tax assets 13,214 8,060 |  |
+| Less valuation allowance (1,610) (1,552) |  |
+| Total deferred tax assets 11,604 6,508 |  |
+| Deferred tax liabilities: |  |
+| Unremitted earnings of foreign subsidiaries (891) (502) |  |
+| Operating lease assets (286) (255) |  |
+| Equity investments (264) (60) |  |
+| Acquired intangibles (70) (74) |  |
+| Gross deferred tax liabilities (1,511) (891) |  |
+| Net deferred tax asset (1) $ 10,093 $ 5,617 |  |
+
+
+The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are 
+presented below:
+
+Jan 26, 2025
+Jan 28, 2024
+
+
+#### (In millions)
+
+
+#### Deferred tax assets:
+
+Capitalized research and development expenditure
+$ 
+6,256 
+$ 
+3,376
+
+GILTI deferred tax assets
+ 
+2,820 
+ 
+1,576
+
+Accruals and reserves, not currently deductible for tax purposes
+ 
+2,058 
+ 
+1,121
+
+Research and other tax credit carryforwards
+ 
+759 
+ 
+936
+
+Net operating loss and capital loss carryforwards
+ 
+456 
+ 
+439
+
+Operating lease liabilities
+ 
+299 
+ 
+263
+
+Stock-based compensation
+ 
+124 
+ 
+106
+
+Property, equipment and intangible assets
+ 
+82 
+ 
+64
+
+Other deferred tax assets
+ 
+360 
+ 
+179
+
+Gross deferred tax assets
+ 
+13,214 
+ 
+8,060
+
+Less valuation allowance
+ 
+(1,610)  
+(1,552)
+
+Total deferred tax assets
+ 
+11,604 
+ 
+6,508
+
+
+#### Deferred tax liabilities:
+
+Unremitted earnings of foreign subsidiaries
+ 
+(891)  
+(502)
+
+Operating lease assets
+ 
+(286)  
+(255)
+
+Equity investments
+ 
+(264)  
+(60)
+
+Acquired intangibles
+ 
+(70)  
+(74)
+
+Gross deferred tax liabilities
+ 
+(1,511)  
+(891)
+
+Net deferred tax asset (1)
+$ 
+10,093 
+$ 
+5,617
+
+(1) 
+Net deferred tax asset includes long-term deferred tax assets of $11 billion and $6.1 billion and long-term deferred tax liabilities of $886 million and 
+$462 million for fiscal years 2025 and 2024, respectively. Long-term deferred tax liabilities are included in other long-term liabilities on our 
+Consolidated Balance Sheets.
+
+As of January 26, 2025, we intend to indefinitely reinvest approximately $1.4 billion of cumulative undistributed earnings 
+held by certain subsidiaries. We have not provided the amount of unrecognized deferred tax liabilities for temporary 
+differences related to these investments as the determination of such amount is not practicable.
+
+As of both January 26, 2025 and January 28, 2024, we had a valuation allowance of $1.6 billion related to capital loss 
+carryforwards, and certain state and other deferred tax assets that management determined are not likely to be realized 
+due, in part, to jurisdictional projections of future taxable income, including capital gains. To the extent realization of the 
+deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax assets as income tax benefits 
+during the period.
+
+Given our current and possible future earnings, we believe that we may release the valuation allowance associated with 
+certain state deferred tax assets in the near term, which would decrease our income tax expense for the period the 
+release is recorded. The timing and amount of the valuation allowance release could vary based on our assessment of all 
+available information.
+
+As of January  26, 2025, we had U.S. federal, state and foreign net operating loss carryforwards of $479  million, 
+$332 million and $349 million, respectively. The federal and state carryforwards will begin to expire in fiscal years 2026 
+and 2027, respectively. The foreign net operating loss carryforwards of $349 million may be carried forward indefinitely. 
+As of January 26, 2025, we had federal research tax credit carryforwards of $46 million, before the impact of uncertain 
+tax positions, that will begin to expire in fiscal year 2026. We have state research tax credit carryforwards of $1.5 billion, 
+before the impact of uncertain tax positions. $1.4 billion is attributable to the State of California and may be carried over 
+indefinitely and $98  million is attributable to various other states and will begin to expire in fiscal year 2026. As of 
+January 26, 2025, we had federal capital loss carryforwards of $1.3 billion that will begin to expire in fiscal year 2028.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 76
+
+
+## Page 169
+
+### Table 169.1
+
+| Balance at beginning of period $ 1,670 $ 1,238 $ 1,013 |
+| --- |
+| Increases in tax positions for current year 1,268 616 268 |
+| Increases in tax positions for prior years 48 87 1 |
+| Decreases in tax positions for prior years (88) (148) (15) |
+| Lapse in statute of limitations (27) (19) (20) |
+| Settlements (10) (104) (9) |
+| Balance at end of period $ 2,861 $ 1,670 $ 1,238 |
+
+
+Our tax attributes remain subject to audit and may be adjusted for changes or modification in tax laws, other 
+authoritative interpretations thereof, or other facts and circumstances. Utilization of tax attributes may also be subject 
+to limitations due to ownership changes and other limitations provided by the Internal Revenue Code and similar state 
+and foreign tax provisions. If any such limitations apply, the tax attributes may expire or be denied before utilization.
+
+
+#### A reconciliation of gross unrecognized tax benefits is as follows:
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+
+#### (In millions)
+
+Balance at beginning of period
+$ 
+1,670 
+$ 
+1,238 
+$ 
+1,013
+
+Increases in tax positions for current year
+ 
+1,268 
+ 
+616 
+ 
+268
+
+Increases in tax positions for prior years
+ 
+48 
+ 
+87 
+ 
+1
+
+Decreases in tax positions for prior years
+ 
+(88)  
+(148)  
+(15)
+
+Lapse in statute of limitations
+ 
+(27)  
+(19)  
+(20)
+
+Settlements
+ 
+(10)  
+(104)  
+(9)
+
+Balance at end of period
+$ 
+2,861 
+$ 
+1,670 
+$ 
+1,238
+
+Included in the balance of unrecognized tax benefits as of January 26, 2025 are $2 billion of tax benefits that would 
+affect our effective tax rate if recognized.
+
+We classify an unrecognized tax benefit as a current liability, or amount refundable, to the extent that we anticipate 
+payment or receipt of cash for income taxes within one year. The amount is classified as a long-term liability, or reduction 
+of long-term amount refundable, if we anticipate payment or receipt of cash for income taxes during a period beyond a 
+year.
+
+We include interest and penalties related to unrecognized tax benefits as a component of income tax expense. We 
+recognized net interest and penalties related to unrecognized tax benefits in the income tax expense line of our 
+consolidated statements of income of $92 million, $42 million, and $33 million during fiscal years 2025, 2024, and 2023, 
+respectively. As of January 26, 2025 and January 28, 2024, we have accrued $251 million and $140 million, respectively, 
+for the payment of interest and penalties related to unrecognized tax benefits, which is not included as a component of 
+our gross unrecognized tax benefits.
+
+While we believe that we have adequately provided for all tax positions, amounts asserted by tax authorities could be 
+greater or less than our accrued position. Accordingly, our provisions on federal, state and foreign tax-related matters to 
+be recorded in the future may change as revised estimates are made or the underlying matters are settled or otherwise 
+resolved. As of January 26, 2025, we have not identified any positions for which it is reasonably possible that the total 
+amounts of unrecognized tax benefits will significantly increase or decrease within the next twelve months.
+
+We are subject to taxation by taxing authorities both in the United States and other countries. As of January 26, 2025, 
+the significant tax jurisdictions that may be subject to examination include the United States for fiscal years after 2021, 
+as well as China, Germany, Hong Kong, India, Israel, Taiwan, and the United Kingdom for fiscal years 2014 through 2024. 
+As of January 26, 2025, the significant tax jurisdictions for which we are currently under examination include Germany, 
+Hong Kong, India, Israel, and Taiwan for fiscal years 2014 through 2024, and the State of California for fiscal years 2020 
+to 2022.
+
+
+#### Note 14 - Shareholders’ Equity
+
+
+#### Capital Return Program
+
+On August 26, 2024, our Board of Directors approved an additional $50 billion to our share repurchase authorization, 
+without expiration. In fiscal years 2025 and 2024, we repurchased 310 million and 210 million shares of our common 
+stock for $34.0 billion and $9.7 billion, respectively. As of January  26, 2025, we were authorized, subject to certain 
+specifications, to repurchase up to  $38.7 billion of our common stock. Our share repurchase program aims to offset 
+dilution from shares issued to employees while maintaining adequate liquidity to meet our operating requirements. We 
+may pursue additional share repurchases as we weigh market factors and other investment opportunities.
+
+From January 27, 2025 through February 21, 2025, we repurchased 29 million shares for $3.7 billion pursuant to a pre-
+established trading plan.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 77
+
+
+## Page 170
+
+### Table 170.1
+
+| Year Ended Jan 26, 2025 |
+| --- |
+| Revenue $ 116,193 $ 14,304 $ — $ 130,497 |
+| Other segment items (1) 33,318 9,219 |
+| Operating income (loss) $ 82,875 $ 5,085 $ (6,507) $ 81,453 |
+| Year Ended Jan 28, 2024 |
+| Revenue $ 47,405 $ 13,517 $ — $ 60,922 |
+| Other segment items (1) 15,389 7,671 |
+| Operating income (loss) $ 32,016 $ 5,846 $ (4,890) $ 32,972 |
+| Year Ended Jan 29, 2023 |
+| Revenue $ 15,068 $ 11,906 $ — $ 26,974 |
+| Other segment items (1) 9,985 7,354 |
+| Operating income (loss) $ 5,083 $ 4,552 $ (5,411) $ 4,224 |
+
+
+In fiscal years 2025, 2024, and 2023, we paid cash dividends to our shareholders of $834  million, $395  million, and 
+$398  million, respectively. The payment of future cash dividends is subject to our Board of Directors' continuing 
+determination that the declaration of dividends is in the best interests of our shareholders.
+
+
+#### Note 15 - Employee Retirement Plans
+
+We provide tax-qualified defined contribution plans to eligible employees in the U.S. and certain other countries. Our 
+contribution expense for fiscal years 2025, 2024, and 2023 was $314 million, $255 million, and $227 million, respectively.
+
+
+#### Note 16 - Segment Information
+
+Our Chief Executive Officer is our chief operating decision maker, or CODM, and reviews financial information presented 
+on an operating segment basis for purposes of making decisions and assessing financial performance. Our CODM 
+assesses operating performance of each segment based on regularly provided segment revenue and segment operating 
+income. Operating results by segment include costs or expenses directly attributable to each segment, and costs or 
+expenses that are leveraged across our unified architecture and therefore allocated between our two segments. Our 
+CODM reviews expenses on a consolidated basis, and expenses attributable to each segment are not regularly provided 
+to our CODM.
+
+The Compute & Networking segment includes our Data Center accelerated computing platforms and AI solutions and 
+software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other 
+embedded platforms; and DGX Cloud computing services.
+
+The Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and 
+related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; 
+vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and 
+Omniverse Enterprise software for building and operating industrial AI and digital twin applications.
+
+The “All Other” category includes the expenses that are not allocated to either Compute & Networking or Graphics for 
+purposes of making operating decisions or assessing financial performance. The expenses include stock-based 
+compensation expense, corporate infrastructure and support costs, acquisition-related and other costs, and other non-
+recurring charges and benefits that our CODM deems to be enterprise in nature.
+
+Our CODM does not review any information regarding total assets on a reportable segment basis. There are no 
+intersegment transactions. The accounting policies for segment reporting are the same as for our consolidated financial 
+statements. The table below presents details of our reportable segments and the “All Other” category.
+
+Compute & 
+Networking
+Graphics
+All Other
+Consolidated
+
+
+#### (In millions)
+
+
+#### Year Ended Jan 26, 2025
+
+Revenue
+$ 
+116,193 $ 
+14,304 
+$ 
+— 
+$ 
+130,497
+
+Other segment items (1)
+ 
+33,318  
+9,219
+
+Operating income (loss)
+$ 
+82,875 $ 
+5,085 
+$ 
+(6,507) $ 
+81,453
+
+
+#### Year Ended Jan 28, 2024
+
+Revenue
+$ 
+47,405 $ 
+13,517 
+$ 
+— 
+$ 
+60,922
+
+Other segment items (1)
+ 
+15,389  
+7,671
+
+Operating income (loss)
+$ 
+32,016 $ 
+5,846 
+$ 
+(4,890) $ 
+32,972
+
+
+#### Year Ended Jan 29, 2023
+
+Revenue
+$ 
+15,068 $ 
+11,906 
+$ 
+— 
+$ 
+26,974
+
+Other segment items (1)
+ 
+9,985  
+7,354
+
+Operating income (loss)
+$ 
+5,083 $ 
+4,552 
+$ 
+(5,411) $ 
+4,224
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 78
+
+
+## Page 171
+
+### Table 171.1
+
+| Stock-based compensation expense $ (4,737) $ (3,549) $ (2,710) |
+| --- |
+| Unallocated cost of revenue and operating expenses (1,171) (728) (595) |
+| Acquisition-related and other costs (602) (583) (674) |
+| Acquisition termination cost — — (1,353) |
+| Other 3 (30) (79) |
+| Total $ (6,507) $ (4,890) $ (5,411) |
+
+
+### Table 171.2
+
+| United States $ 61,257 $ 26,966 $ 8,292 |
+| --- |
+| Singapore (1) 23,684 6,831 2,288 |
+| Taiwan 20,573 13,405 6,986 |
+| China (including Hong Kong) 17,108 10,306 5,785 |
+| Other 7,875 3,414 3,623 |
+| Total revenue $ 130,497 $ 60,922 $ 26,974 |
+
+
+(1)
+Other segment items for the Compute & Networking and Graphics reportable segments primarily include product costs and inventory provisions, 
+compensation and benefits excluding stock-based compensation expense, compute and infrastructure expenses, and engineering development costs.
+
+Depreciation and amortization expense attributable to our Compute and Networking segment for fiscal years 2025, 2024, 
+and 2023 was $732  million, $457  million, and $377  million, respectively. Depreciation and amortization expense 
+attributable to our Graphics segment for fiscal years 2025, 2024, and 2023 was $372  million, $307  million, and 
+$315  million, respectively. Acquisition-related intangible amortization expense is not allocated to either Compute & 
+Networking or Graphics for purposes of making operating decisions or assessing financial performance and is included in 
+“All Other”.
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+Reconciling items included in "All Other" category:
+(In millions)
+
+Stock-based compensation expense
+$ 
+(4,737) $ 
+(3,549) $ 
+(2,710)
+
+Unallocated cost of revenue and operating expenses
+ 
+(1,171)  
+(728)  
+(595)
+
+Acquisition-related and other costs
+ 
+(602)  
+(583)  
+(674)
+
+Acquisition termination cost
+ 
+— 
+ 
+— 
+ 
+(1,353)
+
+Other
+ 
+3 
+ 
+(30)  
+(79)
+
+Total
+$ 
+(6,507) $ 
+(4,890) $ 
+(5,411)
+
+Revenue by geographic area is based upon the billing location of the customer. The end customer and shipping location 
+may be different from our customer’s billing location.
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+Geographic Revenue based upon Customer Billing Location:
+(In millions)
+
+United States
+$ 
+61,257 
+$ 
+26,966 
+$ 
+8,292
+
+Singapore (1)
+ 
+23,684 
+ 
+6,831 
+ 
+2,288
+
+Taiwan
+ 
+20,573 
+ 
+13,405 
+ 
+6,986
+
+China (including Hong Kong)
+ 
+17,108 
+ 
+10,306 
+ 
+5,785
+
+Other
+ 
+7,875 
+ 
+3,414 
+ 
+3,623
+
+Total revenue
+$ 
+130,497 
+$ 
+60,922 
+$ 
+26,974
+
+(1) Singapore represented 18% of fiscal year 2025 total revenue based upon customer billing location. Customers use
+
+Singapore to centralize invoicing while our products are almost always shipped elsewhere. Shipments to Singapore 
+were less than 2% of fiscal year 2025 total revenue.
+
+Revenue from sales to customers outside of the United States accounted for 53%, 56%, and 69% of total revenue for 
+fiscal years 2025, 2024, and 2023, respectively. The increase in revenue to the United States for fiscal years 2025 and 
+2024 was primarily due to higher U.S.-based Compute & Networking segment demand.
+
+We refer to customers who purchase products directly from NVIDIA as direct customers, such as AIBs, distributors, 
+ODMs, OEMs, and system integrators. We have certain customers that may purchase products directly from NVIDIA and 
+may use either internal resources or third-party system integrators to complete their build. We also have indirect 
+customers, who purchase products through our direct customers; indirect customers include CSPs, consumer internet 
+companies, enterprises, and public sector entities.
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 79
+
+
+## Page 172
+
+### Table 172.1
+
+| Direct Customer A | 12 % | * |
+| --- | --- | --- |
+| Direct Customer B | 11 % | 13 % |
+| Direct Customer C | 11 % | * |
+
+
+### Table 172.2
+
+| Data Center $ 115,186 $ 47,525 $ 15,005 |
+| --- |
+| Compute 102,196 38,950 11,317 |
+| Networking 12,990 8,575 3,688 |
+| Gaming 11,350 10,447 9,067 |
+| Professional Visualization 1,878 1,553 1,544 |
+| Automotive 1,694 1,091 903 |
+| OEM and Other 389 306 455 |
+| Total revenue $ 130,497 $ 60,922 $ 26,974 |
+
+
+### Table 172.3
+
+| United States $ 3,626 $ 2,595 |
+| --- |
+| Taiwan 1,481 773 |
+| Israel 840 325 |
+| Other 336 221 |
+| Total long-lived assets $ 6,283 $ 3,914 |
+
+
+Sales to direct customers which represented 10% or more of total revenue, all of which were primarily attributable to the 
+Compute & Networking segment, are presented in the following table:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+
+Direct Customer A
+ 12 %
+*
+
+Direct Customer B
+ 11 %
+ 13 %
+
+Direct Customer C
+ 11 %
+*
+
+* Less than 10% of total revenue.
+
+No customer represented 10% or more of total revenue for fiscal year 2023.
+
+
+#### The following table summarizes revenue by specialized markets:
+
+
+#### Year Ended
+
+Jan 26, 2025
+Jan 28, 2024
+Jan 29, 2023
+
+Revenue by End Market:
+(In millions)
+
+Data Center
+$ 
+115,186 
+$ 
+47,525 
+$ 
+15,005
+
+Compute
+ 
+102,196 
+ 
+38,950 
+ 
+11,317
+
+Networking
+ 
+12,990 
+ 
+8,575 
+ 
+3,688
+
+Gaming
+ 
+11,350 
+ 
+10,447 
+ 
+9,067
+
+Professional Visualization
+ 
+1,878 
+ 
+1,553 
+ 
+1,544
+
+Automotive
+ 
+1,694 
+ 
+1,091 
+ 
+903
+
+OEM and Other
+ 
+389 
+ 
+306 
+ 
+455
+
+Total revenue
+$ 
+130,497 
+$ 
+60,922 
+$ 
+26,974
+
+The following table presents summarized information for long-lived assets by country. Long-lived assets consist of 
+property and equipment and exclude other assets, operating lease assets, goodwill, and intangible assets.
+
+Jan 26, 2025
+Jan 28, 2024
+
+Long-lived assets:
+(In millions)
+
+United States
+$ 
+3,626 
+$ 
+2,595
+
+Taiwan
+ 
+1,481 
+ 
+773
+
+Israel
+ 
+840 
+ 
+325
+
+Other
+ 
+336 
+ 
+221
+
+Total long-lived assets
+$ 
+6,283 
+$ 
+3,914
+
+
+#### Note 17 - Leases
+
+Our lease obligations primarily consist of operating leases for our headquarters' campus and domestic and international 
+offices and data centers, with lease periods expiring between fiscal years 2026 and 2037.
+
+Future minimum lease obligations under our non-cancelable lease agreements as of January 26, 2025 were as follows:
+
+NVIDIA Corporation and Subsidiaries
+Notes to the Consolidated Financial Statements
+
+
+#### (Continued)
+
+
+#### 80
