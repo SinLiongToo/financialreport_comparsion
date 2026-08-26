@@ -45,8 +45,14 @@ const COMPANY_COLORS = {
     "meta": "#6366F1",
     "meta-platforms": "#6366F1",
     "amazon": "#F97316",
-    "amzn": "#F97316",
     "palantir": "#06B6D4",
+    "pltr": "#06B6D4",
+    "advantest": "#E11D48",
+    "6857": "#E11D48",
+    "samsung": "#60A5FA",
+    "005930": "#60A5FA"
+};
+
 const TICKER_CANONICAL_MAP = {
     "nvidia": "nvda", "nvda": "nvda", "tsmc": "tsmc", "tsm": "tsmc", "2330": "tsmc",
     "asml": "asml", "vishay": "vsh", "vsh": "vsh", "vishay-intertechnology": "vsh",
@@ -1164,8 +1170,6 @@ function renderMasterTable(data) {
         { label: `Gross Profit / FTE (${currSym})`, key: "gp_per_emp", fmt: v => `${currSym}${formatNumber(v)}` },
         { label: `Operating Income / FTE (${currSym})`, key: "op_per_emp", fmt: v => `${currSym}${formatNumber(v)}` }
     ];
-
-    const tbody = document.getElementById("tableBody");
     tbody.innerHTML = "";
     rows.forEach(r => {
         const tr = document.createElement("tr");
