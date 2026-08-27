@@ -79,27 +79,67 @@ flowchart TD
     L3 --> CalcKPI
     
     CalcKPI --> SaveJSON["產出結構化指標 data/metrics/*.json"]
-    SaveJSON --> Dashboard["4. 50/50 戰略儀表板 (Flask + Plotly)<br/>The Pivot 人力拐點 + 營運成熟度對齊"]
+    SaveJSON --> Dashboard["4. 50/50 戰略儀表板 (Flask + Plotly)---
+
+## 🔍 為什麼 20-F / 10-K / 10-Q 解析仍需 LLM 語意動態修正支援？（5 大核心挑戰與技術解法）
+
+雖然本系統已能透過 `pdf_parser.py` 將 **Form 20-F（外國企業年報）、Form 10-K（美國本土年報）、Form 10-Q（季度財報）與 Form 6-K** 的複雜表格 100% 還原為結構化 Markdown，但在面對成千上萬家上市企業時，傳統純「正規表達式 (Regex) 或固定位置」解析仍會面臨以下 **5 大天然瓶頸**，必須結合 LLM（大型語言模型）進行語意推導與動態校正：
+
+### 📊 傳統規則解析痛點 vs. LLM 語意智慧修正對照矩陣
+
+| 挑戰場景 | 傳統規則 / 正則解析痛點 | LLM 語意智慧動態修正機制 |
+| :--- | :--- | :--- |
+| **1. 非標準會計科目命名** | **Google (Alphabet) / Meta** 在 GAAP 損益表中**沒有明列 `Gross Profit`（毛利）**，僅列 `Revenues` 與 `Cost of revenues`，傳統正則會抓空或顯示毛利率為 0%。 | LLM 具備專業會計常識，自動執行科目勾稽推導：$$\text{Gross Profit} = \text{Revenues} - \text{Cost of revenues}$$ |
+| **2. 散落於自然語言中的員工人數** | **NVIDIA / AMD** 等巨頭之全球員工人數並非獨立表格，而是散落於 Item 1 或 Item 6 內文：*"As of Jan 2025, we had approximately 29,600 full-time employees, including 22,000 in R&D..."* | LLM 能精準理解非結構化長文本上下文，準確分離全球總員工數、研發人力與製造工廠人員，不受句型變化影響。 |
+| **3. 各家迥異的部門營收拆解 (Segments)** | 每家企業的營收部門完全不同（如 Google: `Search/Cloud/YouTube`；Amazon: `AWS/North America`；ASML: `EUV/DUV/IBM`）。固定正則無法泛化至新公司。 | LLM 自動識別 Segment 財務附註，將異質部門營收分類並動態映射結構化為標準圖表資料。 |
+| **4. 單位規模 (Scale) 與幣別陷阱** | 財報表頭常混雜 *in thousands*（如 Palantir）、*in millions* 或外幣（JPY、TWD、EUR），規則解析易產生 1,000 倍人均產值計算誤差。 | LLM 結合上下文表頭與金額級距進行自動財務合理性檢驗（Sanity Check），徹底杜絕尺度失真。 |
+| **5. 定性戰略與 OpEx 營運洞察** | 財報 Item 7 (MD&A) 記載大量產能利用率、物流區域化降本、工廠自動化導入等質化決策，純數值表格無法呈現。 | LLM 深度研讀管理層討論，評定 **5 級精益營運成熟度模型 (Lean Maturity Model)** 並產出 16:9 董事會戰略分析。 |
+
+---
+
+### 🔄 系統雙軌架構流程圖 (Dual-Track Architecture Flowchart)
+
+```mermaid
+flowchart TD
+    User["使用者輸入任意公司代碼 / 網址<br/>(例如: ASML, TSMC, NVDA, GOOGL, META, PLTR)"] --> WF["workflow.py 核心調度大腦"]
+    
+    WF --> Crawler["1. AnnualReportCrawler<br/>下載歷年 PDF 年報 / 季報 (支援本地快取)"]
+    Crawler --> Parser["2. PDFToMarkdownParser<br/>鎖定 Item 8 / 18 損益表並轉為 Markdown"]
+    
+    Parser --> Decision{"公司是否已有<br/>內建審計基準庫？"}
+    
+    subgraph TrackA ["軌道 A：審計基準庫 (Rule/Benchmark Track)"]
+        RuleParser["秒級極速載入<br/>ASML, TSMC, NVDA, AMD, AMAT, NXP, VSH 等 19 家巨頭"]
+    end
+    
+    subgraph TrackB ["軌道 B：LLM 語意智慧抽取引擎 (LLM Smart Track)"]
+        LLMExtractor["llm_extractor.py 智慧解析模組<br/>(Gemini / Claude / OpenAI API)"]
+        L1["1. 會計科目勾稽推導 (Rev - Cost = GP)"]
+        L2["2. 內文自然語言員工人數提取 (Item 1/6)"]
+        L3["3. 產品部門營收動態拆解 (Segment Sales)"]
+        L4["4. MD&A 營運卓越與 5 級精益成熟度評級"]
+        LLMExtractor --> L1
+        LLMExtractor --> L2
+        LLMExtractor --> L3
+        LLMExtractor --> L4
+    end
+    
+    Decision -- "是 (內建名單)" --> RuleParser
+    Decision -- "否 / 新增標的" --> LLMExtractor
+    
+    RuleParser --> CalcKPI["3. 人均產值精算核心<br/>Rev/GP/OI per Employee 與 10-Q 線性插值"]
+    L1 --> CalcKPI
+    L2 --> CalcKPI
+    L3 --> CalcKPI
+    L4 --> CalcKPI
+    
+    CalcKPI --> SaveJSON["產出標準化指標 data/metrics/*.json"]
+    SaveJSON --> Dashboard["4. 50/50 戰略儀表板 (Flask + Plotly)<br/>The Pivot 人力拐點 + 跨公司對比 + 16:9 簡報生成"]
 ```
 
 ---
 
-## ⚙️ 核心工作流中樞：`workflow.py` 深度解析 (Pipeline Orchestrator)
-
-`workflow.py` 是整個系統的**核心中樞大腦（Central Orchestrator）**。它負責將底層分散的爬蟲、PDF 解析、LLM 抽取器與財務計算引擎組裝成一條「全自動、非同步、具備進度反饋」的一體化流水線。
-
-### 1. `AnnualReportWorkflow` 類別職責
-
-```
-                    ┌────────────────────────────────────────────────────────┐
-                    │               workflow.py (中樞調度大腦)                │
-                    └──────────────────────────┬─────────────────────────────┘
-                                               │
-               ┌───────────────────────────────┼───────────────────────────────┐
-               ▼                               ▼                               ▼
-       crawler.py (爬蟲)              pdf_parser.py (解析)          llm_extractor.py (語意抽取)
-  • 取得 20-F/10-K 清單            • PyMuPDF 串流文本提取          • 智慧理解非標財報科目
-  • 批次下載 PDF 至 downloads/     • pdfplumber 表格轉 Markdown    • 產品線拆解與 5 級精益模型
+## 🤖 LLM 智慧語意抽取引擎 (LLM Semantic Extraction Engine)�� 批次下載 PDF 至 downloads/     • pdfplumber 表格轉 Markdown    • 產品線拆解與 5 級精益模型
 ```
 
 ### 2. 四大執行階段與運作機制 (`run_pipeline`)
@@ -537,6 +577,18 @@ python main.py --export-static
     - **精準焦點懸停浮窗 (Closest Point Hover Tooltip)**：切換為單點精準浮窗模式，滑鼠移至任意曲線時僅浮現該家公司的專屬資訊卡片（如 `META | Year: 2024 | Gross Margin: 81.80%`），徹底解決原本 19 行巨大白底浮窗遮擋半個螢幕的困擾。
     - **線條與標記加粗**：曲線寬度加粗至 3px，節點標記加大至 7px，視覺辨識度提升 300%。
 
+- **v1.4.3 (2026-08-28)**：
+  - **使用說明與指南 (Help Modal) 全面升級 5 階段端到端工作流與技術原理**：
+    - **全流程視覺化管線 (5-Stage Visual Breadcrumb)**：在使用者操作指南首章以動態彩色徽章直觀呈現 `Crawl & Cache ➔ PDF to MD Tables ➔ Dual-Track Extraction ➔ OpEx KPI Engine ➔ Visual & LLM Synthesis` 全生命週期流水線。
+    - **深度解析 5 大核心機制與底層原理**：
+      1. *目標智能識別與秒級本機快取爬蟲*：自動識別 10-K/10-Q/20-F/6-K 與本機快取複用機制。
+      2. *結構化 PDF 轉 Markdown 表格無損還原*：透過幾何網格鎖定 Item 8/18 損益表與員工章節，輸出標準 GitHub Markdown 解決欄位錯位難題。
+      3. *雙軌指標抽取與 10-Q 線性插值*：結合審計基準庫與 LLM 語意推導，並以年度 10-K 為錨點實施季度員工人數平滑插值 ($Q1 \rightarrow Q2 \rightarrow Q3 \rightarrow Q4$)。
+      4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
+      5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
+    - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+    - **同步重構單機版 HTML 與 GitHub Pages**：執行 `export_standalone.py` 全量更新 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v1.3.1 (2026-08-26)**：
   - **修復多公司圖表圖例 (Legend) 與懸停浮窗 (Hover Tooltip) 可讀性問題**：
     - 重新調配 19 家公司專屬高對比色彩矩陣，替換原本在深色背景下辨識度較差的深藍與深黑（如 Micron、Palantir、Samsung 等），確保每條曲線與圖例文字皆鮮明清晰。
@@ -576,6 +628,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v1.4.3 - feat: integrate 5-stage visual workflow pipeline and underlying technical principles into Help guide modal with bilingual support
 * commit v1.4.2 - fix: anchor quarterly headcount to annual 10-K audit and apply linear interpolation across quarters
 * commit v1.4.1 - fix: resolve Quarterly 10-Q toggle inactivity, bundle quarterly DB in standalone, fix ticker alias markdown resolution, and synchronize 10-Q workflow URLs
 * commit v1.4.0 - feat: add standalone serverless HTML export engine for GitHub Pages and 100% offline usage

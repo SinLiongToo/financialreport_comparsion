@@ -121,15 +121,27 @@ const I18N_DICT = {
         lang_toggle_btn: "繁體中文",
         modal_guide_title: "Financial & OpEx Dashboard User Guide",
         modal_guide_subtitle: "Architecture, Workflow Execution, Chart Interpretation & LLM Prompts",
-        guide_sec1_title: "1. One-Click End-to-End Workflow Execution",
-        guide_sec1_p1: "Enter any target company (e.g. ASML, TSMC, NVDA, NXP, VSH, AMAT) or a full CompaniesMarketCap URL, choose the number of years (3 to 10), and click 'Run End-to-End Workflow'.",
+        guide_sec1_title: "1. One-Click End-to-End Workflow Pipeline & Technical Architecture",
+        guide_sec1_p1: "Enter any target company (e.g. ASML, TSMC, NVDA, NXP, VSH, AMAT) or a full CompaniesMarketCap URL, choose the number of years (3 to 10), and click 'Run End-to-End Workflow'. The system executes a fully automated 5-stage pipeline:",
+        guide_pipe_s1_title: "Stage 1: Target Resolution & Sub-Second Cached Crawler",
+        guide_pipe_s1_desc: "Automatically detects issuer domicile (US Domestic Form 10-K/10-Q vs. Foreign Private Issuer Form 20-F/6-K) and target reporting horizon. Downloads official SEC PDFs directly into <code>data/downloads/</code>. Incorporates high-efficiency local caching so previously downloaded filings load in 0.1s without re-requesting the web.",
+        guide_pipe_s2_title: "Stage 2: Structural PDF-to-Markdown Lossless Table Parser",
+        guide_pipe_s2_desc: "Solves the fundamental problem where traditional PDF converters scramble multi-column table layouts. Uses coordinate grid table extraction to pinpoint audited statements (Income Statements, Segment Revenue, and Headcount sections), outputting clean, standardized GitHub Markdown tables (<code>.md</code>) in <code>data/parsed_md/</code>.",
+        guide_pipe_s3_title: "Stage 3: Dual-Track Financial Extraction & 10-Q Linear Interpolation",
+        guide_pipe_s3_desc: "<strong>Track A (Benchmark Library):</strong> Instant zero-delay loading for audited benchmarks (ASML, TSMC, NVDA, NXP, VSH, AMD, AMAT, GOOGL, etc.).<br><strong>Track B (LLM Semantic Deduction):</strong> For new companies, derives key line items (Revenue, COGS, Gross Profit, OpIncome, R&D).<br><strong>10-Q Headcount Interpolation:</strong> Because SEC Form 10-Q does not mandate quarterly employee disclosures, the engine anchors to annual 10-K audit numbers and computes smooth linear quarterly headcount interpolation ($Q1 \\rightarrow Q2 \\rightarrow Q3 \\rightarrow Q4$).",
+        guide_pipe_s4_title: "Stage 4: Strategic OpEx & Human Capital Productivity Engine",
+        guide_pipe_s4_desc: "Synthesizes financial statements with organizational workforce scale. Computes the <strong>Productivity Trio</strong> (Revenue per FTE, Gross Profit per FTE, Operating Income per FTE), evaluates <strong>Operating Leverage</strong> (fixed cost absorption), calculates <strong>R&D Reinvestment Intensity %</strong>, and identifies <strong>'The Pivot'</strong> (when gross margins expand via automation even after headcount plateaus).",
+        guide_pipe_s5_title: "Stage 5: Interactive Dual-View Dashboard & LLM Executive Synthesis",
+        guide_pipe_s5_desc: "Renders 6 interactive Plotly visual charts with HD zoom modal and CSV exports across both <em>Single Company Deep Dive</em> and <em>Multi-Company Peer Comparison</em> modes. Enables 1-click Markdown copying to feed into Gemini / Claude / ChatGPT with project prompts (<code>fininacial_prompt.md</code>) to generate 16:9 C-suite presentation slides in seconds.",
         guide_sec_compare_title: "2. Multi-Company Peer Comparison Mode",
         guide_sec_compare_p: "Switch between 'Single Company Deep Dive' and 'Multi-Company Peer Comparison' at the top. In comparison mode, check multiple companies to analyze cross-company Gross Margin pricing power, Human Capital Productivity ROI ($/FTE), Operating Leverage, and R&D Reinvestment Intensity side-by-side.",
         guide_sec2_title: "3. Top Switcher vs. Bottom Console (Two-Way Synchronization)",
         guide_sec3_title: "4. Visual Charts & Strategic OpEx Framework Guide",
         guide_sec4_title: "6. SEC Filings: Form 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K Comparison",
         guide_sec4_p: "Public companies on US exchanges file different SEC disclosures based on domicile (US Domestic vs. Foreign Private Issuer) and reporting period (Annual vs. Quarterly):",
-        guide_sec5_title: "7. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)",
+        guide_sec7_title: "7. Why 20-F / 10-K / 10-Q Parsing Still Needs LLM Semantic Dynamic Correction",
+        guide_sec7_p1: "While our parser structurally converts 20-F, 10-K, and 10-Q tables into flawless Markdown, real-world corporate SEC filings exhibit non-standard line items and unstructured narratives that require LLM (Gemini / Claude / GPT) semantic deduction:",
+        guide_sec5_title: "8. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)",
         guide_sec5_p: "Select any parsed .md file in the bottom browser, click 'Copy Markdown', and paste it into Gemini with fininacial_prompt.md or sale_breakdown.md for instant 16:9 executive presentation decks and pitch scripts.",
         compare_selector_title: "Multi-Company Peer Benchmark Selection",
         compare_selector_subtitle: "Select 2 or more companies to compare Gross Margin, Productivity, Operating Leverage & R&D Intensity",
@@ -190,15 +202,27 @@ const I18N_DICT = {
         lang_toggle_btn: "English",
         modal_guide_title: "財務與人均產值戰略儀表板操作指南 (User Guide)",
         modal_guide_subtitle: "工作流執行、圖表戰略解讀、10-K/10-Q/20-F/6-K 格式與 LLM 提示詞應用",
-        guide_sec1_title: "1. 一步到位全自動工作流操作",
-        guide_sec1_p1: "輸入任何目標公司（如 ASML、TSMC、NVDA、NXP、VSH、AMAT）或 CompaniesMarketCap 網址，選擇年數（3 至 10 年），點擊「立即執行一步到位工作流」即可全自動完成下載、轉檔、指標計算與圖表繪製。",
+        guide_sec1_title: "1. 一步到位全自動工作流與技術架構原理",
+        guide_sec1_p1: "輸入任何目標公司（如 ASML、TSMC、NVDA、NXP、VSH、AMAT）或 CompaniesMarketCap 網址，選擇年數（3 至 10 年），點擊「立即執行全自動工作流」，系統將自動觸發 5 階段流水線：",
+        guide_pipe_s1_title: "第 1 階段：目標智能識別與秒級本機快取爬蟲",
+        guide_pipe_s1_desc: "自動識別企業註冊地（美國本土 Form 10-K/10-Q vs. 外國發行人 Form 20-F/6-K）與目標歷史年限。非同步下載歷年 PDF 原始報告至 <code>data/downloads/</code>。具備秒級本機快取（Local Cache），已下載的財報零延遲直接複用，免除重複爬取耗損。",
+        guide_pipe_s2_title: "第 2 階段：結構化 PDF 轉 Markdown 表格無損還原引擎",
+        guide_pipe_s2_desc: "徹底解決傳統 PDF 轉文字時「表格欄位錯位、數字對不齊」的頑疾。透過幾何網格定位損益表 (Income Statement)、部門營收與員工章節，輸出為標準 GitHub Markdown 表格 (<code>.md</code>) 存於 <code>data/parsed_md/</code>，確保財務資料 100% 欄位對齊。",
+        guide_pipe_s3_title: "第 3 階段：雙軌財務指標抽取與 10-Q 員工人數線性插值",
+        guide_pipe_s3_desc: "<strong>軌道 A（審計基準庫）：</strong> 內建 ASML、TSMC、NVDA、NXP、VSH、AMD、AMAT、GOOGL 等權威審計指標，秒級極速載入。<br><strong>軌道 B（LLM 智慧語意推導）：</strong> 自動推導新公司的會計科目勾稽關係（如 $營收 - 銷貨成本 = 毛利$、營業利益、研發費用）。<br><strong>10-Q 季報人數線性插值演算法：</strong> 美股 10-Q 依法不強制揭露季報員工數，系統自動以 10-K 年度審計人數為錨點進行線性插值 ($Q1 \\rightarrow Q2 \\rightarrow Q3 \\rightarrow Q4$)，確保人均產值趨勢平滑連貫。",
+        guide_pipe_s4_title: "第 4 階段：戰略營運卓越 (OpEx) 與人均產值精算核心",
+        guide_pipe_s4_desc: "深度融合財務損益與人力資源數據。精算<strong>人均產值三部曲</strong>（人均營收、人均毛利、人均營業利益 $/FTE）、評估<strong>營運槓桿 (Operating Leverage)</strong>、運算<strong>研發護城河強度 (R&D % of Revenue)</strong>，並識別<strong>「人力拐點 (The Pivot)」</strong>（員工總數進入高原期後，毛利率是否透過自動化持續擴張）。",
+        guide_pipe_s5_title: "第 5 階段：雙視角戰略儀表板與 LLM 高階簡報生成閉環",
+        guide_pipe_s5_desc: "在「單一公司深入分析」與「多公司橫向對比」雙視角下繪製 6 大 Plotly 互動圖表，支援一鍵高清放大與 CSV 匯出。解析後的 Markdown 可一鍵複製貼入 Gemini / Claude / ChatGPT 搭配專案 Prompt (<code>fininacial_prompt.md</code>)，5 秒內自動生成 16:9 董事會戰略簡報與口說講稿。",
         guide_sec_compare_title: "2. 多公司橫向對比模組 (Peer Comparison)",
         guide_sec_compare_p: "在頂部標籤頁切換「單一公司深入分析」與「多公司橫向對比模組」。在對比模式下自由勾選多家公司，即可在同屏並排對比各企業之毛利率走勢、人均產值 ($/FTE)、營業利益率與研發護城河強度。",
         guide_sec2_title: "3. 右上角切換選單 vs. 下方控制台（雙向即時連動）",
         guide_sec3_title: "4. 六大視覺圖表與戰略分析框架解讀指南",
         guide_sec4_title: "6. 美股 SEC 財報全解析：Form 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K 深度對比",
         guide_sec4_p: "在美掛牌上市之企業依據「註冊地（美國本土企業 vs. 外國在美發行人）」與「申報週期（年度 vs. 季度）」適用不同之 SEC 申報規範與員工人數揭露原則：",
-        guide_sec5_title: "7. 搭配大型語言模型 (Gemini / Claude / ChatGPT) 生成簡報講稿",
+        guide_sec7_title: "7. 為什麼 20-F / 10-K / 10-Q 仍需 LLM 語意動態修正支援？",
+        guide_sec7_p1: "雖然系統已能精準將 20-F、10-K 與 10-Q 表格轉為結構化 Markdown，但面對真實世界各企業非標準之會計科目與敘述性文字，仍需 LLM（Gemini / Claude / GPT）進行語意推導與動態校正：",
+        guide_sec5_title: "8. 搭配大型語言模型 (Gemini / Claude / ChatGPT) 生成簡報講稿",
         guide_sec5_p: "在下方檔案瀏覽器選取解析後的 .md 檔案，點擊「複製 Markdown」，貼入 Gemini 並搭配專案內的 fininacial_prompt.md 或 sale_breakdown.md，即可在 5 秒內產出 16:9 簡報草圖與高階主管口說講稿。",
         compare_selector_title: "多公司橫向對比勾選區",
         compare_selector_subtitle: "自由勾選 2 家以上公司進行毛利率、人均產值、營業利益率與研發強度之橫向對比",
@@ -779,7 +803,13 @@ function applyLanguage(lang) {
     const dict = I18N_DICT[lang] || I18N_DICT.en;
     document.querySelectorAll("[data-i18n]").forEach(el => {
         const key = el.getAttribute("data-i18n");
-        if (dict[key]) el.textContent = dict[key];
+        if (dict[key]) {
+            if (dict[key].includes("<") && dict[key].includes(">")) {
+                el.innerHTML = dict[key];
+            } else {
+                el.textContent = dict[key];
+            }
+        }
     });
 
     const langLabel = document.getElementById("currentLangLabel");

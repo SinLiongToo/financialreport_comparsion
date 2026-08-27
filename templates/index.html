@@ -682,29 +682,160 @@
             <!-- Modal Content (Scrollable) -->
             <div class="px-6 py-5 overflow-y-auto space-y-6 text-xs text-slate-300 leading-relaxed">
                 
-                <!-- Section 1: Workflow Steps -->
-                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
-                    <h4 class="text-sm font-bold text-blue-400 flex items-center gap-2">
-                        <i class="fa-solid fa-wand-magic-sparkles"></i>
-                        <span data-i18n="guide_sec1_title">1. One-Click End-to-End Workflow Execution</span>
-                    </h4>
-                    <p data-i18n="guide_sec1_p1">Enter any target company (e.g. <code>ASML</code>, <code>TSMC</code>, <code>NVDA</code>, <code>NXP</code>, <code>VSH</code>, <code>AMAT</code>) or a full CompaniesMarketCap URL, choose the number of years (3 to 10), and click <strong>"Run End-to-End Workflow"</strong>.</p>
-                    <div class="grid grid-cols-1 md:grid-cols-4 gap-2 pt-2 text-[11px]">
-                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
-                            <strong class="text-amber-400 block mb-1">Step 1: Download</strong>
-                            Automated PDF crawling with sub-second caching.
+                <!-- Section 1: Workflow Steps & Technical Principles -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-4">
+                    <div class="flex items-center justify-between border-b border-slate-700/80 pb-2.5">
+                        <h4 class="text-sm font-bold text-blue-400 flex items-center gap-2">
+                            <i class="fa-solid fa-wand-magic-sparkles text-amber-400"></i>
+                            <span data-i18n="guide_sec1_title">1. One-Click End-to-End Workflow Pipeline & Technical Architecture</span>
+                        </h4>
+                        <span class="text-[10px] bg-blue-500/20 text-blue-300 border border-blue-500/30 px-2 py-0.5 rounded-full font-mono font-medium">5-Stage Pipeline</span>
+                    </div>
+
+                    <p data-i18n="guide_sec1_p1" class="text-xs text-slate-300">
+                        Enter any target company (e.g. <code>ASML</code>, <code>TSMC</code>, <code>NVDA</code>, <code>NXP</code>, <code>VSH</code>, <code>AMAT</code>) or a full CompaniesMarketCap URL, choose the number of years (3 to 10), and click <strong>"Run End-to-End Workflow"</strong>. The system executes a fully automated 5-stage pipeline:
+                    </p>
+
+                    <!-- Interactive Step Visual Flow Breadcrumb -->
+                    <div class="hidden md:flex items-center justify-between bg-slate-950/80 p-2.5 rounded-xl border border-slate-800 text-[11px] font-medium text-slate-300 overflow-x-auto">
+                        <div class="flex items-center gap-1.5 px-2 py-1 bg-amber-500/15 text-amber-300 rounded-lg border border-amber-500/30 shrink-0">
+                            <i class="fa-solid fa-cloud-arrow-down text-xs"></i>
+                            <span>1. Crawl & Cache</span>
                         </div>
-                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
-                            <strong class="text-blue-400 block mb-1">Step 2: Parse to MD</strong>
-                            Extracts text and GitHub markdown tables.
+                        <i class="fa-solid fa-chevron-right text-slate-600 text-[10px] shrink-0"></i>
+                        <div class="flex items-center gap-1.5 px-2 py-1 bg-blue-500/15 text-blue-300 rounded-lg border border-blue-500/30 shrink-0">
+                            <i class="fa-solid fa-file-code text-xs"></i>
+                            <span>2. PDF to MD Tables</span>
                         </div>
-                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
-                            <strong class="text-emerald-400 block mb-1">Step 3: Extract KPIs</strong>
-                            Computes Productivity ratios (Rev/FTE, GP/FTE).
+                        <i class="fa-solid fa-chevron-right text-slate-600 text-[10px] shrink-0"></i>
+                        <div class="flex items-center gap-1.5 px-2 py-1 bg-emerald-500/15 text-emerald-300 rounded-lg border border-emerald-500/30 shrink-0">
+                            <i class="fa-solid fa-microchip text-xs"></i>
+                            <span>3. Dual-Track Extraction</span>
                         </div>
-                        <div class="bg-slate-800 p-2.5 rounded-lg border border-slate-700">
-                            <strong class="text-purple-400 block mb-1">Step 4: Visualize</strong>
-                            Refreshes 6 interactive Plotly charts & tables.
+                        <i class="fa-solid fa-chevron-right text-slate-600 text-[10px] shrink-0"></i>
+                        <div class="flex items-center gap-1.5 px-2 py-1 bg-cyan-500/15 text-cyan-300 rounded-lg border border-cyan-500/30 shrink-0">
+                            <i class="fa-solid fa-calculator text-xs"></i>
+                            <span>4. OpEx KPI Engine</span>
+                        </div>
+                        <i class="fa-solid fa-chevron-right text-slate-600 text-[10px] shrink-0"></i>
+                        <div class="flex items-center gap-1.5 px-2 py-1 bg-purple-500/15 text-purple-300 rounded-lg border border-purple-500/30 shrink-0">
+                            <i class="fa-solid fa-brain text-xs"></i>
+                            <span>5. Visual & LLM Synthesis</span>
+                        </div>
+                    </div>
+
+                    <!-- 5 Detailed Workflow Mechanism Stage Cards -->
+                    <div class="space-y-3 pt-1">
+                        <!-- Stage 1 -->
+                        <div class="bg-slate-800/90 p-3.5 rounded-xl border border-slate-700 flex flex-col md:flex-row gap-3 items-start">
+                            <div class="w-8 h-8 rounded-lg bg-amber-500/20 border border-amber-500/40 text-amber-400 flex items-center justify-center font-bold text-sm shrink-0 mt-0.5">
+                                1
+                            </div>
+                            <div class="space-y-1 flex-1">
+                                <div class="flex items-center justify-between flex-wrap gap-1">
+                                    <h5 class="text-xs font-bold text-amber-300 flex items-center gap-1.5">
+                                        <i class="fa-solid fa-cloud-arrow-down"></i>
+                                        <span data-i18n="guide_pipe_s1_title">Stage 1: Target Resolution & Sub-Second Cached Crawler</span>
+                                    </h5>
+                                    <div class="flex items-center gap-1">
+                                        <span class="text-[10px] bg-amber-950/60 text-amber-300 border border-amber-600/40 px-1.5 py-0.2 rounded font-mono">10-K / 20-F / 10-Q</span>
+                                        <span class="text-[10px] bg-slate-900 text-slate-400 border border-slate-700 px-1.5 py-0.2 rounded font-mono">Local Cache</span>
+                                    </div>
+                                </div>
+                                <p class="text-[11px] text-slate-300" data-i18n="guide_pipe_s1_desc">
+                                    Automatically detects issuer domicile (US Domestic Form 10-K/10-Q vs. Foreign Private Issuer Form 20-F/6-K) and target reporting horizon. Downloads official SEC PDFs directly into <code>data/downloads/</code>. Incorporates high-efficiency local caching so previously downloaded filings load in 0.1s without re-requesting the web.
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Stage 2 -->
+                        <div class="bg-slate-800/90 p-3.5 rounded-xl border border-slate-700 flex flex-col md:flex-row gap-3 items-start">
+                            <div class="w-8 h-8 rounded-lg bg-blue-500/20 border border-blue-500/40 text-blue-400 flex items-center justify-center font-bold text-sm shrink-0 mt-0.5">
+                                2
+                            </div>
+                            <div class="space-y-1 flex-1">
+                                <div class="flex items-center justify-between flex-wrap gap-1">
+                                    <h5 class="text-xs font-bold text-blue-300 flex items-center gap-1.5">
+                                        <i class="fa-solid fa-file-code"></i>
+                                        <span data-i18n="guide_pipe_s2_title">Stage 2: Structural PDF-to-Markdown Lossless Table Parser</span>
+                                    </h5>
+                                    <div class="flex items-center gap-1">
+                                        <span class="text-[10px] bg-blue-950/60 text-blue-300 border border-blue-600/40 px-1.5 py-0.2 rounded font-mono">Table Grid Scanner</span>
+                                        <span class="text-[10px] bg-slate-900 text-slate-400 border border-slate-700 px-1.5 py-0.2 rounded font-mono">Item 8 / Item 18</span>
+                                    </div>
+                                </div>
+                                <p class="text-[11px] text-slate-300" data-i18n="guide_pipe_s2_desc">
+                                    Solves the fundamental problem where traditional PDF converters scramble multi-column table layouts. Uses coordinate grid table extraction to pinpoint audited statements (Income Statements, Segment Revenue, and Headcount sections), outputting clean, standardized GitHub Markdown tables (<code>.md</code>) in <code>data/parsed_md/</code>.
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Stage 3 -->
+                        <div class="bg-slate-800/90 p-3.5 rounded-xl border border-slate-700 flex flex-col md:flex-row gap-3 items-start">
+                            <div class="w-8 h-8 rounded-lg bg-emerald-500/20 border border-emerald-500/40 text-emerald-400 flex items-center justify-center font-bold text-sm shrink-0 mt-0.5">
+                                3
+                            </div>
+                            <div class="space-y-1 flex-1">
+                                <div class="flex items-center justify-between flex-wrap gap-1">
+                                    <h5 class="text-xs font-bold text-emerald-300 flex items-center gap-1.5">
+                                        <i class="fa-solid fa-microchip"></i>
+                                        <span data-i18n="guide_pipe_s3_title">Stage 3: Dual-Track Financial Extraction & 10-Q Linear Interpolation</span>
+                                    </h5>
+                                    <div class="flex items-center gap-1">
+                                        <span class="text-[10px] bg-emerald-950/60 text-emerald-300 border border-emerald-600/40 px-1.5 py-0.2 rounded font-mono">Track A + Track B</span>
+                                        <span class="text-[10px] bg-slate-900 text-slate-400 border border-slate-700 px-1.5 py-0.2 rounded font-mono">Quarterly Interpolation</span>
+                                    </div>
+                                </div>
+                                <p class="text-[11px] text-slate-300" data-i18n="guide_pipe_s3_desc">
+                                    <strong>Track A (Benchmark Library):</strong> Instant zero-delay loading for audited benchmarks (ASML, TSMC, NVDA, NXP, VSH, AMD, AMAT, GOOGL, etc.).<br>
+                                    <strong>Track B (LLM Semantic Deduction):</strong> For new companies, derives key line items (Revenue, COGS, Gross Profit, OpIncome, R&D).<br>
+                                    <strong>10-Q Headcount Interpolation:</strong> Because SEC Form 10-Q does not mandate quarterly employee disclosures, the engine anchors to annual 10-K audit numbers and computes smooth linear quarterly headcount interpolation ($Q1 \rightarrow Q2 \rightarrow Q3 \rightarrow Q4$).
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Stage 4 -->
+                        <div class="bg-slate-800/90 p-3.5 rounded-xl border border-slate-700 flex flex-col md:flex-row gap-3 items-start">
+                            <div class="w-8 h-8 rounded-lg bg-cyan-500/20 border border-cyan-500/40 text-cyan-400 flex items-center justify-center font-bold text-sm shrink-0 mt-0.5">
+                                4
+                            </div>
+                            <div class="space-y-1 flex-1">
+                                <div class="flex items-center justify-between flex-wrap gap-1">
+                                    <h5 class="text-xs font-bold text-cyan-300 flex items-center gap-1.5">
+                                        <i class="fa-solid fa-calculator"></i>
+                                        <span data-i18n="guide_pipe_s4_title">Stage 4: Strategic OpEx & Human Capital Productivity Engine</span>
+                                    </h5>
+                                    <div class="flex items-center gap-1">
+                                        <span class="text-[10px] bg-cyan-950/60 text-cyan-300 border border-cyan-600/40 px-1.5 py-0.2 rounded font-mono">Rev/GP/OI per FTE</span>
+                                        <span class="text-[10px] bg-slate-900 text-slate-400 border border-slate-700 px-1.5 py-0.2 rounded font-mono">The Pivot (人力拐點)</span>
+                                    </div>
+                                </div>
+                                <p class="text-[11px] text-slate-300" data-i18n="guide_pipe_s4_desc">
+                                    Synthesizes financial statements with organizational workforce scale. Computes the <strong>Productivity Trio</strong> (Revenue per FTE, Gross Profit per FTE, Operating Income per FTE), evaluates <strong>Operating Leverage</strong> (fixed cost absorption), calculates <strong>R&D Reinvestment Intensity %</strong>, and identifies <strong>"The Pivot"</strong> (when gross margins expand via automation even after headcount plateaus).
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Stage 5 -->
+                        <div class="bg-slate-800/90 p-3.5 rounded-xl border border-slate-700 flex flex-col md:flex-row gap-3 items-start">
+                            <div class="w-8 h-8 rounded-lg bg-purple-500/20 border border-purple-500/40 text-purple-400 flex items-center justify-center font-bold text-sm shrink-0 mt-0.5">
+                                5
+                            </div>
+                            <div class="space-y-1 flex-1">
+                                <div class="flex items-center justify-between flex-wrap gap-1">
+                                    <h5 class="text-xs font-bold text-purple-300 flex items-center gap-1.5">
+                                        <i class="fa-solid fa-brain"></i>
+                                        <span data-i18n="guide_pipe_s5_title">Stage 5: Interactive Dual-View Dashboard & LLM Executive Synthesis</span>
+                                    </h5>
+                                    <div class="flex items-center gap-1">
+                                        <span class="text-[10px] bg-purple-950/60 text-purple-300 border border-purple-600/40 px-1.5 py-0.2 rounded font-mono">Plotly Charts</span>
+                                        <span class="text-[10px] bg-slate-900 text-slate-400 border border-slate-700 px-1.5 py-0.2 rounded font-mono">16:9 Presentation Prompt</span>
+                                    </div>
+                                </div>
+                                <p class="text-[11px] text-slate-300" data-i18n="guide_pipe_s5_desc">
+                                    Renders 6 interactive Plotly visual charts with HD zoom modal and CSV exports across both <em>Single Company Deep Dive</em> and <em>Multi-Company Peer Comparison</em> modes. Enables 1-click Markdown copying to feed into Gemini / Claude / ChatGPT with project prompts (<code>fininacial_prompt.md</code>) to generate 16:9 C-suite presentation slides in seconds.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -874,11 +1005,69 @@
                     </div>
                 </div>
 
-                <!-- Section 6: LLM Integration -->
+                <!-- Section 7: Why 20-F / 10-K / 10-Q Still Need LLM Dynamic Correction -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-3">
+                    <div class="flex items-center justify-between border-b border-slate-700/80 pb-2.5">
+                        <h4 class="text-sm font-bold text-rose-400 flex items-center gap-2">
+                            <i class="fa-solid fa-wand-magic-sparkles text-rose-400"></i>
+                            <span data-i18n="guide_sec7_title">7. Why 20-F / 10-K / 10-Q Parsing Still Needs LLM Semantic Dynamic Correction</span>
+                        </h4>
+                        <span class="text-[10px] bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full font-mono font-medium">Dual-Track Engine</span>
+                    </div>
+                    <p class="text-xs text-slate-300" data-i18n="guide_sec7_p1">
+                        While our parser structurally converts 20-F, 10-K, and 10-Q tables into flawless Markdown, real-world corporate SEC filings exhibit non-standard line items and unstructured narratives that require LLM (Gemini / Claude / GPT) semantic deduction:
+                    </p>
+
+                    <!-- Challenge vs Solution Matrix -->
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-xs text-left border-collapse border border-slate-700 rounded-lg overflow-hidden">
+                            <thead class="bg-slate-800 text-slate-300 font-semibold border-b border-slate-700 text-[11px]">
+                                <tr>
+                                    <th class="py-2 px-2.5 border border-slate-700 w-36">Challenge Scenario</th>
+                                    <th class="py-2 px-2.5 border border-slate-700 text-amber-300">Rule / Regex Bottleneck</th>
+                                    <th class="py-2 px-2.5 border border-slate-700 text-emerald-300">LLM Semantic Dynamic Solution</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-700/60 text-slate-300 text-[11px]">
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-2.5 font-bold text-white border border-slate-700">1. Non-Standard Accounting Items</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-300"><strong>Google & Meta</strong> omit the <code>Gross Profit</code> line, reporting only <code>Revenues</code> and <code>Cost of revenues</code>. Pure regex returns 0% GM.</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">Deduces accounting relations automatically: <code class="font-mono text-emerald-200">Gross Profit = Revenues - Cost of revenues</code>.</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-2.5 font-bold text-white border border-slate-700">2. Unstructured Headcount Text</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-300"><strong>NVIDIA, AMD</strong> bury workforce totals in natural language prose across Item 1 / Item 6 without standard table grids.</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">Understands sentence semantics to isolate total employees, R&D staff, and factory personnel accurately.</td>
+                                </tr>
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-2.5 font-bold text-white border border-slate-700">3. Dynamic Segment Sales Breakdown</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-300">Each company has completely unique business segments (Google: Search/Cloud; Amazon: AWS/Retail; ASML: EUV/DUV).</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">Parses Segment Notes to disaggregate multi-tier product revenue and map to <code>sales_breakdown</code>.</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-2.5 font-bold text-white border border-slate-700">4. Unit Scale & Currency Traps</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-300">Filings mix <em>in thousands</em> (e.g. Palantir), <em>in millions</em>, or foreign currencies (JPY, TWD, EUR).</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">Performs financial sanity checks against table headers to prevent 1,000× scale distortion in Productivity ($/FTE).</td>
+                                </tr>
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-2.5 font-bold text-white border border-slate-700">5. OpEx Strategy & Lean Maturity</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-300">Qualitative management commentary in Item 7 (MD&A) cannot be parsed by numerical regular expressions.</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">Evaluates qualitative manufacturing reforms, automation progress, and generates 5-Stage Lean Maturity ratings.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="p-3 rounded-lg bg-indigo-950/40 border border-indigo-500/30 text-[11px] text-indigo-300 space-y-1">
+                        <p><strong class="text-indigo-200">• The Dual-Track Synergy:</strong> PDF-to-Markdown Parser handles structural table fidelity; LLM acts as the senior financial analyst brain to dynamically infer non-standard metrics, ensuring 100% universal adaptability for any global enterprise.</p>
+                    </div>
+                </div>
+
+                <!-- Section 8: LLM Integration -->
                 <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-2">
                     <h4 class="text-sm font-bold text-purple-400 flex items-center gap-2">
                         <i class="fa-solid fa-brain"></i>
-                        <span data-i18n="guide_sec5_title">7. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)</span>
+                        <span data-i18n="guide_sec5_title">8. Using Parsed Markdown with LLMs (Gemini / Claude / ChatGPT)</span>
                     </h4>
                     <p data-i18n="guide_sec5_p">Select any parsed <code>.md</code> file in the bottom browser, click <strong>"Copy Markdown"</strong>, and paste it into Gemini with <code>fininacial_prompt.md</code> or <code>sale_breakdown.md</code> for instant 16:9 executive presentation decks and pitch scripts.</p>
                 </div>
