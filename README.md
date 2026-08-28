@@ -472,6 +472,40 @@ flowchart TD
 
 ---
 
+## 🛠️ Antigravity 專屬擴充技能：多格式財報、跨幣別、長週期與戰略指標分析器 (inancial-report-multiformat-analyzer)
+
+本專案已在 .agents/skills/financial-report-multiformat-analyzer/SKILL.md 正式建立 Antigravity 專屬擴充技能（Custom Agent Skill），讓 AI Agent 在面對未來任意新納入的企業時，能依循標準化 SOP 進行自動化深度分析：
+
+### 1. 支援的跨國財報體系與會計準則
+* **美國 SEC 境內申報**：Form 10-K（年度審計）、Form 10-Q（季度未審計）。
+* **外國私人發行人 (FPI) 申報**：Form 20-F（外企年報，如 ASML、TSMC ADR）、Form 6-K / 10-F（外企中期/季度發布）。
+* **台灣證交所 (TWSE) 企業年報**：五年度財務概況與獲利能力分析表（如 鴻海 2317、日月光 3711、聯發科 2454）。
+* **國際與亞洲財報**：日本有價證券報告書（Yuho，如 Advantest 6857）、韓國 DART（Samsung 005930）、歐洲 IFRS 年報。
+
+### 2. 跨國幣別換算與尺度正規化 (USD \ Normalization)
+為確保橫向同屏評比之客觀性，所有非美元幣別均依當年度/季度歷史平均基準匯率轉換為 **USD (Millions)**：
+* **新台幣 (TWD / NT\$)**：2020: 29.50 | 2021: 28.00 | 2022: 29.80 | 2023: 31.10 | 2024: 32.00 | 2025: 32.00
+* **歐元 (EUR / €)**：2020: 1.14 | 2021: 1.18 | 2022: 1.05 | 2023: 1.08 | 2024: 1.08 | 2025: 1.08
+* **日圓 (JPY / ¥)**：2020: 106.8 | 2021: 109.8 | 2022: 131.5 | 2023: 140.5 | 2024: 151.0 | 2025: 150.0
+* **韓元 (KRW / ₩)**：2020: 1180 | 2021: 1145 | 2022: 1290 | 2023: 1305 | 2024: 1360 | 2025: 1350
+* **尺度修正 (Scale Sanitization)**：自動識別 in thousands (乘 ^{-3}$)、in millions (乘 .0$)、in billions / trillions (乘 ^3$)。
+
+### 3. 核心戰略指標與運算公式庫 (Strategic Indices & KPI Catalog)
+1. **人均產值三指標 (Human Capital Productivity Trio)**：
+   \\text{人均營收 (Rev/FTE)} = \\frac{\\text{營收 (\)} \\times 10^6}{\\text{員工人數 (Headcount)}}
+   \\text{人均毛利 (GP/FTE)} = \\frac{\\text{毛利 (\)} \\times 10^6}{\\text{員工人數 (Headcount)}}
+   \\text{人均營利 (OI/FTE)} = \\frac{\\text{營業利益 (\)} \\times 10^6}{\\text{員工人數 (Headcount)}}
+2. **人力與毛利率黃金拐點 (The Pivot)**：
+   * 判定員工人數成長率趨緩進高原期（$\\Delta\\% HC \\le 3\\%$）但毛利率因黑燈工廠與 AI 智慧製造持續擴張（$\\Delta GM > 0$）之關鍵年份。
+3. **營運槓桿係數 (Operating Leverage Coefficient)**：
+   \\text{營運槓桿係數} = \\frac{\\Delta \\% \\text{營業利益}}{\\Delta \\% \\text{營收}}
+4. **研發再投資護城河強度 (R&D Moat Intensity %)**：
+   \\text{研發費用率 \\%} = \\frac{\\text{研發費用}}{\\text{營收}} \\times 100\\%
+5. **五級精益營運成熟度評級 (5-Stage Lean Maturity Model)**：
+   * **Level 1 (Reactive)** $\\rightarrow$ **Level 2 (Standardized)** $\\rightarrow$ **Level 3 (Automated)** $\\rightarrow$ **Level 4 (Predictive)** $\\rightarrow$ **Level 5 (Cognitive World-Class)**。
+
+---
+
 ## 🤖 如何搭配 Gemini / LLM 進行深度戰略產出
 
 當工作流將 PDF 解析為 Markdown 後，您可按照以下步驟在 5 分鐘內生成頂級分析簡報：
@@ -577,6 +611,13 @@ python main.py --export-static
     - **精準焦點懸停浮窗 (Closest Point Hover Tooltip)**：切換為單點精準浮窗模式，滑鼠移至任意曲線時僅浮現該家公司的專屬資訊卡片（如 `META | Year: 2024 | Gross Margin: 81.80%`），徹底解決原本 19 行巨大白底浮窗遮擋半個螢幕的困擾。
     - **線條與標記加粗**：曲線寬度加粗至 3px，節點標記加大至 7px，視覺辨識度提升 300%。
 
+- **v1.5.1 (2026-08-29)**：
+  - **建立 Antigravity 專屬擴充技能 (.agents/skills/financial-report-multiformat-analyzer/SKILL.md)**：
+    - 系統化封裝美股 10-K/10-Q/20-F/6-K、台灣 TWSE 年報、日本 Yuho、韓國 DART 及 IFRS/US GAAP 之多格式會計解析規範。
+    - 內建跨國幣別 (USD, TWD, EUR, JPY, KRW) 與尺度 (Thousands, Millions, Billions) 標準化換算引擎。
+    - 定義完整戰略指標運算庫（人均營收/毛利/營利三劍客、The Pivot 拐點、營運槓桿係數、5 級精益成熟度模型）。
+  - **更新 README 與全方位分析手冊**：提供未來擴展任意跨國科技與半導體巨頭之標準化流程。
+
 - **v1.5.0 (2026-08-29)**：
   - **全面整合鴻海精密 / 富士康 (Hon Hai / Foxconn, 2317 / HNHPF) 審計財務資料庫**：
     - 支援 2020～2025 年年度與 2023～2025 年季度營業收入（NT$ 6.86 兆 / USD ,143 億）、毛利率（5.65%～6.40%）、營業利益與人均產值指標。
@@ -635,7 +676,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
-* commit v1.5.0 - feat: integrate Foxconn / Hon Hai Precision (2317) audited benchmark datasets, sales breakdown, and quarterly analytics
+* commit v1.5.1 - feat: establish financial-report-multiformat-analyzer skill and multi-currency strategic indices guide\n* commit v1.5.0 - feat: integrate Foxconn / Hon Hai Precision (2317) audited benchmark datasets, sales breakdown, and quarterly analytics
 * commit v1.4.3 - feat: integrate 5-stage visual workflow pipeline and underlying technical principles into Help guide modal with bilingual support
 * commit v1.4.2 - fix: anchor quarterly headcount to annual 10-K audit and apply linear interpolation across quarters
 * commit v1.4.1 - fix: resolve Quarterly 10-Q toggle inactivity, bundle quarterly DB in standalone, fix ticker alias markdown resolution, and synchronize 10-Q workflow URLs
@@ -649,4 +690,5 @@ python main.py --export-static
 * commit v1.2.0 - feat: add LLM semantic extraction architecture, Mermaid flowcharts, and Alphabet-Google benchmark dataset
 * commit v1.1.0 - docs: expand comprehensive documentation, workflow architecture, usage guides, and requirements
 * commit v1.0.0 - feat: initialize financial annual report crawler, pdf-to-markdown parser and strategic OpEx dashboard workflow
-```
+```
+
