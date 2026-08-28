@@ -942,21 +942,24 @@
                     </div>
                 </div>
 
-                <!-- Section 6: SEC Filing Types: 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K -->
+                <!-- Section 5: Multi-Format Global Filing Systems Comparison -->
                 <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-3">
-                    <h4 class="text-sm font-bold text-cyan-400 flex items-center gap-2">
-                        <i class="fa-solid fa-file-invoice-dollar"></i>
-                        <span data-i18n="guide_sec4_title">6. SEC Filings: Form 10-K vs. 10-Q vs. 20-F vs. 10-F/6-K Comparison</span>
-                    </h4>
-                    <p class="text-xs text-slate-300" data-i18n="guide_sec4_p">
-                        Public companies on US exchanges file different SEC disclosures based on domicile (US Domestic vs. Foreign Private Issuer) and reporting period (Annual vs. Quarterly):
+                    <div class="flex items-center justify-between border-b border-slate-700/80 pb-2.5">
+                        <h4 class="text-sm font-bold text-cyan-400 flex items-center gap-2">
+                            <i class="fa-solid fa-file-invoice-dollar"></i>
+                            <span data-i18n="guide_sec5_title_new">5. Multi-Format Global Filing Systems & Accounting Frameworks Comparison</span>
+                        </h4>
+                        <span class="text-[10px] bg-cyan-500/20 text-cyan-300 border border-cyan-500/30 px-2 py-0.5 rounded-full font-mono font-medium">10-K / 10-Q / 20-F / TWSE / Yuho</span>
+                    </div>
+                    <p class="text-xs text-slate-300" data-i18n="guide_sec5_p_new">
+                        Global tech enterprises file statutory disclosures under different jurisdictions, accounting standards (US GAAP vs. IFRS), and reporting frequencies:
                     </p>
                     <div class="overflow-x-auto">
                         <table class="w-full text-xs text-left border-collapse border border-slate-700 rounded-lg overflow-hidden">
                             <thead class="bg-slate-800 text-slate-300 font-semibold border-b border-slate-700">
                                 <tr>
-                                    <th class="py-2 px-2.5 border border-slate-700 w-24">SEC Form</th>
-                                    <th class="py-2 px-2.5 border border-slate-700">Issuer Type (適用對象)</th>
+                                    <th class="py-2 px-2.5 border border-slate-700 w-24">Filing Type</th>
+                                    <th class="py-2 px-2.5 border border-slate-700">Jurisdiction & Benchmark Issuers</th>
                                     <th class="py-2 px-2.5 border border-slate-700 w-20">Frequency</th>
                                     <th class="py-2 px-2.5 border border-slate-700 w-24">Audit Status</th>
                                     <th class="py-2 px-2.5 border border-slate-700">Headcount Disclosure (員工人數)</th>
@@ -966,42 +969,116 @@
                             <tbody class="divide-y divide-slate-700/60 text-slate-300 text-[11px]">
                                 <tr class="bg-slate-900/40">
                                     <td class="py-2 px-2.5 font-bold text-amber-400 border border-slate-700 font-mono">Form 10-K</td>
-                                    <td class="py-2 px-2.5 border border-slate-700">US Domestic Corporations<br><span class="text-slate-400 text-[10px]">(NVDA, AAPL, MSFT, NXP, AMAT)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700">US Domestic (SEC)<br><span class="text-slate-400 text-[10px]">(NVDA, AAPL, MSFT, NXP, AMAT)</span></td>
                                     <td class="py-2 px-2.5 border border-slate-700 text-emerald-400 font-medium">Annual<br>(年度)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(會計師查核簽證)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(查核簽證)</td>
                                     <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong> (Item 1 / 6)<br>Official year-end employee total</td>
-                                    <td class="py-2 px-2.5 border border-slate-700">Item 8 audited financial statements, Item 7 MD&A, segment revenue, full notes</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Item 8 audited financial statements, Item 7 MD&A, segment sales, human capital</td>
                                 </tr>
                                 <tr>
                                     <td class="py-2 px-2.5 font-bold text-blue-400 border border-slate-700 font-mono">Form 10-Q</td>
-                                    <td class="py-2 px-2.5 border border-slate-700">US Domestic Corporations<br><span class="text-slate-400 text-[10px]">(NVDA, AAPL, MSFT, NXP, AMAT)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700">US Domestic (SEC)<br><span class="text-slate-400 text-[10px]">(NVDA, AAPL, MSFT, NXP, AMAT)</span></td>
                                     <td class="py-2 px-2.5 border border-slate-700 text-blue-400 font-medium">Quarterly<br>(Q1, Q2, Q3)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Unaudited<br>(期中未經審計)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 text-amber-400"><strong>Optional / Rare</strong><br><em>(Interpolated from 10-K anchor)</em></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Unaudited<br>(期中未審計)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-amber-400"><strong>Optional</strong><br><em>(Linear interpolation from 10-K)</em></td>
                                     <td class="py-2 px-2.5 border border-slate-700">Quarterly P&L, balance sheet, MD&A, segment sales (Q4 reported in 10-K)</td>
                                 </tr>
                                 <tr class="bg-slate-900/40">
                                     <td class="py-2 px-2.5 font-bold text-emerald-400 border border-slate-700 font-mono">Form 20-F</td>
-                                    <td class="py-2 px-2.5 border border-slate-700">Foreign Private Issuers (FPI)<br><span class="text-slate-400 text-[10px]">(ASML - Netherlands, TSMC - Taiwan)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Foreign Private Issuers (FPI)<br><span class="text-slate-400 text-[10px]">(ASML - Netherlands, TSMC ADR)</span></td>
                                     <td class="py-2 px-2.5 border border-slate-700 text-emerald-400 font-medium">Annual<br>(年度)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(會計師查核簽證)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong> (Item 6.D)<br>Official year-end employee total</td>
-                                    <td class="py-2 px-2.5 border border-slate-700">Item 3.A 5-year selected financial data, Item 18 IFRS/US GAAP statements, ADR info</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(查核簽證)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong> (Item 6.D)<br>Functional & regional headcount</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Item 3.A 5-year selected financial data, Item 18 IFRS/US GAAP statements</td>
                                 </tr>
                                 <tr>
-                                    <td class="py-2 px-2.5 font-bold text-purple-400 border border-slate-700 font-mono">Form 10-F / 6-K</td>
+                                    <td class="py-2 px-2.5 font-bold text-purple-400 border border-slate-700 font-mono">Form 6-K / 10-F</td>
                                     <td class="py-2 px-2.5 border border-slate-700">Foreign Private Issuers (FPI)<br><span class="text-slate-400 text-[10px]">(TSMC, ASML, ASE)</span></td>
                                     <td class="py-2 px-2.5 border border-slate-700 text-purple-400 font-medium">Interim / Event<br>(季度/重大訊息)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Varies<br>(依母國證券法規)</td>
-                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Depends on Home Country<br><em>(Aligned with 20-F anchor)</em></td>
-                                    <td class="py-2 px-2.5 border border-slate-700">Foreign quarterly earnings release, material events, dividend announcements</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Varies<br>(依母國法規)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-slate-400">Aligned with 20-F<br><em>(Quarterly anchor)</em></td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Foreign quarterly earnings releases, material events, dividend announcements</td>
+                                </tr>
+                                <tr class="bg-slate-900/40">
+                                    <td class="py-2 px-2.5 font-bold text-yellow-400 border border-slate-700 font-mono">TWSE Annual (台灣年報)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Taiwan Listed Companies (TWSE)<br><span class="text-slate-400 text-[10px]">(Foxconn 2317, TSMC 2330, ASE 3711)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400 font-medium">Annual<br>(年度)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(會計師簽證)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong><br>Parent & Global Consolidated Group FTE</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Page 5 Table 5.1 5-year financial data & profitability analysis, 4 product groups</td>
+                                </tr>
+                                <tr>
+                                    <td class="py-2 px-2.5 font-bold text-rose-400 border border-slate-700 font-mono">Japan Yuho / Korea DART</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">Japan / Korea Exchanges<br><span class="text-slate-400 text-[10px]">(Advantest 6857, Samsung 005930)</span></td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400 font-medium">Annual / Qtr<br>(年度/季度)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 font-semibold text-emerald-300">Audited<br>(查核簽證)</td>
+                                    <td class="py-2 px-2.5 border border-slate-700 text-emerald-400"><strong>Mandatory</strong><br>Consolidated Workforce</td>
+                                    <td class="py-2 px-2.5 border border-slate-700">J-GAAP / IFRS financial statements, division revenue (Memory / Foundry / ATE)</td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
                     <div class="bg-slate-800/80 p-3 rounded-lg border border-slate-700 space-y-1 text-[11px]">
                         <p><strong class="text-amber-400">• Why does Form 10-Q lack Headcount?</strong> SEC Rule 13a-13 does not require quarterly headcount disclosures. Our engine automatically anchors to official 10-K/20-F annual audit numbers and performs linear interpolation ($Q1 \rightarrow Q2 \rightarrow Q3 \rightarrow Q4$) to keep productivity ($/FTE) accurate.</p>
-                        <p><strong class="text-emerald-400">• 10-K vs. 20-F Parsing Engine:</strong> 20-F files store 5-year summary tables on pages 5-15 (Item 3.A), while 10-K files place financial statements on pages 40-70 (Item 8). The workflow dynamically adjusts its PDF-to-Markdown scanner depth accordingly.</p>
+                        <p><strong class="text-yellow-400">• Taiwan TWSE Annual & Global Group FTE:</strong> Taiwan corporate annual reports (Hon Hai / Foxconn) report parent workforce (~4,000) and consolidated global manufacturing group workforce (~650,000-850,000 FTE). The engine parses consolidated figures to maintain cross-border productivity parity.</p>
+                    </div>
+                </div>
+
+                <!-- Section 6: Multi-Currency & Unit Scale Automatic Normalization Engine -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-4">
+                    <div class="flex items-center justify-between border-b border-slate-700/80 pb-2.5">
+                        <h4 class="text-sm font-bold text-emerald-400 flex items-center gap-2">
+                            <i class="fa-solid fa-scale-balanced"></i>
+                            <span data-i18n="guide_sec6_title">6. Multi-Currency & Unit Scale Automatic Normalization Engine (USD $M Standardization)</span>
+                        </h4>
+                        <span class="text-[10px] bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-mono font-medium">USD ($M) Normalized</span>
+                    </div>
+
+                    <p class="text-xs text-slate-300" data-i18n="guide_sec6_p1">
+                        To enable true apple-to-apple cross-company and cross-border comparisons (e.g. TSMC vs. ASML vs. NVDA vs. Foxconn), our OpEx engine automatically standardizes all reported figures into <strong>USD Millions ($M)</strong> and applies rigorous scale sanitization:
+                    </p>
+
+                    <!-- Multi-Currency & Scale Cards -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-[11px]">
+                        <!-- Card 1: Currency Conversion Matrix -->
+                        <div class="bg-slate-850 p-3.5 rounded-xl border border-slate-700/80 space-y-2">
+                            <div class="flex items-center justify-between">
+                                <h5 class="font-bold text-amber-300 flex items-center gap-1.5">
+                                    <i class="fa-solid fa-money-bill-transfer"></i>
+                                    <span data-i18n="guide_sec6_c1_title">1. Historical Benchmark Exchange Rate Matrix</span>
+                                </h5>
+                                <span class="text-[10px] bg-amber-950/60 text-amber-300 border border-amber-600/30 px-1.5 py-0.2 rounded font-mono">FX Rates</span>
+                            </div>
+                            <p class="text-slate-300 leading-normal" data-i18n="guide_sec6_c1_desc">
+                                Converts international filings using official historical annual & quarterly benchmark exchange rates:
+                            </p>
+                            <ul class="space-y-1 text-slate-300 list-disc list-inside">
+                                <li><strong>TWD (NT$):</strong> 29.5 (2020), 28.0 (2021), 29.8 (2022), 31.1 (2023), 32.0 (2024–25)</li>
+                                <li><strong>EUR (€):</strong> 1.14 (2020), 1.18 (2021), 1.05 (2022), 1.08 (2023–25)</li>
+                                <li><strong>JPY (¥):</strong> 106.8 (2020), 109.8 (2021), 131.5 (2022), 140.5 (2023), 151.0 (2024–25)</li>
+                                <li><strong>KRW (₩):</strong> 1180 (2020), 1145 (2021), 1290 (2022), 1305 (2023), 1360 (2024–25)</li>
+                            </ul>
+                        </div>
+
+                        <!-- Card 2: Scale Sanitization & Sanity Checks -->
+                        <div class="bg-slate-850 p-3.5 rounded-xl border border-slate-700/80 space-y-2">
+                            <div class="flex items-center justify-between">
+                                <h5 class="font-bold text-cyan-300 flex items-center gap-1.5">
+                                    <i class="fa-solid fa-calculator"></i>
+                                    <span data-i18n="guide_sec6_c2_title">2. Scale Sanitization & Financial Sanity Checks</span>
+                                </h5>
+                                <span class="text-[10px] bg-cyan-950/60 text-cyan-300 border border-cyan-600/30 px-1.5 py-0.2 rounded font-mono">Auto Guardrails</span>
+                            </div>
+                            <p class="text-slate-300 leading-normal" data-i18n="guide_sec6_c2_desc">
+                                Automatically detects reporting units in table headers to eliminate 1,000× or 1,000,000× scale distortion:
+                            </p>
+                            <ul class="space-y-1 text-slate-300 list-disc list-inside">
+                                <li><strong>In Thousands (千元):</strong> Multiplies by $10^{-3}$ to normalize into $M (e.g. Palantir).</li>
+                                <li><strong>In Millions (百萬元):</strong> Direct 1.0 multiplier (Standard SEC & Taiwan TWSE).</li>
+                                <li><strong>In Billions / Trillions (十億/兆元):</strong> Multiplies by $10^3$ (e.g. Foxconn NT$6.86T).</li>
+                                <li><strong>Sanity Guardrail:</strong> Verifies $GP \le Revenue$ and $GM\% \in [0\%, 100\%]$ to safeguard $/FTE metrics.</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
 

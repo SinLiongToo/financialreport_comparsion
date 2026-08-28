@@ -51,7 +51,13 @@ TICKER_SLUGS = {
     "kla-corporation": ["kla", "kla-corporation", "klac"],
     "ter": ["teradyne", "ter"],
     "teradyne": ["teradyne", "ter"],
-    "teradyne-inc": ["teradyne", "ter"]
+    "teradyne-inc": ["teradyne", "ter"],
+    "delta": ["delta-electronics", "delta", "2308"],
+    "delta-electronics": ["delta-electronics", "delta", "2308"],
+    "2308": ["delta-electronics", "delta", "2308"],
+    "foxconn": ["hon-hai-precision-industry", "foxconn", "2317"],
+    "honhai": ["hon-hai-precision-industry", "foxconn", "2317"],
+    "2317": ["hon-hai-precision-industry", "foxconn", "2317"]
 }
 
 class AnnualReportCrawler:
