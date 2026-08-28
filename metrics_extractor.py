@@ -59,7 +59,16 @@ TICKER_ALIASES = {
     "advantest": "advantest",
     "6857": "advantest",
     "samsung": "samsung",
-    "005930": "samsung"
+    "005930": "samsung",
+    "foxconn": "foxconn",
+    "honhai": "foxconn",
+    "hon-hai": "foxconn",
+    "2317": "foxconn",
+    "foxconn-technology-group": "foxconn",
+    "hon-hai-precision": "foxconn",
+    "hon-hai-precision-industry": "foxconn",
+    "hnhpf": "foxconn",
+    "hhpd": "foxconn"
 }
 
 BUILTIN_BENCHMARKS = {
@@ -4183,6 +4192,163 @@ BUILTIN_BENCHMARKS = {
                     "level": 5,
                     "name": "Autonomous Semiconductor & Device Superconglomerate",
                     "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding manufacturing velocity."
+                }
+            ]
+        }
+    },
+    "foxconn": {
+        "company_name": "Hon Hai Precision Industry (Foxconn)",
+        "ticker": "FOXCONN",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "annual",
+        "years": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+        ],
+        "financials": {
+            "2020": {
+                "revenue": 181628,
+                "gross_profit": 10268,
+                "operating_income": 3757,
+                "net_income": 3451,
+                "rd_expense": 3284,
+                "headcount": 850000,
+                "gross_margin": 5.65,
+                "operating_margin": 2.07
+            },
+            "2021": {
+                "revenue": 214078,
+                "gross_profit": 12933,
+                "operating_income": 5320,
+                "net_income": 4976,
+                "rd_expense": 3742,
+                "headcount": 826000,
+                "gross_margin": 6.04,
+                "operating_margin": 2.49
+            },
+            "2022": {
+                "revenue": 222382,
+                "gross_profit": 13426,
+                "operating_income": 5832,
+                "net_income": 4748,
+                "rd_expense": 3628,
+                "headcount": 767000,
+                "gross_margin": 6.04,
+                "operating_margin": 2.62
+            },
+            "2023": {
+                "revenue": 198142,
+                "gross_profit": 12474,
+                "operating_income": 5355,
+                "net_income": 4569,
+                "rd_expense": 3423,
+                "headcount": 668000,
+                "gross_margin": 6.30,
+                "operating_margin": 2.70
+            },
+            "2024": {
+                "revenue": 214363,
+                "gross_profit": 13405,
+                "operating_income": 6269,
+                "net_income": 4772,
+                "rd_expense": 3569,
+                "headcount": 650000,
+                "gross_margin": 6.25,
+                "operating_margin": 2.92
+            },
+            "2025": {
+                "revenue": 238500,
+                "gross_profit": 15264,
+                "operating_income": 7394,
+                "net_income": 5605,
+                "rd_expense": 3935,
+                "headcount": 650000,
+                "gross_margin": 6.40,
+                "operating_margin": 3.10
+            }
+        },
+        "sales_breakdown": {
+            "categories": [
+                "Smart Consumer Electronics (智慧消費智能)",
+                "Cloud & Networking Products (雲端網路 / AI伺服器)",
+                "Computing Products (電腦終端)",
+                "Components & Others (元件及其他 / EV)"
+            ],
+            "colors": [
+                "#0284C7",
+                "#10B981",
+                "#8B5CF6",
+                "#F59E0B"
+            ],
+            "data": {
+                "2020": {
+                    "value": [96263, 41774, 30877, 12714],
+                    "volume": [53, 23, 17, 7]
+                },
+                "2021": {
+                    "value": [113461, 51379, 34252, 14986],
+                    "volume": [53, 24, 16, 7]
+                },
+                "2022": {
+                    "value": [117862, 55596, 33357, 15567],
+                    "volume": [53, 25, 15, 7]
+                },
+                "2023": {
+                    "value": [106997, 49536, 27740, 13869],
+                    "volume": [54, 25, 14, 7]
+                },
+                "2024": {
+                    "value": [100751, 68596, 27867, 17149],
+                    "volume": [47, 32, 13, 8]
+                },
+                "2025": {
+                    "value": [102555, 88245, 26235, 21465],
+                    "volume": [43, 37, 11, 9]
+                }
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Hon Hai's global workforce plateaued and streamlined from a peak of 850,000 down to 650,000 full-time employees through AI-driven 'Lights-Out' automated manufacturing, while gross margin expanded from 5.65% to 6.25% and operating income surged to record highs driven by AI GB200/NVL72 server liquid-cooling racks.",
+                "leverage": "Cloud and networking products surged to 32%+ of revenue with over 150% YoY growth in AI server shipments, accelerating operating margin from 2.07% (2020) to 2.92% (2024) and expanding human capital productivity ($/FTE)."
+            },
+            "zh": {
+                "pivot": "鴻海全球員工總數在自動化「黑燈工廠」與 AI 智慧製造轉型下，由高峰期的 85 萬人精簡並穩定於 65 萬人高原期；受惠於 AI 伺服器 (GB200 / NVL72 水冷機櫃) 出貨放量，營業利益率由 2020 年的 2.07% 爬升至 2024 年的 2.92%，人均毛利與營業利益大幅跳升。",
+                "leverage": "雲端網路事業群營收比重攀升至 32%+，AI 伺服器營收累計年增達 150%，帶動 2024 年集團合併營收創下 6.86 兆新台幣（約 2,143 億美元）歷史新高，營運槓桿與高階液冷整合效益全面爆發。"
+            }
+        },
+        "lean_maturity": {
+            "current_level": 4,
+            "levels": [
+                {
+                    "level": 1,
+                    "name": "Level 1: Reactive Assembly",
+                    "desc": "Traditional high-labor intensive EMS contract assembly with razor-thin margins."
+                },
+                {
+                    "level": 2,
+                    "name": "Level 2: Standardized Modularization",
+                    "desc": "Global multi-site manufacturing footprint across China, India, Vietnam, and Americas."
+                },
+                {
+                    "level": 3,
+                    "name": "Level 3: Lights-Out Automation",
+                    "desc": "World Economic Forum Lighthouse factories with automated robotics and parameter self-tuning."
+                },
+                {
+                    "level": 4,
+                    "name": "Level 4: AI & 3+3 Strategic Platform",
+                    "desc": "AI server liquid cooling (GB200/NVL72), CDMS electric vehicles, and robotics platforms."
+                },
+                {
+                    "level": 5,
+                    "name": "Level 5: Global Cognitive Ecosystem",
+                    "desc": "Fully cognitive digital twin manufacturing platform driving high operating margin compound growth."
                 }
             ]
         }
@@ -8874,6 +9040,185 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "pivot": "記憶體週期回溫帶動單季毛利率回升至 37.8%-40.9% 水準。",
                 "productivity": "全球 27 萬員工之單季人均營收約 19.7 萬-23.0 萬美元（年化約 80 萬-92 萬美元）。",
                 "leverage": "單季營業利益穩定維持在 71 億-84.5 億美元，伺服器記憶體為獲利復甦主力。"
+            }
+        }
+    },
+    "foxconn": {
+        "company_name": "Hon Hai Precision Industry (Foxconn)",
+        "ticker": "FOXCONN",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": [
+            "2023 Q1",
+            "2023 Q2",
+            "2023 Q3",
+            "2023 Q4",
+            "2024 Q1",
+            "2024 Q2",
+            "2024 Q3",
+            "2024 Q4",
+            "2025 Q1",
+            "2025 Q2",
+            "2025 Q3",
+            "2025 Q4"
+        ],
+        "financials": {
+            "2023 Q1": {
+                "revenue": 47910,
+                "gross_profit": 2894,
+                "operating_income": 1245,
+                "net_income": 421,
+                "rd_expense": 780,
+                "headcount": 700000,
+                "gross_margin": 6.04
+            },
+            "2023 Q2": {
+                "revenue": 42800,
+                "gross_profit": 2743,
+                "operating_income": 1010,
+                "net_income": 1080,
+                "rd_expense": 810,
+                "headcount": 685000,
+                "gross_margin": 6.41
+            },
+            "2023 Q3": {
+                "revenue": 49050,
+                "gross_profit": 3267,
+                "operating_income": 1495,
+                "net_income": 1410,
+                "rd_expense": 880,
+                "headcount": 675000,
+                "gross_margin": 6.66
+            },
+            "2023 Q4": {
+                "revenue": 58382,
+                "gross_profit": 3570,
+                "operating_income": 1605,
+                "net_income": 1658,
+                "rd_expense": 953,
+                "headcount": 668000,
+                "gross_margin": 6.12
+            },
+            "2024 Q1": {
+                "revenue": 41850,
+                "gross_profit": 2645,
+                "operating_income": 1150,
+                "net_income": 690,
+                "rd_expense": 820,
+                "headcount": 660000,
+                "gross_margin": 6.32
+            },
+            "2024 Q2": {
+                "revenue": 48600,
+                "gross_profit": 3120,
+                "operating_income": 1390,
+                "net_income": 1095,
+                "rd_expense": 870,
+                "headcount": 655000,
+                "gross_margin": 6.42
+            },
+            "2024 Q3": {
+                "revenue": 57900,
+                "gross_profit": 3584,
+                "operating_income": 1700,
+                "net_income": 1540,
+                "rd_expense": 910,
+                "headcount": 652000,
+                "gross_margin": 6.19
+            },
+            "2024 Q4": {
+                "revenue": 66013,
+                "gross_profit": 4056,
+                "operating_income": 2029,
+                "net_income": 1447,
+                "rd_expense": 969,
+                "headcount": 650000,
+                "gross_margin": 6.14
+            },
+            "2025 Q1": {
+                "revenue": 47500,
+                "gross_profit": 3040,
+                "operating_income": 1425,
+                "net_income": 1045,
+                "rd_expense": 890,
+                "headcount": 650000,
+                "gross_margin": 6.40
+            },
+            "2025 Q2": {
+                "revenue": 54200,
+                "gross_profit": 3496,
+                "operating_income": 1680,
+                "net_income": 1246,
+                "rd_expense": 950,
+                "headcount": 650000,
+                "gross_margin": 6.45
+            },
+            "2025 Q3": {
+                "revenue": 64500,
+                "gross_profit": 4128,
+                "operating_income": 2000,
+                "net_income": 1548,
+                "rd_expense": 1020,
+                "headcount": 650000,
+                "gross_margin": 6.40
+            },
+            "2025 Q4": {
+                "revenue": 72300,
+                "gross_profit": 4600,
+                "operating_income": 2289,
+                "net_income": 1766,
+                "rd_expense": 1075,
+                "headcount": 650000,
+                "gross_margin": 6.36
+            }
+        },
+        "sales_breakdown": {
+            "categories": [
+                "Smart Consumer Electronics (智慧消費智能)",
+                "Cloud & Networking Products (雲端網路 / AI伺服器)",
+                "Computing Products (電腦終端)",
+                "Components & Others (元件及其他 / EV)"
+            ],
+            "colors": [
+                "#0284C7",
+                "#10B981",
+                "#8B5CF6",
+                "#F59E0B"
+            ],
+            "data": {
+                "2024 Q1": {
+                    "value": [18832, 13392, 6278, 3348],
+                    "volume": [45, 32, 15, 8]
+                },
+                "2024 Q2": {
+                    "value": [19926, 17496, 6804, 4374],
+                    "volume": [41, 36, 14, 9]
+                },
+                "2024 Q3": {
+                    "value": [24897, 21423, 6948, 4632],
+                    "volume": [43, 37, 12, 8]
+                },
+                "2024 Q4": {
+                    "value": [37096, 16295, 7833, 4789],
+                    "volume": [56, 25, 12, 7]
+                },
+                "2025 Q4": {
+                    "value": [37596, 23859, 6507, 4338],
+                    "volume": [52, 33, 9, 6]
+                }
+            }
+        },
+        "insights": {
+            "en": {
+                "pivot": "Hon Hai quarterly AI server shipments surged to 40%+ of server revenue, expanding quarterly operating income past $2.0B.",
+                "productivity": "Quarterly revenue per FTE averages ~$75K-$100K (~$300K-$400K annualized) across 650K global workforce.",
+                "leverage": "High-density compute racks (GB200 NVL72) and liquid cooling solutions expanded operational margin to 3.0%+ in 2024H2."
+            },
+            "zh": {
+                "pivot": "鴻海單季 AI 伺服器營收比重突破 40%，推升單季營業利益突破 20 億美元創下新高。",
+                "productivity": "全球 65 萬員工之單季人均營收約 7.5 萬-10 萬美元（年化約 30 萬-40 萬美元），人均毛利顯著提升。",
+                "leverage": "高算力伺服器水冷機櫃與垂直整合效益顯現，帶動 2024 下半年單季營業利益率站穩 3.0% 以上。"
             }
         }
     }

@@ -139,7 +139,7 @@ flowchart TD
 
 ---
 
-## 🤖 LLM 智慧語意抽取引擎 (LLM Semantic Extraction Engine)�� 批次下載 PDF 至 downloads/     • pdfplumber 表格轉 Markdown    • 產品線拆解與 5 級精益模型
+## 🤖 LLM 智慧語意抽取引擎 (LLM Semantic Extraction Engine)
 ```
 
 ### 2. 四大執行階段與運作機制 (`run_pipeline`)
@@ -577,6 +577,13 @@ python main.py --export-static
     - **精準焦點懸停浮窗 (Closest Point Hover Tooltip)**：切換為單點精準浮窗模式，滑鼠移至任意曲線時僅浮現該家公司的專屬資訊卡片（如 `META | Year: 2024 | Gross Margin: 81.80%`），徹底解決原本 19 行巨大白底浮窗遮擋半個螢幕的困擾。
     - **線條與標記加粗**：曲線寬度加粗至 3px，節點標記加大至 7px，視覺辨識度提升 300%。
 
+- **v1.5.0 (2026-08-29)**：
+  - **全面整合鴻海精密 / 富士康 (Hon Hai / Foxconn, 2317 / HNHPF) 審計財務資料庫**：
+    - 支援 2020～2025 年年度與 2023～2025 年季度營業收入（NT$ 6.86 兆 / USD ,143 億）、毛利率（5.65%～6.40%）、營業利益與人均產值指標。
+    - **四大產品線營收拆解 (Sales Breakdown)**：智慧消費智能 (Smart Consumer)、雲端網路 (Cloud & AI Server, 32%+)、電腦終端 (Computing)、元件及其他 (Components & EV)。
+    - **智慧製造與營運卓越洞察**：量化全球 65 萬員工高原期下，受惠於 GB200/NVL72 水冷伺服器機櫃爆發帶動之人力拐點 (The Pivot) 與 4 級精益成熟度。
+    - **擴充別名映射與橫向對比圖表色彩**：支援 oxconn <-> honhai <-> 2317 <-> hnhpf <-> hhpd 自動關聯並同步編譯至 GitHub Pages 單機版。
+
 - **v1.4.3 (2026-08-28)**：
   - **使用說明與指南 (Help Modal) 全面升級 5 階段端到端工作流與技術原理**：
     - **全流程視覺化管線 (5-Stage Visual Breadcrumb)**：在使用者操作指南首章以動態彩色徽章直觀呈現 `Crawl & Cache ➔ PDF to MD Tables ➔ Dual-Track Extraction ➔ OpEx KPI Engine ➔ Visual & LLM Synthesis` 全生命週期流水線。
@@ -628,6 +635,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v1.5.0 - feat: integrate Foxconn / Hon Hai Precision (2317) audited benchmark datasets, sales breakdown, and quarterly analytics
 * commit v1.4.3 - feat: integrate 5-stage visual workflow pipeline and underlying technical principles into Help guide modal with bilingual support
 * commit v1.4.2 - fix: anchor quarterly headcount to annual 10-K audit and apply linear interpolation across quarters
 * commit v1.4.1 - fix: resolve Quarterly 10-Q toggle inactivity, bundle quarterly DB in standalone, fix ticker alias markdown resolution, and synchronize 10-Q workflow URLs
@@ -641,4 +649,4 @@ python main.py --export-static
 * commit v1.2.0 - feat: add LLM semantic extraction architecture, Mermaid flowcharts, and Alphabet-Google benchmark dataset
 * commit v1.1.0 - docs: expand comprehensive documentation, workflow architecture, usage guides, and requirements
 * commit v1.0.0 - feat: initialize financial annual report crawler, pdf-to-markdown parser and strategic OpEx dashboard workflow
-```
+```

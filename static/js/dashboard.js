@@ -52,7 +52,10 @@ const COMPANY_COLORS = {
     "advantest": "#E11D48",
     "6857": "#E11D48",
     "samsung": "#60A5FA",
-    "005930": "#60A5FA"
+    "005930": "#60A5FA",
+    "foxconn": "#F59E0B",
+    "honhai": "#F59E0B",
+    "2317": "#F59E0B"
 };
 
 const TICKER_CANONICAL_MAP = {
@@ -68,7 +71,9 @@ const TICKER_CANONICAL_MAP = {
     "ter": "ter", "teradyne": "ter", "teradyne-inc": "ter",
     "msft": "msft", "microsoft": "msft", "meta": "meta", "meta-platforms": "meta",
     "amazon": "amzn", "amzn": "amzn", "palantir": "pltr", "pltr": "pltr",
-    "advantest": "advantest", "6857": "advantest", "samsung": "samsung", "005930": "samsung"
+    "advantest": "advantest", "6857": "advantest", "samsung": "samsung", "005930": "samsung",
+    "foxconn": "foxconn", "honhai": "foxconn", "hon-hai": "foxconn", "2317": "foxconn",
+    "foxconn-technology-group": "foxconn", "hnhpf": "foxconn", "hhpd": "foxconn"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -795,6 +800,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "meta" || t === "meta-platforms") input.value = "https://companiesmarketcap.com/meta-platforms/annual-reports/";
         else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/annual-reports/";
         else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/annual-reports/";
+        else if (t === "foxconn" || t === "honhai" || t === "2317") input.value = "https://companiesmarketcap.com/foxconn/annual-reports/";
         else input.value = ticker.toUpperCase();
     }
 }
@@ -842,7 +848,7 @@ async function loadCompaniesList() {
                     canonicalSet.add(k.toUpperCase());
                 }
             });
-            const orderedPriority = ["ASML", "TSMC", "NVDA", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "MSFT", "AMAT", "META", "AMZN", "PLTR", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASML", "TSMC", "NVDA", "FOXCONN", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "MSFT", "AMAT", "META", "AMZN", "PLTR", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -862,6 +868,7 @@ async function loadCompaniesList() {
                 "ASML": "ASML Holding N.V.",
                 "TSMC": "TSMC (2330 / TSM)",
                 "NVDA": "NVIDIA Corporation",
+                "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",
                 "GOOGL": "Alphabet Inc. (Google)",
                 "AAPL": "Apple Inc. (AAPL)",
                 "AMD": "Advanced Micro Devices (AMD)",
