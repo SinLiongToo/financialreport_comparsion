@@ -4,6 +4,12 @@ main.py - CLI and Web Server Launcher for Annual Report Workflow
 import os
 import argparse
 import sys
+
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 from workflow import AnnualReportWorkflow
 
 def main():
