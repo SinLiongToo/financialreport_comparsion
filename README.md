@@ -2,6 +2,8 @@
 
 > **一步到位 (One-Click, End-to-End) 企業財務審計與精益營運戰略分析工作流**
 > 專為半導體與高科技產業分析師、高階經理人（JG 10+ / Director）、製造營運卓越（OpEx）主管打造的自動化軍火庫。
+> 
+> 👤 **Author**: [**Masa Tu | Too Sin-Liong**](https://www.linkedin.com/in/masatu19810322/)
 
 ---
 
