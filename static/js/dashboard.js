@@ -59,21 +59,75 @@ const COMPANY_COLORS = {
 };
 
 const TICKER_CANONICAL_MAP = {
-    "nvidia": "nvda", "nvda": "nvda", "tsmc": "tsmc", "tsm": "tsmc", "2330": "tsmc",
-    "asml": "asml", "vishay": "vsh", "vsh": "vsh", "vishay-intertechnology": "vsh",
-    "nxp": "nxp", "nxpi": "nxp", "nxp-semiconductors": "nxp",
-    "amat": "amat", "applied-materials": "amat", "goog": "googl", "googl": "googl",
-    "google": "googl", "alphabet": "googl", "alphabet-google": "googl",
-    "aapl": "aapl", "apple": "aapl", "apple-inc": "aapl",
-    "ase": "ase", "ase-group": "ase", "asx": "ase", "3711": "ase",
-    "mu": "mu", "micron": "mu", "micron-technology": "mu",
-    "klac": "klac", "kla": "klac", "kla-tencor": "klac",
-    "ter": "ter", "teradyne": "ter", "teradyne-inc": "ter",
-    "msft": "msft", "microsoft": "msft", "meta": "meta", "meta-platforms": "meta",
-    "amazon": "amzn", "amzn": "amzn", "palantir": "pltr", "pltr": "pltr",
-    "advantest": "advantest", "6857": "advantest", "samsung": "samsung", "005930": "samsung",
-    "foxconn": "foxconn", "honhai": "foxconn", "hon-hai": "foxconn", "2317": "foxconn",
-    "foxconn-technology-group": "foxconn", "hnhpf": "foxconn", "hhpd": "foxconn"
+    "nvidia": "nvda",
+    "nvda": "nvda",
+    "tsmc": "tsmc",
+    "tsm": "tsmc",
+    "2330": "tsmc",
+    "asml": "asml",
+    "vishay": "vsh",
+    "vsh": "vsh",
+    "vishay-intertechnology": "vsh",
+    "nxp": "nxp",
+    "nxpi": "nxp",
+    "nxp-semiconductors": "nxp",
+    "amat": "amat",
+    "applied-materials": "amat",
+    "goog": "googl",
+    "googl": "googl",
+    "google": "googl",
+    "alphabet": "googl",
+    "alphabet-google": "googl",
+    "aapl": "aapl",
+    "apple": "aapl",
+    "apple-inc": "aapl",
+    "ase": "ase",
+    "ase-group": "ase",
+    "asx": "ase",
+    "3711": "ase",
+    "ase-technology": "ase",
+    "ase-technology-holding": "ase",
+    "mu": "mu",
+    "micron": "mu",
+    "micron-technology": "mu",
+    "klac": "klac",
+    "kla": "klac",
+    "kla-tencor": "klac",
+    "kla-corporation": "klac",
+    "ter": "ter",
+    "teradyne": "ter",
+    "teradyne-inc": "ter",
+    "msft": "msft",
+    "microsoft": "msft",
+    "microsoft-corporation": "msft",
+    "microsoft-corp": "msft",
+    "meta": "meta",
+    "meta-platforms": "meta",
+    "amazon": "amzn",
+    "amzn": "amzn",
+    "palantir": "pltr",
+    "pltr": "pltr",
+    "advantest": "advantest",
+    "6857": "advantest",
+    "samsung": "samsung",
+    "005930": "samsung",
+    "foxconn": "foxconn",
+    "honhai": "foxconn",
+    "hon-hai": "foxconn",
+    "2317": "foxconn",
+    "foxconn-technology-group": "foxconn",
+    "hon-hai-precision": "foxconn",
+    "hon-hai-precision-industry": "foxconn",
+    "hnhpf": "foxconn",
+    "hhpd": "foxconn",
+    "delta": "delta",
+    "delta-electronics": "delta",
+    "delta-electronics-inc": "delta",
+    "delta-ww": "delta",
+    "2308": "delta",
+    "umc": "umc",
+    "2303": "umc",
+    "united-microelectronics": "umc"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -854,12 +908,8 @@ async function loadCompaniesList() {
             const rawKeys = Object.keys(window.STATIC_METRICS_DB);
             const canonicalSet = new Set();
             rawKeys.forEach(k => {
-                const item = window.STATIC_METRICS_DB[k];
-                if (item && item.ticker) {
-                    canonicalSet.add(item.ticker.toUpperCase());
-                } else {
-                    canonicalSet.add(k.toUpperCase());
-                }
+                const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
+                if (canon) canonicalSet.add(canon);
             });
             const orderedPriority = ["ASML", "TSMC", "NVDA", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));

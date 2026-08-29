@@ -48,10 +48,16 @@ def get_companies():
             if os.path.isdir(os.path.join(parsed_dir, item)):
                 canonical_set.add(FinancialMetricsExtractor.canonical_ticker(item).upper())
 
-    # Map NVDA to NVIDIA display value if desired, but keep clean list
+    # Strictly canonicalize every ticker
+    clean_canonical_set = set()
+    for c in canonical_set:
+        canon = FinancialMetricsExtractor.canonical_ticker(c).upper()
+        if canon:
+            clean_canonical_set.add(canon)
+
     ordered_priority = ["ASML", "TSMC", "NVDA", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"]
-    final_list = [c for c in ordered_priority if c in canonical_set]
-    for c in sorted(canonical_set):
+    final_list = [c for c in ordered_priority if c in clean_canonical_set]
+    for c in sorted(clean_canonical_set):
         if c not in final_list:
             final_list.append(c)
 
