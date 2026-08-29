@@ -66,6 +66,79 @@ const COMPANY_COLORS = {
     "ifnny": "#059669"
 };
 
+const COMPANY_COUNTRIES = {
+    "asml": { en: "Netherlands 🇳🇱", zh: "荷蘭 🇳🇱", code: "NL" },
+    "tsmc": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "tsm": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2330": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "nvda": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "nvidia": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "arm": { en: "United Kingdom 🇬🇧", zh: "英國 🇬🇧", code: "UK" },
+    "arm-holdings": { en: "United Kingdom 🇬🇧", zh: "英國 🇬🇧", code: "UK" },
+    "arm-holdings-plc": { en: "United Kingdom 🇬🇧", zh: "英國 🇬🇧", code: "UK" },
+    "foxconn": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "honhai": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2317": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "delta": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "delta-electronics": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2308": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "umc": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2303": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "united-microelectronics": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "googl": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "google": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "alphabet": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "alphabet-google": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "aapl": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "apple": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "apple-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "amd": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "advanced-micro-devices": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "mu": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "micron": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "micron-technology": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "klac": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "kla": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "kla-tencor": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "kla-corporation": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ter": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "teradyne": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "teradyne-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ase": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "asx": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "3711": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "ase-group": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "ase-technology": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "nxp": { en: "Netherlands 🇳🇱", zh: "荷蘭 🇳🇱", code: "NL" },
+    "nxpi": { en: "Netherlands 🇳🇱", zh: "荷蘭 🇳🇱", code: "NL" },
+    "nxp-semiconductors": { en: "Netherlands 🇳🇱", zh: "荷蘭 🇳🇱", code: "NL" },
+    "infineon": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
+    "ifx": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
+    "ifnny": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
+    "infineon-technologies": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
+    "ttm": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ttmi": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ttm-technologies": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "vsh": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "vishay": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "vishay-intertechnology": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "msft": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "microsoft": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "microsoft-corporation": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "amat": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "applied-materials": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "meta": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "meta-platforms": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "amazon": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "amzn": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "pltr": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "palantir": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "advantest": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "6857": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "samsung": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" },
+    "005930": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" }
+};
+
 const TICKER_CANONICAL_MAP = {
     "arm": "arm",
     "arm-holdings": "arm",
@@ -242,6 +315,16 @@ const I18N_DICT = {
         compare_table_title: "Cross-Company Peer Benchmark Matrix (Latest Audited Year)",
         compare_table_subtitle: "Side-by-side comparison of Revenue, Profitability, Headcount, and Human Capital Productivity",
         btn_export_compare_csv: "Export Comparison CSV",
+        th_company: "Company",
+        th_country: "Country",
+        th_year: "Latest Fiscal Year",
+        th_revenue: "Revenue ($M / €M)",
+        th_gm: "Gross Margin %",
+        th_opm: "Operating Margin %",
+        th_rd: "R&D % of Rev",
+        th_headcount: "Total FTEs",
+        th_rev_per_emp: "Rev / FTE ($)",
+        th_gp_per_emp: "GP / FTE ($)",
         btn_zoom_chart: "Zoom In",
         btn_shrink_chart: "Shrink (ESC)",
         btn_download_image: "Download HD PNG",
@@ -329,6 +412,16 @@ const I18N_DICT = {
         compare_table_title: "跨公司基準對比矩陣 (最新官方審計年度)",
         compare_table_subtitle: "並排檢視各公司營收、毛利、營業利益、全球員工人數與人均產值指標",
         btn_export_compare_csv: "匯出對比 CSV 報表",
+        th_company: "企業名稱",
+        th_country: "總部國別",
+        th_year: "最新會計年度",
+        th_revenue: "營業收入 ($M / €M)",
+        th_gm: "毛利率 %",
+        th_opm: "營業利益率 %",
+        th_rd: "研發佔比 %",
+        th_headcount: "全球員工數 (FTE)",
+        th_rev_per_emp: "人均營收 ($/人)",
+        th_gp_per_emp: "人均毛利 ($/人)",
         btn_zoom_chart: "一鍵放大",
         btn_shrink_chart: "一鍵縮回 (ESC)",
         btn_download_image: "下載高清圖檔 (PNG)",
@@ -1690,6 +1783,11 @@ function renderComparisonTableRows(companiesData, tickersList) {
         const f = c.financials ? c.financials[latestY] || {} : {};
         switch (col) {
             case "company": return (c.company_name || c.ticker || t).toLowerCase();
+            case "country": {
+                const canon = FinancialMetricsExtractor_canonical_ticker(t);
+                const cObj = c.country || COMPANY_COUNTRIES[t] || COMPANY_COUNTRIES[canon] || { en: "United States 🇺🇸", zh: "美國 🇺🇸" };
+                return String(CURRENT_LANGUAGE === "zh" ? (cObj.zh || cObj.en || cObj) : (cObj.en || cObj)).toLowerCase();
+            }
             case "year": {
                 const p = String(latestY).split(" ");
                 const y = parseInt(p[0]) || 0;
@@ -1718,7 +1816,7 @@ function renderComparisonTableRows(companiesData, tickersList) {
     });
 
     // Update Header Sort Icons
-    const colList = ["company", "year", "revenue", "gm", "opm", "rd", "headcount", "rev_per_emp", "gp_per_emp"];
+    const colList = ["company", "country", "year", "revenue", "gm", "opm", "rd", "headcount", "rev_per_emp", "gp_per_emp"];
     colList.forEach(col => {
         const icon = document.getElementById(`sort-icon-${col}`);
         if (icon) {
@@ -1739,6 +1837,9 @@ function renderComparisonTableRows(companiesData, tickersList) {
         const unit = c.unit || "$M";
         const currSym = unit.includes("€") ? "€" : "$";
         const col = COMPANY_COLORS[t] || "#3B82F6";
+        const canon = FinancialMetricsExtractor_canonical_ticker(t);
+        const countryObj = c.country || COMPANY_COUNTRIES[t] || COMPANY_COUNTRIES[canon] || { en: "United States 🇺🇸", zh: "美國 🇺🇸" };
+        const countryStr = CURRENT_LANGUAGE === "zh" ? (countryObj.zh || countryObj.en || countryObj) : (countryObj.en || countryObj);
 
         const tr = document.createElement("tr");
         tr.className = "hover:bg-slate-800/50 transition-colors";
@@ -1746,6 +1847,9 @@ function renderComparisonTableRows(companiesData, tickersList) {
             <td class="py-3 px-4 font-bold flex items-center gap-2 text-white">
                 <span class="w-2.5 h-2.5 rounded-full shrink-0" style="background-color: ${col}"></span>
                 <span>${c.company_name || c.ticker || t.toUpperCase()}</span>
+            </td>
+            <td class="py-3 px-4 font-medium text-slate-300 whitespace-nowrap">
+                <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-[11px] font-semibold bg-slate-900/80 border border-slate-700/80 text-slate-200">${countryStr}</span>
             </td>
             <td class="py-3 px-4 font-mono text-slate-300">${latestY}</td>
             <td class="py-3 px-4 font-mono text-slate-200 text-right">${unit}${formatNumber(f.revenue)}</td>
@@ -1765,7 +1869,7 @@ window.sortCompareTable = function(col) {
         COMPARE_SORT_DIR = COMPARE_SORT_DIR === "asc" ? "desc" : "asc";
     } else {
         COMPARE_SORT_COL = col;
-        COMPARE_SORT_DIR = (col === "company" || col === "year") ? "asc" : "desc";
+        COMPARE_SORT_DIR = (col === "company" || col === "country" || col === "year") ? "asc" : "desc";
     }
     if (COMPARISON_DATA) {
         renderComparisonTableRows(COMPARISON_DATA);
@@ -1777,14 +1881,18 @@ function exportComparisonToCSV() {
     if (!COMPARISON_DATA) return;
     const tickers = Object.keys(COMPARISON_DATA);
 
-    let csv = "Company,Ticker,Latest Year,Revenue,Gross Margin %,Operating Margin %,R&D % of Rev,Headcount,Rev/FTE,GP/FTE\n";
+    let csv = "Company,Country,Ticker,Latest Year,Revenue,Gross Margin %,Operating Margin %,R&D % of Rev,Headcount,Rev/FTE,GP/FTE\n";
     tickers.forEach(t => {
         const c = COMPARISON_DATA[t];
         const years = c.years || [];
         const latestY = years.length > 0 ? years[years.length - 1] : "";
         const f = c.financials ? c.financials[latestY] || {} : {};
+        const canon = FinancialMetricsExtractor_canonical_ticker(t);
+        const countryObj = c.country || COMPANY_COUNTRIES[t] || COMPANY_COUNTRIES[canon] || { en: "United States 🇺🇸", zh: "美國 🇺🇸" };
+        const countryStr = CURRENT_LANGUAGE === "zh" ? (countryObj.zh || countryObj.en || countryObj) : (countryObj.en || countryObj);
         const row = [
             `"${c.company_name || t}"`,
+            `"${countryStr}"`,
             c.ticker || t.toUpperCase(),
             latestY,
             f.revenue || "",

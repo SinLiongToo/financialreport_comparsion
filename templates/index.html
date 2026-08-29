@@ -556,31 +556,34 @@
                         <thead class="bg-slate-900/80 text-slate-400 font-semibold border-b border-slate-700 select-none">
                             <tr>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors" onclick="sortCompareTable('company')">
-                                    <span class="flex items-center gap-1.5">Company <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-company"></i></span>
+                                    <span class="flex items-center gap-1.5"><span data-i18n="th_company">Company</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-company"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors" onclick="sortCompareTable('country')">
+                                    <span class="flex items-center gap-1.5"><span data-i18n="th_country">Country</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-country"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors" onclick="sortCompareTable('year')">
-                                    <span class="flex items-center gap-1.5">Latest Fiscal Year <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-year"></i></span>
+                                    <span class="flex items-center gap-1.5"><span data-i18n="th_year">Latest Fiscal Year</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-year"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('revenue')">
-                                    <span class="flex items-center justify-end gap-1.5">Revenue ($M / €M) <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-revenue"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_revenue">Revenue ($M / €M)</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-revenue"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('gm')">
-                                    <span class="flex items-center justify-end gap-1.5">Gross Margin % <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gm"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_gm">Gross Margin %</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gm"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('opm')">
-                                    <span class="flex items-center justify-end gap-1.5">Operating Margin % <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-opm"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_opm">Operating Margin %</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-opm"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('rd')">
-                                    <span class="flex items-center justify-end gap-1.5">R&D % of Rev <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-rd"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_rd">R&D % of Rev</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-rd"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('headcount')">
-                                    <span class="flex items-center justify-end gap-1.5">Total FTEs <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-headcount"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_headcount">Total FTEs</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-headcount"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('rev_per_emp')">
-                                    <span class="flex items-center justify-end gap-1.5">Rev / FTE ($) <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-rev_per_emp"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_rev_per_emp">Rev / FTE ($)</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-rev_per_emp"></i></span>
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('gp_per_emp')">
-                                    <span class="flex items-center justify-end gap-1.5">GP / FTE ($) <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gp_per_emp"></i></span>
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_gp_per_emp">GP / FTE ($)</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gp_per_emp"></i></span>
                                 </th>
                             </tr>
                         </thead>
