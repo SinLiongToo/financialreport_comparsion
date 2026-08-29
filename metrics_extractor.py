@@ -73,10 +73,65 @@ TICKER_ALIASES = {
     "delta-electronics": "delta",
     "delta-electronics-inc": "delta",
     "delta-ww": "delta",
-    "2308": "delta"
+    "2308": "delta",
+    "umc": "umc",
+    "2303": "umc",
+    "united-microelectronics": "umc"
 }
 
 BUILTIN_BENCHMARKS = {
+    "umc": {
+        "company_name": "UMC",
+        "ticker": "UMC",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "years": [],
+        "financials": {},
+        "sales_breakdown": {
+                "categories": [],
+                "colors": [
+                        "#1E3A8A",
+                        "#0284C7",
+                        "#059669",
+                        "#D97706"
+                ],
+                "data": {}
+        },
+        "insights": {
+                "en": {},
+                "zh": {}
+        },
+        "lean_maturity": {
+                "current_level": 3,
+                "levels": [
+                        {
+                                "level": 1,
+                                "name": "Level 1: Reactive",
+                                "desc": "Disorganized processes and manual reporting."
+                        },
+                        {
+                                "level": 2,
+                                "name": "Level 2: Standardized",
+                                "desc": "Established SOPs and baseline KPIs."
+                        },
+                        {
+                                "level": 3,
+                                "name": "Level 3: Automated",
+                                "desc": "Automated analytics and workflow pipelines."
+                        },
+                        {
+                                "level": 4,
+                                "name": "Level 4: Predictive",
+                                "desc": "Predictive analytics and proactive quality control."
+                        },
+                        {
+                                "level": 5,
+                                "name": "Level 5: World-Class",
+                                "desc": "Continuous compounding excellence and lean mastery."
+                        }
+                ]
+        }
+},
     "googl": {
         "company_name": "Alphabet Inc. (Google)",
         "ticker": "GOOGL",
@@ -4580,6 +4635,241 @@ BUILTIN_BENCHMARKS = {
 }
 
 BUILTIN_BENCHMARKS_QUARTERLY = {
+    "umc": {
+        "company_name": "UMC (United Microelectronics Corp)",
+        "ticker": "UMC",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": [
+                "2023 Q1",
+                "2023 Q2",
+                "2023 Q3",
+                "2023 Q4",
+                "2024 Q1",
+                "2024 Q2",
+                "2024 Q3",
+                "2024 Q4",
+                "2025 Q1",
+                "2025 Q2",
+                "2025 Q3",
+                "2025 Q4"
+        ],
+        "financials": {
+                "2023 Q1": {
+                        "revenue": 1760.0,
+                        "gross_profit": 625.0,
+                        "gross_margin_pct": 35.51,
+                        "operating_income": 470.0,
+                        "operating_margin_pct": 26.7,
+                        "headcount": 20175,
+                        "rd_expense": 108.0,
+                        "rd_pct": 6.14,
+                        "rev_per_emp": 87237.0,
+                        "gp_per_emp": 30979.0,
+                        "oi_per_emp": 23296.0,
+                        "cogs": 1135.0
+                },
+                "2023 Q2": {
+                        "revenue": 1810.0,
+                        "gross_profit": 652.0,
+                        "gross_margin_pct": 36.02,
+                        "operating_income": 485.0,
+                        "operating_margin_pct": 26.8,
+                        "headcount": 20150,
+                        "rd_expense": 110.0,
+                        "rd_pct": 6.08,
+                        "rev_per_emp": 89826.0,
+                        "gp_per_emp": 32357.0,
+                        "oi_per_emp": 24069.0,
+                        "cogs": 1158.0
+                },
+                "2023 Q3": {
+                        "revenue": 1805.0,
+                        "gross_profit": 648.0,
+                        "gross_margin_pct": 35.9,
+                        "operating_income": 480.0,
+                        "operating_margin_pct": 26.59,
+                        "headcount": 20125,
+                        "rd_expense": 112.0,
+                        "rd_pct": 6.2,
+                        "rev_per_emp": 89689.0,
+                        "gp_per_emp": 32200.0,
+                        "oi_per_emp": 23851.0,
+                        "cogs": 1157.0
+                },
+                "2023 Q4": {
+                        "revenue": 1780.0,
+                        "gross_profit": 572.0,
+                        "gross_margin_pct": 32.13,
+                        "operating_income": 380.0,
+                        "operating_margin_pct": 21.35,
+                        "headcount": 20100,
+                        "rd_expense": 113.0,
+                        "rd_pct": 6.35,
+                        "rev_per_emp": 88557.0,
+                        "gp_per_emp": 28458.0,
+                        "oi_per_emp": 18905.0,
+                        "cogs": 1208.0
+                },
+                "2024 Q1": {
+                        "revenue": 1720.0,
+                        "gross_profit": 531.0,
+                        "gross_margin_pct": 30.87,
+                        "operating_income": 340.0,
+                        "operating_margin_pct": 19.77,
+                        "headcount": 20075,
+                        "rd_expense": 109.0,
+                        "rd_pct": 6.34,
+                        "rev_per_emp": 85679.0,
+                        "gp_per_emp": 26451.0,
+                        "oi_per_emp": 16936.0,
+                        "cogs": 1189.0
+                },
+                "2024 Q2": {
+                        "revenue": 1795.0,
+                        "gross_profit": 632.0,
+                        "gross_margin_pct": 35.21,
+                        "operating_income": 450.0,
+                        "operating_margin_pct": 25.07,
+                        "headcount": 20050,
+                        "rd_expense": 111.0,
+                        "rd_pct": 6.18,
+                        "rev_per_emp": 89526.0,
+                        "gp_per_emp": 31521.0,
+                        "oi_per_emp": 22444.0,
+                        "cogs": 1163.0
+                },
+                "2024 Q3": {
+                        "revenue": 1880.0,
+                        "gross_profit": 635.0,
+                        "gross_margin_pct": 33.78,
+                        "operating_income": 465.0,
+                        "operating_margin_pct": 24.73,
+                        "headcount": 20025,
+                        "rd_expense": 112.0,
+                        "rd_pct": 5.96,
+                        "rev_per_emp": 93883.0,
+                        "gp_per_emp": 31710.0,
+                        "oi_per_emp": 23221.0,
+                        "cogs": 1245.0
+                },
+                "2024 Q4": {
+                        "revenue": 1864.0,
+                        "gross_profit": 581.0,
+                        "gross_margin_pct": 31.17,
+                        "operating_income": 429.0,
+                        "operating_margin_pct": 23.01,
+                        "headcount": 20000,
+                        "rd_expense": 112.0,
+                        "rd_pct": 6.01,
+                        "rev_per_emp": 93200.0,
+                        "gp_per_emp": 29050.0,
+                        "oi_per_emp": 21450.0,
+                        "cogs": 1283.0
+                },
+                "2025 Q1": {
+                        "revenue": 1840.0,
+                        "gross_profit": 607.0,
+                        "gross_margin_pct": 33.0,
+                        "operating_income": 423.0,
+                        "operating_margin_pct": 23.0,
+                        "headcount": 20050,
+                        "rd_expense": 114.0,
+                        "rd_pct": 6.2,
+                        "rev_per_emp": 91771.0,
+                        "gp_per_emp": 30274.0,
+                        "oi_per_emp": 21097.0,
+                        "cogs": 1233.0
+                },
+                "2025 Q2": {
+                        "revenue": 1910.0,
+                        "gross_profit": 649.0,
+                        "gross_margin_pct": 34.0,
+                        "operating_income": 458.0,
+                        "operating_margin_pct": 24.0,
+                        "headcount": 20100,
+                        "rd_expense": 116.0,
+                        "rd_pct": 6.07,
+                        "rev_per_emp": 95025.0,
+                        "gp_per_emp": 32289.0,
+                        "oi_per_emp": 22786.0,
+                        "cogs": 1261.0
+                },
+                "2025 Q3": {
+                        "revenue": 1960.0,
+                        "gross_profit": 666.0,
+                        "gross_margin_pct": 34.0,
+                        "operating_income": 470.0,
+                        "operating_margin_pct": 24.0,
+                        "headcount": 20150,
+                        "rd_expense": 118.0,
+                        "rd_pct": 6.02,
+                        "rev_per_emp": 97270.0,
+                        "gp_per_emp": 33052.0,
+                        "oi_per_emp": 23325.0,
+                        "cogs": 1294.0
+                },
+                "2025 Q4": {
+                        "revenue": 1940.0,
+                        "gross_profit": 641.0,
+                        "gross_margin_pct": 33.04,
+                        "operating_income": 447.0,
+                        "operating_margin_pct": 23.04,
+                        "headcount": 20200,
+                        "rd_expense": 117.0,
+                        "rd_pct": 6.03,
+                        "rev_per_emp": 96040.0,
+                        "gp_per_emp": 31733.0,
+                        "oi_per_emp": 22129.0,
+                        "cogs": 1299.0
+                }
+        },
+        "sales_breakdown": {
+                "categories": [],
+                "colors": [
+                        "#1E3A8A",
+                        "#0284C7",
+                        "#059669",
+                        "#D97706"
+                ],
+                "data": {}
+        },
+        "insights": {
+                "en": {},
+                "zh": {}
+        },
+        "lean_maturity": {
+                "current_level": 3,
+                "levels": [
+                        {
+                                "level": 1,
+                                "name": "Level 1: Reactive",
+                                "desc": "Disorganized processes and manual reporting."
+                        },
+                        {
+                                "level": 2,
+                                "name": "Level 2: Standardized",
+                                "desc": "Established SOPs and baseline KPIs."
+                        },
+                        {
+                                "level": 3,
+                                "name": "Level 3: Automated",
+                                "desc": "Automated analytics and workflow pipelines."
+                        },
+                        {
+                                "level": 4,
+                                "name": "Level 4: Predictive",
+                                "desc": "Predictive analytics and proactive quality control."
+                        },
+                        {
+                                "level": 5,
+                                "name": "Level 5: World-Class",
+                                "desc": "Continuous compounding excellence and lean mastery."
+                        }
+                ]
+        }
+},
     "asml": {
         "company_name": "ASML Holding N.V.",
         "ticker": "ASML",

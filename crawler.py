@@ -57,7 +57,10 @@ TICKER_SLUGS = {
     "2308": ["delta-electronics", "delta", "2308"],
     "foxconn": ["hon-hai-precision-industry", "foxconn", "2317"],
     "honhai": ["hon-hai-precision-industry", "foxconn", "2317"],
-    "2317": ["hon-hai-precision-industry", "foxconn", "2317"]
+    "2317": ["hon-hai-precision-industry", "foxconn", "2317"],
+    "umc": ["united-microelectronics", "umc", "2303"],
+    "united-microelectronics": ["united-microelectronics", "umc", "2303"],
+    "2303": ["united-microelectronics", "umc", "2303"]
 }
 
 class AnnualReportCrawler:

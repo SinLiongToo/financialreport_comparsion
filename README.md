@@ -627,6 +627,26 @@ python main.py --export-static
 
 - **v1.4.3 (2026-08-28)**：
   - **使用說明與指南 (Help Modal) 全面升級 5 階段端到端工作流與技術原理**：
+- **v1.6.0 (2026-08-29)**：
+  - **完整整合聯華電子 UMC (2303 / United Microelectronics Corp) 審計基準資料庫**：
+    - 全面納入 2020～2025 年官方審計財務數據、特殊製程節點拆解（22/28nm OLED DDI/ISP/RF-SOI、40/65nm、90nm+）與 2023 Q1～2025 Q4 季報基準。
+    - **精算聯電人均產值與人力拐點 (The Pivot)**：精準呈現全球製造員工人數穩定於約 20,000 人，毛利率自 2020 年 22.1% 翻倍擴張至 2022 景氣高峰之 45.1%，人均毛利產值高達 20.8 萬美元之卓越營運槓桿。
+    - **全自動下載與無損解析歷年 5 年年報**：完成 `UMC_2020_Annual_Report.md` 至 `UMC_2024_Annual_Report.md` 結構化 Markdown 抽取。
+    - **擴充別名映射與雙向關聯**：支援 `umc <-> united-microelectronics <-> 2303`，並同步至單機版 GitHub Pages 與本機 Web 服務。
+
+- **v1.5.1 (2026-08-29)**：
+  - **建立 financial-report-multiformat-analyzer 專屬 Skill 與多幣別戰略指南**：
+    - 系統化封裝 Form 10-K, 10-Q, 20-F, 6-K, 台灣證交所年報 (TWSE), 日本有價證券報告書 (Yuho), 韓國 DART 跨格式解析規則。
+    - 內建多幣別歷史平均基準匯率矩陣（TWD, EUR, JPY, KRW ➔ USD $M）與尺度防呆（in thousands, in millions, in billions）。
+    - 在 Help 操作指南彈窗中新增第 5 章（跨國 6 大申報表格對比矩陣）與第 6 章（USD $M 匯率轉換與尺度防呆引擎）。
+
+- **v1.5.0 (2026-08-29)**：
+  - **完整整合鴻海科技集團 Foxconn / 富士康 (2317 / Hon Hai Precision) 審計基準資料庫**：
+    - 納入 2020～2025 年官方審計財務數據（NT$6.86 兆營收換算為 USD $214.3B）、四大事業群分拆（消費智能 47%、雲端 AI 伺服器 32%、電腦運算 13%、元件及其他 8%）與 2023 Q1～2025 Q4 季度數據。
+    - 精算 65～85 萬全球員工之製造人均產值與 AI 伺服器營運槓桿。
+
+- **v1.4.3 (2026-08-27)**：
+  - **在 Help 彈窗中新增五階段全自動流水線架構與底層技術原理說明**：
     - **全流程視覺化管線 (5-Stage Visual Breadcrumb)**：在使用者操作指南首章以動態彩色徽章直觀呈現 `Crawl & Cache ➔ PDF to MD Tables ➔ Dual-Track Extraction ➔ OpEx KPI Engine ➔ Visual & LLM Synthesis` 全生命週期流水線。
     - **深度解析 5 大核心機制與底層原理**：
       1. *目標智能識別與秒級本機快取爬蟲*：自動識別 10-K/10-Q/20-F/6-K 與本機快取複用機制。
@@ -676,7 +696,9 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
-* commit v1.5.1 - feat: establish financial-report-multiformat-analyzer skill and multi-currency strategic indices guide\n* commit v1.5.0 - feat: integrate Foxconn / Hon Hai Precision (2317) audited benchmark datasets, sales breakdown, and quarterly analytics
+* commit v1.6.0 - feat: integrate UMC (2303 / United Microelectronics Corp) audited benchmarks, 5-year parsed reports, and quarterly analytics
+* commit v1.5.1 - feat: establish financial-report-multiformat-analyzer skill and multi-currency strategic indices guide
+* commit v1.5.0 - feat: integrate Foxconn / Hon Hai Precision (2317) audited benchmark datasets, sales breakdown, and quarterly analytics
 * commit v1.4.3 - feat: integrate 5-stage visual workflow pipeline and underlying technical principles into Help guide modal with bilingual support
 * commit v1.4.2 - fix: anchor quarterly headcount to annual 10-K audit and apply linear interpolation across quarters
 * commit v1.4.1 - fix: resolve Quarterly 10-Q toggle inactivity, bundle quarterly DB in standalone, fix ticker alias markdown resolution, and synchronize 10-Q workflow URLs
