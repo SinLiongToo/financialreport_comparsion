@@ -1,0 +1,293 @@
+{
+  "company_name": "Arm Holdings plc",
+  "ticker": "ARM",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "financials": {
+    "2021": {
+      "revenue": 2027.0,
+      "gross_profit": 1946.0,
+      "operating_income": 275.0,
+      "net_income": 388.0,
+      "rd_expense": 814.0,
+      "headcount": 5900,
+      "gross_margin": 96.0,
+      "operating_margin": 13.57,
+      "net_margin": 19.14,
+      "rd_pct_rev": 40.16,
+      "rev_per_emp": 343559.0,
+      "gp_per_emp": 329831.0,
+      "op_per_emp": 46610.0,
+      "ni_per_emp": 65763.0,
+      "rd_per_emp": 137966.0,
+      "cogs": 81.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2022": {
+      "revenue": 2703.0,
+      "gross_profit": 2581.0,
+      "operating_income": 633.0,
+      "net_income": 676.0,
+      "rd_expense": 995.0,
+      "headcount": 6400,
+      "gross_margin": 95.49,
+      "operating_margin": 23.42,
+      "net_margin": 25.01,
+      "rd_pct_rev": 36.81,
+      "rev_per_emp": 422344.0,
+      "gp_per_emp": 403281.0,
+      "op_per_emp": 98906.0,
+      "ni_per_emp": 105625.0,
+      "rd_per_emp": 155469.0,
+      "cogs": 122.0,
+      "rev_growth_yoy": 33.35,
+      "gp_growth_yoy": 32.63,
+      "op_growth_yoy": 130.18,
+      "ni_growth_yoy": 74.23,
+      "rd_growth_yoy": 22.24,
+      "hc_growth_yoy": 8.47,
+      "gm_diff_pp": -0.51,
+      "op_diff_pp": 9.85
+    },
+    "2023": {
+      "revenue": 2679.0,
+      "gross_profit": 2572.0,
+      "operating_income": 671.0,
+      "net_income": 524.0,
+      "rd_expense": 1133.0,
+      "headcount": 5963,
+      "gross_margin": 96.01,
+      "operating_margin": 25.05,
+      "net_margin": 19.56,
+      "rd_pct_rev": 42.29,
+      "rev_per_emp": 449271.0,
+      "gp_per_emp": 431327.0,
+      "op_per_emp": 112527.0,
+      "ni_per_emp": 87875.0,
+      "rd_per_emp": 190005.0,
+      "cogs": 107.0,
+      "rev_growth_yoy": -0.89,
+      "gp_growth_yoy": -0.35,
+      "op_growth_yoy": 6.0,
+      "ni_growth_yoy": -22.49,
+      "rd_growth_yoy": 13.87,
+      "hc_growth_yoy": -6.83,
+      "gm_diff_pp": 0.52,
+      "op_diff_pp": 1.63
+    },
+    "2024": {
+      "revenue": 3233.0,
+      "gross_profit": 3088.0,
+      "operating_income": 111.0,
+      "net_income": 306.0,
+      "rd_expense": 1475.0,
+      "headcount": 7096,
+      "gross_margin": 95.51,
+      "operating_margin": 3.43,
+      "net_margin": 9.47,
+      "rd_pct_rev": 45.62,
+      "rev_per_emp": 455609.0,
+      "gp_per_emp": 435175.0,
+      "op_per_emp": 15643.0,
+      "ni_per_emp": 43123.0,
+      "rd_per_emp": 207864.0,
+      "cogs": 145.0,
+      "rev_growth_yoy": 20.68,
+      "gp_growth_yoy": 20.06,
+      "op_growth_yoy": -83.46,
+      "ni_growth_yoy": -41.6,
+      "rd_growth_yoy": 30.19,
+      "hc_growth_yoy": 19.0,
+      "gm_diff_pp": -0.5,
+      "op_diff_pp": -21.62
+    },
+    "2025": {
+      "revenue": 4007.0,
+      "gross_profit": 3847.0,
+      "operating_income": 831.0,
+      "net_income": 798.0,
+      "rd_expense": 1620.0,
+      "headcount": 8330,
+      "gross_margin": 96.01,
+      "operating_margin": 20.74,
+      "net_margin": 19.92,
+      "rd_pct_rev": 40.43,
+      "rev_per_emp": 481032.0,
+      "gp_per_emp": 461825.0,
+      "op_per_emp": 99760.0,
+      "ni_per_emp": 95798.0,
+      "rd_per_emp": 194478.0,
+      "cogs": 160.0,
+      "rev_growth_yoy": 23.94,
+      "gp_growth_yoy": 24.58,
+      "op_growth_yoy": 648.65,
+      "ni_growth_yoy": 160.78,
+      "rd_growth_yoy": 9.83,
+      "hc_growth_yoy": 17.39,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 17.31
+    },
+    "2026": {
+      "revenue": 4920.0,
+      "gross_profit": 4723.0,
+      "operating_income": 900.0,
+      "net_income": 880.0,
+      "rd_expense": 1980.0,
+      "headcount": 9584,
+      "gross_margin": 96.0,
+      "operating_margin": 18.29,
+      "net_margin": 17.89,
+      "rd_pct_rev": 40.24,
+      "rev_per_emp": 513356.0,
+      "gp_per_emp": 492800.0,
+      "op_per_emp": 93907.0,
+      "ni_per_emp": 91819.0,
+      "rd_per_emp": 206594.0,
+      "cogs": 197.0,
+      "rev_growth_yoy": 22.79,
+      "gp_growth_yoy": 22.77,
+      "op_growth_yoy": 8.3,
+      "ni_growth_yoy": 10.28,
+      "rd_growth_yoy": 22.22,
+      "hc_growth_yoy": 15.05,
+      "gm_diff_pp": -0.01,
+      "op_diff_pp": -2.45
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Royalty Revenue (v9 Architecture & Chip Shipments)",
+      "License and Other Revenue (Compute Subsystems & Architecture)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981"
+    ],
+    "data": {
+      "2021": {
+        "value": [
+          1240,
+          787
+        ],
+        "volume": [
+          61,
+          39
+        ]
+      },
+      "2022": {
+        "value": [
+          1572,
+          1131
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2023": {
+        "value": [
+          1675,
+          1004
+        ],
+        "volume": [
+          63,
+          37
+        ]
+      },
+      "2024": {
+        "value": [
+          1802,
+          1431
+        ],
+        "volume": [
+          56,
+          44
+        ]
+      },
+      "2025": {
+        "value": [
+          2168,
+          1839
+        ],
+        "volume": [
+          54,
+          46
+        ]
+      },
+      "2026": {
+        "value": [
+          2613,
+          2307
+        ],
+        "volume": [
+          53,
+          47
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Arm maintains an industry-leading 96.0% gross margin model. Following its 2023 IPO, workforce scaled smoothly from 5,963 to 9,584 FTEs (84% R&D engineers) while revenue surged +83.6% from $2.68B to $4.92B, operating income rebounded to $900M.",
+      "productivity": "Exceptional human capital efficiency: Revenue per FTE reached $513,356 and Gross Profit per FTE reached $492,800, representing near pure-margin intellectual property monetization.",
+      "leverage": "The Armv9 architecture migration commands higher royalty capture rates (~2x v8), lifting Royalty Revenue to $2.61B (+20.5% YoY) across AI smartphones, PC, and data centers.",
+      "rd": "Massive R&D intensity: Reinvested $1.98B (40.2% of revenue) in FY2026 into Neoverse CSS (Compute Subsystem), automotive Zonal compute, and edge AI execution engines.",
+      "growth": "License revenue surged +25.5% YoY to $2.31B powered by hyper-scaler custom AI silicon demand (AWS Graviton, Google Axion, Microsoft Cobalt).",
+      "breakdown": "Balanced revenue model with Royalty Revenue (53.1%) providing annuity-like cash flows and License Revenue (46.9%) locking in next-generation multi-year silicon tape-outs."
+    },
+    "zh": {
+      "pivot": "Arm 維持半導體矽智財產業頂尖的 96.0% 超高毛利率結構。自 2023 年 IPO 後，團隊由 5,963 人擴充至 9,584 人（其中 84% 為研發工程師），營收從 $2.68B 躍升至 $4.92B (+83.6%)，營業利益回升至 $900M。",
+      "productivity": "極致的人均智財產值：人均營收達 $513,356/人，人均毛利達 $492,800/人，體現純矽智財（IP）授權模式的極高人力資本槓桿。",
+      "leverage": "Armv9 架構滲透率攀升帶來倍增的權利金費率（約為 v8 的 2 倍），推動權利金營收達 $2.61B（年增 20.5%），全面涵蓋 AI 手機、AI PC 與雲端資料中心。",
+      "rd": "頂級研發再投資力度：FY2026 研發支出達 $1.98B（佔營收 40.2%），全力推動 Neoverse CSS 運算子系統、車用區域架構與邊緣 AI 運算核心。",
+      "growth": "授權與其他收入年增 +25.5% 達 $2.31B，主要受惠於各大雲端巨頭（AWS Graviton、Google Axion、微軟 Cobalt）加速自研 AI 晶片佈局。",
+      "breakdown": "雙輪驅動結構：權利金佔比 53.1% 構築穩定的年金型現金流，授權收入佔比 46.9% 提前鎖定未來數年的先進製程晶片投片藍圖。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Core IP Core Architecture",
+        "desc": "Standard RISC CPU core licensing and manual RTL validation."
+      },
+      {
+        "level": 2,
+        "name": "Ecosystem & Tooling Integration",
+        "desc": "Broad ARM Architecture Reference manual and standardized compiler toolchains."
+      },
+      {
+        "level": 3,
+        "name": "Automated EDA & Virtual Platforms",
+        "desc": "Automated RTL regression testbenches, fast virtual prototyping, and system IP interconnects."
+      },
+      {
+        "level": 4,
+        "name": "Compute Subsystem (CSS) Co-Design",
+        "desc": "Pre-integrated, pre-verified full-stack Neoverse CSS silicon subsystems with hardware-software co-optimization."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Silicon Architecture Platform",
+        "desc": "AI-driven autonomous microarchitecture exploration with compounding design velocity (1.01)^365 = 37.8x."
+      }
+    ]
+  }
+}

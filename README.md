@@ -657,6 +657,14 @@ python main.py --export-static
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
     - **同步重構單機版 HTML 與 GitHub Pages**：執行 `export_standalone.py` 全量更新 `docs/index.html` 與 `standalone_dashboard.html`。
 
+- **v1.7.0 (2026-08-29)**：
+  - **新增三大半導體與高科技關鍵巨頭審計基準庫與深度 LLM 戰略分析**：
+    - **Arm Holdings plc (ARM)**：整合 2021～2026 年 Form 20-F 官方審計指標，收錄 96.0% 頂級毛利率模型、v9 架構權利金（Royalty）與運算子系統（CSS 授權金）產品拆解、40.2% 研發再投資率，以及 $513k/人 的人均智財產值。
+    - **TTM Technologies, Inc. (TTM / TTMI)**：整合 2021～2025 年 Form 10-K 官方審計數據，精確呈現從傳統商業 PCB 轉型至高毛利航太國防（AESA 雷達與任務電子）及 AI 資料中心超多層高密度互連板（HDI / 加速卡背板）之毛利率（16.5% ➔ 20.7%）與營業利益（$126M ➔ $265M）倍增軌跡。
+    - **Infineon Technologies AG (英飛凌 / IFX / IFNNY)**：整合 2021～2025 年年度財報與 IFRS 數據，完整解析車用電氣化（xEV / AURIX MCU / SiC 逆變器）與 AI 伺服器電源（PSS）雙核成長引擎，呈現 40.5%～42.0% 強韌毛利率與 58,200 名員工之全球製造佈局。
+  - **擴充雙向別名對齊 (TICKER_ALIASES)**：完整支援 `arm <-> arm-holdings <-> arm-holdings-plc`、`ttm <-> ttm-technologies <-> ttmi`、`infineon <-> ifx <-> ifnny <-> infineon-technologies`。
+  - **全量產出年度與季度 (Quarterly 10-Q / 20-F) 數據包**：同步編譯至 `standalone_dashboard.html` 與 `docs/index.html`，支援 100% 離線及 GitHub Pages 一鍵極速預覽。
+
 - **v1.3.1 (2026-08-26)**：
   - **修復多公司圖表圖例 (Legend) 與懸停浮窗 (Hover Tooltip) 可讀性問題**：
     - 重新調配 19 家公司專屬高對比色彩矩陣，替換原本在深色背景下辨識度較差的深藍與深黑（如 Micron、Palantir、Samsung 等），確保每條曲線與圖例文字皆鮮明清晰。
@@ -696,6 +704,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v1.7.0 - feat: integrate ARM Holdings, TTM Technologies, and Infineon Technologies AG audited benchmarks, 5-year parsed reports, and quarterly analytics
 * commit v1.6.0 - feat: integrate UMC (2303 / United Microelectronics Corp) audited benchmarks, 5-year parsed reports, and quarterly analytics
 * commit v1.5.1 - feat: establish financial-report-multiformat-analyzer skill and multi-currency strategic indices guide
 * commit v1.5.0 - feat: integrate Foxconn / Hon Hai Precision (2317) audited benchmark datasets, sales breakdown, and quarterly analytics

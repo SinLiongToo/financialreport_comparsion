@@ -1,0 +1,403 @@
+{
+  "company_name": "Infineon Technologies AG",
+  "ticker": "INFINEON",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 4000.0,
+      "gross_profit": 1640.0,
+      "gross_margin": 41.0,
+      "operating_income": 620.0,
+      "operating_margin": 15.5,
+      "net_income": 380.0,
+      "rd_expense": 530.0,
+      "rd_pct_rev": 13.25,
+      "headcount": 58459,
+      "rev_per_emp": 68424.0,
+      "gp_per_emp": 28054.0,
+      "op_per_emp": 10606.0,
+      "cogs": 2360.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null,
+      "net_margin": 9.5,
+      "ni_per_emp": 6500.0,
+      "rd_per_emp": 9066.0,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null
+    },
+    "2024 Q2": {
+      "revenue": 3950.0,
+      "gross_profit": 1600.0,
+      "gross_margin": 40.51,
+      "operating_income": 580.0,
+      "operating_margin": 14.68,
+      "net_income": 340.0,
+      "rd_expense": 535.0,
+      "rd_pct_rev": 13.54,
+      "headcount": 58328,
+      "rev_per_emp": 67720.0,
+      "gp_per_emp": 27431.0,
+      "op_per_emp": 9944.0,
+      "cogs": 2350.0,
+      "rev_growth_yoy": -1.25,
+      "gp_growth_yoy": -2.44,
+      "op_growth_yoy": -6.45,
+      "hc_growth_yoy": -0.22,
+      "gm_diff_pp": -0.49,
+      "op_diff_pp": -0.82,
+      "net_margin": 8.61,
+      "ni_per_emp": 5829.0,
+      "rd_per_emp": 9172.0,
+      "ni_growth_yoy": -10.53,
+      "rd_growth_yoy": 0.94
+    },
+    "2024 Q3": {
+      "revenue": 4020.0,
+      "gross_profit": 1630.0,
+      "gross_margin": 40.55,
+      "operating_income": 575.0,
+      "operating_margin": 14.3,
+      "net_income": 335.0,
+      "rd_expense": 538.0,
+      "rd_pct_rev": 13.38,
+      "headcount": 58196,
+      "rev_per_emp": 69077.0,
+      "gp_per_emp": 28009.0,
+      "op_per_emp": 9880.0,
+      "cogs": 2390.0,
+      "rev_growth_yoy": 1.77,
+      "gp_growth_yoy": 1.88,
+      "op_growth_yoy": -0.86,
+      "hc_growth_yoy": -0.23,
+      "gm_diff_pp": 0.04,
+      "op_diff_pp": -0.38,
+      "net_margin": 8.33,
+      "ni_per_emp": 5756.0,
+      "rd_per_emp": 9245.0,
+      "ni_growth_yoy": -1.47,
+      "rd_growth_yoy": 0.56
+    },
+    "2024 Q4": {
+      "revenue": 4181.0,
+      "gross_profit": 1685.0,
+      "gross_margin": 40.3,
+      "operating_income": 590.0,
+      "operating_margin": 14.11,
+      "net_income": 350.0,
+      "rd_expense": 541.0,
+      "rd_pct_rev": 12.94,
+      "headcount": 58065,
+      "rev_per_emp": 72006.0,
+      "gp_per_emp": 29019.0,
+      "op_per_emp": 10161.0,
+      "cogs": 2496.0,
+      "rev_growth_yoy": 4.0,
+      "gp_growth_yoy": 3.37,
+      "op_growth_yoy": 2.61,
+      "hc_growth_yoy": -0.23,
+      "gm_diff_pp": -0.25,
+      "op_diff_pp": -0.19,
+      "net_margin": 8.37,
+      "ni_per_emp": 6028.0,
+      "rd_per_emp": 9317.0,
+      "ni_growth_yoy": 4.48,
+      "rd_growth_yoy": 0.56
+    },
+    "2025 Q1": {
+      "revenue": 4080.0,
+      "gross_profit": 1700.0,
+      "gross_margin": 41.67,
+      "operating_income": 710.0,
+      "operating_margin": 17.4,
+      "net_income": 470.0,
+      "rd_expense": 545.0,
+      "rd_pct_rev": 13.36,
+      "headcount": 58099,
+      "rev_per_emp": 70225.0,
+      "gp_per_emp": 29260.0,
+      "op_per_emp": 12221.0,
+      "cogs": 2380.0,
+      "rev_growth_yoy": 2.0,
+      "gp_growth_yoy": 3.66,
+      "op_growth_yoy": 14.52,
+      "hc_growth_yoy": -0.62,
+      "gm_diff_pp": 0.67,
+      "op_diff_pp": 1.9,
+      "net_margin": 11.52,
+      "ni_per_emp": 8090.0,
+      "rd_per_emp": 9381.0,
+      "ni_growth_yoy": 23.68,
+      "rd_growth_yoy": 2.83
+    },
+    "2025 Q2": {
+      "revenue": 4150.0,
+      "gross_profit": 1740.0,
+      "gross_margin": 41.93,
+      "operating_income": 745.0,
+      "operating_margin": 17.95,
+      "net_income": 495.0,
+      "rd_expense": 550.0,
+      "rd_pct_rev": 13.25,
+      "headcount": 58133,
+      "rev_per_emp": 71388.0,
+      "gp_per_emp": 29931.0,
+      "op_per_emp": 12815.0,
+      "cogs": 2410.0,
+      "rev_growth_yoy": 5.06,
+      "gp_growth_yoy": 8.75,
+      "op_growth_yoy": 28.45,
+      "hc_growth_yoy": -0.33,
+      "gm_diff_pp": 1.42,
+      "op_diff_pp": 3.27,
+      "net_margin": 11.93,
+      "ni_per_emp": 8515.0,
+      "rd_per_emp": 9461.0,
+      "ni_growth_yoy": 45.59,
+      "rd_growth_yoy": 2.8
+    },
+    "2025 Q3": {
+      "revenue": 4220.0,
+      "gross_profit": 1775.0,
+      "gross_margin": 42.06,
+      "operating_income": 765.0,
+      "operating_margin": 18.13,
+      "net_income": 515.0,
+      "rd_expense": 553.0,
+      "rd_pct_rev": 13.1,
+      "headcount": 58166,
+      "rev_per_emp": 72551.0,
+      "gp_per_emp": 30516.0,
+      "op_per_emp": 13152.0,
+      "cogs": 2445.0,
+      "rev_growth_yoy": 4.98,
+      "gp_growth_yoy": 8.9,
+      "op_growth_yoy": 33.04,
+      "hc_growth_yoy": -0.05,
+      "gm_diff_pp": 1.51,
+      "op_diff_pp": 3.83,
+      "net_margin": 12.2,
+      "ni_per_emp": 8854.0,
+      "rd_per_emp": 9507.0,
+      "ni_growth_yoy": 53.73,
+      "rd_growth_yoy": 2.79
+    },
+    "2025 Q4": {
+      "revenue": 4268.0,
+      "gross_profit": 1807.0,
+      "gross_margin": 42.34,
+      "operating_income": 789.0,
+      "operating_margin": 18.49,
+      "net_income": 527.0,
+      "rd_expense": 558.0,
+      "rd_pct_rev": 13.07,
+      "headcount": 58200,
+      "rev_per_emp": 73333.0,
+      "gp_per_emp": 31048.0,
+      "op_per_emp": 13557.0,
+      "cogs": 2461.0,
+      "rev_growth_yoy": 2.08,
+      "gp_growth_yoy": 7.24,
+      "op_growth_yoy": 33.73,
+      "hc_growth_yoy": 0.23,
+      "gm_diff_pp": 2.04,
+      "op_diff_pp": 4.38,
+      "net_margin": 12.35,
+      "ni_per_emp": 9055.0,
+      "rd_per_emp": 9588.0,
+      "ni_growth_yoy": 50.57,
+      "rd_growth_yoy": 3.14
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Automotive (ATV)",
+      "Power & Sensor Systems (PSS)",
+      "Green Industrial Power (GIP)",
+      "Connected Secure Systems (CSS)"
+    ],
+    "colors": [
+      "#1E40AF",
+      "#059669",
+      "#D97706",
+      "#7C3AED"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          2240,
+          840,
+          520,
+          400
+        ],
+        "volume": [
+          56,
+          21,
+          13,
+          10
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          2212,
+          830,
+          513,
+          395
+        ],
+        "volume": [
+          56,
+          21,
+          13,
+          10
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          2251,
+          844,
+          523,
+          402
+        ],
+        "volume": [
+          56,
+          21,
+          13,
+          10
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          2394,
+          821,
+          533,
+          429
+        ],
+        "volume": [
+          57,
+          20,
+          13,
+          10
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          2326,
+          857,
+          490,
+          407
+        ],
+        "volume": [
+          57,
+          21,
+          12,
+          10
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          2365,
+          872,
+          498,
+          415
+        ],
+        "volume": [
+          57,
+          21,
+          12,
+          10
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          2405,
+          886,
+          506,
+          423
+        ],
+        "volume": [
+          57,
+          21,
+          12,
+          10
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          2433,
+          896,
+          547,
+          392
+        ],
+        "volume": [
+          57,
+          21,
+          13,
+          9
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margins stabilized above 41%-42% as automotive and AI power supply demand ramped.",
+      "productivity": "Quarterly revenue per employee reached $73,333 in 2025 Q4.",
+      "leverage": "Quarterly operating margins expanded towards 18.5%.",
+      "rd": "Consistent quarterly R&D investment of ~$550M.",
+      "growth": "Steady automotive and high-power AI server demand driving sequential recovery.",
+      "breakdown": "Automotive remains the dominant quarterly revenue pillar (57%)."
+    },
+    "zh": {
+      "pivot": "隨著車用與 AI 電源需求回升，單季毛利率穩固在 41%-42% 之上。",
+      "productivity": "2025 Q4 單季人均營收提升至 $73,333/人。",
+      "leverage": "單季營業利益率逐步擴張至 18.5% 水準。",
+      "rd": "單季研發維持約 $550M 規模。",
+      "growth": "車用與高功率 AI 伺服器電源帶動季度營收溫和復甦。",
+      "breakdown": "車用晶片持續穩居季度 57% 營收主力。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Discrete Power Semiconductor Fab",
+        "desc": "Standard silicon planar fab operations and manual cleanroom lot tracking."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Fab Quality & IATF 16949 Automotive Standard",
+        "desc": "Standardized Zero-Defect automotive qualification across 200mm front-end lines."
+      },
+      {
+        "level": 3,
+        "name": "Automated 300mm Smart Power Wafer Fab",
+        "desc": "Fully automated 300mm thin-wafer AMHS, robotic cassette transport, and automated defect inspection."
+      },
+      {
+        "level": 4,
+        "name": "Wide-Bandgap (SiC/GaN) Cognitive Mega-Fab",
+        "desc": "AI-driven Kulim & Villach 200mm SiC crystallization, laser splitting, and automated predictive yield excursions."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Green Decarbonization Platform",
+        "desc": "Autonomous closed-loop fab digital twin driving energy efficiency and compounding velocity (1.01)^365 = 37.8x."
+      }
+    ]
+  }
+}

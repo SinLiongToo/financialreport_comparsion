@@ -55,10 +55,28 @@ const COMPANY_COLORS = {
     "005930": "#60A5FA",
     "foxconn": "#F59E0B",
     "honhai": "#F59E0B",
-    "2317": "#F59E0B"
+    "2317": "#F59E0B",
+    "arm": "#0284C7",
+    "arm-holdings": "#0284C7",
+    "ttm": "#1E3A8A",
+    "ttm-technologies": "#1E3A8A",
+    "ttmi": "#1E3A8A",
+    "infineon": "#059669",
+    "ifx": "#059669",
+    "ifnny": "#059669"
 };
 
 const TICKER_CANONICAL_MAP = {
+    "arm": "arm",
+    "arm-holdings": "arm",
+    "arm-holdings-plc": "arm",
+    "ttm": "ttm",
+    "ttm-technologies": "ttm",
+    "ttmi": "ttm",
+    "infineon": "infineon",
+    "ifx": "infineon",
+    "ifnny": "infineon",
+    "infineon-technologies": "infineon",
     "nvidia": "nvda",
     "nvda": "nvda",
     "tsmc": "tsmc",
@@ -911,7 +929,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASML", "TSMC", "NVDA", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASML", "TSMC", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -931,6 +949,7 @@ async function loadCompaniesList() {
                 "ASML": "ASML Holding N.V.",
                 "TSMC": "TSMC (2330 / TSM)",
                 "NVDA": "NVIDIA Corporation",
+                "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",
                 "DELTA": "Delta Electronics (2308 / 台達電)",
                 "UMC": "UMC (2303 / 聯電)",
@@ -942,6 +961,8 @@ async function loadCompaniesList() {
                 "TER": "Teradyne, Inc. (TER)",
                 "ASE": "ASE Technology (3711 / ASX)",
                 "NXP": "NXP Semiconductors (NXPI)",
+                "INFINEON": "Infineon Technologies AG (IFX)",
+                "TTM": "TTM Technologies (TTMI)",
                 "VSH": "Vishay Intertechnology (VSH)",
                 "MSFT": "Microsoft Corporation (MSFT)",
                 "AMAT": "Applied Materials (AMAT)",

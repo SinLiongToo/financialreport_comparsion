@@ -1,0 +1,280 @@
+{
+  "company_name": "Infineon Technologies AG",
+  "ticker": "IFX",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2021": {
+      "revenue": 13051.0,
+      "gross_profit": 5015.0,
+      "operating_income": 1735.0,
+      "net_income": 1379.0,
+      "rd_expense": 1709.0,
+      "headcount": 50280,
+      "gross_margin": 38.43,
+      "operating_margin": 13.29,
+      "net_margin": 10.57,
+      "rd_pct_rev": 13.09,
+      "rev_per_emp": 259566.0,
+      "gp_per_emp": 99741.0,
+      "op_per_emp": 34507.0,
+      "ni_per_emp": 27426.0,
+      "rd_per_emp": 33990.0,
+      "cogs": 8036.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2022": {
+      "revenue": 14929.0,
+      "gross_profit": 6438.0,
+      "operating_income": 2987.0,
+      "net_income": 2288.0,
+      "rd_expense": 1888.0,
+      "headcount": 56194,
+      "gross_margin": 43.12,
+      "operating_margin": 20.01,
+      "net_margin": 15.33,
+      "rd_pct_rev": 12.65,
+      "rev_per_emp": 265669.0,
+      "gp_per_emp": 114567.0,
+      "op_per_emp": 53155.0,
+      "ni_per_emp": 40716.0,
+      "rd_per_emp": 33598.0,
+      "cogs": 8491.0,
+      "rev_growth_yoy": 14.39,
+      "gp_growth_yoy": 28.37,
+      "op_growth_yoy": 72.16,
+      "ni_growth_yoy": 65.92,
+      "rd_growth_yoy": 10.47,
+      "hc_growth_yoy": 11.76,
+      "gm_diff_pp": 4.69,
+      "op_diff_pp": 6.72
+    },
+    "2023": {
+      "revenue": 17614.0,
+      "gross_profit": 8006.0,
+      "operating_income": 4264.0,
+      "net_income": 3388.0,
+      "rd_expense": 2144.0,
+      "headcount": 58590,
+      "gross_margin": 45.45,
+      "operating_margin": 24.21,
+      "net_margin": 19.23,
+      "rd_pct_rev": 12.17,
+      "rev_per_emp": 300632.0,
+      "gp_per_emp": 136645.0,
+      "op_per_emp": 72777.0,
+      "ni_per_emp": 57832.0,
+      "rd_per_emp": 36593.0,
+      "cogs": 9608.0,
+      "rev_growth_yoy": 17.99,
+      "gp_growth_yoy": 24.36,
+      "op_growth_yoy": 42.75,
+      "ni_growth_yoy": 48.08,
+      "rd_growth_yoy": 13.56,
+      "hc_growth_yoy": 4.26,
+      "gm_diff_pp": 2.33,
+      "op_diff_pp": 4.2
+    },
+    "2024": {
+      "revenue": 16151.0,
+      "gross_profit": 6555.0,
+      "operating_income": 2365.0,
+      "net_income": 1405.0,
+      "rd_expense": 2144.0,
+      "headcount": 58065,
+      "gross_margin": 40.58,
+      "operating_margin": 14.64,
+      "net_margin": 8.7,
+      "rd_pct_rev": 13.27,
+      "rev_per_emp": 278154.0,
+      "gp_per_emp": 112891.0,
+      "op_per_emp": 40730.0,
+      "ni_per_emp": 24197.0,
+      "rd_per_emp": 36924.0,
+      "cogs": 9596.0,
+      "rev_growth_yoy": -8.31,
+      "gp_growth_yoy": -18.12,
+      "op_growth_yoy": -44.54,
+      "ni_growth_yoy": -58.53,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -0.9,
+      "gm_diff_pp": -4.87,
+      "op_diff_pp": -9.57
+    },
+    "2025": {
+      "revenue": 16718.0,
+      "gross_profit": 7022.0,
+      "operating_income": 3009.0,
+      "net_income": 2007.0,
+      "rd_expense": 2206.0,
+      "headcount": 58200,
+      "gross_margin": 42.0,
+      "operating_margin": 18.0,
+      "net_margin": 12.0,
+      "rd_pct_rev": 13.2,
+      "rev_per_emp": 287251.0,
+      "gp_per_emp": 120653.0,
+      "op_per_emp": 51701.0,
+      "ni_per_emp": 34485.0,
+      "rd_per_emp": 37904.0,
+      "cogs": 9696.0,
+      "rev_growth_yoy": 3.51,
+      "gp_growth_yoy": 7.12,
+      "op_growth_yoy": 27.23,
+      "ni_growth_yoy": 42.85,
+      "rd_growth_yoy": 2.89,
+      "hc_growth_yoy": 0.23,
+      "gm_diff_pp": 1.42,
+      "op_diff_pp": 3.36
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Automotive (ATV - AURIX MCU, xEV SiC Inverters)",
+      "Power & Sensor Systems (PSS - AI Data Center PSU & MOSFETs)",
+      "Green Industrial Power (GIP - Solar/Wind IGBT & Drives)",
+      "Connected Secure Systems (CSS - IoT Security & Wireless)"
+    ],
+    "colors": [
+      "#1E40AF",
+      "#059669",
+      "#D97706",
+      "#7C3AED"
+    ],
+    "data": {
+      "2021": {
+        "value": [
+          5707,
+          3856,
+          1820,
+          1648
+        ],
+        "volume": [
+          44,
+          30,
+          14,
+          12
+        ]
+      },
+      "2022": {
+        "value": [
+          6842,
+          4267,
+          2058,
+          1742
+        ],
+        "volume": [
+          46,
+          29,
+          14,
+          11
+        ]
+      },
+      "2023": {
+        "value": [
+          8901,
+          4102,
+          2381,
+          2210
+        ],
+        "volume": [
+          51,
+          23,
+          13,
+          13
+        ]
+      },
+      "2024": {
+        "value": [
+          9097,
+          3335,
+          2089,
+          1626
+        ],
+        "volume": [
+          56,
+          21,
+          13,
+          10
+        ]
+      },
+      "2025": {
+        "value": [
+          9529,
+          3511,
+          2041,
+          1642
+        ],
+        "volume": [
+          57,
+          21,
+          12,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Infineon successfully anchored its strategic pivot towards automotive electrification (xEV) and AI server power stages, maintaining robust gross margins above 40.5%-42.0% even during broad semiconductor industry cyclical corrections.",
+      "productivity": "High-value industrial output: Generates $287,251 revenue/FTE and $120,653 gross profit/FTE across 58,200 global semiconductor specialists.",
+      "leverage": "Operating margin stabilized and expanded to 18.00%, driven by structural pricing strength in AURIX 32-bit automotive microcontrollers and Silicon Carbide (SiC) power modules.",
+      "rd": "Heavy strategic R&D investment: $2.21B (13.2% of revenue) committed annually into Wide-Bandgap (SiC/GaN) technologies, Kulim 200mm SiC mega-fab, and 300mm Smart Power wafer manufacturing.",
+      "growth": "Automotive segment accounts for 57% of total revenue, powered by increasing silicon content per vehicle across Software-Defined Vehicle (SDV) architectures and EV powertrains.",
+      "breakdown": "Automotive (57%) and Power & Sensor Systems (21%) represent 78% of consolidated sales, capturing structural growth in global decarbonization and AI infrastructure energy efficiency."
+    },
+    "zh": {
+      "pivot": "英飛凌成功將產能重心錨定於車用電氣化（xEV）與 AI 資料中心高功率電源（Power Stage），在經歷半導體庫存調整週期中仍維持 40.5%–42.0% 的強韌毛利率水準。",
+      "productivity": "高效能車用與工業半導體人均產值：全球 58,200 名員工創造人均營收 $287,251/人，人均毛利達 $120,653/人。",
+      "leverage": "營業利益率回升至 18.00%，展現 AURIX 32 位元車用微控制器（MCU）與碳化矽（SiC）功率模組的定價防禦韌性與營運槓桿。",
+      "rd": "深化第三代半導體研發：每年穩定投入 $2.21B（佔營收 13.2%）於寬能隙（SiC / GaN）材料、居林（Kulim）200mm 碳化矽晶圓廠與德勒斯登 300mm 智慧功率晶圓產線。",
+      "growth": "車用事業群（ATV）貢獻達 57% 營收，受惠於軟體定義車輛（SDV）與電動車每車半導體價值量（Content per Car）持續倍數增長。",
+      "breakdown": "車用半導體（57%）與電源感測系統（21%）合計佔比高達 78%，精準對準全球能源脫碳與 AI 運算中心能效升級之長期大趨勢。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Discrete Power Semiconductor Fab",
+        "desc": "Standard silicon planar fab operations and manual cleanroom lot tracking."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Fab Quality & IATF 16949 Automotive Standard",
+        "desc": "Standardized Zero-Defect automotive qualification across 200mm front-end lines."
+      },
+      {
+        "level": 3,
+        "name": "Automated 300mm Smart Power Wafer Fab",
+        "desc": "Fully automated 300mm thin-wafer AMHS, robotic cassette transport, and automated defect inspection."
+      },
+      {
+        "level": 4,
+        "name": "Wide-Bandgap (SiC/GaN) Cognitive Mega-Fab",
+        "desc": "AI-driven Kulim & Villach 200mm SiC crystallization, laser splitting, and automated predictive yield excursions."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Green Decarbonization Platform",
+        "desc": "Autonomous closed-loop fab digital twin driving energy efficiency and compounding velocity (1.01)^365 = 37.8x."
+      }
+    ]
+  }
+}
