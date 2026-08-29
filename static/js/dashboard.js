@@ -88,6 +88,7 @@ const I18N_DICT = {
     en: {
         badge_workflow: "One-Click Workflow",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
+        header_updated: "Updated: 2026-08-29",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -177,6 +178,7 @@ const I18N_DICT = {
     zh: {
         badge_workflow: "一步到位工作流",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
+        header_updated: "更新日期：2026-08-29",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1228,7 +1230,14 @@ function renderCharts(data) {
 
     const tracesValue = sbCats.map((cat, idx) => ({
         x: sbYears,
-        y: sbYears.map(y => (sbData[y]?.value ? (sbData[y].value[idx] || 0) : 0)),
+        y: sbYears.map(y => {
+            if (sbData[y]?.value) return sbData[y].value[idx] || 0;
+            if (typeof sbData[y]?.[cat] === "number") {
+                const totalRev = fin[y]?.revenue || 0;
+                return totalRev > 0 ? (totalRev * sbData[y][cat] / 100) : sbData[y][cat];
+            }
+            return 0;
+        }),
         name: cat,
         type: "bar",
         marker: { color: sbColors[idx] || "#3B82F6" },
@@ -1249,7 +1258,11 @@ function renderCharts(data) {
     // Chart 6B: Product Shipment Volume & Mix Breakdown (%) (Standalone Independent Chart)
     const tracesVolume = sbCats.map((cat, idx) => ({
         x: sbYears,
-        y: sbYears.map(y => (sbData[y]?.volume ? (sbData[y].volume[idx] || 0) : 0)),
+        y: sbYears.map(y => {
+            if (sbData[y]?.volume) return sbData[y].volume[idx] || 0;
+            if (typeof sbData[y]?.[cat] === "number") return sbData[y][cat];
+            return 0;
+        }),
         name: cat,
         type: "bar",
         marker: { color: sbColors[idx] || "#3B82F6", opacity: 0.85 },
