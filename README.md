@@ -614,6 +614,15 @@ sequenceDiagram
 **Q3：如何新增其他公司的自訂數據或產品分拆？**
 - 答：可在 `metrics_extractor.py` 中的 `BUILTIN_BENCHMARKS` 字典內新增該公司的歷年數據與產品分類顏色，或直接使用 `llm_extractor.py` 進行全自動抽取。
 
+**Q4：我可以直接在 Prompt 中指定某一公司讓 AI 自動處理嗎？**
+- 答：**完全可以！** 只要在對話中輸入「*請幫我新增 Broadcom (AVGO)，下載歷年財報並加入儀表板*」或「*請使用 financial-report-multiformat-analyzer skill 分析 Intel (INTC)*」，AI 就會自動遵循 Skill 規範，自動執行「下載 PDF ➔ 幾何轉 MD ➔ 語意推導會計勾稽 ➔ 精算人均產值與國別徽章 ➔ 全量編譯單機版 HTML」的 5 階段自動化閉環。
+
+**Q5：系統是從哪一個網址抓取各公司的財報 PDF 的？**
+- 答：核心爬蟲 `crawler.py` 依據三層式來源機制自動抓取：
+  1. **主要來源**：**CompaniesMarketCap 官方財報庫**（年度：`https://companiesmarketcap.com/{company-slug}/annual-reports/` 或 `.../annual-reports-20f/`；季度：`.../quarterly-reports-10q/`），系統內建別名對照表自動解析股票代碼。
+  2. **自訂網址**：支援在 Prompt 中直接貼入任意公司的 CompaniesMarketCap 專屬頁面網址。
+  3. **官方監管備用來源**：美國 **SEC EDGAR 系統**（美股 Form 10-K/10-Q）、台灣證交所 **公開資訊觀測站 MOPS**（台灣 TWSE 財務資料表）與企業官方投資人關係 (IR) 網站。
+
 ---
 
 ## 🌐 100% 獨立靜態網頁與 GitHub Pages 免費部署 (Serverless Standalone)
