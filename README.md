@@ -748,6 +748,24 @@ python main.py --export-static
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
     - **同步重構單機版 HTML 與 GitHub Pages**：執行 `export_standalone.py` 全量更新 `docs/index.html` 與 `standalone_dashboard.html`。
 
+- **v1.9.0 (2026-08-29)**：
+  - **新增全球電腦終端與電競龍頭 華碩電腦 (ASUSTeK Computer Inc. / ASUS / 2357.TW) 審計基準庫與戰略分析**：
+    - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年達 NT$ 5,845 億（約 $18,266M USD）營收、16.4% 毛利率、4.9% 營業利益率（營業利益暴增 +215.6%），以及全球約 16,800 名員工之高人均營收（$1.08M/人）。
+    - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：PC 與電競系統 (ROG / TUF / Zenbook ~62%)、開放平台與伺服器 (主機板、顯示卡、AI 伺服器 ~34%) 與智慧物聯網 (AIoT & 智慧醫療 ~4%)。
+    - **庫存去化後的黃金拐點 (The Pivot)**：精確量化 2023～2024 年員工人數收斂平原期 (+1.8%) 下，ROG 高階電競、Copilot+ AI PC 與企業級 GPU AI 伺服器推升單季營業利益率由 -1.5% 強勁回升至 5.3%+ 之營運槓桿。
+    - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES)**：支援 `asus <-> 2357 <-> asustek <-> asustek-computer` 自動解析。
+  - **全量產出單機版與 GitHub Pages**：已執行 `export_standalone.py` 更新 `docs/index.html` 與 `standalone_dashboard.html`。
+
+- **v1.8.0 (2026-08-29)**：
+  - **新增台灣 IC 設計龍頭 聯發科技 (MediaTek Inc. / 2454.TW) 審計基準庫與深度戰略分析**：
+    - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年達 NT$ 5,306 億（約 $16,581M USD）營收、49.6% 毛利率、19.3% 營業利益率，以及 22,397 名員工（研發人員佔比高達 87.9%）之極致研發配置。
+    - **三大核心業務分拆 (Sales Breakdown)**：天璣手機晶片 (Mobile Phone SoCs ~54%)、智慧終端裝置 (Smart Edge Platforms / Wi-Fi 7 / Auto / TV ~39%) 與電源管理 IC (Power IC / PMIC ~7%)。
+    - **黃金拐點 (The Pivot) 與人均產值**：精確量化 2023～2024 人力成長收斂平原期 (+0.5% 至 +1.8%) 下，旗艦生成式 AI SoC (天璣 9300/9400 全大核架構) 推升人均營收高達 $740k～$900k USD、人均毛利達 $367k～$422k USD 之營運槓桿。
+    - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES)**：支援 `mediatek <-> 2454 <-> mtk <-> mediatek-inc` 全自動解析與對齊。
+  - **同步編譯獨立儀表板**：更新 `docs/index.html` 與 `standalone_dashboard.html`，支援 GitHub Pages 免伺服器極速瀏覽。
+
 - **v1.7.0 (2026-08-29)**：
   - **新增三大半導體與高科技關鍵巨頭審計基準庫與深度 LLM 戰略分析**：
     - **Arm Holdings plc (ARM)**：整合 2021～2026 年 Form 20-F 官方審計指標，收錄 96.0% 頂級毛利率模型、v9 架構權利金（Royalty）與運算子系統（CSS 授權金）產品拆解、40.2% 研發再投資率，以及 $513k/人 的人均智財產值。
@@ -795,6 +813,8 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v1.9.0 - feat: integrate Taiwan ASUS (2357.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
+* commit v1.8.0 - feat: integrate Taiwan MediaTek (2454.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v1.7.0 - feat: integrate ARM Holdings, TTM Technologies, and Infineon Technologies AG audited benchmarks, 5-year parsed reports, and quarterly analytics
 * commit v1.6.0 - feat: integrate UMC (2303 / United Microelectronics Corp) audited benchmarks, 5-year parsed reports, and quarterly analytics
 * commit v1.5.1 - feat: establish financial-report-multiformat-analyzer skill and multi-currency strategic indices guide

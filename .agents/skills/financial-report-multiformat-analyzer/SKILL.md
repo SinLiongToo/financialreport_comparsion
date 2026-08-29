@@ -14,7 +14,7 @@ This skill equips the agent to systematically process, deduce, normalize, and au
 - **US Domestic SEC Filings**: Form 10-K (Annual), Form 10-Q (Quarterly) under US GAAP (e.g. NVIDIA, Apple, Alphabet, AMD, TTM Technologies, Palantir).
 - **Foreign Private Issuer (FPI) SEC Filings**: Form 20-F (Annual), Form 6-K (Interim/Quarterly) under US GAAP or IFRS (e.g. ASML, TSMC, Arm Holdings).
 - **European & International IFRS Annual Reports**: Standalone annual financial reports under IFRS/IAS (e.g. Infineon Technologies AG, fiscal year ending Sept 30).
-- **Taiwan (TWSE) Annual Reports**: 五年度財務狀況與獲利能力分析表 (e.g. Hon Hai / Foxconn 2317, TSMC 2330, Delta 2308, UMC 2303).
+- **Taiwan (TWSE) Annual Reports**: 五年度財務狀況與獲利能力分析表 (e.g. MediaTek 2454, Hon Hai / Foxconn 2317, TSMC 2330, Delta 2308, UMC 2303).
 - **Asian Market Filings**: Japan Yuho (有価証券報告書 e.g. Advantest 6857), Korea DART (Samsung 005930).
 
 ---
@@ -46,10 +46,11 @@ This skill equips the agent to systematically process, deduce, normalize, and au
 - **Operating Income Metric**: In European filings, track *Segment Result* or *Operating Income* before financial results and income taxes.
 - **Conversion to USD**: Convert reported EUR figures to USD using historical average exchange rates.
 
-### E. Taiwan TWSE Annual Reports (Hon Hai 2317, TSMC 2330, Delta 2308, UMC 2303)
-- **Summary Section**: Page 5–10 *"財務資料及獲利能力分析表"*.
-- **Currency & Scale**: Typically reported in `NTD Millions (新台幣百萬元)`.
-- **Global Group vs Parent Headcount**: Distinguish between parent Taiwan entity and global consolidated workforce (e.g. Foxconn consolidated 650k–850k FTEs vs. Taiwan parent ~4k FTEs).
+### E. Taiwan TWSE Annual Reports (MediaTek 2454, Hon Hai 2317, TSMC 2330, Delta 2308, UMC 2303)
+- **Summary Section**: Page 5–10 *"財務狀況與經營成果 / 獲利能力分析表"*.
+- **Employee Statistics Section**: Section V / VI *"從業員工資訊"* (Management, R&D, Sales, Manufacturing, Degree breakdown, Average Service Years).
+- **Currency & Scale**: Typically reported in `NTD Thousands (新台幣千元)` or `NTD Millions (新台幣百萬元)`.
+- **Global Group vs Parent Headcount**: Distinguish between parent Taiwan entity and global consolidated workforce.
 
 ---
 
@@ -82,7 +83,7 @@ $$\text{Gross Profit per FTE} = \frac{\text{Gross Profit (\$M)} \times 10^6}{\te
 $$\text{Operating Income per FTE} = \frac{\text{Operating Income (\$M)} \times 10^6}{\text{Headcount}}$$
 
 ### B. The Pivot (人力與毛利率黃金拐點)
-- Identify the calendar year where total headcount growth flattens into a plateau ($\Delta \% \text{HC} \le 3\%$) while gross margin continues expanding ($\Delta \text{GM} > 0$) through lights-out factory automation, automated optical inspection (AOI), and IP operational leverage.
+- Identify the calendar year where total headcount growth flattens into a plateau ($\Delta \% \text{HC} \le 3\%$) while gross margin continues expanding ($\Delta \text{GM} > 0$) through automated optical inspection (AOI), fabless chip co-design, and IP operational leverage.
 
 ### C. Operating Leverage & R&D Intensity
 $$\text{Operating Margin \%} = \frac{\text{Operating Income}}{\text{Revenue}} \times 100\%$$
@@ -96,42 +97,70 @@ $$\text{Operating Leverage Coefficient} = \frac{\Delta \% \text{Operating Income
 - **Level 1 (Reactive)**: High labor assembly, manual scheduling, razor-thin margin.
 - **Level 2 (Standardized)**: Global multi-site footprint with baseline SOPs.
 - **Level 3 (Automated)**: Lighthouse factories with automated robotics & AMHS (e.g. TTM Technologies automated HDI/AOI).
-- **Level 4 (Predictive / Co-Design)**: AI-driven parameter self-tuning, advanced IP subsystems, SiC/GaN 300mm smart power platforms (e.g. ARM CSS, Infineon SiC Fab).
+- **Level 4 (Predictive / Co-Design)**: AI-driven parameter self-tuning, advanced IP subsystems, SiC/GaN 300mm smart power platforms, Agentic AI SoC co-design (e.g. ARM CSS, MediaTek Dimensity 9400, Infineon SiC Fab).
 - **Level 5 (World-Class / Cognitive)**: Fully cognitive digital twin manufacturing platform driving compounding velocity $(1.01)^{365} = 37.8x$ (e.g. TSMC GigaFab).
 
 ---
 
-## 5. Output JSON Schema Specification
+## 5. Output JSON Schema Specification (MANDATORY STRUCTURE)
 
-When generating or auditing `data/metrics/{ticker}_metrics.json`:
+When generating or auditing `data/metrics/{ticker}_metrics.json` and `data/metrics/{ticker}_metrics_quarterly.json`:
+
+> [!IMPORTANT]
+> **Chart 6 (Value vs. Volume Dual Panel) Rule**:
+> `sales_breakdown.data[year]` **MUST** be an object containing **BOTH** `"value": [...]` and `"volume": [...]` arrays matching the exact length and order of `"categories"`. Direct array values will cause Chart 6 rendering failure in the frontend!
+
 ```json
 {
-  "company_name": "Arm Holdings plc",
-  "ticker": "ARM",
-  "country": { "en": "United Kingdom 🇬🇧", "zh": "英國 🇬🇧", "code": "UK" },
-  "currency": "USD",
+  "company_name": "MediaTek Inc. (2454.TW / 聯發科技)",
+  "ticker": "MEDIATEK",
+  "country": { "en": "Taiwan 🇹🇼", "zh": "台灣 🇹🇼", "code": "TW" },
+  "currency": "USD (Millions)",
   "unit": "$M",
-  "years": [2021, 2022, 2023, 2024, 2025, 2026],
+  "freq": "annual",
+  "years": ["2020", "2021", "2022", "2023", "2024", "2025"],
   "financials": {
-    "2026": {
-      "revenue": 4920.0,
-      "cogs": 196.8,
-      "gross_profit": 4723.2,
-      "gross_margin": 96.0,
-      "operating_income": 1640.0,
-      "operating_margin": 33.33,
-      "rd_expense": 1980.0,
-      "rd_pct_rev": 40.24,
-      "headcount": 9584,
-      "rev_per_emp": 513356,
-      "gp_per_emp": 492821,
-      "op_per_emp": 171119
+    "2024": {
+      "revenue": 16580.8,
+      "cogs": 8350.0,
+      "gross_profit": 8230.8,
+      "gross_margin": 49.64,
+      "operating_income": 3200.4,
+      "operating_margin": 19.30,
+      "net_income": 3348.2,
+      "net_margin": 20.19,
+      "rd_expense": 4124.8,
+      "rd_pct_rev": 24.88,
+      "headcount": 22397,
+      "rev_per_emp": 740313.0,
+      "gp_per_emp": 367496.0,
+      "op_per_emp": 142894.0,
+      "ni_per_emp": 149493.0,
+      "rd_per_emp": 184168.0,
+      "rev_growth_yoy": 18.97,
+      "gp_growth_yoy": 23.44,
+      "op_growth_yoy": 38.62,
+      "ni_growth_yoy": 34.90,
+      "rd_growth_yoy": 15.17,
+      "hc_growth_yoy": 1.80,
+      "gm_diff_pp": 1.80,
+      "op_diff_pp": 2.74
     }
   },
   "sales_breakdown": {
     "units": "$M",
-    "categories": ["Royalty Revenue", "License & Other Revenue"],
-    "data": { }
+    "categories": [
+      "Mobile Phone SoCs (Dimensity 5G/4G)",
+      "Smart Edge Platforms (Wi-Fi 7/Auto/TV/IoT)",
+      "Power IC (PMIC & Analog)"
+    ],
+    "colors": ["#0284C7", "#10B981", "#F59E0B"],
+    "data": {
+      "2024": {
+        "value": [8954, 6466, 1161],
+        "volume": [54, 39, 7]
+      }
+    }
   },
   "insights": {
     "the_pivot": { "en": "...", "zh": "..." },
@@ -139,26 +168,63 @@ When generating or auditing `data/metrics/{ticker}_metrics.json`:
     "value_vs_volume": { "en": "...", "zh": "..." }
   },
   "lean_maturity": {
-    "rating": "Level 4 (Compute Subsystem CSS Co-Design)",
-    "description": "..."
+    "rating": "Level 4 (Agentic AI SoC & Heterogeneous Architecture Co-Design)",
+    "description": "...",
+    "ladder": [
+      { "level": 1, "name": "...", "desc": "..." }
+    ]
   }
 }
 ```
 
 ---
 
-## 6. Step-by-Step Execution Checklist for New Companies
+## 6. End-to-End Standard 7-Step Integration Workflow
 
-1. **Step 1 - Scrape & Download**: Fetch PDF annual/quarterly reports into `data/downloads/{ticker}/`.
-2. **Step 2 - Parse to MD**: Convert tables to Markdown with `pdfplumber` into `data/parsed_md/{ticker}/`.
-3. **Step 3 - Deduce & Normalize**:
-   - Detect accounting anomalies (e.g. Google/Meta `Cost of revenues` $\rightarrow$ derive Gross Profit).
-   - Extract headcount from Item 1/6 prose and assign canonical country metadata.
-   - Convert foreign currency to USD $M.
-4. **Step 4 - Update Codebase**:
-   - Write `data/metrics/{ticker}_metrics.json` and `data/metrics/{ticker}_metrics_quarterly.json`.
-   - Update `TICKER_ALIASES`, `BUILTIN_BENCHMARKS`, and `BUILTIN_BENCHMARKS_QUARTERLY` in `metrics_extractor.py`.
-   - Add ticker to `app.py`, `COMPANY_COLORS`, `COMPANY_COUNTRIES`, and dropdown mappings in `static/js/dashboard.js`.
-5. **Step 5 - Compile & Deploy**:
-   - Run `python export_standalone.py` to recompile `docs/index.html` and `standalone_dashboard.html`.
-   - Update `README.md` and commit to Git.
+Whenever adding or updating any company, execute the following 7 steps without omission:
+
+### Step 1: Crawler Slugs & Download
+1. Add ticker and common aliases (e.g. `2454`, `mediatek`, `mtk`) to `TICKER_SLUGS` in [`crawler.py`](file:///c:/Users/tu-hs/OneDrive/文件/2022_0308_MASA/2022-0708/Projects_antigravity/FINICIAL%20ANNUAL%20REPORT%20DOWNLOAD%20TO%20MD_dashboard/crawler.py).
+2. Download the last 5 years of annual report PDFs into `data/downloads/{ticker}/`.
+
+### Step 2: Parse to Markdown
+1. Parse PDFs to Markdown with `PDFToMarkdownParser` into `data/parsed_md/{ticker}/`.
+
+### Step 3: Deduce & Extract Audited Metrics
+1. Extract Consolidated Income Statements, R&D expenses, Headcount, and Product Segments.
+2. Standardize all currencies to **USD Millions ($M)** using official benchmark exchange rates.
+3. Compute Productivity indices (Rev/FTE, GP/FTE, OI/FTE, YoY growth).
+
+### Step 4: Write Metric JSONs
+1. Write `data/metrics/{ticker}_metrics.json` and all alias mirror files (e.g. `2454_metrics.json`).
+2. Write `data/metrics/{ticker}_metrics_quarterly.json` (12 quarters) and alias mirror files.
+3. **Strictly verify Chart 6 schema**: `sales_breakdown.data[year]` contains `{"value": [...], "volume": [...]}`.
+
+### Step 5: Update Backend & Frontend Codebase
+1. **`metrics_extractor.py`**:
+   - Add aliases to `TICKER_ALIASES`.
+   - Add company dictionary to `BUILTIN_BENCHMARKS`.
+   - Add company dictionary to `BUILTIN_BENCHMARKS_QUARTERLY`.
+2. **`static/js/dashboard.js`**:
+   - Add dedicated color to `COMPANY_COLORS`.
+   - Add country metadata to `COMPANY_COUNTRIES`.
+   - Add alias to `TICKER_CANONICAL_MAP`.
+   - Add ticker to `setupTargetInputQuickSwitcher`.
+   - Add ticker to `orderedPriority` and `friendlyNames`.
+3. **`templates/index.html`**:
+   - Add option to `<select id="companySelect">`.
+4. **`app.py`**:
+   - Add ticker to `ordered_priority` in `get_companies()`.
+5. **`export_standalone.py`**:
+   - Add ticker to synthetic overview list in `build_markdown_db()`.
+
+### Step 6: Automated Sanity & Validation Audit
+Run the automated verification script:
+```bash
+python .agents/skills/financial-report-multiformat-analyzer/scripts/validate_company.py <ticker>
+```
+Ensure it returns: `✅ PASSED: All metrics, Chart 6 structures, and aliases are valid`.
+
+### Step 7: Compile Standalone Dashboard & Commit
+1. Run `python export_standalone.py` to recompile `docs/index.html` and `standalone_dashboard.html`.
+2. Update `README.md` (Change Log and Git History).

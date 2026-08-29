@@ -81,7 +81,14 @@ TICKER_SLUGS = {
     "advantest": ["advantest", "6857"],
     "6857": ["advantest", "6857"],
     "samsung": ["samsung", "005930"],
-    "005930": ["samsung", "005930"]
+    "005930": ["samsung", "005930"],
+    "mediatek": ["mediatek", "2454"],
+    "2454": ["mediatek", "2454"],
+    "mtk": ["mediatek", "2454"],
+    "asus": ["asustek-computer", "asus", "2357"],
+    "2357": ["asustek-computer", "asus", "2357"],
+    "asustek": ["asustek-computer", "asus", "2357"],
+    "asustek-computer": ["asustek-computer", "asus", "2357"]
 }
 
 class AnnualReportCrawler:
@@ -235,8 +242,19 @@ class AnnualReportCrawler:
                     "web_url": web_url
                 })
 
+        # Deduplicate multiple links for the same (year, quarter), preferring English '.en.'
+        deduped = {}
+        for r in reports:
+            key = (r["year"], r.get("quarter"))
+            if key not in deduped:
+                deduped[key] = r
+            else:
+                if ".zh." in str(deduped[key]["pdf_url"]) and ".en." in str(r["pdf_url"]):
+                    deduped[key] = r
+        reports = list(deduped.values())
+
         # Sort descending by year
-        reports.sort(key=lambda x: x["year"], reverse=True)
+        reports.sort(key=lambda x: (x["year"], x.get("quarter") or ""), reverse=True)
         return reports
 
     def download_reports(

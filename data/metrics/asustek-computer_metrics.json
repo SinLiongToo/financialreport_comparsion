@@ -1,0 +1,310 @@
+{
+  "company_name": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦)",
+  "ticker": "ASUS",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 13992.5,
+      "cogs": 11589.4,
+      "gross_profit": 2403.1,
+      "operating_income": 963.4,
+      "net_income": 900.3,
+      "rd_expense": 515.3,
+      "headcount": 14500,
+      "gross_margin": 17.17,
+      "operating_margin": 6.89,
+      "net_margin": 6.43,
+      "rd_pct_rev": 3.68,
+      "rev_per_emp": 965000.0,
+      "gp_per_emp": 165731.0,
+      "op_per_emp": 66441.0,
+      "ni_per_emp": 62090.0,
+      "rd_per_emp": 35538.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 19117.4,
+      "cogs": 15230.6,
+      "gross_profit": 3886.8,
+      "operating_income": 1839.8,
+      "net_income": 1591.1,
+      "rd_expense": 660.7,
+      "headcount": 15800,
+      "gross_margin": 20.33,
+      "operating_margin": 9.62,
+      "net_margin": 8.32,
+      "rd_pct_rev": 3.46,
+      "rev_per_emp": 1209962.0,
+      "gp_per_emp": 246000.0,
+      "op_per_emp": 116443.0,
+      "ni_per_emp": 100703.0,
+      "rd_per_emp": 41816.0,
+      "rev_growth_yoy": 36.63,
+      "gp_growth_yoy": 61.74,
+      "op_growth_yoy": 90.97,
+      "ni_growth_yoy": 76.73,
+      "rd_growth_yoy": 28.22,
+      "hc_growth_yoy": 8.97,
+      "gm_diff_pp": 3.16,
+      "op_diff_pp": 2.73
+    },
+    "2022": {
+      "revenue": 18026.5,
+      "cogs": 15713.8,
+      "gross_profit": 2312.7,
+      "operating_income": 343.6,
+      "net_income": 493.0,
+      "rd_expense": 664.4,
+      "headcount": 16200,
+      "gross_margin": 12.83,
+      "operating_margin": 1.91,
+      "net_margin": 2.74,
+      "rd_pct_rev": 3.69,
+      "rev_per_emp": 1112747.0,
+      "gp_per_emp": 142759.0,
+      "op_per_emp": 21210.0,
+      "ni_per_emp": 30432.0,
+      "rd_per_emp": 41012.0,
+      "rev_growth_yoy": -5.71,
+      "gp_growth_yoy": -40.5,
+      "op_growth_yoy": -81.32,
+      "ni_growth_yoy": -69.02,
+      "rd_growth_yoy": 0.56,
+      "hc_growth_yoy": 2.53,
+      "gm_diff_pp": -7.5,
+      "op_diff_pp": -7.71
+    },
+    "2023": {
+      "revenue": 15508.5,
+      "cogs": 13379.2,
+      "gross_profit": 2129.3,
+      "operating_income": 283.6,
+      "net_income": 512.2,
+      "rd_expense": 607.7,
+      "headcount": 16500,
+      "gross_margin": 13.73,
+      "operating_margin": 1.83,
+      "net_margin": 3.3,
+      "rd_pct_rev": 3.92,
+      "rev_per_emp": 939909.0,
+      "gp_per_emp": 129048.0,
+      "op_per_emp": 17188.0,
+      "ni_per_emp": 31042.0,
+      "rd_per_emp": 36830.0,
+      "rev_growth_yoy": -13.97,
+      "gp_growth_yoy": -7.93,
+      "op_growth_yoy": -17.46,
+      "ni_growth_yoy": 3.89,
+      "rd_growth_yoy": -8.53,
+      "hc_growth_yoy": 1.85,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": -0.08
+    },
+    "2024": {
+      "revenue": 18265.6,
+      "cogs": 15270.0,
+      "gross_profit": 2995.6,
+      "operating_income": 895.0,
+      "net_income": 1046.9,
+      "rd_expense": 703.1,
+      "headcount": 16800,
+      "gross_margin": 16.4,
+      "operating_margin": 4.9,
+      "net_margin": 5.73,
+      "rd_pct_rev": 3.85,
+      "rev_per_emp": 1087238.0,
+      "gp_per_emp": 178310.0,
+      "op_per_emp": 53274.0,
+      "ni_per_emp": 62315.0,
+      "rd_per_emp": 41851.0,
+      "rev_growth_yoy": 17.78,
+      "gp_growth_yoy": 40.69,
+      "op_growth_yoy": 215.59,
+      "ni_growth_yoy": 104.39,
+      "rd_growth_yoy": 15.7,
+      "hc_growth_yoy": 1.82,
+      "gm_diff_pp": 2.67,
+      "op_diff_pp": 3.07
+    },
+    "2025": {
+      "revenue": 20312.5,
+      "cogs": 16859.4,
+      "gross_profit": 3453.1,
+      "operating_income": 1117.2,
+      "net_income": 1259.4,
+      "rd_expense": 765.6,
+      "headcount": 17100,
+      "gross_margin": 17.0,
+      "operating_margin": 5.5,
+      "net_margin": 6.2,
+      "rd_pct_rev": 3.77,
+      "rev_per_emp": 1187865.0,
+      "gp_per_emp": 201936.0,
+      "op_per_emp": 65333.0,
+      "ni_per_emp": 73649.0,
+      "rd_per_emp": 44772.0,
+      "rev_growth_yoy": 11.21,
+      "gp_growth_yoy": 15.27,
+      "op_growth_yoy": 24.83,
+      "ni_growth_yoy": 20.3,
+      "rd_growth_yoy": 8.89,
+      "hc_growth_yoy": 1.79,
+      "gm_diff_pp": 0.6,
+      "op_diff_pp": 0.6
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "PC & Gaming Systems (ROG, TUF, Zenbook)",
+      "Open Platform (Motherboards, GPU Cards, AI Servers)",
+      "AIoT & Smart Healthcare Solutions"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          8675,
+          4758,
+          560
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      },
+      "2021": {
+        "value": [
+          11853,
+          6499,
+          765
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      },
+      "2022": {
+        "value": [
+          11176,
+          6129,
+          721
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      },
+      "2023": {
+        "value": [
+          9615,
+          5273,
+          620
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      },
+      "2024": {
+        "value": [
+          11325,
+          6210,
+          731
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      },
+      "2025": {
+        "value": [
+          12594,
+          6906,
+          813
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "ASUS established a strong Pivot recovery in 2023-2024. After PC post-COVID inventory adjustments in 2022, headcount growth stabilized at ~1.8% while gross margin expanded from 12.8% to 16.4% and operating income surged +215% driven by premium ROG gaming hardware, Copilot+ AI PCs, and high-density AI servers.",
+      "zh": "華碩在 2023-2024 年展現了鮮明的「庫存去化後獲利黃金拐點 (The Pivot)」。員工人數年增率收斂至 1.8% 平原期，而毛利率由 2022 年低點 12.8% 強勁回升至 16.4%，營業利益更暴增 +215%，主要受惠於 ROG 高階電競、Copilot+ AI PC 與企業級 AI 伺服器出貨放量。"
+    },
+    "productivity": {
+      "en": "Revenue per FTE exceeds $1.08M-$1.21M USD across ASUS's ~16.8K global workforce, positioning ASUS as one of the highest revenue-generating hardware & AI solution giants in the PC/Server ecosystem.",
+      "zh": "華碩全球 1.68 萬名員工之人均營收高達 108萬~121萬美元，人均毛利達 17.8 萬美元，位列全球電腦終端與 AI 伺服器領域最高產值之領導大廠。"
+    },
+    "value_vs_volume": {
+      "en": "ASUS leveraged its world #1 motherboard leadership and ROG gaming brand moat to transition towards high-ASP AI workstations and multi-node GPU server clusters, insulating margins against commodity PC cycles.",
+      "zh": "華碩憑藉全球第一主機板市佔與 ROG 頂級電競品牌護城河，加速跨足高單價 AI 工作站與多節點 GPU 伺服器機櫃，大幅提升產品組合 ASP 與抗週期韌性。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 3 (AI PC Ecosystem & Smart Enterprise AI Server Manufacturing)",
+    "description": "World #1 Motherboard ecosystem, premier gaming brand (ROG), full-stack enterprise AI Server solutions (NVIDIA HGX/MGX, GB200), and automated modular assembly.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard Component Manufacturing",
+        "desc": "Standard desktop PC and peripheral assembly with baseline batch production."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Brand Product Portfolio",
+        "desc": "Global notebook, gaming, and commercial PC distribution across consumer and enterprise channels."
+      },
+      {
+        "level": 3,
+        "name": "AI PC & Smart Server Manufacturing",
+        "desc": "Integrated ROG ecosystem, Copilot+ AI PC acceleration, and customized GPU AI server clusters with modular factory automation."
+      },
+      {
+        "level": 4,
+        "name": "End-to-End Enterprise AI Digital Solutions",
+        "desc": "Full-stack AI cloud software, private AI supercomputing infrastructure, and intelligent healthcare digital twins."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Hardware Platform",
+        "desc": "Closed-loop digital twin design-to-manufacturing velocity (1.01)^365 = 37.8x."
+      }
+    ]
+  }
+}

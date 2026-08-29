@@ -19,8 +19,12 @@ let COMPARE_SORT_DIR = "desc";
 let ACTIVE_VIEW = "single"; // "single" | "compare"
 
 const COMPANY_COLORS = {
+    "asus": "#00539B",
     "asml": "#00A3E0",
     "tsmc": "#EF4444",
+    "mediatek": "#F97316",
+    "2454": "#F97316",
+    "mtk": "#F97316",
     "nvda": "#10B981",
     "googl": "#3B82F6",
     "google": "#3B82F6",
@@ -140,6 +144,10 @@ const COMPANY_COUNTRIES = {
 };
 
 const TICKER_CANONICAL_MAP = {
+    "asus": "asus",
+    "2357": "asus",
+    "asustek": "asus",
+    "asustek-computer": "asus",
     "arm": "arm",
     "arm-holdings": "arm",
     "arm-holdings-plc": "arm",
@@ -155,6 +163,9 @@ const TICKER_CANONICAL_MAP = {
     "tsmc": "tsmc",
     "tsm": "tsmc",
     "2330": "tsmc",
+    "mediatek": "mediatek",
+    "2454": "mediatek",
+    "mtk": "mediatek",
     "asml": "asml",
     "vishay": "vsh",
     "vsh": "vsh",
@@ -944,6 +955,7 @@ function syncTargetInputWithTicker(ticker) {
     if (isQ) {
         if (t === "asml") input.value = "https://companiesmarketcap.com/asml/quarterly-reports/";
         else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/quarterly-reports/";
+        else if (t === "mediatek" || t === "2454" || t === "mtk") input.value = "https://companiesmarketcap.com/mediatek/quarterly-reports/";
         else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/quarterly-reports-10q/";
         else if (t === "googl" || t === "google" || t === "goog" || t === "alphabet" || t === "alphabet-google") input.value = "https://companiesmarketcap.com/alphabet-google/quarterly-reports-10q/";
         else if (t === "amd") input.value = "https://companiesmarketcap.com/amd/quarterly-reports-10q/";
@@ -963,6 +975,7 @@ function syncTargetInputWithTicker(ticker) {
     } else {
         if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
         else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/annual-reports/";
+        else if (t === "mediatek" || t === "2454" || t === "mtk") input.value = "https://companiesmarketcap.com/mediatek/annual-reports/";
         else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/annual-reports/";
         else if (t === "googl" || t === "google" || t === "goog" || t === "alphabet" || t === "alphabet-google") input.value = "https://companiesmarketcap.com/alphabet-google/annual-reports/";
         else if (t === "amd") input.value = "https://companiesmarketcap.com/amd/annual-reports/";
@@ -1022,7 +1035,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASML", "TSMC", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASML", "TSMC", "MEDIATEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1039,8 +1052,12 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+            "ASUS": "ASUS (2357 / 華碩電腦)",
+            "2357": "ASUS (2357 / 華碩電腦)",
                 "ASML": "ASML Holding N.V.",
                 "TSMC": "TSMC (2330 / TSM)",
+                "MEDIATEK": "MediaTek (2454 / 聯發科)",
+                "2454": "MediaTek (2454 / 聯發科)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",
@@ -1431,6 +1448,7 @@ function renderCharts(data) {
     const tracesValue = sbCats.map((cat, idx) => ({
         x: sbYears,
         y: sbYears.map(y => {
+            if (Array.isArray(sbData[y])) return sbData[y][idx] || 0;
             if (sbData[y]?.value) return sbData[y].value[idx] || 0;
             if (typeof sbData[y]?.[cat] === "number") {
                 const totalRev = fin[y]?.revenue || 0;
@@ -1459,6 +1477,10 @@ function renderCharts(data) {
     const tracesVolume = sbCats.map((cat, idx) => ({
         x: sbYears,
         y: sbYears.map(y => {
+            if (Array.isArray(sbData[y])) {
+                const tot = sbData[y].reduce((a, b) => a + (typeof b === 'number' ? b : 0), 0);
+                return tot > 0 ? Math.round((sbData[y][idx] / tot) * 100) : 0;
+            }
             if (sbData[y]?.volume) return sbData[y].volume[idx] || 0;
             if (typeof sbData[y]?.[cat] === "number") return sbData[y][cat];
             return 0;
