@@ -60,7 +60,28 @@ TICKER_SLUGS = {
     "2317": ["hon-hai-precision-industry", "foxconn", "2317"],
     "umc": ["united-microelectronics", "umc", "2303"],
     "united-microelectronics": ["united-microelectronics", "umc", "2303"],
-    "2303": ["united-microelectronics", "umc", "2303"]
+    "2303": ["united-microelectronics", "umc", "2303"],
+    "arm": ["arm-holdings", "arm", "arm-holdings-plc"],
+    "arm-holdings": ["arm-holdings", "arm"],
+    "ttm": ["ttm-technologies", "ttm", "ttmi"],
+    "ttmi": ["ttm-technologies", "ttm", "ttmi"],
+    "ttm-technologies": ["ttm-technologies", "ttm"],
+    "infineon": ["infineon-technologies", "infineon", "ifx", "ifnny"],
+    "ifx": ["infineon-technologies", "infineon", "ifx"],
+    "ifnny": ["infineon-technologies", "infineon", "ifnny"],
+    "infineon-technologies": ["infineon-technologies", "infineon"],
+    "amat": ["applied-materials", "amat"],
+    "applied-materials": ["applied-materials", "amat"],
+    "meta": ["meta-platforms", "meta"],
+    "meta-platforms": ["meta-platforms", "meta"],
+    "amzn": ["amazon", "amzn"],
+    "amazon": ["amazon", "amzn"],
+    "pltr": ["palantir", "pltr"],
+    "palantir": ["palantir", "pltr"],
+    "advantest": ["advantest", "6857"],
+    "6857": ["advantest", "6857"],
+    "samsung": ["samsung", "005930"],
+    "005930": ["samsung", "005930"]
 }
 
 class AnnualReportCrawler:

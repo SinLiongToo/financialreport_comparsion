@@ -25,9 +25,11 @@
    - [4. 營運轉型成熟度模型 (Lean Maturity Model)](#4-營運轉型成熟度模型-lean-maturity-model)
 11. [如何搭配 Gemini / LLM 進行深度戰略產出](#-如何搭配-gemini--llm-進行深度戰略產出)
 12. [美股 10-K vs. 外國企業 20-F 年報解析技術機制](#-美股-10-k-vs-外國企業-20-f-年報解析技術機制)
-13. [常見問題與故障排除 (FAQ)](#-常見問題與故障排除-faq)
-14. [最新修復與優化 (Change Log)](#-最新修復與優化-change-log)
-15. [Git History Log](#-git-history-log)
+13. [如何使用 financial-report-multiformat-analyzer Skill 及 Prompt 任意公司？（爬取來源網址與機制解析）](#-如何使用-financial-report-multiformat-analyzer-skill-及-prompt-任意公司爬取來源網址與機制解析)
+14. [常見問題與故障排除 (FAQ)](#-常見問題與故障排除-faq)
+15. [100% 獨立靜態網頁與 GitHub Pages 免費部署 (Serverless Standalone)](#-100-獨立靜態網頁與-github-pages-免費部署-serverless-standalone)
+16. [最新修復與優化 (Change Log)](#-最新修復與優化-change-log)
+17. [Git History Log](#-git-history-log)
 
 ---
 
@@ -520,6 +522,84 @@ flowchart TD
    - 專業產業評論（Industry Commentary）
    - 16:9 簡報視覺草圖規劃
    - 60 秒高階面試英文口說講稿（Executive Pitch）
+
+---
+
+## 🧠 如何使用 financial-report-multiformat-analyzer Skill 及 Prompt 任意公司？（爬取來源網址與機制解析）
+
+本專案已將跨國多格式財報解析、幣別/尺度正規化、人均產值計算與國別標籤封裝為專屬擴充技能（**Agent Skill**：`.agents/skills/financial-report-multiformat-analyzer/SKILL.md`）。
+
+### 💡 1. 我可以直接在 Prompt 中指定任意公司嗎？
+**完全可以！** 您不需要手動下載 PDF 或手動算數字，只需在對話 Prompt 中輸入想分析的公司代碼、名稱或網址即可：
+
+* **自然語言指令範例**：
+  > 🗣️ **「請幫我新增 Broadcom (AVGO)，下載最近 5 年財報並加入儀表板」**  
+  > 🗣️ **「幫我加入 Texas Instruments (TXN) 與 Qualcomm (QCOM)，請分析並更新數據」**  
+  > 🗣️ **「請使用 financial-report-multiformat-analyzer skill 分析 Intel (INTC) 的人均產值與 The Pivot 拐點」**
+
+---
+
+### 🌐 2. 財報是從哪一個網址抓取的？（爬蟲底層架構解析）
+
+系統核心爬蟲模組 `crawler.py` (`AnnualReportCrawler`) 支援**三層式智慧網址解析與自動下載機制**：
+
+```mermaid
+flowchart TD
+    UserInput["使用者輸入<br/>(例如 AVGO / Texas Instruments / 網址)"] --> URLParser["crawler.py 網址與代碼解析器"]
+    
+    URLParser --> Track1["1. 主要來源：CompaniesMarketCap 財報庫<br/>https://companiesmarketcap.com/{slug}/annual-reports/"]
+    URLParser --> Track2["2. 官方監管來源：美國 SEC EDGAR<br/>https://www.sec.gov/edgar/browse/?CIK={ticker}"]
+    URLParser --> Track3["3. 台灣與亞洲來源：TWSE MOPS / IR 官方網站<br/>https://mops.twse.com.tw/"]
+    
+    Track1 --> Downloader["非同步 PDF 下載器<br/>(具備 Local Cache 快取，零重複下載)"]
+    Track2 --> Downloader
+    Track3 --> Downloader
+    
+    Downloader --> PDFStore["儲存至 data/downloads/{ticker}/*.pdf"]
+```
+
+#### 📌 具體抓取來源與路徑規範：
+1. **主要自動爬取來源：CompaniesMarketCap 官方年度/季度報告存檔**
+   - **年度財報 (10-K / 20-F / Annual Reports)**：  
+     `https://companiesmarketcap.com/{company-slug}/annual-reports/` 或 `.../annual-reports-20f/`
+   - **季度財報 (10-Q / 6-K / Quarterly Reports)**：  
+     `https://companiesmarketcap.com/{company-slug}/quarterly-reports-10q/`
+   - **自動別名轉換 (Slug Mapping)**：系統內建 `TICKER_SLUGS` 智慧轉換，例如：
+     - 輸入 `arm` ➔ 自動對齊 `https://companiesmarketcap.com/arm-holdings/annual-reports/`
+     - 輸入 `ttm` ➔ 自動對齊 `https://companiesmarketcap.com/ttm-technologies/annual-reports/`
+     - 輸入 `ifx` ➔ 自動對齊 `https://companiesmarketcap.com/infineon-technologies/annual-reports/`
+     - 輸入 `2317` ➔ 自動對齊 `https://companiesmarketcap.com/hon-hai-precision-industry/annual-reports/`
+2. **直接輸入完整網址**：
+   - 您也可以直接在 Prompt 或 Web 控制台貼入任意 CompaniesMarketCap 公司的專屬財報頁面網址（例如：`https://companiesmarketcap.com/broadcom/annual-reports/`）。
+3. **官方監管與企業投資人關係 (IR) 備用來源**：
+   - **美股上市公司**：美國證券交易委員會 [SEC EDGAR 系統](https://www.sec.gov/edgar/searchedgar/companysearch)。
+   - **台灣上市櫃巨頭**：台灣證交所 [公開資訊觀測站 (MOPS)](https://mops.twse.com.tw/) 與企業官方 IR 網站。
+   - **歐洲/日本巨頭**：企業官方 IR 財務年報（如 Infineon AG、Advantest 有價證券報告書）。
+
+---
+
+### 🔄 3. 當你 Prompt 一家新公司時，AI 後台執行的 5 步標準閉環
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor User as 使用者
+    participant Skill as financial-report-multiformat-analyzer Skill
+    participant Crawler as crawler.py
+    participant Parser as pdf_parser.py
+    participant Extractor as metrics_extractor.py
+    participant Standalone as export_standalone.py
+
+    User->>Skill: 「請新增 Broadcom (AVGO) 並更新儀表板」
+    Skill->>Crawler: 爬取 CompaniesMarketCap / SEC 歷年 PDF 報告
+    Crawler-->>Skill: 儲存 PDF 至 data/downloads/avgo/
+    Skill->>Parser: 幾何表格無損還原為 Markdown
+    Parser-->>Skill: 儲存 MD 至 data/parsed_md/avgo/
+    Skill->>Extractor: 執行語意推導 (會計勾稽 + 人均產值 + 國別徽章 🇺🇸)
+    Extractor-->>Skill: 產出 data/metrics/avgo_metrics.json (年度+季度)
+    Skill->>Standalone: 重新編譯 standalone_dashboard.html 與 docs/index.html
+    Skill-->>User: 完成！已加入儀表板與 Peer Benchmark 矩陣
+```
 
 ---
 
