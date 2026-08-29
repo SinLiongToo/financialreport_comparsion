@@ -80,33 +80,38 @@ TICKER_ALIASES = {
 }
 
 BUILTIN_BENCHMARKS = {
-    "umc": {
-        "company_name": "UMC",
+        "umc": {
+        "company_name": "UMC (United Microelectronics Corp)",
         "ticker": "UMC",
         "currency": "USD (Millions)",
         "unit": "$M",
+        "freq": "annual",
         "years": [
-                2023,
-                2024,
-                2025
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
         ],
         "financials": {
-                "2023": {
-                        "revenue": 7155,
-                        "gross_profit": 2497,
-                        "operating_income": 1815,
-                        "net_income": 0,
-                        "rd_expense": 443,
-                        "headcount": 20100,
-                        "gross_margin": 34.9,
-                        "operating_margin": 25.37,
-                        "net_margin": 0.0,
-                        "rd_pct_rev": 6.19,
-                        "rev_per_emp": 355970.0,
-                        "gp_per_emp": 124229.0,
-                        "op_per_emp": 90299.0,
-                        "ni_per_emp": 0,
-                        "rd_per_emp": 22040.0,
+                "2020": {
+                        "revenue": 5994.0,
+                        "gross_profit": 1325.0,
+                        "operating_income": 746.0,
+                        "net_income": 620.0,
+                        "rd_expense": 385.0,
+                        "headcount": 19500,
+                        "gross_margin": 22.11,
+                        "operating_margin": 12.45,
+                        "net_margin": 10.34,
+                        "rd_pct_rev": 6.43,
+                        "rev_per_emp": 307385.0,
+                        "gp_per_emp": 67949.0,
+                        "op_per_emp": 38256.0,
+                        "ni_per_emp": 31795.0,
+                        "rd_per_emp": 19744.0,
+                        "cogs": 4669.0,
                         "rev_growth_yoy": None,
                         "gp_growth_yoy": None,
                         "op_growth_yoy": None,
@@ -116,54 +121,134 @@ BUILTIN_BENCHMARKS = {
                         "gm_diff_pp": None,
                         "op_diff_pp": None
                 },
-                "2024": {
-                        "revenue": 7259,
-                        "gross_profit": 2379,
-                        "operating_income": 1684,
-                        "net_income": 0,
-                        "rd_expense": 444,
+                "2021": {
+                        "revenue": 7608.0,
+                        "gross_profit": 2571.0,
+                        "operating_income": 1850.0,
+                        "net_income": 1580.0,
+                        "rd_expense": 452.0,
                         "headcount": 20000,
-                        "gross_margin": 32.77,
+                        "gross_margin": 33.8,
+                        "operating_margin": 24.32,
+                        "net_margin": 20.77,
+                        "rd_pct_rev": 5.94,
+                        "rev_per_emp": 380400.0,
+                        "gp_per_emp": 128550.0,
+                        "op_per_emp": 92500.0,
+                        "ni_per_emp": 79000.0,
+                        "rd_per_emp": 22600.0,
+                        "cogs": 5037.0,
+                        "rev_growth_yoy": 26.93,
+                        "gp_growth_yoy": 94.04,
+                        "op_growth_yoy": 147.99,
+                        "ni_growth_yoy": 154.84,
+                        "rd_growth_yoy": 17.4,
+                        "hc_growth_yoy": 2.56,
+                        "gm_diff_pp": 11.69,
+                        "op_diff_pp": 11.87
+                },
+                "2022": {
+                        "revenue": 9353.0,
+                        "gross_profit": 4218.0,
+                        "operating_income": 3500.0,
+                        "net_income": 2980.0,
+                        "rd_expense": 445.0,
+                        "headcount": 20200,
+                        "gross_margin": 45.1,
+                        "operating_margin": 37.42,
+                        "net_margin": 31.86,
+                        "rd_pct_rev": 4.76,
+                        "rev_per_emp": 463020.0,
+                        "gp_per_emp": 208812.0,
+                        "op_per_emp": 173267.0,
+                        "ni_per_emp": 147525.0,
+                        "rd_per_emp": 22030.0,
+                        "cogs": 5135.0,
+                        "rev_growth_yoy": 22.94,
+                        "gp_growth_yoy": 64.06,
+                        "op_growth_yoy": 89.19,
+                        "ni_growth_yoy": 88.61,
+                        "rd_growth_yoy": -1.55,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 11.3,
+                        "op_diff_pp": 13.1
+                },
+                "2023": {
+                        "revenue": 7155.0,
+                        "gross_profit": 2497.0,
+                        "operating_income": 1815.0,
+                        "net_income": 1560.0,
+                        "rd_expense": 443.0,
+                        "headcount": 20100,
+                        "gross_margin": 34.9,
+                        "operating_margin": 25.36,
+                        "net_margin": 21.8,
+                        "rd_pct_rev": 6.19,
+                        "rev_per_emp": 355970.0,
+                        "gp_per_emp": 124229.0,
+                        "op_per_emp": 90299.0,
+                        "ni_per_emp": 77612.0,
+                        "rd_per_emp": 22040.0,
+                        "cogs": 4658.0,
+                        "rev_growth_yoy": -23.5,
+                        "gp_growth_yoy": -40.8,
+                        "op_growth_yoy": -48.14,
+                        "ni_growth_yoy": -47.65,
+                        "rd_growth_yoy": -0.45,
+                        "hc_growth_yoy": -0.5,
+                        "gm_diff_pp": -10.2,
+                        "op_diff_pp": -12.06
+                },
+                "2024": {
+                        "revenue": 7259.0,
+                        "gross_profit": 2379.0,
+                        "operating_income": 1684.0,
+                        "net_income": 1470.0,
+                        "rd_expense": 444.0,
+                        "headcount": 20000,
+                        "gross_margin": 32.78,
                         "operating_margin": 23.2,
-                        "net_margin": 0.0,
+                        "net_margin": 20.25,
                         "rd_pct_rev": 6.12,
                         "rev_per_emp": 362950.0,
                         "gp_per_emp": 118950.0,
                         "op_per_emp": 84200.0,
-                        "ni_per_emp": 0,
+                        "ni_per_emp": 73500.0,
                         "rd_per_emp": 22200.0,
+                        "cogs": 4880.0,
                         "rev_growth_yoy": 1.45,
                         "gp_growth_yoy": -4.73,
                         "op_growth_yoy": -7.22,
-                        "ni_growth_yoy": 0.0,
+                        "ni_growth_yoy": -5.77,
                         "rd_growth_yoy": 0.23,
                         "hc_growth_yoy": -0.5,
-                        "gm_diff_pp": -2.13,
-                        "op_diff_pp": -2.17
+                        "gm_diff_pp": -2.12,
+                        "op_diff_pp": -2.16
                 },
                 "2025": {
-                        "revenue": 7650,
-                        "gross_profit": 2563,
-                        "operating_income": 1798,
-                        "net_income": 0,
-                        "rd_expense": 465,
+                        "revenue": 7650.0,
+                        "gross_profit": 2563.0,
+                        "operating_income": 1798.0,
+                        "net_income": 1570.0,
+                        "rd_expense": 465.0,
                         "headcount": 20200,
                         "gross_margin": 33.5,
                         "operating_margin": 23.5,
-                        "net_margin": 0.0,
+                        "net_margin": 20.52,
                         "rd_pct_rev": 6.08,
                         "rev_per_emp": 378713.0,
                         "gp_per_emp": 126881.0,
                         "op_per_emp": 89010.0,
-                        "ni_per_emp": 0,
+                        "ni_per_emp": 77723.0,
                         "rd_per_emp": 23020.0,
+                        "cogs": 5087.0,
                         "rev_growth_yoy": 5.39,
                         "gp_growth_yoy": 7.73,
                         "op_growth_yoy": 6.77,
-                        "ni_growth_yoy": 0.0,
+                        "ni_growth_yoy": 6.8,
                         "rd_growth_yoy": 4.73,
                         "hc_growth_yoy": 1.0,
-                        "gm_diff_pp": 0.73,
+                        "gm_diff_pp": 0.72,
                         "op_diff_pp": 0.3
                 }
         },
@@ -255,49 +340,45 @@ BUILTIN_BENCHMARKS = {
         },
         "insights": {
                 "en": {
-                        "pivot": "UMC workforce reported at 20,200 FTEs with GAAP Gross Margin at 33.5%. Operational excellence and automated workflow scaling drive margin expansion.",
-                        "productivity": "Human capital productivity tracks at $378,713/FTE in revenue and $126,881/FTE in gross profit based on audited SEC filing.",
-                        "leverage": "Operating income reported at $M1,798 (23.5% margin), reflecting operating leverage and cost structure discipline.",
-                        "rd": "R&D expenditure reported at $M465 (6.08% of revenue), sustaining technological differentiation.",
-                        "growth": "Revenue YoY is 5.39% compared to headcount change of 1.0% YoY.",
-                        "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+                        "the_pivot": "UMC stabilized its global manufacturing workforce around 20,000 FTEs while expanding gross margin from 22.1% (2020) to 45.1% in 2022 peak cycle, demonstrating strong operating leverage.",
+                        "productivity_roi": "Gross profit per FTE peaked at $208k/FTE in 2022 and stabilized around $119k-$127k/FTE across the 2023-2025 cycle.",
+                        "operating_leverage": "Operating margin expanded to 37.4% in 2022 and sustained a resilient 23%-25% in 2023-2025.",
+                        "rd_intensity": "R&D intensity maintained at 5.9%-6.4% of revenue ($440M-$465M annually) focused on 22nm eHV/eFlash and 12nm development."
                 },
                 "zh": {
-                        "pivot": "UMC 官方審計員工數為 20,200 人，GAAP 毛利率為 33.5%。營運卓越與自動化流程為推升利潤之核心動能。",
-                        "productivity": "人均營收為 $378,713/人，人均毛利為 $126,881/人，精確呈現人力資本回報率。",
-                        "leverage": "營業利益為 $M1,798（營業利益率 23.5%），展現營運槓桿與成本結構紀律。",
-                        "rd": "研發支出為 $M465（佔營收 6.08%），持續鞏固核心技術競爭力。",
-                        "growth": "營收年增率為 5.39%，員工人數年增率為 1.0%。",
-                        "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+                        "the_pivot": "聯電全球製造人數穩定於 20,000 人左右，毛利率自 2020 年的 22.1% 大幅擴張至 2022 景氣高峰的 45.1%，展現鮮明的人力拐點優化成效。",
+                        "productivity_roi": "人均毛利產值於 2022 年創下 20.8 萬美元歷史新高，在 2023-2025 年半導體庫存去化週期仍穩守 11.9 萬～12.7 萬美元。",
+                        "operating_leverage": "營業利益率在 2022 年擴張至 37.4%，於 2023-2025 年回穩至 23%～25% 的高韌性區間。",
+                        "rd_intensity": "研發強度常年維持在營收之 5.9%～6.4%（每年投入約 4.4 億～4.65 億美元），聚焦 22nm 特殊製程與 12nm 合作。"
                 }
         },
         "lean_maturity": {
-                "current_level": 3,
+                "current_level": 4,
                 "levels": [
                         {
                                 "level": 1,
                                 "name": "Level 1: Reactive",
-                                "desc": "Disorganized processes and manual reporting."
+                                "desc": "Manual fab scheduling."
                         },
                         {
                                 "level": 2,
                                 "name": "Level 2: Standardized",
-                                "desc": "Established SOPs and baseline KPIs."
+                                "desc": "ISO/IATF 16949 automotive certification."
                         },
                         {
                                 "level": 3,
                                 "name": "Level 3: Automated",
-                                "desc": "Automated analytics and workflow pipelines."
+                                "desc": "Fully automated 300mm fab APC."
                         },
                         {
                                 "level": 4,
                                 "name": "Level 4: Predictive",
-                                "desc": "Predictive analytics and proactive quality control."
+                                "desc": "AI predictive maintenance and wafer defect classification."
                         },
                         {
                                 "level": 5,
                                 "name": "Level 5: World-Class",
-                                "desc": "Continuous compounding excellence and lean mastery."
+                                "desc": "Zero-defect automotive foundry leadership."
                         }
                 ]
         }

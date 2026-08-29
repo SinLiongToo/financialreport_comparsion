@@ -1092,16 +1092,21 @@ function renderCharts(data) {
     };
 
     // Chart 1: The Pivot (Headcount vs GM %)
-    const headcounts = years.map(y => fin[y]?.headcount || 0);
-    const grossMargins = years.map(y => fin[y]?.gross_margin || 0);
+    const headcounts = sortedYears.map(y => fin[y]?.headcount || 0);
+    const grossMargins = sortedYears.map(y => {
+        if (typeof fin[y]?.gross_margin === "number") return fin[y].gross_margin;
+        if (typeof fin[y]?.gross_margin_pct === "number") return fin[y].gross_margin_pct;
+        if (fin[y]?.revenue && fin[y]?.gross_profit) return Number(((fin[y].gross_profit / fin[y].revenue) * 100).toFixed(2));
+        return 0;
+    });
 
     const trace1_1 = {
-        x: years, y: headcounts, name: "Headcount (FTE)",
+        x: sortedYears, y: headcounts, name: "Headcount (FTE)",
         type: "bar", marker: { color: "#3B82F6", opacity: 0.85 }, yaxis: "y",
         hovertemplate: "<b>Headcount (FTE)</b><br>Period: %{x}<br>Headcount: <b>%{y:,.0f} 人</b><extra></extra>"
     };
     const trace1_2 = {
-        x: years, y: grossMargins, name: "Gross Margin %",
+        x: sortedYears, y: grossMargins, name: "Gross Margin %",
         type: "scatter", mode: "lines+markers", line: { color: "#10B981", width: 3.5 },
         marker: { size: 8, color: "#10B981" }, yaxis: "y2",
         hovertemplate: "<b>Gross Margin %</b><br>Period: %{x}<br>毛利率: <b>%{y:.2f}%</b><extra></extra>"
@@ -1193,11 +1198,40 @@ function renderCharts(data) {
     }, { responsive: true, displayModeBar: false });
 
     // Chart 5: Growth Dynamics
-    const growthYears = years.slice(1);
-    const revGrowth = growthYears.map(y => fin[y]?.rev_growth_yoy || 0);
-    const gpGrowth = growthYears.map(y => fin[y]?.gp_growth_yoy || 0);
-    const opGrowth = growthYears.map(y => fin[y]?.op_growth_yoy || 0);
-    const hcGrowth = growthYears.map(y => fin[y]?.hc_growth_yoy || 0);
+    const growthYears = sortedYears.slice(1);
+    const revGrowth = growthYears.map((y, idx) => {
+        if (typeof fin[y]?.rev_growth_yoy === "number") return fin[y].rev_growth_yoy;
+        const prevY = sortedYears[idx];
+        if (fin[y]?.revenue && fin[prevY]?.revenue) {
+            return Number((((fin[y].revenue - fin[prevY].revenue) / fin[prevY].revenue) * 100).toFixed(2));
+        }
+        return 0;
+    });
+    const gpGrowth = growthYears.map((y, idx) => {
+        if (typeof fin[y]?.gp_growth_yoy === "number") return fin[y].gp_growth_yoy;
+        const prevY = sortedYears[idx];
+        if (fin[y]?.gross_profit && fin[prevY]?.gross_profit) {
+            return Number((((fin[y].gross_profit - fin[prevY].gross_profit) / fin[prevY].gross_profit) * 100).toFixed(2));
+        }
+        return 0;
+    });
+    const opGrowth = growthYears.map((y, idx) => {
+        if (typeof fin[y]?.op_growth_yoy === "number") return fin[y].op_growth_yoy;
+        const prevY = sortedYears[idx];
+        if (fin[y]?.operating_income && fin[prevY]?.operating_income) {
+            const baseOp = Math.abs(fin[prevY].operating_income) || 1;
+            return Number((((fin[y].operating_income - fin[prevY].operating_income) / baseOp) * 100).toFixed(2));
+        }
+        return 0;
+    });
+    const hcGrowth = growthYears.map((y, idx) => {
+        if (typeof fin[y]?.hc_growth_yoy === "number") return fin[y].hc_growth_yoy;
+        const prevY = sortedYears[idx];
+        if (fin[y]?.headcount && fin[prevY]?.headcount) {
+            return Number((((fin[y].headcount - fin[prevY].headcount) / fin[prevY].headcount) * 100).toFixed(2));
+        }
+        return 0;
+    });
 
     const trace5_1 = { x: growthYears, y: revGrowth, name: "Revenue YoY %", type: "scatter", mode: "lines+markers", line: { color: "#60A5FA", width: 2 } };
     const trace5_2 = { x: growthYears, y: gpGrowth, name: "Gross Profit YoY %", type: "scatter", mode: "lines+markers", line: { color: "#34D399", width: 2 } };
@@ -1890,3 +1924,27 @@ function downloadCSV(csvContent, fileName) {
     a.click();
     document.body.removeChild(a);
 }
+
+
+// =========================================================================
+// RWD AUTO-RESIZE HANDLER FOR ALL PLOTLY CHARTS
+// =========================================================================
+let rwdResizeTimer = null;
+window.addEventListener("resize", () => {
+    clearTimeout(rwdResizeTimer);
+    rwdResizeTimer = setTimeout(() => {
+        const chartIds = [
+            "chartInflection", "chartProductivity", "chartProfitability",
+            "chartRdIntensity", "chartGrowthDynamics", "chartSalesValue",
+            "chartSalesVolume", "chartCompGmTrend", "chartCompGpEmpScatter",
+            "chartCompRdIntensity", "chartCompRadar", "chartCompRankGrowth",
+            "chartCompHealthMatrix", "zoomedChartPlot"
+        ];
+        chartIds.forEach(id => {
+            const el = document.getElementById(id);
+            if (el && el.data && window.Plotly) {
+                Plotly.Plots.resize(el);
+            }
+        });
+    }, 150);
+});

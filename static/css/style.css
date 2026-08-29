@@ -294,3 +294,64 @@ body.light-theme .js-plotly-plot .plotly .hoverlayer tspan {
 }
 
 
+
+
+/* ========================================================================= */
+/* RESPONSIVE WEB DESIGN (RWD) & MOBILE/TABLET VIEWPORT OPTIMIZATIONS       */
+/* ========================================================================= */
+@media (max-width: 1024px) {
+    .max-w-7xl {
+        padding-left: 0.75rem !important;
+        padding-right: 0.75rem !important;
+    }
+}
+
+@media (max-width: 768px) {
+    header .flex-wrap {
+        gap: 0.5rem !important;
+    }
+    
+    header h1 {
+        font-size: 0.95rem !important;
+    }
+
+    #kpiCards {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: 0.5rem !important;
+    }
+
+    .chart-container, [id^="chart"] {
+        height: 280px !important;
+        min-height: 260px !important;
+    }
+
+    /* Plotly touch optimizations */
+    .js-plotly-plot .plotly .modebar {
+        transform: scale(0.85);
+        transform-origin: top right;
+    }
+
+    /* Modal responsiveness */
+    #helpModal .max-w-4xl,
+    #zoomChartModal .max-w-6xl {
+        width: 96% !important;
+        max-height: 92vh !important;
+        margin: 1rem auto !important;
+    }
+}
+
+@media (max-width: 480px) {
+    #kpiCards {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+
+    .chart-container, [id^="chart"] {
+        height: 250px !important;
+        min-height: 230px !important;
+    }
+    
+    header select#companySelect {
+        max-width: 130px !important;
+        font-size: 0.75rem !important;
+    }
+}
