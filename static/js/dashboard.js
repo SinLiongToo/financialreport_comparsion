@@ -861,7 +861,7 @@ async function loadCompaniesList() {
                     canonicalSet.add(k.toUpperCase());
                 }
             });
-            const orderedPriority = ["ASML", "TSMC", "NVDA", "FOXCONN", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "MSFT", "AMAT", "META", "AMZN", "PLTR", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASML", "TSMC", "NVDA", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -882,6 +882,8 @@ async function loadCompaniesList() {
                 "TSMC": "TSMC (2330 / TSM)",
                 "NVDA": "NVIDIA Corporation",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",
+                "DELTA": "Delta Electronics (2308 / 台達電)",
+                "UMC": "UMC (2303 / 聯電)",
                 "GOOGL": "Alphabet Inc. (Google)",
                 "AAPL": "Apple Inc. (AAPL)",
                 "AMD": "Advanced Micro Devices (AMD)",
