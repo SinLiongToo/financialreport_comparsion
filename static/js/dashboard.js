@@ -188,10 +188,18 @@ const COMPANY_COLORS = {
     "3587": "#0284C7",
     "avgo": "#DC2626",
     "broadcom": "#DC2626",
-    "broadcom-inc": "#DC2626"
+    "broadcom-inc": "#DC2626",
+    "lrcx": "#0284C7",
+    "lam-research": "#0284C7",
+    "lam-research-corp": "#0284C7",
+    "lam-research-corporation": "#0284C7"
 };
 
 const COMPANY_COUNTRIES = {
+    "lrcx": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "lam-research": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "lam-research-corp": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "lam-research-corporation": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "avgo": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "broadcom": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "broadcom-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
@@ -404,7 +412,11 @@ const TICKER_CANONICAL_MAP = {
     "avgo": "avgo",
     "broadcom": "avgo",
     "broadcom-inc": "avgo",
-    "broadcom-corporation": "avgo"
+    "broadcom-corporation": "avgo",
+    "lrcx": "lrcx",
+    "lam-research": "lrcx",
+    "lam-research-corp": "lrcx",
+    "lam-research-corporation": "lrcx"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -1244,6 +1256,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/quarterly-reports-10q/";
         else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/quarterly-reports-10q/";
         else if (t === "avgo" || t === "broadcom") input.value = "https://companiesmarketcap.com/broadcom/quarterly-reports-10q/";
+        else if (t === "lrcx" || t === "lam-research") input.value = "https://companiesmarketcap.com/lam-research/quarterly-reports-10q/";
         else input.value = `${ticker.toUpperCase()} (10-Q)`;
     } else {
         if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
@@ -1265,6 +1278,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/annual-reports/";
         else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/annual-reports/";
         else if (t === "avgo" || t === "broadcom") input.value = "https://companiesmarketcap.com/broadcom/annual-reports/";
+        else if (t === "lrcx" || t === "lam-research") input.value = "https://companiesmarketcap.com/lam-research/annual-reports/";
         else if (t === "foxconn" || t === "honhai" || t === "2317") input.value = "https://companiesmarketcap.com/foxconn/annual-reports/";
         else input.value = ticker.toUpperCase();
     }
@@ -1309,7 +1323,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1349,6 +1363,9 @@ async function loadCompaniesList() {
                 "AVGO": "Broadcom Inc. (AVGO / 博通)",
                 "BROADCOM": "Broadcom Inc. (AVGO / 博通)",
                 "BROADCOM-INC": "Broadcom Inc. (AVGO / 博通)",
+                "LRCX": "Lam Research (LRCX / 科林研發)",
+                "LAM-RESEARCH": "Lam Research (LRCX / 科林研發)",
+                "LAM-RESEARCH-CORP": "Lam Research (LRCX / 科林研發)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",

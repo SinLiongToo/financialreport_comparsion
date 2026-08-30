@@ -112,7 +112,11 @@ TICKER_SLUGS = {
     "3587": ["ma_tek", "ma-tek", "3587", "matek"],
     "avgo": ["broadcom", "avgo"],
     "broadcom": ["broadcom", "avgo"],
-    "broadcom-inc": ["broadcom", "avgo"]
+    "broadcom-inc": ["broadcom", "avgo"],
+    "lrcx": ["lam-research", "lrcx"],
+    "lam-research": ["lam-research", "lrcx"],
+    "lam-research-corp": ["lam-research", "lrcx"],
+    "lam-research-corporation": ["lam-research", "lrcx"]
 }
 
 class AnnualReportCrawler:

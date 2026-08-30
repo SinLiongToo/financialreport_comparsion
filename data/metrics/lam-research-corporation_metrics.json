@@ -1,0 +1,349 @@
+{
+  "company_name": "Lam Research Corporation (LRCX / 科林研發)",
+  "ticker": "LRCX",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 10044.8,
+      "cogs": 5372.4,
+      "gross_profit": 4672.4,
+      "gross_margin": 46.52,
+      "operating_income": 2829.4,
+      "operating_margin": 28.17,
+      "net_income": 2252.0,
+      "net_margin": 22.42,
+      "rd_expense": 1335.5,
+      "rd_pct_rev": 13.3,
+      "headcount": 12200,
+      "rev_per_emp": 823344.3,
+      "gp_per_emp": 382983.6,
+      "op_per_emp": 231918.0,
+      "ni_per_emp": 184590.2,
+      "rd_per_emp": 109467.2,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 14626.2,
+      "cogs": 7820.8,
+      "gross_profit": 6805.3,
+      "gross_margin": 46.53,
+      "operating_income": 4482.0,
+      "operating_margin": 30.64,
+      "net_income": 3908.5,
+      "net_margin": 26.72,
+      "rd_expense": 1493.4,
+      "rd_pct_rev": 10.21,
+      "headcount": 14100,
+      "rev_per_emp": 1037319.1,
+      "gp_per_emp": 482645.4,
+      "op_per_emp": 317872.3,
+      "ni_per_emp": 277198.6,
+      "rd_per_emp": 105914.9,
+      "rev_growth_yoy": 45.61,
+      "gp_growth_yoy": 45.65,
+      "op_growth_yoy": 58.41,
+      "ni_growth_yoy": 73.56,
+      "rd_growth_yoy": 11.82,
+      "hc_growth_yoy": 15.57,
+      "gm_diff_pp": 0.01,
+      "op_diff_pp": 2.47
+    },
+    "2022": {
+      "revenue": 17227.0,
+      "cogs": 9355.2,
+      "gross_profit": 7871.8,
+      "gross_margin": 45.69,
+      "operating_income": 5381.8,
+      "operating_margin": 31.24,
+      "net_income": 4605.3,
+      "net_margin": 26.73,
+      "rd_expense": 1604.2,
+      "rd_pct_rev": 9.31,
+      "headcount": 17700,
+      "rev_per_emp": 973276.8,
+      "gp_per_emp": 444734.5,
+      "op_per_emp": 304056.5,
+      "ni_per_emp": 260186.4,
+      "rd_per_emp": 90632.8,
+      "rev_growth_yoy": 17.78,
+      "gp_growth_yoy": 15.67,
+      "op_growth_yoy": 20.08,
+      "ni_growth_yoy": 17.83,
+      "rd_growth_yoy": 7.42,
+      "hc_growth_yoy": 25.53,
+      "gm_diff_pp": -0.84,
+      "op_diff_pp": 0.6
+    },
+    "2023": {
+      "revenue": 17428.5,
+      "cogs": 9651.6,
+      "gross_profit": 7776.9,
+      "gross_margin": 44.62,
+      "operating_income": 5174.9,
+      "operating_margin": 29.69,
+      "net_income": 4510.9,
+      "net_margin": 25.88,
+      "rd_expense": 1727.2,
+      "rd_pct_rev": 9.91,
+      "headcount": 17200,
+      "rev_per_emp": 1013284.9,
+      "gp_per_emp": 452145.3,
+      "op_per_emp": 300866.3,
+      "ni_per_emp": 262261.6,
+      "rd_per_emp": 100418.6,
+      "rev_growth_yoy": 1.17,
+      "gp_growth_yoy": -1.21,
+      "op_growth_yoy": -3.84,
+      "ni_growth_yoy": -2.05,
+      "rd_growth_yoy": 7.67,
+      "hc_growth_yoy": -2.82,
+      "gm_diff_pp": -1.07,
+      "op_diff_pp": -1.55
+    },
+    "2024": {
+      "revenue": 14905.4,
+      "cogs": 7852.6,
+      "gross_profit": 7052.8,
+      "gross_margin": 47.32,
+      "operating_income": 4263.9,
+      "operating_margin": 28.61,
+      "net_income": 3827.8,
+      "net_margin": 25.68,
+      "rd_expense": 1902.4,
+      "rd_pct_rev": 12.76,
+      "headcount": 17450,
+      "rev_per_emp": 854177.7,
+      "gp_per_emp": 404171.9,
+      "op_per_emp": 244349.6,
+      "ni_per_emp": 219358.2,
+      "rd_per_emp": 109020.1,
+      "rev_growth_yoy": -14.48,
+      "gp_growth_yoy": -9.31,
+      "op_growth_yoy": -17.6,
+      "ni_growth_yoy": -15.14,
+      "rd_growth_yoy": 10.14,
+      "hc_growth_yoy": 1.45,
+      "gm_diff_pp": 2.7,
+      "op_diff_pp": -1.08
+    },
+    "2025": {
+      "revenue": 18435.6,
+      "cogs": 9456.5,
+      "gross_profit": 8979.1,
+      "gross_margin": 48.71,
+      "operating_income": 5901.0,
+      "operating_margin": 32.01,
+      "net_income": 5358.2,
+      "net_margin": 29.06,
+      "rd_expense": 2096.4,
+      "rd_pct_rev": 11.37,
+      "headcount": 19000,
+      "rev_per_emp": 970294.7,
+      "gp_per_emp": 472584.2,
+      "op_per_emp": 310578.9,
+      "ni_per_emp": 282010.5,
+      "rd_per_emp": 110336.8,
+      "rev_growth_yoy": 23.68,
+      "gp_growth_yoy": 27.31,
+      "op_growth_yoy": 38.39,
+      "ni_growth_yoy": 39.98,
+      "rd_growth_yoy": 10.2,
+      "hc_growth_yoy": 8.88,
+      "gm_diff_pp": 1.39,
+      "op_diff_pp": 3.4
+    },
+    "2026": {
+      "revenue": 21500.0,
+      "cogs": 10750.0,
+      "gross_profit": 10750.0,
+      "gross_margin": 50.0,
+      "operating_income": 7310.0,
+      "operating_margin": 34.0,
+      "net_income": 6450.0,
+      "net_margin": 30.0,
+      "rd_expense": 2365.0,
+      "rd_pct_rev": 11.0,
+      "headcount": 20200,
+      "rev_per_emp": 1064356.4,
+      "gp_per_emp": 532178.2,
+      "op_per_emp": 361881.2,
+      "ni_per_emp": 319306.9,
+      "rd_per_emp": 117079.2,
+      "rev_growth_yoy": 16.62,
+      "gp_growth_yoy": 19.72,
+      "op_growth_yoy": 23.88,
+      "ni_growth_yoy": 20.38,
+      "rd_growth_yoy": 12.81,
+      "hc_growth_yoy": 6.32,
+      "gm_diff_pp": 1.29,
+      "op_diff_pp": 1.99
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Memory (3D NAND High-Aspect-Ratio HAR Etch / ALD & Advanced HBM/DRAM)",
+      "Foundry (Advanced Logic Gate-All-Around GAA, Nanosheet & Interconnect Etch/Clean)",
+      "Logic / Specialty / Packaging (Power Semi, Advanced Packaging & CSBG Recurring Services)"
+    ],
+    "colors": [
+      "#3B82F6",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          5826.0,
+          3113.9,
+          1104.9
+        ],
+        "volume": [
+          58,
+          31,
+          11
+        ]
+      },
+      "2021": {
+        "value": [
+          8922.0,
+          4534.1,
+          1170.1
+        ],
+        "volume": [
+          61,
+          31,
+          8
+        ]
+      },
+      "2022": {
+        "value": [
+          9474.9,
+          5857.2,
+          1894.9
+        ],
+        "volume": [
+          55,
+          34,
+          11
+        ]
+      },
+      "2023": {
+        "value": [
+          7319.9,
+          7842.8,
+          2265.7
+        ],
+        "volume": [
+          42,
+          45,
+          13
+        ]
+      },
+      "2024": {
+        "value": [
+          5515.0,
+          7154.6,
+          2235.8
+        ],
+        "volume": [
+          37,
+          48,
+          15
+        ]
+      },
+      "2025": {
+        "value": [
+          7743.0,
+          8480.4,
+          2212.3
+        ],
+        "volume": [
+          42,
+          46,
+          12
+        ]
+      },
+      "2026": {
+        "value": [
+          9675.0,
+          9460.0,
+          2365.0
+        ],
+        "volume": [
+          45,
+          44,
+          11
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Lam Research (NASDAQ: LRCX) commands the global high-aspect-ratio (HAR) dry etching and atomic layer deposition (ALD) technological duopoly alongside Tokyo Electron and Applied Materials. Critical to both 3D NAND vertical scaling (>200 to 400+ layers), High-Bandwidth Memory (HBM3e/HBM4 via TSV etch), and sub-2nm GAA nanosheet selective etching (Sense.i / Coronus platforms), Lam reached an operating inflection point where gross margins rebounded from 44.6% in 2023 to 48.7% in 2025 and 50.0% in 2026, delivering over $7.3B in operating income.",
+      "zh": "科林研發（Lam Research / LRCX）為全球半導體高深寬比（HAR）電漿蝕刻與原子層沉積（ALD）設備絕對龍頭。作為 3D NAND 垂直堆疊（200 層跨越至 400+ 層）、高頻寬記憶體（HBM3e/HBM4 晶圓級 TSV 矽穿孔）與次 2 奈米 GAA 環繞閘極奈米片選擇性蝕刻（Sense.i / Coronus 平台）不可或缺的關鍵製程基石，Lam 在 2024 年記憶體週期觸底後迎來強烈拐點，毛利率自 2023 年 44.6% 強勁修復至 2025 年 48.7% 與 2026 年 50.0%，營業利益一舉突破 73 億美元。"
+    },
+    "productivity": {
+      "en": "Human capital efficiency remains best-in-class within the wafer fab equipment (WFE) tier, delivering $970k to $1.06M USD in Revenue per FTE and over $472k to $532k USD in Gross Profit per FTE across 19,000 to 20,200 elite process and field engineers.",
+      "zh": "在半導體晶圓前端製造設備（WFE）領域，Lam 展現極高的人力資本效率，全球約 1.9 萬至 2.0 萬名製程與研發工程團隊創造每人 97 萬至 106 萬美元營收（約 NT$ 3,100 萬～3,400 萬元/人），人均毛利突破 47 萬～53 萬美元。"
+    },
+    "value_vs_volume": {
+      "en": "High-margin Customer Support Business Group (CSBG) recurring spares, upgrades, and Reliant secondary systems generate over 35% of total revenue, acting as a resilient cash cushion during cyclical down-turns and amplifying gross margin during memory up-cycles.",
+      "zh": "高毛利率之客戶服務事業群（CSBG / 耗材零組件、腔體升級與 Reliant 翻新設備）貢獻超過 35% 的經常性收入，在晶圓廠資本支出下行週期提供充沛的現金緩衝，並於記憶體上行擴產週期劇烈放大營運槓桿。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 5 (Sub-Atomic Precision Etch & AI Digital Twin Chamber Telemetry)",
+    "description": "Sense.i plasma etch architecture with autonomous chamber matching, real-time predictive algorithm yield telemetry, and cleanroom atomic-scale selective removal.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Legacy Standalone Dry Etch Systems",
+        "desc": "Manual batch recipe tuning and standard capacitive plasma tools."
+      },
+      {
+        "level": 2,
+        "name": "Integrated Cluster Tool Modular Platforms",
+        "desc": "Multi-station chemical vapor deposition (Vector) and high-density inductively coupled plasma (ICP) etch."
+      },
+      {
+        "level": 3,
+        "name": "High-Aspect-Ratio 3D NAND & Cryogenic Etching",
+        "desc": "Sub-zero cryo-etching, atomic layer etching (ALE), and wafer bevel cleaning (Coronus)."
+      },
+      {
+        "level": 4,
+        "name": "Sense.i AI-Connected Smart Chamber Fleet",
+        "desc": "Fleet-wide autonomous self-tuning sensor telemetry, 50% chamber footprint reduction, and AI predictive maintenance."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Atomic Material Synthesis & GAA Co-Optimization",
+        "desc": "Cognitive sub-angstrom selective molecular removal, 3D monolithic CFET etch co-design, and real-time fab-wide closed-loop yield optimization."
+      }
+    ]
+  }
+}

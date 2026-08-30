@@ -746,6 +746,14 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.5.0 (2026-08-31)**：
+  - **新增全球半導體高深寬比電漿蝕刻與沉積設備霸主 科林研發 (Lam Research Corporation / NASDAQ: LRCX) 審計基準庫與深度戰略分析**：
+    - **6 年期官方 10-K 財報 (2020～2025/2026)**：完整下載、解析並結構化為 Markdown，收錄 2024 年記憶體週期觸底營收 **\$14,905M USD**、2025 年營收強力反彈至 **\$18,436M USD**（YoY +23.7%）、2026 年預估達 **\$21,500M USD**，毛利率穩步擴張至 **48.71%～50.00%**，營業利益突破 **\$5,901M～\$7,310M USD**，全球 19,000～20,200 名頂尖製程工程團隊創造極高人均產值（人均營收達 **\$970k～\$1.06M USD** / 約 NT$ 3,100 萬～3,400 萬元/人，人均毛利達 **\$472k～\$532k USD**）。
+    - **三大終端市場業務分拆 (Sales Breakdown / Chart 6)**：記憶體設備 (Memory ~37%～61%，涵蓋 3D NAND 高深寬比 HAR 穿孔蝕刻與高頻寬記憶體 HBM 矽穿孔 TSV 製程)、晶圓代工設備 (Foundry ~31%～48%，涵蓋次 2 奈米 GAA 環繞閘極奈米片選擇性蝕刻與原子層沉積 ALD) 及邏輯/特殊製程/服務 (Logic / Specialty / CSBG ~8%～15%)。
+    - **3D NAND 垂直堆疊與 GAA 護城河 (The Pivot)**：深度量化 3D NAND 突破 200～400 層垂直架構、HBM3e/HBM4 封裝堆疊與次 2 奈米 GAA 奈米片選擇性蝕刻對 Sense.i 與 Coronus 平台的強烈需求，搭配客戶服務事業群 (CSBG) 經常性零組件與升級服務提供超高自由現金流。
+    - **季度數據 (Quarterly 16 期擴充至 2026 Q4)**：完整收錄 2023 Q1 至 2026 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.5.0`（`Updated: 2026-08-31`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
+
 - **v2.4.0 (2026-08-31)**：
   - **新增全球極致高營運槓桿晶片與基礎架構軟體巨擘 博通 (Broadcom Inc. / NASDAQ: AVGO) 審計基準庫與深度戰略分析**：
     - **6 年期官方 10-K 財報 (2020～2025/2026)**：完整下載、解析並結構化為 Markdown，收錄 2024 年完成 VMware 併購後營收達 **\$51,574M USD**、2025 年衝破 **\$63,887M USD**、2026 年預估達 **\$75,200M USD**，毛利率穩居 **67.77%～70.00%**（調整後 Non-GAAP 毛利率逾 76%），營業利益率達 **40%～45%**，全球約 33,000～34,000 名高階工程團隊創造華爾街最高人均產值（人均營收高達 **\$1.94M～\$2.21M USD** / 約合新台幣 6,200 萬～7,000 萬元/人，人均毛利達 **\$1.31M～\$1.55M USD**）。
@@ -868,6 +876,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.5.0 - feat: integrate Lam Research (LRCX) 6-year audited 10-K financial reports, HAR etch & memory/foundry segment breakdown, and quarterly analytics
 * commit v2.4.0 - feat: integrate Broadcom (AVGO) 6-year audited 10-K financial reports, custom AI XPU & VMware Cloud segment breakdown, and quarterly analytics
 * commit v2.3.0 - feat: integrate Asia leading semiconductor lab MA-tek (3587.TWO) 5-year audited financial reports, MA/FA/RA breakdown, and quarterly analytics
 * commit v2.2.1 - fix: resolve duplicate company entries (AMD vs ADVANCED-MICRO-DEVICES, TSMC vs TAIWAN-SEMICONDUCTOR-MANUFACTURING, MEDIATEK vs MEDIATEK-INC)
