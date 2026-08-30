@@ -541,6 +541,93 @@
                     </div>
                     <div id="chartCompareRD" class="w-full h-80"></div>
                 </div>
+
+                <!-- Comparison Chart 5: Bivariate Strategic Quadrants & Bubble Matrix -->
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group lg:col-span-2">
+                    <div>
+                        <div class="flex flex-wrap items-center justify-between border-b border-slate-700 pb-3 mb-3 gap-2">
+                            <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                                <i class="fa-solid fa-crosshairs text-amber-400"></i>
+                                <span data-i18n="compare_chart5_title">Bivariate Strategic Quadrants & Bubble Matrix Benchmark</span>
+                            </h3>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-amber-400 bg-amber-500/10 px-2 py-0.5 rounded font-mono">Strategic Matrix</span>
+                                <button type="button" data-chart="chartCompareBivariate" data-title="compare_chart5_title" data-badge="Strategic Matrix" data-insight="compare_chart5_desc" data-icon="fa-crosshairs" onclick="zoomChart('chartCompareBivariate', 'compare_chart5_title', 'Strategic Matrix', 'compare_chart5_desc', 'fa-crosshairs')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-amber-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-amber-400 pointer-events-none"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed mb-3" data-i18n="compare_chart5_desc" id="compare_chart5_desc">
+                            Bivariate cross-company positioning: Compare pricing power vs. operating leverage, R&D intensity vs. human capital productivity, and strategic trajectories.
+                        </p>
+
+                        <!-- Controls Bar: Presets & Axis Selectors -->
+                        <div class="bg-slate-900/70 border border-slate-700/80 rounded-xl p-3 mb-3 flex flex-wrap items-center justify-between gap-3 text-xs">
+                            <!-- Preset Buttons -->
+                            <div class="flex flex-wrap items-center gap-1.5">
+                                <span class="text-slate-400 font-semibold mr-1 flex items-center gap-1">
+                                    <i class="fa-solid fa-wand-magic-sparkles text-amber-400 text-[11px]"></i>
+                                    <span data-i18n="scatter_presets_label">Presets:</span>
+                                </span>
+                                <button type="button" id="presetBtn_gm_op" onclick="applyScatterPreset('gm_op')" class="scatter-preset-btn px-2.5 py-1 rounded-lg border border-amber-500/50 bg-amber-500/20 text-amber-300 font-medium hover:bg-amber-500/30 transition-all cursor-pointer">
+                                    💎 <span data-i18n="preset_gm_op">獲利轉化 (GM vs OP)</span>
+                                </button>
+                                <button type="button" id="presetBtn_rd_revfte" onclick="applyScatterPreset('rd_revfte')" class="scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer">
+                                    🚀 <span data-i18n="preset_rd_revfte">研發產出 (R&D vs Rev/FTE)</span>
+                                </button>
+                                <button type="button" id="presetBtn_revfte_gm" onclick="applyScatterPreset('revfte_gm')" class="scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer">
+                                    ⚡ <span data-i18n="preset_revfte_gm">精實人均 (Rev/FTE vs GM)</span>
+                                </button>
+                                <button type="button" id="presetBtn_rd_op" onclick="applyScatterPreset('rd_op')" class="scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer">
+                                    ⚖️ <span data-i18n="preset_rd_op">研發獲利 (R&D vs OP)</span>
+                                </button>
+                            </div>
+
+                            <!-- Dropdown Selectors & Trail Toggle -->
+                            <div class="flex flex-wrap items-center gap-3">
+                                <div class="flex items-center gap-1.5">
+                                    <label for="scatterSelectX" class="text-slate-400 font-medium" data-i18n="scatter_x_axis">X 軸:</label>
+                                    <select id="scatterSelectX" onchange="onScatterAxisChange()" class="bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-2 py-1 focus:outline-none focus:border-amber-500">
+                                        <option value="gm" data-i18n="metric_gm" selected>Gross Margin %</option>
+                                        <option value="opm" data-i18n="metric_opm">Operating Margin %</option>
+                                        <option value="rd" data-i18n="metric_rd">R&D % of Rev</option>
+                                        <option value="rev_per_emp" data-i18n="metric_rev_per_emp">Rev / FTE ($k)</option>
+                                        <option value="gp_per_emp" data-i18n="metric_gp_per_emp">GP / FTE ($k)</option>
+                                        <option value="revenue" data-i18n="metric_revenue">Revenue ($M)</option>
+                                        <option value="headcount" data-i18n="metric_headcount">Headcount (FTE)</option>
+                                    </select>
+                                </div>
+                                <div class="flex items-center gap-1.5">
+                                    <label for="scatterSelectY" class="text-slate-400 font-medium" data-i18n="scatter_y_axis">Y 軸:</label>
+                                    <select id="scatterSelectY" onchange="onScatterAxisChange()" class="bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-2 py-1 focus:outline-none focus:border-amber-500">
+                                        <option value="opm" data-i18n="metric_opm" selected>Operating Margin %</option>
+                                        <option value="gm" data-i18n="metric_gm">Gross Margin %</option>
+                                        <option value="rd" data-i18n="metric_rd">R&D % of Rev</option>
+                                        <option value="rev_per_emp" data-i18n="metric_rev_per_emp">Rev / FTE ($k)</option>
+                                        <option value="gp_per_emp" data-i18n="metric_gp_per_emp">GP / FTE ($k)</option>
+                                        <option value="revenue" data-i18n="metric_revenue">Revenue ($M)</option>
+                                        <option value="headcount" data-i18n="metric_headcount">Headcount (FTE)</option>
+                                    </select>
+                                </div>
+                                <div class="flex items-center gap-1.5">
+                                    <label for="scatterSelectSize" class="text-slate-400 font-medium" data-i18n="scatter_bubble_size">氣泡大小:</label>
+                                    <select id="scatterSelectSize" onchange="onScatterAxisChange()" class="bg-slate-800 border border-slate-700 text-slate-200 text-xs rounded-lg px-2 py-1 focus:outline-none focus:border-amber-500">
+                                        <option value="revenue" data-i18n="metric_revenue" selected>Revenue ($M)</option>
+                                        <option value="headcount" data-i18n="metric_headcount">Headcount (FTE)</option>
+                                        <option value="constant" data-i18n="metric_constant">Uniform (固定大小)</option>
+                                    </select>
+                                </div>
+                                <div class="flex items-center gap-1.5 ml-1">
+                                    <label class="inline-flex items-center gap-1.5 cursor-pointer text-slate-300 hover:text-white select-none">
+                                        <input type="checkbox" id="scatterToggleTrail" onchange="onScatterAxisChange()" class="rounded border-slate-700 bg-slate-800 text-amber-500 focus:ring-amber-500 focus:ring-offset-slate-900">
+                                        <span data-i18n="scatter_show_trail">顯示歷史軌跡 (5Y Trail)</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="chartCompareBivariate" class="w-full h-96"></div>
+                </div>
             </section>
 
             <!-- Multi-Company Comparison Master Table -->

@@ -323,6 +323,25 @@ const I18N_DICT = {
         compare_chart3_desc: "Pure operational profitability: Evaluates operating efficiency and OpEx discipline through cyclical semiconductor demand fluctuations.",
         compare_chart4_title: "R&D Intensity (% of Revenue) Moat Benchmark",
         compare_chart4_desc: "Reinvestment intensity: Highlighting R&D allocation to pioneer next-generation architectures (High-NA EUV, 2nm, Blackwell, SDV).",
+        compare_chart5_title: "Bivariate Strategic Quadrant & Bubble Matrix Benchmark",
+        compare_chart5_desc: "Bivariate cross-company positioning: Compare pricing power vs. operating leverage, R&D intensity vs. human capital productivity, and strategic trajectories.",
+        scatter_presets_label: "Presets:",
+        preset_gm_op: "Profit Conversion (GM vs OP)",
+        preset_rd_revfte: "R&D Productivity (R&D vs Rev/FTE)",
+        preset_revfte_gm: "Lean Productivity (Rev/FTE vs GM)",
+        preset_rd_op: "R&D vs Profit (R&D vs OP)",
+        scatter_x_axis: "X-Axis:",
+        scatter_y_axis: "Y-Axis:",
+        scatter_bubble_size: "Bubble Size:",
+        scatter_show_trail: "Show 5Y Trajectory",
+        metric_gm: "Gross Margin %",
+        metric_opm: "Operating Margin %",
+        metric_rd: "R&D % of Rev",
+        metric_rev_per_emp: "Rev / FTE ($k)",
+        metric_gp_per_emp: "GP / FTE ($k)",
+        metric_revenue: "Revenue ($M)",
+        metric_headcount: "Headcount (FTE)",
+        metric_constant: "Uniform Size",
         compare_table_title: "Cross-Company Peer Benchmark Matrix (Latest Audited Year)",
         compare_table_subtitle: "Side-by-side comparison of Revenue, Profitability, Headcount, and Human Capital Productivity",
         btn_export_compare_csv: "Export Comparison CSV",
@@ -420,6 +439,25 @@ const I18N_DICT = {
         compare_chart3_desc: "純營業利潤率：評估半導體需求週期波動下各公司的營運效率與固定成本吸收能力。",
         compare_chart4_title: "研發強度佔營收比重對比 (R&D % of Revenue)",
         compare_chart4_desc: "技術護城河再投資力度：展現推動次世代架構 (High-NA EUV, 2nm, Blackwell, SDV) 的研發資源承諾。",
+        compare_chart5_title: "雙變數戰略四象限與氣泡矩陣對比",
+        compare_chart5_desc: "二維跨公司戰略定位：對比毛利訂價權 vs. 營業槓桿、研發強度 vs. 人均產值，洞察企業多維度競爭力與演化路徑。",
+        scatter_presets_label: "戰略預設:",
+        preset_gm_op: "獲利轉化 (GM vs OP)",
+        preset_rd_revfte: "研發產出 (R&D vs Rev/FTE)",
+        preset_revfte_gm: "精實人均 (Rev/FTE vs GM)",
+        preset_rd_op: "研發獲利 (R&D vs OP)",
+        scatter_x_axis: "X 軸:",
+        scatter_y_axis: "Y 軸:",
+        scatter_bubble_size: "氣泡大小:",
+        scatter_show_trail: "顯示歷史軌跡 (5Y Trail)",
+        metric_gm: "Gross Margin % (毛利率)",
+        metric_opm: "Operating Margin % (營業利益率)",
+        metric_rd: "R&D % of Rev (研發佔比)",
+        metric_rev_per_emp: "Rev / FTE (人均營收 $k)",
+        metric_gp_per_emp: "GP / FTE (人均毛利 $k)",
+        metric_revenue: "Revenue (營收 $M)",
+        metric_headcount: "Headcount (員工人數)",
+        metric_constant: "Uniform (固定大小)",
         compare_table_title: "跨公司基準對比矩陣 (最新官方審計年度)",
         compare_table_subtitle: "並排檢視各公司營收、毛利、營業利益、全球員工人數與人均產值指標",
         btn_export_compare_csv: "匯出對比 CSV 報表",
@@ -773,7 +811,8 @@ window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconCl
                 "compare_chart1_title": CURRENT_LANGUAGE === "zh" ? "毛利率跨公司對比 (Gross Margin %)" : "Gross Margin % Benchmark",
                 "compare_chart2_title": CURRENT_LANGUAGE === "zh" ? "人均營收跨公司對比 (Revenue / FTE)" : "Revenue per FTE Benchmark",
                 "compare_chart3_title": CURRENT_LANGUAGE === "zh" ? "營業利益率跨公司對比 (Operating Margin %)" : "Operating Margin % Benchmark",
-                "compare_chart4_title": CURRENT_LANGUAGE === "zh" ? "研發強度跨公司對比 (R&D % of Revenue)" : "R&D Intensity Benchmark"
+                "compare_chart4_title": CURRENT_LANGUAGE === "zh" ? "研發強度跨公司對比 (R&D % of Revenue)" : "R&D Intensity Benchmark",
+                "compare_chart5_title": CURRENT_LANGUAGE === "zh" ? "雙變數戰略四象限與氣泡矩陣對比" : "Bivariate Strategic Quadrant & Bubble Matrix Benchmark"
             };
             titleText = fallbackMap[titleKey] || titleText || "Chart Inspection";
         }
@@ -1783,8 +1822,410 @@ function renderComparisonView(companiesData) {
         yaxis: { title: "R&D % of Rev", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
-    // 5. Render Comparison Master Table with Dynamic Multi-Column Sorting
+    // 5. Chart E: Bivariate Strategic Quadrants & Bubble Matrix Benchmark
+    renderComparisonScatterPlot(companiesData, tickers);
+
+    // 6. Render Comparison Master Table with Dynamic Multi-Column Sorting
     renderComparisonTableRows(companiesData, tickers);
+
+// -----------------------------------------------------------------------------
+// Bivariate Strategic Scatter & Bubble Matrix Engine
+// -----------------------------------------------------------------------------
+let SCATTER_CONFIG = {
+    x: "gm",
+    y: "opm",
+    size: "revenue",
+    trail: false,
+    activePreset: "gm_op"
+};
+
+const SCATTER_METRICS = {
+    gm: {
+        id: "gm",
+        label: { en: "Gross Margin %", zh: "毛利率 %" },
+        unit: "%",
+        axisTitle: { en: "Gross Margin (%)", zh: "GAAP 毛利率 (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => (f && f.gross_margin != null) ? Number(f.gross_margin) : null
+    },
+    opm: {
+        id: "opm",
+        label: { en: "Operating Margin %", zh: "營業利益率 %" },
+        unit: "%",
+        axisTitle: { en: "Operating Margin (%)", zh: "營業利益率 (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => (f && f.operating_margin != null) ? Number(f.operating_margin) : null
+    },
+    rd: {
+        id: "rd",
+        label: { en: "R&D % of Rev", zh: "研發佔比 %" },
+        unit: "%",
+        axisTitle: { en: "R&D Intensity (% of Rev)", zh: "研發強度佔營收比重 (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => (f && f.rd_pct_rev != null) ? Number(f.rd_pct_rev) : null
+    },
+    rev_per_emp: {
+        id: "rev_per_emp",
+        label: { en: "Rev / FTE ($k)", zh: "人均營收 ($k)" },
+        unit: "$k",
+        axisTitle: { en: "Revenue per FTE ($k)", zh: "人均營收產值 ($k / FTE)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
+        getVal: (f) => (f && f.rev_per_emp != null) ? Number(f.rev_per_emp) / 1000 : null
+    },
+    gp_per_emp: {
+        id: "gp_per_emp",
+        label: { en: "GP / FTE ($k)", zh: "人均毛利 ($k)" },
+        unit: "$k",
+        axisTitle: { en: "Gross Profit per FTE ($k)", zh: "人均毛利產值 ($k / FTE)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
+        getVal: (f) => (f && f.gp_per_emp != null) ? Number(f.gp_per_emp) / 1000 : null
+    },
+    revenue: {
+        id: "revenue",
+        label: { en: "Revenue ($M)", zh: "營業收入 ($M)" },
+        unit: "$M",
+        axisTitle: { en: "Revenue ($M)", zh: "營業收入 ($M)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}M`,
+        getVal: (f) => (f && f.revenue != null) ? Number(f.revenue) : null
+    },
+    headcount: {
+        id: "headcount",
+        label: { en: "Headcount (FTE)", zh: "全球員工人數 (人)" },
+        unit: " FTE",
+        axisTitle: { en: "Headcount (FTE)", zh: "全球員工人數 (人)" },
+        format: (v) => `${Math.round(v ?? 0).toLocaleString()} 人`,
+        getVal: (f) => (f && f.headcount != null) ? Number(f.headcount) : null
+    },
+    constant: {
+        id: "constant",
+        label: { en: "Uniform Size", zh: "固定大小" },
+        unit: "",
+        axisTitle: { en: "Uniform", zh: "固定大小" },
+        format: () => "-",
+        getVal: () => 1
+    }
+};
+
+function calculateMedian(values) {
+    if (!values || values.length === 0) return 0;
+    const sorted = [...values].sort((a, b) => a - b);
+    const mid = Math.floor(sorted.length / 2);
+    return sorted.length % 2 !== 0 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+}
+
+function renderComparisonScatterPlot(companiesData, tickersList) {
+    const chartDiv = document.getElementById("chartCompareBivariate");
+    if (!chartDiv) return;
+
+    const tickers = tickersList || (companiesData ? Object.keys(companiesData) : []);
+    if (!tickers || tickers.length === 0) return;
+
+    const isLight = CURRENT_THEME === "light";
+    const fontColor = isLight ? "#1e293b" : "#94a3b8";
+    const gridColor = isLight ? "#cbd5e1" : "#334155";
+    const lang = CURRENT_LANGUAGE || "zh";
+
+    const xMetric = SCATTER_METRICS[SCATTER_CONFIG.x] || SCATTER_METRICS.gm;
+    const yMetric = SCATTER_METRICS[SCATTER_CONFIG.y] || SCATTER_METRICS.opm;
+    const sizeMetric = SCATTER_METRICS[SCATTER_CONFIG.size] || SCATTER_METRICS.revenue;
+
+    // Gather all valid points for scaling and medians
+    const allLatestPoints = [];
+    const validSizeVals = [];
+
+    tickers.forEach(t => {
+        const c = companiesData[t];
+        if (!c) return;
+        const years = c.years || [];
+        if (years.length === 0) return;
+        const latestY = years[years.length - 1];
+        const fLatest = c.financials ? c.financials[latestY] || {} : {};
+        const xv = xMetric.getVal(fLatest);
+        const yv = yMetric.getVal(fLatest);
+        const sv = sizeMetric.getVal(fLatest);
+        if (xv != null && yv != null) {
+            allLatestPoints.push({ ticker: t, year: latestY, x: xv, y: yv, size: sv, company: c });
+            if (sv != null) validSizeVals.push(sv);
+        }
+    });
+
+    const minSizeVal = validSizeVals.length > 0 ? Math.min(...validSizeVals) : 0;
+    const maxSizeVal = validSizeVals.length > 0 ? Math.max(...validSizeVals) : 1;
+
+    const calcSize = (val) => {
+        if (SCATTER_CONFIG.size === "constant" || val == null) return 18;
+        if (maxSizeVal === minSizeVal) return 20;
+        const sqrtVal = Math.sqrt(Math.max(0, val));
+        const sqrtMin = Math.sqrt(Math.max(0, minSizeVal));
+        const sqrtMax = Math.sqrt(Math.max(0, maxSizeVal));
+        const norm = (sqrtVal - sqrtMin) / ((sqrtMax - sqrtMin) || 1);
+        return 14 + norm * 26; // Between 14px and 40px
+    };
+
+    const traces = [];
+
+    tickers.forEach((t, idx) => {
+        const c = companiesData[t];
+        if (!c) return;
+        const years = c.years || [];
+        if (years.length === 0) return;
+
+        const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const name = c.company_name || c.ticker || t.toUpperCase();
+        const canon = FinancialMetricsExtractor_canonical_ticker(t);
+        const countryObj = c.country || COMPANY_COUNTRIES[t] || COMPANY_COUNTRIES[canon] || { en: "United States 🇺🇸", zh: "美國 🇺🇸" };
+        const countryStr = lang === "zh" ? (countryObj.zh || countryObj.en || countryObj) : (countryObj.en || countryObj);
+
+        if (SCATTER_CONFIG.trail && years.length > 1) {
+            // Collect historical series
+            const historicalPts = [];
+            years.forEach(y => {
+                const f = c.financials ? c.financials[y] || {} : {};
+                const xv = xMetric.getVal(f);
+                const yv = yMetric.getVal(f);
+                const sv = sizeMetric.getVal(f);
+                if (xv != null && yv != null) {
+                    historicalPts.push({ year: y, x: xv, y: yv, size: sv });
+                }
+            });
+
+            if (historicalPts.length > 1) {
+                // Trajectory Path line
+                traces.push({
+                    x: historicalPts.map(p => p.x),
+                    y: historicalPts.map(p => p.y),
+                    name: `${c.ticker || t.toUpperCase()} Path`,
+                    type: "scatter",
+                    mode: "lines+markers",
+                    line: { color: col, width: 2, dash: "dot" },
+                    marker: { size: 6, color: col, opacity: 0.7 },
+                    showlegend: false,
+                    hoverinfo: "skip"
+                });
+            }
+
+            // Endpoint bubble (latest year)
+            if (historicalPts.length > 0) {
+                const latestPt = historicalPts[historicalPts.length - 1];
+                const bubbleSize = calcSize(latestPt.size);
+                const hoverHtml = `<b>${name}</b> <span style="font-size:11px;">(${countryStr})</span><br>` +
+                    `Period: <b>${latestPt.year}</b><br>` +
+                    `${xMetric.axisTitle[lang] || xMetric.label[lang]}: <b>${xMetric.format(latestPt.x)}</b><br>` +
+                    `${yMetric.axisTitle[lang] || yMetric.label[lang]}: <b>${yMetric.format(latestPt.y)}</b><br>` +
+                    (SCATTER_CONFIG.size !== 'constant' ? `${sizeMetric.axisTitle[lang] || sizeMetric.label[lang]}: <b>${sizeMetric.format(latestPt.size)}</b><br>` : '') +
+                    `<extra></extra>`;
+
+                traces.push({
+                    x: [latestPt.x],
+                    y: [latestPt.y],
+                    name: `${c.ticker || t.toUpperCase()} (${latestPt.year})`,
+                    type: "scatter",
+                    mode: "markers+text",
+                    text: [c.ticker || t.toUpperCase()],
+                    textposition: "top center",
+                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#f8fafc" },
+                    marker: {
+                        size: [bubbleSize],
+                        color: col,
+                        opacity: 0.88,
+                        line: { color: isLight ? "#ffffff" : "#0f172a", width: 2 }
+                    },
+                    hovertemplate: hoverHtml
+                });
+            }
+        } else {
+            // Latest snapshot only
+            const latestY = years[years.length - 1];
+            const fLatest = c.financials ? c.financials[latestY] || {} : {};
+            const xv = xMetric.getVal(fLatest);
+            const yv = yMetric.getVal(fLatest);
+            const sv = sizeMetric.getVal(fLatest);
+
+            if (xv != null && yv != null) {
+                const bubbleSize = calcSize(sv);
+                const hoverHtml = `<b>${name}</b> <span style="font-size:11px;">(${countryStr})</span><br>` +
+                    `Period: <b>${latestY}</b><br>` +
+                    `${xMetric.axisTitle[lang] || xMetric.label[lang]}: <b>${xMetric.format(xv)}</b><br>` +
+                    `${yMetric.axisTitle[lang] || yMetric.label[lang]}: <b>${yMetric.format(yv)}</b><br>` +
+                    (SCATTER_CONFIG.size !== 'constant' ? `${sizeMetric.axisTitle[lang] || sizeMetric.label[lang]}: <b>${sizeMetric.format(sv)}</b><br>` : '') +
+                    `<extra></extra>`;
+
+                traces.push({
+                    x: [xv],
+                    y: [yv],
+                    name: `${c.ticker || t.toUpperCase()} (${latestY})`,
+                    type: "scatter",
+                    mode: "markers+text",
+                    text: [c.ticker || t.toUpperCase()],
+                    textposition: "top center",
+                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#f8fafc" },
+                    marker: {
+                        size: [bubbleSize],
+                        color: col,
+                        opacity: 0.88,
+                        line: { color: isLight ? "#ffffff" : "#0f172a", width: 2 }
+                    },
+                    hovertemplate: hoverHtml
+                });
+            }
+        }
+    });
+
+    // Dynamic Quadrant Calculation
+    const validXs = allLatestPoints.map(p => p.x);
+    const validYs = allLatestPoints.map(p => p.y);
+    const medianX = calculateMedian(validXs);
+    const medianY = calculateMedian(validYs);
+
+    const minX = validXs.length > 0 ? Math.min(...validXs) : 0;
+    const maxX = validXs.length > 0 ? Math.max(...validXs) : 100;
+    const minY = validYs.length > 0 ? Math.min(...validYs) : 0;
+    const maxY = validYs.length > 0 ? Math.max(...validYs) : 100;
+
+    const spanX = Math.max(1, maxX - minX);
+    const spanY = Math.max(1, maxY - minY);
+
+    const xRange = [minX - spanX * 0.15, maxX + spanX * 0.18];
+    const yRange = [minY - spanY * 0.15, maxY + spanY * 0.18];
+
+    const shapes = [];
+    const annotations = [];
+
+    if (validXs.length >= 2) {
+        // Vertical dashed median line
+        shapes.push({
+            type: "line",
+            x0: medianX, x1: medianX,
+            y0: yRange[0], y1: yRange[1],
+            line: { color: isLight ? "#94a3b8" : "#475569", width: 1.5, dash: "dash" }
+        });
+
+        // Horizontal dashed median line
+        shapes.push({
+            type: "line",
+            x0: xRange[0], x1: xRange[1],
+            y0: medianY, y1: medianY,
+            line: { color: isLight ? "#94a3b8" : "#475569", width: 1.5, dash: "dash" }
+        });
+
+        // Quadrant Annotations
+        const q1Label = lang === "zh" ? "🏆 Q1: 雙高領先 (Leaders)" : "🏆 Q1: Leaders (High X / High Y)";
+        const q2Label = lang === "zh" ? "💎 Q2: 利基優勢 (Niche Profit)" : "💎 Q2: Niche (Low X / High Y)";
+        const q3Label = lang === "zh" ? "🏭 Q3: 規模運營 (Scale/Volume)" : "🏭 Q3: Scale (Low X / Low Y)";
+        const q4Label = lang === "zh" ? "🚀 Q4: 高投入轉化 (Incubators)" : "🚀 Q4: High Invest (High X / Low Y)";
+
+        annotations.push(
+            { x: xRange[1], y: yRange[1], xref: "x", yref: "y", text: q1Label, showarrow: false, xanchor: "right", yanchor: "top", font: { size: 10.5, color: "#10b981", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
+            { x: xRange[0], y: yRange[1], xref: "x", yref: "y", text: q2Label, showarrow: false, xanchor: "left", yanchor: "top", font: { size: 10.5, color: "#38bdf8", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
+            { x: xRange[0], y: yRange[0], xref: "x", yref: "y", text: q3Label, showarrow: false, xanchor: "left", yanchor: "bottom", font: { size: 10.5, color: "#94a3b8", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
+            { x: xRange[1], y: yRange[0], xref: "x", yref: "y", text: q4Label, showarrow: false, xanchor: "right", yanchor: "bottom", font: { size: 10.5, color: "#f59e0b", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
+            { x: medianX, y: yRange[0], xref: "x", yref: "y", text: `Med: ${xMetric.format(medianX)}`, showarrow: false, xanchor: "center", yanchor: "bottom", font: { size: 10, color: isLight ? "#64748b" : "#94a3b8" } },
+            { x: xRange[0], y: medianY, xref: "x", yref: "y", text: `Med: ${yMetric.format(medianY)}`, showarrow: false, xanchor: "left", yanchor: "middle", font: { size: 10, color: isLight ? "#64748b" : "#94a3b8" } }
+        );
+    }
+
+    const scatterLayout = {
+        paper_bgcolor: "transparent",
+        plot_bgcolor: "transparent",
+        font: { color: fontColor, size: 11.5, family: "Inter, system-ui, sans-serif" },
+        margin: { l: 65, r: 40, t: 40, b: 55 },
+        hovermode: "closest",
+        showlegend: traces.length <= 12,
+        legend: {
+            orientation: "h",
+            x: 0,
+            y: 1.14,
+            xanchor: "left",
+            font: { size: 11, color: isLight ? "#0f172a" : "#f8fafc" },
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.85)" : "rgba(15, 23, 42, 0.85)",
+            bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
+            borderwidth: 1
+        },
+        xaxis: {
+            title: xMetric.axisTitle[lang] || xMetric.label[lang],
+            range: xRange,
+            showgrid: true,
+            gridcolor: gridColor,
+            zeroline: false
+        },
+        yaxis: {
+            title: yMetric.axisTitle[lang] || yMetric.label[lang],
+            range: yRange,
+            showgrid: true,
+            gridcolor: gridColor,
+            zeroline: false
+        },
+        shapes: shapes,
+        annotations: annotations
+    };
+
+    Plotly.newPlot("chartCompareBivariate", traces, scatterLayout, { responsive: true, displayModeBar: false });
+}
+
+window.applyScatterPreset = function(presetKey) {
+    SCATTER_CONFIG.activePreset = presetKey;
+    if (presetKey === "gm_op") {
+        SCATTER_CONFIG.x = "gm";
+        SCATTER_CONFIG.y = "opm";
+        SCATTER_CONFIG.size = "revenue";
+    } else if (presetKey === "rd_revfte") {
+        SCATTER_CONFIG.x = "rd";
+        SCATTER_CONFIG.y = "rev_per_emp";
+        SCATTER_CONFIG.size = "headcount";
+    } else if (presetKey === "revfte_gm") {
+        SCATTER_CONFIG.x = "rev_per_emp";
+        SCATTER_CONFIG.y = "gm";
+        SCATTER_CONFIG.size = "revenue";
+    } else if (presetKey === "rd_op") {
+        SCATTER_CONFIG.x = "rd";
+        SCATTER_CONFIG.y = "opm";
+        SCATTER_CONFIG.size = "revenue";
+    }
+
+    const selX = document.getElementById("scatterSelectX");
+    const selY = document.getElementById("scatterSelectY");
+    const selSize = document.getElementById("scatterSelectSize");
+    if (selX) selX.value = SCATTER_CONFIG.x;
+    if (selY) selY.value = SCATTER_CONFIG.y;
+    if (selSize) selSize.value = SCATTER_CONFIG.size;
+
+    ["gm_op", "rd_revfte", "revfte_gm", "rd_op"].forEach(key => {
+        const btn = document.getElementById(`presetBtn_${key}`);
+        if (btn) {
+            if (key === presetKey) {
+                btn.className = "scatter-preset-btn px-2.5 py-1 rounded-lg border border-amber-500/50 bg-amber-500/20 text-amber-300 font-medium hover:bg-amber-500/30 transition-all cursor-pointer";
+            } else {
+                btn.className = "scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer";
+            }
+        }
+    });
+
+    if (COMPARISON_DATA) {
+        renderComparisonScatterPlot(COMPARISON_DATA);
+    }
+};
+
+window.onScatterAxisChange = function() {
+    const selX = document.getElementById("scatterSelectX");
+    const selY = document.getElementById("scatterSelectY");
+    const selSize = document.getElementById("scatterSelectSize");
+    const chkTrail = document.getElementById("scatterToggleTrail");
+    if (selX) SCATTER_CONFIG.x = selX.value;
+    if (selY) SCATTER_CONFIG.y = selY.value;
+    if (selSize) SCATTER_CONFIG.size = selSize.value;
+    if (chkTrail) SCATTER_CONFIG.trail = chkTrail.checked;
+
+    ["gm_op", "rd_revfte", "revfte_gm", "rd_op"].forEach(key => {
+        const btn = document.getElementById(`presetBtn_${key}`);
+        if (btn) {
+            btn.className = "scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer";
+        }
+    });
+
+    if (COMPARISON_DATA) {
+        renderComparisonScatterPlot(COMPARISON_DATA);
+    }
+};
 
 // -----------------------------------------------------------------------------
 // Comparison Table Sorting & Row Rendering Engine
@@ -2139,7 +2580,9 @@ window.addEventListener("resize", () => {
         const chartIds = [
             "chartInflection", "chartProductivity", "chartProfitability",
             "chartRdIntensity", "chartGrowthDynamics", "chartSalesValue",
-            "chartSalesVolume", "chartCompGmTrend", "chartCompGpEmpScatter",
+            "chartSalesVolume", "chartCompareGM", "chartCompareProductivity",
+            "chartCompareOpMargin", "chartCompareRD", "chartCompareBivariate",
+            "chartCompGmTrend", "chartCompGpEmpScatter",
             "chartCompRdIntensity", "chartCompRadar", "chartCompRankGrowth",
             "chartCompHealthMatrix", "zoomedChartPlot"
         ];
