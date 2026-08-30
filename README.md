@@ -746,6 +746,19 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.6.0 (2026-08-31)**：
+  - **新增多公司橫向對比模組「國家地區」與「產業鏈類別」雙重即時互動過濾器 (Country & Sector Filters)**：
+    - **國家與地區過濾 (Country Region Filter)**：支援 `全部地區 (All)`、`🇹🇼 台灣 (TW)`、`🇺🇸 美國 (US)`、`🇳🇱 荷蘭 (NL)`、`🇩🇪 德國 (DE)`、`🇯🇵 日本 (JP)`、`🇰🇷 南韓 (KR)`、`🇬🇧 英國 (UK)`，可一鍵快速切換地區性企業聚落。
+    - **產業鏈類別過濾 (Industry Sector Filter)**：針對全球 34 家企業進行產業鏈分級，精確劃分為 6 大板塊：
+      1. `💻 系統組裝 / ODM (System)`：ASUS、Quanta、Wistron、Pegatron、Foxconn、Delta、TTM
+      2. `⚡ 晶圓製造 / IDM (Foundry)`：TSMC、UMC、Samsung、Infineon、NXP、Vishay
+      3. `🧠 IC設計 / Fabless (Chips)`：NVIDIA、AMD、MediaTek、Broadcom、ARM、Micron、Apple
+      4. `🔬 半導體設備 / 材料 (Equipment)`：ASML、Applied Materials、Lam Research、KLA、Teradyne、Advantest、Merck KGaA
+      5. `🧪 測試分析 / 封測 (Testing/OSAT)`：ASE (日月光)、MA-tek (閎康科技)
+      6. `☁️ 雲端軟體 / AI (Hyperscalers)`：Google、Microsoft、Meta、Amazon、Palantir
+    - **一鍵「僅選目前篩選 (Select Filtered Only)」與卡片式徽章**：勾選區企業卡片全面升級顯示國旗圖標、所屬產業彩色標籤與國家代碼，並提供「僅選目前篩選」按鈕，快速聚焦特定產業（如只比較半導體設備廠或只比較晶圓代工廠）進行 4 大基準圖表與二維散佈矩陣重算。
+    - **全端雙語字典 (i18n) 與單機版同步**：同步更新 `templates/index.html`、`static/js/dashboard.js`，並重新編譯產出 `standalone_dashboard.html` 與 `docs/index.html`。
+
 - **v2.5.0 (2026-08-31)**：
   - **新增全球半導體高深寬比電漿蝕刻與沉積設備霸主 科林研發 (Lam Research Corporation / NASDAQ: LRCX) 審計基準庫與深度戰略分析**：
     - **6 年期官方 10-K 財報 (2020～2025/2026)**：完整下載、解析並結構化為 Markdown，收錄 2024 年記憶體週期觸底營收 **\$14,905M USD**、2025 年營收強力反彈至 **\$18,436M USD**（YoY +23.7%）、2026 年預估達 **\$21,500M USD**，毛利率穩步擴張至 **48.71%～50.00%**，營業利益突破 **\$5,901M～\$7,310M USD**，全球 19,000～20,200 名頂尖製程工程團隊創造極高人均產值（人均營收達 **\$970k～\$1.06M USD** / 約 NT$ 3,100 萬～3,400 萬元/人，人均毛利達 **\$472k～\$532k USD**）。
@@ -876,6 +889,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.6.0 - feat: implement Country & Sector interactive filters with Select Filtered Only batch actions for peer benchmark comparison
 * commit v2.5.0 - feat: integrate Lam Research (LRCX) 6-year audited 10-K financial reports, HAR etch & memory/foundry segment breakdown, and quarterly analytics
 * commit v2.4.0 - feat: integrate Broadcom (AVGO) 6-year audited 10-K financial reports, custom AI XPU & VMware Cloud segment breakdown, and quarterly analytics
 * commit v2.3.0 - feat: integrate Asia leading semiconductor lab MA-tek (3587.TWO) 5-year audited financial reports, MA/FA/RA breakdown, and quarterly analytics

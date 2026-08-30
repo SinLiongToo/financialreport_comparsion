@@ -288,6 +288,116 @@ const COMPANY_COUNTRIES = {
     "005930": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" }
 };
 
+const COMPANY_SECTORS = {
+    // 系統組裝 / 品牌 / OEM / ODM / EMS
+    "asus": "SYSTEM",
+    "2357": "SYSTEM",
+    "quanta": "SYSTEM",
+    "2382": "SYSTEM",
+    "wistron": "SYSTEM",
+    "3231": "SYSTEM",
+    "pegatron": "SYSTEM",
+    "4938": "SYSTEM",
+    "foxconn": "SYSTEM",
+    "2317": "SYSTEM",
+    "delta": "SYSTEM",
+    "2308": "SYSTEM",
+    "ttm": "SYSTEM",
+
+    // 晶圓代工 / IDM / 功率與車用半導體
+    "tsmc": "FOUNDRY",
+    "2330": "FOUNDRY",
+    "umc": "FOUNDRY",
+    "2303": "FOUNDRY",
+    "samsung": "FOUNDRY",
+    "infineon": "FOUNDRY",
+    "nxp": "FOUNDRY",
+    "vsh": "FOUNDRY",
+
+    // IC設計 / Fabless / IP / 運算晶片
+    "nvda": "FABLESS",
+    "amd": "FABLESS",
+    "mediatek": "FABLESS",
+    "2454": "FABLESS",
+    "avgo": "FABLESS",
+    "broadcom": "FABLESS",
+    "arm": "FABLESS",
+    "mu": "FABLESS",
+    "aapl": "FABLESS",
+
+    // 半導體設備 / 材料
+    "asml": "EQUIPMENT",
+    "amat": "EQUIPMENT",
+    "lrcx": "EQUIPMENT",
+    "lam-research": "EQUIPMENT",
+    "klac": "EQUIPMENT",
+    "ter": "EQUIPMENT",
+    "advantest": "EQUIPMENT",
+    "merck-kgaa": "EQUIPMENT",
+    "mrk-de": "EQUIPMENT",
+
+    // 測試分析 / 封裝測試 (OSAT & Lab Testing)
+    "ase": "TESTING",
+    "3711": "TESTING",
+    "ma-tek": "TESTING",
+    "3587": "TESTING",
+
+    // 雲端 / AI 平台與軟體 (Hyperscalers & Enterprise Software)
+    "googl": "HYPERSCALE",
+    "msft": "HYPERSCALE",
+    "meta": "HYPERSCALE",
+    "amzn": "HYPERSCALE",
+    "pltr": "HYPERSCALE"
+};
+
+const SECTOR_METADATA = {
+    "SYSTEM": {
+        en: "System OEM/ODM",
+        zh: "系統組裝/ODM",
+        icon: "fa-laptop-code",
+        color: "#3B82F6",
+        badge: "bg-blue-500/20 text-blue-300 border border-blue-500/30"
+    },
+    "FOUNDRY": {
+        en: "Foundry / IDM",
+        zh: "晶圓製造/IDM",
+        icon: "fa-microchip",
+        color: "#10B981",
+        badge: "bg-emerald-500/20 text-emerald-300 border border-emerald-500/30"
+    },
+    "FABLESS": {
+        en: "Fabless / IC Design",
+        zh: "IC設計/Fabless",
+        icon: "fa-brain",
+        color: "#F59E0B",
+        badge: "bg-amber-500/20 text-amber-300 border border-amber-500/30"
+    },
+    "EQUIPMENT": {
+        en: "Equipment & Materials",
+        zh: "半導體設備/材料",
+        icon: "fa-vial",
+        color: "#8B5CF6",
+        badge: "bg-purple-500/20 text-purple-300 border border-purple-500/30"
+    },
+    "TESTING": {
+        en: "OSAT & Lab Testing",
+        zh: "測試分析/封測",
+        icon: "fa-flask-vial",
+        color: "#EC4899",
+        badge: "bg-pink-500/20 text-pink-300 border border-pink-500/30"
+    },
+    "HYPERSCALE": {
+        en: "Cloud & AI Software",
+        zh: "雲端軟體/AI",
+        icon: "fa-cloud",
+        color: "#06B6D4",
+        badge: "bg-cyan-500/20 text-cyan-300 border border-cyan-500/30"
+    }
+};
+
+let CURRENT_COMPARE_COUNTRY_FILTER = "ALL";
+let CURRENT_COMPARE_SECTOR_FILTER = "ALL";
+
 const TICKER_CANONICAL_MAP = {
     "asus": "asus",
     "2357": "asus",
@@ -501,7 +611,18 @@ const I18N_DICT = {
         compare_selector_title: "Multi-Company Peer Benchmark Selection",
         compare_selector_subtitle: "Select 2 or more companies to compare Gross Margin, Productivity, Operating Leverage & R&D Intensity",
         btn_select_all: "Select All",
+        btn_select_filtered: "Select Filtered Only",
         btn_clear: "Clear",
+        filter_country_label: "Country Region:",
+        filter_sector_label: "Industry Sector:",
+        filter_all_regions: "All Regions",
+        filter_all_sectors: "All Sectors",
+        sector_system: "💻 System OEM/ODM",
+        sector_foundry: "⚡ Foundry / IDM",
+        sector_fabless: "🧠 Fabless / IC Design",
+        sector_equipment: "🔬 Equipment & Materials",
+        sector_testing: "🧪 OSAT & Lab Testing",
+        sector_hyperscale: "☁️ Cloud & AI Software",
         compare_chart1_title: "Gross Margin % Trajectory Benchmark",
         compare_chart1_desc: "Cross-company pricing power comparison: Leading-edge semiconductors (NVDA, TSMC) vs. equipment (ASML) vs. automotive (NXP) vs. passives (VSH).",
         compare_chart2_title: "Revenue & Gross Profit per FTE Benchmark ($)",
@@ -617,7 +738,18 @@ const I18N_DICT = {
         compare_selector_title: "多公司橫向對比勾選區",
         compare_selector_subtitle: "自由勾選 2 家以上公司進行毛利率、人均產值、營業利益率與研發強度之橫向對比",
         btn_select_all: "全選",
+        btn_select_filtered: "僅選目前篩選",
         btn_clear: "清除",
+        filter_country_label: "國家與地區：",
+        filter_sector_label: "產業類別：",
+        filter_all_regions: "全部地區",
+        filter_all_sectors: "全部產業",
+        sector_system: "💻 系統組裝 / ODM",
+        sector_foundry: "⚡ 晶圓製造 / IDM",
+        sector_fabless: "🧠 IC設計 / Fabless",
+        sector_equipment: "🔬 半導體設備 / 材料",
+        sector_testing: "🧪 測試分析 / 封測",
+        sector_hyperscale: "☁️ 雲端軟體 / AI",
         compare_chart1_title: "毛利率走勢跨公司對比 (Gross Margin %)",
         compare_chart1_desc: "跨公司產品定價權與護城河對比：先進半導體 (NVDA, TSMC) vs. 設備霸主 (ASML) vs. 車用晶片 (NXP) vs. 分離式元件 (VSH)。",
         compare_chart2_title: "人均營收與人均毛利產值對比 ($ / FTE)",
@@ -1218,6 +1350,31 @@ function setupEventListeners() {
         });
     }
 
+    const selectFilteredBtn = document.getElementById("selectFilteredCompareBtn");
+    if (selectFilteredBtn) {
+        selectFilteredBtn.addEventListener("click", () => {
+            const chkGrid = document.getElementById("compareCheckboxGrid");
+            if (!chkGrid) return;
+            const cards = chkGrid.querySelectorAll(".compare-chk-card");
+            let checkedAny = false;
+            cards.forEach(card => {
+                const chk = card.querySelector(".compare-chk");
+                if (!chk) return;
+                if (card.style.display !== "none") {
+                    chk.checked = true;
+                    checkedAny = true;
+                } else {
+                    chk.checked = false;
+                }
+            });
+            if (!checkedAny && cards.length > 0) {
+                const firstChk = cards[0].querySelector(".compare-chk");
+                if (firstChk) firstChk.checked = true;
+            }
+            loadComparisonData();
+        });
+    }
+
     const clearAllBtn = document.getElementById("clearAllCompareBtn");
     if (clearAllBtn) {
         clearAllBtn.addEventListener("click", () => {
@@ -1228,6 +1385,55 @@ function setupEventListeners() {
             loadComparisonData();
         });
     }
+
+    // Country Filter Buttons
+    document.querySelectorAll(".compare-country-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+            const targetCountry = btn.getAttribute("data-country") || "ALL";
+            CURRENT_COMPARE_COUNTRY_FILTER = targetCountry;
+            document.querySelectorAll(".compare-country-btn").forEach(b => {
+                b.classList.remove("bg-indigo-600", "text-white", "shadow-sm");
+                b.classList.add("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+            });
+            btn.classList.remove("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+            btn.classList.add("bg-indigo-600", "text-white", "shadow-sm");
+            applyCompareFilters();
+        });
+    });
+
+    // Sector Filter Buttons
+    document.querySelectorAll(".compare-sector-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+            const targetSector = btn.getAttribute("data-sector") || "ALL";
+            CURRENT_COMPARE_SECTOR_FILTER = targetSector;
+            document.querySelectorAll(".compare-sector-btn").forEach(b => {
+                b.classList.remove("bg-amber-600", "text-white", "shadow-sm");
+                b.classList.add("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+            });
+            btn.classList.remove("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+            btn.classList.add("bg-amber-600", "text-white", "shadow-sm");
+            applyCompareFilters();
+        });
+    });
+}
+
+function applyCompareFilters() {
+    const chkGrid = document.getElementById("compareCheckboxGrid");
+    if (!chkGrid) return;
+    const cards = chkGrid.querySelectorAll(".compare-chk-card");
+    cards.forEach(card => {
+        const country = card.getAttribute("data-country") || "";
+        const sector = card.getAttribute("data-sector") || "";
+        
+        const matchCountry = (CURRENT_COMPARE_COUNTRY_FILTER === "ALL" || country.toUpperCase() === CURRENT_COMPARE_COUNTRY_FILTER.toUpperCase());
+        const matchSector = (CURRENT_COMPARE_SECTOR_FILTER === "ALL" || sector.toUpperCase() === CURRENT_COMPARE_SECTOR_FILTER.toUpperCase());
+        
+        if (matchCountry && matchSector) {
+            card.style.display = "flex";
+        } else {
+            card.style.display = "none";
+        }
+    });
 }
 
 function syncTargetInputWithTicker(ticker) {
@@ -1401,19 +1607,42 @@ async function loadCompaniesList() {
                 opt.textContent = friendlyNames[upper] || upper;
                 select.appendChild(opt);
 
-                // Add to comparison checkbox grid
+                // Add to comparison checkbox grid with rich Country and Sector tagging
                 if (chkGrid) {
                     const label = document.createElement("label");
-                    label.className = "flex items-center space-x-2 bg-slate-900/80 p-2.5 rounded-xl border border-slate-700 hover:border-slate-500 cursor-pointer transition-all";
+                    const canon = FinancialMetricsExtractor_canonical_ticker(comp.toLowerCase());
+                    const countryObj = COMPANY_COUNTRIES[canon] || COMPANY_COUNTRIES[comp.toLowerCase()] || { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" };
+                    const countryCode = (countryObj.code || "US").toUpperCase();
+                    const sectorCode = COMPANY_SECTORS[canon] || COMPANY_SECTORS[comp.toLowerCase()] || "FABLESS";
+                    const sectorMeta = SECTOR_METADATA[sectorCode] || SECTOR_METADATA.FABLESS;
+                    const sectorName = CURRENT_LANGUAGE === "zh" ? sectorMeta.zh : sectorMeta.en;
+                    const countryFlag = countryObj.zh ? countryObj.zh.slice(-2) : "🌐";
+
+                    label.className = "compare-chk-card flex flex-col justify-between bg-slate-900/80 p-2.5 rounded-xl border border-slate-700 hover:border-indigo-500 cursor-pointer transition-all hover:shadow-md";
+                    label.setAttribute("data-country", countryCode);
+                    label.setAttribute("data-sector", sectorCode);
+                    
                     const color = COMPANY_COLORS[comp.toLowerCase()] || "#3B82F6";
                     label.innerHTML = `
-                        <input type="checkbox" value="${upper}" class="compare-chk rounded bg-slate-800 border-slate-600 text-indigo-600 focus:ring-0" checked>
-                        <span class="w-2.5 h-2.5 rounded-full" style="background-color: ${color}"></span>
-                        <span class="text-xs font-semibold text-slate-200">${upper}</span>
+                        <div class="flex items-center justify-between gap-1 mb-1.5">
+                            <div class="flex items-center space-x-1.5 truncate">
+                                <input type="checkbox" value="${upper}" class="compare-chk rounded bg-slate-800 border-slate-600 text-indigo-600 focus:ring-0" checked>
+                                <span class="w-2.5 h-2.5 rounded-full flex-shrink-0" style="background-color: ${color}"></span>
+                                <span class="text-xs font-bold text-slate-100 truncate">${upper}</span>
+                            </div>
+                            <span class="text-xs" title="${countryObj.en}">${countryFlag}</span>
+                        </div>
+                        <div class="flex items-center justify-between text-[10px] text-slate-400 gap-1">
+                            <span class="truncate text-[10px] px-1.5 py-0.5 rounded ${sectorMeta.badge} font-medium">${sectorName}</span>
+                            <span class="text-slate-500 font-mono text-[9px] uppercase flex-shrink-0">${countryCode}</span>
+                        </div>
                     `;
                     chkGrid.appendChild(label);
                 }
             });
+
+            // Run initial filter check
+            applyCompareFilters();
 
             if (companies.map(c => c.toUpperCase()).includes(currentVal)) {
                 select.value = currentVal;
