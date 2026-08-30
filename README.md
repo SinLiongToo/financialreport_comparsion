@@ -746,6 +746,15 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.2.0 (2026-08-30)**：
+  - **新增德國半導體關鍵材料與科學巨頭 默克集團 (Merck KGaA / MRK.DE / 默克先進材料) 審計基準庫與深度戰略分析**：
+    - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 €211.5 億（標準化約 **\$22,846M USD**）、毛利率穩居 **61.50%** 高毛利護城河、營業利益達 €41.2 億（約 **\$4,450M USD**），以及全球 62,500 名高素質員工之極高人均毛利（**\$224.8k/人**）。
+    - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：生命科學事業體 (Life Science ~44%)、醫療保健事業體 (Healthcare ~38%) 與電子科技與半導體材料 (Electronics & Semiconductor Materials / EMD Electronics ~18%)。
+    - **先進半導體製程材料護城河 (The Pivot)**：深度量化次 3 奈米 EUV 光阻圖形化、ALD/CVD 原子層前驅物、化學機械研磨 (CMP) 拋光液與超高純度特氣輸送系統，在 AI 晶片與 HBM 先進封裝浪潮下帶動營業利潤突破 44 億美元並往 50 億美元推進之強大定價權。
+    - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
+
 - **v2.1.0 (2026-08-30)**：
   - **新增台灣電子五哥核心巨頭 緯創資通 (Wistron / 3231.TW) 與 和碩聯合科技 (Pegatron / 4938.TW) 審計基準庫與深度戰略分析**：
     - **緯創資通 (3231.TW)**：
@@ -834,6 +843,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.2.0 - feat: integrate Germany Merck KGaA (MRK.DE) 5-year audited financial reports, semiconductor materials breakdown, and quarterly analytics
 * commit v2.1.0 - feat: integrate Taiwan Wistron (3231.TW) and Pegatron (4938.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.0.0 - feat: integrate Taiwan Quanta Computer (2382.TW) 5-year audited financial reports, AI server sales breakdown, and quarterly analytics
 * commit v1.9.0 - feat: integrate Taiwan ASUS (2357.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics

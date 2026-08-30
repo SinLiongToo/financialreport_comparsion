@@ -1,0 +1,310 @@
+{
+  "company_name": "Merck KGaA (MRK.DE / 德國默克集團)",
+  "ticker": "MERCK-KGAA",
+  "country": {
+    "en": "Germany 🇩🇪",
+    "zh": "德國 🇩🇪",
+    "code": "DE"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 19980.8,
+      "cogs": 7788.5,
+      "gross_profit": 12192.3,
+      "gross_margin": 61.02,
+      "operating_income": 3402.9,
+      "operating_margin": 17.03,
+      "net_income": 2265.2,
+      "net_margin": 11.34,
+      "rd_expense": 2608.3,
+      "rd_pct_rev": 13.05,
+      "headcount": 58127,
+      "rev_per_emp": 343743.9,
+      "gp_per_emp": 209752.8,
+      "op_per_emp": 58542.5,
+      "ni_per_emp": 38969.8,
+      "rd_per_emp": 44872.4,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 23220.0,
+      "cogs": 8814.6,
+      "gross_profit": 14405.4,
+      "gross_margin": 62.04,
+      "operating_income": 4931.2,
+      "operating_margin": 21.24,
+      "net_income": 3604.9,
+      "net_margin": 15.52,
+      "rd_expense": 2841.4,
+      "rd_pct_rev": 12.24,
+      "headcount": 60348,
+      "rev_per_emp": 384768.3,
+      "gp_per_emp": 238705.5,
+      "op_per_emp": 81712.7,
+      "ni_per_emp": 59735.2,
+      "rd_per_emp": 47083.6,
+      "rev_growth_yoy": 16.21,
+      "gp_growth_yoy": 18.15,
+      "op_growth_yoy": 44.91,
+      "ni_growth_yoy": 59.14,
+      "rd_growth_yoy": 8.94,
+      "hc_growth_yoy": 3.82,
+      "gm_diff_pp": 1.02,
+      "op_diff_pp": 4.21
+    },
+    "2022": {
+      "revenue": 23343.6,
+      "cogs": 8984.8,
+      "gross_profit": 14358.8,
+      "gross_margin": 61.51,
+      "operating_income": 4697.7,
+      "operating_margin": 20.12,
+      "net_income": 3492.3,
+      "net_margin": 14.96,
+      "rd_expense": 2647.0,
+      "rd_pct_rev": 11.34,
+      "headcount": 64232,
+      "rev_per_emp": 363426.3,
+      "gp_per_emp": 223545.9,
+      "op_per_emp": 73136.4,
+      "ni_per_emp": 54370.1,
+      "rd_per_emp": 41210.0,
+      "rev_growth_yoy": 0.53,
+      "gp_growth_yoy": -0.32,
+      "op_growth_yoy": -4.74,
+      "ni_growth_yoy": -3.12,
+      "rd_growth_yoy": -6.84,
+      "hc_growth_yoy": 6.44,
+      "gm_diff_pp": -0.53,
+      "op_diff_pp": -1.12
+    },
+    "2023": {
+      "revenue": 22672.4,
+      "cogs": 9006.1,
+      "gross_profit": 13666.3,
+      "gross_margin": 60.28,
+      "operating_income": 4081.3,
+      "operating_margin": 18.0,
+      "net_income": 3049.9,
+      "net_margin": 13.45,
+      "rd_expense": 2637.4,
+      "rd_pct_rev": 11.63,
+      "headcount": 62908,
+      "rev_per_emp": 360405.7,
+      "gp_per_emp": 217242.6,
+      "op_per_emp": 64877.3,
+      "ni_per_emp": 48481.9,
+      "rd_per_emp": 41924.7,
+      "rev_growth_yoy": -2.88,
+      "gp_growth_yoy": -4.82,
+      "op_growth_yoy": -13.12,
+      "ni_growth_yoy": -12.67,
+      "rd_growth_yoy": -0.36,
+      "hc_growth_yoy": -2.06,
+      "gm_diff_pp": -1.23,
+      "op_diff_pp": -2.12
+    },
+    "2024": {
+      "revenue": 22846.3,
+      "cogs": 8795.5,
+      "gross_profit": 14050.8,
+      "gross_margin": 61.5,
+      "operating_income": 4449.6,
+      "operating_margin": 19.48,
+      "net_income": 3326.4,
+      "net_margin": 14.56,
+      "rd_expense": 2710.8,
+      "rd_pct_rev": 11.87,
+      "headcount": 62500,
+      "rev_per_emp": 365540.8,
+      "gp_per_emp": 224812.8,
+      "op_per_emp": 71193.6,
+      "ni_per_emp": 53222.4,
+      "rd_per_emp": 43372.8,
+      "rev_growth_yoy": 0.77,
+      "gp_growth_yoy": 2.81,
+      "op_growth_yoy": 9.02,
+      "ni_growth_yoy": 9.07,
+      "rd_growth_yoy": 2.78,
+      "hc_growth_yoy": -0.65,
+      "gm_diff_pp": 1.22,
+      "op_diff_pp": 1.48
+    },
+    "2025": {
+      "revenue": 24300.0,
+      "cogs": 9136.8,
+      "gross_profit": 15163.2,
+      "gross_margin": 62.4,
+      "operating_income": 5054.4,
+      "operating_margin": 20.8,
+      "net_income": 3790.8,
+      "net_margin": 15.6,
+      "rd_expense": 2916.0,
+      "rd_pct_rev": 12.0,
+      "headcount": 63200,
+      "rev_per_emp": 384493.7,
+      "gp_per_emp": 239924.1,
+      "op_per_emp": 79974.7,
+      "ni_per_emp": 59981.0,
+      "rd_per_emp": 46139.2,
+      "rev_growth_yoy": 6.36,
+      "gp_growth_yoy": 7.92,
+      "op_growth_yoy": 13.59,
+      "ni_growth_yoy": 13.96,
+      "rd_growth_yoy": 7.57,
+      "hc_growth_yoy": 1.12,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": 1.32
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Life Science (Process Solutions, Science & Lab Solutions)",
+      "Healthcare (Oncology, Neurology & Immunology, Fertility, Cardio)",
+      "Electronics & Semiconductor Materials (EMD Electronics, Thin Film, CMP, Specialty Gases)"
+    ],
+    "colors": [
+      "#10B981",
+      "#3B82F6",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          8791.6,
+          7592.7,
+          3596.5
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2021": {
+        "value": [
+          10449.0,
+          8359.2,
+          4411.8
+        ],
+        "volume": [
+          45,
+          36,
+          19
+        ]
+      },
+      "2022": {
+        "value": [
+          10971.5,
+          8170.3,
+          4201.8
+        ],
+        "volume": [
+          47,
+          35,
+          18
+        ]
+      },
+      "2023": {
+        "value": [
+          9975.9,
+          8615.5,
+          4081.0
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2024": {
+        "value": [
+          10052.4,
+          8681.6,
+          4112.3
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2025": {
+        "value": [
+          10449.0,
+          8991.0,
+          4860.0
+        ],
+        "volume": [
+          43,
+          37,
+          20
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Merck KGaA represents a premier European high-margin science & semiconductor specialty materials conglomerate. With gross margin steadily anchored at 60.3%-62.0% across cyclic fluctuations, the Electronics division (EMD Electronics) provides indispensable critical path chemistry for sub-3nm nodes (EUV patterning, atomic layer deposition ALD/CVD precursors, CMP planarization slurries, and high-purity semiconductor specialty delivery systems).",
+      "zh": "德國默克集團（Merck KGaA）為歐洲頂級高毛利科學與半導體關鍵材料巨頭。其毛利率在景氣循環中始終穩固於 60.3%～62.0% 之頂級區間。旗下的電子科技事業體（EMD Electronics）為全球先進半導體製程（次 3 奈米 EUV 光阻圖形化、ALD/CVD 原子層沉積前驅物、化學機械研磨 CMP 拋光液與超高純度特氣輸送系統）提供無可替代的關鍵材料護城河。"
+    },
+    "productivity": {
+      "en": "Revenue per employee averages $365k with Gross Profit per FTE exceeding $225k, reflecting the immense economic moats and intellectual property embedded in life science bioprocessing consumables and specialty semiconductor chemistry.",
+      "zh": "每位員工平均營收約 36.5 萬美元，人均毛利更高達 22.5 萬美元以上，充分展現生命科學生物製程耗材與半導體特種化學材料所構築的高門檻智財權與定價權護城河。"
+    },
+    "value_vs_volume": {
+      "en": "Despite post-pandemic bioprocess destocking in 2023, high-purity chemical pricing power and soaring AI chip memory (HBM CMP slurries and advanced packaging specialty gases) catalyzed a rapid rebound in operating profit to $4.45B in 2024 and projected >$5.0B in 2025.",
+      "zh": "儘管 2023 年歷經疫情後生物製程客戶庫存去化，特種化學材料之強大定價權與 AI 晶片高頻寬記憶體（HBM CMP 拋光與先進封裝特氣）的爆發性需求，帶動 2024 年營業利益強勁回升至 44.5 億美元，2025 年預期突破 50 億美元。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (High-Purity Chemical Digital Synthesis & Smart Material Tracking)",
+    "description": "Advanced ISO Class 1 cleanroom semiconductor materials synthesis, real-time chemical quality telemetry, and closed-loop bio-reactor manufacturing.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard Chemical & Formulation Synthesis",
+        "desc": "Baseline chemical compounding with manual assay verification."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Site Global Chemistry Footprint",
+        "desc": "Specialty chemical synthesis across Germany, US, Taiwan, Japan, and Korea."
+      },
+      {
+        "level": 3,
+        "name": "Ultra-Pure Cleanroom Automation & Smart Logistics",
+        "desc": "Automated chemical delivery and ISO Class 1 cleanroom filtration."
+      },
+      {
+        "level": 4,
+        "name": "Predictive Molecular Synthesis & Sub-3nm Formulation Co-Design",
+        "desc": "EUV thin-film precursor co-development with leading fabs and digital closed-loop supply chains."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Material Discovery",
+        "desc": "AI-driven molecular property prediction, autonomous robotic lab synthesis, and real-time fab defect telemetry."
+      }
+    ]
+  }
+}

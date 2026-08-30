@@ -100,7 +100,12 @@ TICKER_SLUGS = {
     "pegatron": ["pegatron", "pegatron-corp", "4938"],
     "4938": ["pegatron", "pegatron-corp", "4938"],
     "pegatron-corp": ["pegatron", "pegatron-corp", "4938"],
-    "pegatron-corporation": ["pegatron", "pegatron-corp", "4938"]
+    "pegatron-corporation": ["pegatron", "pegatron-corp", "4938"],
+    "merck-kgaa": ["merck-kgaa", "mrk-de"],
+    "mrk-de": ["merck-kgaa", "mrk-de"],
+    "mrk.de": ["merck-kgaa", "mrk-de"],
+    "mkgay": ["merck-kgaa", "mrk-de"],
+    "emd": ["merck-kgaa", "mrk-de"]
 }
 
 class AnnualReportCrawler:

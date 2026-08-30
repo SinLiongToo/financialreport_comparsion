@@ -175,10 +175,18 @@ const COMPANY_COLORS = {
     "wistron": "#06B6D4",
     "3231": "#06B6D4",
     "pegatron": "#E11D48",
-    "4938": "#E11D48"
+    "4938": "#E11D48",
+    "merck-kgaa": "#10B981",
+    "mrk-de": "#10B981",
+    "mrk.de": "#10B981",
+    "mkgay": "#10B981",
+    "emd": "#10B981"
 };
 
 const COMPANY_COUNTRIES = {
+    "merck-kgaa": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
+    "mrk-de": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
+    "mrk.de": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
     "wistron": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "3231": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "pegatron": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
@@ -356,7 +364,13 @@ const TICKER_CANONICAL_MAP = {
     "pegatron": "pegatron",
     "4938": "pegatron",
     "pegatron-corp": "pegatron",
-    "pegatron-corporation": "pegatron"
+    "pegatron-corporation": "pegatron",
+    "merck-kgaa": "merck-kgaa",
+    "mrk-de": "merck-kgaa",
+    "mrk.de": "merck-kgaa",
+    "mkgay": "merck-kgaa",
+    "emd": "merck-kgaa",
+    "merck-group": "merck-kgaa"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -1288,6 +1302,10 @@ async function loadCompaniesList() {
                 "3231": "Wistron (3231 / 緯創)",
                 "PEGATRON": "Pegatron (4938 / 和碩)",
                 "4938": "Pegatron (4938 / 和碩)",
+                "MERCK-KGAA": "Merck KGaA (MRK.DE / 默克集團)",
+                "MRK-DE": "Merck KGaA (MRK.DE / 默克集團)",
+                "MRK.DE": "Merck KGaA (MRK.DE / 默克集團)",
+                "MKGAY": "Merck KGaA (MRK.DE / 默克集團)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",
