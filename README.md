@@ -746,6 +746,14 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.4.0 (2026-08-31)**：
+  - **新增全球極致高營運槓桿晶片與基礎架構軟體巨擘 博通 (Broadcom Inc. / NASDAQ: AVGO) 審計基準庫與深度戰略分析**：
+    - **6 年期官方 10-K 財報 (2020～2025/2026)**：完整下載、解析並結構化為 Markdown，收錄 2024 年完成 VMware 併購後營收達 **\$51,574M USD**、2025 年衝破 **\$63,887M USD**、2026 年預估達 **\$75,200M USD**，毛利率穩居 **67.77%～70.00%**（調整後 Non-GAAP 毛利率逾 76%），營業利益率達 **40%～45%**，全球約 33,000～34,000 名高階工程團隊創造華爾街最高人均產值（人均營收高達 **\$1.94M～\$2.21M USD** / 約合新台幣 6,200 萬～7,000 萬元/人，人均毛利達 **\$1.31M～\$1.55M USD**）。
+    - **二大核心業務分拆 (Sales Breakdown / Chart 6)**：半導體解決方案 (Semiconductor Solutions ~58%～79%，涵蓋客製 AI ASIC/XPU、Tomahawk 5 / Jericho3-AI 51.2T 網路交換晶片、無線射頻與儲存) 與基礎架構軟體 (Infrastructure Software ~21%～42%，涵蓋 VMware Cloud Foundation 私有雲虛擬化、CA 大型主機與賽門鐵克資安)。
+    - **AI 客製化晶片與 VCF 訂閱雙飛輪 (The Pivot)**：深度量化與 Google TPU、Meta MTIA 等頂級巨頭客製 AI ASIC 晶片之定價權，加上將 VMware 傳統授權全面轉型為 VCF 訂閱年化合約價值 (ACV)，驅動極高自由現金流轉換率與營運槓桿。
+    - **季度數據 (Quarterly 16 期擴充至 2026 Q4)**：完整收錄 2023 Q1 至 2026 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.4.0`（`Updated: 2026-08-31`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
+
 - **v2.3.0 (2026-08-30)**：
   - **新增亞洲半導體檢測分析實驗室龍頭 閎康科技 (MA-tek / 3587.TWO / 閎康) 審計基準庫與深度戰略分析（含 2026 最新官方逐月營收）**：
     - **6 年期官方財務數據 (2020～2026)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 NT$ 51.1 億（約 **\$159.7M USD**）、2025 年營收 NT$ 55.5 億（約 **\$173.3M USD**），並即時整合 **2026 年最新官方公告逐月營收（1～7 月營收年增 18%～26%）**，2026 全年營收突破 **\$204.0M USD**（約 NT$ 65.3 億元），毛利率回升至 **31.50%**，全球 1,820 名材料科學團隊創造高人均產值（人均營收突破 **\$112.1k**、人均毛利 **\$35.3k**）。
@@ -860,6 +868,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.4.0 - feat: integrate Broadcom (AVGO) 6-year audited 10-K financial reports, custom AI XPU & VMware Cloud segment breakdown, and quarterly analytics
 * commit v2.3.0 - feat: integrate Asia leading semiconductor lab MA-tek (3587.TWO) 5-year audited financial reports, MA/FA/RA breakdown, and quarterly analytics
 * commit v2.2.1 - fix: resolve duplicate company entries (AMD vs ADVANCED-MICRO-DEVICES, TSMC vs TAIWAN-SEMICONDUCTOR-MANUFACTURING, MEDIATEK vs MEDIATEK-INC)
 * commit v2.2.0 - feat: integrate Germany Merck KGaA (MRK.DE) 5-year audited financial reports, semiconductor materials breakdown, and quarterly analytics

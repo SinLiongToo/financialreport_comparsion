@@ -185,10 +185,16 @@ const COMPANY_COLORS = {
     "ma-tek": "#0284C7",
     "ma_tek": "#0284C7",
     "matek": "#0284C7",
-    "3587": "#0284C7"
+    "3587": "#0284C7",
+    "avgo": "#DC2626",
+    "broadcom": "#DC2626",
+    "broadcom-inc": "#DC2626"
 };
 
 const COMPANY_COUNTRIES = {
+    "avgo": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "broadcom": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "broadcom-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "ma-tek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "ma_tek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "matek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
@@ -394,7 +400,11 @@ const TICKER_CANONICAL_MAP = {
     "3587.tw": "ma-tek",
     "3587.two": "ma-tek",
     "materials-analysis-technology": "ma-tek",
-    "materials-analysis-technology-inc": "ma-tek"
+    "materials-analysis-technology-inc": "ma-tek",
+    "avgo": "avgo",
+    "broadcom": "avgo",
+    "broadcom-inc": "avgo",
+    "broadcom-corporation": "avgo"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -409,7 +419,7 @@ const I18N_DICT = {
     en: {
         badge_workflow: "One-Click Workflow",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-08-30",
+        header_updated: "Updated: 2026-08-31",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -528,7 +538,7 @@ const I18N_DICT = {
     zh: {
         badge_workflow: "一步到位工作流",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-08-30",
+        header_updated: "更新日期：2026-08-31",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1233,6 +1243,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "meta" || t === "meta-platforms") input.value = "https://companiesmarketcap.com/meta-platforms/quarterly-reports-10q/";
         else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/quarterly-reports-10q/";
         else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/quarterly-reports-10q/";
+        else if (t === "avgo" || t === "broadcom") input.value = "https://companiesmarketcap.com/broadcom/quarterly-reports-10q/";
         else input.value = `${ticker.toUpperCase()} (10-Q)`;
     } else {
         if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
@@ -1253,6 +1264,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "meta" || t === "meta-platforms") input.value = "https://companiesmarketcap.com/meta-platforms/annual-reports/";
         else if (t === "amat" || t === "applied-materials") input.value = "https://companiesmarketcap.com/applied-materials/annual-reports/";
         else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/annual-reports/";
+        else if (t === "avgo" || t === "broadcom") input.value = "https://companiesmarketcap.com/broadcom/annual-reports/";
         else if (t === "foxconn" || t === "honhai" || t === "2317") input.value = "https://companiesmarketcap.com/foxconn/annual-reports/";
         else input.value = ticker.toUpperCase();
     }
@@ -1297,7 +1309,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1334,6 +1346,9 @@ async function loadCompaniesList() {
                 "3587": "MA-tek (3587 / 閎康科技)",
                 "MATEK": "MA-tek (3587 / 閎康科技)",
                 "MA_TEK": "MA-tek (3587 / 閎康科技)",
+                "AVGO": "Broadcom Inc. (AVGO / 博通)",
+                "BROADCOM": "Broadcom Inc. (AVGO / 博通)",
+                "BROADCOM-INC": "Broadcom Inc. (AVGO / 博通)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",

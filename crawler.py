@@ -109,7 +109,10 @@ TICKER_SLUGS = {
     "ma-tek": ["ma_tek", "ma-tek", "3587", "matek"],
     "ma_tek": ["ma_tek", "ma-tek", "3587", "matek"],
     "matek": ["ma_tek", "ma-tek", "3587", "matek"],
-    "3587": ["ma_tek", "ma-tek", "3587", "matek"]
+    "3587": ["ma_tek", "ma-tek", "3587", "matek"],
+    "avgo": ["broadcom", "avgo"],
+    "broadcom": ["broadcom", "avgo"],
+    "broadcom-inc": ["broadcom", "avgo"]
 }
 
 class AnnualReportCrawler:
