@@ -61,20 +61,31 @@ def build_metrics_db(freq: str = "annual"):
                 except Exception as e:
                     print(f"  [!] Warning scanning {company_folder} ({freq}): {e}")
 
-    # 3. Load from data/metrics/*.json (for annual)
-    if freq == "annual":
-        metrics_dir = os.path.join(os.path.dirname(__file__), "data", "metrics")
-        if os.path.exists(metrics_dir):
-            for f in glob.glob(os.path.join(metrics_dir, "*_metrics.json")):
-                try:
-                    base = os.path.basename(f).replace("_metrics.json", "").lower()
-                    with open(f, "r", encoding="utf-8") as jf:
-                        data = json.load(jf)
+    # 3. Load from data/metrics/*.json (for annual or quarterly)
+    metrics_dir = os.path.join(os.path.dirname(__file__), "data", "metrics")
+    if os.path.exists(metrics_dir):
+        pattern = "*_metrics_quarterly.json" if freq == "quarterly" else "*_metrics.json"
+        suffix = "_metrics_quarterly.json" if freq == "quarterly" else "_metrics.json"
+        for f in glob.glob(os.path.join(metrics_dir, pattern)):
+            if freq == "annual" and f.endswith("_quarterly.json"):
+                continue
+            try:
+                base = os.path.basename(f).replace(suffix, "").lower()
+                with open(f, "r", encoding="utf-8") as jf:
+                    data = json.load(jf)
+                    if data and len(data.get("financials", {})) > 0:
                         db[base] = data
                         canon = extractor.canonical_ticker(base).lower()
                         db[canon] = data
-                except Exception as e:
-                    print(f"  [!] Warning loading {f}: {e}")
+            except Exception as e:
+                print(f"  [!] Warning loading {f}: {e}")
+
+    # 4. Ensure all aliases point to canonical data
+    for alias, canon in TICKER_ALIASES.items():
+        c_low = canon.lower()
+        a_low = alias.lower()
+        if c_low in db and a_low not in db:
+            db[a_low] = db[c_low]
 
     print(f"  [✓] Compiled {freq} metrics database with {len(db)} entries ({len(set(extractor.canonical_ticker(k) for k in db.keys()))} unique companies).")
     return db

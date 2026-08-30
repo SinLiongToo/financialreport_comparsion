@@ -1273,7 +1273,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASML", "TSMC", "MEDIATEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);

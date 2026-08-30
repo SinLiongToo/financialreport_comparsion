@@ -100,6 +100,20 @@ TICKER_ALIASES = {
     "quanta-computer": "quanta",
     "quanta-computer-inc": "quanta",
     "quantatw": "quanta",
+    "wistron": "wistron",
+    "3231": "wistron",
+    "wistron-corp": "wistron",
+    "wistron-corporation": "wistron",
+    "pegatron": "pegatron",
+    "4938": "pegatron",
+    "pegatron-corp": "pegatron",
+    "pegatron-corporation": "pegatron",
+    "merck-kgaa": "merck-kgaa",
+    "mrk-de": "merck-kgaa",
+    "mrk.de": "merck-kgaa",
+    "mkgay": "merck-kgaa",
+    "emd": "merck-kgaa",
+    "merck-group": "merck-kgaa"
 }
 
 BUILTIN_BENCHMARKS = {
