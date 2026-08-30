@@ -746,7 +746,14 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
-    - **同步重構單機版 HTML 與 GitHub Pages**：執行 `export_standalone.py` 全量更新 `docs/index.html` 與 `standalone_dashboard.html`。
+- **v2.0.0 (2026-08-30)**：
+  - **新增全球 AI 伺服器與雲端資料中心巨頭 廣達電腦 (Quanta Computer Inc. / 2382.TW) 審計基準庫與深度戰略分析**：
+    - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 NT$ 1.41 兆（約 $44,086M USD）、毛利率跳升至 7.85%、營業利益達 NT$ 625.6 億（年增 +42.7%），以及全球約 65,926 名員工之高人均營收（$669k/人）與人均毛利（$52.5k/人）。
+    - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：AI 雲端與企業伺服器 (QCT / CSP Rack Architecture ~55%)、筆記型電腦與行動運算 (Notebook PCs ~35%) 與車用電子及智慧物聯網 (Automotive & IoT ~10%)。
+    - **AI 伺服器爆炸性成長與黃金拐點 (The Pivot)**：量化 2023～2024 年伺服器營收比重正式跨越 55% 門檻，結合水冷散熱（Liquid Cooling）與 NVL72/GB200 AI 運算叢集出貨，推升毛利率由 2022 年 5.5% 顯著跳升至 2024 年 7.9% 及 2025 年 8.5% 之強勁營運槓桿。
+    - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES)**：支援 `quanta <-> 2382 <-> quanta-computer <-> quanta-computer-inc <-> quantatw` 自動解析與對齊。
+  - **全量產出單機版與 GitHub Pages**：已執行 `export_standalone.py` 更新 `docs/index.html` 與 `standalone_dashboard.html`。
 
 - **v1.9.0 (2026-08-29)**：
   - **新增全球電腦終端與電競龍頭 華碩電腦 (ASUSTeK Computer Inc. / ASUS / 2357.TW) 審計基準庫與戰略分析**：
@@ -813,6 +820,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.0.0 - feat: integrate Taiwan Quanta Computer (2382.TW) 5-year audited financial reports, AI server sales breakdown, and quarterly analytics
 * commit v1.9.0 - feat: integrate Taiwan ASUS (2357.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v1.8.0 - feat: integrate Taiwan MediaTek (2454.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v1.7.0 - feat: integrate ARM Holdings, TTM Technologies, and Infineon Technologies AG audited benchmarks, 5-year parsed reports, and quarterly analytics

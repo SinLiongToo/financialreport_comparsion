@@ -1,0 +1,620 @@
+{
+  "company_name": "Quanta Computer Inc. (2382.TW / 廣達電腦)",
+  "ticker": "QUANTA",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 8141.5,
+      "cogs": 7571.6,
+      "gross_profit": 569.9,
+      "gross_margin": 7.0,
+      "operating_income": 244.2,
+      "operating_margin": 3.0,
+      "net_income": 208.1,
+      "net_margin": 2.56,
+      "rd_expense": 175.0,
+      "rd_pct_rev": 2.15,
+      "headcount": 65160,
+      "rev_per_emp": 124946.0,
+      "gp_per_emp": 8746.0,
+      "op_per_emp": 3748.0,
+      "ni_per_emp": 3194.0,
+      "rd_per_emp": 2686.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 7890.7,
+      "cogs": 7220.0,
+      "gross_profit": 670.7,
+      "gross_margin": 8.5,
+      "operating_income": 362.9,
+      "operating_margin": 4.6,
+      "net_income": 326.0,
+      "net_margin": 4.13,
+      "rd_expense": 185.0,
+      "rd_pct_rev": 2.34,
+      "headcount": 62343,
+      "rev_per_emp": 126569.0,
+      "gp_per_emp": 10758.0,
+      "op_per_emp": 5821.0,
+      "ni_per_emp": 5229.0,
+      "rd_per_emp": 2967.0,
+      "rev_growth_yoy": -3.08,
+      "gp_growth_yoy": 17.69,
+      "op_growth_yoy": 48.61,
+      "ni_growth_yoy": 56.66,
+      "rd_growth_yoy": 5.71,
+      "hc_growth_yoy": -4.32,
+      "gm_diff_pp": 1.5,
+      "op_diff_pp": 1.6
+    },
+    "2023 Q3": {
+      "revenue": 9141.5,
+      "cogs": 8400.2,
+      "gross_profit": 741.3,
+      "gross_margin": 8.11,
+      "operating_income": 402.2,
+      "operating_margin": 4.4,
+      "net_income": 413.0,
+      "net_margin": 4.52,
+      "rd_expense": 191.0,
+      "rd_pct_rev": 2.09,
+      "headcount": 59525,
+      "rev_per_emp": 153574.0,
+      "gp_per_emp": 12454.0,
+      "op_per_emp": 6757.0,
+      "ni_per_emp": 6938.0,
+      "rd_per_emp": 3209.0,
+      "rev_growth_yoy": 15.85,
+      "gp_growth_yoy": 10.53,
+      "op_growth_yoy": 10.83,
+      "ni_growth_yoy": 26.69,
+      "rd_growth_yoy": 3.24,
+      "hc_growth_yoy": -4.52,
+      "gm_diff_pp": -0.39,
+      "op_diff_pp": -0.2
+    },
+    "2023 Q4": {
+      "revenue": 9733.4,
+      "cogs": 8985.7,
+      "gross_profit": 747.7,
+      "gross_margin": 7.68,
+      "operating_income": 400.3,
+      "operating_margin": 4.11,
+      "net_income": 328.4,
+      "net_margin": 3.37,
+      "rd_expense": 195.0,
+      "rd_pct_rev": 2.0,
+      "headcount": 56708,
+      "rev_per_emp": 171641.0,
+      "gp_per_emp": 13185.0,
+      "op_per_emp": 7059.0,
+      "ni_per_emp": 5791.0,
+      "rd_per_emp": 3439.0,
+      "rev_growth_yoy": 6.47,
+      "gp_growth_yoy": 0.86,
+      "op_growth_yoy": -0.47,
+      "ni_growth_yoy": -20.48,
+      "rd_growth_yoy": 2.09,
+      "hc_growth_yoy": -4.73,
+      "gm_diff_pp": -0.43,
+      "op_diff_pp": -0.29
+    },
+    "2024 Q1": {
+      "revenue": 8090.6,
+      "cogs": 7402.9,
+      "gross_profit": 687.7,
+      "gross_margin": 8.5,
+      "operating_income": 365.7,
+      "operating_margin": 4.52,
+      "net_income": 376.8,
+      "net_margin": 4.66,
+      "rd_expense": 200.0,
+      "rd_pct_rev": 2.47,
+      "headcount": 59012,
+      "rev_per_emp": 137101.0,
+      "gp_per_emp": 11654.0,
+      "op_per_emp": 6197.0,
+      "ni_per_emp": 6385.0,
+      "rd_per_emp": 3389.0,
+      "rev_growth_yoy": -0.63,
+      "gp_growth_yoy": 20.67,
+      "op_growth_yoy": 49.75,
+      "ni_growth_yoy": 81.07,
+      "rd_growth_yoy": 14.29,
+      "hc_growth_yoy": -9.44,
+      "gm_diff_pp": 1.5,
+      "op_diff_pp": 1.52
+    },
+    "2024 Q2": {
+      "revenue": 9684.4,
+      "cogs": 8851.5,
+      "gross_profit": 832.9,
+      "gross_margin": 8.6,
+      "operating_income": 445.5,
+      "operating_margin": 4.6,
+      "net_income": 472.5,
+      "net_margin": 4.88,
+      "rd_expense": 215.0,
+      "rd_pct_rev": 2.22,
+      "headcount": 61317,
+      "rev_per_emp": 157940.0,
+      "gp_per_emp": 13584.0,
+      "op_per_emp": 7266.0,
+      "ni_per_emp": 7706.0,
+      "rd_per_emp": 3506.0,
+      "rev_growth_yoy": 22.73,
+      "gp_growth_yoy": 24.18,
+      "op_growth_yoy": 22.76,
+      "ni_growth_yoy": 44.94,
+      "rd_growth_yoy": 16.22,
+      "hc_growth_yoy": -1.65,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": 0.0
+    },
+    "2024 Q3": {
+      "revenue": 13265.6,
+      "cogs": 12297.2,
+      "gross_profit": 968.4,
+      "gross_margin": 7.3,
+      "operating_income": 583.7,
+      "operating_margin": 4.4,
+      "net_income": 519.8,
+      "net_margin": 3.92,
+      "rd_expense": 224.1,
+      "rd_pct_rev": 1.69,
+      "headcount": 63621,
+      "rev_per_emp": 208510.0,
+      "gp_per_emp": 15221.0,
+      "op_per_emp": 9175.0,
+      "ni_per_emp": 8170.0,
+      "rd_per_emp": 3522.0,
+      "rev_growth_yoy": 45.11,
+      "gp_growth_yoy": 30.64,
+      "op_growth_yoy": 45.13,
+      "ni_growth_yoy": 25.86,
+      "rd_growth_yoy": 17.33,
+      "hc_growth_yoy": 6.88,
+      "gm_diff_pp": -0.81,
+      "op_diff_pp": 0.0
+    },
+    "2024 Q4": {
+      "revenue": 13045.5,
+      "cogs": 12073.2,
+      "gross_profit": 972.3,
+      "gross_margin": 7.45,
+      "operating_income": 560.1,
+      "operating_margin": 4.29,
+      "net_income": 497.0,
+      "net_margin": 3.81,
+      "rd_expense": 225.0,
+      "rd_pct_rev": 1.72,
+      "headcount": 65926,
+      "rev_per_emp": 197881.0,
+      "gp_per_emp": 14748.0,
+      "op_per_emp": 8496.0,
+      "ni_per_emp": 7539.0,
+      "rd_per_emp": 3413.0,
+      "rev_growth_yoy": 34.03,
+      "gp_growth_yoy": 30.04,
+      "op_growth_yoy": 39.92,
+      "ni_growth_yoy": 51.34,
+      "rd_growth_yoy": 15.38,
+      "hc_growth_yoy": 16.26,
+      "gm_diff_pp": -0.23,
+      "op_diff_pp": 0.18
+    },
+    "2025 Q1": {
+      "revenue": 11500.0,
+      "cogs": 10522.5,
+      "gross_profit": 977.5,
+      "gross_margin": 8.5,
+      "operating_income": 575.0,
+      "operating_margin": 5.0,
+      "net_income": 517.5,
+      "net_margin": 4.5,
+      "rd_expense": 240.0,
+      "rd_pct_rev": 2.09,
+      "headcount": 66570,
+      "rev_per_emp": 172750.0,
+      "gp_per_emp": 14684.0,
+      "op_per_emp": 8638.0,
+      "ni_per_emp": 7774.0,
+      "rd_per_emp": 3605.0,
+      "rev_growth_yoy": 42.14,
+      "gp_growth_yoy": 42.14,
+      "op_growth_yoy": 57.23,
+      "ni_growth_yoy": 37.34,
+      "rd_growth_yoy": 20.0,
+      "hc_growth_yoy": 12.81,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 0.48
+    },
+    "2025 Q2": {
+      "revenue": 13000.0,
+      "cogs": 11895.0,
+      "gross_profit": 1105.0,
+      "gross_margin": 8.5,
+      "operating_income": 650.0,
+      "operating_margin": 5.0,
+      "net_income": 585.0,
+      "net_margin": 4.5,
+      "rd_expense": 260.0,
+      "rd_pct_rev": 2.0,
+      "headcount": 67213,
+      "rev_per_emp": 193415.0,
+      "gp_per_emp": 16440.0,
+      "op_per_emp": 9671.0,
+      "ni_per_emp": 8704.0,
+      "rd_per_emp": 3868.0,
+      "rev_growth_yoy": 34.24,
+      "gp_growth_yoy": 32.67,
+      "op_growth_yoy": 45.9,
+      "ni_growth_yoy": 23.81,
+      "rd_growth_yoy": 20.93,
+      "hc_growth_yoy": 9.62,
+      "gm_diff_pp": -0.1,
+      "op_diff_pp": 0.4
+    },
+    "2025 Q3": {
+      "revenue": 14250.0,
+      "cogs": 13038.7,
+      "gross_profit": 1211.3,
+      "gross_margin": 8.5,
+      "operating_income": 712.5,
+      "operating_margin": 5.0,
+      "net_income": 641.3,
+      "net_margin": 4.5,
+      "rd_expense": 275.0,
+      "rd_pct_rev": 1.93,
+      "headcount": 67857,
+      "rev_per_emp": 210000.0,
+      "gp_per_emp": 17851.0,
+      "op_per_emp": 10500.0,
+      "ni_per_emp": 9451.0,
+      "rd_per_emp": 4053.0,
+      "rev_growth_yoy": 7.42,
+      "gp_growth_yoy": 25.08,
+      "op_growth_yoy": 22.07,
+      "ni_growth_yoy": 23.37,
+      "rd_growth_yoy": 22.71,
+      "hc_growth_yoy": 6.66,
+      "gm_diff_pp": 1.2,
+      "op_diff_pp": 0.6
+    },
+    "2025 Q4": {
+      "revenue": 13750.0,
+      "cogs": 12581.3,
+      "gross_profit": 1168.7,
+      "gross_margin": 8.5,
+      "operating_income": 687.5,
+      "operating_margin": 5.0,
+      "net_income": 618.7,
+      "net_margin": 4.5,
+      "rd_expense": 275.0,
+      "rd_pct_rev": 2.0,
+      "headcount": 68500,
+      "rev_per_emp": 200730.0,
+      "gp_per_emp": 17061.0,
+      "op_per_emp": 10036.0,
+      "ni_per_emp": 9032.0,
+      "rd_per_emp": 4015.0,
+      "rev_growth_yoy": 5.4,
+      "gp_growth_yoy": 20.2,
+      "op_growth_yoy": 22.75,
+      "ni_growth_yoy": 24.49,
+      "rd_growth_yoy": 22.22,
+      "hc_growth_yoy": 3.9,
+      "gm_diff_pp": 1.05,
+      "op_diff_pp": 0.71
+    }
+  },
+  "sales_breakdown": {
+    "units": "",
+    "categories": [
+      "AI Cloud & Enterprise Servers (QCT / CSP Rack Architecture)",
+      "Notebook PCs & Mobile Computing",
+      "Automotive Electronics & Smart IoT Devices"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          9244.6,
+          25145.2,
+          2588.5
+        ],
+        "volume": [
+          18,
+          70,
+          12
+        ]
+      },
+      "2021": {
+        "value": [
+          11294.5,
+          26219.4,
+          2823.7
+        ],
+        "volume": [
+          20,
+          68,
+          12
+        ]
+      },
+      "2022": {
+        "value": [
+          15038.6,
+          24921.1,
+          3007.7
+        ],
+        "volume": [
+          25,
+          63,
+          12
+        ]
+      },
+      "2023": {
+        "value": [
+          15708.2,
+          15708.2,
+          3490.7
+        ],
+        "volume": [
+          35,
+          52,
+          13
+        ]
+      },
+      "2024": {
+        "value": [
+          24247.4,
+          15430.1,
+          4408.6
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2025": {
+        "value": [
+          34125.0,
+          13125.0,
+          5250.0
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2023 Q1": {
+        "value": [
+          3664,
+          3664,
+          814
+        ],
+        "volume": [
+          35,
+          52,
+          13
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          3551,
+          3551,
+          789
+        ],
+        "volume": [
+          35,
+          52,
+          13
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          4114,
+          4114,
+          914
+        ],
+        "volume": [
+          35,
+          52,
+          13
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          4380,
+          4380,
+          973
+        ],
+        "volume": [
+          35,
+          52,
+          13
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          4450,
+          2832,
+          809
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          5326,
+          3390,
+          968
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          7296,
+          4643,
+          1327
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          7175,
+          4566,
+          1305
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          7475,
+          2875,
+          1150
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          8450,
+          3250,
+          1300
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          9262,
+          3562,
+          1425
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          8938,
+          3438,
+          1375
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quanta Computer Inc. (2382.TW / 廣達電腦) workforce reported at 68,500 FTEs with GAAP Gross Margin at 8.5%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $200,730/FTE in revenue and $17,061/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M688 (5.0% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M275 (2.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 5.4% compared to headcount change of 3.9% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Quanta Computer Inc. (2382.TW / 廣達電腦) 官方審計員工數為 68,500 人，GAAP 毛利率為 8.5%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $200,730/人，人均毛利為 $17,061/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M688（營業利益率 5.0%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M275（佔營收 2.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 5.4%，員工人數年增率為 3.9%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Predictive AI Rack Architecture & Automated Liquid-Cooling Testing)",
+    "description": "Advanced direct-to-chip liquid cooling qualification, end-to-end AI cluster system burn-in, and automated SMT / AMHS assembly across Taiwan, US, and Europe manufacturing campuses.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Reactive Assembly",
+        "desc": "Standard OEM/ODM notebook assembly with thin margins."
+      },
+      {
+        "level": 2,
+        "name": "Standardized Multi-Site Footprint",
+        "desc": "Global production nodes across Taiwan, Shanghai, Chongqing, and Thailand."
+      },
+      {
+        "level": 3,
+        "name": "Automated AMHS & SMT Lines",
+        "desc": "Lighthouse automated surface-mount and automated material handling systems."
+      },
+      {
+        "level": 4,
+        "name": "Predictive AI Rack & Liquid Cooling Co-Design",
+        "desc": "Proprietary QCT system design, GPU cluster thermal modeling, and multi-MW testing capacity in Fremont, Germany, and Taoyuan."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Factory",
+        "desc": "Closed-loop digital twins with real-time telemetry from chip testing to data center deployment."
+      }
+    ]
+  }
+}

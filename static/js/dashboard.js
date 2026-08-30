@@ -168,10 +168,15 @@ const COMPANY_COLORS = {
     "ttmi": "#1E3A8A",
     "infineon": "#059669",
     "ifx": "#059669",
-    "ifnny": "#059669"
+    "ifnny": "#059669",
+    "quanta": "#D97706",
+    "2382": "#D97706",
+    "quantatw": "#D97706"
 };
 
 const COMPANY_COUNTRIES = {
+    "quanta": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2382": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "asml": { en: "Netherlands 🇳🇱", zh: "荷蘭 🇳🇱", code: "NL" },
     "tsmc": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "tsm": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
@@ -330,7 +335,12 @@ const TICKER_CANONICAL_MAP = {
     "2308": "delta",
     "umc": "umc",
     "2303": "umc",
-    "united-microelectronics": "umc"
+    "united-microelectronics": "umc",
+    "quanta": "quanta",
+    "2382": "quanta",
+    "quanta-computer": "quanta",
+    "quanta-computer-inc": "quanta",
+    "quantatw": "quanta"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -1256,6 +1266,8 @@ async function loadCompaniesList() {
                 "TSMC": "TSMC (2330 / TSM)",
                 "MEDIATEK": "MediaTek (2454 / 聯發科)",
                 "2454": "MediaTek (2454 / 聯發科)",
+                "QUANTA": "Quanta Computer (2382 / 廣達)",
+                "2382": "Quanta Computer (2382 / 廣達)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",

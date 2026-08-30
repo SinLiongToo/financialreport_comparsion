@@ -88,7 +88,11 @@ TICKER_SLUGS = {
     "asus": ["asustek-computer", "asus", "2357"],
     "2357": ["asustek-computer", "asus", "2357"],
     "asustek": ["asustek-computer", "asus", "2357"],
-    "asustek-computer": ["asustek-computer", "asus", "2357"]
+    "asustek-computer": ["asustek-computer", "asus", "2357"],
+    "quanta": ["quanta-computer", "quanta", "2382"],
+    "2382": ["quanta-computer", "quanta", "2382"],
+    "quanta-computer": ["quanta-computer", "quanta", "2382"],
+    "quanta-computer-inc": ["quanta-computer", "quanta", "2382"]
 }
 
 class AnnualReportCrawler:

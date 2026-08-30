@@ -55,7 +55,7 @@ def get_companies():
         if canon:
             clean_canonical_set.add(canon)
 
-    ordered_priority = ["ASML", "TSMC", "MEDIATEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"]
+    ordered_priority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"]
     final_list = [c for c in ordered_priority if c in clean_canonical_set]
     for c in sorted(clean_canonical_set):
         if c not in final_list:
