@@ -736,11 +736,29 @@ function setupChartZoomModal() {
             if (canvas && (canvas.data || canvas._fullData)) {
                 const titleEl = document.getElementById("zoomModalTitle");
                 const cleanTitle = (titleEl ? titleEl.textContent.trim() : "chart").replace(/[^a-zA-Z0-9_\u4e00-\u9fa5]/g, "_");
-                Plotly.downloadImage("zoomedChartCanvas", {
-                    format: "png",
-                    width: 1920,
-                    height: 1080,
-                    filename: `${cleanTitle}_HD`
+                const isLight = CURRENT_THEME === "light";
+                const solidBg = isLight ? "#ffffff" : "#0f172a";
+                const fontCol = isLight ? "#0f172a" : "#f8fafc";
+                const gridCol = isLight ? "#e2e8f0" : "#334155";
+                
+                // Relayout with solid high-contrast background and crisp font colors before capturing HD PNG
+                Plotly.relayout("zoomedChartCanvas", {
+                    paper_bgcolor: solidBg,
+                    plot_bgcolor: solidBg,
+                    font: { color: fontCol, size: 13, family: "Inter, system-ui, sans-serif" }
+                }).then(() => {
+                    Plotly.downloadImage("zoomedChartCanvas", {
+                        format: "png",
+                        width: 1920,
+                        height: 1080,
+                        filename: `${cleanTitle}_HD`
+                    }).then(() => {
+                        // Restore transparent background after download
+                        Plotly.relayout("zoomedChartCanvas", {
+                            paper_bgcolor: "transparent",
+                            plot_bgcolor: "transparent"
+                        });
+                    });
                 });
             }
         });
@@ -786,21 +804,18 @@ function extractCleanTraces(dataArray) {
             type: t.type || "scatter"
         };
         if (t.mode) clean.mode = t.mode;
+        if (t.text) clean.text = Array.isArray(t.text) ? [...t.text] : t.text;
+        if (t.textposition) clean.textposition = t.textposition;
+        if (t.textfont) clean.textfont = JSON.parse(JSON.stringify(t.textfont));
         if (t.yaxis) clean.yaxis = t.yaxis;
         if (t.xaxis) clean.xaxis = t.xaxis;
         if (t.showlegend !== undefined) clean.showlegend = t.showlegend;
         if (t.hovertemplate) clean.hovertemplate = t.hovertemplate;
         if (t.marker) {
-            clean.marker = {};
-            if (t.marker.color) clean.marker.color = t.marker.color;
-            if (t.marker.opacity !== undefined) clean.marker.opacity = t.marker.opacity;
-            if (t.marker.size !== undefined) clean.marker.size = t.marker.size;
+            clean.marker = JSON.parse(JSON.stringify(t.marker));
         }
         if (t.line) {
-            clean.line = {};
-            if (t.line.color) clean.line.color = t.line.color;
-            if (t.line.width !== undefined) clean.line.width = t.line.width;
-            if (t.line.dash) clean.line.dash = t.line.dash;
+            clean.line = JSON.parse(JSON.stringify(t.line));
         }
         return clean;
     });
@@ -808,14 +823,15 @@ function extractCleanTraces(dataArray) {
 
 function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
     const layout = srcLayout || {};
+    const isLight = CURRENT_THEME === "light";
     const clean = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
         autosize: true,
         margin: {
             t: isMultiTrace ? 40 : 55,
-            r: isMultiTrace ? 170 : 45,
-            l: 60,
+            r: isMultiTrace ? 180 : 45,
+            l: 65,
             b: 55
         },
         font: { color: fontColor, size: 12, family: "Inter, system-ui, sans-serif" },
@@ -824,11 +840,18 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
             orientation: isMultiTrace ? "v" : "h",
             x: isMultiTrace ? 1.02 : 0,
             y: isMultiTrace ? 1 : 1.15,
-            font: { size: 11.5, color: fontColor }
+            xanchor: "left",
+            yanchor: isMultiTrace ? "top" : "bottom",
+            font: { size: 11.5, color: fontColor },
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
+            bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
+            borderwidth: 1
         }
     };
 
     if (layout.barmode) clean.barmode = layout.barmode;
+    if (layout.shapes) clean.shapes = JSON.parse(JSON.stringify(layout.shapes));
+    if (layout.annotations) clean.annotations = JSON.parse(JSON.stringify(layout.annotations));
 
     if (layout.xaxis) {
         clean.xaxis = {
@@ -839,6 +862,7 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
         if (layout.xaxis.title) {
             clean.xaxis.title = typeof layout.xaxis.title === 'string' ? layout.xaxis.title : (layout.xaxis.title.text || "");
         }
+        if (layout.xaxis.range) clean.xaxis.range = [...layout.xaxis.range];
         if (layout.xaxis.tickangle !== undefined) clean.xaxis.tickangle = layout.xaxis.tickangle;
         if (layout.xaxis.categoryorder) clean.xaxis.categoryorder = layout.xaxis.categoryorder;
         if (layout.xaxis.categoryarray) clean.xaxis.categoryarray = [...layout.xaxis.categoryarray];
@@ -848,11 +872,12 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
         clean.yaxis = {
             showgrid: true,
             gridcolor: gridColor,
-            autorange: true
+            autorange: layout.yaxis.range ? false : true
         };
         if (layout.yaxis.title) {
             clean.yaxis.title = typeof layout.yaxis.title === 'string' ? layout.yaxis.title : (layout.yaxis.title.text || "");
         }
+        if (layout.yaxis.range) clean.yaxis.range = [...layout.yaxis.range];
         if (layout.yaxis.ticksuffix) clean.yaxis.ticksuffix = layout.yaxis.ticksuffix;
     }
 
@@ -2043,11 +2068,11 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
                     mode: "markers+text",
                     text: [c.ticker || t.toUpperCase()],
                     textposition: "top center",
-                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#f8fafc" },
+                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#ffffff" },
                     marker: {
                         size: [bubbleSize],
                         color: col,
-                        opacity: 0.88,
+                        opacity: 0.92,
                         line: { color: isLight ? "#ffffff" : "#0f172a", width: 2 }
                     },
                     hovertemplate: hoverHtml
@@ -2078,11 +2103,11 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
                     mode: "markers+text",
                     text: [c.ticker || t.toUpperCase()],
                     textposition: "top center",
-                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#f8fafc" },
+                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#ffffff" },
                     marker: {
                         size: [bubbleSize],
                         color: col,
-                        opacity: 0.88,
+                        opacity: 0.92,
                         line: { color: isLight ? "#ffffff" : "#0f172a", width: 2 }
                     },
                     hovertemplate: hoverHtml
@@ -2144,20 +2169,22 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
         );
     }
 
+    const isMulti = tickers.length > 4;
     const scatterLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
         font: { color: fontColor, size: 11.5, family: "Inter, system-ui, sans-serif" },
-        margin: { l: 65, r: 40, t: 40, b: 55 },
+        margin: { l: 65, r: isMulti ? 180 : 45, t: 40, b: 55 },
         hovermode: "closest",
-        showlegend: traces.length <= 12,
+        showlegend: true,
         legend: {
-            orientation: "h",
-            x: 0,
-            y: 1.14,
+            orientation: isMulti ? "v" : "h",
+            x: isMulti ? 1.02 : 0,
+            y: isMulti ? 1 : 1.14,
             xanchor: "left",
+            yanchor: isMulti ? "top" : "bottom",
             font: { size: 11, color: isLight ? "#0f172a" : "#f8fafc" },
-            bgcolor: isLight ? "rgba(255, 255, 255, 0.85)" : "rgba(15, 23, 42, 0.85)",
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
             bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
             borderwidth: 1
         },
