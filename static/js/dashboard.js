@@ -739,13 +739,21 @@ function setupChartZoomModal() {
                 const isLight = CURRENT_THEME === "light";
                 const solidBg = isLight ? "#ffffff" : "#0f172a";
                 const fontCol = isLight ? "#0f172a" : "#f8fafc";
-                const gridCol = isLight ? "#e2e8f0" : "#334155";
+                const tickCol = isLight ? "#1e293b" : "#cbd5e1";
+                const lineCol = isLight ? "#64748b" : "#475569";
                 
-                // Relayout with solid high-contrast background and crisp font colors before capturing HD PNG
+                // Relayout with solid high-contrast background, crisp font colors, and bold axes before capturing HD PNG
                 Plotly.relayout("zoomedChartCanvas", {
                     paper_bgcolor: solidBg,
                     plot_bgcolor: solidBg,
-                    font: { color: fontCol, size: 13, family: "Inter, system-ui, sans-serif" }
+                    "font.color": fontCol,
+                    "font.size": 13,
+                    "xaxis.tickfont.color": tickCol,
+                    "xaxis.title.font.color": fontCol,
+                    "yaxis.tickfont.color": tickCol,
+                    "yaxis.title.font.color": fontCol,
+                    "legend.font.color": fontCol,
+                    "legend.bgcolor": isLight ? "#ffffff" : "#0f172a"
                 }).then(() => {
                     Plotly.downloadImage("zoomedChartCanvas", {
                         format: "png",
@@ -824,6 +832,9 @@ function extractCleanTraces(dataArray) {
 function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
     const layout = srcLayout || {};
     const isLight = CURRENT_THEME === "light";
+    const textColor = isLight ? "#0f172a" : fontColor;
+    const tickColor = isLight ? "#1e293b" : "#cbd5e1";
+    const lineCol = isLight ? "#64748b" : "#475569";
     const clean = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
@@ -834,7 +845,7 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
             l: 65,
             b: 55
         },
-        font: { color: fontColor, size: 12, family: "Inter, system-ui, sans-serif" },
+        font: { color: textColor, size: 12.5, family: "Inter, system-ui, sans-serif" },
         hovermode: "closest",
         legend: {
             orientation: isMultiTrace ? "v" : "h",
@@ -842,10 +853,10 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
             y: isMultiTrace ? 1 : 1.15,
             xanchor: "left",
             yanchor: isMultiTrace ? "top" : "bottom",
-            font: { size: 11.5, color: fontColor },
-            bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
-            bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
-            borderwidth: 1
+            font: { size: 12, color: textColor },
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)",
+            bordercolor: isLight ? "rgba(148, 163, 184, 0.8)" : "rgba(51, 65, 85, 0.8)",
+            borderwidth: 1.5
         }
     };
 
@@ -857,10 +868,19 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
         clean.xaxis = {
             showgrid: true,
             gridcolor: gridColor,
+            gridwidth: 1,
+            showline: true,
+            linecolor: lineCol,
+            linewidth: 1.5,
+            tickfont: { size: 12, color: tickColor, family: "Inter, system-ui, sans-serif" },
             automargin: true
         };
         if (layout.xaxis.title) {
-            clean.xaxis.title = typeof layout.xaxis.title === 'string' ? layout.xaxis.title : (layout.xaxis.title.text || "");
+            const tText = typeof layout.xaxis.title === 'string' ? layout.xaxis.title : (layout.xaxis.title.text || "");
+            clean.xaxis.title = {
+                text: tText,
+                font: { size: 13.5, color: textColor, family: "Inter, system-ui, sans-serif" }
+            };
         }
         if (layout.xaxis.range) clean.xaxis.range = [...layout.xaxis.range];
         if (layout.xaxis.tickangle !== undefined) clean.xaxis.tickangle = layout.xaxis.tickangle;
@@ -872,10 +892,19 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
         clean.yaxis = {
             showgrid: true,
             gridcolor: gridColor,
+            gridwidth: 1,
+            showline: true,
+            linecolor: lineCol,
+            linewidth: 1.5,
+            tickfont: { size: 12, color: tickColor, family: "Inter, system-ui, sans-serif" },
             autorange: layout.yaxis.range ? false : true
         };
         if (layout.yaxis.title) {
-            clean.yaxis.title = typeof layout.yaxis.title === 'string' ? layout.yaxis.title : (layout.yaxis.title.text || "");
+            const tText = typeof layout.yaxis.title === 'string' ? layout.yaxis.title : (layout.yaxis.title.text || "");
+            clean.yaxis.title = {
+                text: tText,
+                font: { size: 13.5, color: textColor, family: "Inter, system-ui, sans-serif" }
+            };
         }
         if (layout.yaxis.range) clean.yaxis.range = [...layout.yaxis.range];
         if (layout.yaxis.ticksuffix) clean.yaxis.ticksuffix = layout.yaxis.ticksuffix;
@@ -889,7 +918,11 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
             autorange: true
         };
         if (layout.yaxis2.title) {
-            clean.yaxis2.title = typeof layout.yaxis2.title === 'string' ? layout.yaxis2.title : (layout.yaxis2.title.text || "");
+            const tText = typeof layout.yaxis2.title === 'string' ? layout.yaxis2.title : (layout.yaxis2.title.text || "");
+            clean.yaxis2.title = {
+                text: tText,
+                font: { size: 13.5, color: textColor, family: "Inter, system-ui, sans-serif" }
+            };
         }
         if (layout.yaxis2.ticksuffix) clean.yaxis2.ticksuffix = layout.yaxis2.ticksuffix;
     }
@@ -1966,8 +1999,10 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
     if (!tickers || tickers.length === 0) return;
 
     const isLight = CURRENT_THEME === "light";
-    const fontColor = isLight ? "#1e293b" : "#94a3b8";
-    const gridColor = isLight ? "#cbd5e1" : "#334155";
+    const fontColor = isLight ? "#0f172a" : "#f8fafc";
+    const tickColor = isLight ? "#1e293b" : "#cbd5e1";
+    const gridColor = isLight ? "#e2e8f0" : "#334155";
+    const lineCol = isLight ? "#64748b" : "#475569";
     const lang = CURRENT_LANGUAGE || "zh";
 
     const xMetric = SCATTER_METRICS[SCATTER_CONFIG.x] || SCATTER_METRICS.gm;
@@ -2042,8 +2077,8 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
                     name: `${c.ticker || t.toUpperCase()} Path`,
                     type: "scatter",
                     mode: "lines+markers",
-                    line: { color: col, width: 2, dash: "dot" },
-                    marker: { size: 6, color: col, opacity: 0.7 },
+                    line: { color: col, width: 2.5, dash: "dot" },
+                    marker: { size: 6, color: col, opacity: 0.8 },
                     showlegend: false,
                     hoverinfo: "skip"
                 });
@@ -2068,12 +2103,12 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
                     mode: "markers+text",
                     text: [c.ticker || t.toUpperCase()],
                     textposition: "top center",
-                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#ffffff" },
+                    textfont: { size: 12.5, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#ffffff" },
                     marker: {
                         size: [bubbleSize],
                         color: col,
-                        opacity: 0.92,
-                        line: { color: isLight ? "#ffffff" : "#0f172a", width: 2 }
+                        opacity: 0.95,
+                        line: { color: isLight ? "#334155" : "#0f172a", width: 2 }
                     },
                     hovertemplate: hoverHtml
                 });
@@ -2103,12 +2138,12 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
                     mode: "markers+text",
                     text: [c.ticker || t.toUpperCase()],
                     textposition: "top center",
-                    textfont: { size: 12, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#ffffff" },
+                    textfont: { size: 12.5, family: "Inter, system-ui, sans-serif", color: isLight ? "#0f172a" : "#ffffff" },
                     marker: {
                         size: [bubbleSize],
                         color: col,
-                        opacity: 0.92,
-                        line: { color: isLight ? "#ffffff" : "#0f172a", width: 2 }
+                        opacity: 0.95,
+                        line: { color: isLight ? "#334155" : "#0f172a", width: 2 }
                     },
                     hovertemplate: hoverHtml
                 });
@@ -2142,7 +2177,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             type: "line",
             x0: medianX, x1: medianX,
             y0: yRange[0], y1: yRange[1],
-            line: { color: isLight ? "#94a3b8" : "#475569", width: 1.5, dash: "dash" }
+            line: { color: isLight ? "#475569" : "#94a3b8", width: 2, dash: "dash" }
         });
 
         // Horizontal dashed median line
@@ -2150,7 +2185,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             type: "line",
             x0: xRange[0], x1: xRange[1],
             y0: medianY, y1: medianY,
-            line: { color: isLight ? "#94a3b8" : "#475569", width: 1.5, dash: "dash" }
+            line: { color: isLight ? "#475569" : "#94a3b8", width: 2, dash: "dash" }
         });
 
         // Quadrant Annotations
@@ -2160,12 +2195,54 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
         const q4Label = lang === "zh" ? "🚀 Q4: 高投入轉化 (Incubators)" : "🚀 Q4: High Invest (High X / Low Y)";
 
         annotations.push(
-            { x: xRange[1], y: yRange[1], xref: "x", yref: "y", text: q1Label, showarrow: false, xanchor: "right", yanchor: "top", font: { size: 10.5, color: "#10b981", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
-            { x: xRange[0], y: yRange[1], xref: "x", yref: "y", text: q2Label, showarrow: false, xanchor: "left", yanchor: "top", font: { size: 10.5, color: "#38bdf8", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
-            { x: xRange[0], y: yRange[0], xref: "x", yref: "y", text: q3Label, showarrow: false, xanchor: "left", yanchor: "bottom", font: { size: 10.5, color: "#94a3b8", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
-            { x: xRange[1], y: yRange[0], xref: "x", yref: "y", text: q4Label, showarrow: false, xanchor: "right", yanchor: "bottom", font: { size: 10.5, color: "#f59e0b", family: "Inter, sans-serif" }, bgcolor: isLight ? "rgba(255,255,255,0.7)" : "rgba(15,23,42,0.7)" },
-            { x: medianX, y: yRange[0], xref: "x", yref: "y", text: `Med: ${xMetric.format(medianX)}`, showarrow: false, xanchor: "center", yanchor: "bottom", font: { size: 10, color: isLight ? "#64748b" : "#94a3b8" } },
-            { x: xRange[0], y: medianY, xref: "x", yref: "y", text: `Med: ${yMetric.format(medianY)}`, showarrow: false, xanchor: "left", yanchor: "middle", font: { size: 10, color: isLight ? "#64748b" : "#94a3b8" } }
+            {
+                x: xRange[1], y: yRange[1], xref: "x", yref: "y",
+                text: `<b>${q1Label}</b>`, showarrow: false, xanchor: "right", yanchor: "top",
+                font: { size: 11.5, color: isLight ? "#065f46" : "#34d399", family: "Inter, sans-serif" },
+                bgcolor: isLight ? "#ecfdf5" : "rgba(6, 78, 59, 0.85)",
+                bordercolor: isLight ? "#059669" : "#10b981",
+                borderwidth: 1.5, borderpad: 5
+            },
+            {
+                x: xRange[0], y: yRange[1], xref: "x", yref: "y",
+                text: `<b>${q2Label}</b>`, showarrow: false, xanchor: "left", yanchor: "top",
+                font: { size: 11.5, color: isLight ? "#0369a1" : "#38bdf8", family: "Inter, sans-serif" },
+                bgcolor: isLight ? "#f0f9ff" : "rgba(12, 74, 110, 0.85)",
+                bordercolor: isLight ? "#0284c7" : "#38bdf8",
+                borderwidth: 1.5, borderpad: 5
+            },
+            {
+                x: xRange[0], y: yRange[0], xref: "x", yref: "y",
+                text: `<b>${q3Label}</b>`, showarrow: false, xanchor: "left", yanchor: "bottom",
+                font: { size: 11.5, color: isLight ? "#334155" : "#cbd5e1", family: "Inter, sans-serif" },
+                bgcolor: isLight ? "#f8fafc" : "rgba(30, 41, 59, 0.85)",
+                bordercolor: isLight ? "#64748b" : "#94a3b8",
+                borderwidth: 1.5, borderpad: 5
+            },
+            {
+                x: xRange[1], y: yRange[0], xref: "x", yref: "y",
+                text: `<b>${q4Label}</b>`, showarrow: false, xanchor: "right", yanchor: "bottom",
+                font: { size: 11.5, color: isLight ? "#92400e" : "#fbbf24", family: "Inter, sans-serif" },
+                bgcolor: isLight ? "#fffbeb" : "rgba(120, 53, 15, 0.85)",
+                bordercolor: isLight ? "#d97706" : "#f59e0b",
+                borderwidth: 1.5, borderpad: 5
+            },
+            {
+                x: medianX, y: yRange[0], xref: "x", yref: "y",
+                text: `<b>Med: ${xMetric.format(medianX)}</b>`, showarrow: false, xanchor: "center", yanchor: "bottom",
+                font: { size: 11, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, sans-serif" },
+                bgcolor: isLight ? "#ffffff" : "#1e293b",
+                bordercolor: isLight ? "#475569" : "#64748b",
+                borderwidth: 1.5, borderpad: 4
+            },
+            {
+                x: xRange[0], y: medianY, xref: "x", yref: "y",
+                text: `<b>Med: ${yMetric.format(medianY)}</b>`, showarrow: false, xanchor: "left", yanchor: "middle",
+                font: { size: 11, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, sans-serif" },
+                bgcolor: isLight ? "#ffffff" : "#1e293b",
+                bordercolor: isLight ? "#475569" : "#64748b",
+                borderwidth: 1.5, borderpad: 4
+            }
         );
     }
 
@@ -2173,7 +2250,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
     const scatterLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11.5, family: "Inter, system-ui, sans-serif" },
+        font: { color: fontColor, size: 12.5, family: "Inter, system-ui, sans-serif" },
         margin: { l: 65, r: isMulti ? 180 : 45, t: 40, b: 55 },
         hovermode: "closest",
         showlegend: true,
@@ -2183,24 +2260,44 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             y: isMulti ? 1 : 1.14,
             xanchor: "left",
             yanchor: isMulti ? "top" : "bottom",
-            font: { size: 11, color: isLight ? "#0f172a" : "#f8fafc" },
-            bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
-            bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
-            borderwidth: 1
+            font: { size: 12, color: fontColor },
+            bgcolor: isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)",
+            bordercolor: isLight ? "rgba(148, 163, 184, 0.8)" : "rgba(51, 65, 85, 0.8)",
+            borderwidth: 1.5
         },
         xaxis: {
-            title: xMetric.axisTitle[lang] || xMetric.label[lang],
+            title: {
+                text: xMetric.axisTitle[lang] || xMetric.label[lang],
+                font: { size: 13.5, color: fontColor, family: "Inter, system-ui, sans-serif" }
+            },
+            tickfont: { size: 12, color: tickColor, family: "Inter, system-ui, sans-serif" },
             range: xRange,
             showgrid: true,
             gridcolor: gridColor,
-            zeroline: false
+            gridwidth: 1,
+            showline: true,
+            linecolor: lineCol,
+            linewidth: 1.5,
+            zeroline: true,
+            zerolinecolor: isLight ? "#94a3b8" : "#475569",
+            zerolinewidth: 1.5
         },
         yaxis: {
-            title: yMetric.axisTitle[lang] || yMetric.label[lang],
+            title: {
+                text: yMetric.axisTitle[lang] || yMetric.label[lang],
+                font: { size: 13.5, color: fontColor, family: "Inter, system-ui, sans-serif" }
+            },
+            tickfont: { size: 12, color: tickColor, family: "Inter, system-ui, sans-serif" },
             range: yRange,
             showgrid: true,
             gridcolor: gridColor,
-            zeroline: false
+            gridwidth: 1,
+            showline: true,
+            linecolor: lineCol,
+            linewidth: 1.5,
+            zeroline: true,
+            zerolinecolor: isLight ? "#94a3b8" : "#475569",
+            zerolinewidth: 1.5
         },
         shapes: shapes,
         annotations: annotations
