@@ -746,6 +746,15 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.2.1 (2026-08-30)**：
+  - **修復多公司別名重複問題 (Company Deduplication & Canonical Aliases Consolidation)**：
+    - 完整補齊 `TICKER_CANONICAL_MAP` 與 `TICKER_ALIASES` 雙向映射：
+      - `advanced-micro-devices` / `advanced-micro-devices-inc` 統一歸併至 **`AMD`**。
+      - `taiwan-semiconductor-manufacturing` / `taiwan-semiconductor` 統一歸併至 **`TSMC`**。
+      - `mediatek-inc` 統一歸併至 **`MEDIATEK`**。
+    - 徹底消除單一公司選單與多公司橫向對比核取方塊中的重複顯示項目，維持全庫嚴格 31 家標準化企業對齊。
+    - 全量重新編譯 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v2.2.0 (2026-08-30)**：
   - **新增德國半導體關鍵材料與科學巨頭 默克集團 (Merck KGaA / MRK.DE / 默克先進材料) 審計基準庫與深度戰略分析**：
     - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 €211.5 億（標準化約 **\$22,846M USD**）、毛利率穩居 **61.50%** 高毛利護城河、營業利益達 €41.2 億（約 **\$4,450M USD**），以及全球 62,500 名高素質員工之極高人均毛利（**\$224.8k/人**）。
@@ -843,6 +852,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.2.1 - fix: resolve duplicate company entries (AMD vs ADVANCED-MICRO-DEVICES, TSMC vs TAIWAN-SEMICONDUCTOR-MANUFACTURING, MEDIATEK vs MEDIATEK-INC)
 * commit v2.2.0 - feat: integrate Germany Merck KGaA (MRK.DE) 5-year audited financial reports, semiconductor materials breakdown, and quarterly analytics
 * commit v2.1.0 - feat: integrate Taiwan Wistron (3231.TW) and Pegatron (4938.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.0.0 - feat: integrate Taiwan Quanta Computer (2382.TW) 5-year audited financial reports, AI server sales breakdown, and quarterly analytics
