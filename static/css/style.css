@@ -21,6 +21,16 @@ body, header, section, div, table, th, td, pre, button, select, input {
     transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
 }
 
+/* Select & Option Dark Mode Contrast */
+select#companySelect, select {
+    background-color: #334155 !important;
+    color: #f8fafc !important;
+}
+select#companySelect option, select option {
+    background-color: #1e293b !important;
+    color: #f8fafc !important;
+}
+
 /* ========================================================================= */
 /* PRISTINE HIGH-LEGIBILITY LIGHT THEME                                      */
 /* ========================================================================= */
