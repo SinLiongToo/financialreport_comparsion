@@ -325,22 +325,35 @@ const COMPANY_SECTORS = {
     "mu": "FABLESS",
     "aapl": "FABLESS",
 
-    // 半導體設備 / 材料
+    // 半導體製造設備 / 材料 (Wafer Fab Equipment & Materials)
     "asml": "EQUIPMENT",
     "amat": "EQUIPMENT",
+    "applied-materials": "EQUIPMENT",
     "lrcx": "EQUIPMENT",
     "lam-research": "EQUIPMENT",
+    "lam-research-corp": "EQUIPMENT",
+    "lam-research-corporation": "EQUIPMENT",
     "klac": "EQUIPMENT",
-    "ter": "EQUIPMENT",
-    "advantest": "EQUIPMENT",
+    "kla": "EQUIPMENT",
+    "kla-tencor": "EQUIPMENT",
     "merck-kgaa": "EQUIPMENT",
     "mrk-de": "EQUIPMENT",
+    "mrk.de": "EQUIPMENT",
+    "mkgay": "EQUIPMENT",
 
-    // 測試分析 / 封裝測試 (OSAT & Lab Testing)
+    // 半導體測試機台 / 封測 / 分析實驗室 (Semiconductor Testing, ATE & OSAT)
+    "advantest": "TESTING",
+    "6857": "TESTING",
+    "ter": "TESTING",
+    "teradyne": "TESTING",
     "ase": "TESTING",
     "3711": "TESTING",
+    "ase-group": "TESTING",
+    "asx": "TESTING",
     "ma-tek": "TESTING",
     "3587": "TESTING",
+    "matek": "TESTING",
+    "ma_tek": "TESTING",
 
     // 雲端 / AI 平台與軟體 (Hyperscalers & Enterprise Software)
     "googl": "HYPERSCALE",
@@ -373,15 +386,15 @@ const SECTOR_METADATA = {
         badge: "bg-amber-500/20 text-amber-300 border border-amber-500/30"
     },
     "EQUIPMENT": {
-        en: "Equipment & Materials",
-        zh: "半導體設備/材料",
-        icon: "fa-vial",
+        en: "Fab Equipment & Materials",
+        zh: "半導體製造設備/材料",
+        icon: "fa-microscope",
         color: "#8B5CF6",
         badge: "bg-purple-500/20 text-purple-300 border border-purple-500/30"
     },
     "TESTING": {
-        en: "OSAT & Lab Testing",
-        zh: "測試分析/封測",
+        en: "Semiconductor Testing & OSAT",
+        zh: "半導體測試/ATE/封測",
         icon: "fa-flask-vial",
         color: "#EC4899",
         badge: "bg-pink-500/20 text-pink-300 border border-pink-500/30"
@@ -620,8 +633,8 @@ const I18N_DICT = {
         sector_system: "💻 System OEM/ODM",
         sector_foundry: "⚡ Foundry / IDM",
         sector_fabless: "🧠 Fabless / IC Design",
-        sector_equipment: "🔬 Equipment & Materials",
-        sector_testing: "🧪 OSAT & Lab Testing",
+        sector_equipment: "🔬 Fab Equipment & Materials",
+        sector_testing: "🧪 Testing, ATE & OSAT",
         sector_hyperscale: "☁️ Cloud & AI Software",
         compare_chart1_title: "Gross Margin % Trajectory Benchmark",
         compare_chart1_desc: "Cross-company pricing power comparison: Leading-edge semiconductors (NVDA, TSMC) vs. equipment (ASML) vs. automotive (NXP) vs. passives (VSH).",
@@ -747,8 +760,8 @@ const I18N_DICT = {
         sector_system: "💻 系統組裝 / ODM",
         sector_foundry: "⚡ 晶圓製造 / IDM",
         sector_fabless: "🧠 IC設計 / Fabless",
-        sector_equipment: "🔬 半導體設備 / 材料",
-        sector_testing: "🧪 測試分析 / 封測",
+        sector_equipment: "🔬 半導體製造設備 / 材料",
+        sector_testing: "🧪 半導體測試 / 封測 / 分析",
         sector_hyperscale: "☁️ 雲端軟體 / AI",
         compare_chart1_title: "毛利率走勢跨公司對比 (Gross Margin %)",
         compare_chart1_desc: "跨公司產品定價權與護城河對比：先進半導體 (NVDA, TSMC) vs. 設備霸主 (ASML) vs. 車用晶片 (NXP) vs. 分離式元件 (VSH)。",

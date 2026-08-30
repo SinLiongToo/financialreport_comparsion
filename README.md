@@ -753,8 +753,8 @@ python main.py --export-static
       1. `💻 系統組裝 / ODM (System)`：ASUS、Quanta、Wistron、Pegatron、Foxconn、Delta、TTM
       2. `⚡ 晶圓製造 / IDM (Foundry)`：TSMC、UMC、Samsung、Infineon、NXP、Vishay
       3. `🧠 IC設計 / Fabless (Chips)`：NVIDIA、AMD、MediaTek、Broadcom、ARM、Micron、Apple
-      4. `🔬 半導體設備 / 材料 (Equipment)`：ASML、Applied Materials、Lam Research、KLA、Teradyne、Advantest、Merck KGaA
-      5. `🧪 測試分析 / 封測 (Testing/OSAT)`：ASE (日月光)、MA-tek (閎康科技)
+      4. `🔬 半導體製造設備 / 材料 (Fab Tools)`：ASML、Applied Materials、Lam Research、KLA、Merck KGaA
+      5. `🧪 半導體測試 / 封測 / 分析 (Testing/OSAT)`：Advantest (愛德萬測試)、Teradyne (泰瑞達)、ASE (日月光)、MA-tek (閎康科技)
       6. `☁️ 雲端軟體 / AI (Hyperscalers)`：Google、Microsoft、Meta、Amazon、Palantir
     - **一鍵「僅選目前篩選 (Select Filtered Only)」與卡片式徽章**：勾選區企業卡片全面升級顯示國旗圖標、所屬產業彩色標籤與國家代碼，並提供「僅選目前篩選」按鈕，快速聚焦特定產業（如只比較半導體設備廠或只比較晶圓代工廠）進行 4 大基準圖表與二維散佈矩陣重算。
     - **全端雙語字典 (i18n) 與單機版同步**：同步更新 `templates/index.html`、`static/js/dashboard.js`，並重新編譯產出 `standalone_dashboard.html` 與 `docs/index.html`。
