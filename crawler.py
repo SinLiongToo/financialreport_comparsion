@@ -92,7 +92,15 @@ TICKER_SLUGS = {
     "quanta": ["quanta-computer", "quanta", "2382"],
     "2382": ["quanta-computer", "quanta", "2382"],
     "quanta-computer": ["quanta-computer", "quanta", "2382"],
-    "quanta-computer-inc": ["quanta-computer", "quanta", "2382"]
+    "quanta-computer-inc": ["quanta-computer", "quanta", "2382"],
+    "wistron": ["wistron-corporation", "wistron", "3231"],
+    "3231": ["wistron-corporation", "wistron", "3231"],
+    "wistron-corp": ["wistron-corporation", "wistron", "3231"],
+    "wistron-corporation": ["wistron-corporation", "wistron", "3231"],
+    "pegatron": ["pegatron", "pegatron-corp", "4938"],
+    "4938": ["pegatron", "pegatron-corp", "4938"],
+    "pegatron-corp": ["pegatron", "pegatron-corp", "4938"],
+    "pegatron-corporation": ["pegatron", "pegatron-corp", "4938"]
 }
 
 class AnnualReportCrawler:

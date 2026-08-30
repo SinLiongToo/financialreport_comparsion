@@ -25,3 +25,15 @@
 - **Forbidden Actions**:
   - Do NOT modify, write, delete, or touch any folders or files in parent directories (`OneDrive\文件\...`, `2022_0308_MASA`, other project directories, desktop, etc.).
   - Temporary files, if needed, must only be placed in `data/` or internal scratch directories.
+
+---
+
+## 🏷️ 3. Mandatory Version & Timestamp Update upon Every Release/Push (每次更新與推送必更版本號及日期)
+
+- **Version & Date Synchronization (版本號與日期嚴格同步)**:
+  Whenever adding new companies, fixing features, or preparing to push:
+  1. **`templates/index.html`**: Update the version badge (e.g. `v2.1.0`) and the timestamp `Updated: YYYY-MM-DD`.
+  2. **`static/js/dashboard.js`**: Update `I18N_DICT.en.header_updated` and `I18N_DICT.zh.header_updated` to match today's date (`Updated: YYYY-MM-DD` / `更新日期: YYYY-MM-DD`).
+  3. **`README.md`**: Add the new release section to the top of `## 16. 最新修復與優化 (Change Log)` and append the commit entry to `## 17. Git History Log`.
+  4. **Recompile**: Always execute `python export_standalone.py` to bake the updated HTML/JS bundle into `docs/index.html` and `standalone_dashboard.html`.
+

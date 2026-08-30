@@ -171,10 +171,18 @@ const COMPANY_COLORS = {
     "ifnny": "#059669",
     "quanta": "#D97706",
     "2382": "#D97706",
-    "quantatw": "#D97706"
+    "quantatw": "#D97706",
+    "wistron": "#06B6D4",
+    "3231": "#06B6D4",
+    "pegatron": "#E11D48",
+    "4938": "#E11D48"
 };
 
 const COMPANY_COUNTRIES = {
+    "wistron": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "3231": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "pegatron": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "4938": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "quanta": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "2382": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "asml": { en: "Netherlands 🇳🇱", zh: "荷蘭 🇳🇱", code: "NL" },
@@ -340,7 +348,15 @@ const TICKER_CANONICAL_MAP = {
     "2382": "quanta",
     "quanta-computer": "quanta",
     "quanta-computer-inc": "quanta",
-    "quantatw": "quanta"
+    "quantatw": "quanta",
+    "wistron": "wistron",
+    "3231": "wistron",
+    "wistron-corp": "wistron",
+    "wistron-corporation": "wistron",
+    "pegatron": "pegatron",
+    "4938": "pegatron",
+    "pegatron-corp": "pegatron",
+    "pegatron-corporation": "pegatron"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -355,7 +371,7 @@ const I18N_DICT = {
     en: {
         badge_workflow: "One-Click Workflow",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-08-29",
+        header_updated: "Updated: 2026-08-30",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -474,7 +490,7 @@ const I18N_DICT = {
     zh: {
         badge_workflow: "一步到位工作流",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-08-29",
+        header_updated: "更新日期：2026-08-30",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1268,6 +1284,10 @@ async function loadCompaniesList() {
                 "2454": "MediaTek (2454 / 聯發科)",
                 "QUANTA": "Quanta Computer (2382 / 廣達)",
                 "2382": "Quanta Computer (2382 / 廣達)",
+                "WISTRON": "Wistron (3231 / 緯創)",
+                "3231": "Wistron (3231 / 緯創)",
+                "PEGATRON": "Pegatron (4938 / 和碩)",
+                "4938": "Pegatron (4938 / 和碩)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",

@@ -746,6 +746,20 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.1.0 (2026-08-30)**：
+  - **新增台灣電子五哥核心巨頭 緯創資通 (Wistron / 3231.TW) 與 和碩聯合科技 (Pegatron / 4938.TW) 審計基準庫與深度戰略分析**：
+    - **緯創資通 (3231.TW)**：
+      - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收破兆達 NT$ 1.03 兆（約 $32,113M USD）、毛利率創 8.12% 新高、營業利益達 NT$ 386 億（約 $1,206M USD），以及 64,500 名員工之高人均產值（$498k/人）。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：AI GPU 伺服器次系統與雲端運算 (HGX/UBB/OAM 基板 ~45%)、智慧個人運算與筆電 (~42%)、工業與網通物聯網 (~13%)。
+      - **資產剝離與獲利大轉型 (The Pivot)**：量化出售印度低毛利手機組裝廠後，全面轉向高階 AI GPU 基板所驅動的毛利率自 5.1% 躍升至 8.1%+ 之獲利飛輪。
+    - **和碩聯合科技 (4938.TW)**：
+      - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 NT$ 1.13 兆（約 $35,234M USD）、毛利率 4.10%、營業利益 NT$ 180.4 億（約 $564M USD），以及全球約 105,000 名員工之製造網絡。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：通訊與智慧行動裝置 (5G / 智慧型手機 ~56%)、資訊產品 (筆電/桌機/主機板 ~18%)、消費性電子與車用電子及 AI 伺服器 (~26%)。
+      - **製造基地轉移與車用/5G 轉型**：精準呈現消費型組裝收斂之際，電動車車用電子（逆變器/ECU）與 5G 企業專網伺服器帶動的毛利率回升趨勢。
+    - **季度數據 (Quarterly 12 期)**：收錄兩家公司 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES)**：支援 `wistron <-> 3231 <-> wistron-corp <-> wistron-corporation` 與 `pegatron <-> 4938 <-> pegatron-corp <-> pegatron-corporation` 自動解析。
+  - **版本號與日期全面升級**：更新至 `v2.1.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
+
 - **v2.0.0 (2026-08-30)**：
   - **新增全球 AI 伺服器與雲端資料中心巨頭 廣達電腦 (Quanta Computer Inc. / 2382.TW) 審計基準庫與深度戰略分析**：
     - **5 年期年度財報 (2020～2024)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 NT$ 1.41 兆（約 $44,086M USD）、毛利率跳升至 7.85%、營業利益達 NT$ 625.6 億（年增 +42.7%），以及全球約 65,926 名員工之高人均營收（$669k/人）與人均毛利（$52.5k/人）。
@@ -820,6 +834,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.1.0 - feat: integrate Taiwan Wistron (3231.TW) and Pegatron (4938.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.0.0 - feat: integrate Taiwan Quanta Computer (2382.TW) 5-year audited financial reports, AI server sales breakdown, and quarterly analytics
 * commit v1.9.0 - feat: integrate Taiwan ASUS (2357.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v1.8.0 - feat: integrate Taiwan MediaTek (2454.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
