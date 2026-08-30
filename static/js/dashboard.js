@@ -18,6 +18,107 @@ let COMPARE_SORT_COL = "revenue";
 let COMPARE_SORT_DIR = "desc";
 let ACTIVE_VIEW = "single"; // "single" | "compare"
 
+// Helper: robust number parser for financial values
+function safeNum(val) {
+    if (val == null) return null;
+    if (typeof val === "number") return isNaN(val) ? null : val;
+    if (typeof val === "string") {
+        const clean = val.replace(/[%$,]/g, "").trim();
+        const num = parseFloat(clean);
+        return isNaN(num) ? null : num;
+    }
+    return null;
+}
+
+function calculateMedian(values) {
+    if (!values || values.length === 0) return 0;
+    const sorted = [...values].filter(v => v != null && !isNaN(v) && isFinite(v)).sort((a, b) => a - b);
+    if (sorted.length === 0) return 0;
+    const mid = Math.floor(sorted.length / 2);
+    return sorted.length % 2 !== 0 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+}
+
+let SCATTER_CONFIG = {
+    x: "gm",
+    y: "opm",
+    size: "revenue",
+    trail: false,
+    activePreset: "gm_op"
+};
+
+const SCATTER_METRICS = {
+    gm: {
+        id: "gm",
+        label: { en: "Gross Margin %", zh: "毛利率 %" },
+        unit: "%",
+        axisTitle: { en: "Gross Margin (%)", zh: "GAAP 毛利率 (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => f ? safeNum(f.gross_margin) : null
+    },
+    opm: {
+        id: "opm",
+        label: { en: "Operating Margin %", zh: "營業利益率 %" },
+        unit: "%",
+        axisTitle: { en: "Operating Margin (%)", zh: "營業利益率 (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => f ? safeNum(f.operating_margin) : null
+    },
+    rd: {
+        id: "rd",
+        label: { en: "R&D % of Rev", zh: "研發佔比 %" },
+        unit: "%",
+        axisTitle: { en: "R&D Intensity (% of Rev)", zh: "研發強度佔營收比重 (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => f ? safeNum(f.rd_pct_rev) : null
+    },
+    rev_per_emp: {
+        id: "rev_per_emp",
+        label: { en: "Rev / FTE ($k)", zh: "人均營收 ($k)" },
+        unit: "$k",
+        axisTitle: { en: "Revenue per FTE ($k)", zh: "人均營收產值 ($k / FTE)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
+        getVal: (f) => {
+            const v = f ? safeNum(f.rev_per_emp) : null;
+            return v != null ? v / 1000 : null;
+        }
+    },
+    gp_per_emp: {
+        id: "gp_per_emp",
+        label: { en: "GP / FTE ($k)", zh: "人均毛利 ($k)" },
+        unit: "$k",
+        axisTitle: { en: "Gross Profit per FTE ($k)", zh: "人均毛利產值 ($k / FTE)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
+        getVal: (f) => {
+            const v = f ? safeNum(f.gp_per_emp) : null;
+            return v != null ? v / 1000 : null;
+        }
+    },
+    revenue: {
+        id: "revenue",
+        label: { en: "Revenue ($M)", zh: "營業收入 ($M)" },
+        unit: "$M",
+        axisTitle: { en: "Revenue ($M)", zh: "營業收入 ($M)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}M`,
+        getVal: (f) => f ? safeNum(f.revenue) : null
+    },
+    headcount: {
+        id: "headcount",
+        label: { en: "Headcount (FTE)", zh: "全球員工人數 (人)" },
+        unit: " FTE",
+        axisTitle: { en: "Headcount (FTE)", zh: "全球員工人數 (人)" },
+        format: (v) => `${Math.round(v ?? 0).toLocaleString()} 人`,
+        getVal: (f) => f ? safeNum(f.headcount) : null
+    },
+    constant: {
+        id: "constant",
+        label: { en: "Uniform Size", zh: "固定大小" },
+        unit: "",
+        axisTitle: { en: "Uniform", zh: "固定大小" },
+        format: () => "-",
+        getVal: () => 1
+    }
+};
+
 const COMPANY_COLORS = {
     "asus": "#00539B",
     "asml": "#00A3E0",
@@ -1827,92 +1928,11 @@ function renderComparisonView(companiesData) {
 
     // 6. Render Comparison Master Table with Dynamic Multi-Column Sorting
     renderComparisonTableRows(companiesData, tickers);
-
-// -----------------------------------------------------------------------------
-// Bivariate Strategic Scatter & Bubble Matrix Engine
-// -----------------------------------------------------------------------------
-let SCATTER_CONFIG = {
-    x: "gm",
-    y: "opm",
-    size: "revenue",
-    trail: false,
-    activePreset: "gm_op"
-};
-
-const SCATTER_METRICS = {
-    gm: {
-        id: "gm",
-        label: { en: "Gross Margin %", zh: "毛利率 %" },
-        unit: "%",
-        axisTitle: { en: "Gross Margin (%)", zh: "GAAP 毛利率 (%)" },
-        format: (v) => `${(v ?? 0).toFixed(2)}%`,
-        getVal: (f) => (f && f.gross_margin != null) ? Number(f.gross_margin) : null
-    },
-    opm: {
-        id: "opm",
-        label: { en: "Operating Margin %", zh: "營業利益率 %" },
-        unit: "%",
-        axisTitle: { en: "Operating Margin (%)", zh: "營業利益率 (%)" },
-        format: (v) => `${(v ?? 0).toFixed(2)}%`,
-        getVal: (f) => (f && f.operating_margin != null) ? Number(f.operating_margin) : null
-    },
-    rd: {
-        id: "rd",
-        label: { en: "R&D % of Rev", zh: "研發佔比 %" },
-        unit: "%",
-        axisTitle: { en: "R&D Intensity (% of Rev)", zh: "研發強度佔營收比重 (%)" },
-        format: (v) => `${(v ?? 0).toFixed(2)}%`,
-        getVal: (f) => (f && f.rd_pct_rev != null) ? Number(f.rd_pct_rev) : null
-    },
-    rev_per_emp: {
-        id: "rev_per_emp",
-        label: { en: "Rev / FTE ($k)", zh: "人均營收 ($k)" },
-        unit: "$k",
-        axisTitle: { en: "Revenue per FTE ($k)", zh: "人均營收產值 ($k / FTE)" },
-        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
-        getVal: (f) => (f && f.rev_per_emp != null) ? Number(f.rev_per_emp) / 1000 : null
-    },
-    gp_per_emp: {
-        id: "gp_per_emp",
-        label: { en: "GP / FTE ($k)", zh: "人均毛利 ($k)" },
-        unit: "$k",
-        axisTitle: { en: "Gross Profit per FTE ($k)", zh: "人均毛利產值 ($k / FTE)" },
-        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
-        getVal: (f) => (f && f.gp_per_emp != null) ? Number(f.gp_per_emp) / 1000 : null
-    },
-    revenue: {
-        id: "revenue",
-        label: { en: "Revenue ($M)", zh: "營業收入 ($M)" },
-        unit: "$M",
-        axisTitle: { en: "Revenue ($M)", zh: "營業收入 ($M)" },
-        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}M`,
-        getVal: (f) => (f && f.revenue != null) ? Number(f.revenue) : null
-    },
-    headcount: {
-        id: "headcount",
-        label: { en: "Headcount (FTE)", zh: "全球員工人數 (人)" },
-        unit: " FTE",
-        axisTitle: { en: "Headcount (FTE)", zh: "全球員工人數 (人)" },
-        format: (v) => `${Math.round(v ?? 0).toLocaleString()} 人`,
-        getVal: (f) => (f && f.headcount != null) ? Number(f.headcount) : null
-    },
-    constant: {
-        id: "constant",
-        label: { en: "Uniform Size", zh: "固定大小" },
-        unit: "",
-        axisTitle: { en: "Uniform", zh: "固定大小" },
-        format: () => "-",
-        getVal: () => 1
-    }
-};
-
-function calculateMedian(values) {
-    if (!values || values.length === 0) return 0;
-    const sorted = [...values].sort((a, b) => a - b);
-    const mid = Math.floor(sorted.length / 2);
-    return sorted.length % 2 !== 0 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
 }
 
+// -----------------------------------------------------------------------------
+// Bivariate Strategic Scatter & Bubble Matrix Rendering Engine
+// -----------------------------------------------------------------------------
 function renderComparisonScatterPlot(companiesData, tickersList) {
     const chartDiv = document.getElementById("chartCompareBivariate");
     if (!chartDiv) return;
@@ -2338,7 +2358,6 @@ window.sortCompareTable = function(col) {
         renderComparisonTableRows(COMPARISON_DATA);
     }
 };
-}
 
 function exportComparisonToCSV() {
     if (!COMPARISON_DATA) return;
