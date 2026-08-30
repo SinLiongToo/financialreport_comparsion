@@ -32,8 +32,29 @@
 
 - **Version & Date Synchronization (版本號與日期嚴格同步)**:
   Whenever adding new companies, fixing features, or preparing to push:
-  1. **`templates/index.html`**: Update the version badge (e.g. `v2.1.0`) and the timestamp `Updated: YYYY-MM-DD`.
+  1. **`templates/index.html`**: Update the version badge (e.g. `v2.2.1`) and the timestamp `Updated: YYYY-MM-DD`.
   2. **`static/js/dashboard.js`**: Update `I18N_DICT.en.header_updated` and `I18N_DICT.zh.header_updated` to match today's date (`Updated: YYYY-MM-DD` / `更新日期: YYYY-MM-DD`).
   3. **`README.md`**: Add the new release section to the top of `## 16. 最新修復與優化 (Change Log)` and append the commit entry to `## 17. Git History Log`.
   4. **Recompile**: Always execute `python export_standalone.py` to bake the updated HTML/JS bundle into `docs/index.html` and `standalone_dashboard.html`.
+
+---
+
+## 🔗 4. Mandatory Canonical Aliases & Deduplication Directives (嚴格別名映射與重複項消除原則)
+
+- **Bi-Directional Alias Synchronization (前後端別名嚴格同步)**:
+  Every company slug, exchange ticker, and long-form corporate name (e.g., `advanced-micro-devices` -> `amd`, `taiwan-semiconductor-manufacturing` -> `tsmc`, `mediatek-inc` -> `mediatek`, `mrk-de`/`merck-group`/`emd` -> `merck-kgaa`) MUST be registered simultaneously in BOTH:
+  1. **`metrics_extractor.py`**: `TICKER_ALIASES`
+  2. **`static/js/dashboard.js`**: `TICKER_CANONICAL_MAP`
+- **Zero Duplicate UI Guarantee (保證介面 0 重複項目)**:
+  Ensure `loadCompaniesList()` in `dashboard.js` and `get_companies()` in `app.py` resolve all aliases to unique canonical tickers, preventing duplicate company options in `#companySelect` and `#compareCheckboxGrid`.
+
+---
+
+## ⚡ 5. Mobile Anti-Cache & Data Loss Prevention (防快取與打包防覆蓋機制)
+
+- **Anti-Cache Meta Headers**:
+  `templates/index.html` must retain anti-cache headers (`Cache-Control: no-cache, no-store, must-revalidate`, `Pragma: no-cache`, `Expires: 0`) to prevent mobile browsers from caching outdated HTML.
+- **Empty Object Overwrite Guard**:
+  `export_standalone.py` `build_metrics_db()` must never overwrite a valid benchmark dictionary with an empty `{}` dictionary from missing or corrupted JSON files.
+
 

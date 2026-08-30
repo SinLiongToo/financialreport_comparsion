@@ -202,29 +202,33 @@ Whenever adding or updating any company, execute the following 7 steps without o
 
 ### Step 5: Update Backend & Frontend Codebase
 1. **`metrics_extractor.py`**:
-   - Add aliases to `TICKER_ALIASES`.
+   - Add all ticker variations, exchange codes, and long-form corporate names to `TICKER_ALIASES` (e.g. `advanced-micro-devices` -> `amd`, `taiwan-semiconductor-manufacturing` -> `tsmc`).
    - Add company dictionary to `BUILTIN_BENCHMARKS`.
    - Add company dictionary to `BUILTIN_BENCHMARKS_QUARTERLY`.
 2. **`static/js/dashboard.js`**:
    - Add dedicated color to `COMPANY_COLORS`.
    - Add country metadata to `COMPANY_COUNTRIES`.
-   - Add alias to `TICKER_CANONICAL_MAP`.
+   - Add all aliases to `TICKER_CANONICAL_MAP` (strictly synchronized with Python `TICKER_ALIASES` to prevent duplicate UI items).
    - Add ticker to `setupTargetInputQuickSwitcher`.
    - Add ticker to `orderedPriority` and `friendlyNames`.
 3. **`templates/index.html`**:
    - Add option to `<select id="companySelect">`.
+   - Ensure anti-cache meta headers remain active in `<head>`.
 4. **`app.py`**:
    - Add ticker to `ordered_priority` in `get_companies()`.
 5. **`export_standalone.py`**:
    - Add ticker to synthetic overview list in `build_markdown_db()`.
+   - Ensure `build_metrics_db()` enforces non-empty data validation.
 
 ### Step 6: Automated Sanity & Validation Audit
-Run the automated verification script:
+Run the automated verification script across all benchmarks:
 ```bash
 python .agents/skills/financial-report-multiformat-analyzer/scripts/validate_company.py <ticker>
+python .agents/skills/financial-report-multiformat-analyzer/scripts/validate_company.py all
 ```
 Ensure it returns: `✅ PASSED: All metrics, Chart 6 structures, and aliases are valid`.
 
 ### Step 7: Compile Standalone Dashboard & Commit
 1. Run `python export_standalone.py` to recompile `docs/index.html` and `standalone_dashboard.html`.
-2. Update `README.md` (Change Log and Git History).
+2. Update version badge and timestamp in `templates/index.html` and `dashboard.js`.
+3. Update `README.md` (Change Log and Git History).

@@ -126,12 +126,55 @@ def validate_company(ticker: str):
     return len(errors) == 0
 
 def validate_all():
-    from metrics_extractor import BUILTIN_BENCHMARKS
+    from metrics_extractor import BUILTIN_BENCHMARKS, TICKER_ALIASES, FinancialMetricsExtractor
+    base_dir = get_base_dir()
+    js_path = os.path.join(base_dir, "static", "js", "dashboard.js")
+    with open(js_path, "r", encoding="utf-8") as f:
+        js_code = f.read()
+
+    m_map = re.search(r'const TICKER_CANONICAL_MAP\s*=\s*(\{.*?\});\s*function FinancialMetricsExtractor_canonical_ticker', js_code, re.DOTALL)
+    js_map = {}
+    if m_map:
+        for line in m_map.group(1).splitlines():
+            parts = line.split(':')
+            if len(parts) == 2:
+                k = parts[0].strip().strip('",\'')
+                v = parts[1].strip().strip('",\'')
+                if k and v:
+                    js_map[k.lower()] = v.lower()
+
+    # Check Bi-Directional Alias Sync
+    py_keys = set(k.lower() for k in TICKER_ALIASES.keys())
+    js_keys = set(k.lower() for k in js_map.keys())
+
+    missing_in_js = py_keys - js_keys
+    missing_in_py = js_keys - py_keys
+
+    alias_errors = []
+    if missing_in_js:
+        alias_errors.append(f"Aliases defined in Python TICKER_ALIASES missing in JS TICKER_CANONICAL_MAP: {sorted(missing_in_js)}")
+    if missing_in_py:
+        alias_errors.append(f"Aliases defined in JS TICKER_CANONICAL_MAP missing in Python TICKER_ALIASES: {sorted(missing_in_py)}")
+
     all_passed = True
+    print("\n========================================================")
+    print("🚀 Running Global Portfolio Audit Across All Companies...")
+    print("========================================================")
+
     for ticker in BUILTIN_BENCHMARKS.keys():
         ok = validate_company(ticker)
         if not ok:
             all_passed = False
+
+    if alias_errors:
+        print("\n❌ ALIAS SYNCHRONIZATION ERRORS:")
+        for err in alias_errors:
+            print(f"   - 🔴 {err}")
+        all_passed = False
+    else:
+        print("\n✅ Bi-directional alias synchronization verified (Python <-> JS 100% matched).")
+
+    print("========================================================")
     return all_passed
 
 if __name__ == "__main__":
