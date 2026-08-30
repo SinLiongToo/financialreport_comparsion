@@ -105,7 +105,11 @@ TICKER_SLUGS = {
     "mrk-de": ["merck-kgaa", "mrk-de"],
     "mrk.de": ["merck-kgaa", "mrk-de"],
     "mkgay": ["merck-kgaa", "mrk-de"],
-    "emd": ["merck-kgaa", "mrk-de"]
+    "emd": ["merck-kgaa", "mrk-de"],
+    "ma-tek": ["ma_tek", "ma-tek", "3587", "matek"],
+    "ma_tek": ["ma_tek", "ma-tek", "3587", "matek"],
+    "matek": ["ma_tek", "ma-tek", "3587", "matek"],
+    "3587": ["ma_tek", "ma-tek", "3587", "matek"]
 }
 
 class AnnualReportCrawler:

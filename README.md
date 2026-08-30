@@ -746,6 +746,14 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.3.0 (2026-08-30)**：
+  - **新增亞洲半導體檢測分析實驗室龍頭 閎康科技 (MA-tek / 3587.TWO / 閎康) 審計基準庫與深度戰略分析**：
+    - **5 年期官方年報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收達 NT$ 51.1 億（約 **\$159.7M USD**）、毛利率穩居 **32.89%**（2021~2023 年毛利率高達 35%~37%）、營業利益達 NT$ 7.05 億（約 **\$22.02M USD**），以及全球 1,650 名高素質材料科學研發與檢測工程團隊之高人均產值（人均營收約 **\$96.8k**、人均毛利 **\$31.8k**）。
+    - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：材料分析 (MA ~52%)、故障分析 (FA ~31%) 與可靠度分析 (RA ~17%)。
+    - **次 2 奈米 GAA 與先進封裝護城河 (The Pivot)**：深度量化台積電、Intel、三星次 2 奈米 GAA 環繞閘極與 3D 先進封裝 (CoWoS/SoIC) 研發潮，推動原子級穿透式電子顯微鏡 (TEM) 與雙束聚焦離子束 (Dual-beam FIB) 檢測需求，並佈局台灣、日本（熊本/名古屋）與中國實驗室網絡構築強大運營槓桿。
+    - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.3.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
+
 - **v2.2.1 (2026-08-30)**：
   - **修復多公司別名重複問題 (Company Deduplication & Canonical Aliases Consolidation)**：
     - 完整補齊 `TICKER_CANONICAL_MAP` 與 `TICKER_ALIASES` 雙向映射：
@@ -852,6 +860,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.3.0 - feat: integrate Asia leading semiconductor lab MA-tek (3587.TWO) 5-year audited financial reports, MA/FA/RA breakdown, and quarterly analytics
 * commit v2.2.1 - fix: resolve duplicate company entries (AMD vs ADVANCED-MICRO-DEVICES, TSMC vs TAIWAN-SEMICONDUCTOR-MANUFACTURING, MEDIATEK vs MEDIATEK-INC)
 * commit v2.2.0 - feat: integrate Germany Merck KGaA (MRK.DE) 5-year audited financial reports, semiconductor materials breakdown, and quarterly analytics
 * commit v2.1.0 - feat: integrate Taiwan Wistron (3231.TW) and Pegatron (4938.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics

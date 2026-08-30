@@ -181,10 +181,18 @@ const COMPANY_COLORS = {
     "mrk-de": "#10B981",
     "mrk.de": "#10B981",
     "mkgay": "#10B981",
-    "emd": "#10B981"
+    "emd": "#10B981",
+    "ma-tek": "#0284C7",
+    "ma_tek": "#0284C7",
+    "matek": "#0284C7",
+    "3587": "#0284C7"
 };
 
 const COMPANY_COUNTRIES = {
+    "ma-tek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "ma_tek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "matek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "3587": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "merck-kgaa": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
     "mrk-de": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
     "mrk.de": { en: "Germany 🇩🇪", zh: "德國 🇩🇪", code: "DE" },
@@ -378,7 +386,15 @@ const TICKER_CANONICAL_MAP = {
     "mrk.de": "merck-kgaa",
     "mkgay": "merck-kgaa",
     "emd": "merck-kgaa",
-    "merck-group": "merck-kgaa"
+    "merck-group": "merck-kgaa",
+    "ma-tek": "ma-tek",
+    "ma_tek": "ma-tek",
+    "matek": "ma-tek",
+    "3587": "ma-tek",
+    "3587.tw": "ma-tek",
+    "3587.two": "ma-tek",
+    "materials-analysis-technology": "ma-tek",
+    "materials-analysis-technology-inc": "ma-tek"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -1281,7 +1297,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1314,6 +1330,10 @@ async function loadCompaniesList() {
                 "MRK-DE": "Merck KGaA (MRK.DE / 默克集團)",
                 "MRK.DE": "Merck KGaA (MRK.DE / 默克集團)",
                 "MKGAY": "Merck KGaA (MRK.DE / 默克集團)",
+                "MA-TEK": "MA-tek (3587 / 閎康科技)",
+                "3587": "MA-tek (3587 / 閎康科技)",
+                "MATEK": "MA-tek (3587 / 閎康科技)",
+                "MA_TEK": "MA-tek (3587 / 閎康科技)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",

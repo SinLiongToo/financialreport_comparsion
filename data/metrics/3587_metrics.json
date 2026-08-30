@@ -1,0 +1,310 @@
+{
+  "company_name": "MA-tek (3587.TWO / 閎康科技)",
+  "ticker": "MA-TEK",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 103.81,
+      "cogs": 70.02,
+      "gross_profit": 33.79,
+      "gross_margin": 32.55,
+      "operating_income": 16.89,
+      "operating_margin": 16.27,
+      "net_income": 13.04,
+      "net_margin": 12.56,
+      "rd_expense": 6.63,
+      "rd_pct_rev": 6.39,
+      "headcount": 1120,
+      "rev_per_emp": 92687.5,
+      "gp_per_emp": 30169.6,
+      "op_per_emp": 15080.4,
+      "ni_per_emp": 11642.9,
+      "rd_per_emp": 5919.6,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 120.04,
+      "cogs": 76.97,
+      "gross_profit": 43.07,
+      "gross_margin": 35.88,
+      "operating_income": 23.92,
+      "operating_margin": 19.93,
+      "net_income": 20.92,
+      "net_margin": 17.43,
+      "rd_expense": 8.28,
+      "rd_pct_rev": 6.9,
+      "headcount": 1250,
+      "rev_per_emp": 96032.0,
+      "gp_per_emp": 34456.0,
+      "op_per_emp": 19136.0,
+      "ni_per_emp": 16736.0,
+      "rd_per_emp": 6624.0,
+      "rev_growth_yoy": 15.63,
+      "gp_growth_yoy": 27.46,
+      "op_growth_yoy": 41.62,
+      "ni_growth_yoy": 60.43,
+      "rd_growth_yoy": 24.89,
+      "hc_growth_yoy": 11.61,
+      "gm_diff_pp": 3.33,
+      "op_diff_pp": 3.66
+    },
+    "2022": {
+      "revenue": 133.36,
+      "cogs": 84.14,
+      "gross_profit": 49.22,
+      "gross_margin": 36.91,
+      "operating_income": 24.62,
+      "operating_margin": 18.46,
+      "net_income": 21.05,
+      "net_margin": 15.78,
+      "rd_expense": 9.87,
+      "rd_pct_rev": 7.4,
+      "headcount": 1380,
+      "rev_per_emp": 96637.7,
+      "gp_per_emp": 35666.7,
+      "op_per_emp": 17840.6,
+      "ni_per_emp": 15253.6,
+      "rd_per_emp": 7152.2,
+      "rev_growth_yoy": 11.1,
+      "gp_growth_yoy": 14.28,
+      "op_growth_yoy": 2.93,
+      "ni_growth_yoy": 0.62,
+      "rd_growth_yoy": 19.2,
+      "hc_growth_yoy": 10.4,
+      "gm_diff_pp": 1.03,
+      "op_diff_pp": -1.47
+    },
+    "2023": {
+      "revenue": 154.63,
+      "cogs": 100.06,
+      "gross_profit": 54.57,
+      "gross_margin": 35.29,
+      "operating_income": 25.41,
+      "operating_margin": 16.43,
+      "net_income": 22.06,
+      "net_margin": 14.27,
+      "rd_expense": 11.75,
+      "rd_pct_rev": 7.6,
+      "headcount": 1520,
+      "rev_per_emp": 101730.3,
+      "gp_per_emp": 35901.3,
+      "op_per_emp": 16717.1,
+      "ni_per_emp": 14513.2,
+      "rd_per_emp": 7730.3,
+      "rev_growth_yoy": 15.95,
+      "gp_growth_yoy": 10.87,
+      "op_growth_yoy": 3.21,
+      "ni_growth_yoy": 4.8,
+      "rd_growth_yoy": 19.05,
+      "hc_growth_yoy": 10.14,
+      "gm_diff_pp": -1.62,
+      "op_diff_pp": -2.03
+    },
+    "2024": {
+      "revenue": 159.7,
+      "cogs": 107.17,
+      "gross_profit": 52.53,
+      "gross_margin": 32.89,
+      "operating_income": 22.02,
+      "operating_margin": 13.79,
+      "net_income": 21.5,
+      "net_margin": 13.46,
+      "rd_expense": 12.78,
+      "rd_pct_rev": 8.0,
+      "headcount": 1650,
+      "rev_per_emp": 96787.9,
+      "gp_per_emp": 31836.4,
+      "op_per_emp": 13345.5,
+      "ni_per_emp": 13030.3,
+      "rd_per_emp": 7745.5,
+      "rev_growth_yoy": 3.28,
+      "gp_growth_yoy": -3.74,
+      "op_growth_yoy": -13.34,
+      "ni_growth_yoy": -2.54,
+      "rd_growth_yoy": 8.77,
+      "hc_growth_yoy": 8.55,
+      "gm_diff_pp": -2.4,
+      "op_diff_pp": -2.64
+    },
+    "2025": {
+      "revenue": 173.29,
+      "cogs": 123.88,
+      "gross_profit": 49.41,
+      "gross_margin": 28.51,
+      "operating_income": 17.38,
+      "operating_margin": 10.03,
+      "net_income": 12.72,
+      "net_margin": 7.34,
+      "rd_expense": 13.86,
+      "rd_pct_rev": 8.0,
+      "headcount": 1720,
+      "rev_per_emp": 100750.0,
+      "gp_per_emp": 28726.7,
+      "op_per_emp": 10104.7,
+      "ni_per_emp": 7395.3,
+      "rd_per_emp": 8058.1,
+      "rev_growth_yoy": 8.51,
+      "gp_growth_yoy": -5.94,
+      "op_growth_yoy": -21.07,
+      "ni_growth_yoy": -40.84,
+      "rd_growth_yoy": 8.45,
+      "hc_growth_yoy": 4.24,
+      "gm_diff_pp": -4.38,
+      "op_diff_pp": -3.76
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "MA 材料分析 (Materials Analysis - TEM/SEM/FIB sub-nm Crystal & GAA/Backside Power)",
+      "FA 故障分析 (Failure Analysis - EMMI/OBIRCH/Delayering & Defect Localization)",
+      "RA 可靠度分析 (Reliability Analysis - Automotive AEC-Q100/HAST/Thermal Shock/Burn-in)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          51.9,
+          33.2,
+          18.7
+        ],
+        "volume": [
+          50,
+          32,
+          18
+        ]
+      },
+      "2021": {
+        "value": [
+          60.0,
+          38.4,
+          21.6
+        ],
+        "volume": [
+          50,
+          32,
+          18
+        ]
+      },
+      "2022": {
+        "value": [
+          68.0,
+          42.7,
+          22.7
+        ],
+        "volume": [
+          51,
+          32,
+          17
+        ]
+      },
+      "2023": {
+        "value": [
+          78.9,
+          49.5,
+          26.2
+        ],
+        "volume": [
+          51,
+          32,
+          17
+        ]
+      },
+      "2024": {
+        "value": [
+          83.0,
+          49.5,
+          27.2
+        ],
+        "volume": [
+          52,
+          31,
+          17
+        ]
+      },
+      "2025": {
+        "value": [
+          91.8,
+          52.0,
+          29.5
+        ],
+        "volume": [
+          53,
+          30,
+          17
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "MA-tek (閎康科技) stands as Asia’s foremost independent semiconductor laboratory and analytical testing powerhouse. Driven by TSMC, Intel, and Samsung sub-2nm GAA nanosheet transitions and 3D advanced packaging (CoWoS/SoIC), demand for ultra-high-resolution transmission electron microscopy (TEM) and atomic-scale Material Analysis (MA) has anchored gross margins above 32%-37%. Global footprint expansion across Taiwan (Hsinchu/Tainan), Japan (Kumamoto/Nagoya), and China provides strong geographic operating leverage.",
+      "zh": "閎康科技（MA-tek）為亞洲獨立半導體檢測分析實驗室龍頭。受惠於台積電、Intel 與三星次 2 奈米 GAA 環繞閘極奈米片製程演進及 3D 先進封裝（CoWoS/SoIC）研發潮，超高解析度穿透式電子顯微鏡（TEM）與原子級材料分析（MA）需求強勁，帶動毛利率長年穩居 32%～37% 之高附加價值區間。佈局台灣（竹科/南科）、日本（熊本/名古屋）與中國實驗室網絡，構築強大地域運營槓桿。"
+    },
+    "productivity": {
+      "en": "Revenue per employee reached $96.8k-$100k+ with Gross Profit per FTE exceeding $32k, supported by a dense workforce of elite PhD/Master material scientists and high-precision analytical equipment (TEM, Dual-beam FIB, SIMS, XPS).",
+      "zh": "每位員工平均營收約 9.7 萬至 10 萬美元以上，人均毛利達 3.2 萬美元，由高階碩博士材料科學家與昂貴尖端檢測儀器（TEM、雙束 FIB、二次離子質譜 SIMS、XPS）共同創造高知識密集型產值。"
+    },
+    "value_vs_volume": {
+      "en": "Despite heavy depreciation from new overseas laboratories in Japan (Kumamoto 1 & 2, Nagoya) in 2024-2025, surging global automotive chip verification (AEC-Q100) and AI accelerator high-power reliability testing (RA) provide an enduring structural growth runway.",
+      "zh": "儘管 2024～2025 年受日本熊本一二廠及名古屋新實驗室折舊初期費用影響，車用晶片驗證（AEC-Q100）與 AI 加速晶片高瓦數可靠度測試（RA）的爆發性成長，為長期營運提供結構性推進動能。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Atomic-Scale Sub-nm Material Characterization & Automated Lab Telemetry)",
+    "description": "Advanced ISO 17025 / IECQ AQP accredited analytical laboratory with automated sample preparation, AI image defect recognition, and closed-loop fab yield feedback.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Baseline Manual Sample Cleaving & Visual Inspection",
+        "desc": "Manual cross-section polishing and basic optical microscopy."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Site Analytical Laboratory Footprint",
+        "desc": "Standardized TEM/SEM/FIB testing across Hsinchu, Tainan, and Shanghai."
+      },
+      {
+        "level": 3,
+        "name": "Automated Dual-Beam FIB Sample Prep & High-Throughput TEM",
+        "desc": "Automated lamella preparation, sub-angstrom TEM imaging, and cleanroom ISO 17025 compliance."
+      },
+      {
+        "level": 4,
+        "name": "Predictive GAA Nano-Defect AI Localization & Cross-Border Lab Network",
+        "desc": "Real-time Kumamoto/Taiwan lab data telemetry, 3D atomic tomography, and fast-turnaround fab co-development."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Material Metrology",
+        "desc": "AI-driven automated defect identification, in-situ nanomechanical stress analysis, and predictive fab process yield optimization."
+      }
+    ]
+  }
+}
