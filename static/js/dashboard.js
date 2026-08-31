@@ -319,10 +319,9 @@ const COMPANY_SECTORS = {
     "2303": "FOUNDRY",
     "samsung": "FOUNDRY",
     "infineon": "FOUNDRY",
-    "nxp": "FOUNDRY",
     "vsh": "FOUNDRY",
 
-    // IC設計 / Fabless / IP / 運算晶片
+    // IC設計 / Fabless / IP / 運算晶片 / 車用晶片
     "nvda": "FABLESS",
     "amd": "FABLESS",
     "mediatek": "FABLESS",
@@ -330,6 +329,9 @@ const COMPANY_SECTORS = {
     "avgo": "FABLESS",
     "broadcom": "FABLESS",
     "arm": "FABLESS",
+    "nxp": "FABLESS",
+    "nxpi": "FABLESS",
+    "nxp-semiconductors": "FABLESS",
     "mu": "FABLESS",
     "aapl": "FABLESS",
 

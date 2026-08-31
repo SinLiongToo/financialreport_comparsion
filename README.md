@@ -751,8 +751,8 @@ python main.py --export-static
     - **國家與地區過濾 (Country Region Filter)**：支援 `全部地區 (All)`、`🇹🇼 台灣 (TW)`、`🇺🇸 美國 (US)`、`🇳🇱 荷蘭 (NL)`、`🇩🇪 德國 (DE)`、`🇯🇵 日本 (JP)`、`🇰🇷 南韓 (KR)`、`🇬🇧 英國 (UK)`，可一鍵快速切換地區性企業聚落。
     - **產業鏈類別過濾 (Industry Sector Filter)**：針對全球 34 家企業進行產業鏈分級，精確劃分為 6 大板塊：
       1. `💻 系統組裝 / ODM (System)`：ASUS、Quanta、Wistron、Pegatron、Foxconn、Delta、TTM
-      2. `⚡ 晶圓製造 / IDM (Foundry)`：TSMC、UMC、Samsung、Infineon、NXP、Vishay
-      3. `🧠 IC設計 / Fabless (Chips)`：NVIDIA、AMD、MediaTek、Broadcom、ARM、Micron、Apple
+      2. `⚡ 晶圓製造 / IDM (Foundry)`：TSMC、UMC、Samsung、Infineon、Vishay
+      3. `🧠 IC設計 / Fabless (Chips)`：NVIDIA、AMD、MediaTek、Broadcom、ARM、NXP、Micron、Apple
       4. `🔬 半導體製造設備 / 材料 (Fab Tools)`：ASML、Applied Materials、Lam Research、KLA、Merck KGaA
       5. `🧪 半導體測試 / 封測 / 分析 (Testing/OSAT)`：Advantest (愛德萬測試)、Teradyne (泰瑞達)、ASE (日月光)、MA-tek (閎康科技)
       6. `☁️ 雲端軟體 / AI (Hyperscalers)`：Google、Microsoft、Meta、Amazon、Palantir
