@@ -192,7 +192,16 @@ const COMPANY_COLORS = {
     "lrcx": "#0284C7",
     "lam-research": "#0284C7",
     "lam-research-corp": "#0284C7",
-    "lam-research-corporation": "#0284C7"
+    "lam-research-corporation": "#0284C7",
+    "txn": "#CC0000",
+    "ti": "#CC0000",
+    "texas-instruments": "#CC0000",
+    "swks": "#2563EB",
+    "skyworks": "#2563EB",
+    "skyworks-solutions": "#2563EB",
+    "a": "#00857C",
+    "agilent": "#00857C",
+    "agilent-technologies": "#00857C",
 };
 
 const COMPANY_COUNTRIES = {
@@ -293,7 +302,19 @@ const COMPANY_COUNTRIES = {
     "advantest": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
     "6857": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
     "samsung": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" },
-    "005930": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" }
+    "005930": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" },
+    "txn": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ti": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "texas-instruments": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "texas-instruments-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "swks": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "skyworks": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "skyworks-solutions": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "skyworks-solutions-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "a": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "agilent": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "agilent-technologies": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "agilent-technologies-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
 };
 
 const COMPANY_SECTORS = {
@@ -320,6 +341,9 @@ const COMPANY_SECTORS = {
     "samsung": "FOUNDRY",
     "infineon": "FOUNDRY",
     "vsh": "FOUNDRY",
+    "txn": "FOUNDRY",
+    "ti": "FOUNDRY",
+    "texas-instruments": "FOUNDRY",
 
     // IC設計 / Fabless / IP / 運算晶片 / 車用晶片
     "nvda": "FABLESS",
@@ -334,6 +358,9 @@ const COMPANY_SECTORS = {
     "nxp-semiconductors": "FABLESS",
     "mu": "FABLESS",
     "aapl": "FABLESS",
+    "swks": "FABLESS",
+    "skyworks": "FABLESS",
+    "skyworks-solutions": "FABLESS",
 
     // 半導體製造設備 / 材料 (Wafer Fab Equipment & Materials)
     "asml": "EQUIPMENT",
@@ -364,6 +391,9 @@ const COMPANY_SECTORS = {
     "3587": "TESTING",
     "matek": "TESTING",
     "ma_tek": "TESTING",
+    "a": "TESTING",
+    "agilent": "TESTING",
+    "agilent-technologies": "TESTING",
 
     // 雲端 / AI 平台與軟體 (Hyperscalers & Enterprise Software)
     "googl": "HYPERSCALE",
@@ -549,7 +579,19 @@ const TICKER_CANONICAL_MAP = {
     "lrcx": "lrcx",
     "lam-research": "lrcx",
     "lam-research-corp": "lrcx",
-    "lam-research-corporation": "lrcx"
+    "lam-research-corporation": "lrcx",
+    "txn": "txn",
+    "ti": "txn",
+    "texas-instruments": "txn",
+    "texas-instruments-inc": "txn",
+    "swks": "swks",
+    "skyworks": "swks",
+    "skyworks-solutions": "swks",
+    "skyworks-solutions-inc": "swks",
+    "a": "agilent",
+    "agilent": "agilent",
+    "agilent-technologies": "agilent",
+    "agilent-technologies-inc": "agilent"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -1555,7 +1597,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1598,6 +1640,14 @@ async function loadCompaniesList() {
                 "LRCX": "Lam Research (LRCX / 科林研發)",
                 "LAM-RESEARCH": "Lam Research (LRCX / 科林研發)",
                 "LAM-RESEARCH-CORP": "Lam Research (LRCX / 科林研發)",
+                "TXN": "Texas Instruments (TXN / 德州儀器)",
+                "TI": "Texas Instruments (TXN / 德州儀器)",
+                "TEXAS-INSTRUMENTS": "Texas Instruments (TXN / 德州儀器)",
+                "SWKS": "Skyworks Solutions (SWKS / 希佳訊)",
+                "SKYWORKS": "Skyworks Solutions (SWKS / 希佳訊)",
+                "AGILENT": "Agilent Technologies (A / 安捷倫科技)",
+                "A": "Agilent Technologies (A / 安捷倫科技)",
+
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",

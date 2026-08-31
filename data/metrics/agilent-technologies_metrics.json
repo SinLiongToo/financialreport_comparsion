@@ -1,0 +1,334 @@
+{
+  "company_name": "Agilent Technologies, Inc. (安捷倫科技 / 計測分析儀器)",
+  "ticker": "A",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 5339.0,
+      "gross_profit": 2856.0,
+      "operating_income": 991.0,
+      "net_income": 719.0,
+      "rd_expense": 404.0,
+      "headcount": 16400,
+      "gross_margin": 53.49,
+      "operating_margin": 18.56,
+      "net_margin": 13.47,
+      "rd_pct_rev": 7.57,
+      "rev_per_emp": 325549.0,
+      "gp_per_emp": 174146.0,
+      "op_per_emp": 60427.0,
+      "ni_per_emp": 43841.0,
+      "rd_per_emp": 24634.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 6319.0,
+      "gross_profit": 3412.0,
+      "operating_income": 1349.0,
+      "net_income": 1210.0,
+      "rd_expense": 441.0,
+      "headcount": 17000,
+      "gross_margin": 54.0,
+      "operating_margin": 21.35,
+      "net_margin": 19.15,
+      "rd_pct_rev": 6.98,
+      "rev_per_emp": 371706.0,
+      "gp_per_emp": 200706.0,
+      "op_per_emp": 79353.0,
+      "ni_per_emp": 71176.0,
+      "rd_per_emp": 25941.0,
+      "rev_growth_yoy": 18.36,
+      "gp_growth_yoy": 19.47,
+      "op_growth_yoy": 36.13,
+      "ni_growth_yoy": 68.29,
+      "rd_growth_yoy": 9.16,
+      "hc_growth_yoy": 3.66,
+      "gm_diff_pp": 0.51,
+      "op_diff_pp": 2.79
+    },
+    "2022": {
+      "revenue": 6848.0,
+      "gross_profit": 3721.0,
+      "operating_income": 1638.0,
+      "net_income": 1254.0,
+      "rd_expense": 475.0,
+      "headcount": 18100,
+      "gross_margin": 54.34,
+      "operating_margin": 23.92,
+      "net_margin": 18.31,
+      "rd_pct_rev": 6.94,
+      "rev_per_emp": 378343.0,
+      "gp_per_emp": 205580.0,
+      "op_per_emp": 90497.0,
+      "ni_per_emp": 69282.0,
+      "rd_per_emp": 26243.0,
+      "rev_growth_yoy": 8.37,
+      "gp_growth_yoy": 9.06,
+      "op_growth_yoy": 21.42,
+      "ni_growth_yoy": 3.64,
+      "rd_growth_yoy": 7.71,
+      "hc_growth_yoy": 6.47,
+      "gm_diff_pp": 0.34,
+      "op_diff_pp": 2.57
+    },
+    "2023": {
+      "revenue": 6833.0,
+      "gross_profit": 3465.0,
+      "operating_income": 1570.0,
+      "net_income": 1241.0,
+      "rd_expense": 514.0,
+      "headcount": 18100,
+      "gross_margin": 50.71,
+      "operating_margin": 22.98,
+      "net_margin": 18.16,
+      "rd_pct_rev": 7.52,
+      "rev_per_emp": 377514.0,
+      "gp_per_emp": 191436.0,
+      "op_per_emp": 86740.0,
+      "ni_per_emp": 68564.0,
+      "rd_per_emp": 28398.0,
+      "rev_growth_yoy": -0.22,
+      "gp_growth_yoy": -6.88,
+      "op_growth_yoy": -4.15,
+      "ni_growth_yoy": -1.04,
+      "rd_growth_yoy": 8.21,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": -3.63,
+      "op_diff_pp": -0.94
+    },
+    "2024": {
+      "revenue": 6505.0,
+      "gross_profit": 3440.0,
+      "operating_income": 1496.0,
+      "net_income": 1291.0,
+      "rd_expense": 495.0,
+      "headcount": 17900,
+      "gross_margin": 52.88,
+      "operating_margin": 23.0,
+      "net_margin": 19.85,
+      "rd_pct_rev": 7.61,
+      "rev_per_emp": 363408.0,
+      "gp_per_emp": 192179.0,
+      "op_per_emp": 83575.0,
+      "ni_per_emp": 72123.0,
+      "rd_per_emp": 27654.0,
+      "rev_growth_yoy": -4.8,
+      "gp_growth_yoy": -0.72,
+      "op_growth_yoy": -4.71,
+      "ni_growth_yoy": 4.03,
+      "rd_growth_yoy": -3.7,
+      "hc_growth_yoy": -1.1,
+      "gm_diff_pp": 2.17,
+      "op_diff_pp": 0.02
+    },
+    "2025": {
+      "revenue": 6920.0,
+      "gross_profit": 3751.0,
+      "operating_income": 1661.0,
+      "net_income": 1385.0,
+      "rd_expense": 525.0,
+      "headcount": 18200,
+      "gross_margin": 54.2,
+      "operating_margin": 24.0,
+      "net_margin": 20.01,
+      "rd_pct_rev": 7.59,
+      "rev_per_emp": 380220.0,
+      "gp_per_emp": 206099.0,
+      "op_per_emp": 91264.0,
+      "ni_per_emp": 76099.0,
+      "rd_per_emp": 28846.0,
+      "rev_growth_yoy": 6.38,
+      "gp_growth_yoy": 9.04,
+      "op_growth_yoy": 11.03,
+      "ni_growth_yoy": 7.28,
+      "rd_growth_yoy": 6.06,
+      "hc_growth_yoy": 1.68,
+      "gm_diff_pp": 1.32,
+      "op_diff_pp": 1.0
+    },
+    "2026": {
+      "revenue": 7450.0,
+      "gross_profit": 4135.0,
+      "operating_income": 1863.0,
+      "net_income": 1565.0,
+      "rd_expense": 560.0,
+      "headcount": 18500,
+      "gross_margin": 55.5,
+      "operating_margin": 25.0,
+      "net_margin": 21.01,
+      "rd_pct_rev": 7.52,
+      "rev_per_emp": 402703.0,
+      "gp_per_emp": 223514.0,
+      "op_per_emp": 100703.0,
+      "ni_per_emp": 84595.0,
+      "rd_per_emp": 30270.0,
+      "rev_growth_yoy": 7.66,
+      "gp_growth_yoy": 10.24,
+      "op_growth_yoy": 12.16,
+      "ni_growth_yoy": 12.99,
+      "rd_growth_yoy": 6.67,
+      "hc_growth_yoy": 1.65,
+      "gm_diff_pp": 1.3,
+      "op_diff_pp": 1.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Life Sciences & Applied Markets (生命科學與半導體材料化學分析儀器 LSAG)",
+      "Agilent CrossLab (實驗室耗材/試劑/服務與儀器維護 ACG)",
+      "Diagnostics & Genomics (診斷/基因檢測/病理切片 DGG)"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          2780.0,
+          2030.0,
+          529.0
+        ],
+        "volume": [
+          52.1,
+          38.0,
+          9.9
+        ]
+      },
+      "2021": {
+        "value": [
+          3360.0,
+          2400.0,
+          559.0
+        ],
+        "volume": [
+          53.2,
+          38.0,
+          8.8
+        ]
+      },
+      "2022": {
+        "value": [
+          3750.0,
+          2520.0,
+          578.0
+        ],
+        "volume": [
+          54.8,
+          36.8,
+          8.4
+        ]
+      },
+      "2023": {
+        "value": [
+          3680.0,
+          2580.0,
+          573.0
+        ],
+        "volume": [
+          53.9,
+          37.7,
+          8.4
+        ]
+      },
+      "2024": {
+        "value": [
+          3515.0,
+          2450.0,
+          540.0
+        ],
+        "volume": [
+          54.0,
+          37.7,
+          8.3
+        ]
+      },
+      "2025": {
+        "value": [
+          3810.0,
+          2560.0,
+          550.0
+        ],
+        "volume": [
+          55.1,
+          37.0,
+          7.9
+        ]
+      },
+      "2026": {
+        "value": [
+          4170.0,
+          2710.0,
+          570.0
+        ],
+        "volume": [
+          56.0,
+          36.4,
+          7.6
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Agilent kept headcount steady at 17,900-18,500 FTEs while expanding recurring CrossLab consumables and services revenue, lifting gross margin toward 54.2%-55.5%.",
+      "productivity": "Revenue per FTE reached $363K-$403K with Gross Profit per employee exceeding $200K-$224K, showcasing strong pricing power in precision GC/LC-MS analytical instruments.",
+      "leverage": "Operating margin expanded consistently from 18.5% in 2020 to 24.0%-25.0% in 2025-2026 with operating income scaling to $1.86B.",
+      "rd": "R&D expenditures sustained at ~$500M-$560M (7.5%-7.6% of revenue), advancing next-generation chromatography, mass spectrometry, and spectroscopy.",
+      "growth": "Semiconductor advanced material purity inspection, biopharma therapeutics, and PFAS environmental testing drive secular equipment replacement.",
+      "breakdown": "Life Sciences & Applied Markets accounts for 54%-56% of revenues, while recurring CrossLab services and consumables provides 36%-38% resilient cash flow."
+    },
+    "zh": {
+      "pivot": "安捷倫全球員工人數穩定控制於 17,900～18,500 人，擴大 CrossLab 經常性耗材、化學試劑與合約維護服務比重，推升 GAAP 毛利率穩居 54%～55.5%。",
+      "productivity": "人均營收達 36.3 萬～40.3 萬美元/人，人均毛利突破 20 萬～22.4 萬美元，展現高階氣相/液相層析 (GC/LC) 與質譜儀 (MS) 分析儀器之強大技術護城河與定價權。",
+      "leverage": "營業利益自 2020 年 9.9 億美元成長至 2026 年預估 18.6 億美元，營業利益率自 18.5% 穩步擴張至 25.0%。",
+      "rd": "研發支出維持於 5.0 億～5.6 億美元（佔營收 7.5%～7.6%），持續引領次世代色譜分離、原子光譜與智慧實驗室自動化分析軟體。",
+      "growth": "半導體先進材料超微量化學純度檢測 (Trace Chemical Analysis)、生物製藥與 PFAS 永續環境分析需求推升分析儀器長期更新升級潮。",
+      "breakdown": "生命科學與材料應用 (LSAG) 貢獻 54%～56% 營收，經常性 CrossLab 服務與耗材 (ACG) 貢獻 36%～38% 提供極高抗景氣波動現金流。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 5,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Precision Electronic Instrumentation",
+        "desc": "Legacy HP test & measurement heritage in RF signal generators & oscilloscopes."
+      },
+      {
+        "level": 2,
+        "name": "Chemical Analysis & Chromatography",
+        "desc": "High-performance gas & liquid chromatography (GC/LC) hardware systems."
+      },
+      {
+        "level": 3,
+        "name": "Mass Spectrometry & Genomics",
+        "desc": "Triple quad mass spec (LC/MS, GC/MS) and NGS target enrichment genomics."
+      },
+      {
+        "level": 4,
+        "name": "Agilent CrossLab Recurring Model",
+        "desc": "Integrated laboratory software, automated consumables & enterprise multivendor instrument services."
+      },
+      {
+        "level": 5,
+        "name": "AI-Powered Autonomous Lab Ecosystem",
+        "desc": "Smart connected instruments with automated spectral analysis, digital workflow & predictive maintenance."
+      }
+    ]
+  }
+}

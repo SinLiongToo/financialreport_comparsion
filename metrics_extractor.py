@@ -136,9 +136,1343 @@ TICKER_ALIASES = {
     "lam-research": "lrcx",
     "lam-research-corp": "lrcx",
     "lam-research-corporation": "lrcx",
+    "txn": "txn",
+    "ti": "txn",
+    "texas-instruments": "txn",
+    "texas-instruments-inc": "txn",
+    "texas-instruments-incorporated": "txn",
+    "swks": "swks",
+    "skyworks": "swks",
+    "skyworks-solutions": "swks",
+    "skyworks-solutions-inc": "swks",
+    "a": "agilent",
+    "agilent": "agilent",
+    "agilent-technologies": "agilent",
+    "agilent-technologies-inc": "agilent",
 }
 
 BUILTIN_BENCHMARKS = {
+    "txn": {
+        "company_name": "Texas Instruments Incorporated (德州儀器)",
+        "ticker": "TXN",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "annual",
+        "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024,
+                2025,
+                2026
+        ],
+        "financials": {
+                "2020": {
+                        "revenue": 14461.0,
+                        "gross_profit": 9273.0,
+                        "operating_income": 5707.0,
+                        "net_income": 5595.0,
+                        "rd_expense": 1530.0,
+                        "headcount": 30000,
+                        "gross_margin": 64.12,
+                        "operating_margin": 39.46,
+                        "net_margin": 38.69,
+                        "rd_pct_rev": 10.58,
+                        "rev_per_emp": 482033.0,
+                        "gp_per_emp": 309100.0,
+                        "op_per_emp": 190233.0,
+                        "ni_per_emp": 186500.0,
+                        "rd_per_emp": 51000.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2021": {
+                        "revenue": 18344.0,
+                        "gross_profit": 12377.0,
+                        "operating_income": 8995.0,
+                        "net_income": 7769.0,
+                        "rd_expense": 1554.0,
+                        "headcount": 31000,
+                        "gross_margin": 67.47,
+                        "operating_margin": 49.04,
+                        "net_margin": 42.35,
+                        "rd_pct_rev": 8.47,
+                        "rev_per_emp": 591742.0,
+                        "gp_per_emp": 399258.0,
+                        "op_per_emp": 290161.0,
+                        "ni_per_emp": 250613.0,
+                        "rd_per_emp": 50129.0,
+                        "rev_growth_yoy": 26.85,
+                        "gp_growth_yoy": 33.47,
+                        "op_growth_yoy": 57.61,
+                        "ni_growth_yoy": 38.86,
+                        "rd_growth_yoy": 1.57,
+                        "hc_growth_yoy": 3.33,
+                        "gm_diff_pp": 3.35,
+                        "op_diff_pp": 9.58
+                },
+                "2022": {
+                        "revenue": 20028.0,
+                        "gross_profit": 13779.0,
+                        "operating_income": 10217.0,
+                        "net_income": 8749.0,
+                        "rd_expense": 1650.0,
+                        "headcount": 33000,
+                        "gross_margin": 68.8,
+                        "operating_margin": 51.01,
+                        "net_margin": 43.68,
+                        "rd_pct_rev": 8.24,
+                        "rev_per_emp": 606909.0,
+                        "gp_per_emp": 417545.0,
+                        "op_per_emp": 309606.0,
+                        "ni_per_emp": 265121.0,
+                        "rd_per_emp": 50000.0,
+                        "rev_growth_yoy": 9.18,
+                        "gp_growth_yoy": 11.33,
+                        "op_growth_yoy": 13.59,
+                        "ni_growth_yoy": 12.61,
+                        "rd_growth_yoy": 6.18,
+                        "hc_growth_yoy": 6.45,
+                        "gm_diff_pp": 1.33,
+                        "op_diff_pp": 1.97
+                },
+                "2023": {
+                        "revenue": 17519.0,
+                        "gross_profit": 11019.0,
+                        "operating_income": 7258.0,
+                        "net_income": 6510.0,
+                        "rd_expense": 1863.0,
+                        "headcount": 34000,
+                        "gross_margin": 62.9,
+                        "operating_margin": 41.43,
+                        "net_margin": 37.16,
+                        "rd_pct_rev": 10.63,
+                        "rev_per_emp": 515265.0,
+                        "gp_per_emp": 324088.0,
+                        "op_per_emp": 213471.0,
+                        "ni_per_emp": 191471.0,
+                        "rd_per_emp": 54794.0,
+                        "rev_growth_yoy": -12.53,
+                        "gp_growth_yoy": -20.03,
+                        "op_growth_yoy": -28.96,
+                        "ni_growth_yoy": -25.59,
+                        "rd_growth_yoy": 12.91,
+                        "hc_growth_yoy": 3.03,
+                        "gm_diff_pp": -5.9,
+                        "op_diff_pp": -9.58
+                },
+                "2024": {
+                        "revenue": 15640.0,
+                        "gross_profit": 9282.0,
+                        "operating_income": 5431.0,
+                        "net_income": 4812.0,
+                        "rd_expense": 1920.0,
+                        "headcount": 34000,
+                        "gross_margin": 59.35,
+                        "operating_margin": 34.72,
+                        "net_margin": 30.77,
+                        "rd_pct_rev": 12.28,
+                        "rev_per_emp": 460000.0,
+                        "gp_per_emp": 273000.0,
+                        "op_per_emp": 159735.0,
+                        "ni_per_emp": 141529.0,
+                        "rd_per_emp": 56471.0,
+                        "rev_growth_yoy": -10.73,
+                        "gp_growth_yoy": -15.76,
+                        "op_growth_yoy": -25.17,
+                        "ni_growth_yoy": -26.08,
+                        "rd_growth_yoy": 3.06,
+                        "hc_growth_yoy": 0.0,
+                        "gm_diff_pp": -3.55,
+                        "op_diff_pp": -6.71
+                },
+                "2025": {
+                        "revenue": 17250.0,
+                        "gross_profit": 10609.0,
+                        "operating_income": 6555.0,
+                        "net_income": 5693.0,
+                        "rd_expense": 2010.0,
+                        "headcount": 34500,
+                        "gross_margin": 61.5,
+                        "operating_margin": 38.0,
+                        "net_margin": 33.0,
+                        "rd_pct_rev": 11.65,
+                        "rev_per_emp": 500000.0,
+                        "gp_per_emp": 307507.0,
+                        "op_per_emp": 190000.0,
+                        "ni_per_emp": 165014.0,
+                        "rd_per_emp": 58261.0,
+                        "rev_growth_yoy": 10.29,
+                        "gp_growth_yoy": 14.3,
+                        "op_growth_yoy": 20.7,
+                        "ni_growth_yoy": 18.31,
+                        "rd_growth_yoy": 4.69,
+                        "hc_growth_yoy": 1.47,
+                        "gm_diff_pp": 2.15,
+                        "op_diff_pp": 3.28
+                },
+                "2026": {
+                        "revenue": 19500.0,
+                        "gross_profit": 12383.0,
+                        "operating_income": 7800.0,
+                        "net_income": 6825.0,
+                        "rd_expense": 2145.0,
+                        "headcount": 35000,
+                        "gross_margin": 63.5,
+                        "operating_margin": 40.0,
+                        "net_margin": 35.0,
+                        "rd_pct_rev": 11.0,
+                        "rev_per_emp": 557143.0,
+                        "gp_per_emp": 353800.0,
+                        "op_per_emp": 222857.0,
+                        "ni_per_emp": 195000.0,
+                        "rd_per_emp": 61286.0,
+                        "rev_growth_yoy": 13.04,
+                        "gp_growth_yoy": 16.72,
+                        "op_growth_yoy": 18.99,
+                        "ni_growth_yoy": 19.88,
+                        "rd_growth_yoy": 6.72,
+                        "hc_growth_yoy": 1.45,
+                        "gm_diff_pp": 2.0,
+                        "op_diff_pp": 2.0
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Analog (類比晶片/電源管理與信號鏈)",
+                        "Embedded Processing (嵌入式處理器/MCU/DSP)",
+                        "Other (DLP/計算器/特種晶片)"
+                ],
+                "data": {
+                        "2020": {
+                                "value": [
+                                        10886.0,
+                                        2575.0,
+                                        1000.0
+                                ],
+                                "volume": [
+                                        75.3,
+                                        17.8,
+                                        6.9
+                                ]
+                        },
+                        "2021": {
+                                "value": [
+                                        14050.0,
+                                        3048.0,
+                                        1246.0
+                                ],
+                                "volume": [
+                                        76.6,
+                                        16.6,
+                                        6.8
+                                ]
+                        },
+                        "2022": {
+                                "value": [
+                                        15362.0,
+                                        3261.0,
+                                        1405.0
+                                ],
+                                "volume": [
+                                        76.7,
+                                        16.3,
+                                        7.0
+                                ]
+                        },
+                        "2023": {
+                                "value": [
+                                        13038.0,
+                                        3037.0,
+                                        1444.0
+                                ],
+                                "volume": [
+                                        74.4,
+                                        17.3,
+                                        8.3
+                                ]
+                        },
+                        "2024": {
+                                "value": [
+                                        11605.0,
+                                        2750.0,
+                                        1285.0
+                                ],
+                                "volume": [
+                                        74.2,
+                                        17.6,
+                                        8.2
+                                ]
+                        },
+                        "2025": {
+                                "value": [
+                                        13050.0,
+                                        2980.0,
+                                        1220.0
+                                ],
+                                "volume": [
+                                        75.7,
+                                        17.3,
+                                        7.0
+                                ]
+                        },
+                        "2026": {
+                                "value": [
+                                        14950.0,
+                                        3350.0,
+                                        1200.0
+                                ],
+                                "volume": [
+                                        76.7,
+                                        17.2,
+                                        6.1
+                                ]
+                        }
+                }
+        },
+        "insights": {
+                "en": {
+                        "pivot": "Texas Instruments maintained 34,000-35,000 disciplined headcount while investing aggressively in internal 300mm wafer fab capacity (Sherman & Lehi), expanding gross margin back above 61-63%.",
+                        "productivity": "Revenue per FTE reached $460K-$557K with Gross Profit per employee at $273K-$354K, demonstrating the massive cost advantage of 300mm internal analog manufacturing.",
+                        "leverage": "Operating income recovered from $5,431M trough toward $7,800M in 2026, delivering high operating margin of 38-40%.",
+                        "rd": "R&D expenditures sustained at $1.9B-$2.1B (11.0%-12.3% of revenue), fueling 80,000+ proprietary analog and embedded products portfolio.",
+                        "growth": "Automotive and Industrial end-market content growth paired with factory automation drives multi-year secular semiconductor recovery.",
+                        "breakdown": "Analog accounts for 74%-77% of total revenue, anchoring global #1 market share in power management and signal chain."
+                },
+                "zh": {
+                        "pivot": "德州儀器全球員工人數維持在 34,000～35,000 人規模，積極自建 12 吋 (300mm) 晶圓廠（Sherman 與 Lehi 廠區），推動毛利率回升至 61%～63.5%。",
+                        "productivity": "人均營收達 46 萬～55.7 萬美元/人，人均毛利達 27.3 萬～35.4 萬美元，凸顯 12 吋類比晶圓自製相較 8 吋廠高達 40% 的結構性成本優勢。",
+                        "leverage": "營業利益自 2024 年低谷 54.3 億美元強勁回升至 2026 年預估 78 億美元，營業利益率維持 38%～40% 之高水準。",
+                        "rd": "研發支出達 19.2 億～21.5 億美元（佔營收 11.0%～12.3%），支撐全球超過 80,000 種料號之龐大產品庫與客戶長期黏著度。",
+                        "growth": "車用電子化（電動車電池管理 BMS、先進駕駛輔助 ADAS）與工業自動化帶動單機類比晶片內含價值 (Content per Car) 持續翻倍。",
+                        "breakdown": "類比晶片事業群貢獻 74%～77% 營收，穩居全球電源管理 (Power) 與信號鏈 (Signal Chain) 第一大霸主地位。"
+                }
+        },
+        "lean_maturity": {
+                "current_level": 5,
+                "levels": [
+                        {
+                                "level": 1,
+                                "name": "Discrete Analog Fab Operations",
+                                "desc": "Standard 150mm/200mm fab lines with external packaging."
+                        },
+                        {
+                                "level": 2,
+                                "name": "Product Portfolio Breadth",
+                                "desc": "Catalog portfolio scaling across 40,000+ SKUs with broad distribution channel."
+                        },
+                        {
+                                "level": 3,
+                                "name": "Internal 300mm Analog Fabs",
+                                "desc": "Pioneered 300mm analog wafer fabs (RFAB, DMOS6) achieving 40% lower die cost."
+                        },
+                        {
+                                "level": 4,
+                                "name": "Sherman & Lehi Mega-Fabs",
+                                "desc": "Multi-site 300mm internal capacity with direct TI.com online enterprise procurement."
+                        },
+                        {
+                                "level": 5,
+                                "name": "Global Analog IDM Autonomy",
+                                "desc": "Fully automated 300mm internal manufacturing with 80,000+ portfolio & highest industrial cash flow."
+                        }
+                ]
+        }
+},
+    "swks": {
+        "company_name": "Skyworks Solutions, Inc. (希佳訊通訊)",
+        "ticker": "SWKS",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "annual",
+        "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024,
+                2025,
+                2026
+        ],
+        "financials": {
+                "2020": {
+                        "revenue": 3356.0,
+                        "gross_profit": 1610.0,
+                        "operating_income": 964.0,
+                        "net_income": 815.0,
+                        "rd_expense": 445.0,
+                        "headcount": 9900,
+                        "gross_margin": 47.97,
+                        "operating_margin": 28.72,
+                        "net_margin": 24.28,
+                        "rd_pct_rev": 13.26,
+                        "rev_per_emp": 338990.0,
+                        "gp_per_emp": 162626.0,
+                        "op_per_emp": 97374.0,
+                        "ni_per_emp": 82323.0,
+                        "rd_per_emp": 44949.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2021": {
+                        "revenue": 5109.0,
+                        "gross_profit": 2489.0,
+                        "operating_income": 1739.0,
+                        "net_income": 1498.0,
+                        "rd_expense": 505.0,
+                        "headcount": 11000,
+                        "gross_margin": 48.72,
+                        "operating_margin": 34.04,
+                        "net_margin": 29.32,
+                        "rd_pct_rev": 9.88,
+                        "rev_per_emp": 464455.0,
+                        "gp_per_emp": 226273.0,
+                        "op_per_emp": 158091.0,
+                        "ni_per_emp": 136182.0,
+                        "rd_per_emp": 45909.0,
+                        "rev_growth_yoy": 52.23,
+                        "gp_growth_yoy": 54.6,
+                        "op_growth_yoy": 80.39,
+                        "ni_growth_yoy": 83.8,
+                        "rd_growth_yoy": 13.48,
+                        "hc_growth_yoy": 11.11,
+                        "gm_diff_pp": 0.75,
+                        "op_diff_pp": 5.32
+                },
+                "2022": {
+                        "revenue": 5486.0,
+                        "gross_profit": 2706.0,
+                        "operating_income": 1889.0,
+                        "net_income": 1275.0,
+                        "rd_expense": 557.0,
+                        "headcount": 11500,
+                        "gross_margin": 49.33,
+                        "operating_margin": 34.43,
+                        "net_margin": 23.24,
+                        "rd_pct_rev": 10.15,
+                        "rev_per_emp": 477043.0,
+                        "gp_per_emp": 235304.0,
+                        "op_per_emp": 164261.0,
+                        "ni_per_emp": 110870.0,
+                        "rd_per_emp": 48435.0,
+                        "rev_growth_yoy": 7.38,
+                        "gp_growth_yoy": 8.72,
+                        "op_growth_yoy": 8.63,
+                        "ni_growth_yoy": -14.89,
+                        "rd_growth_yoy": 10.3,
+                        "hc_growth_yoy": 4.55,
+                        "gm_diff_pp": 0.61,
+                        "op_diff_pp": 0.39
+                },
+                "2023": {
+                        "revenue": 4772.0,
+                        "gross_profit": 2201.0,
+                        "operating_income": 1278.0,
+                        "net_income": 983.0,
+                        "rd_expense": 582.0,
+                        "headcount": 10800,
+                        "gross_margin": 46.12,
+                        "operating_margin": 26.78,
+                        "net_margin": 20.6,
+                        "rd_pct_rev": 12.2,
+                        "rev_per_emp": 441852.0,
+                        "gp_per_emp": 203796.0,
+                        "op_per_emp": 118333.0,
+                        "ni_per_emp": 91019.0,
+                        "rd_per_emp": 53889.0,
+                        "rev_growth_yoy": -13.02,
+                        "gp_growth_yoy": -18.66,
+                        "op_growth_yoy": -32.35,
+                        "ni_growth_yoy": -22.9,
+                        "rd_growth_yoy": 4.49,
+                        "hc_growth_yoy": -6.09,
+                        "gm_diff_pp": -3.21,
+                        "op_diff_pp": -7.65
+                },
+                "2024": {
+                        "revenue": 4179.0,
+                        "gross_profit": 1665.0,
+                        "operating_income": 691.0,
+                        "net_income": 544.0,
+                        "rd_expense": 598.0,
+                        "headcount": 10200,
+                        "gross_margin": 39.84,
+                        "operating_margin": 16.53,
+                        "net_margin": 13.02,
+                        "rd_pct_rev": 14.31,
+                        "rev_per_emp": 409706.0,
+                        "gp_per_emp": 163235.0,
+                        "op_per_emp": 67745.0,
+                        "ni_per_emp": 53333.0,
+                        "rd_per_emp": 58627.0,
+                        "rev_growth_yoy": -12.43,
+                        "gp_growth_yoy": -24.35,
+                        "op_growth_yoy": -45.93,
+                        "ni_growth_yoy": -44.66,
+                        "rd_growth_yoy": 2.75,
+                        "hc_growth_yoy": -5.56,
+                        "gm_diff_pp": -6.28,
+                        "op_diff_pp": -10.25
+                },
+                "2025": {
+                        "revenue": 4580.0,
+                        "gross_profit": 1992.0,
+                        "operating_income": 962.0,
+                        "net_income": 780.0,
+                        "rd_expense": 610.0,
+                        "headcount": 10400,
+                        "gross_margin": 43.5,
+                        "operating_margin": 21.0,
+                        "net_margin": 17.03,
+                        "rd_pct_rev": 13.32,
+                        "rev_per_emp": 440385.0,
+                        "gp_per_emp": 191538.0,
+                        "op_per_emp": 92500.0,
+                        "ni_per_emp": 75000.0,
+                        "rd_per_emp": 58654.0,
+                        "rev_growth_yoy": 9.59,
+                        "gp_growth_yoy": 19.64,
+                        "op_growth_yoy": 39.22,
+                        "ni_growth_yoy": 43.38,
+                        "rd_growth_yoy": 2.01,
+                        "hc_growth_yoy": 1.96,
+                        "gm_diff_pp": 3.66,
+                        "op_diff_pp": 4.47
+                },
+                "2026": {
+                        "revenue": 5100.0,
+                        "gross_profit": 2346.0,
+                        "operating_income": 1224.0,
+                        "net_income": 1020.0,
+                        "rd_expense": 635.0,
+                        "headcount": 10600,
+                        "gross_margin": 46.0,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.0,
+                        "rd_pct_rev": 12.45,
+                        "rev_per_emp": 481132.0,
+                        "gp_per_emp": 221321.0,
+                        "op_per_emp": 115472.0,
+                        "ni_per_emp": 96226.0,
+                        "rd_per_emp": 59906.0,
+                        "rev_growth_yoy": 11.35,
+                        "gp_growth_yoy": 17.77,
+                        "op_growth_yoy": 27.23,
+                        "ni_growth_yoy": 30.77,
+                        "rd_growth_yoy": 4.1,
+                        "hc_growth_yoy": 1.92,
+                        "gm_diff_pp": 2.5,
+                        "op_diff_pp": 3.0
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Mobile & RF Front-End (5G/4G 智慧手機射頻前端模組)",
+                        "Broad Markets (車用/物聯網/WiFi 7/基礎設施)"
+                ],
+                "data": {
+                        "2020": {
+                                "value": [
+                                        2280.0,
+                                        1076.0
+                                ],
+                                "volume": [
+                                        67.9,
+                                        32.1
+                                ]
+                        },
+                        "2021": {
+                                "value": [
+                                        3576.0,
+                                        1533.0
+                                ],
+                                "volume": [
+                                        70.0,
+                                        30.0
+                                ]
+                        },
+                        "2022": {
+                                "value": [
+                                        3566.0,
+                                        1920.0
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2023": {
+                                "value": [
+                                        3054.0,
+                                        1718.0
+                                ],
+                                "volume": [
+                                        64.0,
+                                        36.0
+                                ]
+                        },
+                        "2024": {
+                                "value": [
+                                        2591.0,
+                                        1588.0
+                                ],
+                                "volume": [
+                                        62.0,
+                                        38.0
+                                ]
+                        },
+                        "2025": {
+                                "value": [
+                                        2930.0,
+                                        1650.0
+                                ],
+                                "volume": [
+                                        64.0,
+                                        36.0
+                                ]
+                        },
+                        "2026": {
+                                "value": [
+                                        3366.0,
+                                        1734.0
+                                ],
+                                "volume": [
+                                        66.0,
+                                        34.0
+                                ]
+                        }
+                }
+        },
+        "insights": {
+                "en": {
+                        "pivot": "Skyworks adjusted workforce from 11,500 down to ~10,200-10,600 FTEs while expanding non-mobile Broad Markets mix, rebounding gross margin toward 43.5%-46.0%.",
+                        "productivity": "Revenue per FTE stabilized at $410K-$481K with Gross Profit per employee recovering to $191K-$221K as 5G Advanced and Wi-Fi 7 content ramps up.",
+                        "leverage": "Operating income rebounded from $691M to $1,224M, restoring operating margin toward 24.0%.",
+                        "rd": "R&D expenditures maintained at ~$600M-$635M (12.5%-14.3% of revenue), securing proprietary BAW/SAW filters and Sky5 front-end integration.",
+                        "growth": "Automotive connectivity, satellite IoT, and edge AI device RF complexity provide secular growth beyond mobile smartphone cycles.",
+                        "breakdown": "Mobile RF accounts for 62%-70% of revenue with major OEM flagship integration, while Broad Markets contributes higher margin diversification."
+                },
+                "zh": {
+                        "pivot": "Skyworks 將全球員工人數精實調整至 10,200～10,600 人，擴大高毛利車用與物聯網 (Broad Markets) 比重，推升毛利率自 39.8% 谷底回升至 43.5%～46.0%。",
+                        "productivity": "人均營收達 41 萬～48.1 萬美元/人，人均毛利回升至 19.1 萬～22.1 萬美元，受惠於 5G Advanced、WiFi 7 與車載連網射頻前端模組出貨量擴張。",
+                        "leverage": "營業利益自 2024 年低點 6.9 億美元倍數回升至 2026 年預估 12.2 億美元，營業利益率重返 24.0% 水準。",
+                        "rd": "研發支出維持於 6.0 億～6.35 億美元（佔營收 12.5%～14.3%），鞏固專利體積聲波 (BAW/SAW) 濾波器、功率放大器 (PA) 與 Sky5 高整合模組護城河。",
+                        "growth": "智慧型手機 AI 邊緣處理、車聯網 V2X 與低軌衛星 (LEO Satellite) 物聯網推升射頻架構複雜度與單機 ASP 價值。",
+                        "breakdown": "行動通訊射頻前端佔 62%～70% 營收（主要供應 Apple 等旗艦機），廣泛市場 (Broad Markets) 貢獻 30%～38% 提供優異之風險分散與毛利支撐。"
+                }
+        },
+        "lean_maturity": {
+                "current_level": 4,
+                "levels": [
+                        {
+                                "level": 1,
+                                "name": "Discrete RF Components",
+                                "desc": "Individual power amplifier and switch components."
+                        },
+                        {
+                                "level": 2,
+                                "name": "Sky5 Integrated Modules",
+                                "desc": "Integrated front-end modules (FEM) combining PA, LNA, filter, and switches."
+                        },
+                        {
+                                "level": 3,
+                                "name": "Broad Markets Diversification",
+                                "desc": "Expansion into automotive EV telematics, smart home, and industrial IoT."
+                        },
+                        {
+                                "level": 4,
+                                "name": "5G-Advanced & WiFi 7 System Solutions",
+                                "desc": "Integrated Sky5 advanced modules with custom BAW filters & satellite NTN."
+                        },
+                        {
+                                "level": 5,
+                                "name": "Autonomous Edge Connectivity Platform",
+                                "desc": "Universal AI edge RF architecture with ultra-low latency & autonomous power management."
+                        }
+                ]
+        }
+},
+    "agilent": {
+        "company_name": "Agilent Technologies, Inc. (安捷倫科技 / 計測分析儀器)",
+        "ticker": "A",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "annual",
+        "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024,
+                2025,
+                2026
+        ],
+        "financials": {
+                "2020": {
+                        "revenue": 5339.0,
+                        "gross_profit": 2856.0,
+                        "operating_income": 991.0,
+                        "net_income": 719.0,
+                        "rd_expense": 404.0,
+                        "headcount": 16400,
+                        "gross_margin": 53.49,
+                        "operating_margin": 18.56,
+                        "net_margin": 13.47,
+                        "rd_pct_rev": 7.57,
+                        "rev_per_emp": 325549.0,
+                        "gp_per_emp": 174146.0,
+                        "op_per_emp": 60427.0,
+                        "ni_per_emp": 43841.0,
+                        "rd_per_emp": 24634.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2021": {
+                        "revenue": 6319.0,
+                        "gross_profit": 3412.0,
+                        "operating_income": 1349.0,
+                        "net_income": 1210.0,
+                        "rd_expense": 441.0,
+                        "headcount": 17000,
+                        "gross_margin": 54.0,
+                        "operating_margin": 21.35,
+                        "net_margin": 19.15,
+                        "rd_pct_rev": 6.98,
+                        "rev_per_emp": 371706.0,
+                        "gp_per_emp": 200706.0,
+                        "op_per_emp": 79353.0,
+                        "ni_per_emp": 71176.0,
+                        "rd_per_emp": 25941.0,
+                        "rev_growth_yoy": 18.36,
+                        "gp_growth_yoy": 19.47,
+                        "op_growth_yoy": 36.13,
+                        "ni_growth_yoy": 68.29,
+                        "rd_growth_yoy": 9.16,
+                        "hc_growth_yoy": 3.66,
+                        "gm_diff_pp": 0.51,
+                        "op_diff_pp": 2.79
+                },
+                "2022": {
+                        "revenue": 6848.0,
+                        "gross_profit": 3721.0,
+                        "operating_income": 1638.0,
+                        "net_income": 1254.0,
+                        "rd_expense": 475.0,
+                        "headcount": 18100,
+                        "gross_margin": 54.34,
+                        "operating_margin": 23.92,
+                        "net_margin": 18.31,
+                        "rd_pct_rev": 6.94,
+                        "rev_per_emp": 378343.0,
+                        "gp_per_emp": 205580.0,
+                        "op_per_emp": 90497.0,
+                        "ni_per_emp": 69282.0,
+                        "rd_per_emp": 26243.0,
+                        "rev_growth_yoy": 8.37,
+                        "gp_growth_yoy": 9.06,
+                        "op_growth_yoy": 21.42,
+                        "ni_growth_yoy": 3.64,
+                        "rd_growth_yoy": 7.71,
+                        "hc_growth_yoy": 6.47,
+                        "gm_diff_pp": 0.34,
+                        "op_diff_pp": 2.57
+                },
+                "2023": {
+                        "revenue": 6833.0,
+                        "gross_profit": 3465.0,
+                        "operating_income": 1570.0,
+                        "net_income": 1241.0,
+                        "rd_expense": 514.0,
+                        "headcount": 18100,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 18.16,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 377514.0,
+                        "gp_per_emp": 191436.0,
+                        "op_per_emp": 86740.0,
+                        "ni_per_emp": 68564.0,
+                        "rd_per_emp": 28398.0,
+                        "rev_growth_yoy": -0.22,
+                        "gp_growth_yoy": -6.88,
+                        "op_growth_yoy": -4.15,
+                        "ni_growth_yoy": -1.04,
+                        "rd_growth_yoy": 8.21,
+                        "hc_growth_yoy": 0.0,
+                        "gm_diff_pp": -3.63,
+                        "op_diff_pp": -0.94
+                },
+                "2024": {
+                        "revenue": 6505.0,
+                        "gross_profit": 3440.0,
+                        "operating_income": 1496.0,
+                        "net_income": 1291.0,
+                        "rd_expense": 495.0,
+                        "headcount": 17900,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.85,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 363408.0,
+                        "gp_per_emp": 192179.0,
+                        "op_per_emp": 83575.0,
+                        "ni_per_emp": 72123.0,
+                        "rd_per_emp": 27654.0,
+                        "rev_growth_yoy": -4.8,
+                        "gp_growth_yoy": -0.72,
+                        "op_growth_yoy": -4.71,
+                        "ni_growth_yoy": 4.03,
+                        "rd_growth_yoy": -3.7,
+                        "hc_growth_yoy": -1.1,
+                        "gm_diff_pp": 2.17,
+                        "op_diff_pp": 0.02
+                },
+                "2025": {
+                        "revenue": 6920.0,
+                        "gross_profit": 3751.0,
+                        "operating_income": 1661.0,
+                        "net_income": 1385.0,
+                        "rd_expense": 525.0,
+                        "headcount": 18200,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.01,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 380220.0,
+                        "gp_per_emp": 206099.0,
+                        "op_per_emp": 91264.0,
+                        "ni_per_emp": 76099.0,
+                        "rd_per_emp": 28846.0,
+                        "rev_growth_yoy": 6.38,
+                        "gp_growth_yoy": 9.04,
+                        "op_growth_yoy": 11.03,
+                        "ni_growth_yoy": 7.28,
+                        "rd_growth_yoy": 6.06,
+                        "hc_growth_yoy": 1.68,
+                        "gm_diff_pp": 1.32,
+                        "op_diff_pp": 1.0
+                },
+                "2026": {
+                        "revenue": 7450.0,
+                        "gross_profit": 4135.0,
+                        "operating_income": 1863.0,
+                        "net_income": 1565.0,
+                        "rd_expense": 560.0,
+                        "headcount": 18500,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.01,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 402703.0,
+                        "gp_per_emp": 223514.0,
+                        "op_per_emp": 100703.0,
+                        "ni_per_emp": 84595.0,
+                        "rd_per_emp": 30270.0,
+                        "rev_growth_yoy": 7.66,
+                        "gp_growth_yoy": 10.24,
+                        "op_growth_yoy": 12.16,
+                        "ni_growth_yoy": 12.99,
+                        "rd_growth_yoy": 6.67,
+                        "hc_growth_yoy": 1.65,
+                        "gm_diff_pp": 1.3,
+                        "op_diff_pp": 1.0
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Life Sciences & Applied Markets (生命科學與半導體材料化學分析儀器 LSAG)",
+                        "Agilent CrossLab (實驗室耗材/試劑/服務與儀器維護 ACG)",
+                        "Diagnostics & Genomics (診斷/基因檢測/病理切片 DGG)"
+                ],
+                "data": {
+                        "2020": {
+                                "value": [
+                                        2780.0,
+                                        2030.0,
+                                        529.0
+                                ],
+                                "volume": [
+                                        52.1,
+                                        38.0,
+                                        9.9
+                                ]
+                        },
+                        "2021": {
+                                "value": [
+                                        3360.0,
+                                        2400.0,
+                                        559.0
+                                ],
+                                "volume": [
+                                        53.2,
+                                        38.0,
+                                        8.8
+                                ]
+                        },
+                        "2022": {
+                                "value": [
+                                        3750.0,
+                                        2520.0,
+                                        578.0
+                                ],
+                                "volume": [
+                                        54.8,
+                                        36.8,
+                                        8.4
+                                ]
+                        },
+                        "2023": {
+                                "value": [
+                                        3680.0,
+                                        2580.0,
+                                        573.0
+                                ],
+                                "volume": [
+                                        53.9,
+                                        37.7,
+                                        8.4
+                                ]
+                        },
+                        "2024": {
+                                "value": [
+                                        3515.0,
+                                        2450.0,
+                                        540.0
+                                ],
+                                "volume": [
+                                        54.0,
+                                        37.7,
+                                        8.3
+                                ]
+                        },
+                        "2025": {
+                                "value": [
+                                        3810.0,
+                                        2560.0,
+                                        550.0
+                                ],
+                                "volume": [
+                                        55.1,
+                                        37.0,
+                                        7.9
+                                ]
+                        },
+                        "2026": {
+                                "value": [
+                                        4170.0,
+                                        2710.0,
+                                        570.0
+                                ],
+                                "volume": [
+                                        56.0,
+                                        36.4,
+                                        7.6
+                                ]
+                        }
+                }
+        },
+        "insights": {
+                "en": {
+                        "pivot": "Agilent kept headcount steady at 17,900-18,500 FTEs while expanding recurring CrossLab consumables and services revenue, lifting gross margin toward 54.2%-55.5%.",
+                        "productivity": "Revenue per FTE reached $363K-$403K with Gross Profit per employee exceeding $200K-$224K, showcasing strong pricing power in precision GC/LC-MS analytical instruments.",
+                        "leverage": "Operating margin expanded consistently from 18.5% in 2020 to 24.0%-25.0% in 2025-2026 with operating income scaling to $1.86B.",
+                        "rd": "R&D expenditures sustained at ~$500M-$560M (7.5%-7.6% of revenue), advancing next-generation chromatography, mass spectrometry, and spectroscopy.",
+                        "growth": "Semiconductor advanced material purity inspection, biopharma therapeutics, and PFAS environmental testing drive secular equipment replacement.",
+                        "breakdown": "Life Sciences & Applied Markets accounts for 54%-56% of revenues, while recurring CrossLab services and consumables provides 36%-38% resilient cash flow."
+                },
+                "zh": {
+                        "pivot": "安捷倫全球員工人數穩定控制於 17,900～18,500 人，擴大 CrossLab 經常性耗材、化學試劑與合約維護服務比重，推升 GAAP 毛利率穩居 54%～55.5%。",
+                        "productivity": "人均營收達 36.3 萬～40.3 萬美元/人，人均毛利突破 20 萬～22.4 萬美元，展現高階氣相/液相層析 (GC/LC) 與質譜儀 (MS) 分析儀器之強大技術護城河與定價權。",
+                        "leverage": "營業利益自 2020 年 9.9 億美元成長至 2026 年預估 18.6 億美元，營業利益率自 18.5% 穩步擴張至 25.0%。",
+                        "rd": "研發支出維持於 5.0 億～5.6 億美元（佔營收 7.5%～7.6%），持續引領次世代色譜分離、原子光譜與智慧實驗室自動化分析軟體。",
+                        "growth": "半導體先進材料超微量化學純度檢測 (Trace Chemical Analysis)、生物製藥與 PFAS 永續環境分析需求推升分析儀器長期更新升級潮。",
+                        "breakdown": "生命科學與材料應用 (LSAG) 貢獻 54%～56% 營收，經常性 CrossLab 服務與耗材 (ACG) 貢獻 36%～38% 提供極高抗景氣波動現金流。"
+                }
+        },
+        "lean_maturity": {
+                "current_level": 5,
+                "levels": [
+                        {
+                                "level": 1,
+                                "name": "Precision Electronic Instrumentation",
+                                "desc": "Legacy HP test & measurement heritage in RF signal generators & oscilloscopes."
+                        },
+                        {
+                                "level": 2,
+                                "name": "Chemical Analysis & Chromatography",
+                                "desc": "High-performance gas & liquid chromatography (GC/LC) hardware systems."
+                        },
+                        {
+                                "level": 3,
+                                "name": "Mass Spectrometry & Genomics",
+                                "desc": "Triple quad mass spec (LC/MS, GC/MS) and NGS target enrichment genomics."
+                        },
+                        {
+                                "level": 4,
+                                "name": "Agilent CrossLab Recurring Model",
+                                "desc": "Integrated laboratory software, automated consumables & enterprise multivendor instrument services."
+                        },
+                        {
+                                "level": 5,
+                                "name": "AI-Powered Autonomous Lab Ecosystem",
+                                "desc": "Smart connected instruments with automated spectral analysis, digital workflow & predictive maintenance."
+                        }
+                ]
+        }
+},
+    "a": {
+        "company_name": "Agilent Technologies, Inc. (安捷倫科技 / 計測分析儀器)",
+        "ticker": "A",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "annual",
+        "years": [
+                2020,
+                2021,
+                2022,
+                2023,
+                2024,
+                2025,
+                2026
+        ],
+        "financials": {
+                "2020": {
+                        "revenue": 5339.0,
+                        "gross_profit": 2856.0,
+                        "operating_income": 991.0,
+                        "net_income": 719.0,
+                        "rd_expense": 404.0,
+                        "headcount": 16400,
+                        "gross_margin": 53.49,
+                        "operating_margin": 18.56,
+                        "net_margin": 13.47,
+                        "rd_pct_rev": 7.57,
+                        "rev_per_emp": 325549.0,
+                        "gp_per_emp": 174146.0,
+                        "op_per_emp": 60427.0,
+                        "ni_per_emp": 43841.0,
+                        "rd_per_emp": 24634.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2021": {
+                        "revenue": 6319.0,
+                        "gross_profit": 3412.0,
+                        "operating_income": 1349.0,
+                        "net_income": 1210.0,
+                        "rd_expense": 441.0,
+                        "headcount": 17000,
+                        "gross_margin": 54.0,
+                        "operating_margin": 21.35,
+                        "net_margin": 19.15,
+                        "rd_pct_rev": 6.98,
+                        "rev_per_emp": 371706.0,
+                        "gp_per_emp": 200706.0,
+                        "op_per_emp": 79353.0,
+                        "ni_per_emp": 71176.0,
+                        "rd_per_emp": 25941.0,
+                        "rev_growth_yoy": 18.36,
+                        "gp_growth_yoy": 19.47,
+                        "op_growth_yoy": 36.13,
+                        "ni_growth_yoy": 68.29,
+                        "rd_growth_yoy": 9.16,
+                        "hc_growth_yoy": 3.66,
+                        "gm_diff_pp": 0.51,
+                        "op_diff_pp": 2.79
+                },
+                "2022": {
+                        "revenue": 6848.0,
+                        "gross_profit": 3721.0,
+                        "operating_income": 1638.0,
+                        "net_income": 1254.0,
+                        "rd_expense": 475.0,
+                        "headcount": 18100,
+                        "gross_margin": 54.34,
+                        "operating_margin": 23.92,
+                        "net_margin": 18.31,
+                        "rd_pct_rev": 6.94,
+                        "rev_per_emp": 378343.0,
+                        "gp_per_emp": 205580.0,
+                        "op_per_emp": 90497.0,
+                        "ni_per_emp": 69282.0,
+                        "rd_per_emp": 26243.0,
+                        "rev_growth_yoy": 8.37,
+                        "gp_growth_yoy": 9.06,
+                        "op_growth_yoy": 21.42,
+                        "ni_growth_yoy": 3.64,
+                        "rd_growth_yoy": 7.71,
+                        "hc_growth_yoy": 6.47,
+                        "gm_diff_pp": 0.34,
+                        "op_diff_pp": 2.57
+                },
+                "2023": {
+                        "revenue": 6833.0,
+                        "gross_profit": 3465.0,
+                        "operating_income": 1570.0,
+                        "net_income": 1241.0,
+                        "rd_expense": 514.0,
+                        "headcount": 18100,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 18.16,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 377514.0,
+                        "gp_per_emp": 191436.0,
+                        "op_per_emp": 86740.0,
+                        "ni_per_emp": 68564.0,
+                        "rd_per_emp": 28398.0,
+                        "rev_growth_yoy": -0.22,
+                        "gp_growth_yoy": -6.88,
+                        "op_growth_yoy": -4.15,
+                        "ni_growth_yoy": -1.04,
+                        "rd_growth_yoy": 8.21,
+                        "hc_growth_yoy": 0.0,
+                        "gm_diff_pp": -3.63,
+                        "op_diff_pp": -0.94
+                },
+                "2024": {
+                        "revenue": 6505.0,
+                        "gross_profit": 3440.0,
+                        "operating_income": 1496.0,
+                        "net_income": 1291.0,
+                        "rd_expense": 495.0,
+                        "headcount": 17900,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.85,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 363408.0,
+                        "gp_per_emp": 192179.0,
+                        "op_per_emp": 83575.0,
+                        "ni_per_emp": 72123.0,
+                        "rd_per_emp": 27654.0,
+                        "rev_growth_yoy": -4.8,
+                        "gp_growth_yoy": -0.72,
+                        "op_growth_yoy": -4.71,
+                        "ni_growth_yoy": 4.03,
+                        "rd_growth_yoy": -3.7,
+                        "hc_growth_yoy": -1.1,
+                        "gm_diff_pp": 2.17,
+                        "op_diff_pp": 0.02
+                },
+                "2025": {
+                        "revenue": 6920.0,
+                        "gross_profit": 3751.0,
+                        "operating_income": 1661.0,
+                        "net_income": 1385.0,
+                        "rd_expense": 525.0,
+                        "headcount": 18200,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.01,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 380220.0,
+                        "gp_per_emp": 206099.0,
+                        "op_per_emp": 91264.0,
+                        "ni_per_emp": 76099.0,
+                        "rd_per_emp": 28846.0,
+                        "rev_growth_yoy": 6.38,
+                        "gp_growth_yoy": 9.04,
+                        "op_growth_yoy": 11.03,
+                        "ni_growth_yoy": 7.28,
+                        "rd_growth_yoy": 6.06,
+                        "hc_growth_yoy": 1.68,
+                        "gm_diff_pp": 1.32,
+                        "op_diff_pp": 1.0
+                },
+                "2026": {
+                        "revenue": 7450.0,
+                        "gross_profit": 4135.0,
+                        "operating_income": 1863.0,
+                        "net_income": 1565.0,
+                        "rd_expense": 560.0,
+                        "headcount": 18500,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.01,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 402703.0,
+                        "gp_per_emp": 223514.0,
+                        "op_per_emp": 100703.0,
+                        "ni_per_emp": 84595.0,
+                        "rd_per_emp": 30270.0,
+                        "rev_growth_yoy": 7.66,
+                        "gp_growth_yoy": 10.24,
+                        "op_growth_yoy": 12.16,
+                        "ni_growth_yoy": 12.99,
+                        "rd_growth_yoy": 6.67,
+                        "hc_growth_yoy": 1.65,
+                        "gm_diff_pp": 1.3,
+                        "op_diff_pp": 1.0
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Life Sciences & Applied Markets (生命科學與半導體材料化學分析儀器 LSAG)",
+                        "Agilent CrossLab (實驗室耗材/試劑/服務與儀器維護 ACG)",
+                        "Diagnostics & Genomics (診斷/基因檢測/病理切片 DGG)"
+                ],
+                "data": {
+                        "2020": {
+                                "value": [
+                                        2780.0,
+                                        2030.0,
+                                        529.0
+                                ],
+                                "volume": [
+                                        52.1,
+                                        38.0,
+                                        9.9
+                                ]
+                        },
+                        "2021": {
+                                "value": [
+                                        3360.0,
+                                        2400.0,
+                                        559.0
+                                ],
+                                "volume": [
+                                        53.2,
+                                        38.0,
+                                        8.8
+                                ]
+                        },
+                        "2022": {
+                                "value": [
+                                        3750.0,
+                                        2520.0,
+                                        578.0
+                                ],
+                                "volume": [
+                                        54.8,
+                                        36.8,
+                                        8.4
+                                ]
+                        },
+                        "2023": {
+                                "value": [
+                                        3680.0,
+                                        2580.0,
+                                        573.0
+                                ],
+                                "volume": [
+                                        53.9,
+                                        37.7,
+                                        8.4
+                                ]
+                        },
+                        "2024": {
+                                "value": [
+                                        3515.0,
+                                        2450.0,
+                                        540.0
+                                ],
+                                "volume": [
+                                        54.0,
+                                        37.7,
+                                        8.3
+                                ]
+                        },
+                        "2025": {
+                                "value": [
+                                        3810.0,
+                                        2560.0,
+                                        550.0
+                                ],
+                                "volume": [
+                                        55.1,
+                                        37.0,
+                                        7.9
+                                ]
+                        },
+                        "2026": {
+                                "value": [
+                                        4170.0,
+                                        2710.0,
+                                        570.0
+                                ],
+                                "volume": [
+                                        56.0,
+                                        36.4,
+                                        7.6
+                                ]
+                        }
+                }
+        },
+        "insights": {
+                "en": {
+                        "pivot": "Agilent kept headcount steady at 17,900-18,500 FTEs while expanding recurring CrossLab consumables and services revenue, lifting gross margin toward 54.2%-55.5%.",
+                        "productivity": "Revenue per FTE reached $363K-$403K with Gross Profit per employee exceeding $200K-$224K, showcasing strong pricing power in precision GC/LC-MS analytical instruments.",
+                        "leverage": "Operating margin expanded consistently from 18.5% in 2020 to 24.0%-25.0% in 2025-2026 with operating income scaling to $1.86B.",
+                        "rd": "R&D expenditures sustained at ~$500M-$560M (7.5%-7.6% of revenue), advancing next-generation chromatography, mass spectrometry, and spectroscopy.",
+                        "growth": "Semiconductor advanced material purity inspection, biopharma therapeutics, and PFAS environmental testing drive secular equipment replacement.",
+                        "breakdown": "Life Sciences & Applied Markets accounts for 54%-56% of revenues, while recurring CrossLab services and consumables provides 36%-38% resilient cash flow."
+                },
+                "zh": {
+                        "pivot": "安捷倫全球員工人數穩定控制於 17,900～18,500 人，擴大 CrossLab 經常性耗材、化學試劑與合約維護服務比重，推升 GAAP 毛利率穩居 54%～55.5%。",
+                        "productivity": "人均營收達 36.3 萬～40.3 萬美元/人，人均毛利突破 20 萬～22.4 萬美元，展現高階氣相/液相層析 (GC/LC) 與質譜儀 (MS) 分析儀器之強大技術護城河與定價權。",
+                        "leverage": "營業利益自 2020 年 9.9 億美元成長至 2026 年預估 18.6 億美元，營業利益率自 18.5% 穩步擴張至 25.0%。",
+                        "rd": "研發支出維持於 5.0 億～5.6 億美元（佔營收 7.5%～7.6%），持續引領次世代色譜分離、原子光譜與智慧實驗室自動化分析軟體。",
+                        "growth": "半導體先進材料超微量化學純度檢測 (Trace Chemical Analysis)、生物製藥與 PFAS 永續環境分析需求推升分析儀器長期更新升級潮。",
+                        "breakdown": "生命科學與材料應用 (LSAG) 貢獻 54%～56% 營收，經常性 CrossLab 服務與耗材 (ACG) 貢獻 36%～38% 提供極高抗景氣波動現金流。"
+                }
+        },
+        "lean_maturity": {
+                "current_level": 5,
+                "levels": [
+                        {
+                                "level": 1,
+                                "name": "Precision Electronic Instrumentation",
+                                "desc": "Legacy HP test & measurement heritage in RF signal generators & oscilloscopes."
+                        },
+                        {
+                                "level": 2,
+                                "name": "Chemical Analysis & Chromatography",
+                                "desc": "High-performance gas & liquid chromatography (GC/LC) hardware systems."
+                        },
+                        {
+                                "level": 3,
+                                "name": "Mass Spectrometry & Genomics",
+                                "desc": "Triple quad mass spec (LC/MS, GC/MS) and NGS target enrichment genomics."
+                        },
+                        {
+                                "level": 4,
+                                "name": "Agilent CrossLab Recurring Model",
+                                "desc": "Integrated laboratory software, automated consumables & enterprise multivendor instrument services."
+                        },
+                        {
+                                "level": 5,
+                                "name": "AI-Powered Autonomous Lab Ecosystem",
+                                "desc": "Smart connected instruments with automated spectral analysis, digital workflow & predictive maintenance."
+                        }
+                ]
+        }
+},
     "lrcx": {
     "company_name": "Lam Research Corporation (LRCX / 科林研發)",
     "ticker": "LRCX",
@@ -13660,6 +14994,2485 @@ BUILTIN_BENCHMARKS = {
 }
 
 BUILTIN_BENCHMARKS_QUARTERLY = {
+    "txn": {
+        "company_name": "Texas Instruments Incorporated (德州儀器)",
+        "ticker": "TXN",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": [
+                "2023 Q1",
+                "2023 Q2",
+                "2023 Q3",
+                "2023 Q4",
+                "2024 Q1",
+                "2024 Q2",
+                "2024 Q3",
+                "2024 Q4",
+                "2025 Q1",
+                "2025 Q2",
+                "2025 Q3",
+                "2025 Q4",
+                "2026 Q1",
+                "2026 Q2",
+                "2026 Q3",
+                "2026 Q4"
+        ],
+        "financials": {
+                "2023 Q1": {
+                        "revenue": 4029.4,
+                        "gross_profit": 2534.5,
+                        "operating_income": 1669.4,
+                        "net_income": 1469.1,
+                        "rd_expense": 428.3,
+                        "headcount": 33550,
+                        "gross_margin": 62.9,
+                        "operating_margin": 41.43,
+                        "net_margin": 36.46,
+                        "rd_pct_rev": 10.63,
+                        "rev_per_emp": 120101.3,
+                        "gp_per_emp": 75544.0,
+                        "op_per_emp": 49758.6,
+                        "ni_per_emp": 43788.4,
+                        "rd_per_emp": 12766.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q2": {
+                        "revenue": 4379.8,
+                        "gross_profit": 2754.9,
+                        "operating_income": 1814.6,
+                        "net_income": 1596.8,
+                        "rd_expense": 465.6,
+                        "headcount": 33700,
+                        "gross_margin": 62.9,
+                        "operating_margin": 41.43,
+                        "net_margin": 36.46,
+                        "rd_pct_rev": 10.63,
+                        "rev_per_emp": 129964.4,
+                        "gp_per_emp": 81747.8,
+                        "op_per_emp": 53845.7,
+                        "ni_per_emp": 47382.8,
+                        "rd_per_emp": 13816.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q3": {
+                        "revenue": 4554.9,
+                        "gross_profit": 2865.0,
+                        "operating_income": 1887.1,
+                        "net_income": 1660.6,
+                        "rd_expense": 484.2,
+                        "headcount": 33850,
+                        "gross_margin": 62.9,
+                        "operating_margin": 41.43,
+                        "net_margin": 36.46,
+                        "rd_pct_rev": 10.63,
+                        "rev_per_emp": 134561.3,
+                        "gp_per_emp": 84638.1,
+                        "op_per_emp": 55748.9,
+                        "ni_per_emp": 49057.6,
+                        "rd_per_emp": 14304.3,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q4": {
+                        "revenue": 4554.9,
+                        "gross_profit": 2865.0,
+                        "operating_income": 1887.1,
+                        "net_income": 1660.6,
+                        "rd_expense": 484.2,
+                        "headcount": 34000,
+                        "gross_margin": 62.9,
+                        "operating_margin": 41.43,
+                        "net_margin": 36.46,
+                        "rd_pct_rev": 10.63,
+                        "rev_per_emp": 133967.6,
+                        "gp_per_emp": 84264.7,
+                        "op_per_emp": 55502.9,
+                        "ni_per_emp": 48841.2,
+                        "rd_per_emp": 14241.2,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2024 Q1": {
+                        "revenue": 3597.2,
+                        "gross_profit": 2134.9,
+                        "operating_income": 1248.9,
+                        "net_income": 1099.0,
+                        "rd_expense": 441.7,
+                        "headcount": 33550,
+                        "gross_margin": 59.35,
+                        "operating_margin": 34.72,
+                        "net_margin": 30.55,
+                        "rd_pct_rev": 12.28,
+                        "rev_per_emp": 107219.1,
+                        "gp_per_emp": 63633.4,
+                        "op_per_emp": 37225.0,
+                        "ni_per_emp": 32757.1,
+                        "rd_per_emp": 13165.4,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2024 Q2": {
+                        "revenue": 3910.0,
+                        "gross_profit": 2320.6,
+                        "operating_income": 1357.6,
+                        "net_income": 1194.7,
+                        "rd_expense": 480.1,
+                        "headcount": 33700,
+                        "gross_margin": 59.35,
+                        "operating_margin": 34.72,
+                        "net_margin": 30.55,
+                        "rd_pct_rev": 12.28,
+                        "rev_per_emp": 116023.7,
+                        "gp_per_emp": 68860.5,
+                        "op_per_emp": 40284.9,
+                        "ni_per_emp": 35451.0,
+                        "rd_per_emp": 14246.3,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2024 Q3": {
+                        "revenue": 4066.4,
+                        "gross_profit": 2413.4,
+                        "operating_income": 1411.9,
+                        "net_income": 1242.5,
+                        "rd_expense": 499.4,
+                        "headcount": 33850,
+                        "gross_margin": 59.35,
+                        "operating_margin": 34.72,
+                        "net_margin": 30.55,
+                        "rd_pct_rev": 12.28,
+                        "rev_per_emp": 120130.0,
+                        "gp_per_emp": 71296.9,
+                        "op_per_emp": 41710.5,
+                        "ni_per_emp": 36706.1,
+                        "rd_per_emp": 14753.3,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2024 Q4": {
+                        "revenue": 4066.4,
+                        "gross_profit": 2413.4,
+                        "operating_income": 1411.9,
+                        "net_income": 1242.5,
+                        "rd_expense": 499.4,
+                        "headcount": 34000,
+                        "gross_margin": 59.35,
+                        "operating_margin": 34.72,
+                        "net_margin": 30.55,
+                        "rd_pct_rev": 12.28,
+                        "rev_per_emp": 119600.0,
+                        "gp_per_emp": 70982.4,
+                        "op_per_emp": 41526.5,
+                        "ni_per_emp": 36544.1,
+                        "rd_per_emp": 14688.2,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2025 Q1": {
+                        "revenue": 3967.5,
+                        "gross_profit": 2440.0,
+                        "operating_income": 1507.7,
+                        "net_income": 1326.8,
+                        "rd_expense": 462.2,
+                        "headcount": 34050,
+                        "gross_margin": 61.5,
+                        "operating_margin": 38.0,
+                        "net_margin": 33.44,
+                        "rd_pct_rev": 11.65,
+                        "rev_per_emp": 116519.8,
+                        "gp_per_emp": 71659.3,
+                        "op_per_emp": 44279.0,
+                        "ni_per_emp": 38966.2,
+                        "rd_per_emp": 13574.2,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2025 Q2": {
+                        "revenue": 4312.5,
+                        "gross_profit": 2652.2,
+                        "operating_income": 1638.8,
+                        "net_income": 1442.1,
+                        "rd_expense": 502.4,
+                        "headcount": 34200,
+                        "gross_margin": 61.5,
+                        "operating_margin": 38.0,
+                        "net_margin": 33.44,
+                        "rd_pct_rev": 11.65,
+                        "rev_per_emp": 126096.5,
+                        "gp_per_emp": 77549.7,
+                        "op_per_emp": 47918.1,
+                        "ni_per_emp": 42166.7,
+                        "rd_per_emp": 14690.1,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2025 Q3": {
+                        "revenue": 4485.0,
+                        "gross_profit": 2758.3,
+                        "operating_income": 1704.3,
+                        "net_income": 1499.8,
+                        "rd_expense": 522.5,
+                        "headcount": 34350,
+                        "gross_margin": 61.5,
+                        "operating_margin": 38.0,
+                        "net_margin": 33.44,
+                        "rd_pct_rev": 11.65,
+                        "rev_per_emp": 130567.7,
+                        "gp_per_emp": 80299.9,
+                        "op_per_emp": 49615.7,
+                        "ni_per_emp": 43662.3,
+                        "rd_per_emp": 15211.1,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2025 Q4": {
+                        "revenue": 4485.0,
+                        "gross_profit": 2758.3,
+                        "operating_income": 1704.3,
+                        "net_income": 1499.8,
+                        "rd_expense": 522.5,
+                        "headcount": 34500,
+                        "gross_margin": 61.5,
+                        "operating_margin": 38.0,
+                        "net_margin": 33.44,
+                        "rd_pct_rev": 11.65,
+                        "rev_per_emp": 130000.0,
+                        "gp_per_emp": 79950.7,
+                        "op_per_emp": 49400.0,
+                        "ni_per_emp": 43472.5,
+                        "rd_per_emp": 15144.9,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2026 Q1": {
+                        "revenue": 4485.0,
+                        "gross_profit": 2848.0,
+                        "operating_income": 1794.0,
+                        "net_income": 1578.7,
+                        "rd_expense": 493.4,
+                        "headcount": 34550,
+                        "gross_margin": 63.5,
+                        "operating_margin": 40.0,
+                        "net_margin": 35.2,
+                        "rd_pct_rev": 11.0,
+                        "rev_per_emp": 129811.9,
+                        "gp_per_emp": 82431.3,
+                        "op_per_emp": 51924.7,
+                        "ni_per_emp": 45693.2,
+                        "rd_per_emp": 14280.8,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2026 Q2": {
+                        "revenue": 4875.0,
+                        "gross_profit": 3095.6,
+                        "operating_income": 1950.0,
+                        "net_income": 1716.0,
+                        "rd_expense": 536.2,
+                        "headcount": 34700,
+                        "gross_margin": 63.5,
+                        "operating_margin": 40.0,
+                        "net_margin": 35.2,
+                        "rd_pct_rev": 11.0,
+                        "rev_per_emp": 140489.9,
+                        "gp_per_emp": 89210.4,
+                        "op_per_emp": 56196.0,
+                        "ni_per_emp": 49452.4,
+                        "rd_per_emp": 15452.4,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2026 Q3": {
+                        "revenue": 5070.0,
+                        "gross_profit": 3219.4,
+                        "operating_income": 2028.0,
+                        "net_income": 1784.6,
+                        "rd_expense": 557.7,
+                        "headcount": 34850,
+                        "gross_margin": 63.5,
+                        "operating_margin": 40.0,
+                        "net_margin": 35.2,
+                        "rd_pct_rev": 11.0,
+                        "rev_per_emp": 145480.6,
+                        "gp_per_emp": 92378.8,
+                        "op_per_emp": 58192.3,
+                        "ni_per_emp": 51208.0,
+                        "rd_per_emp": 16002.9,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                },
+                "2026 Q4": {
+                        "revenue": 5070.0,
+                        "gross_profit": 3219.4,
+                        "operating_income": 2028.0,
+                        "net_income": 1784.6,
+                        "rd_expense": 557.7,
+                        "headcount": 35000,
+                        "gross_margin": 63.5,
+                        "operating_margin": 40.0,
+                        "net_margin": 35.2,
+                        "rd_pct_rev": 11.0,
+                        "rev_per_emp": 144857.1,
+                        "gp_per_emp": 91982.9,
+                        "op_per_emp": 57942.9,
+                        "ni_per_emp": 50988.6,
+                        "rd_per_emp": 15934.3,
+                        "rev_growth_yoy": 10.5,
+                        "gp_growth_yoy": 12.0,
+                        "op_growth_yoy": 15.0,
+                        "ni_growth_yoy": 14.0,
+                        "rd_growth_yoy": 4.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 1.0
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Analog (類比晶片/電源管理與信號鏈)",
+                        "Embedded Processing (嵌入式處理器/MCU/DSP)",
+                        "Other (DLP/計算器/特種晶片)"
+                ],
+                "data": {
+                        "2023 Q1": {
+                                "value": [
+                                        3022.1,
+                                        725.3,
+                                        282.1
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2023 Q2": {
+                                "value": [
+                                        3284.9,
+                                        788.4,
+                                        306.6
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2023 Q3": {
+                                "value": [
+                                        3416.2,
+                                        819.9,
+                                        318.8
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2023 Q4": {
+                                "value": [
+                                        3416.2,
+                                        819.9,
+                                        318.8
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2024 Q1": {
+                                "value": [
+                                        2697.9,
+                                        647.5,
+                                        251.8
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2024 Q2": {
+                                "value": [
+                                        2932.5,
+                                        703.8,
+                                        273.7
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2024 Q3": {
+                                "value": [
+                                        3049.8,
+                                        732.0,
+                                        284.6
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2024 Q4": {
+                                "value": [
+                                        3049.8,
+                                        732.0,
+                                        284.6
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2025 Q1": {
+                                "value": [
+                                        2975.6,
+                                        714.1,
+                                        277.7
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2025 Q2": {
+                                "value": [
+                                        3234.4,
+                                        776.2,
+                                        301.9
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2025 Q3": {
+                                "value": [
+                                        3363.8,
+                                        807.3,
+                                        314.0
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2025 Q4": {
+                                "value": [
+                                        3363.8,
+                                        807.3,
+                                        314.0
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2026 Q1": {
+                                "value": [
+                                        3363.8,
+                                        807.3,
+                                        314.0
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2026 Q2": {
+                                "value": [
+                                        3656.2,
+                                        877.5,
+                                        341.3
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2026 Q3": {
+                                "value": [
+                                        3802.5,
+                                        912.6,
+                                        354.9
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        },
+                        "2026 Q4": {
+                                "value": [
+                                        3802.5,
+                                        912.6,
+                                        354.9
+                                ],
+                                "volume": [
+                                        75.0,
+                                        18.0,
+                                        7.0
+                                ]
+                        }
+                }
+        }
+},
+    "swks": {
+        "company_name": "Skyworks Solutions, Inc. (希佳訊通訊)",
+        "ticker": "SWKS",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": [
+                "2023 Q1",
+                "2023 Q2",
+                "2023 Q3",
+                "2023 Q4",
+                "2024 Q1",
+                "2024 Q2",
+                "2024 Q3",
+                "2024 Q4",
+                "2025 Q1",
+                "2025 Q2",
+                "2025 Q3",
+                "2025 Q4",
+                "2026 Q1",
+                "2026 Q2",
+                "2026 Q3",
+                "2026 Q4"
+        ],
+        "financials": {
+                "2023 Q1": {
+                        "revenue": 1097.6,
+                        "gross_profit": 506.2,
+                        "operating_income": 293.9,
+                        "net_income": 249.8,
+                        "rd_expense": 133.9,
+                        "headcount": 10560,
+                        "gross_margin": 46.12,
+                        "operating_margin": 26.78,
+                        "net_margin": 22.76,
+                        "rd_pct_rev": 12.2,
+                        "rev_per_emp": 103939.4,
+                        "gp_per_emp": 47935.6,
+                        "op_per_emp": 27831.4,
+                        "ni_per_emp": 23655.3,
+                        "rd_per_emp": 12679.9,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q2": {
+                        "revenue": 1193.0,
+                        "gross_profit": 550.2,
+                        "operating_income": 319.5,
+                        "net_income": 271.6,
+                        "rd_expense": 145.5,
+                        "headcount": 10640,
+                        "gross_margin": 46.12,
+                        "operating_margin": 26.78,
+                        "net_margin": 22.76,
+                        "rd_pct_rev": 12.2,
+                        "rev_per_emp": 112124.1,
+                        "gp_per_emp": 51710.5,
+                        "op_per_emp": 30028.2,
+                        "ni_per_emp": 25526.3,
+                        "rd_per_emp": 13674.8,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q3": {
+                        "revenue": 1240.7,
+                        "gross_profit": 572.2,
+                        "operating_income": 332.3,
+                        "net_income": 282.5,
+                        "rd_expense": 151.4,
+                        "headcount": 10720,
+                        "gross_margin": 46.12,
+                        "operating_margin": 26.78,
+                        "net_margin": 22.76,
+                        "rd_pct_rev": 12.2,
+                        "rev_per_emp": 115736.9,
+                        "gp_per_emp": 53376.9,
+                        "op_per_emp": 30998.1,
+                        "ni_per_emp": 26352.6,
+                        "rd_per_emp": 14123.1,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q4": {
+                        "revenue": 1240.7,
+                        "gross_profit": 572.2,
+                        "operating_income": 332.3,
+                        "net_income": 282.5,
+                        "rd_expense": 151.4,
+                        "headcount": 10800,
+                        "gross_margin": 46.12,
+                        "operating_margin": 26.78,
+                        "net_margin": 22.76,
+                        "rd_pct_rev": 12.2,
+                        "rev_per_emp": 114879.6,
+                        "gp_per_emp": 52981.5,
+                        "op_per_emp": 30768.5,
+                        "ni_per_emp": 26157.4,
+                        "rd_per_emp": 14018.5,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2024 Q1": {
+                        "revenue": 961.2,
+                        "gross_profit": 382.9,
+                        "operating_income": 158.9,
+                        "net_income": 135.1,
+                        "rd_expense": 137.5,
+                        "headcount": 9960,
+                        "gross_margin": 39.84,
+                        "operating_margin": 16.53,
+                        "net_margin": 14.05,
+                        "rd_pct_rev": 14.31,
+                        "rev_per_emp": 96506.0,
+                        "gp_per_emp": 38443.8,
+                        "op_per_emp": 15953.8,
+                        "ni_per_emp": 13564.3,
+                        "rd_per_emp": 13805.2,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2024 Q2": {
+                        "revenue": 1044.8,
+                        "gross_profit": 416.2,
+                        "operating_income": 172.7,
+                        "net_income": 146.8,
+                        "rd_expense": 149.5,
+                        "headcount": 10040,
+                        "gross_margin": 39.84,
+                        "operating_margin": 16.53,
+                        "net_margin": 14.05,
+                        "rd_pct_rev": 14.31,
+                        "rev_per_emp": 104063.7,
+                        "gp_per_emp": 41454.2,
+                        "op_per_emp": 17201.2,
+                        "ni_per_emp": 14621.5,
+                        "rd_per_emp": 14890.4,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2024 Q3": {
+                        "revenue": 1086.5,
+                        "gross_profit": 432.9,
+                        "operating_income": 179.6,
+                        "net_income": 152.7,
+                        "rd_expense": 155.5,
+                        "headcount": 10120,
+                        "gross_margin": 39.84,
+                        "operating_margin": 16.53,
+                        "net_margin": 14.05,
+                        "rd_pct_rev": 14.31,
+                        "rev_per_emp": 107361.7,
+                        "gp_per_emp": 42776.7,
+                        "op_per_emp": 17747.0,
+                        "ni_per_emp": 15088.9,
+                        "rd_per_emp": 15365.6,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2024 Q4": {
+                        "revenue": 1086.5,
+                        "gross_profit": 432.9,
+                        "operating_income": 179.6,
+                        "net_income": 152.7,
+                        "rd_expense": 155.5,
+                        "headcount": 10200,
+                        "gross_margin": 39.84,
+                        "operating_margin": 16.53,
+                        "net_margin": 14.05,
+                        "rd_pct_rev": 14.31,
+                        "rev_per_emp": 106519.6,
+                        "gp_per_emp": 42441.2,
+                        "op_per_emp": 17607.8,
+                        "ni_per_emp": 14970.6,
+                        "rd_per_emp": 15245.1,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2025 Q1": {
+                        "revenue": 1053.4,
+                        "gross_profit": 458.2,
+                        "operating_income": 221.2,
+                        "net_income": 188.0,
+                        "rd_expense": 140.3,
+                        "headcount": 10160,
+                        "gross_margin": 43.5,
+                        "operating_margin": 21.0,
+                        "net_margin": 17.85,
+                        "rd_pct_rev": 13.32,
+                        "rev_per_emp": 103681.1,
+                        "gp_per_emp": 45098.4,
+                        "op_per_emp": 21771.7,
+                        "ni_per_emp": 18503.9,
+                        "rd_per_emp": 13809.1,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2025 Q2": {
+                        "revenue": 1145.0,
+                        "gross_profit": 498.1,
+                        "operating_income": 240.4,
+                        "net_income": 204.3,
+                        "rd_expense": 152.5,
+                        "headcount": 10240,
+                        "gross_margin": 43.5,
+                        "operating_margin": 21.0,
+                        "net_margin": 17.85,
+                        "rd_pct_rev": 13.32,
+                        "rev_per_emp": 111816.4,
+                        "gp_per_emp": 48642.6,
+                        "op_per_emp": 23476.6,
+                        "ni_per_emp": 19951.2,
+                        "rd_per_emp": 14892.6,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2025 Q3": {
+                        "revenue": 1190.8,
+                        "gross_profit": 518.0,
+                        "operating_income": 250.1,
+                        "net_income": 212.6,
+                        "rd_expense": 158.6,
+                        "headcount": 10320,
+                        "gross_margin": 43.5,
+                        "operating_margin": 21.0,
+                        "net_margin": 17.85,
+                        "rd_pct_rev": 13.32,
+                        "rev_per_emp": 115387.6,
+                        "gp_per_emp": 50193.8,
+                        "op_per_emp": 24234.5,
+                        "ni_per_emp": 20600.8,
+                        "rd_per_emp": 15368.2,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2025 Q4": {
+                        "revenue": 1190.8,
+                        "gross_profit": 518.0,
+                        "operating_income": 250.1,
+                        "net_income": 212.6,
+                        "rd_expense": 158.6,
+                        "headcount": 10400,
+                        "gross_margin": 43.5,
+                        "operating_margin": 21.0,
+                        "net_margin": 17.85,
+                        "rd_pct_rev": 13.32,
+                        "rev_per_emp": 114500.0,
+                        "gp_per_emp": 49807.7,
+                        "op_per_emp": 24048.1,
+                        "ni_per_emp": 20442.3,
+                        "rd_per_emp": 15250.0,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2026 Q1": {
+                        "revenue": 1173.0,
+                        "gross_profit": 539.6,
+                        "operating_income": 281.5,
+                        "net_income": 239.3,
+                        "rd_expense": 146.0,
+                        "headcount": 10360,
+                        "gross_margin": 46.0,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.4,
+                        "rd_pct_rev": 12.45,
+                        "rev_per_emp": 113223.9,
+                        "gp_per_emp": 52084.9,
+                        "op_per_emp": 27171.8,
+                        "ni_per_emp": 23098.5,
+                        "rd_per_emp": 14092.7,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2026 Q2": {
+                        "revenue": 1275.0,
+                        "gross_profit": 586.5,
+                        "operating_income": 306.0,
+                        "net_income": 260.1,
+                        "rd_expense": 158.7,
+                        "headcount": 10440,
+                        "gross_margin": 46.0,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.4,
+                        "rd_pct_rev": 12.45,
+                        "rev_per_emp": 122126.4,
+                        "gp_per_emp": 56178.2,
+                        "op_per_emp": 29310.3,
+                        "ni_per_emp": 24913.8,
+                        "rd_per_emp": 15201.1,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2026 Q3": {
+                        "revenue": 1326.0,
+                        "gross_profit": 610.0,
+                        "operating_income": 318.2,
+                        "net_income": 270.5,
+                        "rd_expense": 165.1,
+                        "headcount": 10520,
+                        "gross_margin": 46.0,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.4,
+                        "rd_pct_rev": 12.45,
+                        "rev_per_emp": 126045.6,
+                        "gp_per_emp": 57984.8,
+                        "op_per_emp": 30247.1,
+                        "ni_per_emp": 25712.9,
+                        "rd_per_emp": 15693.9,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                },
+                "2026 Q4": {
+                        "revenue": 1326.0,
+                        "gross_profit": 610.0,
+                        "operating_income": 318.2,
+                        "net_income": 270.5,
+                        "rd_expense": 165.1,
+                        "headcount": 10600,
+                        "gross_margin": 46.0,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.4,
+                        "rd_pct_rev": 12.45,
+                        "rev_per_emp": 125094.3,
+                        "gp_per_emp": 57547.2,
+                        "op_per_emp": 30018.9,
+                        "ni_per_emp": 25518.9,
+                        "rd_per_emp": 15575.5,
+                        "rev_growth_yoy": 8.5,
+                        "gp_growth_yoy": 10.0,
+                        "op_growth_yoy": 18.0,
+                        "ni_growth_yoy": 15.0,
+                        "rd_growth_yoy": 2.5,
+                        "hc_growth_yoy": 1.0,
+                        "gm_diff_pp": 1.2,
+                        "op_diff_pp": 1.5
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Mobile & RF Front-End (5G/4G 智慧手機射頻前端模組)",
+                        "Broad Markets (車用/物聯網/WiFi 7/基礎設施)"
+                ],
+                "data": {
+                        "2023 Q1": {
+                                "value": [
+                                        713.4,
+                                        384.2
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2023 Q2": {
+                                "value": [
+                                        775.5,
+                                        417.5
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2023 Q3": {
+                                "value": [
+                                        806.5,
+                                        434.2
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2023 Q4": {
+                                "value": [
+                                        806.5,
+                                        434.2
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2024 Q1": {
+                                "value": [
+                                        624.8,
+                                        336.4
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2024 Q2": {
+                                "value": [
+                                        679.1,
+                                        365.7
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2024 Q3": {
+                                "value": [
+                                        706.2,
+                                        380.3
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2024 Q4": {
+                                "value": [
+                                        706.2,
+                                        380.3
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2025 Q1": {
+                                "value": [
+                                        684.7,
+                                        368.7
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2025 Q2": {
+                                "value": [
+                                        744.2,
+                                        400.8
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2025 Q3": {
+                                "value": [
+                                        774.0,
+                                        416.8
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2025 Q4": {
+                                "value": [
+                                        774.0,
+                                        416.8
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2026 Q1": {
+                                "value": [
+                                        762.5,
+                                        410.5
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2026 Q2": {
+                                "value": [
+                                        828.8,
+                                        446.2
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2026 Q3": {
+                                "value": [
+                                        861.9,
+                                        464.1
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        },
+                        "2026 Q4": {
+                                "value": [
+                                        861.9,
+                                        464.1
+                                ],
+                                "volume": [
+                                        65.0,
+                                        35.0
+                                ]
+                        }
+                }
+        }
+},
+    "agilent": {
+        "company_name": "Agilent Technologies, Inc. (安捷倫科技 / 計測分析儀器)",
+        "ticker": "A",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": [
+                "2023 Q1",
+                "2023 Q2",
+                "2023 Q3",
+                "2023 Q4",
+                "2024 Q1",
+                "2024 Q2",
+                "2024 Q3",
+                "2024 Q4",
+                "2025 Q1",
+                "2025 Q2",
+                "2025 Q3",
+                "2025 Q4",
+                "2026 Q1",
+                "2026 Q2",
+                "2026 Q3",
+                "2026 Q4"
+        ],
+        "financials": {
+                "2023 Q1": {
+                        "revenue": 1571.6,
+                        "gross_profit": 797.0,
+                        "operating_income": 361.2,
+                        "net_income": 303.4,
+                        "rd_expense": 118.2,
+                        "headcount": 17860,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 87995.5,
+                        "gp_per_emp": 44624.9,
+                        "op_per_emp": 20224.0,
+                        "ni_per_emp": 16987.7,
+                        "rd_per_emp": 6618.1,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q2": {
+                        "revenue": 1708.2,
+                        "gross_profit": 866.2,
+                        "operating_income": 392.5,
+                        "net_income": 329.7,
+                        "rd_expense": 128.5,
+                        "headcount": 17940,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 95217.4,
+                        "gp_per_emp": 48283.2,
+                        "op_per_emp": 21878.5,
+                        "ni_per_emp": 18377.9,
+                        "rd_per_emp": 7162.8,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q3": {
+                        "revenue": 1776.6,
+                        "gross_profit": 900.9,
+                        "operating_income": 408.3,
+                        "net_income": 343.0,
+                        "rd_expense": 133.6,
+                        "headcount": 18020,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 98590.5,
+                        "gp_per_emp": 49994.5,
+                        "op_per_emp": 22658.2,
+                        "ni_per_emp": 19034.4,
+                        "rd_per_emp": 7414.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q4": {
+                        "revenue": 1776.6,
+                        "gross_profit": 900.9,
+                        "operating_income": 408.3,
+                        "net_income": 343.0,
+                        "rd_expense": 133.6,
+                        "headcount": 18100,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 98154.7,
+                        "gp_per_emp": 49773.5,
+                        "op_per_emp": 22558.0,
+                        "ni_per_emp": 18950.3,
+                        "rd_per_emp": 7381.2,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2024 Q1": {
+                        "revenue": 1496.2,
+                        "gross_profit": 791.2,
+                        "operating_income": 344.1,
+                        "net_income": 289.0,
+                        "rd_expense": 113.9,
+                        "headcount": 17660,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 84722.5,
+                        "gp_per_emp": 44801.8,
+                        "op_per_emp": 19484.7,
+                        "ni_per_emp": 16364.7,
+                        "rd_per_emp": 6449.6,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2024 Q2": {
+                        "revenue": 1626.2,
+                        "gross_profit": 859.9,
+                        "operating_income": 374.0,
+                        "net_income": 314.2,
+                        "rd_expense": 123.8,
+                        "headcount": 17740,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 91668.5,
+                        "gp_per_emp": 48472.4,
+                        "op_per_emp": 21082.3,
+                        "ni_per_emp": 17711.4,
+                        "rd_per_emp": 6978.6,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2024 Q3": {
+                        "revenue": 1691.3,
+                        "gross_profit": 894.4,
+                        "operating_income": 389.0,
+                        "net_income": 326.8,
+                        "rd_expense": 128.7,
+                        "headcount": 17820,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 94910.2,
+                        "gp_per_emp": 50190.8,
+                        "op_per_emp": 21829.4,
+                        "ni_per_emp": 18338.9,
+                        "rd_per_emp": 7222.2,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2024 Q4": {
+                        "revenue": 1691.3,
+                        "gross_profit": 894.4,
+                        "operating_income": 389.0,
+                        "net_income": 326.8,
+                        "rd_expense": 128.7,
+                        "headcount": 17900,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 94486.0,
+                        "gp_per_emp": 49966.5,
+                        "op_per_emp": 21731.8,
+                        "ni_per_emp": 18257.0,
+                        "rd_per_emp": 7189.9,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q1": {
+                        "revenue": 1591.6,
+                        "gross_profit": 862.6,
+                        "operating_income": 382.0,
+                        "net_income": 320.9,
+                        "rd_expense": 120.8,
+                        "headcount": 17960,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 88619.2,
+                        "gp_per_emp": 48029.0,
+                        "op_per_emp": 21269.5,
+                        "ni_per_emp": 17867.5,
+                        "rd_per_emp": 6726.1,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q2": {
+                        "revenue": 1730.0,
+                        "gross_profit": 937.7,
+                        "operating_income": 415.2,
+                        "net_income": 348.8,
+                        "rd_expense": 131.3,
+                        "headcount": 18040,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 95898.0,
+                        "gp_per_emp": 51978.9,
+                        "op_per_emp": 23015.5,
+                        "ni_per_emp": 19334.8,
+                        "rd_per_emp": 7278.3,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q3": {
+                        "revenue": 1799.2,
+                        "gross_profit": 975.2,
+                        "operating_income": 431.8,
+                        "net_income": 362.7,
+                        "rd_expense": 136.6,
+                        "headcount": 18120,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 99293.6,
+                        "gp_per_emp": 53819.0,
+                        "op_per_emp": 23830.0,
+                        "ni_per_emp": 20016.6,
+                        "rd_per_emp": 7538.6,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q4": {
+                        "revenue": 1799.2,
+                        "gross_profit": 975.2,
+                        "operating_income": 431.8,
+                        "net_income": 362.7,
+                        "rd_expense": 136.6,
+                        "headcount": 18200,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 98857.1,
+                        "gp_per_emp": 53582.4,
+                        "op_per_emp": 23725.3,
+                        "ni_per_emp": 19928.6,
+                        "rd_per_emp": 7505.5,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q1": {
+                        "revenue": 1713.5,
+                        "gross_profit": 951.0,
+                        "operating_income": 428.4,
+                        "net_income": 359.9,
+                        "rd_expense": 128.9,
+                        "headcount": 18260,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 93839.0,
+                        "gp_per_emp": 52081.1,
+                        "op_per_emp": 23461.1,
+                        "ni_per_emp": 19709.7,
+                        "rd_per_emp": 7059.1,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q2": {
+                        "revenue": 1862.5,
+                        "gross_profit": 1033.7,
+                        "operating_income": 465.6,
+                        "net_income": 391.1,
+                        "rd_expense": 140.1,
+                        "headcount": 18340,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 101554.0,
+                        "gp_per_emp": 56363.1,
+                        "op_per_emp": 25387.1,
+                        "ni_per_emp": 21325.0,
+                        "rd_per_emp": 7639.0,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q3": {
+                        "revenue": 1937.0,
+                        "gross_profit": 1075.0,
+                        "operating_income": 484.2,
+                        "net_income": 406.7,
+                        "rd_expense": 145.7,
+                        "headcount": 18420,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 105157.4,
+                        "gp_per_emp": 58360.5,
+                        "op_per_emp": 26286.6,
+                        "ni_per_emp": 22079.3,
+                        "rd_per_emp": 7909.9,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q4": {
+                        "revenue": 1937.0,
+                        "gross_profit": 1075.0,
+                        "operating_income": 484.2,
+                        "net_income": 406.7,
+                        "rd_expense": 145.7,
+                        "headcount": 18500,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 104702.7,
+                        "gp_per_emp": 58108.1,
+                        "op_per_emp": 26173.0,
+                        "ni_per_emp": 21983.8,
+                        "rd_per_emp": 7875.7,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Life Sciences & Applied Markets (生命科學與半導體材料化學分析儀器 LSAG)",
+                        "Agilent CrossLab (實驗室耗材/試劑/服務與儀器維護 ACG)",
+                        "Diagnostics & Genomics (診斷/基因檢測/病理切片 DGG)"
+                ],
+                "data": {
+                        "2023 Q1": {
+                                "value": [
+                                        864.4,
+                                        581.5,
+                                        125.7
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2023 Q2": {
+                                "value": [
+                                        939.5,
+                                        632.0,
+                                        136.7
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2023 Q3": {
+                                "value": [
+                                        977.1,
+                                        657.3,
+                                        142.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2023 Q4": {
+                                "value": [
+                                        977.1,
+                                        657.3,
+                                        142.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q1": {
+                                "value": [
+                                        822.9,
+                                        553.6,
+                                        119.7
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q2": {
+                                "value": [
+                                        894.4,
+                                        601.7,
+                                        130.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q3": {
+                                "value": [
+                                        930.2,
+                                        625.8,
+                                        135.3
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q4": {
+                                "value": [
+                                        930.2,
+                                        625.8,
+                                        135.3
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q1": {
+                                "value": [
+                                        875.4,
+                                        588.9,
+                                        127.3
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q2": {
+                                "value": [
+                                        951.5,
+                                        640.1,
+                                        138.4
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q3": {
+                                "value": [
+                                        989.6,
+                                        665.7,
+                                        143.9
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q4": {
+                                "value": [
+                                        989.6,
+                                        665.7,
+                                        143.9
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q1": {
+                                "value": [
+                                        942.4,
+                                        634.0,
+                                        137.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q2": {
+                                "value": [
+                                        1024.4,
+                                        689.1,
+                                        149.0
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q3": {
+                                "value": [
+                                        1065.4,
+                                        716.7,
+                                        155.0
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q4": {
+                                "value": [
+                                        1065.4,
+                                        716.7,
+                                        155.0
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        }
+                }
+        }
+},
+    "a": {
+        "company_name": "Agilent Technologies, Inc. (安捷倫科技 / 計測分析儀器)",
+        "ticker": "A",
+        "currency": "USD (Millions)",
+        "unit": "$M",
+        "freq": "quarterly",
+        "years": [
+                "2023 Q1",
+                "2023 Q2",
+                "2023 Q3",
+                "2023 Q4",
+                "2024 Q1",
+                "2024 Q2",
+                "2024 Q3",
+                "2024 Q4",
+                "2025 Q1",
+                "2025 Q2",
+                "2025 Q3",
+                "2025 Q4",
+                "2026 Q1",
+                "2026 Q2",
+                "2026 Q3",
+                "2026 Q4"
+        ],
+        "financials": {
+                "2023 Q1": {
+                        "revenue": 1571.6,
+                        "gross_profit": 797.0,
+                        "operating_income": 361.2,
+                        "net_income": 303.4,
+                        "rd_expense": 118.2,
+                        "headcount": 17860,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 87995.5,
+                        "gp_per_emp": 44624.9,
+                        "op_per_emp": 20224.0,
+                        "ni_per_emp": 16987.7,
+                        "rd_per_emp": 6618.1,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q2": {
+                        "revenue": 1708.2,
+                        "gross_profit": 866.2,
+                        "operating_income": 392.5,
+                        "net_income": 329.7,
+                        "rd_expense": 128.5,
+                        "headcount": 17940,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 95217.4,
+                        "gp_per_emp": 48283.2,
+                        "op_per_emp": 21878.5,
+                        "ni_per_emp": 18377.9,
+                        "rd_per_emp": 7162.8,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q3": {
+                        "revenue": 1776.6,
+                        "gross_profit": 900.9,
+                        "operating_income": 408.3,
+                        "net_income": 343.0,
+                        "rd_expense": 133.6,
+                        "headcount": 18020,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 98590.5,
+                        "gp_per_emp": 49994.5,
+                        "op_per_emp": 22658.2,
+                        "ni_per_emp": 19034.4,
+                        "rd_per_emp": 7414.0,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2023 Q4": {
+                        "revenue": 1776.6,
+                        "gross_profit": 900.9,
+                        "operating_income": 408.3,
+                        "net_income": 343.0,
+                        "rd_expense": 133.6,
+                        "headcount": 18100,
+                        "gross_margin": 50.71,
+                        "operating_margin": 22.98,
+                        "net_margin": 19.3,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 98154.7,
+                        "gp_per_emp": 49773.5,
+                        "op_per_emp": 22558.0,
+                        "ni_per_emp": 18950.3,
+                        "rd_per_emp": 7381.2,
+                        "rev_growth_yoy": None,
+                        "gp_growth_yoy": None,
+                        "op_growth_yoy": None,
+                        "ni_growth_yoy": None,
+                        "rd_growth_yoy": None,
+                        "hc_growth_yoy": None,
+                        "gm_diff_pp": None,
+                        "op_diff_pp": None
+                },
+                "2024 Q1": {
+                        "revenue": 1496.2,
+                        "gross_profit": 791.2,
+                        "operating_income": 344.1,
+                        "net_income": 289.0,
+                        "rd_expense": 113.9,
+                        "headcount": 17660,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 84722.5,
+                        "gp_per_emp": 44801.8,
+                        "op_per_emp": 19484.7,
+                        "ni_per_emp": 16364.7,
+                        "rd_per_emp": 6449.6,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2024 Q2": {
+                        "revenue": 1626.2,
+                        "gross_profit": 859.9,
+                        "operating_income": 374.0,
+                        "net_income": 314.2,
+                        "rd_expense": 123.8,
+                        "headcount": 17740,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 91668.5,
+                        "gp_per_emp": 48472.4,
+                        "op_per_emp": 21082.3,
+                        "ni_per_emp": 17711.4,
+                        "rd_per_emp": 6978.6,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2024 Q3": {
+                        "revenue": 1691.3,
+                        "gross_profit": 894.4,
+                        "operating_income": 389.0,
+                        "net_income": 326.8,
+                        "rd_expense": 128.7,
+                        "headcount": 17820,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 94910.2,
+                        "gp_per_emp": 50190.8,
+                        "op_per_emp": 21829.4,
+                        "ni_per_emp": 18338.9,
+                        "rd_per_emp": 7222.2,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2024 Q4": {
+                        "revenue": 1691.3,
+                        "gross_profit": 894.4,
+                        "operating_income": 389.0,
+                        "net_income": 326.8,
+                        "rd_expense": 128.7,
+                        "headcount": 17900,
+                        "gross_margin": 52.88,
+                        "operating_margin": 23.0,
+                        "net_margin": 19.32,
+                        "rd_pct_rev": 7.61,
+                        "rev_per_emp": 94486.0,
+                        "gp_per_emp": 49966.5,
+                        "op_per_emp": 21731.8,
+                        "ni_per_emp": 18257.0,
+                        "rd_per_emp": 7189.9,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q1": {
+                        "revenue": 1591.6,
+                        "gross_profit": 862.6,
+                        "operating_income": 382.0,
+                        "net_income": 320.9,
+                        "rd_expense": 120.8,
+                        "headcount": 17960,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 88619.2,
+                        "gp_per_emp": 48029.0,
+                        "op_per_emp": 21269.5,
+                        "ni_per_emp": 17867.5,
+                        "rd_per_emp": 6726.1,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q2": {
+                        "revenue": 1730.0,
+                        "gross_profit": 937.7,
+                        "operating_income": 415.2,
+                        "net_income": 348.8,
+                        "rd_expense": 131.3,
+                        "headcount": 18040,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 95898.0,
+                        "gp_per_emp": 51978.9,
+                        "op_per_emp": 23015.5,
+                        "ni_per_emp": 19334.8,
+                        "rd_per_emp": 7278.3,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q3": {
+                        "revenue": 1799.2,
+                        "gross_profit": 975.2,
+                        "operating_income": 431.8,
+                        "net_income": 362.7,
+                        "rd_expense": 136.6,
+                        "headcount": 18120,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 99293.6,
+                        "gp_per_emp": 53819.0,
+                        "op_per_emp": 23830.0,
+                        "ni_per_emp": 20016.6,
+                        "rd_per_emp": 7538.6,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2025 Q4": {
+                        "revenue": 1799.2,
+                        "gross_profit": 975.2,
+                        "operating_income": 431.8,
+                        "net_income": 362.7,
+                        "rd_expense": 136.6,
+                        "headcount": 18200,
+                        "gross_margin": 54.2,
+                        "operating_margin": 24.0,
+                        "net_margin": 20.16,
+                        "rd_pct_rev": 7.59,
+                        "rev_per_emp": 98857.1,
+                        "gp_per_emp": 53582.4,
+                        "op_per_emp": 23725.3,
+                        "ni_per_emp": 19928.6,
+                        "rd_per_emp": 7505.5,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q1": {
+                        "revenue": 1713.5,
+                        "gross_profit": 951.0,
+                        "operating_income": 428.4,
+                        "net_income": 359.9,
+                        "rd_expense": 128.9,
+                        "headcount": 18260,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 93839.0,
+                        "gp_per_emp": 52081.1,
+                        "op_per_emp": 23461.1,
+                        "ni_per_emp": 19709.7,
+                        "rd_per_emp": 7059.1,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q2": {
+                        "revenue": 1862.5,
+                        "gross_profit": 1033.7,
+                        "operating_income": 465.6,
+                        "net_income": 391.1,
+                        "rd_expense": 140.1,
+                        "headcount": 18340,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 101554.0,
+                        "gp_per_emp": 56363.1,
+                        "op_per_emp": 25387.1,
+                        "ni_per_emp": 21325.0,
+                        "rd_per_emp": 7639.0,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q3": {
+                        "revenue": 1937.0,
+                        "gross_profit": 1075.0,
+                        "operating_income": 484.2,
+                        "net_income": 406.7,
+                        "rd_expense": 145.7,
+                        "headcount": 18420,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 105157.4,
+                        "gp_per_emp": 58360.5,
+                        "op_per_emp": 26286.6,
+                        "ni_per_emp": 22079.3,
+                        "rd_per_emp": 7909.9,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                },
+                "2026 Q4": {
+                        "revenue": 1937.0,
+                        "gross_profit": 1075.0,
+                        "operating_income": 484.2,
+                        "net_income": 406.7,
+                        "rd_expense": 145.7,
+                        "headcount": 18500,
+                        "gross_margin": 55.5,
+                        "operating_margin": 25.0,
+                        "net_margin": 21.0,
+                        "rd_pct_rev": 7.52,
+                        "rev_per_emp": 104702.7,
+                        "gp_per_emp": 58108.1,
+                        "op_per_emp": 26173.0,
+                        "ni_per_emp": 21983.8,
+                        "rd_per_emp": 7875.7,
+                        "rev_growth_yoy": 6.5,
+                        "gp_growth_yoy": 8.0,
+                        "op_growth_yoy": 11.0,
+                        "ni_growth_yoy": 10.0,
+                        "rd_growth_yoy": 5.0,
+                        "hc_growth_yoy": 1.5,
+                        "gm_diff_pp": 1.0,
+                        "op_diff_pp": 0.8
+                }
+        },
+        "sales_breakdown": {
+                "categories": [
+                        "Life Sciences & Applied Markets (生命科學與半導體材料化學分析儀器 LSAG)",
+                        "Agilent CrossLab (實驗室耗材/試劑/服務與儀器維護 ACG)",
+                        "Diagnostics & Genomics (診斷/基因檢測/病理切片 DGG)"
+                ],
+                "data": {
+                        "2023 Q1": {
+                                "value": [
+                                        864.4,
+                                        581.5,
+                                        125.7
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2023 Q2": {
+                                "value": [
+                                        939.5,
+                                        632.0,
+                                        136.7
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2023 Q3": {
+                                "value": [
+                                        977.1,
+                                        657.3,
+                                        142.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2023 Q4": {
+                                "value": [
+                                        977.1,
+                                        657.3,
+                                        142.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q1": {
+                                "value": [
+                                        822.9,
+                                        553.6,
+                                        119.7
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q2": {
+                                "value": [
+                                        894.4,
+                                        601.7,
+                                        130.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q3": {
+                                "value": [
+                                        930.2,
+                                        625.8,
+                                        135.3
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2024 Q4": {
+                                "value": [
+                                        930.2,
+                                        625.8,
+                                        135.3
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q1": {
+                                "value": [
+                                        875.4,
+                                        588.9,
+                                        127.3
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q2": {
+                                "value": [
+                                        951.5,
+                                        640.1,
+                                        138.4
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q3": {
+                                "value": [
+                                        989.6,
+                                        665.7,
+                                        143.9
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2025 Q4": {
+                                "value": [
+                                        989.6,
+                                        665.7,
+                                        143.9
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q1": {
+                                "value": [
+                                        942.4,
+                                        634.0,
+                                        137.1
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q2": {
+                                "value": [
+                                        1024.4,
+                                        689.1,
+                                        149.0
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q3": {
+                                "value": [
+                                        1065.4,
+                                        716.7,
+                                        155.0
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        },
+                        "2026 Q4": {
+                                "value": [
+                                        1065.4,
+                                        716.7,
+                                        155.0
+                                ],
+                                "volume": [
+                                        55.0,
+                                        37.0,
+                                        8.0
+                                ]
+                        }
+                }
+        }
+},
     "lrcx": {
     "company_name": "Lam Research Corporation (LRCX / 科林研發)",
     "ticker": "LRCX",

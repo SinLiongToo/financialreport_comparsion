@@ -1,0 +1,334 @@
+{
+  "company_name": "Texas Instruments Incorporated (德州儀器)",
+  "ticker": "TXN",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 14461.0,
+      "gross_profit": 9273.0,
+      "operating_income": 5707.0,
+      "net_income": 5595.0,
+      "rd_expense": 1530.0,
+      "headcount": 30000,
+      "gross_margin": 64.12,
+      "operating_margin": 39.46,
+      "net_margin": 38.69,
+      "rd_pct_rev": 10.58,
+      "rev_per_emp": 482033.0,
+      "gp_per_emp": 309100.0,
+      "op_per_emp": 190233.0,
+      "ni_per_emp": 186500.0,
+      "rd_per_emp": 51000.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 18344.0,
+      "gross_profit": 12377.0,
+      "operating_income": 8995.0,
+      "net_income": 7769.0,
+      "rd_expense": 1554.0,
+      "headcount": 31000,
+      "gross_margin": 67.47,
+      "operating_margin": 49.04,
+      "net_margin": 42.35,
+      "rd_pct_rev": 8.47,
+      "rev_per_emp": 591742.0,
+      "gp_per_emp": 399258.0,
+      "op_per_emp": 290161.0,
+      "ni_per_emp": 250613.0,
+      "rd_per_emp": 50129.0,
+      "rev_growth_yoy": 26.85,
+      "gp_growth_yoy": 33.47,
+      "op_growth_yoy": 57.61,
+      "ni_growth_yoy": 38.86,
+      "rd_growth_yoy": 1.57,
+      "hc_growth_yoy": 3.33,
+      "gm_diff_pp": 3.35,
+      "op_diff_pp": 9.58
+    },
+    "2022": {
+      "revenue": 20028.0,
+      "gross_profit": 13779.0,
+      "operating_income": 10217.0,
+      "net_income": 8749.0,
+      "rd_expense": 1650.0,
+      "headcount": 33000,
+      "gross_margin": 68.8,
+      "operating_margin": 51.01,
+      "net_margin": 43.68,
+      "rd_pct_rev": 8.24,
+      "rev_per_emp": 606909.0,
+      "gp_per_emp": 417545.0,
+      "op_per_emp": 309606.0,
+      "ni_per_emp": 265121.0,
+      "rd_per_emp": 50000.0,
+      "rev_growth_yoy": 9.18,
+      "gp_growth_yoy": 11.33,
+      "op_growth_yoy": 13.59,
+      "ni_growth_yoy": 12.61,
+      "rd_growth_yoy": 6.18,
+      "hc_growth_yoy": 6.45,
+      "gm_diff_pp": 1.33,
+      "op_diff_pp": 1.97
+    },
+    "2023": {
+      "revenue": 17519.0,
+      "gross_profit": 11019.0,
+      "operating_income": 7258.0,
+      "net_income": 6510.0,
+      "rd_expense": 1863.0,
+      "headcount": 34000,
+      "gross_margin": 62.9,
+      "operating_margin": 41.43,
+      "net_margin": 37.16,
+      "rd_pct_rev": 10.63,
+      "rev_per_emp": 515265.0,
+      "gp_per_emp": 324088.0,
+      "op_per_emp": 213471.0,
+      "ni_per_emp": 191471.0,
+      "rd_per_emp": 54794.0,
+      "rev_growth_yoy": -12.53,
+      "gp_growth_yoy": -20.03,
+      "op_growth_yoy": -28.96,
+      "ni_growth_yoy": -25.59,
+      "rd_growth_yoy": 12.91,
+      "hc_growth_yoy": 3.03,
+      "gm_diff_pp": -5.9,
+      "op_diff_pp": -9.58
+    },
+    "2024": {
+      "revenue": 15640.0,
+      "gross_profit": 9282.0,
+      "operating_income": 5431.0,
+      "net_income": 4812.0,
+      "rd_expense": 1920.0,
+      "headcount": 34000,
+      "gross_margin": 59.35,
+      "operating_margin": 34.72,
+      "net_margin": 30.77,
+      "rd_pct_rev": 12.28,
+      "rev_per_emp": 460000.0,
+      "gp_per_emp": 273000.0,
+      "op_per_emp": 159735.0,
+      "ni_per_emp": 141529.0,
+      "rd_per_emp": 56471.0,
+      "rev_growth_yoy": -10.73,
+      "gp_growth_yoy": -15.76,
+      "op_growth_yoy": -25.17,
+      "ni_growth_yoy": -26.08,
+      "rd_growth_yoy": 3.06,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": -3.55,
+      "op_diff_pp": -6.71
+    },
+    "2025": {
+      "revenue": 17250.0,
+      "gross_profit": 10609.0,
+      "operating_income": 6555.0,
+      "net_income": 5693.0,
+      "rd_expense": 2010.0,
+      "headcount": 34500,
+      "gross_margin": 61.5,
+      "operating_margin": 38.0,
+      "net_margin": 33.0,
+      "rd_pct_rev": 11.65,
+      "rev_per_emp": 500000.0,
+      "gp_per_emp": 307507.0,
+      "op_per_emp": 190000.0,
+      "ni_per_emp": 165014.0,
+      "rd_per_emp": 58261.0,
+      "rev_growth_yoy": 10.29,
+      "gp_growth_yoy": 14.3,
+      "op_growth_yoy": 20.7,
+      "ni_growth_yoy": 18.31,
+      "rd_growth_yoy": 4.69,
+      "hc_growth_yoy": 1.47,
+      "gm_diff_pp": 2.15,
+      "op_diff_pp": 3.28
+    },
+    "2026": {
+      "revenue": 19500.0,
+      "gross_profit": 12383.0,
+      "operating_income": 7800.0,
+      "net_income": 6825.0,
+      "rd_expense": 2145.0,
+      "headcount": 35000,
+      "gross_margin": 63.5,
+      "operating_margin": 40.0,
+      "net_margin": 35.0,
+      "rd_pct_rev": 11.0,
+      "rev_per_emp": 557143.0,
+      "gp_per_emp": 353800.0,
+      "op_per_emp": 222857.0,
+      "ni_per_emp": 195000.0,
+      "rd_per_emp": 61286.0,
+      "rev_growth_yoy": 13.04,
+      "gp_growth_yoy": 16.72,
+      "op_growth_yoy": 18.99,
+      "ni_growth_yoy": 19.88,
+      "rd_growth_yoy": 6.72,
+      "hc_growth_yoy": 1.45,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 2.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Analog (類比晶片/電源管理與信號鏈)",
+      "Embedded Processing (嵌入式處理器/MCU/DSP)",
+      "Other (DLP/計算器/特種晶片)"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          10886.0,
+          2575.0,
+          1000.0
+        ],
+        "volume": [
+          75.3,
+          17.8,
+          6.9
+        ]
+      },
+      "2021": {
+        "value": [
+          14050.0,
+          3048.0,
+          1246.0
+        ],
+        "volume": [
+          76.6,
+          16.6,
+          6.8
+        ]
+      },
+      "2022": {
+        "value": [
+          15362.0,
+          3261.0,
+          1405.0
+        ],
+        "volume": [
+          76.7,
+          16.3,
+          7.0
+        ]
+      },
+      "2023": {
+        "value": [
+          13038.0,
+          3037.0,
+          1444.0
+        ],
+        "volume": [
+          74.4,
+          17.3,
+          8.3
+        ]
+      },
+      "2024": {
+        "value": [
+          11605.0,
+          2750.0,
+          1285.0
+        ],
+        "volume": [
+          74.2,
+          17.6,
+          8.2
+        ]
+      },
+      "2025": {
+        "value": [
+          13050.0,
+          2980.0,
+          1220.0
+        ],
+        "volume": [
+          75.7,
+          17.3,
+          7.0
+        ]
+      },
+      "2026": {
+        "value": [
+          14950.0,
+          3350.0,
+          1200.0
+        ],
+        "volume": [
+          76.7,
+          17.2,
+          6.1
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Texas Instruments maintained 34,000-35,000 disciplined headcount while investing aggressively in internal 300mm wafer fab capacity (Sherman & Lehi), expanding gross margin back above 61-63%.",
+      "productivity": "Revenue per FTE reached $460K-$557K with Gross Profit per employee at $273K-$354K, demonstrating the massive cost advantage of 300mm internal analog manufacturing.",
+      "leverage": "Operating income recovered from $5,431M trough toward $7,800M in 2026, delivering high operating margin of 38-40%.",
+      "rd": "R&D expenditures sustained at $1.9B-$2.1B (11.0%-12.3% of revenue), fueling 80,000+ proprietary analog and embedded products portfolio.",
+      "growth": "Automotive and Industrial end-market content growth paired with factory automation drives multi-year secular semiconductor recovery.",
+      "breakdown": "Analog accounts for 74%-77% of total revenue, anchoring global #1 market share in power management and signal chain."
+    },
+    "zh": {
+      "pivot": "德州儀器全球員工人數維持在 34,000～35,000 人規模，積極自建 12 吋 (300mm) 晶圓廠（Sherman 與 Lehi 廠區），推動毛利率回升至 61%～63.5%。",
+      "productivity": "人均營收達 46 萬～55.7 萬美元/人，人均毛利達 27.3 萬～35.4 萬美元，凸顯 12 吋類比晶圓自製相較 8 吋廠高達 40% 的結構性成本優勢。",
+      "leverage": "營業利益自 2024 年低谷 54.3 億美元強勁回升至 2026 年預估 78 億美元，營業利益率維持 38%～40% 之高水準。",
+      "rd": "研發支出達 19.2 億～21.5 億美元（佔營收 11.0%～12.3%），支撐全球超過 80,000 種料號之龐大產品庫與客戶長期黏著度。",
+      "growth": "車用電子化（電動車電池管理 BMS、先進駕駛輔助 ADAS）與工業自動化帶動單機類比晶片內含價值 (Content per Car) 持續翻倍。",
+      "breakdown": "類比晶片事業群貢獻 74%～77% 營收，穩居全球電源管理 (Power) 與信號鏈 (Signal Chain) 第一大霸主地位。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 5,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Discrete Analog Fab Operations",
+        "desc": "Standard 150mm/200mm fab lines with external packaging."
+      },
+      {
+        "level": 2,
+        "name": "Product Portfolio Breadth",
+        "desc": "Catalog portfolio scaling across 40,000+ SKUs with broad distribution channel."
+      },
+      {
+        "level": 3,
+        "name": "Internal 300mm Analog Fabs",
+        "desc": "Pioneered 300mm analog wafer fabs (RFAB, DMOS6) achieving 40% lower die cost."
+      },
+      {
+        "level": 4,
+        "name": "Sherman & Lehi Mega-Fabs",
+        "desc": "Multi-site 300mm internal capacity with direct TI.com online enterprise procurement."
+      },
+      {
+        "level": 5,
+        "name": "Global Analog IDM Autonomy",
+        "desc": "Fully automated 300mm internal manufacturing with 80,000+ portfolio & highest industrial cash flow."
+      }
+    ]
+  }
+}

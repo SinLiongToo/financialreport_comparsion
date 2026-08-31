@@ -1,0 +1,319 @@
+{
+  "company_name": "Skyworks Solutions, Inc. (希佳訊通訊)",
+  "ticker": "SWKS",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 3356.0,
+      "gross_profit": 1610.0,
+      "operating_income": 964.0,
+      "net_income": 815.0,
+      "rd_expense": 445.0,
+      "headcount": 9900,
+      "gross_margin": 47.97,
+      "operating_margin": 28.72,
+      "net_margin": 24.28,
+      "rd_pct_rev": 13.26,
+      "rev_per_emp": 338990.0,
+      "gp_per_emp": 162626.0,
+      "op_per_emp": 97374.0,
+      "ni_per_emp": 82323.0,
+      "rd_per_emp": 44949.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 5109.0,
+      "gross_profit": 2489.0,
+      "operating_income": 1739.0,
+      "net_income": 1498.0,
+      "rd_expense": 505.0,
+      "headcount": 11000,
+      "gross_margin": 48.72,
+      "operating_margin": 34.04,
+      "net_margin": 29.32,
+      "rd_pct_rev": 9.88,
+      "rev_per_emp": 464455.0,
+      "gp_per_emp": 226273.0,
+      "op_per_emp": 158091.0,
+      "ni_per_emp": 136182.0,
+      "rd_per_emp": 45909.0,
+      "rev_growth_yoy": 52.23,
+      "gp_growth_yoy": 54.6,
+      "op_growth_yoy": 80.39,
+      "ni_growth_yoy": 83.8,
+      "rd_growth_yoy": 13.48,
+      "hc_growth_yoy": 11.11,
+      "gm_diff_pp": 0.75,
+      "op_diff_pp": 5.32
+    },
+    "2022": {
+      "revenue": 5486.0,
+      "gross_profit": 2706.0,
+      "operating_income": 1889.0,
+      "net_income": 1275.0,
+      "rd_expense": 557.0,
+      "headcount": 11500,
+      "gross_margin": 49.33,
+      "operating_margin": 34.43,
+      "net_margin": 23.24,
+      "rd_pct_rev": 10.15,
+      "rev_per_emp": 477043.0,
+      "gp_per_emp": 235304.0,
+      "op_per_emp": 164261.0,
+      "ni_per_emp": 110870.0,
+      "rd_per_emp": 48435.0,
+      "rev_growth_yoy": 7.38,
+      "gp_growth_yoy": 8.72,
+      "op_growth_yoy": 8.63,
+      "ni_growth_yoy": -14.89,
+      "rd_growth_yoy": 10.3,
+      "hc_growth_yoy": 4.55,
+      "gm_diff_pp": 0.61,
+      "op_diff_pp": 0.39
+    },
+    "2023": {
+      "revenue": 4772.0,
+      "gross_profit": 2201.0,
+      "operating_income": 1278.0,
+      "net_income": 983.0,
+      "rd_expense": 582.0,
+      "headcount": 10800,
+      "gross_margin": 46.12,
+      "operating_margin": 26.78,
+      "net_margin": 20.6,
+      "rd_pct_rev": 12.2,
+      "rev_per_emp": 441852.0,
+      "gp_per_emp": 203796.0,
+      "op_per_emp": 118333.0,
+      "ni_per_emp": 91019.0,
+      "rd_per_emp": 53889.0,
+      "rev_growth_yoy": -13.02,
+      "gp_growth_yoy": -18.66,
+      "op_growth_yoy": -32.35,
+      "ni_growth_yoy": -22.9,
+      "rd_growth_yoy": 4.49,
+      "hc_growth_yoy": -6.09,
+      "gm_diff_pp": -3.21,
+      "op_diff_pp": -7.65
+    },
+    "2024": {
+      "revenue": 4179.0,
+      "gross_profit": 1665.0,
+      "operating_income": 691.0,
+      "net_income": 544.0,
+      "rd_expense": 598.0,
+      "headcount": 10200,
+      "gross_margin": 39.84,
+      "operating_margin": 16.53,
+      "net_margin": 13.02,
+      "rd_pct_rev": 14.31,
+      "rev_per_emp": 409706.0,
+      "gp_per_emp": 163235.0,
+      "op_per_emp": 67745.0,
+      "ni_per_emp": 53333.0,
+      "rd_per_emp": 58627.0,
+      "rev_growth_yoy": -12.43,
+      "gp_growth_yoy": -24.35,
+      "op_growth_yoy": -45.93,
+      "ni_growth_yoy": -44.66,
+      "rd_growth_yoy": 2.75,
+      "hc_growth_yoy": -5.56,
+      "gm_diff_pp": -6.28,
+      "op_diff_pp": -10.25
+    },
+    "2025": {
+      "revenue": 4580.0,
+      "gross_profit": 1992.0,
+      "operating_income": 962.0,
+      "net_income": 780.0,
+      "rd_expense": 610.0,
+      "headcount": 10400,
+      "gross_margin": 43.5,
+      "operating_margin": 21.0,
+      "net_margin": 17.03,
+      "rd_pct_rev": 13.32,
+      "rev_per_emp": 440385.0,
+      "gp_per_emp": 191538.0,
+      "op_per_emp": 92500.0,
+      "ni_per_emp": 75000.0,
+      "rd_per_emp": 58654.0,
+      "rev_growth_yoy": 9.59,
+      "gp_growth_yoy": 19.64,
+      "op_growth_yoy": 39.22,
+      "ni_growth_yoy": 43.38,
+      "rd_growth_yoy": 2.01,
+      "hc_growth_yoy": 1.96,
+      "gm_diff_pp": 3.66,
+      "op_diff_pp": 4.47
+    },
+    "2026": {
+      "revenue": 5100.0,
+      "gross_profit": 2346.0,
+      "operating_income": 1224.0,
+      "net_income": 1020.0,
+      "rd_expense": 635.0,
+      "headcount": 10600,
+      "gross_margin": 46.0,
+      "operating_margin": 24.0,
+      "net_margin": 20.0,
+      "rd_pct_rev": 12.45,
+      "rev_per_emp": 481132.0,
+      "gp_per_emp": 221321.0,
+      "op_per_emp": 115472.0,
+      "ni_per_emp": 96226.0,
+      "rd_per_emp": 59906.0,
+      "rev_growth_yoy": 11.35,
+      "gp_growth_yoy": 17.77,
+      "op_growth_yoy": 27.23,
+      "ni_growth_yoy": 30.77,
+      "rd_growth_yoy": 4.1,
+      "hc_growth_yoy": 1.92,
+      "gm_diff_pp": 2.5,
+      "op_diff_pp": 3.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Mobile & RF Front-End (5G/4G 智慧手機射頻前端模組)",
+      "Broad Markets (車用/物聯網/WiFi 7/基礎設施)"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          2280.0,
+          1076.0
+        ],
+        "volume": [
+          67.9,
+          32.1
+        ]
+      },
+      "2021": {
+        "value": [
+          3576.0,
+          1533.0
+        ],
+        "volume": [
+          70.0,
+          30.0
+        ]
+      },
+      "2022": {
+        "value": [
+          3566.0,
+          1920.0
+        ],
+        "volume": [
+          65.0,
+          35.0
+        ]
+      },
+      "2023": {
+        "value": [
+          3054.0,
+          1718.0
+        ],
+        "volume": [
+          64.0,
+          36.0
+        ]
+      },
+      "2024": {
+        "value": [
+          2591.0,
+          1588.0
+        ],
+        "volume": [
+          62.0,
+          38.0
+        ]
+      },
+      "2025": {
+        "value": [
+          2930.0,
+          1650.0
+        ],
+        "volume": [
+          64.0,
+          36.0
+        ]
+      },
+      "2026": {
+        "value": [
+          3366.0,
+          1734.0
+        ],
+        "volume": [
+          66.0,
+          34.0
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Skyworks adjusted workforce from 11,500 down to ~10,200-10,600 FTEs while expanding non-mobile Broad Markets mix, rebounding gross margin toward 43.5%-46.0%.",
+      "productivity": "Revenue per FTE stabilized at $410K-$481K with Gross Profit per employee recovering to $191K-$221K as 5G Advanced and Wi-Fi 7 content ramps up.",
+      "leverage": "Operating income rebounded from $691M to $1,224M, restoring operating margin toward 24.0%.",
+      "rd": "R&D expenditures maintained at ~$600M-$635M (12.5%-14.3% of revenue), securing proprietary BAW/SAW filters and Sky5 front-end integration.",
+      "growth": "Automotive connectivity, satellite IoT, and edge AI device RF complexity provide secular growth beyond mobile smartphone cycles.",
+      "breakdown": "Mobile RF accounts for 62%-70% of revenue with major OEM flagship integration, while Broad Markets contributes higher margin diversification."
+    },
+    "zh": {
+      "pivot": "Skyworks 將全球員工人數精實調整至 10,200～10,600 人，擴大高毛利車用與物聯網 (Broad Markets) 比重，推升毛利率自 39.8% 谷底回升至 43.5%～46.0%。",
+      "productivity": "人均營收達 41 萬～48.1 萬美元/人，人均毛利回升至 19.1 萬～22.1 萬美元，受惠於 5G Advanced、WiFi 7 與車載連網射頻前端模組出貨量擴張。",
+      "leverage": "營業利益自 2024 年低點 6.9 億美元倍數回升至 2026 年預估 12.2 億美元，營業利益率重返 24.0% 水準。",
+      "rd": "研發支出維持於 6.0 億～6.35 億美元（佔營收 12.5%～14.3%），鞏固專利體積聲波 (BAW/SAW) 濾波器、功率放大器 (PA) 與 Sky5 高整合模組護城河。",
+      "growth": "智慧型手機 AI 邊緣處理、車聯網 V2X 與低軌衛星 (LEO Satellite) 物聯網推升射頻架構複雜度與單機 ASP 價值。",
+      "breakdown": "行動通訊射頻前端佔 62%～70% 營收（主要供應 Apple 等旗艦機），廣泛市場 (Broad Markets) 貢獻 30%～38% 提供優異之風險分散與毛利支撐。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Discrete RF Components",
+        "desc": "Individual power amplifier and switch components."
+      },
+      {
+        "level": 2,
+        "name": "Sky5 Integrated Modules",
+        "desc": "Integrated front-end modules (FEM) combining PA, LNA, filter, and switches."
+      },
+      {
+        "level": 3,
+        "name": "Broad Markets Diversification",
+        "desc": "Expansion into automotive EV telematics, smart home, and industrial IoT."
+      },
+      {
+        "level": 4,
+        "name": "5G-Advanced & WiFi 7 System Solutions",
+        "desc": "Integrated Sky5 advanced modules with custom BAW filters & satellite NTN."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Edge Connectivity Platform",
+        "desc": "Universal AI edge RF architecture with ultra-low latency & autonomous power management."
+      }
+    ]
+  }
+}

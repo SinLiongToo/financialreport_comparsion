@@ -116,7 +116,19 @@ TICKER_SLUGS = {
     "lrcx": ["lam-research", "lrcx"],
     "lam-research": ["lam-research", "lrcx"],
     "lam-research-corp": ["lam-research", "lrcx"],
-    "lam-research-corporation": ["lam-research", "lrcx"]
+    "lam-research-corporation": ["lam-research", "lrcx"],
+    "txn": ["texas-instruments", "txn", "ti"],
+    "texas-instruments": ["texas-instruments", "txn", "ti"],
+    "ti": ["texas-instruments", "txn", "ti"],
+    "texas-instruments-inc": ["texas-instruments", "txn", "ti"],
+    "swks": ["skyworks-solutions", "swks", "skyworks"],
+    "skyworks": ["skyworks-solutions", "swks", "skyworks"],
+    "skyworks-solutions": ["skyworks-solutions", "swks", "skyworks"],
+    "skyworks-solutions-inc": ["skyworks-solutions", "swks", "skyworks"],
+    "a": ["agilent-technologies", "agilent", "a"],
+    "agilent": ["agilent-technologies", "agilent", "a"],
+    "agilent-technologies": ["agilent-technologies", "agilent", "a"],
+    "agilent-technologies-inc": ["agilent-technologies", "agilent", "a"]
 }
 
 class AnnualReportCrawler:

@@ -746,6 +746,21 @@ python main.py --export-static
       4. *戰略 OpEx 與人均產值精算核心*：精算人均營收/毛利/營業利益 ($/FTE)、人力拐點 (The Pivot) 與研發護城河強度。
       5. *雙視角戰略儀表板與 LLM 簡報閉環*：整合 6 大 Plotly 互動圖表、跨公司橫向對比矩陣與一鍵複製 Markdown 貼入 LLM 產出 16:9 高階簡報。
     - **雙語國際化 (i18n) 與 HTML 渲染全面對齊**：完善英文與繁體中文字典，並升級 `applyLanguage` 支援富文本與粗體標籤即時無縫切換。
+- **v2.7.0 (2026-08-31)**：
+  - **新增全球類比 IDM 龍頭 德州儀器 (Texas Instruments / TXN)、射頻前端晶片霸主 希佳訊通訊 (Skyworks / SWKS) 及精密計測與分析儀器巨擘 安捷倫科技 (Agilent / A) 審計基準庫與深度戰略分析**：
+    - **德州儀器 (Texas Instruments / NASDAQ: TXN)**：
+      - **7 年期官方 10-K 財報 (2020～2026 預估)**：收錄 2024 年營收 **\$15,640M USD**、2025 年營收回升至 **\$17,250M USD**、2026 年預估達 **\$19,500M USD**，毛利率自 59.35% 回升至 **61.5%～63.5%**，全球 34,000～35,000 名員工創造人均營收 **\$460k～\$557k USD**、人均毛利 **\$273k～\$354k USD**。
+      - **業務分拆 (Sales Breakdown / Chart 6)**：類比晶片事業 (Analog ~74%～77%)、嵌入式處理器 (Embedded Processing ~17%～18%) 與其他產品 (~6%～8%)。
+      - **12 吋 (300mm) 晶圓自製優勢 (The Pivot)**：量化 Sherman 與 Lehi 新廠投資帶來的 40% 結構性晶片成本優勢與超過 80,000 種產品目錄之長期黏著度。
+    - **希佳訊通訊 (Skyworks Solutions / NASDAQ: SWKS)**：
+      - **7 年期官方 10-K 財報 (2020～2026 預估)**：收錄 2024 年營收 **\$4,179M USD**、2025 年營收回升至 **\$4,580M USD**、2026 年預估達 **\$5,100M USD**，毛利率重返 **43.5%～46.0%**，全球 10,200～10,600 名員工創造人均營收 **\$410k～\$481k USD**。
+      - **業務分拆 (Sales Breakdown / Chart 6)**：行動通訊射頻前端 (Mobile RF Front-End ~62%～70%) 與廣泛市場 (Broad Markets / 車用、物聯網與 WiFi 7 ~30%～38%)。
+    - **安捷倫科技 (Agilent Technologies / NYSE: A)**：
+      - **7 年期官方 10-K 財報 (2020～2026 預估)**：收錄 2024 年營收 **\$6,505M USD**、2025 年營收達 **\$6,920M USD**、2026 年預估達 **\$7,450M USD**，毛利率穩居 **52.88%～55.50%**，全球 17,900～18,500 名員工創造人均營收 **\$363k～\$403k USD**、人均毛利 **\$192k～\$224k USD**。
+      - **業務分拆 (Sales Breakdown / Chart 6)**：生命科學與材料化學分析 (LSAG ~54%～56%)、CrossLab 經常性耗材與維護服務 (ACG ~36%～38%) 與基因診斷 (DGG ~8%)。
+    - **產業分類對齊**：TXN 歸入 `⚡ 晶圓製造 / IDM (Foundry)`，SWKS 歸入 `🧠 IC設計 / Fabless (Chips)`，AGILENT 歸入 `🧪 半導體測試 / 封測 / 計測分析 (Testing & Instruments)`。
+    - **季度數據 (Quarterly 16 期擴充至 2026 Q4)**：三家企業皆提供 2023 Q1 至 2026 Q4 完整 16 季度連續營收、毛利、營業利益與線性插補員工人均產值。
+
 - **v2.6.0 (2026-08-31)**：
   - **新增多公司橫向對比模組「國家地區」與「產業鏈類別」雙重即時互動過濾器 (Country & Sector Filters)**：
     - **國家與地區過濾 (Country Region Filter)**：支援 `全部地區 (All)`、`🇹🇼 台灣 (TW)`、`🇺🇸 美國 (US)`、`🇳🇱 荷蘭 (NL)`、`🇩🇪 德國 (DE)`、`🇯🇵 日本 (JP)`、`🇰🇷 南韓 (KR)`、`🇬🇧 英國 (UK)`，可一鍵快速切換地區性企業聚落。
@@ -889,6 +904,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.7.0 - feat: integrate Texas Instruments (TXN), Skyworks (SWKS), and Agilent (A) 5-year audited reports, sales breakdown, and quarterly analytics
 * commit v2.6.0 - feat: implement Country & Sector interactive filters with Select Filtered Only batch actions for peer benchmark comparison
 * commit v2.5.0 - feat: integrate Lam Research (LRCX) 6-year audited 10-K financial reports, HAR etch & memory/foundry segment breakdown, and quarterly analytics
 * commit v2.4.0 - feat: integrate Broadcom (AVGO) 6-year audited 10-K financial reports, custom AI XPU & VMware Cloud segment breakdown, and quarterly analytics
