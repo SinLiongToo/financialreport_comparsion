@@ -35,20 +35,20 @@ select#companySelect option, select option {
 /* PRISTINE HIGH-LEGIBILITY LIGHT THEME                                      */
 /* ========================================================================= */
 body.light-theme {
-    background-color: #eef2f6 !important; /* Elegant warm neutral grey background */
+    background-color: #d8e0e9 !important; /* Softer blue-gray, less glare than #eef2f6 */
     color: #1e293b !important;
 }
 
 /* Header & Navigation Bar */
 body.light-theme header {
-    background-color: #ffffff !important;
-    border-color: #e2e8f0 !important;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05) !important;
+    background-color: #e8edf4 !important;
+    border-color: #c8d4e0 !important;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06) !important;
 }
 
 body.light-theme header .bg-slate-800\/90 {
-    background-color: #ffffff !important;
-    border-color: #e2e8f0 !important;
+    background-color: #e8edf4 !important;
+    border-color: #c8d4e0 !important;
 }
 
 /* Header Control Buttons */
@@ -59,19 +59,19 @@ body.light-theme #helpGuideBtn,
 body.light-theme #langToggleBtn,
 body.light-theme #refreshBtn,
 body.light-theme #companySelect {
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05) !important;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.07) !important;
 }
 
 body.light-theme .bg-slate-700,
 body.light-theme .bg-slate-700\/80,
 body.light-theme .bg-slate-700\/90 {
-    background-color: #f1f5f9 !important;
-    border-color: #cbd5e1 !important;
+    background-color: #d6dfe8 !important;
+    border-color: #b0bfcf !important;
     color: #1e293b !important;
 }
 
 body.light-theme .bg-slate-700:hover {
-    background-color: #e2e8f0 !important;
+    background-color: #c8d4e0 !important;
     color: #0f172a !important;
 }
 
@@ -98,12 +98,12 @@ body.light-theme #freqQuarterlyBtn:not(.bg-blue-600) {
 
 /* Help Guide Button */
 body.light-theme #helpGuideBtn {
-    background-color: #e0e7ff !important;
-    border-color: #c7d2fe !important;
+    background-color: #dbeafe !important;
+    border-color: #bfdbfe !important;
     color: #3730a3 !important;
 }
 body.light-theme #helpGuideBtn:hover {
-    background-color: #c7d2fe !important;
+    background-color: #bfdbfe !important;
 }
 body.light-theme #helpGuideBtn i {
     color: #4f46e5 !important;
@@ -111,29 +111,29 @@ body.light-theme #helpGuideBtn i {
 
 /* Theme Toggle Button in Light Mode */
 body.light-theme #themeToggleBtn {
-    background-color: #fef3c7 !important;
-    border-color: #fde68a !important;
-    color: #92400e !important;
+    background-color: #fde68a !important;
+    border-color: #fcd34d !important;
+    color: #78350f !important;
 }
 body.light-theme #themeToggleBtn i {
-    color: #d97706 !important;
+    color: #b45309 !important;
 }
 
 /* Single Company Dropdown */
 body.light-theme #companySelect {
-    background-color: #ffffff !important;
-    border-color: #cbd5e1 !important;
+    background-color: #e8edf4 !important;
+    border-color: #b0bfcf !important;
     color: #0f172a !important;
 }
 
 /* Reload Button */
 body.light-theme #refreshBtn {
-    background-color: #f1f5f9 !important;
-    border-color: #cbd5e1 !important;
+    background-color: #d6dfe8 !important;
+    border-color: #b0bfcf !important;
     color: #334155 !important;
 }
 body.light-theme #refreshBtn:hover {
-    background-color: #e2e8f0 !important;
+    background-color: #c8d4e0 !important;
     color: #0f172a !important;
 }
 
@@ -154,9 +154,9 @@ body.light-theme section,
 body.light-theme .bg-slate-800,
 body.light-theme .bg-slate-800\/80,
 body.light-theme .bg-slate-800\/90 {
-    background-color: #ffffff !important;
-    border-color: #e2e8f0 !important;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.06), 0 2px 4px -2px rgba(0, 0, 0, 0.04) !important;
+    background-color: #eaf0f6 !important;
+    border-color: #c8d4e0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05) !important;
 }
 
 /* Sub-panels & Inputs */
@@ -164,8 +164,8 @@ body.light-theme .bg-slate-900,
 body.light-theme .bg-slate-900\/60,
 body.light-theme .bg-slate-900\/80,
 body.light-theme .bg-slate-900\/90 {
-    background-color: #f8fafc !important;
-    border-color: #cbd5e1 !important;
+    background-color: #dde5ee !important;
+    border-color: #b0bfcf !important;
     color: #0f172a !important;
 }
 
@@ -174,7 +174,7 @@ body.light-theme .border-slate-700,
 body.light-theme .border-slate-700\/60,
 body.light-theme .border-slate-700\/80,
 body.light-theme .border-slate-600 {
-    border-color: #e2e8f0 !important;
+    border-color: #c8d4e0 !important;
 }
 
 /* High-Legibility Typography */
@@ -199,16 +199,16 @@ body.light-theme .text-slate-500 {
 /* Form Inputs */
 body.light-theme input,
 body.light-theme select {
-    background-color: #ffffff !important;
-    border-color: #cbd5e1 !important;
+    background-color: #e8edf4 !important;
+    border-color: #b0bfcf !important;
     color: #0f172a !important;
 }
 
 /* Master Data Table */
 body.light-theme table thead {
-    background-color: #f1f5f9 !important;
+    background-color: #d6dfe8 !important;
     color: #0f172a !important;
-    border-color: #cbd5e1 !important;
+    border-color: #b0bfcf !important;
 }
 
 body.light-theme table thead th {
@@ -217,11 +217,11 @@ body.light-theme table thead th {
 }
 
 body.light-theme table tbody tr {
-    border-color: #e2e8f0 !important;
+    border-color: #c8d4e0 !important;
 }
 
 body.light-theme table tbody tr:hover {
-    background-color: #f8fafc !important;
+    background-color: #dde5ee !important;
 }
 
 body.light-theme table tbody td {
@@ -230,20 +230,20 @@ body.light-theme table tbody td {
 
 /* Modal */
 body.light-theme #helpModal .bg-slate-800 {
-    background-color: #ffffff !important;
-    border-color: #cbd5e1 !important;
+    background-color: #eaf0f6 !important;
+    border-color: #b0bfcf !important;
 }
 
 body.light-theme #helpModal .bg-slate-850,
 body.light-theme #helpModal .bg-slate-900\/60 {
-    background-color: #f8fafc !important;
-    border-color: #e2e8f0 !important;
+    background-color: #dde5ee !important;
+    border-color: #c8d4e0 !important;
 }
 
 body.light-theme pre {
-    background-color: #f8fafc !important;
+    background-color: #dde5ee !important;
     color: #0f172a !important;
-    border-color: #cbd5e1 !important;
+    border-color: #b0bfcf !important;
 }
 
 /* ========================================================================= */

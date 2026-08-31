@@ -1178,8 +1178,8 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
     const tickColor = isLight ? "#1e293b" : "#cbd5e1";
     const lineCol   = isLight ? "#94a3b8" : "#475569";
     // Solid backgrounds — never transparent — so charts are always legible
-    const plotBg    = isLight ? "#f8fafc" : "#0f172a";
-    const paperBg   = isLight ? "#f1f5f9" : "#0f172a";
+    const plotBg    = isLight ? "#dde5ee" : "#0f172a";
+    const paperBg   = isLight ? "#e8edf4" : "#0f172a";
     const clean = {
         paper_bgcolor: paperBg,
         plot_bgcolor:  plotBg,
@@ -1359,27 +1359,27 @@ window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconCl
         const insightEl2  = document.getElementById("zoomModalInsight");
 
         if (card) {
-            card.style.backgroundColor   = isLight ? "#ffffff"  : "";
-            card.style.borderColor        = isLight ? "#cbd5e1"  : "";
+            card.style.backgroundColor   = isLight ? "#e8edf4"  : "";
+            card.style.borderColor        = isLight ? "#b0bfcf"  : "";
         }
         if (header) {
-            header.style.backgroundColor  = isLight ? "#f1f5f9"  : "";
-            header.style.borderBottomColor= isLight ? "#e2e8f0"  : "";
+            header.style.backgroundColor  = isLight ? "#dde5ee"  : "";
+            header.style.borderBottomColor= isLight ? "#c8d4e0"  : "";
         }
         if (body) {
-            body.style.backgroundColor    = isLight ? "#f8fafc"  : "";
+            body.style.backgroundColor    = isLight ? "#dde5ee"  : "";
         }
         if (footer) {
-            footer.style.backgroundColor  = isLight ? "#f1f5f9"  : "";
-            footer.style.borderTopColor   = isLight ? "#e2e8f0"  : "";
+            footer.style.backgroundColor  = isLight ? "#dde5ee"  : "";
+            footer.style.borderTopColor   = isLight ? "#c8d4e0"  : "";
         }
         if (titleEl2)    { titleEl2.style.color    = isLight ? "#0f172a" : ""; }
         if (subtitleEl2) { subtitleEl2.style.color = isLight ? "#475569" : ""; }
         if (insightEl2)  { insightEl2.style.color  = isLight ? "#334155" : ""; }
         if (dlBtn) {
-            dlBtn.style.backgroundColor = isLight ? "#e2e8f0"  : "";
+            dlBtn.style.backgroundColor = isLight ? "#c8d4e0"  : "";
             dlBtn.style.color           = isLight ? "#1e293b"  : "";
-            dlBtn.style.borderColor     = isLight ? "#cbd5e1"  : "";
+            dlBtn.style.borderColor     = isLight ? "#b0bfcf"  : "";
         }
         if (clBtn) {
             clBtn.style.borderColor = isLight ? "#93c5fd" : "";
@@ -1388,12 +1388,12 @@ window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconCl
         // Dual-panel sub-cards (Chart 6)
         const dualPanels = document.querySelectorAll("#zoomedDualContainer > div");
         dualPanels.forEach(panel => {
-            panel.style.backgroundColor = isLight ? "#f1f5f9" : "";
-            panel.style.borderColor     = isLight ? "#cbd5e1" : "";
+            panel.style.backgroundColor = isLight ? "#d6dfe8" : "";
+            panel.style.borderColor     = isLight ? "#b0bfcf" : "";
         });
         const dualLabels = document.querySelectorAll("#zoomedDualContainer > div > div:first-child");
         dualLabels.forEach(lbl => {
-            lbl.style.backgroundColor = isLight ? "rgba(219,234,254,0.5)" : "";
+            lbl.style.backgroundColor = isLight ? "rgba(191,219,254,0.4)" : "";
             lbl.style.borderColor     = isLight ? "#93c5fd" : "";
         });
 
