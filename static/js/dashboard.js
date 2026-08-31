@@ -1442,12 +1442,15 @@ function applyCompareFilters() {
     const chkGrid = document.getElementById("compareCheckboxGrid");
     if (!chkGrid) return;
     const cards = chkGrid.querySelectorAll(".compare-chk-card");
+    const cFilter = (CURRENT_COMPARE_COUNTRY_FILTER || "ALL").toUpperCase();
+    const sFilter = (CURRENT_COMPARE_SECTOR_FILTER || "ALL").toUpperCase();
+
     cards.forEach(card => {
-        const country = card.getAttribute("data-country") || "";
-        const sector = card.getAttribute("data-sector") || "";
+        const country = (card.getAttribute("data-country") || "").toUpperCase();
+        const sector = (card.getAttribute("data-sector") || "").toUpperCase();
         
-        const matchCountry = (CURRENT_COMPARE_COUNTRY_FILTER === "ALL" || country.toUpperCase() === CURRENT_COMPARE_COUNTRY_FILTER.toUpperCase());
-        const matchSector = (CURRENT_COMPARE_SECTOR_FILTER === "ALL" || sector.toUpperCase() === CURRENT_COMPARE_SECTOR_FILTER.toUpperCase());
+        const matchCountry = (cFilter === "ALL" || country === cFilter || (cFilter === "UK" && country === "GB") || (cFilter === "GB" && country === "UK"));
+        const matchSector = (sFilter === "ALL" || sector === sFilter);
         
         if (matchCountry && matchSector) {
             card.style.display = "flex";
