@@ -1,0 +1,304 @@
+{
+  "company_name": "Realtek Semiconductor Corp. (瑞昱半導體 / 2379.TW)",
+  "ticker": "REALTEK",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 2635.9,
+      "gross_profit": 1145.4,
+      "operating_income": 361.6,
+      "net_income": 316.3,
+      "rd_expense": 580.2,
+      "headcount": 5600,
+      "gross_margin": 43.45,
+      "operating_margin": 13.72,
+      "net_margin": 12.0,
+      "rd_pct_rev": 22.01,
+      "rev_per_emp": 470696.4,
+      "gp_per_emp": 204535.7,
+      "op_per_emp": 64571.4,
+      "ni_per_emp": 56482.1,
+      "rd_per_emp": 103607.1,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 3768.0,
+      "gross_profit": 1899.6,
+      "operating_income": 618.8,
+      "net_income": 601.9,
+      "rd_expense": 998.2,
+      "headcount": 6400,
+      "gross_margin": 50.41,
+      "operating_margin": 16.42,
+      "net_margin": 15.97,
+      "rd_pct_rev": 26.49,
+      "rev_per_emp": 588750.0,
+      "gp_per_emp": 296812.5,
+      "op_per_emp": 96687.5,
+      "ni_per_emp": 94046.9,
+      "rd_per_emp": 155968.8,
+      "rev_growth_yoy": 42.95,
+      "gp_growth_yoy": 65.85,
+      "op_growth_yoy": 71.13,
+      "ni_growth_yoy": 90.29,
+      "rd_growth_yoy": 72.04,
+      "hc_growth_yoy": 14.29,
+      "gm_diff_pp": 6.96,
+      "op_diff_pp": 2.7
+    },
+    "2022": {
+      "revenue": 3751.3,
+      "gross_profit": 1833.4,
+      "operating_income": 527.7,
+      "net_income": 543.8,
+      "rd_expense": 1009.4,
+      "headcount": 7100,
+      "gross_margin": 48.87,
+      "operating_margin": 14.07,
+      "net_margin": 14.5,
+      "rd_pct_rev": 26.91,
+      "rev_per_emp": 528352.1,
+      "gp_per_emp": 258225.4,
+      "op_per_emp": 74323.9,
+      "ni_per_emp": 76591.5,
+      "rd_per_emp": 142169.0,
+      "rev_growth_yoy": -0.44,
+      "gp_growth_yoy": -3.48,
+      "op_growth_yoy": -14.72,
+      "ni_growth_yoy": -9.65,
+      "rd_growth_yoy": 1.12,
+      "hc_growth_yoy": 10.94,
+      "gm_diff_pp": -1.54,
+      "op_diff_pp": -2.35
+    },
+    "2023": {
+      "revenue": 3060.4,
+      "gross_profit": 1310.2,
+      "operating_income": 214.0,
+      "net_income": 294.3,
+      "rd_expense": 849.8,
+      "headcount": 7450,
+      "gross_margin": 42.81,
+      "operating_margin": 6.99,
+      "net_margin": 9.62,
+      "rd_pct_rev": 27.77,
+      "rev_per_emp": 410791.9,
+      "gp_per_emp": 175865.8,
+      "op_per_emp": 28724.8,
+      "ni_per_emp": 39503.4,
+      "rd_per_emp": 114067.1,
+      "rev_growth_yoy": -18.42,
+      "gp_growth_yoy": -28.54,
+      "op_growth_yoy": -59.45,
+      "ni_growth_yoy": -45.88,
+      "rd_growth_yoy": -15.81,
+      "hc_growth_yoy": 4.93,
+      "gm_diff_pp": -6.06,
+      "op_diff_pp": -7.08
+    },
+    "2024": {
+      "revenue": 3543.6,
+      "gross_profit": 1786.3,
+      "operating_income": 421.9,
+      "net_income": 477.8,
+      "rd_expense": 1048.1,
+      "headcount": 7850,
+      "gross_margin": 50.41,
+      "operating_margin": 11.91,
+      "net_margin": 13.48,
+      "rd_pct_rev": 29.58,
+      "rev_per_emp": 451414.0,
+      "gp_per_emp": 227554.1,
+      "op_per_emp": 53745.2,
+      "ni_per_emp": 60866.2,
+      "rd_per_emp": 133515.9,
+      "rev_growth_yoy": 15.79,
+      "gp_growth_yoy": 36.34,
+      "op_growth_yoy": 97.15,
+      "ni_growth_yoy": 62.35,
+      "rd_growth_yoy": 23.33,
+      "hc_growth_yoy": 5.37,
+      "gm_diff_pp": 7.6,
+      "op_diff_pp": 4.92
+    },
+    "2025": {
+      "revenue": 3834.6,
+      "gross_profit": 1849.7,
+      "operating_income": 448.8,
+      "net_income": 461.0,
+      "rd_expense": 1100.0,
+      "headcount": 8100,
+      "gross_margin": 48.24,
+      "operating_margin": 11.7,
+      "net_margin": 12.02,
+      "rd_pct_rev": 28.69,
+      "rev_per_emp": 473407.4,
+      "gp_per_emp": 228358.0,
+      "op_per_emp": 55407.4,
+      "ni_per_emp": 56913.6,
+      "rd_per_emp": 135802.5,
+      "rev_growth_yoy": 8.21,
+      "gp_growth_yoy": 3.55,
+      "op_growth_yoy": 6.38,
+      "ni_growth_yoy": -3.52,
+      "rd_growth_yoy": 4.95,
+      "hc_growth_yoy": 3.18,
+      "gm_diff_pp": -2.17,
+      "op_diff_pp": -0.21
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Communications & Networking (Wi-Fi 7/Ethernet/Switch/PON)",
+      "Computer Peripherals (Audio Codec/USB4/Card Reader)",
+      "Multimedia & Automotive (TV SoC/Display/Automotive Ethernet)"
+    ],
+    "colors": [
+      "#0070BA",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          1687,
+          659,
+          290
+        ],
+        "volume": [
+          64,
+          25,
+          11
+        ]
+      },
+      "2021": {
+        "value": [
+          2487,
+          904,
+          377
+        ],
+        "volume": [
+          66,
+          24,
+          10
+        ]
+      },
+      "2022": {
+        "value": [
+          2513,
+          863,
+          375
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2023": {
+        "value": [
+          2020,
+          735,
+          305
+        ],
+        "volume": [
+          66,
+          24,
+          10
+        ]
+      },
+      "2024": {
+        "value": [
+          2374,
+          815,
+          355
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2025": {
+        "value": [
+          2569,
+          882,
+          384
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Realtek's structural pivot is fueled by non-PC expansion (67% mix) with high-ASP Wi-Fi 7, 2.5G/10G Ethernet switches, and automotive networking driving gross margins above 50%.",
+      "zh": "瑞昱的結構轉型以非 PC 領域擴張（佔比達 67%）為核心，高單價 Wi-Fi 7、2.5G/10G 乙太網路交換器與車用乙太網路推升毛利率重回 50% 以上高檔。"
+    },
+    "productivity": {
+      "en": "Revenue per FTE rebounded to $451k in 2024 with Gross Profit per FTE reaching $227.5k, underpinned by heavy R&D intensity (~29.6% of revenue).",
+      "zh": "人均營收於 2024 年強勁回升至 45.1 萬美元，人均毛利達 22.75 萬美元，由高達 29.6% 營收之研發再投資深度強力支撐。"
+    },
+    "value_vs_volume": {
+      "en": "Communications and networking chips deliver 67% of revenues, while global market leadership in Audio Codecs (>70% share) and Ethernet controllers guarantees massive baseline volume.",
+      "zh": "通訊網路晶片貢獻 67% 營收價值，而全球市佔率逾 70% 之音訊編解碼（Audio Codec）與乙太網路控制器則確保龐大穩固的基底出貨量。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Fabless Edge AI & High-Speed Connectivity Co-Design)",
+    "description": "Global leader in networking and peripheral ICs, pioneering Wi-Fi 7, Automotive Ethernet TSN, and Edge AI Audio/Display subsystems.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Commodity PC Peripheral Fabless",
+        "desc": "Standard AC'97 audio and 10/100M Ethernet controllers."
+      },
+      {
+        "level": 2,
+        "name": "Gigabit & High-Definition Platform",
+        "desc": "Gigabit Ethernet and HD Audio codec domination across global PC motherboard supply chains."
+      },
+      {
+        "level": 3,
+        "name": "Integrated SoC & Multi-Protocol Gateway",
+        "desc": "Wi-Fi 6/6E, TV SoC, and Managed Switch solutions with automated verification."
+      },
+      {
+        "level": 4,
+        "name": "Edge AI & Automotive TSN Networking Platform",
+        "desc": "Wi-Fi 7, 10G PON, USB4, and Automotive Ethernet co-design with low-power edge AI DSPs."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Smart Connectivity Ecosystem",
+        "desc": "Autonomous multi-band cognitive networking IP with end-to-end cloud-to-edge algorithmic optimization."
+      }
+    ]
+  }
+}

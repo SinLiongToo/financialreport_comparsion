@@ -137,7 +137,13 @@ TICKER_SLUGS = {
     "psmc": ["psmc", "6770", "powerchip"],
     "6770": ["psmc", "6770", "powerchip"],
     "6770.tw": ["psmc", "6770", "powerchip"],
-    "powerchip": ["psmc", "6770", "powerchip"]
+    "powerchip": ["psmc", "6770", "powerchip"],
+    "realtek": ["realtek-semiconductor", "realtek", "2379", "rtk"],
+    "2379": ["realtek-semiconductor", "realtek", "2379", "rtk"],
+    "2379.tw": ["realtek-semiconductor", "realtek", "2379", "rtk"],
+    "rtk": ["realtek-semiconductor", "realtek", "2379", "rtk"],
+    "realtek-semiconductor": ["realtek-semiconductor", "realtek", "2379", "rtk"],
+    "realtek-semiconductor-corp": ["realtek-semiconductor", "realtek", "2379", "rtk"]
 }
 
 class AnnualReportCrawler:

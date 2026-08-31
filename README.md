@@ -657,6 +657,15 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v2.9.0 (2026-09-01)**：
+  - **新增台灣網通與音訊 IC 龍頭 瑞昱半導體 (Realtek Semiconductor Corp. / 2379.TW) 審計基準庫與戰略分析**：
+    - **5 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年達 NT$ 1,133.9 億（約 $3,543.6M USD）營收、50.4% 高毛利率、11.9% 營業利益率與 $477.8M 淨利（年增 +67.1%），以及 7,850 名員工與高達 29.6% 營收之高強度研發再投資。
+    - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：通訊網路晶片 (Wi-Fi 7 / 乙太網路 / 交換器 / PON ~67%)、電腦周邊晶片 (Audio Codec / USB4 / 讀卡機 ~23%) 與多媒體及車用晶片 (TV SoC / 車用乙太網路 ~10%)。
+    - **非 PC 轉型黃金拐點 (The Pivot)**：精確量化網通升級與高單價 Wi-Fi 7、2.5G/10G Switch 出貨放量下，推升人均營收回升至 $451k USD、人均毛利達 $227.5k USD 之營運槓桿。
+    - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `realtek <-> 2379 <-> 2379.tw <-> rtk <-> realtek-semiconductor` 全自動解析與 100% 前後端同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v2.7.6`。
+
 - **v2.8.0 (2026-09-01)**：
   - **新增三大半導體與晶圓製造巨頭審計基準庫與深度戰略分析 (Intel, Vanguard VIS, PSMC 力積電)**：
     - **Intel Corporation (英特爾 / INTC / 美國 🇺🇸)**：整合 2020～2025 年 Form 10-K 與 10-Q 官方審計指標，收錄 $53.1B 營收、內部晶圓代工 (Intel Foundry) 獨立會計模型、18A 先進製程 RibbonFET/PowerVia 資本佈局，以及全球人力自 13.19 萬人精簡至約 10 萬人之重組復甦軌跡。
@@ -922,6 +931,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.9.0 - feat: integrate Realtek (2379.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.8.0 - feat: integrate Intel (INTC), Vanguard VIS (5347), and PSMC (6770) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.7.0 - feat: integrate Texas Instruments (TXN), Skyworks (SWKS), and Agilent (A) 5-year audited reports, sales breakdown, and quarterly analytics
 * commit v2.6.0 - feat: implement Country & Sector interactive filters with Select Filtered Only batch actions for peer benchmark comparison

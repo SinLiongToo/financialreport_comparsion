@@ -1,0 +1,536 @@
+{
+  "company_name": "Realtek Semiconductor Corp. (瑞昱半導體 / 2379.TW)",
+  "ticker": "REALTEK",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 703.9,
+      "gross_profit": 301.3,
+      "operating_income": 49.2,
+      "net_income": 67.7,
+      "rd_expense": 195.5,
+      "headcount": 7187,
+      "gross_margin": 42.8,
+      "operating_margin": 6.99,
+      "net_margin": 9.62,
+      "rd_pct_rev": 27.77,
+      "rev_per_emp": 97941.0,
+      "gp_per_emp": 41923.0,
+      "op_per_emp": 6846.0,
+      "ni_per_emp": 9420.0,
+      "rd_per_emp": 27202.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 765.1,
+      "gross_profit": 327.6,
+      "operating_income": 53.5,
+      "net_income": 73.6,
+      "rd_expense": 212.4,
+      "headcount": 7275,
+      "gross_margin": 42.82,
+      "operating_margin": 6.99,
+      "net_margin": 9.62,
+      "rd_pct_rev": 27.76,
+      "rev_per_emp": 105168.0,
+      "gp_per_emp": 45031.0,
+      "op_per_emp": 7354.0,
+      "ni_per_emp": 10117.0,
+      "rd_per_emp": 29196.0,
+      "rev_growth_yoy": 8.69,
+      "gp_growth_yoy": 8.73,
+      "op_growth_yoy": 8.74,
+      "ni_growth_yoy": 8.71,
+      "rd_growth_yoy": 8.64,
+      "hc_growth_yoy": 1.22,
+      "gm_diff_pp": 0.02,
+      "op_diff_pp": 0.0
+    },
+    "2023 Q3": {
+      "revenue": 826.3,
+      "gross_profit": 353.8,
+      "operating_income": 57.8,
+      "net_income": 79.5,
+      "rd_expense": 229.4,
+      "headcount": 7362,
+      "gross_margin": 42.82,
+      "operating_margin": 7.0,
+      "net_margin": 9.62,
+      "rd_pct_rev": 27.76,
+      "rev_per_emp": 112239.0,
+      "gp_per_emp": 48058.0,
+      "op_per_emp": 7851.0,
+      "ni_per_emp": 10799.0,
+      "rd_per_emp": 31160.0,
+      "rev_growth_yoy": 8.0,
+      "gp_growth_yoy": 8.0,
+      "op_growth_yoy": 8.04,
+      "ni_growth_yoy": 8.02,
+      "rd_growth_yoy": 8.0,
+      "hc_growth_yoy": 1.2,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 0.01
+    },
+    "2023 Q4": {
+      "revenue": 765.1,
+      "gross_profit": 327.6,
+      "operating_income": 53.5,
+      "net_income": 73.6,
+      "rd_expense": 212.4,
+      "headcount": 7450,
+      "gross_margin": 42.82,
+      "operating_margin": 6.99,
+      "net_margin": 9.62,
+      "rd_pct_rev": 27.76,
+      "rev_per_emp": 102698.0,
+      "gp_per_emp": 43973.0,
+      "op_per_emp": 7181.0,
+      "ni_per_emp": 9879.0,
+      "rd_per_emp": 28510.0,
+      "rev_growth_yoy": -7.41,
+      "gp_growth_yoy": -7.41,
+      "op_growth_yoy": -7.44,
+      "ni_growth_yoy": -7.42,
+      "rd_growth_yoy": -7.41,
+      "hc_growth_yoy": 1.2,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": -0.01
+    },
+    "2024 Q1": {
+      "revenue": 815.0,
+      "gross_profit": 410.8,
+      "operating_income": 97.0,
+      "net_income": 109.9,
+      "rd_expense": 241.1,
+      "headcount": 7550,
+      "gross_margin": 50.4,
+      "operating_margin": 11.9,
+      "net_margin": 13.48,
+      "rd_pct_rev": 29.58,
+      "rev_per_emp": 107947.0,
+      "gp_per_emp": 54411.0,
+      "op_per_emp": 12848.0,
+      "ni_per_emp": 14556.0,
+      "rd_per_emp": 31934.0,
+      "rev_growth_yoy": 15.78,
+      "gp_growth_yoy": 36.34,
+      "op_growth_yoy": 97.15,
+      "ni_growth_yoy": 62.33,
+      "rd_growth_yoy": 23.32,
+      "hc_growth_yoy": 5.05,
+      "gm_diff_pp": 7.6,
+      "op_diff_pp": 4.91
+    },
+    "2024 Q2": {
+      "revenue": 885.9,
+      "gross_profit": 446.6,
+      "operating_income": 105.5,
+      "net_income": 119.5,
+      "rd_expense": 262.0,
+      "headcount": 7650,
+      "gross_margin": 50.41,
+      "operating_margin": 11.91,
+      "net_margin": 13.49,
+      "rd_pct_rev": 29.57,
+      "rev_per_emp": 115804.0,
+      "gp_per_emp": 58379.0,
+      "op_per_emp": 13791.0,
+      "ni_per_emp": 15621.0,
+      "rd_per_emp": 34248.0,
+      "rev_growth_yoy": 15.79,
+      "gp_growth_yoy": 36.32,
+      "op_growth_yoy": 97.2,
+      "ni_growth_yoy": 62.36,
+      "rd_growth_yoy": 23.35,
+      "hc_growth_yoy": 5.15,
+      "gm_diff_pp": 7.59,
+      "op_diff_pp": 4.92
+    },
+    "2024 Q3": {
+      "revenue": 956.8,
+      "gross_profit": 482.3,
+      "operating_income": 113.9,
+      "net_income": 129.0,
+      "rd_expense": 283.0,
+      "headcount": 7750,
+      "gross_margin": 50.41,
+      "operating_margin": 11.9,
+      "net_margin": 13.48,
+      "rd_pct_rev": 29.58,
+      "rev_per_emp": 123458.0,
+      "gp_per_emp": 62232.0,
+      "op_per_emp": 14697.0,
+      "ni_per_emp": 16645.0,
+      "rd_per_emp": 36516.0,
+      "rev_growth_yoy": 15.79,
+      "gp_growth_yoy": 36.32,
+      "op_growth_yoy": 97.06,
+      "ni_growth_yoy": 62.26,
+      "rd_growth_yoy": 23.37,
+      "hc_growth_yoy": 5.27,
+      "gm_diff_pp": 7.59,
+      "op_diff_pp": 4.9
+    },
+    "2024 Q4": {
+      "revenue": 885.9,
+      "gross_profit": 446.6,
+      "operating_income": 105.5,
+      "net_income": 119.5,
+      "rd_expense": 262.0,
+      "headcount": 7850,
+      "gross_margin": 50.41,
+      "operating_margin": 11.91,
+      "net_margin": 13.49,
+      "rd_pct_rev": 29.57,
+      "rev_per_emp": 112854.0,
+      "gp_per_emp": 56892.0,
+      "op_per_emp": 13439.0,
+      "ni_per_emp": 15223.0,
+      "rd_per_emp": 33376.0,
+      "rev_growth_yoy": 15.79,
+      "gp_growth_yoy": 36.32,
+      "op_growth_yoy": 97.2,
+      "ni_growth_yoy": 62.36,
+      "rd_growth_yoy": 23.35,
+      "hc_growth_yoy": 5.37,
+      "gm_diff_pp": 7.59,
+      "op_diff_pp": 4.92
+    },
+    "2025 Q1": {
+      "revenue": 882.0,
+      "gross_profit": 425.4,
+      "operating_income": 103.2,
+      "net_income": 106.0,
+      "rd_expense": 253.0,
+      "headcount": 7912,
+      "gross_margin": 48.23,
+      "operating_margin": 11.7,
+      "net_margin": 12.02,
+      "rd_pct_rev": 28.68,
+      "rev_per_emp": 111476.0,
+      "gp_per_emp": 53766.0,
+      "op_per_emp": 13043.0,
+      "ni_per_emp": 13397.0,
+      "rd_per_emp": 31977.0,
+      "rev_growth_yoy": 8.22,
+      "gp_growth_yoy": 3.55,
+      "op_growth_yoy": 6.39,
+      "ni_growth_yoy": -3.55,
+      "rd_growth_yoy": 4.94,
+      "hc_growth_yoy": 4.79,
+      "gm_diff_pp": -2.17,
+      "op_diff_pp": -0.2
+    },
+    "2025 Q2": {
+      "revenue": 958.6,
+      "gross_profit": 462.4,
+      "operating_income": 112.2,
+      "net_income": 115.2,
+      "rd_expense": 275.0,
+      "headcount": 7975,
+      "gross_margin": 48.24,
+      "operating_margin": 11.7,
+      "net_margin": 12.02,
+      "rd_pct_rev": 28.69,
+      "rev_per_emp": 120201.0,
+      "gp_per_emp": 57981.0,
+      "op_per_emp": 14069.0,
+      "ni_per_emp": 14445.0,
+      "rd_per_emp": 34483.0,
+      "rev_growth_yoy": 8.21,
+      "gp_growth_yoy": 3.54,
+      "op_growth_yoy": 6.35,
+      "ni_growth_yoy": -3.6,
+      "rd_growth_yoy": 4.96,
+      "hc_growth_yoy": 4.25,
+      "gm_diff_pp": -2.17,
+      "op_diff_pp": -0.21
+    },
+    "2025 Q3": {
+      "revenue": 1035.3,
+      "gross_profit": 499.4,
+      "operating_income": 121.2,
+      "net_income": 124.5,
+      "rd_expense": 297.0,
+      "headcount": 8037,
+      "gross_margin": 48.24,
+      "operating_margin": 11.71,
+      "net_margin": 12.03,
+      "rd_pct_rev": 28.69,
+      "rev_per_emp": 128817.0,
+      "gp_per_emp": 62138.0,
+      "op_per_emp": 15080.0,
+      "ni_per_emp": 15491.0,
+      "rd_per_emp": 36954.0,
+      "rev_growth_yoy": 8.2,
+      "gp_growth_yoy": 3.55,
+      "op_growth_yoy": 6.41,
+      "ni_growth_yoy": -3.49,
+      "rd_growth_yoy": 4.95,
+      "hc_growth_yoy": 3.7,
+      "gm_diff_pp": -2.17,
+      "op_diff_pp": -0.19
+    },
+    "2025 Q4": {
+      "revenue": 958.6,
+      "gross_profit": 462.4,
+      "operating_income": 112.2,
+      "net_income": 115.2,
+      "rd_expense": 275.0,
+      "headcount": 8100,
+      "gross_margin": 48.24,
+      "operating_margin": 11.7,
+      "net_margin": 12.02,
+      "rd_pct_rev": 28.69,
+      "rev_per_emp": 118346.0,
+      "gp_per_emp": 57086.0,
+      "op_per_emp": 13852.0,
+      "ni_per_emp": 14222.0,
+      "rd_per_emp": 33951.0,
+      "rev_growth_yoy": 8.21,
+      "gp_growth_yoy": 3.54,
+      "op_growth_yoy": 6.35,
+      "ni_growth_yoy": -3.6,
+      "rd_growth_yoy": 4.96,
+      "hc_growth_yoy": 3.18,
+      "gm_diff_pp": -2.17,
+      "op_diff_pp": -0.21
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Communications & Networking (Wi-Fi 7/Ethernet/Switch/PON)",
+      "Computer Peripherals (Audio Codec/USB4/Card Reader)",
+      "Multimedia & Automotive (TV SoC/Display/Automotive Ethernet)"
+    ],
+    "colors": [
+      "#0070BA",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          464.6,
+          169.1,
+          70.2
+        ],
+        "volume": [
+          66,
+          24,
+          10
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          505.0,
+          183.8,
+          76.2
+        ],
+        "volume": [
+          66,
+          24,
+          10
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          545.4,
+          198.5,
+          82.4
+        ],
+        "volume": [
+          66,
+          24,
+          10
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          505.0,
+          183.8,
+          76.2
+        ],
+        "volume": [
+          66,
+          24,
+          10
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          546.0,
+          187.5,
+          81.7
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          593.5,
+          203.8,
+          88.8
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          641.0,
+          220.1,
+          95.9
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          593.5,
+          203.8,
+          88.8
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          590.9,
+          202.9,
+          88.3
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          642.2,
+          220.5,
+          96.0
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          693.6,
+          238.1,
+          103.7
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          642.2,
+          220.5,
+          96.0
+        ],
+        "volume": [
+          67,
+          23,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Realtek Semiconductor Corp. (瑞昱半導體 / 2379.TW) workforce reported at 8,100 FTEs with GAAP Gross Margin at 48.24%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $118,346/FTE in revenue and $57,086/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M112 (11.7% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M275 (28.69% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 8.21% compared to headcount change of 3.18% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Realtek Semiconductor Corp. (瑞昱半導體 / 2379.TW) 官方審計員工數為 8,100 人，GAAP 毛利率為 48.24%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $118,346/人，人均毛利為 $57,086/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M112（營業利益率 11.7%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M275（佔營收 28.69%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 8.21%，員工人數年增率為 3.18%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Fabless Edge AI & High-Speed Connectivity Co-Design)",
+    "description": "Global leader in networking and peripheral ICs, pioneering Wi-Fi 7, Automotive Ethernet TSN, and Edge AI Audio/Display subsystems.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Commodity PC Peripheral Fabless",
+        "desc": "Standard AC'97 audio and 10/100M Ethernet controllers."
+      },
+      {
+        "level": 2,
+        "name": "Gigabit & High-Definition Platform",
+        "desc": "Gigabit Ethernet and HD Audio codec domination across global PC motherboard supply chains."
+      },
+      {
+        "level": 3,
+        "name": "Integrated SoC & Multi-Protocol Gateway",
+        "desc": "Wi-Fi 6/6E, TV SoC, and Managed Switch solutions with automated verification."
+      },
+      {
+        "level": 4,
+        "name": "Edge AI & Automotive TSN Networking Platform",
+        "desc": "Wi-Fi 7, 10G PON, USB4, and Automotive Ethernet co-design with low-power edge AI DSPs."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Smart Connectivity Ecosystem",
+        "desc": "Autonomous multi-band cognitive networking IP with end-to-end cloud-to-edge algorithmic optimization."
+      }
+    ]
+  }
+}

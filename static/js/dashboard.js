@@ -210,6 +210,9 @@ const COMPANY_COLORS = {
     "psmc": "#8B5CF6",
     "6770": "#8B5CF6",
     "powerchip": "#8B5CF6",
+    "realtek": "#0070BA",
+    "2379": "#0070BA",
+    "rtk": "#0070BA",
 };
 
 const COMPANY_COUNTRIES = {
@@ -342,6 +345,12 @@ const COMPANY_COUNTRIES = {
     "powerchip-semiconductor": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "powerchip-semiconductor-manufacturing-corp": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "powerchip-semiconductor-manufacturing": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "realtek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2379": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2379.tw": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "rtk": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "realtek-semiconductor": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "realtek-semiconductor-corp": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
 };
 
 const COMPANY_SECTORS = {
@@ -396,6 +405,10 @@ const COMPANY_SECTORS = {
     "swks": "FABLESS",
     "skyworks": "FABLESS",
     "skyworks-solutions": "FABLESS",
+    "realtek": "FABLESS",
+    "2379": "FABLESS",
+    "rtk": "FABLESS",
+    "realtek-semiconductor": "FABLESS",
 
     // 半導體製造設備 / 材料 (Wafer Fab Equipment & Materials)
     "asml": "EQUIPMENT",
@@ -646,7 +659,13 @@ const TICKER_CANONICAL_MAP = {
     "powerchip": "psmc",
     "powerchip-semiconductor": "psmc",
     "powerchip-semiconductor-manufacturing-corp": "psmc",
-    "powerchip-semiconductor-manufacturing": "psmc"
+    "powerchip-semiconductor-manufacturing": "psmc",
+    "realtek": "realtek",
+    "2379": "realtek",
+    "2379.tw": "realtek",
+    "rtk": "realtek",
+    "realtek-semiconductor": "realtek",
+    "realtek-semiconductor-corp": "realtek",
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -1788,6 +1807,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "intc" || t === "intel") input.value = "https://companiesmarketcap.com/intel/quarterly-reports-10q/";
         else if (t === "vis" || t === "5347" || t === "vanguard") input.value = "https://companiesmarketcap.com/vis/quarterly-reports/";
         else if (t === "psmc" || t === "6770" || t === "powerchip") input.value = "https://companiesmarketcap.com/psmc/quarterly-reports/";
+        else if (t === "realtek" || t === "2379" || t === "rtk") input.value = "https://companiesmarketcap.com/realtek-semiconductor/quarterly-reports/";
         else input.value = `${ticker.toUpperCase()} (10-Q)`;
     } else {
         if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
@@ -1814,6 +1834,7 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "intc" || t === "intel") input.value = "https://companiesmarketcap.com/intel/annual-reports/";
         else if (t === "vis" || t === "5347" || t === "vanguard") input.value = "https://companiesmarketcap.com/vis/annual-reports/";
         else if (t === "psmc" || t === "6770" || t === "powerchip") input.value = "https://companiesmarketcap.com/psmc/annual-reports/";
+        else if (t === "realtek" || t === "2379" || t === "rtk") input.value = "https://companiesmarketcap.com/realtek-semiconductor/annual-reports/";
         else input.value = ticker.toUpperCase();
     }
 }
@@ -1857,7 +1878,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1915,6 +1936,9 @@ async function loadCompaniesList() {
                 "PSMC": "Powerchip PSMC (6770 / 力積電)",
                 "6770": "Powerchip PSMC (6770 / 力積電)",
                 "POWERCHIP": "Powerchip PSMC (6770 / 力積電)",
+                "REALTEK": "Realtek Semiconductor (2379 / 瑞昱半導體)",
+                "2379": "Realtek Semiconductor (2379 / 瑞昱半導體)",
+                "RTK": "Realtek Semiconductor (2379 / 瑞昱半導體)",
 
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
