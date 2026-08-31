@@ -1176,10 +1176,13 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
     const isLight = CURRENT_THEME === "light";
     const textColor = isLight ? "#0f172a" : fontColor;
     const tickColor = isLight ? "#1e293b" : "#cbd5e1";
-    const lineCol = isLight ? "#64748b" : "#475569";
+    const lineCol   = isLight ? "#94a3b8" : "#475569";
+    // Solid backgrounds — never transparent — so charts are always legible
+    const plotBg    = isLight ? "#f8fafc" : "#0f172a";
+    const paperBg   = isLight ? "#f1f5f9" : "#0f172a";
     const clean = {
-        paper_bgcolor: "transparent",
-        plot_bgcolor: "transparent",
+        paper_bgcolor: paperBg,
+        plot_bgcolor:  plotBg,
         autosize: true,
         margin: {
             t: isMultiTrace ? 40 : 55,
@@ -1196,7 +1199,7 @@ function extractCleanLayout(srcLayout, fontColor, gridColor, isMultiTrace) {
             xanchor: "left",
             yanchor: isMultiTrace ? "top" : "bottom",
             font: { size: 12, color: textColor },
-            bgcolor: isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)",
+            bgcolor: isLight ? "rgba(248, 250, 252, 0.97)" : "rgba(15, 23, 42, 0.95)",
             bordercolor: isLight ? "rgba(148, 163, 184, 0.8)" : "rgba(51, 65, 85, 0.8)",
             borderwidth: 1.5
         }
@@ -1342,6 +1345,58 @@ window.zoomChart = function(chartId, titleKey, badgeText, insightKeyOrId, iconCl
         const fontColor = isLight ? "#1e293b" : "#f1f5f9";
         const gridColor = isLight ? "#cbd5e1" : "#334155";
 
+        // ── Theme-aware modal shell styling ───────────────────────────────────
+        // Patch the modal card + every sub-region so light mode renders with
+        // white/slate-50 surfaces and dark text instead of the default dark shell.
+        const card   = document.getElementById("chartZoomModalCard");
+        const header = card ? card.querySelector(":scope > div:first-child") : null;
+        const body   = card ? card.querySelector("#zoomedSingleContainer")?.parentElement : null;
+        const footer = card ? card.querySelector(":scope > div:last-child") : null;
+        const dlBtn  = document.getElementById("downloadZoomChartBtn");
+        const clBtn  = document.getElementById("closeZoomModalBtn");
+        const titleEl2 = document.getElementById("zoomModalTitle");
+        const subtitleEl2 = document.getElementById("zoomModalSubtitle");
+        const insightEl2  = document.getElementById("zoomModalInsight");
+
+        if (card) {
+            card.style.backgroundColor   = isLight ? "#ffffff"  : "";
+            card.style.borderColor        = isLight ? "#cbd5e1"  : "";
+        }
+        if (header) {
+            header.style.backgroundColor  = isLight ? "#f1f5f9"  : "";
+            header.style.borderBottomColor= isLight ? "#e2e8f0"  : "";
+        }
+        if (body) {
+            body.style.backgroundColor    = isLight ? "#f8fafc"  : "";
+        }
+        if (footer) {
+            footer.style.backgroundColor  = isLight ? "#f1f5f9"  : "";
+            footer.style.borderTopColor   = isLight ? "#e2e8f0"  : "";
+        }
+        if (titleEl2)    { titleEl2.style.color    = isLight ? "#0f172a" : ""; }
+        if (subtitleEl2) { subtitleEl2.style.color = isLight ? "#475569" : ""; }
+        if (insightEl2)  { insightEl2.style.color  = isLight ? "#334155" : ""; }
+        if (dlBtn) {
+            dlBtn.style.backgroundColor = isLight ? "#e2e8f0"  : "";
+            dlBtn.style.color           = isLight ? "#1e293b"  : "";
+            dlBtn.style.borderColor     = isLight ? "#cbd5e1"  : "";
+        }
+        if (clBtn) {
+            clBtn.style.borderColor = isLight ? "#93c5fd" : "";
+            clBtn.style.color       = isLight ? "#1d4ed8" : "";
+        }
+        // Dual-panel sub-cards (Chart 6)
+        const dualPanels = document.querySelectorAll("#zoomedDualContainer > div");
+        dualPanels.forEach(panel => {
+            panel.style.backgroundColor = isLight ? "#f1f5f9" : "";
+            panel.style.borderColor     = isLight ? "#cbd5e1" : "";
+        });
+        const dualLabels = document.querySelectorAll("#zoomedDualContainer > div > div:first-child");
+        dualLabels.forEach(lbl => {
+            lbl.style.backgroundColor = isLight ? "rgba(219,234,254,0.5)" : "";
+            lbl.style.borderColor     = isLight ? "#93c5fd" : "";
+        });
+
         // =====================================================================
         // DUAL-CHART ZOOM MODE FOR CHART 6 (Two completely separate canvases)
         // =====================================================================
@@ -1410,14 +1465,41 @@ window.closeZoomModal = function() {
         if (modal) {
             modal.style.display = "none";
             document.body.style.overflow = "";
-            try {
-                Plotly.purge("zoomedChartCanvas");
-            } catch (e) {}
+            try { Plotly.purge("zoomedChartCanvas"); } catch (e) {}
+            try { Plotly.purge("zoomedCanvasLeft");  } catch (e) {}
+            try { Plotly.purge("zoomedCanvasRight"); } catch (e) {}
             if (CURRENT_ZOOMED_CHART_ID) {
-                try {
-                    Plotly.Plots.resize(CURRENT_ZOOMED_CHART_ID);
-                } catch (e) {}
+                try { Plotly.Plots.resize(CURRENT_ZOOMED_CHART_ID); } catch (e) {}
                 CURRENT_ZOOMED_CHART_ID = null;
+            }
+            // Reset inline style overrides so the next open starts fresh
+            const resetEl = (id, props) => {
+                const el = document.getElementById(id);
+                if (el) props.forEach(p => { el.style[p] = ""; });
+            };
+            resetEl("chartZoomModalCard", ["backgroundColor", "borderColor"]);
+            resetEl("downloadZoomChartBtn", ["backgroundColor", "color", "borderColor"]);
+            resetEl("closeZoomModalBtn", ["borderColor", "color"]);
+            resetEl("zoomModalTitle",    ["color"]);
+            resetEl("zoomModalSubtitle", ["color"]);
+            resetEl("zoomModalInsight",  ["color"]);
+            document.querySelectorAll("#zoomedDualContainer > div").forEach(el => {
+                el.style.backgroundColor = "";
+                el.style.borderColor = "";
+            });
+            document.querySelectorAll("#zoomedDualContainer > div > div:first-child").forEach(el => {
+                el.style.backgroundColor = "";
+                el.style.borderColor = "";
+            });
+            // Also reset header / body / footer via card child traversal
+            const card = document.getElementById("chartZoomModalCard");
+            if (card) {
+                const header = card.querySelector(":scope > div:first-child");
+                const body   = card.querySelector("#zoomedSingleContainer")?.parentElement;
+                const footer = card.querySelector(":scope > div:last-child");
+                if (header) { header.style.backgroundColor = ""; header.style.borderBottomColor = ""; }
+                if (body)   { body.style.backgroundColor = ""; }
+                if (footer) { footer.style.backgroundColor = ""; footer.style.borderTopColor = ""; }
             }
         }
     } catch (err) {
