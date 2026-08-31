@@ -196,6 +196,14 @@ const COMPANY_COLORS = {
 };
 
 const COMPANY_COUNTRIES = {
+    "asus": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "asustek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "asustek-computer": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2357": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "mediatek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "2454": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "mtk": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "mediatek-inc": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "lrcx": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "lam-research": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "lam-research-corp": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },

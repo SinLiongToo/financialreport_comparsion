@@ -102,14 +102,14 @@ def build_markdown_db():
                 if canon not in md_db:
                     md_db[canon] = {}
                 md_files = sorted(glob.glob(os.path.join(folder_path, "*.md")), reverse=True)
-                for md_file in md_files[:12]:  # Include recent 10-Ks, 20-Fs and 10-Qs
+                for md_file in md_files[:5]:  # Include recent 10-Ks, 20-Fs and 10-Qs
                     fn = os.path.basename(md_file)
                     try:
                         with open(md_file, "r", encoding="utf-8") as mf:
                             content = mf.read()
                             # Cap single MD preview size to keep HTML snappy and lightweight
-                            if len(content) > 100000:
-                                content = content[:100000] + "\n\n... [Content truncated for snappy web preview - Full PDF in data/downloads/] ..."
+                            if len(content) > 15000:
+                                content = content[:15000] + "\n\n... [Executive Summary & Financial Disclosures Preview - Full Audit PDF archived in repository data/downloads/] ..."
                             md_db[canon][fn] = content
                     except Exception as e:
                         print(f"  [!] Warning reading MD {md_file}: {e}")
