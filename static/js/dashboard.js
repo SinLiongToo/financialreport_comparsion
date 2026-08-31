@@ -448,8 +448,8 @@ const SECTOR_METADATA = {
     }
 };
 
-let CURRENT_COMPARE_COUNTRY_FILTER = "ALL";
-let CURRENT_COMPARE_SECTOR_FILTER = "ALL";
+let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
+let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
     "asus": "asus",
@@ -1451,32 +1451,87 @@ function setupEventListeners() {
         });
     }
 
-    // Country Filter Buttons
+    // ---------------------------------------------------------------------------
+    // Country Filter Buttons — single click selects one, Ctrl/Cmd+click toggles
+    // ---------------------------------------------------------------------------
     document.querySelectorAll(".compare-country-btn").forEach(btn => {
-        btn.addEventListener("click", () => {
-            const targetCountry = btn.getAttribute("data-country") || "ALL";
-            CURRENT_COMPARE_COUNTRY_FILTER = targetCountry;
+        btn.addEventListener("click", (e) => {
+            const val = btn.getAttribute("data-country") || "ALL";
+            const isMulti = e.ctrlKey || e.metaKey;
+
+            if (val === "ALL") {
+                // Always reset to ALL-only
+                CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
+            } else if (isMulti) {
+                // Toggle this value in/out of the set; remove "ALL" when adding specifics
+                CURRENT_COMPARE_COUNTRY_FILTER.delete("ALL");
+                if (CURRENT_COMPARE_COUNTRY_FILTER.has(val)) {
+                    CURRENT_COMPARE_COUNTRY_FILTER.delete(val);
+                    if (CURRENT_COMPARE_COUNTRY_FILTER.size === 0)
+                        CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
+                } else {
+                    CURRENT_COMPARE_COUNTRY_FILTER.add(val);
+                }
+            } else {
+                // Normal single-click → select only this
+                CURRENT_COMPARE_COUNTRY_FILTER = new Set([val]);
+            }
+
+            // Update button highlight states
             document.querySelectorAll(".compare-country-btn").forEach(b => {
-                b.classList.remove("bg-indigo-600", "text-white", "shadow-sm");
-                b.classList.add("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+                const bVal = b.getAttribute("data-country") || "ALL";
+                const active = CURRENT_COMPARE_COUNTRY_FILTER.has(bVal) ||
+                               (bVal === "ALL" && CURRENT_COMPARE_COUNTRY_FILTER.has("ALL"));
+                if (active) {
+                    b.classList.remove("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+                    b.classList.add("bg-indigo-600", "text-white", "shadow-sm");
+                } else {
+                    b.classList.remove("bg-indigo-600", "text-white", "shadow-sm");
+                    b.classList.add("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+                }
             });
-            btn.classList.remove("bg-slate-800", "text-slate-300", "border", "border-slate-700");
-            btn.classList.add("bg-indigo-600", "text-white", "shadow-sm");
+
             applyCompareFilters();
         });
     });
 
-    // Sector Filter Buttons
+    // ---------------------------------------------------------------------------
+    // Sector Filter Buttons — single click selects one, Ctrl/Cmd+click toggles
+    // ---------------------------------------------------------------------------
     document.querySelectorAll(".compare-sector-btn").forEach(btn => {
-        btn.addEventListener("click", () => {
-            const targetSector = btn.getAttribute("data-sector") || "ALL";
-            CURRENT_COMPARE_SECTOR_FILTER = targetSector;
+        btn.addEventListener("click", (e) => {
+            const val = btn.getAttribute("data-sector") || "ALL";
+            const isMulti = e.ctrlKey || e.metaKey;
+
+            if (val === "ALL") {
+                CURRENT_COMPARE_SECTOR_FILTER = new Set(["ALL"]);
+            } else if (isMulti) {
+                CURRENT_COMPARE_SECTOR_FILTER.delete("ALL");
+                if (CURRENT_COMPARE_SECTOR_FILTER.has(val)) {
+                    CURRENT_COMPARE_SECTOR_FILTER.delete(val);
+                    if (CURRENT_COMPARE_SECTOR_FILTER.size === 0)
+                        CURRENT_COMPARE_SECTOR_FILTER = new Set(["ALL"]);
+                } else {
+                    CURRENT_COMPARE_SECTOR_FILTER.add(val);
+                }
+            } else {
+                CURRENT_COMPARE_SECTOR_FILTER = new Set([val]);
+            }
+
+            // Update button highlight states
             document.querySelectorAll(".compare-sector-btn").forEach(b => {
-                b.classList.remove("bg-amber-600", "text-white", "shadow-sm");
-                b.classList.add("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+                const bVal = b.getAttribute("data-sector") || "ALL";
+                const active = CURRENT_COMPARE_SECTOR_FILTER.has(bVal) ||
+                               (bVal === "ALL" && CURRENT_COMPARE_SECTOR_FILTER.has("ALL"));
+                if (active) {
+                    b.classList.remove("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+                    b.classList.add("bg-amber-600", "text-white", "shadow-sm");
+                } else {
+                    b.classList.remove("bg-amber-600", "text-white", "shadow-sm");
+                    b.classList.add("bg-slate-800", "text-slate-300", "border", "border-slate-700");
+                }
             });
-            btn.classList.remove("bg-slate-800", "text-slate-300", "border", "border-slate-700");
-            btn.classList.add("bg-amber-600", "text-white", "shadow-sm");
+
             applyCompareFilters();
         });
     });
@@ -1486,21 +1541,24 @@ function applyCompareFilters() {
     const chkGrid = document.getElementById("compareCheckboxGrid");
     if (!chkGrid) return;
     const cards = chkGrid.querySelectorAll(".compare-chk-card");
-    const cFilter = (CURRENT_COMPARE_COUNTRY_FILTER || "ALL").toUpperCase();
-    const sFilter = (CURRENT_COMPARE_SECTOR_FILTER || "ALL").toUpperCase();
+
+    const cAllSelected = CURRENT_COMPARE_COUNTRY_FILTER.has("ALL");
+    const sAllSelected = CURRENT_COMPARE_SECTOR_FILTER.has("ALL");
 
     cards.forEach(card => {
         const country = (card.getAttribute("data-country") || "").toUpperCase();
-        const sector = (card.getAttribute("data-sector") || "").toUpperCase();
-        
-        const matchCountry = (cFilter === "ALL" || country === cFilter || (cFilter === "UK" && country === "GB") || (cFilter === "GB" && country === "UK"));
-        const matchSector = (sFilter === "ALL" || sector === sFilter);
-        
-        if (matchCountry && matchSector) {
-            card.style.display = "flex";
-        } else {
-            card.style.display = "none";
-        }
+        const sector  = (card.getAttribute("data-sector")  || "").toUpperCase();
+
+        // Country match: "ALL" selected → pass; otherwise check if country (or UK≡GB alias) is in set
+        const matchCountry = cAllSelected ||
+            CURRENT_COMPARE_COUNTRY_FILTER.has(country) ||
+            (CURRENT_COMPARE_COUNTRY_FILTER.has("UK") && country === "GB") ||
+            (CURRENT_COMPARE_COUNTRY_FILTER.has("GB") && country === "UK");
+
+        // Sector match
+        const matchSector = sAllSelected || CURRENT_COMPARE_SECTOR_FILTER.has(sector);
+
+        card.style.display = (matchCountry && matchSector) ? "flex" : "none";
     });
 }
 
