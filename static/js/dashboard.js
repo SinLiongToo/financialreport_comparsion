@@ -1015,16 +1015,75 @@ function setupChartZoomModal() {
     }
     if (downloadBtn) {
         downloadBtn.addEventListener("click", () => {
+            const titleEl = document.getElementById("zoomModalTitle");
+            const cleanTitle = (titleEl ? titleEl.textContent.trim() : "chart").replace(/[^a-zA-Z0-9_\u4e00-\u9fa5]/g, "_");
+            const isLight = CURRENT_THEME === "light";
+            const solidBg = isLight ? "#ffffff" : "#0f172a";
+            const fontCol = isLight ? "#0f172a" : "#f8fafc";
+            const tickCol = isLight ? "#1e293b" : "#cbd5e1";
+
+            // ── DUAL MODE: Chart 6 uses two side-by-side canvases ──────────────
+            const dualContainer = document.getElementById("zoomedDualContainer");
+            const isDualMode = dualContainer && dualContainer.style.display !== "none";
+
+            if (isDualMode) {
+                const leftEl  = document.getElementById("zoomedCanvasLeft");
+                const rightEl = document.getElementById("zoomedCanvasRight");
+                const hasLeft  = leftEl  && (leftEl.data  || leftEl._fullData);
+                const hasRight = rightEl && (rightEl.data || rightEl._fullData);
+                if (!hasLeft && !hasRight) return;
+
+                // Patch both panels to solid bg before capture
+                const patchLayout = {
+                    paper_bgcolor: solidBg, plot_bgcolor: solidBg,
+                    "font.color": fontCol, "font.size": 13,
+                    "xaxis.tickfont.color": tickCol, "xaxis.title.font.color": fontCol,
+                    "yaxis.tickfont.color": tickCol, "yaxis.title.font.color": fontCol,
+                    "legend.font.color": fontCol,
+                    "legend.bgcolor": solidBg
+                };
+                const HD_W = 960, HD_H = 1080; // each panel: 960×1080 → total 1920×1080
+
+                const captureLeft  = hasLeft  ? Plotly.relayout("zoomedCanvasLeft",  patchLayout).then(() => Plotly.toImage("zoomedCanvasLeft",  { format: "png", width: HD_W, height: HD_H })) : Promise.resolve(null);
+                const captureRight = hasRight ? Plotly.relayout("zoomedCanvasRight", patchLayout).then(() => Plotly.toImage("zoomedCanvasRight", { format: "png", width: HD_W, height: HD_H })) : Promise.resolve(null);
+
+                Promise.all([captureLeft, captureRight]).then(([leftDataUrl, rightDataUrl]) => {
+                    // Stitch side-by-side into an off-screen canvas
+                    const offCanvas = document.createElement("canvas");
+                    offCanvas.width  = HD_W * (hasLeft && hasRight ? 2 : 1);
+                    offCanvas.height = HD_H;
+                    const ctx = offCanvas.getContext("2d");
+                    ctx.fillStyle = solidBg;
+                    ctx.fillRect(0, 0, offCanvas.width, offCanvas.height);
+
+                    const loadImg = (dataUrl) => new Promise(res => {
+                        if (!dataUrl) { res(null); return; }
+                        const img = new Image();
+                        img.onload = () => res(img);
+                        img.src = dataUrl;
+                    });
+
+                    Promise.all([loadImg(leftDataUrl), loadImg(rightDataUrl)]).then(([imgL, imgR]) => {
+                        if (imgL) ctx.drawImage(imgL, 0, 0, HD_W, HD_H);
+                        if (imgR) ctx.drawImage(imgR, hasLeft ? HD_W : 0, 0, HD_W, HD_H);
+
+                        const link = document.createElement("a");
+                        link.download = `${cleanTitle}_HD.png`;
+                        link.href = offCanvas.toDataURL("image/png");
+                        link.click();
+
+                        // Restore transparent backgrounds
+                        const restoreLayout = { paper_bgcolor: "transparent", plot_bgcolor: "transparent" };
+                        if (hasLeft)  Plotly.relayout("zoomedCanvasLeft",  restoreLayout).catch(() => {});
+                        if (hasRight) Plotly.relayout("zoomedCanvasRight", restoreLayout).catch(() => {});
+                    });
+                }).catch(err => console.error("Chart 6 HD PNG stitch failed:", err));
+                return;
+            }
+
+            // ── SINGLE MODE: standard single-canvas download ───────────────────
             const canvas = document.getElementById("zoomedChartCanvas");
             if (canvas && (canvas.data || canvas._fullData)) {
-                const titleEl = document.getElementById("zoomModalTitle");
-                const cleanTitle = (titleEl ? titleEl.textContent.trim() : "chart").replace(/[^a-zA-Z0-9_\u4e00-\u9fa5]/g, "_");
-                const isLight = CURRENT_THEME === "light";
-                const solidBg = isLight ? "#ffffff" : "#0f172a";
-                const fontCol = isLight ? "#0f172a" : "#f8fafc";
-                const tickCol = isLight ? "#1e293b" : "#cbd5e1";
-                const lineCol = isLight ? "#64748b" : "#475569";
-                
                 // Relayout with solid high-contrast background, crisp font colors, and bold axes before capturing HD PNG
                 Plotly.relayout("zoomedChartCanvas", {
                     paper_bgcolor: solidBg,

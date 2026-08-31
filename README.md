@@ -657,6 +657,15 @@ python main.py --export-static
 
 ## 📝 最新修復與優化 (Change Log)
 
+- **v2.7.2 (2026-08-31)**：
+  - **修復 Chart 6「Download HD PNG」按鈕完全無反應問題**：
+    - **根本原因**：Chart 6 (Value-vs-Volume Sales Asymmetry Breakdown) 在放大檢視（Zoom Modal）時啟用雙畫布模式，分別渲染 `zoomedCanvasLeft`（Revenue Value）與 `zoomedCanvasRight`（Shipment Volume %）；但原始下載按鈕邏輯僅查詢 `zoomedChartCanvas`（單畫布），在雙畫布模式下 `canvas.data` 始終為空，導致 click handler 提前退出、完全無任何視覺或檔案反應。
+    - **解決方案 (雙畫布拼接引擎)**：在 `dashboard.js` `setupChartZoomModal()` 下載按鈕 handler 中新增雙模式偵測邏輯：
+      - 先偵測 `zoomedDualContainer` 的 `display` 狀態判斷是否為 Chart 6 雙畫布模式。
+      - **雙畫布模式**：對左右兩個 Plotly 畫布分別執行 `relayout`（套用實心背景色）→ `Plotly.toImage(960×1080)`，取得兩張 data URL 後，透過 **off-screen HTML5 `<canvas>`** 將左右兩圖並排拼接成完整 1920×1080 解析度 PNG，再以 `<a download>` 觸發瀏覽器儲存。
+      - **單畫布模式**：原有 `Plotly.downloadImage` 邏輯完全不變，其他 5 張圖表不受影響。
+    - **版本更新**：`templates/index.html` 版本徽章 `v2.7.1` → `v2.7.2`，重新編譯 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v1.4.2 (2026-08-27)**：
   - **修復 Quarterly 模式 Headcount 全平與 Annual 10-K 脫節問題 (年度人數錨定與季度線性插值)**：
     - **根本原因**：美國 SEC Form 10-Q 季度財報依法不強制揭露員工人數，原先解析程式使用寫死常數（`34,000`）與末季 Fallback 機制，導致 NXP、AMD、AAPL、MSFT、META、AMZN、MU、PLTR、AMAT、TER 等 10 家公司的歷史季度 Headcount 全部被填成 2025 年底最高值（全平），造成歷史季度人均產值被嚴重低估。

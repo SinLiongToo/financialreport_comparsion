@@ -1,0 +1,23 @@
+{
+  "company_name": "2024",
+  "ticker": "2024",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [],
+  "financials": {},
+  "sales_breakdown": {
+    "categories": [],
+    "colors": [
+      "#1E3A8A",
+      "#0284C7",
+      "#059669",
+      "#D97706"
+    ],
+    "data": {}
+  },
+  "insights": {
+    "en": {},
+    "zh": {}
+  }
+}
