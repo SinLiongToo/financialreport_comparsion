@@ -1,0 +1,304 @@
+{
+  "company_name": "Powerchip Semiconductor Manufacturing Corp. (力積電 / 6770.TW)",
+  "ticker": "PSMC",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 1559.2,
+      "gross_profit": 420.1,
+      "operating_income": 259.1,
+      "net_income": 133.0,
+      "rd_expense": 62.4,
+      "headcount": 7200,
+      "gross_margin": 26.94,
+      "operating_margin": 16.62,
+      "net_margin": 8.53,
+      "rd_pct_rev": 4.0,
+      "rev_per_emp": 216555.6,
+      "gp_per_emp": 58347.2,
+      "op_per_emp": 35986.1,
+      "ni_per_emp": 18472.2,
+      "rd_per_emp": 8666.7,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 2342.9,
+      "gross_profit": 1091.1,
+      "operating_income": 794.1,
+      "net_income": 574.7,
+      "rd_expense": 93.6,
+      "headcount": 7650,
+      "gross_margin": 46.57,
+      "operating_margin": 33.89,
+      "net_margin": 24.53,
+      "rd_pct_rev": 4.0,
+      "rev_per_emp": 306261.4,
+      "gp_per_emp": 142627.5,
+      "op_per_emp": 103803.9,
+      "ni_per_emp": 75124.2,
+      "rd_per_emp": 12235.3,
+      "rev_growth_yoy": 50.26,
+      "gp_growth_yoy": 159.72,
+      "op_growth_yoy": 206.48,
+      "ni_growth_yoy": 332.11,
+      "rd_growth_yoy": 50.0,
+      "hc_growth_yoy": 6.25,
+      "gm_diff_pp": 19.63,
+      "op_diff_pp": 17.27
+    },
+    "2022": {
+      "revenue": 2378.9,
+      "gross_profit": 1025.2,
+      "operating_income": 780.8,
+      "net_income": 725.9,
+      "rd_expense": 107.0,
+      "headcount": 8100,
+      "gross_margin": 43.1,
+      "operating_margin": 32.82,
+      "net_margin": 30.51,
+      "rd_pct_rev": 4.5,
+      "rev_per_emp": 293691.4,
+      "gp_per_emp": 126567.9,
+      "op_per_emp": 96395.1,
+      "ni_per_emp": 89617.3,
+      "rd_per_emp": 13209.9,
+      "rev_growth_yoy": 1.54,
+      "gp_growth_yoy": -6.04,
+      "op_growth_yoy": -1.67,
+      "ni_growth_yoy": 26.31,
+      "rd_growth_yoy": 14.32,
+      "hc_growth_yoy": 5.88,
+      "gm_diff_pp": -3.47,
+      "op_diff_pp": -1.07
+    },
+    "2023": {
+      "revenue": 1416.6,
+      "gross_profit": 47.9,
+      "operating_income": -264.4,
+      "net_income": -192.5,
+      "rd_expense": 79.7,
+      "headcount": 8250,
+      "gross_margin": 3.38,
+      "operating_margin": -18.66,
+      "net_margin": -13.59,
+      "rd_pct_rev": 5.63,
+      "rev_per_emp": 171709.1,
+      "gp_per_emp": 5806.1,
+      "op_per_emp": -32048.5,
+      "ni_per_emp": -23333.3,
+      "rd_per_emp": 9660.6,
+      "rev_growth_yoy": -40.45,
+      "gp_growth_yoy": -95.33,
+      "op_growth_yoy": -133.86,
+      "ni_growth_yoy": -126.52,
+      "rd_growth_yoy": -25.51,
+      "hc_growth_yoy": 1.85,
+      "gm_diff_pp": -39.72,
+      "op_diff_pp": -51.48
+    },
+    "2024": {
+      "revenue": 1397.7,
+      "gross_profit": -62.1,
+      "operating_income": -242.4,
+      "net_income": -178.8,
+      "rd_expense": 94.4,
+      "headcount": 8350,
+      "gross_margin": -4.44,
+      "operating_margin": -17.34,
+      "net_margin": -12.79,
+      "rd_pct_rev": 6.75,
+      "rev_per_emp": 167389.2,
+      "gp_per_emp": -7437.1,
+      "op_per_emp": -29029.9,
+      "ni_per_emp": -21413.2,
+      "rd_per_emp": 11305.4,
+      "rev_growth_yoy": -1.33,
+      "gp_growth_yoy": -229.65,
+      "op_growth_yoy": 8.32,
+      "ni_growth_yoy": 7.12,
+      "rd_growth_yoy": 18.44,
+      "hc_growth_yoy": 1.21,
+      "gm_diff_pp": -7.82,
+      "op_diff_pp": 1.32
+    },
+    "2025": {
+      "revenue": 1620.0,
+      "gross_profit": 162.0,
+      "operating_income": 32.4,
+      "net_income": 24.3,
+      "rd_expense": 105.0,
+      "headcount": 8400,
+      "gross_margin": 10.0,
+      "operating_margin": 2.0,
+      "net_margin": 1.5,
+      "rd_pct_rev": 6.48,
+      "rev_per_emp": 192857.1,
+      "gp_per_emp": 19285.7,
+      "op_per_emp": 3857.1,
+      "ni_per_emp": 2892.9,
+      "rd_per_emp": 12500.0,
+      "rev_growth_yoy": 15.9,
+      "gp_growth_yoy": 360.87,
+      "op_growth_yoy": 113.37,
+      "ni_growth_yoy": 113.59,
+      "rd_growth_yoy": 11.23,
+      "hc_growth_yoy": 0.6,
+      "gm_diff_pp": 14.44,
+      "op_diff_pp": 19.34
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Logic Foundry (PMIC, CIS, Display Driver)",
+      "Memory Foundry (DRAM & Flash)",
+      "3D Interposer & AI Packaging"
+    ],
+    "colors": [
+      "#3B82F6",
+      "#EC4899",
+      "#10B981"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          858,
+          655,
+          46
+        ],
+        "volume": [
+          55,
+          42,
+          3
+        ]
+      },
+      "2021": {
+        "value": [
+          1335,
+          937,
+          71
+        ],
+        "volume": [
+          57,
+          40,
+          3
+        ]
+      },
+      "2022": {
+        "value": [
+          1403,
+          880,
+          96
+        ],
+        "volume": [
+          59,
+          37,
+          4
+        ]
+      },
+      "2023": {
+        "value": [
+          878,
+          482,
+          57
+        ],
+        "volume": [
+          62,
+          34,
+          4
+        ]
+      },
+      "2024": {
+        "value": [
+          838,
+          490,
+          70
+        ],
+        "volume": [
+          60,
+          35,
+          5
+        ]
+      },
+      "2025": {
+        "value": [
+          988,
+          535,
+          97
+        ],
+        "volume": [
+          61,
+          33,
+          6
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "PSMC is executing a dual-track transition into 3D AI wafer stacking (WoW) and intermediate interposer foundry while monetizing non-core fab assets.",
+      "zh": "力積電正積極推動晶圓堆疊（Wafer-on-Wafer）與矽中介層（Interposer）之 3D AI 代工轉型，並處分非核心資產優化資本結構。"
+    },
+    "productivity": {
+      "en": "Revenue per FTE reached $306k in 2021-2022 and bottomed during the 2023-2024 memory cycle trough, rebounding with AI packaging orders.",
+      "zh": "人均營收於 2021-2022 年達 30.6 萬美元，隨記憶體循環於 2023-2024 年築底，隨 AI 代工與 3D 封裝放量啟動復甦。"
+    },
+    "value_vs_volume": {
+      "en": "Logic foundry accounts for 60% of revenues while specialty DRAM/Flash and high-margin 3D interposers provide high operating leverage.",
+      "zh": "邏輯代工佔營收 60%，特殊記憶體代工與高附加價值 3D 晶圓堆疊代工則提供強大的營運槓桿彈性。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Open Foundry & 3D AI Wafer Stacking Platform)",
+    "description": "Pioneering Open Foundry model offering both Open Logic and Open Memory with 3D chip-stacking IP integration.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Legacy Commodity Foundry",
+        "desc": "Discrete memory and logic contract manufacturing."
+      },
+      {
+        "level": 2,
+        "name": "Open Foundry Architecture",
+        "desc": "Dual 8-inch and 12-inch capacity offering tailored logic and specialty memory."
+      },
+      {
+        "level": 3,
+        "name": "Automated Smart Mega-Fab",
+        "desc": "Automated material handling and wafer sort integration across Tongluo and Hsinchu fabs."
+      },
+      {
+        "level": 4,
+        "name": "3D AI Wafer-on-Wafer (WoW) & Interposer Co-Design",
+        "desc": "Direct wafer bonding and high-density TSV interconnects for edge AI and HPC accelerators."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Heterogeneous Integration Ecosystem",
+        "desc": "Fully unified logic-memory digital twin foundry platform."
+      }
+    ]
+  }
+}

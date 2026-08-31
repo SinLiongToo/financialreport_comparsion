@@ -1,0 +1,219 @@
+{
+  "company_name": "ASE Technology Holding Co., Ltd.",
+  "ticker": "ASE",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 4250,
+      "gross_profit": 667,
+      "operating_income": 242,
+      "net_income": 185,
+      "rd_expense": 210,
+      "headcount": 98200,
+      "gross_margin": 15.7
+    },
+    "2024 Q2": {
+      "revenue": 4450,
+      "gross_profit": 730,
+      "operating_income": 298,
+      "net_income": 236,
+      "rd_expense": 218,
+      "headcount": 98500,
+      "gross_margin": 16.4
+    },
+    "2024 Q3": {
+      "revenue": 5100,
+      "gross_profit": 847,
+      "operating_income": 423,
+      "net_income": 345,
+      "rd_expense": 224,
+      "headcount": 98800,
+      "gross_margin": 16.6
+    },
+    "2024 Q4": {
+      "revenue": 5500,
+      "gross_profit": 960,
+      "operating_income": 485,
+      "net_income": 384,
+      "rd_expense": 228,
+      "headcount": 99000,
+      "gross_margin": 17.45
+    },
+    "2025 Q1": {
+      "revenue": 4950,
+      "gross_profit": 842,
+      "operating_income": 396,
+      "net_income": 320,
+      "rd_expense": 232,
+      "headcount": 99500,
+      "gross_margin": 17.0
+    },
+    "2025 Q2": {
+      "revenue": 5250,
+      "gross_profit": 908,
+      "operating_income": 441,
+      "net_income": 365,
+      "rd_expense": 238,
+      "headcount": 100000,
+      "gross_margin": 17.3
+    },
+    "2025 Q3": {
+      "revenue": 5750,
+      "gross_profit": 1018,
+      "operating_income": 506,
+      "net_income": 415,
+      "rd_expense": 242,
+      "headcount": 100500,
+      "gross_margin": 17.7
+    },
+    "2025 Q4": {
+      "revenue": 5850,
+      "gross_profit": 1047,
+      "operating_income": 510,
+      "net_income": 420,
+      "rd_expense": 248,
+      "headcount": 101000,
+      "gross_margin": 17.9
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Packaging (Advanced Packaging / Flip-Chip / Wirebond)",
+      "Testing (Wafer Sort / Final Test)",
+      "Electronic Manufacturing Services (EMS / SiP)"
+    ],
+    "colors": [
+      "#14B8A6",
+      "#3B82F6",
+      "#F59E0B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          1974,
+          407,
+          1869
+        ],
+        "volume": [
+          46,
+          10,
+          44
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          2067,
+          426,
+          1957
+        ],
+        "volume": [
+          46,
+          10,
+          44
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          2369,
+          488,
+          2243
+        ],
+        "volume": [
+          46,
+          10,
+          44
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          2556,
+          526,
+          2418
+        ],
+        "volume": [
+          46,
+          10,
+          44
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          2303,
+          488,
+          2159
+        ],
+        "volume": [
+          47,
+          10,
+          43
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          2442,
+          518,
+          2290
+        ],
+        "volume": [
+          47,
+          10,
+          43
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          2675,
+          567,
+          2508
+        ],
+        "volume": [
+          47,
+          10,
+          43
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          2722,
+          577,
+          2551
+        ],
+        "volume": [
+          47,
+          10,
+          43
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin improving to 17.0%-17.9% driven by advanced packaging (VIPack) utilization.",
+      "productivity": "Quarterly Rev / FTE tracks around $43K-$58K/quarter.",
+      "leverage": "Quarterly operating margins expanding to 8.0%-8.8%.",
+      "rd": "Quarterly R&D investment tracks at $210M-$248M/quarter.",
+      "growth": "Sequential quarterly revenue acceleration across AI and automotive packaging.",
+      "breakdown": "Packaging and testing represent over 59% of quarterly value."
+    },
+    "zh": {
+      "pivot": "單季毛利率在 VIPack 先進封裝稼動率推升下逐步回升至 17.0%-17.9%。",
+      "productivity": "單季人均營收約為 $43K-$58K/季。",
+      "leverage": "單季營業利益率擴張至 8.0%-8.8%。",
+      "rd": "單季研發費用穩定於 $2.1 億-$2.48 億美元/季。",
+      "growth": "AI 晶片與車用封裝需求驅動季度營收平穩擴張。",
+      "breakdown": "半導體封裝與測試貢獻超過 59% 單季總產值。"
+    }
+  }
+}

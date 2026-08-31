@@ -1,0 +1,318 @@
+{
+  "company_name": "Vanguard International Semiconductor Corp. (世界先進 / 5347.TWO)",
+  "ticker": "VIS",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 1123.3,
+      "gross_profit": 381.6,
+      "operating_income": 251.4,
+      "net_income": 210.4,
+      "rd_expense": 62.7,
+      "headcount": 5600,
+      "gross_margin": 33.97,
+      "operating_margin": 22.38,
+      "net_margin": 18.73,
+      "rd_pct_rev": 5.58,
+      "rev_per_emp": 200589.3,
+      "gp_per_emp": 68142.9,
+      "op_per_emp": 44892.9,
+      "ni_per_emp": 37571.4,
+      "rd_per_emp": 11196.4,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 1569.4,
+      "gross_profit": 684.0,
+      "operating_income": 503.6,
+      "net_income": 418.5,
+      "rd_expense": 80.0,
+      "headcount": 6050,
+      "gross_margin": 43.58,
+      "operating_margin": 32.09,
+      "net_margin": 26.67,
+      "rd_pct_rev": 5.1,
+      "rev_per_emp": 259405.0,
+      "gp_per_emp": 113057.9,
+      "op_per_emp": 83239.7,
+      "ni_per_emp": 69173.6,
+      "rd_per_emp": 13223.1,
+      "rev_growth_yoy": 39.71,
+      "gp_growth_yoy": 79.25,
+      "op_growth_yoy": 100.32,
+      "ni_growth_yoy": 98.91,
+      "rd_growth_yoy": 27.59,
+      "hc_growth_yoy": 8.04,
+      "gm_diff_pp": 9.61,
+      "op_diff_pp": 9.71
+    },
+    "2022": {
+      "revenue": 1738.1,
+      "gross_profit": 804.6,
+      "operating_income": 605.9,
+      "net_income": 513.2,
+      "rd_expense": 92.0,
+      "headcount": 6400,
+      "gross_margin": 46.29,
+      "operating_margin": 34.86,
+      "net_margin": 29.53,
+      "rd_pct_rev": 5.29,
+      "rev_per_emp": 271578.1,
+      "gp_per_emp": 125718.8,
+      "op_per_emp": 94671.9,
+      "ni_per_emp": 80187.5,
+      "rd_per_emp": 14375.0,
+      "rev_growth_yoy": 10.75,
+      "gp_growth_yoy": 17.63,
+      "op_growth_yoy": 20.31,
+      "ni_growth_yoy": 22.63,
+      "rd_growth_yoy": 15.0,
+      "hc_growth_yoy": 5.79,
+      "gm_diff_pp": 2.71,
+      "op_diff_pp": 2.77
+    },
+    "2023": {
+      "revenue": 1234.7,
+      "gross_profit": 337.0,
+      "operating_income": 183.7,
+      "net_income": 193.3,
+      "rd_expense": 140.2,
+      "headcount": 6450,
+      "gross_margin": 27.29,
+      "operating_margin": 14.88,
+      "net_margin": 15.66,
+      "rd_pct_rev": 11.35,
+      "rev_per_emp": 191426.4,
+      "gp_per_emp": 52248.1,
+      "op_per_emp": 28480.6,
+      "ni_per_emp": 29969.0,
+      "rd_per_emp": 21736.4,
+      "rev_growth_yoy": -28.96,
+      "gp_growth_yoy": -58.12,
+      "op_growth_yoy": -69.68,
+      "ni_growth_yoy": -62.33,
+      "rd_growth_yoy": 52.39,
+      "hc_growth_yoy": 0.78,
+      "gm_diff_pp": -19.0,
+      "op_diff_pp": -19.98
+    },
+    "2024": {
+      "revenue": 1376.7,
+      "gross_profit": 369.8,
+      "operating_income": 222.2,
+      "net_income": 220.2,
+      "rd_expense": 150.7,
+      "headcount": 6650,
+      "gross_margin": 26.86,
+      "operating_margin": 16.14,
+      "net_margin": 15.99,
+      "rd_pct_rev": 10.95,
+      "rev_per_emp": 207022.6,
+      "gp_per_emp": 55609.0,
+      "op_per_emp": 33413.5,
+      "ni_per_emp": 33112.8,
+      "rd_per_emp": 22661.7,
+      "rev_growth_yoy": 11.5,
+      "gp_growth_yoy": 9.73,
+      "op_growth_yoy": 20.96,
+      "ni_growth_yoy": 13.92,
+      "rd_growth_yoy": 7.49,
+      "hc_growth_yoy": 3.1,
+      "gm_diff_pp": -0.43,
+      "op_diff_pp": 1.26
+    },
+    "2025": {
+      "revenue": 1550.0,
+      "gross_profit": 465.0,
+      "operating_income": 310.0,
+      "net_income": 290.0,
+      "rd_expense": 160.0,
+      "headcount": 6800,
+      "gross_margin": 30.0,
+      "operating_margin": 20.0,
+      "net_margin": 18.71,
+      "rd_pct_rev": 10.32,
+      "rev_per_emp": 227941.2,
+      "gp_per_emp": 68382.4,
+      "op_per_emp": 45588.2,
+      "ni_per_emp": 42647.1,
+      "rd_per_emp": 23529.4,
+      "rev_growth_yoy": 12.59,
+      "gp_growth_yoy": 25.74,
+      "op_growth_yoy": 39.51,
+      "ni_growth_yoy": 31.7,
+      "rd_growth_yoy": 6.17,
+      "hc_growth_yoy": 2.26,
+      "gm_diff_pp": 3.14,
+      "op_diff_pp": 3.86
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Power Management ICs (PMIC / BCD)",
+      "Large Panel Driver ICs (LDDI)",
+      "Small Panel Driver ICs (SDDI)",
+      "Discrete Power & Others"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          595,
+          348,
+          124,
+          56
+        ],
+        "volume": [
+          53,
+          31,
+          11,
+          5
+        ]
+      },
+      "2021": {
+        "value": [
+          895,
+          455,
+          141,
+          78
+        ],
+        "volume": [
+          57,
+          29,
+          9,
+          5
+        ]
+      },
+      "2022": {
+        "value": [
+          1078,
+          435,
+          139,
+          86
+        ],
+        "volume": [
+          62,
+          25,
+          8,
+          5
+        ]
+      },
+      "2023": {
+        "value": [
+          778,
+          272,
+          111,
+          74
+        ],
+        "volume": [
+          63,
+          22,
+          9,
+          6
+        ]
+      },
+      "2024": {
+        "value": [
+          895,
+          275,
+          124,
+          83
+        ],
+        "volume": [
+          65,
+          20,
+          9,
+          6
+        ]
+      },
+      "2025": {
+        "value": [
+          1038,
+          295,
+          132,
+          85
+        ],
+        "volume": [
+          67,
+          19,
+          9,
+          5
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "VIS pivoted towards high-voltage BCD and GaN power management platforms for AI data centers and automotive applications, sustaining gross margins near 30%.",
+      "zh": "世界先進透過深耕高壓 BCD 與 GaN 氮化鎵電源管理技術，全面切入 AI 資料中心高壓直流與車用市場，支撐毛利率維持穩健。"
+    },
+    "productivity": {
+      "en": "Gross profit per employee reached $125.7k during the 2022 semiconductor super-cycle and stabilized at $55.6k in 2024.",
+      "zh": "人均毛利於 2022 年晶圓代工超級循環中創下 12.57 萬美元高峰，2024 年隨產能利用率回升穩定於 5.56 萬美元。"
+    },
+    "value_vs_volume": {
+      "en": "PMIC accounts for 65% of revenue value with premium ASPs, while display drivers provide steady wafer fab base utilization.",
+      "zh": "電源管理 IC 貢獻高達 65% 的營收價值與高單價，面板驅動 IC 則提供穩定的 8 吋晶圓基礎稼動率。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Specialty Foundry & High-Voltage BCD Smart Platform)",
+    "description": "Leader in 8-inch specialty analog, BCD, and compound semiconductor foundry, expanding with Singapore 12-inch joint venture (VSMC).",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard 8-inch Wafer Fab",
+        "desc": "Commodity analog and logic fabrication with conventional tools."
+      },
+      {
+        "level": 2,
+        "name": "High-Voltage Specialty Platform",
+        "desc": "Proprietary 0.18um/0.11um BCD and ultra-high voltage (UHV) processes."
+      },
+      {
+        "level": 3,
+        "name": "Automated Smart Fab (AMHS/APC)",
+        "desc": "Full automated material handling and advanced process control across Fab 1 to Fab 5."
+      },
+      {
+        "level": 4,
+        "name": "Compound Semiconductor & 12-inch Joint Fab (VSMC)",
+        "desc": "GaN on Silicon power platform and next-gen 12-inch smart fab in Singapore with NXP."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Power Electronics Ecosystem",
+        "desc": "End-to-end digital twin power semiconductor foundry with automated yield optimization."
+      }
+    ]
+  }
+}

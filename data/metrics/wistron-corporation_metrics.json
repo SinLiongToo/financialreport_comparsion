@@ -1,0 +1,310 @@
+{
+  "company_name": "Wistron Corporation (3231.TW / 緯創資通)",
+  "ticker": "WISTRON",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 28644.4,
+      "cogs": 27180.7,
+      "gross_profit": 1463.7,
+      "gross_margin": 5.11,
+      "operating_income": 490.8,
+      "operating_margin": 1.71,
+      "net_income": 294.2,
+      "net_margin": 1.03,
+      "rd_expense": 655.6,
+      "rd_pct_rev": 2.29,
+      "headcount": 84200,
+      "rev_per_emp": 340194.8,
+      "gp_per_emp": 17383.6,
+      "op_per_emp": 5829.0,
+      "ni_per_emp": 3494.1,
+      "rd_per_emp": 7786.2,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 30788.6,
+      "cogs": 28965.9,
+      "gross_profit": 1822.7,
+      "gross_margin": 5.92,
+      "operating_income": 584.6,
+      "operating_margin": 1.9,
+      "net_income": 373.9,
+      "net_margin": 1.21,
+      "rd_expense": 815.0,
+      "rd_pct_rev": 2.65,
+      "headcount": 82500,
+      "rev_per_emp": 373195.2,
+      "gp_per_emp": 22093.3,
+      "op_per_emp": 7086.1,
+      "ni_per_emp": 4532.1,
+      "rd_per_emp": 9878.8,
+      "rev_growth_yoy": 7.49,
+      "gp_growth_yoy": 24.53,
+      "op_growth_yoy": 19.11,
+      "ni_growth_yoy": 27.09,
+      "rd_growth_yoy": 24.31,
+      "hc_growth_yoy": -2.02,
+      "gm_diff_pp": 0.81,
+      "op_diff_pp": 0.19
+    },
+    "2022": {
+      "revenue": 33040.9,
+      "cogs": 30701.6,
+      "gross_profit": 2339.3,
+      "gross_margin": 7.08,
+      "operating_income": 921.8,
+      "operating_margin": 2.79,
+      "net_income": 374.5,
+      "net_margin": 1.13,
+      "rd_expense": 815.4,
+      "rd_pct_rev": 2.47,
+      "headcount": 78000,
+      "rev_per_emp": 423601.3,
+      "gp_per_emp": 29991.0,
+      "op_per_emp": 11817.9,
+      "ni_per_emp": 4801.3,
+      "rd_per_emp": 10453.8,
+      "rev_growth_yoy": 7.32,
+      "gp_growth_yoy": 28.34,
+      "op_growth_yoy": 57.68,
+      "ni_growth_yoy": 0.16,
+      "rd_growth_yoy": 0.05,
+      "hc_growth_yoy": -5.45,
+      "gm_diff_pp": 1.16,
+      "op_diff_pp": 0.89
+    },
+    "2023": {
+      "revenue": 27880.7,
+      "cogs": 25664.2,
+      "gross_profit": 2216.5,
+      "gross_margin": 7.95,
+      "operating_income": 880.7,
+      "operating_margin": 3.16,
+      "net_income": 368.8,
+      "net_margin": 1.32,
+      "rd_expense": 807.1,
+      "rd_pct_rev": 2.89,
+      "headcount": 62000,
+      "rev_per_emp": 449688.7,
+      "gp_per_emp": 35750.0,
+      "op_per_emp": 14204.8,
+      "ni_per_emp": 5948.4,
+      "rd_per_emp": 13017.7,
+      "rev_growth_yoy": -15.62,
+      "gp_growth_yoy": -5.25,
+      "op_growth_yoy": -4.46,
+      "ni_growth_yoy": -1.52,
+      "rd_growth_yoy": -1.02,
+      "hc_growth_yoy": -20.51,
+      "gm_diff_pp": 0.87,
+      "op_diff_pp": 0.37
+    },
+    "2024": {
+      "revenue": 32112.5,
+      "cogs": 29505.0,
+      "gross_profit": 2607.5,
+      "gross_margin": 8.12,
+      "operating_income": 1206.3,
+      "operating_margin": 3.76,
+      "net_income": 568.8,
+      "net_margin": 1.77,
+      "rd_expense": 890.6,
+      "rd_pct_rev": 2.77,
+      "headcount": 64500,
+      "rev_per_emp": 497868.2,
+      "gp_per_emp": 40426.4,
+      "op_per_emp": 18702.3,
+      "ni_per_emp": 8818.6,
+      "rd_per_emp": 13807.8,
+      "rev_growth_yoy": 15.18,
+      "gp_growth_yoy": 17.64,
+      "op_growth_yoy": 36.97,
+      "ni_growth_yoy": 54.23,
+      "rd_growth_yoy": 10.35,
+      "hc_growth_yoy": 4.03,
+      "gm_diff_pp": 0.17,
+      "op_diff_pp": 0.6
+    },
+    "2025": {
+      "revenue": 38000.0,
+      "cogs": 34770.0,
+      "gross_profit": 3230.0,
+      "gross_margin": 8.5,
+      "operating_income": 1520.0,
+      "operating_margin": 4.0,
+      "net_income": 760.0,
+      "net_margin": 2.0,
+      "rd_expense": 1025.0,
+      "rd_pct_rev": 2.7,
+      "headcount": 66000,
+      "rev_per_emp": 575757.6,
+      "gp_per_emp": 48939.4,
+      "op_per_emp": 23030.3,
+      "ni_per_emp": 11515.2,
+      "rd_per_emp": 15530.3,
+      "rev_growth_yoy": 18.33,
+      "gp_growth_yoy": 23.87,
+      "op_growth_yoy": 26.01,
+      "ni_growth_yoy": 33.61,
+      "rd_growth_yoy": 15.09,
+      "hc_growth_yoy": 2.33,
+      "gm_diff_pp": 0.38,
+      "op_diff_pp": 0.24
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "AI GPU Server Subsystems & Cloud Compute (HGX/UBB/OAM/Enterprise Servers)",
+      "Smart Personal Computing & Notebooks",
+      "Industrial, Automotive & Smart Networking (Wiwynn / IoT)"
+    ],
+    "colors": [
+      "#3B82F6",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          5728.9,
+          18618.9,
+          4296.6
+        ],
+        "volume": [
+          15,
+          72,
+          13
+        ]
+      },
+      "2021": {
+        "value": [
+          6773.5,
+          19688.7,
+          4326.4
+        ],
+        "volume": [
+          17,
+          70,
+          13
+        ]
+      },
+      "2022": {
+        "value": [
+          8921.0,
+          19824.5,
+          4295.4
+        ],
+        "volume": [
+          22,
+          65,
+          13
+        ]
+      },
+      "2023": {
+        "value": [
+          9758.2,
+          14498.0,
+          3624.5
+        ],
+        "volume": [
+          30,
+          56,
+          14
+        ]
+      },
+      "2024": {
+        "value": [
+          14450.6,
+          13487.3,
+          4174.6
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2025": {
+        "value": [
+          20900.0,
+          12540.0,
+          4560.0
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Wistron executed an aggressive portfolio transformation between 2023 and 2024 by divesting low-margin smartphone manufacturing assembly in India and pivoting all capital expenditure into NVIDIA HGX/DGX GPU baseboards and enterprise compute servers. Gross margin expanded from 5.1% in 2020 to 8.1% in 2024 while operating income surged past $1.2B USD.",
+      "zh": "緯創於 2023-2024 年執行極為果斷的業務結構大轉型，出售毛利微薄的印度智慧型手機組裝廠，將資本支出全力傾注於 NVIDIA HGX/DGX GPU 基板與企業級伺服器運算模組。毛利率自 2020 年的 5.1% 躍升至 2024 年的 8.1%，營業利益更突破 12 億美元大關。"
+    },
+    "productivity": {
+      "en": "Headcount rationalization from 84,200 in 2020 to 64,500 in 2024 accompanied a massive productivity surge: Revenue per FTE jumped from $340k to $498k, and Gross Profit per FTE surged +132% from $17.4k to $40.4k.",
+      "zh": "員工人數由 2020 年的 8.42 萬人精簡優化至 2024 年的 6.45 萬人，帶動人均產值爆發式增長：人均營收自 34 萬美元跳升至 49.8 萬美元，人均毛利更大增 +132% 至 4.04 萬美元。"
+    },
+    "value_vs_volume": {
+      "en": "Despite lower notebook and generic PC unit shipments, high-value AI compute server modules and GPU baseboard architectures propelled total profitability to record heights.",
+      "zh": "儘管筆記型電腦與一般 PC 出貨台數回檔，高單價、高技術門檻之 AI 伺服器模組與 GPU 基板架構驅動整體獲利創下歷史新高。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (High-Density SMT GPU Baseboard & Thermal Subsystem Co-Design)",
+    "description": "Advanced high-layer GPU baseboard surface-mount automation, high-speed signal integrity qualification, and enterprise liquid cooling integration.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "OEM/ODM High-Labor Assembly",
+        "desc": "Standard consumer notebook contract manufacturing."
+      },
+      {
+        "level": 2,
+        "name": "Standardized Multi-Site Operations",
+        "desc": "Production hubs across Taiwan, Kunshan, Zhongshan, Vietnam, and Mexico."
+      },
+      {
+        "level": 3,
+        "name": "Automated AMHS & Smart SMT",
+        "desc": "Lighthouse automated surface-mount lines and AI vision inspection."
+      },
+      {
+        "level": 4,
+        "name": "High-Density GPU Subsystem Co-Design",
+        "desc": "Tier-1 GPU baseboard engineering, UBB/OAM modular testing, and multi-tier liquid cooling systems."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Autonomous Enterprise",
+        "desc": "Closed-loop digital factory orchestrating supply chain telemetry and self-healing SMT parameters."
+      }
+    ]
+  }
+}

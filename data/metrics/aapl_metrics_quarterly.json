@@ -1,0 +1,255 @@
+{
+  "company_name": "Apple Inc.",
+  "ticker": "AAPL",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 119575,
+      "gross_profit": 54855,
+      "operating_income": 40373,
+      "net_income": 33916,
+      "rd_expense": 7696,
+      "headcount": 162000,
+      "gross_margin": 45.87
+    },
+    "2024 Q2": {
+      "revenue": 90753,
+      "gross_profit": 42271,
+      "operating_income": 27900,
+      "net_income": 23636,
+      "rd_expense": 7907,
+      "headcount": 163000,
+      "gross_margin": 46.58
+    },
+    "2024 Q3": {
+      "revenue": 85777,
+      "gross_profit": 39678,
+      "operating_income": 25352,
+      "net_income": 21448,
+      "rd_expense": 8006,
+      "headcount": 163500,
+      "gross_margin": 46.26
+    },
+    "2024 Q4": {
+      "revenue": 94930,
+      "gross_profit": 43879,
+      "operating_income": 29591,
+      "net_income": 14736,
+      "rd_expense": 7761,
+      "headcount": 164000,
+      "gross_margin": 46.22
+    },
+    "2025 Q1": {
+      "revenue": 124300,
+      "gross_profit": 58421,
+      "operating_income": 42880,
+      "net_income": 36300,
+      "rd_expense": 8250,
+      "headcount": 164500,
+      "gross_margin": 47.0
+    },
+    "2025 Q2": {
+      "revenue": 95500,
+      "gross_profit": 44885,
+      "operating_income": 30560,
+      "net_income": 25780,
+      "rd_expense": 8450,
+      "headcount": 165000,
+      "gross_margin": 47.0
+    },
+    "2025 Q3": {
+      "revenue": 91000,
+      "gross_profit": 42770,
+      "operating_income": 28210,
+      "net_income": 23660,
+      "rd_expense": 8500,
+      "headcount": 165500,
+      "gross_margin": 47.0
+    },
+    "2025 Q4": {
+      "revenue": 105200,
+      "gross_profit": 49444,
+      "operating_income": 31470,
+      "net_income": 18260,
+      "rd_expense": 8600,
+      "headcount": 166000,
+      "gross_margin": 47.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "iPhone",
+      "Services (AppStore/Cloud/AppleCare)",
+      "Wearables, Home & Accessories",
+      "Mac",
+      "iPad"
+    ],
+    "colors": [
+      "#38BDF8",
+      "#34D399",
+      "#FBBF24",
+      "#F472B6",
+      "#A78BFA"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          61519,
+          29408,
+          11316,
+          9169,
+          8163
+        ],
+        "volume": [
+          51,
+          25,
+          10,
+          8,
+          6
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          46692,
+          22319,
+          8588,
+          6959,
+          6195
+        ],
+        "volume": [
+          51,
+          25,
+          10,
+          8,
+          6
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          44131,
+          21096,
+          8117,
+          6577,
+          5856
+        ],
+        "volume": [
+          51,
+          25,
+          10,
+          8,
+          6
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          48840,
+          23347,
+          8984,
+          7279,
+          6480
+        ],
+        "volume": [
+          51,
+          25,
+          10,
+          8,
+          6
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          62892,
+          32039,
+          11570,
+          9493,
+          8306
+        ],
+        "volume": [
+          51,
+          26,
+          9,
+          8,
+          6
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          48319,
+          24616,
+          8889,
+          7294,
+          6382
+        ],
+        "volume": [
+          51,
+          26,
+          9,
+          8,
+          6
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          46043,
+          23456,
+          8470,
+          6950,
+          6081
+        ],
+        "volume": [
+          51,
+          26,
+          9,
+          8,
+          6
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          53228,
+          27116,
+          9792,
+          8034,
+          7030
+        ],
+        "volume": [
+          51,
+          26,
+          9,
+          8,
+          6
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin remains rock-solid at 45.9%-47.0% driven by high-margin Services mix.",
+      "productivity": "Quarterly Rev / FTE averages $550K-$755K/quarter ($2.38M+ annualized).",
+      "leverage": "Quarterly operating income reaches $25.3B-$42.9B with operating margins maintaining above 30%.",
+      "rd": "Quarterly R&D investment sustained at $7.7B-$8.6B/quarter.",
+      "growth": "Services revenue continues unbroken quarterly records.",
+      "breakdown": "iPhone and Services drive over 76% of quarterly value."
+    },
+    "zh": {
+      "pivot": "單季毛利率在高毛利軟體服務推升下穩居 45.9%-47.0% 歷史高檔。",
+      "productivity": "單季人均營收達 $550K-$755K/季，年化人均產值超過 $2.38M/人。",
+      "leverage": "單季營業利益高達 $253 億-$429 億美元，營業利益率維持在 30%+ 之頂級水準。",
+      "rd": "單季研發支出穩定於 $77 億-$86 億美元/季。",
+      "growth": "軟體與訂閱服務營收每季皆締造歷史新高紀錄。",
+      "breakdown": "iPhone 與軟體服務合計貢獻超過 76% 單季總產值。"
+    }
+  }
+}

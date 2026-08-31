@@ -1,0 +1,313 @@
+{
+  "company_name": "MediaTek Inc. (2454.TW / 聯發科技)",
+  "ticker": "MEDIATEK",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 10920.2,
+      "cogs": 6122.4,
+      "gross_profit": 4797.8,
+      "operating_income": 1465.1,
+      "net_income": 1404.7,
+      "rd_expense": 2621.2,
+      "headcount": 17813,
+      "gross_margin": 43.94,
+      "operating_margin": 13.42,
+      "net_margin": 12.86,
+      "rd_pct_rev": 24.0,
+      "rev_per_emp": 613047.0,
+      "gp_per_emp": 269343.0,
+      "op_per_emp": 82249.0,
+      "ni_per_emp": 78858.0,
+      "rd_per_emp": 147151.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 17622.0,
+      "cogs": 9350.4,
+      "gross_profit": 8271.6,
+      "operating_income": 3858.6,
+      "net_income": 3995.5,
+      "rd_expense": 3431.5,
+      "headcount": 19586,
+      "gross_margin": 46.94,
+      "operating_margin": 21.9,
+      "net_margin": 22.67,
+      "rd_pct_rev": 19.47,
+      "rev_per_emp": 899724.0,
+      "gp_per_emp": 422322.0,
+      "op_per_emp": 197008.0,
+      "ni_per_emp": 203998.0,
+      "rd_per_emp": 175202.0,
+      "rev_growth_yoy": 61.37,
+      "gp_growth_yoy": 72.4,
+      "op_growth_yoy": 163.37,
+      "ni_growth_yoy": 184.44,
+      "rd_growth_yoy": 30.91,
+      "hc_growth_yoy": 9.95,
+      "gm_diff_pp": 3.0,
+      "op_diff_pp": 8.48
+    },
+    "2022": {
+      "revenue": 18416.0,
+      "cogs": 9325.2,
+      "gross_profit": 9090.8,
+      "operating_income": 4254.6,
+      "net_income": 3980.7,
+      "rd_expense": 3922.0,
+      "headcount": 21899,
+      "gross_margin": 49.36,
+      "operating_margin": 23.1,
+      "net_margin": 21.62,
+      "rd_pct_rev": 21.3,
+      "rev_per_emp": 840952.0,
+      "gp_per_emp": 415124.0,
+      "op_per_emp": 194283.0,
+      "ni_per_emp": 181775.0,
+      "rd_per_emp": 179095.0,
+      "rev_growth_yoy": 4.51,
+      "gp_growth_yoy": 9.9,
+      "op_growth_yoy": 10.26,
+      "ni_growth_yoy": -0.37,
+      "rd_growth_yoy": 14.29,
+      "hc_growth_yoy": 11.81,
+      "gm_diff_pp": 2.42,
+      "op_diff_pp": 1.2
+    },
+    "2023": {
+      "revenue": 13937.2,
+      "cogs": 7269.4,
+      "gross_profit": 6667.8,
+      "operating_income": 2308.7,
+      "net_income": 2482.0,
+      "rd_expense": 3581.5,
+      "headcount": 22002,
+      "gross_margin": 47.84,
+      "operating_margin": 16.57,
+      "net_margin": 17.81,
+      "rd_pct_rev": 25.7,
+      "rev_per_emp": 633452.0,
+      "gp_per_emp": 303054.0,
+      "op_per_emp": 104931.0,
+      "ni_per_emp": 112808.0,
+      "rd_per_emp": 162781.0,
+      "rev_growth_yoy": -24.32,
+      "gp_growth_yoy": -26.65,
+      "op_growth_yoy": -45.74,
+      "ni_growth_yoy": -37.65,
+      "rd_growth_yoy": -8.68,
+      "hc_growth_yoy": 0.47,
+      "gm_diff_pp": -1.52,
+      "op_diff_pp": -6.53
+    },
+    "2024": {
+      "revenue": 16580.8,
+      "cogs": 8350.0,
+      "gross_profit": 8230.8,
+      "operating_income": 3200.4,
+      "net_income": 3348.2,
+      "rd_expense": 4124.8,
+      "headcount": 22397,
+      "gross_margin": 49.64,
+      "operating_margin": 19.3,
+      "net_margin": 20.19,
+      "rd_pct_rev": 24.88,
+      "rev_per_emp": 740313.0,
+      "gp_per_emp": 367496.0,
+      "op_per_emp": 142894.0,
+      "ni_per_emp": 149493.0,
+      "rd_per_emp": 184168.0,
+      "rev_growth_yoy": 18.97,
+      "gp_growth_yoy": 23.44,
+      "op_growth_yoy": 38.62,
+      "ni_growth_yoy": 34.9,
+      "rd_growth_yoy": 15.17,
+      "hc_growth_yoy": 1.8,
+      "gm_diff_pp": 1.8,
+      "op_diff_pp": 2.73
+    },
+    "2025": {
+      "revenue": 18500.0,
+      "cogs": 9287.0,
+      "gross_profit": 9213.0,
+      "operating_income": 3626.0,
+      "net_income": 3800.0,
+      "rd_expense": 4625.0,
+      "headcount": 22800,
+      "gross_margin": 49.8,
+      "operating_margin": 19.6,
+      "net_margin": 20.54,
+      "rd_pct_rev": 25.0,
+      "rev_per_emp": 811404.0,
+      "gp_per_emp": 404079.0,
+      "op_per_emp": 159035.0,
+      "ni_per_emp": 166667.0,
+      "rd_per_emp": 202851.0,
+      "rev_growth_yoy": 11.57,
+      "gp_growth_yoy": 11.93,
+      "op_growth_yoy": 13.3,
+      "ni_growth_yoy": 13.49,
+      "rd_growth_yoy": 12.13,
+      "hc_growth_yoy": 1.8,
+      "gm_diff_pp": 0.16,
+      "op_diff_pp": 0.3
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Mobile Phone SoCs (Dimensity 5G/4G)",
+      "Smart Edge Platforms (Wi-Fi 7/Auto/TV/IoT)",
+      "Power IC (PMIC & Analog)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          5897,
+          4259,
+          764
+        ],
+        "volume": [
+          54,
+          39,
+          7
+        ]
+      },
+      "2021": {
+        "value": [
+          9516,
+          6873,
+          1233
+        ],
+        "volume": [
+          54,
+          39,
+          7
+        ]
+      },
+      "2022": {
+        "value": [
+          9945,
+          7182,
+          1289
+        ],
+        "volume": [
+          54,
+          39,
+          7
+        ]
+      },
+      "2023": {
+        "value": [
+          7387,
+          5575,
+          975
+        ],
+        "volume": [
+          53,
+          40,
+          7
+        ]
+      },
+      "2024": {
+        "value": [
+          8954,
+          6466,
+          1161
+        ],
+        "volume": [
+          54,
+          39,
+          7
+        ]
+      },
+      "2025": {
+        "value": [
+          9990,
+          7215,
+          1295
+        ],
+        "volume": [
+          54,
+          39,
+          7
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "MediaTek Inc. (2454.TW / 聯發科技) workforce reported at 22,800 FTEs with GAAP Gross Margin at 49.8%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $811,404/FTE in revenue and $404,079/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M3,626 (19.6% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M4,625 (25.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 11.57% compared to headcount change of 1.8% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "MediaTek Inc. (2454.TW / 聯發科技) 官方審計員工數為 22,800 人，GAAP 毛利率為 49.8%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $811,404/人，人均毛利為 $404,079/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M3,626（營業利益率 19.6%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M4,625（佔營收 25.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 11.57%，員工人數年增率為 1.8%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Agentic AI SoC & Heterogeneous Architecture Co-Design)",
+    "description": "Advanced 3nm/4nm EDA design automation, all-big-core compute engines, generative AI APU acceleration, and deep TSMC advanced packaging co-design.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard Turnkey IC Solutions",
+        "desc": "Turnkey mobile phone solutions with baseline reference designs."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Segment SoC Platform",
+        "desc": "Integrated 4G/5G, Smart TV, and connectivity SoCs across diverse customer bases."
+      },
+      {
+        "level": 3,
+        "name": "Automated High-Performance Computing Flow",
+        "desc": "Automated EDA design flows, high-coverage functional emulation, and multi-die test architectures."
+      },
+      {
+        "level": 4,
+        "name": "Agentic AI SoC & Heterogeneous Co-Design",
+        "desc": "All-big-core CPU architecture, Generative AI APU accelerators, Dimensity Auto smart cockpit platforms, and custom AI accelerator ASICs."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Silicon Platform & Digital Twin Ecosystem",
+        "desc": "Full closed-loop silicon digital twins, autonomous AI chip self-optimization, and compounding engineering velocity (1.01)^365 = 37.8x."
+      }
+    ]
+  }
+}

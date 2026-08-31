@@ -1,0 +1,333 @@
+{
+  "company_name": "Taiwan Semiconductor Manufacturing Co. (TSMC)",
+  "ticker": "TSMC",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 16720,
+      "gross_profit": 9413,
+      "operating_income": 7608,
+      "net_income": 6760,
+      "rd_expense": 1390,
+      "headcount": 74000,
+      "gross_margin": 56.3
+    },
+    "2023 Q2": {
+      "revenue": 15680,
+      "gross_profit": 8483,
+      "operating_income": 6586,
+      "net_income": 5910,
+      "rd_expense": 1440,
+      "headcount": 75000,
+      "gross_margin": 54.1
+    },
+    "2023 Q3": {
+      "revenue": 17280,
+      "gross_profit": 9383,
+      "operating_income": 7206,
+      "net_income": 6700,
+      "rd_expense": 1480,
+      "headcount": 76000,
+      "gross_margin": 54.3
+    },
+    "2023 Q4": {
+      "revenue": 19620,
+      "gross_profit": 10421,
+      "operating_income": 8120,
+      "net_income": 7510,
+      "rd_expense": 1540,
+      "headcount": 76478,
+      "gross_margin": 53.1
+    },
+    "2024 Q1": {
+      "revenue": 18870,
+      "gross_profit": 10020,
+      "operating_income": 7925,
+      "net_income": 7090,
+      "rd_expense": 1560,
+      "headcount": 78000,
+      "gross_margin": 53.1
+    },
+    "2024 Q2": {
+      "revenue": 20820,
+      "gross_profit": 11076,
+      "operating_income": 8849,
+      "net_income": 7680,
+      "rd_expense": 1620,
+      "headcount": 80000,
+      "gross_margin": 53.2
+    },
+    "2024 Q3": {
+      "revenue": 23500,
+      "gross_profit": 13583,
+      "operating_income": 11163,
+      "net_income": 10070,
+      "rd_expense": 1680,
+      "headcount": 82000,
+      "gross_margin": 57.8
+    },
+    "2024 Q4": {
+      "revenue": 26890,
+      "gross_profit": 15856,
+      "operating_income": 12797,
+      "net_income": 11680,
+      "rd_expense": 1720,
+      "headcount": 83000,
+      "gross_margin": 59.0
+    },
+    "2025 Q1": {
+      "revenue": 26500,
+      "gross_profit": 15370,
+      "operating_income": 11925,
+      "net_income": 10860,
+      "rd_expense": 1850,
+      "headcount": 85000,
+      "gross_margin": 58.0
+    },
+    "2025 Q2": {
+      "revenue": 28500,
+      "gross_profit": 16530,
+      "operating_income": 12825,
+      "net_income": 11680,
+      "rd_expense": 1950,
+      "headcount": 86500,
+      "gross_margin": 58.0
+    },
+    "2025 Q3": {
+      "revenue": 30500,
+      "gross_profit": 17995,
+      "operating_income": 13725,
+      "net_income": 12500,
+      "rd_expense": 2020,
+      "headcount": 87500,
+      "gross_margin": 59.0
+    },
+    "2025 Q4": {
+      "revenue": 32500,
+      "gross_profit": 19175,
+      "operating_income": 14625,
+      "net_income": 13460,
+      "rd_expense": 2080,
+      "headcount": 88000,
+      "gross_margin": 59.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "3nm (N3 / N3E / N3P)",
+      "5nm (N5 / N4P)",
+      "7nm (N7 / N6)",
+      "Mature & Specialty (16nm+)"
+    ],
+    "colors": [
+      "#DC2626",
+      "#F97316",
+      "#FBBF24",
+      "#6B7280"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          1003,
+          5518,
+          3177,
+          7022
+        ],
+        "volume": [
+          6,
+          33,
+          19,
+          42
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          941,
+          5174,
+          2979,
+          6586
+        ],
+        "volume": [
+          6,
+          33,
+          19,
+          42
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          1037,
+          5703,
+          3283,
+          7257
+        ],
+        "volume": [
+          6,
+          33,
+          19,
+          42
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          1177,
+          6475,
+          3728,
+          8240
+        ],
+        "volume": [
+          6,
+          33,
+          19,
+          42
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          3401,
+          6257,
+          2950,
+          6262
+        ],
+        "volume": [
+          18,
+          33,
+          16,
+          33
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          3752,
+          6904,
+          3255,
+          6909
+        ],
+        "volume": [
+          18,
+          33,
+          16,
+          33
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          4235,
+          7793,
+          3674,
+          7798
+        ],
+        "volume": [
+          18,
+          33,
+          16,
+          33
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          4846,
+          8917,
+          4204,
+          8923
+        ],
+        "volume": [
+          18,
+          33,
+          16,
+          33
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          6327,
+          9305,
+          3573,
+          7295
+        ],
+        "volume": [
+          24,
+          35,
+          14,
+          27
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          6805,
+          10006,
+          3843,
+          7846
+        ],
+        "volume": [
+          24,
+          35,
+          14,
+          27
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          7282,
+          10710,
+          4112,
+          8396
+        ],
+        "volume": [
+          24,
+          35,
+          14,
+          27
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          7760,
+          11411,
+          4382,
+          8947
+        ],
+        "volume": [
+          24,
+          35,
+          14,
+          27
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin expanded from 53.1% to 59.0% driven by high 3nm and 5nm fab capacity utilization and AI accelerator demand.",
+      "productivity": "Quarterly Rev / FTE surged past $370K/quarter, establishing industry-leading pure-play foundry productivity.",
+      "leverage": "Quarterly operating margins expanded to 45.0%-47.5%, proving exceptional operating leverage.",
+      "rd": "Quarterly R&D paced above $1.7B-$2.0B/quarter accelerating 2nm (N2) ramp.",
+      "growth": "Accelerating quarterly momentum with Q4 2024 Revenue YoY (+37.1%) and OpIncome (+57.6%).",
+      "breakdown": "3nm and 5nm nodes represent over 60%+ of quarterly wafer revenue."
+    },
+    "zh": {
+      "pivot": "單季毛利率由 53.1% 攀升至 59.0%，受惠於 3 奈米與 5 奈米產能滿載與 AI 加速器強勁需求。",
+      "productivity": "單季人均營收突破 $370K/季，年化人均產值超過 $1.34M/人。",
+      "leverage": "單季營業利益率擴張至 45.0%-47.5%，展現極致的晶圓代工營運槓桿。",
+      "rd": "單季研發支出維持於 $1.7B-$2.0B/季，加速 2nm (N2) 量產準備。",
+      "growth": "季度營收動能加速（2024 Q4 營收年增 +37.1%、營業利益年增 +57.6%）。",
+      "breakdown": "先進製程 (3nm/5nm) 貢獻超過 60% 以上之單季晶圓營收。"
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "company_name": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 7192,
+      "gross_profit": 4648,
+      "operating_income": 2140,
+      "net_income": 2043,
+      "rd_expense": 1875,
+      "headcount": 27000,
+      "gross_margin": 64.6
+    },
+    "2024 Q2": {
+      "revenue": 13507,
+      "gross_profit": 9462,
+      "operating_income": 6800,
+      "net_income": 6188,
+      "rd_expense": 2040,
+      "headcount": 28000,
+      "gross_margin": 70.1
+    },
+    "2024 Q3": {
+      "revenue": 18120,
+      "gross_profit": 13400,
+      "operating_income": 10417,
+      "net_income": 9243,
+      "rd_expense": 2294,
+      "headcount": 29000,
+      "gross_margin": 74.0
+    },
+    "2024 Q4": {
+      "revenue": 22103,
+      "gross_profit": 16791,
+      "operating_income": 13615,
+      "net_income": 12285,
+      "rd_expense": 2466,
+      "headcount": 29600,
+      "gross_margin": 76.0
+    },
+    "2025 Q1": {
+      "revenue": 26044,
+      "gross_profit": 20406,
+      "operating_income": 16909,
+      "net_income": 14881,
+      "rd_expense": 2720,
+      "headcount": 30500,
+      "gross_margin": 78.4
+    },
+    "2025 Q2": {
+      "revenue": 30040,
+      "gross_profit": 22560,
+      "operating_income": 18642,
+      "net_income": 16599,
+      "rd_expense": 3090,
+      "headcount": 31200,
+      "gross_margin": 75.1
+    },
+    "2025 Q3": {
+      "revenue": 35082,
+      "gross_profit": 26171,
+      "operating_income": 21869,
+      "net_income": 19309,
+      "rd_expense": 3390,
+      "headcount": 32000,
+      "gross_margin": 74.6
+    },
+    "2025 Q4": {
+      "revenue": 39300,
+      "gross_profit": 29475,
+      "operating_income": 24360,
+      "net_income": 21500,
+      "rd_expense": 3600,
+      "headcount": 32500,
+      "gross_margin": 75.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Compute & Networking (Data Center/AI)",
+      "Graphics (GeForce Gaming/RTX)",
+      "Professional Visualization",
+      "Automotive & Robotics"
+    ],
+    "colors": [
+      "#10B981",
+      "#3B82F6",
+      "#8B5CF6",
+      "#F59E0B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          5639,
+          1240,
+          184,
+          129
+        ],
+        "volume": [
+          78,
+          17,
+          3,
+          2
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          10590,
+          2328,
+          346,
+          243
+        ],
+        "volume": [
+          78,
+          17,
+          3,
+          2
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          14207,
+          3123,
+          464,
+          326
+        ],
+        "volume": [
+          78,
+          17,
+          3,
+          2
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          17330,
+          3809,
+          566,
+          398
+        ],
+        "volume": [
+          78,
+          17,
+          3,
+          2
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          23072,
+          2264,
+          379,
+          329
+        ],
+        "volume": [
+          89,
+          8,
+          1,
+          2
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          26612,
+          2611,
+          437,
+          380
+        ],
+        "volume": [
+          89,
+          8,
+          1,
+          2
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          31080,
+          3049,
+          510,
+          443
+        ],
+        "volume": [
+          89,
+          8,
+          1,
+          2
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          34816,
+          3416,
+          571,
+          497
+        ],
+        "volume": [
+          89,
+          8,
+          1,
+          2
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin exploded from 64.6% to peak at 78.4% before normalizing at an elite 75.0%.",
+      "productivity": "Human capital leverage set historic records, exceeding $1.2M in revenue per FTE in a single quarter ($5.0M annualized).",
+      "leverage": "Quarterly operating income scaled to $24.36B (62.0% margin) in 2025 Q4.",
+      "rd": "Quarterly R&D investment pacing at $3.0B-$3.6B/quarter supporting Blackwell & Rubin ramp.",
+      "growth": "Triple-digit YoY quarterly revenue growth through the AI computing inflection.",
+      "breakdown": "Data Center accounts for 87%+ of quarterly revenue value."
+    },
+    "zh": {
+      "pivot": "單季毛利率自 64.6% 爆炸性拉升至 78.4% 高峰，隨後穩定於 75.0% 頂級區間。",
+      "productivity": "人力資本回報率創下歷史紀錄，單季人均營收突破 $1.2M/季（年化達 $5.0M/人）。",
+      "leverage": "單季營業利益攀升至 $24.36B（營業利益率 62.0%）。",
+      "rd": "單季研發支出達 $3.0B-$3.6B/季，全面推動 Blackwell 與 Rubin 晶片量產。",
+      "growth": "AI 算力基礎設施推動單季營收呈現三位數百分比之年增率。",
+      "breakdown": "資料中心 AI 運算佔據超過 87% 的單季總產值。"
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "company_name": "KLA Corporation",
+  "ticker": "KLAC",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 2397,
+      "gross_profit": 1445,
+      "operating_income": 906,
+      "net_income": 741,
+      "rd_expense": 318,
+      "headcount": 15100,
+      "gross_margin": 60.28
+    },
+    "2024 Q2": {
+      "revenue": 2487,
+      "gross_profit": 1515,
+      "operating_income": 962,
+      "net_income": 583,
+      "rd_expense": 326,
+      "headcount": 15200,
+      "gross_margin": 60.92
+    },
+    "2024 Q3": {
+      "revenue": 2360,
+      "gross_profit": 1404,
+      "operating_income": 878,
+      "net_income": 601,
+      "rd_expense": 324,
+      "headcount": 15250,
+      "gross_margin": 59.49
+    },
+    "2024 Q4": {
+      "revenue": 2570,
+      "gross_profit": 1512,
+      "operating_income": 999,
+      "net_income": 838,
+      "rd_expense": 334,
+      "headcount": 15300,
+      "gross_margin": 58.83
+    },
+    "2025 Q1": {
+      "revenue": 2842,
+      "gross_profit": 1745,
+      "operating_income": 1145,
+      "net_income": 955,
+      "rd_expense": 345,
+      "headcount": 15500,
+      "gross_margin": 61.4
+    },
+    "2025 Q2": {
+      "revenue": 2950,
+      "gross_profit": 1814,
+      "operating_income": 1195,
+      "net_income": 980,
+      "rd_expense": 352,
+      "headcount": 15600,
+      "gross_margin": 61.49
+    },
+    "2025 Q3": {
+      "revenue": 2820,
+      "gross_profit": 1715,
+      "operating_income": 1110,
+      "net_income": 855,
+      "rd_expense": 358,
+      "headcount": 15700,
+      "gross_margin": 60.82
+    },
+    "2025 Q4": {
+      "revenue": 2888,
+      "gross_profit": 1741,
+      "operating_income": 1150,
+      "net_income": 890,
+      "rd_expense": 365,
+      "headcount": 15800,
+      "gross_margin": 60.28
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Process Control (Wafer Inspection / Metrology)",
+      "Specialty Semiconductor Process",
+      "PCB, Display & Component Inspection",
+      "Services"
+    ],
+    "colors": [
+      "#F59E0B",
+      "#3B82F6",
+      "#10B981",
+      "#64748B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          1518,
+          137,
+          210,
+          532
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          1576,
+          142,
+          217,
+          552
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          1496,
+          134,
+          206,
+          524
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1628,
+          146,
+          225,
+          571
+        ],
+        "volume": [
+          63,
+          6,
+          9,
+          22
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1816,
+          168,
+          245,
+          613
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1886,
+          174,
+          254,
+          636
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1803,
+          166,
+          243,
+          608
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          1846,
+          170,
+          249,
+          623
+        ],
+        "volume": [
+          64,
+          6,
+          9,
+          21
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin remains exceptionally stable above 59.5%-61.5% across all quarters.",
+      "productivity": "Quarterly Rev / FTE tracks around $160K-$190K/quarter ($720K+ annualized).",
+      "leverage": "Quarterly operating income sustained at $1.1B-$1.2B with operating margins maintaining around 40%.",
+      "rd": "Quarterly R&D investment tracks at $320M-$365M/quarter.",
+      "growth": "High-margin service revenue buffers semiconductor capex cycle.",
+      "breakdown": "Process control represents 67%+ of quarterly equipment value."
+    },
+    "zh": {
+      "pivot": "單季毛利率在各季皆長年穩固維持在 59.5%-61.5% 頂級水準。",
+      "productivity": "單季人均營收約為 $160K-$190K/季（年化達 $720K+/人）。",
+      "leverage": "單季營業利益穩定維持於 $11 億-$12 億美元，營業利益率維持約 40%。",
+      "rd": "單季研發費用穩定於 $3.2 億-$3.65 億美元/季。",
+      "growth": "機台售後維護與軟體升級營收提供強大週期防禦力。",
+      "breakdown": "晶圓製程控制檢測佔據超過 67% 單季設備產值。"
+    }
+  }
+}

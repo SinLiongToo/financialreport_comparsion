@@ -1,0 +1,215 @@
+{
+  "company_name": "Applied Materials, Inc.",
+  "ticker": "AMAT",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 6707,
+      "gross_profit": 3198,
+      "operating_income": 1974,
+      "net_income": 1704,
+      "rd_expense": 744,
+      "headcount": 34000,
+      "gross_margin": 47.7
+    },
+    "2024 Q2": {
+      "revenue": 6645,
+      "gross_profit": 3154,
+      "operating_income": 1944,
+      "net_income": 1722,
+      "rd_expense": 777,
+      "headcount": 34500,
+      "gross_margin": 47.5
+    },
+    "2024 Q3": {
+      "revenue": 6778,
+      "gross_profit": 3220,
+      "operating_income": 1993,
+      "net_income": 1705,
+      "rd_expense": 795,
+      "headcount": 35000,
+      "gross_margin": 47.5
+    },
+    "2024 Q4": {
+      "revenue": 7045,
+      "gross_profit": 3332,
+      "operating_income": 2060,
+      "net_income": 1732,
+      "rd_expense": 804,
+      "headcount": 35500,
+      "gross_margin": 47.3
+    },
+    "2025 Q1": {
+      "revenue": 7150,
+      "gross_profit": 3418,
+      "operating_income": 2110,
+      "net_income": 1790,
+      "rd_expense": 825,
+      "headcount": 35800,
+      "gross_margin": 47.8
+    },
+    "2025 Q2": {
+      "revenue": 7250,
+      "gross_profit": 3480,
+      "operating_income": 2175,
+      "net_income": 1850,
+      "rd_expense": 840,
+      "headcount": 36000,
+      "gross_margin": 48.0
+    },
+    "2025 Q3": {
+      "revenue": 7380,
+      "gross_profit": 3542,
+      "operating_income": 2214,
+      "net_income": 1890,
+      "rd_expense": 855,
+      "headcount": 36200,
+      "gross_margin": 48.0
+    },
+    "2025 Q4": {
+      "revenue": 7520,
+      "gross_profit": 3610,
+      "operating_income": 2256,
+      "net_income": 1930,
+      "rd_expense": 870,
+      "headcount": 36500,
+      "gross_margin": 48.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Semiconductor Systems (Foundry/Logic/Memory)",
+      "Applied Global Services (AGS - Spares/Service)",
+      "Display & Adjacent Markets"
+    ],
+    "colors": [
+      "#EC4899",
+      "#3B82F6",
+      "#10B981"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          4995,
+          1505,
+          207
+        ],
+        "volume": [
+          74,
+          23,
+          3
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          4949,
+          1491,
+          205
+        ],
+        "volume": [
+          74,
+          23,
+          3
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          5048,
+          1521,
+          209
+        ],
+        "volume": [
+          74,
+          23,
+          3
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          5247,
+          1581,
+          217
+        ],
+        "volume": [
+          74,
+          23,
+          3
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          5345,
+          1594,
+          211
+        ],
+        "volume": [
+          75,
+          22,
+          3
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          5420,
+          1616,
+          214
+        ],
+        "volume": [
+          75,
+          22,
+          3
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          5517,
+          1645,
+          218
+        ],
+        "volume": [
+          75,
+          22,
+          3
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          5621,
+          1677,
+          222
+        ],
+        "volume": [
+          75,
+          22,
+          3
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margins steadily sustain 47.3%-48.0% as GAA transistor and advanced packaging tools scale.",
+      "productivity": "Quarterly revenue per FTE averages ~$195K-$206K (~$800K annualized), validating strong operational execution.",
+      "leverage": "Quarterly operating margins remain firm around 29.5%-30.0% demonstrating robust cost structure discipline.",
+      "rd": "Quarterly R&D investment exceeds $744M-$870M (~11.5% of revenue) accelerating Gate-All-Around (GAA) and backside power delivery."
+    },
+    "zh": {
+      "pivot": "單季毛利率在 GAA 晶體架構與先進封裝設備驅動下穩健維持在 47.3%-48.0%。",
+      "productivity": "單季人均營收達 19.5 萬-20.6 萬美元（年化約 80 萬美元/人），營運紀律穩健。",
+      "leverage": "單季營業利益率維持於 29.5%-30.0% 高檔，成本結構極具韌性。",
+      "rd": "單季研發支出達 7.44 億-8.70 億美元（佔營收 11.5%），全力加速 GAA 與晶圓背部供電技術。"
+    }
+  }
+}

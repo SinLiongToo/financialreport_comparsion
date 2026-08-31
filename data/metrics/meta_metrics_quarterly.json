@@ -1,0 +1,213 @@
+{
+  "company_name": "Meta Platforms, Inc.",
+  "ticker": "META",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 36455,
+      "gross_profit": 29815,
+      "operating_income": 13815,
+      "net_income": 12369,
+      "rd_expense": 9979,
+      "headcount": 69329,
+      "gross_margin": 81.8
+    },
+    "2024 Q2": {
+      "revenue": 39071,
+      "gross_profit": 31802,
+      "operating_income": 14847,
+      "net_income": 13465,
+      "rd_expense": 10174,
+      "headcount": 70799,
+      "gross_margin": 81.4
+    },
+    "2024 Q3": {
+      "revenue": 40589,
+      "gross_profit": 33177,
+      "operating_income": 17350,
+      "net_income": 15688,
+      "rd_expense": 10398,
+      "headcount": 72404,
+      "gross_margin": 81.7
+    },
+    "2024 Q4": {
+      "revenue": 48385,
+      "gross_profit": 40160,
+      "operating_income": 23388,
+      "net_income": 20838,
+      "rd_expense": 11350,
+      "headcount": 74000,
+      "gross_margin": 83.0
+    },
+    "2025 Q1": {
+      "revenue": 44200,
+      "gross_profit": 36244,
+      "operating_income": 18564,
+      "net_income": 16350,
+      "rd_expense": 11800,
+      "headcount": 75500,
+      "gross_margin": 82.0
+    },
+    "2025 Q2": {
+      "revenue": 47500,
+      "gross_profit": 38950,
+      "operating_income": 20425,
+      "net_income": 17800,
+      "rd_expense": 12200,
+      "headcount": 76500,
+      "gross_margin": 82.0
+    },
+    "2025 Q3": {
+      "revenue": 49800,
+      "gross_profit": 41085,
+      "operating_income": 21912,
+      "net_income": 19100,
+      "rd_expense": 12600,
+      "headcount": 77500,
+      "gross_margin": 82.5
+    },
+    "2025 Q4": {
+      "revenue": 58500,
+      "gross_profit": 48555,
+      "operating_income": 27495,
+      "net_income": 24200,
+      "rd_expense": 13400,
+      "headcount": 78500,
+      "gross_margin": 83.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Family of Apps (Advertising)",
+      "Reality Labs (Quest/Ray-Ban AI)",
+      "Other Revenue"
+    ],
+    "colors": [
+      "#2563EB",
+      "#9333EA",
+      "#64748B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          35648,
+          475,
+          332
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          38205,
+          510,
+          356
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          39690,
+          529,
+          370
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          47313,
+          631,
+          441
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          43183,
+          610,
+          407
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          46407,
+          656,
+          437
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          48653,
+          688,
+          459
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          57153,
+          808,
+          539
+        ],
+        "volume": [
+          98,
+          1,
+          1
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margins remain elite at 81.4%-83.0% post-Year of Efficiency headcount stabilization.",
+      "productivity": "Quarterly revenue per FTE reaches $525K-$654K ($2.1M-$2.6M annualized), showcasing top-tier digital scale.",
+      "leverage": "Quarterly operating profit expanded to $17.3B-$27.5B (38%-48% margin) powered by AI content recommendation models."
+    },
+    "zh": {
+      "pivot": "組織效率年後員工人數精簡穩定，單季毛利率維持在 81.4%-83.0% 頂級水準。",
+      "productivity": "單季人均營收達 52.5 萬-65.4 萬美元（年化人均產值超過 210 萬-260 萬美元）。",
+      "leverage": "單季營業利益攀升至 173 億-275 億美元（營業利益率達 38%-48%），AI 推薦引擎大幅推升廣告轉換率。"
+    }
+  }
+}

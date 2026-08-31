@@ -1,0 +1,255 @@
+{
+  "company_name": "Alphabet Inc. (Google)",
+  "ticker": "GOOGL",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 80539,
+      "gross_profit": 46394,
+      "operating_income": 25472,
+      "net_income": 23662,
+      "rd_expense": 11920,
+      "headcount": 180800,
+      "gross_margin": 57.6
+    },
+    "2024 Q2": {
+      "revenue": 84742,
+      "gross_profit": 48671,
+      "operating_income": 27425,
+      "net_income": 23619,
+      "rd_expense": 12150,
+      "headcount": 179582,
+      "gross_margin": 57.43
+    },
+    "2024 Q3": {
+      "revenue": 88268,
+      "gross_profit": 50645,
+      "operating_income": 28521,
+      "net_income": 26301,
+      "rd_expense": 12450,
+      "headcount": 181269,
+      "gross_margin": 57.38
+    },
+    "2024 Q4": {
+      "revenue": 96469,
+      "gross_profit": 53187,
+      "operating_income": 29483,
+      "net_income": 22107,
+      "rd_expense": 12781,
+      "headcount": 181269,
+      "gross_margin": 55.13
+    },
+    "2025 Q1": {
+      "revenue": 95000,
+      "gross_profit": 55100,
+      "operating_income": 31350,
+      "net_income": 27500,
+      "rd_expense": 13200,
+      "headcount": 182000,
+      "gross_margin": 58.0
+    },
+    "2025 Q2": {
+      "revenue": 98500,
+      "gross_profit": 57130,
+      "operating_income": 33490,
+      "net_income": 28800,
+      "rd_expense": 13600,
+      "headcount": 182500,
+      "gross_margin": 58.0
+    },
+    "2025 Q3": {
+      "revenue": 101500,
+      "gross_profit": 59000,
+      "operating_income": 34500,
+      "net_income": 29800,
+      "rd_expense": 13900,
+      "headcount": 183000,
+      "gross_margin": 58.13
+    },
+    "2025 Q4": {
+      "revenue": 107000,
+      "gross_profit": 62770,
+      "operating_income": 36660,
+      "net_income": 31900,
+      "rd_expense": 14300,
+      "headcount": 183000,
+      "gross_margin": 58.66
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Google Search & other",
+      "YouTube ads",
+      "Google Network",
+      "Google Cloud",
+      "Subscriptions, platforms & devices"
+    ],
+    "colors": [
+      "#4285F4",
+      "#EA4335",
+      "#FBBC05",
+      "#34A853",
+      "#8AB4F8"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          45696,
+          8317,
+          6978,
+          10101,
+          9447
+        ],
+        "volume": [
+          57,
+          10,
+          9,
+          13,
+          11
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          48080,
+          8751,
+          7342,
+          10629,
+          9940
+        ],
+        "volume": [
+          57,
+          10,
+          9,
+          13,
+          11
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          50080,
+          9116,
+          7647,
+          11071,
+          10354
+        ],
+        "volume": [
+          57,
+          10,
+          9,
+          13,
+          11
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          54733,
+          9963,
+          8358,
+          12099,
+          11316
+        ],
+        "volume": [
+          57,
+          10,
+          9,
+          13,
+          11
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          53172,
+          9925,
+          7326,
+          13234,
+          11343
+        ],
+        "volume": [
+          56,
+          10,
+          8,
+          14,
+          12
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          55131,
+          10291,
+          7596,
+          13721,
+          11761
+        ],
+        "volume": [
+          56,
+          10,
+          8,
+          14,
+          12
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          56811,
+          10604,
+          7827,
+          14139,
+          12119
+        ],
+        "volume": [
+          56,
+          10,
+          8,
+          14,
+          12
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          59889,
+          11179,
+          8251,
+          14905,
+          12776
+        ],
+        "volume": [
+          56,
+          10,
+          8,
+          14,
+          12
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin consistently sustained at 55.1%-58.6% across cloud and AI infrastructure growth.",
+      "productivity": "Quarterly Rev / FTE tracking above $525K-$585K/quarter.",
+      "leverage": "Quarterly operating income scaled past $29.4B-$36.6B (30.5%-34.2% margin).",
+      "rd": "Quarterly R&D paced at $12B-$14.3B/quarter powering Gemini models.",
+      "growth": "Double-digit growth in Google Cloud and AI services.",
+      "breakdown": "Search & advertising represent ~75% of quarterly value."
+    },
+    "zh": {
+      "pivot": "單季毛利率在雲端運算與 AI 規模效應下穩定於 55.1%-58.6% 高檔。",
+      "productivity": "單季人均營收達 $525K-$585K/季。",
+      "leverage": "單季營業利益突破 $294 億-$366 億美元。",
+      "rd": "單季研發支出達 $120 億-$143 億美元/季，全面推進 Gemini 基礎模型。",
+      "growth": "Google Cloud 與 AI 訂閱營收維持強勁雙位數增長。",
+      "breakdown": "核心搜尋與廣告貢獻約 75% 之單季產值。"
+    }
+  }
+}

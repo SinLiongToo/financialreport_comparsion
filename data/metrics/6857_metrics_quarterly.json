@@ -1,0 +1,213 @@
+{
+  "company_name": "Advantest Corporation",
+  "ticker": "ADVANTEST",
+  "currency": "JPY (100 Millions)",
+  "unit": "¥ 億",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 1387,
+      "gross_profit": 763,
+      "operating_income": 313,
+      "net_income": 248,
+      "rd_expense": 168,
+      "headcount": 7050,
+      "gross_margin": 55.0
+    },
+    "2024 Q2": {
+      "revenue": 1412,
+      "gross_profit": 777,
+      "operating_income": 341,
+      "net_income": 266,
+      "rd_expense": 172,
+      "headcount": 7120,
+      "gross_margin": 55.0
+    },
+    "2024 Q3": {
+      "revenue": 1435,
+      "gross_profit": 790,
+      "operating_income": 448,
+      "net_income": 349,
+      "rd_expense": 178,
+      "headcount": 7180,
+      "gross_margin": 55.1
+    },
+    "2024 Q4": {
+      "revenue": 1416,
+      "gross_profit": 778,
+      "operating_income": 448,
+      "net_income": 347,
+      "rd_expense": 182,
+      "headcount": 7200,
+      "gross_margin": 55.0
+    },
+    "2025 Q1": {
+      "revenue": 1650,
+      "gross_profit": 924,
+      "operating_income": 485,
+      "net_income": 380,
+      "rd_expense": 195,
+      "headcount": 7300,
+      "gross_margin": 56.0
+    },
+    "2025 Q2": {
+      "revenue": 1750,
+      "gross_profit": 980,
+      "operating_income": 530,
+      "net_income": 415,
+      "rd_expense": 200,
+      "headcount": 7400,
+      "gross_margin": 56.0
+    },
+    "2025 Q3": {
+      "revenue": 1820,
+      "gross_profit": 1020,
+      "operating_income": 560,
+      "net_income": 438,
+      "rd_expense": 205,
+      "headcount": 7450,
+      "gross_margin": 56.0
+    },
+    "2025 Q4": {
+      "revenue": 1880,
+      "gross_profit": 1052,
+      "operating_income": 575,
+      "net_income": 447,
+      "rd_expense": 210,
+      "headcount": 7500,
+      "gross_margin": 56.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Semiconductor & Component Test Systems (SoC/Memory)",
+      "Mechatronics Systems (Handlers/Device Interface)",
+      "Services, Support & Others"
+    ],
+    "colors": [
+      "#E11D48",
+      "#3B82F6",
+      "#10B981"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          940,
+          152,
+          295
+        ],
+        "volume": [
+          68,
+          11,
+          21
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          956,
+          155,
+          301
+        ],
+        "volume": [
+          68,
+          11,
+          21
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          972,
+          157,
+          306
+        ],
+        "volume": [
+          68,
+          11,
+          21
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          960,
+          155,
+          301
+        ],
+        "volume": [
+          68,
+          11,
+          21
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1135,
+          175,
+          340
+        ],
+        "volume": [
+          69,
+          11,
+          20
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1203,
+          186,
+          361
+        ],
+        "volume": [
+          69,
+          11,
+          20
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1252,
+          193,
+          375
+        ],
+        "volume": [
+          69,
+          11,
+          20
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          1292,
+          200,
+          388
+        ],
+        "volume": [
+          69,
+          11,
+          20
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margins firm at 55.0%-56.0% supported by high-margin HBM3E/HBM4 tester mix.",
+      "productivity": "Quarterly revenue per FTE averages ~¥19.6M-¥25.0M (~$130K-$165K/quarter).",
+      "leverage": "Quarterly operating profit expanded from ¥313 億 to ¥575 億 (30.6% margin) as AI GPU test capacity scaled."
+    },
+    "zh": {
+      "pivot": "單季毛利率在 HBM3E/HBM4 與高階 SoC 測試機台出貨比重拉升下穩固於 55.0%-56.0%。",
+      "productivity": "單季人均營收達 1,960 萬-2,500 萬日圓（年化人均產值超過 52 萬-66 萬美元）。",
+      "leverage": "單季營業利益由 313 億日圓大幅擴張至 575 億日圓（營業利益率突破 30.6%）。"
+    }
+  }
+}

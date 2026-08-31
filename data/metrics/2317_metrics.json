@@ -1,0 +1,217 @@
+{
+  "company_name": "Hon Hai Precision Industry (Foxconn)",
+  "ticker": "FOXCONN",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 181628,
+      "gross_profit": 10268,
+      "operating_income": 3757,
+      "net_income": 3451,
+      "rd_expense": 3284,
+      "headcount": 850000,
+      "gross_margin": 5.65,
+      "operating_margin": 2.07
+    },
+    "2021": {
+      "revenue": 214078,
+      "gross_profit": 12933,
+      "operating_income": 5320,
+      "net_income": 4976,
+      "rd_expense": 3742,
+      "headcount": 826000,
+      "gross_margin": 6.04,
+      "operating_margin": 2.49
+    },
+    "2022": {
+      "revenue": 222382,
+      "gross_profit": 13426,
+      "operating_income": 5832,
+      "net_income": 4748,
+      "rd_expense": 3628,
+      "headcount": 767000,
+      "gross_margin": 6.04,
+      "operating_margin": 2.62
+    },
+    "2023": {
+      "revenue": 198142,
+      "gross_profit": 12474,
+      "operating_income": 5355,
+      "net_income": 4569,
+      "rd_expense": 3423,
+      "headcount": 668000,
+      "gross_margin": 6.3,
+      "operating_margin": 2.7
+    },
+    "2024": {
+      "revenue": 214363,
+      "gross_profit": 13405,
+      "operating_income": 6269,
+      "net_income": 4772,
+      "rd_expense": 3569,
+      "headcount": 650000,
+      "gross_margin": 6.25,
+      "operating_margin": 2.92
+    },
+    "2025": {
+      "revenue": 238500,
+      "gross_profit": 15264,
+      "operating_income": 7394,
+      "net_income": 5605,
+      "rd_expense": 3935,
+      "headcount": 650000,
+      "gross_margin": 6.4,
+      "operating_margin": 3.1
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Smart Consumer Electronics (智慧消費智能)",
+      "Cloud & Networking Products (雲端網路 / AI伺服器)",
+      "Computing Products (電腦終端)",
+      "Components & Others (元件及其他 / EV)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#8B5CF6",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          96263,
+          41774,
+          30877,
+          12714
+        ],
+        "volume": [
+          53,
+          23,
+          17,
+          7
+        ]
+      },
+      "2021": {
+        "value": [
+          113461,
+          51379,
+          34252,
+          14986
+        ],
+        "volume": [
+          53,
+          24,
+          16,
+          7
+        ]
+      },
+      "2022": {
+        "value": [
+          117862,
+          55596,
+          33357,
+          15567
+        ],
+        "volume": [
+          53,
+          25,
+          15,
+          7
+        ]
+      },
+      "2023": {
+        "value": [
+          106997,
+          49536,
+          27740,
+          13869
+        ],
+        "volume": [
+          54,
+          25,
+          14,
+          7
+        ]
+      },
+      "2024": {
+        "value": [
+          100751,
+          68596,
+          27867,
+          17149
+        ],
+        "volume": [
+          47,
+          32,
+          13,
+          8
+        ]
+      },
+      "2025": {
+        "value": [
+          102555,
+          88245,
+          26235,
+          21465
+        ],
+        "volume": [
+          43,
+          37,
+          11,
+          9
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Hon Hai's global workforce plateaued and streamlined from a peak of 850,000 down to 650,000 full-time employees through AI-driven 'Lights-Out' automated manufacturing, while gross margin expanded from 5.65% to 6.25% and operating income surged to record highs driven by AI GB200/NVL72 server liquid-cooling racks.",
+      "leverage": "Cloud and networking products surged to 32%+ of revenue with over 150% YoY growth in AI server shipments, accelerating operating margin from 2.07% (2020) to 2.92% (2024) and expanding human capital productivity ($/FTE)."
+    },
+    "zh": {
+      "pivot": "鴻海全球員工總數在自動化「黑燈工廠」與 AI 智慧製造轉型下，由高峰期的 85 萬人精簡並穩定於 65 萬人高原期；受惠於 AI 伺服器 (GB200 / NVL72 水冷機櫃) 出貨放量，營業利益率由 2020 年的 2.07% 爬升至 2024 年的 2.92%，人均毛利與營業利益大幅跳升。",
+      "leverage": "雲端網路事業群營收比重攀升至 32%+，AI 伺服器營收累計年增達 150%，帶動 2024 年集團合併營收創下 6.86 兆新台幣（約 2,143 億美元）歷史新高，營運槓桿與高階液冷整合效益全面爆發。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive Assembly",
+        "desc": "Traditional high-labor intensive EMS contract assembly with razor-thin margins."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized Modularization",
+        "desc": "Global multi-site manufacturing footprint across China, India, Vietnam, and Americas."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Lights-Out Automation",
+        "desc": "World Economic Forum Lighthouse factories with automated robotics and parameter self-tuning."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: AI & 3+3 Strategic Platform",
+        "desc": "AI server liquid cooling (GB200/NVL72), CDMS electric vehicles, and robotics platforms."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: Global Cognitive Ecosystem",
+        "desc": "Fully cognitive digital twin manufacturing platform driving high operating margin compound growth."
+      }
+    ]
+  }
+}

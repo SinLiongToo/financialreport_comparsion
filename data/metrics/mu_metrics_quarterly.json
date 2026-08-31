@@ -1,0 +1,237 @@
+{
+  "company_name": "Micron Technology, Inc.",
+  "ticker": "MU",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 4726,
+      "gross_profit": 33,
+      "operating_income": -1128,
+      "net_income": -1234,
+      "rd_expense": 787,
+      "headcount": 43500,
+      "gross_margin": 0.7
+    },
+    "2024 Q2": {
+      "revenue": 5824,
+      "gross_profit": 1079,
+      "operating_income": 191,
+      "net_income": 793,
+      "rd_expense": 818,
+      "headcount": 43800,
+      "gross_margin": 18.53
+    },
+    "2024 Q3": {
+      "revenue": 6811,
+      "gross_profit": 1839,
+      "operating_income": 719,
+      "net_income": 332,
+      "rd_expense": 878,
+      "headcount": 43900,
+      "gross_margin": 27.0
+    },
+    "2024 Q4": {
+      "revenue": 7750,
+      "gross_profit": 2997,
+      "operating_income": 1522,
+      "net_income": 887,
+      "rd_expense": 888,
+      "headcount": 44000,
+      "gross_margin": 38.67
+    },
+    "2025 Q1": {
+      "revenue": 8707,
+      "gross_profit": 3266,
+      "operating_income": 1845,
+      "net_income": 1470,
+      "rd_expense": 915,
+      "headcount": 44800,
+      "gross_margin": 37.51
+    },
+    "2025 Q2": {
+      "revenue": 9200,
+      "gross_profit": 3726,
+      "operating_income": 2484,
+      "net_income": 2150,
+      "rd_expense": 940,
+      "headcount": 45200,
+      "gross_margin": 40.5
+    },
+    "2025 Q3": {
+      "revenue": 10100,
+      "gross_profit": 4141,
+      "operating_income": 3131,
+      "net_income": 2720,
+      "rd_expense": 965,
+      "headcount": 45600,
+      "gross_margin": 41.0
+    },
+    "2025 Q4": {
+      "revenue": 10493,
+      "gross_profit": 4267,
+      "operating_income": 3320,
+      "net_income": 2900,
+      "rd_expense": 980,
+      "headcount": 46000,
+      "gross_margin": 40.67
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Compute and Networking (CNBU - HBM/Server DRAM)",
+      "Mobile Business (MBU - LPDDR/NAND)",
+      "Storage Business (SBU - SSDs/Enterprise)",
+      "Embedded Business (EBU - Auto/Industrial)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          2048,
+          1080,
+          909,
+          689
+        ],
+        "volume": [
+          43,
+          23,
+          19,
+          15
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          2523,
+          1331,
+          1121,
+          849
+        ],
+        "volume": [
+          43,
+          23,
+          19,
+          15
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          2950,
+          1557,
+          1311,
+          993
+        ],
+        "volume": [
+          43,
+          23,
+          19,
+          15
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          3357,
+          1772,
+          1491,
+          1130
+        ],
+        "volume": [
+          43,
+          23,
+          19,
+          15
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          4096,
+          1919,
+          1592,
+          1100
+        ],
+        "volume": [
+          47,
+          22,
+          18,
+          13
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          4328,
+          2028,
+          1682,
+          1162
+        ],
+        "volume": [
+          47,
+          22,
+          18,
+          13
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          4752,
+          2226,
+          1846,
+          1276
+        ],
+        "volume": [
+          47,
+          22,
+          18,
+          13
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          4936,
+          2313,
+          1918,
+          1326
+        ],
+        "volume": [
+          47,
+          22,
+          18,
+          13
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin exploded from 0.7% to 40.7% driven by HBM3E volume shipments and DDR5 pricing recovery.",
+      "productivity": "Quarterly Rev / FTE jumped past $195K-$228K/quarter.",
+      "leverage": "Quarterly operating income surged to $3.32B (31.6% margin).",
+      "rd": "Quarterly R&D investment pacing at $880M-$980M/quarter.",
+      "growth": "Compute & Networking quarterly revenue up 80%+ YoY.",
+      "breakdown": "DRAM products generate over 71% of quarterly value."
+    },
+    "zh": {
+      "pivot": "單季毛利率在 HBM3E 滿產與 DDR5 報價反彈帶動下自 0.7% 爆炸性拉升至 40.7%。",
+      "productivity": "單季人均營收躍升至 $195K-$228K/季。",
+      "leverage": "單季營業利益攀升至 $33.2 億美元（營業利益率 31.6%）。",
+      "rd": "單季研發支出維持於 $8.8 億-$9.8 億美元/季。",
+      "growth": "運算與網路事業部單季營收年增 80%+。",
+      "breakdown": "DRAM 產品貢獻超過 71% 單季總產值。"
+    }
+  }
+}

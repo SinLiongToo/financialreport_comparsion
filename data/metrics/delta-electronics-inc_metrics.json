@@ -1,0 +1,315 @@
+{
+  "company_name": "Delta Electronics, Inc. (台達電子)",
+  "ticker": "DELTA",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 9580,
+      "gross_profit": 2955,
+      "operating_income": 894,
+      "net_income": 864,
+      "rd_expense": 821,
+      "headcount": 83000,
+      "gross_margin": 30.85,
+      "operating_margin": 9.33,
+      "net_margin": 9.02,
+      "rd_pct_rev": 8.57,
+      "rev_per_emp": 115422.0,
+      "gp_per_emp": 35602.0,
+      "op_per_emp": 10771.0,
+      "ni_per_emp": 10410.0,
+      "rd_per_emp": 9892.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 11238,
+      "gross_profit": 3214,
+      "operating_income": 1119,
+      "net_income": 957,
+      "rd_expense": 969,
+      "headcount": 85500,
+      "gross_margin": 28.6,
+      "operating_margin": 9.96,
+      "net_margin": 8.52,
+      "rd_pct_rev": 8.62,
+      "rev_per_emp": 131439.0,
+      "gp_per_emp": 37591.0,
+      "op_per_emp": 13088.0,
+      "ni_per_emp": 11193.0,
+      "rd_per_emp": 11333.0,
+      "rev_growth_yoy": 17.31,
+      "gp_growth_yoy": 8.76,
+      "op_growth_yoy": 25.17,
+      "ni_growth_yoy": 10.76,
+      "rd_growth_yoy": 18.03,
+      "hc_growth_yoy": 3.01,
+      "gm_diff_pp": -2.25,
+      "op_diff_pp": 0.63
+    },
+    "2022": {
+      "revenue": 12901,
+      "gross_profit": 3713,
+      "operating_income": 1391,
+      "net_income": 1175,
+      "rd_expense": 1065,
+      "headcount": 89000,
+      "gross_margin": 28.78,
+      "operating_margin": 10.78,
+      "net_margin": 9.11,
+      "rd_pct_rev": 8.26,
+      "rev_per_emp": 144955.0,
+      "gp_per_emp": 41719.0,
+      "op_per_emp": 15629.0,
+      "ni_per_emp": 13202.0,
+      "rd_per_emp": 11966.0,
+      "rev_growth_yoy": 14.8,
+      "gp_growth_yoy": 15.53,
+      "op_growth_yoy": 24.31,
+      "ni_growth_yoy": 22.78,
+      "rd_growth_yoy": 9.91,
+      "hc_growth_yoy": 4.09,
+      "gm_diff_pp": 0.18,
+      "op_diff_pp": 0.82
+    },
+    "2023": {
+      "revenue": 12901,
+      "gross_profit": 3767,
+      "operating_income": 1297,
+      "net_income": 1010,
+      "rd_expense": 1119,
+      "headcount": 86000,
+      "gross_margin": 29.2,
+      "operating_margin": 10.05,
+      "net_margin": 7.83,
+      "rd_pct_rev": 8.67,
+      "rev_per_emp": 150012.0,
+      "gp_per_emp": 43802.0,
+      "op_per_emp": 15081.0,
+      "ni_per_emp": 11744.0,
+      "rd_per_emp": 13012.0,
+      "rev_growth_yoy": 0.0,
+      "gp_growth_yoy": 1.45,
+      "op_growth_yoy": -6.76,
+      "ni_growth_yoy": -14.04,
+      "rd_growth_yoy": 5.07,
+      "hc_growth_yoy": -3.37,
+      "gm_diff_pp": 0.42,
+      "op_diff_pp": -0.73
+    },
+    "2024": {
+      "revenue": 13161,
+      "gross_profit": 4343,
+      "operating_income": 1514,
+      "net_income": 1202,
+      "rd_expense": 1211,
+      "headcount": 85000,
+      "gross_margin": 33.0,
+      "operating_margin": 11.5,
+      "net_margin": 9.13,
+      "rd_pct_rev": 9.2,
+      "rev_per_emp": 154835.0,
+      "gp_per_emp": 51094.0,
+      "op_per_emp": 17812.0,
+      "ni_per_emp": 14141.0,
+      "rd_per_emp": 14247.0,
+      "rev_growth_yoy": 2.02,
+      "gp_growth_yoy": 15.29,
+      "op_growth_yoy": 16.73,
+      "ni_growth_yoy": 19.01,
+      "rd_growth_yoy": 8.22,
+      "hc_growth_yoy": -1.16,
+      "gm_diff_pp": 3.8,
+      "op_diff_pp": 1.45
+    },
+    "2025": {
+      "revenue": 14531,
+      "gross_profit": 4941,
+      "operating_income": 1816,
+      "net_income": 1453,
+      "rd_expense": 1366,
+      "headcount": 86000,
+      "gross_margin": 34.0,
+      "operating_margin": 12.5,
+      "net_margin": 10.0,
+      "rd_pct_rev": 9.4,
+      "rev_per_emp": 168965.0,
+      "gp_per_emp": 57453.0,
+      "op_per_emp": 21116.0,
+      "ni_per_emp": 16895.0,
+      "rd_per_emp": 15884.0,
+      "rev_growth_yoy": 10.41,
+      "gp_growth_yoy": 13.77,
+      "op_growth_yoy": 19.95,
+      "ni_growth_yoy": 20.88,
+      "rd_growth_yoy": 12.8,
+      "hc_growth_yoy": 1.18,
+      "gm_diff_pp": 1.0,
+      "op_diff_pp": 1.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Power Electronics (電源及零組件: Server Power, EV Power, Component)",
+      "Infrastructure (基礎設施: Data Center Telecom Power, Energy & EV Charging)",
+      "Automation (自動化: Industrial & Building Automation)",
+      "Others & EV Mobility (其他與車用動力)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#8B5CF6",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          5461,
+          2682,
+          1245,
+          192
+        ],
+        "volume": [
+          57,
+          28,
+          13,
+          2
+        ]
+      },
+      "2021": {
+        "value": [
+          6630,
+          3034,
+          1349,
+          225
+        ],
+        "volume": [
+          59,
+          27,
+          12,
+          2
+        ]
+      },
+      "2022": {
+        "value": [
+          7741,
+          3354,
+          1548,
+          258
+        ],
+        "volume": [
+          60,
+          26,
+          12,
+          2
+        ]
+      },
+      "2023": {
+        "value": [
+          7870,
+          3354,
+          1419,
+          258
+        ],
+        "volume": [
+          61,
+          26,
+          11,
+          2
+        ]
+      },
+      "2024": {
+        "value": [
+          7370,
+          3948,
+          1448,
+          395
+        ],
+        "volume": [
+          56,
+          30,
+          11,
+          3
+        ]
+      },
+      "2025": {
+        "value": [
+          7847,
+          4795,
+          1453,
+          436
+        ],
+        "volume": [
+          54,
+          33,
+          10,
+          3
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce disciplined at ~85,000 FTEs while gross margins expanded rapidly to 33.0%-34.0%, unlocking 'The Pivot' through high-power AI server architectures and advanced liquid cooling CDU solutions.",
+      "productivity": "Gross profit per employee surged from $35.6K (2020) to over $51K+ (2024) and projected $57.4K (2025), driven by Delta's global leadership in 66kW/33kW AI rack power delivery and cooling systems.",
+      "leverage": "Operating income reached a record $1.51B-$1.82B with operating margins expanding to 11.5%-12.5%, proving that AI power solutions yield substantial operating leverage over traditional PC/consumer electronics.",
+      "rd": "R&D investments expanded to $1.21B-$1.37B (over 9.2%-9.4% of revenue), establishing the world's deepest engineering moat across silicon carbide (SiC) power conversion and liquid-to-liquid CDUs.",
+      "growth": "Gross profit growth (+15.3%) and operating income growth (+16.7%) massively decoupled from headcount growth (-1.2%), illustrating extreme manufacturing automation compounding.",
+      "breakdown": "Infrastructure (AI Data Center Telecom Power & Liquid Cooling) surged to 30%-33% of revenue, transforming Delta from a component manufacturer into a premier AI infrastructure power titan."
+    },
+    "zh": {
+      "pivot": "全球員工人數精簡維持在約 8.5 萬人，毛利率由 28.6% 強勢擴張至 33.0%-34.0%，透過高功率 AI 伺服器電源與水冷散熱 CDU 解決方案成功迎來「人力拐點 (The Pivot)」。",
+      "productivity": "人均毛利從 $35.6K (2020) 躍升至 $51K+ (2024) 並預估達 $57.4K (2025)，受惠於台達電在全球 AI 伺服器電源 (66kW/33kW 電源機箱) 與液冷系統之絕對主導地位。",
+      "leverage": "營業利益攀升至創紀錄的 $1.51B-$1.82B，營業利益率擴張至 11.5%-12.5%，證明 AI 高階電源之利潤率與營運槓桿大幅超越傳統消費性電子零組件。",
+      "rd": "研發支出提升至 $1.21B-$1.37B（佔營收高達 9.2%-9.4%），全面築起碳化矽 (SiC) 寬能隙功率轉換與液冷散熱系統之全球頂級工程護城河。",
+      "growth": "毛利成長 (+15.3%) 與營業利益成長 (+16.7%) 與人力增幅 (-1.2%) 明顯脫鉤，展現智慧自動化製造與高單價 AI 產品帶來的生產力複利效應。",
+      "breakdown": "基礎設施 (AI 資料中心電源、微電網與液冷 CDU) 營收佔比急遽攀升至 30%-33%，推動台達電從傳統零組件廠全面蛻變為全球 AI 基礎設施巨擘。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Standard Component Manufacturing",
+        "desc": "Baseline power supply and electronics component assembly SOPs."
+      },
+      {
+        "level": 2,
+        "name": "Smart Factory Automation",
+        "desc": "Automated SMT lines, automated optical inspection (AOI), and lean cell production."
+      },
+      {
+        "level": 3,
+        "name": "Digital Twin & Energy Orchestration",
+        "desc": "Real-time energy management systems (EMS) and smart building IoT integration."
+      },
+      {
+        "level": 4,
+        "name": "AI SuperPower & Liquid Cooling Velocity",
+        "desc": "High-density AI rack power delivery, zero-defect liquid cooling CDU architectures, and automated power testing."
+      },
+      {
+        "level": 5,
+        "name": "Global Green Tech Lean Benchmark",
+        "desc": "World-class RE100 zero-carbon manufacturing, closed-loop AI power intelligence, and continuous compounding (1.01)^365 = 37.8x."
+      }
+    ]
+  }
+}

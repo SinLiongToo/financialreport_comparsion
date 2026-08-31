@@ -1,0 +1,229 @@
+{
+  "company_name": "Hon Hai Precision Industry (Foxconn)",
+  "ticker": "FOXCONN",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 47910,
+      "gross_profit": 2894,
+      "operating_income": 1245,
+      "net_income": 421,
+      "rd_expense": 780,
+      "headcount": 700000,
+      "gross_margin": 6.04
+    },
+    "2023 Q2": {
+      "revenue": 42800,
+      "gross_profit": 2743,
+      "operating_income": 1010,
+      "net_income": 1080,
+      "rd_expense": 810,
+      "headcount": 685000,
+      "gross_margin": 6.41
+    },
+    "2023 Q3": {
+      "revenue": 49050,
+      "gross_profit": 3267,
+      "operating_income": 1495,
+      "net_income": 1410,
+      "rd_expense": 880,
+      "headcount": 675000,
+      "gross_margin": 6.66
+    },
+    "2023 Q4": {
+      "revenue": 58382,
+      "gross_profit": 3570,
+      "operating_income": 1605,
+      "net_income": 1658,
+      "rd_expense": 953,
+      "headcount": 668000,
+      "gross_margin": 6.12
+    },
+    "2024 Q1": {
+      "revenue": 41850,
+      "gross_profit": 2645,
+      "operating_income": 1150,
+      "net_income": 690,
+      "rd_expense": 820,
+      "headcount": 660000,
+      "gross_margin": 6.32
+    },
+    "2024 Q2": {
+      "revenue": 48600,
+      "gross_profit": 3120,
+      "operating_income": 1390,
+      "net_income": 1095,
+      "rd_expense": 870,
+      "headcount": 655000,
+      "gross_margin": 6.42
+    },
+    "2024 Q3": {
+      "revenue": 57900,
+      "gross_profit": 3584,
+      "operating_income": 1700,
+      "net_income": 1540,
+      "rd_expense": 910,
+      "headcount": 652000,
+      "gross_margin": 6.19
+    },
+    "2024 Q4": {
+      "revenue": 66013,
+      "gross_profit": 4056,
+      "operating_income": 2029,
+      "net_income": 1447,
+      "rd_expense": 969,
+      "headcount": 650000,
+      "gross_margin": 6.14
+    },
+    "2025 Q1": {
+      "revenue": 47500,
+      "gross_profit": 3040,
+      "operating_income": 1425,
+      "net_income": 1045,
+      "rd_expense": 890,
+      "headcount": 650000,
+      "gross_margin": 6.4
+    },
+    "2025 Q2": {
+      "revenue": 54200,
+      "gross_profit": 3496,
+      "operating_income": 1680,
+      "net_income": 1246,
+      "rd_expense": 950,
+      "headcount": 650000,
+      "gross_margin": 6.45
+    },
+    "2025 Q3": {
+      "revenue": 64500,
+      "gross_profit": 4128,
+      "operating_income": 2000,
+      "net_income": 1548,
+      "rd_expense": 1020,
+      "headcount": 650000,
+      "gross_margin": 6.4
+    },
+    "2025 Q4": {
+      "revenue": 72300,
+      "gross_profit": 4600,
+      "operating_income": 2289,
+      "net_income": 1766,
+      "rd_expense": 1075,
+      "headcount": 650000,
+      "gross_margin": 6.36
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Smart Consumer Electronics (智慧消費智能)",
+      "Cloud & Networking Products (雲端網路 / AI伺服器)",
+      "Computing Products (電腦終端)",
+      "Components & Others (元件及其他 / EV)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#8B5CF6",
+      "#F59E0B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          18832,
+          13392,
+          6278,
+          3348
+        ],
+        "volume": [
+          45,
+          32,
+          15,
+          8
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          19926,
+          17496,
+          6804,
+          4374
+        ],
+        "volume": [
+          41,
+          36,
+          14,
+          9
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          24897,
+          21423,
+          6948,
+          4632
+        ],
+        "volume": [
+          43,
+          37,
+          12,
+          8
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          37096,
+          16295,
+          7833,
+          4789
+        ],
+        "volume": [
+          56,
+          25,
+          12,
+          7
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          37596,
+          23859,
+          6507,
+          4338
+        ],
+        "volume": [
+          52,
+          33,
+          9,
+          6
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Hon Hai quarterly AI server shipments surged to 40%+ of server revenue, expanding quarterly operating income past $2.0B.",
+      "productivity": "Quarterly revenue per FTE averages ~$75K-$100K (~$300K-$400K annualized) across 650K global workforce.",
+      "leverage": "High-density compute racks (GB200 NVL72) and liquid cooling solutions expanded operational margin to 3.0%+ in 2024H2."
+    },
+    "zh": {
+      "pivot": "鴻海單季 AI 伺服器營收比重突破 40%，推升單季營業利益突破 20 億美元創下新高。",
+      "productivity": "全球 65 萬員工之單季人均營收約 7.5 萬-10 萬美元（年化約 30 萬-40 萬美元），人均毛利顯著提升。",
+      "leverage": "高算力伺服器水冷機櫃與垂直整合效益顯現，帶動 2024 下半年單季營業利益率站穩 3.0% 以上。"
+    }
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "company_name": "Pegatron Corporation (4938.TW / 和碩聯合科技)",
+  "ticker": "PEGATRON",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 10250.0,
+      "cogs": 9911.8,
+      "gross_profit": 338.2,
+      "gross_margin": 3.3,
+      "operating_income": 102.5,
+      "operating_margin": 1.0,
+      "net_income": 98.4,
+      "net_margin": 0.96,
+      "rd_expense": 170.0,
+      "rd_pct_rev": 1.66,
+      "headcount": 136000,
+      "rev_per_emp": 75367.6,
+      "gp_per_emp": 2486.8,
+      "op_per_emp": 753.7,
+      "ni_per_emp": 723.5,
+      "rd_per_emp": 1250.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 9020.0,
+      "cogs": 8704.3,
+      "gross_profit": 315.7,
+      "gross_margin": 3.5,
+      "operating_income": 108.2,
+      "operating_margin": 1.2,
+      "net_income": 102.8,
+      "net_margin": 1.14,
+      "rd_expense": 168.0,
+      "rd_pct_rev": 1.86,
+      "headcount": 130000,
+      "rev_per_emp": 69384.6,
+      "gp_per_emp": 2428.5,
+      "op_per_emp": 832.3,
+      "ni_per_emp": 790.8,
+      "rd_per_emp": 1292.3,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q3": {
+      "revenue": 10100.0,
+      "cogs": 9685.9,
+      "gross_profit": 414.1,
+      "gross_margin": 4.1,
+      "operating_income": 141.4,
+      "operating_margin": 1.4,
+      "net_income": 145.4,
+      "net_margin": 1.44,
+      "rd_expense": 171.0,
+      "rd_pct_rev": 1.69,
+      "headcount": 124000,
+      "rev_per_emp": 81451.6,
+      "gp_per_emp": 3339.5,
+      "op_per_emp": 1140.3,
+      "ni_per_emp": 1172.6,
+      "rd_per_emp": 1379.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q4": {
+      "revenue": 11027.1,
+      "cogs": 10588.3,
+      "gross_profit": 438.8,
+      "gross_margin": 3.98,
+      "operating_income": 151.1,
+      "operating_margin": 1.37,
+      "net_income": 158.5,
+      "net_margin": 1.44,
+      "rd_expense": 172.7,
+      "rd_pct_rev": 1.57,
+      "headcount": 118000,
+      "rev_per_emp": 93450.0,
+      "gp_per_emp": 3718.6,
+      "op_per_emp": 1280.5,
+      "ni_per_emp": 1343.2,
+      "rd_per_emp": 1463.6,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2024 Q1": {
+      "revenue": 7820.0,
+      "cogs": 7491.6,
+      "gross_profit": 328.4,
+      "gross_margin": 4.2,
+      "operating_income": 109.5,
+      "operating_margin": 1.4,
+      "net_income": 102.0,
+      "net_margin": 1.3,
+      "rd_expense": 160.0,
+      "rd_pct_rev": 2.05,
+      "headcount": 114750,
+      "rev_per_emp": 68148.1,
+      "gp_per_emp": 2861.9,
+      "op_per_emp": 954.2,
+      "ni_per_emp": 888.9,
+      "rd_per_emp": 1394.3,
+      "rev_growth_yoy": -23.71,
+      "gp_growth_yoy": -2.9,
+      "op_growth_yoy": 6.83,
+      "ni_growth_yoy": 3.66,
+      "rd_growth_yoy": -5.88,
+      "hc_growth_yoy": -15.62,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": 0.4
+    },
+    "2024 Q2": {
+      "revenue": 7950.0,
+      "cogs": 7616.1,
+      "gross_profit": 333.9,
+      "gross_margin": 4.2,
+      "operating_income": 119.3,
+      "operating_margin": 1.5,
+      "net_income": 110.5,
+      "net_margin": 1.39,
+      "rd_expense": 162.0,
+      "rd_pct_rev": 2.04,
+      "headcount": 111500,
+      "rev_per_emp": 71300.4,
+      "gp_per_emp": 2994.6,
+      "op_per_emp": 1070.0,
+      "ni_per_emp": 991.0,
+      "rd_per_emp": 1452.9,
+      "rev_growth_yoy": -11.86,
+      "gp_growth_yoy": 5.76,
+      "op_growth_yoy": 10.26,
+      "ni_growth_yoy": 7.49,
+      "rd_growth_yoy": -3.57,
+      "hc_growth_yoy": -14.23,
+      "gm_diff_pp": 0.7,
+      "op_diff_pp": 0.3
+    },
+    "2024 Q3": {
+      "revenue": 9450.0,
+      "cogs": 9053.1,
+      "gross_profit": 396.9,
+      "gross_margin": 4.2,
+      "operating_income": 160.7,
+      "operating_margin": 1.7,
+      "net_income": 155.0,
+      "net_margin": 1.64,
+      "rd_expense": 164.0,
+      "rd_pct_rev": 1.74,
+      "headcount": 108250,
+      "rev_per_emp": 87297.9,
+      "gp_per_emp": 3666.5,
+      "op_per_emp": 1484.5,
+      "ni_per_emp": 1431.9,
+      "rd_per_emp": 1515.0,
+      "rev_growth_yoy": -6.44,
+      "gp_growth_yoy": -4.15,
+      "op_growth_yoy": 13.65,
+      "ni_growth_yoy": 6.6,
+      "rd_growth_yoy": -4.09,
+      "hc_growth_yoy": -12.7,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": 0.3
+    },
+    "2024 Q4": {
+      "revenue": 10014.4,
+      "cogs": 9629.0,
+      "gross_profit": 385.4,
+      "gross_margin": 3.85,
+      "operating_income": 174.3,
+      "operating_margin": 1.74,
+      "net_income": 160.9,
+      "net_margin": 1.61,
+      "rd_expense": 164.0,
+      "rd_pct_rev": 1.64,
+      "headcount": 105000,
+      "rev_per_emp": 95375.2,
+      "gp_per_emp": 3670.5,
+      "op_per_emp": 1660.0,
+      "ni_per_emp": 1532.4,
+      "rd_per_emp": 1561.9,
+      "rev_growth_yoy": -9.18,
+      "gp_growth_yoy": -12.17,
+      "op_growth_yoy": 15.35,
+      "ni_growth_yoy": 1.51,
+      "rd_growth_yoy": -5.04,
+      "hc_growth_yoy": -11.02,
+      "gm_diff_pp": -0.13,
+      "op_diff_pp": 0.37
+    },
+    "2025 Q1": {
+      "revenue": 8200.0,
+      "cogs": 7847.4,
+      "gross_profit": 352.6,
+      "gross_margin": 4.3,
+      "operating_income": 139.4,
+      "operating_margin": 1.7,
+      "net_income": 123.0,
+      "net_margin": 1.5,
+      "rd_expense": 170.0,
+      "rd_pct_rev": 2.07,
+      "headcount": 104250,
+      "rev_per_emp": 78657.1,
+      "gp_per_emp": 3382.3,
+      "op_per_emp": 1337.2,
+      "ni_per_emp": 1179.9,
+      "rd_per_emp": 1630.7,
+      "rev_growth_yoy": 4.86,
+      "gp_growth_yoy": 7.37,
+      "op_growth_yoy": 27.31,
+      "ni_growth_yoy": 20.59,
+      "rd_growth_yoy": 6.25,
+      "hc_growth_yoy": -9.15,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": 0.3
+    },
+    "2025 Q2": {
+      "revenue": 8600.0,
+      "cogs": 8221.6,
+      "gross_profit": 378.4,
+      "gross_margin": 4.4,
+      "operating_income": 154.8,
+      "operating_margin": 1.8,
+      "net_income": 137.6,
+      "net_margin": 1.6,
+      "rd_expense": 175.0,
+      "rd_pct_rev": 2.03,
+      "headcount": 103500,
+      "rev_per_emp": 83091.8,
+      "gp_per_emp": 3656.0,
+      "op_per_emp": 1495.7,
+      "ni_per_emp": 1329.5,
+      "rd_per_emp": 1690.8,
+      "rev_growth_yoy": 8.18,
+      "gp_growth_yoy": 13.33,
+      "op_growth_yoy": 29.76,
+      "ni_growth_yoy": 24.52,
+      "rd_growth_yoy": 8.02,
+      "hc_growth_yoy": -7.17,
+      "gm_diff_pp": 0.2,
+      "op_diff_pp": 0.3
+    },
+    "2025 Q3": {
+      "revenue": 10100.0,
+      "cogs": 9645.5,
+      "gross_profit": 454.5,
+      "gross_margin": 4.5,
+      "operating_income": 191.9,
+      "operating_margin": 1.9,
+      "net_income": 171.7,
+      "net_margin": 1.7,
+      "rd_expense": 180.0,
+      "rd_pct_rev": 1.78,
+      "headcount": 102750,
+      "rev_per_emp": 98296.8,
+      "gp_per_emp": 4423.4,
+      "op_per_emp": 1867.6,
+      "ni_per_emp": 1671.0,
+      "rd_per_emp": 1751.8,
+      "rev_growth_yoy": 6.88,
+      "gp_growth_yoy": 14.51,
+      "op_growth_yoy": 19.42,
+      "ni_growth_yoy": 10.77,
+      "rd_growth_yoy": 9.76,
+      "hc_growth_yoy": -5.08,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": 0.2
+    },
+    "2025 Q4": {
+      "revenue": 10100.0,
+      "cogs": 9676.0,
+      "gross_profit": 424.0,
+      "gross_margin": 4.2,
+      "operating_income": 179.9,
+      "operating_margin": 1.78,
+      "net_income": 159.7,
+      "net_margin": 1.58,
+      "rd_expense": 175.0,
+      "rd_pct_rev": 1.73,
+      "headcount": 102000,
+      "rev_per_emp": 99019.6,
+      "gp_per_emp": 4156.9,
+      "op_per_emp": 1763.7,
+      "ni_per_emp": 1565.7,
+      "rd_per_emp": 1715.7,
+      "rev_growth_yoy": 0.85,
+      "gp_growth_yoy": 10.02,
+      "op_growth_yoy": 3.21,
+      "ni_growth_yoy": -0.75,
+      "rd_growth_yoy": 6.71,
+      "hc_growth_yoy": -2.86,
+      "gm_diff_pp": 0.35,
+      "op_diff_pp": 0.04
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Communications & Smart Mobile Devices (5G / Smartphones)",
+      "Computing Products (Laptops / Desktops / Motherboards)",
+      "Consumer Electronics, Automotive Electronics & AI Servers"
+    ],
+    "colors": [
+      "#EF4444",
+      "#3B82F6",
+      "#10B981"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          29409.6,
+          8538.3,
+          9487.0
+        ],
+        "volume": [
+          62,
+          18,
+          20
+        ]
+      },
+      "2021": {
+        "value": [
+          27982.4,
+          8123.9,
+          9026.6
+        ],
+        "volume": [
+          62,
+          18,
+          20
+        ]
+      },
+      "2022": {
+        "value": [
+          26545.4,
+          7963.6,
+          9733.3
+        ],
+        "volume": [
+          60,
+          18,
+          22
+        ]
+      },
+      "2023": {
+        "value": [
+          23430.3,
+          7271.5,
+          9695.3
+        ],
+        "volume": [
+          58,
+          18,
+          24
+        ]
+      },
+      "2024": {
+        "value": [
+          19731.3,
+          6342.2,
+          9160.9
+        ],
+        "volume": [
+          56,
+          18,
+          26
+        ]
+      },
+      "2025": {
+        "value": [
+          19240.0,
+          6660.0,
+          11100.0
+        ],
+        "volume": [
+          52,
+          18,
+          30
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Pegatron is undergoing a multi-year manufacturing footprint restructuring. While consumer mobile assembly contracted, the company expanded EV electronics (inverters, electronic control units, charging piles), 5G O-RAN private networks, and liquid-cooled enterprise AI servers, elevating gross margin to 4.1%-4.35%.",
+      "zh": "和碩正處於製造基地的跨年度結構重整期。在消費型智慧型手機組裝收斂的同時，積極拓展電動車車用電子（逆變器、電子控制單元、充電樁）、5G O-RAN 專網與水冷企業級 AI 伺服器，推升毛利率回穩至 4.1%～4.35%。"
+    },
+    "productivity": {
+      "en": "Global workforce rationalized from 172,000 in 2020 to ~105,000 in 2024 as assembly automation and plant relocations across India, Vietnam, and Mexico improved human capital efficiency.",
+      "zh": "全球製造勞動力自 2020 年的 17.2 萬人逐步精簡至 2024 年約 10.5 萬人，伴隨產線自動化以及向印度、越南、墨西哥等多元製造基地佈局，提升人均資本運用效率。"
+    },
+    "value_vs_volume": {
+      "en": "Volume contraction in legacy consumer hardware is progressively offset by high-ASP automotive electronics tier-1 modules and GPU server rack systems.",
+      "zh": "傳統消費性硬體之銷量縮減，正逐步由高單價之車用電子 Tier-1 模組與 GPU 伺服器整機系統之價值增長所彌補。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 3 (Automated Surface-Mount & Automotive / 5G Smart Factory)",
+    "description": "Automated high-precision SMT, automotive IATF 16949 certified manufacturing lines, and expanding 5G private network smart factory integration.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Labor-Intensive Consumer Assembly",
+        "desc": "High-volume smartphone and consumer device assembly."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Site Global Manufacturing",
+        "desc": "Production bases across Taiwan, Kunshan, Suzhou, Vietnam, India, and Mexico."
+      },
+      {
+        "level": 3,
+        "name": "Automated SMT & Automotive Grade Lines",
+        "desc": "Automated optical inspection, robotics, and Tier-1 automotive electronic validation."
+      },
+      {
+        "level": 4,
+        "name": "AI Server & 5G O-RAN System Integration",
+        "desc": "Enterprise GPU compute architecture and private 5G automated guided vehicle systems."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Smart Factory",
+        "desc": "Self-optimizing digital twin factories with closed-loop predictive maintenance."
+      }
+    ]
+  }
+}

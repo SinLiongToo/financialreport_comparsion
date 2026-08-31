@@ -1,0 +1,265 @@
+{
+  "company_name": "NXP Semiconductors N.V.",
+  "ticker": "NXP",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 3126,
+      "gross_profit": 1785,
+      "operating_income": 878,
+      "net_income": 650,
+      "rd_expense": 580,
+      "headcount": 33800,
+      "gross_margin": 57.1
+    },
+    "2024 Q2": {
+      "revenue": 3127,
+      "gross_profit": 1789,
+      "operating_income": 882,
+      "net_income": 660,
+      "rd_expense": 585,
+      "headcount": 33600,
+      "gross_margin": 57.2
+    },
+    "2024 Q3": {
+      "revenue": 3250,
+      "gross_profit": 1820,
+      "operating_income": 910,
+      "net_income": 710,
+      "rd_expense": 590,
+      "headcount": 33500,
+      "gross_margin": 56.0
+    },
+    "2024 Q4": {
+      "revenue": 3107,
+      "gross_profit": 1617,
+      "operating_income": 659,
+      "net_income": 530,
+      "rd_expense": 595,
+      "headcount": 33500,
+      "gross_margin": 52.0
+    },
+    "2025 Q1": {
+      "revenue": 3200,
+      "gross_profit": 1824,
+      "operating_income": 896,
+      "net_income": 680,
+      "rd_expense": 600,
+      "headcount": 33700,
+      "gross_margin": 57.0
+    },
+    "2025 Q2": {
+      "revenue": 3350,
+      "gross_profit": 1909,
+      "operating_income": 938,
+      "net_income": 720,
+      "rd_expense": 610,
+      "headcount": 33900,
+      "gross_margin": 57.0
+    },
+    "2025 Q3": {
+      "revenue": 3450,
+      "gross_profit": 1966,
+      "operating_income": 966,
+      "net_income": 750,
+      "rd_expense": 615,
+      "headcount": 34000,
+      "gross_margin": 57.0
+    },
+    "2025 Q4": {
+      "revenue": 3500,
+      "gross_profit": 1995,
+      "operating_income": 980,
+      "net_income": 750,
+      "rd_expense": 625,
+      "headcount": 34000,
+      "gross_margin": 57.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Automotive (Radar/BMS/S32)",
+      "Industrial & IoT (Edge MCU)",
+      "Mobile (NFC/eSIM/Security)",
+      "Communication Infra & Other"
+    ],
+    "colors": [
+      "#FB923C",
+      "#38BDF8",
+      "#4ADE80",
+      "#A78BFA"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          1802,
+          541,
+          370,
+          413
+        ],
+        "volume": [
+          58,
+          17,
+          12,
+          13
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          1802,
+          542,
+          370,
+          413
+        ],
+        "volume": [
+          58,
+          17,
+          12,
+          13
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          1873,
+          563,
+          385,
+          429
+        ],
+        "volume": [
+          58,
+          17,
+          12,
+          13
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1790,
+          538,
+          368,
+          411
+        ],
+        "volume": [
+          58,
+          17,
+          12,
+          13
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1842,
+          570,
+          376,
+          412
+        ],
+        "volume": [
+          58,
+          18,
+          11,
+          13
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1930,
+          596,
+          393,
+          431
+        ],
+        "volume": [
+          58,
+          18,
+          11,
+          13
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1987,
+          614,
+          405,
+          444
+        ],
+        "volume": [
+          58,
+          18,
+          11,
+          13
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          2015,
+          623,
+          411,
+          451
+        ],
+        "volume": [
+          58,
+          18,
+          11,
+          13
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          1800,
+          612,
+          390,
+          379
+        ],
+        "volume": [
+          57,
+          19,
+          12,
+          12
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          1956,
+          739,
+          350,
+          451
+        ],
+        "volume": [
+          56,
+          21,
+          10,
+          13
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margins reliably defended in the 56.0%-57.2% range through automotive tier-1 inventory normalization.",
+      "productivity": "Quarterly Rev / FTE tracks around $95K-$103K per employee per quarter.",
+      "leverage": "Quarterly operating margins sustained at 27.5%-28.5%.",
+      "rd": "Quarterly R&D investment sustained at $580M-$625M/quarter.",
+      "growth": "Automotive content expansion drove steady quarterly sequential recovery.",
+      "breakdown": "Automotive represents 56%+ of revenue value each quarter."
+    },
+    "zh": {
+      "pivot": "車用軟體定義汽車晶片單價支撐單季毛利率穩健守在 56.0%-57.2% 高檔。",
+      "productivity": "單季人均營收維持於 $95K-$103K/季。",
+      "leverage": "單季營業利益率穩定於 27.5%-28.5%。",
+      "rd": "單季研發費用維持於 $580M-$625M/季，持續強化車用處理器研發。",
+      "growth": "車載半導體含量增加推動季度營收穩步復甦。",
+      "breakdown": "車用晶片各季均穩定貢獻超過 56% 之產值。"
+    }
+  }
+}

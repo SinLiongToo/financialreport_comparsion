@@ -1,0 +1,218 @@
+{
+  "company_name": "Taiwan Semiconductor Manufacturing Co. (TSMC)",
+  "ticker": "TSMC",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 45505,
+      "gross_profit": 24163,
+      "operating_income": 19230,
+      "net_income": 17600,
+      "rd_expense": 3720,
+      "headcount": 56831,
+      "gross_margin": 53.1
+    },
+    "2021": {
+      "revenue": 56820,
+      "gross_profit": 29319,
+      "operating_income": 23240,
+      "net_income": 21350,
+      "rd_expense": 4465,
+      "headcount": 65152,
+      "gross_margin": 51.6
+    },
+    "2022": {
+      "revenue": 75880,
+      "gross_profit": 45224,
+      "operating_income": 37560,
+      "net_income": 34070,
+      "rd_expense": 5472,
+      "headcount": 73090,
+      "gross_margin": 59.6
+    },
+    "2023": {
+      "revenue": 69300,
+      "gross_profit": 37700,
+      "operating_income": 29520,
+      "net_income": 26880,
+      "rd_expense": 5850,
+      "headcount": 76478,
+      "gross_margin": 54.4
+    },
+    "2024": {
+      "revenue": 90080,
+      "gross_profit": 50535,
+      "operating_income": 38734,
+      "net_income": 36520,
+      "rd_expense": 6580,
+      "headcount": 83000,
+      "gross_margin": 56.1
+    },
+    "2025": {
+      "revenue": 118000,
+      "gross_profit": 69030,
+      "operating_income": 53100,
+      "net_income": 48500,
+      "rd_expense": 7900,
+      "headcount": 88000,
+      "gross_margin": 58.5
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "3nm (N3 / N3E / N3P)",
+      "5nm (N5 / N4P)",
+      "7nm (N7 / N6)",
+      "Mature & Specialty (16nm+)"
+    ],
+    "colors": [
+      "#DC2626",
+      "#F97316",
+      "#FBBF24",
+      "#6B7280"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          0,
+          107172,
+          442299,
+          790184
+        ],
+        "volume": [
+          0,
+          8,
+          33,
+          59
+        ]
+      },
+      "2021": {
+        "value": [
+          0,
+          301416,
+          492147,
+          793836
+        ],
+        "volume": [
+          0,
+          19,
+          31,
+          50
+        ]
+      },
+      "2022": {
+        "value": [
+          0,
+          584988,
+          607736,
+          1071112
+        ],
+        "volume": [
+          0,
+          26,
+          27,
+          47
+        ]
+      },
+      "2023": {
+        "value": [
+          129705,
+          713379,
+          410733,
+          907897
+        ],
+        "volume": [
+          6,
+          33,
+          19,
+          42
+        ]
+      },
+      "2024": {
+        "value": [
+          521360,
+          959320,
+          452280,
+          960000
+        ],
+        "volume": [
+          18,
+          33,
+          16,
+          33
+        ]
+      },
+      "2025": {
+        "value": [
+          850000,
+          1250000,
+          480000,
+          980000
+        ],
+        "volume": [
+          24,
+          35,
+          14,
+          27
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Workforce scaled to ~88,000 FTEs across global GigaFabs (Taiwan, Arizona, Kumamoto, Dresden). Gross margin sustained at 53%-59.6% driven by leading-edge pricing power and fab cluster utilization.",
+      "productivity": "Revenue per FTE reached over $1.34M/employee with Gross Profit per FTE at $784K, proving that advanced node ramp (N3/N2) and CoWoS packaging yield exponential headcount leverage.",
+      "leverage": "Operating income reached $53.1B with operating margins maintaining at an elite 45%, representing world-class pure-play foundry operating leverage.",
+      "rd": "R&D investments expanded to $7.9B (6.7% of revenue) to pioneer 2nm (N2/A16) nanosheet architectures and 3D silicon stacking (TSMC-SoIC).",
+      "growth": "Revenue YoY (+31.0%) and Operating Income YoY (+37.1%) significantly outpace headcount expansion (+6.0%), highlighting extreme fab automation efficiency.",
+      "breakdown": "Advanced nodes (3nm, 5nm, 7nm) generate over 75% of total wafer revenue, while mature & specialty nodes (16nm+) provide steady cash generation across industrial & automotive markets."
+    },
+    "zh": {
+      "pivot": "全球員工人數隨著台積電全球擴廠 (台灣/美國/日本/德國) 擴展至約 8.8 萬人。毛利率在先進製程定價權與超大晶圓廠群 (GigaFab) 規模效應下維持在 53%-59.6% 高檔。",
+      "productivity": "人均營收突破 $1.34M/人，人均毛利達 $784K/人，證明先進製程 (N3/N2) 與 CoWoS 先進封裝能實現極致人均產值槓桿。",
+      "leverage": "營業利益攀升至 $53.1B，營業利益率維持在 45% 的頂級水準，展現晶圓代工領域的世界級營運槓桿。",
+      "rd": "研發支出達 $7.9B（佔營收 6.7%），全面鞏固 2nm (N2/A16) 奈米片電晶體與 3D 矽堆疊 (TSMC-SoIC) 技術護城河。",
+      "growth": "營收成長 (+31.0%) 與營業利益成長 (+37.1%) 大幅超越人力增速 (+6.0%)，突顯全自動化晶圓廠 (OHT/APC) 的極致生產力。",
+      "breakdown": "先進製程 (3nm, 5nm, 7nm) 貢獻超過 75% 晶圓營收，成熟與特殊製程 (16nm+) 則提供車用與工控之龐大基礎出貨量。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Standardized Foundry",
+        "desc": "High yield baseline SOPs."
+      },
+      {
+        "level": 2,
+        "name": "GigaFab Automation",
+        "desc": "OHT automatic material handling & fab clustering."
+      },
+      {
+        "level": 3,
+        "name": "Digital Twin Optimization",
+        "desc": "APC (Advanced Process Control) and real-time FDC defect tracking."
+      },
+      {
+        "level": 4,
+        "name": "AI SuperFab & CoWoS Velocity",
+        "desc": "Closed-loop 3DIC advanced packaging automation, zero-waste fab."
+      },
+      {
+        "level": 5,
+        "name": "Global Trinity OpEx Benchmark",
+        "desc": "Multi-region Fab excellence (Taiwan/AZ/Kumamoto/Dresden) with (1.01)^365 = 37.8x compounding."
+      }
+    ]
+  }
+}

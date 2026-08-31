@@ -1,0 +1,237 @@
+{
+  "company_name": "Advanced Micro Devices, Inc.",
+  "ticker": "AMD",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 5473,
+      "gross_profit": 2560,
+      "operating_income": 36,
+      "net_income": 123,
+      "rd_expense": 1528,
+      "headcount": 26200,
+      "gross_margin": 46.77
+    },
+    "2024 Q2": {
+      "revenue": 5835,
+      "gross_profit": 2864,
+      "operating_income": 269,
+      "net_income": 265,
+      "rd_expense": 1506,
+      "headcount": 26400,
+      "gross_margin": 49.08
+    },
+    "2024 Q3": {
+      "revenue": 6819,
+      "gross_profit": 3410,
+      "operating_income": 724,
+      "net_income": 771,
+      "rd_expense": 1639,
+      "headcount": 26500,
+      "gross_margin": 50.01
+    },
+    "2024 Q4": {
+      "revenue": 7658,
+      "gross_profit": 4446,
+      "operating_income": 1014,
+      "net_income": 691,
+      "rd_expense": 1705,
+      "headcount": 26500,
+      "gross_margin": 58.06
+    },
+    "2025 Q1": {
+      "revenue": 7800,
+      "gross_profit": 4134,
+      "operating_income": 1092,
+      "net_income": 980,
+      "rd_expense": 1780,
+      "headcount": 26700,
+      "gross_margin": 53.0
+    },
+    "2025 Q2": {
+      "revenue": 8400,
+      "gross_profit": 4536,
+      "operating_income": 1260,
+      "net_income": 1130,
+      "rd_expense": 1850,
+      "headcount": 26800,
+      "gross_margin": 54.0
+    },
+    "2025 Q3": {
+      "revenue": 9100,
+      "gross_profit": 4959,
+      "operating_income": 1365,
+      "net_income": 1220,
+      "rd_expense": 1920,
+      "headcount": 26900,
+      "gross_margin": 54.5
+    },
+    "2025 Q4": {
+      "revenue": 9200,
+      "gross_profit": 5005,
+      "operating_income": 1458,
+      "net_income": 1320,
+      "rd_expense": 1950,
+      "headcount": 27000,
+      "gross_margin": 54.4
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Data Center (EPYC / Instinct MI300)",
+      "Client (Ryzen CPUs)",
+      "Gaming (Radeon / Console SoCs)",
+      "Embedded (Xilinx FPGA)"
+    ],
+    "colors": [
+      "#DC2626",
+      "#F97316",
+      "#FBBF24",
+      "#4B5563"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          2669,
+          1027,
+          783,
+          994
+        ],
+        "volume": [
+          49,
+          19,
+          14,
+          18
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          2846,
+          1095,
+          834,
+          1060
+        ],
+        "volume": [
+          49,
+          19,
+          14,
+          18
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          3327,
+          1279,
+          975,
+          1238
+        ],
+        "volume": [
+          49,
+          19,
+          14,
+          18
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          3735,
+          1437,
+          1095,
+          1391
+        ],
+        "volume": [
+          49,
+          19,
+          14,
+          18
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          4408,
+          1402,
+          927,
+          1063
+        ],
+        "volume": [
+          57,
+          18,
+          12,
+          13
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          4748,
+          1510,
+          998,
+          1144
+        ],
+        "volume": [
+          57,
+          18,
+          12,
+          13
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          5144,
+          1635,
+          1081,
+          1240
+        ],
+        "volume": [
+          57,
+          18,
+          12,
+          13
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          5201,
+          1653,
+          1093,
+          1253
+        ],
+        "volume": [
+          57,
+          18,
+          12,
+          13
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin expanded from 46.8% to 54.4%-58.0% driven by Instinct MI300X AI GPU volume.",
+      "productivity": "Quarterly Rev / FTE reached $289K-$340K/quarter.",
+      "leverage": "Quarterly operating income scaled past $1.0B-$1.45B.",
+      "rd": "Quarterly R&D investment pacing at $1.6B-$1.95B/quarter.",
+      "growth": "Data Center segment surged over 100%+ YoY.",
+      "breakdown": "Data Center accounts for over 56% of quarterly value."
+    },
+    "zh": {
+      "pivot": "單季毛利率在 Instinct MI300X AI 晶片放量下由 46.8% 攀升至 54.4%-58.0%。",
+      "productivity": "單季人均營收達 $289K-$340K/季。",
+      "leverage": "單季營業利益攀升至 $10 億-$14.5 億美元。",
+      "rd": "單季研發支出維持於 $16 億-$19.5 億美元/季。",
+      "growth": "資料中心事業部單季呈現翻倍年增長。",
+      "breakdown": "資料中心佔據超過 56% 單季總產值。"
+    }
+  }
+}

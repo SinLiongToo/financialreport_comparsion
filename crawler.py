@@ -128,7 +128,16 @@ TICKER_SLUGS = {
     "a": ["agilent-technologies", "agilent", "a"],
     "agilent": ["agilent-technologies", "agilent", "a"],
     "agilent-technologies": ["agilent-technologies", "agilent", "a"],
-    "agilent-technologies-inc": ["agilent-technologies", "agilent", "a"]
+    "agilent-technologies-inc": ["agilent-technologies", "agilent", "a"],
+    "vis": ["vis", "5347", "vanguard"],
+    "5347": ["vis", "5347", "vanguard"],
+    "5347.two": ["vis", "5347", "vanguard"],
+    "5347.tw": ["vis", "5347", "vanguard"],
+    "vanguard": ["vis", "5347", "vanguard"],
+    "psmc": ["psmc", "6770", "powerchip"],
+    "6770": ["psmc", "6770", "powerchip"],
+    "6770.tw": ["psmc", "6770", "powerchip"],
+    "powerchip": ["psmc", "6770", "powerchip"]
 }
 
 class AnnualReportCrawler:

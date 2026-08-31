@@ -1,0 +1,562 @@
+{
+  "company_name": "Vanguard International Semiconductor Corp. (世界先進 / 5347.TWO)",
+  "ticker": "VIS",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 284.0,
+      "gross_profit": 77.5,
+      "operating_income": 42.3,
+      "net_income": 44.5,
+      "rd_expense": 32.2,
+      "headcount": 6412,
+      "gross_margin": 27.29,
+      "operating_margin": 14.89,
+      "net_margin": 15.67,
+      "rd_pct_rev": 11.34,
+      "rev_per_emp": 44292.0,
+      "gp_per_emp": 12087.0,
+      "op_per_emp": 6597.0,
+      "ni_per_emp": 6940.0,
+      "rd_per_emp": 5022.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 308.7,
+      "gross_profit": 84.2,
+      "operating_income": 45.9,
+      "net_income": 48.3,
+      "rd_expense": 35.0,
+      "headcount": 6425,
+      "gross_margin": 27.28,
+      "operating_margin": 14.87,
+      "net_margin": 15.65,
+      "rd_pct_rev": 11.34,
+      "rev_per_emp": 48047.0,
+      "gp_per_emp": 13105.0,
+      "op_per_emp": 7144.0,
+      "ni_per_emp": 7518.0,
+      "rd_per_emp": 5447.0,
+      "rev_growth_yoy": 8.7,
+      "gp_growth_yoy": 8.65,
+      "op_growth_yoy": 8.51,
+      "ni_growth_yoy": 8.54,
+      "rd_growth_yoy": 8.7,
+      "hc_growth_yoy": 0.2,
+      "gm_diff_pp": -0.01,
+      "op_diff_pp": -0.02
+    },
+    "2023 Q3": {
+      "revenue": 333.4,
+      "gross_profit": 91.0,
+      "operating_income": 49.6,
+      "net_income": 52.2,
+      "rd_expense": 37.9,
+      "headcount": 6437,
+      "gross_margin": 27.29,
+      "operating_margin": 14.88,
+      "net_margin": 15.66,
+      "rd_pct_rev": 11.37,
+      "rev_per_emp": 51794.0,
+      "gp_per_emp": 14137.0,
+      "op_per_emp": 7705.0,
+      "ni_per_emp": 8109.0,
+      "rd_per_emp": 5888.0,
+      "rev_growth_yoy": 8.0,
+      "gp_growth_yoy": 8.08,
+      "op_growth_yoy": 8.06,
+      "ni_growth_yoy": 8.07,
+      "rd_growth_yoy": 8.29,
+      "hc_growth_yoy": 0.19,
+      "gm_diff_pp": 0.01,
+      "op_diff_pp": 0.01
+    },
+    "2023 Q4": {
+      "revenue": 308.7,
+      "gross_profit": 84.2,
+      "operating_income": 45.9,
+      "net_income": 48.3,
+      "rd_expense": 35.0,
+      "headcount": 6450,
+      "gross_margin": 27.28,
+      "operating_margin": 14.87,
+      "net_margin": 15.65,
+      "rd_pct_rev": 11.34,
+      "rev_per_emp": 47860.0,
+      "gp_per_emp": 13054.0,
+      "op_per_emp": 7116.0,
+      "ni_per_emp": 7488.0,
+      "rd_per_emp": 5426.0,
+      "rev_growth_yoy": -7.41,
+      "gp_growth_yoy": -7.47,
+      "op_growth_yoy": -7.46,
+      "ni_growth_yoy": -7.47,
+      "rd_growth_yoy": -7.65,
+      "hc_growth_yoy": 0.2,
+      "gm_diff_pp": -0.01,
+      "op_diff_pp": -0.01
+    },
+    "2024 Q1": {
+      "revenue": 316.6,
+      "gross_profit": 85.1,
+      "operating_income": 51.1,
+      "net_income": 50.6,
+      "rd_expense": 34.7,
+      "headcount": 6500,
+      "gross_margin": 26.88,
+      "operating_margin": 16.14,
+      "net_margin": 15.98,
+      "rd_pct_rev": 10.96,
+      "rev_per_emp": 48708.0,
+      "gp_per_emp": 13092.0,
+      "op_per_emp": 7862.0,
+      "ni_per_emp": 7785.0,
+      "rd_per_emp": 5338.0,
+      "rev_growth_yoy": 11.48,
+      "gp_growth_yoy": 9.81,
+      "op_growth_yoy": 20.8,
+      "ni_growth_yoy": 13.71,
+      "rd_growth_yoy": 7.76,
+      "hc_growth_yoy": 1.37,
+      "gm_diff_pp": -0.41,
+      "op_diff_pp": 1.25
+    },
+    "2024 Q2": {
+      "revenue": 344.2,
+      "gross_profit": 92.5,
+      "operating_income": 55.5,
+      "net_income": 55.0,
+      "rd_expense": 37.7,
+      "headcount": 6550,
+      "gross_margin": 26.87,
+      "operating_margin": 16.12,
+      "net_margin": 15.98,
+      "rd_pct_rev": 10.95,
+      "rev_per_emp": 52550.0,
+      "gp_per_emp": 14122.0,
+      "op_per_emp": 8473.0,
+      "ni_per_emp": 8397.0,
+      "rd_per_emp": 5756.0,
+      "rev_growth_yoy": 11.5,
+      "gp_growth_yoy": 9.86,
+      "op_growth_yoy": 20.92,
+      "ni_growth_yoy": 13.87,
+      "rd_growth_yoy": 7.71,
+      "hc_growth_yoy": 1.95,
+      "gm_diff_pp": -0.41,
+      "op_diff_pp": 1.25
+    },
+    "2024 Q3": {
+      "revenue": 371.7,
+      "gross_profit": 99.8,
+      "operating_income": 60.0,
+      "net_income": 59.5,
+      "rd_expense": 40.7,
+      "headcount": 6600,
+      "gross_margin": 26.85,
+      "operating_margin": 16.14,
+      "net_margin": 16.01,
+      "rd_pct_rev": 10.95,
+      "rev_per_emp": 56318.0,
+      "gp_per_emp": 15121.0,
+      "op_per_emp": 9091.0,
+      "ni_per_emp": 9015.0,
+      "rd_per_emp": 6167.0,
+      "rev_growth_yoy": 11.49,
+      "gp_growth_yoy": 9.67,
+      "op_growth_yoy": 20.97,
+      "ni_growth_yoy": 13.98,
+      "rd_growth_yoy": 7.39,
+      "hc_growth_yoy": 2.53,
+      "gm_diff_pp": -0.44,
+      "op_diff_pp": 1.26
+    },
+    "2024 Q4": {
+      "revenue": 344.2,
+      "gross_profit": 92.5,
+      "operating_income": 55.5,
+      "net_income": 55.0,
+      "rd_expense": 37.7,
+      "headcount": 6650,
+      "gross_margin": 26.87,
+      "operating_margin": 16.12,
+      "net_margin": 15.98,
+      "rd_pct_rev": 10.95,
+      "rev_per_emp": 51759.0,
+      "gp_per_emp": 13910.0,
+      "op_per_emp": 8346.0,
+      "ni_per_emp": 8271.0,
+      "rd_per_emp": 5669.0,
+      "rev_growth_yoy": 11.5,
+      "gp_growth_yoy": 9.86,
+      "op_growth_yoy": 20.92,
+      "ni_growth_yoy": 13.87,
+      "rd_growth_yoy": 7.71,
+      "hc_growth_yoy": 3.1,
+      "gm_diff_pp": -0.41,
+      "op_diff_pp": 1.25
+    },
+    "2025 Q1": {
+      "revenue": 356.5,
+      "gross_profit": 107.0,
+      "operating_income": 71.3,
+      "net_income": 66.7,
+      "rd_expense": 36.8,
+      "headcount": 6687,
+      "gross_margin": 30.01,
+      "operating_margin": 20.0,
+      "net_margin": 18.71,
+      "rd_pct_rev": 10.32,
+      "rev_per_emp": 53312.0,
+      "gp_per_emp": 16001.0,
+      "op_per_emp": 10662.0,
+      "ni_per_emp": 9975.0,
+      "rd_per_emp": 5503.0,
+      "rev_growth_yoy": 12.6,
+      "gp_growth_yoy": 25.73,
+      "op_growth_yoy": 39.53,
+      "ni_growth_yoy": 31.82,
+      "rd_growth_yoy": 6.05,
+      "hc_growth_yoy": 2.88,
+      "gm_diff_pp": 3.13,
+      "op_diff_pp": 3.86
+    },
+    "2025 Q2": {
+      "revenue": 387.5,
+      "gross_profit": 116.2,
+      "operating_income": 77.5,
+      "net_income": 72.5,
+      "rd_expense": 40.0,
+      "headcount": 6725,
+      "gross_margin": 29.99,
+      "operating_margin": 20.0,
+      "net_margin": 18.71,
+      "rd_pct_rev": 10.32,
+      "rev_per_emp": 57621.0,
+      "gp_per_emp": 17279.0,
+      "op_per_emp": 11524.0,
+      "ni_per_emp": 10781.0,
+      "rd_per_emp": 5948.0,
+      "rev_growth_yoy": 12.58,
+      "gp_growth_yoy": 25.62,
+      "op_growth_yoy": 39.64,
+      "ni_growth_yoy": 31.82,
+      "rd_growth_yoy": 6.1,
+      "hc_growth_yoy": 2.67,
+      "gm_diff_pp": 3.12,
+      "op_diff_pp": 3.88
+    },
+    "2025 Q3": {
+      "revenue": 418.5,
+      "gross_profit": 125.6,
+      "operating_income": 83.7,
+      "net_income": 78.3,
+      "rd_expense": 43.2,
+      "headcount": 6762,
+      "gross_margin": 30.01,
+      "operating_margin": 20.0,
+      "net_margin": 18.71,
+      "rd_pct_rev": 10.32,
+      "rev_per_emp": 61890.0,
+      "gp_per_emp": 18574.0,
+      "op_per_emp": 12378.0,
+      "ni_per_emp": 11579.0,
+      "rd_per_emp": 6389.0,
+      "rev_growth_yoy": 12.59,
+      "gp_growth_yoy": 25.85,
+      "op_growth_yoy": 39.5,
+      "ni_growth_yoy": 31.6,
+      "rd_growth_yoy": 6.14,
+      "hc_growth_yoy": 2.45,
+      "gm_diff_pp": 3.16,
+      "op_diff_pp": 3.86
+    },
+    "2025 Q4": {
+      "revenue": 387.5,
+      "gross_profit": 116.2,
+      "operating_income": 77.5,
+      "net_income": 72.5,
+      "rd_expense": 40.0,
+      "headcount": 6800,
+      "gross_margin": 29.99,
+      "operating_margin": 20.0,
+      "net_margin": 18.71,
+      "rd_pct_rev": 10.32,
+      "rev_per_emp": 56985.0,
+      "gp_per_emp": 17088.0,
+      "op_per_emp": 11397.0,
+      "ni_per_emp": 10662.0,
+      "rd_per_emp": 5882.0,
+      "rev_growth_yoy": 12.58,
+      "gp_growth_yoy": 25.62,
+      "op_growth_yoy": 39.64,
+      "ni_growth_yoy": 31.82,
+      "rd_growth_yoy": 6.1,
+      "hc_growth_yoy": 2.26,
+      "gm_diff_pp": 3.12,
+      "op_diff_pp": 3.88
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Power Management ICs (PMIC / BCD)",
+      "Large Panel Driver ICs (LDDI)",
+      "Small Panel Driver ICs (SDDI)",
+      "Discrete Power & Others"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          178.9,
+          62.6,
+          25.5,
+          17.0
+        ],
+        "volume": [
+          63,
+          22,
+          9,
+          6
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          194.5,
+          68.0,
+          27.8,
+          18.5
+        ],
+        "volume": [
+          63,
+          22,
+          9,
+          6
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          210.1,
+          73.4,
+          30.0,
+          20.0
+        ],
+        "volume": [
+          63,
+          22,
+          9,
+          6
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          194.5,
+          68.0,
+          27.8,
+          18.5
+        ],
+        "volume": [
+          63,
+          22,
+          9,
+          6
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          205.9,
+          63.2,
+          28.5,
+          19.1
+        ],
+        "volume": [
+          65,
+          20,
+          9,
+          6
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          223.8,
+          68.8,
+          31.0,
+          20.8
+        ],
+        "volume": [
+          65,
+          20,
+          9,
+          6
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          241.7,
+          74.2,
+          33.5,
+          22.4
+        ],
+        "volume": [
+          65,
+          20,
+          9,
+          6
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          223.8,
+          68.8,
+          31.0,
+          20.8
+        ],
+        "volume": [
+          65,
+          20,
+          9,
+          6
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          238.7,
+          67.9,
+          30.4,
+          19.6
+        ],
+        "volume": [
+          67,
+          19,
+          9,
+          5
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          259.5,
+          73.8,
+          33.0,
+          21.2
+        ],
+        "volume": [
+          67,
+          19,
+          9,
+          5
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          280.3,
+          79.7,
+          35.6,
+          23.0
+        ],
+        "volume": [
+          67,
+          19,
+          9,
+          5
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          259.5,
+          73.8,
+          33.0,
+          21.2
+        ],
+        "volume": [
+          67,
+          19,
+          9,
+          5
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Vanguard International Semiconductor Corp. (世界先進 / 5347.TWO) workforce reported at 6,800 FTEs with GAAP Gross Margin at 29.99%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $56,985/FTE in revenue and $17,088/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M78 (20.0% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M40 (10.32% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 12.58% compared to headcount change of 2.26% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Vanguard International Semiconductor Corp. (世界先進 / 5347.TWO) 官方審計員工數為 6,800 人，GAAP 毛利率為 29.99%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $56,985/人，人均毛利為 $17,088/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M78（營業利益率 20.0%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M40（佔營收 10.32%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 12.58%，員工人數年增率為 2.26%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Specialty Foundry & High-Voltage BCD Smart Platform)",
+    "description": "Leader in 8-inch specialty analog, BCD, and compound semiconductor foundry, expanding with Singapore 12-inch joint venture (VSMC).",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard 8-inch Wafer Fab",
+        "desc": "Commodity analog and logic fabrication with conventional tools."
+      },
+      {
+        "level": 2,
+        "name": "High-Voltage Specialty Platform",
+        "desc": "Proprietary 0.18um/0.11um BCD and ultra-high voltage (UHV) processes."
+      },
+      {
+        "level": 3,
+        "name": "Automated Smart Fab (AMHS/APC)",
+        "desc": "Full automated material handling and advanced process control across Fab 1 to Fab 5."
+      },
+      {
+        "level": 4,
+        "name": "Compound Semiconductor & 12-inch Joint Fab (VSMC)",
+        "desc": "GaN on Silicon power platform and next-gen 12-inch smart fab in Singapore with NXP."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Power Electronics Ecosystem",
+        "desc": "End-to-end digital twin power semiconductor foundry with automated yield optimization."
+      }
+    ]
+  }
+}

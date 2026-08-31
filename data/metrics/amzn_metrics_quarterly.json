@@ -1,0 +1,249 @@
+{
+  "company_name": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 143313,
+      "gross_profit": 69200,
+      "operating_income": 15307,
+      "net_income": 10431,
+      "rd_expense": 21500,
+      "headcount": 1521000,
+      "gross_margin": 48.3
+    },
+    "2024 Q2": {
+      "revenue": 147977,
+      "gross_profit": 72400,
+      "operating_income": 14672,
+      "net_income": 13485,
+      "rd_expense": 22100,
+      "headcount": 1532000,
+      "gross_margin": 48.9
+    },
+    "2024 Q3": {
+      "revenue": 158877,
+      "gross_profit": 77500,
+      "operating_income": 17411,
+      "net_income": 15328,
+      "rd_expense": 22800,
+      "headcount": 1550000,
+      "gross_margin": 48.8
+    },
+    "2024 Q4": {
+      "revenue": 187800,
+      "gross_profit": 92000,
+      "operating_income": 21200,
+      "net_income": 18800,
+      "rd_expense": 23800,
+      "headcount": 1560000,
+      "gross_margin": 49.0
+    },
+    "2025 Q1": {
+      "revenue": 168000,
+      "gross_profit": 82320,
+      "operating_income": 18480,
+      "net_income": 16200,
+      "rd_expense": 24500,
+      "headcount": 1565000,
+      "gross_margin": 49.0
+    },
+    "2025 Q2": {
+      "revenue": 175000,
+      "gross_profit": 86100,
+      "operating_income": 19600,
+      "net_income": 17150,
+      "rd_expense": 25200,
+      "headcount": 1570000,
+      "gross_margin": 49.2
+    },
+    "2025 Q3": {
+      "revenue": 188000,
+      "gross_profit": 92872,
+      "operating_income": 22184,
+      "net_income": 19400,
+      "rd_expense": 26000,
+      "headcount": 1580000,
+      "gross_margin": 49.4
+    },
+    "2025 Q4": {
+      "revenue": 219000,
+      "gross_profit": 108405,
+      "operating_income": 26718,
+      "net_income": 23200,
+      "rd_expense": 27300,
+      "headcount": 1590000,
+      "gross_margin": 49.5
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Online Stores",
+      "Third-Party Seller Services",
+      "AWS (Cloud Infrastructure)",
+      "Advertising Services",
+      "Subscription Services & Other"
+    ],
+    "colors": [
+      "#F59E0B",
+      "#3B82F6",
+      "#10B981",
+      "#8B5CF6",
+      "#64748B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          55535,
+          36170,
+          24121,
+          12610,
+          14877
+        ],
+        "volume": [
+          39,
+          25,
+          17,
+          9,
+          10
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          57341,
+          37348,
+          24906,
+          13021,
+          15361
+        ],
+        "volume": [
+          39,
+          25,
+          17,
+          9,
+          10
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          61565,
+          40099,
+          26741,
+          13980,
+          16492
+        ],
+        "volume": [
+          39,
+          25,
+          17,
+          9,
+          10
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          72773,
+          47398,
+          31609,
+          16525,
+          19495
+        ],
+        "volume": [
+          39,
+          25,
+          17,
+          9,
+          10
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          63028,
+          42637,
+          29661,
+          15526,
+          17148
+        ],
+        "volume": [
+          38,
+          25,
+          18,
+          9,
+          10
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          65655,
+          44414,
+          30897,
+          16172,
+          17862
+        ],
+        "volume": [
+          38,
+          25,
+          18,
+          9,
+          10
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          70532,
+          47713,
+          33192,
+          17374,
+          19189
+        ],
+        "volume": [
+          38,
+          25,
+          18,
+          9,
+          10
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          82162,
+          55581,
+          38665,
+          20239,
+          22353
+        ],
+        "volume": [
+          38,
+          25,
+          18,
+          9,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Regionalized fulfillment and AWS growth expanded gross margin to 48.3%-49.5% across 1.5M workforce.",
+      "productivity": "Quarterly revenue per FTE tracks at ~$95K-$137K while AWS generates compounding operational leverage.",
+      "leverage": "Quarterly operating profit expanded to $15.3B-$26.7B with operating margins reaching 10.7%-12.2%."
+    },
+    "zh": {
+      "pivot": "物流履約中心區域化與 AWS 高速成長，帶動單季毛利率擴張至 48.3%-49.5%。",
+      "productivity": "全球 150 萬員工之單季人均營收約 9.5 萬-13.7 萬美元，AWS 貢獻主要營業利潤。",
+      "leverage": "單季營業利益大幅成長至 153 億-267 億美元，單季營業利益率由過去的低點攀升至 10.7%-12.2%。"
+    }
+  }
+}

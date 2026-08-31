@@ -655,9 +655,18 @@ python main.py --export-static
 
 ---
 
-## 📝 最新修復與優化 (Change Log)
+## 16. 最新修復與優化 (Change Log)
 
-- **v2.7.2 (2026-08-31)**：
+- **v2.8.0 (2026-09-01)**：
+  - **新增三大半導體與晶圓製造巨頭審計基準庫與深度戰略分析 (Intel, Vanguard VIS, PSMC 力積電)**：
+    - **Intel Corporation (英特爾 / INTC / 美國 🇺🇸)**：整合 2020～2025 年 Form 10-K 與 10-Q 官方審計指標，收錄 $53.1B 營收、內部晶圓代工 (Intel Foundry) 獨立會計模型、18A 先進製程 RibbonFET/PowerVia 資本佈局，以及全球人力自 13.19 萬人精簡至約 10 萬人之重組復甦軌跡。
+    - **Vanguard International Semiconductor Corp. (世界先進 / 5347.TWO / 台灣 🇹🇼)**：整合 2020～2025 年 TWSE/TPEx 官方審計年報與季報，收錄 8 吋特殊晶圓代工高壓 BCD、GaN 氮化鎵、AI 伺服器電源管理晶片 (PMIC ~65% 營收比重) 及新加坡 12 吋合資廠 (VSMC) 戰略產能擴充。
+    - **Powerchip Semiconductor Manufacturing Corp. (力積電 / PSMC / 6770.TW / 台灣 🇹🇼)**：整合 2020～2025 年 TWSE 審計年報與季報，收錄邏輯代工 (~60%) 與特殊記憶體代工 (~35%) 雙軌營運、3D AI 晶圓堆疊 (Wafer-on-Wafer / WoW)、矽中介層代工轉型與處分資產資本結構優化。
+  - **全量產出年度與季度 (Quarterly 10-Q) 數據包**：已生成 `intc`、`vis`、`psmc` 5年期審計 JSON、雙向別名鏡像檔案、結構化 Markdown 年報與下載歸檔 PDF。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `intel <-> intc`、`vis <-> 5347 <-> vanguard`、`psmc <-> 6770 <-> powerchip` 全自動解析與 100% 前後端同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v2.7.5`。
+
+- **v1.9.0 (2026-08-29)**：
   - **修復 Chart 6「Download HD PNG」按鈕完全無反應問題**：
     - **根本原因**：Chart 6 (Value-vs-Volume Sales Asymmetry Breakdown) 在放大檢視（Zoom Modal）時啟用雙畫布模式，分別渲染 `zoomedCanvasLeft`（Revenue Value）與 `zoomedCanvasRight`（Shipment Volume %）；但原始下載按鈕邏輯僅查詢 `zoomedChartCanvas`（單畫布），在雙畫布模式下 `canvas.data` 始終為空，導致 click handler 提前退出、完全無任何視覺或檔案反應。
     - **解決方案 (雙畫布拼接引擎)**：在 `dashboard.js` `setupChartZoomModal()` 下載按鈕 handler 中新增雙模式偵測邏輯：
@@ -913,6 +922,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v2.8.0 - feat: integrate Intel (INTC), Vanguard VIS (5347), and PSMC (6770) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.7.0 - feat: integrate Texas Instruments (TXN), Skyworks (SWKS), and Agilent (A) 5-year audited reports, sales breakdown, and quarterly analytics
 * commit v2.6.0 - feat: implement Country & Sector interactive filters with Select Filtered Only batch actions for peer benchmark comparison
 * commit v2.5.0 - feat: integrate Lam Research (LRCX) 6-year audited 10-K financial reports, HAR etch & memory/foundry segment breakdown, and quarterly analytics

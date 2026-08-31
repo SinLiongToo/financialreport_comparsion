@@ -1,0 +1,318 @@
+{
+  "company_name": "Intel Corporation (英特爾 / INTC)",
+  "ticker": "INTC",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 77867.0,
+      "gross_profit": 43806.0,
+      "operating_income": 22083.0,
+      "net_income": 20899.0,
+      "rd_expense": 13556.0,
+      "headcount": 110600,
+      "gross_margin": 56.26,
+      "operating_margin": 28.36,
+      "net_margin": 26.84,
+      "rd_pct_rev": 17.41,
+      "rev_per_emp": 704041.6,
+      "gp_per_emp": 396075.9,
+      "op_per_emp": 199665.5,
+      "ni_per_emp": 188960.2,
+      "rd_per_emp": 122567.8,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 79024.0,
+      "gross_profit": 26870.0,
+      "operating_income": 19456.0,
+      "net_income": 19868.0,
+      "rd_expense": 16468.0,
+      "headcount": 121100,
+      "gross_margin": 34.0,
+      "operating_margin": 24.62,
+      "net_margin": 25.14,
+      "rd_pct_rev": 20.84,
+      "rev_per_emp": 652551.6,
+      "gp_per_emp": 221882.7,
+      "op_per_emp": 160660.6,
+      "ni_per_emp": 164062.8,
+      "rd_per_emp": 135986.8,
+      "rev_growth_yoy": 1.49,
+      "gp_growth_yoy": -38.66,
+      "op_growth_yoy": -11.9,
+      "ni_growth_yoy": -4.93,
+      "rd_growth_yoy": 21.48,
+      "hc_growth_yoy": 9.49,
+      "gm_diff_pp": -22.26,
+      "op_diff_pp": -3.74
+    },
+    "2022": {
+      "revenue": 63054.0,
+      "gross_profit": 21714.0,
+      "operating_income": 2334.0,
+      "net_income": 8014.0,
+      "rd_expense": 18870.0,
+      "headcount": 131900,
+      "gross_margin": 34.44,
+      "operating_margin": 3.7,
+      "net_margin": 12.71,
+      "rd_pct_rev": 29.93,
+      "rev_per_emp": 478044.0,
+      "gp_per_emp": 164624.7,
+      "op_per_emp": 17695.2,
+      "ni_per_emp": 60758.2,
+      "rd_per_emp": 143062.9,
+      "rev_growth_yoy": -20.21,
+      "gp_growth_yoy": -19.19,
+      "op_growth_yoy": -88.0,
+      "ni_growth_yoy": -59.66,
+      "rd_growth_yoy": 14.59,
+      "hc_growth_yoy": 8.92,
+      "gm_diff_pp": 0.44,
+      "op_diff_pp": -20.92
+    },
+    "2023": {
+      "revenue": 54228.0,
+      "gross_profit": 17340.0,
+      "operating_income": 93.0,
+      "net_income": 1675.0,
+      "rd_expense": 17280.0,
+      "headcount": 124800,
+      "gross_margin": 31.98,
+      "operating_margin": 0.17,
+      "net_margin": 3.09,
+      "rd_pct_rev": 31.87,
+      "rev_per_emp": 434519.2,
+      "gp_per_emp": 138942.3,
+      "op_per_emp": 745.2,
+      "ni_per_emp": 13421.5,
+      "rd_per_emp": 138461.5,
+      "rev_growth_yoy": -14.0,
+      "gp_growth_yoy": -20.14,
+      "op_growth_yoy": -96.02,
+      "ni_growth_yoy": -79.1,
+      "rd_growth_yoy": -8.43,
+      "hc_growth_yoy": -5.38,
+      "gm_diff_pp": -2.46,
+      "op_diff_pp": -3.53
+    },
+    "2024": {
+      "revenue": 53101.0,
+      "gross_profit": 18381.0,
+      "operating_income": -11680.0,
+      "net_income": -18760.0,
+      "rd_expense": 16550.0,
+      "headcount": 108900,
+      "gross_margin": 34.62,
+      "operating_margin": -22.0,
+      "net_margin": -35.33,
+      "rd_pct_rev": 31.17,
+      "rev_per_emp": 487612.5,
+      "gp_per_emp": 168787.9,
+      "op_per_emp": -107254.4,
+      "ni_per_emp": -172268.1,
+      "rd_per_emp": 151974.3,
+      "rev_growth_yoy": -2.08,
+      "gp_growth_yoy": 6.0,
+      "op_growth_yoy": -12659.14,
+      "ni_growth_yoy": -1220.0,
+      "rd_growth_yoy": -4.22,
+      "hc_growth_yoy": -12.74,
+      "gm_diff_pp": 2.64,
+      "op_diff_pp": -22.17
+    },
+    "2025": {
+      "revenue": 56400.0,
+      "gross_profit": 21800.0,
+      "operating_income": 1200.0,
+      "net_income": 850.0,
+      "rd_expense": 15800.0,
+      "headcount": 102000,
+      "gross_margin": 38.65,
+      "operating_margin": 2.13,
+      "net_margin": 1.51,
+      "rd_pct_rev": 28.01,
+      "rev_per_emp": 552941.2,
+      "gp_per_emp": 213725.5,
+      "op_per_emp": 11764.7,
+      "ni_per_emp": 8333.3,
+      "rd_per_emp": 154902.0,
+      "rev_growth_yoy": 6.21,
+      "gp_growth_yoy": 18.6,
+      "op_growth_yoy": 110.27,
+      "ni_growth_yoy": 104.53,
+      "rd_growth_yoy": -4.53,
+      "hc_growth_yoy": -6.34,
+      "gm_diff_pp": 4.03,
+      "op_diff_pp": 24.13
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Client Computing Group (CCG)",
+      "Data Center and AI (DCAI)",
+      "Network and Edge (NEX)",
+      "Intel Foundry & Other"
+    ],
+    "colors": [
+      "#0071C5",
+      "#00C7FD",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          40061,
+          26117,
+          7200,
+          4489
+        ],
+        "volume": [
+          51,
+          34,
+          9,
+          6
+        ]
+      },
+      "2021": {
+        "value": [
+          40515,
+          25826,
+          7655,
+          5028
+        ],
+        "volume": [
+          51,
+          33,
+          10,
+          6
+        ]
+      },
+      "2022": {
+        "value": [
+          31707,
+          19196,
+          8886,
+          3265
+        ],
+        "volume": [
+          50,
+          31,
+          14,
+          5
+        ]
+      },
+      "2023": {
+        "value": [
+          29259,
+          15521,
+          5782,
+          3666
+        ],
+        "volume": [
+          54,
+          29,
+          11,
+          6
+        ]
+      },
+      "2024": {
+        "value": [
+          29000,
+          15000,
+          5800,
+          3301
+        ],
+        "volume": [
+          55,
+          28,
+          11,
+          6
+        ]
+      },
+      "2025": {
+        "value": [
+          30800,
+          16200,
+          6000,
+          3400
+        ],
+        "volume": [
+          55,
+          29,
+          11,
+          5
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Intel's structural pivot centers on separated internal foundry accounting, 18A node execution, and aggressive workforce streamlining from 131.9k to ~102k FTEs.",
+      "zh": "英特爾的轉型關鍵在於推動內部晶圓代工獨立會計模型、18A 先進製程節點量產，並將全球人力自 13.19 萬人優化精簡至約 10 萬人。"
+    },
+    "productivity": {
+      "en": "Revenue per employee peaked at $704k in 2020 and bottomed at $434k in 2023, with restructuring targeting return to >$550k/FTE.",
+      "zh": "人均營收在 2020 年達到 70.4 萬美元高峰，2023 年降至 43.4 萬美元，透過全球成本削減與結構調整力求重回 55 萬美元以上水準。"
+    },
+    "value_vs_volume": {
+      "en": "Client Computing (CCG) drives 55% of volume mix, while high-ASP AI accelerator and Xeon platforms in DCAI support high-margin recovery.",
+      "zh": "個人運算事業群（CCG）貢獻約 55% 的出貨與營收組合，而 DCAI 之高單價伺服器與 AI 晶片則是毛利率回升的核心動能。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (IDM 2.0 Internal Foundry Architecture & High-NA EUV Manufacturing)",
+    "description": "Intel accelerates transition to internal foundry model, deploying High-NA EUV for 18A/14A nodes while rightsizing operating expenses.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Traditional Monolithic IDM",
+        "desc": "Coupled product and manufacturing operations with rigid cost structures."
+      },
+      {
+        "level": 2,
+        "name": "Segmented Business Units",
+        "desc": "Separation of CCG, DCAI, and NEX divisions with centralized fab allocations."
+      },
+      {
+        "level": 3,
+        "name": "Internal Foundry Operating Model",
+        "desc": "Market-based intersegment pricing and independent P&L accountability for manufacturing."
+      },
+      {
+        "level": 4,
+        "name": "High-NA EUV & RibbonFET Node Co-Design",
+        "desc": "Cutting-edge 18A node execution with backside power delivery (PowerVia) and modular packaging."
+      },
+      {
+        "level": 5,
+        "name": "World-Class Cognitive Giga-Foundry Ecosystem",
+        "desc": "Fully autonomous wafer fab orchestration across global sites with continuous digital twin optimization."
+      }
+    ]
+  }
+}

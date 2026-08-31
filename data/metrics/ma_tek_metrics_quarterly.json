@@ -21,11 +21,7 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4",
-    "2026 Q1",
-    "2026 Q2",
-    "2026 Q3",
-    "2026 Q4"
+    "2025 Q4"
   ],
   "financials": {
     "2023 Q1": {
@@ -339,110 +335,6 @@
       "hc_growth_yoy": 4.24,
       "gm_diff_pp": -4.04,
       "op_diff_pp": -3.55
-    },
-    "2026 Q1": {
-      "revenue": 44.5,
-      "cogs": 30.7,
-      "gross_profit": 13.8,
-      "gross_margin": 31.01,
-      "operating_income": 5.6,
-      "operating_margin": 12.58,
-      "net_income": 4.85,
-      "net_margin": 10.9,
-      "rd_expense": 3.56,
-      "rd_pct_rev": 8.0,
-      "headcount": 1745,
-      "rev_per_emp": 25501.4,
-      "gp_per_emp": 7908.3,
-      "op_per_emp": 3209.2,
-      "ni_per_emp": 2779.4,
-      "rd_per_emp": 2040.1,
-      "rev_growth_yoy": 7.23,
-      "gp_growth_yoy": 14.71,
-      "op_growth_yoy": 31.76,
-      "ni_growth_yoy": 56.45,
-      "rd_growth_yoy": 6.27,
-      "hc_growth_yoy": 4.62,
-      "gm_diff_pp": 2.02,
-      "op_diff_pp": 2.34
-    },
-    "2026 Q2": {
-      "revenue": 51.31,
-      "cogs": 34.89,
-      "gross_profit": 16.42,
-      "gross_margin": 32.0,
-      "operating_income": 6.88,
-      "operating_margin": 13.41,
-      "net_income": 5.8,
-      "net_margin": 11.3,
-      "rd_expense": 4.1,
-      "rd_pct_rev": 7.99,
-      "headcount": 1770,
-      "rev_per_emp": 28988.7,
-      "gp_per_emp": 9276.8,
-      "op_per_emp": 3887.0,
-      "ni_per_emp": 3276.8,
-      "rd_per_emp": 2316.4,
-      "rev_growth_yoy": 18.77,
-      "gp_growth_yoy": 33.39,
-      "op_growth_yoy": 58.16,
-      "ni_growth_yoy": 82.39,
-      "rd_growth_yoy": 18.84,
-      "hc_growth_yoy": 5.04,
-      "gm_diff_pp": 3.5,
-      "op_diff_pp": 3.34
-    },
-    "2026 Q3": {
-      "revenue": 53.38,
-      "cogs": 36.3,
-      "gross_profit": 17.08,
-      "gross_margin": 32.0,
-      "operating_income": 7.05,
-      "operating_margin": 13.21,
-      "net_income": 5.95,
-      "net_margin": 11.15,
-      "rd_expense": 4.27,
-      "rd_pct_rev": 8.0,
-      "headcount": 1795,
-      "rev_per_emp": 29738.2,
-      "gp_per_emp": 9515.3,
-      "op_per_emp": 3927.6,
-      "ni_per_emp": 3314.8,
-      "rd_per_emp": 2378.8,
-      "rev_growth_yoy": 21.04,
-      "gp_growth_yoy": 35.88,
-      "op_growth_yoy": 59.5,
-      "ni_growth_yoy": 83.64,
-      "rd_growth_yoy": 21.31,
-      "hc_growth_yoy": 5.4,
-      "gm_diff_pp": 3.5,
-      "op_diff_pp": 3.19
-    },
-    "2026 Q4": {
-      "revenue": 54.84,
-      "cogs": 37.87,
-      "gross_profit": 16.97,
-      "gross_margin": 30.94,
-      "operating_income": 6.99,
-      "operating_margin": 12.75,
-      "net_income": 5.84,
-      "net_margin": 10.65,
-      "rd_expense": 4.39,
-      "rd_pct_rev": 8.01,
-      "headcount": 1820,
-      "rev_per_emp": 30131.9,
-      "gp_per_emp": 9324.2,
-      "op_per_emp": 3840.7,
-      "ni_per_emp": 3208.8,
-      "rd_per_emp": 2412.1,
-      "rev_growth_yoy": 23.26,
-      "gp_growth_yoy": 35.76,
-      "op_growth_yoy": 60.32,
-      "ni_growth_yoy": 82.5,
-      "rd_growth_yoy": 24.01,
-      "hc_growth_yoy": 5.81,
-      "gm_diff_pp": 2.84,
-      "op_diff_pp": 2.95
     }
   },
   "sales_breakdown": {
@@ -529,33 +421,21 @@
           30,
           17
         ]
-      },
-      "2026": {
-        "value": [
-          110.2,
-          59.2,
-          34.6
-        ],
-        "volume": [
-          54,
-          29,
-          17
-        ]
       }
     }
   },
   "insights": {
     "the_pivot": {
-      "en": "MA-tek (閎康科技) stands as Asia’s foremost independent semiconductor laboratory and analytical testing powerhouse. Incorporating official 2026 monthly disclosures (Jan-Jul revenues surging 18%-26% YoY), full-year 2026 revenue surpasses $204M USD with gross margins rebounding to 31.50%. Driven by sub-2nm GAA nanosheet transitions and Japan Kumamoto laboratory ramp-up, the company reaches an inflection point where headcount expansion moderates while operating income expands by +52% YoY.",
-      "zh": "閎康科技（MA-tek）為亞洲獨立半導體檢測分析實驗室龍頭。結合 2026 年最新官方逐月營收公告（1～7 月營收年增 18%～26%），2026 全年營收突破 2.04 億美元（約 NT$ 65.3 億元），毛利率回升至 31.50%。受惠於次 2 奈米 GAA 環繞閘極與日本熊本實驗室滿載效益，營運迎來強勁拐點，營業利益年增超過 +52.6%。"
+      "en": "MA-tek (閎康科技) stands as Asia’s foremost independent semiconductor laboratory and analytical testing powerhouse. Driven by TSMC, Intel, and Samsung sub-2nm GAA nanosheet transitions and 3D advanced packaging (CoWoS/SoIC), demand for ultra-high-resolution transmission electron microscopy (TEM) and atomic-scale Material Analysis (MA) has anchored gross margins above 32%-37%. Global footprint expansion across Taiwan (Hsinchu/Tainan), Japan (Kumamoto/Nagoya), and China provides strong geographic operating leverage.",
+      "zh": "閎康科技（MA-tek）為亞洲獨立半導體檢測分析實驗室龍頭。受惠於台積電、Intel 與三星次 2 奈米 GAA 環繞閘極奈米片製程演進及 3D 先進封裝（CoWoS/SoIC）研發潮，超高解析度穿透式電子顯微鏡（TEM）與原子級材料分析（MA）需求強勁，帶動毛利率長年穩居 32%～37% 之高附加價值區間。佈局台灣（竹科/南科）、日本（熊本/名古屋）與中國實驗室網絡，構築強大地域運營槓桿。"
     },
     "productivity": {
-      "en": "Revenue per employee climbed to $112.1k USD with Gross Profit per FTE surpassing $35.3k USD in 2026, driven by high-margin GAA atomic metrology and automotive chip AEC-Q100 verification.",
-      "zh": "2026 年人均營收攀升至 11.2 萬美元（約 NT$ 359 萬元/人），人均毛利達 3.53 萬美元，由先進製程 GAA 原子級檢測與車用晶片 AEC-Q100 驗證共同驅動高人均附加價值。"
+      "en": "Revenue per employee reached $96.8k-$100k+ with Gross Profit per FTE exceeding $32k, supported by a dense workforce of elite PhD/Master material scientists and high-precision analytical equipment (TEM, Dual-beam FIB, SIMS, XPS).",
+      "zh": "每位員工平均營收約 9.7 萬至 10 萬美元以上，人均毛利達 3.2 萬美元，由高階碩博士材料科學家與昂貴尖端檢測儀器（TEM、雙束 FIB、二次離子質譜 SIMS、XPS）共同創造高知識密集型產值。"
     },
     "value_vs_volume": {
-      "en": "With initial depreciation of Japanese labs reaching baseline absorption in 2026, surging demand for 3D packaging FA defect localization and AI accelerator high-power reliability (RA) creates a high-margin operating leverage fly-wheel.",
-      "zh": "隨著日本熊本與名古屋新實驗室折舊負擔在 2026 年進入產能甜蜜點，3D 封裝故障分析（FA）與 AI 高瓦數晶片可靠度（RA）需求強勁，推動高毛利營運槓桿飛輪全面啟動。"
+      "en": "Despite heavy depreciation from new overseas laboratories in Japan (Kumamoto 1 & 2, Nagoya) in 2024-2025, surging global automotive chip verification (AEC-Q100) and AI accelerator high-power reliability testing (RA) provide an enduring structural growth runway.",
+      "zh": "儘管 2024～2025 年受日本熊本一二廠及名古屋新實驗室折舊初期費用影響，車用晶片驗證（AEC-Q100）與 AI 加速晶片高瓦數可靠度測試（RA）的爆發性成長，為長期營運提供結構性推進動能。"
     }
   },
   "lean_maturity": {

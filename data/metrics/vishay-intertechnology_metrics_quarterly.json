@@ -1,0 +1,237 @@
+{
+  "company_name": "Vishay Intertechnology, Inc.",
+  "ticker": "VSH",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 746,
+      "gross_profit": 169,
+      "operating_income": 45,
+      "net_income": 26,
+      "rd_expense": 21,
+      "headcount": 23100,
+      "gross_margin": 22.7
+    },
+    "2024 Q2": {
+      "revenue": 771,
+      "gross_profit": 172,
+      "operating_income": 48,
+      "net_income": 28,
+      "rd_expense": 22,
+      "headcount": 23050,
+      "gross_margin": 22.3
+    },
+    "2024 Q3": {
+      "revenue": 735,
+      "gross_profit": 154,
+      "operating_income": 36,
+      "net_income": 19,
+      "rd_expense": 22,
+      "headcount": 23000,
+      "gross_margin": 21.0
+    },
+    "2024 Q4": {
+      "revenue": 853,
+      "gross_profit": 188,
+      "operating_income": 46,
+      "net_income": 23,
+      "rd_expense": 23,
+      "headcount": 23000,
+      "gross_margin": 22.0
+    },
+    "2025 Q1": {
+      "revenue": 810,
+      "gross_profit": 194,
+      "operating_income": 65,
+      "net_income": 42,
+      "rd_expense": 22,
+      "headcount": 23100,
+      "gross_margin": 24.0
+    },
+    "2025 Q2": {
+      "revenue": 830,
+      "gross_profit": 203,
+      "operating_income": 70,
+      "net_income": 46,
+      "rd_expense": 23,
+      "headcount": 23150,
+      "gross_margin": 24.5
+    },
+    "2025 Q3": {
+      "revenue": 850,
+      "gross_profit": 208,
+      "operating_income": 72,
+      "net_income": 48,
+      "rd_expense": 23,
+      "headcount": 23200,
+      "gross_margin": 24.5
+    },
+    "2025 Q4": {
+      "revenue": 860,
+      "gross_profit": 215,
+      "operating_income": 73,
+      "net_income": 49,
+      "rd_expense": 24,
+      "headcount": 23200,
+      "gross_margin": 25.0
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "MOSFETs & Power Diodes",
+      "Optoelectronics & ICs",
+      "Resistors & Inductors (Passives)",
+      "Capacitors"
+    ],
+    "colors": [
+      "#A855F7",
+      "#EC4899",
+      "#3B82F6",
+      "#10B981"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          390,
+          148,
+          141,
+          67
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          403,
+          153,
+          146,
+          69
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          384,
+          146,
+          139,
+          66
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          445,
+          170,
+          161,
+          77
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          422,
+          164,
+          152,
+          72
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          432,
+          168,
+          156,
+          74
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          443,
+          172,
+          159,
+          76
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          448,
+          174,
+          161,
+          77
+        ],
+        "volume": [
+          52,
+          20,
+          19,
+          9
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly gross margin stabilized at 21.0%-25.0% through global automotive discrete channel destocking.",
+      "productivity": "Quarterly Rev / FTE tracks around $32K-$37K per employee per quarter.",
+      "leverage": "Quarterly operating margins gradually expanding to 8.5% as fab utilization improves.",
+      "rd": "Quarterly R&D investment tracks at $21M-$24M/quarter.",
+      "growth": "Sequential quarterly revenue expansion through 2025 industrial recovery.",
+      "breakdown": "MOSFETs, Diodes, and Passives provide stable high-volume unit flow."
+    },
+    "zh": {
+      "pivot": "單季毛利率在車用與工控庫存調整期守於 21.0%-25.0% 區間。",
+      "productivity": "單季人均營收約為 $32K-$37K/季。",
+      "leverage": "單季營業利益率隨著稼動率回升逐步回升至 8.5%。",
+      "rd": "單季研發費用穩定於 $21M-$24M/季。",
+      "growth": "2025 季度營收呈現平穩連動回升。",
+      "breakdown": "MOSFET 與被動元件提供龐大的單季出貨量基石。"
+    }
+  }
+}

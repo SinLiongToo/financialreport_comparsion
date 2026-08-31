@@ -202,6 +202,14 @@ const COMPANY_COLORS = {
     "a": "#00857C",
     "agilent": "#00857C",
     "agilent-technologies": "#00857C",
+    "intc": "#0071C5",
+    "intel": "#0071C5",
+    "vis": "#0284C7",
+    "5347": "#0284C7",
+    "vanguard": "#0284C7",
+    "psmc": "#8B5CF6",
+    "6770": "#8B5CF6",
+    "powerchip": "#8B5CF6",
 };
 
 const COMPANY_COUNTRIES = {
@@ -315,6 +323,25 @@ const COMPANY_COUNTRIES = {
     "agilent": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "agilent-technologies": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "agilent-technologies-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "intc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "intel": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "intel-corp": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "intel-corporation": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "vis": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "5347": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "5347.two": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "5347.tw": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "vanguard": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "world-advanced": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "vanguard-international-semiconductor": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "vanguard-international-semiconductor-corp": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "psmc": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "6770": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "6770.tw": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "powerchip": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "powerchip-semiconductor": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "powerchip-semiconductor-manufacturing-corp": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "powerchip-semiconductor-manufacturing": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
 };
 
 const COMPANY_SECTORS = {
@@ -344,6 +371,14 @@ const COMPANY_SECTORS = {
     "txn": "FOUNDRY",
     "ti": "FOUNDRY",
     "texas-instruments": "FOUNDRY",
+    "intc": "FOUNDRY",
+    "intel": "FOUNDRY",
+    "vis": "FOUNDRY",
+    "5347": "FOUNDRY",
+    "vanguard": "FOUNDRY",
+    "psmc": "FOUNDRY",
+    "6770": "FOUNDRY",
+    "powerchip": "FOUNDRY",
 
     // IC設計 / Fabless / IP / 運算晶片 / 車用晶片
     "nvda": "FABLESS",
@@ -584,6 +619,7 @@ const TICKER_CANONICAL_MAP = {
     "ti": "txn",
     "texas-instruments": "txn",
     "texas-instruments-inc": "txn",
+    "texas-instruments-incorporated": "txn",
     "swks": "swks",
     "skyworks": "swks",
     "skyworks-solutions": "swks",
@@ -591,7 +627,26 @@ const TICKER_CANONICAL_MAP = {
     "a": "agilent",
     "agilent": "agilent",
     "agilent-technologies": "agilent",
-    "agilent-technologies-inc": "agilent"
+    "agilent-technologies-inc": "agilent",
+    "intc": "intc",
+    "intel": "intc",
+    "intel-corp": "intc",
+    "intel-corporation": "intc",
+    "vis": "vis",
+    "5347": "vis",
+    "5347.two": "vis",
+    "5347.tw": "vis",
+    "vanguard": "vis",
+    "world-advanced": "vis",
+    "vanguard-international-semiconductor": "vis",
+    "vanguard-international-semiconductor-corp": "vis",
+    "psmc": "psmc",
+    "6770": "psmc",
+    "6770.tw": "psmc",
+    "powerchip": "psmc",
+    "powerchip-semiconductor": "psmc",
+    "powerchip-semiconductor-manufacturing-corp": "psmc",
+    "powerchip-semiconductor-manufacturing": "psmc"
 };
 
 function FinancialMetricsExtractor_canonical_ticker(ticker) {
@@ -606,7 +661,7 @@ const I18N_DICT = {
     en: {
         badge_workflow: "One-Click Workflow",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-08-31",
+        header_updated: "Updated: 2026-09-01",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -736,7 +791,7 @@ const I18N_DICT = {
     zh: {
         badge_workflow: "一步到位工作流",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-08-31",
+        header_updated: "更新日期：2026-09-01",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1730,6 +1785,9 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "pltr" || t === "palantir") input.value = "https://companiesmarketcap.com/palantir/quarterly-reports-10q/";
         else if (t === "avgo" || t === "broadcom") input.value = "https://companiesmarketcap.com/broadcom/quarterly-reports-10q/";
         else if (t === "lrcx" || t === "lam-research") input.value = "https://companiesmarketcap.com/lam-research/quarterly-reports-10q/";
+        else if (t === "intc" || t === "intel") input.value = "https://companiesmarketcap.com/intel/quarterly-reports-10q/";
+        else if (t === "vis" || t === "5347" || t === "vanguard") input.value = "https://companiesmarketcap.com/vis/quarterly-reports/";
+        else if (t === "psmc" || t === "6770" || t === "powerchip") input.value = "https://companiesmarketcap.com/psmc/quarterly-reports/";
         else input.value = `${ticker.toUpperCase()} (10-Q)`;
     } else {
         if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
@@ -1753,6 +1811,9 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "avgo" || t === "broadcom") input.value = "https://companiesmarketcap.com/broadcom/annual-reports/";
         else if (t === "lrcx" || t === "lam-research") input.value = "https://companiesmarketcap.com/lam-research/annual-reports/";
         else if (t === "foxconn" || t === "honhai" || t === "2317") input.value = "https://companiesmarketcap.com/foxconn/annual-reports/";
+        else if (t === "intc" || t === "intel") input.value = "https://companiesmarketcap.com/intel/annual-reports/";
+        else if (t === "vis" || t === "5347" || t === "vanguard") input.value = "https://companiesmarketcap.com/vis/annual-reports/";
+        else if (t === "psmc" || t === "6770" || t === "powerchip") input.value = "https://companiesmarketcap.com/psmc/annual-reports/";
         else input.value = ticker.toUpperCase();
     }
 }
@@ -1796,7 +1857,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1846,6 +1907,14 @@ async function loadCompaniesList() {
                 "SKYWORKS": "Skyworks Solutions (SWKS / 希佳訊)",
                 "AGILENT": "Agilent Technologies (A / 安捷倫科技)",
                 "A": "Agilent Technologies (A / 安捷倫科技)",
+                "INTC": "Intel Corporation (英特爾 / INTC)",
+                "INTEL": "Intel Corporation (英特爾 / INTC)",
+                "VIS": "Vanguard Int'l Semi (5347 / 世界先進)",
+                "5347": "Vanguard Int'l Semi (5347 / 世界先進)",
+                "VANGUARD": "Vanguard Int'l Semi (5347 / 世界先進)",
+                "PSMC": "Powerchip PSMC (6770 / 力積電)",
+                "6770": "Powerchip PSMC (6770 / 力積電)",
+                "POWERCHIP": "Powerchip PSMC (6770 / 力積電)",
 
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",

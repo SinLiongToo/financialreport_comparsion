@@ -1,0 +1,195 @@
+{
+  "company_name": "Palantir Technologies Inc.",
+  "ticker": "PLTR",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 634,
+      "gross_profit": 518,
+      "operating_income": 81,
+      "net_income": 106,
+      "rd_expense": 105,
+      "headcount": 3850,
+      "gross_margin": 81.7
+    },
+    "2024 Q2": {
+      "revenue": 678,
+      "gross_profit": 552,
+      "operating_income": 105,
+      "net_income": 134,
+      "rd_expense": 108,
+      "headcount": 3900,
+      "gross_margin": 81.4
+    },
+    "2024 Q3": {
+      "revenue": 726,
+      "gross_profit": 595,
+      "operating_income": 113,
+      "net_income": 144,
+      "rd_expense": 112,
+      "headcount": 3950,
+      "gross_margin": 82.0
+    },
+    "2024 Q4": {
+      "revenue": 828,
+      "gross_profit": 685,
+      "operating_income": 174,
+      "net_income": 196,
+      "rd_expense": 118,
+      "headcount": 4050,
+      "gross_margin": 82.7
+    },
+    "2025 Q1": {
+      "revenue": 890,
+      "gross_profit": 738,
+      "operating_income": 205,
+      "net_income": 215,
+      "rd_expense": 124,
+      "headcount": 4150,
+      "gross_margin": 83.0
+    },
+    "2025 Q2": {
+      "revenue": 960,
+      "gross_profit": 801,
+      "operating_income": 235,
+      "net_income": 245,
+      "rd_expense": 130,
+      "headcount": 4250,
+      "gross_margin": 83.5
+    },
+    "2025 Q3": {
+      "revenue": 1040,
+      "gross_profit": 874,
+      "operating_income": 270,
+      "net_income": 280,
+      "rd_expense": 138,
+      "headcount": 4350,
+      "gross_margin": 84.0
+    },
+    "2025 Q4": {
+      "revenue": 1180,
+      "gross_profit": 997,
+      "operating_income": 330,
+      "net_income": 335,
+      "rd_expense": 148,
+      "headcount": 4450,
+      "gross_margin": 84.5
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Commercial (US & Global Enterprise)",
+      "Government (US Defense & International)"
+    ],
+    "colors": [
+      "#06B6D4",
+      "#6366F1"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          288,
+          346
+        ],
+        "volume": [
+          45,
+          55
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          308,
+          370
+        ],
+        "volume": [
+          45,
+          55
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          330,
+          396
+        ],
+        "volume": [
+          45,
+          55
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          376,
+          452
+        ],
+        "volume": [
+          45,
+          55
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          426,
+          464
+        ],
+        "volume": [
+          48,
+          52
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          460,
+          500
+        ],
+        "volume": [
+          48,
+          52
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          498,
+          542
+        ],
+        "volume": [
+          48,
+          52
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          565,
+          615
+        ],
+        "volume": [
+          48,
+          52
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "AIP enterprise adoption scaled gross margins to 81.4%-84.5% with disciplined headcount of ~4,200 FTEs.",
+      "productivity": "Quarterly revenue per FTE expanded from $165K to $265K ($1.06M annualized), showcasing extreme AI leverage.",
+      "leverage": "GAAP operating margins surged from 12.8% in early 2024 to 28.0% by late 2025."
+    },
+    "zh": {
+      "pivot": "AIP 企業級平台全面爆發，推升單季毛利率由 81.4% 攀升至 84.5%，員工人數維持在 4,200 人精實規模。",
+      "productivity": "單季人均營收由 16.5 萬美元激增至 26.5 萬美元（年化人均營收破 106 萬美元/人）。",
+      "leverage": "GAAP 營業利益率由 2024 年初的 12.8% 翻倍擴張至 2025 年底的 28.0%。"
+    }
+  }
+}

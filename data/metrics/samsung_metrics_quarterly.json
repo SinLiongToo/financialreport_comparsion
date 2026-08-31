@@ -1,0 +1,231 @@
+{
+  "company_name": "Samsung Electronics Co., Ltd.",
+  "ticker": "SAMSUNG",
+  "currency": "USD ($M)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2024 Q1": {
+      "revenue": 53100,
+      "gross_profit": 20120,
+      "operating_income": 4950,
+      "net_income": 5050,
+      "rd_expense": 5820,
+      "headcount": 269000,
+      "gross_margin": 37.9
+    },
+    "2024 Q2": {
+      "revenue": 54900,
+      "gross_profit": 21020,
+      "operating_income": 7700,
+      "net_income": 7300,
+      "rd_expense": 5950,
+      "headcount": 269500,
+      "gross_margin": 38.3
+    },
+    "2024 Q3": {
+      "revenue": 58300,
+      "gross_profit": 22150,
+      "operating_income": 6820,
+      "net_income": 7300,
+      "rd_expense": 6210,
+      "headcount": 270000,
+      "gross_margin": 38.0
+    },
+    "2024 Q4": {
+      "revenue": 54140,
+      "gross_profit": 20450,
+      "operating_income": 4340,
+      "net_income": 1450,
+      "rd_expense": 4880,
+      "headcount": 270000,
+      "gross_margin": 37.8
+    },
+    "2025 Q1": {
+      "revenue": 57500,
+      "gross_profit": 22425,
+      "operating_income": 7100,
+      "net_income": 5900,
+      "rd_expense": 6100,
+      "headcount": 271000,
+      "gross_margin": 39.0
+    },
+    "2025 Q2": {
+      "revenue": 60200,
+      "gross_profit": 23960,
+      "operating_income": 8100,
+      "net_income": 6750,
+      "rd_expense": 6250,
+      "headcount": 271500,
+      "gross_margin": 39.8
+    },
+    "2025 Q3": {
+      "revenue": 62500,
+      "gross_profit": 25125,
+      "operating_income": 8450,
+      "net_income": 7050,
+      "rd_expense": 6350,
+      "headcount": 272000,
+      "gross_margin": 40.2
+    },
+    "2025 Q4": {
+      "revenue": 61540,
+      "gross_profit": 25160,
+      "operating_income": 8090,
+      "net_income": 6750,
+      "rd_expense": 6300,
+      "headcount": 272000,
+      "gross_margin": 40.9
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Device Solutions (Memory / System LSI / Foundry)",
+      "Device eXperience (MX Mobile / Visual Display)",
+      "Samsung Display (SDC - OLED/QD-Display)",
+      "Harman (Connected Car / Audio)"
+    ],
+    "colors": [
+      "#1D4ED8",
+      "#0284C7",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2024 Q1": {
+        "value": [
+          17727,
+          27914,
+          5053,
+          2406
+        ],
+        "volume": [
+          33,
+          53,
+          10,
+          4
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          18328,
+          28859,
+          5225,
+          2488
+        ],
+        "volume": [
+          33,
+          53,
+          10,
+          4
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          19463,
+          30647,
+          5548,
+          2642
+        ],
+        "volume": [
+          33,
+          53,
+          10,
+          4
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          18074,
+          28461,
+          5152,
+          2453
+        ],
+        "volume": [
+          33,
+          53,
+          10,
+          4
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          21629,
+          28179,
+          5179,
+          2513
+        ],
+        "volume": [
+          38,
+          49,
+          9,
+          4
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          22645,
+          29502,
+          5422,
+          2631
+        ],
+        "volume": [
+          38,
+          49,
+          9,
+          4
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          23510,
+          30629,
+          5629,
+          2732
+        ],
+        "volume": [
+          38,
+          49,
+          9,
+          4
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          23149,
+          30158,
+          5543,
+          2690
+        ],
+        "volume": [
+          38,
+          49,
+          9,
+          4
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Memory cycle rebound restored quarterly gross margins to 37.8%-40.9% across 270K global workforce.",
+      "productivity": "Quarterly revenue per FTE averages ~$197K-$230K (~$800K-$920K annualized).",
+      "leverage": "Quarterly operating profit stabilized at $7.1B-$8.45B driven by enterprise SSD and HBM shipments."
+    },
+    "zh": {
+      "pivot": "記憶體週期回溫帶動單季毛利率回升至 37.8%-40.9% 水準。",
+      "productivity": "全球 27 萬員工之單季人均營收約 19.7 萬-23.0 萬美元（年化約 80 萬-92 萬美元）。",
+      "leverage": "單季營業利益穩定維持在 71 億-84.5 億美元，伺服器記憶體為獲利復甦主力。"
+    }
+  }
+}
