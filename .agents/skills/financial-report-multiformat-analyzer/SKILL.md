@@ -232,3 +232,27 @@ Ensure it returns: `✅ PASSED: All metrics, Chart 6 structures, and aliases are
 1. Run `python export_standalone.py` to recompile `docs/index.html` and `standalone_dashboard.html`.
 2. Update version badge and timestamp in `templates/index.html` and `dashboard.js`.
 3. Update `README.md` (Change Log and Git History).
+
+---
+
+## 7. Chart 6 Dual-Canvas Zoom & Composite HD PNG Stitching Engine
+
+When user triggers Fullscreen Zoom on Chart 6:
+1. **Dual Plotly Layout**: Renders `zoomedCanvasLeft` (Revenue Value Stacked $M) and `zoomedCanvasRight` (Shipment Volume & Mix %).
+2. **Composite HD PNG Stitching**:
+   - `Plotly.toImage` renders each canvas at 960×1080 with solid background relayout.
+   - An off-screen HTML5 `<canvas>` (1920×1080) stitches the left and right panels side-by-side.
+   - Triggers browser file download (`<a download>`) for unified HD capture.
+3. **Purge & Style Reset**:
+   - On `closeZoomModal()`, purge `zoomedChartCanvas`, `zoomedCanvasLeft`, and `zoomedCanvasRight`.
+   - Clear all dynamic inline styles to avoid lingering theme artifacts.
+
+---
+
+## 8. Light-Mode Anti-Glare & High-Legibility Visual Standards
+
+1. **Anti-Glare Palette Shift**:
+   - Surface backgrounds must avoid stark `#ffffff` or `#f8fafc` glare.
+   - Standard palette: Body `#d8e0e9`, Header `#e8edf4`, Cards `#eaf0f6`, Sub-panels/Tables `#dde5ee`, Buttons `#d6dfe8`, Borders `#c8d4e0`/`#b0bfcf`.
+2. **Plotly Solid Background Requirement**:
+   - `extractCleanLayout()` must apply solid theme-aware backgrounds (`plotBg`: `#dde5ee`, `paperBg`: `#e8edf4` in Light mode; `#0f172a` in Dark mode) rather than `"transparent"` to preserve axis and label contrast.

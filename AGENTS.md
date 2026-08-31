@@ -57,4 +57,36 @@
 - **Empty Object Overwrite Guard**:
   `export_standalone.py` `build_metrics_db()` must never overwrite a valid benchmark dictionary with an empty `{}` dictionary from missing or corrupted JSON files.
 
+---
+
+## 🖼️ 6. Chart 6 Dual-Canvas Zoom & HD PNG Stitching Directive (圖表 6 雙畫布縮放與高清匯出規範)
+
+- **Dual-Canvas Architecture for Asymmetry Analytics**:
+  Chart 6 (Value-vs-Volume Sales Breakdown) presents high-value revenue vs. shipment unit mix side-by-side. In Fullscreen Zoom mode, it renders into two distinct Plotly containers (`zoomedCanvasLeft` and `zoomedCanvasRight`).
+- **Composite HD PNG Export Engine**:
+  - The "Download HD PNG" button must dynamically detect whether `zoomedDualContainer` is active.
+  - For dual-canvas mode, capture both panels via `Plotly.toImage({ format: 'png', width: 960, height: 1080 })` with solid background relayout.
+  - Stitch both images side-by-side using an off-screen HTML5 `<canvas>` (1920×1080 total) before triggering download.
+  - For single-canvas mode (Charts 1–5), standard `Plotly.downloadImage` remains active.
+- **Canvas Cleanup Guarantee**:
+  Upon closing the zoom modal (`closeZoomModal()`), always purge all Plotly instances (`zoomedChartCanvas`, `zoomedCanvasLeft`, `zoomedCanvasRight`) and clear all dynamic inline style overrides to prevent memory leaks or stale layout artifacts.
+
+---
+
+## 🎨 7. Light-Mode Anti-Glare & High-Legibility Visual Standards (明亮模式防眩光與高可讀性調色盤規範)
+
+- **Strict Anti-Glare Palette (禁止大面積死白眩光)**:
+  To prevent eye strain and maintain professional terminal contrast, pure stark whites (`#ffffff`, `#f8fafc`) are prohibited for major container backgrounds in light mode.
+- **Standardized Light-Mode Color Palette**:
+  - **Body Page Background**: `#d8e0e9` (柔和藍灰底色)
+  - **Header & Navigation Bar**: `#e8edf4` (邊框 `#c8d4e0`)
+  - **Section Cards & Panels**: `#eaf0f6` (邊框 `#c8d4e0`)
+  - **Sub-panels, Inputs, Tables & Modals**: `#dde5ee` (邊框 `#b0bfcf`)
+  - **Controls, Buttons & Secondary Badges**: `#d6dfe8` (邊框 `#b0bfcf`)
+  - **Primary Text**: `#0f172a` / `#1e293b` (深石板灰，確保 AAA 級對比度)
+  - **Secondary Text / Muted Annotations**: `#475569` / `#64748b`
+- **Zoom Modal & Plotly Background Synchronization**:
+  - Zoom modal inspection windows must dynamically synchronize with `CURRENT_THEME`.
+  - In `extractCleanLayout()`, Plotly `paper_bgcolor` and `plot_bgcolor` must always use solid theme-aware colors (`#e8edf4` / `#dde5ee` in light mode, `#0f172a` in dark mode) instead of `"transparent"` to prevent dark-on-dark or washed-out text artifacts.
+
 
