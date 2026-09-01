@@ -857,6 +857,9 @@ python main.py --export-static
       - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
   - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `win-semi <-> win <-> 3105 <-> 3105.tw <-> win-semiconductors` 與 `stm <-> stmicro <-> stmicroelectronics <-> st-semiconductor` 雙向無縫對齊與消除重複項。
   - **修復 Meta 財報結構與季度圖表對齊**：全面修復 Meta 損益表與 Chart 6 類別陣列一致性，全庫 48 家企業審計校驗 100% 通過。
+  - **新增企業財務與投資「十大金句」垂直滑動跑馬燈 (Financial Wisdom Quotes Marquee)**：
+    - 位於標頭副標題下方，收錄巴菲特、蒙格、彼得·林區、葛拉漢、費雪、霍華·馬克斯、達利歐、卡拉曼、黃仁勳與張忠謀等 10 位投資與科技巨擘之經典財務金句。
+    - 支援 4.5 秒平滑向上滾動、懸停暫停 (Pause on hover)、手動上下翻頁切換、點擊即時切換與中英雙語 (`en` / `zh`) 即時切換，並完美適配深色與防眩光明亮主題。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.1.0`（`Updated: 2026-09-02`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
 
 - **v3.0.0 (2026-09-01)**：

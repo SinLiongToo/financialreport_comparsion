@@ -803,6 +803,7 @@ const DEFAULT_PALETTE = ["#00A3E0", "#EF4444", "#10B981", "#F59E0B", "#A855F7", 
 const I18N_DICT = {
     en: {
         badge_workflow: "One-Click Workflow",
+        quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
         header_updated: "Updated: 2026-09-02",
         btn_user_guide: "User Guide & Help",
@@ -933,6 +934,7 @@ const I18N_DICT = {
     },
     zh: {
         badge_workflow: "一步到位工作流",
+        quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
         header_updated: "更新日期：2026-09-02",
         btn_user_guide: "使用說明與指南 (Help)",
@@ -1060,6 +1062,169 @@ const I18N_DICT = {
     }
 };
 
+// =============================================================================
+// FINANCIAL & INVESTMENT WISDOM 10 GOLDEN QUOTES ENGINE (企業財務與投資十大金句)
+// =============================================================================
+const FINANCE_QUOTES = [
+    {
+        author: { en: "Warren Buffett", zh: "華倫·巴菲特" },
+        text: {
+            en: "Accounting is the language of business. If you cannot speak the language, it's difficult to win the game.",
+            zh: "會計是商業的語言。如果你無法理解這門語言，你將很難在商業與投資的博弈中勝出。"
+        }
+    },
+    {
+        author: { en: "Charlie Munger", zh: "查理·蒙格" },
+        text: {
+            en: "Over the long term, it's hard for a stock to earn a much better return than the business which underlies it earns.",
+            zh: "長期來看，一檔股票的投資報酬率很難超越其底層企業所創造的資本報酬率。"
+        }
+    },
+    {
+        author: { en: "Peter Lynch", zh: "彼得·林區" },
+        text: {
+            en: "Know what you own, and know why you own it. Behind every stock is a company. Find out what it's doing.",
+            zh: "清楚知道你持有的是什麼，以及為什麼持有它。每檔股票背後都是一家真實運作的企業。"
+        }
+    },
+    {
+        author: { en: "Benjamin Graham", zh: "班傑明·葛拉漢" },
+        text: {
+            en: "In the short run, the market is a voting machine, but in the long run, it is a weighing machine.",
+            zh: "短期而言，市場是一台投票機；但長期而言，市場是一台精確的磅秤。"
+        }
+    },
+    {
+        author: { en: "Philip Fisher", zh: "菲利普·費雪" },
+        text: {
+            en: "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+            zh: "股票市場中充滿了知道所有東西價格、卻對其實質價值一無所知的人。"
+        }
+    },
+    {
+        author: { en: "Howard Marks", zh: "霍華·馬克斯" },
+        text: {
+            en: "Rule No.1: Most things will prove to be cyclical. Rule No.2: Some of the greatest opportunities arise when others forget Rule No.1.",
+            zh: "第一條法則：萬物皆有週期。第二條法則：當大多數人忘記第一條法則時，往往蘊藏最巨大的投資契機。"
+        }
+    },
+    {
+        author: { en: "Ray Dalio", zh: "雷·達利歐" },
+        text: {
+            en: "He who lives by the crystal ball will eat shattered glass. Look at the economic machine and cash flows.",
+            zh: "靠水晶球預測市場的人終將吞下碎玻璃。深入剖析經濟機器運作與現金流才是真理。"
+        }
+    },
+    {
+        author: { en: "Seth Klarman", zh: "賽思·卡拉曼" },
+        text: {
+            en: "Margin of safety is achieved when securities are purchased at prices sufficiently below underlying intrinsic value.",
+            zh: "安全邊際來自於以遠低於實質內在價值的折價價格購入資產，這才是風險控制的核心。"
+        }
+    },
+    {
+        author: { en: "Jensen Huang", zh: "黃仁勳" },
+        text: {
+            en: "Cash flow is the gravity of enterprise. Technology moats and operational velocity create compounding returns.",
+            zh: "現金流是企業經營的地心引力，深厚的技術護城河與組織敏捷速度將創造複利回報。"
+        }
+    },
+    {
+        author: { en: "Morris Chang", zh: "張忠謀" },
+        text: {
+            en: "Innovation without a solid business model and financial discipline is just a hobby.",
+            zh: "創新如果沒有健全的商業模式與嚴謹的財務紀律支撐，就只是一種昂貴的愛好。"
+        }
+    }
+];
+
+let CURRENT_QUOTE_INDEX = 0;
+let QUOTE_MARQUEE_TIMER = null;
+
+function renderFinanceQuotes() {
+    const listEl = document.getElementById("financeQuotesList");
+    if (!listEl) return;
+    
+    const isZh = CURRENT_LANGUAGE === "zh";
+    listEl.innerHTML = FINANCE_QUOTES.map((q, idx) => {
+        const author = isZh ? q.author.zh : q.author.en;
+        const text = isZh ? q.text.zh : q.text.en;
+        return `<div class="finance-quote-item text-xs flex items-center gap-1.5 truncate" title="${text} — ${author}">
+            <span class="text-slate-200 font-medium truncate">"${text}"</span>
+            <span class="text-amber-400 font-semibold shrink-0 text-[11px]">— ${author}</span>
+        </div>`;
+    }).join("");
+    
+    updateQuotePosition(false);
+}
+
+function updateQuotePosition(animate = true) {
+    const listEl = document.getElementById("financeQuotesList");
+    if (!listEl) return;
+    if (animate) {
+        listEl.style.transition = "transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)";
+    } else {
+        listEl.style.transition = "none";
+    }
+    listEl.style.transform = `translateY(-${CURRENT_QUOTE_INDEX * 24}px)`;
+}
+
+function nextFinanceQuote() {
+    CURRENT_QUOTE_INDEX = (CURRENT_QUOTE_INDEX + 1) % FINANCE_QUOTES.length;
+    updateQuotePosition(true);
+}
+
+function prevFinanceQuote() {
+    CURRENT_QUOTE_INDEX = (CURRENT_QUOTE_INDEX - 1 + FINANCE_QUOTES.length) % FINANCE_QUOTES.length;
+    updateQuotePosition(true);
+}
+
+function startFinanceQuoteTimer() {
+    stopFinanceQuoteTimer();
+    QUOTE_MARQUEE_TIMER = setInterval(() => {
+        nextFinanceQuote();
+    }, 4500);
+}
+
+function stopFinanceQuoteTimer() {
+    if (QUOTE_MARQUEE_TIMER) {
+        clearInterval(QUOTE_MARQUEE_TIMER);
+        QUOTE_MARQUEE_TIMER = null;
+    }
+}
+
+function initFinanceQuotesMarquee() {
+    const container = document.getElementById("financeQuotesMarqueeContainer");
+    const marqueeArea = document.getElementById("financeQuotesMarquee");
+    const prevBtn = document.getElementById("quotePrevBtn");
+    const nextBtn = document.getElementById("quoteNextBtn");
+    
+    if (!container || !marqueeArea) return;
+    
+    renderFinanceQuotes();
+    startFinanceQuoteTimer();
+    
+    container.addEventListener("mouseenter", stopFinanceQuoteTimer);
+    container.addEventListener("mouseleave", startFinanceQuoteTimer);
+    
+    marqueeArea.addEventListener("click", () => {
+        nextFinanceQuote();
+    });
+    
+    if (prevBtn) {
+        prevBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            prevFinanceQuote();
+        });
+    }
+    if (nextBtn) {
+        nextBtn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            nextFinanceQuote();
+        });
+    }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     initDashboard();
 });
@@ -1072,6 +1237,7 @@ async function initDashboard() {
     setupTabs();
     setupHelpModal();
     setupChartZoomModal();
+    initFinanceQuotesMarquee();
     applyLanguage(CURRENT_LANGUAGE);
     await loadCompaniesList();
     await loadDashboardData();
@@ -1986,6 +2152,8 @@ function applyLanguage(lang) {
 
     const langLabel = document.getElementById("currentLangLabel");
     if (langLabel) langLabel.textContent = dict.lang_toggle_btn;
+    
+    renderFinanceQuotes();
 }
 
 // -----------------------------------------------------------------------------

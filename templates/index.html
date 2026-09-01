@@ -39,6 +39,23 @@
                         </a>
                     </h1>
                     <p class="text-xs text-slate-400" data-i18n="header_subtitle">Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment</p>
+                    
+                    <!-- Financial & Investment Wisdom Quotes Vertical Marquee (企業財務與投資金句上下流動跑馬燈) -->
+                    <div class="mt-1.5 flex items-center gap-2 overflow-hidden rounded-lg bg-slate-900/60 border border-slate-700/70 px-2.5 py-1 text-xs text-slate-300 shadow-inner max-w-2xl" id="financeQuotesMarqueeContainer">
+                        <div class="flex items-center gap-1.5 text-amber-400 font-semibold shrink-0 text-[11px]">
+                            <i class="fa-solid fa-quote-left text-amber-400 text-xs"></i>
+                            <span class="hidden sm:inline font-bold tracking-wider" data-i18n="quotes_badge">WISDOM:</span>
+                        </div>
+                        <div class="relative h-6 overflow-hidden flex-1 cursor-pointer select-none" id="financeQuotesMarquee" title="Click to view next quote / 點擊切換下一句">
+                            <div id="financeQuotesList" class="transition-transform duration-500 ease-in-out">
+                                <!-- Populated dynamically by initFinanceQuotesMarquee() -->
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-0.5 shrink-0 text-[10px] text-slate-400">
+                            <button id="quotePrevBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1 py-0.5 rounded transition-colors" title="Previous quote / 上一句"><i class="fa-solid fa-chevron-up"></i></button>
+                            <button id="quoteNextBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1 py-0.5 rounded transition-colors" title="Next quote / 下一句"><i class="fa-solid fa-chevron-down"></i></button>
+                        </div>
+                    </div>
                 </div>
             </div>
             
