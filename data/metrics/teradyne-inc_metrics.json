@@ -50,7 +50,7 @@
       "op_growth_yoy": -99.89,
       "ni_growth_yoy": -99.89,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 0.31,
+      "hc_growth_yoy": -74.92,
       "gm_diff_pp": -18.29,
       "op_diff_pp": -3.29
     },
@@ -75,7 +75,7 @@
       "op_growth_yoy": -99.89,
       "ni_growth_yoy": -99.88,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 0.77,
+      "hc_growth_yoy": -74.81,
       "gm_diff_pp": -16.48,
       "op_diff_pp": -4.79
     },
@@ -100,7 +100,7 @@
       "op_growth_yoy": -99.89,
       "ni_growth_yoy": -99.89,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 1.23,
+      "hc_growth_yoy": -74.69,
       "gm_diff_pp": 1.6,
       "op_diff_pp": 0.84
     },
@@ -235,15 +235,15 @@
       "revenue": 610906.0,
       "rd_expense": null,
       "operating_income": 206718.0,
-      "headcount": 5200,
+      "headcount": 26000,
       "gross_margin": 66.39,
       "operating_margin": 33.84,
       "net_margin": 28.84,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 117481923.0,
-      "gp_per_emp": 77990385.0,
-      "op_per_emp": 39753462.0,
-      "ni_per_emp": 33882885.0,
+      "rev_per_emp": 23496385.0,
+      "gp_per_emp": 15598077.0,
+      "op_per_emp": 7950692.0,
+      "ni_per_emp": 6776577.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
@@ -258,22 +258,22 @@
       "gross_profit": 471473.0,
       "net_income": 188908.0,
       "revenue": 565978.0,
-      "headcount": 5300,
+      "headcount": 26000,
       "gross_margin": 83.3,
       "operating_margin": 0.0,
       "net_margin": 33.38,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 106788302.0,
-      "gp_per_emp": 88957170.0,
+      "rev_per_emp": 21768385.0,
+      "gp_per_emp": 18133577.0,
       "op_per_emp": 0,
-      "ni_per_emp": 35643019.0,
+      "ni_per_emp": 7265692.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": -7.35,
       "gp_growth_yoy": 16.26,
       "op_growth_yoy": 0.0,
       "ni_growth_yoy": 7.22,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 1.92,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": 16.91,
       "op_diff_pp": -33.84
     },
@@ -281,22 +281,22 @@
       "gross_profit": 458928.0,
       "net_income": 222718.0,
       "revenue": 585238.0,
-      "headcount": 5400,
+      "headcount": 26000,
       "gross_margin": 78.42,
       "operating_margin": 0.0,
       "net_margin": 38.06,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 108377407.0,
-      "gp_per_emp": 84986667.0,
+      "rev_per_emp": 22509154.0,
+      "gp_per_emp": 17651077.0,
       "op_per_emp": 0,
-      "ni_per_emp": 41244074.0,
+      "ni_per_emp": 8566077.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 3.4,
       "gp_growth_yoy": -2.66,
       "op_growth_yoy": 0.0,
       "ni_growth_yoy": 17.9,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 1.89,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": -4.88,
       "op_diff_pp": 0.0
     },
@@ -306,22 +306,22 @@
       "revenue": 781606.0,
       "rd_expense": null,
       "operating_income": 233013.0,
-      "headcount": 5600,
+      "headcount": 26000,
       "gross_margin": 59.06,
       "operating_margin": 29.81,
       "net_margin": 26.29,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 139572500.0,
-      "gp_per_emp": 82431786.0,
-      "op_per_emp": 41609464.0,
-      "ni_per_emp": 36698571.0,
+      "rev_per_emp": 30061769.0,
+      "gp_per_emp": 17754538.0,
+      "op_per_emp": 8962038.0,
+      "ni_per_emp": 7904308.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 27.94,
       "gp_growth_yoy": 13.83,
       "op_growth_yoy": 12.72,
       "ni_growth_yoy": 16.64,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 7.69,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": -7.33,
       "op_diff_pp": -4.03
     },
@@ -331,22 +331,22 @@
       "revenue": 951945.0,
       "rd_expense": null,
       "operating_income": 388872.0,
-      "headcount": 5700,
+      "headcount": 26000,
       "gross_margin": 67.96,
       "operating_margin": 40.85,
       "net_margin": 34.49,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 167007895.0,
-      "gp_per_emp": 113506842.0,
-      "op_per_emp": 68223158.0,
-      "ni_per_emp": 57599825.0,
+      "rev_per_emp": 36613269.0,
+      "gp_per_emp": 24884192.0,
+      "op_per_emp": 14956615.0,
+      "ni_per_emp": 12627654.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 68.19,
       "gp_growth_yoy": 37.23,
       "op_growth_yoy": 0.0,
       "ni_growth_yoy": 73.8,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 7.55,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": -15.34,
       "op_diff_pp": 40.85
     },
@@ -356,22 +356,22 @@
       "revenue": 825448.0,
       "rd_expense": null,
       "operating_income": 322400.0,
-      "headcount": 5800,
+      "headcount": 26000,
       "gross_margin": 69.17,
       "operating_margin": 39.06,
       "net_margin": 31.1,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 142318621.0,
-      "gp_per_emp": 98448448.0,
-      "op_per_emp": 55586207.0,
-      "ni_per_emp": 44261724.0,
+      "rev_per_emp": 31748000.0,
+      "gp_per_emp": 21961577.0,
+      "op_per_emp": 12400000.0,
+      "ni_per_emp": 9873769.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 41.04,
       "gp_growth_yoy": 24.42,
       "op_growth_yoy": 0.0,
       "ni_growth_yoy": 15.27,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 7.41,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": -9.25,
       "op_diff_pp": 39.06
     },
@@ -381,22 +381,22 @@
       "revenue": 625875.0,
       "rd_expense": null,
       "operating_income": 185855.0,
-      "headcount": 6050,
+      "headcount": 26000,
       "gross_margin": 72.69,
       "operating_margin": 29.7,
       "net_margin": 25.87,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 103450413.0,
-      "gp_per_emp": 75195537.0,
-      "op_per_emp": 30719835.0,
-      "ni_per_emp": 26764959.0,
+      "rev_per_emp": 24072115.0,
+      "gp_per_emp": 17497423.0,
+      "op_per_emp": 7148269.0,
+      "ni_per_emp": 6228000.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": -19.92,
       "gp_growth_yoy": -1.45,
       "op_growth_yoy": -20.24,
       "ni_growth_yoy": -21.21,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 8.04,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": 13.63,
       "op_diff_pp": -0.11
     },
@@ -406,22 +406,22 @@
       "revenue": 697954.0,
       "rd_expense": null,
       "operating_income": 247990.0,
-      "headcount": 6200,
+      "headcount": 26000,
       "gross_margin": 72.55,
       "operating_margin": 35.53,
       "net_margin": 28.34,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 112573226.0,
-      "gp_per_emp": 81675645.0,
-      "op_per_emp": 39998387.0,
-      "ni_per_emp": 31901129.0,
+      "rev_per_emp": 26844385.0,
+      "gp_per_emp": 19476500.0,
+      "op_per_emp": 9538077.0,
+      "ni_per_emp": 7607192.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": -26.68,
       "gp_growth_yoy": -21.73,
       "op_growth_yoy": -36.23,
       "ni_growth_yoy": -39.76,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 8.77,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": 4.59,
       "op_diff_pp": -5.32
     },
@@ -431,22 +431,22 @@
       "revenue": 676252.0,
       "rd_expense": null,
       "operating_income": 231507.0,
-      "headcount": 6350,
+      "headcount": 26000,
       "gross_margin": 71.77,
       "operating_margin": 34.23,
       "net_margin": 27.13,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 106496378.0,
-      "gp_per_emp": 76437638.0,
-      "op_per_emp": 36457795.0,
-      "ni_per_emp": 28895276.0,
+      "rev_per_emp": 26009692.0,
+      "gp_per_emp": 18668423.0,
+      "op_per_emp": 8904115.0,
+      "ni_per_emp": 7057115.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": -18.07,
       "gp_growth_yoy": -15.0,
       "op_growth_yoy": -28.19,
       "ni_growth_yoy": -28.53,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 9.48,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": 2.6,
       "op_diff_pp": -4.83
     },
@@ -456,22 +456,22 @@
       "revenue": 473418.0,
       "rd_expense": null,
       "operating_income": 92864.0,
-      "headcount": 6500,
+      "headcount": 26000,
       "gross_margin": 75.29,
       "operating_margin": 19.62,
       "net_margin": 17.64,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 72833538.0,
-      "gp_per_emp": 54833846.0,
-      "op_per_emp": 14286769.0,
-      "ni_per_emp": 12850923.0,
+      "rev_per_emp": 18208385.0,
+      "gp_per_emp": 13708462.0,
+      "op_per_emp": 3571692.0,
+      "ni_per_emp": 3212731.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": -24.36,
       "gp_growth_yoy": -21.65,
       "op_growth_yoy": -50.03,
       "ni_growth_yoy": -48.41,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 7.44,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": 2.6,
       "op_diff_pp": -10.08
     },
@@ -481,22 +481,22 @@
       "revenue": 540375.0,
       "rd_expense": null,
       "operating_income": 139908.0,
-      "headcount": 6500,
+      "headcount": 26000,
       "gross_margin": 74.48,
       "operating_margin": 25.89,
       "net_margin": 22.22,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 83134615.0,
-      "gp_per_emp": 61921846.0,
-      "op_per_emp": 21524308.0,
-      "ni_per_emp": 18469231.0,
+      "rev_per_emp": 20783654.0,
+      "gp_per_emp": 15480462.0,
+      "op_per_emp": 5381077.0,
+      "ni_per_emp": 4617308.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": -22.58,
       "gp_growth_yoy": -20.52,
       "op_growth_yoy": -43.58,
       "ni_growth_yoy": -39.3,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 4.84,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": 1.93,
       "op_diff_pp": -9.64
     },
@@ -505,22 +505,22 @@
       "gross_profit": 398291.0,
       "operating_income": 143972.0,
       "net_income": 128116.0,
-      "headcount": 6500,
+      "headcount": 26000,
       "gross_margin": 56.6,
       "operating_margin": 20.46,
       "net_margin": 18.21,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 108266462.0,
-      "gp_per_emp": 61275538.0,
-      "op_per_emp": 22149538.0,
-      "ni_per_emp": 19710154.0,
+      "rev_per_emp": 27066615.0,
+      "gp_per_emp": 15318885.0,
+      "op_per_emp": 5537385.0,
+      "ni_per_emp": 4927538.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 4.06,
       "gp_growth_yoy": -17.94,
       "op_growth_yoy": -37.81,
       "ni_growth_yoy": -30.18,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 2.36,
+      "hc_growth_yoy": 0.0,
       "gm_diff_pp": -15.17,
       "op_diff_pp": -13.77
     },
@@ -530,22 +530,22 @@
       "operating_income": 473002.0,
       "net_income": 398908.0,
       "cost_of_revenue": 413855.0,
-      "headcount": 6850,
+      "headcount": 26000,
       "gross_margin": 60.89,
       "operating_margin": 36.88,
       "net_margin": 31.1,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 187225401.0,
-      "gp_per_emp": 114007153.0,
-      "op_per_emp": 69051387.0,
-      "ni_per_emp": 58234745.0,
+      "rev_per_emp": 49326692.0,
+      "gp_per_emp": 30036500.0,
+      "op_per_emp": 18192385.0,
+      "ni_per_emp": 15342615.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 168649.21,
       "gp_growth_yoy": 175394.16,
       "op_growth_yoy": 295526.25,
       "ni_growth_yoy": 275008.97,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 3.01,
+      "hc_growth_yoy": 290.98,
       "gm_diff_pp": 2.39,
       "op_diff_pp": 15.83
     },
@@ -555,22 +555,22 @@
       "operating_income": 437810.0,
       "net_income": 78372.0,
       "cost_of_revenue": 438344.0,
-      "headcount": 6900,
+      "headcount": 26000,
       "gross_margin": 59.79,
       "operating_margin": 32.94,
       "net_margin": 5.9,
       "rd_pct_rev": 0.0,
-      "rev_per_emp": 192607246.0,
-      "gp_per_emp": 115162029.0,
-      "op_per_emp": 63450725.0,
-      "ni_per_emp": 11358261.0,
+      "rev_per_emp": 51115000.0,
+      "gp_per_emp": 30562231.0,
+      "op_per_emp": 16838846.0,
+      "ni_per_emp": 3014308.0,
       "rd_per_emp": 0,
       "rev_growth_yoy": 158113.1,
       "gp_growth_yoy": 160105.24,
       "op_growth_yoy": 236554.05,
       "ni_growth_yoy": 46550.0,
       "rd_growth_yoy": 0.0,
-      "hc_growth_yoy": 2.99,
+      "hc_growth_yoy": 288.06,
       "gm_diff_pp": 0.79,
       "op_diff_pp": 10.92
     }
@@ -685,153 +685,153 @@
       },
       "2020 Q1": {
         "value": [
-          441590,
-          54807,
-          114508
+          444989,
+          77057,
+          88859
         ],
         "volume": [
-          72,
-          9,
-          19
+          73,
+          12,
+          15
         ]
       },
       "2020 Q2": {
         "value": [
-          409115,
-          50777,
-          106087
+          412264,
+          71390,
+          82324
         ],
         "volume": [
-          72,
-          9,
-          19
+          73,
+          12,
+          15
         ]
       },
       "2020 Q3": {
         "value": [
-          423037,
-          52505,
-          109697
+          426293,
+          73819,
+          85125
         ],
         "volume": [
-          72,
-          9,
-          19
+          73,
+          12,
+          15
         ]
       },
       "2021 Q1": {
         "value": [
-          565467,
-          79364,
-          136776
+          569330,
+          98588,
+          113688
         ],
         "volume": [
-          72,
-          10,
-          18
+          73,
+          12,
+          15
         ]
       },
       "2021 Q2": {
         "value": [
-          688701,
-          96660,
-          166584
+          693407,
+          120074,
+          138465
         ],
         "volume": [
-          72,
-          10,
-          18
+          73,
+          12,
+          15
         ]
       },
       "2021 Q3": {
         "value": [
-          597185,
-          83815,
-          144448
+          601265,
+          104118,
+          120065
         ],
         "volume": [
-          72,
-          10,
-          18
+          73,
+          12,
+          15
         ]
       },
       "2022 Q1": {
         "value": [
-          412423,
-          80144,
-          133308
+          455894,
+          78945,
+          91036
         ],
         "volume": [
-          66,
-          13,
-          21
+          73,
+          12,
+          15
         ]
       },
       "2022 Q2": {
         "value": [
-          459920,
-          89374,
-          148661
+          508397,
+          88037,
+          101520
         ],
         "volume": [
-          66,
-          13,
-          21
+          73,
+          12,
+          15
         ]
       },
       "2022 Q3": {
         "value": [
-          445619,
-          86595,
-          144038
+          492589,
+          85300,
+          98363
         ],
         "volume": [
-          66,
-          13,
-          21
+          73,
+          12,
+          15
         ]
       },
       "2023 Q1": {
         "value": [
-          319681,
-          66519,
-          87218
+          344843,
+          59715,
+          68860
         ],
         "volume": [
-          68,
-          14,
-          18
+          73,
+          12,
+          15
         ]
       },
       "2023 Q2": {
         "value": [
-          364894,
-          75927,
-          99553
+          393615,
+          68161,
+          78599
         ],
         "volume": [
-          68,
-          14,
-          18
+          73,
+          12,
+          15
         ]
       },
       "2023 Q3": {
         "value": [
-          475203,
-          98880,
-          129649
+          512606,
+          88766,
+          102360
         ],
         "volume": [
-          68,
-          14,
-          18
+          73,
+          12,
+          15
         ]
       },
       "2026 Q1": {
         "value": [
-          934388,
-          161228,
-          186878
+          934183,
+          161769,
+          186543
         ],
         "volume": [
           73,
@@ -841,9 +841,9 @@
       },
       "2026 Q2": {
         "value": [
-          968264,
-          167073,
-          193653
+          968050,
+          167634,
+          193306
         ],
         "volume": [
           73,

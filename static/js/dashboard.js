@@ -224,6 +224,18 @@ const COMPANY_COLORS = {
     "realtek": "#0070BA",
     "2379": "#0070BA",
     "rtk": "#0070BA",
+    "win-semi": "#0284C7",
+    "win": "#0284C7",
+    "3105": "#0284C7",
+    "3105.tw": "#0284C7",
+    "3105.two": "#0284C7",
+    "win-semiconductors": "#0284C7",
+    "stm": "#1E3A8A",
+    "stmicro": "#1E3A8A",
+    "stmicroelectronics": "#1E3A8A",
+    "st-semiconductor": "#1E3A8A",
+    "stm.pa": "#1E3A8A",
+    "stm.mi": "#1E3A8A",
 };
 
 const COMPANY_COUNTRIES = {
@@ -384,6 +396,22 @@ const COMPANY_COUNTRIES = {
     "rtk": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "realtek-semiconductor": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "realtek-semiconductor-corp": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "win-semi": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "win": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "3105": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "3105.tw": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "3105.two": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "win-semiconductors": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "win-semiconductor": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "win-semi-corp": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "stm": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "stmicro": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "stmicroelectronics": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "stmicroelectronics-n-v": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "st-semiconductor": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "st-microelectronics": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "stm.pa": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "stm.mi": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
 };
 
 const COMPANY_SECTORS = {
@@ -398,6 +426,20 @@ const COMPANY_SECTORS = {
     "globalwafers": "EQUIPMENT",
     "6488": "EQUIPMENT",
     "gwafers": "EQUIPMENT",
+    "win-semi": "FOUNDRY",
+    "win": "FOUNDRY",
+    "3105": "FOUNDRY",
+    "3105.tw": "FOUNDRY",
+    "3105.two": "FOUNDRY",
+    "win-semiconductors": "FOUNDRY",
+    "win-semiconductor": "FOUNDRY",
+    "win-semi-corp": "FOUNDRY",
+    "stm": "FOUNDRY",
+    "stmicro": "FOUNDRY",
+    "stmicroelectronics": "FOUNDRY",
+    "st-semiconductor": "FOUNDRY",
+    "stm.pa": "FOUNDRY",
+    "stm.mi": "FOUNDRY",
     // 系統組裝 / 品牌 / OEM / ODM / EMS
     "asus": "SYSTEM",
     "2357": "SYSTEM",
@@ -544,6 +586,22 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "win-semi": "win-semi",
+    "win": "win-semi",
+    "3105": "win-semi",
+    "3105.tw": "win-semi",
+    "3105.two": "win-semi",
+    "win-semiconductors": "win-semi",
+    "win-semiconductor": "win-semi",
+    "win-semi-corp": "win-semi",
+    "stm": "stm",
+    "stmicro": "stm",
+    "stmicroelectronics": "stm",
+    "stmicroelectronics-n-v": "stm",
+    "st-semiconductor": "stm",
+    "st-microelectronics": "stm",
+    "stm.pa": "stm",
+    "stm.mi": "stm",
     "sk-hynix": "sk-hynix",
     "hynix": "sk-hynix",
     "000660": "sk-hynix",
@@ -746,7 +804,7 @@ const I18N_DICT = {
     en: {
         badge_workflow: "One-Click Workflow",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-01",
+        header_updated: "Updated: 2026-09-02",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -876,7 +934,7 @@ const I18N_DICT = {
     zh: {
         badge_workflow: "一步到位工作流",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-01",
+        header_updated: "更新日期：2026-09-02",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1952,7 +2010,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1969,6 +2027,14 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+                "WIN-SEMI": "WIN Semiconductors (3105 / 穩懋半導體)",
+                "WIN": "WIN Semiconductors (3105 / 穩懋半導體)",
+                "3105": "WIN Semiconductors (3105 / 穩懋半導體)",
+                "WIN-SEMICONDUCTORS": "WIN Semiconductors (3105 / 穩懋半導體)",
+                "STM": "STMicroelectronics (STM / 意法半導體)",
+                "STMICRO": "STMicroelectronics (STM / 意法半導體)",
+                "STMICROELECTRONICS": "STMicroelectronics (STM / 意法半導體)",
+                "ST-SEMICONDUCTOR": "STMicroelectronics (STM / 意法半導體)",
                 "SK-HYNIX": "SK hynix (000660.KS / SK海力士)",
                 "HYNIX": "SK hynix (000660.KS / SK海力士)",
                 "000660": "SK hynix (000660.KS / SK海力士)",

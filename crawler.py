@@ -160,7 +160,17 @@ TICKER_SLUGS = {
     "6488": ["globalwafers", "6488", "gwafers"],
     "6488.tw": ["globalwafers", "6488", "gwafers"],
     "6488.two": ["globalwafers", "6488", "gwafers"],
-    "gwafers": ["globalwafers", "6488", "gwafers"]
+    "gwafers": ["globalwafers", "6488", "gwafers"],
+    "stm": ["stmicroelectronics", "stm"],
+    "stmicro": ["stmicroelectronics", "stm"],
+    "stmicroelectronics": ["stmicroelectronics", "stm"],
+    "st-semiconductor": ["stmicroelectronics", "stm"],
+    "win-semi": ["win-semiconductors", "win-semi", "3105"],
+    "win": ["win-semiconductors", "win-semi", "3105"],
+    "3105": ["win-semiconductors", "win-semi", "3105"],
+    "3105.tw": ["win-semiconductors", "win-semi", "3105"],
+    "3105.two": ["win-semiconductors", "win-semi", "3105"],
+    "win-semiconductors": ["win-semiconductors", "win-semi", "3105"]
 }
 
 class AnnualReportCrawler:

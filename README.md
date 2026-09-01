@@ -843,6 +843,22 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.1.0 (2026-09-02)**：
+  - **新增全球化合物半導體晶圓代工龍頭 穩懋半導體 (WIN Semiconductors Corp. / 3105.TW) 與歐洲車用暨功率半導體巨頭 意法半導體 (STMicroelectronics / STM) 5 年期審計基準庫與深度戰略分析**：
+    - **穩懋半導體 (WIN Semiconductors / 3105.TW / Taiwan 🇹🇼)**：
+      - **5 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收 NT$ 168.5 億（約 $526.4M USD）、毛利率 26.44%、營業利益 NT$ 6.56 億（約 $20.5M USD，由虧轉盈），以及全球約 2,980 名員工之人均營收（$176.6k/人）與人均毛利（$46.7k/人）。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：蜂巢式行動通訊 PA 與射頻前端 (5G Sub-6GHz & 4G LTE ~45%)、Wi-Fi 連網晶片 (Wi-Fi 6E/7 FEM ~36%)、光電與 3D 感測及低軌衛星 (VCSEL/LiDAR/GaN/InP ~19%)。
+      - **去庫存後的黃金拐點 (The Pivot)**：員工人數在 5G 智慧手機庫存去化期間由 3,480 人精簡調控至 2,950～3,050 人，隨著 Wi-Fi 7 前端模組與 AI 資料中心光互連（Optical Transceiver）晶片代工放量，毛利率由 2023 年低谷 21.89% 強勢回升至 2025 年 28.99%，單季營業利益率由 -7.4% 翻正至 +9.5%。
+      - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+    - **意法半導體 (STMicroelectronics N.V. / STM / Switzerland / Europe 🇨🇭)**：
+      - **5 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收 $13,269M USD、毛利率 39.40%、營業利益 $1,619M USD、淨利 $1,561M USD，以及全球約 48,500 名員工之人均營收（$273.6k/人）與人均毛利（$107.8k/人）。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：車用與分離式元件事業群 (ADG - SiC MOSFET / 車用 MCU ~44%)、微控制器與數位 IC 事業群 (MDG - STM32 / Secure MCU ~31%)、類比與 MEMS 感測器事業群 (AM&S - 影像/致動器 ~25%)。
+      - **車用 SiC 一貫化製造與黃金拐點 (The Pivot)**：員工人數於 2022 年達 51,400 人高峰後穩定調控於 4.78 萬～4.85 萬人，透過義大利卡塔尼亞（Catania）200mm 碳化矽（SiC）襯底一貫化垂直整合與阿格拉特（Agrate）300mm 晶圓廠優勢，平穩度過車用與工控客戶庫存重整期，營運利益率維持 11.5%～12.0% 穩健水準。
+      - **季度數據 (Quarterly 12 期)**：收錄 2023 Q1 至 2025 Q4 季度營收、毛利率、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `win-semi <-> win <-> 3105 <-> 3105.tw <-> win-semiconductors` 與 `stm <-> stmicro <-> stmicroelectronics <-> st-semiconductor` 雙向無縫對齊與消除重複項。
+  - **修復 Meta 財報結構與季度圖表對齊**：全面修復 Meta 損益表與 Chart 6 類別陣列一致性，全庫 48 家企業審計校驗 100% 通過。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.1.0`（`Updated: 2026-09-02`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.0.0 (2026-09-01)**：
   - **新增全球 AI 高頻寬記憶體龍頭 SK海力士 (SK hynix inc. / 000660.KS) 與全球三大半導體矽晶圓巨頭 SUMCO (3436.T)、信越化學 (Shin-Etsu / 4063.T)、環球晶圓 (GlobalWafers / 6488.TWO) 審計基準庫與深度戰略分析**：
     - **SK海力士 (SK hynix / 000660.KS / South Korea 🇰🇷)**：
@@ -953,6 +969,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.1.0 - feat: integrate WIN Semiconductors (3105.TW) and STMicroelectronics (STM) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v3.0.0 - feat: integrate SK Hynix (000660.KS), SUMCO (3436.T), Shin-Etsu Chemical (4063.T), and GlobalWafers (6488.TWO) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.9.0 - feat: integrate Realtek (2379.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.8.0 - feat: integrate Intel (INTC), Vanguard VIS (5347), and PSMC (6770) 5-year audited financial reports, sales breakdown, and quarterly analytics

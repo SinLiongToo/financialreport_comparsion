@@ -1,6 +1,11 @@
 {
-  "company_name": "Meta Platforms, Inc.",
+  "company_name": "Meta Platforms, Inc. (META)",
   "ticker": "META",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -16,79 +21,216 @@
   ],
   "financials": {
     "2024 Q1": {
-      "revenue": 36455,
-      "gross_profit": 29815,
-      "operating_income": 13815,
-      "net_income": 12369,
-      "rd_expense": 9979,
+      "revenue": 36455.0,
+      "gross_profit": 29815.0,
+      "operating_income": 13815.0,
+      "net_income": 12369.0,
+      "rd_expense": 9979.0,
       "headcount": 69329,
-      "gross_margin": 81.8
+      "cogs": 6640.0,
+      "gross_margin": 81.79,
+      "operating_margin": 37.9,
+      "net_margin": 33.93,
+      "rd_pct_rev": 27.37,
+      "rev_per_emp": 525826.1,
+      "gp_per_emp": 430050.9,
+      "op_per_emp": 199267.3,
+      "ni_per_emp": 178410.2,
+      "rd_per_emp": 143936.9,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
     },
     "2024 Q2": {
-      "revenue": 39071,
-      "gross_profit": 31802,
-      "operating_income": 14847,
-      "net_income": 13465,
-      "rd_expense": 10174,
+      "revenue": 39071.0,
+      "gross_profit": 31802.0,
+      "operating_income": 14847.0,
+      "net_income": 13465.0,
+      "rd_expense": 10174.0,
       "headcount": 70799,
-      "gross_margin": 81.4
+      "cogs": 7269.0,
+      "gross_margin": 81.4,
+      "operating_margin": 38.0,
+      "net_margin": 34.46,
+      "rd_pct_rev": 26.04,
+      "rev_per_emp": 551858.1,
+      "gp_per_emp": 449187.1,
+      "op_per_emp": 209706.4,
+      "ni_per_emp": 190186.3,
+      "rd_per_emp": 143702.6,
+      "rev_growth_yoy": 7.18,
+      "gp_growth_yoy": 6.66,
+      "op_growth_yoy": 7.47,
+      "ni_growth_yoy": 8.86,
+      "rd_growth_yoy": 1.95,
+      "hc_growth_yoy": 2.12,
+      "gm_diff_pp": -0.39,
+      "op_diff_pp": 0.1
     },
     "2024 Q3": {
-      "revenue": 40589,
-      "gross_profit": 33177,
-      "operating_income": 17350,
-      "net_income": 15688,
-      "rd_expense": 10398,
+      "revenue": 40589.0,
+      "gross_profit": 33177.0,
+      "operating_income": 17350.0,
+      "net_income": 15688.0,
+      "rd_expense": 10398.0,
       "headcount": 72404,
-      "gross_margin": 81.7
+      "cogs": 7412.0,
+      "gross_margin": 81.74,
+      "operating_margin": 42.75,
+      "net_margin": 38.65,
+      "rd_pct_rev": 25.62,
+      "rev_per_emp": 560590.6,
+      "gp_per_emp": 458220.5,
+      "op_per_emp": 239627.6,
+      "ni_per_emp": 216673.1,
+      "rd_per_emp": 143610.9,
+      "rev_growth_yoy": 3.89,
+      "gp_growth_yoy": 4.32,
+      "op_growth_yoy": 16.86,
+      "ni_growth_yoy": 16.51,
+      "rd_growth_yoy": 2.2,
+      "hc_growth_yoy": 2.27,
+      "gm_diff_pp": 0.34,
+      "op_diff_pp": 4.75
     },
     "2024 Q4": {
-      "revenue": 48385,
-      "gross_profit": 40160,
-      "operating_income": 23388,
-      "net_income": 20838,
-      "rd_expense": 11350,
+      "revenue": 48385.0,
+      "gross_profit": 40160.0,
+      "operating_income": 23388.0,
+      "net_income": 20838.0,
+      "rd_expense": 11350.0,
       "headcount": 74000,
-      "gross_margin": 83.0
+      "cogs": 8225.0,
+      "gross_margin": 83.0,
+      "operating_margin": 48.34,
+      "net_margin": 43.07,
+      "rd_pct_rev": 23.46,
+      "rev_per_emp": 653851.4,
+      "gp_per_emp": 542702.7,
+      "op_per_emp": 316054.1,
+      "ni_per_emp": 281594.6,
+      "rd_per_emp": 153378.4,
+      "rev_growth_yoy": 19.21,
+      "gp_growth_yoy": 21.05,
+      "op_growth_yoy": 34.8,
+      "ni_growth_yoy": 32.83,
+      "rd_growth_yoy": 9.16,
+      "hc_growth_yoy": 2.2,
+      "gm_diff_pp": 1.26,
+      "op_diff_pp": 5.59
     },
     "2025 Q1": {
-      "revenue": 44200,
-      "gross_profit": 36244,
-      "operating_income": 18564,
-      "net_income": 16350,
-      "rd_expense": 11800,
+      "revenue": 44200.0,
+      "gross_profit": 36244.0,
+      "operating_income": 18564.0,
+      "net_income": 16350.0,
+      "rd_expense": 11800.0,
       "headcount": 75500,
-      "gross_margin": 82.0
+      "cogs": 7956.0,
+      "gross_margin": 82.0,
+      "operating_margin": 42.0,
+      "net_margin": 36.99,
+      "rd_pct_rev": 26.7,
+      "rev_per_emp": 585430.5,
+      "gp_per_emp": 480053.0,
+      "op_per_emp": 245880.8,
+      "ni_per_emp": 216556.3,
+      "rd_per_emp": 156291.4,
+      "rev_growth_yoy": -8.65,
+      "gp_growth_yoy": -9.75,
+      "op_growth_yoy": -20.63,
+      "ni_growth_yoy": -21.54,
+      "rd_growth_yoy": 3.96,
+      "hc_growth_yoy": 2.03,
+      "gm_diff_pp": -1.0,
+      "op_diff_pp": -6.34
     },
     "2025 Q2": {
-      "revenue": 47500,
-      "gross_profit": 38950,
-      "operating_income": 20425,
-      "net_income": 17800,
-      "rd_expense": 12200,
+      "revenue": 47500.0,
+      "gross_profit": 38950.0,
+      "operating_income": 20425.0,
+      "net_income": 17800.0,
+      "rd_expense": 12200.0,
       "headcount": 76500,
-      "gross_margin": 82.0
+      "cogs": 8550.0,
+      "gross_margin": 82.0,
+      "operating_margin": 43.0,
+      "net_margin": 37.47,
+      "rd_pct_rev": 25.68,
+      "rev_per_emp": 620915.0,
+      "gp_per_emp": 509150.3,
+      "op_per_emp": 266993.5,
+      "ni_per_emp": 232679.7,
+      "rd_per_emp": 159477.1,
+      "rev_growth_yoy": 7.47,
+      "gp_growth_yoy": 7.47,
+      "op_growth_yoy": 10.02,
+      "ni_growth_yoy": 8.87,
+      "rd_growth_yoy": 3.39,
+      "hc_growth_yoy": 1.32,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 1.0
     },
     "2025 Q3": {
-      "revenue": 49800,
-      "gross_profit": 41085,
-      "operating_income": 21912,
-      "net_income": 19100,
-      "rd_expense": 12600,
+      "revenue": 49800.0,
+      "gross_profit": 41085.0,
+      "operating_income": 21912.0,
+      "net_income": 19100.0,
+      "rd_expense": 12600.0,
       "headcount": 77500,
-      "gross_margin": 82.5
+      "cogs": 8715.0,
+      "gross_margin": 82.5,
+      "operating_margin": 44.0,
+      "net_margin": 38.35,
+      "rd_pct_rev": 25.3,
+      "rev_per_emp": 642580.6,
+      "gp_per_emp": 530129.0,
+      "op_per_emp": 282735.5,
+      "ni_per_emp": 246451.6,
+      "rd_per_emp": 162580.6,
+      "rev_growth_yoy": 4.84,
+      "gp_growth_yoy": 5.48,
+      "op_growth_yoy": 7.28,
+      "ni_growth_yoy": 7.3,
+      "rd_growth_yoy": 3.28,
+      "hc_growth_yoy": 1.31,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 1.0
     },
     "2025 Q4": {
-      "revenue": 58500,
-      "gross_profit": 48555,
-      "operating_income": 27495,
-      "net_income": 24200,
-      "rd_expense": 13400,
+      "revenue": 58500.0,
+      "gross_profit": 48555.0,
+      "operating_income": 27495.0,
+      "net_income": 24200.0,
+      "rd_expense": 13400.0,
       "headcount": 78500,
-      "gross_margin": 83.0
+      "cogs": 9945.0,
+      "gross_margin": 83.0,
+      "operating_margin": 47.0,
+      "net_margin": 41.37,
+      "rd_pct_rev": 22.91,
+      "rev_per_emp": 745222.9,
+      "gp_per_emp": 618535.0,
+      "op_per_emp": 350254.8,
+      "ni_per_emp": 308280.3,
+      "rd_per_emp": 170700.6,
+      "rev_growth_yoy": 17.47,
+      "gp_growth_yoy": 18.18,
+      "op_growth_yoy": 25.48,
+      "ni_growth_yoy": 26.7,
+      "rd_growth_yoy": 6.35,
+      "hc_growth_yoy": 1.29,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 3.0
     }
   },
   "sales_breakdown": {
+    "units": "$M",
     "categories": [
       "Family of Apps (Advertising)",
       "Reality Labs (Quest/Ray-Ban AI)",
@@ -102,112 +244,145 @@
     "data": {
       "2024 Q1": {
         "value": [
-          35648,
-          475,
-          332
+          35648.0,
+          475.0,
+          332.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.8,
+          1.3,
+          0.9
         ]
       },
       "2024 Q2": {
         "value": [
-          38205,
-          510,
-          356
+          38205.0,
+          510.0,
+          356.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.8,
+          1.3,
+          0.9
         ]
       },
       "2024 Q3": {
         "value": [
-          39690,
-          529,
-          370
+          39690.0,
+          529.0,
+          370.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.8,
+          1.3,
+          0.9
         ]
       },
       "2024 Q4": {
         "value": [
-          47313,
-          631,
-          441
+          47350.0,
+          550.0,
+          485.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.9,
+          1.1,
+          1.0
         ]
       },
       "2025 Q1": {
         "value": [
-          43183,
-          610,
-          407
+          43200.0,
+          580.0,
+          420.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.7,
+          1.3,
+          1.0
         ]
       },
       "2025 Q2": {
         "value": [
-          46407,
-          656,
-          437
+          46450.0,
+          620.0,
+          430.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.8,
+          1.3,
+          0.9
         ]
       },
       "2025 Q3": {
         "value": [
-          48653,
-          688,
-          459
+          48700.0,
+          660.0,
+          440.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.8,
+          1.3,
+          0.9
         ]
       },
       "2025 Q4": {
         "value": [
-          57153,
-          808,
-          539
+          57200.0,
+          780.0,
+          520.0
         ],
         "volume": [
-          98,
-          1,
-          1
+          97.8,
+          1.3,
+          0.9
         ]
       }
     }
   },
   "insights": {
-    "en": {
-      "pivot": "Quarterly gross margins remain elite at 81.4%-83.0% post-Year of Efficiency headcount stabilization.",
-      "productivity": "Quarterly revenue per FTE reaches $525K-$654K ($2.1M-$2.6M annualized), showcasing top-tier digital scale.",
-      "leverage": "Quarterly operating profit expanded to $17.3B-$27.5B (38%-48% margin) powered by AI content recommendation models."
+    "the_pivot": {
+      "en": "Meta's quarterly headcount stabilized around 69k-78k while quarterly operating income expanded toward $27B+.",
+      "zh": "Meta 單季員工人數穩定於 6.9 萬至 7.8 萬人，單季營業利益大幅成長邁向 270 億美元以上。"
     },
-    "zh": {
-      "pivot": "組織效率年後員工人數精簡穩定，單季毛利率維持在 81.4%-83.0% 頂級水準。",
-      "productivity": "單季人均營收達 52.5 萬-65.4 萬美元（年化人均產值超過 210 萬-260 萬美元）。",
-      "leverage": "單季營業利益攀升至 173 億-275 億美元（營業利益率達 38%-48%），AI 推薦引擎大幅推升廣告轉換率。"
+    "productivity": {
+      "en": "Quarterly gross profit per FTE exceeded $500k/quarter ($2M+ annualized).",
+      "zh": "每季人均毛利產值超過 50 萬美元（年化逾 200 萬美元）。"
+    },
+    "value_vs_volume": {
+      "en": "Family of Apps drives >97% of total revenues with Reality Labs driving next-gen AI glasses.",
+      "zh": "應用程式家族貢獻超過 97% 營收，Reality Labs 則引領下一代 AI 智慧眼鏡。"
     }
+  },
+  "lean_maturity": {
+    "rating": "Level 5 (Cognitive AI-Driven Monetization & Infrastructure)",
+    "description": "Global hyperscale AI platform leveraging proprietary MTIA silicon, distributed cluster orchestration, and automated ad ranking engines.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Manual ad campaign moderation."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Global multi-datacenter baseline redundancy."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated server lifecycle management and cooling systems."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive",
+        "desc": "AI predictive ad bidding and real-time impression pricing."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class / Cognitive",
+        "desc": "Cognitive AI infrastructure with self-optimizing MTIA accelerators and LLaMA foundation models."
+      }
+    ]
   }
 }

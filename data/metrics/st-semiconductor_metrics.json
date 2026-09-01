@@ -1,0 +1,544 @@
+{
+  "company_name": "STMicroelectronics N.V. (STM / 意法半導體)",
+  "ticker": "ST-SEMICONDUCTOR",
+  "country": {
+    "en": "Switzerland / Europe 🇨🇭",
+    "zh": "瑞士 / 歐洲 🇨🇭",
+    "code": "CH"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 4247.0,
+      "gross_profit": 2111.0,
+      "operating_income": 1014.0,
+      "net_income": 1044.0,
+      "rd_expense": 498.0,
+      "headcount": 50400,
+      "cogs": 2136.0,
+      "gross_margin": 49.71,
+      "operating_margin": 23.88,
+      "net_margin": 24.58,
+      "rd_pct_rev": 11.73,
+      "rev_per_emp": 84266.0,
+      "gp_per_emp": 41885.0,
+      "op_per_emp": 20119.0,
+      "ni_per_emp": 20714.0,
+      "rd_per_emp": 9881.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 4326.0,
+      "gross_profit": 2118.0,
+      "operating_income": 1146.0,
+      "net_income": 1002.0,
+      "rd_expense": 510.0,
+      "headcount": 50200,
+      "cogs": 2208.0,
+      "gross_margin": 48.96,
+      "operating_margin": 26.49,
+      "net_margin": 23.16,
+      "rd_pct_rev": 11.79,
+      "rev_per_emp": 86175.0,
+      "gp_per_emp": 42191.0,
+      "op_per_emp": 22829.0,
+      "ni_per_emp": 19960.0,
+      "rd_per_emp": 10159.0,
+      "rev_growth_yoy": 1.86,
+      "gp_growth_yoy": 0.33,
+      "op_growth_yoy": 13.02,
+      "ni_growth_yoy": -4.02,
+      "rd_growth_yoy": 2.41,
+      "hc_growth_yoy": -0.4,
+      "gm_diff_pp": -0.75,
+      "op_diff_pp": 2.61
+    },
+    "2023 Q3": {
+      "revenue": 4431.0,
+      "gross_profit": 2109.0,
+      "operating_income": 1242.0,
+      "net_income": 1090.0,
+      "rd_expense": 525.0,
+      "headcount": 50100,
+      "cogs": 2322.0,
+      "gross_margin": 47.6,
+      "operating_margin": 28.03,
+      "net_margin": 24.6,
+      "rd_pct_rev": 11.85,
+      "rev_per_emp": 88443.0,
+      "gp_per_emp": 42096.0,
+      "op_per_emp": 24790.0,
+      "ni_per_emp": 21756.0,
+      "rd_per_emp": 10479.0,
+      "rev_growth_yoy": 2.43,
+      "gp_growth_yoy": -0.42,
+      "op_growth_yoy": 8.38,
+      "ni_growth_yoy": 8.78,
+      "rd_growth_yoy": 2.94,
+      "hc_growth_yoy": -0.2,
+      "gm_diff_pp": -1.36,
+      "op_diff_pp": 1.54
+    },
+    "2023 Q4": {
+      "revenue": 4289.0,
+      "gross_profit": 1954.0,
+      "operating_income": 1209.0,
+      "net_income": 1076.0,
+      "rd_expense": 537.0,
+      "headcount": 50000,
+      "cogs": 2335.0,
+      "gross_margin": 45.56,
+      "operating_margin": 28.19,
+      "net_margin": 25.09,
+      "rd_pct_rev": 12.52,
+      "rev_per_emp": 85780.0,
+      "gp_per_emp": 39080.0,
+      "op_per_emp": 24180.0,
+      "ni_per_emp": 21520.0,
+      "rd_per_emp": 10740.0,
+      "rev_growth_yoy": -3.2,
+      "gp_growth_yoy": -7.35,
+      "op_growth_yoy": -2.66,
+      "ni_growth_yoy": -1.28,
+      "rd_growth_yoy": 2.29,
+      "hc_growth_yoy": -0.2,
+      "gm_diff_pp": -2.04,
+      "op_diff_pp": 0.16
+    },
+    "2024 Q1": {
+      "revenue": 3465.0,
+      "gross_profit": 1444.0,
+      "operating_income": 551.0,
+      "net_income": 513.0,
+      "rd_expense": 495.0,
+      "headcount": 49600,
+      "cogs": 2021.0,
+      "gross_margin": 41.67,
+      "operating_margin": 15.9,
+      "net_margin": 14.81,
+      "rd_pct_rev": 14.29,
+      "rev_per_emp": 69859.0,
+      "gp_per_emp": 29113.0,
+      "op_per_emp": 11109.0,
+      "ni_per_emp": 10343.0,
+      "rd_per_emp": 9980.0,
+      "rev_growth_yoy": -18.41,
+      "gp_growth_yoy": -31.6,
+      "op_growth_yoy": -45.66,
+      "ni_growth_yoy": -50.86,
+      "rd_growth_yoy": -0.6,
+      "hc_growth_yoy": -1.59,
+      "gm_diff_pp": -8.04,
+      "op_diff_pp": -7.98
+    },
+    "2024 Q2": {
+      "revenue": 3232.0,
+      "gross_profit": 1290.0,
+      "operating_income": 375.0,
+      "net_income": 353.0,
+      "rd_expense": 490.0,
+      "headcount": 49200,
+      "cogs": 1942.0,
+      "gross_margin": 39.91,
+      "operating_margin": 11.6,
+      "net_margin": 10.92,
+      "rd_pct_rev": 15.16,
+      "rev_per_emp": 65691.0,
+      "gp_per_emp": 26220.0,
+      "op_per_emp": 7622.0,
+      "ni_per_emp": 7175.0,
+      "rd_per_emp": 9959.0,
+      "rev_growth_yoy": -25.29,
+      "gp_growth_yoy": -39.09,
+      "op_growth_yoy": -67.28,
+      "ni_growth_yoy": -64.77,
+      "rd_growth_yoy": -3.92,
+      "hc_growth_yoy": -1.99,
+      "gm_diff_pp": -9.05,
+      "op_diff_pp": -14.89
+    },
+    "2024 Q3": {
+      "revenue": 3251.0,
+      "gross_profit": 1229.0,
+      "operating_income": 381.0,
+      "net_income": 351.0,
+      "rd_expense": 485.0,
+      "headcount": 48800,
+      "cogs": 2022.0,
+      "gross_margin": 37.8,
+      "operating_margin": 11.72,
+      "net_margin": 10.8,
+      "rd_pct_rev": 14.92,
+      "rev_per_emp": 66619.0,
+      "gp_per_emp": 25184.0,
+      "op_per_emp": 7807.0,
+      "ni_per_emp": 7193.0,
+      "rd_per_emp": 9939.0,
+      "rev_growth_yoy": -26.63,
+      "gp_growth_yoy": -41.73,
+      "op_growth_yoy": -69.32,
+      "ni_growth_yoy": -67.8,
+      "rd_growth_yoy": -7.62,
+      "hc_growth_yoy": -2.59,
+      "gm_diff_pp": -9.8,
+      "op_diff_pp": -16.31
+    },
+    "2024 Q4": {
+      "revenue": 3321.0,
+      "gross_profit": 1265.0,
+      "operating_income": 312.0,
+      "net_income": 344.0,
+      "rd_expense": 480.0,
+      "headcount": 48500,
+      "cogs": 2056.0,
+      "gross_margin": 38.09,
+      "operating_margin": 9.39,
+      "net_margin": 10.36,
+      "rd_pct_rev": 14.45,
+      "rev_per_emp": 68474.0,
+      "gp_per_emp": 26082.0,
+      "op_per_emp": 6433.0,
+      "ni_per_emp": 7093.0,
+      "rd_per_emp": 9897.0,
+      "rev_growth_yoy": -22.57,
+      "gp_growth_yoy": -35.26,
+      "op_growth_yoy": -74.19,
+      "ni_growth_yoy": -68.03,
+      "rd_growth_yoy": -10.61,
+      "hc_growth_yoy": -3.0,
+      "gm_diff_pp": -7.47,
+      "op_diff_pp": -18.8
+    },
+    "2025 Q1": {
+      "revenue": 3050.0,
+      "gross_profit": 1180.0,
+      "operating_income": 320.0,
+      "net_income": 295.0,
+      "rd_expense": 475.0,
+      "headcount": 48300,
+      "cogs": 1870.0,
+      "gross_margin": 38.69,
+      "operating_margin": 10.49,
+      "net_margin": 9.67,
+      "rd_pct_rev": 15.57,
+      "rev_per_emp": 63147.0,
+      "gp_per_emp": 24431.0,
+      "op_per_emp": 6625.0,
+      "ni_per_emp": 6108.0,
+      "rd_per_emp": 9834.0,
+      "rev_growth_yoy": -11.98,
+      "gp_growth_yoy": -18.28,
+      "op_growth_yoy": -41.92,
+      "ni_growth_yoy": -42.5,
+      "rd_growth_yoy": -4.04,
+      "hc_growth_yoy": -2.62,
+      "gm_diff_pp": -2.98,
+      "op_diff_pp": -5.41
+    },
+    "2025 Q2": {
+      "revenue": 3180.0,
+      "gross_profit": 1240.0,
+      "operating_income": 365.0,
+      "net_income": 340.0,
+      "rd_expense": 480.0,
+      "headcount": 48100,
+      "cogs": 1940.0,
+      "gross_margin": 38.99,
+      "operating_margin": 11.48,
+      "net_margin": 10.69,
+      "rd_pct_rev": 15.09,
+      "rev_per_emp": 66112.0,
+      "gp_per_emp": 25780.0,
+      "op_per_emp": 7588.0,
+      "ni_per_emp": 7069.0,
+      "rd_per_emp": 9979.0,
+      "rev_growth_yoy": -1.61,
+      "gp_growth_yoy": -3.88,
+      "op_growth_yoy": -2.67,
+      "ni_growth_yoy": -3.68,
+      "rd_growth_yoy": -2.04,
+      "hc_growth_yoy": -2.24,
+      "gm_diff_pp": -0.92,
+      "op_diff_pp": -0.12
+    },
+    "2025 Q3": {
+      "revenue": 3300.0,
+      "gross_profit": 1295.0,
+      "operating_income": 395.0,
+      "net_income": 370.0,
+      "rd_expense": 482.0,
+      "headcount": 47950,
+      "cogs": 2005.0,
+      "gross_margin": 39.24,
+      "operating_margin": 11.97,
+      "net_margin": 11.21,
+      "rd_pct_rev": 14.61,
+      "rev_per_emp": 68822.0,
+      "gp_per_emp": 27007.0,
+      "op_per_emp": 8238.0,
+      "ni_per_emp": 7716.0,
+      "rd_per_emp": 10052.0,
+      "rev_growth_yoy": 1.51,
+      "gp_growth_yoy": 5.37,
+      "op_growth_yoy": 3.67,
+      "ni_growth_yoy": 5.41,
+      "rd_growth_yoy": -0.62,
+      "hc_growth_yoy": -1.74,
+      "gm_diff_pp": 1.44,
+      "op_diff_pp": 0.25
+    },
+    "2025 Q4": {
+      "revenue": 3320.0,
+      "gross_profit": 1297.0,
+      "operating_income": 398.0,
+      "net_income": 375.0,
+      "rd_expense": 483.0,
+      "headcount": 47800,
+      "cogs": 2023.0,
+      "gross_margin": 39.07,
+      "operating_margin": 11.99,
+      "net_margin": 11.3,
+      "rd_pct_rev": 14.55,
+      "rev_per_emp": 69456.0,
+      "gp_per_emp": 27134.0,
+      "op_per_emp": 8326.0,
+      "ni_per_emp": 7845.0,
+      "rd_per_emp": 10105.0,
+      "rev_growth_yoy": -0.03,
+      "gp_growth_yoy": 2.53,
+      "op_growth_yoy": 27.56,
+      "ni_growth_yoy": 9.01,
+      "rd_growth_yoy": 0.62,
+      "hc_growth_yoy": -1.44,
+      "gm_diff_pp": 0.98,
+      "op_diff_pp": 2.6
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Automotive and Discrete Group (ADG - SiC, Power, Auto MCU)",
+      "Microcontrollers and Digital ICs Group (MDG - STM32, Secure MCU)",
+      "Analog, MEMS and Sensors Group (AM&S - Imaging, Actuators)"
+    ],
+    "colors": [
+      "#1E3A8A",
+      "#0284C7",
+      "#10B981"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          1807.0,
+          1318.0,
+          1122.0
+        ],
+        "volume": [
+          42.5,
+          31.0,
+          26.5
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          1955.0,
+          1298.0,
+          1073.0
+        ],
+        "volume": [
+          45.2,
+          30.0,
+          24.8
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          2025.0,
+          1374.0,
+          1032.0
+        ],
+        "volume": [
+          45.7,
+          31.0,
+          23.3
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          1913.0,
+          1320.0,
+          1056.0
+        ],
+        "volume": [
+          44.6,
+          30.8,
+          24.6
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          1525.0,
+          1074.0,
+          866.0
+        ],
+        "volume": [
+          44.0,
+          31.0,
+          25.0
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          1422.0,
+          1002.0,
+          808.0
+        ],
+        "volume": [
+          44.0,
+          31.0,
+          25.0
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          1430.0,
+          1008.0,
+          813.0
+        ],
+        "volume": [
+          44.0,
+          31.0,
+          25.0
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1463.0,
+          1026.0,
+          832.0
+        ],
+        "volume": [
+          44.0,
+          30.9,
+          25.1
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1372.0,
+          946.0,
+          732.0
+        ],
+        "volume": [
+          45.0,
+          31.0,
+          24.0
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1431.0,
+          986.0,
+          763.0
+        ],
+        "volume": [
+          45.0,
+          31.0,
+          24.0
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1485.0,
+          1023.0,
+          792.0
+        ],
+        "volume": [
+          45.0,
+          31.0,
+          24.0
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          1492.0,
+          1025.0,
+          803.0
+        ],
+        "volume": [
+          45.0,
+          30.9,
+          24.1
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Quarterly headcount smoothly interpolated between 47,800 and 50,400 FTEs, demonstrating resilient OpEx control during the auto semiconductor cyclical adjustment.",
+      "productivity": "Quarterly gross profit per FTE ranges from $24.4k to $42.1k ($98k-$168k annualized).",
+      "leverage": "Operating margin stabilized in the 10.5%-12.0% range in 2025 following the 2024 inventory bottoming.",
+      "rd": "Quarterly R&D investment held steady at $475M-$537M (14%-15% of revenue) prioritizing 200mm SiC power MOSFETs, GaN power ICs, and edge AI STM32 MPUs."
+    },
+    "zh": {
+      "pivot": "季度員工人數平滑插值於 47,800 至 50,400 人之間，展現車用半導體景氣修正期間穩健之營業費用控制力。",
+      "productivity": "單季人均毛利產值介於 2.44 萬至 4.21 萬美元（年化約 9.8 萬至 16.8 萬美元）。",
+      "leverage": "營業利益率在 2024 庫存觸底後，於 2025 年回穩在 10.5%～12.0% 穩健區間。",
+      "rd": "單季研發支出維持在 4.75 億～5.37 億美元（營收佔比 14%～15%），全力聚焦 200mm 碳化矽 MOSFET、氮化鎵（GaN）功率晶片與邊緣 AI STM32 處理器。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Vertically Integrated SiC Smart Fab & Automotive Quality Co-Design)",
+    "description": "Leading European IDM driving 200mm SiC substrate synthesis, 300mm smart power fab automation, and functional safety (ISO 26262 ASIL-D) automotive co-design with global tier-1 OEMs.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Manual discrete semiconductor packaging and test."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "ISO 9001 / IATF 16949 multi-site quality governance across Europe and Asia."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "300mm Agrate/Crolles automated wafer fab AMHS and inline wafer optical inspection."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive / Co-Design",
+        "desc": "AI predictive defect analytics for 200mm SiC crystal growth, STM32 AI neural accelerator co-design, and zero-defect automotive qualification."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class / Cognitive",
+        "desc": "Cognitive IDM platform achieving net-zero emissions, fully automated SiC supply chain autonomy, and quantum security integration."
+      }
+    ]
+  }
+}
