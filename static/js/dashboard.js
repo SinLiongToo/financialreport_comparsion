@@ -120,6 +120,17 @@ const SCATTER_METRICS = {
 };
 
 const COMPANY_COLORS = {
+    "sk-hynix": "#E11D48",
+    "hynix": "#E11D48",
+    "000660": "#E11D48",
+    "sumco": "#0284C7",
+    "3436": "#0284C7",
+    "shin-etsu": "#3B82F6",
+    "shinetsu": "#3B82F6",
+    "4063": "#3B82F6",
+    "globalwafers": "#10B981",
+    "6488": "#10B981",
+    "gwafers": "#10B981",
     "asus": "#00539B",
     "asml": "#00A3E0",
     "tsmc": "#EF4444",
@@ -216,6 +227,28 @@ const COMPANY_COLORS = {
 };
 
 const COMPANY_COUNTRIES = {
+    "sk-hynix": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
+    "hynix": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
+    "000660": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
+    "000660.ks": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
+    "sk-hynix-inc": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
+    "sumco": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "3436": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "3436.t": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "sumco-corporation": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "sumco-corp": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "shin-etsu": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "shinetsu": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "4063": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "4063.t": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "shin-etsu-chemical": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "shin-etsu-chemical-co": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "globalwafers": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "6488": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "6488.tw": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "6488.two": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "gwafers": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
+    "globalwafers-co": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "asus": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "asustek": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
     "asustek-computer": { en: "Taiwan 🇹🇼", zh: "台灣 🇹🇼", code: "TW" },
@@ -354,6 +387,17 @@ const COMPANY_COUNTRIES = {
 };
 
 const COMPANY_SECTORS = {
+    "sk-hynix": "FABLESS",
+    "hynix": "FABLESS",
+    "000660": "FABLESS",
+    "sumco": "EQUIPMENT",
+    "3436": "EQUIPMENT",
+    "shin-etsu": "EQUIPMENT",
+    "shinetsu": "EQUIPMENT",
+    "4063": "EQUIPMENT",
+    "globalwafers": "EQUIPMENT",
+    "6488": "EQUIPMENT",
+    "gwafers": "EQUIPMENT",
     // 系統組裝 / 品牌 / OEM / ODM / EMS
     "asus": "SYSTEM",
     "2357": "SYSTEM",
@@ -500,6 +544,28 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "sk-hynix": "sk-hynix",
+    "hynix": "sk-hynix",
+    "000660": "sk-hynix",
+    "000660.ks": "sk-hynix",
+    "sk-hynix-inc": "sk-hynix",
+    "sumco": "sumco",
+    "3436": "sumco",
+    "3436.t": "sumco",
+    "sumco-corporation": "sumco",
+    "sumco-corp": "sumco",
+    "shin-etsu": "shin-etsu",
+    "shinetsu": "shin-etsu",
+    "4063": "shin-etsu",
+    "4063.t": "shin-etsu",
+    "shin-etsu-chemical": "shin-etsu",
+    "shin-etsu-chemical-co": "shin-etsu",
+    "globalwafers": "globalwafers",
+    "6488": "globalwafers",
+    "6488.tw": "globalwafers",
+    "6488.two": "globalwafers",
+    "gwafers": "globalwafers",
+    "globalwafers-co": "globalwafers",
     "asus": "asus",
     "2357": "asus",
     "asustek": "asus",
@@ -1784,7 +1850,11 @@ function syncTargetInputWithTicker(ticker) {
     const isQ = CURRENT_FREQ === "quarterly";
 
     if (isQ) {
-        if (t === "asml") input.value = "https://companiesmarketcap.com/asml/quarterly-reports/";
+        if (t === "sk-hynix" || t === "hynix" || t === "000660" || t === "000660.ks") input.value = "https://companiesmarketcap.com/sk-hynix/quarterly-reports/";
+        else if (t === "sumco" || t === "3436" || t === "3436.t") input.value = "https://companiesmarketcap.com/sumco/quarterly-reports/";
+        else if (t === "shin-etsu" || t === "shinetsu" || t === "4063" || t === "4063.t" || t === "shin-etsu-chemical") input.value = "https://companiesmarketcap.com/shin-etsu-chemical/quarterly-reports/";
+        else if (t === "globalwafers" || t === "6488" || t === "6488.tw" || t === "6488.two" || t === "gwafers") input.value = "https://companiesmarketcap.com/globalwafers/quarterly-reports/";
+        else if (t === "asml") input.value = "https://companiesmarketcap.com/asml/quarterly-reports/";
         else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/quarterly-reports/";
         else if (t === "mediatek" || t === "2454" || t === "mtk") input.value = "https://companiesmarketcap.com/mediatek/quarterly-reports/";
         else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/quarterly-reports-10q/";
@@ -1810,7 +1880,11 @@ function syncTargetInputWithTicker(ticker) {
         else if (t === "realtek" || t === "2379" || t === "rtk") input.value = "https://companiesmarketcap.com/realtek-semiconductor/quarterly-reports/";
         else input.value = `${ticker.toUpperCase()} (10-Q)`;
     } else {
-        if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
+        if (t === "sk-hynix" || t === "hynix" || t === "000660" || t === "000660.ks") input.value = "https://companiesmarketcap.com/sk-hynix/annual-reports/";
+        else if (t === "sumco" || t === "3436" || t === "3436.t") input.value = "https://companiesmarketcap.com/sumco/annual-reports/";
+        else if (t === "shin-etsu" || t === "shinetsu" || t === "4063" || t === "4063.t" || t === "shin-etsu-chemical") input.value = "https://companiesmarketcap.com/shin-etsu-chemical/annual-reports/";
+        else if (t === "globalwafers" || t === "6488" || t === "6488.tw" || t === "6488.two" || t === "gwafers") input.value = "https://companiesmarketcap.com/globalwafers/annual-reports/";
+        else if (t === "asml") input.value = "https://companiesmarketcap.com/asml/annual-reports-20f/";
         else if (t === "tsmc" || t === "tsm" || t === "2330") input.value = "https://companiesmarketcap.com/tsmc/annual-reports/";
         else if (t === "mediatek" || t === "2454" || t === "mtk") input.value = "https://companiesmarketcap.com/mediatek/annual-reports/";
         else if (t === "nvda" || t === "nvidia") input.value = "https://companiesmarketcap.com/nvidia/annual-reports/";
@@ -1878,7 +1952,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -1895,6 +1969,17 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+                "SK-HYNIX": "SK hynix (000660.KS / SK海力士)",
+                "HYNIX": "SK hynix (000660.KS / SK海力士)",
+                "000660": "SK hynix (000660.KS / SK海力士)",
+                "SUMCO": "SUMCO Corporation (3436.T / 株式會社SUMCO)",
+                "3436": "SUMCO Corporation (3436.T / 株式會社SUMCO)",
+                "SHIN-ETSU": "Shin-Etsu Chemical (4063.T / 信越化學)",
+                "SHINETSU": "Shin-Etsu Chemical (4063.T / 信越化學)",
+                "4063": "Shin-Etsu Chemical (4063.T / 信越化學)",
+                "GLOBALWAFERS": "GlobalWafers (6488.TWO / 環球晶圓)",
+                "6488": "GlobalWafers (6488.TWO / 環球晶圓)",
+                "GWAFERS": "GlobalWafers (6488.TWO / 環球晶圓)",
             "ASUS": "ASUS (2357 / 華碩電腦)",
             "2357": "ASUS (2357 / 華碩電腦)",
                 "ASML": "ASML Holding N.V.",

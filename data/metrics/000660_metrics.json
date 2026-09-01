@@ -1,0 +1,310 @@
+{
+  "company_name": "SK hynix inc. (000660.KS / 에스케이하이닉스)",
+  "ticker": "SK-HYNIX",
+  "country": {
+    "en": "South Korea 🇰🇷",
+    "zh": "韓國 🇰🇷",
+    "code": "KR"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 27034.2,
+      "cogs": 17881.2,
+      "gross_profit": 9153.0,
+      "gross_margin": 33.86,
+      "operating_income": 4248.0,
+      "operating_margin": 15.71,
+      "net_income": 4034.0,
+      "net_margin": 14.92,
+      "rd_expense": 2890.0,
+      "rd_pct_rev": 10.69,
+      "headcount": 30000,
+      "rev_per_emp": 901140.0,
+      "gp_per_emp": 305100.0,
+      "op_per_emp": 141600.0,
+      "ni_per_emp": 134467.0,
+      "rd_per_emp": 96333.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 37552.7,
+      "cogs": 21000.7,
+      "gross_profit": 16552.0,
+      "gross_margin": 44.08,
+      "operating_income": 10838.7,
+      "operating_margin": 28.86,
+      "net_income": 8398.4,
+      "net_margin": 22.36,
+      "rd_expense": 3460.5,
+      "rd_pct_rev": 9.22,
+      "headcount": 32000,
+      "rev_per_emp": 1173522.0,
+      "gp_per_emp": 517250.0,
+      "op_per_emp": 338709.0,
+      "ni_per_emp": 262450.0,
+      "rd_per_emp": 108141.0,
+      "rev_growth_yoy": 38.91,
+      "gp_growth_yoy": 80.84,
+      "op_growth_yoy": 155.1,
+      "ni_growth_yoy": 108.19,
+      "rd_growth_yoy": 19.74,
+      "hc_growth_yoy": 6.67,
+      "gm_diff_pp": 10.22,
+      "op_diff_pp": 13.15
+    },
+    "2022": {
+      "revenue": 34590.4,
+      "cogs": 22475.4,
+      "gross_profit": 12115.0,
+      "gross_margin": 35.02,
+      "operating_income": 5278.6,
+      "operating_margin": 15.26,
+      "net_income": 1737.7,
+      "net_margin": 5.02,
+      "rd_expense": 3866.8,
+      "rd_pct_rev": 11.18,
+      "headcount": 32600,
+      "rev_per_emp": 1061055.0,
+      "gp_per_emp": 371626.0,
+      "op_per_emp": 161920.0,
+      "ni_per_emp": 53304.0,
+      "rd_per_emp": 118613.0,
+      "rev_growth_yoy": -7.89,
+      "gp_growth_yoy": -26.81,
+      "op_growth_yoy": -51.3,
+      "ni_growth_yoy": -79.31,
+      "rd_growth_yoy": 11.74,
+      "hc_growth_yoy": 1.88,
+      "gm_diff_pp": -9.06,
+      "op_diff_pp": -13.6
+    },
+    "2023": {
+      "revenue": 25107.8,
+      "cogs": 25516.8,
+      "gross_profit": -409.0,
+      "gross_margin": -1.63,
+      "operating_income": -5923.6,
+      "operating_margin": -23.59,
+      "net_income": -7002.0,
+      "net_margin": -27.89,
+      "rd_expense": 3101.3,
+      "rd_pct_rev": 12.35,
+      "headcount": 33100,
+      "rev_per_emp": 758544.0,
+      "gp_per_emp": -12356.0,
+      "op_per_emp": -178961.0,
+      "ni_per_emp": -211541.0,
+      "rd_per_emp": 93695.0,
+      "rev_growth_yoy": -27.41,
+      "gp_growth_yoy": -103.38,
+      "op_growth_yoy": -212.22,
+      "ni_growth_yoy": -502.95,
+      "rd_growth_yoy": -19.8,
+      "hc_growth_yoy": 1.53,
+      "gm_diff_pp": -36.65,
+      "op_diff_pp": -38.85
+    },
+    "2024": {
+      "revenue": 48671.3,
+      "cogs": 25268.3,
+      "gross_profit": 23403.0,
+      "gross_margin": 48.08,
+      "operating_income": 17255.4,
+      "operating_margin": 35.45,
+      "net_income": 14556.5,
+      "net_margin": 29.91,
+      "rd_expense": 3640.0,
+      "rd_pct_rev": 7.48,
+      "headcount": 34500,
+      "rev_per_emp": 1410762.0,
+      "gp_per_emp": 678348.0,
+      "op_per_emp": 500157.0,
+      "ni_per_emp": 421928.0,
+      "rd_per_emp": 105507.0,
+      "rev_growth_yoy": 93.85,
+      "gp_growth_yoy": 5821.52,
+      "op_growth_yoy": 391.29,
+      "ni_growth_yoy": 307.89,
+      "rd_growth_yoy": 17.37,
+      "hc_growth_yoy": 4.23,
+      "gm_diff_pp": 49.71,
+      "op_diff_pp": 59.04
+    },
+    "2025": {
+      "revenue": 58000.0,
+      "cogs": 28500.0,
+      "gross_profit": 29500.0,
+      "gross_margin": 50.86,
+      "operating_income": 23000.0,
+      "operating_margin": 39.66,
+      "net_income": 19200.0,
+      "net_margin": 33.1,
+      "rd_expense": 4200.0,
+      "rd_pct_rev": 7.24,
+      "headcount": 35800,
+      "rev_per_emp": 1620112.0,
+      "gp_per_emp": 824022.0,
+      "op_per_emp": 642458.0,
+      "ni_per_emp": 536313.0,
+      "rd_per_emp": 117318.0,
+      "rev_growth_yoy": 19.17,
+      "gp_growth_yoy": 26.05,
+      "op_growth_yoy": 33.29,
+      "ni_growth_yoy": 31.9,
+      "rd_growth_yoy": 15.38,
+      "hc_growth_yoy": 3.77,
+      "gm_diff_pp": 2.78,
+      "op_diff_pp": 4.21
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "DRAM (HBM3E / Server DDR5 / LPDDR5T)",
+      "NAND Flash & eSSD Solutions (QLC 60TB)",
+      "Others (System IC & Packaging)"
+    ],
+    "colors": [
+      "#E11D48",
+      "#3B82F6",
+      "#10B981"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          19735,
+          6488,
+          811
+        ],
+        "volume": [
+          73,
+          24,
+          3
+        ]
+      },
+      "2021": {
+        "value": [
+          27038,
+          9388,
+          1127
+        ],
+        "volume": [
+          72,
+          25,
+          3
+        ]
+      },
+      "2022": {
+        "value": [
+          22138,
+          10723,
+          1729
+        ],
+        "volume": [
+          64,
+          31,
+          5
+        ]
+      },
+      "2023": {
+        "value": [
+          15818,
+          7783,
+          1507
+        ],
+        "volume": [
+          63,
+          31,
+          6
+        ]
+      },
+      "2024": {
+        "value": [
+          35530,
+          11195,
+          1946
+        ],
+        "volume": [
+          73,
+          23,
+          4
+        ]
+      },
+      "2025": {
+        "value": [
+          43500,
+          12180,
+          2320
+        ],
+        "volume": [
+          75,
+          21,
+          4
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "SK Hynix established its AI memory hegemony via MR-MUF (Mass Reflow Molded Underfill) packaging for HBM3 and 12-layer HBM3E, commanding over 55% global HBM share. Operating margin surged from -23.6% in 2023 to +35.5% in 2024, demonstrating massive pricing leverage as AI accelerators scaled worldwide.",
+      "zh": "SK海力士藉由MR-MUF（批量回流模塑底部填充）先進封裝技術在HBM3與12層HBM3E市場奪得過半市佔率，營業利益率從2023年的-23.6%爆發反彈至2024年的+35.5%，展現AI高頻寬記憶體帶來的強大定價槓桿。"
+    },
+    "productivity": {
+      "en": "Human capital productivity recovered aggressively in 2024, reaching $1.41M revenue/FTE and $500k operating income/FTE, powered by high-margin HBM3E and 60TB QLC enterprise SSDs for AI data centers.",
+      "zh": "人均產值在2024年大幅攀升至每位員工141萬美元營收與50萬美元營業利潤，主要受惠於AI伺服器高毛利HBM3E與60TB QLC企業級固態硬碟出貨。"
+    },
+    "value_vs_volume": {
+      "en": "Strategic reallocation of wafer capacity from commodity DRAM/NAND to premium custom HBM3E generated massive ASP expansion, decoupling revenue growth (+93.8%) from pure bit shipment volume.",
+      "zh": "將晶圓產能從標準型DRAM/NAND戰略性轉向客製化高毛利HBM3E，實現ASP大幅攀升，使營收增速(+93.8%)大幅超越位元出貨量增幅。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Advanced HBM Stacking & 3D TSV Packaging Platform)",
+    "description": "Pioneering MR-MUF advanced packaging and 321-layer 4D NAND architecture with AI-guided yield optimization.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Planar Memory Assembly",
+        "desc": "Standard 2D DRAM and wire-bonded memory chips."
+      },
+      {
+        "level": 2,
+        "name": "3D FinFET & Multi-Layer NAND",
+        "desc": "3D charge trap flash and 10nm-class DRAM process nodes."
+      },
+      {
+        "level": 3,
+        "name": "High-Density TSV Packaging",
+        "desc": "Through-Silicon Via integration for 8-high and 12-high memory stacks."
+      },
+      {
+        "level": 4,
+        "name": "Cognitive HBM & Heterogeneous Memory Subsystems",
+        "desc": "MR-MUF thermal dissipation packaging, CXL memory expansion, and PIM (Processing-in-Memory) co-design."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Giga-Fab Digital Twin",
+        "desc": "Full closed-loop zero-defect memory fab orchestration."
+      }
+    ]
+  }
+}

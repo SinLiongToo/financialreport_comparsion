@@ -1,0 +1,310 @@
+{
+  "company_name": "Shin-Etsu Chemical Co., Ltd. (4063.T / 信越化学工業)",
+  "ticker": "SHIN-ETSU",
+  "country": {
+    "en": "Japan 🇯🇵",
+    "zh": "日本 🇯🇵",
+    "code": "JP"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 14453.2,
+      "cogs": 9250.0,
+      "gross_profit": 5203.2,
+      "gross_margin": 36.0,
+      "operating_income": 3605.8,
+      "operating_margin": 24.95,
+      "net_income": 2618.9,
+      "net_margin": 18.12,
+      "rd_expense": 566.5,
+      "rd_pct_rev": 3.92,
+      "headcount": 24000,
+      "rev_per_emp": 602217.0,
+      "gp_per_emp": 216800.0,
+      "op_per_emp": 150242.0,
+      "ni_per_emp": 109121.0,
+      "rd_per_emp": 23604.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 13633.0,
+      "cogs": 8452.7,
+      "gross_profit": 5180.3,
+      "gross_margin": 38.0,
+      "operating_income": 3571.9,
+      "operating_margin": 26.2,
+      "net_income": 2674.9,
+      "net_margin": 19.62,
+      "rd_expense": 564.7,
+      "rd_pct_rev": 4.14,
+      "headcount": 24954,
+      "rev_per_emp": 546325.0,
+      "gp_per_emp": 207594.0,
+      "op_per_emp": 143139.0,
+      "ni_per_emp": 107193.0,
+      "rd_per_emp": 22630.0,
+      "rev_growth_yoy": -5.68,
+      "gp_growth_yoy": -0.44,
+      "op_growth_yoy": -0.94,
+      "ni_growth_yoy": 2.14,
+      "rd_growth_yoy": -0.32,
+      "hc_growth_yoy": 3.98,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 1.25
+    },
+    "2022": {
+      "revenue": 15774.9,
+      "cogs": 8518.6,
+      "gross_profit": 7256.3,
+      "gross_margin": 46.0,
+      "operating_income": 5143.0,
+      "operating_margin": 32.6,
+      "net_income": 3803.0,
+      "net_margin": 24.11,
+      "rd_expense": 533.8,
+      "rd_pct_rev": 3.38,
+      "headcount": 25717,
+      "rev_per_emp": 613404.0,
+      "gp_per_emp": 282160.0,
+      "op_per_emp": 199984.0,
+      "ni_per_emp": 147879.0,
+      "rd_per_emp": 20757.0,
+      "rev_growth_yoy": 15.71,
+      "gp_growth_yoy": 40.07,
+      "op_growth_yoy": 43.98,
+      "ni_growth_yoy": 42.17,
+      "rd_growth_yoy": -5.47,
+      "hc_growth_yoy": 3.06,
+      "gm_diff_pp": 8.0,
+      "op_diff_pp": 6.4
+    },
+    "2023": {
+      "revenue": 19991.5,
+      "cogs": 10195.8,
+      "gross_profit": 9795.7,
+      "gross_margin": 49.0,
+      "operating_income": 7104.6,
+      "operating_margin": 35.54,
+      "net_income": 5040.6,
+      "net_margin": 25.21,
+      "rd_expense": 605.0,
+      "rd_pct_rev": 3.03,
+      "headcount": 26450,
+      "rev_per_emp": 755822.0,
+      "gp_per_emp": 370348.0,
+      "op_per_emp": 268605.0,
+      "ni_per_emp": 190571.0,
+      "rd_per_emp": 22873.0,
+      "rev_growth_yoy": 26.73,
+      "gp_growth_yoy": 35.0,
+      "op_growth_yoy": 38.14,
+      "ni_growth_yoy": 32.54,
+      "rd_growth_yoy": 13.34,
+      "hc_growth_yoy": 2.85,
+      "gm_diff_pp": 3.0,
+      "op_diff_pp": 2.94
+    },
+    "2024": {
+      "revenue": 15992.7,
+      "cogs": 8956.3,
+      "gross_profit": 7036.4,
+      "gross_margin": 44.0,
+      "operating_income": 4851.0,
+      "operating_margin": 30.33,
+      "net_income": 3444.4,
+      "net_margin": 21.54,
+      "rd_expense": 599.3,
+      "rd_pct_rev": 3.75,
+      "headcount": 27342,
+      "rev_per_emp": 584913.0,
+      "gp_per_emp": 257348.0,
+      "op_per_emp": 177420.0,
+      "ni_per_emp": 125975.0,
+      "rd_per_emp": 21919.0,
+      "rev_growth_yoy": -20.0,
+      "gp_growth_yoy": -28.17,
+      "op_growth_yoy": -31.72,
+      "ni_growth_yoy": -31.67,
+      "rd_growth_yoy": -0.94,
+      "hc_growth_yoy": 3.37,
+      "gm_diff_pp": -5.0,
+      "op_diff_pp": -5.21
+    },
+    "2025": {
+      "revenue": 17066.7,
+      "cogs": 9557.4,
+      "gross_profit": 7509.3,
+      "gross_margin": 44.0,
+      "operating_income": 4940.0,
+      "operating_margin": 28.95,
+      "net_income": 3533.3,
+      "net_margin": 20.7,
+      "rd_expense": 633.3,
+      "rd_pct_rev": 3.71,
+      "headcount": 27800,
+      "rev_per_emp": 613910.0,
+      "gp_per_emp": 270119.0,
+      "op_per_emp": 177698.0,
+      "ni_per_emp": 127097.0,
+      "rd_per_emp": 22781.0,
+      "rev_growth_yoy": 6.72,
+      "gp_growth_yoy": 6.72,
+      "op_growth_yoy": 1.83,
+      "ni_growth_yoy": 2.58,
+      "rd_growth_yoy": 5.67,
+      "hc_growth_yoy": 1.68,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": -1.38
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Semiconductor Silicon (300mm/200mm Wafers)",
+      "Electronics & Functional Materials (Photoresist/Packaging)",
+      "Infrastructure & Specialty Chemicals (PVC/Chlor-Alkali)"
+    ],
+    "colors": [
+      "#3B82F6",
+      "#10B981",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          5058,
+          2891,
+          6504
+        ],
+        "volume": [
+          35,
+          20,
+          45
+        ]
+      },
+      "2021": {
+        "value": [
+          5180,
+          3000,
+          5453
+        ],
+        "volume": [
+          38,
+          22,
+          40
+        ]
+      },
+      "2022": {
+        "value": [
+          6310,
+          3786,
+          5679
+        ],
+        "volume": [
+          40,
+          24,
+          36
+        ]
+      },
+      "2023": {
+        "value": [
+          8996,
+          4598,
+          6397
+        ],
+        "volume": [
+          45,
+          23,
+          32
+        ]
+      },
+      "2024": {
+        "value": [
+          7676,
+          3998,
+          4319
+        ],
+        "volume": [
+          48,
+          25,
+          27
+        ]
+      },
+      "2025": {
+        "value": [
+          8363,
+          4437,
+          4267
+        ],
+        "volume": [
+          49,
+          26,
+          25
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "Shin-Etsu is the undisputed global leader in semiconductor silicon wafers (>30% market share) and EUV photoresists, paired with world #1 PVC chemical manufacturing, giving it an exceptionally robust, highly profitable multi-pillar business model.",
+      "zh": "信越化學是全球半導體矽晶圓（市佔率逾30%）與EUV光阻劑的絕對霸主，並兼具全球第一的PVC氯鹼事業，構成極具抗週期波動與高獲利能力的多元化支柱模式。"
+    },
+    "productivity": {
+      "en": "Outstanding human capital productivity with revenue per FTE consistently above $580k-$750k and operating income per FTE reaching $177k-$268k, driven by vertical raw material integration.",
+      "zh": "人均產值極為優異，每位員工營收常年維持在58萬至75萬美元，人均營業利益高達17.7萬至26.8萬美元，得益於原材料垂直整合與自動化生產。"
+    },
+    "value_vs_volume": {
+      "en": "The Semiconductor Silicon and Advanced Electronics segment accounts for ~73% of total revenue with gross margins topping 44-49%, significantly outpacing commodity chemical segments.",
+      "zh": "半導體矽晶圓與高階電子材料事業佔總營收約73%，毛利率高達44-49%，大幅超越基礎化學品事業群。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 5 (Integrated Global Material & Zero-Dislocation Silicon Hegemony)",
+    "description": "Full vertical integration from metallic silicon to monocrystalline ingot drawing, EUV photoresists, pellicles, and synthetic quartz.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Basic Chemical Synthesis",
+        "desc": "Standard industrial chemical and commodity vinyl processing."
+      },
+      {
+        "level": 2,
+        "name": "Clean Material Synthesis",
+        "desc": "High-purity electronic chemicals and basic silicone compounding."
+      },
+      {
+        "level": 3,
+        "name": "Integrated Multi-Site Production",
+        "desc": "Dual semiconductor wafer sites in Japan, USA, and Europe."
+      },
+      {
+        "level": 4,
+        "name": "EUV Material & Advanced Substrate Co-Design",
+        "desc": "ArF/EUV photoresist, photomask substrates, and extreme-flatness 300mm wafer synthesis."
+      },
+      {
+        "level": 5,
+        "name": "Cognitive Material Ecosystem",
+        "desc": "Global multi-pillar vertical hegemony with compounding R&D flywheel."
+      }
+    ]
+  }
+}

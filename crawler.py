@@ -143,7 +143,24 @@ TICKER_SLUGS = {
     "2379.tw": ["realtek-semiconductor", "realtek", "2379", "rtk"],
     "rtk": ["realtek-semiconductor", "realtek", "2379", "rtk"],
     "realtek-semiconductor": ["realtek-semiconductor", "realtek", "2379", "rtk"],
-    "realtek-semiconductor-corp": ["realtek-semiconductor", "realtek", "2379", "rtk"]
+    "realtek-semiconductor-corp": ["realtek-semiconductor", "realtek", "2379", "rtk"],
+    "sk-hynix": ["sk-hynix", "hynix", "000660"],
+    "hynix": ["sk-hynix", "hynix", "000660"],
+    "000660": ["sk-hynix", "hynix", "000660"],
+    "000660.ks": ["sk-hynix", "hynix", "000660"],
+    "sumco": ["sumco", "3436", "sumco-corporation"],
+    "3436": ["sumco", "3436", "sumco-corporation"],
+    "3436.t": ["sumco", "3436", "sumco-corporation"],
+    "shin-etsu": ["shin-etsu-chemical", "shin-etsu", "shinetsu", "4063"],
+    "shinetsu": ["shin-etsu-chemical", "shin-etsu", "shinetsu", "4063"],
+    "4063": ["shin-etsu-chemical", "shin-etsu", "shinetsu", "4063"],
+    "4063.t": ["shin-etsu-chemical", "shin-etsu", "shinetsu", "4063"],
+    "shin-etsu-chemical": ["shin-etsu-chemical", "shin-etsu", "shinetsu", "4063"],
+    "globalwafers": ["globalwafers", "6488", "gwafers"],
+    "6488": ["globalwafers", "6488", "gwafers"],
+    "6488.tw": ["globalwafers", "6488", "gwafers"],
+    "6488.two": ["globalwafers", "6488", "gwafers"],
+    "gwafers": ["globalwafers", "6488", "gwafers"]
 }
 
 class AnnualReportCrawler:

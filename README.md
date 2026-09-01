@@ -843,6 +843,28 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.0.0 (2026-09-01)**：
+  - **新增全球 AI 高頻寬記憶體龍頭 SK海力士 (SK hynix inc. / 000660.KS) 與全球三大半導體矽晶圓巨頭 SUMCO (3436.T)、信越化學 (Shin-Etsu / 4063.T)、環球晶圓 (GlobalWafers / 6488.TWO) 審計基準庫與深度戰略分析**：
+    - **SK海力士 (SK hynix / 000660.KS / South Korea 🇰🇷)**：
+      - **5 年期年度財報 (2020～2024)**：完整收錄 2024 年營收達 66.19 兆韓元（約 $48,671M USD）、毛利率 48.08%、營業利益 23.47 兆韓元（約 $17,255M USD，營業利益率 35.45%），全球約 34,500 名員工之高人均營收（$1.41M/人）與人均營業利益（$500k/人）。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：高頻寬記憶體與伺服器 DRAM (HBM3E / Server DDR5 / LPDDR5T ~73%)、企業級固態硬碟與 NAND Flash (60TB QLC eSSD ~23%)、系統 IC 與先進封裝 (~4%)。
+      - **AI 記憶體霸權與黃金拐點 (The Pivot)**：量化 MR-MUF 封裝與 12 層 HBM3E 驅動營業利益率自 2023 年 -23.59% 爆發反彈至 2024 年 +35.45% 之強大定價權與營運槓桿。
+    - **SUMCO Corporation (3436.T / Japan 🇯🇵)**：
+      - **5 年期年度財報 (2020～2024)**：收錄 2024 年營收達 3,966 億日圓（約 $2,627M USD）、毛利率 25.72%、營業利益 369 億日圓（約 $245M USD），全球 9,900 名員工之高自動化晶圓製造。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：先進 300mm (12吋) 拋光與磊晶矽晶圓 (~82%)、200mm (8吋) 與小尺寸晶圓 (~14%)、高純度多晶矽與基板 (~4%)。
+      - **先進製程 LTA 護城河**：多年期長約 (LTA) 保障 300mm 晶圓價格穩定，加速轉向 3nm/2nm GAA 奈米片所需之超平整磊晶晶圓。
+    - **信越化學 (Shin-Etsu Chemical / 4063.T / Japan 🇯🇵)**：
+      - **5 年期年度財報 (2020～2024)**：收錄 2024 年營收達 2.41 兆日圓（約 $15,993M USD）、毛利率 44.00%、營業利益 7,325 億日圓（約 $4,851M USD，營業利益率 30.33%），全球 27,342 名員工之人均營收（$585k/人）與人均營業利益（$177k/人）。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：半導體矽晶圓 (300mm/200mm ~48%)、電子與高階功能材料 (EUV光阻劑/光罩基板/封裝材料 ~25%)、基礎設施與特種化學品 (PVC/氯鹼 ~27%)。
+      - **全球矽晶圓與 EUV 材料霸主**：垂直整合金屬矽、單晶拉晶至 EUV 光阻劑，展現全週期 30%+ 營業利益率之極致抗風險護城河。
+    - **環球晶圓 (GlobalWafers Co., Ltd. / 6488.TWO / Taiwan 🇹🇼)**：
+      - **5 年期年度財報 (2020～2024)**：收錄 2024 年營收達 NT$ 626.3 億（約 $1,957M USD）、毛利率 31.62%、營業利益 NT$ 141.2 億（約 $441M USD），全球 7,084 名員工之國際化產能佈局。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：300mm (12吋) 先進矽晶圓 (~76%)、200mm (8吋) 與 150mm 矽晶圓 (~17%)、化合物半導體晶圓 (SiC & GaN ~7%)。
+      - **跨國多基地與美歐晶片法案受惠**：全球 9 國 18 處生產基地，德州與義大利 12 吋新廠享受在地化供應鏈優勢與主權補貼。
+    - **季度數據 (Quarterly 12 期)**：收錄四家公司 2023 Q1 至 2025 Q4 完整 12 季營收、毛利、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `sk-hynix <-> hynix <-> 000660 <-> 000660.ks`、`sumco <-> 3436 <-> 3436.t`、`shin-etsu <-> shinetsu <-> 4063 <-> 4063.t <-> shin-etsu-chemical`、`globalwafers <-> 6488 <-> 6488.tw <-> 6488.two <-> gwafers` 雙向完全同步。
+  - **全量產出單機版與 GitHub Pages**：已執行 `export_standalone.py` 更新 `docs/index.html` 與 `standalone_dashboard.html`，資料庫擴充至 45 家全球領先企業。
+
 - **v2.1.0 (2026-08-30)**：
   - **新增台灣電子五哥核心巨頭 緯創資通 (Wistron / 3231.TW) 與 和碩聯合科技 (Pegatron / 4938.TW) 審計基準庫與深度戰略分析**：
     - **緯創資通 (3231.TW)**：
@@ -931,6 +953,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.0.0 - feat: integrate SK Hynix (000660.KS), SUMCO (3436.T), Shin-Etsu Chemical (4063.T), and GlobalWafers (6488.TWO) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.9.0 - feat: integrate Realtek (2379.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.8.0 - feat: integrate Intel (INTC), Vanguard VIS (5347), and PSMC (6770) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.7.0 - feat: integrate Texas Instruments (TXN), Skyworks (SWKS), and Agilent (A) 5-year audited reports, sales breakdown, and quarterly analytics

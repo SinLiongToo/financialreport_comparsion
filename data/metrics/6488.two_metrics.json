@@ -1,0 +1,310 @@
+{
+  "company_name": "GlobalWafers Co., Ltd. (6488.TWO / 環球晶圓)",
+  "ticker": "GLOBALWAFERS",
+  "country": {
+    "en": "Taiwan 🇹🇼",
+    "zh": "台灣 🇹🇼",
+    "code": "TW"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 1876.6,
+      "cogs": 1179.3,
+      "gross_profit": 697.3,
+      "gross_margin": 37.16,
+      "operating_income": 518.2,
+      "operating_margin": 27.61,
+      "net_income": 444.2,
+      "net_margin": 23.67,
+      "rd_expense": 59.6,
+      "rd_pct_rev": 3.18,
+      "headcount": 6400,
+      "rev_per_emp": 293219.0,
+      "gp_per_emp": 108953.0,
+      "op_per_emp": 80969.0,
+      "ni_per_emp": 69406.0,
+      "rd_per_emp": 9313.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 2183.3,
+      "cogs": 1351.7,
+      "gross_profit": 831.6,
+      "gross_margin": 38.09,
+      "operating_income": 631.9,
+      "operating_margin": 28.94,
+      "net_income": 424.0,
+      "net_margin": 19.42,
+      "rd_expense": 69.3,
+      "rd_pct_rev": 3.17,
+      "headcount": 6700,
+      "rev_per_emp": 325866.0,
+      "gp_per_emp": 124119.0,
+      "op_per_emp": 94313.0,
+      "ni_per_emp": 63284.0,
+      "rd_per_emp": 10343.0,
+      "rev_growth_yoy": 16.34,
+      "gp_growth_yoy": 19.26,
+      "op_growth_yoy": 21.94,
+      "ni_growth_yoy": -4.55,
+      "rd_growth_yoy": 16.28,
+      "hc_growth_yoy": 4.69,
+      "gm_diff_pp": 0.93,
+      "op_diff_pp": 1.33
+    },
+    "2022": {
+      "revenue": 2358.5,
+      "cogs": 1340.6,
+      "gross_profit": 1017.9,
+      "gross_margin": 43.16,
+      "operating_income": 838.2,
+      "operating_margin": 35.54,
+      "net_income": 515.6,
+      "net_margin": 21.86,
+      "rd_expense": 76.6,
+      "rd_pct_rev": 3.25,
+      "headcount": 6950,
+      "rev_per_emp": 339353.0,
+      "gp_per_emp": 146460.0,
+      "op_per_emp": 120604.0,
+      "ni_per_emp": 74187.0,
+      "rd_per_emp": 11022.0,
+      "rev_growth_yoy": 8.02,
+      "gp_growth_yoy": 22.4,
+      "op_growth_yoy": 32.65,
+      "ni_growth_yoy": 21.6,
+      "rd_growth_yoy": 10.53,
+      "hc_growth_yoy": 3.73,
+      "gm_diff_pp": 5.07,
+      "op_diff_pp": 6.6
+    },
+    "2023": {
+      "revenue": 2271.8,
+      "cogs": 1421.6,
+      "gross_profit": 850.2,
+      "gross_margin": 37.42,
+      "operating_income": 645.0,
+      "operating_margin": 28.39,
+      "net_income": 635.7,
+      "net_margin": 27.98,
+      "rd_expense": 76.1,
+      "rd_pct_rev": 3.35,
+      "headcount": 7050,
+      "rev_per_emp": 322241.0,
+      "gp_per_emp": 120596.0,
+      "op_per_emp": 91489.0,
+      "ni_per_emp": 90170.0,
+      "rd_per_emp": 10794.0,
+      "rev_growth_yoy": -3.68,
+      "gp_growth_yoy": -16.48,
+      "op_growth_yoy": -23.05,
+      "ni_growth_yoy": 23.29,
+      "rd_growth_yoy": -0.65,
+      "hc_growth_yoy": 1.44,
+      "gm_diff_pp": -5.74,
+      "op_diff_pp": -7.15
+    },
+    "2024": {
+      "revenue": 1957.1,
+      "cogs": 1338.2,
+      "gross_profit": 618.9,
+      "gross_margin": 31.62,
+      "operating_income": 441.2,
+      "operating_margin": 22.54,
+      "net_income": 307.5,
+      "net_margin": 15.71,
+      "rd_expense": 76.6,
+      "rd_pct_rev": 3.91,
+      "headcount": 7084,
+      "rev_per_emp": 276270.0,
+      "gp_per_emp": 87366.0,
+      "op_per_emp": 62281.0,
+      "ni_per_emp": 43408.0,
+      "rd_per_emp": 10813.0,
+      "rev_growth_yoy": -13.85,
+      "gp_growth_yoy": -27.21,
+      "op_growth_yoy": -31.6,
+      "ni_growth_yoy": -51.63,
+      "rd_growth_yoy": 0.66,
+      "hc_growth_yoy": 0.48,
+      "gm_diff_pp": -5.8,
+      "op_diff_pp": -5.85
+    },
+    "2025": {
+      "revenue": 2125.0,
+      "cogs": 1381.2,
+      "gross_profit": 743.8,
+      "gross_margin": 35.0,
+      "operating_income": 531.3,
+      "operating_margin": 25.0,
+      "net_income": 425.0,
+      "net_margin": 20.0,
+      "rd_expense": 82.8,
+      "rd_pct_rev": 3.9,
+      "headcount": 7200,
+      "rev_per_emp": 295139.0,
+      "gp_per_emp": 103306.0,
+      "op_per_emp": 73792.0,
+      "ni_per_emp": 59028.0,
+      "rd_per_emp": 11500.0,
+      "rev_growth_yoy": 8.58,
+      "gp_growth_yoy": 20.18,
+      "op_growth_yoy": 20.42,
+      "ni_growth_yoy": 38.21,
+      "rd_growth_yoy": 8.09,
+      "hc_growth_yoy": 1.64,
+      "gm_diff_pp": 3.38,
+      "op_diff_pp": 2.46
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "300mm (12-inch) Silicon Wafers (EPI/Polished)",
+      "200mm (8-inch) & 150mm Silicon Wafers",
+      "Compound Semiconductor Wafers (SiC & GaN)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#EC4899"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          1314,
+          469,
+          94
+        ],
+        "volume": [
+          70,
+          25,
+          5
+        ]
+      },
+      "2021": {
+        "value": [
+          1550,
+          524,
+          109
+        ],
+        "volume": [
+          71,
+          24,
+          5
+        ]
+      },
+      "2022": {
+        "value": [
+          1745,
+          495,
+          118
+        ],
+        "volume": [
+          74,
+          21,
+          5
+        ]
+      },
+      "2023": {
+        "value": [
+          1704,
+          432,
+          136
+        ],
+        "volume": [
+          75,
+          19,
+          6
+        ]
+      },
+      "2024": {
+        "value": [
+          1487,
+          333,
+          137
+        ],
+        "volume": [
+          76,
+          17,
+          7
+        ]
+      },
+      "2025": {
+        "value": [
+          1636,
+          340,
+          149
+        ],
+        "volume": [
+          77,
+          16,
+          7
+        ]
+      }
+    }
+  },
+  "insights": {
+    "the_pivot": {
+      "en": "GlobalWafers ranks as the world's #3 silicon wafer manufacturer with 18 facilities across 9 countries, expanding US mega-fabs in Texas and Italy to capture sovereign semiconductor subsidies under the US CHIPS Act and EU Chips Act.",
+      "zh": "環球晶圓為全球第三大矽晶圓製造商，在9個國家擁有18個生產據點，透過在美國德州與義大利擴建12吋先進新廠，享有美歐晶片法案補貼與在地化供應優勢。"
+    },
+    "productivity": {
+      "en": "Maintains solid human capital productivity of $276k-$339k revenue per FTE with highly disciplined OpEx management and long-term customer prepayments.",
+      "zh": "維持每位員工27.6萬至33.9萬美元的穩健人均營收，仰賴嚴謹的營運費用控管與客戶長期預付款保障。"
+    },
+    "value_vs_volume": {
+      "en": "High-margin 300mm advanced wafers and compound semiconductors (SiC/GaN) account for >83% of total revenue, insulating profitability against mature wafer cycles.",
+      "zh": "高毛利12吋先進晶圓與化合物半導體(SiC/GaN)佔總營收逾83%，有效抵禦成熟製程晶圓的價格波動。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 4 (Global Multi-Continent Mega-Fab & Compound Substrate Platform)",
+    "description": "Global multi-site 12-inch smart fab platform with localized supply resilience and next-generation 8-inch SiC crystal growth.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Regional Wafer Fabrication",
+        "desc": "Basic slicing and regional single-site wafer finishing."
+      },
+      {
+        "level": 2,
+        "name": "Multi-National Acquisition Integration",
+        "desc": "Integration of Topsil, SunEdison, and regional wafer sites."
+      },
+      {
+        "level": 3,
+        "name": "Global LTA & Cleanroom Automation",
+        "desc": "18 global sites with high customer prepayment long-term contract backing."
+      },
+      {
+        "level": 4,
+        "name": "Sovereign Mega-Fab & Compound Co-Design",
+        "desc": "US Sherman mega-fab, European 300mm expansion, and 8-inch SiC/GaN material synthesis."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Wafer Supply Network",
+        "desc": "Real-time AI supply chain allocation across multi-continent GigaFabs."
+      }
+    ]
+  }
+}

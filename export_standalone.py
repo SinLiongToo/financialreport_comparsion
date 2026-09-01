@@ -117,7 +117,7 @@ def build_markdown_db():
                 md_db[company_folder.lower()] = md_db[canon]
 
     # Generate synthetic overview for companies without parsed MD files
-    for comp in ["asus", "quanta", "wistron", "pegatron", "merck-kgaa", "ma-tek", "avgo", "lrcx", "txn", "swks", "agilent", "intc", "vis", "psmc", "realtek", "asml", "tsmc", "mediatek", "nvda", "googl", "aapl", "amd", "mu", "klac", "ter", "ase", "nxp", "vsh", "msft", "amat", "meta", "amzn", "pltr", "advantest", "samsung"]:
+    for comp in ["sk-hynix", "sumco", "shin-etsu", "globalwafers", "asus", "quanta", "wistron", "pegatron", "merck-kgaa", "ma-tek", "avgo", "lrcx", "txn", "swks", "agilent", "intc", "vis", "psmc", "realtek", "asml", "tsmc", "mediatek", "nvda", "googl", "aapl", "amd", "mu", "klac", "ter", "ase", "nxp", "vsh", "msft", "amat", "meta", "amzn", "pltr", "advantest", "samsung"]:
         if comp not in md_db or len(md_db[comp]) == 0:
             md_db[comp] = {
                 f"{comp.upper()}_2024_10-K_Executive_Summary.md": f"# {comp.upper()} Annual Report (10-K/20-F) Financial Summary\n\n- **Audited Source**: Official SEC Filing & Annual Report Database\n- **Status**: Complete strategic financial metrics, headcount & segment breakdown compiled into dashboard in-memory database.\n\n### Key Metrics:\n- Please view the interactive charts on the dashboard for multi-year trends and FTE productivity."
