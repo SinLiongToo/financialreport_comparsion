@@ -1,6 +1,6 @@
 {
   "company_name": "Microsoft Corporation",
-  "ticker": "MICROSOFT",
+  "ticker": "MSFT",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -908,4 +908,7 @@
       "leverage": "單季營業利益率穩定在 43.1%-46.6% 區間，印證 Copilot AI 商業化快速轉換為實質利潤。",
       "rd": "單季研發維持在 75 億-86 億美元高強度，全力加速生成式 AI Agent 與 Azure 雲端超級運算架構。",
       "growth": "Azure 智慧雲端連續數季維持 28%-33% 的高年增成長曲線。",
-      "breakdown": "智慧雲端事業群每季穩定貢獻超過 43% 營收總額，為集團最高毛利與獲利�
+      "breakdown": "智慧雲端事業群每季穩定貢獻超過 43% 營收總額，為集團最高毛利與獲利核心引擎。"
+    }
+  }
+}

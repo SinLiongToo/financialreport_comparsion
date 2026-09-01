@@ -1,6 +1,6 @@
 {
   "company_name": "Micron Technology, Inc.",
-  "ticker": "MICRON",
+  "ticker": "MU",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -920,4 +920,6 @@
       "rd": "單季研發支出維持於 $8.8 億-$9.8 億美元/季。",
       "growth": "運算與網路事業部單季營收年增 80%+。",
       "breakdown": "DRAM 產品貢獻超過 71% 單季總產值。"
- 
+    }
+  }
+}

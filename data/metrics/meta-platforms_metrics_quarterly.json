@@ -342,16 +342,16 @@
   },
   "insights": {
     "the_pivot": {
-      "en": "Meta's quarterly headcount stabilized around 69k-78k while quarterly operating income expanded toward $27B+.",
-      "zh": "Meta 單季員工人數穩定於 6.9 萬至 7.8 萬人，單季營業利益大幅成長邁向 270 億美元以上。"
+      "en": "Meta's Year of Efficiency flattened headcount by over 20% in 2023 while gross profit expanded rapidly through AI recommendation architecture and GPU automation.",
+      "zh": "Meta 效率之年使員工人數精簡逾 20%，同時透過 AI 推薦架構與 GPU 算力自動化使毛利大幅躍升。"
     },
     "productivity": {
-      "en": "Quarterly gross profit per FTE exceeded $500k/quarter ($2M+ annualized).",
-      "zh": "每季人均毛利產值超過 50 萬美元（年化逾 200 萬美元）。"
+      "en": "Revenue per FTE surpassed $2.2M in 2024, placing Meta among the most productive hyperscalers globally.",
+      "zh": "2024 年人均營收突破 220 萬美元，位居全球產值最高之超大規模雲端科技企業之列。"
     },
     "value_vs_volume": {
-      "en": "Family of Apps drives >97% of total revenues with Reality Labs driving next-gen AI glasses.",
-      "zh": "應用程式家族貢獻超過 97% 營收，Reality Labs 則引領下一代 AI 智慧眼鏡。"
+      "en": "Advertising monetizes 3.27B daily active people while open-source LLaMA models power the next-generation AI assistant ecosystem.",
+      "zh": "廣告業務驅動每日 32.7 億活躍用戶變現，同時開源 LLaMA 大模型奠定下一代 AI 智慧助理生態。"
     }
   },
   "lean_maturity": {
