@@ -843,6 +843,15 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.4.0 (2026-09-02)**：
+  - **新增多企業對標面板「一鍵收合 / 展開」功能 (1-Click Grid Collapse / Expand)**：
+    - 於「多企業橫向同業對標」控制列右上角新增收合按鈕（`#toggleCompareGridBtn` / `一鍵收合 (Collapse Grid)`），可一鍵收合 52 家企業多選卡片與國家/產業過濾面板（`#compareGridCollapsibleBody`），大幅節省垂直瀏覽空間，使下方 4 大對標圖表、散佈圖與對標矩陣一覽無遺。
+    - 支援流暢 CSS 動畫折疊、Chevron 圖示同步切換與中英文雙語標籤。
+  - **全面更新專案技能庫 (Skill) 與自主執行準則 (Rule)**：
+    - **`AGENTS.md`**：新增「第 9 條：多企業選擇器一鍵收合規範」與「第 10 條：產業戰略洞察與深度研究筆記維護規範」，嚴格規範別名 0 重複與緊湊 UX 標準。
+    - **`financial-report-multiformat-analyzer` Skill**：新增「第 6 節：前沿 AI 與國防軍工 (Military AI) 深度財務分析標準」，完整記錄高毛利 vs 低營益率財務悖論、US GAAP 算力研發費用化與 Palantir 獲利拐點藍圖。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.4.0`（`Updated: 2026-09-02`），重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.3.1 (2026-09-02)**：
   - **修復橫向對標矩陣 (Peer Benchmark Matrix) 與多選卡片別名重複項 (Deduplication Fix)**：
     - **根本原因**：`export_standalone.py` 在打包單機版靜態數據庫時注入了完整的雙向別名（如 `anthropic-pbc`, `claude-ai`, `ondas-holdings-inc`, `chat-gpt` 等），而前端 `TICKER_CANONICAL_MAP` 字典未全量包含這些長別名，導致前端 `FinancialMetricsExtractor_canonical_ticker` 將未匹配之別名當作獨立公司載入，造成對標矩陣中出現多筆重複列（例如 Anthropic 顯示 3 列、Ondas 顯示 2 列等）。
@@ -1022,6 +1031,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.4.0 - feat: add 1-click collapse/expand for company selector grid and update AGENTS.md rules and financial-report-multiformat-analyzer skill
 * commit v3.3.1 - fix: eliminate duplicate company rows in peer benchmark matrix by fully synchronizing TICKER_CANONICAL_MAP and adding dual-layer deduplication
 * commit v3.3.0 - feat: add dedicated Industry Strategic Insights & Research Notes tab with interactive AI and defense OpEx analysis
 * commit v3.2.0 - feat: add Ondas, Anthropic, ChatGPT (OpenAI), Shield AI, and Anduril with dedicated Military AI sector

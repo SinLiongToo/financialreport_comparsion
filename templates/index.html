@@ -28,7 +28,7 @@
                         Financial & OpEx Strategic Dashboard
                         <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2 py-0.5 rounded-full font-medium" data-i18n="badge_workflow">One-Click Workflow</span>
                         <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm">
-                            <i class="fa-solid fa-code-branch text-[10px]"></i> v3.3.1
+                            <i class="fa-solid fa-code-branch text-[10px]"></i> v3.4.0
                         </span>
                         <span class="text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-2 py-0.5 rounded-full font-normal inline-flex items-center gap-1">
                             <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-02</span>
@@ -484,59 +484,66 @@
                         </h2>
                         <p class="text-xs text-slate-400 mt-0.5" data-i18n="compare_selector_subtitle">Select 2 or more companies to compare Gross Margin, Productivity, Operating Leverage & R&D Intensity</p>
                     </div>
-                    <div class="flex items-center space-x-2">
+                    <div class="flex flex-wrap items-center gap-2">
                         <button id="selectAllCompareBtn" class="bg-slate-700 hover:bg-slate-600 text-xs text-slate-200 px-3 py-1.5 rounded-lg transition-all" data-i18n="btn_select_all">Select All</button>
                         <button id="selectFilteredCompareBtn" class="bg-indigo-600 hover:bg-indigo-500 text-xs text-white px-3 py-1.5 rounded-lg transition-all font-semibold shadow-sm flex items-center gap-1">
                             <i class="fa-solid fa-filter text-[10px]"></i>
                             <span data-i18n="btn_select_filtered">Select Filtered Only</span>
                         </button>
                         <button id="clearAllCompareBtn" class="bg-slate-700 hover:bg-slate-600 text-xs text-slate-300 px-3 py-1.5 rounded-lg transition-all" data-i18n="btn_clear">Clear</button>
+                        <button id="toggleCompareGridBtn" class="bg-slate-700 hover:bg-slate-600 text-xs text-amber-300 hover:text-amber-200 px-3 py-1.5 rounded-lg transition-all font-semibold flex items-center gap-1.5 border border-slate-600 shadow-sm cursor-pointer" title="一鍵收合/展開企業選取面板 | Toggle Collapse/Expand Selector Grid">
+                            <i id="toggleGridIcon" class="fa-solid fa-chevron-up"></i>
+                            <span id="toggleGridLabel" data-i18n="btn_collapse_grid">Collapse Grid</span>
+                        </button>
                     </div>
                 </div>
 
-                <!-- Interactive Filters: Country & Industry/Sector Control Panels -->
-                <div class="space-y-3 mb-4 bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/70">
-                    <!-- Country Filter Row -->
-                    <div class="flex flex-col sm:flex-row sm:items-center gap-2">
-                        <span class="text-xs font-semibold text-slate-300 flex items-center gap-1.5 min-w-[120px]">
-                            <i class="fa-solid fa-earth-americas text-blue-400"></i>
-                            <span data-i18n="filter_country_label">Country Region:</span>
-                        </span>
-                        <div class="flex flex-wrap gap-1.5" id="compareCountryFilterGroup">
-                            <button type="button" data-country="ALL" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-indigo-600 text-white shadow-sm" data-i18n="filter_all_regions">All Regions</button>
-                            <button type="button" data-country="TW" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇹🇼 台灣 (Taiwan)</button>
-                            <button type="button" data-country="US" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇺🇸 美國 (USA)</button>
-                            <button type="button" data-country="CH" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇨🇭 瑞士/歐洲 (STM/Europe)</button>
-                            <button type="button" data-country="NL" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇳🇱 荷蘭 (Netherlands)</button>
-                            <button type="button" data-country="DE" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇩🇪 德國 (Germany)</button>
-                            <button type="button" data-country="JP" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇯🇵 日本 (Japan)</button>
-                            <button type="button" data-country="KR" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇰🇷 南韓 (Korea)</button>
-                            <button type="button" data-country="UK" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇬🇧 英國 (UK)</button>
+                <!-- Collapsible Body Container (Filters & Company Card Grid) -->
+                <div id="compareGridCollapsibleBody" class="transition-all duration-300 ease-in-out">
+                    <!-- Interactive Filters: Country & Industry/Sector Control Panels -->
+                    <div class="space-y-3 mb-4 bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/70">
+                        <!-- Country Filter Row -->
+                        <div class="flex flex-col sm:flex-row sm:items-center gap-2">
+                            <span class="text-xs font-semibold text-slate-300 flex items-center gap-1.5 min-w-[120px]">
+                                <i class="fa-solid fa-earth-americas text-blue-400"></i>
+                                <span data-i18n="filter_country_label">Country Region:</span>
+                            </span>
+                            <div class="flex flex-wrap gap-1.5" id="compareCountryFilterGroup">
+                                <button type="button" data-country="ALL" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-indigo-600 text-white shadow-sm" data-i18n="filter_all_regions">All Regions</button>
+                                <button type="button" data-country="TW" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇹🇼 台灣 (Taiwan)</button>
+                                <button type="button" data-country="US" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇺🇸 美國 (USA)</button>
+                                <button type="button" data-country="CH" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇨🇭 瑞士/歐洲 (STM/Europe)</button>
+                                <button type="button" data-country="NL" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇳🇱 荷蘭 (Netherlands)</button>
+                                <button type="button" data-country="DE" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇩🇪 德國 (Germany)</button>
+                                <button type="button" data-country="JP" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇯🇵 日本 (Japan)</button>
+                                <button type="button" data-country="KR" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇰🇷 南韓 (Korea)</button>
+                                <button type="button" data-country="UK" class="compare-country-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700">🇬🇧 英國 (UK)</button>
+                            </div>
+                        </div>
+
+                        <!-- Sector / Industry Filter Row -->
+                        <div class="flex flex-col sm:flex-row sm:items-center gap-2 pt-2 border-t border-slate-800/80">
+                            <span class="text-xs font-semibold text-slate-300 flex items-center gap-1.5 min-w-[120px]">
+                                <i class="fa-solid fa-industry text-amber-400"></i>
+                                <span data-i18n="filter_sector_label">Industry Sector:</span>
+                            </span>
+                            <div class="flex flex-wrap gap-1.5" id="compareSectorFilterGroup">
+                                <button type="button" data-sector="ALL" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-amber-600 text-white shadow-sm" data-i18n="filter_all_sectors">All Sectors</button>
+                                <button type="button" data-sector="SYSTEM" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_system">💻 系統組裝 / ODM (System)</button>
+                                <button type="button" data-sector="FOUNDRY" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_foundry">⚡ 晶圓製造 / IDM (Foundry)</button>
+                                <button type="button" data-sector="FABLESS" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_fabless">🧠 IC設計 / Fabless (Chips)</button>
+                                <button type="button" data-sector="EQUIPMENT" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_equipment">🔬 半導體製造設備 / 材料 (Fab Tools)</button>
+                                <button type="button" data-sector="TESTING" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_testing">🧪 半導體測試 / 封測 / 分析 (Testing/OSAT)</button>
+                                <button type="button" data-sector="HYPERSCALE" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_hyperscale">☁️ 雲端軟體 / AI (Hyperscalers)</button>
+                                <button type="button" data-sector="MILITARY" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_military">🛡️ 國防軍工 / 國防 AI (Military AI)</button>
+                            </div>
                         </div>
                     </div>
 
-                    <!-- Sector / Industry Filter Row -->
-                    <div class="flex flex-col sm:flex-row sm:items-center gap-2 pt-2 border-t border-slate-800/80">
-                        <span class="text-xs font-semibold text-slate-300 flex items-center gap-1.5 min-w-[120px]">
-                            <i class="fa-solid fa-industry text-amber-400"></i>
-                            <span data-i18n="filter_sector_label">Industry Sector:</span>
-                        </span>
-                        <div class="flex flex-wrap gap-1.5" id="compareSectorFilterGroup">
-                            <button type="button" data-sector="ALL" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-amber-600 text-white shadow-sm" data-i18n="filter_all_sectors">All Sectors</button>
-                            <button type="button" data-sector="SYSTEM" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_system">💻 系統組裝 / ODM (System)</button>
-                            <button type="button" data-sector="FOUNDRY" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_foundry">⚡ 晶圓製造 / IDM (Foundry)</button>
-                            <button type="button" data-sector="FABLESS" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_fabless">🧠 IC設計 / Fabless (Chips)</button>
-                            <button type="button" data-sector="EQUIPMENT" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_equipment">🔬 半導體製造設備 / 材料 (Fab Tools)</button>
-                            <button type="button" data-sector="TESTING" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_testing">🧪 半導體測試 / 封測 / 分析 (Testing/OSAT)</button>
-                            <button type="button" data-sector="HYPERSCALE" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_hyperscale">☁️ 雲端軟體 / AI (Hyperscalers)</button>
-                        <button type="button" data-sector="MILITARY" class="compare-sector-btn px-2.5 py-1 text-xs rounded-lg font-medium transition-all bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="sector_military">🛡️ 國防軍工 / 國防 AI (Military AI)</button>
-                        </div>
+                    <!-- Company Checkbox Grid -->
+                    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2.5" id="compareCheckboxGrid">
+                        <!-- Checkboxes will be populated dynamically -->
                     </div>
-                </div>
-
-                <!-- Company Checkbox Grid -->
-                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2.5" id="compareCheckboxGrid">
-                    <!-- Checkboxes will be populated dynamically -->
                 </div>
             </section>
 

@@ -265,3 +265,29 @@ When user triggers Fullscreen Zoom on Chart 6:
    - Standard palette: Body `#d8e0e9`, Header `#e8edf4`, Cards `#eaf0f6`, Sub-panels/Tables `#dde5ee`, Buttons `#d6dfe8`, Borders `#c8d4e0`/`#b0bfcf`.
 2. **Plotly Solid Background Requirement**:
    - `extractCleanLayout()` must apply solid theme-aware backgrounds (`plotBg`: `#dde5ee`, `paperBg`: `#e8edf4` in Light mode; `#0f172a` in Dark mode) rather than `"transparent"` to preserve axis and label contrast.
+
+
+---
+
+## 6. Frontier AI & Defense Systems (Military AI) Analytics Standard
+
+### A. Frontier AI Foundation Model Economics (Anthropic, OpenAI / ChatGPT)
+- **High Gross Margin vs. Depressed Operating Margin Financial Paradox**:
+  - **Gross Margin (55%–85%)**: COGS only comprises runtime token inference, API delivery bandwidth, and customer cloud hosting.
+  - **Operating Deficit (-114% to -4%)**: Under US GAAP, multi-billion-dollar pre-training compute cluster runs (H100/B200 GPU farms) are categorized as exploratory R&D and MUST be expensed immediately in current-period OpEx (not capitalized on the balance sheet).
+  - **Talent Compensation**: Frontier research scientists and kernel engineers command \$1M–\$3M+ packages in salary and stock-based compensation (SBC).
+
+### B. Defense & Military AI Systems (Shield AI, Anduril, Ondas, Palantir)
+- **Long Hardware Prototyping to DoD Production Scaling Cycle**:
+  - Companies like Anduril (Roadrunner, Fury) and Shield AI (V-BAT, Hivemind) self-fund initial hardware prototyping and airframe testing.
+  - As software licensing (Lattice OS, Hivemind) scales into DoD Programs of Record (PoR), operating margins rapidly compress their deficits (-70% $ightarrow$ -4.1% in 2025).
+  - **Dual-Sector Multi-Token Matching**: Classified under both `MILITARY` and `HYPERSCALE` sectors to support dual-view cross-comparison.
+
+---
+
+## 7. Collapsible Selector UX & Strategic Insights Repository Standard
+
+1. **Collapsible Multi-Entity Selector (`#compareGridCollapsibleBody`)**:
+   - Offers 1-click collapse (`#toggleCompareGridBtn`) to conceal the 52-company card matrix and focus user view on comparative charts and tables.
+2. **Industry Strategic Insights & Notes Archive (`#insightsViewContainer`)**:
+   - Archives qualitative and quantitative findings with live keyword search and 1-click Markdown copying for LLMs.

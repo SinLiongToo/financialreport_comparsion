@@ -976,6 +976,8 @@ const I18N_DICT = {
         btn_select_all: "Select All",
         btn_select_filtered: "Select Filtered Only",
         btn_clear: "Clear",
+        btn_collapse_grid: "Collapse Grid",
+        btn_expand_grid: "Expand Grid",
         filter_country_label: "Country Region:",
         filter_sector_label: "Industry Sector:",
         filter_all_regions: "All Regions",

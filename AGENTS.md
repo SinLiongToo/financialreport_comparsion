@@ -110,3 +110,34 @@
 
 
 
+
+
+---
+
+## 🗜️ 9. Collapsible Multi-Company Benchmark Selector & Compact UI Standard (多企業選擇器一鍵收合規範)
+
+- **One-Click Grid Collapse/Expand (`#toggleCompareGridBtn`)**:
+  When scaling the corporate catalog beyond 50+ entities, the Multi-Company Peer Benchmark Selection panel MUST provide an instant 1-click toggle button (`#toggleCompareGridBtn`) allowing users to seamlessly collapse/expand the entire filter & company card grid (`#compareGridCollapsibleBody`).
+- **Dynamic State & Icon Synchronization**:
+  - **Expanded State**: Icon `fa-chevron-up`, label `Collapse Grid` / `一鍵收合`.
+  - **Collapsed State**: Icon `fa-chevron-down`, label `Expand Grid` / `一鍵展開`, with subtle amber accent border highlighting that filters are hidden while keeping chart visualizations front and center.
+- **Zero-Layout-Shift Guarantee**:
+  Collapsing the selector panel must immediately free up screen vertical space for Plots 1–5 and the Peer Benchmark Matrix without triggering chart redraw anomalies or losing user checkbox state.
+
+---
+
+## 💡 10. Industry Strategic Insights & Research Notes Archive Directive (產業戰略洞察與深度研究筆記維護規範)
+
+- **Dedicated Insights Tab Architecture (`#tabInsightsView` / `#insightsViewContainer`)**:
+  The dashboard features a 3-way top navigation bar (`Single Deep Dive` | `Peer Comparison` | `Industry Strategic Insights & Notes`).
+- **Standardized Research Note Schema**:
+  Every archived research note MUST contain:
+  1. Category Tagging (`AI_DEFENSE`, `SEMICONDUCTORS`, `HARDWARE`, etc.).
+  2. Timestamp and Authoritative Headline.
+  3. Quantitative Financial Benchmark Matrix with Rev/FTE, Gross Margin %, and OpEx breakdowns.
+  4. Core Structural Drivers & US GAAP / IFRS accounting mechanisms (e.g., Pre-training compute R&D expensing, talent SBC, hardware-to-software defense cycles).
+  5. Strategic Transition Roadmap (The Palantir Blueprint & Inflection Point).
+- **Interactive Capabilities**:
+  - Live category pills filter (`#insightsCategoryPills`).
+  - Instant keyword search input (`#insightsSearchInput`).
+  - 1-Click Copy Note Markdown (`.copy-single-note-btn`) formatted for instant injection into Gemini / Claude / ChatGPT.
