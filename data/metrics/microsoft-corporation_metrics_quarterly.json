@@ -1,6 +1,6 @@
 {
   "company_name": "Microsoft Corporation",
-  "ticker": "MICROSOFT-CORP",
+  "ticker": "MSFT",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -13,6 +13,7 @@
     "2022 Q1",
     "2022 Q2",
     "2022 Q3",
+    "2022 Q4",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
@@ -27,7 +28,8 @@
     "2025 Q4",
     "2026 Q1",
     "2026 Q2",
-    "2026 Q3"
+    "2026 Q3",
+    "2026 Q4"
   ],
   "financials": {
     "2023 Q1": {
@@ -121,14 +123,14 @@
       "op_per_emp": 122317.0,
       "ni_per_emp": 98959.0,
       "rd_per_emp": 33887.0,
-      "rev_growth_yoy": 9.74,
-      "gp_growth_yoy": 5.47,
-      "op_growth_yoy": 0.51,
-      "ni_growth_yoy": -1.89,
-      "rd_growth_yoy": 12.46,
+      "rev_growth_yoy": 258316.67,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": 31.65,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
       "hc_growth_yoy": 0.0,
-      "gm_diff_pp": -2.76,
-      "op_diff_pp": -4.0
+      "gm_diff_pp": 68.41,
+      "op_diff_pp": -85514.74
     },
     "2024 Q1": {
       "revenue": 61858,
@@ -601,6 +603,56 @@
       "hc_growth_yoy": 0.86,
       "gm_diff_pp": 90.61,
       "op_diff_pp": 64.53
+    },
+    "2022 Q4": {
+      "revenue": 24,
+      "gross_profit": 0,
+      "operating_income": 20534,
+      "net_income": 0,
+      "rd_expense": 0,
+      "headcount": 221000,
+      "gross_margin": 0.0,
+      "operating_margin": 85558.33,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 109.0,
+      "gp_per_emp": 0,
+      "op_per_emp": 92914.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -99.86,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": 0.83,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 4.74,
+      "gm_diff_pp": -194.32,
+      "op_diff_pp": 85441.07
+    },
+    "2026 Q4": {
+      "revenue": 22,
+      "gross_profit": 0,
+      "operating_income": 40603,
+      "net_income": 0,
+      "rd_expense": 0,
+      "headcount": 236000,
+      "gross_margin": 0.0,
+      "operating_margin": 184559.09,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 93.0,
+      "gp_per_emp": 0,
+      "op_per_emp": 172047.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -99.97,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": 15.35,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 0.85,
+      "gm_diff_pp": -69.43,
+      "op_diff_pp": 184514.25
     }
   },
   "sales_breakdown": {
@@ -884,6 +936,30 @@
           15725,
           10934,
           8354
+        ],
+        "volume": [
+          45,
+          31,
+          24
+        ]
+      },
+      "2022 Q4": {
+        "value": [
+          9,
+          8,
+          7
+        ],
+        "volume": [
+          38,
+          32,
+          30
+        ]
+      },
+      "2026 Q4": {
+        "value": [
+          10,
+          7,
+          5
         ],
         "volume": [
           45,

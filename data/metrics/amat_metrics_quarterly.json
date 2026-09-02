@@ -10,12 +10,14 @@
     "2021 Q1",
     "2021 Q2",
     "2021 Q3",
+    "2021 Q4",
     "2022 Q1",
     "2022 Q2",
     "2022 Q3",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
+    "2023 Q4",
     "2024 Q1",
     "2024 Q2",
     "2024 Q3",
@@ -120,14 +122,14 @@
       "op_per_emp": 58028.0,
       "ni_per_emp": 48789.0,
       "rd_per_emp": 22648.0,
-      "rev_growth_yoy": 3.94,
-      "gp_growth_yoy": 3.48,
-      "op_growth_yoy": 3.36,
-      "ni_growth_yoy": 1.58,
-      "rd_growth_yoy": 1.13,
-      "hc_growth_yoy": 1.43,
-      "gm_diff_pp": -0.2,
-      "op_diff_pp": -0.16
+      "rev_growth_yoy": 17082.93,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": 4.52,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 4.41,
+      "gm_diff_pp": 47.3,
+      "op_diff_pp": -4778.08
     },
     "2025 Q1": {
       "revenue": 7150,
@@ -564,6 +566,56 @@
       "hc_growth_yoy": 0.14,
       "gm_diff_pp": 2.31,
       "op_diff_pp": 3.74
+    },
+    "2021 Q4": {
+      "revenue": 44,
+      "gross_profit": 0,
+      "operating_income": 1436,
+      "net_income": 0,
+      "rd_expense": 0,
+      "headcount": 27000,
+      "gross_margin": 0.0,
+      "operating_margin": 3263.64,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 1630.0,
+      "gp_per_emp": 0,
+      "op_per_emp": 53185.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -99.29,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": -28.66,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 2.86,
+      "gm_diff_pp": -47.89,
+      "op_diff_pp": 3231.15
+    },
+    "2023 Q4": {
+      "revenue": 41,
+      "gross_profit": 0,
+      "operating_income": 1971,
+      "net_income": 0,
+      "rd_expense": 0,
+      "headcount": 34000,
+      "gross_margin": 0.0,
+      "operating_margin": 4807.32,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 1206.0,
+      "gp_per_emp": 0,
+      "op_per_emp": 57971.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -99.36,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": 9.38,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 0.74,
+      "gm_diff_pp": -46.32,
+      "op_diff_pp": 4779.27
     }
   },
   "sales_breakdown": {
@@ -840,6 +892,30 @@
           75,
           22,
           3
+        ]
+      },
+      "2021 Q4": {
+        "value": [
+          31,
+          9,
+          3
+        ],
+        "volume": [
+          71,
+          21,
+          8
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          31,
+          9,
+          2
+        ],
+        "volume": [
+          74,
+          21,
+          5
         ]
       }
     }

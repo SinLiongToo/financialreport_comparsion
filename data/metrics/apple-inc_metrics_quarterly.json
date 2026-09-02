@@ -1,6 +1,6 @@
 {
   "company_name": "Apple Inc.",
-  "ticker": "APPLE-INC",
+  "ticker": "APPLE",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -10,12 +10,15 @@
     "2021 Q1",
     "2021 Q2",
     "2021 Q3",
+    "2021 Q4",
     "2022 Q1",
     "2022 Q2",
     "2022 Q3",
+    "2022 Q4",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
+    "2023 Q4",
     "2024 Q1",
     "2024 Q2",
     "2024 Q3",
@@ -120,14 +123,14 @@
       "op_per_emp": 180433.0,
       "ni_per_emp": 89854.0,
       "rd_per_emp": 47323.0,
-      "rev_growth_yoy": 10.67,
-      "gp_growth_yoy": 10.59,
-      "op_growth_yoy": 16.72,
-      "ni_growth_yoy": -31.29,
-      "rd_growth_yoy": -3.06,
-      "hc_growth_yoy": 0.31,
-      "gm_diff_pp": -0.04,
-      "op_diff_pp": 1.61
+      "rev_growth_yoy": 100.61,
+      "gp_growth_yoy": 486.7,
+      "op_growth_yoy": 20886.52,
+      "ni_growth_yoy": -99.91,
+      "rd_growth_yoy": 233.95,
+      "hc_growth_yoy": 1.86,
+      "gm_diff_pp": 30.41,
+      "op_diff_pp": 30.87
     },
     "2025 Q1": {
       "revenue": 124300,
@@ -577,6 +580,81 @@
       "hc_growth_yoy": 1.21,
       "gm_diff_pp": 3.06,
       "op_diff_pp": 1.62
+    },
+    "2021 Q4": {
+      "revenue": 48066,
+      "gross_profit": 5478,
+      "operating_income": 64,
+      "net_income": 16594294,
+      "rd_expense": 5493,
+      "headcount": 154000,
+      "gross_margin": 11.4,
+      "operating_margin": 0.13,
+      "net_margin": 34523.98,
+      "rd_pct_rev": 11.43,
+      "rev_per_emp": 312117.0,
+      "gp_per_emp": 35571.0,
+      "op_per_emp": 416.0,
+      "ni_per_emp": 107755156.0,
+      "rd_per_emp": 35669.0,
+      "rev_growth_yoy": -40.98,
+      "gp_growth_yoy": -84.46,
+      "op_growth_yoy": -99.88,
+      "ni_growth_yoy": 36992.17,
+      "rd_growth_yoy": -60.12,
+      "hc_growth_yoy": 1.15,
+      "gm_diff_pp": -31.89,
+      "op_diff_pp": -63.13
+    },
+    "2022 Q4": {
+      "revenue": 50368,
+      "gross_profit": 6563,
+      "operating_income": 84,
+      "net_income": 16136881,
+      "rd_expense": 5604,
+      "headcount": 164000,
+      "gross_margin": 13.03,
+      "operating_margin": 0.17,
+      "net_margin": 32037.96,
+      "rd_pct_rev": 11.13,
+      "rev_per_emp": 307122.0,
+      "gp_per_emp": 40018.0,
+      "op_per_emp": 512.0,
+      "ni_per_emp": 98395616.0,
+      "rd_per_emp": 34171.0,
+      "rev_growth_yoy": 4.79,
+      "gp_growth_yoy": 19.81,
+      "op_growth_yoy": 31.25,
+      "ni_growth_yoy": -2.76,
+      "rd_growth_yoy": 2.02,
+      "hc_growth_yoy": 6.49,
+      "gm_diff_pp": 1.63,
+      "op_diff_pp": 0.04
+    },
+    "2023 Q4": {
+      "revenue": 47320,
+      "gross_profit": 7479,
+      "operating_income": 141,
+      "net_income": 15670192,
+      "rd_expense": 2324,
+      "headcount": 161000,
+      "gross_margin": 15.81,
+      "operating_margin": 0.3,
+      "net_margin": 33115.37,
+      "rd_pct_rev": 4.91,
+      "rev_per_emp": 293913.0,
+      "gp_per_emp": 46453.0,
+      "op_per_emp": 876.0,
+      "ni_per_emp": 97330385.0,
+      "rd_per_emp": 14435.0,
+      "rev_growth_yoy": -6.05,
+      "gp_growth_yoy": 13.96,
+      "op_growth_yoy": 67.86,
+      "ni_growth_yoy": -2.89,
+      "rd_growth_yoy": -58.53,
+      "hc_growth_yoy": -1.83,
+      "gm_diff_pp": 2.78,
+      "op_diff_pp": 0.13
     }
   },
   "sales_breakdown": {
@@ -945,6 +1023,54 @@
           9,
           8,
           6
+        ]
+      },
+      "2021 Q4": {
+        "value": [
+          25224,
+          8991,
+          5041,
+          4624,
+          4186
+        ],
+        "volume": [
+          52,
+          19,
+          10,
+          10,
+          9
+        ]
+      },
+      "2022 Q4": {
+        "value": [
+          26247,
+          9980,
+          5268,
+          5132,
+          3742
+        ],
+        "volume": [
+          52,
+          20,
+          10,
+          10,
+          8
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          24764,
+          10519,
+          4919,
+          3624,
+          3494
+        ],
+        "volume": [
+          52,
+          22,
+          10,
+          8,
+          8
         ]
       }
     }

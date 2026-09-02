@@ -1,6 +1,6 @@
 {
   "company_name": "Amazon.com, Inc.",
-  "ticker": "AMAZON",
+  "ticker": "AMZN",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -14,9 +14,11 @@
     "2022 Q1",
     "2022 Q2",
     "2022 Q3",
+    "2022 Q4",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
+    "2023 Q4",
     "2024 Q1",
     "2024 Q2",
     "2024 Q3",
@@ -120,14 +122,14 @@
       "op_per_emp": 13590.0,
       "ni_per_emp": 12051.0,
       "rd_per_emp": 15256.0,
-      "rev_growth_yoy": 18.2,
-      "gp_growth_yoy": 18.71,
-      "op_growth_yoy": 21.76,
-      "ni_growth_yoy": 22.65,
-      "rd_growth_yoy": 4.39,
-      "hc_growth_yoy": 0.65,
-      "gm_diff_pp": 0.2,
-      "op_diff_pp": 0.33
+      "rev_growth_yoy": 1521.48,
+      "gp_growth_yoy": 79210.34,
+      "op_growth_yoy": 706566.67,
+      "ni_growth_yoy": -26.82,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 2.3,
+      "gm_diff_pp": 48.0,
+      "op_diff_pp": 11.26
     },
     "2025 Q1": {
       "revenue": 168000,
@@ -564,6 +566,56 @@
       "hc_growth_yoy": -0.64,
       "gm_diff_pp": 0.0,
       "op_diff_pp": 0.23
+    },
+    "2022 Q4": {
+      "revenue": 16516,
+      "gross_profit": 116,
+      "operating_income": 6,
+      "net_income": 6139,
+      "rd_expense": 0,
+      "headcount": 1541000,
+      "gross_margin": 0.7,
+      "operating_margin": 0.04,
+      "net_margin": 37.17,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 10718.0,
+      "gp_per_emp": 75.0,
+      "op_per_emp": 4.0,
+      "ni_per_emp": 3984.0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -85.1,
+      "gp_growth_yoy": -90.38,
+      "op_growth_yoy": -99.88,
+      "ni_growth_yoy": 94.52,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -1.08,
+      "gm_diff_pp": -0.39,
+      "op_diff_pp": -4.34
+    },
+    "2023 Q4": {
+      "revenue": 11582,
+      "gross_profit": 116,
+      "operating_income": 3,
+      "net_income": 25689,
+      "rd_expense": 0,
+      "headcount": 1525000,
+      "gross_margin": 1.0,
+      "operating_margin": 0.03,
+      "net_margin": 221.8,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 7595.0,
+      "gp_per_emp": 76.0,
+      "op_per_emp": 2.0,
+      "ni_per_emp": 16845.0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -29.87,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": -50.0,
+      "ni_growth_yoy": 318.46,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -1.04,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": -0.01
     }
   },
   "sales_breakdown": {
@@ -932,6 +984,38 @@
           18,
           9,
           10
+        ]
+      },
+      "2022 Q4": {
+        "value": [
+          7069,
+          3782,
+          2574,
+          1213,
+          1878
+        ],
+        "volume": [
+          43,
+          23,
+          16,
+          7,
+          11
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          4672,
+          2822,
+          1829,
+          945,
+          1314
+        ],
+        "volume": [
+          40,
+          24,
+          16,
+          8,
+          12
         ]
       }
     }

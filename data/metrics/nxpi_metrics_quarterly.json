@@ -1,6 +1,6 @@
 {
   "company_name": "NXP Semiconductors N.V.",
-  "ticker": "NXP-SEMICONDUCTORS",
+  "ticker": "NXP",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -10,12 +10,15 @@
     "2021 Q1",
     "2021 Q2",
     "2021 Q3",
+    "2021 Q4",
     "2022 Q1",
     "2022 Q2",
     "2022 Q3",
+    "2022 Q4",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
+    "2023 Q4",
     "2024 Q1",
     "2024 Q2",
     "2024 Q3",
@@ -119,14 +122,14 @@
       "op_per_emp": 19672.0,
       "ni_per_emp": 15821.0,
       "rd_per_emp": 17761.0,
-      "rev_growth_yoy": -4.4,
-      "gp_growth_yoy": -11.15,
-      "op_growth_yoy": -27.58,
-      "ni_growth_yoy": -25.35,
-      "rd_growth_yoy": 0.85,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": -4.0,
-      "op_diff_pp": -6.79
+      "rev_growth_yoy": -9.21,
+      "gp_growth_yoy": -16.52,
+      "op_growth_yoy": -27.34,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -2.05,
+      "gm_diff_pp": -4.6,
+      "op_diff_pp": -5.29
     },
     "2025 Q1": {
       "revenue": 3200,
@@ -564,6 +567,81 @@
       "hc_growth_yoy": 1.03,
       "gm_diff_pp": 0.27,
       "op_diff_pp": 2.64
+    },
+    "2021 Q4": {
+      "revenue": 484,
+      "gross_profit": 8,
+      "operating_income": 807,
+      "net_income": 0,
+      "rd_expense": 507,
+      "headcount": 31000,
+      "gross_margin": 1.65,
+      "operating_margin": 166.74,
+      "net_margin": 0.0,
+      "rd_pct_rev": 104.75,
+      "rev_per_emp": 15613.0,
+      "gp_per_emp": 258.0,
+      "op_per_emp": 26032.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 16355.0,
+      "rev_growth_yoy": -83.08,
+      "gp_growth_yoy": -99.49,
+      "op_growth_yoy": 13.5,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 3.05,
+      "hc_growth_yoy": 1.64,
+      "gm_diff_pp": -53.68,
+      "op_diff_pp": 141.89
+    },
+    "2022 Q4": {
+      "revenue": 537,
+      "gross_profit": 8,
+      "operating_income": 980,
+      "net_income": 0,
+      "rd_expense": 540,
+      "headcount": 34500,
+      "gross_margin": 1.49,
+      "operating_margin": 182.5,
+      "net_margin": 0.0,
+      "rd_pct_rev": 100.56,
+      "rev_per_emp": 15565.0,
+      "gp_per_emp": 232.0,
+      "op_per_emp": 28406.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 15652.0,
+      "rev_growth_yoy": 10.95,
+      "gp_growth_yoy": 0.0,
+      "op_growth_yoy": 21.44,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 6.51,
+      "hc_growth_yoy": 11.29,
+      "gm_diff_pp": -0.16,
+      "op_diff_pp": 15.76
+    },
+    "2023 Q4": {
+      "revenue": 3422,
+      "gross_profit": 1937,
+      "operating_income": 907,
+      "net_income": 0,
+      "rd_expense": 0,
+      "headcount": 34200,
+      "gross_margin": 56.6,
+      "operating_margin": 26.5,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "rev_per_emp": 100058.0,
+      "gp_per_emp": 56637.0,
+      "op_per_emp": 26520.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 537.24,
+      "gp_growth_yoy": 24112.5,
+      "op_growth_yoy": -7.45,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -0.87,
+      "gm_diff_pp": 55.11,
+      "op_diff_pp": -156.0
     }
   },
   "sales_breakdown": {
@@ -866,6 +944,48 @@
           608,
           343,
           548
+        ],
+        "volume": [
+          56,
+          18,
+          10,
+          16
+        ]
+      },
+      "2021 Q4": {
+        "value": [
+          240,
+          105,
+          55,
+          84
+        ],
+        "volume": [
+          50,
+          22,
+          11,
+          17
+        ]
+      },
+      "2022 Q4": {
+        "value": [
+          280,
+          110,
+          65,
+          82
+        ],
+        "volume": [
+          52,
+          21,
+          12,
+          15
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          1928,
+          606,
+          342,
+          546
         ],
         "volume": [
           56,

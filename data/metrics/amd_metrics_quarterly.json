@@ -1,6 +1,6 @@
 {
   "company_name": "Advanced Micro Devices, Inc.",
-  "ticker": "ADVANCED-MICRO-DEVICES-INC",
+  "ticker": "AMD",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -13,9 +13,11 @@
     "2021 Q3",
     "2022 Q1",
     "2022 Q2",
+    "2022 Q4",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
+    "2023 Q4",
     "2024 Q1",
     "2024 Q2",
     "2024 Q3",
@@ -119,14 +121,14 @@
       "op_per_emp": 38264.0,
       "ni_per_emp": 26075.0,
       "rd_per_emp": 64340.0,
-      "rev_growth_yoy": 12.3,
-      "gp_growth_yoy": 30.38,
-      "op_growth_yoy": 40.06,
-      "ni_growth_yoy": -10.38,
-      "rd_growth_yoy": 4.03,
-      "hc_growth_yoy": 0.0,
-      "gm_diff_pp": 8.05,
-      "op_diff_pp": 2.62
+      "rev_growth_yoy": 24.16,
+      "gp_growth_yoy": 52.73,
+      "op_growth_yoy": 0.0,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 12.84,
+      "hc_growth_yoy": 1.92,
+      "gm_diff_pp": 10.86,
+      "op_diff_pp": 13.24
     },
     "2025 Q1": {
       "revenue": 7800,
@@ -551,6 +553,56 @@
       "hc_growth_yoy": 1.68,
       "gm_diff_pp": -0.23,
       "op_diff_pp": 2.25
+    },
+    "2022 Q4": {
+      "revenue": 700,
+      "gross_profit": 320,
+      "operating_income": 17,
+      "net_income": 382,
+      "rd_expense": 139,
+      "headcount": 25000,
+      "gross_margin": 45.71,
+      "operating_margin": 2.43,
+      "net_margin": 54.57,
+      "rd_pct_rev": 19.86,
+      "rev_per_emp": 28000.0,
+      "gp_per_emp": 12800.0,
+      "op_per_emp": 680.0,
+      "ni_per_emp": 15280.0,
+      "rd_per_emp": 5560.0,
+      "rev_growth_yoy": -89.31,
+      "gp_growth_yoy": -89.43,
+      "op_growth_yoy": -96.77,
+      "ni_growth_yoy": -14.54,
+      "rd_growth_yoy": -89.31,
+      "hc_growth_yoy": 23.46,
+      "gm_diff_pp": -0.52,
+      "op_diff_pp": -5.6
+    },
+    "2023 Q4": {
+      "revenue": 6168,
+      "gross_profit": 2911,
+      "operating_income": 0,
+      "net_income": 0,
+      "rd_expense": 1511,
+      "headcount": 26000,
+      "gross_margin": 47.2,
+      "operating_margin": 0.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 24.5,
+      "rev_per_emp": 237231.0,
+      "gp_per_emp": 111962.0,
+      "op_per_emp": 0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 58115.0,
+      "rev_growth_yoy": 781.14,
+      "gp_growth_yoy": 809.69,
+      "op_growth_yoy": 0.0,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 987.05,
+      "hc_growth_yoy": 4.0,
+      "gm_diff_pp": 1.49,
+      "op_diff_pp": -2.43
     }
   },
   "sales_breakdown": {
@@ -859,6 +911,34 @@
           18,
           12,
           13
+        ]
+      },
+      "2022 Q4": {
+        "value": [
+          179,
+          184,
+          202,
+          135
+        ],
+        "volume": [
+          26,
+          26,
+          29,
+          19
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          1767,
+          1265,
+          1689,
+          1447
+        ],
+        "volume": [
+          29,
+          21,
+          27,
+          23
         ]
       }
     }

@@ -1,6 +1,6 @@
 {
   "company_name": "Micron Technology, Inc.",
-  "ticker": "MICRON-TECHNOLOGY",
+  "ticker": "MU",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -10,12 +10,15 @@
     "2021 Q1",
     "2021 Q2",
     "2021 Q3",
+    "2021 Q4",
     "2022 Q1",
     "2022 Q2",
     "2022 Q3",
+    "2022 Q4",
     "2023 Q1",
     "2023 Q2",
     "2023 Q3",
+    "2023 Q4",
     "2024 Q1",
     "2024 Q2",
     "2024 Q3",
@@ -120,14 +123,14 @@
       "op_per_emp": 34591.0,
       "ni_per_emp": 20159.0,
       "rd_per_emp": 20182.0,
-      "rev_growth_yoy": 13.79,
-      "gp_growth_yoy": 62.97,
-      "op_growth_yoy": 111.68,
-      "ni_growth_yoy": 167.17,
-      "rd_growth_yoy": 1.14,
-      "hc_growth_yoy": 0.23,
-      "gm_diff_pp": 11.67,
-      "op_diff_pp": 9.08
+      "rev_growth_yoy": 42.83,
+      "gp_growth_yoy": 763.69,
+      "op_growth_yoy": 1200.85,
+      "ni_growth_yoy": -37.97,
+      "rd_growth_yoy": 286.09,
+      "hc_growth_yoy": 2.33,
+      "gm_diff_pp": 32.27,
+      "op_diff_pp": 17.48
     },
     "2025 Q1": {
       "revenue": 8707,
@@ -578,6 +581,81 @@
       "hc_growth_yoy": 4.17,
       "gm_diff_pp": 43.56,
       "op_diff_pp": 49.37
+    },
+    "2021 Q4": {
+      "revenue": 8274,
+      "gross_profit": 3912,
+      "operating_income": 2955,
+      "net_income": 2720,
+      "rd_expense": 705,
+      "headcount": 43000,
+      "gross_margin": 47.28,
+      "operating_margin": 35.71,
+      "net_margin": 32.87,
+      "rd_pct_rev": 8.52,
+      "rev_per_emp": 192419.0,
+      "gp_per_emp": 90977.0,
+      "op_per_emp": 68721.0,
+      "ni_per_emp": 63256.0,
+      "rd_per_emp": 16395.0,
+      "rev_growth_yoy": 11.48,
+      "gp_growth_yoy": 25.14,
+      "op_growth_yoy": 64.26,
+      "ni_growth_yoy": 56.77,
+      "rd_growth_yoy": 5.22,
+      "hc_growth_yoy": 1.78,
+      "gm_diff_pp": 5.16,
+      "op_diff_pp": 11.47
+    },
+    "2022 Q4": {
+      "revenue": 4215,
+      "gross_profit": 779,
+      "operating_income": 24,
+      "net_income": 1492,
+      "rd_expense": 266,
+      "headcount": 48000,
+      "gross_margin": 18.48,
+      "operating_margin": 0.57,
+      "net_margin": 35.4,
+      "rd_pct_rev": 6.31,
+      "rev_per_emp": 87812.0,
+      "gp_per_emp": 16229.0,
+      "op_per_emp": 500.0,
+      "ni_per_emp": 31083.0,
+      "rd_per_emp": 5542.0,
+      "rev_growth_yoy": -49.06,
+      "gp_growth_yoy": -80.09,
+      "op_growth_yoy": -99.19,
+      "ni_growth_yoy": -45.15,
+      "rd_growth_yoy": -62.27,
+      "hc_growth_yoy": 11.63,
+      "gm_diff_pp": -28.8,
+      "op_diff_pp": -35.14
+    },
+    "2023 Q4": {
+      "revenue": 5426,
+      "gross_profit": 347,
+      "operating_income": 117,
+      "net_income": 1430,
+      "rd_expense": 230,
+      "headcount": 43000,
+      "gross_margin": 6.4,
+      "operating_margin": 2.16,
+      "net_margin": 26.35,
+      "rd_pct_rev": 4.24,
+      "rev_per_emp": 126186.0,
+      "gp_per_emp": 8070.0,
+      "op_per_emp": 2721.0,
+      "ni_per_emp": 33256.0,
+      "rd_per_emp": 5349.0,
+      "rev_growth_yoy": 28.73,
+      "gp_growth_yoy": -55.46,
+      "op_growth_yoy": 387.5,
+      "ni_growth_yoy": -4.16,
+      "rd_growth_yoy": -13.53,
+      "hc_growth_yoy": -10.42,
+      "gm_diff_pp": -12.08,
+      "op_diff_pp": 1.59
     }
   },
   "sales_breakdown": {
@@ -900,6 +978,48 @@
           22,
           18,
           13
+        ]
+      },
+      "2021 Q4": {
+        "value": [
+          3667,
+          2152,
+          1185,
+          1270
+        ],
+        "volume": [
+          44,
+          26,
+          14,
+          16
+        ]
+      },
+      "2022 Q4": {
+        "value": [
+          1789,
+          996,
+          614,
+          816
+        ],
+        "volume": [
+          42,
+          24,
+          15,
+          19
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          2104,
+          1269,
+          873,
+          1179
+        ],
+        "volume": [
+          39,
+          23,
+          16,
+          22
         ]
       }
     }
