@@ -195,16 +195,25 @@ Whenever adding or updating any company, execute the following 7 steps without o
 2. Standardize all currencies to **USD Millions ($M)** using official benchmark exchange rates.
 3. Compute Productivity indices (Rev/FTE, GP/FTE, OI/FTE, YoY growth).
 
-### Step 4: Write Metric JSONs
-1. Write `data/metrics/{ticker}_metrics.json` and all alias mirror files (e.g. `2454_metrics.json`).
-2. Write `data/metrics/{ticker}_metrics_quarterly.json` (12 quarters) and alias mirror files.
-3. **Strictly verify Chart 6 schema**: `sales_breakdown.data[year]` contains `{"value": [...], "volume": [...]}`.
+### Step 4: Write Metric JSONs (Strict Annual vs Quarterly Isolation)
+1. **Annual Metrics File (`data/metrics/{ticker}_metrics.json`)**:
+   - `freq` MUST be `"annual"`.
+   - `years` MUST contain strictly 4-digit years (e.g. `["2020", "2021", "2022", "2023", "2024", "2025"]`), **NEVER containing any `"Q"` strings**.
+   - `sales_breakdown.data` keys MUST strictly match annual years (`"2020"`, `"2021"`, etc.).
+   - Mirror to all alias files (e.g. `2454_metrics.json`).
+2. **Quarterly Metrics File (`data/metrics/{ticker}_metrics_quarterly.json`)**:
+   - `freq` MUST be `"quarterly"`.
+   - `years` MUST contain 12-period quarter strings (e.g. `["2023 Q1", "2023 Q2", ... "2025 Q4"]`).
+   - `sales_breakdown.data` keys MUST strictly match quarter strings (`"2023 Q1"`, etc.).
+   - Mirror to all alias files (e.g. `2454_metrics_quarterly.json`).
+3. **Strictly verify Chart 6 schema**: `sales_breakdown.data[period]` MUST contain `{"value": [...], "volume": [...]}`.
+4. **File Suffix Guard**: When generating quarterly data in Python, always resolve `suffix = "_metrics_quarterly.json" if freq == "quarterly" else "_metrics.json"` so quarterly extraction never overwrites annual files!
 
 ### Step 5: Update Backend & Frontend Codebase
 1. **`metrics_extractor.py`**:
    - Add all ticker variations, exchange codes, and long-form corporate names to `TICKER_ALIASES` (e.g. `advanced-micro-devices` -> `amd`, `taiwan-semiconductor-manufacturing` -> `tsmc`).
-   - Add company dictionary to `BUILTIN_BENCHMARKS`.
-   - Add company dictionary to `BUILTIN_BENCHMARKS_QUARTERLY`.
+   - Add company dictionary to `BUILTIN_BENCHMARKS` (strictly Annual data).
+   - Add company dictionary to `BUILTIN_BENCHMARKS_QUARTERLY` (strictly Quarterly data).
 2. **`static/js/dashboard.js`**:
    - Add dedicated color to `COMPANY_COLORS`.
    - Add country metadata to `COMPANY_COUNTRIES`.
@@ -226,7 +235,7 @@ Run the automated verification script across all benchmarks:
 python .agents/skills/financial-report-multiformat-analyzer/scripts/validate_company.py <ticker>
 python .agents/skills/financial-report-multiformat-analyzer/scripts/validate_company.py all
 ```
-Ensure it returns: `✅ PASSED: All metrics, Chart 6 structures, and aliases are valid`.
+Ensure it returns: `✅ PASSED: All metrics, Chart 6 structures, and aliases are valid` (verifying 0 quarterly contamination in annual files and 0 annual contamination in quarterly files).
 
 ### Step 7: Compile Standalone Dashboard & Commit
 1. Run `python export_standalone.py` to recompile `docs/index.html` and `standalone_dashboard.html`.

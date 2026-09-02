@@ -89,4 +89,24 @@
   - Zoom modal inspection windows must dynamically synchronize with `CURRENT_THEME`.
   - In `extractCleanLayout()`, Plotly `paper_bgcolor` and `plot_bgcolor` must always use solid theme-aware colors (`#e8edf4` / `#dde5ee` in light mode, `#0f172a` in dark mode) instead of `"transparent"` to prevent dark-on-dark or washed-out text artifacts.
 
+---
+
+## 🗂️ 8. Strict Annual vs. Quarterly File & Schema Isolation (年報與季報數據結構嚴格隔離規範)
+
+- **File Suffix & Storage Isolation (檔名後綴與儲存嚴格隔離)**:
+  - **Annual Metrics (年度財報)**: MUST be saved strictly to `data/metrics/{ticker}_metrics.json`.
+    - `freq` field MUST be `"annual"`.
+    - `years` array MUST contain strictly 4-digit year strings (e.g. `["2020", "2021", "2022", "2023", "2024", "2025"]`) and NEVER contain any `"Q"` strings.
+    - `sales_breakdown.data` keys MUST strictly match the annual `years` array.
+  - **Quarterly Metrics (季度財報)**: MUST be saved strictly to `data/metrics/{ticker}_metrics_quarterly.json`.
+    - `freq` field MUST be `"quarterly"`.
+    - `years` array MUST contain quarterly strings (e.g. `["2023 Q1", "2023 Q2", ...]`).
+    - `sales_breakdown.data` keys MUST strictly match the quarterly `years` array.
+- **Extractor & Pipeline Overwrite Guard (提取與管線輸出防覆蓋防護)**:
+  - In `metrics_extractor.py`, `extract_from_markdown()` and benchmark synchronization scripts MUST dynamically resolve output paths via `suffix = "_metrics_quarterly.json" if freq == "quarterly" else "_metrics.json"`.
+  - Generating or updating quarterly data must NEVER overwrite the annual `_metrics.json` file.
+- **Automated Validation Requirement (審計腳本必檢項)**:
+  - Every pipeline execution must run `validate_company.py <ticker>` which strictly verifies that annual files contain 0 quarterly keys and quarterly files contain valid quarter series.
+
+
 

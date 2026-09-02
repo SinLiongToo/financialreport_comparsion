@@ -58,12 +58,16 @@ def validate_company(ticker: str):
 
     # 2. Audit Annual Metrics Data & Chart 6
     if ann_data:
-        years = ann_data.get("years", [])
+        years = [str(y) for y in ann_data.get("years", [])]
         fin = ann_data.get("financials", {})
         if len(years) < 3:
             errors.append(f"Annual years list has only {len(years)} entries, minimum 3 required.")
-        for y in years:
-            y_str = str(y)
+        if any("Q" in y for y in years):
+            errors.append(f"Annual metrics file contains quarterly year strings: {years}. Annual files must contain strictly 4-digit years.")
+        if ann_data.get("freq") == "quarterly":
+            errors.append("Annual metrics file has 'freq' field set to 'quarterly'. Must be 'annual'.")
+
+        for y_str in years:
             if y_str not in fin:
                 errors.append(f"Year '{y_str}' declared in 'years' but missing from 'financials'.")
             else:
@@ -83,6 +87,8 @@ def validate_company(ticker: str):
             errors.append("Chart 6: 'sales_breakdown.data' is empty.")
         else:
             for y_str in sb_data:
+                if "Q" in str(y_str):
+                    errors.append(f"Chart 6: Annual sales_breakdown contains quarterly key '{y_str}'. Keys must strictly match annual years {years}.")
                 entry = sb_data[y_str]
                 if not isinstance(entry, dict) or "value" not in entry or "volume" not in entry:
                     errors.append(f"Chart 6: Year '{y_str}' data is NOT in mandatory {{'value': [...], 'volume': [...]}} format!")
@@ -91,6 +97,17 @@ def validate_company(ticker: str):
                         errors.append(f"Chart 6: Year '{y_str}' value length ({len(entry['value'])}) mismatch with categories ({len(cats)}).")
                     if len(entry["volume"]) != len(cats):
                         errors.append(f"Chart 6: Year '{y_str}' volume length ({len(entry['volume'])}) mismatch with categories ({len(cats)}).")
+
+    # 2b. Audit Quarterly Metrics Data
+    if q_data:
+        q_years = [str(y) for y in q_data.get("years", [])]
+        q_fin = q_data.get("financials", {})
+        if len(q_years) < 4:
+            warnings.append(f"Quarterly years list has only {len(q_years)} entries, minimum 4 recommended.")
+        if not any("Q" in y for y in q_years):
+            errors.append(f"Quarterly metrics file contains no quarterly year strings (e.g. '2024 Q1'): {q_years}.")
+        if q_data.get("freq") == "annual":
+            errors.append("Quarterly metrics file has 'freq' field set to 'annual'. Must be 'quarterly'.")
 
     # 3. Check metrics_extractor.py registration
     from metrics_extractor import FinancialMetricsExtractor, BUILTIN_BENCHMARKS, BUILTIN_BENCHMARKS_QUARTERLY, TICKER_ALIASES
