@@ -843,6 +843,14 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.3.1 (2026-09-02)**：
+  - **修復橫向對標矩陣 (Peer Benchmark Matrix) 與多選卡片別名重複項 (Deduplication Fix)**：
+    - **根本原因**：`export_standalone.py` 在打包單機版靜態數據庫時注入了完整的雙向別名（如 `anthropic-pbc`, `claude-ai`, `ondas-holdings-inc`, `chat-gpt` 等），而前端 `TICKER_CANONICAL_MAP` 字典未全量包含這些長別名，導致前端 `FinancialMetricsExtractor_canonical_ticker` 將未匹配之別名當作獨立公司載入，造成對標矩陣中出現多筆重複列（例如 Anthropic 顯示 3 列、Ondas 顯示 2 列等）。
+    - **全面修復機制**：
+      1. 將後端 `metrics_extractor.py` 中全部 221 組別名 100% 同步至前端 `TICKER_CANONICAL_MAP`。
+      2. 於 `loadComparisonData()` 與 `renderComparisonTableRows()` 中建立「規範化唯一值 (Strict Canonical Set)」雙層防護，徹底杜絕任何重複渲染。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.3.1`（`Updated: 2026-09-02`），重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.3.0 (2026-09-02)**：
   - **新增「產業戰略洞察與深度研究筆記庫 (Industry Strategic Insights & Notes)」專屬分頁 Tab**：
     - 於頂部導覽列新增第 3 大功能模組（💡 產業戰略洞察與深度筆記 / Industry Strategic Insights & Notes Archive），結構化收錄前沿 AI 模型、國防軍工系統、半導體晶圓製造與先進硬體之商業模式、營運槓桿與財務深度研判筆記。
@@ -1014,6 +1022,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.3.1 - fix: eliminate duplicate company rows in peer benchmark matrix by fully synchronizing TICKER_CANONICAL_MAP and adding dual-layer deduplication
 * commit v3.3.0 - feat: add dedicated Industry Strategic Insights & Research Notes tab with interactive AI and defense OpEx analysis
 * commit v3.2.0 - feat: add Ondas, Anthropic, ChatGPT (OpenAI), Shield AI, and Anduril with dedicated Military AI sector
 * commit v3.1.1 - fix: resolve scatter matrix company drop by completing AMZN quarterly gross profit, calibrating MSFT and PLTR metrics, classifying AAPL under SYSTEM, and adding defensive fallbacks
