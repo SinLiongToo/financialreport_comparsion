@@ -170,8 +170,19 @@ TICKER_SLUGS = {
     "3105": ["win-semiconductors", "win-semi", "3105"],
     "3105.tw": ["win-semiconductors", "win-semi", "3105"],
     "3105.two": ["win-semiconductors", "win-semi", "3105"],
-    "win-semiconductors": ["win-semiconductors", "win-semi", "3105"]
-}
+    "win-semiconductors": ["win-semiconductors", "win-semi", "3105"],
+    "onds": ["ondas-holdings", "ondas", "onds"],
+    "ondas": ["ondas-holdings", "ondas", "onds"],
+    "ondas-holdings": ["ondas-holdings", "ondas", "onds"],
+    "anthropic": ["anthropic", "claude"],
+    "claude": ["anthropic", "claude"],
+    "chatgpt": ["openai", "chatgpt"],
+    "openai": ["openai", "chatgpt"],
+    "shield-ai": ["shield-ai", "shieldai"],
+    "shieldai": ["shield-ai", "shieldai"],
+    "anduril": ["anduril-industries", "anduril"],
+    "anduril-industries": ["anduril-industries", "anduril"]
+};
 
 class AnnualReportCrawler:
     BASE_URL = "https://companiesmarketcap.com"

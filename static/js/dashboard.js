@@ -53,7 +53,15 @@ const SCATTER_METRICS = {
         unit: "%",
         axisTitle: { en: "Gross Margin (%)", zh: "GAAP 毛利率 (%)" },
         format: (v) => `${(v ?? 0).toFixed(2)}%`,
-        getVal: (f) => f ? safeNum(f.gross_margin) : null
+        getVal: (f) => {
+            if (!f) return null;
+            const gm = safeNum(f.gross_margin);
+            if (gm != null) return gm;
+            const rev = safeNum(f.revenue);
+            const gp = safeNum(f.gross_profit);
+            if (rev != null && rev > 0 && gp != null) return (gp / rev) * 100;
+            return null;
+        }
     },
     opm: {
         id: "opm",
@@ -61,7 +69,15 @@ const SCATTER_METRICS = {
         unit: "%",
         axisTitle: { en: "Operating Margin (%)", zh: "營業利益率 (%)" },
         format: (v) => `${(v ?? 0).toFixed(2)}%`,
-        getVal: (f) => f ? safeNum(f.operating_margin) : null
+        getVal: (f) => {
+            if (!f) return null;
+            const opm = safeNum(f.operating_margin);
+            if (opm != null) return opm;
+            const rev = safeNum(f.revenue);
+            const op = safeNum(f.operating_income);
+            if (rev != null && rev > 0 && op != null) return (op / rev) * 100;
+            return null;
+        }
     },
     rd: {
         id: "rd",
@@ -69,7 +85,15 @@ const SCATTER_METRICS = {
         unit: "%",
         axisTitle: { en: "R&D Intensity (% of Rev)", zh: "研發強度佔營收比重 (%)" },
         format: (v) => `${(v ?? 0).toFixed(2)}%`,
-        getVal: (f) => f ? safeNum(f.rd_pct_rev) : null
+        getVal: (f) => {
+            if (!f) return null;
+            const rd = safeNum(f.rd_pct_rev ?? f.rd_reinvestment_rate);
+            if (rd != null) return rd;
+            const rev = safeNum(f.revenue);
+            const rde = safeNum(f.rd_expense);
+            if (rev != null && rev > 0 && rde != null) return (rde / rev) * 100;
+            return null;
+        }
     },
     rev_per_emp: {
         id: "rev_per_emp",
@@ -78,8 +102,13 @@ const SCATTER_METRICS = {
         axisTitle: { en: "Revenue per FTE ($k)", zh: "人均營收產值 ($k / FTE)" },
         format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
         getVal: (f) => {
-            const v = f ? safeNum(f.rev_per_emp) : null;
-            return v != null ? v / 1000 : null;
+            if (!f) return null;
+            let v = safeNum(f.rev_per_emp);
+            if (v != null) return v / 1000;
+            const rev = safeNum(f.revenue);
+            const hc = safeNum(f.headcount);
+            if (rev != null && hc != null && hc > 0) return (rev * 1000000 / hc) / 1000;
+            return null;
         }
     },
     gp_per_emp: {
@@ -89,8 +118,13 @@ const SCATTER_METRICS = {
         axisTitle: { en: "Gross Profit per FTE ($k)", zh: "人均毛利產值 ($k / FTE)" },
         format: (v) => `$${Math.round(v ?? 0).toLocaleString()}k`,
         getVal: (f) => {
-            const v = f ? safeNum(f.gp_per_emp) : null;
-            return v != null ? v / 1000 : null;
+            if (!f) return null;
+            let v = safeNum(f.gp_per_emp);
+            if (v != null) return v / 1000;
+            const gp = safeNum(f.gross_profit);
+            const hc = safeNum(f.headcount);
+            if (gp != null && hc != null && hc > 0) return (gp * 1000000 / hc) / 1000;
+            return null;
         }
     },
     revenue: {
@@ -412,6 +446,17 @@ const COMPANY_COUNTRIES = {
     "st-microelectronics": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
     "stm.pa": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
     "stm.mi": { en: "Switzerland / Europe 🇨🇭", zh: "瑞士 / 歐洲 🇨🇭", code: "CH" },
+    "onds": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ondas": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "ondas-holdings": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "anthropic": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "claude": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "chatgpt": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "openai": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "shield-ai": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "shieldai": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "anduril": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "anduril-industries": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
 };
 
 const COMPANY_SECTORS = {
@@ -454,6 +499,9 @@ const COMPANY_SECTORS = {
     "delta": "SYSTEM",
     "2308": "SYSTEM",
     "ttm": "SYSTEM",
+    "aapl": "SYSTEM",
+    "apple": "SYSTEM",
+    "apple-inc": "SYSTEM",
 
     // 晶圓代工 / IDM / 功率與車用半導體
     "tsmc": "FOUNDRY",
@@ -528,7 +576,7 @@ const COMPANY_SECTORS = {
     "agilent": "TESTING",
     "agilent-technologies": "TESTING",
 
-    // 雲端 / AI 平台與軟體 (Hyperscalers, Cloud & AI Software)
+    // 雲端 / AI 平台與軟體 (Hyperscalers, Cloud & AI Frontier Labs)
     "googl": "HYPERSCALE",
     "google": "HYPERSCALE",
     "alphabet": "HYPERSCALE",
@@ -538,11 +586,21 @@ const COMPANY_SECTORS = {
     "meta-platforms": "HYPERSCALE",
     "amzn": "HYPERSCALE",
     "amazon": "HYPERSCALE",
-    "pltr": "HYPERSCALE",
-    "palantir": "HYPERSCALE",
-    "aapl": "HYPERSCALE",
-    "apple": "HYPERSCALE",
-    "apple-inc": "HYPERSCALE"
+    "anthropic": "HYPERSCALE",
+    "claude": "HYPERSCALE",
+    "chatgpt": "HYPERSCALE",
+    "openai": "HYPERSCALE",
+
+    // 國防軍工 / 國防科技與 AI 自主系統 (Defense & Military AI)
+    "onds": "MILITARY",
+    "ondas": "MILITARY",
+    "ondas-holdings": "MILITARY",
+    "shield-ai": "MILITARY",
+    "shieldai": "MILITARY",
+    "anduril": "MILITARY",
+    "anduril-industries": "MILITARY",
+    "pltr": "MILITARY",
+    "palantir": "MILITARY"
 };
 
 const SECTOR_METADATA = {
@@ -587,6 +645,13 @@ const SECTOR_METADATA = {
         icon: "fa-cloud",
         color: "#06B6D4",
         badge: "bg-cyan-500/20 text-cyan-300 border border-cyan-500/30"
+    },
+    "MILITARY": {
+        en: "Defense & Military AI",
+        zh: "國防軍工 / 國防 AI",
+        icon: "fa-shield-halved",
+        color: "#E11D48",
+        badge: "bg-rose-500/20 text-rose-300 border border-rose-500/30"
     }
 };
 
@@ -594,6 +659,17 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "onds": "onds",
+    "ondas": "onds",
+    "ondas-holdings": "onds",
+    "anthropic": "anthropic",
+    "claude": "anthropic",
+    "chatgpt": "chatgpt",
+    "openai": "chatgpt",
+    "shield-ai": "shield-ai",
+    "shieldai": "shield-ai",
+    "anduril": "anduril",
+    "anduril-industries": "anduril",
     "win-semi": "win-semi",
     "win": "win-semi",
     "3105": "win-semi",
@@ -895,6 +971,7 @@ const I18N_DICT = {
         sector_equipment: "🔬 Fab Equipment & Materials",
         sector_testing: "🧪 Testing, ATE & OSAT",
         sector_hyperscale: "☁️ Cloud & AI Software",
+        sector_military: "🛡️ Defense & Military AI",
         compare_chart1_title: "Gross Margin % Trajectory Benchmark",
         compare_chart1_desc: "Cross-company pricing power comparison: Leading-edge semiconductors (NVDA, TSMC) vs. equipment (ASML) vs. automotive (NXP) vs. passives (VSH).",
         compare_chart2_title: "Revenue & Gross Profit per FTE Benchmark ($)",
@@ -2087,8 +2164,9 @@ function applyCompareFilters() {
             (CURRENT_COMPARE_COUNTRY_FILTER.has("UK") && country === "GB") ||
             (CURRENT_COMPARE_COUNTRY_FILTER.has("GB") && country === "UK");
 
-        // Sector match
-        const matchSector = sAllSelected || CURRENT_COMPARE_SECTOR_FILTER.has(sector);
+        // Sector match (support multi-token dual tags e.g. "MILITARY HYPERSCALE")
+        const cardSectors = sector.split(/\s+/);
+        const matchSector = sAllSelected || cardSectors.some(s => CURRENT_COMPARE_SECTOR_FILTER.has(s));
 
         card.style.display = (matchCountry && matchSector) ? "flex" : "none";
     });
@@ -2205,7 +2283,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2306,7 +2384,14 @@ async function loadCompaniesList() {
                 "AMAT": "Applied Materials (AMAT)",
                 "META": "Meta Platforms (META)",
                 "AMZN": "Amazon.com, Inc. (AMZN)",
-                "PLTR": "Palantir Technologies (PLTR)",
+                "PLTR": "Palantir Technologies (PLTR / 國防與企業AI)",
+                "ONDS": "Ondas Holdings (ONDS / 美國自主無人機與軍工通訊)",
+                "ANTHROPIC": "Anthropic (Claude AI / 未上市)",
+                "CHATGPT": "OpenAI (ChatGPT / 未上市)",
+                "OPENAI": "OpenAI (ChatGPT / 未上市)",
+                "SHIELD-AI": "Shield AI (Hivemind / 國防AI / 未上市)",
+                "SHIELDAI": "Shield AI (Hivemind / 國防AI / 未上市)",
+                "ANDURIL": "Anduril Industries (Lattice AI / 國防軍工 / 未上市)",
                 "ADVANTEST": "Advantest Corp. (6857)",
                 "SAMSUNG": "Samsung Electronics (005930)"
             };
@@ -2328,13 +2413,17 @@ async function loadCompaniesList() {
                     const countryObj = COMPANY_COUNTRIES[canon] || COMPANY_COUNTRIES[comp.toLowerCase()] || { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" };
                     const countryCode = (countryObj.code || "US").toUpperCase();
                     const sectorCode = COMPANY_SECTORS[canon] || COMPANY_SECTORS[comp.toLowerCase()] || "FABLESS";
+                    let dualSectors = sectorCode;
+                    if (["pltr", "onds", "shield-ai", "anduril"].includes(canon) || ["pltr", "onds", "shield-ai", "anduril"].includes(comp.toLowerCase())) {
+                        dualSectors = "MILITARY HYPERSCALE";
+                    }
                     const sectorMeta = SECTOR_METADATA[sectorCode] || SECTOR_METADATA.FABLESS;
                     const sectorName = CURRENT_LANGUAGE === "zh" ? sectorMeta.zh : sectorMeta.en;
                     const countryFlag = countryObj.zh ? countryObj.zh.slice(-2) : "🌐";
 
                     label.className = "compare-chk-card flex flex-col justify-between bg-slate-900/80 p-2.5 rounded-xl border border-slate-700 hover:border-indigo-500 cursor-pointer transition-all hover:shadow-md";
                     label.setAttribute("data-country", countryCode);
-                    label.setAttribute("data-sector", sectorCode);
+                    label.setAttribute("data-sector", dualSectors);
                     
                     const color = COMPANY_COLORS[comp.toLowerCase()] || "#3B82F6";
                     label.innerHTML = `

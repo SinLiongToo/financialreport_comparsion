@@ -1,0 +1,301 @@
+{
+  "company_name": "OpenAI (ChatGPT)",
+  "ticker": "CHATGPT",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 3.5,
+      "gross_profit": 2.1,
+      "operating_income": -45.0,
+      "net_income": -48.0,
+      "rd_expense": 55.0,
+      "headcount": 120,
+      "gross_margin": 60.0,
+      "operating_margin": -1285.71,
+      "net_margin": -1371.43,
+      "rd_pct_rev": 1571.43,
+      "rev_per_emp": 29167.0,
+      "gp_per_emp": 17500.0,
+      "op_per_emp": -375000.0,
+      "ni_per_emp": -400000.0,
+      "rd_per_emp": 458333.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 28.0,
+      "gross_profit": 16.8,
+      "operating_income": -95.0,
+      "net_income": -100.0,
+      "rd_expense": 120.0,
+      "headcount": 220,
+      "gross_margin": 60.0,
+      "operating_margin": -339.29,
+      "net_margin": -357.14,
+      "rd_pct_rev": 428.57,
+      "rev_per_emp": 127273.0,
+      "gp_per_emp": 76364.0,
+      "op_per_emp": -431818.0,
+      "ni_per_emp": -454545.0,
+      "rd_per_emp": 545455.0,
+      "rev_growth_yoy": 700.0,
+      "gp_growth_yoy": 700.0,
+      "op_growth_yoy": 111.11,
+      "ni_growth_yoy": 108.33,
+      "rd_growth_yoy": 118.18,
+      "hc_growth_yoy": 83.33,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 946.42
+    },
+    "2022": {
+      "revenue": 200.0,
+      "gross_profit": 110.0,
+      "operating_income": -540.0,
+      "net_income": -550.0,
+      "rd_expense": 600.0,
+      "headcount": 375,
+      "gross_margin": 55.0,
+      "operating_margin": -270.0,
+      "net_margin": -275.0,
+      "rd_pct_rev": 300.0,
+      "rev_per_emp": 533333.0,
+      "gp_per_emp": 293333.0,
+      "op_per_emp": -1440000.0,
+      "ni_per_emp": -1466667.0,
+      "rd_per_emp": 1600000.0,
+      "rev_growth_yoy": 614.29,
+      "gp_growth_yoy": 554.76,
+      "op_growth_yoy": 468.42,
+      "ni_growth_yoy": 450.0,
+      "rd_growth_yoy": 400.0,
+      "hc_growth_yoy": 70.45,
+      "gm_diff_pp": -5.0,
+      "op_diff_pp": 69.29
+    },
+    "2023": {
+      "revenue": 1600.0,
+      "gross_profit": 880.0,
+      "operating_income": -2200.0,
+      "net_income": -2300.0,
+      "rd_expense": 2400.0,
+      "headcount": 770,
+      "gross_margin": 55.0,
+      "operating_margin": -137.5,
+      "net_margin": -143.75,
+      "rd_pct_rev": 150.0,
+      "rev_per_emp": 2077922.0,
+      "gp_per_emp": 1142857.0,
+      "op_per_emp": -2857143.0,
+      "ni_per_emp": -2987013.0,
+      "rd_per_emp": 3116883.0,
+      "rev_growth_yoy": 700.0,
+      "gp_growth_yoy": 700.0,
+      "op_growth_yoy": 307.41,
+      "ni_growth_yoy": 318.18,
+      "rd_growth_yoy": 300.0,
+      "hc_growth_yoy": 105.33,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 132.5
+    },
+    "2024": {
+      "revenue": 3700.0,
+      "gross_profit": 2035.0,
+      "operating_income": -4800.0,
+      "net_income": -5000.0,
+      "rd_expense": 5200.0,
+      "headcount": 1500,
+      "gross_margin": 55.0,
+      "operating_margin": -129.73,
+      "net_margin": -135.14,
+      "rd_pct_rev": 140.54,
+      "rev_per_emp": 2466667.0,
+      "gp_per_emp": 1356667.0,
+      "op_per_emp": -3200000.0,
+      "ni_per_emp": -3333333.0,
+      "rd_per_emp": 3466667.0,
+      "rev_growth_yoy": 131.25,
+      "gp_growth_yoy": 131.25,
+      "op_growth_yoy": 118.18,
+      "ni_growth_yoy": 117.39,
+      "rd_growth_yoy": 116.67,
+      "hc_growth_yoy": 94.81,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 7.77
+    },
+    "2025": {
+      "revenue": 11600.0,
+      "gross_profit": 6960.0,
+      "operating_income": -5500.0,
+      "net_income": -5800.0,
+      "rd_expense": 7500.0,
+      "headcount": 2500,
+      "gross_margin": 60.0,
+      "operating_margin": -47.41,
+      "net_margin": -50.0,
+      "rd_pct_rev": 64.66,
+      "rev_per_emp": 4640000.0,
+      "gp_per_emp": 2784000.0,
+      "op_per_emp": -2200000.0,
+      "ni_per_emp": -2320000.0,
+      "rd_per_emp": 3000000.0,
+      "rev_growth_yoy": 213.51,
+      "gp_growth_yoy": 242.01,
+      "op_growth_yoy": 14.58,
+      "ni_growth_yoy": 16.0,
+      "rd_growth_yoy": 44.23,
+      "hc_growth_yoy": 66.67,
+      "gm_diff_pp": 5.0,
+      "op_diff_pp": 82.32
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "ChatGPT Consumer & Plus Subscriptions",
+      "OpenAI Enterprise & API Developer Platform",
+      "Microsoft Azure Licensing & IP Royalties"
+    ],
+    "colors": [
+      "#10B981",
+      "#059669",
+      "#047857"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          0.5,
+          2.0,
+          1.0
+        ],
+        "volume": [
+          14,
+          57,
+          29
+        ]
+      },
+      "2021": {
+        "value": [
+          3.0,
+          18.0,
+          7.0
+        ],
+        "volume": [
+          11,
+          64,
+          25
+        ]
+      },
+      "2022": {
+        "value": [
+          40.0,
+          110.0,
+          50.0
+        ],
+        "volume": [
+          20,
+          55,
+          25
+        ]
+      },
+      "2023": {
+        "value": [
+          960.0,
+          480.0,
+          160.0
+        ],
+        "volume": [
+          60,
+          30,
+          10
+        ]
+      },
+      "2024": {
+        "value": [
+          2405.0,
+          925.0,
+          370.0
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2025": {
+        "value": [
+          7888.0,
+          2552.0,
+          1160.0
+        ],
+        "volume": [
+          68,
+          22,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "ChatGPT scale crossed 300M+ weekly active users expanding annual revenue from $200M in 2022 to $11.6B in 2025 with gross margins solidifying at 60.0%.",
+      "productivity": "Global workforce of 2,500 employees delivers industry-shattering $4.64M revenue/FTE and $2.78M gross profit/FTE.",
+      "leverage": "Frontier training of OpenAI o1/o3 reasoning models and GPT-5 involves $7.5B R&D, with subscription cash flows rapidly shrinking operating margin deficit to -47.4%.",
+      "rd": "World's largest AI infrastructure partnership with Microsoft Azure and custom Stargate datacenters fuels multi-modal frontier reasoning.",
+      "growth": "Revenue YoY surged +213.5% as ChatGPT Plus/Team/Enterprise subscriptions scale exponentially.",
+      "breakdown": "Consumer & Plus subscriptions account for 68% of monetization."
+    },
+    "zh": {
+      "pivot": "ChatGPT 周活躍用戶突破 3 億人，推動年營收由 2022 年 2 億美元爆發至 2025 年 116 億美元，毛利率提升至 60.0%\b。",
+      "productivity": "全球 2,500 名員工創造每人 464.0 萬美元營收與 278.4 萬美元毛利之全球軟體業最高人均產值紀錄。",
+      "leverage": "前沿 o1/o3 推理模型與下一代 GPT 訓練支出達 75 億美元，高訂閱現金流推動營益率虧損迅速收斂至 -47.4%。",
+      "rd": "與微軟 Azure 及 Stargate 超級運算中心深度合作，奠定全球多模態大模型領先地位。",
+      "growth": "營收年增率達 +213.5%，個人付費與企業版全面進入高速變現期。",
+      "breakdown": "ChatGPT 消費端與 Plus 訂閱貢獻集團 68% 核心營收。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive / AI Co-Design",
+        "desc": "Autonomous agent workflows & AI-driven tactical systems."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class Autonomy",
+        "desc": "Continuous self-optimizing multi-agent intelligence."
+      }
+    ]
+  }
+}

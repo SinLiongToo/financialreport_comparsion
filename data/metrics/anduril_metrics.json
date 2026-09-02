@@ -1,0 +1,301 @@
+{
+  "company_name": "Anduril Industries",
+  "ticker": "ANDURIL",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 50.0,
+      "gross_profit": 27.5,
+      "operating_income": -35.0,
+      "net_income": -38.0,
+      "rd_expense": 42.0,
+      "headcount": 350,
+      "gross_margin": 55.0,
+      "operating_margin": -70.0,
+      "net_margin": -76.0,
+      "rd_pct_rev": 84.0,
+      "rev_per_emp": 142857.0,
+      "gp_per_emp": 78571.0,
+      "op_per_emp": -100000.0,
+      "ni_per_emp": -108571.0,
+      "rd_per_emp": 120000.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 120.0,
+      "gross_profit": 69.6,
+      "operating_income": -65.0,
+      "net_income": -70.0,
+      "rd_expense": 95.0,
+      "headcount": 700,
+      "gross_margin": 58.0,
+      "operating_margin": -54.17,
+      "net_margin": -58.33,
+      "rd_pct_rev": 79.17,
+      "rev_per_emp": 171429.0,
+      "gp_per_emp": 99429.0,
+      "op_per_emp": -92857.0,
+      "ni_per_emp": -100000.0,
+      "rd_per_emp": 135714.0,
+      "rev_growth_yoy": 140.0,
+      "gp_growth_yoy": 153.09,
+      "op_growth_yoy": 85.71,
+      "ni_growth_yoy": 84.21,
+      "rd_growth_yoy": 126.19,
+      "hc_growth_yoy": 100.0,
+      "gm_diff_pp": 3.0,
+      "op_diff_pp": 15.83
+    },
+    "2022": {
+      "revenue": 280.0,
+      "gross_profit": 168.0,
+      "operating_income": -110.0,
+      "net_income": -118.0,
+      "rd_expense": 180.0,
+      "headcount": 1300,
+      "gross_margin": 60.0,
+      "operating_margin": -39.29,
+      "net_margin": -42.14,
+      "rd_pct_rev": 64.29,
+      "rev_per_emp": 215385.0,
+      "gp_per_emp": 129231.0,
+      "op_per_emp": -84615.0,
+      "ni_per_emp": -90769.0,
+      "rd_per_emp": 138462.0,
+      "rev_growth_yoy": 133.33,
+      "gp_growth_yoy": 141.38,
+      "op_growth_yoy": 69.23,
+      "ni_growth_yoy": 68.57,
+      "rd_growth_yoy": 89.47,
+      "hc_growth_yoy": 85.71,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 14.88
+    },
+    "2023": {
+      "revenue": 500.0,
+      "gross_profit": 310.0,
+      "operating_income": -140.0,
+      "net_income": -150.0,
+      "rd_expense": 280.0,
+      "headcount": 2000,
+      "gross_margin": 62.0,
+      "operating_margin": -28.0,
+      "net_margin": -30.0,
+      "rd_pct_rev": 56.0,
+      "rev_per_emp": 250000.0,
+      "gp_per_emp": 155000.0,
+      "op_per_emp": -70000.0,
+      "ni_per_emp": -75000.0,
+      "rd_per_emp": 140000.0,
+      "rev_growth_yoy": 78.57,
+      "gp_growth_yoy": 84.52,
+      "op_growth_yoy": 27.27,
+      "ni_growth_yoy": 27.12,
+      "rd_growth_yoy": 55.56,
+      "hc_growth_yoy": 53.85,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 11.29
+    },
+    "2024": {
+      "revenue": 850.0,
+      "gross_profit": 544.0,
+      "operating_income": -120.0,
+      "net_income": -130.0,
+      "rd_expense": 390.0,
+      "headcount": 2800,
+      "gross_margin": 64.0,
+      "operating_margin": -14.12,
+      "net_margin": -15.29,
+      "rd_pct_rev": 45.88,
+      "rev_per_emp": 303571.0,
+      "gp_per_emp": 194286.0,
+      "op_per_emp": -42857.0,
+      "ni_per_emp": -46429.0,
+      "rd_per_emp": 139286.0,
+      "rev_growth_yoy": 70.0,
+      "gp_growth_yoy": 75.48,
+      "op_growth_yoy": -14.29,
+      "ni_growth_yoy": -13.33,
+      "rd_growth_yoy": 39.29,
+      "hc_growth_yoy": 40.0,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 13.88
+    },
+    "2025": {
+      "revenue": 1450.0,
+      "gross_profit": 957.0,
+      "operating_income": -60.0,
+      "net_income": -75.0,
+      "rd_expense": 550.0,
+      "headcount": 3800,
+      "gross_margin": 66.0,
+      "operating_margin": -4.14,
+      "net_margin": -5.17,
+      "rd_pct_rev": 37.93,
+      "rev_per_emp": 381579.0,
+      "gp_per_emp": 251842.0,
+      "op_per_emp": -15789.0,
+      "ni_per_emp": -19737.0,
+      "rd_per_emp": 144737.0,
+      "rev_growth_yoy": 70.59,
+      "gp_growth_yoy": 75.92,
+      "op_growth_yoy": -50.0,
+      "ni_growth_yoy": -42.31,
+      "rd_growth_yoy": 41.03,
+      "hc_growth_yoy": 35.71,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 9.98
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Lattice AI Command & Control Software",
+      "Air Defense & Autonomous Drones (Roadrunner/Fury/Ghost)",
+      "Underwater & Maritime Autonomous Systems (Dive-LD)"
+    ],
+    "colors": [
+      "#EC4899",
+      "#DB2777",
+      "#BE185D"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          25.0,
+          18.0,
+          7.0
+        ],
+        "volume": [
+          50,
+          36,
+          14
+        ]
+      },
+      "2021": {
+        "value": [
+          62.0,
+          44.0,
+          14.0
+        ],
+        "volume": [
+          52,
+          37,
+          11
+        ]
+      },
+      "2022": {
+        "value": [
+          151.0,
+          98.0,
+          31.0
+        ],
+        "volume": [
+          54,
+          35,
+          11
+        ]
+      },
+      "2023": {
+        "value": [
+          280.0,
+          165.0,
+          55.0
+        ],
+        "volume": [
+          56,
+          33,
+          11
+        ]
+      },
+      "2024": {
+        "value": [
+          493.0,
+          272.0,
+          85.0
+        ],
+        "volume": [
+          58,
+          32,
+          10
+        ]
+      },
+      "2025": {
+        "value": [
+          870.0,
+          435.0,
+          145.0
+        ],
+        "volume": [
+          60,
+          30,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Anduril scaling of Lattice OS AI mesh and Roadrunner-M / Fury CCA unmanned combat platforms propelled revenue from $50M in 2020 to $1.45B in 2025 with gross margins expanding to 66.0%.",
+      "productivity": "3,800 defense software and hardware engineers generate $381.6k revenue/FTE and $251.8k gross profit/FTE.",
+      "leverage": "Operating margin loss compressed to -4.1% on robust prime defense contract wins across US Air Force, Navy, and Special Operations Command.",
+      "rd": "R&D investment of $550M funds rapid prototyping of solid rocket motors, AI air-defense interceptors, and autonomous submarines.",
+      "growth": "Revenue YoY expanded +70.6% establishing Anduril as a modern non-traditional defense prime.",
+      "breakdown": "Lattice AI Command & Control Software represents 60% of total revenue."
+    },
+    "zh": {
+      "pivot": "Anduril 旗下 Lattice OS 作戰指揮 AI 軟體與 Roadrunner 噴射攔截無人機、Fury 無人戰機大規模交付，帶動年營收由 2020 年 5,000 萬美元躍升至 2025 年 14.5 億美元，毛利率擴張至 66.0%。",
+      "productivity": "全球 3,800 名國防工程師團隊人均營收達 38.2 萬美元，人均毛利達 25.2 萬美元。",
+      "leverage": "營業利益率虧損收斂至 -4.1%，展現新興國防主合約商（Defense Prime）以軟體為核心的超高毛利與營運槓桿。",
+      "rd": "年度研發投入高達 5.5 億美元，全力投入固態火箭發動機、無人空戰防空與無人水下潛艇 (Dive-LD) 之極速原型開發。",
+      "growth": "營收年增率達 +70.6%，成為美軍國防現代化最核心的 AI 自主系統供應商。",
+      "breakdown": "Lattice AI 戰術指揮與感測融合軟體貢獻集團 60% 營收。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive / AI Co-Design",
+        "desc": "Autonomous agent workflows & AI-driven tactical systems."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class Autonomy",
+        "desc": "Continuous self-optimizing multi-agent intelligence."
+      }
+    ]
+  }
+}

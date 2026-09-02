@@ -1,0 +1,301 @@
+{
+  "company_name": "Shield AI",
+  "ticker": "SHIELD-AI",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 25.0,
+      "gross_profit": 12.5,
+      "operating_income": -18.0,
+      "net_income": -19.0,
+      "rd_expense": 22.0,
+      "headcount": 220,
+      "gross_margin": 50.0,
+      "operating_margin": -72.0,
+      "net_margin": -76.0,
+      "rd_pct_rev": 88.0,
+      "rev_per_emp": 113636.0,
+      "gp_per_emp": 56818.0,
+      "op_per_emp": -81818.0,
+      "ni_per_emp": -86364.0,
+      "rd_per_emp": 100000.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 48.0,
+      "gross_profit": 25.4,
+      "operating_income": -28.0,
+      "net_income": -30.0,
+      "rd_expense": 38.0,
+      "headcount": 380,
+      "gross_margin": 52.92,
+      "operating_margin": -58.33,
+      "net_margin": -62.5,
+      "rd_pct_rev": 79.17,
+      "rev_per_emp": 126316.0,
+      "gp_per_emp": 66842.0,
+      "op_per_emp": -73684.0,
+      "ni_per_emp": -78947.0,
+      "rd_per_emp": 100000.0,
+      "rev_growth_yoy": 92.0,
+      "gp_growth_yoy": 103.2,
+      "op_growth_yoy": 55.56,
+      "ni_growth_yoy": 57.89,
+      "rd_growth_yoy": 72.73,
+      "hc_growth_yoy": 72.73,
+      "gm_diff_pp": 2.92,
+      "op_diff_pp": 13.67
+    },
+    "2022": {
+      "revenue": 95.0,
+      "gross_profit": 52.3,
+      "operating_income": -42.0,
+      "net_income": -45.0,
+      "rd_expense": 65.0,
+      "headcount": 550,
+      "gross_margin": 55.05,
+      "operating_margin": -44.21,
+      "net_margin": -47.37,
+      "rd_pct_rev": 68.42,
+      "rev_per_emp": 172727.0,
+      "gp_per_emp": 95091.0,
+      "op_per_emp": -76364.0,
+      "ni_per_emp": -81818.0,
+      "rd_per_emp": 118182.0,
+      "rev_growth_yoy": 97.92,
+      "gp_growth_yoy": 105.91,
+      "op_growth_yoy": 50.0,
+      "ni_growth_yoy": 50.0,
+      "rd_growth_yoy": 71.05,
+      "hc_growth_yoy": 44.74,
+      "gm_diff_pp": 2.13,
+      "op_diff_pp": 14.12
+    },
+    "2023": {
+      "revenue": 180.0,
+      "gross_profit": 104.4,
+      "operating_income": -55.0,
+      "net_income": -58.0,
+      "rd_expense": 105.0,
+      "headcount": 750,
+      "gross_margin": 58.0,
+      "operating_margin": -30.56,
+      "net_margin": -32.22,
+      "rd_pct_rev": 58.33,
+      "rev_per_emp": 240000.0,
+      "gp_per_emp": 139200.0,
+      "op_per_emp": -73333.0,
+      "ni_per_emp": -77333.0,
+      "rd_per_emp": 140000.0,
+      "rev_growth_yoy": 89.47,
+      "gp_growth_yoy": 99.62,
+      "op_growth_yoy": 30.95,
+      "ni_growth_yoy": 28.89,
+      "rd_growth_yoy": 61.54,
+      "hc_growth_yoy": 36.36,
+      "gm_diff_pp": 2.95,
+      "op_diff_pp": 13.65
+    },
+    "2024": {
+      "revenue": 320.0,
+      "gross_profit": 192.0,
+      "operating_income": -45.0,
+      "net_income": -48.0,
+      "rd_expense": 145.0,
+      "headcount": 950,
+      "gross_margin": 60.0,
+      "operating_margin": -14.06,
+      "net_margin": -15.0,
+      "rd_pct_rev": 45.31,
+      "rev_per_emp": 336842.0,
+      "gp_per_emp": 202105.0,
+      "op_per_emp": -47368.0,
+      "ni_per_emp": -50526.0,
+      "rd_per_emp": 152632.0,
+      "rev_growth_yoy": 77.78,
+      "gp_growth_yoy": 83.91,
+      "op_growth_yoy": -18.18,
+      "ni_growth_yoy": -17.24,
+      "rd_growth_yoy": 38.1,
+      "hc_growth_yoy": 26.67,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 16.5
+    },
+    "2025": {
+      "revenue": 510.0,
+      "gross_profit": 316.2,
+      "operating_income": -25.0,
+      "net_income": -28.0,
+      "rd_expense": 190.0,
+      "headcount": 1200,
+      "gross_margin": 62.0,
+      "operating_margin": -4.9,
+      "net_margin": -5.49,
+      "rd_pct_rev": 37.25,
+      "rev_per_emp": 425000.0,
+      "gp_per_emp": 263500.0,
+      "op_per_emp": -20833.0,
+      "ni_per_emp": -23333.0,
+      "rd_per_emp": 158333.0,
+      "rev_growth_yoy": 59.38,
+      "gp_growth_yoy": 64.69,
+      "op_growth_yoy": -44.44,
+      "ni_growth_yoy": -41.67,
+      "rd_growth_yoy": 31.03,
+      "hc_growth_yoy": 26.32,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 9.16
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Hivemind AI Autonomy & Pilot Software",
+      "V-BAT VTOL Autonomous UAS Systems",
+      "DoD Defense Programs & Mission Support"
+    ],
+    "colors": [
+      "#6366F1",
+      "#4F46E5",
+      "#4338CA"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          8.0,
+          12.0,
+          5.0
+        ],
+        "volume": [
+          32,
+          48,
+          20
+        ]
+      },
+      "2021": {
+        "value": [
+          17.0,
+          23.0,
+          8.0
+        ],
+        "volume": [
+          35,
+          48,
+          17
+        ]
+      },
+      "2022": {
+        "value": [
+          38.0,
+          45.0,
+          12.0
+        ],
+        "volume": [
+          40,
+          47,
+          13
+        ]
+      },
+      "2023": {
+        "value": [
+          81.0,
+          79.0,
+          20.0
+        ],
+        "volume": [
+          45,
+          44,
+          11
+        ]
+      },
+      "2024": {
+        "value": [
+          160.0,
+          131.0,
+          29.0
+        ],
+        "volume": [
+          50,
+          41,
+          9
+        ]
+      },
+      "2025": {
+        "value": [
+          280.5,
+          188.7,
+          40.8
+        ],
+        "volume": [
+          55,
+          37,
+          8
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Shield AI Hivemind AI Pilot deployment across V-BAT tactical UAS and F-16 CCA uncrewed combat aircraft drove revenue from $25M in 2020 to $510M in 2025 with gross margins reaching 62.0%.",
+      "productivity": "1,200 defense AI and aerospace engineers produce $425.0k revenue/FTE and $263.5k gross profit/FTE.",
+      "leverage": "Operating margin loss narrowed to -4.9% approaching breakeven as pure software AI pilot licensing scales across allied defense platforms.",
+      "rd": "R&D investment of $190M accelerates GPS-denied autonomous flight, swarming tactics, and edge AI compute integration.",
+      "growth": "Revenue YoY expanded +59.4% on massive US DoD & international military procurements.",
+      "breakdown": "Hivemind AI Autonomy Software anchors 55% of revenue mix."
+    },
+    "zh": {
+      "pivot": "Shield AI 核心 Hivemind AI 飛行員系統搭載於 V-BAT 垂直起降無人機與 F-16 無人協同作戰戰鬥機 (CCA)，帶動營收由 2020 年 2,500 萬美元爆發至 2025 年 5.1 億美元，毛利率攀升至 62.0%。",
+      "productivity": "全球 1,200 名國防 AI 與航太團隊人均營收達 42.5 萬美元，人均毛利達 26.4 萬美元。",
+      "leverage": "營業利益率虧損大幅收斂至 -4.9%，隨著純軟體 AI 飛控授權擴大，即將跨越獲利平衡點。",
+      "rd": "年度研發投入達 1.9 億美元，全力強化無 GPS 訊號環境下的全自主作戰與多機蜂群協同演算法。",
+      "growth": "受惠美國國防部與盟國軍購訂單，營收年增率達 +59.4%。",
+      "breakdown": "Hivemind 自主飛控軟體貢獻集團 55% 營收。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive / AI Co-Design",
+        "desc": "Autonomous agent workflows & AI-driven tactical systems."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class Autonomy",
+        "desc": "Continuous self-optimizing multi-agent intelligence."
+      }
+    ]
+  }
+}

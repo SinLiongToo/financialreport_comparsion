@@ -1,0 +1,301 @@
+{
+  "company_name": "Ondas Holdings Inc.",
+  "ticker": "ONDS",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 2.2,
+      "gross_profit": 0.8,
+      "operating_income": -12.5,
+      "net_income": -13.2,
+      "rd_expense": 4.5,
+      "headcount": 45,
+      "gross_margin": 36.36,
+      "operating_margin": -568.18,
+      "net_margin": -600.0,
+      "rd_pct_rev": 204.55,
+      "rev_per_emp": 48889.0,
+      "gp_per_emp": 17778.0,
+      "op_per_emp": -277778.0,
+      "ni_per_emp": -293333.0,
+      "rd_per_emp": 100000.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 2.9,
+      "gross_profit": 1.1,
+      "operating_income": -20.8,
+      "net_income": -22.5,
+      "rd_expense": 7.2,
+      "headcount": 75,
+      "gross_margin": 37.93,
+      "operating_margin": -717.24,
+      "net_margin": -775.86,
+      "rd_pct_rev": 248.28,
+      "rev_per_emp": 38667.0,
+      "gp_per_emp": 14667.0,
+      "op_per_emp": -277333.0,
+      "ni_per_emp": -300000.0,
+      "rd_per_emp": 96000.0,
+      "rev_growth_yoy": 31.82,
+      "gp_growth_yoy": 37.5,
+      "op_growth_yoy": 66.4,
+      "ni_growth_yoy": 70.45,
+      "rd_growth_yoy": 60.0,
+      "hc_growth_yoy": 66.67,
+      "gm_diff_pp": 1.57,
+      "op_diff_pp": -149.06
+    },
+    "2022": {
+      "revenue": 2.1,
+      "gross_profit": 0.5,
+      "operating_income": -38.2,
+      "net_income": -74.3,
+      "rd_expense": 12.1,
+      "headcount": 120,
+      "gross_margin": 23.81,
+      "operating_margin": -1819.05,
+      "net_margin": -3538.1,
+      "rd_pct_rev": 576.19,
+      "rev_per_emp": 17500.0,
+      "gp_per_emp": 4167.0,
+      "op_per_emp": -318333.0,
+      "ni_per_emp": -619167.0,
+      "rd_per_emp": 100833.0,
+      "rev_growth_yoy": -27.59,
+      "gp_growth_yoy": -54.55,
+      "op_growth_yoy": 83.65,
+      "ni_growth_yoy": 230.22,
+      "rd_growth_yoy": 68.06,
+      "hc_growth_yoy": 60.0,
+      "gm_diff_pp": -14.12,
+      "op_diff_pp": -1101.81
+    },
+    "2023": {
+      "revenue": 15.7,
+      "gross_profit": 5.8,
+      "operating_income": -42.1,
+      "net_income": -45.6,
+      "rd_expense": 14.5,
+      "headcount": 145,
+      "gross_margin": 36.94,
+      "operating_margin": -268.15,
+      "net_margin": -290.45,
+      "rd_pct_rev": 92.36,
+      "rev_per_emp": 108276.0,
+      "gp_per_emp": 40000.0,
+      "op_per_emp": -290345.0,
+      "ni_per_emp": -314483.0,
+      "rd_per_emp": 100000.0,
+      "rev_growth_yoy": 647.62,
+      "gp_growth_yoy": 1060.0,
+      "op_growth_yoy": 10.21,
+      "ni_growth_yoy": -38.63,
+      "rd_growth_yoy": 19.83,
+      "hc_growth_yoy": 20.83,
+      "gm_diff_pp": 13.13,
+      "op_diff_pp": 1550.9
+    },
+    "2024": {
+      "revenue": 24.8,
+      "gross_profit": 9.9,
+      "operating_income": -34.6,
+      "net_income": -36.2,
+      "rd_expense": 13.8,
+      "headcount": 160,
+      "gross_margin": 39.92,
+      "operating_margin": -139.52,
+      "net_margin": -145.97,
+      "rd_pct_rev": 55.65,
+      "rev_per_emp": 155000.0,
+      "gp_per_emp": 61875.0,
+      "op_per_emp": -216250.0,
+      "ni_per_emp": -226250.0,
+      "rd_per_emp": 86250.0,
+      "rev_growth_yoy": 57.96,
+      "gp_growth_yoy": 70.69,
+      "op_growth_yoy": -17.81,
+      "ni_growth_yoy": -20.61,
+      "rd_growth_yoy": -4.83,
+      "hc_growth_yoy": 10.34,
+      "gm_diff_pp": 2.98,
+      "op_diff_pp": 128.63
+    },
+    "2025": {
+      "revenue": 38.5,
+      "gross_profit": 16.2,
+      "operating_income": -22.4,
+      "net_income": -24.1,
+      "rd_expense": 14.2,
+      "headcount": 180,
+      "gross_margin": 42.08,
+      "operating_margin": -58.18,
+      "net_margin": -62.6,
+      "rd_pct_rev": 36.88,
+      "rev_per_emp": 213889.0,
+      "gp_per_emp": 90000.0,
+      "op_per_emp": -124444.0,
+      "ni_per_emp": -133889.0,
+      "rd_per_emp": 78889.0,
+      "rev_growth_yoy": 55.24,
+      "gp_growth_yoy": 63.64,
+      "op_growth_yoy": -35.26,
+      "ni_growth_yoy": -33.43,
+      "rd_growth_yoy": 2.9,
+      "hc_growth_yoy": 12.5,
+      "gm_diff_pp": 2.16,
+      "op_diff_pp": 81.34
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "OAS Autonomous Drones & Military Systems",
+      "Ondas Networks Private Wireless",
+      "Defense & Security Services"
+    ],
+    "colors": [
+      "#1E3A8A",
+      "#0284C7",
+      "#059669"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          0.6,
+          1.4,
+          0.2
+        ],
+        "volume": [
+          27,
+          64,
+          9
+        ]
+      },
+      "2021": {
+        "value": [
+          0.8,
+          1.8,
+          0.3
+        ],
+        "volume": [
+          28,
+          62,
+          10
+        ]
+      },
+      "2022": {
+        "value": [
+          0.5,
+          1.3,
+          0.3
+        ],
+        "volume": [
+          24,
+          62,
+          14
+        ]
+      },
+      "2023": {
+        "value": [
+          10.2,
+          4.2,
+          1.3
+        ],
+        "volume": [
+          65,
+          27,
+          8
+        ]
+      },
+      "2024": {
+        "value": [
+          17.4,
+          5.6,
+          1.8
+        ],
+        "volume": [
+          70,
+          23,
+          7
+        ]
+      },
+      "2025": {
+        "value": [
+          28.5,
+          7.5,
+          2.5
+        ],
+        "volume": [
+          74,
+          19,
+          7
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Ondas pivot from pure rail wireless to autonomous drone-in-a-box defense systems (Airobotics & American Robotics) scaled revenue from $2.2M to $38.5M while gross margins expanded from 23.8% to 42.1%.",
+      "productivity": "Human capital productivity tracks at $213.9k revenue/FTE and $90.0k gross profit/FTE across 180 aerospace & wireless engineers.",
+      "leverage": "Operating loss narrows from -$42.1M to -$22.4M demonstrating accelerating operating leverage in automated perimeter security & military surveillance.",
+      "rd": "R&D investment of $14.2M sustains FullMAX IEEE 802.16s mesh communication and Optimus autonomous drone docking stations.",
+      "growth": "Revenue YoY expanded +55.2% outpacing headcount growth of +12.5% YoY.",
+      "breakdown": "OAS Autonomous Drones & Military Systems anchors 74% of revenue mix."
+    },
+    "zh": {
+      "pivot": "Ondas 由鐵道專網轉型為自主無人機機巢軍工防衛系統（併購 Airobotics 與 American Robotics），帶動營收由 220 萬美元爆發增長至 3,850 萬美元，毛利率由 23.8% 回升至 42.1%。",
+      "productivity": "全球 180 名航太與無線通訊團隊人均營收達 21.4 萬美元，人均毛利達 9.0 萬美元。",
+      "leverage": "營業虧損由 4,210 萬美元收斂至 2,240 萬美元，展現無人機邊防與軍工巡檢標準化軟硬體之營運槓桿。",
+      "rd": "年度研發維持 1,420 萬美元高強度，持續推進 FullMAX 軍規私網與 Optimus 自動充換電無人機機巢。",
+      "growth": "營收年增率達 +55.2%，遠高於員工人數年增率 +12.5%。",
+      "breakdown": "自主無人機與軍工防禦系統貢獻集團 74% 核心營收。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 3,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive / AI Co-Design",
+        "desc": "Autonomous agent workflows & AI-driven tactical systems."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class Autonomy",
+        "desc": "Continuous self-optimizing multi-agent intelligence."
+      }
+    ]
+  }
+}

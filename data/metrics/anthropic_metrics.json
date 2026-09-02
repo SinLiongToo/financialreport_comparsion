@@ -1,0 +1,263 @@
+{
+  "company_name": "Anthropic PBC",
+  "ticker": "ANTHROPIC",
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2021": {
+      "revenue": 0.5,
+      "gross_profit": 0.3,
+      "operating_income": -18.0,
+      "net_income": -18.0,
+      "rd_expense": 25.0,
+      "headcount": 40,
+      "gross_margin": 60.0,
+      "operating_margin": -3600.0,
+      "net_margin": -3600.0,
+      "rd_pct_rev": 5000.0,
+      "rev_per_emp": 12500.0,
+      "gp_per_emp": 7500.0,
+      "op_per_emp": -450000.0,
+      "ni_per_emp": -450000.0,
+      "rd_per_emp": 625000.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2022": {
+      "revenue": 10.0,
+      "gross_profit": 5.5,
+      "operating_income": -85.0,
+      "net_income": -90.0,
+      "rd_expense": 110.0,
+      "headcount": 120,
+      "gross_margin": 55.0,
+      "operating_margin": -850.0,
+      "net_margin": -900.0,
+      "rd_pct_rev": 1100.0,
+      "rev_per_emp": 83333.0,
+      "gp_per_emp": 45833.0,
+      "op_per_emp": -708333.0,
+      "ni_per_emp": -750000.0,
+      "rd_per_emp": 916667.0,
+      "rev_growth_yoy": 1900.0,
+      "gp_growth_yoy": 1733.33,
+      "op_growth_yoy": 372.22,
+      "ni_growth_yoy": 400.0,
+      "rd_growth_yoy": 340.0,
+      "hc_growth_yoy": 200.0,
+      "gm_diff_pp": -5.0,
+      "op_diff_pp": 2750.0
+    },
+    "2023": {
+      "revenue": 100.0,
+      "gross_profit": 52.0,
+      "operating_income": -450.0,
+      "net_income": -480.0,
+      "rd_expense": 520.0,
+      "headcount": 300,
+      "gross_margin": 52.0,
+      "operating_margin": -450.0,
+      "net_margin": -480.0,
+      "rd_pct_rev": 520.0,
+      "rev_per_emp": 333333.0,
+      "gp_per_emp": 173333.0,
+      "op_per_emp": -1500000.0,
+      "ni_per_emp": -1600000.0,
+      "rd_per_emp": 1733333.0,
+      "rev_growth_yoy": 900.0,
+      "gp_growth_yoy": 845.45,
+      "op_growth_yoy": 429.41,
+      "ni_growth_yoy": 433.33,
+      "rd_growth_yoy": 372.73,
+      "hc_growth_yoy": 150.0,
+      "gm_diff_pp": -3.0,
+      "op_diff_pp": 400.0
+    },
+    "2024": {
+      "revenue": 850.0,
+      "gross_profit": 467.5,
+      "operating_income": -1850.0,
+      "net_income": -1950.0,
+      "rd_expense": 2100.0,
+      "headcount": 650,
+      "gross_margin": 55.0,
+      "operating_margin": -217.65,
+      "net_margin": -229.41,
+      "rd_pct_rev": 247.06,
+      "rev_per_emp": 1307692.0,
+      "gp_per_emp": 719231.0,
+      "op_per_emp": -2846154.0,
+      "ni_per_emp": -3000000.0,
+      "rd_per_emp": 3230769.0,
+      "rev_growth_yoy": 750.0,
+      "gp_growth_yoy": 799.04,
+      "op_growth_yoy": 311.11,
+      "ni_growth_yoy": 306.25,
+      "rd_growth_yoy": 303.85,
+      "hc_growth_yoy": 116.67,
+      "gm_diff_pp": 3.0,
+      "op_diff_pp": 232.35
+    },
+    "2025": {
+      "revenue": 2800.0,
+      "gross_profit": 1680.0,
+      "operating_income": -3200.0,
+      "net_income": -3400.0,
+      "rd_expense": 3800.0,
+      "headcount": 1100,
+      "gross_margin": 60.0,
+      "operating_margin": -114.29,
+      "net_margin": -121.43,
+      "rd_pct_rev": 135.71,
+      "rev_per_emp": 2545455.0,
+      "gp_per_emp": 1527273.0,
+      "op_per_emp": -2909091.0,
+      "ni_per_emp": -3090909.0,
+      "rd_per_emp": 3454545.0,
+      "rev_growth_yoy": 229.41,
+      "gp_growth_yoy": 259.36,
+      "op_growth_yoy": 72.97,
+      "ni_growth_yoy": 74.36,
+      "rd_growth_yoy": 80.95,
+      "hc_growth_yoy": 69.23,
+      "gm_diff_pp": 5.0,
+      "op_diff_pp": 103.36
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "Claude Enterprise & API Platform",
+      "Claude Pro & Consumer Subscriptions",
+      "Strategic Cloud Partnerships (AWS/GCP)"
+    ],
+    "colors": [
+      "#D97706",
+      "#B45309",
+      "#78350F"
+    ],
+    "data": {
+      "2021": {
+        "value": [
+          0.3,
+          0.1,
+          0.1
+        ],
+        "volume": [
+          60,
+          20,
+          20
+        ]
+      },
+      "2022": {
+        "value": [
+          6.0,
+          2.5,
+          1.5
+        ],
+        "volume": [
+          60,
+          25,
+          15
+        ]
+      },
+      "2023": {
+        "value": [
+          65.0,
+          22.0,
+          13.0
+        ],
+        "volume": [
+          65,
+          22,
+          13
+        ]
+      },
+      "2024": {
+        "value": [
+          595.0,
+          153.0,
+          102.0
+        ],
+        "volume": [
+          70,
+          18,
+          12
+        ]
+      },
+      "2025": {
+        "value": [
+          2044.0,
+          476.0,
+          280.0
+        ],
+        "volume": [
+          73,
+          17,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Anthropic Claude 3.5 & 3.7 Sonnet architectural breakthroughs propelled annualized revenue from $10M in 2022 to $2.8B in 2025 with GAAP gross margin expanding to 60.0%.",
+      "productivity": "Exceptional human capital leverage with 1,100 research scientists and systems engineers producing $2.55M revenue/FTE and $1.53M gross profit/FTE.",
+      "leverage": "Frontier foundation model compute training requires $3.8B R&D reinvestment, offset by rapid enterprise adoption in automated software coding & agent workflows.",
+      "rd": "Massive compute cluster scaling across AWS Trainium & Google TPU supercomputing clusters fuels next-generation autonomous AI capabilities.",
+      "growth": "Revenue YoY surged +229.4% reflecting hyper-growth in enterprise API consumption.",
+      "breakdown": "Claude Enterprise & API Platform generates 73% of overall revenue."
+    },
+    "zh": {
+      "pivot": "Anthropic 憑藉 Claude 3.5 / 3.7 Sonnet 頂尖推理架構，帶動年化營收由 2022 年 1,000 萬美元飆升至 2025 年 28 億美元，毛利率提升至 60.0%。",
+      "productivity": "全球 1,100 名頂尖 AI 科學家與系統工程團隊創造每人 254.5 萬美元營收與 152.7 萬美元毛利之頂級人均產值。",
+      "leverage": "前沿大模型訓練推升研發支出達 38 億美元，企業級代碼生成與自主 Agent 工作流成為最快變現引擎。",
+      "rd": "結合 AWS Trainium 與 Google TPU 算力集群，全力加速前沿安全 AI 模型研發。",
+      "growth": "營收年增率高達 +229.4%，展現全球企業級 API 調用之指數級爆發力。",
+      "breakdown": "Claude Enterprise 與開發者 API 平台貢獻集團 73% 營收。"
+    }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Level 1: Reactive",
+        "desc": "Disorganized processes and manual reporting."
+      },
+      {
+        "level": 2,
+        "name": "Level 2: Standardized",
+        "desc": "Established SOPs and baseline KPIs."
+      },
+      {
+        "level": 3,
+        "name": "Level 3: Automated",
+        "desc": "Automated analytics and workflow pipelines."
+      },
+      {
+        "level": 4,
+        "name": "Level 4: Predictive / AI Co-Design",
+        "desc": "Autonomous agent workflows & AI-driven tactical systems."
+      },
+      {
+        "level": 5,
+        "name": "Level 5: World-Class Autonomy",
+        "desc": "Continuous self-optimizing multi-agent intelligence."
+      }
+    ]
+  }
+}

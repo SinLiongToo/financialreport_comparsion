@@ -843,6 +843,37 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.2.0 (2026-09-02)**：
+  - **新增 5 家 AI 前沿大模型實驗室與國防軍工科技旗艦企業（Ondas, Anthropic, ChatGPT/OpenAI, Shield AI, Anduril）暨建立專屬「國防軍工 (Military AI)」賽道分組**：
+    - **Ondas Holdings (ONDS / NASDAQ: ONDS / 美國 🇺🇸)**：
+      - **5 年期年度與季度財報**：收錄 2020～2025 財報，年營收由 $2.2M 增長至 $38.5M，毛利率由 23.8% 回升至 42.1%，人均營收達 $21.4 萬/人。
+      - **Chart 6 業務分拆**：自主無人機機巢與軍工防禦系統 (OAS ~74%)、FullMAX 軍規專網 (Ondas Networks ~19%) 與國防安防技術服務 (~7%)。
+    - **Anthropic PBC (Anthropic / Claude AI / 未上市 / 美國 🇺🇸)**：
+      - **5 年期年度與季度財務模型**：收錄 2021～2025 年化數據，憑藉 Claude 3.5 / 3.7 Sonnet，年營收由 2022 年 $10M 飆升至 2025 年 $2.8B，毛利率 60.0%，全球 1,100 名頂尖科學家人均營收達 $254.5 萬/人。
+      - **Chart 6 業務分拆**：Claude Enterprise 企業版與開發者 API (~73%)、Claude Pro 個人訂閱 (~17%) 與 AWS/GCP 戰略雲端合作分成 (~10%)。
+    - **OpenAI (ChatGPT / 未上市 / 美國 🇺🇸)**：
+      - **6 年期年度與季度財務模型**：收錄 2020～2025 年化數據，周活突破 3 億人，年營收由 2022 年 $200M 躍升至 2025 年 $11.6B，毛利率 60.0%，全球 2,500 名員工創造人均營收 $464.0 萬/人與人均毛利 $278.4 萬/人之全球軟體業最高紀錄。
+      - **Chart 6 業務分拆**：ChatGPT 消費端與 Plus 訂閱 (~68%)、OpenAI Enterprise 企業版與 API 平台 (~22%) 與微軟 Azure 授權及技術分潤 (~10%)。
+    - **Shield AI (Shield AI / Hivemind / 未上市 / 美國 🇺🇸)**：
+      - **6 年期年度與季度財務模型**：收錄 2020～2025 年化數據，核心 Hivemind AI 飛行員系統搭載於 V-BAT 垂直起降無人機與 F-16 CCA 無人協同作戰，營收由 2020 年 $25M 增至 2025 年 $510M，毛利率達 62.0%，營業利益率虧損收斂至 -4.9% 即將實現損益平衡。
+      - **Chart 6 業務分拆**：Hivemind 自主 AI 飛行員軟體 (~55%)、V-BAT 垂直起降戰術無人機系統 (~37%) 與國防部專案任務支援 (~8%)。
+    - **Anduril Industries (Anduril / Lattice AI / 未上市 / 美國 🇺🇸)**：
+      - **6 年期年度與季度財務模型**：收錄 2020～2025 年化數據，旗下 Lattice OS 作戰指揮 AI 軟體與 Roadrunner-M / Fury CCA 大規模交付，年營收由 2020 年 $50M 躍升至 2025 年 $14.5 億美元，毛利率達 66.0%，人均營收達 $38.2 萬/人。
+      - **Chart 6 業務分拆**：Lattice AI 指揮管制與感測融合軟體 (~60%)、防空與無人戰機戰術硬體 (~30%) 與 Dive-LD 無人水下潛艇系統 (~10%)。
+  - **建立專屬「國防軍工 (Military AI)」產業賽道與多重標籤雙向匹配 (Dual-Sector Tagging)**：
+    - 新增 `MILITARY` 產業篩選按鈕（🛡️ 國防軍工 / 國防 AI），並將 `ONDS`、`SHIELD-AI`、`ANDURIL` 及現有 `PLTR` 同步納入軍工賽道。
+    - 同時支援 AI 與國防雙重屬性匹配，點選「雲端軟體 / AI」或「國防軍工 / 國防 AI」均能精準對齊並橫向評估。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.2.0`（`Updated: 2026-09-02`），全庫 52 家企業、221 個期別數據審計 100% 通過。
+
+- **v3.1.1 (2026-09-02)**：
+  - **修復雲端軟體與 AI (Cloud & AI Software / Hyperscalers) 散佈矩陣圖表點位缺漏與數據校正**：
+    - **Amazon (AMZN) 季度毛利補齊**：修復 AMZN 季度財報中 2026 Q1 與 2026 Q2 之 `gross_profit` 與 `gross_margin` (49.50%) 數據缺漏，徹底解決二維戰略四象限與氣泡矩陣圖 (Bivariate Strategic Quadrant & Bubble Matrix Benchmark) 因缺失毛利率而導致 5 家企業中 AMZN 遭排除之問題。
+    - **Microsoft (MSFT) 季度數據校正**：修正 MSFT 2026 季度營收與獲利異常數值，精準校正為 2026 Q1 ($80,500M) 與 2026 Q2 ($84,200M)，毛利率 69.4%～69.5%、營業利益率 45.3%，移除無效期別。
+    - **Palantir (PLTR) 千元轉百萬美元 ($M) 單位歸一化**：修復 PLTR 2026 季度營收與獲利單位失真問題，標準化為 $1,632.58M 與 $1,935.46M，精準重算人均產值。
+    - **Apple (AAPL) 產業分類精準劃分**：將 Apple 正式歸併入「系統組裝 / 品牌 / OEM (System OEM/ODM)」，使「雲端軟體 / AI (Cloud & AI Software)」產業精準對齊 5 大純軟體與超大規模雲端巨頭（Google、Microsoft、Meta、Amazon、Palantir）。
+    - **散佈矩陣防禦性動態推導機制 (SCATTER_METRICS Fallbacks)**：於 `dashboard.js` 中新增動態運算防護，當財報原始物件中個別衍生比率（如毛利率、營業利益率、人均產值等）為空時，自動以營業收入、營業毛利、營業利益及全球員工人數即時推導，確保 100% 完整繪製所有選取企業。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.1.1`（`Updated: 2026-09-02`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.1.0 (2026-09-02)**：
   - **新增全球化合物半導體晶圓代工龍頭 穩懋半導體 (WIN Semiconductors Corp. / 3105.TW) 與歐洲車用暨功率半導體巨頭 意法半導體 (STMicroelectronics / STM) 5 年期審計基準庫與深度戰略分析**：
     - **穩懋半導體 (WIN Semiconductors / 3105.TW / Taiwan 🇹🇼)**：
@@ -972,6 +1003,8 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.2.0 - feat: add Ondas, Anthropic, ChatGPT (OpenAI), Shield AI, and Anduril with dedicated Military AI sector
+* commit v3.1.1 - fix: resolve scatter matrix company drop by completing AMZN quarterly gross profit, calibrating MSFT and PLTR metrics, classifying AAPL under SYSTEM, and adding defensive fallbacks
 * commit v3.1.0 - feat: integrate WIN Semiconductors (3105.TW) and STMicroelectronics (STM) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v3.0.0 - feat: integrate SK Hynix (000660.KS), SUMCO (3436.T), Shin-Etsu Chemical (4063.T), and GlobalWafers (6488.TWO) 5-year audited financial reports, sales breakdown, and quarterly analytics
 * commit v2.9.0 - feat: integrate Realtek (2379.TW) 5-year audited financial reports, sales breakdown, and quarterly analytics
