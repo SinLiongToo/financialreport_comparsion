@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="overflow-x-hidden">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -430,12 +430,38 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
 }
 
 
+/* ========================================================================= */
+/* MOBILE & RESPONSIVE PLOTLY LAYOUT OPTIMIZATION                            */
+/* ========================================================================= */
+@media (max-width: 767px) {
+    html, body {
+        overflow-x: hidden !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    .js-plotly-plot, .plot-container {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    .js-plotly-plot .plotly .main-svg {
+        overflow: visible !important;
+        max-width: 100% !important;
+    }
+    .plotly .legend {
+        transform: scale(0.88);
+        transform-origin: top left;
+    }
+    #companySelect {
+        max-width: 150px !important;
+    }
+}
+
 </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen">
+<body class="bg-slate-900 text-slate-100 min-h-screen overflow-x-hidden w-full max-w-full">
     <!-- Header -->
     <header class="bg-slate-800 border-b border-slate-700 sticky top-0 z-40 shadow-md">
-        <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap justify-between items-center gap-4">
+        <div class="max-w-7xl mx-auto px-3 sm:px-4 py-2.5 sm:py-3 flex flex-col md:flex-row md:justify-between md:items-center gap-3 w-full max-w-full overflow-hidden">
             <div class="flex items-center space-x-3">
                 <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-blue-500/30">
                     <i class="fa-solid fa-chart-line"></i>
@@ -445,7 +471,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                         Financial & OpEx Strategic Dashboard
                         <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2 py-0.5 rounded-full font-medium" data-i18n="badge_workflow">One-Click Workflow</span>
                         <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm">
-                            <i class="fa-solid fa-code-branch text-[10px]"></i> v3.4.0
+                            <i class="fa-solid fa-code-branch text-[10px]"></i> v3.4.1
                         </span>
                         <span class="text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-2 py-0.5 rounded-full font-normal inline-flex items-center gap-1">
                             <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-02</span>
@@ -477,7 +503,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </div>
             
             <!-- Quick Actions, User Guide & Language Switcher -->
-            <div class="flex flex-wrap items-center gap-2.5">
+            <div class="flex flex-wrap items-center gap-2 w-full md:w-auto">
                 <!-- Frequency Switcher (Annual 10-K vs Quarterly 10-Q) -->
                 <div class="bg-slate-700/90 border border-slate-600 p-1 rounded-lg flex items-center shadow-inner">
                     <button id="freqAnnualBtn" class="bg-blue-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold shadow transition-all flex items-center gap-1">
@@ -509,7 +535,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                 </button>
 
                 <!-- Single View Company Selector -->
-                <select id="companySelect" class="bg-slate-700 border border-slate-600 rounded-lg px-3 py-1.5 text-sm font-medium focus:ring-2 focus:ring-blue-500 outline-none text-white">
+                <select id="companySelect" class="bg-slate-700 border border-slate-600 rounded-lg px-2.5 py-1.5 text-xs sm:text-sm font-medium focus:ring-2 focus:ring-blue-500 outline-none text-white max-w-[160px] sm:max-w-xs truncate">
                     <option value="WIN-SEMI">WIN Semiconductors (3105 / 穩懋半導體)</option>
                     <option value="STM">STMicroelectronics (STM / 意法半導體)</option>
                     <option value="SK-HYNIX">SK hynix (000660.KS / SK海力士)</option>
@@ -564,7 +590,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-4 py-6 space-y-6">
+    <main class="max-w-7xl mx-auto px-2 sm:px-4 py-4 sm:py-6 space-y-4 sm:space-y-6 overflow-x-hidden w-full max-w-full">
 
         <!-- ========================================================================= -->
         <!-- VIEW 1: SINGLE COMPANY DEEP DIVE                                          -->
@@ -4743,16 +4769,22 @@ function renderCharts(data) {
     });
 
     const isQuarterly = sortedYears.some(p => p.includes("Q"));
+    const isMobile = window.innerWidth < 768;
 
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11, family: "Inter, system-ui, sans-serif" },
-        margin: { l: 45, r: 45, t: 55, b: isQuarterly ? 55 : 35 },
+        font: { color: fontColor, size: isMobile ? 10 : 11, family: "Inter, system-ui, sans-serif" },
+        margin: {
+            l: isMobile ? 38 : 45,
+            r: isMobile ? 15 : 45,
+            t: isMobile ? 40 : 55,
+            b: isMobile ? (isQuarterly ? 65 : 45) : (isQuarterly ? 55 : 35)
+        },
         hovermode: "closest",
         legend: {
             orientation: "h",
-            y: 1.15,
+            y: isMobile ? -0.2 : 1.15,
             x: 0,
             font: { size: 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
             bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
@@ -5176,27 +5208,27 @@ function renderComparisonView(companiesData) {
     });
 
     const isQuarterly = sortedAllPeriods.some(p => p.includes("Q"));
-
+    const isMobile = window.innerWidth < 768;
     const isMulti = tickers.length > 4;
 
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11.5, family: "Inter, system-ui, sans-serif" },
+        font: { color: fontColor, size: isMobile ? 10 : 11.5, family: "Inter, system-ui, sans-serif" },
         margin: {
-            l: 55,
-            r: isMulti ? 150 : 35,
-            t: isMulti ? 30 : 60,
-            b: isQuarterly ? 60 : 40
+            l: isMobile ? 42 : 55,
+            r: isMobile ? 15 : (isMulti ? 150 : 35),
+            t: isMobile ? 25 : (isMulti ? 30 : 60),
+            b: isMobile ? (isQuarterly ? 70 : 55) : (isQuarterly ? 60 : 40)
         },
         hovermode: "closest",
         legend: {
-            orientation: isMulti ? "v" : "h",
-            x: isMulti ? 1.02 : 0,
-            y: isMulti ? 1 : 1.16,
+            orientation: (isMobile || !isMulti) ? "h" : "v",
+            x: (isMobile || !isMulti) ? 0 : 1.02,
+            y: isMobile ? -0.28 : (isMulti ? 1 : 1.16),
             xanchor: "left",
-            yanchor: isMulti ? "top" : "bottom",
-            font: { size: 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
+            yanchor: isMobile ? "top" : (isMulti ? "top" : "bottom"),
+            font: { size: isMobile ? 9.5 : 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
             bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
             bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
             borderwidth: 1
@@ -5214,7 +5246,7 @@ function renderComparisonView(companiesData) {
         xaxis: {
             categoryorder: "array",
             categoryarray: sortedAllPeriods,
-            tickangle: isQuarterly ? -45 : 0,
+            tickangle: (isMobile || isQuarterly) ? -45 : 0,
             automargin: true,
             showgrid: true,
             gridcolor: gridColor
@@ -5570,21 +5602,27 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
         );
     }
 
+    const isMobile = window.innerWidth < 768;
     const isMulti = tickers.length > 4;
     const scatterLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 12.5, family: "Inter, system-ui, sans-serif" },
-        margin: { l: 65, r: isMulti ? 180 : 45, t: 40, b: 55 },
+        font: { color: fontColor, size: isMobile ? 10.5 : 12.5, family: "Inter, system-ui, sans-serif" },
+        margin: {
+            l: isMobile ? 45 : 65,
+            r: isMobile ? 15 : (isMulti ? 180 : 45),
+            t: isMobile ? 30 : 40,
+            b: isMobile ? 65 : 55
+        },
         hovermode: "closest",
         showlegend: true,
         legend: {
-            orientation: isMulti ? "v" : "h",
-            x: isMulti ? 1.02 : 0,
-            y: isMulti ? 1 : 1.14,
+            orientation: (isMobile || !isMulti) ? "h" : "v",
+            x: (isMobile || !isMulti) ? 0 : 1.02,
+            y: isMobile ? -0.28 : (isMulti ? 1 : 1.14),
             xanchor: "left",
-            yanchor: isMulti ? "top" : "bottom",
-            font: { size: 12, color: fontColor },
+            yanchor: isMobile ? "top" : (isMulti ? "top" : "bottom"),
+            font: { size: isMobile ? 9.5 : 12, color: fontColor },
             bgcolor: isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)",
             bordercolor: isLight ? "rgba(148, 163, 184, 0.8)" : "rgba(51, 65, 85, 0.8)",
             borderwidth: 1.5

@@ -2699,16 +2699,22 @@ function renderCharts(data) {
     });
 
     const isQuarterly = sortedYears.some(p => p.includes("Q"));
+    const isMobile = window.innerWidth < 768;
 
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11, family: "Inter, system-ui, sans-serif" },
-        margin: { l: 45, r: 45, t: 55, b: isQuarterly ? 55 : 35 },
+        font: { color: fontColor, size: isMobile ? 10 : 11, family: "Inter, system-ui, sans-serif" },
+        margin: {
+            l: isMobile ? 38 : 45,
+            r: isMobile ? 15 : 45,
+            t: isMobile ? 40 : 55,
+            b: isMobile ? (isQuarterly ? 65 : 45) : (isQuarterly ? 55 : 35)
+        },
         hovermode: "closest",
         legend: {
             orientation: "h",
-            y: 1.15,
+            y: isMobile ? -0.2 : 1.15,
             x: 0,
             font: { size: 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
             bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
@@ -3132,27 +3138,27 @@ function renderComparisonView(companiesData) {
     });
 
     const isQuarterly = sortedAllPeriods.some(p => p.includes("Q"));
-
+    const isMobile = window.innerWidth < 768;
     const isMulti = tickers.length > 4;
 
     const commonLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 11.5, family: "Inter, system-ui, sans-serif" },
+        font: { color: fontColor, size: isMobile ? 10 : 11.5, family: "Inter, system-ui, sans-serif" },
         margin: {
-            l: 55,
-            r: isMulti ? 150 : 35,
-            t: isMulti ? 30 : 60,
-            b: isQuarterly ? 60 : 40
+            l: isMobile ? 42 : 55,
+            r: isMobile ? 15 : (isMulti ? 150 : 35),
+            t: isMobile ? 25 : (isMulti ? 30 : 60),
+            b: isMobile ? (isQuarterly ? 70 : 55) : (isQuarterly ? 60 : 40)
         },
         hovermode: "closest",
         legend: {
-            orientation: isMulti ? "v" : "h",
-            x: isMulti ? 1.02 : 0,
-            y: isMulti ? 1 : 1.16,
+            orientation: (isMobile || !isMulti) ? "h" : "v",
+            x: (isMobile || !isMulti) ? 0 : 1.02,
+            y: isMobile ? -0.28 : (isMulti ? 1 : 1.16),
             xanchor: "left",
-            yanchor: isMulti ? "top" : "bottom",
-            font: { size: 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
+            yanchor: isMobile ? "top" : (isMulti ? "top" : "bottom"),
+            font: { size: isMobile ? 9.5 : 11.5, color: isLight ? "#0f172a" : "#f8fafc", family: "Inter, system-ui, sans-serif" },
             bgcolor: isLight ? "rgba(255, 255, 255, 0.9)" : "rgba(15, 23, 42, 0.9)",
             bordercolor: isLight ? "rgba(203, 213, 225, 0.8)" : "rgba(51, 65, 85, 0.8)",
             borderwidth: 1
@@ -3170,7 +3176,7 @@ function renderComparisonView(companiesData) {
         xaxis: {
             categoryorder: "array",
             categoryarray: sortedAllPeriods,
-            tickangle: isQuarterly ? -45 : 0,
+            tickangle: (isMobile || isQuarterly) ? -45 : 0,
             automargin: true,
             showgrid: true,
             gridcolor: gridColor
@@ -3526,21 +3532,27 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
         );
     }
 
+    const isMobile = window.innerWidth < 768;
     const isMulti = tickers.length > 4;
     const scatterLayout = {
         paper_bgcolor: "transparent",
         plot_bgcolor: "transparent",
-        font: { color: fontColor, size: 12.5, family: "Inter, system-ui, sans-serif" },
-        margin: { l: 65, r: isMulti ? 180 : 45, t: 40, b: 55 },
+        font: { color: fontColor, size: isMobile ? 10.5 : 12.5, family: "Inter, system-ui, sans-serif" },
+        margin: {
+            l: isMobile ? 45 : 65,
+            r: isMobile ? 15 : (isMulti ? 180 : 45),
+            t: isMobile ? 30 : 40,
+            b: isMobile ? 65 : 55
+        },
         hovermode: "closest",
         showlegend: true,
         legend: {
-            orientation: isMulti ? "v" : "h",
-            x: isMulti ? 1.02 : 0,
-            y: isMulti ? 1 : 1.14,
+            orientation: (isMobile || !isMulti) ? "h" : "v",
+            x: (isMobile || !isMulti) ? 0 : 1.02,
+            y: isMobile ? -0.28 : (isMulti ? 1 : 1.14),
             xanchor: "left",
-            yanchor: isMulti ? "top" : "bottom",
-            font: { size: 12, color: fontColor },
+            yanchor: isMobile ? "top" : (isMulti ? "top" : "bottom"),
+            font: { size: isMobile ? 9.5 : 12, color: fontColor },
             bgcolor: isLight ? "rgba(255, 255, 255, 0.95)" : "rgba(15, 23, 42, 0.95)",
             bordercolor: isLight ? "rgba(148, 163, 184, 0.8)" : "rgba(51, 65, 85, 0.8)",
             borderwidth: 1.5

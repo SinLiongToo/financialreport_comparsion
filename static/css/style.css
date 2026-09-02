@@ -413,3 +413,29 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
     color: #0f172a !important;
 }
 
+
+/* ========================================================================= */
+/* MOBILE & RESPONSIVE PLOTLY LAYOUT OPTIMIZATION                            */
+/* ========================================================================= */
+@media (max-width: 767px) {
+    html, body {
+        overflow-x: hidden !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    .js-plotly-plot, .plot-container {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    .js-plotly-plot .plotly .main-svg {
+        overflow: visible !important;
+        max-width: 100% !important;
+    }
+    .plotly .legend {
+        transform: scale(0.88);
+        transform-origin: top left;
+    }
+    #companySelect {
+        max-width: 150px !important;
+    }
+}

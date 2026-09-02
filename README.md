@@ -843,6 +843,12 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.4.1 (2026-09-02)**：
+  - **修復手機端 (Cell Phone Mode) 頂部過寬與圖表被擠壓至單側之排版問題 (Mobile RWD Optimization)**：
+    - **頂部排版修復**：修復頂部導覽列在手機直向螢幕下的超寬問題，加入 `overflow-x-hidden`、自適應 flex-col 折行與 `#companySelect` 寬度限制，徹底消除行動裝置橫向捲動軸。
+    - **圖表 RWD 自適應重構**：重構 Plotly 圖表佈局引擎（`commonLayout` & `scatterLayout`）。在小於 768px 之手機螢幕下，自動將多企業圖例（Legend）由右側縱向移至底部橫向，並將右側邊距由 150px/180px 縮減為 15px，釋放 100% 畫布寬度，解決圖表在手機端被擠成細條之視覺異常。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.4.1`（`Updated: 2026-09-02`），重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.4.0 (2026-09-02)**：
   - **新增多企業對標面板「一鍵收合 / 展開」功能 (1-Click Grid Collapse / Expand)**：
     - 於「多企業橫向同業對標」控制列右上角新增收合按鈕（`#toggleCompareGridBtn` / `一鍵收合 (Collapse Grid)`），可一鍵收合 52 家企業多選卡片與國家/產業過濾面板（`#compareGridCollapsibleBody`），大幅節省垂直瀏覽空間，使下方 4 大對標圖表、散佈圖與對標矩陣一覽無遺。
@@ -1031,6 +1037,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.4.1 - fix: optimize mobile layout by eliminating top bar horizontal overflow and making Plotly chart legends responsive on mobile screens
 * commit v3.4.0 - feat: add 1-click collapse/expand for company selector grid and update AGENTS.md rules and financial-report-multiformat-analyzer skill
 * commit v3.3.1 - fix: eliminate duplicate company rows in peer benchmark matrix by fully synchronizing TICKER_CANONICAL_MAP and adding dual-layer deduplication
 * commit v3.3.0 - feat: add dedicated Industry Strategic Insights & Research Notes tab with interactive AI and defense OpEx analysis
