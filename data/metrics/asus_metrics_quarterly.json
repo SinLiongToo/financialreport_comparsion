@@ -1,6 +1,6 @@
 {
   "company_name": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦)",
-  "ticker": "ASUS",
+  "ticker": "ASUSTEK-COMPUTER",
   "country": {
     "en": "Taiwan 🇹🇼",
     "zh": "台灣 🇹🇼",
@@ -40,7 +40,15 @@
       "gp_per_emp": 28836.0,
       "op_per_emp": -3318.0,
       "ni_per_emp": -1413.0,
-      "rd_per_emp": 8910.0
+      "rd_per_emp": 8909.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
     },
     "2023 Q2": {
       "revenue": 3770.0,
@@ -58,7 +66,15 @@
       "gp_per_emp": 29517.0,
       "op_per_emp": 2324.0,
       "ni_per_emp": 5015.0,
-      "rd_per_emp": 9174.0
+      "rd_per_emp": 9174.0,
+      "rev_growth_yoy": 4.43,
+      "gp_growth_yoy": 2.83,
+      "op_growth_yoy": -170.37,
+      "ni_growth_yoy": -456.52,
+      "rd_growth_yoy": 3.45,
+      "hc_growth_yoy": 0.46,
+      "gm_diff_pp": -0.2,
+      "op_diff_pp": 2.51
     },
     "2023 Q3": {
       "revenue": 4350.0,
@@ -76,7 +92,15 @@
       "gp_per_emp": 38399.0,
       "op_per_emp": 10594.0,
       "ni_per_emp": 16317.0,
-      "rd_per_emp": 9437.0
+      "rd_per_emp": 9437.0,
+      "rev_growth_yoy": 15.38,
+      "gp_growth_yoy": 30.69,
+      "op_growth_yoy": 357.89,
+      "ni_growth_yoy": 226.83,
+      "rd_growth_yoy": 3.33,
+      "hc_growth_yoy": 0.46,
+      "gm_diff_pp": 1.7,
+      "op_diff_pp": 2.99
     },
     "2023 Q4": {
       "revenue": 3778.5,
@@ -94,7 +118,15 @@
       "gp_per_emp": 33133.0,
       "op_per_emp": 7612.0,
       "ni_per_emp": 11224.0,
-      "rd_per_emp": 9558.0
+      "rd_per_emp": 9558.0,
+      "rev_growth_yoy": -13.14,
+      "gp_growth_yoy": -13.32,
+      "op_growth_yoy": -27.82,
+      "ni_growth_yoy": -30.9,
+      "rd_growth_yoy": 1.74,
+      "hc_growth_yoy": 0.46,
+      "gm_diff_pp": -0.03,
+      "op_diff_pp": -0.68
     },
     "2024 Q1": {
       "revenue": 4120.0,
@@ -111,8 +143,16 @@
       "rev_per_emp": 248567.0,
       "gp_per_emp": 39771.0,
       "op_per_emp": 11161.0,
-      "ni_per_emp": 12669.0,
-      "rd_per_emp": 10136.0
+      "ni_per_emp": 12670.0,
+      "rd_per_emp": 10136.0,
+      "rev_growth_yoy": 14.13,
+      "gp_growth_yoy": 40.46,
+      "op_growth_yoy": -442.59,
+      "ni_growth_yoy": -1013.04,
+      "rd_growth_yoy": 15.86,
+      "hc_growth_yoy": 1.84,
+      "gm_diff_pp": 3.0,
+      "op_diff_pp": 5.99
     },
     "2024 Q2": {
       "revenue": 4530.0,
@@ -130,7 +170,15 @@
       "gp_per_emp": 44895.0,
       "op_per_emp": 13814.0,
       "ni_per_emp": 15916.0,
-      "rd_per_emp": 10511.0
+      "rd_per_emp": 10511.0,
+      "rev_growth_yoy": 20.16,
+      "gp_growth_yoy": 54.89,
+      "op_growth_yoy": 505.26,
+      "ni_growth_yoy": 223.17,
+      "rd_growth_yoy": 16.67,
+      "hc_growth_yoy": 1.83,
+      "gm_diff_pp": 3.7,
+      "op_diff_pp": 4.07
     },
     "2024 Q3": {
       "revenue": 4980.0,
@@ -148,7 +196,15 @@
       "gp_per_emp": 49429.0,
       "op_per_emp": 15845.0,
       "ni_per_emp": 18535.0,
-      "rd_per_emp": 10762.0
+      "rd_per_emp": 10762.0,
+      "rev_growth_yoy": 14.48,
+      "gp_growth_yoy": 31.08,
+      "op_growth_yoy": 52.3,
+      "ni_growth_yoy": 15.67,
+      "rd_growth_yoy": 16.13,
+      "hc_growth_yoy": 1.83,
+      "gm_diff_pp": 2.1,
+      "op_diff_pp": 1.32
     },
     "2024 Q4": {
       "revenue": 4635.6,
@@ -166,7 +222,15 @@
       "gp_per_emp": 45369.0,
       "op_per_emp": 12798.0,
       "ni_per_emp": 15589.0,
-      "rd_per_emp": 10720.0
+      "rd_per_emp": 10720.0,
+      "rev_growth_yoy": 22.68,
+      "gp_growth_yoy": 39.42,
+      "op_growth_yoy": 71.18,
+      "ni_growth_yoy": 41.41,
+      "rd_growth_yoy": 14.2,
+      "hc_growth_yoy": 1.82,
+      "gm_diff_pp": 1.97,
+      "op_diff_pp": 1.32
     },
     "2025 Q1": {
       "revenue": 4850.0,
@@ -184,7 +248,15 @@
       "gp_per_emp": 48284.0,
       "op_per_emp": 15111.0,
       "ni_per_emp": 17481.0,
-      "rd_per_emp": 11141.0
+      "rd_per_emp": 11141.0,
+      "rev_growth_yoy": 17.72,
+      "gp_growth_yoy": 23.6,
+      "op_growth_yoy": 37.84,
+      "ni_growth_yoy": 40.48,
+      "rd_growth_yoy": 11.9,
+      "hc_growth_yoy": 1.81,
+      "gm_diff_pp": 0.8,
+      "op_diff_pp": 0.77
     },
     "2025 Q2": {
       "revenue": 5050.0,
@@ -202,7 +274,15 @@
       "gp_per_emp": 50649.0,
       "op_per_emp": 16519.0,
       "ni_per_emp": 18879.0,
-      "rd_per_emp": 11327.0
+      "rd_per_emp": 11327.0,
+      "rev_growth_yoy": 11.48,
+      "gp_growth_yoy": 14.85,
+      "op_growth_yoy": 21.74,
+      "ni_growth_yoy": 20.75,
+      "rd_growth_yoy": 9.71,
+      "hc_growth_yoy": 1.8,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 0.46
     },
     "2025 Q3": {
       "revenue": 5300.0,
@@ -220,7 +300,15 @@
       "gp_per_emp": 52922.0,
       "op_per_emp": 17915.0,
       "ni_per_emp": 19677.0,
-      "rd_per_emp": 11454.0
+      "rd_per_emp": 11454.0,
+      "rev_growth_yoy": 6.43,
+      "gp_growth_yoy": 8.99,
+      "op_growth_yoy": 15.09,
+      "ni_growth_yoy": 8.06,
+      "rd_growth_yoy": 8.33,
+      "hc_growth_yoy": 1.79,
+      "gm_diff_pp": 0.4,
+      "op_diff_pp": 0.43
     },
     "2025 Q4": {
       "revenue": 5112.5,
@@ -238,7 +326,15 @@
       "gp_per_emp": 51392.0,
       "op_per_emp": 16211.0,
       "ni_per_emp": 18094.0,
-      "rd_per_emp": 11146.0
+      "rd_per_emp": 11146.0,
+      "rev_growth_yoy": 10.29,
+      "gp_growth_yoy": 15.3,
+      "op_growth_yoy": 28.93,
+      "ni_growth_yoy": 18.14,
+      "rd_growth_yoy": 5.83,
+      "hc_growth_yoy": 1.79,
+      "gm_diff_pp": 0.75,
+      "op_diff_pp": 0.78
     }
   },
   "sales_breakdown": {
@@ -401,13 +497,21 @@
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Quarterly operating margins rebounded sharply from -1.5% in early 2023 to 5.3%+ in 2024H2 as channel inventory stabilized and AI server revenue quadrupled.",
-      "zh": "單季營業利益率由 2023 初期的 -1.5% 強勁反彈至 2024 下半年的 5.3% 以上，反映通路線上庫存完全正常化及 AI 伺服器營收翻倍成長。"
+    "en": {
+      "pivot": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦) workforce reported at 17,100 FTEs with GAAP Gross Margin at 17.19%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $298,977/FTE in revenue and $51,392/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M277 (5.42% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M191 (3.73% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 10.29% compared to headcount change of 1.79% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Quarterly Revenue per FTE scaled from $221k in Q1 2023 to nearly $300k in 2024H2.",
-      "zh": "每季人均營收由 2023 Q1 的 22.1 萬美元穩步提升至 2024 下半年的近 30 萬美元（年化約 120 萬美元）。"
+    "zh": {
+      "pivot": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦) 官方審計員工數為 17,100 人，GAAP 毛利率為 17.19%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $298,977/人，人均毛利為 $51,392/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M277（營業利益率 5.42%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M191（佔營收 3.73%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 10.29%，員工人數年增率為 1.79%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

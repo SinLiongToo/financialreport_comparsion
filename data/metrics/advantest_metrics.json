@@ -1,36 +1,34 @@
 {
   "company_name": "Advantest Corporation",
-  "ticker": "ADVANTEST",
+  "ticker": "6857",
   "currency": "JPY (100 Millions)",
   "unit": "¥ 億",
-  "freq": "quarterly",
+  "freq": "annual",
   "years": [
-    "2024 Q1",
-    "2024 Q2",
-    "2024 Q3",
-    "2024 Q4",
-    "2025 Q1",
-    "2025 Q2",
-    "2025 Q3",
-    "2025 Q4"
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
   ],
   "financials": {
-    "2024 Q1": {
-      "revenue": 1387,
-      "gross_profit": 763,
-      "operating_income": 313,
-      "net_income": 248,
-      "rd_expense": 168,
-      "headcount": 7050,
-      "gross_margin": 55.0,
-      "operating_margin": 22.57,
-      "net_margin": 17.88,
-      "rd_pct_rev": 12.11,
-      "rev_per_emp": 196738.0,
-      "gp_per_emp": 108227.0,
-      "op_per_emp": 44397.0,
-      "ni_per_emp": 35177.0,
-      "rd_per_emp": 23830.0,
+    "2020": {
+      "revenue": 3128,
+      "gross_profit": 1720,
+      "operating_income": 607,
+      "net_income": 504,
+      "rd_expense": 412,
+      "headcount": 5498,
+      "gross_margin": 54.99,
+      "operating_margin": 19.41,
+      "net_margin": 16.11,
+      "rd_pct_rev": 13.17,
+      "rev_per_emp": 568934.0,
+      "gp_per_emp": 312841.0,
+      "op_per_emp": 110404.0,
+      "ni_per_emp": 91670.0,
+      "rd_per_emp": 74936.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -40,180 +38,130 @@
       "gm_diff_pp": null,
       "op_diff_pp": null
     },
-    "2024 Q2": {
-      "revenue": 1412,
-      "gross_profit": 777,
-      "operating_income": 341,
-      "net_income": 266,
-      "rd_expense": 172,
-      "headcount": 7120,
-      "gross_margin": 55.0,
-      "operating_margin": 24.15,
-      "net_margin": 18.84,
-      "rd_pct_rev": 12.18,
-      "rev_per_emp": 198315.0,
-      "gp_per_emp": 109129.0,
-      "op_per_emp": 47893.0,
-      "ni_per_emp": 37360.0,
-      "rd_per_emp": 24157.0,
-      "rev_growth_yoy": 1.8,
-      "gp_growth_yoy": 1.83,
-      "op_growth_yoy": 8.95,
-      "ni_growth_yoy": 7.26,
-      "rd_growth_yoy": 2.38,
-      "hc_growth_yoy": 0.99,
-      "gm_diff_pp": 0.0,
-      "op_diff_pp": 1.58
+    "2021": {
+      "revenue": 4169,
+      "gross_profit": 2335,
+      "operating_income": 1147,
+      "net_income": 873,
+      "rd_expense": 505,
+      "headcount": 5885,
+      "gross_margin": 56.01,
+      "operating_margin": 27.51,
+      "net_margin": 20.94,
+      "rd_pct_rev": 12.11,
+      "rev_per_emp": 708411.0,
+      "gp_per_emp": 396771.0,
+      "op_per_emp": 194902.0,
+      "ni_per_emp": 148343.0,
+      "rd_per_emp": 85811.0,
+      "rev_growth_yoy": 33.28,
+      "gp_growth_yoy": 35.76,
+      "op_growth_yoy": 88.96,
+      "ni_growth_yoy": 73.21,
+      "rd_growth_yoy": 22.57,
+      "hc_growth_yoy": 7.04,
+      "gm_diff_pp": 1.02,
+      "op_diff_pp": 8.1
     },
-    "2024 Q3": {
-      "revenue": 1435,
-      "gross_profit": 790,
-      "operating_income": 448,
-      "net_income": 349,
-      "rd_expense": 178,
-      "headcount": 7180,
-      "gross_margin": 55.1,
-      "operating_margin": 31.22,
-      "net_margin": 24.32,
-      "rd_pct_rev": 12.4,
-      "rev_per_emp": 199861.0,
-      "gp_per_emp": 110028.0,
-      "op_per_emp": 62396.0,
-      "ni_per_emp": 48607.0,
-      "rd_per_emp": 24791.0,
-      "rev_growth_yoy": 1.63,
-      "gp_growth_yoy": 1.67,
-      "op_growth_yoy": 31.38,
-      "ni_growth_yoy": 31.2,
-      "rd_growth_yoy": 3.49,
-      "hc_growth_yoy": 0.84,
-      "gm_diff_pp": 0.1,
-      "op_diff_pp": 7.07
+    "2022": {
+      "revenue": 5602,
+      "gross_profit": 3137,
+      "operating_income": 1677,
+      "net_income": 1304,
+      "rd_expense": 620,
+      "headcount": 6516,
+      "gross_margin": 56.0,
+      "operating_margin": 29.94,
+      "net_margin": 23.28,
+      "rd_pct_rev": 11.07,
+      "rev_per_emp": 859730.0,
+      "gp_per_emp": 481430.0,
+      "op_per_emp": 257366.0,
+      "ni_per_emp": 200123.0,
+      "rd_per_emp": 95150.0,
+      "rev_growth_yoy": 34.37,
+      "gp_growth_yoy": 34.35,
+      "op_growth_yoy": 46.21,
+      "ni_growth_yoy": 49.37,
+      "rd_growth_yoy": 22.77,
+      "hc_growth_yoy": 10.72,
+      "gm_diff_pp": -0.01,
+      "op_diff_pp": 2.43
     },
-    "2024 Q4": {
-      "revenue": 1416,
-      "gross_profit": 778,
-      "operating_income": 448,
-      "net_income": 347,
-      "rd_expense": 182,
+    "2023": {
+      "revenue": 4865,
+      "gross_profit": 2627,
+      "operating_income": 816,
+      "net_income": 622,
+      "rd_expense": 631,
+      "headcount": 6867,
+      "gross_margin": 54.0,
+      "operating_margin": 16.77,
+      "net_margin": 12.79,
+      "rd_pct_rev": 12.97,
+      "rev_per_emp": 708461.0,
+      "gp_per_emp": 382554.0,
+      "op_per_emp": 118829.0,
+      "ni_per_emp": 90578.0,
+      "rd_per_emp": 91889.0,
+      "rev_growth_yoy": -13.16,
+      "gp_growth_yoy": -16.26,
+      "op_growth_yoy": -51.34,
+      "ni_growth_yoy": -52.3,
+      "rd_growth_yoy": 1.77,
+      "hc_growth_yoy": 5.39,
+      "gm_diff_pp": -2.0,
+      "op_diff_pp": -13.17
+    },
+    "2024": {
+      "revenue": 5650,
+      "gross_profit": 3108,
+      "operating_income": 1550,
+      "net_income": 1210,
+      "rd_expense": 700,
       "headcount": 7200,
-      "gross_margin": 55.0,
-      "operating_margin": 31.64,
-      "net_margin": 24.51,
-      "rd_pct_rev": 12.85,
-      "rev_per_emp": 196667.0,
-      "gp_per_emp": 108056.0,
-      "op_per_emp": 62222.0,
-      "ni_per_emp": 48194.0,
-      "rd_per_emp": 25278.0,
-      "rev_growth_yoy": -1.32,
-      "gp_growth_yoy": -1.52,
-      "op_growth_yoy": 0.0,
-      "ni_growth_yoy": -0.57,
-      "rd_growth_yoy": 2.25,
-      "hc_growth_yoy": 0.28,
-      "gm_diff_pp": -0.1,
-      "op_diff_pp": 0.42
+      "gross_margin": 55.01,
+      "operating_margin": 27.43,
+      "net_margin": 21.42,
+      "rd_pct_rev": 12.39,
+      "rev_per_emp": 784722.0,
+      "gp_per_emp": 431667.0,
+      "op_per_emp": 215278.0,
+      "ni_per_emp": 168056.0,
+      "rd_per_emp": 97222.0,
+      "rev_growth_yoy": 16.14,
+      "gp_growth_yoy": 18.31,
+      "op_growth_yoy": 89.95,
+      "ni_growth_yoy": 94.53,
+      "rd_growth_yoy": 10.94,
+      "hc_growth_yoy": 4.85,
+      "gm_diff_pp": 1.01,
+      "op_diff_pp": 10.66
     },
-    "2025 Q1": {
-      "revenue": 1650,
-      "gross_profit": 924,
-      "operating_income": 485,
-      "net_income": 380,
-      "rd_expense": 195,
-      "headcount": 7300,
-      "gross_margin": 56.0,
-      "operating_margin": 29.39,
-      "net_margin": 23.03,
-      "rd_pct_rev": 11.82,
-      "rev_per_emp": 226027.0,
-      "gp_per_emp": 126575.0,
-      "op_per_emp": 66438.0,
-      "ni_per_emp": 52055.0,
-      "rd_per_emp": 26712.0,
-      "rev_growth_yoy": 18.96,
-      "gp_growth_yoy": 21.1,
-      "op_growth_yoy": 54.95,
-      "ni_growth_yoy": 53.23,
-      "rd_growth_yoy": 16.07,
-      "hc_growth_yoy": 3.55,
-      "gm_diff_pp": 1.0,
-      "op_diff_pp": 6.82
-    },
-    "2025 Q2": {
-      "revenue": 1750,
-      "gross_profit": 980,
-      "operating_income": 530,
-      "net_income": 415,
-      "rd_expense": 200,
-      "headcount": 7400,
-      "gross_margin": 56.0,
-      "operating_margin": 30.29,
-      "net_margin": 23.71,
-      "rd_pct_rev": 11.43,
-      "rev_per_emp": 236486.0,
-      "gp_per_emp": 132432.0,
-      "op_per_emp": 71622.0,
-      "ni_per_emp": 56081.0,
-      "rd_per_emp": 27027.0,
-      "rev_growth_yoy": 23.94,
-      "gp_growth_yoy": 26.13,
-      "op_growth_yoy": 55.43,
-      "ni_growth_yoy": 56.02,
-      "rd_growth_yoy": 16.28,
-      "hc_growth_yoy": 3.93,
-      "gm_diff_pp": 1.0,
-      "op_diff_pp": 6.14
-    },
-    "2025 Q3": {
-      "revenue": 1820,
-      "gross_profit": 1020,
-      "operating_income": 560,
-      "net_income": 438,
-      "rd_expense": 205,
-      "headcount": 7450,
-      "gross_margin": 56.0,
-      "operating_margin": 30.77,
-      "net_margin": 24.07,
-      "rd_pct_rev": 11.26,
-      "rev_per_emp": 244295.0,
-      "gp_per_emp": 136913.0,
-      "op_per_emp": 75168.0,
-      "ni_per_emp": 58792.0,
-      "rd_per_emp": 27517.0,
-      "rev_growth_yoy": 26.83,
-      "gp_growth_yoy": 29.11,
-      "op_growth_yoy": 25.0,
-      "ni_growth_yoy": 25.5,
-      "rd_growth_yoy": 15.17,
-      "hc_growth_yoy": 3.76,
-      "gm_diff_pp": 0.9,
-      "op_diff_pp": -0.45
-    },
-    "2025 Q4": {
-      "revenue": 1880,
-      "gross_profit": 1052,
-      "operating_income": 575,
-      "net_income": 447,
-      "rd_expense": 210,
+    "2025": {
+      "revenue": 7100,
+      "gross_profit": 3976,
+      "operating_income": 2150,
+      "net_income": 1680,
+      "rd_expense": 810,
       "headcount": 7500,
       "gross_margin": 56.0,
-      "operating_margin": 30.59,
-      "net_margin": 23.78,
-      "rd_pct_rev": 11.17,
-      "rev_per_emp": 250667.0,
-      "gp_per_emp": 140267.0,
-      "op_per_emp": 76667.0,
-      "ni_per_emp": 59600.0,
-      "rd_per_emp": 28000.0,
-      "rev_growth_yoy": 32.77,
-      "gp_growth_yoy": 35.22,
-      "op_growth_yoy": 28.35,
-      "ni_growth_yoy": 28.82,
-      "rd_growth_yoy": 15.38,
+      "operating_margin": 30.28,
+      "net_margin": 23.66,
+      "rd_pct_rev": 11.41,
+      "rev_per_emp": 946667.0,
+      "gp_per_emp": 530133.0,
+      "op_per_emp": 286667.0,
+      "ni_per_emp": 224000.0,
+      "rd_per_emp": 108000.0,
+      "rev_growth_yoy": 25.66,
+      "gp_growth_yoy": 27.93,
+      "op_growth_yoy": 38.71,
+      "ni_growth_yoy": 38.84,
+      "rd_growth_yoy": 15.71,
       "hc_growth_yoy": 4.17,
-      "gm_diff_pp": 1.0,
-      "op_diff_pp": -1.05
+      "gm_diff_pp": 0.99,
+      "op_diff_pp": 2.85
     }
   },
   "sales_breakdown": {
@@ -228,95 +176,71 @@
       "#10B981"
     ],
     "data": {
-      "2024 Q1": {
+      "2020": {
         "value": [
-          940,
-          152,
-          295
-        ],
-        "volume": [
-          68,
-          11,
-          21
-        ]
-      },
-      "2024 Q2": {
-        "value": [
-          956,
-          155,
-          301
-        ],
-        "volume": [
-          68,
-          11,
-          21
-        ]
-      },
-      "2024 Q3": {
-        "value": [
-          972,
-          157,
-          306
-        ],
-        "volume": [
-          68,
-          11,
-          21
-        ]
-      },
-      "2024 Q4": {
-        "value": [
-          960,
-          155,
-          301
-        ],
-        "volume": [
-          68,
-          11,
-          21
-        ]
-      },
-      "2025 Q1": {
-        "value": [
-          1135,
-          175,
-          340
+          214500,
+          38200,
+          59300
         ],
         "volume": [
           69,
-          11,
-          20
+          12,
+          19
         ]
       },
-      "2025 Q2": {
+      "2021": {
         "value": [
-          1203,
-          186,
-          361
+          291200,
+          44800,
+          80000
         ],
         "volume": [
-          69,
+          70,
           11,
-          20
+          19
         ]
       },
-      "2025 Q3": {
+      "2022": {
         "value": [
-          1252,
-          193,
-          375
+          390000,
+          61000,
+          109000
         ],
         "volume": [
-          69,
+          70,
           11,
-          20
+          19
         ]
       },
-      "2025 Q4": {
+      "2023": {
         "value": [
-          1292,
-          200,
-          388
+          326000,
+          52000,
+          106000
+        ],
+        "volume": [
+          67,
+          11,
+          22
+        ]
+      },
+      "2024": {
+        "value": [
+          420000,
+          68000,
+          132000
+        ],
+        "volume": [
+          68,
+          11,
+          21
+        ]
+      },
+      "2025": {
+        "value": [
+          550000,
+          85000,
+          165000
         ],
         "volume": [
           69,
@@ -328,14 +252,50 @@
   },
   "insights": {
     "en": {
-      "pivot": "Quarterly gross margins firm at 55.0%-56.0% supported by high-margin HBM3E/HBM4 tester mix.",
-      "productivity": "Quarterly revenue per FTE averages ~¥19.6M-¥25.0M (~$130K-$165K/quarter).",
-      "leverage": "Quarterly operating profit expanded from ¥313 億 to ¥575 億 (30.6% margin) as AI GPU test capacity scaled."
+      "pivot": "Workforce disciplined at ~7,200 FTEs while HBM3E/HBM4 test complexity expanded gross margin to 55.0%-56.0%.",
+      "productivity": "Revenue per FTE reached ¥78.5M (~$520K) with gross profit per employee at ¥43.2M and operating profit per employee at ¥21.5M.",
+      "leverage": "Operating profit surged to ¥1,550 億 (27.4% margin) in FY2024 and expanding toward ¥2,150 億 in FY2025 (30.3% margin).",
+      "rd": "R&D investment scaled to ¥700 億-¥810 億 (11.4%-12.4% of revenue) maintaining global dominance in V93000 SoC and Memory testers.",
+      "growth": "AI/HBM high-performance computing test requirements drive explosive demand across GPU, TPU, and custom ASIC testing.",
+      "breakdown": "Semiconductor Test Systems generates 70-73% of revenues, anchoring market share above 55% in high-end ATE."
     },
     "zh": {
-      "pivot": "單季毛利率在 HBM3E/HBM4 與高階 SoC 測試機台出貨比重拉升下穩固於 55.0%-56.0%。",
-      "productivity": "單季人均營收達 1,960 萬-2,500 萬日圓（年化人均產值超過 52 萬-66 萬美元）。",
-      "leverage": "單季營業利益由 313 億日圓大幅擴張至 575 億日圓（營業利益率突破 30.6%）。"
+      "pivot": "全球員工人數精實控制於 7,200 人，受惠於 HBM3E/HBM4 與先進封裝測試工序翻倍，毛利率維持在 55.0%-56.0% 高檔。",
+      "productivity": "人均營收達 7,850 萬日圓（約 52 萬美元/人），人均毛利達 4,320 萬日圓，人均營業利益達 2,150 萬日圓。",
+      "leverage": "營業利益於 2024 財年衝上 1,550 億日圓（營業利益率 27.4%），2025 財年邁向 2,150 億日圓（利益率突破 30%）。",
+      "rd": "研發費用達 700 億-810 億日圓（佔營收 11.4%-12.4%），持續奠定 V93000 高階 SoC 與 HBM 測試機台之全球霸主地位。",
+      "growth": "AI GPU、ASIC 與 HBM 測試時間 (Test Time) 顯著拉長，帶動測試機台訂單爆發式成長。",
+      "breakdown": "半導體測試機台事業群貢獻 70%-73% 營收，高階自動測試設備 (ATE) 全球市佔率過半。"
     }
+  },
+  "lean_maturity": {
+    "current_level": 4,
+    "levels": [
+      {
+        "level": 1,
+        "name": "ATE Hardware Manufacturing",
+        "desc": "Standard test instrumentation and signal pin cards."
+      },
+      {
+        "level": 2,
+        "name": "V93000 Modular Architecture",
+        "desc": "Scalable universal pin architecture and parallel multi-site testing."
+      },
+      {
+        "level": 3,
+        "name": "Advantest Cloud Solutions (ACS)",
+        "desc": "Real-time edge analytics and test data stream telemetry."
+      },
+      {
+        "level": 4,
+        "name": "AI SuperTester & High-Density Thermal Cell",
+        "desc": "Dynamic thermal-controlled testing for high-wattage 1000W+ AI accelerators."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Test & Quality Orchestration",
+        "desc": "World-class operational excellence with (1.01)^365 = 37.8x compounding engineering velocity."
+      }
+    ]
   }
 }

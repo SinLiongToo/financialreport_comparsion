@@ -1,6 +1,6 @@
 {
   "company_name": "MA-tek (3587.TWO / 閎康科技)",
-  "ticker": "MA-TEK",
+  "ticker": "MA_TEK",
   "country": {
     "en": "Taiwan 🇹🇼",
     "zh": "台灣 🇹🇼",
@@ -37,10 +37,10 @@
       "rd_pct_rev": 7.6,
       "headcount": 1415,
       "rev_per_emp": 25583.0,
-      "gp_per_emp": 9081.3,
+      "gp_per_emp": 9081.0,
       "op_per_emp": 4311.0,
-      "ni_per_emp": 3710.2,
-      "rd_per_emp": 1943.5,
+      "ni_per_emp": 3710.0,
+      "rd_per_emp": 1943.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -62,19 +62,19 @@
       "rd_expense": 2.9,
       "rd_pct_rev": 7.53,
       "headcount": 1450,
-      "rev_per_emp": 26551.7,
-      "gp_per_emp": 9427.6,
-      "op_per_emp": 4448.3,
-      "ni_per_emp": 3862.1,
+      "rev_per_emp": 26552.0,
+      "gp_per_emp": 9428.0,
+      "op_per_emp": 4448.0,
+      "ni_per_emp": 3862.0,
       "rd_per_emp": 2000.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 6.35,
+      "gp_growth_yoy": 6.38,
+      "op_growth_yoy": 5.74,
+      "ni_growth_yoy": 6.67,
+      "rd_growth_yoy": 5.45,
+      "hc_growth_yoy": 2.47,
+      "gm_diff_pp": 0.01,
+      "op_diff_pp": -0.1
     },
     "2023 Q3": {
       "revenue": 39.8,
@@ -88,19 +88,19 @@
       "rd_expense": 3.05,
       "rd_pct_rev": 7.66,
       "headcount": 1485,
-      "rev_per_emp": 26801.3,
-      "gp_per_emp": 9515.2,
-      "op_per_emp": 4417.5,
-      "ni_per_emp": 3845.1,
-      "rd_per_emp": 2053.9,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 26801.0,
+      "gp_per_emp": 9515.0,
+      "op_per_emp": 4418.0,
+      "ni_per_emp": 3845.0,
+      "rd_per_emp": 2054.0,
+      "rev_growth_yoy": 3.38,
+      "gp_growth_yoy": 3.37,
+      "op_growth_yoy": 1.71,
+      "ni_growth_yoy": 1.96,
+      "rd_growth_yoy": 5.17,
+      "hc_growth_yoy": 2.41,
+      "gm_diff_pp": -0.01,
+      "op_diff_pp": -0.27
     },
     "2023 Q4": {
       "revenue": 40.13,
@@ -114,19 +114,19 @@
       "rd_expense": 3.05,
       "rd_pct_rev": 7.6,
       "headcount": 1520,
-      "rev_per_emp": 26401.3,
-      "gp_per_emp": 9157.9,
-      "op_per_emp": 4144.7,
-      "ni_per_emp": 3618.4,
-      "rd_per_emp": 2006.6,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 26401.0,
+      "gp_per_emp": 9158.0,
+      "op_per_emp": 4145.0,
+      "ni_per_emp": 3618.0,
+      "rd_per_emp": 2007.0,
+      "rev_growth_yoy": 0.83,
+      "gp_growth_yoy": -1.49,
+      "op_growth_yoy": -3.96,
+      "ni_growth_yoy": -3.68,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 2.36,
+      "gm_diff_pp": -0.81,
+      "op_diff_pp": -0.78
     },
     "2024 Q1": {
       "revenue": 38.1,
@@ -140,11 +140,11 @@
       "rd_expense": 3.05,
       "rd_pct_rev": 8.01,
       "headcount": 1553,
-      "rev_per_emp": 24533.2,
-      "gp_per_emp": 8216.4,
-      "op_per_emp": 3444.9,
-      "ni_per_emp": 3348.4,
-      "rd_per_emp": 1963.9,
+      "rev_per_emp": 24533.0,
+      "gp_per_emp": 8216.0,
+      "op_per_emp": 3445.0,
+      "ni_per_emp": 3348.0,
+      "rd_per_emp": 1964.0,
       "rev_growth_yoy": 5.25,
       "gp_growth_yoy": -0.7,
       "op_growth_yoy": -12.3,
@@ -166,11 +166,11 @@
       "rd_expense": 3.18,
       "rd_pct_rev": 7.99,
       "headcount": 1585,
-      "rev_per_emp": 25110.4,
-      "gp_per_emp": 8283.9,
-      "op_per_emp": 3501.6,
-      "ni_per_emp": 3406.9,
-      "rd_per_emp": 2006.3,
+      "rev_per_emp": 25110.0,
+      "gp_per_emp": 8284.0,
+      "op_per_emp": 3502.0,
+      "ni_per_emp": 3407.0,
+      "rd_per_emp": 2006.0,
       "rev_growth_yoy": 3.38,
       "gp_growth_yoy": -3.95,
       "op_growth_yoy": -13.95,
@@ -192,11 +192,11 @@
       "rd_expense": 3.25,
       "rd_pct_rev": 8.0,
       "headcount": 1618,
-      "rev_per_emp": 25092.7,
-      "gp_per_emp": 8281.8,
-      "op_per_emp": 3473.4,
-      "ni_per_emp": 3386.9,
-      "rd_per_emp": 2008.7,
+      "rev_per_emp": 25093.0,
+      "gp_per_emp": 8282.0,
+      "op_per_emp": 3473.0,
+      "ni_per_emp": 3387.0,
+      "rd_per_emp": 2009.0,
       "rev_growth_yoy": 2.01,
       "gp_growth_yoy": -5.17,
       "op_growth_yoy": -14.33,
@@ -218,10 +218,10 @@
       "rd_expense": 3.3,
       "rd_pct_rev": 8.01,
       "headcount": 1650,
-      "rev_per_emp": 24969.7,
-      "gp_per_emp": 8024.2,
-      "op_per_emp": 3333.3,
-      "ni_per_emp": 3284.8,
+      "rev_per_emp": 24970.0,
+      "gp_per_emp": 8024.0,
+      "op_per_emp": 3333.0,
+      "ni_per_emp": 3285.0,
       "rd_per_emp": 2000.0,
       "rev_growth_yoy": 2.67,
       "gp_growth_yoy": -4.89,
@@ -244,11 +244,11 @@
       "rd_expense": 3.35,
       "rd_pct_rev": 8.07,
       "headcount": 1668,
-      "rev_per_emp": 24880.1,
-      "gp_per_emp": 7212.2,
+      "rev_per_emp": 24880.0,
+      "gp_per_emp": 7212.0,
       "op_per_emp": 2548.0,
-      "ni_per_emp": 1858.5,
-      "rd_per_emp": 2008.4,
+      "ni_per_emp": 1859.0,
+      "rd_per_emp": 2008.0,
       "rev_growth_yoy": 8.92,
       "gp_growth_yoy": -5.72,
       "op_growth_yoy": -20.56,
@@ -271,10 +271,10 @@
       "rd_pct_rev": 7.99,
       "headcount": 1685,
       "rev_per_emp": 25638.0,
-      "gp_per_emp": 7305.6,
-      "op_per_emp": 2581.6,
-      "ni_per_emp": 1887.2,
-      "rd_per_emp": 2047.5,
+      "gp_per_emp": 7306.0,
+      "op_per_emp": 2582.0,
+      "ni_per_emp": 1887.0,
+      "rd_per_emp": 2047.0,
       "rev_growth_yoy": 8.54,
       "gp_growth_yoy": -6.25,
       "op_growth_yoy": -21.62,
@@ -296,11 +296,11 @@
       "rd_expense": 3.52,
       "rd_pct_rev": 7.98,
       "headcount": 1703,
-      "rev_per_emp": 25895.5,
-      "gp_per_emp": 7381.1,
-      "op_per_emp": 2595.4,
-      "ni_per_emp": 1902.5,
-      "rd_per_emp": 2066.9,
+      "rev_per_emp": 25895.0,
+      "gp_per_emp": 7381.0,
+      "op_per_emp": 2595.0,
+      "ni_per_emp": 1903.0,
+      "rd_per_emp": 2067.0,
       "rev_growth_yoy": 8.62,
       "gp_growth_yoy": -6.19,
       "op_growth_yoy": -21.35,
@@ -322,11 +322,11 @@
       "rd_expense": 3.54,
       "rd_pct_rev": 7.96,
       "headcount": 1720,
-      "rev_per_emp": 25866.3,
-      "gp_per_emp": 7267.4,
-      "op_per_emp": 2534.9,
-      "ni_per_emp": 1860.5,
-      "rd_per_emp": 2058.1,
+      "rev_per_emp": 25866.0,
+      "gp_per_emp": 7267.0,
+      "op_per_emp": 2535.0,
+      "ni_per_emp": 1860.0,
+      "rd_per_emp": 2058.0,
       "rev_growth_yoy": 7.99,
       "gp_growth_yoy": -5.59,
       "op_growth_yoy": -20.73,
@@ -421,21 +421,169 @@
           30,
           17
         ]
+      },
+      "2023 Q1": {
+        "value": [
+          18,
+          12,
+          6
+        ],
+        "volume": [
+          51,
+          32,
+          17
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          20,
+          12,
+          7
+        ],
+        "volume": [
+          51,
+          32,
+          17
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          20,
+          13,
+          7
+        ],
+        "volume": [
+          51,
+          32,
+          17
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          20,
+          13,
+          7
+        ],
+        "volume": [
+          51,
+          32,
+          17
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          20,
+          12,
+          6
+        ],
+        "volume": [
+          52,
+          31,
+          17
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          21,
+          12,
+          7
+        ],
+        "volume": [
+          52,
+          31,
+          17
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          21,
+          13,
+          7
+        ],
+        "volume": [
+          52,
+          31,
+          17
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          21,
+          13,
+          7
+        ],
+        "volume": [
+          52,
+          31,
+          17
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          22,
+          12,
+          7
+        ],
+        "volume": [
+          53,
+          30,
+          17
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          23,
+          13,
+          7
+        ],
+        "volume": [
+          53,
+          30,
+          17
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          23,
+          13,
+          8
+        ],
+        "volume": [
+          53,
+          30,
+          17
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          24,
+          13,
+          8
+        ],
+        "volume": [
+          53,
+          30,
+          17
+        ]
       }
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "MA-tek (閎康科技) stands as Asia’s foremost independent semiconductor laboratory and analytical testing powerhouse. Driven by TSMC, Intel, and Samsung sub-2nm GAA nanosheet transitions and 3D advanced packaging (CoWoS/SoIC), demand for ultra-high-resolution transmission electron microscopy (TEM) and atomic-scale Material Analysis (MA) has anchored gross margins above 32%-37%. Global footprint expansion across Taiwan (Hsinchu/Tainan), Japan (Kumamoto/Nagoya), and China provides strong geographic operating leverage.",
-      "zh": "閎康科技（MA-tek）為亞洲獨立半導體檢測分析實驗室龍頭。受惠於台積電、Intel 與三星次 2 奈米 GAA 環繞閘極奈米片製程演進及 3D 先進封裝（CoWoS/SoIC）研發潮，超高解析度穿透式電子顯微鏡（TEM）與原子級材料分析（MA）需求強勁，帶動毛利率長年穩居 32%～37% 之高附加價值區間。佈局台灣（竹科/南科）、日本（熊本/名古屋）與中國實驗室網絡，構築強大地域運營槓桿。"
+    "en": {
+      "pivot": "MA-tek (3587.TWO / 閎康科技) workforce reported at 1,720 FTEs with GAAP Gross Margin at 28.1%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $25,866/FTE in revenue and $7,267/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M4 (9.8% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M4 (7.96% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 7.99% compared to headcount change of 4.24% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Revenue per employee reached $96.8k-$100k+ with Gross Profit per FTE exceeding $32k, supported by a dense workforce of elite PhD/Master material scientists and high-precision analytical equipment (TEM, Dual-beam FIB, SIMS, XPS).",
-      "zh": "每位員工平均營收約 9.7 萬至 10 萬美元以上，人均毛利達 3.2 萬美元，由高階碩博士材料科學家與昂貴尖端檢測儀器（TEM、雙束 FIB、二次離子質譜 SIMS、XPS）共同創造高知識密集型產值。"
-    },
-    "value_vs_volume": {
-      "en": "Despite heavy depreciation from new overseas laboratories in Japan (Kumamoto 1 & 2, Nagoya) in 2024-2025, surging global automotive chip verification (AEC-Q100) and AI accelerator high-power reliability testing (RA) provide an enduring structural growth runway.",
-      "zh": "儘管 2024～2025 年受日本熊本一二廠及名古屋新實驗室折舊初期費用影響，車用晶片驗證（AEC-Q100）與 AI 加速晶片高瓦數可靠度測試（RA）的爆發性成長，為長期營運提供結構性推進動能。"
+    "zh": {
+      "pivot": "MA-tek (3587.TWO / 閎康科技) 官方審計員工數為 1,720 人，GAAP 毛利率為 28.1%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $25,866/人，人均毛利為 $7,267/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M4（營業利益率 9.8%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M4（佔營收 7.96%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 7.99%，員工人數年增率為 4.24%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

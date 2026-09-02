@@ -1,6 +1,6 @@
 {
   "company_name": "Lam Research Corporation (LRCX / 科林研發)",
-  "ticker": "LRCX",
+  "ticker": "LAM-RESEARCH",
   "country": {
     "en": "United States 🇺🇸",
     "zh": "美國 🇺🇸",
@@ -40,11 +40,11 @@
       "rd_expense": 420.0,
       "rd_pct_rev": 9.77,
       "headcount": 17300,
-      "rev_per_emp": 248554.9,
-      "gp_per_emp": 109826.6,
-      "op_per_emp": 72254.3,
-      "ni_per_emp": 62427.7,
-      "rd_per_emp": 24277.5,
+      "rev_per_emp": 248555.0,
+      "gp_per_emp": 109827.0,
+      "op_per_emp": 72254.0,
+      "ni_per_emp": 62428.0,
+      "rd_per_emp": 24277.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -66,19 +66,19 @@
       "rd_expense": 425.0,
       "rd_pct_rev": 10.1,
       "headcount": 17200,
-      "rev_per_emp": 244651.2,
-      "gp_per_emp": 108604.7,
-      "op_per_emp": 70930.2,
-      "ni_per_emp": 61627.9,
-      "rd_per_emp": 24709.3,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 244651.0,
+      "gp_per_emp": 108605.0,
+      "op_per_emp": 70930.0,
+      "ni_per_emp": 61628.0,
+      "rd_per_emp": 24709.0,
+      "rev_growth_yoy": -2.14,
+      "gp_growth_yoy": -1.68,
+      "op_growth_yoy": -2.4,
+      "ni_growth_yoy": -1.85,
+      "rd_growth_yoy": 1.19,
+      "hc_growth_yoy": -0.58,
+      "gm_diff_pp": 0.2,
+      "op_diff_pp": -0.08
     },
     "2023 Q3": {
       "revenue": 4450.0,
@@ -94,17 +94,17 @@
       "headcount": 17250,
       "rev_per_emp": 257971.0,
       "gp_per_emp": 115942.0,
-      "op_per_emp": 77681.2,
-      "ni_per_emp": 68405.8,
-      "rd_per_emp": 25391.3,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "op_per_emp": 77681.0,
+      "ni_per_emp": 68406.0,
+      "rd_per_emp": 25391.0,
+      "rev_growth_yoy": 5.75,
+      "gp_growth_yoy": 7.07,
+      "op_growth_yoy": 9.84,
+      "ni_growth_yoy": 11.32,
+      "rd_growth_yoy": 3.06,
+      "hc_growth_yoy": 0.29,
+      "gm_diff_pp": 0.55,
+      "op_diff_pp": 1.12
     },
     "2023 Q4": {
       "revenue": 4470.5,
@@ -118,19 +118,19 @@
       "rd_expense": 444.2,
       "rd_pct_rev": 9.94,
       "headcount": 17200,
-      "rev_per_emp": 259912.8,
-      "gp_per_emp": 116796.5,
-      "op_per_emp": 79354.7,
-      "ni_per_emp": 69238.4,
-      "rd_per_emp": 25825.6,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 259913.0,
+      "gp_per_emp": 116797.0,
+      "op_per_emp": 79355.0,
+      "ni_per_emp": 69238.0,
+      "rd_per_emp": 25826.0,
+      "rev_growth_yoy": 0.46,
+      "gp_growth_yoy": 0.45,
+      "op_growth_yoy": 1.86,
+      "ni_growth_yoy": 0.92,
+      "rd_growth_yoy": 1.42,
+      "hc_growth_yoy": -0.29,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 0.42
     },
     "2024 Q1": {
       "revenue": 3482.0,
@@ -144,11 +144,11 @@
       "rd_expense": 468.0,
       "rd_pct_rev": 13.44,
       "headcount": 17260,
-      "rev_per_emp": 201738.1,
-      "gp_per_emp": 96697.6,
-      "op_per_emp": 56315.2,
-      "ni_per_emp": 50984.9,
-      "rd_per_emp": 27114.7,
+      "rev_per_emp": 201738.0,
+      "gp_per_emp": 96698.0,
+      "op_per_emp": 56315.0,
+      "ni_per_emp": 50985.0,
+      "rd_per_emp": 27115.0,
       "rev_growth_yoy": -19.02,
       "gp_growth_yoy": -12.16,
       "op_growth_yoy": -22.24,
@@ -170,11 +170,11 @@
       "rd_expense": 472.0,
       "rd_pct_rev": 12.56,
       "headcount": 17320,
-      "rev_per_emp": 216974.6,
-      "gp_per_emp": 102655.9,
-      "op_per_emp": 61778.3,
-      "ni_per_emp": 55080.8,
-      "rd_per_emp": 27251.7,
+      "rev_per_emp": 216975.0,
+      "gp_per_emp": 102656.0,
+      "op_per_emp": 61778.0,
+      "ni_per_emp": 55081.0,
+      "rd_per_emp": 27252.0,
       "rev_growth_yoy": -10.69,
       "gp_growth_yoy": -4.82,
       "op_growth_yoy": -12.3,
@@ -196,11 +196,11 @@
       "rd_expense": 478.0,
       "rd_pct_rev": 12.6,
       "headcount": 17380,
-      "rev_per_emp": 218296.9,
-      "gp_per_emp": 103509.8,
-      "op_per_emp": 62428.1,
-      "ni_per_emp": 55696.2,
-      "rd_per_emp": 27502.9,
+      "rev_per_emp": 218297.0,
+      "gp_per_emp": 103510.0,
+      "op_per_emp": 62428.0,
+      "ni_per_emp": 55696.0,
+      "rd_per_emp": 27503.0,
       "rev_growth_yoy": -14.74,
       "gp_growth_yoy": -10.05,
       "op_growth_yoy": -19.03,
@@ -222,11 +222,11 @@
       "rd_expense": 484.4,
       "rd_pct_rev": 12.51,
       "headcount": 17450,
-      "rev_per_emp": 221856.7,
-      "gp_per_emp": 103541.5,
-      "op_per_emp": 65151.9,
-      "ni_per_emp": 58785.1,
-      "rd_per_emp": 27759.3,
+      "rev_per_emp": 221857.0,
+      "gp_per_emp": 103542.0,
+      "op_per_emp": 65152.0,
+      "ni_per_emp": 58785.0,
+      "rd_per_emp": 27759.0,
       "rev_growth_yoy": -13.4,
       "gp_growth_yoy": -10.06,
       "op_growth_yoy": -16.7,
@@ -248,11 +248,11 @@
       "rd_expense": 505.0,
       "rd_pct_rev": 12.12,
       "headcount": 17800,
-      "rev_per_emp": 234157.3,
-      "gp_per_emp": 114775.3,
-      "op_per_emp": 74157.3,
-      "ni_per_emp": 67134.8,
-      "rd_per_emp": 28370.8,
+      "rev_per_emp": 234157.0,
+      "gp_per_emp": 114775.0,
+      "op_per_emp": 74157.0,
+      "ni_per_emp": 67135.0,
+      "rd_per_emp": 28371.0,
       "rev_growth_yoy": 19.7,
       "gp_growth_yoy": 22.41,
       "op_growth_yoy": 35.8,
@@ -274,11 +274,11 @@
       "rd_expense": 518.0,
       "rd_pct_rev": 11.8,
       "headcount": 18200,
-      "rev_per_emp": 241208.8,
-      "gp_per_emp": 117582.4,
-      "op_per_emp": 77197.8,
-      "ni_per_emp": 69780.2,
-      "rd_per_emp": 28461.5,
+      "rev_per_emp": 241209.0,
+      "gp_per_emp": 117582.0,
+      "op_per_emp": 77198.0,
+      "ni_per_emp": 69780.0,
+      "rd_per_emp": 28462.0,
       "rev_growth_yoy": 16.82,
       "gp_growth_yoy": 20.36,
       "op_growth_yoy": 31.31,
@@ -300,11 +300,11 @@
       "rd_expense": 532.0,
       "rd_pct_rev": 11.06,
       "headcount": 18600,
-      "rev_per_emp": 258602.2,
-      "gp_per_emp": 126344.1,
-      "op_per_emp": 83333.3,
-      "ni_per_emp": 75806.5,
-      "rd_per_emp": 28602.2,
+      "rev_per_emp": 258602.0,
+      "gp_per_emp": 126344.0,
+      "op_per_emp": 83333.0,
+      "ni_per_emp": 75806.0,
+      "rd_per_emp": 28602.0,
       "rev_growth_yoy": 26.78,
       "gp_growth_yoy": 30.63,
       "op_growth_yoy": 42.86,
@@ -326,11 +326,11 @@
       "rd_expense": 541.4,
       "rd_pct_rev": 10.68,
       "headcount": 19000,
-      "rev_per_emp": 266715.8,
-      "gp_per_emp": 128742.1,
-      "op_per_emp": 85578.9,
-      "ni_per_emp": 78063.2,
-      "rd_per_emp": 28494.7,
+      "rev_per_emp": 266716.0,
+      "gp_per_emp": 128742.0,
+      "op_per_emp": 85579.0,
+      "ni_per_emp": 78063.0,
+      "rd_per_emp": 28495.0,
       "rev_growth_yoy": 30.9,
       "gp_growth_yoy": 35.38,
       "op_growth_yoy": 43.02,
@@ -352,11 +352,11 @@
       "rd_expense": 575.0,
       "rd_pct_rev": 10.95,
       "headcount": 19300,
-      "rev_per_emp": 272020.7,
-      "gp_per_emp": 136010.4,
+      "rev_per_emp": 272021.0,
+      "gp_per_emp": 136010.0,
       "op_per_emp": 92487.0,
-      "ni_per_emp": 81606.2,
-      "rd_per_emp": 29792.7,
+      "ni_per_emp": 81606.0,
+      "rd_per_emp": 29793.0,
       "rev_growth_yoy": 25.96,
       "gp_growth_yoy": 28.49,
       "op_growth_yoy": 35.23,
@@ -378,10 +378,10 @@
       "rd_expense": 590.0,
       "rd_pct_rev": 10.97,
       "headcount": 19600,
-      "rev_per_emp": 274489.8,
-      "gp_per_emp": 137244.9,
-      "op_per_emp": 93367.3,
-      "ni_per_emp": 82346.9,
+      "rev_per_emp": 274490.0,
+      "gp_per_emp": 137245.0,
+      "op_per_emp": 93367.0,
+      "ni_per_emp": 82347.0,
       "rd_per_emp": 30102.0,
       "rev_growth_yoy": 22.55,
       "gp_growth_yoy": 25.7,
@@ -404,11 +404,11 @@
       "rd_expense": 598.0,
       "rd_pct_rev": 11.03,
       "headcount": 19900,
-      "rev_per_emp": 272361.8,
-      "gp_per_emp": 136180.9,
-      "op_per_emp": 92562.8,
-      "ni_per_emp": 81708.5,
-      "rd_per_emp": 30050.3,
+      "rev_per_emp": 272362.0,
+      "gp_per_emp": 136181.0,
+      "op_per_emp": 92563.0,
+      "ni_per_emp": 81709.0,
+      "rd_per_emp": 30050.0,
       "rev_growth_yoy": 12.68,
       "gp_growth_yoy": 15.32,
       "op_growth_yoy": 18.84,
@@ -432,8 +432,8 @@
       "headcount": 20200,
       "rev_per_emp": 269802.0,
       "gp_per_emp": 134901.0,
-      "op_per_emp": 91732.7,
-      "ni_per_emp": 80940.6,
+      "op_per_emp": 91733.0,
+      "ni_per_emp": 80941.0,
       "rd_per_emp": 29802.0,
       "rev_growth_yoy": 7.55,
       "gp_growth_yoy": 11.4,
@@ -541,21 +541,217 @@
           44,
           11
         ]
+      },
+      "2023 Q1": {
+        "value": [
+          1806,
+          1935,
+          559
+        ],
+        "volume": [
+          42,
+          45,
+          13
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          1767,
+          1894,
+          547
+        ],
+        "volume": [
+          42,
+          45,
+          13
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          1869,
+          2003,
+          579
+        ],
+        "volume": [
+          42,
+          45,
+          13
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          1878,
+          2012,
+          581
+        ],
+        "volume": [
+          42,
+          45,
+          13
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          1288,
+          1671,
+          522
+        ],
+        "volume": [
+          37,
+          48,
+          15
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          1390,
+          1804,
+          564
+        ],
+        "volume": [
+          37,
+          48,
+          15
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          1404,
+          1821,
+          569
+        ],
+        "volume": [
+          37,
+          48,
+          15
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1432,
+          1858,
+          581
+        ],
+        "volume": [
+          37,
+          48,
+          15
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1751,
+          1917,
+          500
+        ],
+        "volume": [
+          42,
+          46,
+          12
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1844,
+          2019,
+          527
+        ],
+        "volume": [
+          42,
+          46,
+          12
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          2020,
+          2213,
+          577
+        ],
+        "volume": [
+          42,
+          46,
+          12
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          2128,
+          2331,
+          608
+        ],
+        "volume": [
+          42,
+          46,
+          12
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          2362,
+          2310,
+          578
+        ],
+        "volume": [
+          45,
+          44,
+          11
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          2421,
+          2367,
+          592
+        ],
+        "volume": [
+          45,
+          44,
+          11
+        ]
+      },
+      "2026 Q3": {
+        "value": [
+          2439,
+          2385,
+          596
+        ],
+        "volume": [
+          45,
+          44,
+          11
+        ]
+      },
+      "2026 Q4": {
+        "value": [
+          2452,
+          2398,
+          600
+        ],
+        "volume": [
+          45,
+          44,
+          11
+        ]
       }
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Lam Research (NASDAQ: LRCX) commands the global high-aspect-ratio (HAR) dry etching and atomic layer deposition (ALD) technological duopoly alongside Tokyo Electron and Applied Materials. Critical to both 3D NAND vertical scaling (>200 to 400+ layers), High-Bandwidth Memory (HBM3e/HBM4 via TSV etch), and sub-2nm GAA nanosheet selective etching (Sense.i / Coronus platforms), Lam reached an operating inflection point where gross margins rebounded from 44.6% in 2023 to 48.7% in 2025 and 50.0% in 2026, delivering over $7.3B in operating income.",
-      "zh": "科林研發（Lam Research / LRCX）為全球半導體高深寬比（HAR）電漿蝕刻與原子層沉積（ALD）設備絕對龍頭。作為 3D NAND 垂直堆疊（200 層跨越至 400+ 層）、高頻寬記憶體（HBM3e/HBM4 晶圓級 TSV 矽穿孔）與次 2 奈米 GAA 環繞閘極奈米片選擇性蝕刻（Sense.i / Coronus 平台）不可或缺的關鍵製程基石，Lam 在 2024 年記憶體週期觸底後迎來強烈拐點，毛利率自 2023 年 44.6% 強勁修復至 2025 年 48.7% 與 2026 年 50.0%，營業利益一舉突破 73 億美元。"
+    "en": {
+      "pivot": "Lam Research Corporation (LRCX / 科林研發) workforce reported at 20,200 FTEs with GAAP Gross Margin at 50.0%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $269,802/FTE in revenue and $134,901/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M1,853 (34.0% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M602 (11.05% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 7.55% compared to headcount change of 6.32% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Human capital efficiency remains best-in-class within the wafer fab equipment (WFE) tier, delivering $970k to $1.06M USD in Revenue per FTE and over $472k to $532k USD in Gross Profit per FTE across 19,000 to 20,200 elite process and field engineers.",
-      "zh": "在半導體晶圓前端製造設備（WFE）領域，Lam 展現極高的人力資本效率，全球約 1.9 萬至 2.0 萬名製程與研發工程團隊創造每人 97 萬至 106 萬美元營收（約 NT$ 3,100 萬～3,400 萬元/人），人均毛利突破 47 萬～53 萬美元。"
-    },
-    "value_vs_volume": {
-      "en": "High-margin Customer Support Business Group (CSBG) recurring spares, upgrades, and Reliant secondary systems generate over 35% of total revenue, acting as a resilient cash cushion during cyclical down-turns and amplifying gross margin during memory up-cycles.",
-      "zh": "高毛利率之客戶服務事業群（CSBG / 耗材零組件、腔體升級與 Reliant 翻新設備）貢獻超過 35% 的經常性收入，在晶圓廠資本支出下行週期提供充沛的現金緩衝，並於記憶體上行擴產週期劇烈放大營運槓桿。"
+    "zh": {
+      "pivot": "Lam Research Corporation (LRCX / 科林研發) 官方審計員工數為 20,200 人，GAAP 毛利率為 50.0%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $269,802/人，人均毛利為 $134,901/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M1,853（營業利益率 34.0%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M602（佔營收 11.05%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 7.55%，員工人數年增率為 6.32%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

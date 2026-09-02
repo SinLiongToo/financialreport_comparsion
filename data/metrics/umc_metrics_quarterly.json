@@ -1,6 +1,6 @@
 {
   "company_name": "UMC (United Microelectronics Corp)",
-  "ticker": "UMC",
+  "ticker": "UNITED-MICROELECTRONICS",
   "currency": "USD (Millions)",
   "unit": "$M",
   "freq": "quarterly",
@@ -38,7 +38,12 @@
       "op_growth_yoy": null,
       "hc_growth_yoy": null,
       "gm_diff_pp": null,
-      "op_diff_pp": null
+      "op_diff_pp": null,
+      "net_margin": 23.3,
+      "ni_per_emp": 20322.0,
+      "rd_per_emp": 5353.0,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null
     },
     "2023 Q2": {
       "revenue": 1810.0,
@@ -54,12 +59,17 @@
       "gp_per_emp": 32357.0,
       "op_per_emp": 24069.0,
       "cogs": 1158.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 2.84,
+      "gp_growth_yoy": 4.32,
+      "op_growth_yoy": 3.19,
+      "hc_growth_yoy": -0.12,
+      "gm_diff_pp": 0.51,
+      "op_diff_pp": 0.1,
+      "net_margin": 23.2,
+      "ni_per_emp": 20844.0,
+      "rd_per_emp": 5459.0,
+      "ni_growth_yoy": 2.44,
+      "rd_growth_yoy": 1.85
     },
     "2023 Q3": {
       "revenue": 1805.0,
@@ -72,15 +82,20 @@
       "rd_pct_rev": 6.2,
       "headcount": 20125,
       "rev_per_emp": 89689.0,
-      "gp_per_emp": 32200.0,
+      "gp_per_emp": 32199.0,
       "op_per_emp": 23851.0,
       "cogs": 1157.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -0.28,
+      "gp_growth_yoy": -0.61,
+      "op_growth_yoy": -1.03,
+      "hc_growth_yoy": -0.12,
+      "gm_diff_pp": -0.12,
+      "op_diff_pp": -0.21,
+      "net_margin": 22.99,
+      "ni_per_emp": 20621.0,
+      "rd_per_emp": 5565.0,
+      "ni_growth_yoy": -1.19,
+      "rd_growth_yoy": 1.82
     },
     "2023 Q4": {
       "revenue": 1780.0,
@@ -96,12 +111,17 @@
       "gp_per_emp": 28458.0,
       "op_per_emp": 18905.0,
       "cogs": 1208.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -1.39,
+      "gp_growth_yoy": -11.73,
+      "op_growth_yoy": -20.83,
+      "hc_growth_yoy": -0.12,
+      "gm_diff_pp": -3.77,
+      "op_diff_pp": -5.24,
+      "net_margin": 18.54,
+      "ni_per_emp": 16418.0,
+      "rd_per_emp": 5622.0,
+      "ni_growth_yoy": -20.48,
+      "rd_growth_yoy": 0.89
     },
     "2024 Q1": {
       "revenue": 1720.0,
@@ -122,7 +142,12 @@
       "op_growth_yoy": -27.66,
       "hc_growth_yoy": -0.5,
       "gm_diff_pp": -4.64,
-      "op_diff_pp": -6.93
+      "op_diff_pp": -6.93,
+      "net_margin": 17.44,
+      "ni_per_emp": 14944.0,
+      "rd_per_emp": 5430.0,
+      "ni_growth_yoy": -26.83,
+      "rd_growth_yoy": 0.93
     },
     "2024 Q2": {
       "revenue": 1795.0,
@@ -143,7 +168,12 @@
       "op_growth_yoy": -7.22,
       "hc_growth_yoy": -0.5,
       "gm_diff_pp": -0.81,
-      "op_diff_pp": -1.73
+      "op_diff_pp": -1.73,
+      "net_margin": 21.73,
+      "ni_per_emp": 19451.0,
+      "rd_per_emp": 5536.0,
+      "ni_growth_yoy": -7.14,
+      "rd_growth_yoy": 0.91
     },
     "2024 Q3": {
       "revenue": 1880.0,
@@ -164,14 +194,19 @@
       "op_growth_yoy": -3.12,
       "hc_growth_yoy": -0.5,
       "gm_diff_pp": -2.12,
-      "op_diff_pp": -1.86
+      "op_diff_pp": -1.86,
+      "net_margin": 21.54,
+      "ni_per_emp": 20225.0,
+      "rd_per_emp": 5593.0,
+      "ni_growth_yoy": -2.41,
+      "rd_growth_yoy": 0.0
     },
     "2024 Q4": {
       "revenue": 1864.0,
       "gross_profit": 581.0,
       "gross_margin": 31.17,
       "operating_income": 429.0,
-      "operating_margin": 23.01,
+      "operating_margin": 23.02,
       "net_income": 375.0,
       "rd_expense": 112.0,
       "rd_pct_rev": 6.01,
@@ -185,14 +220,19 @@
       "op_growth_yoy": 12.89,
       "hc_growth_yoy": -0.5,
       "gm_diff_pp": -0.96,
-      "op_diff_pp": 1.66
+      "op_diff_pp": 1.67,
+      "net_margin": 20.12,
+      "ni_per_emp": 18750.0,
+      "rd_per_emp": 5600.0,
+      "ni_growth_yoy": 13.64,
+      "rd_growth_yoy": -0.88
     },
     "2025 Q1": {
       "revenue": 1840.0,
       "gross_profit": 607.0,
       "gross_margin": 33.0,
       "operating_income": 423.0,
-      "operating_margin": 23.0,
+      "operating_margin": 22.99,
       "net_income": 370.0,
       "rd_expense": 114.0,
       "rd_pct_rev": 6.2,
@@ -206,14 +246,19 @@
       "op_growth_yoy": 24.41,
       "hc_growth_yoy": -0.12,
       "gm_diff_pp": 2.13,
-      "op_diff_pp": 3.23
+      "op_diff_pp": 3.22,
+      "net_margin": 20.11,
+      "ni_per_emp": 18454.0,
+      "rd_per_emp": 5686.0,
+      "ni_growth_yoy": 23.33,
+      "rd_growth_yoy": 4.59
     },
     "2025 Q2": {
       "revenue": 1910.0,
       "gross_profit": 649.0,
       "gross_margin": 34.0,
       "operating_income": 458.0,
-      "operating_margin": 24.0,
+      "operating_margin": 23.98,
       "net_income": 400.0,
       "rd_expense": 116.0,
       "rd_pct_rev": 6.07,
@@ -227,14 +272,19 @@
       "op_growth_yoy": 1.78,
       "hc_growth_yoy": 0.25,
       "gm_diff_pp": -1.21,
-      "op_diff_pp": -1.07
+      "op_diff_pp": -1.09,
+      "net_margin": 20.94,
+      "ni_per_emp": 19900.0,
+      "rd_per_emp": 5771.0,
+      "ni_growth_yoy": 2.56,
+      "rd_growth_yoy": 4.5
     },
     "2025 Q3": {
       "revenue": 1960.0,
       "gross_profit": 666.0,
       "gross_margin": 34.0,
       "operating_income": 470.0,
-      "operating_margin": 24.0,
+      "operating_margin": 23.98,
       "net_income": 410.0,
       "rd_expense": 118.0,
       "rd_pct_rev": 6.02,
@@ -248,7 +298,12 @@
       "op_growth_yoy": 1.08,
       "hc_growth_yoy": 0.62,
       "gm_diff_pp": 0.22,
-      "op_diff_pp": -0.73
+      "op_diff_pp": -0.75,
+      "net_margin": 20.92,
+      "ni_per_emp": 20347.0,
+      "rd_per_emp": 5856.0,
+      "ni_growth_yoy": 1.23,
+      "rd_growth_yoy": 5.36
     },
     "2025 Q4": {
       "revenue": 1940.0,
@@ -266,10 +321,15 @@
       "cogs": 1299.0,
       "rev_growth_yoy": 4.08,
       "gp_growth_yoy": 10.33,
-      "op_growth_yoy": 4.19,
+      "op_growth_yoy": 4.2,
       "hc_growth_yoy": 1.0,
       "gm_diff_pp": 1.87,
-      "op_diff_pp": 0.03
+      "op_diff_pp": 0.02,
+      "net_margin": 20.1,
+      "ni_per_emp": 19307.0,
+      "rd_per_emp": 5792.0,
+      "ni_growth_yoy": 4.0,
+      "rd_growth_yoy": 4.46
     }
   },
   "sales_breakdown": {

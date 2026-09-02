@@ -1,6 +1,6 @@
 {
   "company_name": "Broadcom Inc. (AVGO / 博通)",
-  "ticker": "AVGO",
+  "ticker": "BROADCOM-CORPORATION",
   "country": {
     "en": "United States 🇺🇸",
     "zh": "美國 🇺🇸",
@@ -71,14 +71,14 @@
       "op_per_emp": 200200.0,
       "ni_per_emp": 174050.0,
       "rd_per_emp": 64750.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -2.04,
+      "gp_growth_yoy": 1.8,
+      "op_growth_yoy": -6.45,
+      "ni_growth_yoy": -7.76,
+      "rd_growth_yoy": 3.52,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 2.64,
+      "op_diff_pp": -2.16
     },
     "2023 Q3": {
       "revenue": 8876.0,
@@ -97,14 +97,14 @@
       "op_per_emp": 200800.0,
       "ni_per_emp": 165150.0,
       "rd_per_emp": 68050.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 1.64,
+      "gp_growth_yoy": -0.07,
+      "op_growth_yoy": 0.3,
+      "ni_growth_yoy": -5.11,
+      "rd_growth_yoy": 5.1,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": -1.17,
+      "op_diff_pp": -0.6
     },
     "2023 Q4": {
       "revenue": 9295.0,
@@ -123,14 +123,14 @@
       "op_per_emp": 195350.0,
       "ni_per_emp": 176200.0,
       "rd_per_emp": 67300.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 4.72,
+      "gp_growth_yoy": 5.2,
+      "op_growth_yoy": -2.71,
+      "ni_growth_yoy": 6.69,
+      "rd_growth_yoy": -1.1,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 0.31,
+      "op_diff_pp": -3.22
     },
     "2024 Q1": {
       "revenue": 11961.0,
@@ -144,11 +144,11 @@
       "rd_expense": 2147.0,
       "rd_pct_rev": 17.95,
       "headcount": 24250,
-      "rev_per_emp": 493237.1,
-      "gp_per_emp": 305443.3,
-      "op_per_emp": 85484.5,
-      "ni_per_emp": 54639.2,
-      "rd_per_emp": 88536.1,
+      "rev_per_emp": 493237.0,
+      "gp_per_emp": 305443.0,
+      "op_per_emp": 85485.0,
+      "ni_per_emp": 54639.0,
+      "rd_per_emp": 88536.0,
       "rev_growth_yoy": 34.17,
       "gp_growth_yoy": 23.16,
       "op_growth_yoy": -51.57,
@@ -170,11 +170,11 @@
       "rd_expense": 2185.0,
       "rd_pct_rev": 17.5,
       "headcount": 28500,
-      "rev_per_emp": 438140.4,
-      "gp_per_emp": 272491.2,
-      "op_per_emp": 104035.1,
-      "ni_per_emp": 74421.1,
-      "rd_per_emp": 76666.7,
+      "rev_per_emp": 438140.0,
+      "gp_per_emp": 272491.0,
+      "op_per_emp": 104035.0,
+      "ni_per_emp": 74421.0,
+      "rd_per_emp": 76667.0,
       "rev_growth_yoy": 42.99,
       "gp_growth_yoy": 26.85,
       "op_growth_yoy": -25.95,
@@ -197,10 +197,10 @@
       "rd_pct_rev": 18.28,
       "headcount": 32750,
       "rev_per_emp": 399145.0,
-      "gp_per_emp": 256610.7,
-      "op_per_emp": 115664.1,
-      "ni_per_emp": -57251.9,
-      "rd_per_emp": 72977.1,
+      "gp_per_emp": 256611.0,
+      "op_per_emp": 115664.0,
+      "ni_per_emp": -57252.0,
+      "rd_per_emp": 72977.0,
       "rev_growth_yoy": 47.27,
       "gp_growth_yoy": 37.37,
       "op_growth_yoy": -5.68,
@@ -222,11 +222,11 @@
       "rd_expense": 2588.0,
       "rd_pct_rev": 18.41,
       "headcount": 37000,
-      "rev_per_emp": 379837.8,
-      "gp_per_emp": 241405.4,
-      "op_per_emp": 125324.3,
-      "ni_per_emp": 116864.9,
-      "rd_per_emp": 69945.9,
+      "rev_per_emp": 379838.0,
+      "gp_per_emp": 241405.0,
+      "op_per_emp": 125324.0,
+      "ni_per_emp": 116865.0,
+      "rd_per_emp": 69946.0,
       "rev_growth_yoy": 51.2,
       "gp_growth_yoy": 38.78,
       "op_growth_yoy": 18.68,
@@ -248,11 +248,11 @@
       "rd_expense": 2650.0,
       "rd_pct_rev": 17.76,
       "headcount": 36000,
-      "rev_per_emp": 414444.4,
+      "rev_per_emp": 414444.0,
       "gp_per_emp": 275000.0,
-      "op_per_emp": 156944.4,
-      "ni_per_emp": 142222.2,
-      "rd_per_emp": 73611.1,
+      "op_per_emp": 156944.0,
+      "ni_per_emp": 142222.0,
+      "rd_per_emp": 73611.0,
       "rev_growth_yoy": 24.74,
       "gp_growth_yoy": 33.66,
       "op_growth_yoy": 172.55,
@@ -275,10 +275,10 @@
       "rd_pct_rev": 17.28,
       "headcount": 35000,
       "rev_per_emp": 448000.0,
-      "gp_per_emp": 301428.6,
-      "op_per_emp": 176571.4,
-      "ni_per_emp": 160857.1,
-      "rd_per_emp": 77428.6,
+      "gp_per_emp": 301429.0,
+      "op_per_emp": 176571.0,
+      "ni_per_emp": 160857.0,
+      "rd_per_emp": 77429.0,
       "rev_growth_yoy": 25.57,
       "gp_growth_yoy": 35.85,
       "op_growth_yoy": 108.43,
@@ -300,11 +300,11 @@
       "rd_expense": 2787.0,
       "rd_pct_rev": 17.05,
       "headcount": 34000,
-      "rev_per_emp": 480882.4,
-      "gp_per_emp": 328529.4,
-      "op_per_emp": 195705.9,
+      "rev_per_emp": 480882.0,
+      "gp_per_emp": 328529.0,
+      "op_per_emp": 195706.0,
       "ni_per_emp": 179000.0,
-      "rd_per_emp": 81970.6,
+      "rd_per_emp": 81971.0,
       "rev_growth_yoy": 25.08,
       "gp_growth_yoy": 32.91,
       "op_growth_yoy": 75.66,
@@ -326,11 +326,11 @@
       "rd_expense": 2830.0,
       "rd_pct_rev": 16.71,
       "headcount": 33000,
-      "rev_per_emp": 513242.4,
-      "gp_per_emp": 353757.6,
-      "op_per_emp": 212121.2,
-      "ni_per_emp": 190606.1,
-      "rd_per_emp": 85757.6,
+      "rev_per_emp": 513242.0,
+      "gp_per_emp": 353758.0,
+      "op_per_emp": 212121.0,
+      "ni_per_emp": 190606.0,
+      "rd_per_emp": 85758.0,
       "rev_growth_yoy": 20.51,
       "gp_growth_yoy": 30.7,
       "op_growth_yoy": 50.96,
@@ -352,11 +352,11 @@
       "rd_expense": 2950.0,
       "rd_pct_rev": 16.57,
       "headcount": 33250,
-      "rev_per_emp": 535338.3,
-      "gp_per_emp": 372330.8,
-      "op_per_emp": 227368.4,
-      "ni_per_emp": 203007.5,
-      "rd_per_emp": 88721.8,
+      "rev_per_emp": 535338.0,
+      "gp_per_emp": 372331.0,
+      "op_per_emp": 227368.0,
+      "ni_per_emp": 203008.0,
+      "rd_per_emp": 88722.0,
       "rev_growth_yoy": 19.3,
       "gp_growth_yoy": 25.05,
       "op_growth_yoy": 33.81,
@@ -378,11 +378,11 @@
       "rd_expense": 3050.0,
       "rd_pct_rev": 16.49,
       "headcount": 33500,
-      "rev_per_emp": 552238.8,
-      "gp_per_emp": 385671.6,
+      "rev_per_emp": 552239.0,
+      "gp_per_emp": 385672.0,
       "op_per_emp": 238209.0,
-      "ni_per_emp": 211343.3,
-      "rd_per_emp": 91044.8,
+      "ni_per_emp": 211343.0,
+      "rd_per_emp": 91045.0,
       "rev_growth_yoy": 17.98,
       "gp_growth_yoy": 22.46,
       "op_growth_yoy": 29.13,
@@ -404,11 +404,11 @@
       "rd_expense": 3170.0,
       "rd_pct_rev": 16.51,
       "headcount": 33750,
-      "rev_per_emp": 568888.9,
-      "gp_per_emp": 399407.4,
-      "op_per_emp": 245333.3,
-      "ni_per_emp": 216592.6,
-      "rd_per_emp": 93925.9,
+      "rev_per_emp": 568889.0,
+      "gp_per_emp": 399407.0,
+      "op_per_emp": 245333.0,
+      "ni_per_emp": 216593.0,
+      "rd_per_emp": 93926.0,
       "rev_growth_yoy": 17.43,
       "gp_growth_yoy": 20.68,
       "op_growth_yoy": 24.44,
@@ -430,11 +430,11 @@
       "rd_expense": 3238.0,
       "rd_pct_rev": 16.44,
       "headcount": 34000,
-      "rev_per_emp": 579411.8,
-      "gp_per_emp": 407647.1,
-      "op_per_emp": 250470.6,
-      "ni_per_emp": 218705.9,
-      "rd_per_emp": 95235.3,
+      "rev_per_emp": 579412.0,
+      "gp_per_emp": 407647.0,
+      "op_per_emp": 250471.0,
+      "ni_per_emp": 218706.0,
+      "rd_per_emp": 95235.0,
       "rev_growth_yoy": 16.31,
       "gp_growth_yoy": 18.73,
       "op_growth_yoy": 21.66,
@@ -525,21 +525,185 @@
           60,
           40
         ]
+      },
+      "2023 Q1": {
+        "value": [
+          7014,
+          1901
+        ],
+        "volume": [
+          79,
+          21
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          6871,
+          1862
+        ],
+        "volume": [
+          79,
+          21
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          6984,
+          1892
+        ],
+        "volume": [
+          79,
+          21
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          7313,
+          1982
+        ],
+        "volume": [
+          79,
+          21
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          6980,
+          4981
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          7287,
+          5200
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          7628,
+          5444
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          8201,
+          5853
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          8608,
+          6312
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          9046,
+          6634
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          9433,
+          6917
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          9771,
+          7166
+        ],
+        "volume": [
+          58,
+          42
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          10680,
+          7120
+        ],
+        "volume": [
+          60,
+          40
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          11100,
+          7400
+        ],
+        "volume": [
+          60,
+          40
+        ]
+      },
+      "2026 Q3": {
+        "value": [
+          11520,
+          7680
+        ],
+        "volume": [
+          60,
+          40
+        ]
+      },
+      "2026 Q4": {
+        "value": [
+          11820,
+          7880
+        ],
+        "volume": [
+          60,
+          40
+        ]
       }
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Broadcom (NASDAQ: AVGO) exemplifies the ultimate high-operating-leverage conglomerate in global technology. By mastering two twin moats—Custom AI Accelerators (XPUs with Google TPU, Meta MTIA, and OpenAI) and Tomahawk 5/Jericho3-AI 51.2T networking silicon alongside the VMware Cloud Foundation (VCF) private cloud virtualization stack—Broadcom commands industry-leading Gross Margins of 67%-70% and Operating Margins exceeding 40%-45%. The pivotal VMware acquisition integration in 2024 expanded revenues past $51B and pushed 2025-2026 revenue toward $64B-$75B while streamlining workforce to achieve record FTE productivity.",
-      "zh": "博通（Broadcom / AVGO）為全球極致高營運槓桿科技巨擘典範。憑藉雙輪驅動護城河——客製化 AI 晶片 (客製 XPU/ASIC 深度合作 Google TPU、Meta MTIA 與頂級雲端客戶) 及 Tomahawk 5 / Jericho3-AI 51.2Tbps 高階乙太網路晶片，搭配 VMware Cloud Foundation (VCF) 私有雲虛擬化軟體堆疊，帶動毛利率長年穩居 67%～70%、營業利益率突破 40%～45%。2024 年完成 VMware 併購整合後營收衝破 515 億美元，並於 2025～2026 年快速挺進 640 億～750 億美元，展現驚人的人力精實與獲利飛輪。"
+    "en": {
+      "pivot": "Broadcom Inc. (AVGO / 博通) workforce reported at 34,000 FTEs with GAAP Gross Margin at 70.36%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $579,412/FTE in revenue and $407,647/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M8,516 (43.23% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M3,238 (16.44% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 16.31% compared to headcount change of 3.03% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Broadcom posts extraordinary human capital productivity indices, generating $1.94M - $2.21M USD in Revenue per FTE and $1.31M - $1.55M USD in Gross Profit per FTE, placing it among the highest per-employee value creators on Wall Street.",
-      "zh": "博通展現華爾街頂尖的人均產值表現，2025～2026 年每位員工創造高達 194 萬至 221 萬美元營收（約合新台幣 6,200 萬～7,000 萬元/人），人均毛利達 131 萬～155 萬美元，位居全球科技業最高人均產值第一梯隊。"
-    },
-    "value_vs_volume": {
-      "en": "Strategic pricing power in high-end AI networking switches and shift of VMware legacy perpetual licenses to subscription VCF annualized contract value (ACV) drive compounding high-margin recurring cash flows with minimal capex drag.",
-      "zh": "高階 AI 網路交換晶片的無可取代定價權，加上將 VMware 傳統永久授權成功轉型為高黏著度 VCF 訂閱年化合約價值（ACV），驅動充沛的重複性自由現金流，資本支出負擔極低。"
+    "zh": {
+      "pivot": "Broadcom Inc. (AVGO / 博通) 官方審計員工數為 34,000 人，GAAP 毛利率為 70.36%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $579,412/人，人均毛利為 $407,647/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M8,516（營業利益率 43.23%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M3,238（佔營收 16.44%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 16.31%，員工人數年增率為 3.03%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

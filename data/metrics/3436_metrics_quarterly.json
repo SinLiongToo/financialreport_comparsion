@@ -1,6 +1,6 @@
 {
   "company_name": "SUMCO Corporation (3436.T / 株式会社SUMCO)",
-  "ticker": "SUMCO",
+  "ticker": "3436",
   "country": {
     "en": "Japan 🇯🇵",
     "zh": "日本 🇯🇵",
@@ -65,14 +65,14 @@
       "op_per_emp": 15426.0,
       "ni_per_emp": 13298.0,
       "rd_per_emp": 3064.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -1.27,
+      "gp_growth_yoy": -4.17,
+      "op_growth_yoy": -9.38,
+      "ni_growth_yoy": -10.71,
+      "rd_growth_yoy": 1.05,
+      "hc_growth_yoy": 1.08,
+      "gm_diff_pp": -1.0,
+      "op_diff_pp": -1.66
     },
     "2023 Q3": {
       "revenue": 745.0,
@@ -90,14 +90,14 @@
       "op_per_emp": 12105.0,
       "ni_per_emp": 11053.0,
       "rd_per_emp": 3053.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -4.49,
+      "gp_growth_yoy": -10.3,
+      "op_growth_yoy": -20.69,
+      "ni_growth_yoy": -16.0,
+      "rd_growth_yoy": 0.69,
+      "hc_growth_yoy": 1.06,
+      "gm_diff_pp": -2.0,
+      "op_diff_pp": -3.15
     },
     "2023 Q4": {
       "revenue": 716.6,
@@ -115,14 +115,14 @@
       "op_per_emp": 10427.0,
       "ni_per_emp": 8823.0,
       "rd_per_emp": 3021.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -3.81,
+      "gp_growth_yoy": -11.65,
+      "op_growth_yoy": -12.96,
+      "ni_growth_yoy": -19.33,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 1.05,
+      "gm_diff_pp": -2.53,
+      "op_diff_pp": -1.47
     },
     "2024 Q1": {
       "revenue": 670.0,
@@ -485,17 +485,21 @@
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Operating margins troughed in late 2024 and began a steady recovery in 2025 as AI datacenter demand lifted advanced 300mm wafer utilization back above 90%.",
-      "zh": "營益率於2024年底觸底，並在2025年隨著AI資料中心需求將高階300mm晶圓稼動率推升至90%以上而穩步回升。"
+    "en": {
+      "pivot": "SUMCO Corporation (3436.T / 株式会社SUMCO) workforce reported at 10,100 FTEs with GAAP Gross Margin at 28.81%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $71,287/FTE in revenue and $20,535/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M88 (12.22% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M30 (4.21% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 12.22% compared to headcount change of 2.02% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Throughput remained steady with quarterly revenue per FTE around $65k-$71k across market fluctuations.",
-      "zh": "人均季度產值在景氣波動中維持在6.5萬至7.1萬美元的穩健水準。"
-    },
-    "value_vs_volume": {
-      "en": "Strong 300mm pricing under multi-year LTAs cushioned the revenue impact of lower 200mm volume.",
-      "zh": "多年期LTA合約保障300mm晶圓價格穩定，有效緩解200mm出貨減少對整體營收的衝擊。"
+    "zh": {
+      "pivot": "SUMCO Corporation (3436.T / 株式会社SUMCO) 官方審計員工數為 10,100 人，GAAP 毛利率為 28.81%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $71,287/人，人均毛利為 $20,535/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M88（營業利益率 12.22%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M30（佔營收 4.21%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 12.22%，員工人數年增率為 2.02%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

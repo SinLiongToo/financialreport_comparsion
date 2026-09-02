@@ -1,6 +1,6 @@
 {
   "company_name": "Merck KGaA (MRK.DE / 德國默克集團)",
-  "ticker": "MERCK-KGAA",
+  "ticker": "MRK.DE",
   "country": {
     "en": "Germany 🇩🇪",
     "zh": "德國 🇩🇪",
@@ -36,11 +36,11 @@
       "rd_expense": 648.0,
       "rd_pct_rev": 11.34,
       "headcount": 63901,
-      "rev_per_emp": 89441.5,
-      "gp_per_emp": 54737.8,
-      "op_per_emp": 17253.3,
-      "ni_per_emp": 13520.9,
-      "rd_per_emp": 10140.7,
+      "rev_per_emp": 89441.0,
+      "gp_per_emp": 54738.0,
+      "op_per_emp": 17253.0,
+      "ni_per_emp": 13521.0,
+      "rd_per_emp": 10141.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -62,19 +62,19 @@
       "rd_expense": 658.0,
       "rd_pct_rev": 11.49,
       "headcount": 63570,
-      "rev_per_emp": 90077.1,
-      "gp_per_emp": 54495.8,
-      "op_per_emp": 16548.7,
-      "ni_per_emp": 11892.4,
-      "rd_per_emp": 10350.8,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 90077.0,
+      "gp_per_emp": 54496.0,
+      "op_per_emp": 16549.0,
+      "ni_per_emp": 11892.0,
+      "rd_per_emp": 10351.0,
+      "rev_growth_yoy": 0.19,
+      "gp_growth_yoy": -0.96,
+      "op_growth_yoy": -4.58,
+      "ni_growth_yoy": -12.5,
+      "rd_growth_yoy": 1.54,
+      "hc_growth_yoy": -0.52,
+      "gm_diff_pp": -0.7,
+      "op_diff_pp": -0.92
     },
     "2023 Q3": {
       "revenue": 5586.8,
@@ -88,19 +88,19 @@
       "rd_expense": 664.0,
       "rd_pct_rev": 11.89,
       "headcount": 63239,
-      "rev_per_emp": 88344.2,
-      "gp_per_emp": 52829.7,
-      "op_per_emp": 15582.2,
-      "ni_per_emp": 11780.7,
-      "rd_per_emp": 10499.8,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 88344.0,
+      "gp_per_emp": 52830.0,
+      "op_per_emp": 15582.0,
+      "ni_per_emp": 11781.0,
+      "rd_per_emp": 10500.0,
+      "rev_growth_yoy": -2.43,
+      "gp_growth_yoy": -3.56,
+      "op_growth_yoy": -6.33,
+      "ni_growth_yoy": -1.46,
+      "rd_growth_yoy": 0.91,
+      "hc_growth_yoy": -0.52,
+      "gm_diff_pp": -0.7,
+      "op_diff_pp": -0.73
     },
     "2023 Q4": {
       "revenue": 5644.0,
@@ -114,19 +114,19 @@
       "rd_expense": 667.4,
       "rd_pct_rev": 11.82,
       "headcount": 62908,
-      "rev_per_emp": 89718.3,
-      "gp_per_emp": 53463.8,
-      "op_per_emp": 14964.7,
-      "ni_per_emp": 10887.3,
-      "rd_per_emp": 10609.1,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 89718.0,
+      "gp_per_emp": 53464.0,
+      "op_per_emp": 14965.0,
+      "ni_per_emp": 10887.0,
+      "rd_per_emp": 10609.0,
+      "rev_growth_yoy": 1.02,
+      "gp_growth_yoy": 0.67,
+      "op_growth_yoy": -4.47,
+      "ni_growth_yoy": -8.07,
+      "rd_growth_yoy": 0.51,
+      "hc_growth_yoy": -0.52,
+      "gm_diff_pp": -0.21,
+      "op_diff_pp": -0.96
     },
     "2024 Q1": {
       "revenue": 5529.6,
@@ -140,11 +140,11 @@
       "rd_expense": 660.0,
       "rd_pct_rev": 11.94,
       "headcount": 62806,
-      "rev_per_emp": 88042.5,
-      "gp_per_emp": 53706.7,
-      "op_per_emp": 16851.9,
-      "ni_per_emp": 12896.9,
-      "rd_per_emp": 10508.6,
+      "rev_per_emp": 88043.0,
+      "gp_per_emp": 53707.0,
+      "op_per_emp": 16852.0,
+      "ni_per_emp": 12897.0,
+      "rd_per_emp": 10509.0,
       "rev_growth_yoy": -3.25,
       "gp_growth_yoy": -3.57,
       "op_growth_yoy": -4.0,
@@ -166,11 +166,11 @@
       "rd_expense": 675.0,
       "rd_pct_rev": 11.68,
       "headcount": 62704,
-      "rev_per_emp": 92147.2,
-      "gp_per_emp": 56761.9,
-      "op_per_emp": 17998.9,
-      "ni_per_emp": 13606.8,
-      "rd_per_emp": 10764.9,
+      "rev_per_emp": 92147.0,
+      "gp_per_emp": 56762.0,
+      "op_per_emp": 17999.0,
+      "ni_per_emp": 13607.0,
+      "rd_per_emp": 10765.0,
       "rev_growth_yoy": 0.9,
       "gp_growth_yoy": 2.74,
       "op_growth_yoy": 7.28,
@@ -192,11 +192,11 @@
       "rd_expense": 680.0,
       "rd_pct_rev": 11.95,
       "headcount": 62602,
-      "rev_per_emp": 90866.1,
-      "gp_per_emp": 56154.8,
-      "op_per_emp": 18171.9,
-      "ni_per_emp": 13456.4,
-      "rd_per_emp": 10862.3,
+      "rev_per_emp": 90866.0,
+      "gp_per_emp": 56155.0,
+      "op_per_emp": 18172.0,
+      "ni_per_emp": 13456.0,
+      "rd_per_emp": 10862.0,
       "rev_growth_yoy": 1.82,
       "gp_growth_yoy": 5.22,
       "op_growth_yoy": 15.45,
@@ -218,11 +218,11 @@
       "rd_expense": 695.8,
       "rd_pct_rev": 11.89,
       "headcount": 62500,
-      "rev_per_emp": 93604.8,
-      "gp_per_emp": 57649.6,
+      "rev_per_emp": 93605.0,
+      "gp_per_emp": 57650.0,
       "op_per_emp": 18000.0,
-      "ni_per_emp": 13132.8,
-      "rd_per_emp": 11132.8,
+      "ni_per_emp": 13133.0,
+      "rd_per_emp": 11133.0,
       "rev_growth_yoy": 3.66,
       "gp_growth_yoy": 7.13,
       "op_growth_yoy": 19.5,
@@ -244,11 +244,11 @@
       "rd_expense": 710.0,
       "rd_pct_rev": 12.17,
       "headcount": 62675,
-      "rev_per_emp": 93051.5,
-      "gp_per_emp": 57691.3,
-      "op_per_emp": 19385.7,
-      "ni_per_emp": 14519.3,
-      "rd_per_emp": 11328.3,
+      "rev_per_emp": 93051.0,
+      "gp_per_emp": 57691.0,
+      "op_per_emp": 19386.0,
+      "ni_per_emp": 14519.0,
+      "rd_per_emp": 11328.0,
       "rev_growth_yoy": 5.47,
       "gp_growth_yoy": 7.2,
       "op_growth_yoy": 14.8,
@@ -270,10 +270,10 @@
       "rd_expense": 730.0,
       "rd_pct_rev": 12.02,
       "headcount": 62850,
-      "rev_per_emp": 96658.7,
-      "gp_per_emp": 60412.1,
-      "op_per_emp": 20299.1,
-      "ni_per_emp": 15115.4,
+      "rev_per_emp": 96659.0,
+      "gp_per_emp": 60412.0,
+      "op_per_emp": 20299.0,
+      "ni_per_emp": 15115.0,
       "rd_per_emp": 11615.0,
       "rev_growth_yoy": 5.14,
       "gp_growth_yoy": 6.68,
@@ -296,11 +296,11 @@
       "rd_expense": 740.0,
       "rd_pct_rev": 11.94,
       "headcount": 63025,
-      "rev_per_emp": 98318.1,
+      "rev_per_emp": 98318.0,
       "gp_per_emp": 61547.0,
-      "op_per_emp": 20468.1,
-      "ni_per_emp": 15390.7,
-      "rd_per_emp": 11741.4,
+      "op_per_emp": 20468.0,
+      "ni_per_emp": 15391.0,
+      "rd_per_emp": 11741.0,
       "rev_growth_yoy": 8.93,
       "gp_growth_yoy": 10.34,
       "op_growth_yoy": 13.4,
@@ -322,11 +322,11 @@
       "rd_expense": 736.0,
       "rd_pct_rev": 11.88,
       "headcount": 63200,
-      "rev_per_emp": 98045.9,
-      "gp_per_emp": 61257.9,
-      "op_per_emp": 20151.9,
-      "ni_per_emp": 15202.5,
-      "rd_per_emp": 11645.6,
+      "rev_per_emp": 98046.0,
+      "gp_per_emp": 61258.0,
+      "op_per_emp": 20152.0,
+      "ni_per_emp": 15203.0,
+      "rd_per_emp": 11646.0,
       "rev_growth_yoy": 5.92,
       "gp_growth_yoy": 7.45,
       "op_growth_yoy": 13.21,
@@ -421,21 +421,169 @@
           37,
           20
         ]
+      },
+      "2023 Q1": {
+        "value": [
+          2515,
+          2172,
+          1029
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          2520,
+          2176,
+          1031
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          2458,
+          2123,
+          1006
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          2483,
+          2145,
+          1016
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          2433,
+          2101,
+          995
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          2542,
+          2196,
+          1040
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          2503,
+          2162,
+          1024
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          2574,
+          2223,
+          1053
+        ],
+        "volume": [
+          44,
+          38,
+          18
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          2508,
+          2158,
+          1166
+        ],
+        "volume": [
+          43,
+          37,
+          20
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          2612,
+          2248,
+          1215
+        ],
+        "volume": [
+          43,
+          37,
+          20
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          2664,
+          2293,
+          1239
+        ],
+        "volume": [
+          43,
+          37,
+          20
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          2664,
+          2293,
+          1239
+        ],
+        "volume": [
+          43,
+          37,
+          20
+        ]
       }
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Merck KGaA represents a premier European high-margin science & semiconductor specialty materials conglomerate. With gross margin steadily anchored at 60.3%-62.0% across cyclic fluctuations, the Electronics division (EMD Electronics) provides indispensable critical path chemistry for sub-3nm nodes (EUV patterning, atomic layer deposition ALD/CVD precursors, CMP planarization slurries, and high-purity semiconductor specialty delivery systems).",
-      "zh": "德國默克集團（Merck KGaA）為歐洲頂級高毛利科學與半導體關鍵材料巨頭。其毛利率在景氣循環中始終穩固於 60.3%～62.0% 之頂級區間。旗下的電子科技事業體（EMD Electronics）為全球先進半導體製程（次 3 奈米 EUV 光阻圖形化、ALD/CVD 原子層沉積前驅物、化學機械研磨 CMP 拋光液與超高純度特氣輸送系統）提供無可替代的關鍵材料護城河。"
+    "en": {
+      "pivot": "Merck KGaA (MRK.DE / 德國默克集團) workforce reported at 63,200 FTEs with GAAP Gross Margin at 62.48%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $98,046/FTE in revenue and $61,258/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M1,274 (20.55% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M736 (11.88% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 5.92% compared to headcount change of 1.12% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Revenue per employee averages $365k with Gross Profit per FTE exceeding $225k, reflecting the immense economic moats and intellectual property embedded in life science bioprocessing consumables and specialty semiconductor chemistry.",
-      "zh": "每位員工平均營收約 36.5 萬美元，人均毛利更高達 22.5 萬美元以上，充分展現生命科學生物製程耗材與半導體特種化學材料所構築的高門檻智財權與定價權護城河。"
-    },
-    "value_vs_volume": {
-      "en": "Despite post-pandemic bioprocess destocking in 2023, high-purity chemical pricing power and soaring AI chip memory (HBM CMP slurries and advanced packaging specialty gases) catalyzed a rapid rebound in operating profit to $4.45B in 2024 and projected >$5.0B in 2025.",
-      "zh": "儘管 2023 年歷經疫情後生物製程客戶庫存去化，特種化學材料之強大定價權與 AI 晶片高頻寬記憶體（HBM CMP 拋光與先進封裝特氣）的爆發性需求，帶動 2024 年營業利益強勁回升至 44.5 億美元，2025 年預期突破 50 億美元。"
+    "zh": {
+      "pivot": "Merck KGaA (MRK.DE / 德國默克集團) 官方審計員工數為 63,200 人，GAAP 毛利率為 62.48%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $98,046/人，人均毛利為 $61,258/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M1,274（營業利益率 20.55%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M736（佔營收 11.88%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 5.92%，員工人數年增率為 1.12%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

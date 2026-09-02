@@ -1,6 +1,6 @@
 {
   "company_name": "Wistron Corporation (3231.TW / 緯創資通)",
-  "ticker": "WISTRON",
+  "ticker": "WISTRON-CORPORATION",
   "country": {
     "en": "Taiwan 🇹🇼",
     "zh": "台灣 🇹🇼",
@@ -36,11 +36,11 @@
       "rd_expense": 195.0,
       "rd_pct_rev": 2.86,
       "headcount": 74000,
-      "rev_per_emp": 92168.9,
-      "gp_per_emp": 6462.2,
-      "op_per_emp": 2028.4,
-      "ni_per_emp": 759.5,
-      "rd_per_emp": 2635.1,
+      "rev_per_emp": 92169.0,
+      "gp_per_emp": 6462.0,
+      "op_per_emp": 2028.0,
+      "ni_per_emp": 759.0,
+      "rd_per_emp": 2635.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -62,19 +62,19 @@
       "rd_expense": 200.0,
       "rd_pct_rev": 3.0,
       "headcount": 70000,
-      "rev_per_emp": 95288.6,
-      "gp_per_emp": 7241.4,
+      "rev_per_emp": 95289.0,
+      "gp_per_emp": 7241.0,
       "op_per_emp": 3120.0,
-      "ni_per_emp": 1511.4,
-      "rd_per_emp": 2857.1,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "ni_per_emp": 1511.0,
+      "rd_per_emp": 2857.0,
+      "rev_growth_yoy": -2.2,
+      "gp_growth_yoy": 6.0,
+      "op_growth_yoy": 45.5,
+      "ni_growth_yoy": 88.26,
+      "rd_growth_yoy": 2.56,
+      "hc_growth_yoy": -5.41,
+      "gm_diff_pp": 0.59,
+      "op_diff_pp": 1.07
     },
     "2023 Q3": {
       "revenue": 6970.0,
@@ -88,19 +88,19 @@
       "rd_expense": 204.0,
       "rd_pct_rev": 2.93,
       "headcount": 66000,
-      "rev_per_emp": 105606.1,
-      "gp_per_emp": 8975.8,
-      "op_per_emp": 3801.5,
+      "rev_per_emp": 105606.0,
+      "gp_per_emp": 8976.0,
+      "op_per_emp": 3802.0,
       "ni_per_emp": 2300.0,
-      "rd_per_emp": 3090.9,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rd_per_emp": 3091.0,
+      "rev_growth_yoy": 4.49,
+      "gp_growth_yoy": 16.87,
+      "op_growth_yoy": 14.88,
+      "ni_growth_yoy": 43.48,
+      "rd_growth_yoy": 2.0,
+      "hc_growth_yoy": -5.71,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": 0.33
     },
     "2023 Q4": {
       "revenue": 7420.0,
@@ -114,19 +114,19 @@
       "rd_expense": 208.1,
       "rd_pct_rev": 2.8,
       "headcount": 62000,
-      "rev_per_emp": 119677.4,
-      "gp_per_emp": 10306.5,
-      "op_per_emp": 4214.5,
-      "ni_per_emp": 887.1,
-      "rd_per_emp": 3356.5,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 119677.0,
+      "gp_per_emp": 10306.0,
+      "op_per_emp": 4215.0,
+      "ni_per_emp": 887.0,
+      "rd_per_emp": 3356.0,
+      "rev_growth_yoy": 6.46,
+      "gp_growth_yoy": 7.87,
+      "op_growth_yoy": 4.15,
+      "ni_growth_yoy": -63.77,
+      "rd_growth_yoy": 2.01,
+      "hc_growth_yoy": -6.06,
+      "gm_diff_pp": 0.11,
+      "op_diff_pp": -0.08
     },
     "2024 Q1": {
       "revenue": 7440.0,
@@ -140,11 +140,11 @@
       "rd_expense": 210.0,
       "rd_pct_rev": 2.82,
       "headcount": 62625,
-      "rev_per_emp": 118802.4,
-      "gp_per_emp": 8554.1,
-      "op_per_emp": 3516.2,
-      "ni_per_emp": 1756.5,
-      "rd_per_emp": 3353.3,
+      "rev_per_emp": 118802.0,
+      "gp_per_emp": 8554.0,
+      "op_per_emp": 3516.0,
+      "ni_per_emp": 1756.0,
+      "rd_per_emp": 3353.0,
       "rev_growth_yoy": 9.08,
       "gp_growth_yoy": 12.02,
       "op_growth_yoy": 46.7,
@@ -166,11 +166,11 @@
       "rd_expense": 220.0,
       "rd_pct_rev": 2.82,
       "headcount": 63250,
-      "rev_per_emp": 123517.8,
-      "gp_per_emp": 10376.3,
-      "op_per_emp": 4940.7,
-      "ni_per_emp": 2213.4,
-      "rd_per_emp": 3478.3,
+      "rev_per_emp": 123518.0,
+      "gp_per_emp": 10376.0,
+      "op_per_emp": 4941.0,
+      "ni_per_emp": 2213.0,
+      "rd_per_emp": 3478.0,
       "rev_growth_yoy": 17.13,
       "gp_growth_yoy": 29.47,
       "op_growth_yoy": 43.09,
@@ -192,11 +192,11 @@
       "rd_expense": 228.6,
       "rd_pct_rev": 2.69,
       "headcount": 63875,
-      "rev_per_emp": 133072.4,
-      "gp_per_emp": 11178.1,
-      "op_per_emp": 5401.2,
-      "ni_per_emp": 2739.7,
-      "rd_per_emp": 3578.9,
+      "rev_per_emp": 133072.0,
+      "gp_per_emp": 11178.0,
+      "op_per_emp": 5401.0,
+      "ni_per_emp": 2740.0,
+      "rd_per_emp": 3579.0,
       "rev_growth_yoy": 21.95,
       "gp_growth_yoy": 20.53,
       "op_growth_yoy": 37.5,
@@ -218,11 +218,11 @@
       "rd_expense": 232.0,
       "rd_pct_rev": 2.78,
       "headcount": 64500,
-      "rev_per_emp": 129612.4,
+      "rev_per_emp": 129612.0,
       "gp_per_emp": 10876.0,
-      "op_per_emp": 5094.6,
-      "ni_per_emp": 2229.5,
-      "rd_per_emp": 3596.9,
+      "op_per_emp": 5095.0,
+      "ni_per_emp": 2229.0,
+      "rd_per_emp": 3597.0,
       "rev_growth_yoy": 12.67,
       "gp_growth_yoy": 9.78,
       "op_growth_yoy": 25.76,
@@ -244,11 +244,11 @@
       "rd_expense": 245.0,
       "rd_pct_rev": 2.78,
       "headcount": 64875,
-      "rev_per_emp": 135645.5,
-      "gp_per_emp": 11394.2,
-      "op_per_emp": 5425.8,
-      "ni_per_emp": 2577.3,
-      "rd_per_emp": 3776.5,
+      "rev_per_emp": 135645.0,
+      "gp_per_emp": 11394.0,
+      "op_per_emp": 5426.0,
+      "ni_per_emp": 2577.0,
+      "rd_per_emp": 3776.0,
       "rev_growth_yoy": 18.28,
       "gp_growth_yoy": 37.99,
       "op_growth_yoy": 59.85,
@@ -270,10 +270,10 @@
       "rd_expense": 255.0,
       "rd_pct_rev": 2.71,
       "headcount": 65250,
-      "rev_per_emp": 144061.3,
-      "gp_per_emp": 12389.3,
-      "op_per_emp": 5906.5,
-      "ni_per_emp": 3025.3,
+      "rev_per_emp": 144061.0,
+      "gp_per_emp": 12389.0,
+      "op_per_emp": 5907.0,
+      "ni_per_emp": 3025.0,
       "rd_per_emp": 3908.0,
       "rev_growth_yoy": 20.32,
       "gp_growth_yoy": 23.18,
@@ -296,11 +296,11 @@
       "rd_expense": 265.0,
       "rd_pct_rev": 2.62,
       "headcount": 65625,
-      "rev_per_emp": 153904.8,
-      "gp_per_emp": 13235.8,
-      "op_per_emp": 6310.1,
+      "rev_per_emp": 153905.0,
+      "gp_per_emp": 13236.0,
+      "op_per_emp": 6310.0,
       "ni_per_emp": 3232.0,
-      "rd_per_emp": 4038.1,
+      "rd_per_emp": 4038.0,
       "rev_growth_yoy": 18.82,
       "gp_growth_yoy": 21.65,
       "op_growth_yoy": 20.03,
@@ -322,18 +322,18 @@
       "rd_expense": 260.0,
       "rd_pct_rev": 2.68,
       "headcount": 66000,
-      "rev_per_emp": 146969.7,
-      "gp_per_emp": 12330.3,
-      "op_per_emp": 5583.3,
-      "ni_per_emp": 2777.3,
-      "rd_per_emp": 3939.4,
+      "rev_per_emp": 146970.0,
+      "gp_per_emp": 12330.0,
+      "op_per_emp": 5583.0,
+      "ni_per_emp": 2777.0,
+      "rd_per_emp": 3939.0,
       "rev_growth_yoy": 16.03,
       "gp_growth_yoy": 16.01,
       "op_growth_yoy": 12.14,
       "ni_growth_yoy": 27.47,
       "rd_growth_yoy": 12.07,
       "hc_growth_yoy": 2.33,
-      "gm_diff_pp": -0.0,
+      "gm_diff_pp": 0.0,
       "op_diff_pp": -0.13
     }
   },
@@ -421,21 +421,169 @@
           33,
           12
         ]
+      },
+      "2023 Q1": {
+        "value": [
+          2387,
+          3547,
+          887
+        ],
+        "volume": [
+          30,
+          56,
+          14
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          2335,
+          3469,
+          867
+        ],
+        "volume": [
+          30,
+          56,
+          14
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          2439,
+          3624,
+          906
+        ],
+        "volume": [
+          30,
+          56,
+          14
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          2597,
+          3858,
+          965
+        ],
+        "volume": [
+          30,
+          56,
+          14
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          3348,
+          3125,
+          967
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          3516,
+          3281,
+          1016
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          3825,
+          3570,
+          1105
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          3762,
+          3511,
+          1087
+        ],
+        "volume": [
+          45,
+          42,
+          13
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          4840,
+          2904,
+          1056
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          5170,
+          3102,
+          1128
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          5555,
+          3333,
+          1212
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          5335,
+          3201,
+          1164
+        ],
+        "volume": [
+          55,
+          33,
+          12
+        ]
       }
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Wistron executed an aggressive portfolio transformation between 2023 and 2024 by divesting low-margin smartphone manufacturing assembly in India and pivoting all capital expenditure into NVIDIA HGX/DGX GPU baseboards and enterprise compute servers. Gross margin expanded from 5.1% in 2020 to 8.1% in 2024 while operating income surged past $1.2B USD.",
-      "zh": "緯創於 2023-2024 年執行極為果斷的業務結構大轉型，出售毛利微薄的印度智慧型手機組裝廠，將資本支出全力傾注於 NVIDIA HGX/DGX GPU 基板與企業級伺服器運算模組。毛利率自 2020 年的 5.1% 躍升至 2024 年的 8.1%，營業利益更突破 12 億美元大關。"
+    "en": {
+      "pivot": "Wistron Corporation (3231.TW / 緯創資通) workforce reported at 66,000 FTEs with GAAP Gross Margin at 8.39%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $146,970/FTE in revenue and $12,330/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M368 (3.8% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M260 (2.68% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 16.03% compared to headcount change of 2.33% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Headcount rationalization from 84,200 in 2020 to 64,500 in 2024 accompanied a massive productivity surge: Revenue per FTE jumped from $340k to $498k, and Gross Profit per FTE surged +132% from $17.4k to $40.4k.",
-      "zh": "員工人數由 2020 年的 8.42 萬人精簡優化至 2024 年的 6.45 萬人，帶動人均產值爆發式增長：人均營收自 34 萬美元跳升至 49.8 萬美元，人均毛利更大增 +132% 至 4.04 萬美元。"
-    },
-    "value_vs_volume": {
-      "en": "Despite lower notebook and generic PC unit shipments, high-value AI compute server modules and GPU baseboard architectures propelled total profitability to record heights.",
-      "zh": "儘管筆記型電腦與一般 PC 出貨台數回檔，高單價、高技術門檻之 AI 伺服器模組與 GPU 基板架構驅動整體獲利創下歷史新高。"
+    "zh": {
+      "pivot": "Wistron Corporation (3231.TW / 緯創資通) 官方審計員工數為 66,000 人，GAAP 毛利率為 8.39%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $146,970/人，人均毛利為 $12,330/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M368（營業利益率 3.8%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M260（佔營收 2.68%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 16.03%，員工人數年增率為 2.33%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

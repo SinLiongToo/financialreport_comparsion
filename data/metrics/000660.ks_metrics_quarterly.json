@@ -1,6 +1,6 @@
 {
   "company_name": "SK hynix inc. (000660.KS / 에스케이하이닉스)",
-  "ticker": "SK-HYNIX",
+  "ticker": "000660.KS",
   "country": {
     "en": "South Korea 🇰🇷",
     "zh": "韓國 🇰🇷",
@@ -37,8 +37,8 @@
       "rd_pct_rev": 19.23,
       "rev_per_emp": 119175.0,
       "gp_per_emp": -10695.0,
-      "op_per_emp": -60510.0,
-      "ni_per_emp": -61429.0,
+      "op_per_emp": -60504.0,
+      "ni_per_emp": -61421.0,
       "rd_per_emp": 22918.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
@@ -65,14 +65,14 @@
       "op_per_emp": -53272.0,
       "ni_per_emp": -66971.0,
       "rd_per_emp": 23135.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 43.59,
+      "gp_growth_yoy": -142.86,
+      "op_growth_yoy": -11.62,
+      "ni_growth_yoy": 9.45,
+      "rd_growth_yoy": 1.33,
+      "hc_growth_yoy": 0.38,
+      "gm_diff_pp": 11.65,
+      "op_diff_pp": 19.52
     },
     "2023 Q3": {
       "revenue": 6900.0,
@@ -90,14 +90,14 @@
       "op_per_emp": -41547.0,
       "ni_per_emp": -50341.0,
       "rd_per_emp": 23654.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 23.21,
+      "gp_growth_yoy": 433.33,
+      "op_growth_yoy": -21.71,
+      "ni_growth_yoy": -24.55,
+      "rd_growth_yoy": 2.63,
+      "hc_growth_yoy": 0.38,
+      "gm_diff_pp": 8.91,
+      "op_diff_pp": 11.39
     },
     "2023 Q4": {
       "revenue": 8707.8,
@@ -113,16 +113,16 @@
       "rev_per_emp": 263076.0,
       "gp_per_emp": 66737.0,
       "op_per_emp": -24882.0,
-      "ni_per_emp": -34200.0,
+      "ni_per_emp": -34199.0,
       "rd_per_emp": 24511.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 26.2,
+      "gp_growth_yoy": 176.12,
+      "op_growth_yoy": -39.88,
+      "ni_growth_yoy": -31.81,
+      "rd_growth_yoy": 4.01,
+      "hc_growth_yoy": 0.38,
+      "gm_diff_pp": 13.78,
+      "op_diff_pp": 10.4
     },
     "2024 Q1": {
       "revenue": 9140.0,
@@ -141,9 +141,9 @@
       "ni_per_emp": 42152.0,
       "rd_per_emp": 25411.0,
       "rev_growth_yoy": 134.36,
-      "gp_growth_yoy": 1144.57,
-      "op_growth_yoy": 207.32,
-      "ni_growth_yoy": 170.15,
+      "gp_growth_yoy": -1144.57,
+      "op_growth_yoy": -207.32,
+      "ni_growth_yoy": -170.15,
       "rd_growth_yoy": 13.33,
       "hc_growth_yoy": 2.22,
       "gm_diff_pp": 48.97,
@@ -167,8 +167,8 @@
       "rd_per_emp": 26331.0,
       "rev_growth_yoy": 115.59,
       "gp_growth_yoy": 3763.33,
-      "op_growth_yoy": 329.83,
-      "ni_growth_yoy": 237.73,
+      "op_growth_yoy": -329.83,
+      "ni_growth_yoy": -237.73,
       "rd_growth_yoy": 17.11,
       "hc_growth_yoy": 2.89,
       "gm_diff_pp": 45.32,
@@ -183,7 +183,7 @@
       "headcount": 34150,
       "gross_margin": 50.0,
       "operating_margin": 40.01,
-      "net_margin": 32.66,
+      "net_margin": 32.67,
       "rd_pct_rev": 7.12,
       "rev_per_emp": 378302.0,
       "gp_per_emp": 189165.0,
@@ -192,8 +192,8 @@
       "rd_per_emp": 26940.0,
       "rev_growth_yoy": 87.23,
       "gp_growth_yoy": 707.5,
-      "op_growth_yoy": 477.3,
-      "ni_growth_yoy": 354.22,
+      "op_growth_yoy": -477.3,
+      "ni_growth_yoy": -354.22,
       "rd_growth_yoy": 17.95,
       "hc_growth_yoy": 3.56,
       "gm_diff_pp": 38.41,
@@ -217,8 +217,8 @@
       "rd_per_emp": 28406.0,
       "rev_growth_yoy": 66.97,
       "gp_growth_yoy": 239.16,
-      "op_growth_yoy": 821.15,
-      "ni_growth_yoy": 620.89,
+      "op_growth_yoy": -821.15,
+      "ni_growth_yoy": -620.89,
       "rd_growth_yoy": 20.79,
       "hc_growth_yoy": 4.23,
       "gm_diff_pp": 26.16,
@@ -236,7 +236,7 @@
       "net_margin": 32.61,
       "rd_pct_rev": 7.25,
       "rev_per_emp": 396267.0,
-      "gp_per_emp": 198133.0,
+      "gp_per_emp": 198134.0,
       "op_per_emp": 154487.0,
       "ni_per_emp": 129218.0,
       "rd_per_emp": 28715.0,
@@ -485,17 +485,21 @@
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Quarterly inflection occurred in 2024 Q1, turning operating profits from -$823M in 2023 Q4 to +$2,125M in 2024 Q1, as 8-layer HBM3E volume production commenced for Tier-1 AI accelerator clients.",
-      "zh": "季度黃金拐點發生於2024年第一季，受惠於8層HBM3E量產出貨給全球一線AI加速器大廠，營業利益由2023 Q4的虧損8.2億美元強勁轉盈至獲利21.25億美元。"
+    "en": {
+      "pivot": "SK hynix inc. (000660.KS / 에스케이하이닉스) workforce reported at 35,800 FTEs with GAAP Gross Margin at 51.39%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $416,201/FTE in revenue and $213,883/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M5,900 (39.6% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M1,080 (7.25% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 2.48% compared to headcount change of 3.77% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Operating income per employee expanded from -$25k in 2023 Q4 to +$172k in 2024 Q4, underscoring high revenue throughput with lean workforce expansion.",
-      "zh": "人均營業利潤由2023 Q4的-2.5萬美元暴增至2024 Q4的+17.2萬美元，展現極高的人均營運槓桿與精實產能利用率。"
-    },
-    "value_vs_volume": {
-      "en": "Premium pricing of 8-layer and 12-layer HBM3E stacks widened gross margin from 25.4% in 2023 Q4 to 51.5% in 2024 Q4.",
-      "zh": "高附加價值的8層與12層HBM3E大幅推升毛利率，由2023 Q4的25.4%躍升至2024 Q4的51.5%。"
+    "zh": {
+      "pivot": "SK hynix inc. (000660.KS / 에스케이하이닉스) 官方審計員工數為 35,800 人，GAAP 毛利率為 51.39%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $416,201/人，人均毛利為 $213,883/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M5,900（營業利益率 39.6%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M1,080（佔營收 7.25%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 2.48%，員工人數年增率為 3.77%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

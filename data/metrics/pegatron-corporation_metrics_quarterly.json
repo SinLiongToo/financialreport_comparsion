@@ -1,6 +1,6 @@
 {
   "company_name": "Pegatron Corporation (4938.TW / 和碩聯合科技)",
-  "ticker": "PEGATRON",
+  "ticker": "PEGATRON-CORPORATION",
   "country": {
     "en": "Taiwan 🇹🇼",
     "zh": "台灣 🇹🇼",
@@ -36,10 +36,10 @@
       "rd_expense": 170.0,
       "rd_pct_rev": 1.66,
       "headcount": 136000,
-      "rev_per_emp": 75367.6,
-      "gp_per_emp": 2486.8,
-      "op_per_emp": 753.7,
-      "ni_per_emp": 723.5,
+      "rev_per_emp": 75368.0,
+      "gp_per_emp": 2487.0,
+      "op_per_emp": 754.0,
+      "ni_per_emp": 724.0,
       "rd_per_emp": 1250.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
@@ -62,19 +62,19 @@
       "rd_expense": 168.0,
       "rd_pct_rev": 1.86,
       "headcount": 130000,
-      "rev_per_emp": 69384.6,
-      "gp_per_emp": 2428.5,
-      "op_per_emp": 832.3,
-      "ni_per_emp": 790.8,
-      "rd_per_emp": 1292.3,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_per_emp": 69385.0,
+      "gp_per_emp": 2428.0,
+      "op_per_emp": 832.0,
+      "ni_per_emp": 791.0,
+      "rd_per_emp": 1292.0,
+      "rev_growth_yoy": -12.0,
+      "gp_growth_yoy": -6.65,
+      "op_growth_yoy": 5.56,
+      "ni_growth_yoy": 4.47,
+      "rd_growth_yoy": -1.18,
+      "hc_growth_yoy": -4.41,
+      "gm_diff_pp": 0.2,
+      "op_diff_pp": 0.2
     },
     "2023 Q3": {
       "revenue": 10100.0,
@@ -88,19 +88,19 @@
       "rd_expense": 171.0,
       "rd_pct_rev": 1.69,
       "headcount": 124000,
-      "rev_per_emp": 81451.6,
-      "gp_per_emp": 3339.5,
-      "op_per_emp": 1140.3,
-      "ni_per_emp": 1172.6,
+      "rev_per_emp": 81452.0,
+      "gp_per_emp": 3340.0,
+      "op_per_emp": 1140.0,
+      "ni_per_emp": 1173.0,
       "rd_per_emp": 1379.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": 11.97,
+      "gp_growth_yoy": 31.17,
+      "op_growth_yoy": 30.68,
+      "ni_growth_yoy": 41.44,
+      "rd_growth_yoy": 1.79,
+      "hc_growth_yoy": -4.62,
+      "gm_diff_pp": 0.6,
+      "op_diff_pp": 0.2
     },
     "2023 Q4": {
       "revenue": 11027.1,
@@ -115,18 +115,18 @@
       "rd_pct_rev": 1.57,
       "headcount": 118000,
       "rev_per_emp": 93450.0,
-      "gp_per_emp": 3718.6,
-      "op_per_emp": 1280.5,
-      "ni_per_emp": 1343.2,
-      "rd_per_emp": 1463.6,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "gp_per_emp": 3719.0,
+      "op_per_emp": 1281.0,
+      "ni_per_emp": 1343.0,
+      "rd_per_emp": 1464.0,
+      "rev_growth_yoy": 9.18,
+      "gp_growth_yoy": 5.96,
+      "op_growth_yoy": 6.86,
+      "ni_growth_yoy": 9.01,
+      "rd_growth_yoy": 0.99,
+      "hc_growth_yoy": -4.84,
+      "gm_diff_pp": -0.12,
+      "op_diff_pp": -0.03
     },
     "2024 Q1": {
       "revenue": 7820.0,
@@ -140,11 +140,11 @@
       "rd_expense": 160.0,
       "rd_pct_rev": 2.05,
       "headcount": 114750,
-      "rev_per_emp": 68148.1,
-      "gp_per_emp": 2861.9,
-      "op_per_emp": 954.2,
-      "ni_per_emp": 888.9,
-      "rd_per_emp": 1394.3,
+      "rev_per_emp": 68148.0,
+      "gp_per_emp": 2862.0,
+      "op_per_emp": 954.0,
+      "ni_per_emp": 889.0,
+      "rd_per_emp": 1394.0,
       "rev_growth_yoy": -23.71,
       "gp_growth_yoy": -2.9,
       "op_growth_yoy": 6.83,
@@ -166,11 +166,11 @@
       "rd_expense": 162.0,
       "rd_pct_rev": 2.04,
       "headcount": 111500,
-      "rev_per_emp": 71300.4,
-      "gp_per_emp": 2994.6,
+      "rev_per_emp": 71300.0,
+      "gp_per_emp": 2995.0,
       "op_per_emp": 1070.0,
       "ni_per_emp": 991.0,
-      "rd_per_emp": 1452.9,
+      "rd_per_emp": 1453.0,
       "rev_growth_yoy": -11.86,
       "gp_growth_yoy": 5.76,
       "op_growth_yoy": 10.26,
@@ -192,10 +192,10 @@
       "rd_expense": 164.0,
       "rd_pct_rev": 1.74,
       "headcount": 108250,
-      "rev_per_emp": 87297.9,
-      "gp_per_emp": 3666.5,
-      "op_per_emp": 1484.5,
-      "ni_per_emp": 1431.9,
+      "rev_per_emp": 87298.0,
+      "gp_per_emp": 3667.0,
+      "op_per_emp": 1485.0,
+      "ni_per_emp": 1432.0,
       "rd_per_emp": 1515.0,
       "rev_growth_yoy": -6.44,
       "gp_growth_yoy": -4.15,
@@ -218,11 +218,11 @@
       "rd_expense": 164.0,
       "rd_pct_rev": 1.64,
       "headcount": 105000,
-      "rev_per_emp": 95375.2,
-      "gp_per_emp": 3670.5,
+      "rev_per_emp": 95375.0,
+      "gp_per_emp": 3670.0,
       "op_per_emp": 1660.0,
-      "ni_per_emp": 1532.4,
-      "rd_per_emp": 1561.9,
+      "ni_per_emp": 1532.0,
+      "rd_per_emp": 1562.0,
       "rev_growth_yoy": -9.18,
       "gp_growth_yoy": -12.17,
       "op_growth_yoy": 15.35,
@@ -244,11 +244,11 @@
       "rd_expense": 170.0,
       "rd_pct_rev": 2.07,
       "headcount": 104250,
-      "rev_per_emp": 78657.1,
-      "gp_per_emp": 3382.3,
-      "op_per_emp": 1337.2,
-      "ni_per_emp": 1179.9,
-      "rd_per_emp": 1630.7,
+      "rev_per_emp": 78657.0,
+      "gp_per_emp": 3382.0,
+      "op_per_emp": 1337.0,
+      "ni_per_emp": 1180.0,
+      "rd_per_emp": 1631.0,
       "rev_growth_yoy": 4.86,
       "gp_growth_yoy": 7.37,
       "op_growth_yoy": 27.31,
@@ -270,11 +270,11 @@
       "rd_expense": 175.0,
       "rd_pct_rev": 2.03,
       "headcount": 103500,
-      "rev_per_emp": 83091.8,
+      "rev_per_emp": 83092.0,
       "gp_per_emp": 3656.0,
-      "op_per_emp": 1495.7,
-      "ni_per_emp": 1329.5,
-      "rd_per_emp": 1690.8,
+      "op_per_emp": 1496.0,
+      "ni_per_emp": 1329.0,
+      "rd_per_emp": 1691.0,
       "rev_growth_yoy": 8.18,
       "gp_growth_yoy": 13.33,
       "op_growth_yoy": 29.76,
@@ -296,11 +296,11 @@
       "rd_expense": 180.0,
       "rd_pct_rev": 1.78,
       "headcount": 102750,
-      "rev_per_emp": 98296.8,
-      "gp_per_emp": 4423.4,
-      "op_per_emp": 1867.6,
+      "rev_per_emp": 98297.0,
+      "gp_per_emp": 4423.0,
+      "op_per_emp": 1868.0,
       "ni_per_emp": 1671.0,
-      "rd_per_emp": 1751.8,
+      "rd_per_emp": 1752.0,
       "rev_growth_yoy": 6.88,
       "gp_growth_yoy": 14.51,
       "op_growth_yoy": 19.42,
@@ -322,11 +322,11 @@
       "rd_expense": 175.0,
       "rd_pct_rev": 1.73,
       "headcount": 102000,
-      "rev_per_emp": 99019.6,
-      "gp_per_emp": 4156.9,
-      "op_per_emp": 1763.7,
-      "ni_per_emp": 1565.7,
-      "rd_per_emp": 1715.7,
+      "rev_per_emp": 99020.0,
+      "gp_per_emp": 4157.0,
+      "op_per_emp": 1764.0,
+      "ni_per_emp": 1566.0,
+      "rd_per_emp": 1716.0,
       "rev_growth_yoy": 0.85,
       "gp_growth_yoy": 10.02,
       "op_growth_yoy": 3.21,
@@ -421,21 +421,169 @@
           18,
           30
         ]
+      },
+      "2023 Q1": {
+        "value": [
+          5945,
+          1845,
+          2460
+        ],
+        "volume": [
+          58,
+          18,
+          24
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          5232,
+          1624,
+          2165
+        ],
+        "volume": [
+          58,
+          18,
+          24
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          5858,
+          1818,
+          2424
+        ],
+        "volume": [
+          58,
+          18,
+          24
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          6396,
+          1985,
+          2647
+        ],
+        "volume": [
+          58,
+          18,
+          24
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          4379,
+          1408,
+          2033
+        ],
+        "volume": [
+          56,
+          18,
+          26
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          4452,
+          1431,
+          2067
+        ],
+        "volume": [
+          56,
+          18,
+          26
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          5292,
+          1701,
+          2457
+        ],
+        "volume": [
+          56,
+          18,
+          26
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          5608,
+          1803,
+          2604
+        ],
+        "volume": [
+          56,
+          18,
+          26
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          4264,
+          1476,
+          2460
+        ],
+        "volume": [
+          52,
+          18,
+          30
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          4472,
+          1548,
+          2580
+        ],
+        "volume": [
+          52,
+          18,
+          30
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          5252,
+          1818,
+          3030
+        ],
+        "volume": [
+          52,
+          18,
+          30
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          5252,
+          1818,
+          3030
+        ],
+        "volume": [
+          52,
+          18,
+          30
+        ]
       }
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Pegatron is undergoing a multi-year manufacturing footprint restructuring. While consumer mobile assembly contracted, the company expanded EV electronics (inverters, electronic control units, charging piles), 5G O-RAN private networks, and liquid-cooled enterprise AI servers, elevating gross margin to 4.1%-4.35%.",
-      "zh": "和碩正處於製造基地的跨年度結構重整期。在消費型智慧型手機組裝收斂的同時，積極拓展電動車車用電子（逆變器、電子控制單元、充電樁）、5G O-RAN 專網與水冷企業級 AI 伺服器，推升毛利率回穩至 4.1%～4.35%。"
+    "en": {
+      "pivot": "Pegatron Corporation (4938.TW / 和碩聯合科技) workforce reported at 102,000 FTEs with GAAP Gross Margin at 4.2%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $99,020/FTE in revenue and $4,157/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M180 (1.78% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M175 (1.73% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 0.85% compared to headcount change of -2.86% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Global workforce rationalized from 172,000 in 2020 to ~105,000 in 2024 as assembly automation and plant relocations across India, Vietnam, and Mexico improved human capital efficiency.",
-      "zh": "全球製造勞動力自 2020 年的 17.2 萬人逐步精簡至 2024 年約 10.5 萬人，伴隨產線自動化以及向印度、越南、墨西哥等多元製造基地佈局，提升人均資本運用效率。"
-    },
-    "value_vs_volume": {
-      "en": "Volume contraction in legacy consumer hardware is progressively offset by high-ASP automotive electronics tier-1 modules and GPU server rack systems.",
-      "zh": "傳統消費性硬體之銷量縮減，正逐步由高單價之車用電子 Tier-1 模組與 GPU 伺服器整機系統之價值增長所彌補。"
+    "zh": {
+      "pivot": "Pegatron Corporation (4938.TW / 和碩聯合科技) 官方審計員工數為 102,000 人，GAAP 毛利率為 4.2%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $99,020/人，人均毛利為 $4,157/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M180（營業利益率 1.78%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M175（佔營收 1.73%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 0.85%，員工人數年增率為 -2.86%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

@@ -1,6 +1,6 @@
 {
   "company_name": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦)",
-  "ticker": "ASUS",
+  "ticker": "ASUSTEK-COMPUTER",
   "country": {
     "en": "Taiwan 🇹🇼",
     "zh": "台灣 🇹🇼",
@@ -8,39 +8,33 @@
   },
   "currency": "USD (Millions)",
   "unit": "$M",
-  "freq": "quarterly",
+  "freq": "annual",
   "years": [
-    "2023 Q1",
-    "2023 Q2",
-    "2023 Q3",
-    "2023 Q4",
-    "2024 Q1",
-    "2024 Q2",
-    "2024 Q3",
-    "2024 Q4",
-    "2025 Q1",
-    "2025 Q2",
-    "2025 Q3",
-    "2025 Q4"
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
   ],
   "financials": {
-    "2023 Q1": {
-      "revenue": 3610.0,
-      "cogs": 3140.7,
-      "gross_profit": 469.3,
-      "operating_income": -54.0,
-      "net_income": -23.0,
-      "rd_expense": 145.0,
-      "headcount": 16275,
-      "gross_margin": 13.0,
-      "operating_margin": -1.5,
-      "net_margin": -0.64,
-      "rd_pct_rev": 4.02,
-      "rev_per_emp": 221813.0,
-      "gp_per_emp": 28836.0,
-      "op_per_emp": -3318.0,
-      "ni_per_emp": -1413.0,
-      "rd_per_emp": 8909.0,
+    "2020": {
+      "revenue": 13992.5,
+      "cogs": 11589.4,
+      "gross_profit": 2403.1,
+      "operating_income": 963.4,
+      "net_income": 900.3,
+      "rd_expense": 515.3,
+      "headcount": 14500,
+      "gross_margin": 17.17,
+      "operating_margin": 6.89,
+      "net_margin": 6.43,
+      "rd_pct_rev": 3.68,
+      "rev_per_emp": 965000.0,
+      "gp_per_emp": 165731.0,
+      "op_per_emp": 66441.0,
+      "ni_per_emp": 62090.0,
+      "rd_per_emp": 35538.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -50,291 +44,135 @@
       "gm_diff_pp": null,
       "op_diff_pp": null
     },
-    "2023 Q2": {
-      "revenue": 3770.0,
-      "cogs": 3287.4,
-      "gross_profit": 482.6,
-      "operating_income": 38.0,
-      "net_income": 82.0,
-      "rd_expense": 150.0,
-      "headcount": 16350,
-      "gross_margin": 12.8,
-      "operating_margin": 1.01,
-      "net_margin": 2.18,
-      "rd_pct_rev": 3.98,
-      "rev_per_emp": 230581.0,
-      "gp_per_emp": 29517.0,
-      "op_per_emp": 2324.0,
-      "ni_per_emp": 5015.0,
-      "rd_per_emp": 9174.0,
-      "rev_growth_yoy": 4.43,
-      "gp_growth_yoy": 2.83,
-      "op_growth_yoy": -170.37,
-      "ni_growth_yoy": -456.52,
-      "rd_growth_yoy": 3.45,
-      "hc_growth_yoy": 0.46,
-      "gm_diff_pp": -0.2,
-      "op_diff_pp": 2.51
+    "2021": {
+      "revenue": 19117.4,
+      "cogs": 15230.6,
+      "gross_profit": 3886.8,
+      "operating_income": 1839.8,
+      "net_income": 1591.1,
+      "rd_expense": 660.7,
+      "headcount": 15800,
+      "gross_margin": 20.33,
+      "operating_margin": 9.62,
+      "net_margin": 8.32,
+      "rd_pct_rev": 3.46,
+      "rev_per_emp": 1209962.0,
+      "gp_per_emp": 246000.0,
+      "op_per_emp": 116443.0,
+      "ni_per_emp": 100703.0,
+      "rd_per_emp": 41816.0,
+      "rev_growth_yoy": 36.63,
+      "gp_growth_yoy": 61.74,
+      "op_growth_yoy": 90.97,
+      "ni_growth_yoy": 76.73,
+      "rd_growth_yoy": 28.22,
+      "hc_growth_yoy": 8.97,
+      "gm_diff_pp": 3.16,
+      "op_diff_pp": 2.73
     },
-    "2023 Q3": {
-      "revenue": 4350.0,
-      "cogs": 3719.3,
-      "gross_profit": 630.7,
-      "operating_income": 174.0,
-      "net_income": 268.0,
-      "rd_expense": 155.0,
-      "headcount": 16425,
-      "gross_margin": 14.5,
-      "operating_margin": 4.0,
-      "net_margin": 6.16,
-      "rd_pct_rev": 3.56,
-      "rev_per_emp": 264840.0,
-      "gp_per_emp": 38399.0,
-      "op_per_emp": 10594.0,
-      "ni_per_emp": 16317.0,
-      "rd_per_emp": 9437.0,
-      "rev_growth_yoy": 15.38,
-      "gp_growth_yoy": 30.69,
-      "op_growth_yoy": 357.89,
-      "ni_growth_yoy": 226.83,
-      "rd_growth_yoy": 3.33,
-      "hc_growth_yoy": 0.46,
-      "gm_diff_pp": 1.7,
-      "op_diff_pp": 2.99
+    "2022": {
+      "revenue": 18026.5,
+      "cogs": 15713.8,
+      "gross_profit": 2312.7,
+      "operating_income": 343.6,
+      "net_income": 493.0,
+      "rd_expense": 664.4,
+      "headcount": 16200,
+      "gross_margin": 12.83,
+      "operating_margin": 1.91,
+      "net_margin": 2.73,
+      "rd_pct_rev": 3.69,
+      "rev_per_emp": 1112747.0,
+      "gp_per_emp": 142759.0,
+      "op_per_emp": 21210.0,
+      "ni_per_emp": 30432.0,
+      "rd_per_emp": 41012.0,
+      "rev_growth_yoy": -5.71,
+      "gp_growth_yoy": -40.5,
+      "op_growth_yoy": -81.32,
+      "ni_growth_yoy": -69.02,
+      "rd_growth_yoy": 0.56,
+      "hc_growth_yoy": 2.53,
+      "gm_diff_pp": -7.5,
+      "op_diff_pp": -7.71
     },
-    "2023 Q4": {
-      "revenue": 3778.5,
-      "cogs": 3231.8,
-      "gross_profit": 546.7,
-      "operating_income": 125.6,
-      "net_income": 185.2,
-      "rd_expense": 157.7,
+    "2023": {
+      "revenue": 15508.5,
+      "cogs": 13379.2,
+      "gross_profit": 2129.3,
+      "operating_income": 283.6,
+      "net_income": 512.2,
+      "rd_expense": 607.7,
       "headcount": 16500,
-      "gross_margin": 14.47,
-      "operating_margin": 3.32,
-      "net_margin": 4.9,
-      "rd_pct_rev": 4.17,
-      "rev_per_emp": 229000.0,
-      "gp_per_emp": 33133.0,
-      "op_per_emp": 7612.0,
-      "ni_per_emp": 11224.0,
-      "rd_per_emp": 9558.0,
-      "rev_growth_yoy": -13.14,
-      "gp_growth_yoy": -13.32,
-      "op_growth_yoy": -27.82,
-      "ni_growth_yoy": -30.9,
-      "rd_growth_yoy": 1.74,
-      "hc_growth_yoy": 0.46,
-      "gm_diff_pp": -0.03,
-      "op_diff_pp": -0.68
+      "gross_margin": 13.73,
+      "operating_margin": 1.83,
+      "net_margin": 3.3,
+      "rd_pct_rev": 3.92,
+      "rev_per_emp": 939909.0,
+      "gp_per_emp": 129048.0,
+      "op_per_emp": 17188.0,
+      "ni_per_emp": 31042.0,
+      "rd_per_emp": 36830.0,
+      "rev_growth_yoy": -13.97,
+      "gp_growth_yoy": -7.93,
+      "op_growth_yoy": -17.46,
+      "ni_growth_yoy": 3.89,
+      "rd_growth_yoy": -8.53,
+      "hc_growth_yoy": 1.85,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": -0.08
     },
-    "2024 Q1": {
-      "revenue": 4120.0,
-      "cogs": 3460.8,
-      "gross_profit": 659.2,
-      "operating_income": 185.0,
-      "net_income": 210.0,
-      "rd_expense": 168.0,
-      "headcount": 16575,
-      "gross_margin": 16.0,
-      "operating_margin": 4.49,
-      "net_margin": 5.1,
-      "rd_pct_rev": 4.08,
-      "rev_per_emp": 248567.0,
-      "gp_per_emp": 39771.0,
-      "op_per_emp": 11161.0,
-      "ni_per_emp": 12670.0,
-      "rd_per_emp": 10136.0,
-      "rev_growth_yoy": 14.13,
-      "gp_growth_yoy": 40.46,
-      "op_growth_yoy": -442.59,
-      "ni_growth_yoy": -1013.04,
-      "rd_growth_yoy": 15.86,
-      "hc_growth_yoy": 1.84,
-      "gm_diff_pp": 3.0,
-      "op_diff_pp": 5.99
-    },
-    "2024 Q2": {
-      "revenue": 4530.0,
-      "cogs": 3782.5,
-      "gross_profit": 747.5,
-      "operating_income": 230.0,
-      "net_income": 265.0,
-      "rd_expense": 175.0,
-      "headcount": 16650,
-      "gross_margin": 16.5,
-      "operating_margin": 5.08,
-      "net_margin": 5.85,
-      "rd_pct_rev": 3.86,
-      "rev_per_emp": 272072.0,
-      "gp_per_emp": 44895.0,
-      "op_per_emp": 13814.0,
-      "ni_per_emp": 15916.0,
-      "rd_per_emp": 10511.0,
-      "rev_growth_yoy": 20.16,
-      "gp_growth_yoy": 54.89,
-      "op_growth_yoy": 505.26,
-      "ni_growth_yoy": 223.17,
-      "rd_growth_yoy": 16.67,
-      "hc_growth_yoy": 1.83,
-      "gm_diff_pp": 3.7,
-      "op_diff_pp": 4.07
-    },
-    "2024 Q3": {
-      "revenue": 4980.0,
-      "cogs": 4153.3,
-      "gross_profit": 826.7,
-      "operating_income": 265.0,
-      "net_income": 310.0,
-      "rd_expense": 180.0,
-      "headcount": 16725,
-      "gross_margin": 16.6,
-      "operating_margin": 5.32,
-      "net_margin": 6.22,
-      "rd_pct_rev": 3.61,
-      "rev_per_emp": 297758.0,
-      "gp_per_emp": 49429.0,
-      "op_per_emp": 15845.0,
-      "ni_per_emp": 18535.0,
-      "rd_per_emp": 10762.0,
-      "rev_growth_yoy": 14.48,
-      "gp_growth_yoy": 31.08,
-      "op_growth_yoy": 52.3,
-      "ni_growth_yoy": 15.67,
-      "rd_growth_yoy": 16.13,
-      "hc_growth_yoy": 1.83,
-      "gm_diff_pp": 2.1,
-      "op_diff_pp": 1.32
-    },
-    "2024 Q4": {
-      "revenue": 4635.6,
-      "cogs": 3873.4,
-      "gross_profit": 762.2,
-      "operating_income": 215.0,
-      "net_income": 261.9,
-      "rd_expense": 180.1,
+    "2024": {
+      "revenue": 18265.6,
+      "cogs": 15270.0,
+      "gross_profit": 2995.6,
+      "operating_income": 895.0,
+      "net_income": 1046.9,
+      "rd_expense": 703.1,
       "headcount": 16800,
-      "gross_margin": 16.44,
-      "operating_margin": 4.64,
-      "net_margin": 5.65,
-      "rd_pct_rev": 3.89,
-      "rev_per_emp": 275929.0,
-      "gp_per_emp": 45369.0,
-      "op_per_emp": 12798.0,
-      "ni_per_emp": 15589.0,
-      "rd_per_emp": 10720.0,
-      "rev_growth_yoy": 22.68,
-      "gp_growth_yoy": 39.42,
-      "op_growth_yoy": 71.18,
-      "ni_growth_yoy": 41.41,
-      "rd_growth_yoy": 14.2,
+      "gross_margin": 16.4,
+      "operating_margin": 4.9,
+      "net_margin": 5.73,
+      "rd_pct_rev": 3.85,
+      "rev_per_emp": 1087238.0,
+      "gp_per_emp": 178310.0,
+      "op_per_emp": 53274.0,
+      "ni_per_emp": 62315.0,
+      "rd_per_emp": 41851.0,
+      "rev_growth_yoy": 17.78,
+      "gp_growth_yoy": 40.68,
+      "op_growth_yoy": 215.59,
+      "ni_growth_yoy": 104.39,
+      "rd_growth_yoy": 15.7,
       "hc_growth_yoy": 1.82,
-      "gm_diff_pp": 1.97,
-      "op_diff_pp": 1.32
+      "gm_diff_pp": 2.67,
+      "op_diff_pp": 3.07
     },
-    "2025 Q1": {
-      "revenue": 4850.0,
-      "cogs": 4035.2,
-      "gross_profit": 814.8,
-      "operating_income": 255.0,
-      "net_income": 295.0,
-      "rd_expense": 188.0,
-      "headcount": 16875,
-      "gross_margin": 16.8,
-      "operating_margin": 5.26,
-      "net_margin": 6.08,
-      "rd_pct_rev": 3.88,
-      "rev_per_emp": 287407.0,
-      "gp_per_emp": 48284.0,
-      "op_per_emp": 15111.0,
-      "ni_per_emp": 17481.0,
-      "rd_per_emp": 11141.0,
-      "rev_growth_yoy": 17.72,
-      "gp_growth_yoy": 23.6,
-      "op_growth_yoy": 37.84,
-      "ni_growth_yoy": 40.48,
-      "rd_growth_yoy": 11.9,
-      "hc_growth_yoy": 1.81,
-      "gm_diff_pp": 0.8,
-      "op_diff_pp": 0.77
-    },
-    "2025 Q2": {
-      "revenue": 5050.0,
-      "cogs": 4191.5,
-      "gross_profit": 858.5,
-      "operating_income": 280.0,
-      "net_income": 320.0,
-      "rd_expense": 192.0,
-      "headcount": 16950,
-      "gross_margin": 17.0,
-      "operating_margin": 5.54,
-      "net_margin": 6.34,
-      "rd_pct_rev": 3.8,
-      "rev_per_emp": 297935.0,
-      "gp_per_emp": 50649.0,
-      "op_per_emp": 16519.0,
-      "ni_per_emp": 18879.0,
-      "rd_per_emp": 11327.0,
-      "rev_growth_yoy": 11.48,
-      "gp_growth_yoy": 14.85,
-      "op_growth_yoy": 21.74,
-      "ni_growth_yoy": 20.75,
-      "rd_growth_yoy": 9.71,
-      "hc_growth_yoy": 1.8,
-      "gm_diff_pp": 0.5,
-      "op_diff_pp": 0.46
-    },
-    "2025 Q3": {
-      "revenue": 5300.0,
-      "cogs": 4399.0,
-      "gross_profit": 901.0,
-      "operating_income": 305.0,
-      "net_income": 335.0,
-      "rd_expense": 195.0,
-      "headcount": 17025,
-      "gross_margin": 17.0,
-      "operating_margin": 5.75,
-      "net_margin": 6.32,
-      "rd_pct_rev": 3.68,
-      "rev_per_emp": 311307.0,
-      "gp_per_emp": 52922.0,
-      "op_per_emp": 17915.0,
-      "ni_per_emp": 19677.0,
-      "rd_per_emp": 11454.0,
-      "rev_growth_yoy": 6.43,
-      "gp_growth_yoy": 8.99,
-      "op_growth_yoy": 15.09,
-      "ni_growth_yoy": 8.06,
-      "rd_growth_yoy": 8.33,
-      "hc_growth_yoy": 1.79,
-      "gm_diff_pp": 0.4,
-      "op_diff_pp": 0.43
-    },
-    "2025 Q4": {
-      "revenue": 5112.5,
-      "cogs": 4233.7,
-      "gross_profit": 878.8,
-      "operating_income": 277.2,
-      "net_income": 309.4,
-      "rd_expense": 190.6,
+    "2025": {
+      "revenue": 20312.5,
+      "cogs": 16859.4,
+      "gross_profit": 3453.1,
+      "operating_income": 1117.2,
+      "net_income": 1259.4,
+      "rd_expense": 765.6,
       "headcount": 17100,
-      "gross_margin": 17.19,
-      "operating_margin": 5.42,
-      "net_margin": 6.05,
-      "rd_pct_rev": 3.73,
-      "rev_per_emp": 298977.0,
-      "gp_per_emp": 51392.0,
-      "op_per_emp": 16211.0,
-      "ni_per_emp": 18094.0,
-      "rd_per_emp": 11146.0,
-      "rev_growth_yoy": 10.29,
-      "gp_growth_yoy": 15.3,
-      "op_growth_yoy": 28.93,
-      "ni_growth_yoy": 18.14,
-      "rd_growth_yoy": 5.83,
+      "gross_margin": 17.0,
+      "operating_margin": 5.5,
+      "net_margin": 6.2,
+      "rd_pct_rev": 3.77,
+      "rev_per_emp": 1187865.0,
+      "gp_per_emp": 201936.0,
+      "op_per_emp": 65333.0,
+      "ni_per_emp": 73649.0,
+      "rd_per_emp": 44772.0,
+      "rev_growth_yoy": 11.21,
+      "gp_growth_yoy": 15.27,
+      "op_growth_yoy": 24.83,
+      "ni_growth_yoy": 20.3,
+      "rd_growth_yoy": 8.89,
       "hc_growth_yoy": 1.79,
-      "gm_diff_pp": 0.75,
-      "op_diff_pp": 0.78
+      "gm_diff_pp": 0.6,
+      "op_diff_pp": 0.6
     }
   },
   "sales_breakdown": {
@@ -350,11 +188,11 @@
       "#F59E0B"
     ],
     "data": {
-      "2023 Q1": {
+      "2020": {
         "value": [
-          2238,
-          1227,
-          145
+          8675,
+          4758,
+          560
         ],
         "volume": [
           62,
@@ -362,11 +200,11 @@
           4
         ]
       },
-      "2023 Q2": {
+      "2021": {
         "value": [
-          2337,
-          1282,
-          151
+          11853,
+          6499,
+          765
         ],
         "volume": [
           62,
@@ -374,11 +212,11 @@
           4
         ]
       },
-      "2023 Q3": {
+      "2022": {
         "value": [
-          2697,
-          1479,
-          174
+          11176,
+          6129,
+          721
         ],
         "volume": [
           62,
@@ -386,11 +224,11 @@
           4
         ]
       },
-      "2023 Q4": {
+      "2023": {
         "value": [
-          2343,
-          1285,
-          150
+          9615,
+          5273,
+          620
         ],
         "volume": [
           62,
@@ -398,11 +236,11 @@
           4
         ]
       },
-      "2024 Q1": {
+      "2024": {
         "value": [
-          2554,
-          1401,
-          165
+          11325,
+          6210,
+          731
         ],
         "volume": [
           62,
@@ -410,83 +248,11 @@
           4
         ]
       },
-      "2024 Q2": {
+      "2025": {
         "value": [
-          2809,
-          1540,
-          181
-        ],
-        "volume": [
-          62,
-          34,
-          4
-        ]
-      },
-      "2024 Q3": {
-        "value": [
-          3088,
-          1693,
-          199
-        ],
-        "volume": [
-          62,
-          34,
-          4
-        ]
-      },
-      "2024 Q4": {
-        "value": [
-          2874,
-          1576,
-          186
-        ],
-        "volume": [
-          62,
-          34,
-          4
-        ]
-      },
-      "2025 Q1": {
-        "value": [
-          3007,
-          1649,
-          194
-        ],
-        "volume": [
-          62,
-          34,
-          4
-        ]
-      },
-      "2025 Q2": {
-        "value": [
-          3131,
-          1717,
-          202
-        ],
-        "volume": [
-          62,
-          34,
-          4
-        ]
-      },
-      "2025 Q3": {
-        "value": [
-          3286,
-          1802,
-          212
-        ],
-        "volume": [
-          62,
-          34,
-          4
-        ]
-      },
-      "2025 Q4": {
-        "value": [
-          3170,
-          1738,
-          204
+          12594,
+          6906,
+          813
         ],
         "volume": [
           62,
@@ -498,24 +264,51 @@
   },
   "insights": {
     "en": {
-      "pivot": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦) workforce reported at 17,100 FTEs with GAAP Gross Margin at 17.19%. Operational excellence and automated workflow scaling drive margin expansion.",
-      "productivity": "Human capital productivity tracks at $298,977/FTE in revenue and $51,392/FTE in gross profit based on audited SEC filing.",
-      "leverage": "Operating income reported at $M277 (5.42% margin), reflecting operating leverage and cost structure discipline.",
-      "rd": "R&D expenditure reported at $M191 (3.73% of revenue), sustaining technological differentiation.",
-      "growth": "Revenue YoY is 10.29% compared to headcount change of 1.79% YoY.",
+      "pivot": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦) workforce reported at 17,100 FTEs with GAAP Gross Margin at 17.0%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $1,187,865/FTE in revenue and $201,936/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M1,117 (5.5% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M766 (3.77% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 11.21% compared to headcount change of 1.79% YoY.",
       "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
     "zh": {
-      "pivot": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦) 官方審計員工數為 17,100 人，GAAP 毛利率為 17.19%。營運卓越與自動化流程為推升利潤之核心動能。",
-      "productivity": "人均營收為 $298,977/人，人均毛利為 $51,392/人，精確呈現人力資本回報率。",
-      "leverage": "營業利益為 $M277（營業利益率 5.42%），展現營運槓桿與成本結構紀律。",
-      "rd": "研發支出為 $M191（佔營收 3.73%），持續鞏固核心技術競爭力。",
-      "growth": "營收年增率為 10.29%，員工人數年增率為 1.79%。",
+      "pivot": "ASUSTeK Computer Inc. (2357.TW / 華碩電腦) 官方審計員工數為 17,100 人，GAAP 毛利率為 17.0%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $1,187,865/人，人均毛利為 $201,936/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M1,117（營業利益率 5.5%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M766（佔營收 3.77%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 11.21%，員工人數年增率為 1.79%。",
       "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {
     "rating": "Level 3 (AI PC Ecosystem & Smart Enterprise AI Server Manufacturing)",
-    "description": "World #1 Motherboard ecosystem, premier gaming brand (ROG), full-stack enterprise AI Server solutions (NVIDIA HGX/MGX, GB200), and automated modular assembly."
+    "description": "World #1 Motherboard ecosystem, premier gaming brand (ROG), full-stack enterprise AI Server solutions (NVIDIA HGX/MGX, GB200), and automated modular assembly.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard Component Manufacturing",
+        "desc": "Standard desktop PC and peripheral assembly with baseline batch production."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Brand Product Portfolio",
+        "desc": "Global notebook, gaming, and commercial PC distribution across consumer and enterprise channels."
+      },
+      {
+        "level": 3,
+        "name": "AI PC & Smart Server Manufacturing",
+        "desc": "Integrated ROG ecosystem, Copilot+ AI PC acceleration, and customized GPU AI server clusters with modular factory automation."
+      },
+      {
+        "level": 4,
+        "name": "End-to-End Enterprise AI Digital Solutions",
+        "desc": "Full-stack AI cloud software, private AI supercomputing infrastructure, and intelligent healthcare digital twins."
+      },
+      {
+        "level": 5,
+        "name": "Autonomous Cognitive Hardware Platform",
+        "desc": "Closed-loop digital twin design-to-manufacturing velocity (1.01)^365 = 37.8x."
+      }
+    ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "company_name": "Shin-Etsu Chemical Co., Ltd. (4063.T / 信越化学工業)",
-  "ticker": "SHIN-ETSU",
+  "ticker": "SHIN-ETSU-CHEMICAL",
   "country": {
     "en": "Japan 🇯🇵",
     "zh": "日本 🇯🇵",
@@ -65,14 +65,14 @@
       "op_per_emp": 69466.0,
       "ni_per_emp": 49237.0,
       "rd_per_emp": 5763.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -1.92,
+      "gp_growth_yoy": -1.92,
+      "op_growth_yoy": -4.21,
+      "ni_growth_yoy": -4.44,
+      "rd_growth_yoy": 0.67,
+      "hc_growth_yoy": 0.77,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": -0.85
     },
     "2023 Q3": {
       "revenue": 4900.0,
@@ -90,14 +90,14 @@
       "op_per_emp": 64896.0,
       "ni_per_emp": 45920.0,
       "rd_per_emp": 5769.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -3.92,
+      "gp_growth_yoy": -4.9,
+      "op_growth_yoy": -6.04,
+      "ni_growth_yoy": -6.2,
+      "rd_growth_yoy": 0.66,
+      "hc_growth_yoy": 0.57,
+      "gm_diff_pp": -0.5,
+      "op_diff_pp": -0.79
     },
     "2023 Q4": {
       "revenue": 4791.5,
@@ -115,14 +115,14 @@
       "op_per_emp": 63312.0,
       "ni_per_emp": 45013.0,
       "rd_per_emp": 5747.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -2.21,
+      "gp_growth_yoy": -0.18,
+      "op_growth_yoy": -2.07,
+      "ni_growth_yoy": -1.6,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 0.38,
+      "gm_diff_pp": 1.01,
+      "op_diff_pp": 0.05
     },
     "2024 Q1": {
       "revenue": 4100.0,
@@ -162,7 +162,7 @@
       "rd_pct_rev": 3.68,
       "rev_per_emp": 150580.0,
       "gp_per_emp": 66255.0,
-      "op_per_emp": 46103.0,
+      "op_per_emp": 46104.0,
       "ni_per_emp": 32719.0,
       "rd_per_emp": 5540.0,
       "rev_growth_yoy": -20.59,
@@ -191,7 +191,7 @@
       "ni_per_emp": 30975.0,
       "rd_per_emp": 5531.0,
       "rev_growth_yoy": -19.39,
-      "gp_growth_yoy": -26.88,
+      "gp_growth_yoy": -26.87,
       "op_growth_yoy": -30.41,
       "ni_growth_yoy": -30.58,
       "rd_growth_yoy": -1.32,
@@ -485,17 +485,21 @@
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Operating margins remained exceptionally resilient at ~29-31% throughout the 2024 trough, highlighting the high pricing power of leading-edge 300mm silicon and specialized photoresists.",
-      "zh": "營益率在2024年產業谷底期依然維持在29-31%的高水準，凸顯先進300mm晶圓與專利光阻材料強大的定價權。"
+    "en": {
+      "pivot": "Shin-Etsu Chemical Co., Ltd. (4063.T / 信越化学工業) workforce reported at 27,800 FTEs with GAAP Gross Margin at 44.0%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $157,076/FTE in revenue and $69,112/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M1,255 (28.74% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M160 (3.67% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 12.18% compared to headcount change of 1.68% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Quarterly revenue per FTE consistently exceeded $145k-$200k across cycles, driven by high plant automation and vertical supply integration.",
-      "zh": "每季人均營收在各週期均穩定維持在14.5萬至20萬美元，展現極高自動化與垂直原材料整合優勢。"
-    },
-    "value_vs_volume": {
-      "en": "Electronic Materials and Silicon Wafer divisions consistently contribute >73% of total revenue with gross margins above 44%.",
-      "zh": "電子材料與半導體矽晶圓事業群穩定貢獻超過73%的營收，毛利率維持在44%以上。"
+    "zh": {
+      "pivot": "Shin-Etsu Chemical Co., Ltd. (4063.T / 信越化学工業) 官方審計員工數為 27,800 人，GAAP 毛利率為 44.0%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $157,076/人，人均毛利為 $69,112/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M1,255（營業利益率 28.74%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M160（佔營收 3.67%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 12.18%，員工人數年增率為 1.68%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

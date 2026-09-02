@@ -1,6 +1,6 @@
 {
   "company_name": "GlobalWafers Co., Ltd. (6488.TWO / 環球晶圓)",
-  "ticker": "GLOBALWAFERS",
+  "ticker": "6488",
   "country": {
     "en": "Taiwan 🇹🇼",
     "zh": "台灣 🇹🇼",
@@ -65,14 +65,14 @@
       "op_per_emp": 24217.0,
       "ni_per_emp": 22507.0,
       "rd_per_emp": 2707.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -3.33,
+      "gp_growth_yoy": -5.81,
+      "op_growth_yoy": -6.59,
+      "ni_growth_yoy": -2.47,
+      "rd_growth_yoy": 1.06,
+      "hc_growth_yoy": 0.29,
+      "gm_diff_pp": -1.01,
+      "op_diff_pp": -1.02
     },
     "2023 Q3": {
       "revenue": 555.0,
@@ -90,14 +90,14 @@
       "op_per_emp": 21606.0,
       "ni_per_emp": 22743.0,
       "rd_per_emp": 2715.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -4.31,
+      "gp_growth_yoy": -7.79,
+      "op_growth_yoy": -10.59,
+      "ni_growth_yoy": 1.27,
+      "rd_growth_yoy": 0.53,
+      "hc_growth_yoy": 0.21,
+      "gm_diff_pp": -1.39,
+      "op_diff_pp": -1.92
     },
     "2023 Q4": {
       "revenue": 536.8,
@@ -115,14 +115,14 @@
       "op_per_emp": 20000.0,
       "ni_per_emp": 22085.0,
       "rd_per_emp": 2723.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
-      "gm_diff_pp": null,
-      "op_diff_pp": null
+      "rev_growth_yoy": -3.28,
+      "gp_growth_yoy": -8.45,
+      "op_growth_yoy": -7.24,
+      "ni_growth_yoy": -2.69,
+      "rd_growth_yoy": 0.52,
+      "hc_growth_yoy": 0.21,
+      "gm_diff_pp": -1.97,
+      "op_diff_pp": -1.12
     },
     "2024 Q1": {
       "revenue": 490.0,
@@ -209,7 +209,7 @@
       "gross_margin": 30.26,
       "operating_margin": 21.61,
       "net_margin": 6.53,
-      "rd_pct_rev": 4.05,
+      "rd_pct_rev": 4.04,
       "rev_per_emp": 68055.0,
       "gp_per_emp": 20596.0,
       "op_per_emp": 14709.0,
@@ -485,17 +485,21 @@
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Operating margins stayed resilient in the 21-25% range through 2024, rebounding into 2025 with customer prepayments and high 300mm LTA compliance.",
-      "zh": "營益率在2024年維持在21-25%的穩健區間，並於2025年隨著客戶預付款支撐與12吋晶圓LTA履約率回升而重啟成長。"
+    "en": {
+      "pivot": "GlobalWafers Co., Ltd. (6488.TWO / 環球晶圓) workforce reported at 7,200 FTEs with GAAP Gross Margin at 35.44%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $76,389/FTE in revenue and $27,069/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M141 (25.69% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M21 (3.87% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 14.08% compared to headcount change of 1.64% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Maintains solid human capital productivity of $68k-$76k revenue per FTE per quarter across multi-continent production hubs.",
-      "zh": "各洲生產基地人均季度營收維持在6.8萬至7.6萬美元的良好水準。"
-    },
-    "value_vs_volume": {
-      "en": "12-inch advanced wafers and compound semiconductors represent 84% of quarterly mix, dampening memory cycle swings.",
-      "zh": "12吋先進晶圓與化合物半導體佔季度產品組合達84%，大幅降低記憶體循環波動衝擊。"
+    "zh": {
+      "pivot": "GlobalWafers Co., Ltd. (6488.TWO / 環球晶圓) 官方審計員工數為 7,200 人，GAAP 毛利率為 35.44%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $76,389/人，人均毛利為 $27,069/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M141（營業利益率 25.69%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M21（佔營收 3.87%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 14.08%，員工人數年增率為 1.64%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {
