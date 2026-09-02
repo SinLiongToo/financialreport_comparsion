@@ -4187,6 +4187,45 @@ function setupEventListeners() {
     }
 
     // ---------------------------------------------------------------------------
+    // 1-Click Collapse / Expand Toggle for Multi-Company Selector Grid
+    // ---------------------------------------------------------------------------
+    const toggleCompareBtn = document.getElementById("toggleCompareGridBtn");
+    const compareGridBody = document.getElementById("compareGridCollapsibleBody");
+    const toggleGridIcon = document.getElementById("toggleGridIcon");
+    const toggleGridLabel = document.getElementById("toggleGridLabel");
+
+    if (toggleCompareBtn && compareGridBody) {
+        toggleCompareBtn.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const isHidden = compareGridBody.classList.contains("hidden") || compareGridBody.style.display === "none";
+            const dict = I18N_DICT[CURRENT_LANGUAGE] || I18N_DICT.en;
+
+            if (!isHidden) {
+                // Collapse
+                compareGridBody.classList.add("hidden");
+                compareGridBody.style.display = "none";
+                if (toggleGridIcon) toggleGridIcon.className = "fa-solid fa-chevron-down";
+                if (toggleGridLabel) {
+                    toggleGridLabel.textContent = dict.btn_expand_grid || "Expand Grid";
+                    toggleGridLabel.setAttribute("data-i18n", "btn_expand_grid");
+                }
+                toggleCompareBtn.className = "bg-amber-600/30 hover:bg-amber-600/50 text-xs text-amber-300 hover:text-amber-200 px-3 py-1.5 rounded-lg transition-all font-semibold flex items-center gap-1.5 border border-amber-500/50 shadow-sm cursor-pointer";
+            } else {
+                // Expand
+                compareGridBody.classList.remove("hidden");
+                compareGridBody.style.display = "block";
+                if (toggleGridIcon) toggleGridIcon.className = "fa-solid fa-chevron-up";
+                if (toggleGridLabel) {
+                    toggleGridLabel.textContent = dict.btn_collapse_grid || "Collapse Grid";
+                    toggleGridLabel.setAttribute("data-i18n", "btn_collapse_grid");
+                }
+                toggleCompareBtn.className = "bg-slate-700 hover:bg-slate-600 text-xs text-amber-300 hover:text-amber-200 px-3 py-1.5 rounded-lg transition-all font-semibold flex items-center gap-1.5 border border-slate-600 shadow-sm cursor-pointer";
+            }
+        });
+    }
+
+    // ---------------------------------------------------------------------------
     // Country Filter Buttons — single click selects one, Ctrl/Cmd+click toggles
     // ---------------------------------------------------------------------------
     document.querySelectorAll(".compare-country-btn").forEach(btn => {
