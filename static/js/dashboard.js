@@ -1146,10 +1146,12 @@ function renderFinanceQuotes() {
     if (!listEl) return;
     
     const isZh = CURRENT_LANGUAGE === "zh";
-    listEl.innerHTML = FINANCE_QUOTES.map((q, idx) => {
+    // Render all 10 quotes plus a clone of the first quote at the bottom for seamless infinite looping
+    const allQuotes = [...FINANCE_QUOTES, FINANCE_QUOTES[0]];
+    listEl.innerHTML = allQuotes.map((q, idx) => {
         const author = isZh ? q.author.zh : q.author.en;
         const text = isZh ? q.text.zh : q.text.en;
-        return `<div class="finance-quote-item text-xs flex items-center gap-1.5 truncate" title="${text} — ${author}">
+        return `<div class="finance-quote-item text-xs flex items-center gap-1.5 truncate" style="height:24px;line-height:24px;" title="${text} — ${author}">
             <span class="text-slate-200 font-medium truncate">"${text}"</span>
             <span class="text-amber-400 font-semibold shrink-0 text-[11px]">— ${author}</span>
         </div>`;
@@ -1162,7 +1164,7 @@ function updateQuotePosition(animate = true) {
     const listEl = document.getElementById("financeQuotesList");
     if (!listEl) return;
     if (animate) {
-        listEl.style.transition = "transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)";
+        listEl.style.transition = "transform 0.6s cubic-bezier(0.25, 1, 0.5, 1)";
     } else {
         listEl.style.transition = "none";
     }
@@ -1170,20 +1172,37 @@ function updateQuotePosition(animate = true) {
 }
 
 function nextFinanceQuote() {
-    CURRENT_QUOTE_INDEX = (CURRENT_QUOTE_INDEX + 1) % FINANCE_QUOTES.length;
+    const listEl = document.getElementById("financeQuotesList");
+    CURRENT_QUOTE_INDEX++;
     updateQuotePosition(true);
+
+    // If reached the cloned first item at the end, reset seamlessly to 0 after transition
+    if (CURRENT_QUOTE_INDEX >= FINANCE_QUOTES.length) {
+        setTimeout(() => {
+            CURRENT_QUOTE_INDEX = 0;
+            updateQuotePosition(false);
+        }, 650);
+    }
 }
 
 function prevFinanceQuote() {
-    CURRENT_QUOTE_INDEX = (CURRENT_QUOTE_INDEX - 1 + FINANCE_QUOTES.length) % FINANCE_QUOTES.length;
-    updateQuotePosition(true);
+    if (CURRENT_QUOTE_INDEX <= 0) {
+        CURRENT_QUOTE_INDEX = FINANCE_QUOTES.length - 1;
+        updateQuotePosition(false);
+        setTimeout(() => {
+            updateQuotePosition(true);
+        }, 20);
+    } else {
+        CURRENT_QUOTE_INDEX--;
+        updateQuotePosition(true);
+    }
 }
 
 function startFinanceQuoteTimer() {
     stopFinanceQuoteTimer();
     QUOTE_MARQUEE_TIMER = setInterval(() => {
         nextFinanceQuote();
-    }, 4500);
+    }, 3500);
 }
 
 function stopFinanceQuoteTimer() {
