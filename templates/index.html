@@ -28,7 +28,7 @@
                         Financial & OpEx Strategic Dashboard
                         <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2 py-0.5 rounded-full font-medium" data-i18n="badge_workflow">One-Click Workflow</span>
                         <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm">
-                            <i class="fa-solid fa-code-branch text-[10px]"></i> v3.2.0
+                            <i class="fa-solid fa-code-branch text-[10px]"></i> v3.3.0
                         </span>
                         <span class="text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-2 py-0.5 rounded-full font-normal inline-flex items-center gap-1">
                             <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-02</span>
@@ -129,16 +129,20 @@
             </div>
         </div>
 
-        <!-- Navigation Tabs: Single Deep Dive vs Multi-Company Benchmark -->
-        <div class="max-w-7xl mx-auto px-4 flex space-x-1 border-t border-slate-700/60 pt-1 bg-slate-800/90">
-            <button id="tabSingleView" class="px-4 py-2 text-xs font-bold border-b-2 border-blue-500 text-blue-400 flex items-center gap-2 transition-all">
+        <!-- Navigation Tabs: Single Deep Dive vs Multi-Company Benchmark vs Industry Strategic Insights -->
+        <div class="max-w-7xl mx-auto px-4 flex space-x-1 border-t border-slate-700/60 pt-1 bg-slate-800/90 overflow-x-auto">
+            <button id="tabSingleView" class="px-4 py-2 text-xs font-bold border-b-2 border-blue-500 text-blue-400 flex items-center gap-2 transition-all whitespace-nowrap">
                 <i class="fa-solid fa-building"></i>
                 <span data-i18n="tab_single_view">Single Company Deep Dive</span>
             </button>
-            <button id="tabCompareView" class="px-4 py-2 text-xs font-bold border-b-2 border-transparent text-slate-400 hover:text-slate-200 flex items-center gap-2 transition-all">
+            <button id="tabCompareView" class="px-4 py-2 text-xs font-bold border-b-2 border-transparent text-slate-400 hover:text-slate-200 flex items-center gap-2 transition-all whitespace-nowrap">
                 <i class="fa-solid fa-scale-balanced"></i>
                 <span data-i18n="tab_compare_view">Multi-Company Peer Comparison</span>
-                <span class="text-[10px] bg-indigo-500/20 text-indigo-300 px-1.5 py-0.2 rounded-full border border-indigo-500/30">New</span>
+            </button>
+            <button id="tabInsightsView" class="px-4 py-2 text-xs font-bold border-b-2 border-transparent text-slate-400 hover:text-slate-200 flex items-center gap-2 transition-all whitespace-nowrap">
+                <i class="fa-solid fa-lightbulb text-amber-400"></i>
+                <span data-i18n="tab_insights_view">Industry Strategic Insights & Notes</span>
+                <span class="text-[10px] bg-amber-500/20 text-amber-300 px-1.5 py-0.2 rounded-full border border-amber-500/30 font-mono">Archive</span>
             </button>
         </div>
     </header>
@@ -769,6 +773,254 @@
                     </table>
                 </div>
             </section>
+        </div>
+
+                <!-- ========================================================================= -->
+        <!-- VIEW 3: INDUSTRY STRATEGIC INSIGHTS & RESEARCH NOTES ARCHIVE               -->
+        <!-- ========================================================================= -->
+        <div id="insightsViewContainer" class="hidden space-y-6">
+            
+            <!-- Strategic Notes Header & Search/Filter Console -->
+            <section class="bg-slate-800/90 border border-amber-500/30 rounded-2xl p-5 shadow-xl">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700 pb-3 mb-4 gap-3">
+                    <div>
+                        <h2 class="text-base font-bold text-white flex items-center gap-2">
+                            <i class="fa-solid fa-lightbulb text-amber-400 text-lg"></i>
+                            <span data-i18n="insights_header_title">Industry Strategic Insights & Deep Research Notes Archive</span>
+                        </h2>
+                        <p class="text-xs text-slate-400 mt-0.5" data-i18n="insights_header_subtitle">Structured qualitative and quantitative research notes covering AI, Defense, Semiconductors, Hardware OpEx, and Operating Leverage</p>
+                    </div>
+                    
+                    <!-- Search & Filter Controls -->
+                    <div class="flex flex-wrap items-center gap-2">
+                        <div class="relative">
+                            <input type="text" id="insightsSearchInput" placeholder="Search notes..." class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-amber-500 w-48 sm:w-64 pl-8" data-i18n-placeholder="insights_search_placeholder">
+                            <i class="fa-solid fa-magnifying-glass absolute left-2.5 top-2.5 text-slate-500 text-xs"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Category Pills -->
+                <div class="flex flex-wrap items-center gap-2" id="insightsCategoryPills">
+                    <button type="button" data-category="ALL" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-semibold transition-all bg-amber-500 text-slate-900 shadow" data-i18n="insights_filter_all">All Research Notes</button>
+                    <button type="button" data-category="AI_DEFENSE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_ai_defense">🤖 Frontier AI & Defense Systems</button>
+                    <button type="button" data-category="SEMICONDUCTORS" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_semis">⚡ Semiconductors & Fab Equipment</button>
+                    <button type="button" data-category="HARDWARE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hardware">💻 System OEMs & Hardware Brands</button>
+                </div>
+            </section>
+
+            <!-- Research Note Card 1: AI & Defense Operating Margins Deep Dive -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="AI_DEFENSE">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30">AI & DEFENSE STRATEGY</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-02</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>🤖 AI 與國防軍工企業「超高毛利 (60%~85%) vs. 偏低營業利益率 (-114%~-4%)」深度財務剖析與營運槓桿拐點研判</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary & Math Formula -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-chart-pie"></i> 營業毛利層面 (Gross Profit / COGS)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            AI 軟體的銷售成本 (COGS) 主要為用戶端即時推論 (Inference) 算力、API Token 傳輸與雲端 CDN 費用。在成熟定價體系下，毛利率落在 <strong class="text-emerald-300 font-mono">55% ~ 85%</strong>，具備極佳之軟體定價權。
+                        </p>
+                    </div>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-rose-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-microchip"></i> 營業費用層面 (OpEx / R&D Compute)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            前沿大模型之預訓練 (Pre-Training Compute) 耗資數十億美元，依 US GAAP 會計準則<strong>必須於當期直接全額認列為 R&D 營業費用</strong>，加上全球頂級 AI 科學家百萬年薪與股權激勵，導致營業利益率呈現大幅虧損。
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">2025 營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔營收 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">Anthropic (Claude AI)</td>
+                                <td class="py-2.5 px-3 text-right">$2,800M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">60.00%</td>
+                                <td class="py-2.5 px-3 text-right">$3,800M</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">135.71%</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">-114.29%</td>
+                                <td class="py-2.5 px-3 text-right">1,100</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$2,545,455</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">前沿多模態與代碼生成爆發期；R&D 算力投入超越營收</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">OpenAI (ChatGPT)</td>
+                                <td class="py-2.5 px-3 text-right">$11,600M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">60.00%</td>
+                                <td class="py-2.5 px-3 text-right">$7,500M</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">64.66%</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">-47.41%</td>
+                                <td class="py-2.5 px-3 text-right">2,500</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$4,640,000</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">3億周活用戶付費轉換中；軟體業全球最高人均產值</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">Shield AI (Hivemind)</td>
+                                <td class="py-2.5 px-3 text-right">$510M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">62.00%</td>
+                                <td class="py-2.5 px-3 text-right">$190M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">37.25%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">-4.90%</td>
+                                <td class="py-2.5 px-3 text-right">1,200</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$425,000</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">AI 自主飛控軟體授權擴大，即將跨越損益兩平點</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-rose-300">Anduril Industries</td>
+                                <td class="py-2.5 px-3 text-right">$1,450M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">66.00%</td>
+                                <td class="py-2.5 px-3 text-right">$550M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">37.93%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">-4.14%</td>
+                                <td class="py-2.5 px-3 text-right">3,800</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$381,579</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">美軍主合約商地位確立；虧損由 2020 年 -70% 收斂至 -4%</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50 bg-indigo-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-sky-300">Palantir (PLTR - 成熟標竿)</td>
+                                <td class="py-2.5 px-3 text-right">$3,980M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">82.00%</td>
+                                <td class="py-2.5 px-3 text-right">$588M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">14.77%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">+23.97%</td>
+                                <td class="py-2.5 px-3 text-right">4,100</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$970,732</td>
+                                <td class="py-2.5 px-3 font-sans text-emerald-300 font-semibold">AIP 平台成熟變現；單季營業利益率曾突破 47%</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">Ondas Holdings (ONDS)</td>
+                                <td class="py-2.5 px-3 text-right">$38.5M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">42.08%</td>
+                                <td class="py-2.5 px-3 text-right">$14.2M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">36.88%</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400">-58.18%</td>
+                                <td class="py-2.5 px-3 text-right">180</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$213,889</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">併購 Airobotics 轉型無人機機巢軍工安防防禦系統</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-server text-blue-400"></i> 1. 算力預訓練 CapEx/OpEx 依 US GAAP 當期全額費用化
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                訓練萬億參數之基礎模型（如 GPT-5, o3, Claude 3.7 Sonnet）需調動 5 萬至 10 萬張 GPU 集群連續運算 3~9 個月，耗費 5 億至 20 億美元。會計準則規定此類前沿探索<strong>不得作為資產折舊，必須在當期以 R&D 費用一次性扣除</strong>，導致 R&D 佔營收高達 65%~135%。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-user-astronaut text-purple-400"></i> 2. 頂級 AI 人才溢價與股權激勵 (SBC) 膨脹
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                全球具備訓練前沿推理模型能力之科學家僅數千人，頂尖人才年薪加上股權激勵達 100 萬至 300 萬美元以上。即使團隊極度精簡（OpenAI 僅 2,500 人、Anthropic 僅 1,100 人），年度總人事與激勵成本仍高達數十億美元。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-users text-emerald-400"></i> 3. 免費用戶推論算力補貼與開發者生態爭奪戰
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                為鎖定全球開發者與企業生態，OpenAI 與 Anthropic 提供 3 億以上周活用戶免費試用，產生巨額日常推論算力支出；同時 API Token 價格年降 80%~90%，以極具攻擊性之定價壓制競爭對手，推遲當前變現速度。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-shield-halved text-rose-400"></i> 4. 國防軍工研發前期硬體原型至軍購量產長週期
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                Anduril (Roadrunner, Fury) 與 Shield AI (V-BAT, Hivemind) 採取「先自費研發成熟產品、再向美軍競標主合約 (Defense Prime)」策略。前期需自行承擔無人機、固態火箭與邊緣晶片模組開模成本，待進入 DoD Program of Record (PoR) 後，營利率將快速由 -70% 翻正。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap & Palantir Blueprint -->
+                <div class="bg-gradient-to-r from-blue-950/40 via-indigo-950/40 to-slate-900/40 p-4 rounded-xl border border-blue-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-blue-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-forward-step"></i> 營業利益率翻轉超額獲利之演進路徑 (The Super-Profitability Roadmap)
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        當基底模型研發進入高原期，企業營收結構由「探索性大模型訓練」全面跨越為「<strong>週期性訂閱與高利潤 Token 推論調用</strong>」時，軟體邊際複製成本趨近於零之特性將爆發。<br>
+                        <strong>Palantir 先驗藍圖</strong>：Palantir 於 2015～2020 年長年虧損，2023 年推出 AIP 平台並實現規模化後，GAAP 營業利益率瞬間躍升至 <strong>24%～47%</strong>，人均毛利逼近 <strong>$80 萬美元</strong>，印證了 AI 企業一旦跨越算力拐點後之超高營運槓桿。
+                    </p>
+                </div>
+            </article>
+
+            <!-- Research Note Card 2: Semiconductor Productivity Trio & The Pivot -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="SEMICONDUCTORS">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">SEMICONDUCTOR OPEX</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-02</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>⚡ 半導體產業人均產值三劍客 (Productivity Trio) 與「黃金拐點 (The Pivot)」戰略框架</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
+                    <div class="bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                        <span class="font-bold text-blue-400">1. 人均營收 (Rev / FTE)</span>
+                        <p class="text-slate-400 leading-relaxed">衡量每位員工帶來的外部價值創造規模。IC 設計龍頭 (NVIDIA $3.4M/人, 聯發科 $860k/人, 瑞昱 $610k/人) 遠高於傳統重資產封裝與組裝廠。</p>
+                    </div>
+                    <div class="bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                        <span class="font-bold text-emerald-400">2. 人均毛利 (GP / FTE)</span>
+                        <p class="text-slate-400 leading-relaxed">扣除晶圓製造與原物料直接成本後之真實定價權指標。台積電以 53%~55% 毛利創造人均毛利 $600k/人，穩居全球製造業天花板。</p>
+                    </div>
+                    <div class="bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                        <span class="font-bold text-amber-400">3. 黃金拐點 (The Pivot)</span>
+                        <p class="text-slate-400 leading-relaxed">定義員工人數成長率降至平台期 (Δ%HC ≤ 3%)，而毛利率因自動化 (AOI) 與 IP 複利持續擴張 (ΔGM > 0) 之最佳營運拐點。</p>
+                    </div>
+                </div>
+            </article>
+
         </div>
 
         <!-- Bottom Banner with Author & LinkedIn -->

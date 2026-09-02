@@ -899,6 +899,15 @@ const I18N_DICT = {
         btn_refresh: "Reload",
         tab_single_view: "Single Company Deep Dive",
         tab_compare_view: "Multi-Company Peer Comparison",
+        tab_insights_view: "Industry Strategic Insights & Notes",
+        insights_header_title: "Industry Strategic Insights & Deep Research Notes Archive",
+        insights_header_subtitle: "Structured qualitative and quantitative research notes covering AI, Defense, Semiconductors, Hardware OpEx, and Operating Leverage",
+        insights_filter_all: "All Research Notes",
+        insights_filter_ai_defense: "🤖 Frontier AI & Defense Systems",
+        insights_filter_semis: "⚡ Semiconductors & Fab Equipment",
+        insights_filter_hardware: "💻 System OEMs & Hardware Brands",
+        insights_search_placeholder: "Search notes by keyword (e.g. OpenAI, operating margin, R&D, Palantir)...",
+        btn_copy_note_md: "Copy Note Markdown",
         panel_title: "One-Click Automated Workflow Console",
         panel_subtitle: "Supports URL or Ticker (e.g. ASML, TSMC, NVDA, NXP, VSH)",
         label_target: "Target URL or Company Ticker",
@@ -1418,28 +1427,93 @@ function setupThemeToggle() {
 function setupTabs() {
     const tabSingle = document.getElementById("tabSingleView");
     const tabCompare = document.getElementById("tabCompareView");
+    const tabInsights = document.getElementById("tabInsightsView");
     const singleContainer = document.getElementById("singleViewContainer");
     const compareContainer = document.getElementById("compareViewContainer");
+    const insightsContainer = document.getElementById("insightsViewContainer");
 
     if (!tabSingle || !tabCompare) return;
 
-    tabSingle.addEventListener("click", () => {
-        ACTIVE_VIEW = "single";
-        tabSingle.className = "px-4 py-2 text-xs font-bold border-b-2 border-blue-500 text-blue-400 flex items-center gap-2 transition-all";
-        tabCompare.className = "px-4 py-2 text-xs font-bold border-b-2 border-transparent text-slate-400 hover:text-slate-200 flex items-center gap-2 transition-all";
-        singleContainer.classList.remove("hidden");
-        compareContainer.classList.add("hidden");
-        // Trigger resize for plotly charts
-        window.dispatchEvent(new Event("resize"));
+    const switchView = (target) => {
+        ACTIVE_VIEW = target;
+        // Tab styling reset
+        [tabSingle, tabCompare, tabInsights].forEach(t => {
+            if (t) t.className = "px-4 py-2 text-xs font-bold border-b-2 border-transparent text-slate-400 hover:text-slate-200 flex items-center gap-2 transition-all whitespace-nowrap";
+        });
+        // Container visibility reset
+        if (singleContainer) singleContainer.classList.add("hidden");
+        if (compareContainer) compareContainer.classList.add("hidden");
+        if (insightsContainer) insightsContainer.classList.add("hidden");
+
+        if (target === "single") {
+            if (tabSingle) tabSingle.className = "px-4 py-2 text-xs font-bold border-b-2 border-blue-500 text-blue-400 flex items-center gap-2 transition-all whitespace-nowrap";
+            if (singleContainer) singleContainer.classList.remove("hidden");
+            window.dispatchEvent(new Event("resize"));
+        } else if (target === "compare") {
+            if (tabCompare) tabCompare.className = "px-4 py-2 text-xs font-bold border-b-2 border-indigo-500 text-indigo-400 flex items-center gap-2 transition-all whitespace-nowrap";
+            if (compareContainer) compareContainer.classList.remove("hidden");
+            loadComparisonData();
+        } else if (target === "insights") {
+            if (tabInsights) tabInsights.className = "px-4 py-2 text-xs font-bold border-b-2 border-amber-500 text-amber-400 flex items-center gap-2 transition-all whitespace-nowrap";
+            if (insightsContainer) insightsContainer.classList.remove("hidden");
+        }
+    };
+
+    tabSingle.addEventListener("click", () => switchView("single"));
+    tabCompare.addEventListener("click", () => switchView("compare"));
+    if (tabInsights) tabInsights.addEventListener("click", () => switchView("insights"));
+
+    // Initialize Insights tab interactive logic
+    setupInsightsTab();
+}
+
+function setupInsightsTab() {
+    const searchInput = document.getElementById("insightsSearchInput");
+    const catButtons = document.querySelectorAll(".insights-cat-btn");
+    const noteCards = document.querySelectorAll(".insights-note-card");
+
+    let activeCategory = "ALL";
+
+    const filterNotes = () => {
+        const query = (searchInput ? searchInput.value : "").trim().toLowerCase();
+        noteCards.forEach(card => {
+            const cardCat = card.getAttribute("data-category") || "";
+            const cardText = card.textContent.toLowerCase();
+            const matchCat = activeCategory === "ALL" || cardCat === activeCategory;
+            const matchQuery = !query || cardText.includes(query);
+            card.style.display = (matchCat && matchQuery) ? "block" : "none";
+        });
+    };
+
+    catButtons.forEach(btn => {
+        btn.addEventListener("click", () => {
+            activeCategory = btn.getAttribute("data-category") || "ALL";
+            catButtons.forEach(b => {
+                b.className = "insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700";
+            });
+            btn.className = "insights-cat-btn px-3 py-1 text-xs rounded-lg font-semibold transition-all bg-amber-500 text-slate-900 shadow";
+            filterNotes();
+        });
     });
 
-    tabCompare.addEventListener("click", () => {
-        ACTIVE_VIEW = "compare";
-        tabCompare.className = "px-4 py-2 text-xs font-bold border-b-2 border-indigo-500 text-indigo-400 flex items-center gap-2 transition-all";
-        tabSingle.className = "px-4 py-2 text-xs font-bold border-b-2 border-transparent text-slate-400 hover:text-slate-200 flex items-center gap-2 transition-all";
-        compareContainer.classList.remove("hidden");
-        singleContainer.classList.add("hidden");
-        loadComparisonData();
+    if (searchInput) {
+        searchInput.addEventListener("input", filterNotes);
+    }
+
+    // 1-Click Copy Markdown for single note cards
+    document.querySelectorAll(".copy-single-note-btn").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+            const card = btn.closest(".insights-note-card");
+            if (!card) return;
+            const title = card.querySelector("h3") ? card.querySelector("h3").innerText : "Research Note";
+            const text = card.innerText;
+            const mdFormatted = `# ${title}\n\n${text}`;
+            navigator.clipboard.writeText(mdFormatted).then(() => {
+                const orig = btn.innerHTML;
+                btn.innerHTML = '<i class="fa-solid fa-check text-emerald-400"></i> Copied!';
+                setTimeout(() => { btn.innerHTML = orig; }, 2000);
+            });
+        });
     });
 }
 

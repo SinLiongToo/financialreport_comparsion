@@ -843,6 +843,17 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.3.0 (2026-09-02)**：
+  - **新增「產業戰略洞察與深度研究筆記庫 (Industry Strategic Insights & Notes)」專屬分頁 Tab**：
+    - 於頂部導覽列新增第 3 大功能模組（💡 產業戰略洞察與深度筆記 / Industry Strategic Insights & Notes Archive），結構化收錄前沿 AI 模型、國防軍工系統、半導體晶圓製造與先進硬體之商業模式、營運槓桿與財務深度研判筆記。
+    - **深度收錄筆記 1（AI 與國防軍工高毛利 vs 低營業利益率剖析）**：
+      - 完整量化 Anthropic、OpenAI (ChatGPT)、Shield AI、Anduril、Palantir (成熟 AI 對標) 與 Ondas 之 2025 營收、毛利率 (60%~82%)、R&D 佔營收比重 (15%~136%)、營業利益率 (-114%~+24%) 與人均產值 ($38萬~$464萬/人)。
+      - 深度拆解 4 大結構性成因：1. 算力預訓練 CapEx/OpEx 依 US GAAP 當期全額費用化；2. 頂級 AI 人才百萬年薪溢價與股權激勵 (SBC)；3. 免費用戶補貼與生態爭奪戰；4. 國防軍工研發前期自費開模至軍購量產長週期。
+      - 確立從「預訓練高原期」跨入「企業級 Token 推論與訂閱」之營運槓桿拐點藍圖（The Palantir Blueprint）。
+    - **深度收錄筆記 2（半導體人均產值三劍客與黃金拐點框架）**：深入量化 TSMC、ASML、NVIDIA、聯發科與穩懋在自動化 (AOI)、先進製程晶圓定價權與 IP 複利模型下的運營效率。
+    - **模組化分類篩選、即時關鍵字搜尋與一鍵 Markdown 複製**：支援分類篩選（全部、AI 與軍工、半導體、系統硬體）、即時關鍵字過濾，並可一鍵複製 Markdown 供 Gemini / Claude / ChatGPT 生成投影片。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.3.0`（`Updated: 2026-09-02`），重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.2.0 (2026-09-02)**：
   - **新增 5 家 AI 前沿大模型實驗室與國防軍工科技旗艦企業（Ondas, Anthropic, ChatGPT/OpenAI, Shield AI, Anduril）暨建立專屬「國防軍工 (Military AI)」賽道分組**：
     - **Ondas Holdings (ONDS / NASDAQ: ONDS / 美國 🇺🇸)**：
@@ -1003,6 +1014,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.3.0 - feat: add dedicated Industry Strategic Insights & Research Notes tab with interactive AI and defense OpEx analysis
 * commit v3.2.0 - feat: add Ondas, Anthropic, ChatGPT (OpenAI), Shield AI, and Anduril with dedicated Military AI sector
 * commit v3.1.1 - fix: resolve scatter matrix company drop by completing AMZN quarterly gross profit, calibrating MSFT and PLTR metrics, classifying AAPL under SYSTEM, and adding defensive fallbacks
 * commit v3.1.0 - feat: integrate WIN Semiconductors (3105.TW) and STMicroelectronics (STM) 5-year audited financial reports, sales breakdown, and quarterly analytics
