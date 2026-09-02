@@ -224,18 +224,18 @@ const COMPANY_COLORS = {
     "realtek": "#0070BA",
     "2379": "#0070BA",
     "rtk": "#0070BA",
-    "win-semi": "#0284C7",
-    "win": "#0284C7",
-    "3105": "#0284C7",
-    "3105.tw": "#0284C7",
-    "3105.two": "#0284C7",
-    "win-semiconductors": "#0284C7",
-    "stm": "#1E3A8A",
-    "stmicro": "#1E3A8A",
-    "stmicroelectronics": "#1E3A8A",
-    "st-semiconductor": "#1E3A8A",
-    "stm.pa": "#1E3A8A",
-    "stm.mi": "#1E3A8A",
+    "win-semi": "#10B981",
+    "win": "#10B981",
+    "3105": "#10B981",
+    "3105.tw": "#10B981",
+    "3105.two": "#10B981",
+    "win-semiconductors": "#10B981",
+    "stm": "#0EA5E9",
+    "stmicro": "#0EA5E9",
+    "stmicroelectronics": "#0EA5E9",
+    "st-semiconductor": "#0EA5E9",
+    "stm.pa": "#0EA5E9",
+    "stm.mi": "#0EA5E9",
 };
 
 const COMPANY_COUNTRIES = {
@@ -2845,9 +2845,10 @@ async function loadComparisonData() {
             const db = (CURRENT_FREQ === "quarterly" && window.STATIC_METRICS_QUARTERLY_DB) ? window.STATIC_METRICS_QUARTERLY_DB : window.STATIC_METRICS_DB;
             if (db) {
                 checkedBoxes.forEach(t => {
-                    const item = db[t] ||
-                                 db[t.replace("-platforms", "").replace("alphabet-", "")] ||
-                                 db[FinancialMetricsExtractor_canonical_ticker(t)];
+                    const raw = t.toLowerCase();
+                    const canon = (typeof FinancialMetricsExtractor_canonical_ticker === "function") ? FinancialMetricsExtractor_canonical_ticker(raw) : raw;
+                    const item = db[raw] || db[t] || db[t.toUpperCase()] || db[canon] || db[canon.toUpperCase()] ||
+                                 db[raw.replace("-platforms", "").replace("alphabet-", "")];
                     if (item) {
                         companiesResult[t] = item;
                     }
@@ -2868,6 +2869,12 @@ async function loadComparisonData() {
     } catch (e) {
         console.error("Error loading comparison metrics:", e);
     }
+}
+
+function getCompanyTraceColor(ticker, idx = 0) {
+    const raw = String(ticker || "").toLowerCase();
+    const canon = (typeof FinancialMetricsExtractor_canonical_ticker === "function") ? FinancialMetricsExtractor_canonical_ticker(raw) : raw;
+    return COMPANY_COLORS[raw] || COMPANY_COLORS[canon] || COMPANY_COLORS[ticker] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
 }
 
 function renderComparisonView(companiesData) {
@@ -2947,7 +2954,7 @@ function renderComparisonView(companiesData) {
         const c = companiesData[t];
         const years = c.years || [];
         const gms = years.map(y => c.financials[y]?.gross_margin || null);
-        const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const col = getCompanyTraceColor(t, idx);
         const name = c.ticker || t.toUpperCase();
         return {
             x: years, y: gms, name: `${name} (%)`,
@@ -2968,7 +2975,7 @@ function renderComparisonView(companiesData) {
         const c = companiesData[t];
         const years = c.years || [];
         const revEmp = years.map(y => (c.financials[y]?.rev_per_emp || 0) / 1000);
-        const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const col = getCompanyTraceColor(t, idx);
         const name = c.ticker || t.toUpperCase();
         return {
             x: years, y: revEmp, name: `${name} Rev/FTE`,
@@ -2989,7 +2996,7 @@ function renderComparisonView(companiesData) {
         const c = companiesData[t];
         const years = c.years || [];
         const opms = years.map(y => c.financials[y]?.operating_margin || null);
-        const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const col = getCompanyTraceColor(t, idx);
         const name = c.ticker || t.toUpperCase();
         return {
             x: years, y: opms, name: `${name} Op Margin`,
@@ -3010,7 +3017,7 @@ function renderComparisonView(companiesData) {
         const c = companiesData[t];
         const years = c.years || [];
         const rds = years.map(y => c.financials[y]?.rd_pct_rev || null);
-        const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const col = getCompanyTraceColor(t, idx);
         const name = c.ticker || t.toUpperCase();
         return {
             x: years, y: rds, name: `${name} R&D %`,
@@ -3095,7 +3102,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
         const years = c.years || [];
         if (years.length === 0) return;
 
-        const col = COMPANY_COLORS[t] || DEFAULT_PALETTE[idx % DEFAULT_PALETTE.length];
+        const col = getCompanyTraceColor(t, idx);
         const name = c.company_name || c.ticker || t.toUpperCase();
         const canon = FinancialMetricsExtractor_canonical_ticker(t);
         const countryObj = c.country || COMPANY_COUNTRIES[t] || COMPANY_COUNTRIES[canon] || { en: "United States 🇺🇸", zh: "美國 🇺🇸" };
