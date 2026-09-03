@@ -657,6 +657,12 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.4.3 (2026-09-03)**：
+  - **修復手機與平板橫向螢幕 (Landscape) 下財務投資金句跑馬燈被隱藏問題**：
+    - 優化淺型橫向螢幕 (Shallow Landscape) 樣式，解除 `#financeQuotesMarqueeContainer` 之 `display: none` 限制，改採緊湊單行跑馬燈排版（微調 padding/margin）。
+    - 確保使用者在手機直向或橫向瀏覽時，皆能完整看見財務金句輪播與手動切換按鈕，兼顧視覺美觀與螢幕空間利用率。
+    - 重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.4.3`。
+
 - **v3.4.2 (2026-09-03)**：
   - **新增全球高效能類比晶片龍頭 亞德諾半導體 (Analog Devices, Inc. / NASDAQ: ADI / 美國 🇺🇸) 審計基準庫與深度戰略分析**：
     - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2021 年完成併購美信 (Maxim Integrated) 後營收自 $5,627.5M 躍升至 $12,014.0M (2022) 及 $12,305.5M (2023)，2024 年庫存調整後於 2025 年強勁復甦至 $11,019.7M 營收、61.47% 高毛利率、26.60% 營業利益率與 $2,267.3M 淨利。
@@ -1048,6 +1054,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.4.3 - fix: restore financial quotes marquee in mobile landscape mode with compact single-line styling
 * commit v3.4.2 - feat: integrate Analog Devices (ADI) 6-year audited financial reports, end-market sales breakdown, and quarterly analytics
 * commit v3.4.1 - fix: optimize mobile layout by eliminating top bar horizontal overflow and making Plotly chart legends responsive on mobile screens
 * commit v3.4.0 - feat: add 1-click collapse/expand for company selector grid and update AGENTS.md rules and financial-report-multiformat-analyzer skill

@@ -449,7 +449,11 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
         position: static !important; /* free up vertical screen space on shallow landscape */
     }
     #financeQuotesMarqueeContainer {
-        display: none !important;
+        display: flex !important;
+        margin-top: 2px !important;
+        padding-top: 2px !important;
+        padding-bottom: 2px !important;
+        max-width: 100% !important;
     }
 }
 
