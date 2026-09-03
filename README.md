@@ -657,6 +657,14 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.5.2 (2026-09-04)**：
+  - **升級全站大螢幕/高解析度滿版寬度 (`max-w-[1720px]`) 並優化頂部雙層佈局**：
+    - **解決超寬螢幕居中擠壓問題**：將 Header、導覽列與主內容區由原本狹窄的 `max-w-7xl` (1280px) 全面升級至 `max-w-[1720px]`，釋放寬螢幕 (1440p / 4K / Ultrawide) 下的大面積黑邊，讓 6 大圖表、KPI 卡片與橫向評比矩陣獲得最充裕的視覺展開空間。
+    - **Header 雙層完美分流**：
+      - **Row 1 (品牌與狀態)**：左側大標題 + 副標題，右側舒展排列 One-Click Workflow、版本徽章 `v3.5.2`、更新時間與 LinkedIn 連結。
+      - **Row 2 (控制與金句)**：左側全寬智慧金句跑馬燈 (`flex-1`)，右側緊湊對齊年/季切換、主題、指南、語言、公司選單與重新載入按鈕。
+    - 重新全量編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.5.2`。
+
 - **v3.5.1 (2026-09-04)**：
   - **修復桌機模式 (Desktop View) 下頂部導覽列標題與徽章被擠壓折行問題**：
     - **根本原因**：在寬螢幕佈局下，右側操作按鈕區與左側標題區並排於同一 Flex Row，導致標題與版本徽章可用寬度受限，在桌機視窗下產生多行垂直折行擠壓。
@@ -1071,6 +1079,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.5.2 - feat: expand ultra-wide canvas width to max-w-[1720px] and streamline dual-tier responsive header
 * commit v3.5.1 - fix: resolve desktop header title squishing by adopting spacious two-row responsive layout
 * commit v3.5.0 - feat: integrate Qualcomm (QCOM) 6-year audited financial reports, Snapdragon segments breakdown, and quarterly analytics
 * commit v3.4.3 - fix: restore financial quotes marquee in mobile landscape mode with compact single-line styling
