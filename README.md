@@ -657,6 +657,14 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.5.1 (2026-09-04)**：
+  - **修復桌機模式 (Desktop View) 下頂部導覽列標題與徽章被擠壓折行問題**：
+    - **根本原因**：在寬螢幕佈局下，右側操作按鈕區與左側標題區並排於同一 Flex Row，導致標題與版本徽章可用寬度受限，在桌機視窗下產生多行垂直折行擠壓。
+    - **架構重構 (雙層高雅版面)**：
+      - **第一層 (Top Row)**：左側完整展示大標題、One-Click Workflow 標籤、版本號 `v3.5.1`、更新日期與 LinkedIn 徽章（`whitespace-nowrap` 保持單行舒展），右側整齊對齊各類控制按鈕（Annual/Quarterly 切換、明暗主題、指南、語言、公司選擇器與重新載入）。
+      - **第二層 (Bottom Row)**：財務投資金句跑馬燈 (`#financeQuotesMarqueeContainer`) 獨立跨滿全寬，提供充足水平閱讀寬度，徹底杜絕文字折行與擠壓。
+    - 重新全量編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.5.1`。
+
 - **v3.5.0 (2026-09-04)**：
   - **新增全球無線通訊與邊緣 AI 晶片龍頭 高通 (Qualcomm Incorporated / NASDAQ: QCOM / 美國 🇺🇸) 審計基準庫與深度戰略分析**：
     - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年達 $38,962M 營收、56.21% 毛利率與 $10,071M 營業利益，以及 2025 年受惠於 Snapdragon 8 Elite 旗艦手機 SoC、Snapdragon X Elite AI PC 處理器與車用 Snapdragon Digital Chassis 全面爆發，年營收攀升至 $44,284M（年增 +14%）、$24,546M 毛利、55.43% 毛利率與 $12,360M 營業利益（營利率 27.91%）。
@@ -1063,6 +1071,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.5.1 - fix: resolve desktop header title squishing by adopting spacious two-row responsive layout
 * commit v3.5.0 - feat: integrate Qualcomm (QCOM) 6-year audited financial reports, Snapdragon segments breakdown, and quarterly analytics
 * commit v3.4.3 - fix: restore financial quotes marquee in mobile landscape mode with compact single-line styling
 * commit v3.4.2 - feat: integrate Analog Devices (ADI) 6-year audited financial reports, end-market sales breakdown, and quarterly analytics

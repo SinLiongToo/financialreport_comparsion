@@ -18,49 +18,35 @@
 <body class="bg-slate-900 text-slate-100 min-h-screen overflow-x-hidden w-full max-w-full">
     <!-- Header -->
     <header class="bg-slate-800 border-b border-slate-700 sticky top-0 z-40 shadow-md">
-        <div class="max-w-7xl mx-auto px-2.5 sm:px-4 py-2 sm:py-2.5 flex flex-col xl:flex-row xl:justify-between xl:items-center gap-2 sm:gap-3 w-full max-w-full">
-            <div class="flex items-center space-x-2.5 sm:space-x-3 min-w-0">
-                <div class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold text-lg sm:text-xl shadow-lg shadow-blue-500/30 shrink-0">
-                    <i class="fa-solid fa-chart-line"></i>
-                </div>
-                <div class="min-w-0 flex-1">
-                    <h1 class="text-sm sm:text-lg font-bold tracking-tight text-white flex flex-wrap items-center gap-1.5 sm:gap-2">
-                        Financial & OpEx Strategic Dashboard
-                        <span class="text-[10px] sm:text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-1.5 sm:px-2 py-0.5 rounded-full font-medium" data-i18n="badge_workflow">One-Click Workflow</span>
-                        <span class="text-[10px] sm:text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-1.5 sm:px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm">
-                            <i class="fa-solid fa-code-branch text-[9px] sm:text-[10px]"></i> v3.5.0
-                        </span>
-                        <span class="text-[10px] sm:text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-1.5 sm:px-2 py-0.5 rounded-full font-normal inline-flex items-center gap-1">
-                            <i class="fa-regular fa-clock text-[9px] sm:text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-04</span>
-                        </span>
-                        <a href="https://www.linkedin.com/in/masatu19810322/" target="_blank" rel="noopener noreferrer" class="text-[10px] sm:text-xs bg-[#0A66C2]/20 hover:bg-[#0A66C2]/35 border border-[#0A66C2]/40 text-blue-200 hover:text-white px-2 py-0.5 rounded-full font-semibold inline-flex items-center gap-1 shadow-sm transition-all" title="LinkedIn: Masa Tu | Too Sin-Liong">
-                            <i class="fa-brands fa-linkedin text-[#0A66C2] text-xs"></i>
-                            <span>Masa Tu</span>
-                        </a>
-                    </h1>
-                    <p class="text-[11px] sm:text-xs text-slate-400 hidden sm:block truncate" data-i18n="header_subtitle">Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment</p>
-                    
-                    <!-- Financial & Investment Wisdom Quotes Vertical Marquee (企業財務與投資金句上下流動跑馬燈) -->
-                    <div class="mt-1 flex items-center gap-1.5 sm:gap-2 overflow-hidden rounded-lg bg-slate-900/60 border border-slate-700/70 px-2 py-0.5 sm:py-1 text-xs text-slate-300 shadow-inner max-w-2xl" id="financeQuotesMarqueeContainer">
-                        <div class="flex items-center gap-1 text-amber-400 font-semibold shrink-0 text-[10px] sm:text-[11px]">
-                            <i class="fa-solid fa-quote-left text-amber-400 text-[10px] sm:text-xs"></i>
-                            <span class="hidden sm:inline font-bold tracking-wider" data-i18n="quotes_badge">WISDOM:</span>
-                        </div>
-                        <div class="relative h-5 sm:h-6 overflow-hidden flex-1 cursor-pointer select-none" id="financeQuotesMarquee" title="Click to view next quote / 點擊切換下一句">
-                            <div id="financeQuotesList" class="transition-transform duration-500 ease-in-out text-[11px] sm:text-xs">
-                                <!-- Populated dynamically by initFinanceQuotesMarquee() -->
-                            </div>
-                        </div>
-                        <div class="flex items-center gap-0.5 shrink-0 text-[10px] text-slate-400">
-                            <button id="quotePrevBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1 py-0.5 rounded transition-colors" title="Previous quote / 上一句"><i class="fa-solid fa-chevron-up"></i></button>
-                            <button id="quoteNextBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1 py-0.5 rounded transition-colors" title="Next quote / 下一句"><i class="fa-solid fa-chevron-down"></i></button>
-                        </div>
+        <div class="max-w-7xl mx-auto px-3 sm:px-4 py-2 sm:py-2.5 flex flex-col gap-2 w-full">
+            <!-- Top Row: App Title & Primary Controls -->
+            <div class="flex flex-col lg:flex-row lg:justify-between lg:items-center gap-2.5 w-full">
+                <!-- Left: Icon + Title + Badges + Subtitle -->
+                <div class="flex items-center space-x-3 min-w-0">
+                    <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-blue-500/30 shrink-0">
+                        <i class="fa-solid fa-chart-line"></i>
+                    </div>
+                    <div class="min-w-0">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight text-white flex flex-wrap items-center gap-2">
+                            <span>Financial & OpEx Strategic Dashboard</span>
+                            <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2 py-0.5 rounded-full font-medium whitespace-nowrap" data-i18n="badge_workflow">One-Click Workflow</span>
+                            <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
+                                <i class="fa-solid fa-code-branch text-[10px]"></i> v3.5.1
+                            </span>
+                            <span class="text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-2 py-0.5 rounded-full font-normal inline-flex items-center gap-1 whitespace-nowrap">
+                                <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-04</span>
+                            </span>
+                            <a href="https://www.linkedin.com/in/masatu19810322/" target="_blank" rel="noopener noreferrer" class="text-xs bg-[#0A66C2]/20 hover:bg-[#0A66C2]/35 border border-[#0A66C2]/40 text-blue-200 hover:text-white px-2.5 py-0.5 rounded-full font-semibold inline-flex items-center gap-1.5 shadow-sm transition-all whitespace-nowrap" title="LinkedIn: Masa Tu | Too Sin-Liong">
+                                <i class="fa-brands fa-linkedin text-[#0A66C2] text-xs"></i>
+                                <span>Masa Tu</span>
+                            </a>
+                        </h1>
+                        <p class="text-xs text-slate-400 hidden sm:block truncate" data-i18n="header_subtitle">Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment</p>
                     </div>
                 </div>
-            </div>
-            
-            <!-- Quick Actions, User Guide & Language Switcher -->
-            <div class="flex flex-wrap items-center gap-1.5 sm:gap-2 w-full xl:w-auto shrink-0 justify-start xl:justify-end">
+                
+                <!-- Quick Actions, User Guide & Language Switcher -->
+                <div class="flex flex-wrap items-center gap-1.5 sm:gap-2 shrink-0 justify-start lg:justify-end">
                 <!-- Frequency Switcher (Annual 10-K vs Quarterly 10-Q) -->
                 <div class="bg-slate-700/90 border border-slate-600 p-1 rounded-lg flex items-center shadow-inner">
                     <button id="freqAnnualBtn" class="bg-blue-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold shadow transition-all flex items-center gap-1">
@@ -130,6 +116,24 @@
                 </button>
             </div>
         </div>
+
+        <!-- Bottom Row: Financial & Investment Wisdom Quotes Vertical Marquee (Full width, perfectly spacious) -->
+        <div class="flex items-center gap-2 overflow-hidden rounded-lg bg-slate-900/60 border border-slate-700/70 px-3 py-1 text-xs text-slate-300 shadow-inner w-full" id="financeQuotesMarqueeContainer">
+            <div class="flex items-center gap-1.5 text-amber-400 font-semibold shrink-0 text-xs">
+                <i class="fa-solid fa-quote-left text-amber-400 text-xs"></i>
+                <span class="font-bold tracking-wider" data-i18n="quotes_badge">WISDOM:</span>
+            </div>
+            <div class="relative h-6 overflow-hidden flex-1 cursor-pointer select-none" id="financeQuotesMarquee" title="Click to view next quote / 點擊切換下一句">
+                <div id="financeQuotesList" class="transition-transform duration-500 ease-in-out text-xs">
+                    <!-- Populated dynamically by initFinanceQuotesMarquee() -->
+                </div>
+            </div>
+            <div class="flex items-center gap-1 shrink-0 text-xs text-slate-400">
+                <button id="quotePrevBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1.5 py-0.5 rounded transition-colors" title="Previous quote / 上一句"><i class="fa-solid fa-chevron-up"></i></button>
+                <button id="quoteNextBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1.5 py-0.5 rounded transition-colors" title="Next quote / 下一句"><i class="fa-solid fa-chevron-down"></i></button>
+            </div>
+        </div>
+    </div>
 
         <!-- Navigation Tabs: Single Deep Dive vs Multi-Company Benchmark vs Industry Strategic Insights -->
         <div class="max-w-7xl mx-auto px-4 flex space-x-1 border-t border-slate-700/60 pt-1 bg-slate-800/90 overflow-x-auto">
