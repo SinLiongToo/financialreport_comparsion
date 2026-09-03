@@ -657,6 +657,15 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.5.0 (2026-09-04)**：
+  - **新增全球無線通訊與邊緣 AI 晶片龍頭 高通 (Qualcomm Incorporated / NASDAQ: QCOM / 美國 🇺🇸) 審計基準庫與深度戰略分析**：
+    - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年達 $38,962M 營收、56.21% 毛利率與 $10,071M 營業利益，以及 2025 年受惠於 Snapdragon 8 Elite 旗艦手機 SoC、Snapdragon X Elite AI PC 處理器與車用 Snapdragon Digital Chassis 全面爆發，年營收攀升至 $44,284M（年增 +14%）、$24,546M 毛利、55.43% 毛利率與 $12,360M 營業利益（營利率 27.91%）。
+    - **四大核心事業群分拆 (Sales Breakdown / Chart 6)**：QCT 手機晶片 (Handsets ~63%-67%)、QCT 邊緣聯網與物聯網 (IoT & AI PC ~14%-17%)、QCT 車用電子 (Automotive ~5%-9%) 與 QTL 專利技術授權 (Licensing ~12%-21%)。
+    - **營運槓桿與人均產值 (The Pivot & Productivity)**：全球團隊規模穩定於 4.9 萬～5.2 萬人，年研發支出高達 $8,893M～$9,042M（佔營收 20.4%～22.8%），人均營收達 $795k～$852k USD、人均毛利達 $447k～$472k USD，具備全球頂尖之晶片設計與 IP 護城河。
+    - **季度數據 (Quarterly 12 期)**：完整收錄 2023 Q1 至 2025 Q4 季度營收、毛利、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `qcom <-> qualcomm <-> qualcomm-inc <-> qualcomm-incorporated` 全自動解析與 100% 前後端同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.5.0`。
+
 - **v3.4.3 (2026-09-03)**：
   - **修復手機與平板橫向螢幕 (Landscape) 下財務投資金句跑馬燈被隱藏問題**：
     - 優化淺型橫向螢幕 (Shallow Landscape) 樣式，解除 `#financeQuotesMarqueeContainer` 之 `display: none` 限制，改採緊湊單行跑馬燈排版（微調 padding/margin）。
@@ -1054,6 +1063,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.5.0 - feat: integrate Qualcomm (QCOM) 6-year audited financial reports, Snapdragon segments breakdown, and quarterly analytics
 * commit v3.4.3 - fix: restore financial quotes marquee in mobile landscape mode with compact single-line styling
 * commit v3.4.2 - feat: integrate Analog Devices (ADI) 6-year audited financial reports, end-market sales breakdown, and quarterly analytics
 * commit v3.4.1 - fix: optimize mobile layout by eliminating top bar horizontal overflow and making Plotly chart legends responsive on mobile screens

@@ -1,0 +1,303 @@
+{
+  "company_name": "Qualcomm Incorporated (QCOM / 高通)",
+  "ticker": "QCOM",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 23531.0,
+      "cogs": 10707.0,
+      "gross_profit": 12824.0,
+      "gross_margin": 54.5,
+      "operating_income": 6255.0,
+      "operating_margin": 26.58,
+      "net_income": 5198.0,
+      "net_margin": 22.09,
+      "rd_expense": 5975.0,
+      "rd_pct_rev": 25.39,
+      "headcount": 41000,
+      "rev_per_emp": 573927.0,
+      "gp_per_emp": 312780.0,
+      "op_per_emp": 152561.0,
+      "ni_per_emp": 126780.0,
+      "rd_per_emp": 145732.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 33566.0,
+      "cogs": 14847.0,
+      "gross_profit": 18719.0,
+      "gross_margin": 55.77,
+      "operating_income": 9789.0,
+      "operating_margin": 29.16,
+      "net_income": 9043.0,
+      "net_margin": 26.94,
+      "rd_expense": 7176.0,
+      "rd_pct_rev": 21.38,
+      "headcount": 45000,
+      "rev_per_emp": 745911.0,
+      "gp_per_emp": 415978.0,
+      "op_per_emp": 217533.0,
+      "ni_per_emp": 200956.0,
+      "rd_per_emp": 159467.0,
+      "rev_growth_yoy": 42.65,
+      "gp_growth_yoy": 45.97,
+      "op_growth_yoy": 56.5,
+      "ni_growth_yoy": 73.97,
+      "rd_growth_yoy": 20.1,
+      "hc_growth_yoy": 9.76,
+      "gm_diff_pp": 1.27,
+      "op_diff_pp": 2.58
+    },
+    "2022": {
+      "revenue": 44200.0,
+      "cogs": 18941.0,
+      "gross_profit": 25259.0,
+      "gross_margin": 57.15,
+      "operating_income": 15860.0,
+      "operating_margin": 35.88,
+      "net_income": 12936.0,
+      "net_margin": 29.27,
+      "rd_expense": 8194.0,
+      "rd_pct_rev": 18.54,
+      "headcount": 51000,
+      "rev_per_emp": 866667.0,
+      "gp_per_emp": 495275.0,
+      "op_per_emp": 310980.0,
+      "ni_per_emp": 253647.0,
+      "rd_per_emp": 160667.0,
+      "rev_growth_yoy": 31.68,
+      "gp_growth_yoy": 34.94,
+      "op_growth_yoy": 62.02,
+      "ni_growth_yoy": 43.05,
+      "rd_growth_yoy": 14.19,
+      "hc_growth_yoy": 13.33,
+      "gm_diff_pp": 1.38,
+      "op_diff_pp": 6.72
+    },
+    "2023": {
+      "revenue": 35820.0,
+      "cogs": 15869.0,
+      "gross_profit": 19951.0,
+      "gross_margin": 55.7,
+      "operating_income": 7788.0,
+      "operating_margin": 21.74,
+      "net_income": 7232.0,
+      "net_margin": 20.19,
+      "rd_expense": 8818.0,
+      "rd_pct_rev": 24.62,
+      "headcount": 50000,
+      "rev_per_emp": 716400.0,
+      "gp_per_emp": 399020.0,
+      "op_per_emp": 155760.0,
+      "ni_per_emp": 144640.0,
+      "rd_per_emp": 176360.0,
+      "rev_growth_yoy": -18.96,
+      "gp_growth_yoy": -21.01,
+      "op_growth_yoy": -50.9,
+      "ni_growth_yoy": -44.09,
+      "rd_growth_yoy": 7.62,
+      "hc_growth_yoy": -1.96,
+      "gm_diff_pp": -1.45,
+      "op_diff_pp": -14.14
+    },
+    "2024": {
+      "revenue": 38962.0,
+      "cogs": 17060.0,
+      "gross_profit": 21902.0,
+      "gross_margin": 56.21,
+      "operating_income": 10071.0,
+      "operating_margin": 25.85,
+      "net_income": 10142.0,
+      "net_margin": 26.03,
+      "rd_expense": 8893.0,
+      "rd_pct_rev": 22.82,
+      "headcount": 49000,
+      "rev_per_emp": 795143.0,
+      "gp_per_emp": 446980.0,
+      "op_per_emp": 205531.0,
+      "ni_per_emp": 206980.0,
+      "rd_per_emp": 181490.0,
+      "rev_growth_yoy": 8.77,
+      "gp_growth_yoy": 9.78,
+      "op_growth_yoy": 29.31,
+      "ni_growth_yoy": 40.24,
+      "rd_growth_yoy": 0.85,
+      "hc_growth_yoy": -2.0,
+      "gm_diff_pp": 0.51,
+      "op_diff_pp": 4.11
+    },
+    "2025": {
+      "revenue": 44284.0,
+      "cogs": 19738.0,
+      "gross_profit": 24546.0,
+      "gross_margin": 55.43,
+      "operating_income": 12360.0,
+      "operating_margin": 27.91,
+      "net_income": 5540.0,
+      "net_margin": 12.51,
+      "rd_expense": 9042.0,
+      "rd_pct_rev": 20.42,
+      "headcount": 52000,
+      "rev_per_emp": 851615.0,
+      "gp_per_emp": 472038.0,
+      "op_per_emp": 237692.0,
+      "ni_per_emp": 106538.0,
+      "rd_per_emp": 173885.0,
+      "rev_growth_yoy": 13.66,
+      "gp_growth_yoy": 12.07,
+      "op_growth_yoy": 22.73,
+      "ni_growth_yoy": -45.38,
+      "rd_growth_yoy": 1.68,
+      "hc_growth_yoy": 6.12,
+      "gm_diff_pp": -0.78,
+      "op_diff_pp": 2.06
+    }
+  },
+  "sales_breakdown": {
+    "categories": [
+      "QCT Handsets (Snapdragon Mobile SoC & Modems)",
+      "QCT IoT (AI PC, XR, Edge Networking & Industrial)",
+      "QCT Automotive (Snapdragon Digital Chassis & ADAS)",
+      "QTL (Technology Licensing)",
+      "Other / QSI"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          12800.0,
+          2300.0,
+          1390.0,
+          5041.0,
+          0.0
+        ],
+        "volume": [
+          54.4,
+          9.8,
+          5.9,
+          21.4,
+          0.0
+        ]
+      },
+      "2021": {
+        "value": [
+          20939.0,
+          5060.0,
+          1020.0,
+          6323.0,
+          224.0
+        ],
+        "volume": [
+          62.4,
+          15.1,
+          3.0,
+          18.8,
+          0.7
+        ]
+      },
+      "2022": {
+        "value": [
+          29742.0,
+          6700.0,
+          1400.0,
+          6358.0,
+          0.0
+        ],
+        "volume": [
+          67.3,
+          15.2,
+          3.2,
+          14.4,
+          0.0
+        ]
+      },
+      "2023": {
+        "value": [
+          22570.0,
+          5940.0,
+          1870.0,
+          5310.0,
+          130.0
+        ],
+        "volume": [
+          63.0,
+          16.6,
+          5.2,
+          14.8,
+          0.4
+        ]
+      },
+      "2024": {
+        "value": [
+          24860.0,
+          5420.0,
+          2910.0,
+          5570.0,
+          202.0
+        ],
+        "volume": [
+          63.8,
+          13.9,
+          7.5,
+          14.3,
+          0.5
+        ]
+      },
+      "2025": {
+        "value": [
+          27790.0,
+          6620.0,
+          3960.0,
+          5580.0,
+          334.0
+        ],
+        "volume": [
+          62.8,
+          14.9,
+          8.9,
+          12.6,
+          0.8
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Qualcomm Incorporated (QCOM / 高通) workforce reported at 52,000 FTEs with GAAP Gross Margin at 55.43%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $851,615/FTE in revenue and $472,038/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M12,360 (27.91% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M9,042 (20.42% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 13.66% compared to headcount change of 6.12% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Qualcomm Incorporated (QCOM / 高通) 官方審計員工數為 52,000 人，GAAP 毛利率為 55.43%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $851,615/人，人均毛利為 $472,038/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M12,360（營業利益率 27.91%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M9,042（佔營收 20.42%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 13.66%，員工人數年增率為 6.12%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  }
+}

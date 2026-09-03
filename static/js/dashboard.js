@@ -154,6 +154,8 @@ const SCATTER_METRICS = {
 };
 
 const COMPANY_COLORS = {
+    "qcom": "#3253DC",
+    "qualcomm": "#3253DC",
     "sk-hynix": "#E11D48",
     "hynix": "#E11D48",
     "000660": "#E11D48",
@@ -539,6 +541,8 @@ const COMPANY_SECTORS = {
     "nvda": "FABLESS",
     "amd": "FABLESS",
     "mediatek": "FABLESS",
+    "qcom": "FABLESS",
+    "qualcomm": "FABLESS",
     "2454": "FABLESS",
     "avgo": "FABLESS",
     "broadcom": "FABLESS",
@@ -671,6 +675,10 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "qcom": "qcom",
+    "qualcomm": "qcom",
+    "qualcomm-inc": "qcom",
+    "qualcomm-incorporated": "qcom",
     "000660": "sk-hynix",
     "000660.ks": "sk-hynix",
     "005930": "samsung",
@@ -911,7 +919,7 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-03",
+        header_updated: "Updated: 2026-09-04",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -1054,7 +1062,7 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-03",
+        header_updated: "更新日期：2026-09-04",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -2420,7 +2428,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2504,6 +2512,8 @@ async function loadCompaniesList() {
                 "2379": "Realtek Semiconductor (2379 / 瑞昱半導體)",
                 "RTK": "Realtek Semiconductor (2379 / 瑞昱半導體)",
 
+                "QCOM": "Qualcomm (QCOM / 高通)",
+                "QUALCOMM": "Qualcomm (QCOM / 高通)",
                 "NVDA": "NVIDIA Corporation",
                 "ARM": "Arm Holdings plc (ARM)",
                 "FOXCONN": "Hon Hai / Foxconn (2317 / HNHPF)",
