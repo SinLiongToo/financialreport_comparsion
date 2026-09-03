@@ -657,6 +657,17 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.4.2 (2026-09-03)**：
+  - **新增全球高效能類比晶片龍頭 亞德諾半導體 (Analog Devices, Inc. / NASDAQ: ADI / 美國 🇺🇸) 審計基準庫與深度戰略分析**：
+    - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2021 年完成併購美信 (Maxim Integrated) 後營收自 $5,627.5M 躍升至 $12,014.0M (2022) 及 $12,305.5M (2023)，2024 年庫存調整後於 2025 年強勁復甦至 $11,019.7M 營收、61.47% 高毛利率、26.60% 營業利益率與 $2,267.3M 淨利。
+    - **四大終端市場業務分拆 (Sales Breakdown / Chart 6)**：工業自動化與儀器航太 (Industrial ~45%-55%)、車用電池管理與 ADAS (Automotive ~24%-30%)、通訊基礎設施與光通訊 (Communications ~12%-21%)、消費性電子與音訊 (Consumer ~10%-13%)。
+    - **營運槓桿與人均產值 (The Pivot & Productivity)**：全球團隊規模穩定於 2.4 萬～2.45 萬人，人均營收達 $450k～$500k USD、人均毛利達 $276k～$320k USD，展現其在高複雜度信號鏈、電源 IC 與車用無線電池管理系統 (wBMS) 的頂級定價話語權。
+    - **五級精益營運成熟度 (Level 5 Hybrid Fab-Lite)**：結合內部晶圓廠 (Beaverton, Camas, Limerick) 與台積電 12 吋晶圓代工，具備超過 75,000 種料號之龐大產品庫與高韌性抗週期架構。
+    - **季度數據 (Quarterly 12 期)**：完整收錄 2023 Q1 至 2025 Q4 季度營收、毛利、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `adi <-> analog-devices <-> analog-devices-inc <-> analog-devices-incorporated` 全自動解析與 100% 前後端同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.4.2`。
+
+
 - **v2.9.0 (2026-09-01)**：
   - **新增台灣網通與音訊 IC 龍頭 瑞昱半導體 (Realtek Semiconductor Corp. / 2379.TW) 審計基準庫與戰略分析**：
     - **5 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年達 NT$ 1,133.9 億（約 $3,543.6M USD）營收、50.4% 高毛利率、11.9% 營業利益率與 $477.8M 淨利（年增 +67.1%），以及 7,850 名員工與高達 29.6% 營收之高強度研發再投資。
@@ -1037,6 +1048,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.4.2 - feat: integrate Analog Devices (ADI) 6-year audited financial reports, end-market sales breakdown, and quarterly analytics
 * commit v3.4.1 - fix: optimize mobile layout by eliminating top bar horizontal overflow and making Plotly chart legends responsive on mobile screens
 * commit v3.4.0 - feat: add 1-click collapse/expand for company selector grid and update AGENTS.md rules and financial-report-multiformat-analyzer skill
 * commit v3.3.1 - fix: eliminate duplicate company rows in peer benchmark matrix by fully synchronizing TICKER_CANONICAL_MAP and adding dual-layer deduplication

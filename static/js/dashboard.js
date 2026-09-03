@@ -238,6 +238,10 @@ const COMPANY_COLORS = {
     "lam-research": "#0284C7",
     "lam-research-corp": "#0284C7",
     "lam-research-corporation": "#0284C7",
+    "adi": "#00A3E0",
+    "analog-devices": "#00A3E0",
+    "analog-devices-inc": "#00A3E0",
+    "analog-devices-incorporated": "#00A3E0",
     "txn": "#CC0000",
     "ti": "#CC0000",
     "texas-instruments": "#CC0000",
@@ -393,6 +397,10 @@ const COMPANY_COUNTRIES = {
     "6857": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
     "samsung": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" },
     "005930": { en: "South Korea 🇰🇷", zh: "南韓 🇰🇷", code: "KR" },
+    "adi": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "analog-devices": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "analog-devices-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "analog-devices-incorporated": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "txn": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "ti": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "texas-instruments": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
@@ -511,6 +519,10 @@ const COMPANY_SECTORS = {
     "samsung": "FOUNDRY",
     "infineon": "FOUNDRY",
     "vsh": "FOUNDRY",
+    "adi": "FOUNDRY",
+    "analog-devices": "FOUNDRY",
+    "analog-devices-inc": "FOUNDRY",
+    "analog-devices-incorporated": "FOUNDRY",
     "txn": "FOUNDRY",
     "ti": "FOUNDRY",
     "texas-instruments": "FOUNDRY",
@@ -695,6 +707,10 @@ const TICKER_CANONICAL_MAP = {
     "6857": "advantest",
     "a": "agilent",
     "aapl": "aapl",
+    "adi": "adi",
+    "analog-devices": "adi",
+    "analog-devices-inc": "adi",
+    "analog-devices-incorporated": "adi",
     "advanced-micro-devices": "amd",
     "advanced-micro-devices-inc": "amd",
     "advantest": "advantest",
@@ -895,7 +911,7 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-02",
+        header_updated: "Updated: 2026-09-03",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -1038,7 +1054,7 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-02",
+        header_updated: "更新日期：2026-09-03",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -2404,7 +2420,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2466,6 +2482,9 @@ async function loadCompaniesList() {
                 "LRCX": "Lam Research (LRCX / 科林研發)",
                 "LAM-RESEARCH": "Lam Research (LRCX / 科林研發)",
                 "LAM-RESEARCH-CORP": "Lam Research (LRCX / 科林研發)",
+                "ADI": "Analog Devices (ADI / 亞德諾半導體)",
+                "ANALOG-DEVICES": "Analog Devices (ADI / 亞德諾半導體)",
+                "ANALOG-DEVICES-INC": "Analog Devices (ADI / 亞德諾半導體)",
                 "TXN": "Texas Instruments (TXN / 德州儀器)",
                 "TI": "Texas Instruments (TXN / 德州儀器)",
                 "TEXAS-INSTRUMENTS": "Texas Instruments (TXN / 德州儀器)",

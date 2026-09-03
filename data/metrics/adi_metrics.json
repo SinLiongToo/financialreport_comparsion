@@ -1,0 +1,328 @@
+{
+  "company_name": "Analog Devices, Inc. (ADI / 亞德諾半導體)",
+  "ticker": "ADI",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 5627.5,
+      "cogs": 2185.0,
+      "gross_profit": 3442.5,
+      "gross_margin": 61.17,
+      "operating_income": 1162.0,
+      "operating_margin": 20.65,
+      "net_income": 1224.2,
+      "net_margin": 21.75,
+      "rd_expense": 1159.0,
+      "rd_pct_rev": 20.6,
+      "headcount": 15900,
+      "rev_per_emp": 353931.0,
+      "gp_per_emp": 216509.0,
+      "op_per_emp": 73082.0,
+      "ni_per_emp": 76994.0,
+      "rd_per_emp": 72893.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 7321.3,
+      "cogs": 2796.3,
+      "gross_profit": 4525.0,
+      "gross_margin": 61.81,
+      "operating_income": 1692.2,
+      "operating_margin": 23.11,
+      "net_income": 1390.4,
+      "net_margin": 18.99,
+      "rd_expense": 1348.0,
+      "rd_pct_rev": 18.41,
+      "headcount": 24700,
+      "rev_per_emp": 296409.0,
+      "gp_per_emp": 183198.0,
+      "op_per_emp": 68510.0,
+      "ni_per_emp": 56291.0,
+      "rd_per_emp": 54575.0,
+      "rev_growth_yoy": 30.1,
+      "gp_growth_yoy": 31.45,
+      "op_growth_yoy": 45.63,
+      "ni_growth_yoy": 13.58,
+      "rd_growth_yoy": 16.31,
+      "hc_growth_yoy": 55.35,
+      "gm_diff_pp": 0.64,
+      "op_diff_pp": 2.46
+    },
+    "2022": {
+      "revenue": 12014.0,
+      "cogs": 4481.5,
+      "gross_profit": 7532.5,
+      "gross_margin": 62.7,
+      "operating_income": 3745.0,
+      "operating_margin": 31.17,
+      "net_income": 3277.6,
+      "net_margin": 27.28,
+      "rd_expense": 1617.9,
+      "rd_pct_rev": 13.47,
+      "headcount": 24450,
+      "rev_per_emp": 491370.0,
+      "gp_per_emp": 308078.0,
+      "op_per_emp": 153170.0,
+      "ni_per_emp": 134053.0,
+      "rd_per_emp": 66172.0,
+      "rev_growth_yoy": 64.1,
+      "gp_growth_yoy": 66.46,
+      "op_growth_yoy": 121.31,
+      "ni_growth_yoy": 135.73,
+      "rd_growth_yoy": 20.02,
+      "hc_growth_yoy": -1.01,
+      "gm_diff_pp": 0.89,
+      "op_diff_pp": 8.06
+    },
+    "2023": {
+      "revenue": 12305.5,
+      "cogs": 4428.3,
+      "gross_profit": 7877.2,
+      "gross_margin": 64.01,
+      "operating_income": 3812.2,
+      "operating_margin": 30.98,
+      "net_income": 3334.3,
+      "net_margin": 27.1,
+      "rd_expense": 1746.4,
+      "rd_pct_rev": 14.19,
+      "headcount": 26000,
+      "rev_per_emp": 473288.0,
+      "gp_per_emp": 302969.0,
+      "op_per_emp": 146623.0,
+      "ni_per_emp": 128242.0,
+      "rd_per_emp": 67169.0,
+      "rev_growth_yoy": 2.43,
+      "gp_growth_yoy": 4.58,
+      "op_growth_yoy": 1.79,
+      "ni_growth_yoy": 1.73,
+      "rd_growth_yoy": 7.94,
+      "hc_growth_yoy": 6.34,
+      "gm_diff_pp": 1.31,
+      "op_diff_pp": -0.19
+    },
+    "2024": {
+      "revenue": 9427.2,
+      "cogs": 4045.9,
+      "gross_profit": 5381.3,
+      "gross_margin": 57.08,
+      "operating_income": 2032.8,
+      "operating_margin": 21.56,
+      "net_income": 1632.7,
+      "net_margin": 17.32,
+      "rd_expense": 1749.2,
+      "rd_pct_rev": 18.55,
+      "headcount": 24000,
+      "rev_per_emp": 392800.0,
+      "gp_per_emp": 224221.0,
+      "op_per_emp": 84700.0,
+      "ni_per_emp": 68029.0,
+      "rd_per_emp": 72883.0,
+      "rev_growth_yoy": -23.39,
+      "gp_growth_yoy": -31.69,
+      "op_growth_yoy": -46.68,
+      "ni_growth_yoy": -51.03,
+      "rd_growth_yoy": 0.16,
+      "hc_growth_yoy": -7.69,
+      "gm_diff_pp": -6.93,
+      "op_diff_pp": -9.42
+    },
+    "2025": {
+      "revenue": 11019.7,
+      "cogs": 4246.2,
+      "gross_profit": 6773.5,
+      "gross_margin": 61.47,
+      "operating_income": 2931.2,
+      "operating_margin": 26.6,
+      "net_income": 2267.3,
+      "net_margin": 20.57,
+      "rd_expense": 1873.3,
+      "rd_pct_rev": 17.0,
+      "headcount": 24500,
+      "rev_per_emp": 449784.0,
+      "gp_per_emp": 276469.0,
+      "op_per_emp": 119641.0,
+      "ni_per_emp": 92543.0,
+      "rd_per_emp": 76461.0,
+      "rev_growth_yoy": 16.89,
+      "gp_growth_yoy": 25.87,
+      "op_growth_yoy": 44.2,
+      "ni_growth_yoy": 38.87,
+      "rd_growth_yoy": 7.09,
+      "hc_growth_yoy": 2.08,
+      "gm_diff_pp": 4.39,
+      "op_diff_pp": 5.04
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Industrial (工業自動化/儀器與航太)",
+      "Automotive (車用/電池管理BMS與ADAS)",
+      "Communications (5G通訊基礎設施與光通訊)",
+      "Consumer (消費性電子/可穿戴與高階音訊)"
+    ],
+    "colors": [
+      "#0284C7",
+      "#10B981",
+      "#F59E0B",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          2987.0,
+          796.0,
+          1180.0,
+          664.5
+        ],
+        "volume": [
+          53.1,
+          14.1,
+          21.0,
+          11.8
+        ]
+      },
+      "2021": {
+        "value": [
+          4027.0,
+          1248.0,
+          1207.0,
+          839.3
+        ],
+        "volume": [
+          55.0,
+          17.0,
+          16.5,
+          11.5
+        ]
+      },
+      "2022": {
+        "value": [
+          6069.0,
+          2516.0,
+          1881.0,
+          1548.0
+        ],
+        "volume": [
+          50.5,
+          20.9,
+          15.7,
+          12.9
+        ]
+      },
+      "2023": {
+        "value": [
+          6565.0,
+          2910.0,
+          1589.0,
+          1241.5
+        ],
+        "volume": [
+          53.3,
+          23.6,
+          12.9,
+          10.1
+        ]
+      },
+      "2024": {
+        "value": [
+          4290.0,
+          2842.0,
+          1094.0,
+          1201.2
+        ],
+        "volume": [
+          45.5,
+          30.1,
+          11.6,
+          12.7
+        ]
+      },
+      "2025": {
+        "value": [
+          4931.0,
+          3298.0,
+          1394.0,
+          1396.7
+        ],
+        "volume": [
+          44.7,
+          29.9,
+          12.7,
+          12.7
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Analog Devices, Inc. (ADI / 亞德諾半導體) workforce reported at 24,500 FTEs with GAAP Gross Margin at 61.47%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $449,784/FTE in revenue and $276,469/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M2,931 (26.6% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M1,873 (17.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 16.89% compared to headcount change of 2.08% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Analog Devices, Inc. (ADI / 亞德諾半導體) 官方審計員工數為 24,500 人，GAAP 毛利率為 61.47%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $449,784/人，人均毛利為 $276,469/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M2,931（營業利益率 26.6%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M1,873（佔營收 17.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 16.89%，員工人數年增率為 2.08%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "rating": "Level 5 (Hybrid Fab-Lite Strategic Autonomy & Precision Signal Chain Dominance)",
+    "description": "ADI employs a resilient Fab-Lite hybrid manufacturing model combining internal specialty wafer fabs (Beaverton, Camas, Limerick) with top-tier foundry partnerships (TSMC 300mm), ensuring 75,000+ proprietary SKUs and multi-decade customer longevity.",
+    "ladder": [
+      {
+        "level": 1,
+        "name": "Standard Signal Chain Components",
+        "desc": "Commodity op-amps and discrete converters with standard foundry fabrication."
+      },
+      {
+        "level": 2,
+        "name": "Multi-Market Catalog Scale",
+        "desc": "Extensive catalog with 40,000+ SKUs across industrial and instrumentation customers."
+      },
+      {
+        "level": 3,
+        "name": "Maxim Integrated Synergies",
+        "desc": "Merged Maxim power management with ADI signal processing, creating industry-leading analog portfolio."
+      },
+      {
+        "level": 4,
+        "name": "Smart Edge & Automotive BMS Leadership",
+        "desc": "Wireless BMS (wBMS) and intelligent edge sensing deployed across global tier-1 automotive OEMs."
+      },
+      {
+        "level": 5,
+        "name": "Hybrid Fab-Lite Strategic Autonomy",
+        "desc": "Unmatched operational resilience through multi-fab geographic diversity, TSMC strategic packaging, and cognitive system-level co-design."
+      }
+    ]
+  }
+}
