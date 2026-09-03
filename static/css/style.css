@@ -414,9 +414,12 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
 }
 
 
-/* ========================================================================= */
-/* MOBILE & RESPONSIVE PLOTLY LAYOUT OPTIMIZATION                            */
-/* ========================================================================= */
+@media (max-width: 1024px) {
+    #companySelect {
+        max-width: 145px !important;
+    }
+}
+
 @media (max-width: 767px) {
     html, body {
         overflow-x: hidden !important;
@@ -436,6 +439,17 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
         transform-origin: top left;
     }
     #companySelect {
-        max-width: 150px !important;
+        max-width: 135px !important;
     }
 }
+
+/* Shallow Landscape Screen Optimization (e.g. mobile turned sideways) */
+@media (max-height: 550px) and (orientation: landscape) {
+    header {
+        position: static !important; /* free up vertical screen space on shallow landscape */
+    }
+    #financeQuotesMarqueeContainer {
+        display: none !important;
+    }
+}
+
