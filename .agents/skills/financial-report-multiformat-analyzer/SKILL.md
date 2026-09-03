@@ -285,9 +285,22 @@ When user triggers Fullscreen Zoom on Chart 6:
 
 ---
 
-## 7. Collapsible Selector UX & Strategic Insights Repository Standard
+## 9. Collapsible Selector UX & Strategic Insights Repository Standard
 
 1. **Collapsible Multi-Entity Selector (`#compareGridCollapsibleBody`)**:
-   - Offers 1-click collapse (`#toggleCompareGridBtn`) to conceal the 52-company card matrix and focus user view on comparative charts and tables.
+   - Offers 1-click collapse (`#toggleCompareGridBtn`) to conceal the 54-company card matrix and focus user view on comparative charts and tables.
 2. **Industry Strategic Insights & Notes Archive (`#insightsViewContainer`)**:
    - Archives qualitative and quantitative findings with live keyword search and 1-click Markdown copying for LLMs.
+
+---
+
+## 10. Ultra-Wide Layout Standard & Dual-Tier Responsive Header Architecture (`max-w-[1720px]`)
+
+1. **Max Canvas Expansion (`max-w-[1720px]`)**:
+   - Eliminates restrictive `max-w-7xl` (1280px) bounding boxes that waste screen real estate on 1080p, 1440p, 4K, and 21:9 Ultrawide displays.
+   - All primary containers (`<header>`, `<nav>`, `<main>`, inspection modals) strictly use `max-w-[1720px] mx-auto px-3 sm:px-6 lg:px-8`.
+2. **Two-Tier Header Hierarchy**:
+   - **Row 1 (Branding & Status)**: Left features Title + Subtitle; Right features Status Badges (`One-Click Workflow`, `vX.X.X`, `Updated: YYYY-MM-DD`, `Masa Tu` LinkedIn) with `whitespace-nowrap`.
+   - **Row 2 (Controls & Wisdom)**: Left features Financial Wisdom Marquee (`#financeQuotesMarqueeContainer` with `flex-1 min-w-[280px]`); Right features Action Controls Bar (`[Annual | Quarterly]`, `Theme`, `Help`, `Language`, `Company Select`, `Reload`).
+3. **Cross-Screen & Shallow Landscape Adaptation**:
+   - Guarantees continuous visibility of the Financial Wisdom Marquee across portrait mobile, landscape mobile, and high-resolution desktop terminals.

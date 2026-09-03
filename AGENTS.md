@@ -141,3 +141,20 @@
   - Live category pills filter (`#insightsCategoryPills`).
   - Instant keyword search input (`#insightsSearchInput`).
   - 1-Click Copy Note Markdown (`.copy-single-note-btn`) formatted for instant injection into Gemini / Claude / ChatGPT.
+
+---
+
+## 🖥️ 11. Ultra-Wide Layout Standard & High-Resolution Canvas Directive (`max-w-[1720px]`) (超寬螢幕滿版畫布與響應式雙層導覽列規範)
+
+- **Ultra-Wide High-Resolution Canvas Guarantee (`max-w-[1720px]`)**:
+  - **Prohibition of Narrow Containers**: Do NOT use Tailwind's default `max-w-7xl` (1280px) on root wrappers, which causes substantial empty black borders on modern 1080p, 1440p, 4K, and 21:9 Ultrawide monitors and squishes the 6 Plotly charts and KPI cards.
+  - **Standardized Root Width**: All main layout containers (`<header>`, navigation tabs bar, `<main>` content container, and modal inspection views) MUST strictly use `max-w-[1720px] w-full mx-auto px-3 sm:px-6 lg:px-8`.
+- **Dual-Tier Spacious Header Hierarchy (雙層舒展導覽列架構)**:
+  - **Row 1 (Branding, Subtitle & Status Badges)**:
+    - **Left**: Chart Icon + Main Title `Financial & OpEx Strategic Dashboard` + Subtitle (`Annual Reports Crawler ➔ Markdown Parser ➔ Productivity Alignment`).
+    - **Right**: Status Badges (`One-Click Workflow`, `vX.X.X`, `Updated: YYYY-MM-DD`, `Masa Tu` LinkedIn) with `whitespace-nowrap` to guarantee badges remain on a single line and never vertically collapse.
+  - **Row 2 (Financial Wisdom Quotes & Action Controls Bar)**:
+    - **Left**: Financial Wisdom Quotes Marquee (`#financeQuotesMarqueeContainer` with `flex-1 min-w-[280px]`) expanding across all available horizontal space so long quotes (Buffett, Munger, Huang, Chang, Graham) are fully readable without truncation.
+    - **Right**: Action Controls Bar (`[Annual (10-K) | Quarterly (10-Q)]`, `[Theme Toggle]`, `[User Guide & Help]`, `[Language Toggle]`, `[#companySelect]`, `[Reload]`).
+- **Cross-Screen Responsiveness & Landscape Marquee Preservation**:
+  - The marquee (`#financeQuotesMarqueeContainer`) MUST remain visible across desktop, mobile portrait, and shallow landscape (`orientation: landscape`) orientations with compact single-line styling.
