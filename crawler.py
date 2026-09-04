@@ -185,7 +185,17 @@ TICKER_SLUGS = {
     "shield-ai": ["shield-ai", "shieldai"],
     "shieldai": ["shield-ai", "shieldai"],
     "anduril": ["anduril-industries", "anduril"],
-    "anduril-industries": ["anduril-industries", "anduril"]
+    "anduril-industries": ["anduril-industries", "anduril"],
+    "tsla": ["tesla", "tsla", "tesla-motors"],
+    "tesla": ["tesla", "tsla", "tesla-motors"],
+    "tesla-motors": ["tesla", "tsla", "tesla-motors"],
+    "tesla-inc": ["tesla", "tsla", "tesla-motors"],
+    "renesas": ["renesas-electronics", "renesas", "6723", "rnecf"],
+    "renesas-electronics": ["renesas-electronics", "renesas", "6723", "rnecf"],
+    "renesas-electronics-corp": ["renesas-electronics", "renesas", "6723", "rnecf"],
+    "6723": ["renesas-electronics", "renesas", "6723", "rnecf"],
+    "6723.t": ["renesas-electronics", "renesas", "6723", "rnecf"],
+    "rnecf": ["renesas-electronics", "renesas", "6723", "rnecf"]
 };
 
 class AnnualReportCrawler:

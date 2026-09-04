@@ -1,0 +1,265 @@
+{
+  "company_name": "Tesla, Inc. (TSLA / 特斯拉)",
+  "ticker": "TSLA",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 31536.0,
+      "cogs": 24906.0,
+      "gross_profit": 6630.0,
+      "gross_margin": 21.02,
+      "operating_income": 1994.0,
+      "operating_margin": 6.32,
+      "net_income": 721.0,
+      "net_margin": 2.29,
+      "rd_expense": 1491.0,
+      "rd_pct_rev": 4.73,
+      "headcount": 70757,
+      "rev_per_emp": 445694.0,
+      "gp_per_emp": 93699.0,
+      "op_per_emp": 28181.0,
+      "ni_per_emp": 10190.0,
+      "rd_per_emp": 21072.0,
+      "rev_growth_yoy": 28.31,
+      "gp_growth_yoy": 62.94,
+      "op_growth_yoy": 300.0,
+      "ni_growth_yoy": 183.0,
+      "rd_growth_yoy": 11.0,
+      "hc_growth_yoy": 47.36,
+      "gm_diff_pp": 4.46,
+      "op_diff_pp": 6.55
+    },
+    "2021": {
+      "revenue": 53823.0,
+      "cogs": 40217.0,
+      "gross_profit": 13606.0,
+      "gross_margin": 25.28,
+      "operating_income": 6523.0,
+      "operating_margin": 12.12,
+      "net_income": 5519.0,
+      "net_margin": 10.25,
+      "rd_expense": 2593.0,
+      "rd_pct_rev": 4.82,
+      "headcount": 99298,
+      "rev_per_emp": 542035.0,
+      "gp_per_emp": 137022.0,
+      "op_per_emp": 65691.0,
+      "ni_per_emp": 55580.0,
+      "rd_per_emp": 26113.0,
+      "rev_growth_yoy": 70.67,
+      "gp_growth_yoy": 105.22,
+      "op_growth_yoy": 227.13,
+      "ni_growth_yoy": 665.46,
+      "rd_growth_yoy": 73.91,
+      "hc_growth_yoy": 40.34,
+      "gm_diff_pp": 4.26,
+      "op_diff_pp": 5.8
+    },
+    "2022": {
+      "revenue": 81462.0,
+      "cogs": 60609.0,
+      "gross_profit": 20853.0,
+      "gross_margin": 25.6,
+      "operating_income": 13656.0,
+      "operating_margin": 16.76,
+      "net_income": 12583.0,
+      "net_margin": 15.45,
+      "rd_expense": 3075.0,
+      "rd_pct_rev": 3.77,
+      "headcount": 127855,
+      "rev_per_emp": 637143.0,
+      "gp_per_emp": 163099.0,
+      "op_per_emp": 106808.0,
+      "ni_per_emp": 98416.0,
+      "rd_per_emp": 24051.0,
+      "rev_growth_yoy": 51.35,
+      "gp_growth_yoy": 53.26,
+      "op_growth_yoy": 109.35,
+      "ni_growth_yoy": 128.0,
+      "rd_growth_yoy": 18.59,
+      "hc_growth_yoy": 28.76,
+      "gm_diff_pp": 0.32,
+      "op_diff_pp": 4.64
+    },
+    "2023": {
+      "revenue": 96773.0,
+      "cogs": 79113.0,
+      "gross_profit": 17660.0,
+      "gross_margin": 18.25,
+      "operating_income": 8891.0,
+      "operating_margin": 9.19,
+      "net_income": 14997.0,
+      "net_margin": 15.5,
+      "rd_expense": 3969.0,
+      "rd_pct_rev": 4.1,
+      "headcount": 140473,
+      "rev_per_emp": 688908.0,
+      "gp_per_emp": 125718.0,
+      "op_per_emp": 63293.0,
+      "ni_per_emp": 106761.0,
+      "rd_per_emp": 28255.0,
+      "rev_growth_yoy": 18.79,
+      "gp_growth_yoy": -15.31,
+      "op_growth_yoy": -34.89,
+      "ni_growth_yoy": 19.18,
+      "rd_growth_yoy": 29.07,
+      "hc_growth_yoy": 9.87,
+      "gm_diff_pp": -7.35,
+      "op_diff_pp": -7.57
+    },
+    "2024": {
+      "revenue": 97698.0,
+      "cogs": 79766.0,
+      "gross_profit": 17932.0,
+      "gross_margin": 18.35,
+      "operating_income": 7078.0,
+      "operating_margin": 7.24,
+      "net_income": 7091.0,
+      "net_margin": 7.26,
+      "rd_expense": 4540.0,
+      "rd_pct_rev": 4.65,
+      "headcount": 121000,
+      "rev_per_emp": 807421.0,
+      "gp_per_emp": 148198.0,
+      "op_per_emp": 58496.0,
+      "ni_per_emp": 58603.0,
+      "rd_per_emp": 37521.0,
+      "rev_growth_yoy": 0.96,
+      "gp_growth_yoy": 1.54,
+      "op_growth_yoy": -20.39,
+      "ni_growth_yoy": -52.72,
+      "rd_growth_yoy": 14.39,
+      "hc_growth_yoy": -13.86,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": -1.95
+    },
+    "2025": {
+      "revenue": 109500.0,
+      "cogs": 88147.0,
+      "gross_profit": 21353.0,
+      "gross_margin": 19.5,
+      "operating_income": 9855.0,
+      "operating_margin": 9.0,
+      "net_income": 9308.0,
+      "net_margin": 8.5,
+      "rd_expense": 5365.0,
+      "rd_pct_rev": 4.9,
+      "headcount": 125000,
+      "rev_per_emp": 876000.0,
+      "gp_per_emp": 170824.0,
+      "op_per_emp": 78840.0,
+      "ni_per_emp": 74464.0,
+      "rd_per_emp": 42920.0,
+      "rev_growth_yoy": 12.08,
+      "gp_growth_yoy": 19.08,
+      "op_growth_yoy": 39.23,
+      "ni_growth_yoy": 31.26,
+      "rd_growth_yoy": 18.17,
+      "hc_growth_yoy": 3.31,
+      "gm_diff_pp": 1.15,
+      "op_diff_pp": 1.76
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Automotive (Vehicles, Credits & Lease)",
+      "Energy Storage & Generation (Megapack/Powerwall)",
+      "Services & Other (Supercharging, Parts, FSD Software)"
+    ],
+    "colors": [
+      "#E82127",
+      "#10B981",
+      "#3B82F6"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          27238,
+          1994,
+          2304
+        ],
+        "volume": [
+          86.4,
+          6.3,
+          7.3
+        ]
+      },
+      "2021": {
+        "value": [
+          47232,
+          2789,
+          3802
+        ],
+        "volume": [
+          87.8,
+          5.2,
+          7.0
+        ]
+      },
+      "2022": {
+        "value": [
+          71462,
+          3909,
+          6091
+        ],
+        "volume": [
+          87.7,
+          4.8,
+          7.5
+        ]
+      },
+      "2023": {
+        "value": [
+          82419,
+          6035,
+          8319
+        ],
+        "volume": [
+          85.2,
+          6.2,
+          8.6
+        ]
+      },
+      "2024": {
+        "value": [
+          77070,
+          10095,
+          10533
+        ],
+        "volume": [
+          78.9,
+          10.3,
+          10.8
+        ]
+      },
+      "2025": {
+        "value": [
+          84500,
+          13200,
+          11800
+        ],
+        "volume": [
+          77.2,
+          12.1,
+          10.7
+        ]
+      }
+    }
+  }
+}

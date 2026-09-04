@@ -288,7 +288,7 @@ When user triggers Fullscreen Zoom on Chart 6:
 ## 9. Collapsible Selector UX & Strategic Insights Repository Standard
 
 1. **Collapsible Multi-Entity Selector (`#compareGridCollapsibleBody`)**:
-   - Offers 1-click collapse (`#toggleCompareGridBtn`) to conceal the 54-company card matrix and focus user view on comparative charts and tables.
+   - Offers 1-click collapse (`#toggleCompareGridBtn`) to conceal the 56-company card matrix and focus user view on comparative charts and tables.
 2. **Industry Strategic Insights & Notes Archive (`#insightsViewContainer`)**:
    - Archives qualitative and quantitative findings with live keyword search and 1-click Markdown copying for LLMs.
 

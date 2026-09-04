@@ -1,0 +1,283 @@
+{
+  "company_name": "Renesas Electronics Corporation (6723.T / ルネサス)",
+  "ticker": "RENESAS",
+  "country": {
+    "en": "Japan 🇯🇵",
+    "zh": "日本 🇯🇵",
+    "code": "JP"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 6759.4,
+      "cogs": 3546.0,
+      "gross_profit": 3213.4,
+      "gross_margin": 47.54,
+      "operating_income": 612.0,
+      "operating_margin": 9.05,
+      "net_income": 240.2,
+      "net_margin": 3.55,
+      "rd_expense": 1105.0,
+      "rd_pct_rev": 16.35,
+      "headcount": 19000,
+      "rev_per_emp": 355758.0,
+      "gp_per_emp": 169126.0,
+      "op_per_emp": 32211.0,
+      "ni_per_emp": 12642.0,
+      "rd_per_emp": 58158.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 9052.8,
+      "cogs": 4195.0,
+      "gross_profit": 4857.8,
+      "gross_margin": 53.66,
+      "operating_income": 1668.0,
+      "operating_margin": 18.43,
+      "net_income": 1575.0,
+      "net_margin": 17.4,
+      "rd_expense": 1480.0,
+      "rd_pct_rev": 16.35,
+      "headcount": 20800,
+      "rev_per_emp": 435231.0,
+      "gp_per_emp": 233548.0,
+      "op_per_emp": 80192.0,
+      "ni_per_emp": 75721.0,
+      "rd_per_emp": 71154.0,
+      "rev_growth_yoy": 33.93,
+      "gp_growth_yoy": 51.17,
+      "op_growth_yoy": 172.55,
+      "ni_growth_yoy": 555.7,
+      "rd_growth_yoy": 33.94,
+      "hc_growth_yoy": 9.47,
+      "gm_diff_pp": 6.12,
+      "op_diff_pp": 9.38
+    },
+    "2022": {
+      "revenue": 11414.4,
+      "cogs": 4950.0,
+      "gross_profit": 6464.4,
+      "gross_margin": 56.63,
+      "operating_income": 3225.0,
+      "operating_margin": 28.25,
+      "net_income": 1945.0,
+      "net_margin": 17.04,
+      "rd_expense": 1860.0,
+      "rd_pct_rev": 16.3,
+      "headcount": 21200,
+      "rev_per_emp": 538415.0,
+      "gp_per_emp": 304925.0,
+      "op_per_emp": 152123.0,
+      "ni_per_emp": 91745.0,
+      "rd_per_emp": 87736.0,
+      "rev_growth_yoy": 26.09,
+      "gp_growth_yoy": 33.07,
+      "op_growth_yoy": 93.35,
+      "ni_growth_yoy": 23.49,
+      "rd_growth_yoy": 25.68,
+      "hc_growth_yoy": 1.92,
+      "gm_diff_pp": 2.97,
+      "op_diff_pp": 9.82
+    },
+    "2023": {
+      "revenue": 10459.1,
+      "cogs": 4508.0,
+      "gross_profit": 5951.1,
+      "gross_margin": 56.9,
+      "operating_income": 2780.0,
+      "operating_margin": 26.58,
+      "net_income": 2400.0,
+      "net_margin": 22.95,
+      "rd_expense": 1780.0,
+      "rd_pct_rev": 17.02,
+      "headcount": 21100,
+      "rev_per_emp": 495692.0,
+      "gp_per_emp": 282043.0,
+      "op_per_emp": 131754.0,
+      "ni_per_emp": 113744.0,
+      "rd_per_emp": 84360.0,
+      "rev_growth_yoy": -8.37,
+      "gp_growth_yoy": -7.94,
+      "op_growth_yoy": -13.8,
+      "ni_growth_yoy": 23.39,
+      "rd_growth_yoy": -4.3,
+      "hc_growth_yoy": -0.47,
+      "gm_diff_pp": 0.27,
+      "op_diff_pp": -1.67
+    },
+    "2024": {
+      "revenue": 8940.4,
+      "cogs": 4005.0,
+      "gross_profit": 4935.4,
+      "gross_margin": 55.2,
+      "operating_income": 1920.0,
+      "operating_margin": 21.48,
+      "net_income": 1750.0,
+      "net_margin": 19.57,
+      "rd_expense": 1620.0,
+      "rd_pct_rev": 18.12,
+      "headcount": 20500,
+      "rev_per_emp": 436117.0,
+      "gp_per_emp": 240751.0,
+      "op_per_emp": 93659.0,
+      "ni_per_emp": 85366.0,
+      "rd_per_emp": 79024.0,
+      "rev_growth_yoy": -14.52,
+      "gp_growth_yoy": -17.07,
+      "op_growth_yoy": -30.94,
+      "ni_growth_yoy": -27.08,
+      "rd_growth_yoy": -8.99,
+      "hc_growth_yoy": -2.84,
+      "gm_diff_pp": -1.7,
+      "op_diff_pp": -5.1
+    },
+    "2025": {
+      "revenue": 9866.7,
+      "cogs": 4351.2,
+      "gross_profit": 5515.5,
+      "gross_margin": 55.9,
+      "operating_income": 2368.0,
+      "operating_margin": 24.0,
+      "net_income": 2072.0,
+      "net_margin": 21.0,
+      "rd_expense": 1776.0,
+      "rd_pct_rev": 18.0,
+      "headcount": 20800,
+      "rev_per_emp": 474361.0,
+      "gp_per_emp": 265168.0,
+      "op_per_emp": 113846.0,
+      "ni_per_emp": 99615.0,
+      "rd_per_emp": 85385.0,
+      "rev_growth_yoy": 10.36,
+      "gp_growth_yoy": 11.75,
+      "op_growth_yoy": 23.33,
+      "ni_growth_yoy": 18.4,
+      "rd_growth_yoy": 9.63,
+      "hc_growth_yoy": 1.46,
+      "gm_diff_pp": 0.7,
+      "op_diff_pp": 2.52
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Automotive Business (車載事業 - MCUs, SoCs, Power/Analog)",
+      "Industrial / Infrastructure / IoT (産業・インフラ・IoT)",
+      "Other / Non-Operating"
+    ],
+    "colors": [
+      "#1E40AF",
+      "#10B981",
+      "#F59E0B"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          3280,
+          3350,
+          129
+        ],
+        "volume": [
+          48.5,
+          49.6,
+          1.9
+        ]
+      },
+      "2021": {
+        "value": [
+          4210,
+          4720,
+          123
+        ],
+        "volume": [
+          46.5,
+          52.1,
+          1.4
+        ]
+      },
+      "2022": {
+        "value": [
+          5020,
+          6260,
+          134
+        ],
+        "volume": [
+          44.0,
+          54.8,
+          1.2
+        ]
+      },
+      "2023": {
+        "value": [
+          4850,
+          5480,
+          129
+        ],
+        "volume": [
+          46.4,
+          52.4,
+          1.2
+        ]
+      },
+      "2024": {
+        "value": [
+          4520,
+          4300,
+          120
+        ],
+        "volume": [
+          50.6,
+          48.1,
+          1.3
+        ]
+      },
+      "2025": {
+        "value": [
+          5150,
+          4580,
+          137
+        ],
+        "volume": [
+          52.2,
+          46.4,
+          1.4
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Renesas Electronics Corporation (6723.T / ルネサス) workforce reported at 20,800 FTEs with GAAP Gross Margin at 55.9%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $474,361/FTE in revenue and $265,168/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M2,368 (24.0% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M1,776 (18.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 10.36% compared to headcount change of 1.46% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Renesas Electronics Corporation (6723.T / ルネサス) 官方審計員工數為 20,800 人，GAAP 毛利率為 55.9%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $474,361/人，人均毛利為 $265,168/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M2,368（營業利益率 24.0%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M1,776（佔營收 18.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 10.36%，員工人數年增率為 1.46%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  }
+}

@@ -154,6 +154,15 @@ const SCATTER_METRICS = {
 };
 
 const COMPANY_COLORS = {
+    "tsla": "#E82127",
+    "tesla": "#E82127",
+    "tesla-inc": "#E82127",
+    "tesla-motors": "#E82127",
+    "renesas": "#1E40AF",
+    "renesas-electronics": "#1E40AF",
+    "6723": "#1E40AF",
+    "6723.t": "#1E40AF",
+    "rnecf": "#1E40AF",
     "qcom": "#3253DC",
     "qualcomm": "#3253DC",
     "sk-hynix": "#E11D48",
@@ -279,6 +288,16 @@ const COMPANY_COLORS = {
 };
 
 const COMPANY_COUNTRIES = {
+    "tsla": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "tesla": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "tesla-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "tesla-motors": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "renesas": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "renesas-electronics": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "renesas-electronics-corp": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "6723": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "6723.t": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "rnecf": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
     "sk-hynix": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
     "hynix": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
     "000660": { en: "South Korea 🇰🇷", zh: "韓國 🇰🇷", code: "KR" },
@@ -470,6 +489,16 @@ const COMPANY_COUNTRIES = {
 };
 
 const COMPANY_SECTORS = {
+    "tsla": "SYSTEM",
+    "tesla": "SYSTEM",
+    "tesla-inc": "SYSTEM",
+    "tesla-motors": "SYSTEM",
+    "renesas": "FOUNDRY",
+    "renesas-electronics": "FOUNDRY",
+    "renesas-electronics-corp": "FOUNDRY",
+    "6723": "FOUNDRY",
+    "6723.t": "FOUNDRY",
+    "rnecf": "FOUNDRY",
     "sk-hynix": "FABLESS",
     "hynix": "FABLESS",
     "000660": "FABLESS",
@@ -675,6 +704,18 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "tsla": "tsla",
+    "tesla": "tsla",
+    "tesla-inc": "tsla",
+    "tesla-motors": "tsla",
+    "tesla-motors-inc": "tsla",
+    "renesas": "renesas",
+    "renesas-electronics": "renesas",
+    "renesas-electronics-corp": "renesas",
+    "renesas-electronics-corporation": "renesas",
+    "6723": "renesas",
+    "6723.t": "renesas",
+    "rnecf": "renesas",
     "qcom": "qcom",
     "qualcomm": "qcom",
     "qualcomm-inc": "qcom",
@@ -2428,7 +2469,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2445,6 +2486,14 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+                "TSLA": "Tesla, Inc. (TSLA / 特斯拉)",
+                "TESLA": "Tesla, Inc. (TSLA / 特斯拉)",
+                "TESLA-INC": "Tesla, Inc. (TSLA / 特斯拉)",
+                "RENESAS": "Renesas Electronics (6723.T / ルネサス)",
+                "RENESAS-ELECTRONICS": "Renesas Electronics (6723.T / ルネサス)",
+                "6723": "Renesas Electronics (6723.T / ルネサス)",
+                "6723.T": "Renesas Electronics (6723.T / ルネサス)",
+                "RNECF": "Renesas Electronics (6723.T / ルネサス)",
                 "WIN-SEMI": "WIN Semiconductors (3105 / 穩懋半導體)",
                 "WIN": "WIN Semiconductors (3105 / 穩懋半導體)",
                 "3105": "WIN Semiconductors (3105 / 穩懋半導體)",

@@ -657,6 +657,19 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.6.0 (2026-09-04)**：
+  - **新增全球電動車與 AI 系統巨頭 特斯拉 (Tesla, Inc. / NASDAQ: TSLA / 美國 🇺🇸) 與 日本車用半導體龍頭 瑞薩電子 (Renesas Electronics / TSE: 6723.T / 日本 🇯🇵) 審計基準庫與深度戰略分析**：
+    - **特斯拉 (TSLA / 2020～2025)**：
+      - **營收規模與利潤轉折**：自 2020 年 \$31,536M 躍升至 2024 年 \$97,698M 與 2025 年 \$109,500M，毛利達 \$21,353M（毛利率 19.50%），營業利益 \$9,855M。
+      - **三大業務分拆 (Chart 6)**：Automotive 車動業務 (~77%–88%)、Energy Storage & Generation 儲能業務 (Megapack/Powerwall 快速攀升至 12%+)、Services & Other (Supercharging、FSD 授權 ~11%)。
+      - **人均產值**：全球團隊規模約 12.1 萬～12.5 萬人，人均營收達 \$807k～\$876k USD，人均毛利達 \$148k～\$170k USD。
+    - **瑞薩電子 (Renesas / 2020～2025)**：
+      - **車用 MCU 與類比晶片霸主**：2021 併購 Dialog 後營收自 \$6,759M 擴增至 2022 年 \$11,414M 高峰，2024 庫存調整後於 2025 年回溫至 \$9,867M 營收、55.90% 高毛利率與 24.00% 營業利益率。
+      - **核心業務分拆 (Chart 6)**：車載事業 (Automotive ~46%–52%)、產業・基礎設施・IoT (~46%–52%)。
+      - **人均產值**：全球員工約 2.08 萬人，人均營收達 \$474k USD、人均毛利達 \$265k USD，展現極高之技術護城河。
+    - **雙向別名映射與全庫審計**：支援 `tsla <-> tesla` 與 `renesas <-> 6723 <-> 6723.t`，全量 56 家企業驗證 100% 通過（0 錯誤）。
+    - 重新全量編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.6.0`。
+
 - **v3.5.2 (2026-09-04)**：
   - **升級全站大螢幕/高解析度滿版寬度 (`max-w-[1720px]`) 並優化頂部雙層佈局**：
     - **解決超寬螢幕居中擠壓問題**：將 Header、導覽列與主內容區由原本狹窄的 `max-w-7xl` (1280px) 全面升級至 `max-w-[1720px]`，釋放寬螢幕 (1440p / 4K / Ultrawide) 下的大面積黑邊，讓 6 大圖表、KPI 卡片與橫向評比矩陣獲得最充裕的視覺展開空間。
@@ -1079,6 +1092,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.6.0 - feat: integrate Tesla (TSLA) and Renesas Electronics (6723.T) 6-year audited reports, sales breakdowns, and quarterly analytics
 * commit v3.5.2 - feat: expand ultra-wide canvas width to max-w-[1720px] and streamline dual-tier responsive header
 * commit v3.5.1 - fix: resolve desktop header title squishing by adopting spacious two-row responsive layout
 * commit v3.5.0 - feat: integrate Qualcomm (QCOM) 6-year audited financial reports, Snapdragon segments breakdown, and quarterly analytics

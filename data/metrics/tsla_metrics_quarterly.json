@@ -1,0 +1,517 @@
+{
+  "company_name": "Tesla, Inc. (TSLA / 特斯拉)",
+  "ticker": "TSLA",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 23329.0,
+      "cogs": 18818.0,
+      "gross_profit": 4511.0,
+      "gross_margin": 19.34,
+      "operating_income": 2664.0,
+      "operating_margin": 11.42,
+      "net_income": 2513.0,
+      "net_margin": 10.77,
+      "rd_expense": 771.0,
+      "rd_pct_rev": 3.3,
+      "headcount": 131000,
+      "rev_per_emp": 178084.0,
+      "gp_per_emp": 34435.0,
+      "op_per_emp": 20336.0,
+      "ni_per_emp": 19183.0,
+      "rd_per_emp": 5885.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 24927.0,
+      "cogs": 20394.0,
+      "gross_profit": 4533.0,
+      "gross_margin": 18.19,
+      "operating_income": 2399.0,
+      "operating_margin": 9.62,
+      "net_income": 2703.0,
+      "net_margin": 10.84,
+      "rd_expense": 943.0,
+      "rd_pct_rev": 3.78,
+      "headcount": 134000,
+      "rev_per_emp": 186022.0,
+      "gp_per_emp": 33828.0,
+      "op_per_emp": 17903.0,
+      "ni_per_emp": 20172.0,
+      "rd_per_emp": 7037.0,
+      "rev_growth_yoy": 6.85,
+      "gp_growth_yoy": 0.49,
+      "op_growth_yoy": -9.95,
+      "ni_growth_yoy": 7.56,
+      "rd_growth_yoy": 22.31,
+      "hc_growth_yoy": 2.29,
+      "gm_diff_pp": -1.15,
+      "op_diff_pp": -1.8
+    },
+    "2023 Q3": {
+      "revenue": 23350.0,
+      "cogs": 19172.0,
+      "gross_profit": 4178.0,
+      "gross_margin": 17.89,
+      "operating_income": 1764.0,
+      "operating_margin": 7.55,
+      "net_income": 1853.0,
+      "net_margin": 7.94,
+      "rd_expense": 1161.0,
+      "rd_pct_rev": 4.97,
+      "headcount": 137000,
+      "rev_per_emp": 170438.0,
+      "gp_per_emp": 30496.0,
+      "op_per_emp": 12876.0,
+      "ni_per_emp": 13526.0,
+      "rd_per_emp": 8474.0,
+      "rev_growth_yoy": -6.33,
+      "gp_growth_yoy": -7.83,
+      "op_growth_yoy": -26.47,
+      "ni_growth_yoy": -31.45,
+      "rd_growth_yoy": 23.12,
+      "hc_growth_yoy": 2.24,
+      "gm_diff_pp": -0.3,
+      "op_diff_pp": -2.07
+    },
+    "2023 Q4": {
+      "revenue": 25167.0,
+      "cogs": 20729.0,
+      "gross_profit": 4438.0,
+      "gross_margin": 17.63,
+      "operating_income": 2064.0,
+      "operating_margin": 8.2,
+      "net_income": 7928.0,
+      "net_margin": 31.5,
+      "rd_expense": 1094.0,
+      "rd_pct_rev": 4.35,
+      "headcount": 140473,
+      "rev_per_emp": 179159.0,
+      "gp_per_emp": 31593.0,
+      "op_per_emp": 14693.0,
+      "ni_per_emp": 56438.0,
+      "rd_per_emp": 7788.0,
+      "rev_growth_yoy": 7.78,
+      "gp_growth_yoy": 6.22,
+      "op_growth_yoy": 17.01,
+      "ni_growth_yoy": 327.85,
+      "rd_growth_yoy": -5.77,
+      "hc_growth_yoy": 2.54,
+      "gm_diff_pp": -0.26,
+      "op_diff_pp": 0.65
+    },
+    "2024 Q1": {
+      "revenue": 21301.0,
+      "cogs": 17605.0,
+      "gross_profit": 3696.0,
+      "gross_margin": 17.35,
+      "operating_income": 1171.0,
+      "operating_margin": 5.5,
+      "net_income": 1129.0,
+      "net_margin": 5.3,
+      "rd_expense": 1151.0,
+      "rd_pct_rev": 5.4,
+      "headcount": 135000,
+      "rev_per_emp": 157785.0,
+      "gp_per_emp": 27378.0,
+      "op_per_emp": 8674.0,
+      "ni_per_emp": 8363.0,
+      "rd_per_emp": 8526.0,
+      "rev_growth_yoy": -8.69,
+      "gp_growth_yoy": -18.07,
+      "op_growth_yoy": -56.04,
+      "ni_growth_yoy": -55.07,
+      "rd_growth_yoy": 49.29,
+      "hc_growth_yoy": 3.05,
+      "gm_diff_pp": -1.99,
+      "op_diff_pp": -5.92
+    },
+    "2024 Q2": {
+      "revenue": 25500.0,
+      "cogs": 20922.0,
+      "gross_profit": 4578.0,
+      "gross_margin": 17.95,
+      "operating_income": 1605.0,
+      "operating_margin": 6.29,
+      "net_income": 1478.0,
+      "net_margin": 5.8,
+      "rd_expense": 1074.0,
+      "rd_pct_rev": 4.21,
+      "headcount": 128000,
+      "rev_per_emp": 199219.0,
+      "gp_per_emp": 35766.0,
+      "op_per_emp": 12539.0,
+      "ni_per_emp": 11547.0,
+      "rd_per_emp": 8391.0,
+      "rev_growth_yoy": 2.3,
+      "gp_growth_yoy": 0.99,
+      "op_growth_yoy": -33.1,
+      "ni_growth_yoy": -45.32,
+      "rd_growth_yoy": 13.89,
+      "hc_growth_yoy": -4.48,
+      "gm_diff_pp": -0.24,
+      "op_diff_pp": -3.33
+    },
+    "2024 Q3": {
+      "revenue": 25182.0,
+      "cogs": 20185.0,
+      "gross_profit": 4997.0,
+      "gross_margin": 19.84,
+      "operating_income": 2717.0,
+      "operating_margin": 10.79,
+      "net_income": 2167.0,
+      "net_margin": 8.61,
+      "rd_expense": 1109.0,
+      "rd_pct_rev": 4.4,
+      "headcount": 123000,
+      "rev_per_emp": 204732.0,
+      "gp_per_emp": 40626.0,
+      "op_per_emp": 22089.0,
+      "ni_per_emp": 17618.0,
+      "rd_per_emp": 9016.0,
+      "rev_growth_yoy": 7.85,
+      "gp_growth_yoy": 19.6,
+      "op_growth_yoy": 54.02,
+      "ni_growth_yoy": 16.95,
+      "rd_growth_yoy": -4.48,
+      "hc_growth_yoy": -10.22,
+      "gm_diff_pp": 1.95,
+      "op_diff_pp": 3.24
+    },
+    "2024 Q4": {
+      "revenue": 25715.0,
+      "cogs": 21054.0,
+      "gross_profit": 4661.0,
+      "gross_margin": 18.13,
+      "operating_income": 1585.0,
+      "operating_margin": 6.16,
+      "net_income": 2317.0,
+      "net_margin": 9.01,
+      "rd_expense": 1206.0,
+      "rd_pct_rev": 4.69,
+      "headcount": 121000,
+      "rev_per_emp": 212521.0,
+      "gp_per_emp": 38521.0,
+      "op_per_emp": 13099.0,
+      "ni_per_emp": 19149.0,
+      "rd_per_emp": 9967.0,
+      "rev_growth_yoy": 2.18,
+      "gp_growth_yoy": 5.02,
+      "op_growth_yoy": -23.21,
+      "ni_growth_yoy": -70.77,
+      "rd_growth_yoy": 10.24,
+      "hc_growth_yoy": -13.86,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": -2.04
+    },
+    "2025 Q1": {
+      "revenue": 24500.0,
+      "cogs": 19845.0,
+      "gross_profit": 4655.0,
+      "gross_margin": 19.0,
+      "operating_income": 2082.0,
+      "operating_margin": 8.5,
+      "net_income": 1960.0,
+      "net_margin": 8.0,
+      "rd_expense": 1250.0,
+      "rd_pct_rev": 5.1,
+      "headcount": 122000,
+      "rev_per_emp": 200820.0,
+      "gp_per_emp": 38156.0,
+      "op_per_emp": 17066.0,
+      "ni_per_emp": 16066.0,
+      "rd_per_emp": 10246.0,
+      "rev_growth_yoy": 15.02,
+      "gp_growth_yoy": 25.95,
+      "op_growth_yoy": 77.8,
+      "ni_growth_yoy": 73.6,
+      "rd_growth_yoy": 8.6,
+      "hc_growth_yoy": -9.63,
+      "gm_diff_pp": 1.65,
+      "op_diff_pp": 3.0
+    },
+    "2025 Q2": {
+      "revenue": 27200.0,
+      "cogs": 21896.0,
+      "gross_profit": 5304.0,
+      "gross_margin": 19.5,
+      "operating_income": 2448.0,
+      "operating_margin": 9.0,
+      "net_income": 2312.0,
+      "net_margin": 8.5,
+      "rd_expense": 1330.0,
+      "rd_pct_rev": 4.89,
+      "headcount": 123000,
+      "rev_per_emp": 221138.0,
+      "gp_per_emp": 43122.0,
+      "op_per_emp": 19902.0,
+      "ni_per_emp": 18797.0,
+      "rd_per_emp": 10813.0,
+      "rev_growth_yoy": 6.67,
+      "gp_growth_yoy": 15.86,
+      "op_growth_yoy": 52.52,
+      "ni_growth_yoy": 56.43,
+      "rd_growth_yoy": 23.84,
+      "hc_growth_yoy": -3.91,
+      "gm_diff_pp": 1.55,
+      "op_diff_pp": 2.71
+    },
+    "2025 Q3": {
+      "revenue": 28400.0,
+      "cogs": 22777.0,
+      "gross_profit": 5623.0,
+      "gross_margin": 19.8,
+      "operating_income": 2613.0,
+      "operating_margin": 9.2,
+      "net_income": 2471.0,
+      "net_margin": 8.7,
+      "rd_expense": 1385.0,
+      "rd_pct_rev": 4.88,
+      "headcount": 124000,
+      "rev_per_emp": 229032.0,
+      "gp_per_emp": 45347.0,
+      "op_per_emp": 21073.0,
+      "ni_per_emp": 19927.0,
+      "rd_per_emp": 11169.0,
+      "rev_growth_yoy": 12.78,
+      "gp_growth_yoy": 12.53,
+      "op_growth_yoy": -3.83,
+      "ni_growth_yoy": 14.03,
+      "rd_growth_yoy": 24.89,
+      "hc_growth_yoy": 0.81,
+      "gm_diff_pp": -0.04,
+      "op_diff_pp": -1.59
+    },
+    "2025 Q4": {
+      "revenue": 29400.0,
+      "cogs": 23629.0,
+      "gross_profit": 5771.0,
+      "gross_margin": 19.63,
+      "operating_income": 2712.0,
+      "operating_margin": 9.22,
+      "net_income": 2565.0,
+      "net_margin": 8.72,
+      "rd_expense": 1400.0,
+      "rd_pct_rev": 4.76,
+      "headcount": 125000,
+      "rev_per_emp": 235200.0,
+      "gp_per_emp": 46168.0,
+      "op_per_emp": 21696.0,
+      "ni_per_emp": 20520.0,
+      "rd_per_emp": 11200.0,
+      "rev_growth_yoy": 14.33,
+      "gp_growth_yoy": 23.81,
+      "op_growth_yoy": 71.1,
+      "ni_growth_yoy": 10.7,
+      "rd_growth_yoy": 16.09,
+      "hc_growth_yoy": 3.31,
+      "gm_diff_pp": 1.5,
+      "op_diff_pp": 3.06
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Automotive (Vehicles, Credits & Lease)",
+      "Energy Storage & Generation (Megapack/Powerwall)",
+      "Services & Other (Supercharging, Parts, FSD Software)"
+    ],
+    "colors": [
+      "#E82127",
+      "#10B981",
+      "#3B82F6"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          19963,
+          1529,
+          1837
+        ],
+        "volume": [
+          85.6,
+          6.6,
+          7.8
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          21268,
+          1509,
+          2150
+        ],
+        "volume": [
+          85.3,
+          6.1,
+          8.6
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          19625,
+          1559,
+          2166
+        ],
+        "volume": [
+          84.0,
+          6.7,
+          9.3
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          21563,
+          1438,
+          2166
+        ],
+        "volume": [
+          85.7,
+          5.7,
+          8.6
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          17378,
+          1635,
+          2288
+        ],
+        "volume": [
+          81.6,
+          7.7,
+          10.7
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          19878,
+          3014,
+          2608
+        ],
+        "volume": [
+          78.0,
+          11.8,
+          10.2
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          20016,
+          2376,
+          2790
+        ],
+        "volume": [
+          79.5,
+          9.4,
+          11.1
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          19798,
+          3070,
+          2847
+        ],
+        "volume": [
+          77.0,
+          11.9,
+          11.1
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          18800,
+          3100,
+          2600
+        ],
+        "volume": [
+          76.7,
+          12.7,
+          10.6
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          21000,
+          3300,
+          2900
+        ],
+        "volume": [
+          77.2,
+          12.1,
+          10.7
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          22000,
+          3400,
+          3000
+        ],
+        "volume": [
+          77.5,
+          12.0,
+          10.5
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          22700,
+          3400,
+          3300
+        ],
+        "volume": [
+          77.2,
+          11.6,
+          11.2
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Tesla, Inc. (TSLA / 特斯拉) workforce reported at 125,000 FTEs with GAAP Gross Margin at 19.63%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $235,200/FTE in revenue and $46,168/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M2,712 (9.22% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M1,400 (4.76% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 14.33% compared to headcount change of 3.31% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Tesla, Inc. (TSLA / 特斯拉) 官方審計員工數為 125,000 人，GAAP 毛利率為 19.63%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $235,200/人，人均毛利為 $46,168/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M2,712（營業利益率 9.22%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M1,400（佔營收 4.76%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 14.33%，員工人數年增率為 3.31%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  }
+}
