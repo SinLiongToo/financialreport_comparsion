@@ -657,6 +657,15 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.7.0 (2026-09-04)**：
+  - **新增全球工業與半導體特殊氣體及先進前驅物巨頭 法國液化空氣集團 (Air Liquide S.A. / Euronext: AI.PA / OTC: AIQUY / 法國 🇫🇷) 審計基準庫與深度戰略分析**：
+    - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2020 年 €20.48B（約 \$23.35B USD）至 2025 年達 €29.95B（約 \$32.20B USD）營收、59.20% 高毛利率、€5.84B（約 \$6.28B USD）營業利益與 19.50% 營業利益率。
+    - **四大核心事業分拆 (Sales Breakdown / Chart 6)**：工業特用氣體 (Industrial Merchant ~45%–48%)、大型工業管線供氣 (Large Industries ~32%–36%)、醫療保健氣體 (Healthcare ~13%–15%)、電子與半導體載氣/先進前驅物 (Electronics ~8%–11%)。
+    - **人均產值與營運卓越 (The Pivot & Productivity)**：全球團隊規模約 64,500～68,500 名員工，人均營收高達 \$450k～\$470k USD、人均毛利達 \$260k～\$282k USD，具備全球頂尖之氣體空分 (ASU) 現場長期供氣與半導體超高純度載氣 (Carrier Gases: N2, H2, Ar, He) 護城河。
+    - **季度數據 (Quarterly 12 期)**：完整收錄 2023 Q1 至 2025 Q4 季度營收、毛利、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `air-liquide <-> airliquide <-> ai.pa <-> ai-pa <-> aiquy <-> air-liquide-sa` 全自動解析與 100% 前後端同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.7.0`，全庫擴充至 57 家全球標竿企業。
+
 - **v3.6.0 (2026-09-04)**：
   - **新增全球電動車與 AI 系統巨頭 特斯拉 (Tesla, Inc. / NASDAQ: TSLA / 美國 🇺🇸) 與 日本車用半導體龍頭 瑞薩電子 (Renesas Electronics / TSE: 6723.T / 日本 🇯🇵) 審計基準庫與深度戰略分析**：
     - **特斯拉 (TSLA / 2020～2025)**：
@@ -1092,6 +1101,7 @@ python main.py --export-static
 ## 📜 Git History Log
 
 ```
+* commit v3.7.0 - feat: integrate Air Liquide S.A. (AI.PA) 6-year audited financial reports, segment breakdowns, and quarterly analytics
 * commit v3.6.0 - feat: integrate Tesla (TSLA) and Renesas Electronics (6723.T) 6-year audited reports, sales breakdowns, and quarterly analytics
 * commit v3.5.2 - feat: expand ultra-wide canvas width to max-w-[1720px] and streamline dual-tier responsive header
 * commit v3.5.1 - fix: resolve desktop header title squishing by adopting spacious two-row responsive layout

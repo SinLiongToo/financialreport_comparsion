@@ -195,7 +195,13 @@ TICKER_SLUGS = {
     "renesas-electronics-corp": ["renesas-electronics", "renesas", "6723", "rnecf"],
     "6723": ["renesas-electronics", "renesas", "6723", "rnecf"],
     "6723.t": ["renesas-electronics", "renesas", "6723", "rnecf"],
-    "rnecf": ["renesas-electronics", "renesas", "6723", "rnecf"]
+    "rnecf": ["renesas-electronics", "renesas", "6723", "rnecf"],
+    "air-liquide": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
+    "airliquide": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
+    "ai.pa": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
+    "ai-pa": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
+    "aiquy": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
+    "air-liquide-sa": ["air-liquide", "airliquide", "ai.pa", "aiquy"]
 };
 
 class AnnualReportCrawler:

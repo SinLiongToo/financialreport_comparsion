@@ -154,6 +154,11 @@ const SCATTER_METRICS = {
 };
 
 const COMPANY_COLORS = {
+    "air-liquide": "#0055A5",
+    "airliquide": "#0055A5",
+    "ai.pa": "#0055A5",
+    "ai-pa": "#0055A5",
+    "aiquy": "#0055A5",
     "tsla": "#E82127",
     "tesla": "#E82127",
     "tesla-inc": "#E82127",
@@ -288,6 +293,11 @@ const COMPANY_COLORS = {
 };
 
 const COMPANY_COUNTRIES = {
+    "air-liquide": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
+    "airliquide": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
+    "ai.pa": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
+    "ai-pa": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
+    "aiquy": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
     "tsla": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "tesla": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "tesla-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
@@ -489,6 +499,11 @@ const COMPANY_COUNTRIES = {
 };
 
 const COMPANY_SECTORS = {
+    "air-liquide": "EQUIPMENT",
+    "airliquide": "EQUIPMENT",
+    "ai.pa": "EQUIPMENT",
+    "ai-pa": "EQUIPMENT",
+    "aiquy": "EQUIPMENT",
     "tsla": "SYSTEM",
     "tesla": "SYSTEM",
     "tesla-inc": "SYSTEM",
@@ -704,6 +719,13 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "air-liquide": "air-liquide",
+    "airliquide": "air-liquide",
+    "ai.pa": "air-liquide",
+    "ai-pa": "air-liquide",
+    "aiquy": "air-liquide",
+    "air-liquide-sa": "air-liquide",
+    "air-liquide-s-a": "air-liquide",
     "tsla": "tsla",
     "tesla": "tsla",
     "tesla-inc": "tsla",
@@ -2469,7 +2491,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["AIR-LIQUIDE", "TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2486,6 +2508,11 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+                "AIR-LIQUIDE": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
+                "AIRLIQUIDE": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
+                "AI.PA": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
+                "AI-PA": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
+                "AIQUY": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
                 "TSLA": "Tesla, Inc. (TSLA / 特斯拉)",
                 "TESLA": "Tesla, Inc. (TSLA / 特斯拉)",
                 "TESLA-INC": "Tesla, Inc. (TSLA / 特斯拉)",
