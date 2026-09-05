@@ -154,6 +154,15 @@ const SCATTER_METRICS = {
 };
 
 const COMPANY_COLORS = {
+    "cdns": "#CC0000",
+    "cadence": "#CC0000",
+    "cadence-design-systems": "#CC0000",
+    "cadence-design-systems-inc": "#CC0000",
+    "mrvl": "#EA580C",
+    "marvell": "#EA580C",
+    "marvell-technology": "#EA580C",
+    "marvell-technology-inc": "#EA580C",
+    "marvell-technology-group": "#EA580C",
     "tel": "#DC2626",
     "8035": "#DC2626",
     "8035.t": "#DC2626",
@@ -304,6 +313,15 @@ const COMPANY_COLORS = {
 };
 
 const COMPANY_COUNTRIES = {
+    "cdns": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "cadence": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "cadence-design-systems": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "cadence-design-systems-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "mrvl": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "marvell": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "marvell-technology": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "marvell-technology-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "marvell-technology-group": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "tel": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
     "8035": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
     "8035.t": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
@@ -521,6 +539,15 @@ const COMPANY_COUNTRIES = {
 };
 
 const COMPANY_SECTORS = {
+    "cdns": "FABLESS",
+    "cadence": "FABLESS",
+    "cadence-design-systems": "FABLESS",
+    "cadence-design-systems-inc": "FABLESS",
+    "mrvl": "FABLESS",
+    "marvell": "FABLESS",
+    "marvell-technology": "FABLESS",
+    "marvell-technology-inc": "FABLESS",
+    "marvell-technology-group": "FABLESS",
     "tel": "EQUIPMENT",
     "8035": "EQUIPMENT",
     "8035.t": "EQUIPMENT",
@@ -752,6 +779,15 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "cdns": "cdns",
+    "cadence": "cdns",
+    "cadence-design-systems": "cdns",
+    "cadence-design-systems-inc": "cdns",
+    "mrvl": "mrvl",
+    "marvell": "mrvl",
+    "marvell-technology": "mrvl",
+    "marvell-technology-inc": "mrvl",
+    "marvell-technology-group": "mrvl",
     "tel": "tel",
     "8035": "tel",
     "8035.t": "tel",
@@ -2537,7 +2573,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["TEL", "LIN", "SNPS", "AIR-LIQUIDE", "TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["CDNS", "MRVL", "TEL", "LIN", "SNPS", "AIR-LIQUIDE", "TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2554,6 +2590,15 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+                "CDNS": "Cadence Design Systems (CDNS / 益華電腦)",
+                "CADENCE": "Cadence Design Systems (CDNS / 益華電腦)",
+                "CADENCE-DESIGN-SYSTEMS": "Cadence Design Systems (CDNS / 益華電腦)",
+                "CADENCE-DESIGN-SYSTEMS-INC": "Cadence Design Systems (CDNS / 益華電腦)",
+                "MRVL": "Marvell Technology (MRVL / 邁威爾科技)",
+                "MARVELL": "Marvell Technology (MRVL / 邁威爾科技)",
+                "MARVELL-TECHNOLOGY": "Marvell Technology (MRVL / 邁威爾科技)",
+                "MARVELL-TECHNOLOGY-INC": "Marvell Technology (MRVL / 邁威爾科技)",
+                "MARVELL-TECHNOLOGY-GROUP": "Marvell Technology (MRVL / 邁威爾科技)",
                 "TEL": "Tokyo Electron (8035.T / 東京威力科創)",
                 "8035": "Tokyo Electron (8035.T / 東京威力科創)",
                 "8035.T": "Tokyo Electron (8035.T / 東京威力科創)",

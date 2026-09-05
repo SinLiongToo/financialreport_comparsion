@@ -1,0 +1,333 @@
+{
+    "company_name": "Cadence Design Systems, Inc. (CDNS / 益華電腦)",
+    "ticker": "CDNS",
+    "country": {
+        "en": "United States 🇺🇸",
+        "zh": "美國 🇺🇸",
+        "code": "US"
+    },
+    "currency": "USD (Millions)",
+    "unit": "$M",
+    "freq": "quarterly",
+    "years": [
+        "2023 Q1",
+        "2023 Q2",
+        "2023 Q3",
+        "2023 Q4",
+        "2024 Q1",
+        "2024 Q2",
+        "2024 Q3",
+        "2024 Q4",
+        "2025 Q1",
+        "2025 Q2",
+        "2025 Q3",
+        "2025 Q4"
+    ],
+    "financials": {
+        "2023 Q1": {
+            "revenue": 1022.0,
+            "gross_profit": 911.6,
+            "gross_margin": 89.2,
+            "operating_income": 325.0,
+            "operating_margin": 31.8,
+            "headcount": 10450,
+            "rev_per_emp": 97800.0,
+            "gp_per_emp": 87234.0
+        },
+        "2023 Q2": {
+            "revenue": 977.0,
+            "gross_profit": 869.5,
+            "gross_margin": 89.0,
+            "operating_income": 280.0,
+            "operating_margin": 28.66,
+            "headcount": 10700,
+            "rev_per_emp": 91308.0,
+            "gp_per_emp": 81262.0
+        },
+        "2023 Q3": {
+            "revenue": 1023.0,
+            "gross_profit": 908.4,
+            "gross_margin": 88.8,
+            "operating_income": 310.0,
+            "operating_margin": 30.3,
+            "headcount": 10950,
+            "rev_per_emp": 93425.0,
+            "gp_per_emp": 82959.0
+        },
+        "2023 Q4": {
+            "revenue": 1068.0,
+            "gross_profit": 942.0,
+            "gross_margin": 88.2,
+            "operating_income": 335.3,
+            "operating_margin": 31.4,
+            "headcount": 11200,
+            "rev_per_emp": 95357.0,
+            "gp_per_emp": 84107.0
+        },
+        "2024 Q1": {
+            "revenue": 1009.0,
+            "gross_profit": 895.0,
+            "gross_margin": 88.7,
+            "operating_income": 275.0,
+            "operating_margin": 27.25,
+            "headcount": 11375,
+            "rev_per_emp": 88703.0,
+            "gp_per_emp": 78681.0
+        },
+        "2024 Q2": {
+            "revenue": 1060.0,
+            "gross_profit": 938.1,
+            "gross_margin": 88.5,
+            "operating_income": 310.0,
+            "operating_margin": 29.25,
+            "headcount": 11550,
+            "rev_per_emp": 91775.0,
+            "gp_per_emp": 81221.0
+        },
+        "2024 Q3": {
+            "revenue": 1215.0,
+            "gross_profit": 1076.5,
+            "gross_margin": 88.6,
+            "operating_income": 385.0,
+            "operating_margin": 31.69,
+            "headcount": 11725,
+            "rev_per_emp": 103625.0,
+            "gp_per_emp": 91812.0
+        },
+        "2024 Q4": {
+            "revenue": 1356.2,
+            "gross_profit": 1200.6,
+            "gross_margin": 88.53,
+            "operating_income": 415.1,
+            "operating_margin": 30.61,
+            "headcount": 11900,
+            "rev_per_emp": 113966.0,
+            "gp_per_emp": 100891.0
+        },
+        "2025 Q1": {
+            "revenue": 1180.0,
+            "gross_profit": 1047.8,
+            "gross_margin": 88.8,
+            "operating_income": 350.0,
+            "operating_margin": 29.66,
+            "headcount": 12050,
+            "rev_per_emp": 97925.0,
+            "gp_per_emp": 86954.0
+        },
+        "2025 Q2": {
+            "revenue": 1260.0,
+            "gross_profit": 1116.4,
+            "gross_margin": 88.6,
+            "operating_income": 385.0,
+            "operating_margin": 30.56,
+            "headcount": 12200,
+            "rev_per_emp": 103279.0,
+            "gp_per_emp": 91508.0
+        },
+        "2025 Q3": {
+            "revenue": 1360.0,
+            "gross_profit": 1203.6,
+            "gross_margin": 88.5,
+            "operating_income": 425.0,
+            "operating_margin": 31.25,
+            "headcount": 12350,
+            "rev_per_emp": 110121.0,
+            "gp_per_emp": 97457.0
+        },
+        "2025 Q4": {
+            "revenue": 1450.0,
+            "gross_profit": 1283.3,
+            "gross_margin": 88.5,
+            "operating_income": 460.0,
+            "operating_margin": 31.72,
+            "headcount": 12500,
+            "rev_per_emp": 116000.0,
+            "gp_per_emp": 102664.0
+        }
+    },
+    "sales_breakdown": {
+        "units": "$M",
+        "categories": [
+            "Custom IC & Digital IC Design/Signoff",
+            "Functional Verification & Emulation",
+            "Design IP & Interconnect",
+            "System Design & Multiphysics Analysis"
+        ],
+        "colors": [
+            "#DC2626",
+            "#F97316",
+            "#3B82F6",
+            "#8B5CF6"
+        ],
+        "data": {
+            "2023 Q1": {
+                "value": [
+                    480,
+                    266,
+                    143,
+                    133
+                ],
+                "volume": [
+                    47,
+                    26,
+                    14,
+                    13
+                ]
+            },
+            "2023 Q2": {
+                "value": [
+                    459,
+                    254,
+                    137,
+                    127
+                ],
+                "volume": [
+                    47,
+                    26,
+                    14,
+                    13
+                ]
+            },
+            "2023 Q3": {
+                "value": [
+                    481,
+                    266,
+                    143,
+                    133
+                ],
+                "volume": [
+                    47,
+                    26,
+                    14,
+                    13
+                ]
+            },
+            "2023 Q4": {
+                "value": [
+                    502,
+                    277,
+                    150,
+                    139
+                ],
+                "volume": [
+                    47,
+                    26,
+                    14,
+                    13
+                ]
+            },
+            "2024 Q1": {
+                "value": [
+                    464,
+                    272,
+                    141,
+                    132
+                ],
+                "volume": [
+                    46,
+                    27,
+                    14,
+                    13
+                ]
+            },
+            "2024 Q2": {
+                "value": [
+                    488,
+                    286,
+                    148,
+                    138
+                ],
+                "volume": [
+                    46,
+                    27,
+                    14,
+                    13
+                ]
+            },
+            "2024 Q3": {
+                "value": [
+                    559,
+                    328,
+                    170,
+                    158
+                ],
+                "volume": [
+                    46,
+                    27,
+                    14,
+                    13
+                ]
+            },
+            "2024 Q4": {
+                "value": [
+                    623,
+                    367,
+                    190,
+                    176
+                ],
+                "volume": [
+                    46,
+                    27,
+                    14,
+                    13
+                ]
+            },
+            "2025 Q1": {
+                "value": [
+                    531,
+                    330,
+                    165,
+                    154
+                ],
+                "volume": [
+                    45,
+                    28,
+                    14,
+                    13
+                ]
+            },
+            "2025 Q2": {
+                "value": [
+                    567,
+                    353,
+                    176,
+                    164
+                ],
+                "volume": [
+                    45,
+                    28,
+                    14,
+                    13
+                ]
+            },
+            "2025 Q3": {
+                "value": [
+                    612,
+                    381,
+                    190,
+                    177
+                ],
+                "volume": [
+                    45,
+                    28,
+                    14,
+                    13
+                ]
+            },
+            "2025 Q4": {
+                "value": [
+                    653,
+                    406,
+                    203,
+                    188
+                ],
+                "volume": [
+                    45,
+                    28,
+                    14,
+                    13
+                ]
+            }
+        }
+    }
+}

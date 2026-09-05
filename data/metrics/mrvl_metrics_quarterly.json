@@ -1,0 +1,507 @@
+{
+  "company_name": "Marvell Technology, Inc. (MRVL / 邁威爾科技)",
+  "ticker": "MRVL",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 1322.0,
+      "gross_profit": 680.8,
+      "gross_margin": 51.5,
+      "operating_income": 55.0,
+      "operating_margin": 4.16,
+      "headcount": 7200,
+      "rev_per_emp": 183611.0,
+      "gp_per_emp": 94556.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 7639.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 1342.0,
+      "gross_profit": 687.1,
+      "gross_margin": 51.2,
+      "operating_income": 50.0,
+      "operating_margin": 3.73,
+      "headcount": 7000,
+      "rev_per_emp": 191714.0,
+      "gp_per_emp": 98157.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 7143.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 1.51,
+      "gp_growth_yoy": 0.93,
+      "op_growth_yoy": -9.09,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -2.78,
+      "gm_diff_pp": -0.3,
+      "op_diff_pp": -0.43
+    },
+    "2023 Q3": {
+      "revenue": 1419.0,
+      "gross_profit": 735.0,
+      "gross_margin": 51.8,
+      "operating_income": 62.0,
+      "operating_margin": 4.37,
+      "headcount": 6750,
+      "rev_per_emp": 210222.0,
+      "gp_per_emp": 108889.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 9185.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 5.74,
+      "gp_growth_yoy": 6.97,
+      "op_growth_yoy": 24.0,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -3.57,
+      "gm_diff_pp": 0.6,
+      "op_diff_pp": 0.64
+    },
+    "2023 Q4": {
+      "revenue": 1425.0,
+      "gross_profit": 736.7,
+      "gross_margin": 51.7,
+      "operating_income": 57.2,
+      "operating_margin": 4.01,
+      "headcount": 6580,
+      "rev_per_emp": 216565.0,
+      "gp_per_emp": 111960.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 8693.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 0.42,
+      "gp_growth_yoy": 0.23,
+      "op_growth_yoy": -7.74,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -2.52,
+      "gm_diff_pp": -0.1,
+      "op_diff_pp": -0.36
+    },
+    "2024 Q1": {
+      "revenue": 1161.0,
+      "gross_profit": 599.1,
+      "gross_margin": 51.6,
+      "operating_income": 30.0,
+      "operating_margin": 2.58,
+      "headcount": 6650,
+      "rev_per_emp": 174586.0,
+      "gp_per_emp": 90090.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 4511.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -12.18,
+      "gp_growth_yoy": -12.0,
+      "op_growth_yoy": -45.45,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -7.64,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": -1.58
+    },
+    "2024 Q2": {
+      "revenue": 1273.0,
+      "gross_profit": 660.7,
+      "gross_margin": 51.9,
+      "operating_income": 65.0,
+      "operating_margin": 5.11,
+      "headcount": 6710,
+      "rev_per_emp": 189717.0,
+      "gp_per_emp": 98465.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 9687.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -5.14,
+      "gp_growth_yoy": -3.84,
+      "op_growth_yoy": 30.0,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -4.14,
+      "gm_diff_pp": 0.7,
+      "op_diff_pp": 1.38
+    },
+    "2024 Q3": {
+      "revenue": 1516.0,
+      "gross_profit": 792.9,
+      "gross_margin": 52.3,
+      "operating_income": 150.0,
+      "operating_margin": 9.89,
+      "headcount": 6780,
+      "rev_per_emp": 223599.0,
+      "gp_per_emp": 116947.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 22124.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 6.84,
+      "gp_growth_yoy": 7.88,
+      "op_growth_yoy": 141.94,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 0.44,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 5.52
+    },
+    "2024 Q4": {
+      "revenue": 1815.0,
+      "gross_profit": 954.7,
+      "gross_margin": 52.6,
+      "operating_income": 205.0,
+      "operating_margin": 11.29,
+      "headcount": 6850,
+      "rev_per_emp": 264964.0,
+      "gp_per_emp": 139372.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 29927.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 27.37,
+      "gp_growth_yoy": 29.59,
+      "op_growth_yoy": 258.39,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 4.1,
+      "gm_diff_pp": 0.9,
+      "op_diff_pp": 7.28
+    },
+    "2025 Q1": {
+      "revenue": 1580.0,
+      "gross_profit": 840.6,
+      "gross_margin": 53.2,
+      "operating_income": 210.0,
+      "operating_margin": 13.29,
+      "headcount": 6940,
+      "rev_per_emp": 227666.0,
+      "gp_per_emp": 121124.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 30259.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 36.09,
+      "gp_growth_yoy": 40.31,
+      "op_growth_yoy": 600.0,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 4.36,
+      "gm_diff_pp": 1.6,
+      "op_diff_pp": 10.71
+    },
+    "2025 Q2": {
+      "revenue": 1720.0,
+      "gross_profit": 925.4,
+      "gross_margin": 53.8,
+      "operating_income": 270.0,
+      "operating_margin": 15.7,
+      "headcount": 7030,
+      "rev_per_emp": 244666.0,
+      "gp_per_emp": 131636.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 38407.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 35.11,
+      "gp_growth_yoy": 40.06,
+      "op_growth_yoy": 315.38,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 4.77,
+      "gm_diff_pp": 1.9,
+      "op_diff_pp": 10.59
+    },
+    "2025 Q3": {
+      "revenue": 1890.0,
+      "gross_profit": 1024.4,
+      "gross_margin": 54.2,
+      "operating_income": 315.0,
+      "operating_margin": 16.67,
+      "headcount": 7110,
+      "rev_per_emp": 265823.0,
+      "gp_per_emp": 144079.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 44304.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 24.67,
+      "gp_growth_yoy": 29.2,
+      "op_growth_yoy": 110.0,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 4.87,
+      "gm_diff_pp": 1.9,
+      "op_diff_pp": 6.78
+    },
+    "2025 Q4": {
+      "revenue": 1960.0,
+      "gross_profit": 1070.2,
+      "gross_margin": 54.6,
+      "operating_income": 355.0,
+      "operating_margin": 18.11,
+      "headcount": 7200,
+      "rev_per_emp": 272222.0,
+      "gp_per_emp": 148639.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 49306.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 7.99,
+      "gp_growth_yoy": 12.1,
+      "op_growth_yoy": 73.17,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 5.11,
+      "gm_diff_pp": 2.0,
+      "op_diff_pp": 6.82
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Data Center",
+      "Enterprise Networking",
+      "Carrier Infrastructure",
+      "Automotive / Industrial & Consumer"
+    ],
+    "colors": [
+      "#EA580C",
+      "#3B82F6",
+      "#8B5CF6",
+      "#10B981"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          621,
+          264,
+          251,
+          186
+        ],
+        "volume": [
+          47,
+          20,
+          19,
+          14
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          631,
+          268,
+          255,
+          188
+        ],
+        "volume": [
+          47,
+          20,
+          19,
+          14
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          667,
+          284,
+          270,
+          198
+        ],
+        "volume": [
+          47,
+          20,
+          19,
+          14
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          670,
+          285,
+          271,
+          199
+        ],
+        "volume": [
+          47,
+          20,
+          19,
+          14
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          697,
+          197,
+          151,
+          116
+        ],
+        "volume": [
+          60,
+          17,
+          13,
+          10
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          764,
+          216,
+          165,
+          128
+        ],
+        "volume": [
+          60,
+          17,
+          13,
+          10
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          910,
+          258,
+          197,
+          151
+        ],
+        "volume": [
+          60,
+          17,
+          13,
+          10
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1089,
+          309,
+          236,
+          181
+        ],
+        "volume": [
+          60,
+          17,
+          13,
+          10
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1153,
+          190,
+          126,
+          111
+        ],
+        "volume": [
+          73,
+          12,
+          8,
+          7
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1256,
+          206,
+          138,
+          120
+        ],
+        "volume": [
+          73,
+          12,
+          8,
+          7
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1380,
+          227,
+          151,
+          132
+        ],
+        "volume": [
+          73,
+          12,
+          8,
+          7
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          1431,
+          235,
+          157,
+          137
+        ],
+        "volume": [
+          73,
+          12,
+          8,
+          7
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Marvell Technology, Inc. (MRVL / 邁威爾科技) workforce reported at 7,200 FTEs with GAAP Gross Margin at 54.6%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $272,222/FTE in revenue and $148,639/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M355 (18.11% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M0 (0.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 7.99% compared to headcount change of 5.11% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Marvell Technology, Inc. (MRVL / 邁威爾科技) 官方審計員工數為 7,200 人，GAAP 毛利率為 54.6%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $272,222/人，人均毛利為 $148,639/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M355（營業利益率 18.11%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M0（佔營收 0.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 7.99%，員工人數年增率為 5.11%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  }
+}

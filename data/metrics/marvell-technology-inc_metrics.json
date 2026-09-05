@@ -1,0 +1,298 @@
+{
+    "company_name": "Marvell Technology, Inc. (MRVL / 邁威爾科技)",
+    "ticker": "MRVL",
+    "country": {
+        "en": "United States 🇺🇸",
+        "zh": "美國 🇺🇸",
+        "code": "US"
+    },
+    "currency": "USD (Millions)",
+    "unit": "$M",
+    "freq": "annual",
+    "years": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+    ],
+    "financials": {
+        "2020": {
+            "revenue": 2969.1,
+            "cogs": 1475.0,
+            "gross_profit": 1494.1,
+            "gross_margin": 50.32,
+            "operating_income": 67.2,
+            "operating_margin": 2.26,
+            "net_income": -277.3,
+            "net_margin": -9.34,
+            "rd_expense": 958.4,
+            "rd_pct_rev": 32.28,
+            "headcount": 5800,
+            "rev_per_emp": 511914.0,
+            "gp_per_emp": 257603.0,
+            "op_per_emp": 11586.0,
+            "ni_per_emp": -47810.0,
+            "rd_per_emp": 165241.0,
+            "rev_growth_yoy": 10.02,
+            "gp_growth_yoy": 11.2,
+            "op_growth_yoy": 15.2,
+            "ni_growth_yoy": 22.1,
+            "rd_growth_yoy": 8.5,
+            "hc_growth_yoy": 4.5,
+            "gm_diff_pp": 0.53,
+            "op_diff_pp": 0.1
+        },
+        "2021": {
+            "revenue": 4462.4,
+            "cogs": 2185.2,
+            "gross_profit": 2277.2,
+            "gross_margin": 51.03,
+            "operating_income": 242.1,
+            "operating_margin": 5.42,
+            "net_income": -421.0,
+            "net_margin": -9.43,
+            "rd_expense": 1385.0,
+            "rd_pct_rev": 31.04,
+            "headcount": 6700,
+            "rev_per_emp": 666030.0,
+            "gp_per_emp": 339881.0,
+            "op_per_emp": 36134.0,
+            "ni_per_emp": -62836.0,
+            "rd_per_emp": 206716.0,
+            "rev_growth_yoy": 50.3,
+            "gp_growth_yoy": 52.41,
+            "op_growth_yoy": 260.27,
+            "ni_growth_yoy": -51.82,
+            "rd_growth_yoy": 44.51,
+            "hc_growth_yoy": 15.52,
+            "gm_diff_pp": 0.71,
+            "op_diff_pp": 3.16
+        },
+        "2022": {
+            "revenue": 5919.6,
+            "cogs": 2789.9,
+            "gross_profit": 3129.7,
+            "gross_margin": 52.87,
+            "operating_income": 652.4,
+            "operating_margin": 11.02,
+            "net_income": -163.5,
+            "net_margin": -2.76,
+            "rd_expense": 1732.2,
+            "rd_pct_rev": 29.26,
+            "headcount": 7450,
+            "rev_per_emp": 794577.0,
+            "gp_per_emp": 420094.0,
+            "op_per_emp": 87570.0,
+            "ni_per_emp": -21946.0,
+            "rd_per_emp": 232510.0,
+            "rev_growth_yoy": 32.66,
+            "gp_growth_yoy": 37.44,
+            "op_growth_yoy": 169.48,
+            "ni_growth_yoy": 61.16,
+            "rd_growth_yoy": 25.07,
+            "hc_growth_yoy": 11.19,
+            "gm_diff_pp": 1.84,
+            "op_diff_pp": 5.6
+        },
+        "2023": {
+            "revenue": 5507.7,
+            "cogs": 2668.0,
+            "gross_profit": 2839.7,
+            "gross_margin": 51.56,
+            "operating_income": 224.2,
+            "operating_margin": 4.07,
+            "net_income": -933.4,
+            "net_margin": -16.95,
+            "rd_expense": 1780.4,
+            "rd_pct_rev": 32.33,
+            "headcount": 6580,
+            "rev_per_emp": 837036.0,
+            "gp_per_emp": 431565.0,
+            "op_per_emp": 34073.0,
+            "ni_per_emp": -141854.0,
+            "rd_per_emp": 270578.0,
+            "rev_growth_yoy": -6.96,
+            "gp_growth_yoy": -9.27,
+            "op_growth_yoy": -65.63,
+            "ni_growth_yoy": -470.89,
+            "rd_growth_yoy": 2.78,
+            "hc_growth_yoy": -11.68,
+            "gm_diff_pp": -1.31,
+            "op_diff_pp": -6.95
+        },
+        "2024": {
+            "revenue": 5765.0,
+            "cogs": 2760.0,
+            "gross_profit": 3005.0,
+            "gross_margin": 52.12,
+            "operating_income": 450.0,
+            "operating_margin": 7.81,
+            "net_income": -220.0,
+            "net_margin": -3.82,
+            "rd_expense": 1850.0,
+            "rd_pct_rev": 32.09,
+            "headcount": 6850,
+            "rev_per_emp": 841606.0,
+            "gp_per_emp": 438686.0,
+            "op_per_emp": 65693.0,
+            "ni_per_emp": -32117.0,
+            "rd_per_emp": 270073.0,
+            "rev_growth_yoy": 4.67,
+            "gp_growth_yoy": 5.82,
+            "op_growth_yoy": 100.71,
+            "ni_growth_yoy": 76.43,
+            "rd_growth_yoy": 3.91,
+            "hc_growth_yoy": 4.1,
+            "gm_diff_pp": 0.56,
+            "op_diff_pp": 3.74
+        },
+        "2025": {
+            "revenue": 7150.0,
+            "cogs": 3289.0,
+            "gross_profit": 3861.0,
+            "gross_margin": 54.0,
+            "operating_income": 1150.0,
+            "operating_margin": 16.08,
+            "net_income": 650.0,
+            "net_margin": 9.09,
+            "rd_expense": 2050.0,
+            "rd_pct_rev": 28.67,
+            "headcount": 7200,
+            "rev_per_emp": 993056.0,
+            "gp_per_emp": 536250.0,
+            "op_per_emp": 159722.0,
+            "ni_per_emp": 90278.0,
+            "rd_per_emp": 284722.0,
+            "rev_growth_yoy": 24.02,
+            "gp_growth_yoy": 28.49,
+            "op_growth_yoy": 155.56,
+            "ni_growth_yoy": 395.45,
+            "rd_growth_yoy": 10.81,
+            "hc_growth_yoy": 5.11,
+            "gm_diff_pp": 1.88,
+            "op_diff_pp": 8.27
+        }
+    },
+    "sales_breakdown": {
+        "units": "$M",
+        "categories": [
+            "Data Center (Custom AI ASIC & Optical PAM4 DSP)",
+            "Enterprise Networking (Switching & PHY)",
+            "Carrier Infrastructure (5G Baseband & Transport)",
+            "Automotive / Industrial & Consumer"
+        ],
+        "colors": [
+            "#EA580C",
+            "#3B82F6",
+            "#8B5CF6",
+            "#10B981"
+        ],
+        "data": {
+            "2020": {
+                "value": [
+                    1188,
+                    653,
+                    594,
+                    534
+                ],
+                "volume": [
+                    40,
+                    22,
+                    20,
+                    18
+                ]
+            },
+            "2021": {
+                "value": [
+                    1785,
+                    937,
+                    892,
+                    848
+                ],
+                "volume": [
+                    40,
+                    21,
+                    20,
+                    19
+                ]
+            },
+            "2022": {
+                "value": [
+                    2486,
+                    1243,
+                    1184,
+                    1006
+                ],
+                "volume": [
+                    42,
+                    21,
+                    20,
+                    17
+                ]
+            },
+            "2023": {
+                "value": [
+                    2588,
+                    1102,
+                    1046,
+                    771
+                ],
+                "volume": [
+                    47,
+                    20,
+                    19,
+                    14
+                ]
+            },
+            "2024": {
+                "value": [
+                    3459,
+                    980,
+                    750,
+                    576
+                ],
+                "volume": [
+                    60,
+                    17,
+                    13,
+                    10
+                ]
+            },
+            "2025": {
+                "value": [
+                    5220,
+                    858,
+                    572,
+                    500
+                ],
+                "volume": [
+                    73,
+                    12,
+                    8,
+                    7
+                ]
+            }
+        }
+    },
+    "insights": {
+        "the_pivot": {
+            "en": "Marvell successfully pivoted from legacy enterprise storage and carrier infrastructure into custom AI compute (ASIC for Hyperscalers) and 800G/1.6T electro-optics (Inphi PAM4 DSP), expanding Data Center revenue to 73% of sales and lifting gross margins to 54.0%.",
+            "zh": "Marvell 成功從傳統企業儲存與電信基地台轉型至雲端超大規模客製化 AI ASIC 運算與 800G/1.6T 光互連 PAM4 DSP (Inphi)，推升資料中心營收佔比衝上 73%，帶動毛利率重返 54.0% 與營業利益大幅翻倍。"
+        },
+        "productivity": {
+            "en": "With a lean engineering workforce of 7,200 FTEs, revenue per employee soared to nearly $1.0M/FTE ($993k) and gross profit per employee reached $536k.",
+            "zh": "在 7,200 名精實晶片設計團隊下，人均營收逼近百萬美元門檻（99.3 萬美元/人），人均毛利達 53.6 萬美元，展現極致之客製化晶片營運槓桿。"
+        },
+        "value_vs_volume": {
+            "en": "AI Data Center optical DSPs and custom compute silicon account for over 73% of revenue, offsetting post-5G carrier spending normalization.",
+            "zh": "AI 資料中心光電 DSP 與客製運算晶片貢獻超過 73% 營收，強力吸收 5G 電信基礎設施資本支出降溫之衝擊。"
+        }
+    },
+    "lean_maturity": {
+        "score": 4.8,
+        "rating": "Level 5 - AI Compute & Electro-Optic Heterogeneous Architecture",
+        "description": "Leading the industry in 3nm/2nm custom AI accelerators, PCIe Gen6 retimers, 3D optical packaging (CPO/LPO), and high-speed SerDes interconnect."
+    }
+}

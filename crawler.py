@@ -212,7 +212,16 @@ TICKER_SLUGS = {
     "linde-plc": ["linde", "lin", "linde-plc"],
     "snps": ["synopsys", "snps", "synopsys-inc"],
     "synopsys": ["synopsys", "snps", "synopsys-inc"],
-    "synopsys-inc": ["synopsys", "snps", "synopsys-inc"]
+    "synopsys-inc": ["synopsys", "snps", "synopsys-inc"],
+    "cdns": ["cadence-design-systems", "cdns", "cadence"],
+    "cadence": ["cadence-design-systems", "cdns", "cadence"],
+    "cadence-design-systems": ["cadence-design-systems", "cdns", "cadence"],
+    "cadence-design-systems-inc": ["cadence-design-systems", "cdns", "cadence"],
+    "mrvl": ["marvell-technology", "mrvl", "marvell"],
+    "marvell": ["marvell-technology", "mrvl", "marvell"],
+    "marvell-technology": ["marvell-technology", "mrvl", "marvell"],
+    "marvell-technology-inc": ["marvell-technology", "mrvl", "marvell"],
+    "marvell-technology-group": ["marvell-technology", "mrvl", "marvell"]
 };
 
 class AnnualReportCrawler:

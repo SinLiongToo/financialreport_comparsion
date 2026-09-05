@@ -1,0 +1,302 @@
+{
+  "company_name": "Cadence Design Systems, Inc. (CDNS / 益華電腦)",
+  "ticker": "CDNS",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "annual",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "financials": {
+    "2020": {
+      "revenue": 2682.8,
+      "cogs": 293.1,
+      "gross_profit": 2389.7,
+      "gross_margin": 89.08,
+      "operating_income": 674.3,
+      "operating_margin": 25.13,
+      "net_income": 590.9,
+      "net_margin": 22.03,
+      "rd_expense": 1029.1,
+      "rd_pct_rev": 38.36,
+      "headcount": 8900,
+      "rev_per_emp": 301438.0,
+      "gp_per_emp": 268506.0,
+      "op_per_emp": 75764.0,
+      "ni_per_emp": 66393.0,
+      "rd_per_emp": 115629.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2021": {
+      "revenue": 2988.4,
+      "cogs": 314.2,
+      "gross_profit": 2674.2,
+      "gross_margin": 89.49,
+      "operating_income": 770.2,
+      "operating_margin": 25.77,
+      "net_income": 696.0,
+      "net_margin": 23.29,
+      "rd_expense": 1135.2,
+      "rd_pct_rev": 37.99,
+      "headcount": 9300,
+      "rev_per_emp": 321333.0,
+      "gp_per_emp": 287548.0,
+      "op_per_emp": 82817.0,
+      "ni_per_emp": 74839.0,
+      "rd_per_emp": 122065.0,
+      "rev_growth_yoy": 11.39,
+      "gp_growth_yoy": 11.91,
+      "op_growth_yoy": 14.22,
+      "ni_growth_yoy": 17.79,
+      "rd_growth_yoy": 10.31,
+      "hc_growth_yoy": 4.49,
+      "gm_diff_pp": 0.41,
+      "op_diff_pp": 0.64
+    },
+    "2022": {
+      "revenue": 3561.7,
+      "cogs": 383.8,
+      "gross_profit": 3177.9,
+      "gross_margin": 89.22,
+      "operating_income": 1074.8,
+      "operating_margin": 30.18,
+      "net_income": 848.8,
+      "net_margin": 23.83,
+      "rd_expense": 1326.1,
+      "rd_pct_rev": 37.23,
+      "headcount": 10200,
+      "rev_per_emp": 349186.0,
+      "gp_per_emp": 311559.0,
+      "op_per_emp": 105373.0,
+      "ni_per_emp": 83216.0,
+      "rd_per_emp": 130010.0,
+      "rev_growth_yoy": 19.18,
+      "gp_growth_yoy": 18.84,
+      "op_growth_yoy": 39.55,
+      "ni_growth_yoy": 21.95,
+      "rd_growth_yoy": 16.82,
+      "hc_growth_yoy": 9.68,
+      "gm_diff_pp": -0.27,
+      "op_diff_pp": 4.41
+    },
+    "2023": {
+      "revenue": 4090.0,
+      "cogs": 458.1,
+      "gross_profit": 3631.9,
+      "gross_margin": 88.8,
+      "operating_income": 1250.3,
+      "operating_margin": 30.57,
+      "net_income": 1041.4,
+      "net_margin": 25.46,
+      "rd_expense": 1540.2,
+      "rd_pct_rev": 37.66,
+      "headcount": 11200,
+      "rev_per_emp": 365179.0,
+      "gp_per_emp": 324277.0,
+      "op_per_emp": 111634.0,
+      "ni_per_emp": 92982.0,
+      "rd_per_emp": 137518.0,
+      "rev_growth_yoy": 14.83,
+      "gp_growth_yoy": 14.29,
+      "op_growth_yoy": 16.33,
+      "ni_growth_yoy": 22.69,
+      "rd_growth_yoy": 16.15,
+      "hc_growth_yoy": 9.8,
+      "gm_diff_pp": -0.42,
+      "op_diff_pp": 0.39
+    },
+    "2024": {
+      "revenue": 4640.2,
+      "cogs": 530.0,
+      "gross_profit": 4110.2,
+      "gross_margin": 88.58,
+      "operating_income": 1385.1,
+      "operating_margin": 29.85,
+      "net_income": 1105.0,
+      "net_margin": 23.81,
+      "rd_expense": 1710.0,
+      "rd_pct_rev": 36.85,
+      "headcount": 11900,
+      "rev_per_emp": 389933.0,
+      "gp_per_emp": 345395.0,
+      "op_per_emp": 116395.0,
+      "ni_per_emp": 92857.0,
+      "rd_per_emp": 143697.0,
+      "rev_growth_yoy": 13.45,
+      "gp_growth_yoy": 13.17,
+      "op_growth_yoy": 10.78,
+      "ni_growth_yoy": 6.11,
+      "rd_growth_yoy": 11.02,
+      "hc_growth_yoy": 6.25,
+      "gm_diff_pp": -0.22,
+      "op_diff_pp": -0.72
+    },
+    "2025": {
+      "revenue": 5250.0,
+      "cogs": 598.5,
+      "gross_profit": 4651.5,
+      "gross_margin": 88.6,
+      "operating_income": 1620.0,
+      "operating_margin": 30.86,
+      "net_income": 1320.0,
+      "net_margin": 25.14,
+      "rd_expense": 1920.0,
+      "rd_pct_rev": 36.57,
+      "headcount": 12500,
+      "rev_per_emp": 420000.0,
+      "gp_per_emp": 372120.0,
+      "op_per_emp": 129600.0,
+      "ni_per_emp": 105600.0,
+      "rd_per_emp": 153600.0,
+      "rev_growth_yoy": 13.14,
+      "gp_growth_yoy": 13.17,
+      "op_growth_yoy": 16.96,
+      "ni_growth_yoy": 19.46,
+      "rd_growth_yoy": 12.28,
+      "hc_growth_yoy": 5.04,
+      "gm_diff_pp": 0.02,
+      "op_diff_pp": 1.01
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Custom IC & Digital IC Design/Signoff",
+      "Functional Verification & Emulation (Palladium/Protium)",
+      "Design IP & Interconnect",
+      "System Design & Multiphysics Analysis"
+    ],
+    "colors": [
+      "#DC2626",
+      "#F97316",
+      "#3B82F6",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2020": {
+        "value": [
+          1341,
+          644,
+          376,
+          322
+        ],
+        "volume": [
+          50,
+          24,
+          14,
+          12
+        ]
+      },
+      "2021": {
+        "value": [
+          1464,
+          717,
+          448,
+          359
+        ],
+        "volume": [
+          49,
+          24,
+          15,
+          12
+        ]
+      },
+      "2022": {
+        "value": [
+          1710,
+          890,
+          534,
+          428
+        ],
+        "volume": [
+          48,
+          25,
+          15,
+          12
+        ]
+      },
+      "2023": {
+        "value": [
+          1922,
+          1063,
+          573,
+          532
+        ],
+        "volume": [
+          47,
+          26,
+          14,
+          13
+        ]
+      },
+      "2024": {
+        "value": [
+          2134,
+          1253,
+          650,
+          603
+        ],
+        "volume": [
+          46,
+          27,
+          14,
+          13
+        ]
+      },
+      "2025": {
+        "value": [
+          2363,
+          1470,
+          735,
+          682
+        ],
+        "volume": [
+          45,
+          28,
+          14,
+          13
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Cadence Design Systems, Inc. (CDNS / 益華電腦) workforce reported at 12,500 FTEs with GAAP Gross Margin at 88.6%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $420,000/FTE in revenue and $372,120/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M1,620 (30.86% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M1,920 (36.57% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 13.14% compared to headcount change of 5.04% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Cadence Design Systems, Inc. (CDNS / 益華電腦) 官方審計員工數為 12,500 人，GAAP 毛利率為 88.6%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $420,000/人，人均毛利為 $372,120/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M1,620（營業利益率 30.86%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M1,920（佔營收 36.57%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 13.14%，員工人數年增率為 5.04%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  },
+  "lean_maturity": {
+    "score": 4.9,
+    "rating": "Level 5 - Autonomous AI Software & IP Co-Design Synergy",
+    "description": "Pioneering AI-driven electronic design automation (Cerebrus, JedAI, Virtuoso Studio) and hardware emulator clustering across all leading global foundries."
+  }
+}

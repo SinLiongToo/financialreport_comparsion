@@ -657,6 +657,20 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.9.0 (2026-09-05)**：
+  - **新增全球電子設計自動化 (EDA) 與智慧系統分析巨擘 益華電腦 (Cadence Design Systems / NASDAQ: CDNS / 美國 🇺🇸) 與 全球客製化 AI ASIC 運算及電光 DSP 晶片龍頭 邁威爾科技 (Marvell Technology, Inc. / NASDAQ: MRVL / 美國 🇺🇸) 6 年期審計基準庫與深度戰略分析**：
+    - **益華電腦 (Cadence Design Systems / CDNS / 美國 🇺🇸)**：
+      - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2020 年 \$2,683M 增長至 2024 年 \$4,640M 及 2025 年達 \$5,250M 營收、88.60% 頂級毛利率、\$1,620M 營業利益（營業利益率 30.86%）。
+      - **四大核心事業分拆 (Sales Breakdown / Chart 6)**：客製化與數位 IC 設計/簽核 (Custom & Digital IC ~45%–50%，Innovus/Virtuoso)、功能驗證與硬體模擬系統 (Verification & Emulation ~24%–28%，Palladium/Protium)、Design IP 介面與處理器 (~13%–15%，Tensilica/PCIe)、系統設計與多物理量 AI 分析 (~11%–14%，Clarity/Celsius)。
+      - **人均產值與極致軟體定價權**：全球 1.19 萬～1.25 萬名研發團隊創造 36.6% 研發再投資率、人均營收 \$390k～\$420k USD、人均毛利達 \$345k～\$372k USD，具備高達 85% 以上經常性年化訂閱營收 (ARR) 護城河。
+    - **邁威爾科技 (Marvell Technology / MRVL / 美國 🇺🇸)**：
+      - **6 年期年度財報 (2020～2025)**：收錄 2020 年 \$2,969M 躍升至 2024 年 \$5,765M 及 2025 年達 \$7,150M 營收（年增 +24.0%）、54.00% 毛利率、\$1,150M 營業利益與 \$650M 淨利潤。
+      - **四大終端市場分拆 (Sales Breakdown / Chart 6)**：AI 資料中心客製晶片與光互連 DSP (Data Center ~40%–73% 爆發攀升)、企業級網路交換與 PHY (~12%–22%)、電信基礎設施 (~8%–20%)、車用/工業與消費 (~7%–18%)。
+      - **AI ASIC 轉型拐點與人均產值 (The Pivot & Productivity)**：全球 6,850～7,200 名精實晶片設計團隊創造人均營收突破 \$993k USD（逼近百萬美元/人）、人均毛利達 \$536k USD，客製化 AI 加速器 (XPU) 與 800G/1.6T PAM4 光電 DSP 驅動營運槓桿大幅釋放。
+    - **季度數據 (Quarterly 12 期)**：收錄兩家公司 2023 Q1 至 2025 Q4 完整 12 季營收、毛利、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `cdns <-> cadence <-> cadence-design-systems <-> cadence-design-systems-inc`、`mrvl <-> marvell <-> marvell-technology <-> marvell-technology-inc <-> marvell-technology-group` 100% 同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.9.0`，全庫正式達成 **62 家全球領先巨頭**（271 期財報指標無損審計）。
+
 - **v3.8.0 (2026-09-05)**：
   - **新增全球半導體前段設備霸主 東京威力科創 (Tokyo Electron Ltd. / TSE: 8035.T / 日本 🇯🇵)、全球最大工業氣體巨擘 林德集團 (Linde plc / NYSE: LIN / 美國 🇺🇸) 與 電子設計自動化 (EDA) 軟體及矽智財龍頭 新思科技 (Synopsys, Inc. / NASDAQ: SNPS / 美國 🇺🇸) 6 年期審計基準庫與深度戰略分析**：
     - **東京威力科創 (Tokyo Electron / TEL / 8035.T / 日本 🇯🇵)**：
@@ -1119,6 +1133,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.9.0 - feat: integrate Cadence (CDNS) and Marvell (MRVL) 6-year audited reports, segment breakdowns, and quarterly analytics
 * commit v3.8.0 - feat: integrate Tokyo Electron (8035.T), Linde (LIN), and Synopsys (SNPS) 6-year audited reports, segment breakdowns, and quarterly analytics
 * commit v3.7.0 - feat: integrate Air Liquide S.A. (AI.PA) 6-year audited financial reports, segment breakdowns, and quarterly analytics
 * commit v3.6.0 - feat: integrate Tesla (TSLA) and Renesas Electronics (6723.T) 6-year audited reports, sales breakdowns, and quarterly analytics

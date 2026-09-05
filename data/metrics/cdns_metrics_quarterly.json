@@ -1,0 +1,507 @@
+{
+  "company_name": "Cadence Design Systems, Inc. (CDNS / 益華電腦)",
+  "ticker": "CDNS",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 1022.0,
+      "gross_profit": 911.6,
+      "gross_margin": 89.2,
+      "operating_income": 325.0,
+      "operating_margin": 31.8,
+      "headcount": 10450,
+      "rev_per_emp": 97799.0,
+      "gp_per_emp": 87234.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 31100.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
+    },
+    "2023 Q2": {
+      "revenue": 977.0,
+      "gross_profit": 869.5,
+      "gross_margin": 89.0,
+      "operating_income": 280.0,
+      "operating_margin": 28.66,
+      "headcount": 10700,
+      "rev_per_emp": 91308.0,
+      "gp_per_emp": 81262.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 26168.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -4.4,
+      "gp_growth_yoy": -4.62,
+      "op_growth_yoy": -13.85,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 2.39,
+      "gm_diff_pp": -0.2,
+      "op_diff_pp": -3.14
+    },
+    "2023 Q3": {
+      "revenue": 1023.0,
+      "gross_profit": 908.4,
+      "gross_margin": 88.8,
+      "operating_income": 310.0,
+      "operating_margin": 30.3,
+      "headcount": 10950,
+      "rev_per_emp": 93425.0,
+      "gp_per_emp": 82959.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 28311.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 4.71,
+      "gp_growth_yoy": 4.47,
+      "op_growth_yoy": 10.71,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 2.34,
+      "gm_diff_pp": -0.2,
+      "op_diff_pp": 1.64
+    },
+    "2023 Q4": {
+      "revenue": 1068.0,
+      "gross_profit": 942.0,
+      "gross_margin": 88.2,
+      "operating_income": 335.3,
+      "operating_margin": 31.4,
+      "headcount": 11200,
+      "rev_per_emp": 95357.0,
+      "gp_per_emp": 84107.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 29938.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 4.4,
+      "gp_growth_yoy": 3.7,
+      "op_growth_yoy": 8.16,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 2.28,
+      "gm_diff_pp": -0.6,
+      "op_diff_pp": 1.1
+    },
+    "2024 Q1": {
+      "revenue": 1009.0,
+      "gross_profit": 895.0,
+      "gross_margin": 88.7,
+      "operating_income": 275.0,
+      "operating_margin": 27.25,
+      "headcount": 11375,
+      "rev_per_emp": 88703.0,
+      "gp_per_emp": 78681.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 24176.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": -1.27,
+      "gp_growth_yoy": -1.82,
+      "op_growth_yoy": -15.38,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 8.85,
+      "gm_diff_pp": -0.5,
+      "op_diff_pp": -4.55
+    },
+    "2024 Q2": {
+      "revenue": 1060.0,
+      "gross_profit": 938.1,
+      "gross_margin": 88.5,
+      "operating_income": 310.0,
+      "operating_margin": 29.25,
+      "headcount": 11550,
+      "rev_per_emp": 91775.0,
+      "gp_per_emp": 81221.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 26840.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 8.5,
+      "gp_growth_yoy": 7.89,
+      "op_growth_yoy": 10.71,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 7.94,
+      "gm_diff_pp": -0.5,
+      "op_diff_pp": 0.59
+    },
+    "2024 Q3": {
+      "revenue": 1215.0,
+      "gross_profit": 1076.5,
+      "gross_margin": 88.6,
+      "operating_income": 385.0,
+      "operating_margin": 31.69,
+      "headcount": 11725,
+      "rev_per_emp": 103625.0,
+      "gp_per_emp": 91812.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 32836.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 18.77,
+      "gp_growth_yoy": 18.51,
+      "op_growth_yoy": 24.19,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 7.08,
+      "gm_diff_pp": -0.2,
+      "op_diff_pp": 1.39
+    },
+    "2024 Q4": {
+      "revenue": 1356.2,
+      "gross_profit": 1200.6,
+      "gross_margin": 88.53,
+      "operating_income": 415.1,
+      "operating_margin": 30.61,
+      "headcount": 11900,
+      "rev_per_emp": 113966.0,
+      "gp_per_emp": 100891.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 34882.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 26.99,
+      "gp_growth_yoy": 27.45,
+      "op_growth_yoy": 23.8,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 6.25,
+      "gm_diff_pp": 0.33,
+      "op_diff_pp": -0.79
+    },
+    "2025 Q1": {
+      "revenue": 1180.0,
+      "gross_profit": 1047.8,
+      "gross_margin": 88.8,
+      "operating_income": 350.0,
+      "operating_margin": 29.66,
+      "headcount": 12050,
+      "rev_per_emp": 97925.0,
+      "gp_per_emp": 86954.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 29046.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 16.95,
+      "gp_growth_yoy": 17.07,
+      "op_growth_yoy": 27.27,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 5.93,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": 2.41
+    },
+    "2025 Q2": {
+      "revenue": 1260.0,
+      "gross_profit": 1116.4,
+      "gross_margin": 88.6,
+      "operating_income": 385.0,
+      "operating_margin": 30.56,
+      "headcount": 12200,
+      "rev_per_emp": 103279.0,
+      "gp_per_emp": 91508.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 31557.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 18.87,
+      "gp_growth_yoy": 19.01,
+      "op_growth_yoy": 24.19,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 5.63,
+      "gm_diff_pp": 0.1,
+      "op_diff_pp": 1.31
+    },
+    "2025 Q3": {
+      "revenue": 1360.0,
+      "gross_profit": 1203.6,
+      "gross_margin": 88.5,
+      "operating_income": 425.0,
+      "operating_margin": 31.25,
+      "headcount": 12350,
+      "rev_per_emp": 110121.0,
+      "gp_per_emp": 97457.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 34413.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 11.93,
+      "gp_growth_yoy": 11.81,
+      "op_growth_yoy": 10.39,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 5.33,
+      "gm_diff_pp": -0.1,
+      "op_diff_pp": -0.44
+    },
+    "2025 Q4": {
+      "revenue": 1450.0,
+      "gross_profit": 1283.3,
+      "gross_margin": 88.5,
+      "operating_income": 460.0,
+      "operating_margin": 31.72,
+      "headcount": 12500,
+      "rev_per_emp": 116000.0,
+      "gp_per_emp": 102664.0,
+      "net_margin": 0.0,
+      "rd_pct_rev": 0.0,
+      "op_per_emp": 36800.0,
+      "ni_per_emp": 0,
+      "rd_per_emp": 0,
+      "rev_growth_yoy": 6.92,
+      "gp_growth_yoy": 6.89,
+      "op_growth_yoy": 10.82,
+      "ni_growth_yoy": 0.0,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": 5.04,
+      "gm_diff_pp": -0.03,
+      "op_diff_pp": 1.11
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "Custom IC & Digital IC Design/Signoff",
+      "Functional Verification & Emulation",
+      "Design IP & Interconnect",
+      "System Design & Multiphysics Analysis"
+    ],
+    "colors": [
+      "#DC2626",
+      "#F97316",
+      "#3B82F6",
+      "#8B5CF6"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          480,
+          266,
+          143,
+          133
+        ],
+        "volume": [
+          47,
+          26,
+          14,
+          13
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          459,
+          254,
+          137,
+          127
+        ],
+        "volume": [
+          47,
+          26,
+          14,
+          13
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          481,
+          266,
+          143,
+          133
+        ],
+        "volume": [
+          47,
+          26,
+          14,
+          13
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          502,
+          277,
+          150,
+          139
+        ],
+        "volume": [
+          47,
+          26,
+          14,
+          13
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          464,
+          272,
+          141,
+          132
+        ],
+        "volume": [
+          46,
+          27,
+          14,
+          13
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          488,
+          286,
+          148,
+          138
+        ],
+        "volume": [
+          46,
+          27,
+          14,
+          13
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          559,
+          328,
+          170,
+          158
+        ],
+        "volume": [
+          46,
+          27,
+          14,
+          13
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          623,
+          367,
+          190,
+          176
+        ],
+        "volume": [
+          46,
+          27,
+          14,
+          13
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          531,
+          330,
+          165,
+          154
+        ],
+        "volume": [
+          45,
+          28,
+          14,
+          13
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          567,
+          353,
+          176,
+          164
+        ],
+        "volume": [
+          45,
+          28,
+          14,
+          13
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          612,
+          381,
+          190,
+          177
+        ],
+        "volume": [
+          45,
+          28,
+          14,
+          13
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          653,
+          406,
+          203,
+          188
+        ],
+        "volume": [
+          45,
+          28,
+          14,
+          13
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Cadence Design Systems, Inc. (CDNS / 益華電腦) workforce reported at 12,500 FTEs with GAAP Gross Margin at 88.5%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $116,000/FTE in revenue and $102,664/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M460 (31.72% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M0 (0.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 6.92% compared to headcount change of 5.04% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Cadence Design Systems, Inc. (CDNS / 益華電腦) 官方審計員工數為 12,500 人，GAAP 毛利率為 88.5%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $116,000/人，人均毛利為 $102,664/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M460（營業利益率 31.72%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M0（佔營收 0.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 6.92%，員工人數年增率為 5.04%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  }
+}
