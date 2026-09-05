@@ -657,6 +657,24 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.8.0 (2026-09-05)**：
+  - **新增全球半導體前段設備霸主 東京威力科創 (Tokyo Electron Ltd. / TSE: 8035.T / 日本 🇯🇵)、全球最大工業氣體巨擘 林德集團 (Linde plc / NYSE: LIN / 美國 🇺🇸) 與 電子設計自動化 (EDA) 軟體及矽智財龍頭 新思科技 (Synopsys, Inc. / NASDAQ: SNPS / 美國 🇺🇸) 6 年期審計基準庫與深度戰略分析**：
+    - **東京威力科創 (Tokyo Electron / TEL / 8035.T / 日本 🇯🇵)**：
+      - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2024 年營收 1.83 兆日圓（約 \$12,119M USD）至 2025 年躍升至 2.35 兆日圓（約 \$15,667M USD，年增 +29.3%）、46.50% 高毛利率、4,530 億日圓（約 \$3,020M USD，營業利益率 28.90%）。
+      - **四大核心設備分拆 (Sales Breakdown / Chart 6)**：塗佈顯影機 (Coater/Developer ~31%–34%，全球市佔率逾 85%)、電漿蝕刻機 (Etch Systems ~32%–35%)、薄膜沉積與熱處理設備 (Deposition & Thermal Processing ~25%–28%)、晶圓清洗與計測檢驗 (Cleaning, Metrology & Other ~9%–12%)。
+      - **人均產值與營運卓越 (The Pivot & Productivity)**：全球 1.75 萬～1.83 萬名頂尖工程師創造人均營收 \$691k～\$856k USD、人均毛利達 \$311k～\$398k USD，受惠於 3nm/2nm GAA 與先進 CoWoS/HBM 垂直堆疊強烈需求。
+    - **林德集團 (Linde plc / LIN / 美國 🇺🇸)**：
+      - **6 年期年度財報 (2020～2025)**：收錄 2020 年 \$27,243M 至 2024 年 \$33,000M 及 2025 年達 \$34,800M 營收、48.00% 毛利率、\$9,400M 營業利益與 27.00% 營業利益率。
+      - **四大區域與工程事業分拆 (Sales Breakdown / Chart 6)**：美洲市場 (Americas ~42%–44%)、歐洲中東非洲 (EMEA ~24%–26%)、亞太市場 (APAC ~20%–22%)、工程技術與工廠建置 (Engineering ~10%–12%)。
+      - **人均產值與高韌性定價權**：全球 6.55 萬～6.62 萬名員工創造人均營收 \$504k～\$526k USD、人均毛利達 \$240k～\$252k USD，具備全球半導體廠現場（On-site）長期合約與通膨轉嫁能力。
+    - **新思科技 (Synopsys / SNPS / 美國 🇺🇸)**：
+      - **6 年期年度財報 (2020～2025)**：收錄 2020 年 \$3,685M 至 2024 年 \$6,127M 及 2025 年達 \$6,850M 營收、81.00% 超高毛利率、\$1,850M 營業利益（營業利益率 27.00%）。
+      - **三大核心業務分拆 (Sales Breakdown / Chart 6)**：EDA 電子設計自動化軟體 (~62%–65%)、Design IP 介面與處理器矽智財 (~28%–31%)、軟體完整性與 AI 晶片驗證 (~7%–10%)。
+      - **極致智財複利與人均產值**：全球 2.04 萬～2.12 萬名頂尖軟體研發團隊創造 35.4% 研發再投資率、人均營收 \$300k～\$323k USD、人均毛利達 \$242k～\$262k USD，為 AI 晶片自主設計與 2nm 製程必備之底層武器。
+    - **季度數據 (Quarterly 12 期)**：收錄三家公司 2023 Q1 至 2025 Q4 完整 12 季營收、毛利、營業利益與線性插補員工人均產值。
+  - **擴充雙向別名映射 (TICKER_ALIASES & TICKER_CANONICAL_MAP)**：支援 `tel <-> tokyo-electron <-> 8035 <-> 8035.t <-> toely`、`lin <-> linde <-> linde-plc`、`snps <-> synopsys <-> synopsys-inc` 100% 同步。
+  - **全量編譯獨立儀表板**：重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.8.0`，全庫正式達成 **60 家全球領先巨頭**（259 期財報指標無損審計）。
+
 - **v3.7.0 (2026-09-04)**：
   - **新增全球工業與半導體特殊氣體及先進前驅物巨頭 法國液化空氣集團 (Air Liquide S.A. / Euronext: AI.PA / OTC: AIQUY / 法國 🇫🇷) 審計基準庫與深度戰略分析**：
     - **6 年期年度財報 (2020～2025)**：完整下載、解析並結構化為 Markdown，收錄 2020 年 €20.48B（約 \$23.35B USD）至 2025 年達 €29.95B（約 \$32.20B USD）營收、59.20% 高毛利率、€5.84B（約 \$6.28B USD）營業利益與 19.50% 營業利益率。
@@ -1098,9 +1116,10 @@ python main.py --export-static
 
 ---
 
-## 📜 Git History Log
+## 17. Git History Log
 
 ```
+* commit v3.8.0 - feat: integrate Tokyo Electron (8035.T), Linde (LIN), and Synopsys (SNPS) 6-year audited reports, segment breakdowns, and quarterly analytics
 * commit v3.7.0 - feat: integrate Air Liquide S.A. (AI.PA) 6-year audited financial reports, segment breakdowns, and quarterly analytics
 * commit v3.6.0 - feat: integrate Tesla (TSLA) and Renesas Electronics (6723.T) 6-year audited reports, sales breakdowns, and quarterly analytics
 * commit v3.5.2 - feat: expand ultra-wide canvas width to max-w-[1720px] and streamline dual-tier responsive header

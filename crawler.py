@@ -201,7 +201,18 @@ TICKER_SLUGS = {
     "ai.pa": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
     "ai-pa": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
     "aiquy": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
-    "air-liquide-sa": ["air-liquide", "airliquide", "ai.pa", "aiquy"]
+    "air-liquide-sa": ["air-liquide", "airliquide", "ai.pa", "aiquy"],
+    "tel": ["tokyo-electron", "tel", "8035", "toely"],
+    "tokyo-electron": ["tokyo-electron", "tel", "8035", "toely"],
+    "8035": ["tokyo-electron", "tel", "8035", "toely"],
+    "8035.t": ["tokyo-electron", "tel", "8035", "toely"],
+    "toely": ["tokyo-electron", "tel", "8035", "toely"],
+    "lin": ["linde", "lin", "linde-plc"],
+    "linde": ["linde", "lin", "linde-plc"],
+    "linde-plc": ["linde", "lin", "linde-plc"],
+    "snps": ["synopsys", "snps", "synopsys-inc"],
+    "synopsys": ["synopsys", "snps", "synopsys-inc"],
+    "synopsys-inc": ["synopsys", "snps", "synopsys-inc"]
 };
 
 class AnnualReportCrawler:

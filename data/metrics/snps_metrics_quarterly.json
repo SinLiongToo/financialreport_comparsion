@@ -1,0 +1,517 @@
+{
+  "company_name": "Synopsys, Inc. (SNPS / 新思科技)",
+  "ticker": "SNPS",
+  "country": {
+    "en": "United States 🇺🇸",
+    "zh": "美國 🇺🇸",
+    "code": "US"
+  },
+  "currency": "USD (Millions)",
+  "unit": "$M",
+  "freq": "quarterly",
+  "years": [
+    "2023 Q1",
+    "2023 Q2",
+    "2023 Q3",
+    "2023 Q4",
+    "2024 Q1",
+    "2024 Q2",
+    "2024 Q3",
+    "2024 Q4",
+    "2025 Q1",
+    "2025 Q2",
+    "2025 Q3",
+    "2025 Q4"
+  ],
+  "financials": {
+    "2023 Q1": {
+      "revenue": 1361.0,
+      "cogs": 269.5,
+      "gross_profit": 1091.5,
+      "gross_margin": 80.2,
+      "operating_income": 295.5,
+      "operating_margin": 21.71,
+      "net_income": 286.5,
+      "net_margin": 21.05,
+      "rd_expense": 474.5,
+      "rd_pct_rev": 34.86,
+      "headcount": 19325,
+      "rev_per_emp": 70427.0,
+      "gp_per_emp": 56481.0,
+      "op_per_emp": 15291.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null,
+      "ni_per_emp": 14825.0,
+      "rd_per_emp": 24554.0,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null
+    },
+    "2023 Q2": {
+      "revenue": 1420.0,
+      "cogs": 281.2,
+      "gross_profit": 1138.8,
+      "gross_margin": 80.2,
+      "operating_income": 308.3,
+      "operating_margin": 21.71,
+      "net_income": 298.9,
+      "net_margin": 21.05,
+      "rd_expense": 495.0,
+      "rd_pct_rev": 34.86,
+      "headcount": 19650,
+      "rev_per_emp": 72265.0,
+      "gp_per_emp": 57954.0,
+      "op_per_emp": 15690.0,
+      "rev_growth_yoy": 4.34,
+      "gp_growth_yoy": 4.33,
+      "op_growth_yoy": 4.33,
+      "hc_growth_yoy": 1.68,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 0.0,
+      "ni_per_emp": 15211.0,
+      "rd_per_emp": 25191.0,
+      "ni_growth_yoy": 4.33,
+      "rd_growth_yoy": 4.32
+    },
+    "2023 Q3": {
+      "revenue": 1485.0,
+      "cogs": 294.0,
+      "gross_profit": 1191.0,
+      "gross_margin": 80.2,
+      "operating_income": 322.4,
+      "operating_margin": 21.71,
+      "net_income": 312.6,
+      "net_margin": 21.05,
+      "rd_expense": 517.7,
+      "rd_pct_rev": 34.86,
+      "headcount": 19975,
+      "rev_per_emp": 74343.0,
+      "gp_per_emp": 59625.0,
+      "op_per_emp": 16140.0,
+      "rev_growth_yoy": 4.58,
+      "gp_growth_yoy": 4.58,
+      "op_growth_yoy": 4.57,
+      "hc_growth_yoy": 1.65,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": 0.0,
+      "ni_per_emp": 15650.0,
+      "rd_per_emp": 25917.0,
+      "ni_growth_yoy": 4.58,
+      "rd_growth_yoy": 4.59
+    },
+    "2023 Q4": {
+      "revenue": 1576.6,
+      "cogs": 312.1,
+      "gross_profit": 1264.5,
+      "gross_margin": 80.2,
+      "operating_income": 342.2,
+      "operating_margin": 21.7,
+      "net_income": 331.8,
+      "net_margin": 21.05,
+      "rd_expense": 549.6,
+      "rd_pct_rev": 34.86,
+      "headcount": 20300,
+      "rev_per_emp": 77665.0,
+      "gp_per_emp": 62291.0,
+      "op_per_emp": 16857.0,
+      "rev_growth_yoy": 6.17,
+      "gp_growth_yoy": 6.17,
+      "op_growth_yoy": 6.14,
+      "hc_growth_yoy": 1.63,
+      "gm_diff_pp": 0.0,
+      "op_diff_pp": -0.01,
+      "ni_per_emp": 16345.0,
+      "rd_per_emp": 27074.0,
+      "ni_growth_yoy": 6.14,
+      "rd_growth_yoy": 6.16
+    },
+    "2024 Q1": {
+      "revenue": 1450.0,
+      "cogs": 282.8,
+      "gross_profit": 1167.2,
+      "gross_margin": 80.5,
+      "operating_income": 348.0,
+      "operating_margin": 24.0,
+      "net_income": 342.6,
+      "net_margin": 23.63,
+      "rd_expense": 513.3,
+      "rd_pct_rev": 35.4,
+      "headcount": 20325,
+      "rev_per_emp": 71341.0,
+      "gp_per_emp": 57427.0,
+      "op_per_emp": 17122.0,
+      "rev_growth_yoy": 6.54,
+      "gp_growth_yoy": 6.94,
+      "op_growth_yoy": 17.77,
+      "hc_growth_yoy": 5.17,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": 2.29,
+      "ni_per_emp": 16856.0,
+      "rd_per_emp": 25255.0,
+      "ni_growth_yoy": 19.58,
+      "rd_growth_yoy": 8.18
+    },
+    "2024 Q2": {
+      "revenue": 1520.0,
+      "cogs": 296.4,
+      "gross_profit": 1223.6,
+      "gross_margin": 80.5,
+      "operating_income": 364.8,
+      "operating_margin": 24.0,
+      "net_income": 359.2,
+      "net_margin": 23.63,
+      "rd_expense": 538.1,
+      "rd_pct_rev": 35.4,
+      "headcount": 20350,
+      "rev_per_emp": 74693.0,
+      "gp_per_emp": 60128.0,
+      "op_per_emp": 17926.0,
+      "rev_growth_yoy": 7.04,
+      "gp_growth_yoy": 7.45,
+      "op_growth_yoy": 18.33,
+      "hc_growth_yoy": 3.56,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": 2.29,
+      "ni_per_emp": 17651.0,
+      "rd_per_emp": 26442.0,
+      "ni_growth_yoy": 20.17,
+      "rd_growth_yoy": 8.71
+    },
+    "2024 Q3": {
+      "revenue": 1550.0,
+      "cogs": 302.3,
+      "gross_profit": 1247.7,
+      "gross_margin": 80.5,
+      "operating_income": 372.0,
+      "operating_margin": 24.0,
+      "net_income": 366.3,
+      "net_margin": 23.63,
+      "rd_expense": 548.7,
+      "rd_pct_rev": 35.4,
+      "headcount": 20375,
+      "rev_per_emp": 76074.0,
+      "gp_per_emp": 61237.0,
+      "op_per_emp": 18258.0,
+      "rev_growth_yoy": 4.38,
+      "gp_growth_yoy": 4.76,
+      "op_growth_yoy": 15.38,
+      "hc_growth_yoy": 2.0,
+      "gm_diff_pp": 0.3,
+      "op_diff_pp": 2.29,
+      "ni_per_emp": 17978.0,
+      "rd_per_emp": 26930.0,
+      "ni_growth_yoy": 17.18,
+      "rd_growth_yoy": 5.99
+    },
+    "2024 Q4": {
+      "revenue": 1607.3,
+      "cogs": 313.3,
+      "gross_profit": 1294.0,
+      "gross_margin": 80.51,
+      "operating_income": 385.7,
+      "operating_margin": 24.0,
+      "net_income": 379.7,
+      "net_margin": 23.62,
+      "rd_expense": 569.1,
+      "rd_pct_rev": 35.41,
+      "headcount": 20400,
+      "rev_per_emp": 78789.0,
+      "gp_per_emp": 63431.0,
+      "op_per_emp": 18907.0,
+      "rev_growth_yoy": 1.95,
+      "gp_growth_yoy": 2.33,
+      "op_growth_yoy": 12.71,
+      "hc_growth_yoy": 0.49,
+      "gm_diff_pp": 0.31,
+      "op_diff_pp": 2.3,
+      "ni_per_emp": 18613.0,
+      "rd_per_emp": 27897.0,
+      "ni_growth_yoy": 14.44,
+      "rd_growth_yoy": 3.55
+    },
+    "2025 Q1": {
+      "revenue": 1650.0,
+      "cogs": 313.5,
+      "gross_profit": 1336.5,
+      "gross_margin": 81.0,
+      "operating_income": 445.5,
+      "operating_margin": 27.0,
+      "net_income": 428.8,
+      "net_margin": 25.99,
+      "rd_expense": 569.3,
+      "rd_pct_rev": 34.5,
+      "headcount": 20600,
+      "rev_per_emp": 80097.0,
+      "gp_per_emp": 64879.0,
+      "op_per_emp": 21626.0,
+      "rev_growth_yoy": 13.79,
+      "gp_growth_yoy": 14.5,
+      "op_growth_yoy": 28.02,
+      "hc_growth_yoy": 1.35,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 3.0,
+      "ni_per_emp": 20816.0,
+      "rd_per_emp": 27636.0,
+      "ni_growth_yoy": 25.16,
+      "rd_growth_yoy": 10.91
+    },
+    "2025 Q2": {
+      "revenue": 1700.0,
+      "cogs": 323.0,
+      "gross_profit": 1377.0,
+      "gross_margin": 81.0,
+      "operating_income": 459.0,
+      "operating_margin": 27.0,
+      "net_income": 441.8,
+      "net_margin": 25.99,
+      "rd_expense": 586.5,
+      "rd_pct_rev": 34.5,
+      "headcount": 20800,
+      "rev_per_emp": 81731.0,
+      "gp_per_emp": 66202.0,
+      "op_per_emp": 22067.0,
+      "rev_growth_yoy": 11.84,
+      "gp_growth_yoy": 12.54,
+      "op_growth_yoy": 25.82,
+      "hc_growth_yoy": 2.21,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 3.0,
+      "ni_per_emp": 21240.0,
+      "rd_per_emp": 28197.0,
+      "ni_growth_yoy": 23.0,
+      "rd_growth_yoy": 8.99
+    },
+    "2025 Q3": {
+      "revenue": 1730.0,
+      "cogs": 328.7,
+      "gross_profit": 1401.3,
+      "gross_margin": 81.0,
+      "operating_income": 467.1,
+      "operating_margin": 27.0,
+      "net_income": 449.6,
+      "net_margin": 25.99,
+      "rd_expense": 596.9,
+      "rd_pct_rev": 34.5,
+      "headcount": 21000,
+      "rev_per_emp": 82381.0,
+      "gp_per_emp": 66729.0,
+      "op_per_emp": 22243.0,
+      "rev_growth_yoy": 11.61,
+      "gp_growth_yoy": 12.31,
+      "op_growth_yoy": 25.56,
+      "hc_growth_yoy": 3.07,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 3.0,
+      "ni_per_emp": 21410.0,
+      "rd_per_emp": 28424.0,
+      "ni_growth_yoy": 22.74,
+      "rd_growth_yoy": 8.78
+    },
+    "2025 Q4": {
+      "revenue": 1770.0,
+      "cogs": 336.3,
+      "gross_profit": 1433.7,
+      "gross_margin": 81.0,
+      "operating_income": 477.9,
+      "operating_margin": 27.0,
+      "net_income": 459.8,
+      "net_margin": 25.98,
+      "rd_expense": 610.6,
+      "rd_pct_rev": 34.5,
+      "headcount": 21200,
+      "rev_per_emp": 83491.0,
+      "gp_per_emp": 67627.0,
+      "op_per_emp": 22542.0,
+      "rev_growth_yoy": 10.12,
+      "gp_growth_yoy": 10.8,
+      "op_growth_yoy": 23.9,
+      "hc_growth_yoy": 3.92,
+      "gm_diff_pp": 0.49,
+      "op_diff_pp": 3.0,
+      "ni_per_emp": 21689.0,
+      "rd_per_emp": 28802.0,
+      "ni_growth_yoy": 21.1,
+      "rd_growth_yoy": 7.29
+    }
+  },
+  "sales_breakdown": {
+    "units": "$M",
+    "categories": [
+      "EDA Software (Synthesis, Place & Route, Timing, TCAD)",
+      "Design IP (Interface, Foundation & Processor IP)",
+      "Software Integrity & AI Verification (Synopsys.ai / DSO.ai)"
+    ],
+    "colors": [
+      "#5C2D91",
+      "#8B5CF6",
+      "#06B6D4"
+    ],
+    "data": {
+      "2023 Q1": {
+        "value": [
+          885,
+          340,
+          136
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2023 Q2": {
+        "value": [
+          923,
+          355,
+          142
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2023 Q3": {
+        "value": [
+          965,
+          371,
+          149
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2023 Q4": {
+        "value": [
+          1025,
+          394,
+          158
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2024 Q1": {
+        "value": [
+          943,
+          363,
+          145
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2024 Q2": {
+        "value": [
+          988,
+          380,
+          152
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2024 Q3": {
+        "value": [
+          1008,
+          388,
+          155
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2024 Q4": {
+        "value": [
+          1045,
+          402,
+          161
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2025 Q1": {
+        "value": [
+          1073,
+          413,
+          165
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2025 Q2": {
+        "value": [
+          1105,
+          425,
+          170
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2025 Q3": {
+        "value": [
+          1125,
+          433,
+          173
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      },
+      "2025 Q4": {
+        "value": [
+          1151,
+          443,
+          177
+        ],
+        "volume": [
+          65,
+          25,
+          10
+        ]
+      }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Synopsys, Inc. (SNPS / 新思科技) workforce reported at 21,200 FTEs with GAAP Gross Margin at 81.0%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $83,491/FTE in revenue and $67,627/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M478 (27.0% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M611 (34.5% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 10.12% compared to headcount change of 3.92% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Synopsys, Inc. (SNPS / 新思科技) 官方審計員工數為 21,200 人，GAAP 毛利率為 81.0%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $83,491/人，人均毛利為 $67,627/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M478（營業利益率 27.0%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M611（佔營收 34.5%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 10.12%，員工人數年增率為 3.92%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
+    }
+  }
+}

@@ -154,6 +154,17 @@ const SCATTER_METRICS = {
 };
 
 const COMPANY_COLORS = {
+    "tel": "#DC2626",
+    "8035": "#DC2626",
+    "8035.t": "#DC2626",
+    "tokyo-electron": "#DC2626",
+    "toely": "#DC2626",
+    "lin": "#0072CE",
+    "linde": "#0072CE",
+    "linde-plc": "#0072CE",
+    "snps": "#5C2D91",
+    "synopsys": "#5C2D91",
+    "synopsys-inc": "#5C2D91",
     "air-liquide": "#0055A5",
     "airliquide": "#0055A5",
     "ai.pa": "#0055A5",
@@ -293,6 +304,17 @@ const COMPANY_COLORS = {
 };
 
 const COMPANY_COUNTRIES = {
+    "tel": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "8035": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "8035.t": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "tokyo-electron": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "toely": { en: "Japan 🇯🇵", zh: "日本 🇯🇵", code: "JP" },
+    "lin": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "linde": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "linde-plc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "snps": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "synopsys": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
+    "synopsys-inc": { en: "United States 🇺🇸", zh: "美國 🇺🇸", code: "US" },
     "air-liquide": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
     "airliquide": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
     "ai.pa": { en: "France 🇫🇷", zh: "法國 🇫🇷", code: "FR" },
@@ -499,6 +521,17 @@ const COMPANY_COUNTRIES = {
 };
 
 const COMPANY_SECTORS = {
+    "tel": "EQUIPMENT",
+    "8035": "EQUIPMENT",
+    "8035.t": "EQUIPMENT",
+    "tokyo-electron": "EQUIPMENT",
+    "toely": "EQUIPMENT",
+    "lin": "EQUIPMENT",
+    "linde": "EQUIPMENT",
+    "linde-plc": "EQUIPMENT",
+    "snps": "FABLESS",
+    "synopsys": "FABLESS",
+    "synopsys-inc": "FABLESS",
     "air-liquide": "EQUIPMENT",
     "airliquide": "EQUIPMENT",
     "ai.pa": "EQUIPMENT",
@@ -719,6 +752,17 @@ let CURRENT_COMPARE_COUNTRY_FILTER = new Set(["ALL"]);
 let CURRENT_COMPARE_SECTOR_FILTER  = new Set(["ALL"]);
 
 const TICKER_CANONICAL_MAP = {
+    "tel": "tel",
+    "8035": "tel",
+    "8035.t": "tel",
+    "tokyo-electron": "tel",
+    "toely": "tel",
+    "lin": "lin",
+    "linde": "lin",
+    "linde-plc": "lin",
+    "snps": "snps",
+    "synopsys": "snps",
+    "synopsys-inc": "snps",
     "air-liquide": "air-liquide",
     "airliquide": "air-liquide",
     "ai.pa": "air-liquide",
@@ -982,7 +1026,7 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-04",
+        header_updated: "Updated: 2026-09-05",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -1126,7 +1170,7 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-04",
+        header_updated: "更新日期：2026-09-05",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -2493,7 +2537,7 @@ async function loadCompaniesList() {
                 const canon = FinancialMetricsExtractor_canonical_ticker(k).toUpperCase();
                 if (canon) canonicalSet.add(canon);
             });
-            const orderedPriority = ["AIR-LIQUIDE", "TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
+            const orderedPriority = ["TEL", "LIN", "SNPS", "AIR-LIQUIDE", "TSLA", "RENESAS", "WIN-SEMI", "STM", "SK-HYNIX", "SUMCO", "SHIN-ETSU", "GLOBALWAFERS", "ASUS", "ASML", "TSMC", "MEDIATEK", "QUANTA", "WISTRON", "PEGATRON", "MERCK-KGAA", "MA-TEK", "AVGO", "LRCX", "ADI", "TXN", "SWKS", "AGILENT", "INTC", "VIS", "PSMC", "REALTEK", "NVDA", "QCOM", "ARM", "FOXCONN", "DELTA", "UMC", "MSFT", "GOOGL", "AAPL", "AMD", "MU", "KLAC", "TER", "ASE", "NXP", "INFINEON", "TTM", "VSH", "META", "AMZN", "PLTR", "ONDS", "ANTHROPIC", "CHATGPT", "SHIELD-AI", "ANDURIL", "AMAT", "ADVANTEST", "SAMSUNG"];
             companies = orderedPriority.filter(c => canonicalSet.has(c));
             canonicalSet.forEach(c => {
                 if (!companies.includes(c)) companies.push(c);
@@ -2510,6 +2554,17 @@ async function loadCompaniesList() {
             select.innerHTML = "";
 
             const friendlyNames = {
+                "TEL": "Tokyo Electron (8035.T / 東京威力科創)",
+                "8035": "Tokyo Electron (8035.T / 東京威力科創)",
+                "8035.T": "Tokyo Electron (8035.T / 東京威力科創)",
+                "TOKYO-ELECTRON": "Tokyo Electron (8035.T / 東京威力科創)",
+                "TOELY": "Tokyo Electron (8035.T / 東京威力科創)",
+                "LIN": "Linde plc (LIN / 林德集團)",
+                "LINDE": "Linde plc (LIN / 林德集團)",
+                "LINDE-PLC": "Linde plc (LIN / 林德集團)",
+                "SNPS": "Synopsys, Inc. (SNPS / 新思科技)",
+                "SYNOPSYS": "Synopsys, Inc. (SNPS / 新思科技)",
+                "SYNOPSYS-INC": "Synopsys, Inc. (SNPS / 新思科技)",
                 "AIR-LIQUIDE": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
                 "AIRLIQUIDE": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
                 "AI.PA": "Air Liquide S.A. (AI.PA / 液化空氣集團)",
