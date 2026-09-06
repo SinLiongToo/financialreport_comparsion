@@ -952,6 +952,19 @@ python main.py --export-static
   - **擴充多幣別與雙向別名映射 (TICKER_ALIASES)**：支援 `merck-kgaa <-> mrk-de <-> mrk.de <-> mkgay <-> emd <-> merck-group` 自動關聯。
   - **全量產出單機版與 GitHub Pages**：升級版本號至 `v2.2.0`（`Updated: 2026-08-30`），重構 `standalone_dashboard.html` 與 `docs/index.html`。
 
+- **v3.10.0 (2026-09-06)**：
+  - **產業戰略洞察與深度研究筆記庫全面擴充 (Industry Strategic Insights & Deep Research Notes Archive)**：
+    - **全賽道標準化升級**：將第 3 大模組由單一前沿 AI/國防擴充至 **7 大關鍵科技產業賽道**，各卡片統一配置黃金標準結構（主管摘要、審計指標對比矩陣、4大會計與商業機制深度拆解、營運槓桿拐點演化路徑、一鍵複製 Markdown）。
+    - **🤖 前沿 AI 與國防軍工 (`AI_DEFENSE`)**：Anthropic, OpenAI, Shield AI, Anduril, Palantir, Ondas 萬億參數算力研發費用化與營運槓桿拐點。
+    - **⚡ 晶圓製造與 IDM (`FOUNDRY`)**：台積電 (TSMC), 英特爾 (Intel), 格羅方德 (GFS), 世界先進 (VIS), 瑞薩 (Renesas), 意法半導體 (STM) 先進製程 53%+ 霸權定價權 vs. 重資產晶圓廠 CapEx 折舊與產能利用率悖論（The Pivot 拐點模型）。
+    - **🧠 IC 設計與無晶圓廠 (`FABLESS`)**：輝達 (NVIDIA), 博通 (Broadcom), 超微 (AMD), 聯發科 (MediaTek), 瑞昱 (Realtek), 邁威爾 (Marvell) 極致輕資產營運槓桿、CUDA 軟硬體生態鎖定與 $3.6M/人 歷史人均產值。
+    - **🔬 半導體設備與關鍵材料 (`EQUIPMENT`)**：ASML, 應用材料 (AMAT), 東京威力科創 (TEL), 科林研發 (Lam), 科磊 (KLA), 信越化學 (Shin-Etsu), 環球晶 (GlobalWafers) High-NA EUV 壟斷定價、55%+ 高毛利設備服務年金與多國晶片法案重複採購紅利。
+    - **🧪 半導體測試、探針卡與封測 (`TESTING`)**：日月光 (ASE), 京元電子 (KYEC), 穎崴 (WinWay), 致茂 (Chroma), 閎康 (MA-tek), 愛德萬 (Advantest) AI 晶片千瓦級功耗與水冷測試座、Chiplet 封裝 Known Good Die (KGD) 驗證與稼動率彈性槓桿。
+    - **💻 系統組裝 ODM 與 AI 伺服器硬體 (`HARDWARE`)**：緯穎 (Wiwynn), 廣達 (Quanta), 鴻海 (Foxconn), 美超微 (SMCI), 緯創 (Wistron), 戴爾 (Dell), 蘋果 (Apple)「毛三到四 vs. 人均營收暴衝至數百萬美元」之「量價悖論」、GPU 直通料會計、L10/L11 水冷散熱機櫃系統整合與 ODM-Direct 直銷。
+    - **☁️ 超大規模雲端巨頭 (`HYPERSCALE`)**：微軟 (Microsoft), Alphabet/Google, Meta, 亞馬遜 (Amazon AWS), Palantir, 賽富時 (Salesforce) 年超 2,000 億美元 CapEx 與 4~5 年伺服器折舊壓力、自研 ASIC (TPU/Trainium/Maia) 降本、Agentforce 消耗量計價與高毛利軟體現金流補貼。
+    - **嚴格工作區隔離與雙語完整對齊**：View 1（單一公司深入分析）與 View 2（多公司橫向對比）100% 原始運作不受任何影響；全量完善中英文雙語標籤與明亮模式防眩光規範。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.10.0`（`Updated: 2026-09-06`），重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.4.1 (2026-09-02)**：
   - **修復手機端 (Cell Phone Mode) 頂部過寬與圖表被擠壓至單側之排版問題 (Mobile RWD Optimization)**：
     - **頂部排版修復**：修復頂部導覽列在手機直向螢幕下的超寬問題，加入 `overflow-x-hidden`、自適應 flex-col 折行與 `#companySelect` 寬度限制，徹底消除行動裝置橫向捲動軸。
@@ -1146,6 +1159,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.10.0 - feat: expand Industry Strategic Insights with comprehensive deep research notes for Foundry, Fabless, Equipment, Testing, Hardware, and Hyperscalers
 * commit v3.9.2 - style: adjust desktop container width to standard max-w-7xl (1280px) for optimal visual focus
 * commit v3.9.1 - feat: add directional trajectory time-trend arrows and hoverable checkpoints to bivariate strategic scatter plot (Chart 5)
 * commit v3.9.0 - feat: integrate Cadence (CDNS) and Marvell (MRVL) 6-year audited reports, segment breakdowns, and quarterly analytics

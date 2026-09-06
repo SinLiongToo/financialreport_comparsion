@@ -139,14 +139,22 @@ body.light-theme #refreshBtn:hover {
 
 /* Tab Navigation */
 body.light-theme #tabSingleView,
-body.light-theme #tabCompareView {
+body.light-theme #tabCompareView,
+body.light-theme #tabInsightsView {
     color: #64748b !important;
 }
 
-body.light-theme #tabSingleView.border-blue-500,
-body.light-theme #tabCompareView.border-blue-500 {
+body.light-theme #tabSingleView.border-blue-500 {
     color: #2563eb !important;
     border-color: #2563eb !important;
+}
+body.light-theme #tabCompareView.border-indigo-500 {
+    color: #4f46e5 !important;
+    border-color: #4f46e5 !important;
+}
+body.light-theme #tabInsightsView.border-amber-500 {
+    color: #d97706 !important;
+    border-color: #d97706 !important;
 }
 
 /* Card & Section Elevation */

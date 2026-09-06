@@ -38,7 +38,7 @@
                 <div class="flex flex-wrap items-center gap-2 shrink-0">
                     <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2.5 py-0.5 rounded-full font-medium whitespace-nowrap shadow-sm" data-i18n="badge_workflow">One-Click Workflow</span>
                     <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2.5 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
-                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.9.2
+                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.10.0
                     </span>
                     <span class="text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-2.5 py-0.5 rounded-full font-normal inline-flex items-center gap-1 shadow-sm whitespace-nowrap">
                         <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-06</span>
@@ -832,9 +832,13 @@
                 <!-- Category Pills -->
                 <div class="flex flex-wrap items-center gap-2" id="insightsCategoryPills">
                     <button type="button" data-category="ALL" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-semibold transition-all bg-amber-500 text-slate-900 shadow" data-i18n="insights_filter_all">All Research Notes</button>
-                    <button type="button" data-category="AI_DEFENSE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_ai_defense">🤖 Frontier AI & Defense Systems</button>
-                    <button type="button" data-category="SEMICONDUCTORS" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_semis">⚡ Semiconductors & Fab Equipment</button>
-                    <button type="button" data-category="HARDWARE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hardware">💻 System OEMs & Hardware Brands</button>
+                    <button type="button" data-category="AI_DEFENSE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_ai_defense">🤖 Frontier AI & Defense</button>
+                    <button type="button" data-category="FOUNDRY" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_foundry">⚡ Foundry & IDM</button>
+                    <button type="button" data-category="FABLESS" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_fabless">🧠 Fabless & IC Design</button>
+                    <button type="button" data-category="EQUIPMENT" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_equipment">🔬 Fab Equipment & Materials</button>
+                    <button type="button" data-category="TESTING" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_testing">🧪 Testing, ATE & OSAT</button>
+                    <button type="button" data-category="HARDWARE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hardware">💻 System OEMs & AI Hardware</button>
+                    <button type="button" data-category="HYPERSCALE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hyperscale">☁️ Hyperscalers & Enterprise Cloud</button>
                 </div>
             </section>
 
@@ -1016,16 +1020,16 @@
                 </div>
             </article>
 
-            <!-- Research Note Card 2: Semiconductor Productivity Trio & The Pivot -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="SEMICONDUCTORS">
+            <!-- Research Note Card 2: Foundry & IDM Operating Leverage & CapEx Depreciation -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="FOUNDRY">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
-                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">SEMICONDUCTOR OPEX</span>
-                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-02</span>
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">FOUNDRY & IDM STRATEGY</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-06</span>
                         </div>
                         <h3 class="text-lg font-bold text-white flex items-center gap-2">
-                            <span>⚡ 半導體產業人均產值三劍客 (Productivity Trio) 與「黃金拐點 (The Pivot)」戰略框架</span>
+                            <span>⚡ 晶圓製造與 IDM「超高資本支出折舊 (CapEx Depreciation) vs. 先進製程定價權」財務架構與「黃金拐點 (The Pivot)」深度研判</span>
                         </h3>
                     </div>
                     <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
@@ -1034,19 +1038,1069 @@
                     </button>
                 </div>
 
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
-                    <div class="bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
-                        <span class="font-bold text-blue-400">1. 人均營收 (Rev / FTE)</span>
-                        <p class="text-slate-400 leading-relaxed">衡量每位員工帶來的外部價值創造規模。IC 設計龍頭 (NVIDIA $3.4M/人, 聯發科 $860k/人, 瑞昱 $610k/人) 遠高於傳統重資產封裝與組裝廠。</p>
+                <!-- Executive Summary -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-industry"></i> 銷貨成本與折舊壓力 (COGS / High Depreciation)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            先進節點 (N3/N2) 單座 GigaFab 投資超過 <strong>$150億~$200億美元</strong>。折舊費用佔銷貨成本高達 <strong class="text-rose-300 font-mono">40% ~ 55%</strong>。當半導體週期下行、晶圓廠稼動率 (Utilization) 跌破 70% 時，固定折舊將吞噬營業利潤（如 Intel IFS 晶圓代工虧損）。
+                        </p>
                     </div>
-                    <div class="bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
-                        <span class="font-bold text-emerald-400">2. 人均毛利 (GP / FTE)</span>
-                        <p class="text-slate-400 leading-relaxed">扣除晶圓製造與原物料直接成本後之真實定價權指標。台積電以 53%~55% 毛利創造人均毛利 $600k/人，穩居全球製造業天花板。</p>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-sky-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-microchip"></i> 霸權定價權與先進封裝 (TSMC Moat & CoWoS)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            台積電掌握全球 90% 以上先進製程份額，享有強大之「成本加成定價權 (Value-based Pricing)」，結構性毛利率長年維持在 <strong class="text-emerald-300 font-mono">53% ~ 55%+</strong>。CoWoS 與 SoIC 先進封裝產能吃緊更構築了晶圓代工不可替代的雙重護城河。
+                        </p>
                     </div>
-                    <div class="bg-slate-900/70 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
-                        <span class="font-bold text-amber-400">3. 黃金拐點 (The Pivot)</span>
-                        <p class="text-slate-400 leading-relaxed">定義員工人數成長率降至平台期 (Δ%HC ≤ 3%)，而毛利率因自動化 (AOI) 與 IP 複利持續擴張 (ΔGM > 0) 之最佳營運拐點。</p>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔比 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50 bg-emerald-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">台積電 TSMC (2330 / TSM)</td>
+                                <td class="py-2.5 px-3 text-right">$90,080M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">53.07%</td>
+                                <td class="py-2.5 px-3 text-right">$6,140M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">6.82%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">42.60%</td>
+                                <td class="py-2.5 px-3 text-right">77,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$1,169,870</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">純晶圓代工全球霸主；N3/N2 與 CoWoS 產能吃緊具備極強定價權</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-rose-300">英特爾 Intel (INTC)</td>
+                                <td class="py-2.5 px-3 text-right">$53,100M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-300">40.20%</td>
+                                <td class="py-2.5 px-3 text-right">$16,500M</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">31.07%</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">-31.30%</td>
+                                <td class="py-2.5 px-3 text-right">124,800</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$425,481</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">IDM 拆分代工 IFS 與產品；巨額晶圓廠折舊與良率爬坡拖累虧損</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">格羅方德 GlobalFoundries (GFS)</td>
+                                <td class="py-2.5 px-3 text-right">$6,750M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">24.10%</td>
+                                <td class="py-2.5 px-3 text-right">$470M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">6.96%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-300">8.40%</td>
+                                <td class="py-2.5 px-3 text-right">12,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$562,500</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">退出先進節點專注 12~28nm 車用/RF 特殊製程，資本支出壓力收斂</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">世界先進 VIS (5347)</td>
+                                <td class="py-2.5 px-3 text-right">$1,340M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">27.20%</td>
+                                <td class="py-2.5 px-3 text-right">$110M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">8.21%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">14.50%</td>
+                                <td class="py-2.5 px-3 text-right">6,500</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$206,154</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">8 吋成熟製程轉向新加坡 12 吋 VSMC 與 GaN/SiC 電源晶圓</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">瑞薩電子 Renesas (6723.T)</td>
+                                <td class="py-2.5 px-3 text-right">$10,100M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">56.40%</td>
+                                <td class="py-2.5 px-3 text-right">$1,650M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">16.34%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">24.80%</td>
+                                <td class="py-2.5 px-3 text-right">21,200</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$476,415</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">車用 MCU 與類比晶片龍頭；採 Fab-lite 輕晶圓廠混合策略維持高毛利</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-purple-300">意法半導體 STM</td>
+                                <td class="py-2.5 px-3 text-right">$13,270M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">39.30%</td>
+                                <td class="py-2.5 px-3 text-right">$2,050M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">15.45%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">12.60%</td>
+                                <td class="py-2.5 px-3 text-right">50,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$265,400</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">歐洲功率與碳化矽 (SiC) IDM 龍頭；面臨車用庫存調整與折舊消化</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-shield-halved text-emerald-400"></i> 1. 台積電 53%+ 結構性毛利率與先進封裝 (CoWoS) 溢價護城河
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                先進節點需大量採用 High-NA EUV 光刻機（單台超 3.5 億歐元），進入門檻極高。台積電憑藉頂尖良率 (Yield Rate) 與 CoWoS 封裝整合能力，將折舊成本轉化為定價優勢，創造全球製造業最高人均毛利 ($60 萬美元/人)。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-triangle-exclamation text-rose-400"></i> 2. 重資產 IDM 晶圓廠固定成本與折舊陷阱 (Intel vs TSMC)
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                IDM 自建晶圓廠需承擔天量折舊。若產品部門市佔流失且外部代工客戶未成氣候，晶圓廠稼動率下滑將造成龐大之「未達產能折舊閒置損失」，使營業利益率迅速由正轉負（如 Intel 2024 年營業利益率 -31%）。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-cubes-stacked text-blue-400"></i> 3. 小晶片 (Chiplet) 異質整合封裝改變晶圓產值分配架構
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                AI 晶片面積突破光罩微影極限 (Reticle Limit)，必須透過 2.5D/3D 先進封裝 (CoWoS, SoIC, EMIB) 進行模組化拼接。晶圓代工廠由純晶圓製造向前跨足封裝領域，攫取傳統封測廠之高附加價值利潤份額。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-charging-station text-purple-400"></i> 4. 成熟製程轉型特殊製程 (Specialty Foundry) 與化合物半導體
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                面對成熟 8 吋/12 吋製程之價格競爭，世界先進 (VIS) 與格羅方德 (GFS) 轉向高壓 BCD、RF 射頻、車用電源管理晶片與氮化鎵 (GaN)，透過特殊製程客製化防禦毛利率滑落。
+                            </p>
+                        </div>
                     </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-emerald-950/40 via-teal-950/40 to-slate-900/40 p-4 rounded-xl border border-emerald-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-emerald-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-chart-line"></i> 「黃金拐點 (The Pivot)」營運模型與長期槓桿釋放
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        當晶圓製造廠完成全自動化搬運 (AMHS) 與 AI 光學檢測 (AOI) 部署後，員工人數成長率降至平台期 (<strong class="text-amber-300 font-mono">Δ%HC ≤ 3%</strong>)，而毛利率因先進節點良率爬坡與技術授權持續擴張 (<strong class="text-emerald-300 font-mono">ΔGM &gt; 0</strong>)。此時人均產值將呈現階梯式暴衝，實現製造業極致的營運槓桿。
+                    </p>
+                </div>
+            </article>
+
+            <!-- Research Note Card 3: Fabless & IC Design Operating Leverage -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="FABLESS">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">FABLESS & CHIPS STRATEGY</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-06</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>🧠 IC 設計與無晶圓廠 (Fabless)「輕資產營運槓桿 vs. 萬億 CUDA / IP 護城河」與人均產值深度剖析</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-indigo-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-feather"></i> 輕資產極限槓桿 (Asset-Light Scalability)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            無晶圓廠將廠房 CapEx 與設備折舊全數外包予專業晶圓代工廠。營運成本主要為研發人員年薪與光罩/EDA 授權。當爆發性需求湧現時，營收每增加 $1 美元，營業利益率呈現超線性倍數擴張。
+                        </p>
+                    </div>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-code-merge"></i> 軟體生態與系統級鎖定 (CUDA & Software Moat)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            頂尖 Fabless（如 NVIDIA）已非單純販售矽晶片，而是提供包含 CUDA 函式庫、NVLink 通訊協定與系統伺服器架構之全棧方案。這使晶片享有 <strong class="text-emerald-300 font-mono">75% 毛利率</strong> 與人均營收突破 <strong class="text-sky-300 font-mono">$360 萬美元</strong> 之歷史天花板。
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔比 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50 bg-indigo-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">輝達 NVIDIA (NVDA)</td>
+                                <td class="py-2.5 px-3 text-right">$130,497M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">75.00%</td>
+                                <td class="py-2.5 px-3 text-right">$12,910M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400 font-bold">9.89%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">63.00%</td>
+                                <td class="py-2.5 px-3 text-right">36,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$3,624,917</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球 AI 算力中心晶片霸主；軟硬整合與極致人均產值</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">博通 Broadcom (AVGO)</td>
+                                <td class="py-2.5 px-3 text-right">$51,600M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">64.20%</td>
+                                <td class="py-2.5 px-3 text-right">$5,350M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">10.37%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">38.50%</td>
+                                <td class="py-2.5 px-3 text-right">20,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$2,580,000</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">高階網通交換晶片 (Tomahawk) 與客製化 AI ASIC 雙龍頭</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-rose-300">超微 AMD</td>
+                                <td class="py-2.5 px-3 text-right">$25,700M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">51.50%</td>
+                                <td class="py-2.5 px-3 text-right">$6,200M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">24.12%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-300">7.80%</td>
+                                <td class="py-2.5 px-3 text-right">26,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$988,462</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">EPYC 伺服器 CPU 份額穩健；MI300X/MI350 算力晶片加速搶佔市場</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">聯發科 MediaTek (2454)</td>
+                                <td class="py-2.5 px-3 text-right">$16,050M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">49.80%</td>
+                                <td class="py-2.5 px-3 text-right">$3,740M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">23.30%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">18.20%</td>
+                                <td class="py-2.5 px-3 text-right">21,500</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$746,512</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">天璣 9400 旗艦晶片、邊緣 AI 與雲端 CSP 客製化 ASIC 放量</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-sky-300">瑞昱 Realtek (2379)</td>
+                                <td class="py-2.5 px-3 text-right">$3,520M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">51.20%</td>
+                                <td class="py-2.5 px-3 text-right">$910M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">25.85%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">13.80%</td>
+                                <td class="py-2.5 px-3 text-right">6,200</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$567,742</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">網通與 PC 音訊晶片專利護城河；Wi-Fi 7 與車用乙太網高附加價值擴張</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">邁威爾 Marvell (MRVL)</td>
+                                <td class="py-2.5 px-3 text-right">$5,510M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">52.00%</td>
+                                <td class="py-2.5 px-3 text-right">$1,820M</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400 font-bold">33.03%</td>
+                                <td class="py-2.5 px-3 text-right text-rose-400">-1.80%</td>
+                                <td class="py-2.5 px-3 text-right">7,400</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$744,595</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">光互聯 PAM4 DSP 與客製化 AI 晶片；高研發投入轉換營業利益中</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-bolt text-amber-400"></i> 1. 無晶圓廠之純研發槓桿：營收放大時 OpEx 佔比急遽遞減
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                研發一顆晶片核心架構完成後，後續多賣 100 萬顆晶片的邊際研發成本近乎為零。輝達營收由 2023 年 $270 億美元暴衝至 2025 年 $1,304 億美元，R&D 佔營收比重直接由 27% 驟降至 9.89%，營利率躍升至 63%。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-lock text-emerald-400"></i> 2. 軟體函式庫與架構鎖定 (The CUDA Lock-in Moat)
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                全球數百萬 AI 工程師與研究人員長期基於 CUDA 庫開發演算法，形成極深厚生態壁壘。硬體規格即便有競爭對手相仿，因龐大的軟體移植與調優成本，客戶極難轉向，賦予龍頭高達 75% 的超常毛利率。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-money-bill-trend-up text-rose-400"></i> 3. 2nm 先進光罩 (Mask Set) 與 Tape-out 研發資本准入門檻
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                晶片製程邁入 3nm/2nm 後，單次流片 (Tape-out) 與全套光罩費用突破 5,000 萬美元，加上龐大 IP 授權與工程團隊，整顆晶片研發預算高達數億美元，中小廠商無法負擔，市場迅速向巨頭集中。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-diagram-project text-sky-400"></i> 4. 客製化 AI ASIC 晶片設計服務 (Design Service) 新藍海
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                北美四大雲端巨頭 (CSP) 積極自研 TPU/Trainium/Maia 晶片以降低對商用 GPU 依賴。博通 (Broadcom)、聯發科 (MediaTek) 與邁威爾 (Marvell) 憑藉先進 SerDes 高速傳輸 IP 與封裝經驗，大舉承接客製化 ASIC 設計服務。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-indigo-950/40 via-purple-950/40 to-slate-900/40 p-4 rounded-xl border border-indigo-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-indigo-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-forward-step"></i> IC 設計企業從「硬體賣晶片」邁向「全棧運算系統」演化路徑
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        單純銷售晶片易受消費電子景氣週期波動影響。唯有整合<strong>高速網通互聯 (Infiniband/RoCE)、底層編譯器軟體與機架級運算單元</strong>，方能將產品提升至不可替代的企業基礎架構層級，實現人均營收突破 $200 萬至 $300 萬美元的長期超額回報。
+                    </p>
+                </div>
+            </article>
+
+            <!-- Research Note Card 4: Fab Equipment & Materials Monopoly -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="EQUIPMENT">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-sky-500/20 text-sky-300 border border-sky-500/30">EQUIPMENT & MATERIALS</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-06</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>🔬 半導體製造設備與關鍵材料「技術絕對壟斷 (Monopoly Pricing) vs. 高毛利服務年金」商業模式剖析</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-sky-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-atom"></i> 先進設備定價獨佔力 (EUV & Deposition Monopoly)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            ASML High-NA EUV 單台售價達 <strong class="text-emerald-300 font-mono">3.5 億歐元</strong>，全球晶圓代工廠無替代選項。AMAT、Lam Research 與 TEL 在沉積、蝕刻與光阻塗布顯影領域市佔率高達 80%~90%，享有 45%~60% 的超高毛利率。
+                        </p>
+                    </div>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-rotate"></i> 安裝基底維護年金 (Installed Base Recurring Revenue)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            設備售出後，機台校準、軟體升級、零組件更換與日常維護提供毛利率超過 <strong class="text-sky-300 font-mono">55%+</strong> 的循環服務收入。即使晶圓廠新建週期放緩，龐大的安裝基底 (Installed Base) 仍能持續產生巨額現金流。
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔比 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50 bg-sky-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-sky-300">艾司摩爾 ASML (ASML)</td>
+                                <td class="py-2.5 px-3 text-right">$28,260M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">51.30%</td>
+                                <td class="py-2.5 px-3 text-right">$4,580M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">16.21%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">31.25%</td>
+                                <td class="py-2.5 px-3 text-right">42,400</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$666,509</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">極紫外光 (High-NA EUV) 唯一供應商；積壓訂單超過 360 億歐元</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">應用材料 AMAT (AMAT)</td>
+                                <td class="py-2.5 px-3 text-right">$27,180M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">47.50%</td>
+                                <td class="py-2.5 px-3 text-right">$3,210M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">11.81%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">29.20%</td>
+                                <td class="py-2.5 px-3 text-right">34,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$799,412</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">薄膜沉積 (CVD/PVD) 與研磨龍頭；AGS 全球服務年金穩定挹注利潤</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-purple-300">東京威力科創 TEL (8035.T)</td>
+                                <td class="py-2.5 px-3 text-right">$16,800M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">45.80%</td>
+                                <td class="py-2.5 px-3 text-right">$1,550M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">9.23%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">26.50%</td>
+                                <td class="py-2.5 px-3 text-right">16,800</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$1,000,000</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">塗布顯影機 (Coater/Developer) 絕對市佔；先進封裝測試設備放量</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">科林研發 Lam Research (LRCX)</td>
+                                <td class="py-2.5 px-3 text-right">$14,910M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">47.80%</td>
+                                <td class="py-2.5 px-3 text-right">$1,780M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">11.94%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">29.80%</td>
+                                <td class="py-2.5 px-3 text-right">17,200</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$866,860</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">電漿蝕刻絕對霸主；深度受惠 3D NAND 高堆疊層數與 GAA 架構</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">科磊 KLA (KLAC)</td>
+                                <td class="py-2.5 px-3 text-right">$9,820M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">60.50%</td>
+                                <td class="py-2.5 px-3 text-right">$1,280M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">13.03%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">36.80%</td>
+                                <td class="py-2.5 px-3 text-right">15,300</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$641,830</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">晶圓光學/電子束缺陷檢測唯一主導商；享有設備業最高 60%+ 毛利</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">信越化學 Shin-Etsu (4063.T)</td>
+                                <td class="py-2.5 px-3 text-right">$17,200M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">38.50%</td>
+                                <td class="py-2.5 px-3 text-right">$620M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">3.60%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">30.10%</td>
+                                <td class="py-2.5 px-3 text-right">25,800</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$666,667</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球第一大半導體矽晶圓與 EUV 光阻劑龍頭；長約 (LTA) 保障獲利</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-rose-300">環球晶 GlobalWafers (6488)</td>
+                                <td class="py-2.5 px-3 text-right">$2,250M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">33.60%</td>
+                                <td class="py-2.5 px-3 text-right">$75M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">3.33%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">22.40%</td>
+                                <td class="py-2.5 px-3 text-right">7,800</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$288,462</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球前三大矽晶圓廠；擴建美國新廠搶攻本土製造補貼與先進材料</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-crosshairs text-sky-400"></i> 1. High-NA EUV 光刻與微縮物理極限之研發資本集中化
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                研發下一代微影技術需調動頂級光學透鏡 (蔡司 Zeiss) 與極紫外雷射反射鏡，研發週期長達 15~20 年。全球僅剩 ASML 一家能完成商業化量產，其定價模式本質上不受半導體價格戰波及。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-arrows-spin text-emerald-400"></i> 2. 設備服務與零組件年金 (Services & Parts) 平滑資本支出下行週期
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                應用材料 (AMAT) 的 AGS 部門與 ASML 服務業務貢獻整體營收 25%~30%，營業利潤率更顯著高於新機台銷售。這為設備巨頭在晶圓廠減少 CapEx 時提供極強的自由現金流護城河。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-earth-americas text-blue-400"></i> 3. 地緣晶片法案補貼 (US/EU/Japan Chips Acts) 驅動設備重複建置紅利
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                美國、歐洲與日本各自追求半導體供應鏈主權，促使台積電、英特爾於多國同步擴建先進晶圓廠。這打破了過去集中製造的資本效率，直接為設備商帶來額外 20%~30% 的多點重複採購需求。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-scroll text-purple-400"></i> 4. 關鍵材料長期供貨合約 (LTA) 鎖定現金流與高預付款機制
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                信越化學與環球晶等矽晶圓領導廠，採取簽訂 3~5 年不可撤銷長約 (LTA) 並收取巨額客戶預付款策略，有效鎖定出貨價格與毛利區間，隔絕現貨市場原物料暴跌之衝擊。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-sky-950/40 via-blue-950/40 to-slate-900/40 p-4 rounded-xl border border-sky-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-sky-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-screwdriver-wrench"></i> 設備與材料供應商之「全生命週期長青軟硬合約 (Life-Cycle Solution)」戰略
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        頂級設備商正將機台銷售轉型為<strong>「機台硬體 + AI 製程控制軟體 + 即時故障預測 + 全包式維護套裝 (Full-Service Contract)」</strong>。這使企業毛利率長年維持在 45%~60% 區間，營造出宛如軟體 SaaS 般的高黏著度年金式商業模式。
+                    </p>
+                </div>
+            </article>
+
+            <!-- Research Note Card 5: Testing, ATE & OSAT Scaling -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="TESTING">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-teal-500/20 text-teal-300 border border-teal-500/30">TESTING & OSAT STRATEGY</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-06</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>🧪 半導體測試、探針卡、封測與材料分析「AI 晶片千瓦級功耗帶動測試產值暴衝」深度剖析</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-teal-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-stopwatch"></i> 測試時間延長與功耗極限挑戰 (Test Time & 1000W+)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            AI 晶片 (Blackwell, MI300) 單顆功耗突破 <strong class="text-amber-300 font-mono">1000W ~ 1500W</strong>，測試時間由傳統消費晶片的幾秒鐘飆升至數十分鐘，帶動主動式水冷散熱測試座 (Test Socket)、高頻垂直探針卡與高階 ATE 機台平均單價 (ASP) 數倍跳升。
+                        </p>
+                    </div>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-puzzle-piece"></i> 先進封裝 KGD 驗證與分析智庫 (KGD & Material Analysis)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            Chiplet 異質封裝要求晶粒在封裝前 100% 確保 Known Good Die (KGD)，促使測試工序大幅前移至晶圓級測試 (CP)。同時第三方材料分析 (MA) 與故障分析 (FA) 成為 2nm 先進製程與先進封裝開案的必備智庫，享有 <strong class="text-emerald-300 font-mono">35% ~ 58%</strong> 高毛利率。
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔比 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">日月光投控 ASE (3711)</td>
+                                <td class="py-2.5 px-3 text-right">$18,900M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">16.80%</td>
+                                <td class="py-2.5 px-3 text-right">$780M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">4.13%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-300">7.20%</td>
+                                <td class="py-2.5 px-3 text-right">95,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$198,947</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球最大封測 (OSAT) 龍頭；VIPack 先進封裝與系統級模組放量</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50 bg-teal-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-teal-300">京元電子 KYEC (2449)</td>
+                                <td class="py-2.5 px-3 text-right">$1,080M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">34.20%</td>
+                                <td class="py-2.5 px-3 text-right">$82M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">7.59%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">23.50%</td>
+                                <td class="py-2.5 px-3 text-right">10,200</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$105,882</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球專業純測試第一大；輝達 AI 晶片終測 (FT) 產能利用率逼近滿載</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">穎崴 WinWay (6515)</td>
+                                <td class="py-2.5 px-3 text-right">$185M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">44.50%</td>
+                                <td class="py-2.5 px-3 text-right">$16M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">8.65%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">24.10%</td>
+                                <td class="py-2.5 px-3 text-right">1,150</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$160,870</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">AI 高階同軸測試座 (Coaxial Socket) 與垂直探針卡主力供應商</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">致茂 Chroma (2360)</td>
+                                <td class="py-2.5 px-3 text-right">$680M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">58.20%</td>
+                                <td class="py-2.5 px-3 text-right">$95M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">13.97%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">28.50%</td>
+                                <td class="py-2.5 px-3 text-right">2,800</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$242,857</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">半導體 ATE 測試與溫控系統 (SLT) 霸主；掌握全行業最高毛利</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-purple-300">閎康 MA-tek (3587)</td>
+                                <td class="py-2.5 px-3 text-right">$160M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">36.80%</td>
+                                <td class="py-2.5 px-3 text-right">$14M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">8.75%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">17.50%</td>
+                                <td class="py-2.5 px-3 text-right">1,650</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$96,970</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">亞洲最大半導體材料分析 (MA) 與故障分析 (FA) 獨立檢驗實驗室</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">愛德萬測試 Advantest (6857.T)</td>
+                                <td class="py-2.5 px-3 text-right">$3,850M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">53.50%</td>
+                                <td class="py-2.5 px-3 text-right">$390M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">10.13%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">25.80%</td>
+                                <td class="py-2.5 px-3 text-right">6,400</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$601,563</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球 SoC 與高效能記憶體 ATE 測試機台霸主；與輝達深度整合</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-fire-burner text-rose-400"></i> 1. AI 晶片千瓦級功耗與系統級主動散熱測試 (SLT) 溢價
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                Blackwell 晶片滿載功耗超過 1200W，傳統風冷測試座無法壓制瞬時熱衝擊。致茂與穎崴開發直觸式水冷與均熱板控溫測試介面，單顆測試治具單價從千元美元級別跳升至數萬美元。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-check-double text-teal-400"></i> 2. 異質小晶片 (Chiplet) 封裝引發「Known Good Die (KGD)」驗證倍增
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                只要 1 顆不良晶粒混入 CoWoS 先進封裝，整顆數萬美元的 GPU/HBM 模組便全數報廢。這迫使晶圓測試 (CP) 測試涵蓋率由 95% 提升至 99.99%，直接拉長機台測試工時。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-chart-line text-emerald-400"></i> 3. 純測試廠 (KYEC) 稼動率對營業利益率之高彈性槓桿
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                專業測試廠購置昂貴 ATE 機台折舊為固定成本。當 AI 晶片測試產能利用率由 65% 躍升至 85%~90% 滿載時，營業利潤率由 12% 翻倍擴張至 23.5%，展現極佳營運槓桿。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-microscope text-purple-400"></i> 4. 埃米世代先進製程開案之第三方材料分析 (MA/FA) 剛需
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                GAA 架構與背面供電 (Backside Power Delivery) 製程極度複雜，晶圓廠與 IC 設計廠需委外進行穿透式電子顯微鏡 (TEM) 與極限缺陷分析。閎康等獨立實驗室享有長年 35%+ 的穩定高毛利。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-teal-950/40 via-cyan-950/40 to-slate-900/40 p-4 rounded-xl border border-teal-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-teal-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-wand-magic-sparkles"></i> 封測產業從「勞力密集打線」跨越「高頻測試載具與客製化 ATE」轉型
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        傳統封裝受制於物料導線架與工資成本，毛利率僅 15%~18%。轉向<strong>高頻同軸測試座、MEMS 探針卡與自製 ATE 設備</strong>的企業，成功擺脫代工包袱，躍升為掌握 35%~55% 毛利率的高科技精準工程商。
+                    </p>
+                </div>
+            </article>
+
+            <!-- Research Note Card 6: Hardware OEMs & ODMs Value-vs-Volume Paradox -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="HARDWARE">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">HARDWARE & ODM STRATEGY</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-06</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>💻 AI 伺服器代工 (ODM) 與硬體品牌「毛三到四 vs. 人均營收暴衝至數百萬美元」之「量價悖論」深度剖析</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-amber-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-server"></i> GPU 直通料會計與毛利百分比稀釋 (Pass-Through BOM Dilution)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            單台 NVL72 AI 伺服器機櫃售價達 <strong>$200萬~$300萬美元</strong>，其中 GPU 與 HBM 晶片成本佔比高達 <strong class="text-rose-300 font-mono">75% ~ 80%</strong>。純代工毛利率帳面被稀釋至 <strong class="text-amber-300 font-mono">6% ~ 9%</strong>，但每台貢獻之絕對毛利金額 (Gross Profit Dollars) 大幅跳升數倍。
+                        </p>
+                    </div>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-sky-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-users-gear"></i> 人均產值破天荒飆升 (Surging Rev / FTE & Working Capital)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            受惠 AI 伺服器超高單價放量，緯穎人均營收飆破 <strong class="text-sky-300 font-mono">$436 萬美元/人</strong>、廣達達 <strong class="text-sky-300 font-mono">$74 萬美元/人</strong>，徹底打破傳統 PC/筆電代工低產值天花板；然而也面臨巨額備料流動資金與現金週轉週期 (CCC) 的極限考驗。
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔比 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50 bg-amber-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">緯穎 Wiwynn (6669)</td>
+                                <td class="py-2.5 px-3 text-right">$11,350M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">8.80%</td>
+                                <td class="py-2.5 px-3 text-right">$280M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">2.47%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">7.20%</td>
+                                <td class="py-2.5 px-3 text-right">2,600</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$4,365,385</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">白牌直銷 (ODM-Direct) 龍頭；人均產值全硬體業最高，ASIC 放量</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-sky-300">廣達 Quanta (2382)</td>
+                                <td class="py-2.5 px-3 text-right">$43,200M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">7.90%</td>
+                                <td class="py-2.5 px-3 text-right">$920M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">2.13%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">4.60%</td>
+                                <td class="py-2.5 px-3 text-right">58,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$744,828</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球 AI 算力中心代工霸主；伺服器與車載營收佔比已超越 50%</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">鴻海 Foxconn (2317)</td>
+                                <td class="py-2.5 px-3 text-right">$215,000M</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">6.13%</td>
+                                <td class="py-2.5 px-3 text-right">$3,600M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">1.67%</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">2.95%</td>
+                                <td class="py-2.5 px-3 text-right">680,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$316,176</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">全球規模最大製造巨擘；垂直整合高階高速連接器與水冷機櫃</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">美超微 Supermicro (SMCI)</td>
+                                <td class="py-2.5 px-3 text-right">$14,940M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">14.20%</td>
+                                <td class="py-2.5 px-3 text-right">$480M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">3.21%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">9.10%</td>
+                                <td class="py-2.5 px-3 text-right">5,200</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$2,873,077</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">模組化建築區塊 (Building Blocks) 與水冷機櫃極速交付優勢</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">緯創 Wistron (3231)</td>
+                                <td class="py-2.5 px-3 text-right">$31,500M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">7.80%</td>
+                                <td class="py-2.5 px-3 text-right">$750M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">2.38%</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">3.80%</td>
+                                <td class="py-2.5 px-3 text-right">62,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$508,065</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">AI 伺服器 GPU 運算基板 (Baseboard) 主力供應商；毛利持續優化</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-purple-300">戴爾 Dell (DELL)</td>
+                                <td class="py-2.5 px-3 text-right">$95,600M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">21.80%</td>
+                                <td class="py-2.5 px-3 text-right">$2,850M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">2.98%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">8.20%</td>
+                                <td class="py-2.5 px-3 text-right">120,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300">$796,667</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">企業私有雲與主權 AI 伺服器整機交付；結合高毛利儲存與 IT 服務</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-rose-300">蘋果 Apple (AAPL)</td>
+                                <td class="py-2.5 px-3 text-right">$391,040M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">46.20%</td>
+                                <td class="py-2.5 px-3 text-right">$31,370M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">8.02%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">31.50%</td>
+                                <td class="py-2.5 px-3 text-right">164,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$2,384,390</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">終端軟硬體垂直整合頂點；自研晶片與服務生態建立極致定價權</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-calculator text-amber-400"></i> 1. 直通料會計 (Pass-Through Accounting) 稀釋毛利率但創造暴增絕對利潤
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                伺服器代工廠為客戶代購輝達 GPU。當售價由 1 萬美元跳升至 300 萬美元時，雖然毛利率由 12% 降至 8%，但單機毛利絕對值由 $1,200 美元激增至 $24 萬美元，淨利潤與現金回報呈幾何級成長。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-droplet text-sky-400"></i> 2. L10 / L11 整機櫃系統整合與直接液冷 (Direct Liquid Cooling) 溢價
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                過去代工廠僅做單板組裝 (L6)。AI 伺服器要求整櫃組裝、冷卻液分配單元 (CDU)、水冷板歧管與電源機櫃 (Power Shelf) 測試。具備 L10/L11 水冷系統整合能力的代工廠享有更高工程附加價值。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-money-bill-transfer text-rose-400"></i> 3. 數十億美元級別之營運資金 (Working Capital) 與現金週轉考驗
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                採購大量單價數萬美元之高階晶片需巨額流動資金。代工廠若無法透過應付帳款天數 (DPO) 與應收帳款天數 (DSO) 精密掌控現金轉換週期 (CCC)，利息支出與存貨跌價將嚴重侵蝕營業利潤。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-network-wired text-purple-400"></i> 4. ODM-Direct (白牌雲端直銷) 模式顛覆傳統品牌分銷架構
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                緯穎、廣達跳過戴爾、惠普等傳統品牌伺服器通路，直接與微軟、Meta、AWS 等 CSP 雲端巨頭工程師共同設計機架架構，節省巨額行銷通路費用，維持 7%~9% 穩健營利率。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-amber-950/40 via-yellow-950/40 to-slate-900/40 p-4 rounded-xl border border-amber-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-amber-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-layer-group"></i> 從「單機組裝加工 (Box Builder)」邁向「AI 資料中心系統架構師」
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        硬體代工廠擺脫「毛三到四」的終極路徑，在於掌握<strong>「散熱液冷系統設計 + 伺服器電源分配架構 + 自研客製化 ASIC 輔助設計」</strong>。從單純勞力組裝升級為全套資料中心硬體基礎設施交付者，實現人均產值長期突破數百萬美元。
+                    </p>
+                </div>
+            </article>
+
+            <!-- Research Note Card 7: Hyperscalers Cloud CapEx & Software Cash Flow -->
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="HYPERSCALE">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-blue-500/20 text-blue-300 border border-blue-500/30">HYPERSCALE & CLOUD STRATEGY</span>
+                            <span class="text-xs text-slate-400 font-mono">Date: 2026-09-06</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>☁️ 超大規模雲端巨頭 (Hyperscalers)「萬億資本支出 (CapEx Supercycle) vs. 高毛利軟體現金流」商業模式與 AI 投資回報率 (ROI) 研判</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-blue-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-cloud-arrow-up"></i> 萬億算力基礎設施支出 (CapEx Supercycle)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            微軟、谷歌、亞馬遜、Meta 四大 CSP 巨頭年度合計資本支出突破 <strong class="text-rose-300 font-mono">$2,000 億美元</strong>，用於建設千兆瓦 (Gigawatt) 資料中心、採購高階 GPU 與自研 ASIC。伺服器硬體資產採 4~5 年直線折舊攤提，構成龐大之中長期折舊壓力。
+                        </p>
+                    </div>
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-sack-dollar"></i> 高毛利軟體現金牛補貼 (Software Cash Flow Moat)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            社群搜尋廣告 (Meta/Google 70%~80%+ 毛利率) 與企業雲端授權 (Microsoft 70% 毛利率) 每年產生上千億美元自由現金流 (FCF)，為前沿模型研發與硬體基礎設施提供無可匹敵的自我融資護城河。
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Comparison Benchmark Table -->
+                <div class="overflow-x-auto rounded-xl border border-slate-700/80 bg-slate-900/70">
+                    <table class="w-full text-xs text-left">
+                        <thead class="bg-slate-950/90 text-slate-400 font-semibold border-b border-slate-700">
+                            <tr>
+                                <th class="py-2.5 px-3">企業名稱 (Ticker)</th>
+                                <th class="py-2.5 px-3 text-right">營收 ($M)</th>
+                                <th class="py-2.5 px-3 text-right">GAAP 毛利率</th>
+                                <th class="py-2.5 px-3 text-right">研發支出 (R&D $M)</th>
+                                <th class="py-2.5 px-3 text-right">研發佔比 %</th>
+                                <th class="py-2.5 px-3 text-right">營業利益率 %</th>
+                                <th class="py-2.5 px-3 text-right">全球員工 (FTE)</th>
+                                <th class="py-2.5 px-3 text-right">人均營收 ($/FTE)</th>
+                                <th class="py-2.5 px-3">商業模式與獲利拐點狀態</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-800 text-slate-200 font-mono">
+                            <tr class="hover:bg-slate-800/50 bg-blue-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-blue-300">微軟 Microsoft (MSFT)</td>
+                                <td class="py-2.5 px-3 text-right">$245,120M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">69.76%</td>
+                                <td class="py-2.5 px-3 text-right">$29,540M</td>
+                                <td class="py-2.5 px-3 text-right text-sky-400">12.05%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">44.60%</td>
+                                <td class="py-2.5 px-3 text-right">228,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$1,075,088</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">Azure 雲端與 Copilot 軟體授權雙輪驅動；深度綁定 OpenAI 生態</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-emerald-300">Alphabet / Google (GOOGL)</td>
+                                <td class="py-2.5 px-3 text-right">$350,020M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">57.50%</td>
+                                <td class="py-2.5 px-3 text-right">$46,000M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">13.14%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">32.00%</td>
+                                <td class="py-2.5 px-3 text-right">181,000</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$1,933,812</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">Google Cloud 獲利率擴張；自研 TPU 降低內部大模型推論成本</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-indigo-300">Meta Platforms (META)</td>
+                                <td class="py-2.5 px-3 text-right">$164,810M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">81.50%</td>
+                                <td class="py-2.5 px-3 text-right">$43,800M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400 font-bold">26.58%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">41.20%</td>
+                                <td class="py-2.5 px-3 text-right">72,400</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$2,276,381</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">開源 Llama 確立開發者架構；社群廣告高毛利資助極大規模算力</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-amber-300">亞馬遜 Amazon (AMZN)</td>
+                                <td class="py-2.5 px-3 text-right">$620,140M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">48.80%</td>
+                                <td class="py-2.5 px-3 text-right">$85,600M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">13.80%</td>
+                                <td class="py-2.5 px-3 text-right text-amber-300 font-bold">9.80%</td>
+                                <td class="py-2.5 px-3 text-right">1,525,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$406,649</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">AWS 貢獻主要營業利潤 (營利率 38%)；零售物流重資產拉低人均產值</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50 bg-purple-950/20">
+                                <td class="py-2.5 px-3 font-sans font-bold text-sky-300">Palantir (PLTR)</td>
+                                <td class="py-2.5 px-3 text-right">$3,980M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">82.00%</td>
+                                <td class="py-2.5 px-3 text-right">$588M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400">14.77%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">23.97%</td>
+                                <td class="py-2.5 px-3 text-right">4,100</td>
+                                <td class="py-2.5 px-3 text-right text-sky-300 font-bold">$970,732</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">AIP 企業與軍工本體論平台成熟變現；軟體零邊際成本驅動超額利潤</td>
+                            </tr>
+                            <tr class="hover:bg-slate-800/50">
+                                <td class="py-2.5 px-3 font-sans font-bold text-rose-300">賽富時 Salesforce (CRM)</td>
+                                <td class="py-2.5 px-3 text-right">$37,900M</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">76.50%</td>
+                                <td class="py-2.5 px-3 text-right">$5,400M</td>
+                                <td class="py-2.5 px-3 text-right text-amber-400">14.25%</td>
+                                <td class="py-2.5 px-3 text-right text-emerald-400 font-bold">19.10%</td>
+                                <td class="py-2.5 px-3 text-right">72,000</td>
+                                <td class="py-2.5 px-3 text-right text-slate-300">$526,389</td>
+                                <td class="py-2.5 px-3 font-sans text-slate-300">推出 Agentforce 加速企業流程自動化；從席位計價轉向調用量訂閱</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 4 Deep Analytical Breakdown Sections -->
+                <div class="space-y-3 text-xs text-slate-300">
+                    <h4 class="text-sm font-bold text-amber-300 flex items-center gap-1.5">
+                        <i class="fa-solid fa-list-check"></i> 4 大核心驅動成因與財務機制深度剖析：
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-chart-area text-rose-400"></i> 1. 年超 2,000 億美元 CapEx 與伺服器 4~5 年折舊攤提週期壓力
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                購置的數十萬張 GPU 伺服器依會計準則需在 4~5 年內直線折舊。這意味著巨頭在未來 3~5 年每年將新增數百億美元的固定折舊費用，倒逼企業 AI 應用必須儘快證明商業投資回報率 (ROI)。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-microchip text-sky-400"></i> 2. 自研 ASIC 晶片 (TPU, Trainium, Maia) 降低單位推論成本
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                Google (TPU v5/v6) 與亞馬遜 (Trainium 2) 大規模部署自研專用晶片，相較於商用 GPU 節省 40%~60% 的資本支出與電力能耗，為其雲端運算提供更具彈性的定價競爭力。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-robot text-purple-400"></i> 3. 企業級軟體商業模式顛覆：由「席位訂閱」邁向「自主 Agent 消耗量」
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                Salesforce (Agentforce) 與微軟 (Copilot Studio) 正在重塑軟體計價。從傳統按人頭 (Per-seat per-month) 計費，轉向按對話次數與解決問題數量 (Outcome/Consumption-based) 計費，解鎖更高營運槓桿。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/60 space-y-1.5">
+                            <span class="font-bold text-white text-xs flex items-center gap-1.5">
+                                <i class="fa-solid fa-shield-cat text-emerald-400"></i> 4. 企業私有數據本體論 (Ontology) 與主權 AI (Sovereign AI) 護城河
+                            </span>
+                            <p class="text-slate-400 leading-relaxed">
+                                Palantir AIP 與微軟 Azure 的最大壁壘在於符合嚴苛的金融、醫療與國防隱私合規。大模型容易被商品化 (Commoditized)，但深植於企業 ERP/CRM 的私有資料架構與安全治理權限具備極高轉移成本。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-blue-950/40 via-indigo-950/40 to-slate-900/40 p-4 rounded-xl border border-blue-500/30 space-y-2">
+                    <h4 class="text-xs font-bold text-blue-300 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-chart-line"></i> 從「基建軍備競賽 (Infra CapEx)」邁向「Agent 商業變現 (Application ROI)」
+                    </h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        當前雲端巨頭正處於資本支出高峰期。未來的價值釋放關鍵在於<strong>「算力基建折舊平準化 + 企業級 Agent 自主執行流程放量」</strong>。具備充沛軟體現金流與自研晶片架構的巨頭，將渡過折舊波谷並迎來新一輪獲利擴張。
+                    </p>
                 </div>
             </article>
 
