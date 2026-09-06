@@ -304,3 +304,31 @@ When user triggers Fullscreen Zoom on Chart 6:
    - **Row 2 (Controls & Wisdom)**: Left features Financial Wisdom Marquee (`#financeQuotesMarqueeContainer` with `flex-1 min-w-[280px]`); Right features Action Controls Bar (`[Annual | Quarterly]`, `Theme`, `Help`, `Language`, `Company Select`, `Reload`).
 3. **Cross-Screen & Shallow Landscape Adaptation**:
    - Guarantees continuous visibility of the Financial Wisdom Marquee across portrait mobile, landscape mobile, and high-resolution desktop terminals.
+
+---
+
+## 11. One-Click Automated Financial Report Update Pipeline (`update_pipeline.py`)
+
+To ensure seamless, zero-touch maintenance when new quarterly or annual reports arrive, all ingestion and synchronization workflows are consolidated into `update_pipeline.py`.
+
+### Execution Capabilities:
+1. **Single Company Sync / Ingestion**:
+   ```bash
+   python update_pipeline.py --ticker <ticker>
+   ```
+2. **Ingest New PDF Report directly**:
+   ```bash
+   python update_pipeline.py --ingest-pdf <path_to_pdf> --ticker <ticker> --year <year> [--freq annual|quarterly] [--quarter QX]
+   ```
+3. **Full Fleet Benchmark Audit & Sync**:
+   ```bash
+   python update_pipeline.py --all
+   ```
+
+### Automated 5-Stage Lifecycle Executed by Pipeline:
+- **Stage 1 (PDF Ingestion & Discovery)**: Verifies or moves incoming PDF into `data/downloads/{ticker}/`.
+- **Stage 2 (Smart Markdown Parsing)**: Converts PDF pages to structured tables & text in `data/parsed_md/{ticker}/` with cache verification (>1KB skip).
+- **Stage 3 (Metric Extraction & Currency Normalization)**: Deduces Rev/GP/OI/R&D/HC and normalizes into USD $M in `data/metrics/{ticker}_metrics.json` and `{ticker}_metrics_quarterly.json`.
+- **Stage 4 (Multi-Format Auditing)**: Executes `validate_company.py` checking 0 quarterly keys in annual files, positive headcounts, and Chart 6 value/volume duality.
+- **Stage 5 (Standalone HTML Recompilation)**: Invokes `export_standalone.py` to compile `docs/index.html` and `standalone_dashboard.html`.
+

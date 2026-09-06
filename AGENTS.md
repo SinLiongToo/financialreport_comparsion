@@ -7,13 +7,14 @@
 
 - **Standard End-to-End Pipeline to Execute**:
   1. Add ticker/slugs to `crawler.py`.
-  2. Crawl and download 5-year PDF reports to `data/downloads/{ticker}/`.
+  2. Crawl and download 5-year PDF reports to `data/downloads/{ticker}/` (or ingest new PDF via `python update_pipeline.py --ingest-pdf`).
   3. Parse PDFs to Markdown in `data/parsed_md/{ticker}/`.
   4. Deduce, normalize to USD $M, and generate both Annual & Quarterly JSON files in `data/metrics/` (`{ticker}_metrics.json` and `{ticker}_metrics_quarterly.json`).
   5. **Chart 6 Mandatory Structure**: Ensure `sales_breakdown.data[year]` is an object containing both `"value": [...]` and `"volume": [...]`.
   6. Register company in `metrics_extractor.py` (`TICKER_ALIASES`, `BUILTIN_BENCHMARKS`, `BUILTIN_BENCHMARKS_QUARTERLY`), `static/js/dashboard.js`, `templates/index.html`, and `app.py`.
   7. Run automated audit `.agents/skills/financial-report-multiformat-analyzer/scripts/validate_company.py <ticker>` to verify 0 errors.
   8. Run `python export_standalone.py` to recompile `docs/index.html` and `standalone_dashboard.html`.
+  *(Pro-tip: Steps 2-8 can be executed in a single automated command via `python update_pipeline.py --ticker <ticker>`)*
 
 ---
 
@@ -157,3 +158,20 @@
     - **Right**: Action Controls Bar (`[Annual (10-K) | Quarterly (10-Q)]`, `[Theme Toggle]`, `[User Guide & Help]`, `[Language Toggle]`, `[#companySelect]`, `[Reload]`).
 - **Cross-Screen Responsiveness & Landscape Marquee Preservation**:
   - The marquee (`#financeQuotesMarqueeContainer`) MUST remain visible across desktop, mobile portrait, and shallow landscape (`orientation: landscape`) orientations with compact single-line styling.
+
+---
+
+## ⚡ 12. One-Click Automated Ingestion & Incremental Sync Pipeline (`update_pipeline.py`)
+
+- **Autonomous Execution Engine**:
+  To support continuous new financial report additions with zero manual hassle, `update_pipeline.py` serves as the centralized CLI orchestrator:
+  - **Single Company Refresh**: `python update_pipeline.py --ticker <ticker> [--freq annual|quarterly]`
+  - **Incremental New PDF Ingestion**: `python update_pipeline.py --ingest-pdf <path_to_pdf> --ticker <ticker> --year <YYYY> [--freq annual|quarterly] [--quarter "YYYY QX"]`
+  - **Repository-Wide Audit & Sync**: `python update_pipeline.py --all`
+- **Zero-Touch Automation Guarantees**:
+  - Automatically verifies or ingests PDF filings into `data/downloads/{ticker}/`.
+  - Reuses existing cached markdown files in `data/parsed_md/{ticker}/` to eliminate redundant parsing.
+  - Automatically normalizes all metrics to USD $M and enforces linear headcount interpolation for quarterly filings.
+  - Enforces Chart 6 `{"value": [...], "volume": [...]}` dual-array integrity.
+  - Automatically executes `validate_company.py` to ensure 0 errors.
+  - Automatically triggers `export_standalone.py` to synchronize `docs/index.html` and `standalone_dashboard.html`.

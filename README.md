@@ -657,6 +657,32 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.11.0 (2026-09-06)**：
+  - **建立「一鍵全自動財報更新與增量同步流水線」(`update_pipeline.py`)**：
+    - **一鍵式端到端閉環**：將「PDF 智能歸檔 ➔ 結構化 Markdown 增量解析 ➔ 幣別正規化與指標推導 ➔ 嚴格數據審計 (0 錯誤) ➔ 單機版 HTML 重建編譯」整合成單一 Python 核心中樞。
+    - **支援單一企業更新與新 PDF 注入**：
+      - `python update_pipeline.py --ticker <ticker>`（全自動執行該企業的 5 階段完整同步）。
+      - `python update_pipeline.py --ingest-pdf <path_to_pdf> --ticker <ticker> --year <year>`（直接將外部下載的年度/季度財報 PDF 匯入並自動完成解析、審計與編譯）。
+      - `python update_pipeline.py --all`（對全庫 62 家企業進行批次增量更新與審計）。
+    - **效能極致優化**：結合 Markdown 快取機制（大於 1KB 自動沿用，單家企業更新僅需 ~0.13 秒）。
+  - **同步升級專案自主執行規範 (Rule) 與技能手冊 (Skill)**：
+    - 在 `AGENTS.md` 與 `.agents/rules/autonomous_company_update.md` 中確立第 12 條「全自動財報更新管線規範」。
+    - 在 `.agents/skills/financial-report-multiformat-analyzer/SKILL.md` 中新增第 11 節，結構化說明 CLI 指令與 5 階段生命週期。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.11.0`（`Updated: 2026-09-06`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
+- **v3.10.0 (2026-09-06)**：
+  - **產業戰略洞察與深度研究筆記庫全面擴充 (Industry Strategic Insights & Deep Research Notes Archive)**：
+    - **全賽道標準化升級**：將第 3 大模組由單一前沿 AI/國防擴充至 **7 大關鍵科技產業賽道**，各卡片統一配置黃金標準結構（主管摘要、審計指標對比矩陣、4大會計與商業機制深度拆解、營運槓桿拐點演化路徑、一鍵複製 Markdown）。
+    - **🤖 前沿 AI 與國防軍工 (`AI_DEFENSE`)**：Anthropic, OpenAI, Shield AI, Anduril, Palantir, Ondas 萬億參數算力研發費用化與營運槓桿拐點。
+    - **⚡ 晶圓製造與 IDM (`FOUNDRY`)**：台積電 (TSMC), 英特爾 (Intel), 格羅方德 (GFS), 世界先進 (VIS), 瑞薩 (Renesas), 意法半導體 (STM) 先進製程 53%+ 霸權定價權 vs. 重資產晶圓廠 CapEx 折舊與產能利用率悖論（The Pivot 拐點模型）。
+    - **🧠 IC 設計與無晶圓廠 (`FABLESS`)**：輝達 (NVIDIA), 博通 (Broadcom), 超微 (AMD), 聯發科 (MediaTek), 瑞昱 (Realtek), 邁威爾 (Marvell) 極致輕資產營運槓桿、CUDA 軟硬體生態鎖定與 $3.6M/人 歷史人均產值。
+    - **🔬 半導體設備與關鍵材料 (`EQUIPMENT`)**：ASML, 應用材料 (AMAT), 東京威力科創 (TEL), 科林研發 (Lam), 科磊 (KLA), 信越化學 (Shin-Etsu), 環球晶 (GlobalWafers) High-NA EUV 壟斷定價、55%+ 高毛利設備服務年金與多國晶片法案重複採購紅利。
+    - **🧪 半導體測試、探針卡與封測 (`TESTING`)**：日月光 (ASE), 京元電子 (KYEC), 穎崴 (WinWay), 致茂 (Chroma), 閎康 (MA-tek), 愛德萬 (Advantest) AI 晶片千瓦級功耗與水冷測試座、Chiplet 封裝 Known Good Die (KGD) 驗證與稼動率彈性槓桿。
+    - **💻 系統組裝 ODM 與 AI 伺服器硬體 (`HARDWARE`)**：緯穎 (Wiwynn), 廣達 (Quanta), 鴻海 (Foxconn), 美超微 (SMCI), 緯創 (Wistron), 戴爾 (Dell), 蘋果 (Apple)「毛三到四 vs. 人均營收暴衝至數百萬美元」之「量價悖論」、GPU 直通料會計、L10/L11 水冷散熱機櫃系統整合與 ODM-Direct 直銷。
+    - **☁️ 超大規模雲端巨頭 (`HYPERSCALE`)**：微軟 (Microsoft), Alphabet/Google, Meta, 亞馬遜 (Amazon AWS), Palantir, 賽富時 (Salesforce) 年超 2,000 億美元 CapEx 與 4~5 年伺服器折舊壓力、自研 ASIC (TPU/Trainium/Maia) 降本、Agentforce 消耗量計價與高毛利軟體現金流補貼。
+    - **嚴格工作區隔離與雙語完整對齊**：View 1（單一公司深入分析）與 View 2（多公司橫向對比）100% 原始運作不受任何影響；全量完善中英文雙語標籤與明亮模式防眩光規範。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.10.0`（`Updated: 2026-09-06`），重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.9.2 (2026-09-06)**：
   - **優化桌機電腦排版寬度（恢復標準 `max-w-7xl` / 1280px 舒適視野）**：
     - **舒適比例調整**：應使用者偏好，將主畫布與導覽列由超寬滿版 `max-w-[1720px]` 回復為標準黃金比例 `max-w-7xl`（1280px），杜絕寬螢幕下圖表橫向過度拉伸，提升雙欄圖表與評比卡片之視覺聚焦度與閱讀舒適感。
@@ -1159,6 +1185,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.11.0 - feat: introduce update_pipeline.py for one-click automated financial report ingestion, audit, and sync
 * commit v3.10.0 - feat: expand Industry Strategic Insights with comprehensive deep research notes for Foundry, Fabless, Equipment, Testing, Hardware, and Hyperscalers
 * commit v3.9.2 - style: adjust desktop container width to standard max-w-7xl (1280px) for optimal visual focus
 * commit v3.9.1 - feat: add directional trajectory time-trend arrows and hoverable checkpoints to bivariate strategic scatter plot (Chart 5)
