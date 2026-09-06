@@ -657,6 +657,11 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.9.2 (2026-09-06)**：
+  - **優化桌機電腦排版寬度（恢復標準 `max-w-7xl` / 1280px 舒適視野）**：
+    - **舒適比例調整**：應使用者偏好，將主畫布與導覽列由超寬滿版 `max-w-[1720px]` 回復為標準黃金比例 `max-w-7xl`（1280px），杜絕寬螢幕下圖表橫向過度拉伸，提升雙欄圖表與評比卡片之視覺聚焦度與閱讀舒適感。
+    - **全量編譯與同步**：更新 `AGENTS.md` 規範與 `templates/index.html`，重新執行 `export_standalone.py` 編譯 `docs/index.html` 與 `standalone_dashboard.html`，版本號升級至 `v3.9.2`。
+
 - **v3.9.1 (2026-09-06)**：
   - **二維戰略四象限與氣泡矩陣 (Chart 5) 升級「5 年時間趨勢向量箭頭 (5Y Trajectory Directional Arrows)」視覺化引擎**：
     - **動態時間趨勢向量箭頭**：在「顯示 5 年歷史軌跡 (5Y Trail)」模式下，自動於歷年轉折點（2020 ➔ 2021 ➔ 2022 ➔ 2023 ➔ 2024 ➔ 2025/2026）繪製高對比、顏色對齊之動態向量箭頭，直觀呈現每家企業在毛利率（定價權）與營業利益率（營運槓桿）隨時間演進之躍升方向與動能。
@@ -1141,6 +1146,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.9.2 - style: adjust desktop container width to standard max-w-7xl (1280px) for optimal visual focus
 * commit v3.9.1 - feat: add directional trajectory time-trend arrows and hoverable checkpoints to bivariate strategic scatter plot (Chart 5)
 * commit v3.9.0 - feat: integrate Cadence (CDNS) and Marvell (MRVL) 6-year audited reports, segment breakdowns, and quarterly analytics
 * commit v3.8.0 - feat: integrate Tokyo Electron (8035.T), Linde (LIN), and Synopsys (SNPS) 6-year audited reports, segment breakdowns, and quarterly analytics

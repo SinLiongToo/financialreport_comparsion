@@ -144,11 +144,10 @@
 
 ---
 
-## 🖥️ 11. Ultra-Wide Layout Standard & High-Resolution Canvas Directive (`max-w-[1720px]`) (超寬螢幕滿版畫布與響應式雙層導覽列規範)
+## 🖥️ 11. Standard Layout Width & Responsive Dual-Tier Header Directive (`max-w-7xl`) (標準版面寬度與響應式雙層導覽列規範)
 
-- **Ultra-Wide High-Resolution Canvas Guarantee (`max-w-[1720px]`)**:
-  - **Prohibition of Narrow Containers**: Do NOT use Tailwind's default `max-w-7xl` (1280px) on root wrappers, which causes substantial empty black borders on modern 1080p, 1440p, 4K, and 21:9 Ultrawide monitors and squishes the 6 Plotly charts and KPI cards.
-  - **Standardized Root Width**: All main layout containers (`<header>`, navigation tabs bar, `<main>` content container, and modal inspection views) MUST strictly use `max-w-[1720px] w-full mx-auto px-3 sm:px-6 lg:px-8`.
+- **Standard Layout Container Width (`max-w-7xl` / 1280px)**:
+  - **Standardized Root Width**: All main layout containers (`<header>`, navigation tabs bar, `<main>` content container) use `max-w-7xl w-full mx-auto px-3 sm:px-6` to ensure comfortable viewing margins and prevent overly stretched plots across wide displays.
 - **Dual-Tier Spacious Header Hierarchy (雙層舒展導覽列架構)**:
   - **Row 1 (Branding, Subtitle & Status Badges)**:
     - **Left**: Chart Icon + Main Title `Financial & OpEx Strategic Dashboard` + Subtitle (`Annual Reports Crawler ➔ Markdown Parser ➔ Productivity Alignment`).
