@@ -3146,6 +3146,85 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                     <p data-i18n="guide_sec5_p">Select any parsed <code>.md</code> file in the bottom browser, click <strong>"Copy Markdown"</strong>, and paste it into Gemini with <code>fininacial_prompt.md</code> or <code>sale_breakdown.md</code> for instant 16:9 executive presentation decks and pitch scripts.</p>
                 </div>
 
+                <!-- Section 9: Zero-Cost Access, API Independence & Multi-Agent Matrix -->
+                <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-700/60 space-y-3">
+                    <div class="flex items-center justify-between border-b border-slate-700/80 pb-2.5">
+                        <h4 class="text-sm font-bold text-emerald-400 flex items-center gap-2">
+                            <i class="fa-solid fa-shield-halved text-emerald-400"></i>
+                            <span data-i18n="guide_sec9_title">9. Zero-Cost Universal Access, No API Key Required & Multi-Agent Dispatch Guide</span>
+                        </h4>
+                        <span class="text-[10px] bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-mono font-medium">100% Free & Open</span>
+                    </div>
+
+                    <!-- Tier 1 vs Tier 2 Architecture Cards -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-[11px]">
+                        <div class="bg-slate-850 p-3.5 rounded-xl border border-slate-700/80 space-y-2">
+                            <div class="flex items-center gap-2 text-emerald-300 font-bold">
+                                <i class="fa-solid fa-users text-sm"></i>
+                                <span>情境 A：一般使用者 / 團隊主管 / 外部訪客</span>
+                            </div>
+                            <p class="text-slate-300 leading-relaxed">
+                                <strong>100% 免 AI、免 API Key、免花費、免安裝！</strong><br/>
+                                • <strong>線上直接用</strong>：點擊 GitHub Pages 網址，瀏覽器直接渲染 62 家科技巨頭財報指標、6 大圖表與 7 大賽道研究筆記。<br/>
+                                • <strong>完全離線單機版</strong>：將 <code>standalone_dashboard.html</code> 複製到任何電腦，點擊兩下即可在 Chrome/Edge 離線秒開。
+                            </p>
+                        </div>
+
+                        <div class="bg-slate-850 p-3.5 rounded-xl border border-slate-700/80 space-y-2">
+                            <div class="flex items-center gap-2 text-sky-300 font-bold">
+                                <i class="fa-solid fa-gears text-sm"></i>
+                                <span>情境 B：進階使用者 / 想要新增新公司財報</span>
+                            </div>
+                            <p class="text-slate-300 leading-relaxed">
+                                <strong>兩套自動化軌道自主選擇：</strong><br/>
+                                • <strong>軌道 1 (免 API / 本地規則管線)</strong>：執行 <code>python update_pipeline.py --ingest-pdf &lt;path&gt; --ticker &lt;sym&gt; --year &lt;YYYY&gt;</code>，底層以幾何演算法自動解析，<strong>完全不需要 API Key</strong>。<br/>
+                                • <strong>軌道 2 (AI 語意抽取軌道)</strong>：只有在財報格式非標準、或員工人數深埋在英文散文中時，才需要交由 AI Agent 協助語意判定。
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Multi-Agent Dispatch Matrix -->
+                    <div class="mt-3 space-y-2">
+                        <h5 class="text-xs font-bold text-amber-300 flex items-center gap-1.5">
+                            <i class="fa-solid fa-robot"></i>
+                            <span>使用者如何知道「何時該用 AI？」以及「不同的 AI Agent 該如何使用？」</span>
+                        </h5>
+                        <div class="overflow-x-auto">
+                            <table class="w-full text-xs text-left border-collapse border border-slate-700 rounded-lg overflow-hidden">
+                                <thead class="bg-slate-800 text-slate-300 font-semibold border-b border-slate-700 text-[11px]">
+                                    <tr>
+                                        <th class="py-2 px-2.5 border border-slate-700">AI 環境 / 工具</th>
+                                        <th class="py-2 px-2.5 border border-slate-700">何時使用 (Trigger Conditions)</th>
+                                        <th class="py-2 px-2.5 border border-slate-700">如何使用 (Exact Instructions)</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-slate-700/60 text-slate-300 text-[11px]">
+                                    <tr class="bg-slate-900/40">
+                                        <td class="py-2 px-2.5 font-bold text-white border border-slate-700">Antigravity / Coding Agent</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-slate-300">需要全自動下載 PDF、無損轉 Markdown、審計指標並重新編譯發布。</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">在對話中直接輸入：<code class="font-mono text-emerald-200">「請新增 [公司名稱]，下載歷年財報並加入儀表板」</code>，Agent 會自動載入專屬 Skill 執行 7 步驟。</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-2 px-2.5 font-bold text-white border border-slate-700">Gemini 2.5 / 1.5 Pro (Google AI Studio)</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-slate-300">手邊有長達 300 頁的原生 10-K PDF，想快速抓出損益表與人均產值。</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">直接上傳 PDF，搭配本專案的 <code class="font-mono text-emerald-200">fininacial_prompt.md</code> 提示詞，10 秒內獲取結構化 JSON。</td>
+                                    </tr>
+                                    <tr class="bg-slate-900/40">
+                                        <td class="py-2 px-2.5 font-bold text-white border border-slate-700">ChatGPT / Claude (網頁免費版)</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-slate-300">需要撰寫 16:9 董事會報告、投資戰略簡報、或分析同業競爭優劣勢。</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">在儀表板點擊「一鍵複製 Markdown (Copy Markdown)」或複製研究筆記，直接貼給 ChatGPT / Claude，讓其輸出專業投影片文字。</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-2 px-2.5 font-bold text-white border border-slate-700">Cursor / Windsurf / Copilot</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-slate-300">在本地 IDE 裡進行二次開發、擴充圖表或整合自訂內部 ERP 財務數據。</td>
+                                        <td class="py-2 px-2.5 border border-slate-700 text-emerald-300">讓 Agent 讀取本專案的 <code class="font-mono text-emerald-200">AGENTS.md</code> 與 <code class="font-mono text-emerald-200">SKILL.md</code>，即可自動依循規範進行安全維護。</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
             <!-- Modal Footer -->
@@ -4376,7 +4455,8 @@ const I18N_DICT = {
         btn_zoom_chart: "Zoom In",
         btn_shrink_chart: "Shrink (ESC)",
         btn_download_image: "Download HD PNG",
-        zoom_modal_esc_hint: "Press ESC or click backdrop to shrink"
+        zoom_modal_esc_hint: "Press ESC or click backdrop to shrink",
+        guide_sec9_title: "9. Zero-Cost Universal Access, No API Key Required & Multi-Agent Dispatch Guide"
     },
     zh: {
         badge_workflow: "一步到位工作流",
@@ -4518,7 +4598,8 @@ const I18N_DICT = {
         btn_zoom_chart: "一鍵放大",
         btn_shrink_chart: "一鍵縮回 (ESC)",
         btn_download_image: "下載高清圖檔 (PNG)",
-        zoom_modal_esc_hint: "按 ESC 或點擊背景縮回"
+        zoom_modal_esc_hint: "按 ESC 或點擊背景縮回",
+        guide_sec9_title: "9. 零成本通用瀏覽、免 API Key 規範與跨 AI Agent 協作指南"
     }
 };
 

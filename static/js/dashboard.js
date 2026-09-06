@@ -1204,7 +1204,8 @@ const I18N_DICT = {
         btn_zoom_chart: "Zoom In",
         btn_shrink_chart: "Shrink (ESC)",
         btn_download_image: "Download HD PNG",
-        zoom_modal_esc_hint: "Press ESC or click backdrop to shrink"
+        zoom_modal_esc_hint: "Press ESC or click backdrop to shrink",
+        guide_sec9_title: "9. Zero-Cost Universal Access, No API Key Required & Multi-Agent Dispatch Guide"
     },
     zh: {
         badge_workflow: "一步到位工作流",
@@ -1346,7 +1347,8 @@ const I18N_DICT = {
         btn_zoom_chart: "一鍵放大",
         btn_shrink_chart: "一鍵縮回 (ESC)",
         btn_download_image: "下載高清圖檔 (PNG)",
-        zoom_modal_esc_hint: "按 ESC 或點擊背景縮回"
+        zoom_modal_esc_hint: "按 ESC 或點擊背景縮回",
+        guide_sec9_title: "9. 零成本通用瀏覽、免 API Key 規範與跨 AI Agent 協作指南"
     }
 };
 

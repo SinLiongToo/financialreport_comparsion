@@ -625,6 +625,20 @@ sequenceDiagram
   2. **自訂網址**：支援在 Prompt 中直接貼入任意公司的 CompaniesMarketCap 專屬頁面網址。
   3. **官方監管備用來源**：美國 **SEC EDGAR 系統**（美股 Form 10-K/10-Q）、台灣證交所 **公開資訊觀測站 MOPS**（台灣 TWSE 財務資料表）與企業官方投資人關係 (IR) 網站。
 
+**Q6：其他人瀏覽或使用本儀表板，需要具備 AI 帳號或付費 API Key 嗎？**
+- 答：**100% 完全不需要！**
+  - **一般使用者（99% 場景）**：點開 GitHub Pages 網址或雙擊開啟 `standalone_dashboard.html`，即可直接瀏覽 62 家公司數據、6 大圖表與 7 大賽道研究筆記。所有運算在打包時已「預先烘烤」為純靜態 HTML/JS，**零後端依賴、零 API 成本、免登入帳號**。
+  - **新增公司財報**：使用 `python update_pipeline.py --ingest-pdf <檔案> --ticker <代碼> --year <年份>`，底層採用純 Python 幾何解析表格，**完全不需調用任何 LLM API**。
+
+**Q7：使用者如何知道「何時該用 AI？」以及「不同的 AI Agent 該如何使用？」**
+- 答：本專案支援多種 AI 協同模式，依據不同情境與 Agent 工具分工如下：
+  | AI 環境 / Agent | 何時使用 (何時觸發) | 具體使用方式 (How to Use) |
+  | :--- | :--- | :--- |
+  | **Antigravity / Coding Agent** | 需要全自動下載 PDF、無損轉 Markdown、審計指標並重新編譯發布時 | 在對話中輸入：`「請新增 [公司名稱]，下載歷年財報並加入儀表板」`，Agent 自動依循 `AGENTS.md` 規則執行端到端管線。 |
+  | **Gemini 2.5 / 1.5 Pro (Google AI Studio)** | 手邊有長達 300 頁的原生 10-K PDF，想快速抓出損益表與員工人數時 | 上傳 PDF，搭配本專案 `fininacial_prompt.md` 提示詞，10 秒內提取會計勾稽數值。 |
+  | **ChatGPT / Claude (免費網頁版)** | 需要產出 16:9 董事會報告、競爭分析簡報或高階投資備忘錄時 | 在儀表板點擊「一鍵複製 Markdown (Copy Markdown)」或複製研究筆記，貼入對話框即可產出投影片草稿。 |
+  | **Cursor / Windsurf / Copilot** | 在本地 IDE 進行功能二次開發、客製圖表或串接內部 ERP 數據時 | 讓 Agent 讀取專案內之 `AGENTS.md` 與 `SKILL.md`，即可安全進行程式碼維護。 |
+
 ---
 
 ## 🌐 100% 獨立靜態網頁與 GitHub Pages 免費部署 (Serverless Standalone)
@@ -665,6 +679,9 @@ python main.py --export-static
       - `python update_pipeline.py --ingest-pdf <path_to_pdf> --ticker <ticker> --year <year>`（直接將外部下載的年度/季度財報 PDF 匯入並自動完成解析、審計與編譯）。
       - `python update_pipeline.py --all`（對全庫 62 家企業進行批次增量更新與審計）。
     - **效能極致優化**：結合 Markdown 快取機制（大於 1KB 自動沿用，單家企業更新僅需 ~0.13 秒）。
+  - **新增「零成本免 API 規範」與「跨 AI Agent 協調使用指南」至 README (Q6/Q7) 與 Help 彈窗 (Section 9)**：
+    - 清楚劃分「一般訪客（100% 免 AI、免 API Key、離線秒開）」與「維護開發者（本地規則免 API，或呼叫 AI 語意處理非標準財報）」。
+    - 完整收錄 Antigravity、Gemini Pro、ChatGPT/Claude 與 Cursor/Copilot 之觸發時機與具體操作指引。
   - **同步升級專案自主執行規範 (Rule) 與技能手冊 (Skill)**：
     - 在 `AGENTS.md` 與 `.agents/rules/autonomous_company_update.md` 中確立第 12 條「全自動財報更新管線規範」。
     - 在 `.agents/skills/financial-report-multiformat-analyzer/SKILL.md` 中新增第 11 節，結構化說明 CLI 指令與 5 階段生命週期。
