@@ -67,6 +67,22 @@ body.light-theme header .bg-slate-800\/90 {
     border-color: #c8d4e0 !important;
 }
 
+/* Financial Wisdom Quotes Marquee in Light Theme */
+body.light-theme #financeQuotesMarqueeContainer {
+    background-color: #dde5ee !important;
+    border-color: #b0bfcf !important;
+    color: #1e293b !important;
+}
+
+body.light-theme #financeQuotesMarqueeContainer .text-slate-300,
+body.light-theme #financeQuotesMarqueeContainer .text-slate-400 {
+    color: #334155 !important;
+}
+
+body.light-theme #financeQuotesMarqueeContainer .text-amber-400 {
+    color: #b45309 !important;
+}
+
 /* Header Control Buttons */
 body.light-theme #freqAnnualBtn,
 body.light-theme #freqQuarterlyBtn,
@@ -488,107 +504,36 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
     <!-- Header -->
     <header class="bg-slate-800 border-b border-slate-700 sticky top-0 z-40 shadow-md">
         <div class="max-w-7xl mx-auto px-3 sm:px-6 py-2 sm:py-2.5 flex flex-col gap-2 w-full">
-            <!-- Row 1: App Title & Branding (Left) + Badges & Status (Right) -->
-            <div class="flex flex-col md:flex-row md:justify-between md:items-center gap-2 w-full">
+            <!-- Row 1: App Title & Branding (Left) + Status & Author Badges (Right) -->
+            <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 w-full">
                 <!-- Left: Icon + Title + Subtitle -->
                 <div class="flex items-center space-x-3 min-w-0">
                     <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-blue-500/30 shrink-0">
                         <i class="fa-solid fa-chart-line"></i>
                     </div>
                     <div class="min-w-0">
-                        <h1 class="text-base sm:text-xl font-bold tracking-tight text-white flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg md:text-xl font-bold tracking-tight text-white flex items-center gap-2 whitespace-nowrap">
                             <span>Financial & OpEx Strategic Dashboard</span>
                         </h1>
                         <p class="text-xs text-slate-400 hidden sm:block truncate" data-i18n="header_subtitle">Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment</p>
                     </div>
                 </div>
 
-                <!-- Right: Action Controls Bar & Status Badges -->
-                <div class="flex flex-wrap items-center gap-1.5 sm:gap-2 shrink-0 justify-start md:justify-end">
-                    <!-- Status Badges -->
+                <!-- Right: Status Badges & Author -->
+                <div class="flex items-center gap-1.5 sm:gap-2 shrink-0 self-start sm:self-auto flex-wrap">
+                    <span class="text-xs bg-blue-500/20 text-blue-300 border border-blue-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
+                        <i class="fa-solid fa-bolt text-blue-400 text-[10px]"></i> One-Click Workflow
+                    </span>
                     <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
                         <i class="fa-solid fa-code-branch text-[10px]"></i> v3.11.0
+                    </span>
+                    <span class="text-xs bg-purple-500/20 text-purple-300 border border-purple-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap hidden md:inline-flex">
+                        <i class="fa-regular fa-calendar-check text-[10px]"></i> Updated: 2026-09-06
                     </span>
                     <a href="https://www.linkedin.com/in/masatu19810322/" target="_blank" rel="noopener noreferrer" class="text-xs bg-[#0A66C2]/20 hover:bg-[#0A66C2]/35 border border-[#0A66C2]/40 text-blue-200 hover:text-white px-2 py-0.5 rounded-full font-semibold inline-flex items-center gap-1 shadow-sm transition-all whitespace-nowrap" title="LinkedIn: Masa Tu | Too Sin-Liong">
                         <i class="fa-brands fa-linkedin text-[#0A66C2] text-xs"></i>
                         <span>Masa Tu</span>
                     </a>
-
-                    <!-- Frequency Switcher (Annual 10-K vs Quarterly 10-Q) -->
-                    <div class="bg-slate-700/90 border border-slate-600 p-0.5 rounded-lg flex items-center shadow-inner">
-                        <button id="freqAnnualBtn" class="bg-blue-600 text-white px-2 py-1 rounded-md text-xs font-semibold shadow transition-all flex items-center gap-1">
-                            <i class="fa-solid fa-calendar"></i>
-                            <span data-i18n="freq_annual">Annual (10-K)</span>
-                        </button>
-                        <button id="freqQuarterlyBtn" class="text-slate-300 hover:text-white px-2 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1">
-                            <i class="fa-solid fa-bolt text-amber-400"></i>
-                            <span data-i18n="freq_quarterly">Quarterly (10-Q)</span>
-                        </button>
-                    </div>
-
-                    <!-- Light / Dark Theme Toggle Button -->
-                    <button id="themeToggleBtn" class="bg-slate-700 hover:bg-slate-600 border border-slate-600 text-amber-300 hover:text-amber-200 px-2 py-1 rounded-lg text-xs font-semibold transition-all flex items-center gap-1 shadow-sm" title="Toggle Light/Dark Theme">
-                        <i id="themeIcon" class="fa-solid fa-sun"></i>
-                        <span id="themeLabel" class="hidden sm:inline">Light</span>
-                    </button>
-
-                    <!-- Help / User Guide Button -->
-                    <button id="helpGuideBtn" class="bg-indigo-600/30 hover:bg-indigo-600/50 border border-indigo-500/40 text-indigo-200 px-2.5 py-1 rounded-lg text-xs font-semibold transition-all flex items-center gap-1 shadow-sm">
-                        <i class="fa-solid fa-book-open text-indigo-400"></i>
-                        <span data-i18n="btn_user_guide">User Guide & Help</span>
-                    </button>
-
-                    <!-- Language Toggle -->
-                    <button id="langToggleBtn" class="bg-slate-700 hover:bg-slate-600 border border-slate-600 text-slate-200 px-2 py-1 rounded-lg text-xs font-semibold transition-all flex items-center gap-1">
-                        <i class="fa-solid fa-globe text-blue-400"></i>
-                        <span id="currentLangLabel">繁體中文</span>
-                    </button>
-
-                    <!-- Single View Company Selector -->
-                    <select id="companySelect" class="bg-slate-700 border border-slate-600 rounded-lg px-2 py-1 text-xs sm:text-sm font-medium focus:ring-2 focus:ring-blue-500 outline-none text-white max-w-[150px] sm:max-w-xs truncate">
-                        <option value="CDNS">Cadence Design Systems (CDNS / 益華電腦)</option>
-                        <option value="MRVL">Marvell Technology (MRVL / 邁威爾科技)</option>
-                        <option value="TEL">Tokyo Electron (8035.T / 東京威力科創)</option>
-                        <option value="LIN">Linde plc (LIN / 林德集團)</option>
-                        <option value="SNPS">Synopsys, Inc. (SNPS / 新思科技)</option>
-                        <option value="AIR-LIQUIDE">Air Liquide S.A. (AI.PA / 液化空氣集團)</option>
-                        <option value="TSLA">Tesla, Inc. (TSLA / 特斯拉)</option>
-                        <option value="RENESAS">Renesas Electronics (6723.T / ルネサス)</option>
-                        <option value="WIN-SEMI">WIN Semiconductors (3105 / 穩懋半導體)</option>
-                        <option value="STM">STMicroelectronics (STM / 意法半導體)</option>
-                        <option value="SK-HYNIX">SK hynix (000660.KS / SK海力士)</option>
-                        <option value="SUMCO">SUMCO Corporation (3436.T / 株式會社SUMCO)</option>
-                        <option value="SHIN-ETSU">Shin-Etsu Chemical (4063.T / 信越化學)</option>
-                        <option value="GLOBALWAFERS">GlobalWafers (6488.TWO / 環球晶圓)</option>
-                        <option value="ASUS">ASUS (2357 / 華碩電腦)</option>
-                        <option value="ASML">ASML Holding N.V.</option>
-                        <option value="TSMC">TSMC (2330 / TSM)</option>
-                        <option value="MEDIATEK">MediaTek (2454 / 聯發科)</option>
-                        <option value="QUANTA">Quanta Computer (2382 / 廣達)</option>
-                        <option value="WISTRON">Wistron (3231 / 緯創)</option>
-                        <option value="PEGATRON">Pegatron (4938 / 和碩)</option>
-                        <option value="MERCK-KGAA">Merck KGaA (MRK.DE / 默克集團)</option>
-                        <option value="MA-TEK">MA-tek (3587 / 閎康科技)</option>
-                        <option value="AVGO">Broadcom Inc. (AVGO / 博通)</option>
-                        <option value="LRCX">Lam Research (LRCX / 科林研發)</option>
-                        <option value="ADI">Analog Devices (ADI / 亞德諾半導體)</option>
-                        <option value="TXN">Texas Instruments (TXN / 德州儀器)</option>
-                        <option value="SWKS">Skyworks Solutions (SWKS / 希佳訊)</option>
-                        <option value="AGILENT">Agilent Technologies (A / 安捷倫科技)</option>
-                        <option value="INTC">Intel Corporation (INTC / 英特爾)</option>
-                        <option value="VIS">Vanguard Int'l Semi (5347 / 世界先進)</option>
-                        <option value="PSMC">Powerchip PSMC (6770 / 力積電)</option>
-                        <option value="REALTEK">Realtek Semiconductor (2379 / 瑞昱半導體)</option>
-                        <option value="QCOM">Qualcomm (QCOM / 高通)</option>
-                        <option value="NVDA">NVIDIA Corporation</option>
-                        <option value="NXP">NXP Semiconductors (NXPI)</option>
-                        <option value="VSH">Vishay Intertechnology (VSH)</option>
-                    </select>
-
-                    <!-- Refresh Button -->
-                    <button id="refreshBtn" class="bg-slate-700 hover:bg-slate-600 text-slate-300 px-2.5 py-1 rounded-lg text-xs transition-all flex items-center gap-1">
-                        <i class="fa-solid fa-rotate"></i> <span data-i18n="btn_refresh">Reload</span>
-                    </button>
                 </div>
             </div>
 
@@ -608,6 +553,93 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                         <button id="quotePrevBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1.5 py-0.5 rounded transition-colors" title="Previous quote / 上一句"><i class="fa-solid fa-chevron-up"></i></button>
                         <button id="quoteNextBtn" class="hover:text-amber-300 hover:bg-slate-700/50 px-1.5 py-0.5 rounded transition-colors" title="Next quote / 下一句"><i class="fa-solid fa-chevron-down"></i></button>
                     </div>
+                </div>
+            </div>
+
+            <!-- Row 3: Action Controls Bar (Data Selection on Left, Tool Settings on Right) -->
+            <div class="flex flex-wrap items-center justify-between gap-2 w-full pt-0.5">
+                <!-- Left: Filing Frequency & Company Selector -->
+                <div class="flex flex-wrap items-center gap-2">
+                    <!-- Frequency Switcher (Annual 10-K vs Quarterly 10-Q) -->
+                    <div class="bg-slate-700/90 border border-slate-600 p-0.5 rounded-lg flex items-center shadow-inner">
+                        <button id="freqAnnualBtn" class="bg-blue-600 text-white px-2.5 py-1 rounded-md text-xs font-semibold shadow transition-all flex items-center gap-1.5">
+                            <i class="fa-solid fa-calendar"></i>
+                            <span data-i18n="freq_annual">Annual (10-K)</span>
+                        </button>
+                        <button id="freqQuarterlyBtn" class="text-slate-300 hover:text-white px-2.5 py-1 rounded-md text-xs font-semibold transition-all flex items-center gap-1.5">
+                            <i class="fa-solid fa-bolt text-amber-400"></i>
+                            <span data-i18n="freq_quarterly">Quarterly (10-Q)</span>
+                        </button>
+                    </div>
+
+                    <!-- Single View Company Selector -->
+                    <div class="flex items-center gap-1.5">
+                        <select id="companySelect" class="bg-slate-700 border border-slate-600 rounded-lg px-2.5 py-1 text-xs sm:text-sm font-medium focus:ring-2 focus:ring-blue-500 outline-none text-white max-w-[200px] sm:max-w-xs truncate shadow-sm">
+                            <option value="CDNS">Cadence Design Systems (CDNS / 益華電腦)</option>
+                            <option value="MRVL">Marvell Technology (MRVL / 邁威爾科技)</option>
+                            <option value="TEL">Tokyo Electron (8035.T / 東京威力科創)</option>
+                            <option value="LIN">Linde plc (LIN / 林德集團)</option>
+                            <option value="SNPS">Synopsys, Inc. (SNPS / 新思科技)</option>
+                            <option value="AIR-LIQUIDE">Air Liquide S.A. (AI.PA / 液化空氣集團)</option>
+                            <option value="TSLA">Tesla, Inc. (TSLA / 特斯拉)</option>
+                            <option value="RENESAS">Renesas Electronics (6723.T / ルネサス)</option>
+                            <option value="WIN-SEMI">WIN Semiconductors (3105 / 穩懋半導體)</option>
+                            <option value="STM">STMicroelectronics (STM / 意法半導體)</option>
+                            <option value="SK-HYNIX">SK hynix (000660.KS / SK海力士)</option>
+                            <option value="SUMCO">SUMCO Corporation (3436.T / 株式會社SUMCO)</option>
+                            <option value="SHIN-ETSU">Shin-Etsu Chemical (4063.T / 信越化學)</option>
+                            <option value="GLOBALWAFERS">GlobalWafers (6488.TWO / 環球晶圓)</option>
+                            <option value="ASUS">ASUS (2357 / 華碩電腦)</option>
+                            <option value="ASML">ASML Holding N.V.</option>
+                            <option value="TSMC">TSMC (2330 / TSM)</option>
+                            <option value="MEDIATEK">MediaTek (2454 / 聯發科)</option>
+                            <option value="QUANTA">Quanta Computer (2382 / 廣達)</option>
+                            <option value="WISTRON">Wistron (3231 / 緯創)</option>
+                            <option value="PEGATRON">Pegatron (4938 / 和碩)</option>
+                            <option value="MERCK-KGAA">Merck KGaA (MRK.DE / 默克集團)</option>
+                            <option value="MA-TEK">MA-tek (3587 / 閎康科技)</option>
+                            <option value="AVGO">Broadcom Inc. (AVGO / 博通)</option>
+                            <option value="LRCX">Lam Research (LRCX / 科林研發)</option>
+                            <option value="ADI">Analog Devices (ADI / 亞德諾半導體)</option>
+                            <option value="TXN">Texas Instruments (TXN / 德州儀器)</option>
+                            <option value="SWKS">Skyworks Solutions (SWKS / 希佳訊)</option>
+                            <option value="AGILENT">Agilent Technologies (A / 安捷倫科技)</option>
+                            <option value="INTC">Intel Corporation (INTC / 英特爾)</option>
+                            <option value="VIS">Vanguard Int'l Semi (5347 / 世界先進)</option>
+                            <option value="PSMC">Powerchip PSMC (6770 / 力積電)</option>
+                            <option value="REALTEK">Realtek Semiconductor (2379 / 瑞昱半導體)</option>
+                            <option value="QCOM">Qualcomm (QCOM / 高通)</option>
+                            <option value="NVDA">NVIDIA Corporation</option>
+                            <option value="NXP">NXP Semiconductors (NXPI)</option>
+                            <option value="VSH">Vishay Intertechnology (VSH)</option>
+                        </select>
+
+                        <!-- Refresh Button -->
+                        <button id="refreshBtn" class="bg-slate-700 hover:bg-slate-600 text-slate-300 hover:text-white px-2.5 py-1 rounded-lg text-xs transition-all flex items-center gap-1 shadow-sm border border-slate-600">
+                            <i class="fa-solid fa-rotate"></i> <span data-i18n="btn_refresh">Reload</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Right: Theme, Help & Language -->
+                <div class="flex items-center gap-1.5 sm:gap-2">
+                    <!-- Light / Dark Theme Toggle Button -->
+                    <button id="themeToggleBtn" class="bg-slate-700 hover:bg-slate-600 border border-slate-600 text-amber-300 hover:text-amber-200 px-2.5 py-1 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5 shadow-sm" title="Toggle Light/Dark Theme">
+                        <i id="themeIcon" class="fa-solid fa-sun"></i>
+                        <span id="themeLabel" class="hidden sm:inline">Light</span>
+                    </button>
+
+                    <!-- Help / User Guide Button -->
+                    <button id="helpGuideBtn" class="bg-indigo-600/30 hover:bg-indigo-600/50 border border-indigo-500/40 text-indigo-200 hover:text-white px-2.5 py-1 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5 shadow-sm">
+                        <i class="fa-solid fa-book-open text-indigo-400"></i>
+                        <span data-i18n="btn_user_guide">User Guide & Help</span>
+                    </button>
+
+                    <!-- Language Toggle -->
+                    <button id="langToggleBtn" class="bg-slate-700 hover:bg-slate-600 border border-slate-600 text-slate-200 hover:text-white px-2.5 py-1 rounded-lg text-xs font-semibold transition-all flex items-center gap-1.5 shadow-sm">
+                        <i class="fa-solid fa-globe text-blue-400"></i>
+                        <span id="currentLangLabel">繁體中文</span>
+                    </button>
                 </div>
             </div>
         </div>

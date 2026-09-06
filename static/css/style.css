@@ -51,6 +51,22 @@ body.light-theme header .bg-slate-800\/90 {
     border-color: #c8d4e0 !important;
 }
 
+/* Financial Wisdom Quotes Marquee in Light Theme */
+body.light-theme #financeQuotesMarqueeContainer {
+    background-color: #dde5ee !important;
+    border-color: #b0bfcf !important;
+    color: #1e293b !important;
+}
+
+body.light-theme #financeQuotesMarqueeContainer .text-slate-300,
+body.light-theme #financeQuotesMarqueeContainer .text-slate-400 {
+    color: #334155 !important;
+}
+
+body.light-theme #financeQuotesMarqueeContainer .text-amber-400 {
+    color: #b45309 !important;
+}
+
 /* Header Control Buttons */
 body.light-theme #freqAnnualBtn,
 body.light-theme #freqQuarterlyBtn,
