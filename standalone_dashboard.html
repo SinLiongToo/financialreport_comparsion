@@ -499,10 +499,10 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                 <div class="flex flex-wrap items-center gap-2 shrink-0">
                     <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2.5 py-0.5 rounded-full font-medium whitespace-nowrap shadow-sm" data-i18n="badge_workflow">One-Click Workflow</span>
                     <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2.5 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
-                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.9.0
+                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.9.1
                     </span>
                     <span class="text-xs bg-slate-700/80 text-slate-300 border border-slate-600 px-2.5 py-0.5 rounded-full font-normal inline-flex items-center gap-1 shadow-sm whitespace-nowrap">
-                        <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-05</span>
+                        <i class="fa-regular fa-clock text-[10px] text-amber-400"></i> <span data-i18n="header_updated">Updated: 2026-09-06</span>
                     </span>
                     <a href="https://www.linkedin.com/in/masatu19810322/" target="_blank" rel="noopener noreferrer" class="text-xs bg-[#0A66C2]/20 hover:bg-[#0A66C2]/35 border border-[#0A66C2]/40 text-blue-200 hover:text-white px-2.5 py-0.5 rounded-full font-semibold inline-flex items-center gap-1.5 shadow-sm transition-all whitespace-nowrap" title="LinkedIn: Masa Tu | Too Sin-Liong">
                         <i class="fa-brands fa-linkedin text-[#0A66C2] text-xs"></i>
@@ -1198,7 +1198,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                                 <div class="flex items-center gap-1.5 ml-1">
                                     <label class="inline-flex items-center gap-1.5 cursor-pointer text-slate-300 hover:text-white select-none">
                                         <input type="checkbox" id="scatterToggleTrail" onchange="onScatterAxisChange()" class="rounded border-slate-700 bg-slate-800 text-amber-500 focus:ring-amber-500 focus:ring-offset-slate-900">
-                                        <span data-i18n="scatter_show_trail">顯示歷史軌跡 (5Y Trail)</span>
+                                        <span data-i18n="scatter_show_trail">顯示 5 年歷史軌跡與時間箭頭 (5Y Trail & Arrows)</span>
                                     </label>
                                 </div>
                             </div>
@@ -3172,7 +3172,7 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-05",
+        header_updated: "Updated: 2026-09-06",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -3285,7 +3285,7 @@ const I18N_DICT = {
         scatter_x_axis: "X-Axis:",
         scatter_y_axis: "Y-Axis:",
         scatter_bubble_size: "Bubble Size:",
-        scatter_show_trail: "Show 5Y Trajectory",
+        scatter_show_trail: "Show 5Y Trajectory & Directional Arrows",
         metric_gm: "Gross Margin %",
         metric_opm: "Operating Margin %",
         metric_rd: "R&D % of Rev",
@@ -3316,7 +3316,7 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-05",
+        header_updated: "更新日期：2026-09-06",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -3414,7 +3414,7 @@ const I18N_DICT = {
         scatter_x_axis: "X 軸:",
         scatter_y_axis: "Y 軸:",
         scatter_bubble_size: "氣泡大小:",
-        scatter_show_trail: "顯示歷史軌跡 (5Y Trail)",
+        scatter_show_trail: "顯示 5 年歷史軌跡與時間箭頭 (5Y Trail & Arrows)",
         metric_gm: "Gross Margin % (毛利率)",
         metric_opm: "Operating Margin % (營業利益率)",
         metric_rd: "R&D % of Rev (研發佔比)",
@@ -5646,6 +5646,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
     };
 
     const traces = [];
+    const trajectoryAnnotations = [];
 
     tickers.forEach((t, idx) => {
         const c = companiesData[t];
@@ -5673,18 +5674,50 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             });
 
             if (historicalPts.length > 1) {
-                // Trajectory Path line
+                // Trajectory Path line with hoverable checkpoints
                 traces.push({
                     x: historicalPts.map(p => p.x),
                     y: historicalPts.map(p => p.y),
-                    name: `${c.ticker || t.toUpperCase()} Path`,
+                    name: `${c.ticker || t.toUpperCase()} Trail`,
                     type: "scatter",
                     mode: "lines+markers",
                     line: { color: col, width: 2.5, dash: "dot" },
-                    marker: { size: 6, color: col, opacity: 0.8 },
+                    marker: { size: 6.5, color: col, opacity: 0.85, symbol: "circle" },
                     showlegend: false,
-                    hoverinfo: "skip"
+                    hovertemplate: historicalPts.map(p => `<b>${name}</b> <span style="font-size:11px;">(${countryStr})</span><br>Period: <b>${p.year}</b><br>${xMetric.axisTitle[lang] || xMetric.label[lang]}: <b>${xMetric.format(p.x)}</b><br>${yMetric.axisTitle[lang] || yMetric.label[lang]}: <b>${yMetric.format(p.y)}</b><extra></extra>`)
                 });
+
+                // Trajectory Directional Time-Trend Vector Arrows (Past -> Present)
+                const latestBubbleSize = calcSize(historicalPts[historicalPts.length - 1].size);
+                for (let i = 0; i < historicalPts.length - 1; i++) {
+                    const p0 = historicalPts[i];
+                    const p1 = historicalPts[i + 1];
+                    const dx = p1.x - p0.x;
+                    const dy = p1.y - p0.y;
+                    
+                    if (Math.abs(dx) > 0.0001 || Math.abs(dy) > 0.0001) {
+                        const isFinalStep = (i === historicalPts.length - 2);
+                        
+                        trajectoryAnnotations.push({
+                            ax: p0.x,
+                            ay: p0.y,
+                            axref: "x",
+                            ayref: "y",
+                            x: p1.x,
+                            y: p1.y,
+                            xref: "x",
+                            yref: "y",
+                            showarrow: true,
+                            arrowhead: 2,         // Solid triangular arrowhead
+                            arrowsize: isFinalStep ? 1.4 : 1.1,    // Emphasize terminal momentum into latest year
+                            arrowwidth: isFinalStep ? 2.6 : 1.8,   // Crisp line width
+                            arrowcolor: col,
+                            opacity: isFinalStep ? 0.95 : 0.75,
+                            standoff: isFinalStep ? Math.min(14, Math.max(6, latestBubbleSize / 2 + 2)) : 3,
+                            text: ""
+                        });
+                    }
+                }
             }
 
             // Endpoint bubble (latest year)
@@ -5909,7 +5942,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             zerolinewidth: 1.5
         },
         shapes: shapes,
-        annotations: annotations
+        annotations: [...annotations, ...trajectoryAnnotations]
     };
 
     Plotly.newPlot("chartCompareBivariate", traces, scatterLayout, { responsive: true, displayModeBar: false });

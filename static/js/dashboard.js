@@ -1062,7 +1062,7 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-05",
+        header_updated: "Updated: 2026-09-06",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -1175,7 +1175,7 @@ const I18N_DICT = {
         scatter_x_axis: "X-Axis:",
         scatter_y_axis: "Y-Axis:",
         scatter_bubble_size: "Bubble Size:",
-        scatter_show_trail: "Show 5Y Trajectory",
+        scatter_show_trail: "Show 5Y Trajectory & Directional Arrows",
         metric_gm: "Gross Margin %",
         metric_opm: "Operating Margin %",
         metric_rd: "R&D % of Rev",
@@ -1206,7 +1206,7 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-05",
+        header_updated: "更新日期：2026-09-06",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1304,7 +1304,7 @@ const I18N_DICT = {
         scatter_x_axis: "X 軸:",
         scatter_y_axis: "Y 軸:",
         scatter_bubble_size: "氣泡大小:",
-        scatter_show_trail: "顯示歷史軌跡 (5Y Trail)",
+        scatter_show_trail: "顯示 5 年歷史軌跡與時間箭頭 (5Y Trail & Arrows)",
         metric_gm: "Gross Margin % (毛利率)",
         metric_opm: "Operating Margin % (營業利益率)",
         metric_rd: "R&D % of Rev (研發佔比)",
@@ -3536,6 +3536,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
     };
 
     const traces = [];
+    const trajectoryAnnotations = [];
 
     tickers.forEach((t, idx) => {
         const c = companiesData[t];
@@ -3563,18 +3564,50 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             });
 
             if (historicalPts.length > 1) {
-                // Trajectory Path line
+                // Trajectory Path line with hoverable checkpoints
                 traces.push({
                     x: historicalPts.map(p => p.x),
                     y: historicalPts.map(p => p.y),
-                    name: `${c.ticker || t.toUpperCase()} Path`,
+                    name: `${c.ticker || t.toUpperCase()} Trail`,
                     type: "scatter",
                     mode: "lines+markers",
                     line: { color: col, width: 2.5, dash: "dot" },
-                    marker: { size: 6, color: col, opacity: 0.8 },
+                    marker: { size: 6.5, color: col, opacity: 0.85, symbol: "circle" },
                     showlegend: false,
-                    hoverinfo: "skip"
+                    hovertemplate: historicalPts.map(p => `<b>${name}</b> <span style="font-size:11px;">(${countryStr})</span><br>Period: <b>${p.year}</b><br>${xMetric.axisTitle[lang] || xMetric.label[lang]}: <b>${xMetric.format(p.x)}</b><br>${yMetric.axisTitle[lang] || yMetric.label[lang]}: <b>${yMetric.format(p.y)}</b><extra></extra>`)
                 });
+
+                // Trajectory Directional Time-Trend Vector Arrows (Past -> Present)
+                const latestBubbleSize = calcSize(historicalPts[historicalPts.length - 1].size);
+                for (let i = 0; i < historicalPts.length - 1; i++) {
+                    const p0 = historicalPts[i];
+                    const p1 = historicalPts[i + 1];
+                    const dx = p1.x - p0.x;
+                    const dy = p1.y - p0.y;
+                    
+                    if (Math.abs(dx) > 0.0001 || Math.abs(dy) > 0.0001) {
+                        const isFinalStep = (i === historicalPts.length - 2);
+                        
+                        trajectoryAnnotations.push({
+                            ax: p0.x,
+                            ay: p0.y,
+                            axref: "x",
+                            ayref: "y",
+                            x: p1.x,
+                            y: p1.y,
+                            xref: "x",
+                            yref: "y",
+                            showarrow: true,
+                            arrowhead: 2,         // Solid triangular arrowhead
+                            arrowsize: isFinalStep ? 1.4 : 1.1,    // Emphasize terminal momentum into latest year
+                            arrowwidth: isFinalStep ? 2.6 : 1.8,   // Crisp line width
+                            arrowcolor: col,
+                            opacity: isFinalStep ? 0.95 : 0.75,
+                            standoff: isFinalStep ? Math.min(14, Math.max(6, latestBubbleSize / 2 + 2)) : 3,
+                            text: ""
+                        });
+                    }
+                }
             }
 
             // Endpoint bubble (latest year)
@@ -3799,7 +3832,7 @@ function renderComparisonScatterPlot(companiesData, tickersList) {
             zerolinewidth: 1.5
         },
         shapes: shapes,
-        annotations: annotations
+        annotations: [...annotations, ...trajectoryAnnotations]
     };
 
     Plotly.newPlot("chartCompareBivariate", traces, scatterLayout, { responsive: true, displayModeBar: false });

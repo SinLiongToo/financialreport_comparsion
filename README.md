@@ -657,6 +657,14 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.9.1 (2026-09-06)**：
+  - **二維戰略四象限與氣泡矩陣 (Chart 5) 升級「5 年時間趨勢向量箭頭 (5Y Trajectory Directional Arrows)」視覺化引擎**：
+    - **動態時間趨勢向量箭頭**：在「顯示 5 年歷史軌跡 (5Y Trail)」模式下，自動於歷年轉折點（2020 ➔ 2021 ➔ 2022 ➔ 2023 ➔ 2024 ➔ 2025/2026）繪製高對比、顏色對齊之動態向量箭頭，直觀呈現每家企業在毛利率（定價權）與營業利益率（營運槓桿）隨時間演進之躍升方向與動能。
+    - **末端泡泡防重疊邊距 (Bubble Standoff Optimization)**：在進入最新會計年度氣泡的最後一段時間箭頭加入動態邊距防護（`standoff`），使箭頭精確貼合於氣泡邊緣，確保中心文字與最新數值清晰不被遮擋。
+    - **歷史檢查點懸停浮窗 (Hoverable Trajectory Checkpoints)**：在 5 年虛線軌跡上新增各期歷史節點懸停卡片，滑鼠懸停於軌跡任意點即可即時檢視該年度之精確指標。
+    - **全端雙語標籤升級**：中英文核取方塊標籤全面升級為「顯示 5 年歷史軌跡與時間箭頭 (5Y Trail & Arrows)」。
+    - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.9.1`，執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.9.0 (2026-09-05)**：
   - **新增全球電子設計自動化 (EDA) 與智慧系統分析巨擘 益華電腦 (Cadence Design Systems / NASDAQ: CDNS / 美國 🇺🇸) 與 全球客製化 AI ASIC 運算及電光 DSP 晶片龍頭 邁威爾科技 (Marvell Technology, Inc. / NASDAQ: MRVL / 美國 🇺🇸) 6 年期審計基準庫與深度戰略分析**：
     - **益華電腦 (Cadence Design Systems / CDNS / 美國 🇺🇸)**：
@@ -1133,6 +1141,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.9.1 - feat: add directional trajectory time-trend arrows and hoverable checkpoints to bivariate strategic scatter plot (Chart 5)
 * commit v3.9.0 - feat: integrate Cadence (CDNS) and Marvell (MRVL) 6-year audited reports, segment breakdowns, and quarterly analytics
 * commit v3.8.0 - feat: integrate Tokyo Electron (8035.T), Linde (LIN), and Synopsys (SNPS) 6-year audited reports, segment breakdowns, and quarterly analytics
 * commit v3.7.0 - feat: integrate Air Liquide S.A. (AI.PA) 6-year audited financial reports, segment breakdowns, and quarterly analytics
