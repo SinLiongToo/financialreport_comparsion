@@ -639,6 +639,17 @@ sequenceDiagram
   | **ChatGPT / Claude (免費網頁版)** | 需要產出 16:9 董事會報告、競爭分析簡報或高階投資備忘錄時 | 在儀表板點擊「一鍵複製 Markdown (Copy Markdown)」或複製研究筆記，貼入對話框即可產出投影片草稿。 |
   | **Cursor / Windsurf / Copilot** | 在本地 IDE 進行功能二次開發、客製圖表或串接內部 ERP 數據時 | 讓 Agent 讀取專案內之 `AGENTS.md` 與 `SKILL.md`，即可安全進行程式碼維護。 |
 
+**Q8：專案維護指南：網頁按鈕「Run End-to-End Workflow」與命令列「update_pipeline.py」有何本質差別？**
+- 答：這兩者是針對**「兩種不同使用情境」**所設計的雙軌執行入口：
+  | 比較維度 | 網頁端按鈕 (`Run End-to-End Workflow`) | 命令列維護腳本 (`update_pipeline.py`) |
+  | :--- | :--- | :--- |
+  | **定位與媒介** | 網頁前端 UI 控制台（Console）上的即時執行按鈕。 | 後端 CLI 命令列工具、CI/CD 自動化與 AI Agent 呼叫中樞。 |
+  | **使用情境** | 正在本機啟動 `python app.py` 服務的使用者，想在瀏覽器即時抓取並預覽單一公司。 | 專案維護者、自動化排程、或手邊已有外部下載之財報 PDF 時。 |
+  | **技術架構** | 透過 HTTP SSE (`/api/run-workflow-stream`) 連線，在瀏覽器顯示即時藍色進度條 (0% ➔ 100%)。 | 直接執行 Python 5 階段生命週期，執行完畢會自動通過嚴格數據審計。 |
+  | **是否支援本地 PDF 匯入？** | ❌ **不支援**（僅限輸入 URL / 代碼透過爬蟲下載）。 |  **支援**（`--ingest-pdf <本地路徑>`，可直接餵入任何既有財報 PDF）。 |
+  | **是否支援全庫批次更新？** | ❌ **不支援**（一次針對輸入框之單一公司）。 |  **支援**（`--all`，可一鍵對全庫 62 家企業進行增量解析與審計）。 |
+  | **是否自動打包發布？** | ❌ **不自動打包**（僅動態刷新本機 Web 頁面）。 |  **自動打包**（執行完自動呼叫 `export_standalone.py` 重建 `docs/index.html` 與 `standalone_dashboard.html`）。 |
+
 ---
 
 ## 🌐 100% 獨立靜態網頁與 GitHub Pages 免費部署 (Serverless Standalone)
