@@ -40,10 +40,10 @@
                         <i class="fa-solid fa-bolt text-blue-400 text-[10px]"></i> One-Click Workflow
                     </span>
                     <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
-                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.11.0
+                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.12.0
                     </span>
                     <span class="text-xs bg-purple-500/20 text-purple-300 border border-purple-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap hidden md:inline-flex">
-                        <i class="fa-regular fa-calendar-check text-[10px]"></i> Updated: 2026-09-06
+                        <i class="fa-regular fa-calendar-check text-[10px]"></i> Updated: 2026-09-09
                     </span>
                     <a href="https://www.linkedin.com/in/masatu19810322/" target="_blank" rel="noopener noreferrer" class="text-xs bg-[#0A66C2]/20 hover:bg-[#0A66C2]/35 border border-[#0A66C2]/40 text-blue-200 hover:text-white px-2 py-0.5 rounded-full font-semibold inline-flex items-center gap-1 shadow-sm transition-all whitespace-nowrap" title="LinkedIn: Masa Tu | Too Sin-Liong">
                         <i class="fa-brands fa-linkedin text-[#0A66C2] text-xs"></i>
@@ -280,6 +280,100 @@
                         <span class="text-xl font-bold text-purple-400" id="kpiGpPerEmp">-</span>
                     </div>
                     <p class="text-[10px] font-semibold text-purple-400 mt-0.5" id="kpiGpPerEmpYoY">-</p>
+                </div>
+            </section>
+
+            <!-- 2.5 Live Stock Intelligence Terminal (Matching User Specification) -->
+            <section class="bg-slate-800/90 border border-slate-700/80 rounded-2xl p-4 sm:p-5 shadow-xl space-y-4" id="stockTerminalCard">
+                <!-- Top Toolbar: Timeframe Pills (Left) & MA Toggles (Right) -->
+                <div class="flex flex-wrap items-center justify-between gap-3 border-b border-slate-700/60 pb-3.5">
+                    <!-- Timeframe Pills -->
+                    <div class="flex flex-wrap items-center gap-1 sm:gap-1.5 bg-slate-900/80 p-1 rounded-xl border border-slate-700/60 shadow-inner" id="stockTimeframeGroup">
+                        <button type="button" data-timeframe="1D" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all bg-blue-600 text-white shadow-sm" data-i18n="stock_tf_1d">1天</button>
+                        <button type="button" data-timeframe="1W" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_1w">1週</button>
+                        <button type="button" data-timeframe="1M" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_1m">1個月</button>
+                        <button type="button" data-timeframe="3M" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_3m">3個月</button>
+                        <button type="button" data-timeframe="6M" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_6m">6個月</button>
+                        <button type="button" data-timeframe="1Y" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_1y">1年</button>
+                        <button type="button" data-timeframe="2Y" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_2y">2年</button>
+                        <button type="button" data-timeframe="5Y" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_5y">5年</button>
+                        <button type="button" data-timeframe="MAX" class="stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800" data-i18n="stock_tf_max">最長</button>
+                    </div>
+
+                    <!-- Right Controls: Moving Average Checkboxes & Zoom Button -->
+                    <div class="flex items-center gap-3 sm:gap-4">
+                        <label class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-300 cursor-pointer select-none">
+                            <input type="checkbox" id="stockMa20Toggle" checked class="w-3.5 h-3.5 rounded text-amber-500 bg-slate-900 border-slate-600 focus:ring-amber-500 focus:ring-1">
+                            <span class="text-amber-400">MA20</span>
+                        </label>
+                        <label class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-300 cursor-pointer select-none">
+                            <input type="checkbox" id="stockMa60Toggle" checked class="w-3.5 h-3.5 rounded text-purple-500 bg-slate-900 border-slate-600 focus:ring-purple-500 focus:ring-1">
+                            <span class="text-purple-400">MA60</span>
+                        </label>
+                        <button type="button" data-chart="chartStockPrice" data-title="stock_terminal_title" data-badge="Stock Valuation" data-insight="stockHeaderMeta" data-icon="fa-arrow-trend-up" onclick="zoomChart('chartStockPrice', 'stock_terminal_title', 'Stock Valuation', 'stockHeaderMeta', 'fa-arrow-trend-up')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-blue-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                            <i class="fa-solid fa-expand text-blue-400 pointer-events-none"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Stock Card Header: Symbol, Region, Currency, Date (Left) & Large Price / Change (Right) -->
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-2 pt-1">
+                    <div>
+                        <div class="flex items-baseline gap-2.5 flex-wrap">
+                            <span class="text-xl sm:text-2xl font-extrabold text-white tracking-tight" id="stockHeaderSymbol">--</span>
+                            <span class="text-xs sm:text-sm text-slate-400 font-medium" id="stockHeaderMeta">--</span>
+                        </div>
+                        <p class="text-xs text-slate-400 mt-1 flex items-center gap-1.5" id="stockHeaderDate">
+                            <i class="fa-regular fa-clock text-slate-500"></i>
+                            <span id="stockHeaderDateText">資料日期：--</span>
+                        </p>
+                    </div>
+                    <div class="flex items-baseline sm:items-end flex-col self-start sm:self-auto">
+                        <div class="flex items-baseline gap-2.5">
+                            <span class="text-2xl sm:text-3xl font-extrabold text-white tracking-tight font-mono" id="stockHeaderPrice">--</span>
+                            <span class="text-sm sm:text-base font-bold font-mono" id="stockHeaderChange">--</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 6 Metric Summary Cards Matching Reference UI -->
+                <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 pt-1" id="stockKpiGrid">
+                    <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3 shadow-inner">
+                        <p class="text-[11px] text-slate-400 font-medium truncate" data-i18n="stock_kpi_day_change">今日區間漲跌</p>
+                        <p class="text-sm sm:text-base font-bold font-mono mt-1" id="stockKpiDayChange">--</p>
+                    </div>
+                    <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3 shadow-inner">
+                        <p class="text-[11px] text-slate-400 font-medium truncate" data-i18n="stock_kpi_period_high">期間最高</p>
+                        <p class="text-sm sm:text-base font-bold font-mono text-white mt-1" id="stockKpiPeriodHigh">--</p>
+                    </div>
+                    <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3 shadow-inner">
+                        <p class="text-[11px] text-slate-400 font-medium truncate" data-i18n="stock_kpi_period_low">期間最低</p>
+                        <p class="text-sm sm:text-base font-bold font-mono text-white mt-1" id="stockKpiPeriodLow">--</p>
+                    </div>
+                    <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3 shadow-inner">
+                        <p class="text-[11px] text-slate-400 font-medium truncate" data-i18n="stock_kpi_volume">最新成交量</p>
+                        <p class="text-sm sm:text-base font-bold font-mono text-white mt-1" id="stockKpiVolume">--</p>
+                    </div>
+                    <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3 shadow-inner">
+                        <p class="text-[11px] text-slate-400 font-medium truncate" data-i18n="stock_kpi_52w_high">52週最高</p>
+                        <p class="text-sm sm:text-base font-bold font-mono text-white mt-1" id="stockKpi52wHigh">--</p>
+                    </div>
+                    <div class="bg-slate-900/60 border border-slate-700/60 rounded-xl p-3 shadow-inner">
+                        <p class="text-[11px] text-slate-400 font-medium truncate" data-i18n="stock_kpi_52w_low">52週最低</p>
+                        <p class="text-sm sm:text-base font-bold font-mono text-white mt-1" id="stockKpi52wLow">--</p>
+                    </div>
+                </div>
+
+                <!-- Interactive Plotly Chart Container -->
+                <div class="w-full relative mt-2 bg-slate-900/40 rounded-xl p-2 border border-slate-700/40">
+                    <div id="chartStockPrice" class="w-full h-80 sm:h-96"></div>
+                    <div id="stockPrivateNotice" class="hidden absolute inset-0 bg-slate-900/90 backdrop-blur-sm rounded-xl flex flex-col items-center justify-center p-6 text-center z-10">
+                        <div class="w-12 h-12 rounded-full bg-amber-500/20 flex items-center justify-center text-amber-400 text-xl mb-3">
+                            <i class="fa-solid fa-lock"></i>
+                        </div>
+                        <h4 class="text-base font-bold text-white mb-1" id="stockPrivateTitle">Private Venture-Backed Enterprise</h4>
+                        <p class="text-xs text-slate-300 max-w-md" id="stockPrivateDesc">This company is privately held and not publicly traded on secondary equity markets. Strategic valuation and funding rounds are tracked in industry research notes.</p>
+                    </div>
                 </div>
             </section>
 
@@ -576,6 +670,40 @@
                         <!-- Checkboxes will be populated dynamically -->
                     </div>
                 </div>
+            </section>
+
+            <!-- Stock Performance Peer Comparison Chart (Normalized % Return) -->
+            <section class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700 pb-3 mb-2 gap-2">
+                    <div class="flex items-center gap-2">
+                        <div class="w-8 h-8 rounded-lg bg-blue-500/20 text-blue-400 flex items-center justify-center text-sm font-bold shadow-inner">
+                            <i class="fa-solid fa-arrow-trend-up"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                                <span data-i18n="compare_chart_stock_title">Multi-Company Stock Performance & Cumulative Return Benchmark</span>
+                            </h3>
+                            <p class="text-xs text-slate-400 mt-0.5" data-i18n="compare_chart_stock_desc" id="compareStockSubtitle">Normalized % Cumulative Return comparison across selected peer equities, enabling direct performance tracking across varying currencies and share price scales.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-2 flex-wrap">
+                        <!-- Compare Stock Timeframe Pills -->
+                        <div class="flex items-center gap-1 bg-slate-900/80 p-1 rounded-lg border border-slate-700/60 shadow-inner" id="compareStockTimeframeGroup">
+                            <button type="button" data-timeframe="1W" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">1W</button>
+                            <button type="button" data-timeframe="1M" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">1M</button>
+                            <button type="button" data-timeframe="3M" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">3M</button>
+                            <button type="button" data-timeframe="6M" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">6M</button>
+                            <button type="button" data-timeframe="1Y" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all bg-blue-600 text-white shadow-sm">1Y</button>
+                            <button type="button" data-timeframe="2Y" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">2Y</button>
+                            <button type="button" data-timeframe="5Y" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">5Y</button>
+                            <button type="button" data-timeframe="MAX" class="compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800">Max</button>
+                        </div>
+                        <button type="button" data-chart="chartCompareStock" data-title="compare_chart_stock_title" data-badge="Equity Benchmark" data-insight="compareStockSubtitle" data-icon="fa-arrow-trend-up" onclick="zoomChart('chartCompareStock', 'compare_chart_stock_title', 'Equity Benchmark', 'compareStockSubtitle', 'fa-arrow-trend-up')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-blue-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                            <i class="fa-solid fa-expand text-blue-400 pointer-events-none"></i>
+                        </button>
+                    </div>
+                </div>
+                <div id="chartCompareStock" class="w-full h-80 sm:h-96"></div>
             </section>
 
             <!-- 4 Comparative Benchmark Charts -->
@@ -2383,7 +2511,7 @@
                         <i class="fa-solid fa-scale-balanced"></i>
                         <span data-i18n="guide_sec_compare_title">2. Multi-Company Peer Comparison Mode</span>
                     </h4>
-                    <p data-i18n="guide_sec_compare_p">Switch between <strong>"Single Company Deep Dive"</strong> and <strong>"Multi-Company Peer Comparison"</strong> at the top. In comparison mode, check multiple companies to analyze cross-company Gross Margin pricing power, Human Capital Productivity ROI ($/FTE), Operating Leverage, and R&D Reinvestment Intensity side-by-side.</p>
+                    <p data-i18n="guide_sec_compare_p">Switch between <strong>"Single Company Deep Dive"</strong> and <strong>"Multi-Company Peer Comparison"</strong> at the top. In comparison mode, check multiple companies to analyze cross-company Gross Margin pricing power, Human Capital Productivity ROI ($/FTE), Operating Leverage, R&D Reinvestment Intensity, and Normalized % Cumulative Stock Returns side-by-side.</p>
                 </div>
 
                 <!-- Section 3: Two-Way Synchronization -->
@@ -2417,6 +2545,7 @@
                         <p><strong>• Chart 4: R&D Commitment (Expense & % of Revenue)</strong> — Analyzes technological differentiation and moat reinvestment intensity.</p>
                         <p><strong>• Chart 5: Growth Dynamics (YoY Triangulation)</strong> — Compares Revenue YoY, GP YoY, and OpIncome YoY against Headcount growth to ensure profitable expansion.</p>
                         <p><strong>• Chart 6: Value vs. Volume Paradox</strong> — Disaggregates product mix between high-margin flagship lines and physical factory throughput volume.</p>
+                        <p><strong>• Chart 7 (Stock Benchmark): Multi-Company Cumulative Return (% Return)</strong> — Normalizes peer equity performance to 0.00% at the start of chosen timeframe ($R_t = (P_t / P_0 - 1) \times 100\%$), eliminating currency (USD/TWD/JPY/KRW) and nominal price gaps to track true relative alpha.</p>
                     </div>
                 </div>
 

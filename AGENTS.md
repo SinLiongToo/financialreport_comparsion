@@ -175,3 +175,20 @@
   - Enforces Chart 6 `{"value": [...], "volume": [...]}` dual-array integrity.
   - Automatically executes `validate_company.py` to ensure 0 errors.
   - Automatically triggers `export_standalone.py` to synchronize `docs/index.html` and `standalone_dashboard.html`.
+
+---
+
+## 📈 13. Daily Automated Stock Market Analytics & GitHub Actions CI/CD Directive (每日全自動股價對標與工作流規範)
+
+- **Autonomous Daily GitHub Actions Cron (`.github/workflows/daily_stock_update.yml`)**:
+  - The repository maintains an automated CI/CD workflow scheduled at `0 22 * * 1-5` UTC (weekday market close) and callable on manual `workflow_dispatch`.
+  - Automatically runs `python fetch_stock_data.py --all` to pull latest prices, volumes, 52-week highs/lows, and compute rolling MA20 and MA60.
+  - Automatically executes `validate_company.py all` and `export_standalone.py` to compile `docs/index.html` and `standalone_dashboard.html`, committing and pushing directly with `[skip ci]` to ensure global zero-maintenance GitHub Pages synchronization.
+- **Single Company Live Terminal Architecture (`#stockTerminalCard`)**:
+  - Displays multi-timeframe interactive pills: `1天 (1D)`, `1週 (1W)`, `1個月 (1M)`, `3個月 (3M)`, `6個月 (6M)`, `1年 (1Y)`, `2年 (2Y)`, `5年 (5Y)`, `最長 (Max)`.
+  - Dynamic MA checkboxes (`#stockMa20Toggle`, `#stockMa60Toggle`) updating Plotly line traces on the fly.
+  - 6 Key Valuation KPI Cards: 今日區間漲跌 (Period Change), 期間最高 (Period High), 期間最低 (Period Low), 最新成交量 (Latest Volume), 52週最高 (52W High), 52週最低 (52W Low).
+  - Private venture-backed entities (e.g. Anthropic, OpenAI/ChatGPT, Anduril, Shield AI) automatically present a standardized Pre-IPO valuation card rather than an empty chart.
+- **Multi-Company Cumulative Return Benchmark Engine (`#chartCompareStock`)**:
+  - In Peer Benchmark mode, calculates and visualizes Normalized % Cumulative Return ($\Delta \% = (P_t / P_0 - 1) \times 100\%$) across any selected peer companies to eliminate currency and nominal share-price discrepancies.
+

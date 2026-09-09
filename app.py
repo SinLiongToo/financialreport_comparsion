@@ -219,7 +219,36 @@ def get_compare_metrics():
         except Exception as e:
             results[t] = {"error": str(e)}
     
-    return jsonify({"success": True, "freq": freq, "companies": results})
+@app.route("/api/stock/<ticker>", methods=["GET"])
+def get_stock(ticker):
+    """Returns real-time and historical stock data for the given ticker"""
+    stock_path = os.path.join(os.path.dirname(__file__), "data", "stock_data.json")
+    if not os.path.exists(stock_path):
+        return jsonify({"error": "Stock database not yet generated"}), 404
+    try:
+        with open(stock_path, "r", encoding="utf-8") as f:
+            stock_db = json.load(f)
+        canon = FinancialMetricsExtractor.canonical_ticker(ticker).lower()
+        data = stock_db.get(canon) or stock_db.get(ticker.lower())
+        if not data:
+            return jsonify({"error": f"No stock data for {ticker}"}), 404
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/api/stock/all", methods=["GET"])
+def get_all_stocks():
+    """Returns complete stock database for comparison views"""
+    stock_path = os.path.join(os.path.dirname(__file__), "data", "stock_data.json")
+    if not os.path.exists(stock_path):
+        return jsonify({})
+    try:
+        with open(stock_path, "r", encoding="utf-8") as f:
+            stock_db = json.load(f)
+        return jsonify(stock_db)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+

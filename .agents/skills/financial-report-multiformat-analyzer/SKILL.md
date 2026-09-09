@@ -332,3 +332,22 @@ To ensure seamless, zero-touch maintenance when new quarterly or annual reports 
 - **Stage 4 (Multi-Format Auditing)**: Executes `validate_company.py` checking 0 quarterly keys in annual files, positive headcounts, and Chart 6 value/volume duality.
 - **Stage 5 (Standalone HTML Recompilation)**: Invokes `export_standalone.py` to compile `docs/index.html` and `standalone_dashboard.html`.
 
+---
+
+## 12. Automated Stock Market Intelligence & Moving Average Analytics (`fetch_stock_data.py`)
+
+This skill integrates automated daily equity market intelligence, pairing statutory accounting metrics (10-K/10-Q) with live secondary equity valuations and technical trend lines.
+
+### Capabilities:
+- **Global Multi-Exchange Coverage**: Automatically tracks tickers across US NASDAQ/NYSE (`NVDA`, `AAPL`, `MSFT`, `PLTR`), Taiwan TWSE/TPEx (`2330.TW`, `2454.TW`, `6488.TWO`), Japan TSE (`6857.T`, `8035.T`), South Korea KRX (`005930.KS`, `000660.KS`), and Europe Euronext/XETRA (`ASML.AS`, `IFX.DE`, `AI.PA`).
+- **Moving Average Engine**:
+  - Daily Moving Averages: $\text{MA20} = \frac{1}{20}\sum_{i=0}^{19} P_{t-i}$, $\text{MA60} = \frac{1}{60}\sum_{i=0}^{59} P_{t-i}$.
+  - Intraday Adaptive Moving Averages (for 1D / 15m intervals): Fast MA5 and Slow MA15.
+- **52-Week Range & Period KPIs**: Dynamically tracks rolling 252-trading-day high/low boundaries, period highs/lows, and percentage changes across selected timeframes (`1D`, `1W`, `1M`, `3M`, `6M`, `1Y`, `2Y`, `5Y`, `MAX`).
+- **Multi-Company Normalized % Cumulative Return**:
+  $$\text{Cumulative Return}_t = \left(\frac{P_t}{P_0} - 1\right) \times 100\%$$
+  Eliminates nominal share price scaling differences (\$20 vs. \$1,000+) and currency variance to directly compare equity alpha across peers.
+- **GitHub Actions Daily CI/CD Pipeline**:
+  `.github/workflows/daily_stock_update.yml` triggers weekdays at 22:00 UTC (after global equity closes), pulls latest OHLCV data via `fetch_stock_data.py --all`, validates benchmarks, recompiles `docs/index.html` via `export_standalone.py`, and commits changes with `[skip ci]`.
+
+

@@ -682,7 +682,26 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
-- **v3.11.0 (2026-09-06)**：
+- **v3.12.0 (2026-09-09)**：
+  - **新增即時股市行情終端機 (Live Stock Intelligence Terminal) 與專業技術指標分析**：
+    - **全庫 62 家企業即時行情覆蓋**：全新開發 `fetch_stock_data.py`，整合 `yfinance` 獲取全球跨市場標的（美股、台股 TWSE/TPEx、日股、韓股、歐股），涵蓋 5 年日 K 線 OHLCV 與日內行情，並對未上市新創（Anthropic、OpenAI、Shield AI、Anduril）進行優雅標記。
+    - **高度客製化互動式行情圖表 (`#stockTerminalCard`)**：
+      - 支援 9 大時間週期無縫切換：`1天 (1D)`、`1週 (1W)`、`1個月 (1M)`、`3個月 (3M)`、`6個月 (6M)`、`1年 (1Y)`、`2年 (2Y)`、`5年 (5Y)`、`最長 (Max)`。
+      - 整合 **MA20 (月線)** 與 **MA60 (季線)** 雙均線即時計算與切換開關，輔以面積漸變與專業深色/明亮模式主題配色。
+      - 完整呈現標的代碼、交易所、幣別（如 `0050.TW Taiwan · TWD`）、最新報價、區間漲跌幅與行情時間戳記。
+      - 配備 6 大即時核心指標卡片：`今日區間漲跌`、`期間最高價`、`期間最低價`、`最新成交量`、`52週最高價`、`52週最低價`。
+  - **新增多企業同業股價對標圖表 (Multi-Company Stock Performance Benchmark)**：
+    - 於「多企業橫向同業對標 (Peer Comparison)」分頁加入全新「同業股價累積報酬率對標圖 (`#chartCompareStock`)」。
+    - 採用標準化**累積報酬率百分比 (Normalized % Cumulative Return)** 運算公式：
+      $$\text{Cumulative Return } R_t = \left(\frac{P_t}{P_0} - 1\right) \times 100\%$$
+      完美消除美股（USD）、台股（TWD）、韓元（KRW）、日圓（JPY）跨幣別與原始股價高低差異，客觀橫向對比所選同業之超額報酬與相對 Alpha。
+  - **GitHub Actions 自動化工作流 (`daily_stock_update.yml`)**：
+    - 建立 GitHub Actions 自動化 CI/CD 排程，於美股與全球主要市場收盤後（週一至週五 `0 22 * * 1-5` UTC）自動觸發 `fetch_stock_data.py` 更新全量股價資料庫 `data/stock_data.json`。
+    - 自動完成全庫數據校驗並執行 `export_standalone.py` 重新編譯 `docs/index.html` 與 `standalone_dashboard.html`，自動提交並部署至 GitHub Pages，**零伺服器維護成本、零付費 API 需求**。
+  - **同步擴充專案規範 (AGENTS.md) 與技能手冊 (SKILL.md)**：
+    - `AGENTS.md` 新增「第 13 條：每日全自動股市行情分析與 GitHub Actions CI/CD 排程規範」。
+    - `financial-report-multiformat-analyzer` Skill 新增「第 12 節：自動化股市行情數據獲取與均線分析技術規範」。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.12.0`（`Updated: 2026-09-09`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
   - **建立「一鍵全自動財報更新與增量同步流水線」(`update_pipeline.py`)**：
     - **一鍵式端到端閉環**：將「PDF 智能歸檔 ➔ 結構化 Markdown 增量解析 ➔ 幣別正規化與指標推導 ➔ 嚴格數據審計 (0 錯誤) ➔ 單機版 HTML 重建編譯」整合成單一 Python 核心中樞。
     - **支援單一企業更新與新 PDF 注入**：
@@ -1213,6 +1232,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.12.0 - feat: integrate daily automated stock market intelligence terminal, MA20/MA60 rolling trends, and multi-company peer return benchmark
 * commit v3.11.0 - feat: introduce update_pipeline.py for one-click automated financial report ingestion, audit, and sync
 * commit v3.10.0 - feat: expand Industry Strategic Insights with comprehensive deep research notes for Foundry, Fabless, Equipment, Testing, Hardware, and Hyperscalers
 * commit v3.9.2 - style: adjust desktop container width to standard max-w-7xl (1280px) for optimal visual focus

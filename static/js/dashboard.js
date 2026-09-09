@@ -18,6 +18,11 @@ let COMPARE_SORT_COL = "revenue";
 let COMPARE_SORT_DIR = "desc";
 let ACTIVE_VIEW = "single"; // "single" | "compare"
 
+let GLOBAL_STOCK_DATA = window.STATIC_STOCK_DB || {};
+let CURRENT_STOCK_TIMEFRAME = "1D";
+let CURRENT_COMPARE_STOCK_TIMEFRAME = "1Y";
+let CURRENT_STOCK_TICKER = null;
+
 // Helper: robust number parser for financial values
 function safeNum(val) {
     if (val == null) return null;
@@ -1062,7 +1067,7 @@ const I18N_DICT = {
         badge_workflow: "One-Click Workflow",
         quotes_badge: "WISDOM:",
         header_subtitle: "Annual Reports Crawler (20-F/10-K) ➔ Markdown Parser ➔ Productivity & Strategic Alignment",
-        header_updated: "Updated: 2026-09-06",
+        header_updated: "Updated: 2026-09-09",
         btn_user_guide: "User Guide & Help",
         theme_light: "Light",
         theme_dark: "Dark",
@@ -1070,6 +1075,24 @@ const I18N_DICT = {
         freq_quarterly: "Quarterly (10-Q)",
         label_time_horizon: "Horizon (N Periods)",
         btn_refresh: "Reload",
+        stock_terminal_title: "Live Stock Market Intelligence Terminal",
+        stock_tf_1d: "1D",
+        stock_tf_1w: "1W",
+        stock_tf_1m: "1M",
+        stock_tf_3m: "3M",
+        stock_tf_6m: "6M",
+        stock_tf_1y: "1Y",
+        stock_tf_2y: "2Y",
+        stock_tf_5y: "5Y",
+        stock_tf_max: "Max",
+        stock_kpi_day_change: "Day Change",
+        stock_kpi_period_high: "Period High",
+        stock_kpi_period_low: "Period Low",
+        stock_kpi_volume: "Latest Volume",
+        stock_kpi_52w_high: "52W High",
+        stock_kpi_52w_low: "52W Low",
+        compare_chart_stock_title: "Multi-Company Stock Performance & Cumulative Return Benchmark",
+        compare_chart_stock_desc: "Normalized % Cumulative Return comparison across selected peer equities, enabling direct performance tracking across varying currencies and share price scales.",
         tab_single_view: "Single Company Deep Dive",
         tab_compare_view: "Multi-Company Peer Comparison",
         tab_insights_view: "Industry Strategic Insights & Notes",
@@ -1127,7 +1150,7 @@ const I18N_DICT = {
         guide_pipe_s5_title: "Stage 5: Interactive Dual-View Dashboard & LLM Executive Synthesis",
         guide_pipe_s5_desc: "Renders 6 interactive Plotly visual charts with HD zoom modal and CSV exports across both <em>Single Company Deep Dive</em> and <em>Multi-Company Peer Comparison</em> modes. Enables 1-click Markdown copying to feed into Gemini / Claude / ChatGPT with project prompts (<code>fininacial_prompt.md</code>) to generate 16:9 C-suite presentation slides in seconds.",
         guide_sec_compare_title: "2. Multi-Company Peer Comparison Mode",
-        guide_sec_compare_p: "Switch between 'Single Company Deep Dive' and 'Multi-Company Peer Comparison' at the top. In comparison mode, check multiple companies to analyze cross-company Gross Margin pricing power, Human Capital Productivity ROI ($/FTE), Operating Leverage, and R&D Reinvestment Intensity side-by-side.",
+        guide_sec_compare_p: "Switch between 'Single Company Deep Dive' and 'Multi-Company Peer Comparison' at the top. In comparison mode, check multiple companies to analyze cross-company Gross Margin pricing power, Human Capital Productivity ROI ($/FTE), Operating Leverage, R&D Reinvestment Intensity, and Normalized % Cumulative Stock Returns (#chartCompareStock) side-by-side to track true relative alpha.",
         guide_sec2_title: "3. Top Switcher vs. Bottom Console (Two-Way Synchronization)",
         guide_sec3_title: "4. Visual Charts & Strategic OpEx Framework Guide",
         guide_sec5_title_new: "5. Multi-Format Global Filing Systems & Accounting Frameworks Comparison",
@@ -1211,7 +1234,7 @@ const I18N_DICT = {
         badge_workflow: "一步到位工作流",
         quotes_badge: "財報金句:",
         header_subtitle: "年報爬蟲 (20-F/10-K) ➔ Markdown 解析 ➔ 產值精算與戰略對齊",
-        header_updated: "更新日期：2026-09-06",
+        header_updated: "更新日期：2026-09-09",
         btn_user_guide: "使用說明與指南 (Help)",
         theme_light: "明亮模式",
         theme_dark: "暗黑模式",
@@ -1219,6 +1242,24 @@ const I18N_DICT = {
         freq_quarterly: "季度 (10-Q/6-K)",
         label_time_horizon: "分析週期長度 (N 期)",
         btn_refresh: "重新載入",
+        stock_terminal_title: "即時與歷史股價戰略觀測站",
+        stock_tf_1d: "1天",
+        stock_tf_1w: "1週",
+        stock_tf_1m: "1個月",
+        stock_tf_3m: "3個月",
+        stock_tf_6m: "6個月",
+        stock_tf_1y: "1年",
+        stock_tf_2y: "2年",
+        stock_tf_5y: "5年",
+        stock_tf_max: "最長",
+        stock_kpi_day_change: "今日區間漲跌",
+        stock_kpi_period_high: "期間最高",
+        stock_kpi_period_low: "期間最低",
+        stock_kpi_volume: "最新成交量",
+        stock_kpi_52w_high: "52週最高",
+        stock_kpi_52w_low: "52週最低",
+        compare_chart_stock_title: "多企業股價走勢與累積報酬率比較基準",
+        compare_chart_stock_desc: "正規化累計報酬率（% Cumulative Return）跨企業對標，消除不同幣別與每股絕對價格差異。",
         tab_single_view: "單一公司深入分析",
         tab_compare_view: "多公司橫向對比模組",
         tab_insights_view: "產業戰略洞察與深度筆記",
@@ -1274,7 +1315,7 @@ const I18N_DICT = {
         guide_pipe_s5_title: "第 5 階段：雙視角戰略儀表板與 LLM 高階簡報生成閉環",
         guide_pipe_s5_desc: "在「單一公司深入分析」與「多公司橫向對比」雙視角下繪製 6 大 Plotly 互動圖表，支援一鍵高清放大與 CSV 匯出。解析後的 Markdown 可一鍵複製貼入 Gemini / Claude / ChatGPT 搭配專案 Prompt (<code>fininacial_prompt.md</code>)，5 秒內自動生成 16:9 董事會戰略簡報與口說講稿。",
         guide_sec_compare_title: "2. 多公司橫向對比模組 (Peer Comparison)",
-        guide_sec_compare_p: "在頂部標籤頁切換「單一公司深入分析」與「多公司橫向對比模組」。在對比模式下自由勾選多家公司，即可在同屏並排對比各企業之毛利率走勢、人均產值 ($/FTE)、營業利益率與研發護城河強度。",
+        guide_sec_compare_p: "在頂部標籤頁切換「單一公司深入分析」與「多公司橫向對比模組」。在對比模式下自由勾選多家公司，即可在同屏並排對比各企業之毛利率走勢、人均產值 ($/FTE)、營業利益率、研發護城河強度，以及多企業同業股價累積報酬率對標圖 (#chartCompareStock，以選定區間首日為 0.00% 基準點歸一化對比，消除美股/台股/日股/韓股跨幣別與每股面額差異，客觀評估超額報酬 Alpha)。",
         guide_sec2_title: "3. 右上角切換選單 vs. 下方控制台（雙向即時連動）",
         guide_sec5_title_new: "5. 多格式全球申報體系與會計準則深度對比 (10-K / 10-Q / 20-F / TWSE / Yuho)",
         guide_sec5_p_new: "跨國科技與硬體製造巨頭依據發行註冊地、申報週期（年度 vs. 季度）與會計準則（US GAAP vs. IFRS）適用不同之法定申報規範：",
@@ -1534,6 +1575,428 @@ function initFinanceQuotesMarquee() {
     }
 }
 
+// =============================================================================
+// STOCK MARKET INTELLIGENCE & MOVING AVERAGE VISUALIZATION ENGINE
+// =============================================================================
+
+async function ensureStockDataLoaded() {
+    if (GLOBAL_STOCK_DATA && Object.keys(GLOBAL_STOCK_DATA).length > 0) return GLOBAL_STOCK_DATA;
+    if (window.STATIC_STOCK_DB && Object.keys(window.STATIC_STOCK_DB).length > 0) {
+        GLOBAL_STOCK_DATA = window.STATIC_STOCK_DB;
+        return GLOBAL_STOCK_DATA;
+    }
+    try {
+        const res = await fetch(`/api/stock/all?_t=${Date.now()}`);
+        if (res.ok) {
+            GLOBAL_STOCK_DATA = await res.json();
+        }
+    } catch (e) {
+        console.warn("Could not load /api/stock/all:", e);
+    }
+    return GLOBAL_STOCK_DATA;
+}
+
+function getStockRecord(rawTicker) {
+    if (!rawTicker) return null;
+    const clean = String(rawTicker).toLowerCase().trim();
+    const canon = (typeof FinancialMetricsExtractor_canonical_ticker === "function") 
+        ? FinancialMetricsExtractor_canonical_ticker(clean) : clean;
+    return GLOBAL_STOCK_DATA[clean] || GLOBAL_STOCK_DATA[canon] || null;
+}
+
+function isStockMa20Active() {
+    const el = document.getElementById("stockMa20Toggle");
+    return el ? el.checked : true;
+}
+
+function isStockMa60Active() {
+    const el = document.getElementById("stockMa60Toggle");
+    return el ? el.checked : true;
+}
+
+function setupStockListeners() {
+    // 1. Single View Timeframe Buttons
+    const tfBtns = document.querySelectorAll(".stock-tf-btn");
+    tfBtns.forEach(btn => {
+        btn.addEventListener("click", () => {
+            const tf = btn.getAttribute("data-timeframe");
+            CURRENT_STOCK_TIMEFRAME = tf;
+            tfBtns.forEach(b => {
+                b.className = "stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all text-slate-400 hover:text-white hover:bg-slate-800";
+            });
+            btn.className = "stock-tf-btn px-2.5 sm:px-3 py-1 text-xs font-semibold rounded-lg transition-all bg-blue-600 text-white shadow-sm";
+            renderStockChart(CURRENT_STOCK_TICKER, CURRENT_STOCK_TIMEFRAME, isStockMa20Active(), isStockMa60Active());
+        });
+    });
+
+    // 2. Moving Average Checkboxes
+    const ma20El = document.getElementById("stockMa20Toggle");
+    const ma60El = document.getElementById("stockMa60Toggle");
+    if (ma20El) {
+        ma20El.addEventListener("change", () => {
+            renderStockChart(CURRENT_STOCK_TICKER, CURRENT_STOCK_TIMEFRAME, isStockMa20Active(), isStockMa60Active());
+        });
+    }
+    if (ma60El) {
+        ma60El.addEventListener("change", () => {
+            renderStockChart(CURRENT_STOCK_TICKER, CURRENT_STOCK_TIMEFRAME, isStockMa20Active(), isStockMa60Active());
+        });
+    }
+
+    // 3. Multi-Company Compare Stock Timeframe Buttons
+    const compareTfBtns = document.querySelectorAll(".compare-stock-tf-btn");
+    compareTfBtns.forEach(btn => {
+        btn.addEventListener("click", () => {
+            const tf = btn.getAttribute("data-timeframe");
+            CURRENT_COMPARE_STOCK_TIMEFRAME = tf;
+            compareTfBtns.forEach(b => {
+                b.className = "compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all text-slate-400 hover:text-white hover:bg-slate-800";
+            });
+            btn.className = "compare-stock-tf-btn px-2.5 py-1 text-xs font-semibold rounded-md transition-all bg-blue-600 text-white shadow-sm";
+            renderCompareStockChart(CURRENT_COMPARE_STOCK_TIMEFRAME);
+        });
+    });
+}
+
+function renderStockChart(ticker, timeframe = "1D", showMa20 = true, showMa60 = true) {
+    CURRENT_STOCK_TICKER = ticker || CURRENT_STOCK_TICKER || "ASML";
+    CURRENT_STOCK_TIMEFRAME = timeframe;
+
+    const record = getStockRecord(CURRENT_STOCK_TICKER);
+    const chartDiv = document.getElementById("chartStockPrice");
+    const privateNotice = document.getElementById("stockPrivateNotice");
+    if (!chartDiv) return;
+
+    const isLight = CURRENT_THEME === "light";
+    const paperBg = isLight ? "#dde5ee" : "#0b1329";
+    const plotBg = isLight ? "#dde5ee" : "#0f172a";
+    const fontColor = isLight ? "#0f172a" : "#f1f5f9";
+    const gridColor = isLight ? "#b0bfcf" : "#1e293b";
+
+    if (!record) {
+        document.getElementById("stockHeaderSymbol").textContent = CURRENT_STOCK_TICKER.toUpperCase();
+        document.getElementById("stockHeaderMeta").textContent = "Market quote not available";
+        document.getElementById("stockHeaderDateText").textContent = "資料日期：--";
+        document.getElementById("stockHeaderPrice").textContent = "--";
+        document.getElementById("stockHeaderChange").textContent = "--";
+        document.getElementById("stockKpiDayChange").textContent = "--";
+        document.getElementById("stockKpiPeriodHigh").textContent = "--";
+        document.getElementById("stockKpiPeriodLow").textContent = "--";
+        document.getElementById("stockKpiVolume").textContent = "--";
+        document.getElementById("stockKpi52wHigh").textContent = "--";
+        document.getElementById("stockKpi52wLow").textContent = "--";
+        if (privateNotice) privateNotice.classList.add("hidden");
+        Plotly.purge(chartDiv);
+        return;
+    }
+
+    if (record.status === "private" || record.is_private) {
+        if (privateNotice) {
+            privateNotice.classList.remove("hidden");
+            const pTitle = document.getElementById("stockPrivateTitle");
+            const pDesc = document.getElementById("stockPrivateDesc");
+            if (pTitle) pTitle.textContent = `${CURRENT_STOCK_TICKER.toUpperCase()} (Private / Pre-IPO Enterprise)`;
+            if (pDesc) pDesc.textContent = `Valuation: ${record.valuation || "Venture-Backed"}. ${record.note || "This company is privately held and not traded on secondary public equity markets."}`;
+        }
+        document.getElementById("stockHeaderSymbol").textContent = CURRENT_STOCK_TICKER.toUpperCase();
+        document.getElementById("stockHeaderMeta").textContent = `${record.region || "United States"} · ${record.currency || "USD"} (Private / Pre-IPO)`;
+        document.getElementById("stockHeaderDateText").textContent = "Private Entity · No Live Equity Feed";
+        document.getElementById("stockHeaderPrice").textContent = record.valuation || "Private";
+        const chgEl = document.getElementById("stockHeaderChange");
+        chgEl.textContent = "Pre-IPO";
+        chgEl.className = "text-sm sm:text-base font-bold font-mono text-amber-400";
+        document.getElementById("stockKpiDayChange").textContent = "N/A";
+        document.getElementById("stockKpiPeriodHigh").textContent = "N/A";
+        document.getElementById("stockKpiPeriodLow").textContent = "N/A";
+        document.getElementById("stockKpiVolume").textContent = "Private";
+        document.getElementById("stockKpi52wHigh").textContent = "N/A";
+        document.getElementById("stockKpi52wLow").textContent = "N/A";
+        Plotly.purge(chartDiv);
+        return;
+    }
+
+    if (privateNotice) privateNotice.classList.add("hidden");
+
+    let xVals = [];
+    let yVals = [];
+    let ma20Vals = [];
+    let ma60Vals = [];
+    let volVals = [];
+
+    const isIntraday = (timeframe === "1D" && record.intraday && record.intraday.times && record.intraday.times.length >= 3);
+
+    if (isIntraday) {
+        xVals = record.intraday.times;
+        yVals = record.intraday.close;
+        ma20Vals = record.intraday.ma20 || [];
+        ma60Vals = record.intraday.ma60 || [];
+        volVals = record.intraday.volume || [];
+    } else {
+        const dDates = record.daily?.dates || [];
+        const dClose = record.daily?.close || [];
+        const dMa20 = record.daily?.ma20 || [];
+        const dMa60 = record.daily?.ma60 || [];
+        const dVol = record.daily?.volume || [];
+
+        const tfMap = {
+            "1D": 2,
+            "1W": 5,
+            "1M": 22,
+            "3M": 65,
+            "6M": 130,
+            "1Y": 252,
+            "2Y": 504,
+            "5Y": 1260,
+            "MAX": dDates.length
+        };
+        const count = Math.min(dDates.length, tfMap[timeframe] || 252);
+        xVals = dDates.slice(-count);
+        yVals = dClose.slice(-count);
+        ma20Vals = dMa20.slice(-count);
+        ma60Vals = dMa60.slice(-count);
+        volVals = dVol.slice(-count);
+    }
+
+    if (yVals.length === 0) {
+        Plotly.purge(chartDiv);
+        return;
+    }
+
+    const currPrice = yVals[yVals.length - 1];
+    const startPrice = yVals[0];
+    const periodHigh = Math.max(...yVals);
+    const periodLow = Math.min(...yVals);
+    const periodDiff = currPrice - startPrice;
+    const periodDiffPct = startPrice > 0 ? (periodDiff / startPrice) * 100 : 0;
+
+    // Header UI updates
+    document.getElementById("stockHeaderSymbol").textContent = record.symbol || CURRENT_STOCK_TICKER.toUpperCase();
+    document.getElementById("stockHeaderMeta").textContent = `${record.region || "Global"} · ${record.currency || "USD"} (${record.exchange || ""})`;
+    document.getElementById("stockHeaderDateText").textContent = record.date_str ? `資料日期：${record.date_str}` : `資料日期：${xVals[xVals.length - 1]}`;
+    document.getElementById("stockHeaderPrice").textContent = currPrice.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    
+    const chgEl = document.getElementById("stockHeaderChange");
+    const dayChg = record.day_change ?? 0;
+    const dayChgPct = record.day_change_pct ?? 0;
+    chgEl.textContent = `${dayChg >= 0 ? '+' : ''}${dayChg.toFixed(2)} (${dayChgPct >= 0 ? '+' : ''}${dayChgPct.toFixed(2)}%)`;
+    chgEl.className = `text-sm sm:text-base font-bold font-mono ${dayChg >= 0 ? 'text-emerald-400' : 'text-rose-400'}`;
+
+    // 6 KPI Cards UI
+    const kpiDayChgEl = document.getElementById("stockKpiDayChange");
+    kpiDayChgEl.textContent = `${periodDiff >= 0 ? '+' : ''}${periodDiff.toFixed(2)} (${periodDiffPct >= 0 ? '+' : ''}${periodDiffPct.toFixed(2)}%)`;
+    kpiDayChgEl.className = `text-sm sm:text-base font-bold font-mono mt-1 ${periodDiff >= 0 ? 'text-emerald-400' : 'text-rose-400'}`;
+
+    document.getElementById("stockKpiPeriodHigh").textContent = periodHigh.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    document.getElementById("stockKpiPeriodLow").textContent = periodLow.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    
+    const latestVol = (volVals.length > 0 ? volVals[volVals.length - 1] : record.latest_volume) || 0;
+    document.getElementById("stockKpiVolume").textContent = latestVol > 1e6 ? `${(latestVol / 1e6).toFixed(2)}M` : latestVol.toLocaleString();
+    document.getElementById("stockKpi52wHigh").textContent = (record.w52_high ?? periodHigh).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    document.getElementById("stockKpi52wLow").textContent = (record.w52_low ?? periodLow).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+    // Traces
+    const traces = [];
+    const closeLabel = CURRENT_LANGUAGE === "zh" ? "收盤價" : "Close Price";
+
+    // 1. Close Price trace
+    traces.push({
+        x: xVals,
+        y: yVals,
+        name: closeLabel,
+        type: 'scatter',
+        mode: 'lines',
+        line: { color: '#38bdf8', width: 2.2 },
+        fill: 'tozeroy',
+        fillcolor: isLight ? 'rgba(56, 189, 248, 0.12)' : 'rgba(56, 189, 248, 0.08)',
+        hovertemplate: `<b>${closeLabel}</b>: %{y:.2f}<extra></extra>`
+    });
+
+    // 2. MA20 trace
+    if (showMa20 && ma20Vals.length > 0) {
+        traces.push({
+            x: xVals,
+            y: ma20Vals,
+            name: "MA20",
+            type: 'scatter',
+            mode: 'lines',
+            line: { color: '#f59e0b', width: 1.8 },
+            hovertemplate: `<b>MA20</b>: %{y:.2f}<extra></extra>`
+        });
+    }
+
+    // 3. MA60 trace
+    if (showMa60 && ma60Vals.length > 0) {
+        traces.push({
+            x: xVals,
+            y: ma60Vals,
+            name: "MA60",
+            type: 'scatter',
+            mode: 'lines',
+            line: { color: '#a855f7', width: 1.8 },
+            hovertemplate: `<b>MA60</b>: %{y:.2f}<extra></extra>`
+        });
+    }
+
+    const yMin = Math.min(...yVals.filter(v => v != null));
+    const yMax = Math.max(...yVals.filter(v => v != null));
+    const pad = (yMax - yMin) * 0.08 || 1;
+
+    const layout = {
+        paper_bgcolor: paperBg,
+        plot_bgcolor: plotBg,
+        font: { color: fontColor, size: 11, family: "Inter, system-ui, sans-serif" },
+        margin: { l: 45, r: 25, t: 25, b: 35 },
+        hovermode: 'x unified',
+        showlegend: true,
+        legend: {
+            orientation: 'h',
+            x: 0.5,
+            xanchor: 'center',
+            y: 1.12,
+            yanchor: 'bottom',
+            font: { size: 11, color: fontColor },
+            bgcolor: isLight ? 'rgba(255, 255, 255, 0.7)' : 'rgba(15, 23, 42, 0.7)',
+            bordercolor: isLight ? '#cbd5e1' : '#334155',
+            borderwidth: 1
+        },
+        xaxis: {
+            showgrid: true,
+            gridcolor: gridColor,
+            zeroline: false,
+            tickfont: { size: 10, color: fontColor }
+        },
+        yaxis: {
+            range: [yMin - pad, yMax + pad],
+            showgrid: true,
+            gridcolor: gridColor,
+            zeroline: false,
+            automargin: true,
+            tickfont: { size: 10, color: fontColor }
+        }
+    };
+
+    const config = {
+        responsive: true,
+        displayModeBar: false
+    };
+
+    Plotly.react(chartDiv, traces, layout, config);
+}
+
+function renderCompareStockChart(timeframe = "1Y") {
+    CURRENT_COMPARE_STOCK_TIMEFRAME = timeframe;
+    const chartDiv = document.getElementById("chartCompareStock");
+    if (!chartDiv) return;
+
+    const isLight = CURRENT_THEME === "light";
+    const paperBg = isLight ? "#dde5ee" : "#0b1329";
+    const plotBg = isLight ? "#dde5ee" : "#0f172a";
+    const fontColor = isLight ? "#0f172a" : "#f1f5f9";
+    const gridColor = isLight ? "#b0bfcf" : "#1e293b";
+
+    const checkedBoxes = Array.from(document.querySelectorAll("#compareCheckboxGrid input[type='checkbox']:checked"));
+    const selectedTickers = checkedBoxes.map(cb => cb.value.toLowerCase());
+    
+    if (selectedTickers.length === 0) {
+        Plotly.purge(chartDiv);
+        return;
+    }
+
+    const tfMap = {
+        "1W": 5,
+        "1M": 22,
+        "3M": 65,
+        "6M": 130,
+        "1Y": 252,
+        "2Y": 504,
+        "5Y": 1260,
+        "MAX": 9999
+    };
+    const reqCount = tfMap[timeframe] || 252;
+
+    const traces = [];
+    selectedTickers.forEach((ticker, idx) => {
+        const record = getStockRecord(ticker);
+        if (!record || record.status === "private" || !record.daily || !record.daily.dates || record.daily.dates.length === 0) {
+            return;
+        }
+
+        const dDates = record.daily.dates;
+        const dClose = record.daily.close;
+        const sliceCount = Math.min(dDates.length, reqCount);
+        const xSlice = dDates.slice(-sliceCount);
+        const ySlice = dClose.slice(-sliceCount);
+
+        const basePrice = ySlice[0];
+        if (!basePrice || basePrice <= 0) return;
+
+        // Normalized % Cumulative Return
+        const returnPct = ySlice.map(p => Math.round(((p / basePrice) - 1) * 10000) / 100);
+
+        const color = getCompanyTraceColor(ticker, idx);
+        const sym = record.symbol || ticker.toUpperCase();
+
+        traces.push({
+            x: xSlice,
+            y: returnPct,
+            name: `${sym} (%)`,
+            type: 'scatter',
+            mode: 'lines',
+            line: { color: color, width: 2.2 },
+            hovertemplate: `<b>${sym}</b>: %{y:+.2f}%<extra></extra>`
+        });
+    });
+
+    if (traces.length === 0) {
+        Plotly.purge(chartDiv);
+        return;
+    }
+
+    const layout = {
+        paper_bgcolor: paperBg,
+        plot_bgcolor: plotBg,
+        font: { color: fontColor, size: 11, family: "Inter, system-ui, sans-serif" },
+        margin: { l: 55, r: 25, t: 30, b: 40 },
+        hovermode: 'x unified',
+        showlegend: true,
+        legend: {
+            orientation: 'h',
+            x: 0.5,
+            xanchor: 'center',
+            y: 1.12,
+            yanchor: 'bottom',
+            font: { size: 11, color: fontColor },
+            bgcolor: isLight ? 'rgba(255, 255, 255, 0.7)' : 'rgba(15, 23, 42, 0.7)',
+            bordercolor: isLight ? '#cbd5e1' : '#334155',
+            borderwidth: 1
+        },
+        xaxis: {
+            showgrid: true,
+            gridcolor: gridColor,
+            zeroline: false,
+            tickfont: { size: 10, color: fontColor }
+        },
+        yaxis: {
+            title: { text: CURRENT_LANGUAGE === "zh" ? "累計報酬率 (%)" : "Cumulative Return (%)", font: { size: 11, color: fontColor } },
+            ticksuffix: "%",
+            showgrid: true,
+            gridcolor: gridColor,
+            zeroline: true,
+            zerolinecolor: isLight ? "#94a3b8" : "#475569",
+            zerolinewidth: 1.5,
+            automargin: true,
+            tickfont: { size: 10, color: fontColor }
+        }
+    };
+
+    const config = {
+        responsive: true,
+        displayModeBar: false
+    };
+
+    Plotly.react(chartDiv, traces, layout, config);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     initDashboard();
 });
@@ -1541,6 +2004,7 @@ document.addEventListener("DOMContentLoaded", () => {
 async function initDashboard() {
     applyTheme(CURRENT_THEME);
     setupEventListeners();
+    setupStockListeners();
     setupThemeToggle();
     setupFrequencyToggle();
     setupTabs();
@@ -1548,6 +2012,7 @@ async function initDashboard() {
     setupChartZoomModal();
     initFinanceQuotesMarquee();
     applyLanguage(CURRENT_LANGUAGE);
+    await ensureStockDataLoaded();
     await loadCompaniesList();
     await loadDashboardData();
 }
@@ -1605,6 +2070,9 @@ function applyTheme(theme) {
     // Re-render active charts with updated theme colors if data exists
     if (GLOBAL_METRICS_DATA && ACTIVE_VIEW === "single") {
         renderCharts(GLOBAL_METRICS_DATA);
+        if (CURRENT_STOCK_TICKER) {
+            renderStockChart(CURRENT_STOCK_TICKER, CURRENT_STOCK_TIMEFRAME, isStockMa20Active(), isStockMa60Active());
+        }
     } else if (COMPARISON_DATA && ACTIVE_VIEW === "compare") {
         renderComparisonView(COMPARISON_DATA);
     }
@@ -2568,6 +3036,12 @@ function applyLanguage(lang) {
     if (langLabel) langLabel.textContent = dict.lang_toggle_btn;
     
     renderFinanceQuotes();
+
+    if (ACTIVE_VIEW === "single" && CURRENT_STOCK_TICKER) {
+        renderStockChart(CURRENT_STOCK_TICKER, CURRENT_STOCK_TIMEFRAME, isStockMa20Active(), isStockMa60Active());
+    } else if (ACTIVE_VIEW === "compare") {
+        renderCompareStockChart(CURRENT_COMPARE_STOCK_TIMEFRAME);
+    }
 }
 
 // -----------------------------------------------------------------------------
@@ -2833,8 +3307,10 @@ async function loadDashboardData(targetCompany = null) {
         }
         
         GLOBAL_METRICS_DATA = data;
+        CURRENT_STOCK_TICKER = company;
         
         renderKPICards(data);
+        renderStockChart(company, CURRENT_STOCK_TIMEFRAME, isStockMa20Active(), isStockMa60Active());
         renderCharts(data);
         renderMasterTable(data);
         loadMarkdownFiles(company.toLowerCase());
@@ -3492,6 +3968,9 @@ function renderComparisonView(companiesData) {
         ...commonLayout,
         yaxis: { title: "R&D % of Rev", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
+
+    // Stock Performance Peer Comparison Chart
+    renderCompareStockChart(CURRENT_COMPARE_STOCK_TIMEFRAME);
 
     // 5. Chart E: Bivariate Strategic Quadrants & Bubble Matrix Benchmark
     renderComparisonScatterPlot(companiesData, tickers);

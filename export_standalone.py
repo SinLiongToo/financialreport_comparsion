@@ -131,14 +131,26 @@ def export_standalone():
     
     print("\n📦 Building Standalone GitHub Pages Dashboard...")
     
-    # 1. Compile Data Bundles (Annual + Quarterly + Markdown)
+    # 1. Compile Data Bundles (Annual + Quarterly + Markdown + Stock Intelligence)
     metrics_db = build_metrics_db(freq="annual")
     metrics_quarterly_db = build_metrics_db(freq="quarterly")
     markdown_db = build_markdown_db()
+
+    # Load stock market intelligence database
+    stock_db = {}
+    stock_path = os.path.join(base_dir, "data", "stock_data.json")
+    if os.path.exists(stock_path):
+        try:
+            with open(stock_path, "r", encoding="utf-8") as sf:
+                stock_db = json.load(sf)
+            print(f"  [✓] Loaded stock intelligence database with {len(stock_db)} entities.")
+        except Exception as e:
+            print(f"  [!] Warning loading stock_data.json: {e}")
     
     metrics_json_str = json.dumps(metrics_db, ensure_ascii=False)
     metrics_q_json_str = json.dumps(metrics_quarterly_db, ensure_ascii=False)
     markdown_json_str = json.dumps(markdown_db, ensure_ascii=False)
+    stock_json_str = json.dumps(stock_db, ensure_ascii=False)
     
     # 2. Read HTML Template
     template_path = os.path.join(base_dir, "templates", "index.html")
@@ -173,8 +185,9 @@ def export_standalone():
     window.STATIC_METRICS_DB = {metrics_json_str};
     window.STATIC_METRICS_QUARTERLY_DB = {metrics_q_json_str};
     window.STATIC_MARKDOWN_DB = {markdown_json_str};
+    window.STATIC_STOCK_DB = {stock_json_str};
     window.STANDALONE_BUILD = true;
-    console.log("🚀 Standalone Dashboard initialized: Annual (" + Object.keys(window.STATIC_METRICS_DB).length + " keys), Quarterly (" + Object.keys(window.STATIC_METRICS_QUARTERLY_DB).length + " keys).");
+    console.log("🚀 Standalone Dashboard initialized: Annual (" + Object.keys(window.STATIC_METRICS_DB).length + " keys), Quarterly (" + Object.keys(window.STATIC_METRICS_QUARTERLY_DB).length + " keys), Stocks (" + Object.keys(window.STATIC_STOCK_DB).length + " keys).");
     </script>
     <script>
     {js_content}
