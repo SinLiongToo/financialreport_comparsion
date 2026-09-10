@@ -181,7 +181,9 @@
 ## 📈 13. Daily Automated Stock Market Analytics & GitHub Actions CI/CD Directive (每日全自動股價對標與工作流規範)
 
 - **Autonomous Daily GitHub Actions Cron (`.github/workflows/daily_stock_update.yml`)**:
-  - The repository maintains an automated CI/CD workflow scheduled at `0 22 * * 1-5` UTC (weekday market close) and callable on manual `workflow_dispatch`.
+  - The repository maintains an automated CI/CD workflow running on dual daily schedules and callable on manual `workflow_dispatch`:
+    1. **Asian Market Close**: `30 6 * * 1-5` UTC (14:30 Taipei / 15:30 Tokyo), capturing end-of-day quotes for Taiwan (TWSE/TPEx: 2330.TW, 2454.TW, 0050.TW), Japan (TSE: 6857.T, 8035.T), and South Korea (KRX: 005930.KS).
+    2. **US & European Market Close**: `0 22 * * 1-5` UTC (18:00 EST / 06:00 +1d Taipei), capturing NYSE/NASDAQ and European market closing quotes.
   - Automatically runs `python fetch_stock_data.py --all` to pull latest prices, volumes, 52-week highs/lows, and compute rolling MA20 and MA60.
   - Automatically executes `validate_company.py all` and `export_standalone.py` to compile `docs/index.html` and `standalone_dashboard.html`, committing and pushing directly with `[skip ci]` to ensure global zero-maintenance GitHub Pages synchronization.
 - **Single Company Live Terminal Architecture (`#stockTerminalCard`)**:

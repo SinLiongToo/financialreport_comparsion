@@ -347,7 +347,10 @@ This skill integrates automated daily equity market intelligence, pairing statut
 - **Multi-Company Normalized % Cumulative Return**:
   $$\text{Cumulative Return}_t = \left(\frac{P_t}{P_0} - 1\right) \times 100\%$$
   Eliminates nominal share price scaling differences (\$20 vs. \$1,000+) and currency variance to directly compare equity alpha across peers.
-- **GitHub Actions Daily CI/CD Pipeline**:
-  `.github/workflows/daily_stock_update.yml` triggers weekdays at 22:00 UTC (after global equity closes), pulls latest OHLCV data via `fetch_stock_data.py --all`, validates benchmarks, recompiles `docs/index.html` via `export_standalone.py`, and commits changes with `[skip ci]`.
+- **GitHub Actions Dual-Session Daily CI/CD Pipeline**:
+  `.github/workflows/daily_stock_update.yml` runs on dual schedules:
+  1. **Asian Market Close**: Weekdays at `06:30 UTC` (14:30 Taipei / 15:30 Tokyo), capturing finalized trading sessions for Taiwan TWSE/TPEx, Japan TSE, and Korea KRX.
+  2. **US & Global Market Close**: Weekdays at `22:00 UTC` (18:00 EST / 06:00 +1d Taipei), capturing NYSE/NASDAQ and European closing data.
+  The workflow executes `fetch_stock_data.py --all`, validates corporate benchmarks via `validate_company.py all`, recompiles `docs/index.html` and `standalone_dashboard.html` via `export_standalone.py`, and commits changes with `[skip ci]`.
 
 
