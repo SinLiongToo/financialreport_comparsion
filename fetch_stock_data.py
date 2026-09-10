@@ -204,8 +204,11 @@ def fetch_single_ticker(canon_ticker: str, meta: dict) -> dict:
 
         latest_vol = daily_volume[-1]
 
-        # Timestamp
-        last_dt = df_daily.index[-1].to_pydatetime()
+        # Timestamp: prefer latest intraday timestamp if today, else daily date
+        if df_intra is not None and not df_intra.empty:
+            last_dt = df_intra.index[-1].to_pydatetime()
+        else:
+            last_dt = df_daily.index[-1].to_pydatetime()
         now_dt = datetime.now()
         is_today = (last_dt.date() == now_dt.date())
         date_str = format_date_label(last_dt, is_today=is_today)
