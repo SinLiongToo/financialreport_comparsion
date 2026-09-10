@@ -682,6 +682,14 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.12.1 (2026-09-10)**：
+  - **即時更新台股與亞股當日盤中最新報價**：全量執行 `fetch_stock_data.py --all`，同步獲取 2026-09-10 台股（台積電 2330.TW、聯發科 2454.TW、鴻海 2317.TW、廣達 2382.TW、0050.TW 等）與亞洲股市當日最新交易價格與分時資訊。
+  - **優化 GitHub Actions 跨時區雙重收盤觸發排程 (`daily_stock_update.yml`)**：
+    - 新增 **亞股收盤排程**：`cron: '30 6 * * 1-5'`（UTC 06:30 = 台灣時間 14:30 / 東京時間 15:30），確保台股、日股與韓股收盤後第一時間自動更新。
+    - 保留 **美股歐股收盤排程**：`cron: '0 22 * * 1-5'`（UTC 22:00 = 台灣時間隔日凌晨 06:00），覆蓋美股與歐洲市場全日行情。
+  - **完善 User Guide 說明彈窗之同業股價對標圖表指南**：於操作指南中明確納入「多企業同業股價對標圖表 (#chartCompareStock)」的歸一化累積報酬率解讀與戰略 Alpha 對標邏輯。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.12.1`（`Updated: 2026-09-10`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.12.0 (2026-09-09)**：
   - **新增即時股市行情終端機 (Live Stock Intelligence Terminal) 與專業技術指標分析**：
     - **全庫 62 家企業即時行情覆蓋**：全新開發 `fetch_stock_data.py`，整合 `yfinance` 獲取全球跨市場標的（美股、台股 TWSE/TPEx、日股、韓股、歐股），涵蓋 5 年日 K 線 OHLCV 與日內行情，並對未上市新創（Anthropic、OpenAI、Shield AI、Anduril）進行優雅標記。
@@ -1232,6 +1240,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.12.1 - fix: add Asia market close cron trigger (06:30 UTC) and update Taiwan stock prices for 2026-09-10
 * commit v3.12.0 - feat: integrate daily automated stock market intelligence terminal, MA20/MA60 rolling trends, and multi-company peer return benchmark
 * commit v3.11.0 - feat: introduce update_pipeline.py for one-click automated financial report ingestion, audit, and sync
 * commit v3.10.0 - feat: expand Industry Strategic Insights with comprehensive deep research notes for Foundry, Fabless, Equipment, Testing, Hardware, and Hyperscalers

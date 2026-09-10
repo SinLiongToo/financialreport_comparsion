@@ -2,7 +2,9 @@ name: Daily Automated Stock Data Sync & Recompile
 
 on:
   schedule:
-    # Run daily at 22:00 UTC Monday-Friday (after US and Global equity markets close)
+    # 1. Asian Market Close (Taiwan TWSE/TPEx, Japan TSE, Korea KRX): 06:30 UTC = 14:30 Taipei / 15:30 Tokyo
+    - cron: '30 6 * * 1-5'
+    # 2. US & European Market Close: 22:00 UTC = 18:00 EST / 06:00 (+1d) Taipei
     - cron: '0 22 * * 1-5'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
