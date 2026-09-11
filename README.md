@@ -682,6 +682,13 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.12.2 (2026-09-11)**：
+  - **修復台股與亞股行情獲取之頻率限制 (Rate-Limiting) 與指數退避重試機制**：
+    - **根本原因排查**：yfinance 爬取 Yahoo Finance 行情時，連續快速請求（超過 10 檔標的）容易觸發 Yahoo 伺服器之連線限流，導致 `data['chart']['result'] is None` 並引發 `TypeError: 'NoneType' object is not subscriptable` 例外，造成未設重試邏輯之標的（如世界先進 5347.TWO、環球晶 6488.TWO、0050.TW 等）被直接略過而維持昨日快取。
+    - **導入指數退避重試 (Exponential Backoff Retry Engine)**：在 `fetch_stock_data.py` 之 `fetch_single_ticker` 中為日 K 線與分時線數據導入最高 3 次階梯式重試（每次等待 1.5s × attempt），並將主迴圈請求間隔平滑調整為 0.8s，徹底消除限流中斷問題。
+    - **全量更新 2026-09-11 當日台股與全球 64 家企業行情**：成功獲取台股 2026-09-11 最新收盤價（台積電 2330.TW $2,410.0、聯發科 2454.TW $4,585.0、鴻海 2317.TW $248.0、廣達 2382.TW $336.5、世界先進 5347.TWO $157.5、0050.TW $107.7 等）及 MA20/MA60 最新均線。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.12.2`（`Updated: 2026-09-11`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.12.1 (2026-09-10)**：
   - **即時更新台股與亞股當日盤中最新報價**：全量執行 `fetch_stock_data.py --all`，同步獲取 2026-09-10 台股（台積電 2330.TW、聯發科 2454.TW、鴻海 2317.TW、廣達 2382.TW、0050.TW 等）與亞洲股市當日最新交易價格與分時資訊。
   - **優化 GitHub Actions 跨時區雙重收盤觸發排程 (`daily_stock_update.yml`)**：
@@ -1240,6 +1247,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.12.2 - fix(stock): add exponential backoff retry for Yahoo Finance rate-limiting and update 2026-09-11 stock quotes
 * commit v3.12.1 - fix: add Asia market close cron trigger (06:30 UTC) and update Taiwan stock prices for 2026-09-10
 * commit v3.12.0 - feat: integrate daily automated stock market intelligence terminal, MA20/MA60 rolling trends, and multi-company peer return benchmark
 * commit v3.11.0 - feat: introduce update_pipeline.py for one-click automated financial report ingestion, audit, and sync

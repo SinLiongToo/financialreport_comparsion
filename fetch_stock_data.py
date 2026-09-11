@@ -139,22 +139,41 @@ def fetch_single_ticker(canon_ticker: str, meta: dict) -> dict:
     symbol = meta["symbol"]
     print(f"  [+] Fetching {canon_ticker} ({symbol})...", flush=True)
 
-    try:
-        ticker_obj = yf.Ticker(symbol)
-        
-        # 1. Fetch 5-year daily history
-        df_daily = ticker_obj.history(period="5y", interval="1d")
-        if df_daily.empty:
-            print(f"    [!] Warning: Empty daily history for {symbol}")
-            return None
+    df_daily = None
+    df_intra = None
+    ticker_obj = None
 
-        # 2. Fetch recent intraday (e.g. 5d 15m) for 1D / 1W granular curves
-        df_intra = None
+    # 1. Fetch 5-year daily history with exponential backoff retry
+    max_retries = 3
+    for attempt in range(1, max_retries + 1):
+        try:
+            ticker_obj = yf.Ticker(symbol)
+            df_daily = ticker_obj.history(period="5y", interval="1d")
+            if df_daily is not None and not df_daily.empty:
+                break
+            elif attempt < max_retries:
+                time.sleep(1.5 * attempt)
+        except Exception as e:
+            if attempt == max_retries:
+                print(f"    [!] Error fetching daily history for {symbol}: {e}")
+                return None
+            time.sleep(1.5 * attempt)
+
+    if df_daily is None or df_daily.empty:
+        print(f"    [!] Warning: Empty daily history for {symbol}")
+        return None
+
+    # 2. Fetch recent intraday (e.g. 5d 15m) for 1D / 1W granular curves
+    for attempt in range(1, 3):
         try:
             df_intra = ticker_obj.history(period="5d", interval="15m")
+            if df_intra is not None and not df_intra.empty:
+                break
         except Exception:
+            time.sleep(1.0)
             df_intra = None
 
+    try:
         # Process Daily History
         df_daily = df_daily.dropna(subset=["Close"]).copy()
         daily_dates = [idx.strftime("%Y-%m-%d") for idx in df_daily.index]
@@ -282,8 +301,8 @@ def fetch_all_stocks(tickers_to_fetch=None) -> dict:
         elif key.lower() not in existing_db:
             print(f"  [-] Failed to fetch {key} and no previous cache exists.")
 
-        # Respectful polite delay
-        time.sleep(0.3)
+        # Respectful polite delay to prevent Yahoo Finance 429 / NoneType rate-limiting
+        time.sleep(0.8)
 
     # Write updated master stock database
     with open(out_file, "w", encoding="utf-8") as f:
