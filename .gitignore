@@ -9,5 +9,10 @@ venv/
 *.log
 .DS_Store
 Thumbs.db
+# Downloads & Raw PDF Filings
 data/downloads/
-
+downloads/
+download/
+**/downloads/
+**/download/
+*.pdf
