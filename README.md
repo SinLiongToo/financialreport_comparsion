@@ -1254,7 +1254,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
-* commit v3.12.3 - fix(ci): remove [skip ci] from daily stock update workflow to enable automated Cloudflare Pages mirror deployments
+* commit v3.12.3 - fix(ci): remove skip-ci flag from daily stock update workflow to enable automated Cloudflare Pages mirror deployments
 * commit v3.12.2 - fix(stock): add exponential backoff retry for Yahoo Finance rate-limiting and update 2026-09-11 stock quotes
 * commit v3.12.1 - fix: add Asia market close cron trigger (06:30 UTC) and update Taiwan stock prices for 2026-09-10
 * commit v3.12.0 - feat: integrate daily automated stock market intelligence terminal, MA20/MA60 rolling trends, and multi-company peer return benchmark
