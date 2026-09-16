@@ -682,6 +682,13 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.12.3 (2026-09-16)**：
+  - **優化 GitHub Actions 提交機制，全面相容 Cloudflare Pages 鏡像自動部署**：
+    - **問題根因**：原定時排程在提交更新時使用了 `[skip ci]` 標記，導致遵循 CI/CD 標準的 Cloudflare Pages 在收到 GitHub Webhook 時判定為「跳過構建」，造成 Cloudflare 鏡像站點未隨 GitHub.io 自動同步最新股價。
+    - **解決方案**：移除提交指令中的 `[skip ci]` 標籤。由於該工作流僅由 Cron 定時與手動排程觸發（無 `on: push`），移除後不會引發循環構建，並能使 Cloudflare Pages 在每次全球收盤更新時無縫觸發自動部署。
+    - **全庫行情同步推進**：同步拉取 2026-09-15（週二）全球股市收盤數據至最新狀態。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.12.3`（`Updated: 2026-09-16`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.12.2 (2026-09-11)**：
   - **修復台股與亞股行情獲取之頻率限制 (Rate-Limiting) 與指數退避重試機制**：
     - **根本原因排查**：yfinance 爬取 Yahoo Finance 行情時，連續快速請求（超過 10 檔標的）容易觸發 Yahoo 伺服器之連線限流，導致 `data['chart']['result'] is None` 並引發 `TypeError: 'NoneType' object is not subscriptable` 例外，造成未設重試邏輯之標的（如世界先進 5347.TWO、環球晶 6488.TWO、0050.TW 等）被直接略過而維持昨日快取。
@@ -1247,6 +1254,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.12.3 - fix(ci): remove [skip ci] from daily stock update workflow to enable automated Cloudflare Pages mirror deployments
 * commit v3.12.2 - fix(stock): add exponential backoff retry for Yahoo Finance rate-limiting and update 2026-09-11 stock quotes
 * commit v3.12.1 - fix: add Asia market close cron trigger (06:30 UTC) and update Taiwan stock prices for 2026-09-10
 * commit v3.12.0 - feat: integrate daily automated stock market intelligence terminal, MA20/MA60 rolling trends, and multi-company peer return benchmark

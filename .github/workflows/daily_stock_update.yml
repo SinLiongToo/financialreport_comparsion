@@ -52,6 +52,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No stock changes detected; skipping commit."
           else
-            git commit -m "🤖 [Automated] Daily stock market update & MA20/MA60 recalculation [skip ci]"
+            git commit -m "🤖 [Automated] Daily stock market update & MA20/MA60 recalculation"
             git push origin main
           fi
