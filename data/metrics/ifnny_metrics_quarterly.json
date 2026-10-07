@@ -12,7 +12,10 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4"
+    "2025 Q4",
+    "2026 Q1",
+    "2026 Q2",
+    "2026 Q3"
   ],
   "financials": {
     "2024 Q1": {
@@ -222,6 +225,84 @@
       "rd_per_emp": 9588.0,
       "ni_growth_yoy": 50.57,
       "rd_growth_yoy": 3.14
+    },
+    "2026 Q1": {
+      "revenue": 3955.0,
+      "gross_profit": 1700.7,
+      "gross_margin": 43.0,
+      "operating_income": 707.4,
+      "operating_margin": 17.89,
+      "net_income": 276.5,
+      "rd_expense": 550.8,
+      "rd_pct_rev": 13.93,
+      "headcount": 58150,
+      "rev_per_emp": 68014.0,
+      "gp_per_emp": 29247.0,
+      "op_per_emp": 12165.0,
+      "cogs": 2254.3,
+      "rev_growth_yoy": -3.06,
+      "gp_growth_yoy": 0.04,
+      "op_growth_yoy": -0.37,
+      "hc_growth_yoy": 0.09,
+      "gm_diff_pp": 1.33,
+      "op_diff_pp": 0.49,
+      "net_margin": 6.99,
+      "ni_per_emp": 4755.0,
+      "rd_per_emp": 9472.0,
+      "ni_growth_yoy": -41.17,
+      "rd_growth_yoy": 1.06
+    },
+    "2026 Q2": {
+      "revenue": 4117.0,
+      "gross_profit": 1688.0,
+      "gross_margin": 41.0,
+      "operating_income": 705.2,
+      "operating_margin": 17.13,
+      "net_income": 325.1,
+      "rd_expense": 567.0,
+      "rd_pct_rev": 13.77,
+      "headcount": 58050,
+      "rev_per_emp": 70922.0,
+      "gp_per_emp": 29078.0,
+      "op_per_emp": 12148.0,
+      "cogs": 2429.0,
+      "rev_growth_yoy": -0.8,
+      "gp_growth_yoy": -2.99,
+      "op_growth_yoy": -5.34,
+      "hc_growth_yoy": -0.14,
+      "gm_diff_pp": -0.93,
+      "op_diff_pp": -0.82,
+      "net_margin": 7.9,
+      "ni_per_emp": 5600.0,
+      "rd_per_emp": 9767.0,
+      "ni_growth_yoy": -34.32,
+      "rd_growth_yoy": 3.09
+    },
+    "2026 Q3": {
+      "revenue": 4505.8,
+      "gross_profit": 1928.5,
+      "gross_margin": 42.8,
+      "operating_income": 860.8,
+      "operating_margin": 19.1,
+      "net_income": 442.8,
+      "rd_expense": 588.6,
+      "rd_pct_rev": 13.06,
+      "headcount": 57950,
+      "rev_per_emp": 77753.0,
+      "gp_per_emp": 33279.0,
+      "op_per_emp": 14854.0,
+      "cogs": 2577.3,
+      "rev_growth_yoy": 6.77,
+      "gp_growth_yoy": 8.65,
+      "op_growth_yoy": 12.52,
+      "hc_growth_yoy": -0.37,
+      "gm_diff_pp": 0.74,
+      "op_diff_pp": 0.97,
+      "net_margin": 9.83,
+      "ni_per_emp": 7641.0,
+      "rd_per_emp": 10157.0,
+      "ni_growth_yoy": -14.02,
+      "rd_growth_yoy": 6.44
     }
   },
   "sales_breakdown": {
@@ -349,25 +430,67 @@
           13,
           9
         ]
+      },
+      "2026 Q1": {
+        "value": [
+          2052,
+          1069,
+          464,
+          370
+        ],
+        "volume": [
+          52,
+          27,
+          12,
+          9
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          2063,
+          1177,
+          502,
+          375
+        ],
+        "volume": [
+          50,
+          29,
+          12,
+          9
+        ]
+      },
+      "2026 Q3": {
+        "value": [
+          2087,
+          1557,
+          484,
+          378
+        ],
+        "volume": [
+          46,
+          35,
+          11,
+          8
+        ]
       }
     }
   },
   "insights": {
     "en": {
-      "pivot": "Quarterly gross margins stabilized above 41%-42% as automotive and AI power supply demand ramped.",
-      "productivity": "Quarterly revenue per employee reached $73,333 in 2025 Q4.",
-      "leverage": "Quarterly operating margins expanded towards 18.5%.",
-      "rd": "Consistent quarterly R&D investment of ~$550M.",
-      "growth": "Steady automotive and high-power AI server demand driving sequential recovery.",
-      "breakdown": "Automotive remains the dominant quarterly revenue pillar (57%)."
+      "pivot": "Quarterly gross margins rebounded to 42.8% in 2026 Q3, bolstered by surging AI power management demand and PSS expansion.",
+      "productivity": "Quarterly revenue per employee reached a record ,753 in 2026 Q3 under disciplined headcount management.",
+      "leverage": "Quarterly segment result / operating margin expanded to 19.1% with strong operating leverage in AI power solutions.",
+      "rd": "Sustained quarterly R&D investment of ~- (13.1%-13.9% of revenue) accelerating next-gen SiC/GaN power architectures.",
+      "growth": "AI data center power solutions tripled year-over-year, driving sequential quarterly revenue to ,506M.",
+      "breakdown": "Power & Sensor Systems (PSS) expanded rapidly to 35% of total revenue in 2026 Q3, complementing core Automotive (46%)."
     },
     "zh": {
-      "pivot": "隨著車用與 AI 電源需求回升，單季毛利率穩固在 41%-42% 之上。",
-      "productivity": "2025 Q4 單季人均營收提升至 $73,333/人。",
-      "leverage": "單季營業利益率逐步擴張至 18.5% 水準。",
-      "rd": "單季研發維持約 $550M 規模。",
-      "growth": "車用與高功率 AI 伺服器電源帶動季度營收溫和復甦。",
-      "breakdown": "車用晶片持續穩居季度 57% 營收主力。"
+      "pivot": "2026 Q3 單季毛利率回升至 42.8%，受惠於 AI 資料中心電源管理需求爆發與 PSS 部門強勁推升。",
+      "productivity": "在精簡人事編制下，2026 Q3 單季人均營收創下 ,753/人 歷史新高。",
+      "leverage": "單季營業利益率擴張至 19.1%，高功率 AI 電源產品展現強大營運槓桿效益。",
+      "rd": "單季研發維持在 ~ 高檔（佔營收 13.1%~13.9%），加速新一代 SiC/GaN 寬能隙功率架構演進。",
+      "growth": "AI 伺服器電源營收年增近三倍，帶動 2026 Q3 單季營收攀升至 ,506M 歷史新高。",
+      "breakdown": "電源與感測系統 (PSS) 在 2026 Q3 營收佔比躍升至 35%，與車用 (46%) 形成雙核心成長引擎。"
     }
   },
   "lean_maturity": {

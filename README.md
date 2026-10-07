@@ -682,6 +682,16 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.12.4 (2026-10-07)**：
+  - **更新英飛凌 (Infineon Technologies AG) 2026 財年季度財報 (Q1、Q2、Q3)**：
+    - **營運財務指標推導與 USD $M 正規化**：
+      - 2026 Q1：營收 $3,955.0M (€3,662M)、毛利率 43.0%、營業利益率 17.89%、研發費用 $550.8M。
+      - 2026 Q2：營收 $4,117.0M (€3,812M)、毛利率 41.0%、營業利益率 17.13%、研發費用 $567.0M。
+      - 2026 Q3：營收 $4,505.8M (€4,172M)、毛利率 42.8%、營業利益率 19.10%、研發費用 $588.6M、人均營收創下 $77,753/人 新高。
+    - **Chart 6 業務部門拆解 (Value & Volume)**：納入 Automotive (ATV)、Power & Sensor Systems (PSS)、Green Industrial Power (GIP)、Connected Secure Systems (CSS) 四大部門之營收與出貨權重，反映 AI 伺服器電源方案爆發成長（PSS 營收佔比躍升至 35%）。
+    - **數據庫同步校驗**：更新 `infineon_metrics_quarterly.json`、`metrics_extractor.py` 之 `BUILTIN_BENCHMARKS_QUARTERLY`，通過 `validate_company.py infineon` 0 錯誤審計。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.12.4`（`Updated: 2026-10-07`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.12.3 (2026-09-16)**：
   - **優化 GitHub Actions 提交機制，全面相容 Cloudflare Pages 鏡像自動部署**：
     - **問題根因**：原定時排程在提交更新時使用了 `[skip ci]` 標記，導致遵循 CI/CD 標準的 Cloudflare Pages 在收到 GitHub Webhook 時判定為「跳過構建」，造成 Cloudflare 鏡像站點未隨 GitHub.io 自動同步最新股價。
@@ -1254,6 +1264,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.12.4 - feat: update Infineon Technologies 2026 quarterly audited reports (Q1-Q3), AI power segment breakdowns, and productivity metrics
 * commit v3.12.3 - fix(ci): remove skip-ci flag from daily stock update workflow to enable automated Cloudflare Pages mirror deployments
 * commit v3.12.2 - fix(stock): add exponential backoff retry for Yahoo Finance rate-limiting and update 2026-09-11 stock quotes
 * commit v3.12.1 - fix: add Asia market close cron trigger (06:30 UTC) and update Taiwan stock prices for 2026-09-10
