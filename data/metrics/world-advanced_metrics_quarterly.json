@@ -21,7 +21,9 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4"
+    "2025 Q4",
+    "2026 Q1",
+    "2026 Q2"
   ],
   "financials": {
     "2023 Q1": {
@@ -323,6 +325,58 @@
       "hc_growth_yoy": 2.26,
       "gm_diff_pp": 3.12,
       "op_diff_pp": 3.88
+    },
+    "2026 Q1": {
+      "revenue": 355.0,
+      "cogs": 253.8,
+      "gross_profit": 101.2,
+      "gross_margin": 28.5,
+      "operating_income": 58.6,
+      "operating_margin": 16.51,
+      "net_income": 55.0,
+      "net_margin": 15.49,
+      "rd_expense": 28.0,
+      "rd_pct_rev": 7.89,
+      "headcount": 6400,
+      "rev_per_emp": 55469.0,
+      "gp_per_emp": 15812.0,
+      "op_per_emp": 9156.0,
+      "ni_per_emp": 8594.0,
+      "rd_per_emp": 4375.0,
+      "rev_growth_yoy": -0.42,
+      "gp_growth_yoy": -5.42,
+      "op_growth_yoy": -17.81,
+      "ni_growth_yoy": -17.54,
+      "rd_growth_yoy": -23.91,
+      "hc_growth_yoy": -4.29,
+      "gm_diff_pp": -1.51,
+      "op_diff_pp": -3.49
+    },
+    "2026 Q2": {
+      "revenue": 380.0,
+      "cogs": 269.0,
+      "gross_profit": 111.0,
+      "gross_margin": 29.2,
+      "operating_income": 65.4,
+      "operating_margin": 17.21,
+      "net_income": 62.0,
+      "net_margin": 16.32,
+      "rd_expense": 30.0,
+      "rd_pct_rev": 7.89,
+      "headcount": 6450,
+      "rev_per_emp": 58915.0,
+      "gp_per_emp": 17209.0,
+      "op_per_emp": 10140.0,
+      "ni_per_emp": 9612.0,
+      "rd_per_emp": 4651.0,
+      "rev_growth_yoy": -1.94,
+      "gp_growth_yoy": -4.48,
+      "op_growth_yoy": -15.61,
+      "ni_growth_yoy": -14.48,
+      "rd_growth_yoy": -25.0,
+      "hc_growth_yoy": -4.09,
+      "gm_diff_pp": -0.79,
+      "op_diff_pp": -2.79
     }
   },
   "sales_breakdown": {
@@ -506,6 +560,30 @@
           19,
           9,
           5
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          248,
+          71,
+          36
+        ],
+        "volume": [
+          70,
+          20,
+          10
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          266,
+          76,
+          38
+        ],
+        "volume": [
+          70,
+          20,
+          10
         ]
       }
     }

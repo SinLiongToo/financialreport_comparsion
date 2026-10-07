@@ -21,7 +21,9 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4"
+    "2025 Q4",
+    "2026 Q1",
+    "2026 Q2"
   ],
   "financials": {
     "2023 Q1": {
@@ -67,12 +69,12 @@
       "op_per_emp": 40396.0,
       "ni_per_emp": 33743.0,
       "rd_per_emp": 43762.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
+      "rev_growth_yoy": -1.99,
+      "gp_growth_yoy": -5.36,
+      "op_growth_yoy": -17.24,
+      "ni_growth_yoy": -23.76,
+      "rd_growth_yoy": 0.45,
+      "hc_growth_yoy": -0.49,
       "gm_diff_pp": -1.97,
       "op_diff_pp": -4.06
     },
@@ -93,12 +95,12 @@
       "op_per_emp": 36279.0,
       "ni_per_emp": 35881.0,
       "rd_per_emp": 44179.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
+      "rev_growth_yoy": -8.98,
+      "gp_growth_yoy": -9.18,
+      "op_growth_yoy": -10.64,
+      "ni_growth_yoy": 5.81,
+      "rd_growth_yoy": 0.45,
+      "hc_growth_yoy": -0.5,
       "gm_diff_pp": -0.12,
       "op_diff_pp": -0.4
     },
@@ -119,12 +121,12 @@
       "op_per_emp": 29200.0,
       "ni_per_emp": 29800.0,
       "rd_per_emp": 43760.0,
-      "rev_growth_yoy": null,
-      "gp_growth_yoy": null,
-      "op_growth_yoy": null,
-      "ni_growth_yoy": null,
-      "rd_growth_yoy": null,
-      "hc_growth_yoy": null,
+      "rev_growth_yoy": 2.35,
+      "gp_growth_yoy": 2.6,
+      "op_growth_yoy": -19.91,
+      "ni_growth_yoy": -17.36,
+      "rd_growth_yoy": -1.44,
+      "hc_growth_yoy": -0.5,
       "gm_diff_pp": 0.14,
       "op_diff_pp": -4.69
     },
@@ -151,8 +153,8 @@
       "ni_growth_yoy": 23.8,
       "rd_growth_yoy": 0.23,
       "hc_growth_yoy": -1.97,
-      "gm_diff_pp": 1.65,
-      "op_diff_pp": 12.59
+      "gm_diff_pp": -0.3,
+      "op_diff_pp": 3.44
     },
     "2024 Q2": {
       "revenue": 9389.0,
@@ -177,8 +179,8 @@
       "ni_growth_yoy": 36.5,
       "rd_growth_yoy": 0.45,
       "hc_growth_yoy": -1.98,
-      "gm_diff_pp": -0.63,
-      "op_diff_pp": -4.57
+      "gm_diff_pp": 1.04,
+      "op_diff_pp": 2.93
     },
     "2024 Q3": {
       "revenue": 9393.0,
@@ -203,8 +205,8 @@
       "ni_growth_yoy": 18.08,
       "rd_growth_yoy": 0.45,
       "hc_growth_yoy": -1.99,
-      "gm_diff_pp": -0.24,
-      "op_diff_pp": 0.31
+      "gm_diff_pp": 0.92,
+      "op_diff_pp": 3.64
     },
     "2024 Q4": {
       "revenue": 10245.0,
@@ -229,8 +231,8 @@
       "ni_growth_yoy": 95.97,
       "rd_growth_yoy": 2.29,
       "hc_growth_yoy": -2.0,
-      "gm_diff_pp": -0.25,
-      "op_diff_pp": -1.5
+      "gm_diff_pp": 0.53,
+      "op_diff_pp": 6.83
     },
     "2025 Q1": {
       "revenue": 10800.0,
@@ -255,8 +257,8 @@
       "ni_growth_yoy": 6.61,
       "rd_growth_yoy": 1.59,
       "hc_growth_yoy": 0.0,
-      "gm_diff_pp": -0.01,
-      "op_diff_pp": 5.44
+      "gm_diff_pp": -1.13,
+      "op_diff_pp": -0.32
     },
     "2025 Q2": {
       "revenue": 10950.0,
@@ -281,8 +283,8 @@
       "ni_growth_yoy": 22.96,
       "rd_growth_yoy": 1.35,
       "hc_growth_yoy": 2.02,
-      "gm_diff_pp": -0.21,
-      "op_diff_pp": -1.04
+      "gm_diff_pp": -0.71,
+      "op_diff_pp": 3.21
     },
     "2025 Q3": {
       "revenue": 11264.0,
@@ -307,8 +309,8 @@
       "ni_growth_yoy": 33.87,
       "rd_growth_yoy": 1.79,
       "hc_growth_yoy": 4.06,
-      "gm_diff_pp": -0.22,
-      "op_diff_pp": 0.1
+      "gm_diff_pp": -0.69,
+      "op_diff_pp": 3.0
     },
     "2025 Q4": {
       "revenue": 11270.0,
@@ -333,8 +335,60 @@
       "ni_growth_yoy": -206.85,
       "rd_growth_yoy": 1.97,
       "hc_growth_yoy": 6.12,
-      "gm_diff_pp": -0.15,
-      "op_diff_pp": -2.05
+      "gm_diff_pp": -0.59,
+      "op_diff_pp": 2.45
+    },
+    "2026 Q1": {
+      "revenue": 10800.0,
+      "cogs": 4698.0,
+      "gross_profit": 6102.0,
+      "gross_margin": 56.5,
+      "operating_income": 3510.0,
+      "operating_margin": 32.5,
+      "net_income": 2949.5,
+      "net_margin": 27.31,
+      "rd_expense": 2450.5,
+      "rd_pct_rev": 22.69,
+      "headcount": 51500,
+      "rev_per_emp": 209709.0,
+      "gp_per_emp": 118485.0,
+      "op_per_emp": 68155.0,
+      "ni_per_emp": 57272.0,
+      "rd_per_emp": 47583.0,
+      "rev_growth_yoy": 0.0,
+      "gp_growth_yoy": 1.36,
+      "op_growth_yoy": 11.43,
+      "ni_growth_yoy": -0.02,
+      "rd_growth_yoy": 9.4,
+      "hc_growth_yoy": 3.52,
+      "gm_diff_pp": 0.76,
+      "op_diff_pp": 3.33
+    },
+    "2026 Q2": {
+      "revenue": 11400.0,
+      "cogs": 4902.0,
+      "gross_profit": 6498.0,
+      "gross_margin": 57.0,
+      "operating_income": 3784.8,
+      "operating_margin": 33.2,
+      "net_income": 3179.5,
+      "net_margin": 27.89,
+      "rd_expense": 2500.0,
+      "rd_pct_rev": 21.93,
+      "headcount": 52000,
+      "rev_per_emp": 219231.0,
+      "gp_per_emp": 124962.0,
+      "op_per_emp": 72785.0,
+      "ni_per_emp": 61144.0,
+      "rd_per_emp": 48077.0,
+      "rev_growth_yoy": 4.11,
+      "gp_growth_yoy": 6.88,
+      "op_growth_yoy": 22.88,
+      "ni_growth_yoy": 11.17,
+      "rd_growth_yoy": 11.11,
+      "hc_growth_yoy": 2.97,
+      "gm_diff_pp": 1.47,
+      "op_diff_pp": 5.07
     }
   },
   "sales_breakdown": {
@@ -537,7 +591,45 @@
           13.0,
           1.0
         ]
+      },
+      "2026 Q1": {
+        "value": [
+          8856,
+          1944
+        ],
+        "volume": [
+          82,
+          18
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          9462,
+          1938
+        ],
+        "volume": [
+          83,
+          17
+        ]
       }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Qualcomm Incorporated (QCOM / 高通) workforce reported at 52,000 FTEs with GAAP Gross Margin at 55.16%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $216,731/FTE in revenue and $119,538/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M2,950 (26.18% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M2,282 (20.25% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 10.0% compared to headcount change of 6.12% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Qualcomm Incorporated (QCOM / 高通) 官方審計員工數為 52,000 人，GAAP 毛利率為 55.16%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $216,731/人，人均毛利為 $119,538/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M2,950（營業利益率 26.18%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M2,282（佔營收 20.25%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 10.0%，員工人數年增率為 6.12%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   }
 }

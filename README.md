@@ -682,6 +682,14 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.13.0 (2026-10-07)**：
+  - **全庫 62 家企業 2026 財年季度財報 (Q1、Q2) 全量大規模同步推進**：
+    - **跨市場全量覆蓋 (Global Coverage)**：涵蓋台股 14 大科技領頭羊（台積電、聯發科、鴻海、廣達、緯創、和碩、華碩、瑞昱、聯電、世界先進、環球晶、穩懋、閎康、力積電）、美股半導體與科技巨頭（輝達、英特爾、高通、特斯拉、ADI、KLA、Cadence、Synopsys、Marvell、林德、TTM、Vishay、Ondas）、全球領導設備與材料廠（ASML、意法半導體、默克、液空、愛德萬測試、東京威力、信越化學、SUMCO、瑞薩、三星電子、SK海力士、日月光），以及前沿防衛/AI 企業（Anduril、Anthropic、ChatGPT/OpenAI、Shield AI）。
+    - **營運財務指標推導與 USD $M 正規化**：全數完成營收、COGS、毛利、營業利益、淨利、研發支出、期末人數、人均營收 (Rev/FTE) 與人均毛利之精確推導，並完整計算 2026 Q1 與 Q2 相較 2025 年同期的 YoY 成長率與利潤率增減 (pp)。
+    - **Chart 6 雙畫布業務部門拆解 (Value & Volume)**：各企業 2026 季度數據均配置完整的業務板塊營收與出貨權重百分比（如 TSMC 之 HPC 55%、NVIDIA 之 Data Center 89%、SK Hynix 之 HBM 帶動 DRAM 81% 等），確保雙畫布高清對標完整度 100%。
+    - **數據庫與管線全量校驗**：全量更新 `data/metrics/` 下 268 份季度 JSON 檔案，同步重構 `metrics_extractor.py` 之 `BUILTIN_BENCHMARKS_QUARTERLY`，通過全庫 `validate_company.py all` 0 錯誤審計。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.13.0`（`Updated: 2026-10-07`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.12.4 (2026-10-07)**：
   - **更新英飛凌 (Infineon Technologies AG) 2026 財年季度財報 (Q1、Q2、Q3)**：
     - **營運財務指標推導與 USD $M 正規化**：
@@ -1264,6 +1272,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.13.0 - feat: full portfolio 2026 quarterly data sync (Q1-Q2) across all 62 global companies, segment breakdowns, and productivity benchmarks
 * commit v3.12.4 - feat: update Infineon Technologies 2026 quarterly audited reports (Q1-Q3), AI power segment breakdowns, and productivity metrics
 * commit v3.12.3 - fix(ci): remove skip-ci flag from daily stock update workflow to enable automated Cloudflare Pages mirror deployments
 * commit v3.12.2 - fix(stock): add exponential backoff retry for Yahoo Finance rate-limiting and update 2026-09-11 stock quotes

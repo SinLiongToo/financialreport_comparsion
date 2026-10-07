@@ -16,7 +16,9 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4"
+    "2025 Q4",
+    "2026 Q1",
+    "2026 Q2"
   ],
   "financials": {
     "2023 Q1": {
@@ -318,6 +320,58 @@
       "hc_growth_yoy": 1.02,
       "gm_diff_pp": 0.8,
       "op_diff_pp": -1.36
+    },
+    "2026 Q1": {
+      "revenue": 8200.0,
+      "cogs": 3895.0,
+      "gross_profit": 4305.0,
+      "gross_margin": 52.5,
+      "operating_income": 2747.0,
+      "operating_margin": 33.5,
+      "net_income": 2350.1,
+      "net_margin": 28.66,
+      "rd_expense": 1180.0,
+      "rd_pct_rev": 14.39,
+      "headcount": 44500,
+      "rev_per_emp": 184270.0,
+      "gp_per_emp": 96742.0,
+      "op_per_emp": 61730.0,
+      "ni_per_emp": 52811.0,
+      "rd_per_emp": 26517.0,
+      "rev_growth_yoy": 13.89,
+      "gp_growth_yoy": 16.1,
+      "op_growth_yoy": 19.23,
+      "ni_growth_yoy": 18.69,
+      "rd_growth_yoy": 5.36,
+      "hc_growth_yoy": 0.0,
+      "gm_diff_pp": 1.0,
+      "op_diff_pp": 1.5
+    },
+    "2026 Q2": {
+      "revenue": 8850.0,
+      "cogs": 4141.8,
+      "gross_profit": 4708.2,
+      "gross_margin": 53.2,
+      "operating_income": 3053.2,
+      "operating_margin": 34.5,
+      "net_income": 2619.6,
+      "net_margin": 29.6,
+      "rd_expense": 1220.4,
+      "rd_pct_rev": 13.79,
+      "headcount": 45000,
+      "rev_per_emp": 196667.0,
+      "gp_per_emp": 104627.0,
+      "op_per_emp": 67849.0,
+      "ni_per_emp": 58213.0,
+      "rd_per_emp": 27120.0,
+      "rev_growth_yoy": 9.26,
+      "gp_growth_yoy": 11.78,
+      "op_growth_yoy": 14.22,
+      "ni_growth_yoy": 13.9,
+      "rd_growth_yoy": 6.12,
+      "hc_growth_yoy": 0.9,
+      "gm_diff_pp": 1.2,
+      "op_diff_pp": 1.5
     }
   },
   "sales_breakdown": {
@@ -500,6 +554,34 @@
           128,
           175,
           250
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          4510,
+          2296,
+          410,
+          984
+        ],
+        "volume": [
+          55,
+          28,
+          5,
+          12
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          5133,
+          2301,
+          442,
+          974
+        ],
+        "volume": [
+          58,
+          26,
+          5,
+          11
         ]
       }
     }

@@ -21,7 +21,9 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4"
+    "2025 Q4",
+    "2026 Q1",
+    "2026 Q2"
   ],
   "financials": {
     "2023 Q1": {
@@ -40,7 +42,15 @@
       "gp_per_emp": 69044.0,
       "op_per_emp": 33625.0,
       "ni_per_emp": 27863.0,
-      "rd_per_emp": 20543.0
+      "rd_per_emp": 20543.0,
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null
     },
     "2023 Q2": {
       "revenue": 2620.0,
@@ -58,7 +68,15 @@
       "gp_per_emp": 70449.0,
       "op_per_emp": 33333.0,
       "ni_per_emp": 29078.0,
-      "rd_per_emp": 21040.0
+      "rd_per_emp": 21040.0,
+      "rev_growth_yoy": 2.34,
+      "gp_growth_yoy": 1.92,
+      "op_growth_yoy": -0.98,
+      "ni_growth_yoy": 4.24,
+      "rd_growth_yoy": 2.3,
+      "hc_growth_yoy": -0.12,
+      "gm_diff_pp": -0.24,
+      "op_diff_pp": -0.9
     },
     "2023 Q3": {
       "revenue": 2680.0,
@@ -74,9 +92,17 @@
       "headcount": 21125,
       "rev_per_emp": 126864.0,
       "gp_per_emp": 72426.0,
-      "op_per_emp": 34319.0,
+      "op_per_emp": 34320.0,
       "ni_per_emp": 29586.0,
-      "rd_per_emp": 21302.0
+      "rd_per_emp": 21302.0,
+      "rev_growth_yoy": 2.29,
+      "gp_growth_yoy": 2.68,
+      "op_growth_yoy": 2.84,
+      "ni_growth_yoy": 1.63,
+      "rd_growth_yoy": 1.12,
+      "hc_growth_yoy": -0.12,
+      "gm_diff_pp": 0.22,
+      "op_diff_pp": 0.14
     },
     "2023 Q4": {
       "revenue": 2599.1,
@@ -94,7 +120,15 @@
       "gp_per_emp": 69626.0,
       "op_per_emp": 30237.0,
       "ni_per_emp": 27014.0,
-      "rd_per_emp": 21327.0
+      "rd_per_emp": 21327.0,
+      "rev_growth_yoy": -3.02,
+      "gp_growth_yoy": -3.98,
+      "op_growth_yoy": -12.0,
+      "ni_growth_yoy": -8.8,
+      "rd_growth_yoy": 0.0,
+      "hc_growth_yoy": -0.12,
+      "gm_diff_pp": -0.57,
+      "op_diff_pp": -2.5
     },
     "2024 Q1": {
       "revenue": 2330.0,
@@ -112,7 +146,15 @@
       "gp_per_emp": 61575.0,
       "op_per_emp": 24344.0,
       "ni_per_emp": 21957.0,
-      "rd_per_emp": 19570.0
+      "rd_per_emp": 19570.0,
+      "rev_growth_yoy": -8.98,
+      "gp_growth_yoy": -11.76,
+      "op_growth_yoy": -28.37,
+      "ni_growth_yoy": -22.03,
+      "rd_growth_yoy": -5.75,
+      "hc_growth_yoy": -1.06,
+      "gm_diff_pp": -1.75,
+      "op_diff_pp": -5.92
     },
     "2024 Q2": {
       "revenue": 2350.0,
@@ -130,7 +172,15 @@
       "gp_per_emp": 62260.0,
       "op_per_emp": 24279.0,
       "ni_per_emp": 21875.0,
-      "rd_per_emp": 19952.0
+      "rd_per_emp": 19952.0,
+      "rev_growth_yoy": -10.31,
+      "gp_growth_yoy": -13.09,
+      "op_growth_yoy": -28.37,
+      "ni_growth_yoy": -26.02,
+      "rd_growth_yoy": -6.74,
+      "hc_growth_yoy": -1.65,
+      "gm_diff_pp": -1.76,
+      "op_diff_pp": -5.42
     },
     "2024 Q3": {
       "revenue": 2150.0,
@@ -148,7 +198,15 @@
       "gp_per_emp": 57385.0,
       "op_per_emp": 22276.0,
       "ni_per_emp": 20339.0,
-      "rd_per_emp": 19128.0
+      "rd_per_emp": 19128.0,
+      "rev_growth_yoy": -19.78,
+      "gp_growth_yoy": -22.55,
+      "op_growth_yoy": -36.55,
+      "ni_growth_yoy": -32.8,
+      "rd_growth_yoy": -12.22,
+      "hc_growth_yoy": -2.25,
+      "gm_diff_pp": -1.97,
+      "op_diff_pp": -5.65
     },
     "2024 Q4": {
       "revenue": 2110.4,
@@ -166,7 +224,15 @@
       "gp_per_emp": 56849.0,
       "op_per_emp": 21707.0,
       "ni_per_emp": 20244.0,
-      "rd_per_emp": 19512.0
+      "rd_per_emp": 19512.0,
+      "rev_growth_yoy": -18.8,
+      "gp_growth_yoy": -20.67,
+      "op_growth_yoy": -30.25,
+      "ni_growth_yoy": -27.19,
+      "rd_growth_yoy": -11.11,
+      "hc_growth_yoy": -2.84,
+      "gm_diff_pp": -1.3,
+      "op_diff_pp": -3.46
     },
     "2025 Q1": {
       "revenue": 2300.0,
@@ -184,7 +250,15 @@
       "gp_per_emp": 62357.0,
       "op_per_emp": 26488.0,
       "ni_per_emp": 23329.0,
-      "rd_per_emp": 20413.0
+      "rd_per_emp": 20413.0,
+      "rev_growth_yoy": -1.29,
+      "gp_growth_yoy": -0.54,
+      "op_growth_yoy": 6.86,
+      "ni_growth_yoy": 4.35,
+      "rd_growth_yoy": 2.44,
+      "hc_growth_yoy": -1.79,
+      "gm_diff_pp": 0.42,
+      "op_diff_pp": 1.81
     },
     "2025 Q2": {
       "revenue": 2450.0,
@@ -202,7 +276,15 @@
       "gp_per_emp": 66344.0,
       "op_per_emp": 28571.0,
       "ni_per_emp": 24939.0,
-      "rd_per_emp": 21307.0
+      "rd_per_emp": 21308.0,
+      "rev_growth_yoy": 4.26,
+      "gp_growth_yoy": 5.79,
+      "op_growth_yoy": 16.83,
+      "ni_growth_yoy": 13.19,
+      "rd_growth_yoy": 6.02,
+      "hc_growth_yoy": -0.72,
+      "gm_diff_pp": 0.81,
+      "op_diff_pp": 2.59
     },
     "2025 Q3": {
       "revenue": 2550.0,
@@ -220,7 +302,15 @@
       "gp_per_emp": 68902.0,
       "op_per_emp": 29674.0,
       "ni_per_emp": 25814.0,
-      "rd_per_emp": 22002.0
+      "rd_per_emp": 22002.0,
+      "rev_growth_yoy": 18.6,
+      "gp_growth_yoy": 20.51,
+      "op_growth_yoy": 33.7,
+      "ni_growth_yoy": 27.38,
+      "rd_growth_yoy": 15.44,
+      "hc_growth_yoy": 0.36,
+      "gm_diff_pp": 0.88,
+      "op_diff_pp": 2.72
     },
     "2025 Q4": {
       "revenue": 2566.7,
@@ -238,7 +328,67 @@
       "gp_per_emp": 68966.0,
       "op_per_emp": 29712.0,
       "ni_per_emp": 26058.0,
-      "rd_per_emp": 22115.0
+      "rd_per_emp": 22115.0,
+      "rev_growth_yoy": 21.62,
+      "gp_growth_yoy": 23.09,
+      "op_growth_yoy": 38.88,
+      "ni_growth_yoy": 30.6,
+      "rd_growth_yoy": 15.0,
+      "hc_growth_yoy": 1.46,
+      "gm_diff_pp": 0.67,
+      "op_diff_pp": 2.99
+    },
+    "2026 Q1": {
+      "revenue": 2550.0,
+      "cogs": 1109.3,
+      "gross_profit": 1440.7,
+      "gross_margin": 56.5,
+      "operating_income": 803.2,
+      "operating_margin": 31.5,
+      "net_income": 640.0,
+      "net_margin": 25.1,
+      "rd_expense": 410.0,
+      "rd_pct_rev": 16.08,
+      "headcount": 21500,
+      "rev_per_emp": 118605.0,
+      "gp_per_emp": 67009.0,
+      "op_per_emp": 37358.0,
+      "ni_per_emp": 29767.0,
+      "rd_per_emp": 19070.0,
+      "rev_growth_yoy": 10.87,
+      "gp_growth_yoy": 12.29,
+      "op_growth_yoy": 47.38,
+      "ni_growth_yoy": 33.33,
+      "rd_growth_yoy": -2.38,
+      "hc_growth_yoy": 4.5,
+      "gm_diff_pp": 0.72,
+      "op_diff_pp": 7.8
+    },
+    "2026 Q2": {
+      "revenue": 2700.0,
+      "cogs": 1161.0,
+      "gross_profit": 1539.0,
+      "gross_margin": 57.0,
+      "operating_income": 869.4,
+      "operating_margin": 32.2,
+      "net_income": 700.1,
+      "net_margin": 25.93,
+      "rd_expense": 425.0,
+      "rd_pct_rev": 15.74,
+      "headcount": 21700,
+      "rev_per_emp": 124424.0,
+      "gp_per_emp": 70922.0,
+      "op_per_emp": 40065.0,
+      "ni_per_emp": 32263.0,
+      "rd_per_emp": 19585.0,
+      "rev_growth_yoy": 10.2,
+      "gp_growth_yoy": 12.34,
+      "op_growth_yoy": 47.36,
+      "ni_growth_yoy": 35.94,
+      "rd_growth_yoy": -3.41,
+      "hc_growth_yoy": 5.08,
+      "gm_diff_pp": 1.08,
+      "op_diff_pp": 8.12
     }
   },
   "sales_breakdown": {
@@ -397,7 +547,49 @@
           46.4,
           1.4
         ]
+      },
+      "2026 Q1": {
+        "value": [
+          1275,
+          1020,
+          255
+        ],
+        "volume": [
+          50,
+          40,
+          10
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          1377,
+          1053,
+          270
+        ],
+        "volume": [
+          51,
+          39,
+          10
+        ]
       }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Renesas Electronics Corporation (6723.T / ルネサス) workforce reported at 20,800 FTEs with GAAP Gross Margin at 55.89%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $123,399/FTE in revenue and $68,966/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M618 (24.08% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M460 (17.92% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 21.62% compared to headcount change of 1.46% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Renesas Electronics Corporation (6723.T / ルネサス) 官方審計員工數為 20,800 人，GAAP 毛利率為 55.89%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $123,399/人，人均毛利為 $68,966/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M618（營業利益率 24.08%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M460（佔營收 17.92%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 21.62%，員工人數年增率為 1.46%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   }
 }

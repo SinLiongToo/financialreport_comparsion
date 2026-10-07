@@ -21,7 +21,9 @@
     "2025 Q1",
     "2025 Q2",
     "2025 Q3",
-    "2025 Q4"
+    "2025 Q4",
+    "2026 Q1",
+    "2026 Q2"
   ],
   "financials": {
     "2023 Q1": {
@@ -335,6 +337,58 @@
       "hc_growth_yoy": 4.24,
       "gm_diff_pp": -4.04,
       "op_diff_pp": -3.55
+    },
+    "2026 Q1": {
+      "revenue": 45.0,
+      "cogs": 28.6,
+      "gross_profit": 16.4,
+      "gross_margin": 36.5,
+      "operating_income": 8.8,
+      "operating_margin": 19.56,
+      "net_income": 7.5,
+      "net_margin": 16.67,
+      "rd_expense": 3.8,
+      "rd_pct_rev": 8.44,
+      "headcount": 1550,
+      "rev_per_emp": 29032.0,
+      "gp_per_emp": 10581.0,
+      "op_per_emp": 5677.0,
+      "ni_per_emp": 4839.0,
+      "rd_per_emp": 2452.0,
+      "rev_growth_yoy": 8.43,
+      "gp_growth_yoy": 36.33,
+      "op_growth_yoy": 107.06,
+      "ni_growth_yoy": 141.94,
+      "rd_growth_yoy": 13.43,
+      "hc_growth_yoy": -7.07,
+      "gm_diff_pp": 7.51,
+      "op_diff_pp": 9.32
+    },
+    "2026 Q2": {
+      "revenue": 49.0,
+      "cogs": 30.8,
+      "gross_profit": 18.2,
+      "gross_margin": 37.2,
+      "operating_income": 9.9,
+      "operating_margin": 20.2,
+      "net_income": 8.5,
+      "net_margin": 17.35,
+      "rd_expense": 4.0,
+      "rd_pct_rev": 8.16,
+      "headcount": 1580,
+      "rev_per_emp": 31013.0,
+      "gp_per_emp": 11519.0,
+      "op_per_emp": 6266.0,
+      "ni_per_emp": 5380.0,
+      "rd_per_emp": 2532.0,
+      "rev_growth_yoy": 13.43,
+      "gp_growth_yoy": 47.85,
+      "op_growth_yoy": 127.59,
+      "ni_growth_yoy": 167.3,
+      "rd_growth_yoy": 15.94,
+      "hc_growth_yoy": -6.23,
+      "gm_diff_pp": 8.7,
+      "op_diff_pp": 10.13
     }
   },
   "sales_breakdown": {
@@ -564,6 +618,30 @@
           53,
           30,
           17
+        ]
+      },
+      "2026 Q1": {
+        "value": [
+          27,
+          13,
+          5
+        ],
+        "volume": [
+          60,
+          29,
+          11
+        ]
+      },
+      "2026 Q2": {
+        "value": [
+          30,
+          14,
+          5
+        ],
+        "volume": [
+          61,
+          29,
+          10
         ]
       }
     }
