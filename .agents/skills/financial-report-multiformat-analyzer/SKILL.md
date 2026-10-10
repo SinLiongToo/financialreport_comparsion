@@ -357,4 +357,23 @@ This skill integrates automated daily equity market intelligence, pairing statut
   - **Tiered Retry Architecture**: `fetch_single_ticker` implements a 3-tier exponential backoff retry loop ($1.5\text{s} \times \text{attempt}$) for 5-year daily OHLCV series, and a 2-tier retry loop for 15-minute intraday bars.
   - **Polite Inter-Ticker Delay**: Enforces a 0.8-second sleep between consecutive ticker requests, guaranteeing 100% completion rate (64/64 entities) without cache stalls or dropped symbols.
 
+---
+
+## 13. Global Quarterly Earnings Batch Updater Synergy (`quarterly-earnings-batch-updater`)
+
+For quarterly earnings seasons (Q1, Q2, Q3) across the 62-company catalog, utilize the companion workspace skill:
+[`quarterly-earnings-batch-updater`](file:///.agents/skills/quarterly-earnings-batch-updater/SKILL.md)
+
+### Key Capabilities & Automation:
+- **Earnings Season Calendar & Optimal Batch Windows**: Staggered filing deadlines across US (SEC 10-Q), Taiwan (TWSE MOPS: Nov 14 / Aug 14 / May 15), Japan (TSE), Korea (KRX DART), and Europe (IFRS).
+- **Batch Quarterly Sync CLI**:
+  ```powershell
+  # Audit fleet coverage for target quarter
+  python .agents/skills/quarterly-earnings-batch-updater/scripts/batch_quarterly_sync.py --quarter "2026 Q3"
+  
+  # Run fleet-wide alias mirroring, in-memory cache sync, validation audit, and standalone recompile
+  python .agents/skills/quarterly-earnings-batch-updater/scripts/batch_quarterly_sync.py --all
+  ```
+
+
 

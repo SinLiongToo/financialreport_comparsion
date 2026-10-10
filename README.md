@@ -605,6 +605,31 @@ sequenceDiagram
 
 ---
 
+### ⚡ 4. 全球季度財報全量批次更新專用 Skill (quarterly-earnings-batch-updater)
+
+針對每季財報週（Q1、Q2、Q3、Q4）全庫 62 家跨國巨頭的批次下載、審計與發布，專案提供專屬自動化技能：
+`.agents/skills/quarterly-earnings-batch-updater/SKILL.md`
+
+#### 📅 全球多市場財報揭露時程與最佳批次更新窗口 (Optimal Windows)：
+| 市場法規體系 | 法定申報形式 | 申報期限 (Deadlines) | 最佳全量更新推薦時間 | 代表性企業 |
+| :--- | :--- | :--- | :--- | :--- |
+| **美股 (SEC)** | **Form 10-Q** | 季末後 **40 天** | **Q1**: 5月中旬<br>**Q2**: 8月中旬<br>**Q3**: 11月中旬 | Apple, MSFT, Google, AMD, Intel, QCOM, TTM, PLTR |
+| **台股 (TWSE/TPEx)** | **季財務報告 (MOPS)** | **Q1**: 5/15<br>**Q2**: 8/14<br>**Q3**: **11/14**<br>**Q4**: 3/31 | **Q1**: 5月15日<br>**Q2**: 8月15日<br>**Q3**: **11月15日** | 台積電、聯發科、鴻海、廣達、緯創、和碩、華碩 |
+| **日股 (TSE/FSA)** | **四半期報告書 / 決算短信** | 季末後 **45 天** | 8月中旬 / 11月中旬 / 2月中旬 | 東京威力、愛德萬測試、Disco、Screen、瑞薩、信越 |
+| **韓股 (KRX/DART)** | **分期報告書** | 季末後 **45 天** | 8月中旬 / 11月中旬 | 三星電子、SK海力士 |
+| **歐股 (IFRS)** | **Interim Statements** | 季末後 **30~60 天** | 10月中下旬 ~ 11月中旬 | ASML、意法半導體、默克、液空 (註: 英飛凌會計年度9/30結束) |
+
+#### 🛠️ 一鍵批次審計與同步命令列工具 (`batch_quarterly_sync.py`)：
+```powershell
+# 1. 檢視全庫 62 家企業針對目標季度 (如 2026 Q3) 的揭露進度與覆蓋率
+python .agents/skills/quarterly-earnings-batch-updater/scripts/batch_quarterly_sync.py --quarter "2026 Q3"
+
+# 2. 一鍵執行全別名鏡像複製、extractor 內存快取同步、全庫審計與單機版重構
+python .agents/skills/quarterly-earnings-batch-updater/scripts/batch_quarterly_sync.py --all
+```
+
+---
+
 ## ❓ 常見問題與故障排除 (FAQ)
 
 **Q1：為什麼下載 Google 後一開始圖表是空白的？**
@@ -681,6 +706,13 @@ python main.py --export-static
 ---
 
 ## 16. 最新修復與優化 (Change Log)
+
+- **v3.13.1 (2026-10-10)**：
+  - **建立全球季度財報全量批次更新專用 Skill (`quarterly-earnings-batch-updater`)**：
+    - **多國監管時程表與最佳批次更新窗口**：系統化梳理美股 SEC 10-Q (40天)、台股 TWSE MOPS (5/15, 8/14, 11/14)、日股 TSE (45天)、韓股 DART 與歐股 IFRS 之法定揭露期限。制定三波段更新策略，明確確立 **季末次月 15 日（如 Q3 財報之 11 月 15 日）** 為單次更新涵蓋 >92% 企業之最佳批次黃金窗口。
+    - **全庫覆蓋率審計與別名鏡像工具 (`batch_quarterly_sync.py`)**：全新開發專用命令列工具，支援 `--quarter "YYYY QX"` 即時檢測 62 家企業季報揭露進度，並能一鍵執行 260+ 別名 JSON 鏡像覆蓋、`metrics_extractor.py` 內存資料庫同步、全庫驗證與單機版重建。
+    - **雙向技能協同整合**：於主技能 `financial-report-multiformat-analyzer` 中引入季度批次更新指引，固化 Chart 6 雙陣列價值/體積架構與線性人數插值規範，確保後續各季度財報週無縫自動化閉環。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.13.1`（`Updated: 2026-10-10`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
 
 - **v3.13.0 (2026-10-07)**：
   - **全庫 62 家企業 2026 財年季度財報 (Q1、Q2) 全量大規模同步推進**：
@@ -1272,6 +1304,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.13.1 - feat: establish quarterly-earnings-batch-updater skill, global earnings calendar protocol, and batch sync CLI utility
 * commit v3.13.0 - feat: full portfolio 2026 quarterly data sync (Q1-Q2) across all 62 global companies, segment breakdowns, and productivity benchmarks
 * commit v3.12.4 - feat: update Infineon Technologies 2026 quarterly audited reports (Q1-Q3), AI power segment breakdowns, and productivity metrics
 * commit v3.12.3 - fix(ci): remove skip-ci flag from daily stock update workflow to enable automated Cloudflare Pages mirror deployments
