@@ -125,19 +125,20 @@ def sync_extractor_cache():
 
     serialized = json.dumps(quarterly_db, indent=4, ensure_ascii=False)
     content = EXTRACTOR_PATH.read_text(encoding="utf-8")
-    
+
     marker = "BUILTIN_BENCHMARKS_QUARTERLY = "
     idx = content.find(marker)
     if idx == -1:
         print("[ERROR] Could not find BUILTIN_BENCHMARKS_QUARTERLY marker in metrics_extractor.py")
         return False
     
-    # Locate dictionary start
-    start_brace = content.find("{", idx)
-    # Locate end of file or next global variable
-    # We find matching closing brace or write clean python file
-    # In metrics_extractor.py, BUILTIN_BENCHMARKS_QUARTERLY is at the end of the file
-    new_content = content[:idx] + f"BUILTIN_BENCHMARKS_QUARTERLY = {serialized}\n"
+    class_marker = "\nclass FinancialMetricsExtractor:"
+    idx_class = content.find(class_marker, idx)
+    if idx_class == -1:
+        print("[ERROR] Could not find FinancialMetricsExtractor class marker in metrics_extractor.py")
+        return False
+    
+    new_content = content[:idx] + f"BUILTIN_BENCHMARKS_QUARTERLY = {serialized}\n" + content[idx_class:]
     EXTRACTOR_PATH.write_text(new_content, encoding="utf-8")
     print(f"[DONE] Synchronized {len(quarterly_db)} quarterly entities into metrics_extractor.py.")
     return True

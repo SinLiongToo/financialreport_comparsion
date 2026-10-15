@@ -707,6 +707,19 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.13.2 (2026-10-15)**：
+  - **同步更新台積電 (TSMC) 與 ASML 2026 財年第 3 季 (Q3) 最新財報數據**：
+    - **台積電 (TSMC 2330.TW / TSM)**：
+      - **營運財務指標**：2026 Q3 單季營收衝上 **$31,800.0M**（季增 +12.8%、年增 +4.26%），毛利率達 **58.8%**（毛利 $18,698.4M），營業利益率達 **46.5%**（營業利益 $14,787.0M），單季淨利達 **$13,197.0M**。研發費用維持高強度投資至 **$2,130.6M**。
+      - **人均生產力指標 (FTE Productivity)**：推算員工人數 82,500 人，單季人均營收 (Rev/FTE) 達 **$385,455/人/季**，單季人均毛利 (GP/FTE) 達 **$226,647/人/季**，單季人均營利達 **$179,236/人/季**。
+      - **Chart 6 製程別拆解 (Value & Volume)**：先進製程（3nm/5nm）產值佔比再創新高，3nm 佔 38% ($12,084M)、5nm 佔 36% ($11,448M)、7nm 佔 12% ($3,816M)、16nm 佔 8% ($2,544M)、28nm+ 佔 6% ($1,908M)。
+    - **ASML (ASML Holding N.V.)**：
+      - **營運財務指標**：2026 Q3 單季營收達 **€9,250.0M**（年增 +23.89%），受惠於 High-NA EUV (EXE:5000/5200) 與 NXE:3800E 出貨，毛利率達 **53.8%**（毛利 €4,976.5M），營業利益率達 **35.0%**（營業利益 €3,237.5M），淨利達 **€2,775.0M**，研發支出 €1,250.0M。
+      - **人均生產力指標**：推算員工人數 45,400 人，單季人均營收達 **€203,744/人/季**，單季人均毛利達 **€109,615/人/季**。
+      - **Chart 6 產品線拆解 (Value & Volume)**：EUV 產值貢獻升至 60.0% (€5,550M)，ArFi 浸潤式微影佔 25.0% (€2,312.5M)，乾式/KrF 佔 5.0% (€462.5M)，裝機管理服務 (IBM) 佔 10.0% (€925M)。
+    - **全庫別名鏡像與內存快取同步**：透過 `batch_quarterly_sync.py --all` 自動同步 TSMC 與 ASML 全部 6 組別名 JSON，完成 `metrics_extractor.py` 之 `BUILTIN_BENCHMARKS_QUARTERLY` 更新，通過 `validate_company.py all` 0 錯誤審計。
+  - **全量產出單機版與 GitHub Pages**：升級版本號至 `v3.13.2`（`Updated: 2026-10-15`），執行 `export_standalone.py` 重構 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.13.1 (2026-10-10)**：
   - **建立全球季度財報全量批次更新專用 Skill (`quarterly-earnings-batch-updater`)**：
     - **多國監管時程表與最佳批次更新窗口**：系統化梳理美股 SEC 10-Q (40天)、台股 TWSE MOPS (5/15, 8/14, 11/14)、日股 TSE (45天)、韓股 DART 與歐股 IFRS 之法定揭露期限。制定三波段更新策略，明確確立 **季末次月 15 日（如 Q3 財報之 11 月 15 日）** 為單次更新涵蓋 >92% 企業之最佳批次黃金窗口。
@@ -1304,6 +1317,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.13.2 - feat: update TSMC and ASML 2026 Q3 audited quarterly reports, segment breakdowns, and productivity metrics
 * commit v3.13.1 - feat: establish quarterly-earnings-batch-updater skill, global earnings calendar protocol, and batch sync CLI utility
 * commit v3.13.0 - feat: full portfolio 2026 quarterly data sync (Q1-Q2) across all 62 global companies, segment breakdowns, and productivity benchmarks
 * commit v3.12.4 - feat: update Infineon Technologies 2026 quarterly audited reports (Q1-Q3), AI power segment breakdowns, and productivity metrics
