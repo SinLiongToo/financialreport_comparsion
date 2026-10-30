@@ -707,6 +707,12 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.17.0 (2026-10-30)**：
+  - **產業戰略洞察與深度研究筆記庫全新升級 (Industry Strategic Insights Archive Expansion)**：
+    - **新增 2026 Q3 萬億資本開支與現金流轉負深度戰略研報**：以 Google、微軟、亞馬遜、Meta、NVIDIA、台積電最新 Q3 財報為基準，深入剖析單季資本支出衝破 513 億美元、自由現金流由正轉負達到 -90 億美元的會計機制（伺服器折舊年限緩衝、ASC 730 預訓練研發全額費用化 vs. ASC 360 企業推論資產資本化）與雲端營業利益率暴衝 +217% 的拐點效應。
+    - **新增歷史期別選擇器 (Archive Edition / Date Picker)**：支援一鍵切換「📅 全部歷次發布 (8 篇)」、「🔥 2026-10-30：2026 Q3 最新萬億資本開支研報」、「📁 2026-09-06：Q2 半導體與硬體產業鏈 (6 篇)」、「📁 2026-09-02：前沿 AI 與國防軍工架構 (1 篇)」，完整保留過往歷史數據並可隨心調閱。
+    - **新增企業快速過濾器 (Company / Ticker Filter)**：可按特定企業（Google、NVIDIA、台積電、微軟、Palantir、廣達/緯穎等）進行秒級定向檢索。
+
 - **v3.16.0 (2026-10-30)**：
   - **三層式數據防偽與一致性鏈驗證系統 (Tri-Layer Consistency Protocol: PDF ➔ MD ➔ JSON)**：
     - **實體憑證與鏈路稽核 (erify_tri_layer_consistency.py)**：嚴格審計全庫 62 家企業從 Layer 1（原始 PDF 檔案標頭 %PDF、大小 > 10KB、PyMuPDF 頁數 > 0）、Layer 2（無損結構化 Markdown 表格）到 Layer 3（標準化 JSON 財務指標）的嚴密數據鏈。
@@ -1365,6 +1371,7 @@ python main.py --export-static
 
 ## 17. Git History Log
 
+- 3.17.0 (2026-10-30): Expand Strategic Insights Archive with 2026 Q3 CapEx supercycle report, edition picker & company filters.
 - 3.16.0 (2026-10-30): Add Tri-Layer Consistency Protocol (PDF ➔ MD ➔ JSON), update skill and automated verification scripts.
 ```
 * commit v3.15.0 - feat: integrate Free Cash Flow (FCF), CapEx intensity, and cash conversion dynamics across all 62 companies

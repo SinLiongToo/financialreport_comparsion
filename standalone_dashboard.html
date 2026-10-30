@@ -525,7 +525,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                         <i class="fa-solid fa-bolt text-blue-400 text-[10px]"></i> One-Click Workflow
                     </span>
                     <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
-                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.16.0
+                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.17.0
                     </span>
                     <span class="text-xs bg-purple-500/20 text-purple-300 border border-purple-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap hidden md:inline-flex">
                         <i class="fa-regular fa-calendar-check text-[10px]"></i> <span data-i18n="header_updated">Updated: 2026-10-30</span>
@@ -1497,10 +1497,42 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                         <p class="text-xs text-slate-400 mt-0.5" data-i18n="insights_header_subtitle">Structured qualitative and quantitative research notes covering AI, Defense, Semiconductors, Hardware OpEx, and Operating Leverage</p>
                     </div>
                     
-                    <!-- Search & Filter Controls -->
-                    <div class="flex flex-wrap items-center gap-2">
+                    <!-- Search & Archive Pickers Console -->
+                    <div class="flex flex-wrap items-center gap-2.5">
+                        <!-- Archive Edition / Date Filter Dropdown -->
+                        <div class="flex items-center gap-1.5 bg-slate-900/90 border border-slate-700 rounded-lg px-2.5 py-1">
+                            <i class="fa-solid fa-clock-rotate-left text-amber-400 text-xs"></i>
+                            <span class="text-[11px] font-semibold text-slate-400" data-i18n="insights_filter_edition_label">Edition:</span>
+                            <select id="insightsEditionSelect" class="bg-transparent text-xs text-slate-200 focus:outline-none cursor-pointer pr-1 font-medium">
+                                <option value="ALL" data-i18n="insights_filter_edition_all">📅 All Archive Editions (全部歷次發布 · 8篇)</option>
+                                <option value="2026-10-30" data-i18n="insights_filter_edition_2026_10">🔥 2026-10-30: 2026 Q3 CapEx Supercycle & Data Verification (Latest)</option>
+                                <option value="2026-09-06" data-i18n="insights_filter_edition_2026_09_06">📁 2026-09-06: Q2 Semi, Hardware & Cloud Infrastructure (6 Notes)</option>
+                                <option value="2026-09-02" data-i18n="insights_filter_edition_2026_09_02">📁 2026-09-02: Frontier AI & Defense Systems Blueprint (1 Note)</option>
+                            </select>
+                        </div>
+
+                        <!-- Company / Ticker Quick Filter Dropdown -->
+                        <div class="flex items-center gap-1.5 bg-slate-900/90 border border-slate-700 rounded-lg px-2.5 py-1">
+                            <i class="fa-solid fa-building text-sky-400 text-xs"></i>
+                            <span class="text-[11px] font-semibold text-slate-400" data-i18n="insights_filter_company_label">Company:</span>
+                            <select id="insightsCompanyFilter" class="bg-transparent text-xs text-slate-200 focus:outline-none cursor-pointer pr-1 font-medium">
+                                <option value="ALL">🏢 All Companies (全部企業)</option>
+                                <option value="googl">Alphabet / Google (GOOGL)</option>
+                                <option value="msft">Microsoft (MSFT)</option>
+                                <option value="nvda">NVIDIA (NVDA)</option>
+                                <option value="tsmc">TSMC (2330.TW)</option>
+                                <option value="pltr">Palantir (PLTR)</option>
+                                <option value="meta">Meta (META)</option>
+                                <option value="amzn">Amazon (AMZN)</option>
+                                <option value="quanta">Quanta / Wiwynn (ODM)</option>
+                                <option value="asml">ASML / Applied Materials</option>
+                                <option value="advtest">Advantest / Teradyne</option>
+                            </select>
+                        </div>
+
+                        <!-- Search Input -->
                         <div class="relative">
-                            <input type="text" id="insightsSearchInput" placeholder="Search notes..." class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-amber-500 w-48 sm:w-64 pl-8" data-i18n-placeholder="insights_search_placeholder">
+                            <input type="text" id="insightsSearchInput" placeholder="Search notes..." class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-amber-500 w-44 sm:w-56 pl-8" data-i18n-placeholder="insights_search_placeholder">
                             <i class="fa-solid fa-magnifying-glass absolute left-2.5 top-2.5 text-slate-500 text-xs"></i>
                         </div>
                     </div>
@@ -1509,15 +1541,231 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
                 <!-- Category Pills -->
                 <div class="flex flex-wrap items-center gap-2" id="insightsCategoryPills">
                     <button type="button" data-category="ALL" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-semibold transition-all bg-amber-500 text-slate-900 shadow" data-i18n="insights_filter_all">All Research Notes</button>
-                    <button type="button" data-category="AI_DEFENSE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_ai_defense">🤖 Frontier AI & Defense</button>
-                    <button type="button" data-category="FOUNDRY" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_foundry">⚡ Foundry & IDM</button>
-                    <button type="button" data-category="FABLESS" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_fabless">🧠 Fabless & IC Design</button>
-                    <button type="button" data-category="EQUIPMENT" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_equipment">🔬 Fab Equipment & Materials</button>
-                    <button type="button" data-category="TESTING" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_testing">🧪 Testing, ATE & OSAT</button>
-                    <button type="button" data-category="HARDWARE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hardware">💻 System OEMs & AI Hardware</button>
-                    <button type="button" data-category="HYPERSCALE" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hyperscale">☁️ Hyperscalers & Enterprise Cloud</button>
+                    <button type="button" data-category="AI_DEFENSE" data-date="2026-09-02" data-period="2026 Q2" data-tickers="pltr,anduril,shield-ai,anthropic,chatgpt,ondas" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_ai_defense">🤖 Frontier AI & Defense</button>
+                    <button type="button" data-category="FOUNDRY" data-date="2026-09-06" data-period="2026 Q2" data-tickers="tsmc,intc,samsung,umc,psmc,vis" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_foundry">⚡ Foundry & IDM</button>
+                    <button type="button" data-category="FABLESS" data-date="2026-09-06" data-period="2026 Q2" data-tickers="nvda,amd,mediatek,qcom,arm,avgo,mrvl" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_fabless">🧠 Fabless & IC Design</button>
+                    <button type="button" data-category="EQUIPMENT" data-date="2026-09-06" data-period="2026 Q2" data-tickers="asml,amat,lrcx,klac,air-liquide,lin,merck-kgaa,shin-etsu,sumco" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_equipment">🔬 Fab Equipment & Materials</button>
+                    <button type="button" data-category="TESTING" data-date="2026-09-06" data-period="2026 Q2" data-tickers="advtest,ter,ase,ma-tek" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_testing">🧪 Testing, ATE & OSAT</button>
+                    <button type="button" data-category="HARDWARE" data-date="2026-09-06" data-period="2026 Q2" data-tickers="quanta,wistron,foxconn,pegatron,asus,delta" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hardware">💻 System OEMs & AI Hardware</button>
+                    <button type="button" data-category="HYPERSCALE" data-date="2026-09-06" data-period="2026 Q2" data-tickers="msft,amzn,googl,meta,oracle" class="insights-cat-btn px-3 py-1 text-xs rounded-lg font-medium transition-all bg-slate-900 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700" data-i18n="insights_filter_hyperscale">☁️ Hyperscalers & Enterprise Cloud</button>
                 </div>
             </section>
+
+            <!-- Research Note Card 0: 2026 Q3 Hyperscaler AI CapEx Supercycle & Free Cash Flow Paradox -->
+            <article class="insights-note-card bg-slate-800/80 border border-amber-500/40 rounded-2xl p-6 shadow-xl space-y-5" data-category="HYPERSCALE" data-date="2026-10-30" data-period="2026 Q3" data-tickers="googl,msft,amzn,meta,nvda,tsmc,pltr">
+                <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
+                    <div class="space-y-1">
+                        <div class="flex items-center gap-2 flex-wrap">
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30 flex items-center gap-1">
+                                <i class="fa-solid fa-bolt text-amber-400"></i> LATEST Q3 STRATEGIC NOTE
+                            </span>
+                            <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-purple-500/20 text-purple-300 border border-purple-500/30">HYPERSCALER & AI INFRASTRUCTURE</span>
+                            <span class="text-xs text-slate-400 font-mono"><i class="fa-regular fa-calendar-check text-slate-400 mr-1"></i>Date: 2026-10-30 (2026 Q3 Edition)</span>
+                            <span class="px-2 py-0.5 rounded text-[10px] font-semibold bg-sky-500/20 text-sky-300 border border-sky-500/30">Tickers: GOOGL, MSFT, AMZN, META, NVDA, TSMC</span>
+                        </div>
+                        <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                            <span>☁️ 2026 Q3 超大規模雲端巨頭「萬億資本開支 (CapEx Supercycle) vs. 自由現金流轉負悖論」與「三層數據鏈 (PDF ➔ MD ➔ JSON) 實體審計」深度戰略研判</span>
+                        </h3>
+                    </div>
+                    <button class="copy-single-note-btn text-xs bg-slate-700 hover:bg-slate-600 px-3 py-1.5 rounded-lg text-slate-200 transition-all flex items-center gap-1.5 border border-slate-600">
+                        <i class="fa-regular fa-copy text-amber-400"></i>
+                        <span data-i18n="btn_copy_note_md">Copy Note Markdown</span>
+                    </button>
+                </div>
+
+                <!-- Executive Summary & Math Formula -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-amber-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-fire"></i> 2026 Q3 現金流轉負拐點 (The Negative FCF Inflection)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            以 Alphabet (Google) 2026 Q3 法定 Form 10-Q 為基準，單季營收衝上 <strong class="text-white font-mono">$127,577M (1,275.8億美元, YoY +25%)</strong>，營業利益高達 <strong class="text-white font-mono">$40,576M (405.8億美元, 營益率 31.8%)</strong>。然而單季資本支出暴衝至創紀錄的 <strong class="text-rose-400 font-mono">$51,300M (YoY +114%)</strong>，直接使自由現金流由正轉負達到 <strong class="text-rose-400 font-mono">-$9,000M (-90億美元)</strong>！
+                        </p>
+                        <div class="bg-slate-950 p-2.5 rounded-lg font-mono text-[11px] text-amber-300 border border-slate-800 space-y-1">
+                            <div>營業現金流 (OCF) = $42,300M</div>
+                            <div>資本支出 (CapEx) = $51,300M (佔營收 40.2%)</div>
+                            <div class="text-rose-400 font-bold">自由現金流 (FCF) = OCF - CapEx = -$9,000M (-7.1% FCF Margin)</div>
+                        </div>
+                    </div>
+
+                    <div class="bg-slate-900/80 p-4 rounded-xl border border-slate-700/60 space-y-2">
+                        <div class="text-xs font-bold text-sky-400 uppercase tracking-wider flex items-center gap-1.5">
+                            <i class="fa-solid fa-chart-line"></i> 業務板塊動能與 AI 變現結構 (Segments Growth)
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            資本密集度雖創新高，但各板塊商業變現已展現強大營運槓桿：<strong class="text-white">Google Cloud</strong> 營收暴增 <strong class="text-emerald-400 font-mono">+103% 至 $30.7B</strong>，單季雲端營業利益暴增 <strong class="text-emerald-400 font-mono">+217% 至 $6.8B</strong>，雲端營益率從去年的 3% 躍升至 22.1%！
+                        </p>
+                        <ul class="text-[11px] text-slate-300 space-y-1 list-disc list-inside">
+                            <li><strong class="text-white">Google 搜尋 (Search)</strong>：$63.35B (YoY +12%)，AI Overviews 廣告點擊與 CPC 穩健成長。</li>
+                            <li><strong class="text-white">Google 雲端 (Cloud)</strong>：$30.70B (YoY +103%)，Vertex AI 與企業級 Gemini 需求爆發。</li>
+                            <li><strong class="text-white">YouTube 影音廣告</strong>：$11.20B (YoY +9%)，Shorts 變現率大幅提升。</li>
+                            <li><strong class="text-white">訂閱、平台與硬體</strong>：$14.33B (YoY +11%)，Pixel 9 與 Gemini Advanced 訂閱增長。</li>
+                            <li><strong class="text-white">Google Network</strong>：$7.45B (YoY +1%)，傳統聯播網趨於穩定。</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Quantitative Financial Benchmark Table (2026 Q3 Flash Benchmark) -->
+                <div class="space-y-2">
+                    <h4 class="text-xs font-bold text-slate-200 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-table-cells text-amber-400"></i> 2026 Q3 全球 AI 算力與雲端巨頭資本支出與現金流對標矩陣 (USD $B)
+                    </h4>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-xs text-left border-collapse border border-slate-700 rounded-lg overflow-hidden">
+                            <thead class="bg-slate-900 text-slate-300 font-semibold border-b border-slate-700">
+                                <tr>
+                                    <th class="py-2 px-3 border border-slate-700">企業實體</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">單季營收 ($B)</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">營收 YoY</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">資本支出 ($B)</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">CapEx / 營收 %</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">自由現金流 ($B)</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">FCF 佔比 %</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">雲端/AI 營益率</th>
+                                    <th class="py-2 px-3 border border-slate-700 text-right">人均營收 ($K)</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-700/60 text-slate-300">
+                                <tr class="bg-slate-900/40 hover:bg-slate-750">
+                                    <td class="py-2 px-3 font-bold text-white border border-slate-700 flex items-center gap-1.5">
+                                        <span class="w-2 h-2 rounded-full bg-blue-400"></span> Alphabet (GOOGL)
+                                    </td>
+                                    <td class="py-2 px-3 text-right font-mono text-white border border-slate-700">$127.6</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+25.0%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-300 border border-slate-700">$51.3</td>
+                                    <td class="py-2 px-3 text-right font-mono text-amber-300 border border-slate-700">40.2%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-400 font-bold border border-slate-700">-$9.0</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-400 border border-slate-700">-7.1%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">22.1% (Cloud)</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-300 border border-slate-700">$704.8</td>
+                                </tr>
+                                <tr class="hover:bg-slate-750">
+                                    <td class="py-2 px-3 font-bold text-white border border-slate-700 flex items-center gap-1.5">
+                                        <span class="w-2 h-2 rounded-full bg-sky-400"></span> Microsoft (MSFT)
+                                    </td>
+                                    <td class="py-2 px-3 text-right font-mono text-white border border-slate-700">$72.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+16.2%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-300 border border-slate-700">$24.8</td>
+                                    <td class="py-2 px-3 text-right font-mono text-amber-300 border border-slate-700">34.2%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+$12.1</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">+16.7%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">44.0% (Azure)</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-300 border border-slate-700">$318.0</td>
+                                </tr>
+                                <tr class="bg-slate-900/40 hover:bg-slate-750">
+                                    <td class="py-2 px-3 font-bold text-white border border-slate-700 flex items-center gap-1.5">
+                                        <span class="w-2 h-2 rounded-full bg-amber-400"></span> Amazon (AMZN)
+                                    </td>
+                                    <td class="py-2 px-3 text-right font-mono text-white border border-slate-700">$168.0</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+13.4%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-300 border border-slate-700">$21.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-amber-300 border border-slate-700">12.8%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+$8.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">+5.1%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">38.5% (AWS)</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-300 border border-slate-700">$110.5</td>
+                                </tr>
+                                <tr class="hover:bg-slate-750">
+                                    <td class="py-2 px-3 font-bold text-white border border-slate-700 flex items-center gap-1.5">
+                                        <span class="w-2 h-2 rounded-full bg-indigo-400"></span> Meta (META)
+                                    </td>
+                                    <td class="py-2 px-3 text-right font-mono text-white border border-slate-700">$48.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+21.3%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-300 border border-slate-700">$15.2</td>
+                                    <td class="py-2 px-3 text-right font-mono text-amber-300 border border-slate-700">31.3%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+$11.3</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">+23.3%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-400 border border-slate-700">42.8% (FoA)</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-300 border border-slate-700">$713.2</td>
+                                </tr>
+                                <tr class="bg-slate-900/40 hover:bg-slate-750">
+                                    <td class="py-2 px-3 font-bold text-white border border-slate-700 flex items-center gap-1.5">
+                                        <span class="w-2 h-2 rounded-full bg-emerald-400"></span> NVIDIA (NVDA)
+                                    </td>
+                                    <td class="py-2 px-3 text-right font-mono text-white border border-slate-700">$45.0</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+94.0%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-300 border border-slate-700">$1.2</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">2.7%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 font-bold border border-slate-700">+$24.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 font-bold border border-slate-700">+54.4%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">62.0% (Corp)</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 font-bold border border-slate-700">$1,515.0</td>
+                                </tr>
+                                <tr class="hover:bg-slate-750">
+                                    <td class="py-2 px-3 font-bold text-white border border-slate-700 flex items-center gap-1.5">
+                                        <span class="w-2 h-2 rounded-full bg-teal-400"></span> TSMC (2330.TW)
+                                    </td>
+                                    <td class="py-2 px-3 text-right font-mono text-white border border-slate-700">$23.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+36.0%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-rose-300 border border-slate-700">$7.5</td>
+                                    <td class="py-2 px-3 text-right font-mono text-amber-300 border border-slate-700">31.9%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-400 border border-slate-700">+$6.8</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">+28.9%</td>
+                                    <td class="py-2 px-3 text-right font-mono text-emerald-300 border border-slate-700">47.5% (Corp)</td>
+                                    <td class="py-2 px-3 text-right font-mono text-slate-300 border border-slate-700">$308.0</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Deep Structural Drivers & US GAAP Accounting Mechanisms -->
+                <div class="space-y-3">
+                    <h4 class="text-xs font-bold text-slate-200 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-gears text-purple-400"></i> 三大核心驅動因子與 US GAAP / IFRS 會計機制深度剖析
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/50 space-y-1.5">
+                            <div class="text-xs font-bold text-amber-300 flex items-center gap-1">
+                                <span>1. 伺服器折舊年限「會計緩衝區」</span>
+                            </div>
+                            <p class="text-[11px] text-slate-300 leading-relaxed">
+                                雲端巨頭多數於 2023–2024 年將通用伺服器折舊年限由 4 年延長至 6 年（每年省下約 $30億~$40億美元折舊費，推升帳面毛利）。但 <strong>AI 晶片 (H100/B200/TPU)</strong> 面臨 3 年高熱功耗與快速迭代淘汰，2026–2027 年將迎來折舊加速波峰，考驗營益率耐受力。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/50 space-y-1.5">
+                            <div class="text-xs font-bold text-emerald-300 flex items-center gap-1">
+                                <span>2. ASC 730 預訓練研發 vs. ASC 360 資本化</span>
+                            </div>
+                            <p class="text-[11px] text-slate-300 leading-relaxed">
+                                根據美國 GAAP 準則，前沿基礎模型 (Gemini 2.5 / GPT-5) 預訓練算力消耗屬探索性研發，<strong>必須全數列為當期研發費用 (OpEx)</strong>，壓抑會計淨利；而對外租賃之企業推論叢集則資本化為資產 (CapEx)，導致帳面營業利潤強勁而自由現金流轉負的結構性背離。
+                            </p>
+                        </div>
+                        <div class="bg-slate-900/60 p-3.5 rounded-xl border border-slate-700/50 space-y-1.5">
+                            <div class="text-xs font-bold text-sky-300 flex items-center gap-1">
+                                <span>3. 三層數據防偽鏈路 (PDF ➔ MD ➔ JSON)</span>
+                            </div>
+                            <p class="text-[11px] text-slate-300 leading-relaxed">
+                                嚴格防範自動化採集在 SEC Form 10-Q 比較期別產生的「左欄去年同期 vs. 右欄當期」欄位漂移，落實 <strong>Layer 1 原生 PDF 實體標頭審查、Layer 2 結構化 Markdown 逐行對標、Layer 3 恆等式與四季年化檢核</strong>，杜絕模型幻覺與人為捏造。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategic Transition Roadmap -->
+                <div class="bg-gradient-to-r from-slate-900 via-slate-850 to-slate-900 p-4 rounded-xl border border-slate-700 space-y-2">
+                    <h4 class="text-xs font-bold text-amber-400 uppercase tracking-wider flex items-center gap-1.5">
+                        <i class="fa-solid fa-route"></i> 超大規模雲端巨頭資本配置與自由現金流三階段路徑圖
+                    </h4>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-3 text-slate-300 text-[11px]">
+                        <div class="space-y-1 border-l-2 border-rose-500 pl-3">
+                            <div class="font-bold text-rose-300">階段一：基礎設施圈地期 (2024–2026 現階段)</div>
+                            <p class="text-slate-400">全力綁定水冷資料中心機房、核電/綠電購電協議 (PPA) 與自研 TPU/ASIC 產能，CapEx 佔比突破 35%~40%，自由現金流轉負承壓。</p>
+                        </div>
+                        <div class="space-y-1 border-l-2 border-amber-500 pl-3">
+                            <div class="font-bold text-amber-300">階段二：折舊消化與營運槓桿期 (2026–2027)</div>
+                            <p class="text-slate-400">數千億美元資產陸續轉入折舊費用 (D&A)，考驗企業端 AI API 呼叫量與垂直 Agent 軟體毛利率，預期營業利益率將經歷 200~300 bps 之短暫震盪。</p>
+                        </div>
+                        <div class="space-y-1 border-l-2 border-emerald-500 pl-3">
+                            <div class="font-bold text-emerald-300">階段三：百億 ARR 自由現金流再爆發 (2028+)</div>
+                            <p class="text-slate-400">企業級自主 Coding Agent 與端到端營運系統全面滲透，AI 軟體年經常性收入 (ARR) 突破千億美元，資本支出增速放緩至 10% 以下，自由現金流再度井噴創歷史新高。</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+
 
             <!-- Research Note Card 1: AI & Defense Operating Margins Deep Dive -->
             <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="AI_DEFENSE">
@@ -3443,7 +3691,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             <div class="px-6 py-3 bg-slate-850 border-t border-slate-700 flex items-center justify-between">
                 <span class="text-[11px] text-slate-400 font-mono flex items-center gap-1.5">
                     <i class="fa-regular fa-calendar-check text-purple-400"></i>
-                    <span data-i18n="header_updated">Updated: 2026-10-30</span> (v3.16.0)
+                    <span data-i18n="header_updated">Updated: 2026-10-30</span> (v3.17.0)
                 </span>
                 <button id="closeHelpModalFooterBtn" class="bg-slate-700 hover:bg-slate-600 text-white px-4 py-1.5 rounded-xl text-xs font-semibold transition-colors">
                     Close Guide
@@ -4602,6 +4850,13 @@ const I18N_DICT = {
         insights_filter_hardware: "💻 System OEMs & AI Hardware",
         insights_filter_hyperscale: "☁️ Hyperscalers & Enterprise Cloud",
         insights_search_placeholder: "Search notes by keyword (e.g. TSMC, NVIDIA, Wiwynn, operating margin, R&D, Palantir)...",
+        insights_filter_edition_label: "Edition:",
+        insights_filter_company_label: "Company:",
+        insights_select_edition: "Archive Edition:",
+        insights_filter_edition_all: "📅 All Archive Editions (8 Notes)",
+        insights_filter_edition_2026_10: "🔥 2026-10-30: 2026 Q3 CapEx Supercycle & Data Verification (Latest)",
+        insights_filter_edition_2026_09_06: "📁 2026-09-06: Q2 Semi, Hardware & Cloud Infrastructure (6 Notes)",
+        insights_filter_edition_2026_09_02: "📁 2026-09-02: Frontier AI & Defense Systems Blueprint (1 Note)",
         btn_copy_note_md: "Copy Note Markdown",
         panel_title: "One-Click Automated Workflow Console",
         panel_subtitle: "Supports URL or Ticker (e.g. ASML, TSMC, NVDA, NXP, VSH)",
@@ -4775,6 +5030,13 @@ const I18N_DICT = {
         insights_filter_hardware: "💻 伺服器代工與硬體系統",
         insights_filter_hyperscale: "☁️ 雲端巨頭與企業軟體",
         insights_search_placeholder: "搜尋筆記關鍵字 (例如：台積電, NVIDIA, 廣達, 緯穎, 測試, 資本支出, Palantir)...",
+        insights_filter_edition_label: "期別：",
+        insights_filter_company_label: "企業：",
+        insights_select_edition: "歷史期別：",
+        insights_filter_edition_all: "📅 全部歷次發布（8 篇深度研報）",
+        insights_filter_edition_2026_10: "🔥 2026-10-30：2026 Q3 萬億資本開支與三層數據鏈審計（最新）",
+        insights_filter_edition_2026_09_06: "📁 2026-09-06：Q2 半導體、硬體與雲端巨頭（6 篇）",
+        insights_filter_edition_2026_09_02: "📁 2026-09-02：前沿 AI 與國防軍工架構（1 篇）",
         btn_copy_note_md: "複製 Markdown 筆記",
         panel_title: "一步到位全自動工作流控制台",
         panel_subtitle: "支援直接輸入網址或公司代碼 (如 ASML, TSMC, NVDA, NXP, VSH)",
@@ -5634,6 +5896,8 @@ function setupTabs() {
 
 function setupInsightsTab() {
     const searchInput = document.getElementById("insightsSearchInput");
+    const editionSelect = document.getElementById("insightsEditionSelect");
+    const companyFilter = document.getElementById("insightsCompanyFilter");
     const catButtons = document.querySelectorAll(".insights-cat-btn");
     const noteCards = document.querySelectorAll(".insights-note-card");
 
@@ -5641,12 +5905,21 @@ function setupInsightsTab() {
 
     const filterNotes = () => {
         const query = (searchInput ? searchInput.value : "").trim().toLowerCase();
+        const activeEdition = editionSelect ? editionSelect.value : "ALL";
+        const activeCompany = companyFilter ? companyFilter.value.toLowerCase() : "ALL";
+
         noteCards.forEach(card => {
             const cardCat = card.getAttribute("data-category") || "";
+            const cardDate = card.getAttribute("data-date") || "";
+            const cardTickers = (card.getAttribute("data-tickers") || "").toLowerCase().split(",");
             const cardText = card.textContent.toLowerCase();
-            const matchCat = activeCategory === "ALL" || cardCat === activeCategory;
+
+            const matchCat = (activeCategory === "ALL" || cardCat === activeCategory);
+            const matchEdition = (activeEdition === "ALL" || cardDate === activeEdition);
+            const matchCompany = (activeCompany === "ALL" || cardTickers.includes(activeCompany) || cardText.includes(activeCompany));
             const matchQuery = !query || cardText.includes(query);
-            card.style.display = (matchCat && matchQuery) ? "block" : "none";
+
+            card.style.display = (matchCat && matchEdition && matchCompany && matchQuery) ? "block" : "none";
         });
     };
 
@@ -5661,6 +5934,12 @@ function setupInsightsTab() {
         });
     });
 
+    if (editionSelect) {
+        editionSelect.addEventListener("change", filterNotes);
+    }
+    if (companyFilter) {
+        companyFilter.addEventListener("change", filterNotes);
+    }
     if (searchInput) {
         searchInput.addEventListener("input", filterNotes);
     }

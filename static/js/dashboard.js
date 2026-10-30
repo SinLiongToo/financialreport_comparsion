@@ -1134,6 +1134,13 @@ const I18N_DICT = {
         insights_filter_hardware: "💻 System OEMs & AI Hardware",
         insights_filter_hyperscale: "☁️ Hyperscalers & Enterprise Cloud",
         insights_search_placeholder: "Search notes by keyword (e.g. TSMC, NVIDIA, Wiwynn, operating margin, R&D, Palantir)...",
+        insights_filter_edition_label: "Edition:",
+        insights_filter_company_label: "Company:",
+        insights_select_edition: "Archive Edition:",
+        insights_filter_edition_all: "📅 All Archive Editions (8 Notes)",
+        insights_filter_edition_2026_10: "🔥 2026-10-30: 2026 Q3 CapEx Supercycle & Data Verification (Latest)",
+        insights_filter_edition_2026_09_06: "📁 2026-09-06: Q2 Semi, Hardware & Cloud Infrastructure (6 Notes)",
+        insights_filter_edition_2026_09_02: "📁 2026-09-02: Frontier AI & Defense Systems Blueprint (1 Note)",
         btn_copy_note_md: "Copy Note Markdown",
         panel_title: "One-Click Automated Workflow Console",
         panel_subtitle: "Supports URL or Ticker (e.g. ASML, TSMC, NVDA, NXP, VSH)",
@@ -1307,6 +1314,13 @@ const I18N_DICT = {
         insights_filter_hardware: "💻 伺服器代工與硬體系統",
         insights_filter_hyperscale: "☁️ 雲端巨頭與企業軟體",
         insights_search_placeholder: "搜尋筆記關鍵字 (例如：台積電, NVIDIA, 廣達, 緯穎, 測試, 資本支出, Palantir)...",
+        insights_filter_edition_label: "期別：",
+        insights_filter_company_label: "企業：",
+        insights_select_edition: "歷史期別：",
+        insights_filter_edition_all: "📅 全部歷次發布（8 篇深度研報）",
+        insights_filter_edition_2026_10: "🔥 2026-10-30：2026 Q3 萬億資本開支與三層數據鏈審計（最新）",
+        insights_filter_edition_2026_09_06: "📁 2026-09-06：Q2 半導體、硬體與雲端巨頭（6 篇）",
+        insights_filter_edition_2026_09_02: "📁 2026-09-02：前沿 AI 與國防軍工架構（1 篇）",
         btn_copy_note_md: "複製 Markdown 筆記",
         panel_title: "一步到位全自動工作流控制台",
         panel_subtitle: "支援直接輸入網址或公司代碼 (如 ASML, TSMC, NVDA, NXP, VSH)",
@@ -2166,6 +2180,8 @@ function setupTabs() {
 
 function setupInsightsTab() {
     const searchInput = document.getElementById("insightsSearchInput");
+    const editionSelect = document.getElementById("insightsEditionSelect");
+    const companyFilter = document.getElementById("insightsCompanyFilter");
     const catButtons = document.querySelectorAll(".insights-cat-btn");
     const noteCards = document.querySelectorAll(".insights-note-card");
 
@@ -2173,12 +2189,21 @@ function setupInsightsTab() {
 
     const filterNotes = () => {
         const query = (searchInput ? searchInput.value : "").trim().toLowerCase();
+        const activeEdition = editionSelect ? editionSelect.value : "ALL";
+        const activeCompany = companyFilter ? companyFilter.value.toLowerCase() : "ALL";
+
         noteCards.forEach(card => {
             const cardCat = card.getAttribute("data-category") || "";
+            const cardDate = card.getAttribute("data-date") || "";
+            const cardTickers = (card.getAttribute("data-tickers") || "").toLowerCase().split(",");
             const cardText = card.textContent.toLowerCase();
-            const matchCat = activeCategory === "ALL" || cardCat === activeCategory;
+
+            const matchCat = (activeCategory === "ALL" || cardCat === activeCategory);
+            const matchEdition = (activeEdition === "ALL" || cardDate === activeEdition);
+            const matchCompany = (activeCompany === "ALL" || cardTickers.includes(activeCompany) || cardText.includes(activeCompany));
             const matchQuery = !query || cardText.includes(query);
-            card.style.display = (matchCat && matchQuery) ? "block" : "none";
+
+            card.style.display = (matchCat && matchEdition && matchCompany && matchQuery) ? "block" : "none";
         });
     };
 
@@ -2193,6 +2218,12 @@ function setupInsightsTab() {
         });
     });
 
+    if (editionSelect) {
+        editionSelect.addEventListener("change", filterNotes);
+    }
+    if (companyFilter) {
+        companyFilter.addEventListener("change", filterNotes);
+    }
     if (searchInput) {
         searchInput.addEventListener("input", filterNotes);
     }
