@@ -2189,22 +2189,37 @@ function setupInsightsTab() {
 
     const filterNotes = () => {
         const query = (searchInput ? searchInput.value : "").trim().toLowerCase();
-        const activeEdition = editionSelect ? editionSelect.value : "ALL";
-        const activeCompany = companyFilter ? companyFilter.value.toLowerCase() : "ALL";
+        const activeEdition = (editionSelect ? editionSelect.value : "ALL").trim();
+        const activeCompany = (companyFilter ? companyFilter.value : "ALL").trim().toLowerCase();
 
+        let visibleCount = 0;
         noteCards.forEach(card => {
-            const cardCat = card.getAttribute("data-category") || "";
-            const cardDate = card.getAttribute("data-date") || "";
-            const cardTickers = (card.getAttribute("data-tickers") || "").toLowerCase().split(",");
+            const cardCat = (card.getAttribute("data-category") || "").toUpperCase();
+            const cardDate = (card.getAttribute("data-date") || "").trim();
+            const cardTickers = (card.getAttribute("data-tickers") || "").toLowerCase().split(",").map(t => t.trim());
             const cardText = card.textContent.toLowerCase();
 
+            // Match Category: "ALL" matches all, or specific category
             const matchCat = (activeCategory === "ALL" || cardCat === activeCategory);
+
+            // Match Edition: "ALL" matches all, or exact date match
             const matchEdition = (activeEdition === "ALL" || cardDate === activeEdition);
-            const matchCompany = (activeCompany === "ALL" || cardTickers.includes(activeCompany) || cardText.includes(activeCompany));
+
+            // Match Company: "all" matches all, or ticker in list, or text mentions company
+            const matchCompany = (activeCompany === "all" || cardTickers.includes(activeCompany) || cardText.includes(activeCompany));
+
+            // Match Search Query
             const matchQuery = !query || cardText.includes(query);
 
-            card.style.display = (matchCat && matchEdition && matchCompany && matchQuery) ? "block" : "none";
+            const isVisible = (matchCat && matchEdition && matchCompany && matchQuery);
+            card.style.display = isVisible ? "block" : "none";
+            if (isVisible) visibleCount++;
         });
+
+        const noMatchMsg = document.getElementById("insightsNoMatchMessage");
+        if (noMatchMsg) {
+            noMatchMsg.style.display = (visibleCount === 0) ? "block" : "none";
+        }
     };
 
     catButtons.forEach(btn => {

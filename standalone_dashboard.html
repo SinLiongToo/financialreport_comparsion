@@ -1768,7 +1768,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
 
 
             <!-- Research Note Card 1: AI & Defense Operating Margins Deep Dive -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="AI_DEFENSE">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="AI_DEFENSE" data-date="2026-09-02" data-period="2026 Q2" data-tickers="pltr,anduril,shield-ai,anthropic,chatgpt,ondas">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -1946,7 +1946,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </article>
 
             <!-- Research Note Card 2: Foundry & IDM Operating Leverage & CapEx Depreciation -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="FOUNDRY">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="FOUNDRY" data-date="2026-09-06" data-period="2026 Q2" data-tickers="tsmc,intc,samsung,umc,psmc,vis">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -2123,7 +2123,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </article>
 
             <!-- Research Note Card 3: Fabless & IC Design Operating Leverage -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="FABLESS">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="FABLESS" data-date="2026-09-06" data-period="2026 Q2" data-tickers="nvda,amd,mediatek,qcom,arm,avgo,mrvl">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -2300,7 +2300,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </article>
 
             <!-- Research Note Card 4: Fab Equipment & Materials Monopoly -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="EQUIPMENT">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="EQUIPMENT" data-date="2026-09-06" data-period="2026 Q2" data-tickers="asml,amat,lrcx,klac,air-liquide,lin,merck-kgaa,shin-etsu,sumco">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -2488,7 +2488,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </article>
 
             <!-- Research Note Card 5: Testing, ATE & OSAT Scaling -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="TESTING">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="TESTING" data-date="2026-09-06" data-period="2026 Q2" data-tickers="advtest,ter,ase,ma-tek">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -2665,7 +2665,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </article>
 
             <!-- Research Note Card 6: Hardware OEMs & ODMs Value-vs-Volume Paradox -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="HARDWARE">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="HARDWARE" data-date="2026-09-06" data-period="2026 Q2" data-tickers="quanta,wistron,foxconn,pegatron,asus,delta">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -2853,7 +2853,7 @@ body.light-theme #financeQuotesMarqueeContainer .text-slate-400:hover {
             </article>
 
             <!-- Research Note Card 7: Hyperscalers Cloud CapEx & Software Cash Flow -->
-            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="HYPERSCALE">
+            <article class="insights-note-card bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl space-y-5" data-category="HYPERSCALE" data-date="2026-09-06" data-period="2026 Q2" data-tickers="msft,amzn,googl,meta,oracle">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700/80 pb-3 gap-2">
                     <div class="space-y-1">
                         <div class="flex items-center gap-2">
@@ -5905,22 +5905,37 @@ function setupInsightsTab() {
 
     const filterNotes = () => {
         const query = (searchInput ? searchInput.value : "").trim().toLowerCase();
-        const activeEdition = editionSelect ? editionSelect.value : "ALL";
-        const activeCompany = companyFilter ? companyFilter.value.toLowerCase() : "ALL";
+        const activeEdition = (editionSelect ? editionSelect.value : "ALL").trim();
+        const activeCompany = (companyFilter ? companyFilter.value : "ALL").trim().toLowerCase();
 
+        let visibleCount = 0;
         noteCards.forEach(card => {
-            const cardCat = card.getAttribute("data-category") || "";
-            const cardDate = card.getAttribute("data-date") || "";
-            const cardTickers = (card.getAttribute("data-tickers") || "").toLowerCase().split(",");
+            const cardCat = (card.getAttribute("data-category") || "").toUpperCase();
+            const cardDate = (card.getAttribute("data-date") || "").trim();
+            const cardTickers = (card.getAttribute("data-tickers") || "").toLowerCase().split(",").map(t => t.trim());
             const cardText = card.textContent.toLowerCase();
 
+            // Match Category: "ALL" matches all, or specific category
             const matchCat = (activeCategory === "ALL" || cardCat === activeCategory);
+
+            // Match Edition: "ALL" matches all, or exact date match
             const matchEdition = (activeEdition === "ALL" || cardDate === activeEdition);
-            const matchCompany = (activeCompany === "ALL" || cardTickers.includes(activeCompany) || cardText.includes(activeCompany));
+
+            // Match Company: "all" matches all, or ticker in list, or text mentions company
+            const matchCompany = (activeCompany === "all" || cardTickers.includes(activeCompany) || cardText.includes(activeCompany));
+
+            // Match Search Query
             const matchQuery = !query || cardText.includes(query);
 
-            card.style.display = (matchCat && matchEdition && matchCompany && matchQuery) ? "block" : "none";
+            const isVisible = (matchCat && matchEdition && matchCompany && matchQuery);
+            card.style.display = isVisible ? "block" : "none";
+            if (isVisible) visibleCount++;
         });
+
+        const noMatchMsg = document.getElementById("insightsNoMatchMessage");
+        if (noMatchMsg) {
+            noMatchMsg.style.display = (visibleCount === 0) ? "block" : "none";
+        }
     };
 
     catButtons.forEach(btn => {
