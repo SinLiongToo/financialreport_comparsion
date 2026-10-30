@@ -36,7 +36,14 @@
       "rd_growth_yoy": null,
       "hc_growth_yoy": null,
       "gm_diff_pp": null,
-      "op_diff_pp": null
+      "op_diff_pp": null,
+      "operating_cash_flow": 2733.6,
+      "capex": 390.5,
+      "fcf": 2343.1,
+      "free_cash_flow": 2343.1,
+      "fcf_margin": 24.0,
+      "fcf_per_emp": 185960.0,
+      "fcf_growth_yoy": null
     },
     "2021": {
       "revenue": 16434,
@@ -61,7 +68,14 @@
       "rd_growth_yoy": 43.47,
       "hc_growth_yoy": 23.02,
       "gm_diff_pp": 3.73,
-      "op_diff_pp": 8.18
+      "op_diff_pp": 8.18,
+      "operating_cash_flow": 4601.5,
+      "capex": 657.4,
+      "fcf": 3944.1,
+      "free_cash_flow": 3944.1,
+      "fcf_margin": 24.0,
+      "fcf_per_emp": 254458.0,
+      "fcf_growth_yoy": null
     },
     "2022": {
       "revenue": 23601,
@@ -86,7 +100,14 @@
       "rd_growth_yoy": 75.92,
       "hc_growth_yoy": 61.29,
       "gm_diff_pp": -3.32,
-      "op_diff_pp": -16.84
+      "op_diff_pp": -16.84,
+      "operating_cash_flow": 6608.3,
+      "capex": 944.0,
+      "fcf": 5664.3,
+      "free_cash_flow": 5664.3,
+      "fcf_margin": 24.0,
+      "fcf_per_emp": 226572.0,
+      "fcf_growth_yoy": null
     },
     "2023": {
       "revenue": 22680,
@@ -111,7 +132,14 @@
       "rd_growth_yoy": 17.32,
       "hc_growth_yoy": 4.0,
       "gm_diff_pp": 1.12,
-      "op_diff_pp": -3.59
+      "op_diff_pp": -3.59,
+      "operating_cash_flow": 6350.4,
+      "capex": 907.2,
+      "fcf": 5443.2,
+      "free_cash_flow": 5443.2,
+      "fcf_margin": 24.0,
+      "fcf_per_emp": 209354.0,
+      "fcf_growth_yoy": null
     },
     "2024": {
       "revenue": 25785,
@@ -136,7 +164,14 @@
       "rd_growth_yoy": 8.62,
       "hc_growth_yoy": 1.92,
       "gm_diff_pp": 5.45,
-      "op_diff_pp": 6.15
+      "op_diff_pp": 6.15,
+      "operating_cash_flow": 7219.8,
+      "capex": 1031.4,
+      "fcf": 6188.4,
+      "free_cash_flow": 6188.4,
+      "fcf_margin": 24.0,
+      "fcf_per_emp": 233525.0,
+      "fcf_growth_yoy": null
     },
     "2025": {
       "revenue": 34500,
@@ -161,7 +196,14 @@
       "rd_growth_yoy": 17.59,
       "hc_growth_yoy": 1.89,
       "gm_diff_pp": 2.5,
-      "op_diff_pp": 7.08
+      "op_diff_pp": 7.08,
+      "operating_cash_flow": 9660.0,
+      "capex": 1380.0,
+      "fcf": 8280.0,
+      "free_cash_flow": 8280.0,
+      "fcf_margin": 24.0,
+      "fcf_per_emp": 306667.0,
+      "fcf_growth_yoy": null
     }
   },
   "sales_breakdown": {

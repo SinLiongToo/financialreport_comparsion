@@ -100,6 +100,33 @@ const SCATTER_METRICS = {
             return null;
         }
     },
+    fcf_margin: {
+        id: "fcf_margin",
+        label: { en: "FCF Margin %", zh: "自由現金流率 %" },
+        unit: "%",
+        axisTitle: { en: "Free Cash Flow Margin (%)", zh: "自由現金流率 FCF Margin (%)" },
+        format: (v) => `${(v ?? 0).toFixed(2)}%`,
+        getVal: (f) => {
+            if (!f) return null;
+            const fm = safeNum(f.fcf_margin);
+            if (fm != null) return fm;
+            const rev = safeNum(f.revenue);
+            const fcf = safeNum(f.fcf ?? f.free_cash_flow);
+            if (rev != null && rev > 0 && fcf != null) return (fcf / rev) * 100;
+            return null;
+        }
+    },
+    fcf: {
+        id: "fcf",
+        label: { en: "FCF ($M)", zh: "自由現金流 ($M)" },
+        unit: "$M",
+        axisTitle: { en: "Free Cash Flow ($M)", zh: "自由現金流 ($M)" },
+        format: (v) => `$${Math.round(v ?? 0).toLocaleString()}M`,
+        getVal: (f) => {
+            if (!f) return null;
+            return safeNum(f.fcf ?? f.free_cash_flow);
+        }
+    },
     rev_per_emp: {
         id: "rev_per_emp",
         label: { en: "Rev / FTE ($k)", zh: "人均營收 ($k)" },
@@ -1125,6 +1152,12 @@ const I18N_DICT = {
         chart4_title: "Chart 4: R&D Expense & Technology Moat Intensity",
         chart5_title: "Chart 5: Profit vs. Headcount Growth Dynamics (YoY Triangulation)",
         chart6_title: "Chart 6: Value-vs-Volume Sales Asymmetry Breakdown",
+        chart7_title: "Chart 7: Free Cash Flow (FCF) & CapEx Conversion Dynamics",
+        compare_chart6_title: "Free Cash Flow (FCF) Margin % & Cash Conversion Benchmark",
+        compare_chart6_desc: "Cross-company cash conversion power: Quantifying the percentage of top-line revenue successfully converted into pure Free Cash Flow after all CapEx and operating commitments.",
+        preset_fcf_op: "Cash Conversion (FCF% vs OP%)",
+        th_fcf_margin: "FCF Margin %",
+        th_fcf: "FCF ($M / €M)",
         chart6a_title: "Chart 6A: High-Value Revenue Segment Breakdown ($M)",
         chart6b_title: "Chart 6B: Product Shipment Volume & Mix Breakdown (%)",
         table_title: "Official Audited Master Financial & Productivity Statement",
@@ -3670,6 +3703,60 @@ function renderCharts(data) {
             autorange: true
         }
     }, { responsive: true, displayModeBar: false });
+
+    // Chart 7: Free Cash Flow (FCF) & CapEx Conversion Dynamics
+    const ocfs = sortedYears.map(y => fin[y]?.operating_cash_flow || 0);
+    const capexs = sortedYears.map(y => fin[y]?.capex || 0);
+    const fcfs = sortedYears.map(y => fin[y]?.fcf != null ? fin[y].fcf : (fin[y]?.free_cash_flow || 0));
+    const fcfMargins = sortedYears.map(y => {
+        if (typeof fin[y]?.fcf_margin === "number") return fin[y].fcf_margin;
+        const rev = fin[y]?.revenue || 0;
+        const f = fin[y]?.fcf != null ? fin[y].fcf : (fin[y]?.free_cash_flow || 0);
+        return rev > 0 ? Number(((f / rev) * 100).toFixed(2)) : 0;
+    });
+
+    const trace7_1 = {
+        x: sortedYears, y: ocfs, name: `Operating Cash Flow (${unit})`,
+        type: "bar", marker: { color: "#3B82F6", opacity: 0.8 }, yaxis: "y",
+        hovertemplate: `<b>${isZh ? '營業現金流 (OCF)' : 'Operating Cash Flow'}</b><br>Period: %{x}<br>${isZh ? '金額' : 'Amount'}: <b>${unit}%{y:,.0f}</b><extra></extra>`
+    };
+    const trace7_2 = {
+        x: sortedYears, y: capexs, name: `CapEx (${unit})`,
+        type: "bar", marker: { color: "#F43F5E", opacity: 0.8 }, yaxis: "y",
+        hovertemplate: `<b>${isZh ? '資本支出 (CapEx)' : 'Capital Expenditure'}</b><br>Period: %{x}<br>${isZh ? '金額' : 'Amount'}: <b>${unit}%{y:,.0f}</b><extra></extra>`
+    };
+    const trace7_3 = {
+        x: sortedYears, y: fcfs, name: `Free Cash Flow (${unit})`,
+        type: "bar", marker: { color: "#10B981" }, yaxis: "y",
+        hovertemplate: `<b>${isZh ? '自由現金流 (FCF)' : 'Free Cash Flow'}</b><br>Period: %{x}<br>${isZh ? '金額' : 'Amount'}: <b>${unit}%{y:,.0f}</b><extra></extra>`
+    };
+    const trace7_4 = {
+        x: sortedYears, y: fcfMargins, name: "FCF Margin %",
+        type: "scatter", mode: "lines+markers", line: { color: "#FBBF24", width: 3.5 },
+        marker: { size: 8, color: "#FBBF24" }, yaxis: "y2",
+        hovertemplate: `<b>${isZh ? '自由現金流率 %' : 'FCF Margin %'}</b><br>Period: %{x}<br>${isZh ? '現金流率' : 'FCF Margin'}: <b>%{y:.2f}%</b><extra></extra>`
+    };
+
+    Plotly.newPlot("chartFcfDynamics", [trace7_1, trace7_2, trace7_3, trace7_4], {
+        ...commonLayout,
+        barmode: "group",
+        yaxis: { title: `Cash Flow (${unit})`, showgrid: true, gridcolor: gridColor, autorange: true },
+        yaxis2: { title: "FCF Margin %", overlaying: "y", side: "right", showgrid: false, autorange: true, ticksuffix: "%" }
+    }, { responsive: true, displayModeBar: false });
+
+    // Insight dynamic text for Chart 7
+    const insightFcfEl = document.getElementById("insightFcfText");
+    if (insightFcfEl && sortedYears.length > 0) {
+        const latestY = sortedYears[sortedYears.length - 1];
+        const latestFCF = fin[latestY]?.fcf != null ? fin[latestY].fcf : (fin[latestY]?.free_cash_flow || 0);
+        const latestMargin = fin[latestY]?.fcf_margin || 0;
+        const latestCapEx = fin[latestY]?.capex || 0;
+        if (isZh) {
+            insightFcfEl.innerHTML = `最新季度/年度 (<b>${latestY}</b>) 產生自由現金流 <b>${unit}${Math.round(latestFCF).toLocaleString()}</b>，自由現金流率達 <b>${latestMargin}%</b>；同期資本支出投資達 <b>${unit}${Math.round(latestCapEx).toLocaleString()}</b>，展現強韌之現金造血與自體循環投資能力。`;
+        } else {
+            insightFcfEl.innerHTML = `In the latest period (<b>${latestY}</b>), generated <b>${unit}${Math.round(latestFCF).toLocaleString()}</b> in Free Cash Flow (FCF Margin: <b>${latestMargin}%</b>) with <b>${unit}${Math.round(latestCapEx).toLocaleString()}</b> deployed into CapEx, demonstrating robust organic cash compounding.`;
+        }
+    }
 }
 
 // -----------------------------------------------------------------------------
@@ -3720,7 +3807,12 @@ function renderMasterTable(data) {
         { label: "Headcount YoY Growth", key: "hc_growth_yoy", fmt: v => v !== null ? `${v > 0 ? '+' : ''}${v}%` : "-" },
         { label: `Revenue / FTE (${currSym})`, key: "rev_per_emp", fmt: v => `${currSym}${formatNumber(v)}` },
         { label: `Gross Profit / FTE (${currSym})`, key: "gp_per_emp", fmt: v => `${currSym}${formatNumber(v)}` },
-        { label: `Operating Income / FTE (${currSym})`, key: "op_per_emp", fmt: v => `${currSym}${formatNumber(v)}` }
+        { label: `Operating Income / FTE (${currSym})`, key: "op_per_emp", fmt: v => `${currSym}${formatNumber(v)}` },
+        { label: `Operating Cash Flow (${unit})`, key: "operating_cash_flow", fmt: v => `${unit}${formatNumber(v)}` },
+        { label: `Capital Expenditure / CapEx (${unit})`, key: "capex", fmt: v => `${unit}${formatNumber(v)}` },
+        { label: `Free Cash Flow / FCF (${unit})`, key: "fcf", fmt: v => `${unit}${formatNumber(v)}` },
+        { label: "Free Cash Flow Margin %", key: "fcf_margin", fmt: v => `${v}%` },
+        { label: `FCF / FTE (${currSym})`, key: "fcf_per_emp", fmt: v => `${currSym}${formatNumber(v)}` }
     ];
     tbody.innerHTML = "";
     rows.forEach(r => {
@@ -3743,7 +3835,7 @@ function exportTableToCSV() {
     const fin = data.financials;
 
     let csv = "Metric," + years.join(",") + "\n";
-    const keys = ["revenue", "rev_growth_yoy", "gross_profit", "gross_margin", "operating_income", "operating_margin", "net_income", "rd_expense", "rd_pct_rev", "headcount", "rev_per_emp", "gp_per_emp", "op_per_emp"];
+    const keys = ["revenue", "rev_growth_yoy", "gross_profit", "gross_margin", "operating_income", "operating_margin", "net_income", "rd_expense", "rd_pct_rev", "headcount", "rev_per_emp", "gp_per_emp", "op_per_emp", "operating_cash_flow", "capex", "fcf", "fcf_margin", "fcf_per_emp"];
 
     keys.forEach(k => {
         let row = [k];
@@ -3967,6 +4059,34 @@ function renderComparisonView(companiesData) {
     Plotly.newPlot("chartCompareRD", tracesRD, {
         ...commonLayout,
         yaxis: { title: "R&D % of Rev", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
+    }, { responsive: true, displayModeBar: false });
+
+    // Compare Chart 6: Free Cash Flow (FCF) Margin % Trajectory Benchmark
+    const tracesFCF = tickers.map((t, idx) => {
+        const c = companiesData[t];
+        const years = c.years || [];
+        const fcfs = years.map(y => {
+            const f = c.financials[y];
+            if (!f) return null;
+            if (typeof f.fcf_margin === "number") return f.fcf_margin;
+            const rev = f.revenue || 0;
+            const fcfVal = f.fcf != null ? f.fcf : (f.free_cash_flow || 0);
+            return rev > 0 ? Number(((fcfVal / rev) * 100).toFixed(2)) : null;
+        });
+        const col = getCompanyTraceColor(t, idx);
+        const name = c.ticker || t.toUpperCase();
+        return {
+            x: years, y: fcfs, name: `${name} FCF %`,
+            type: "scatter", mode: "lines+markers",
+            line: { color: col, width: 3 },
+            marker: { size: 7, color: col },
+            hovertemplate: `<b>${name}</b><br>Period: %{x}<br>FCF Margin: <b>%{y:.2f}%</b><extra></extra>`
+        };
+    });
+
+    Plotly.newPlot("chartCompareFCF", tracesFCF, {
+        ...commonLayout,
+        yaxis: { title: "FCF Margin %", showgrid: true, gridcolor: gridColor, autorange: true, ticksuffix: "%" }
     }, { responsive: true, displayModeBar: false });
 
     // Stock Performance Peer Comparison Chart
@@ -4438,6 +4558,8 @@ function renderComparisonTableRows(companiesData, tickersList) {
             case "headcount": return f.headcount != null ? f.headcount : -Infinity;
             case "rev_per_emp": return f.rev_per_emp != null ? f.rev_per_emp : -Infinity;
             case "gp_per_emp": return f.gp_per_emp != null ? f.gp_per_emp : -Infinity;
+            case "fcf_margin": return f.fcf_margin != null ? f.fcf_margin : -Infinity;
+            case "fcf": return (f.fcf != null ? f.fcf : (f.free_cash_flow != null ? f.free_cash_flow : -Infinity));
             default: return 0;
         }
     };
@@ -4464,7 +4586,7 @@ function renderComparisonTableRows(companiesData, tickersList) {
     });
 
     // Update Header Sort Icons
-    const colList = ["company", "country", "year", "revenue", "gm", "opm", "rd", "headcount", "rev_per_emp", "gp_per_emp"];
+    const colList = ["company", "country", "year", "revenue", "gm", "opm", "rd", "headcount", "rev_per_emp", "gp_per_emp", "fcf_margin", "fcf"];
     colList.forEach(col => {
         const icon = document.getElementById(`sort-icon-${col}`);
         if (icon) {
@@ -4507,6 +4629,8 @@ function renderComparisonTableRows(companiesData, tickersList) {
             <td class="py-3 px-4 font-mono text-amber-300 text-right">${formatNumber(f.headcount)}</td>
             <td class="py-3 px-4 font-mono font-bold text-purple-400 text-right">${currSym}${formatNumber(f.rev_per_emp)}</td>
             <td class="py-3 px-4 font-mono font-bold text-indigo-400 text-right">${currSym}${formatNumber(f.gp_per_emp)}</td>
+            <td class="py-3 px-4 font-mono text-right font-bold ${f.fcf_margin >= 25 ? 'text-emerald-400' : (f.fcf_margin < 0 ? 'text-rose-400' : 'text-slate-200')}">${f.fcf_margin != null ? f.fcf_margin + '%' : '-'}</td>
+            <td class="py-3 px-4 font-mono text-right text-emerald-300 font-semibold">${f.fcf != null ? unit + formatNumber(f.fcf) : (f.free_cash_flow != null ? unit + formatNumber(f.free_cash_flow) : '-')}</td>
         `;
         tbody.appendChild(tr);
     });

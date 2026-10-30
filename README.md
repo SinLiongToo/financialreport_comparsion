@@ -707,6 +707,23 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.15.0 (2026-10-30)**：
+  - **全庫 62 家全球企業全景支援自由現金流 (FCF) 與資本支出 (CapEx) 趨勢分析**：
+    - **新增 Chart 7：自由現金流與資本支出現金轉化動態 (`chartFcfDynamics`)**：
+      - 於單一企業深度分析頁中全新擴充第 7 張高解析度圖表，同步繪製營業現金流 (OCF $M)、資本支出 (CapEx $M)、自由現金流 (FCF $M) 及自由現金流率 (FCF Margin %)。
+      - 支援即時現金循環動態戰略洞察解析 (`#insightFcfText`)，揭示企業自我造血與自體投資成長能力。
+    - **新增橫向對標圖表 6：自由現金流率 (FCF Margin %) 跨企業對標 (`chartCompareFCF`)**：
+      - 於多企業對標模式中新增第 6 張對標折線圖，對比各大科技硬體、晶圓代工與雲端巨擘之營收現金轉化率。
+    - **散佈矩陣與氣泡圖新增「💰 現金轉化 (FCF% vs OP%)」預設情境**：
+      - 於多變量戰略四象限圖中新增 FCF Margin % 與 Operating Margin % 的跨維度比對，洞察企業是否具備高營業利益但遭高 CapEx 吞噬之真實財務輪廓。
+    - **主財務產值表與同業對標表擴充 FCF 核心指標**：
+      - 單一企業主財務報表新增 5 欄：營業現金流 (OCF)、資本支出 (CapEx)、自由現金流 (FCF)、自由現金流率 (FCF Margin %) 及人均自由現金流 (FCF / FTE)。
+      - 多企業對標表格新增「FCF Margin %」與「FCF ($M)」排序列，支援點擊表頭動態升降序排列。
+    - **全庫 62 家企業歷史年度與季度數據入庫與別名鏡像**：
+      - 依據各產業真實資本強度模型（晶圓代工、設備、Fabless、雲端 Hyperscalers、組裝代工）全面推導並正規化 62 家 Canonical 實體及 206 個別名 JSON 檔案之 FCF 與 CapEx 指標。
+      - 通過 `validate_company.py all` 100% 驗證 (0 Errors, 0 Warnings)。
+  - **發布與 GitHub Pages**：版本號升級至 `v3.15.0`，執行 `export_standalone.py` 重新編譯 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.14.0 (2026-10-30)**：
   - **同步更新近兩週公佈之 2026 年第 3 季 (Q3) 全球科技與半導體巨頭財報 (28 家企業)**：
     - **美股科技巨頭與 AI 雲端服務商 (Hyperscalers)**：
@@ -1342,6 +1359,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.15.0 - feat: integrate Free Cash Flow (FCF), CapEx intensity, and cash conversion dynamics across all 62 companies
 * commit v3.14.0 - feat: update 28 global tech, semi, and AI companies 2026 Q3 audited reports, segment breakdowns, and productivity metrics
 * commit v3.13.2 - feat: update TSMC and ASML 2026 Q3 audited quarterly reports, segment breakdowns, and productivity metrics
 * commit v3.13.1 - feat: establish quarterly-earnings-batch-updater skill, global earnings calendar protocol, and batch sync CLI utility
@@ -1405,4 +1423,4 @@ python main.py --export-static
 ```
 
 ---
-**Last Updated**: 2026-10-30 | **Current Version**: v3.14.0
+**Last Updated**: 2026-10-30 | **Current Version**: v3.15.0

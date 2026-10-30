@@ -10,12 +10,12 @@
   "unit": "$M",
   "freq": "annual",
   "years": [
-    "2020",
-    "2021",
-    "2022",
-    "2023",
-    "2024",
-    "2025"
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
   ],
   "financials": {
     "2020": {
@@ -28,13 +28,13 @@
       "net_income": 1224.2,
       "net_margin": 21.75,
       "rd_expense": 1159.0,
-      "rd_pct_rev": 20.59,
+      "rd_pct_rev": 20.6,
       "headcount": 15900,
-      "rev_per_emp": 353930.8,
-      "gp_per_emp": 216509.4,
-      "op_per_emp": 73081.8,
-      "ni_per_emp": 76993.7,
-      "rd_per_emp": 72893.1,
+      "rev_per_emp": 353931.0,
+      "gp_per_emp": 216509.0,
+      "op_per_emp": 73082.0,
+      "ni_per_emp": 76994.0,
+      "rd_per_emp": 72893.0,
       "rev_growth_yoy": null,
       "gp_growth_yoy": null,
       "op_growth_yoy": null,
@@ -42,7 +42,14 @@
       "rd_growth_yoy": null,
       "hc_growth_yoy": null,
       "gm_diff_pp": null,
-      "op_diff_pp": null
+      "op_diff_pp": null,
+      "operating_cash_flow": 2251.0,
+      "capex": 337.6,
+      "fcf": 1913.4,
+      "free_cash_flow": 1913.4,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 120340.0,
+      "fcf_growth_yoy": null
     },
     "2021": {
       "revenue": 7321.3,
@@ -56,11 +63,11 @@
       "rd_expense": 1348.0,
       "rd_pct_rev": 18.41,
       "headcount": 24700,
-      "rev_per_emp": 296408.9,
-      "gp_per_emp": 183198.4,
-      "op_per_emp": 68510.1,
-      "ni_per_emp": 56291.5,
-      "rd_per_emp": 54574.9,
+      "rev_per_emp": 296409.0,
+      "gp_per_emp": 183198.0,
+      "op_per_emp": 68510.0,
+      "ni_per_emp": 56291.0,
+      "rd_per_emp": 54575.0,
       "rev_growth_yoy": 30.1,
       "gp_growth_yoy": 31.45,
       "op_growth_yoy": 45.63,
@@ -68,7 +75,14 @@
       "rd_growth_yoy": 16.31,
       "hc_growth_yoy": 55.35,
       "gm_diff_pp": 0.64,
-      "op_diff_pp": 2.46
+      "op_diff_pp": 2.46,
+      "operating_cash_flow": 2928.5,
+      "capex": 439.3,
+      "fcf": 2489.2,
+      "free_cash_flow": 2489.2,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 100777.0,
+      "fcf_growth_yoy": null
     },
     "2022": {
       "revenue": 12014.0,
@@ -82,11 +96,11 @@
       "rd_expense": 1617.9,
       "rd_pct_rev": 13.47,
       "headcount": 24450,
-      "rev_per_emp": 491370.1,
-      "gp_per_emp": 308077.7,
-      "op_per_emp": 153169.7,
-      "ni_per_emp": 134053.2,
-      "rd_per_emp": 66171.8,
+      "rev_per_emp": 491370.0,
+      "gp_per_emp": 308078.0,
+      "op_per_emp": 153170.0,
+      "ni_per_emp": 134053.0,
+      "rd_per_emp": 66172.0,
       "rev_growth_yoy": 64.1,
       "gp_growth_yoy": 66.46,
       "op_growth_yoy": 121.31,
@@ -94,7 +108,14 @@
       "rd_growth_yoy": 20.02,
       "hc_growth_yoy": -1.01,
       "gm_diff_pp": 0.89,
-      "op_diff_pp": 8.06
+      "op_diff_pp": 8.06,
+      "operating_cash_flow": 4805.6,
+      "capex": 720.8,
+      "fcf": 4084.8,
+      "free_cash_flow": 4084.8,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 167067.0,
+      "fcf_growth_yoy": null
     },
     "2023": {
       "revenue": 12305.5,
@@ -104,15 +125,15 @@
       "operating_income": 3812.2,
       "operating_margin": 30.98,
       "net_income": 3334.3,
-      "net_margin": 27.09,
+      "net_margin": 27.1,
       "rd_expense": 1746.4,
       "rd_pct_rev": 14.19,
       "headcount": 26000,
-      "rev_per_emp": 473288.5,
-      "gp_per_emp": 302969.2,
-      "op_per_emp": 146623.1,
-      "ni_per_emp": 128242.3,
-      "rd_per_emp": 67169.2,
+      "rev_per_emp": 473288.0,
+      "gp_per_emp": 302969.0,
+      "op_per_emp": 146623.0,
+      "ni_per_emp": 128242.0,
+      "rd_per_emp": 67169.0,
       "rev_growth_yoy": 2.43,
       "gp_growth_yoy": 4.58,
       "op_growth_yoy": 1.79,
@@ -120,7 +141,14 @@
       "rd_growth_yoy": 7.94,
       "hc_growth_yoy": 6.34,
       "gm_diff_pp": 1.31,
-      "op_diff_pp": -0.19
+      "op_diff_pp": -0.19,
+      "operating_cash_flow": 4922.2,
+      "capex": 738.3,
+      "fcf": 4183.9,
+      "free_cash_flow": 4183.9,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 160919.0,
+      "fcf_growth_yoy": null
     },
     "2024": {
       "revenue": 9427.2,
@@ -135,10 +163,10 @@
       "rd_pct_rev": 18.55,
       "headcount": 24000,
       "rev_per_emp": 392800.0,
-      "gp_per_emp": 224220.8,
+      "gp_per_emp": 224221.0,
       "op_per_emp": 84700.0,
-      "ni_per_emp": 68029.2,
-      "rd_per_emp": 72883.3,
+      "ni_per_emp": 68029.0,
+      "rd_per_emp": 72883.0,
       "rev_growth_yoy": -23.39,
       "gp_growth_yoy": -31.69,
       "op_growth_yoy": -46.68,
@@ -146,7 +174,14 @@
       "rd_growth_yoy": 0.16,
       "hc_growth_yoy": -7.69,
       "gm_diff_pp": -6.93,
-      "op_diff_pp": -9.42
+      "op_diff_pp": -9.42,
+      "operating_cash_flow": 3770.9,
+      "capex": 565.6,
+      "fcf": 3205.3,
+      "free_cash_flow": 3205.3,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 133554.0,
+      "fcf_growth_yoy": null
     },
     "2025": {
       "revenue": 11019.7,
@@ -160,11 +195,11 @@
       "rd_expense": 1873.3,
       "rd_pct_rev": 17.0,
       "headcount": 24500,
-      "rev_per_emp": 449783.7,
-      "gp_per_emp": 276469.4,
-      "op_per_emp": 119640.8,
-      "ni_per_emp": 92542.9,
-      "rd_per_emp": 76461.2,
+      "rev_per_emp": 449784.0,
+      "gp_per_emp": 276469.0,
+      "op_per_emp": 119641.0,
+      "ni_per_emp": 92543.0,
+      "rd_per_emp": 76461.0,
       "rev_growth_yoy": 16.89,
       "gp_growth_yoy": 25.87,
       "op_growth_yoy": 44.2,
@@ -172,7 +207,14 @@
       "rd_growth_yoy": 7.09,
       "hc_growth_yoy": 2.08,
       "gm_diff_pp": 4.39,
-      "op_diff_pp": 5.04
+      "op_diff_pp": 5.04,
+      "operating_cash_flow": 4407.9,
+      "capex": 661.2,
+      "fcf": 3746.7,
+      "free_cash_flow": 3746.7,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 152927.0,
+      "fcf_growth_yoy": null
     }
   },
   "sales_breakdown": {
@@ -277,17 +319,21 @@
     }
   },
   "insights": {
-    "the_pivot": {
-      "en": "Analog Devices completed the transformational integration of Maxim Integrated in 2021-2022, stabilizing global headcount at ~24,000-24,500 while expanding high-margin precision analog, power management, and BMS solutions to drive gross margins back above 61-64%.",
-      "zh": "亞德諾半導體 (ADI) 於 2021～2022 年完成對美信 (Maxim Integrated) 的指標性併購整合，全球團隊規模穩定於 2.4 萬～2.45 萬人，藉由精密類比、電源管理與電池管理系統 (BMS) 的結構性綜效，推動 GAAP 毛利率穩健重返 61%～64% 之高檔區間。"
+    "en": {
+      "pivot": "Analog Devices, Inc. (ADI / 亞德諾半導體) workforce reported at 24,500 FTEs with GAAP Gross Margin at 61.47%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $449,784/FTE in revenue and $276,469/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M2,931 (26.6% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M1,873 (17.0% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 16.89% compared to headcount change of 2.08% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
     },
-    "productivity": {
-      "en": "Revenue per FTE reached $450K-$500K with Gross Profit per employee exceeding $276K-$320K, reflecting supreme pricing power in high-barrier mission-critical industrial, aerospace, and EV battery management sockets.",
-      "zh": "人均營收達 45 萬～50 萬美元/人，人均毛利高達 27.6 萬～32 萬美元，充分展現其在工業自動化、航太國防及電動車 (EV) 電池管理晶片等高門檻利基市場中無可替代的定價話語權。"
-    },
-    "value_vs_volume": {
-      "en": "Industrial and Automotive segments generate over 75% of total revenue. Even as consumer cycles fluctuate, high-complexity signal chains and power ICs command sustained ASP premiums regardless of unit volume volatility.",
-      "zh": "工業與車用兩大核心事業群合力貢獻超過 75% 總營收。儘管消費性電子週期波動，高複雜度之高性能信號鏈與電源 IC 仍具備極高平均售價 (ASP) 護城河與客戶長生命週期優勢。"
+    "zh": {
+      "pivot": "Analog Devices, Inc. (ADI / 亞德諾半導體) 官方審計員工數為 24,500 人，GAAP 毛利率為 61.47%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $449,784/人，人均毛利為 $276,469/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M2,931（營業利益率 26.6%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M1,873（佔營收 17.0%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 16.89%，員工人數年增率為 2.08%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   },
   "lean_maturity": {

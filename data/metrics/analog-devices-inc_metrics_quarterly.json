@@ -50,7 +50,14 @@
       "rd_growth_yoy": null,
       "hc_growth_yoy": null,
       "gm_diff_pp": null,
-      "op_diff_pp": null
+      "op_diff_pp": null,
+      "operating_cash_flow": 1300.0,
+      "capex": 195.0,
+      "fcf": 1105.0,
+      "free_cash_flow": 1105.0,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 44488.0,
+      "fcf_growth_yoy": null
     },
     "2023 Q2": {
       "revenue": 3263.0,
@@ -76,7 +83,14 @@
       "rd_growth_yoy": 1.16,
       "hc_growth_yoy": 1.56,
       "gm_diff_pp": -0.2,
-      "op_diff_pp": -0.4
+      "op_diff_pp": -0.4,
+      "operating_cash_flow": 1305.2,
+      "capex": 195.8,
+      "fcf": 1109.4,
+      "free_cash_flow": 1109.4,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 43980.0,
+      "fcf_growth_yoy": null
     },
     "2023 Q3": {
       "revenue": 3076.5,
@@ -102,7 +116,14 @@
       "rd_growth_yoy": 1.15,
       "hc_growth_yoy": 1.54,
       "gm_diff_pp": -1.1,
-      "op_diff_pp": -2.5
+      "op_diff_pp": -2.5,
+      "operating_cash_flow": 1230.6,
+      "capex": 184.6,
+      "fcf": 1046.0,
+      "free_cash_flow": 1046.0,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 40839.0,
+      "fcf_growth_yoy": null
     },
     "2023 Q4": {
       "revenue": 2716.0,
@@ -128,7 +149,14 @@
       "rd_growth_yoy": 0.32,
       "hc_growth_yoy": 1.51,
       "gm_diff_pp": -3.27,
-      "op_diff_pp": -6.11
+      "op_diff_pp": -6.11,
+      "operating_cash_flow": 1086.4,
+      "capex": 163.0,
+      "fcf": 923.4,
+      "free_cash_flow": 923.4,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 35515.0,
+      "fcf_growth_yoy": null
     },
     "2024 Q1": {
       "revenue": 2513.0,
@@ -154,7 +182,14 @@
       "rd_growth_yoy": 1.86,
       "hc_growth_yoy": 2.67,
       "gm_diff_pp": -7.4,
-      "op_diff_pp": -13.8
+      "op_diff_pp": -13.8,
+      "operating_cash_flow": 1005.2,
+      "capex": 150.8,
+      "fcf": 854.4,
+      "free_cash_flow": 854.4,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 33506.0,
+      "fcf_growth_yoy": null
     },
     "2024 Q2": {
       "revenue": 2159.0,
@@ -180,7 +215,14 @@
       "rd_growth_yoy": -0.69,
       "hc_growth_yoy": -0.89,
       "gm_diff_pp": -9.0,
-      "op_diff_pp": -13.95
+      "op_diff_pp": -13.95,
+      "operating_cash_flow": 863.6,
+      "capex": 129.5,
+      "fcf": 734.1,
+      "free_cash_flow": 734.1,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 29364.0,
+      "fcf_growth_yoy": null
     },
     "2024 Q3": {
       "revenue": 2312.0,
@@ -206,7 +248,14 @@
       "rd_growth_yoy": -0.68,
       "hc_growth_yoy": -4.35,
       "gm_diff_pp": -7.3,
-      "op_diff_pp": -8.5
+      "op_diff_pp": -8.5,
+      "operating_cash_flow": 924.8,
+      "capex": 138.7,
+      "fcf": 786.1,
+      "free_cash_flow": 786.1,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 32086.0,
+      "fcf_growth_yoy": null
     },
     "2024 Q4": {
       "revenue": 2443.2,
@@ -232,7 +281,14 @@
       "rd_growth_yoy": 0.18,
       "hc_growth_yoy": -7.69,
       "gm_diff_pp": -3.64,
-      "op_diff_pp": -0.55
+      "op_diff_pp": -0.55,
+      "operating_cash_flow": 977.3,
+      "capex": 146.6,
+      "fcf": 830.7,
+      "free_cash_flow": 830.7,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 34612.0,
+      "fcf_growth_yoy": null
     },
     "2025 Q1": {
       "revenue": 2423.0,
@@ -258,7 +314,14 @@
       "rd_growth_yoy": 3.88,
       "hc_growth_yoy": -5.39,
       "gm_diff_pp": 1.8,
-      "op_diff_pp": 5.0
+      "op_diff_pp": 5.0,
+      "operating_cash_flow": 969.2,
+      "capex": 145.4,
+      "fcf": 823.8,
+      "free_cash_flow": 823.8,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 34147.0,
+      "fcf_growth_yoy": null
     },
     "2025 Q2": {
       "revenue": 2640.0,
@@ -284,7 +347,14 @@
       "rd_growth_yoy": 7.64,
       "hc_growth_yoy": -3.0,
       "gm_diff_pp": 4.7,
-      "op_diff_pp": 6.85
+      "op_diff_pp": 6.85,
+      "operating_cash_flow": 1056.0,
+      "capex": 158.4,
+      "fcf": 897.6,
+      "free_cash_flow": 897.6,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 37014.0,
+      "fcf_growth_yoy": null
     },
     "2025 Q3": {
       "revenue": 2880.0,
@@ -310,7 +380,14 @@
       "rd_growth_yoy": 8.24,
       "hc_growth_yoy": -0.51,
       "gm_diff_pp": 5.0,
-      "op_diff_pp": 4.6
+      "op_diff_pp": 4.6,
+      "operating_cash_flow": 1152.0,
+      "capex": 172.8,
+      "fcf": 979.2,
+      "free_cash_flow": 979.2,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 40172.0,
+      "fcf_growth_yoy": null
     },
     "2025 Q4": {
       "revenue": 3076.7,
@@ -336,7 +413,14 @@
       "rd_growth_yoy": 8.62,
       "hc_growth_yoy": 2.08,
       "gm_diff_pp": 5.76,
-      "op_diff_pp": 3.5
+      "op_diff_pp": 3.5,
+      "operating_cash_flow": 1230.7,
+      "capex": 184.6,
+      "fcf": 1046.1,
+      "free_cash_flow": 1046.1,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 42698.0,
+      "fcf_growth_yoy": null
     },
     "2026 Q1": {
       "revenue": 2750.0,
@@ -362,7 +446,14 @@
       "rd_growth_yoy": 1.12,
       "hc_growth_yoy": 7.77,
       "gm_diff_pp": 9.7,
-      "op_diff_pp": 18.5
+      "op_diff_pp": 18.5,
+      "operating_cash_flow": 1100.0,
+      "capex": 165.0,
+      "fcf": 935.0,
+      "free_cash_flow": 935.0,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 35962.0,
+      "fcf_growth_yoy": null
     },
     "2026 Q2": {
       "revenue": 2900.0,
@@ -388,7 +479,14 @@
       "rd_growth_yoy": 2.15,
       "hc_growth_yoy": 8.04,
       "gm_diff_pp": 9.1,
-      "op_diff_pp": 17.9
+      "op_diff_pp": 17.9,
+      "operating_cash_flow": 1160.0,
+      "capex": 174.0,
+      "fcf": 986.0,
+      "free_cash_flow": 986.0,
+      "fcf_margin": 34.0,
+      "fcf_per_emp": 37634.0,
+      "fcf_growth_yoy": null
     }
   },
   "sales_breakdown": {

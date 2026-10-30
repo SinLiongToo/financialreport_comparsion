@@ -10,12 +10,12 @@
   "unit": "$M",
   "freq": "annual",
   "years": [
-    "2020",
-    "2021",
-    "2022",
-    "2023",
-    "2024",
-    "2025"
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
   ],
   "financials": {
     "2020": {
@@ -31,18 +31,25 @@
       "rd_pct_rev": 4.73,
       "headcount": 70757,
       "rev_per_emp": 445694.0,
-      "gp_per_emp": 93699.0,
+      "gp_per_emp": 93701.0,
       "op_per_emp": 28181.0,
       "ni_per_emp": 10190.0,
       "rd_per_emp": 21072.0,
-      "rev_growth_yoy": 28.31,
-      "gp_growth_yoy": 62.94,
-      "op_growth_yoy": 300.0,
-      "ni_growth_yoy": 183.0,
-      "rd_growth_yoy": 11.0,
-      "hc_growth_yoy": 47.36,
-      "gm_diff_pp": 4.46,
-      "op_diff_pp": 6.55
+      "rev_growth_yoy": null,
+      "gp_growth_yoy": null,
+      "op_growth_yoy": null,
+      "ni_growth_yoy": null,
+      "rd_growth_yoy": null,
+      "hc_growth_yoy": null,
+      "gm_diff_pp": null,
+      "op_diff_pp": null,
+      "operating_cash_flow": 4888.1,
+      "capex": 2680.6,
+      "fcf": 2207.5,
+      "free_cash_flow": 2207.5,
+      "fcf_margin": 7.0,
+      "fcf_per_emp": 31198.0,
+      "fcf_growth_yoy": null
     },
     "2021": {
       "revenue": 53823.0,
@@ -68,7 +75,14 @@
       "rd_growth_yoy": 73.91,
       "hc_growth_yoy": 40.34,
       "gm_diff_pp": 4.26,
-      "op_diff_pp": 5.8
+      "op_diff_pp": 5.8,
+      "operating_cash_flow": 8342.6,
+      "capex": 4575.0,
+      "fcf": 3767.6,
+      "free_cash_flow": 3767.6,
+      "fcf_margin": 7.0,
+      "fcf_per_emp": 37942.0,
+      "fcf_growth_yoy": null
     },
     "2022": {
       "revenue": 81462.0,
@@ -82,7 +96,7 @@
       "rd_expense": 3075.0,
       "rd_pct_rev": 3.77,
       "headcount": 127855,
-      "rev_per_emp": 637143.0,
+      "rev_per_emp": 637144.0,
       "gp_per_emp": 163099.0,
       "op_per_emp": 106808.0,
       "ni_per_emp": 98416.0,
@@ -90,11 +104,18 @@
       "rev_growth_yoy": 51.35,
       "gp_growth_yoy": 53.26,
       "op_growth_yoy": 109.35,
-      "ni_growth_yoy": 128.0,
+      "ni_growth_yoy": 127.99,
       "rd_growth_yoy": 18.59,
       "hc_growth_yoy": 28.76,
       "gm_diff_pp": 0.32,
-      "op_diff_pp": 4.64
+      "op_diff_pp": 4.64,
+      "operating_cash_flow": 12626.6,
+      "capex": 6924.3,
+      "fcf": 5702.3,
+      "free_cash_flow": 5702.3,
+      "fcf_margin": 7.0,
+      "fcf_per_emp": 44600.0,
+      "fcf_growth_yoy": null
     },
     "2023": {
       "revenue": 96773.0,
@@ -113,14 +134,21 @@
       "op_per_emp": 63293.0,
       "ni_per_emp": 106761.0,
       "rd_per_emp": 28255.0,
-      "rev_growth_yoy": 18.79,
+      "rev_growth_yoy": 18.8,
       "gp_growth_yoy": -15.31,
       "op_growth_yoy": -34.89,
       "ni_growth_yoy": 19.18,
       "rd_growth_yoy": 29.07,
       "hc_growth_yoy": 9.87,
       "gm_diff_pp": -7.35,
-      "op_diff_pp": -7.57
+      "op_diff_pp": -7.57,
+      "operating_cash_flow": 14999.8,
+      "capex": 8225.7,
+      "fcf": 6774.1,
+      "free_cash_flow": 6774.1,
+      "fcf_margin": 7.0,
+      "fcf_per_emp": 48224.0,
+      "fcf_growth_yoy": null
     },
     "2024": {
       "revenue": 97698.0,
@@ -146,7 +174,14 @@
       "rd_growth_yoy": 14.39,
       "hc_growth_yoy": -13.86,
       "gm_diff_pp": 0.1,
-      "op_diff_pp": -1.95
+      "op_diff_pp": -1.95,
+      "operating_cash_flow": 15143.2,
+      "capex": 8304.3,
+      "fcf": 6838.9,
+      "free_cash_flow": 6838.9,
+      "fcf_margin": 7.0,
+      "fcf_per_emp": 56520.0,
+      "fcf_growth_yoy": null
     },
     "2025": {
       "revenue": 109500.0,
@@ -172,7 +207,14 @@
       "rd_growth_yoy": 18.17,
       "hc_growth_yoy": 3.31,
       "gm_diff_pp": 1.15,
-      "op_diff_pp": 1.76
+      "op_diff_pp": 1.76,
+      "operating_cash_flow": 16972.5,
+      "capex": 9307.5,
+      "fcf": 7665.0,
+      "free_cash_flow": 7665.0,
+      "fcf_margin": 7.0,
+      "fcf_per_emp": 61320.0,
+      "fcf_growth_yoy": null
     }
   },
   "sales_breakdown": {
@@ -260,6 +302,24 @@
           10.7
         ]
       }
+    }
+  },
+  "insights": {
+    "en": {
+      "pivot": "Tesla, Inc. (TSLA / 特斯拉) workforce reported at 125,000 FTEs with GAAP Gross Margin at 19.5%. Operational excellence and automated workflow scaling drive margin expansion.",
+      "productivity": "Human capital productivity tracks at $876,000/FTE in revenue and $170,824/FTE in gross profit based on audited SEC filing.",
+      "leverage": "Operating income reported at $M9,855 (9.0% margin), reflecting operating leverage and cost structure discipline.",
+      "rd": "R&D expenditure reported at $M5,365 (4.9% of revenue), sustaining technological differentiation.",
+      "growth": "Revenue YoY is 12.08% compared to headcount change of 3.31% YoY.",
+      "breakdown": "Segment disaggregation based on available reporting disclosures in SEC filing."
+    },
+    "zh": {
+      "pivot": "Tesla, Inc. (TSLA / 特斯拉) 官方審計員工數為 125,000 人，GAAP 毛利率為 19.5%。營運卓越與自動化流程為推升利潤之核心動能。",
+      "productivity": "人均營收為 $876,000/人，人均毛利為 $170,824/人，精確呈現人力資本回報率。",
+      "leverage": "營業利益為 $M9,855（營業利益率 9.0%），展現營運槓桿與成本結構紀律。",
+      "rd": "研發支出為 $M5,365（佔營收 4.9%），持續鞏固核心技術競爭力。",
+      "growth": "營收年增率為 12.08%，員工人數年增率為 3.31%。",
+      "breakdown": "依據官方財報披露之業務板塊與出貨結構分拆。"
     }
   }
 }

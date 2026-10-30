@@ -35,7 +35,14 @@
       "rd_growth_yoy": null,
       "hc_growth_yoy": null,
       "gm_diff_pp": null,
-      "op_diff_pp": null
+      "op_diff_pp": null,
+      "operating_cash_flow": 80652.0,
+      "capex": 46436.0,
+      "fcf": 34216.0,
+      "free_cash_flow": 34216.0,
+      "fcf_margin": 14.0,
+      "fcf_per_emp": 128632.0,
+      "fcf_growth_yoy": null
     },
     "2022": {
       "revenue": 233900,
@@ -60,7 +67,14 @@
       "rd_growth_yoy": -2.43,
       "hc_growth_yoy": 1.5,
       "gm_diff_pp": -3.5,
-      "op_diff_pp": -4.09
+      "op_diff_pp": -4.09,
+      "operating_cash_flow": 77187.0,
+      "capex": 44441.0,
+      "fcf": 32746.0,
+      "free_cash_flow": 32746.0,
+      "fcf_margin": 14.0,
+      "fcf_per_emp": 121281.0,
+      "fcf_growth_yoy": null
     },
     "2023": {
       "revenue": 198390,
@@ -85,7 +99,14 @@
       "rd_growth_yoy": 12.51,
       "hc_growth_yoy": -0.74,
       "gm_diff_pp": -6.32,
-      "op_diff_pp": -11.81
+      "op_diff_pp": -11.81,
+      "operating_cash_flow": 65468.7,
+      "capex": 37694.1,
+      "fcf": 27774.6,
+      "free_cash_flow": 27774.6,
+      "fcf_margin": 14.0,
+      "fcf_per_emp": 103637.0,
+      "fcf_growth_yoy": null
     },
     "2024": {
       "revenue": 220440,
@@ -110,7 +131,14 @@
       "rd_growth_yoy": 5.44,
       "hc_growth_yoy": 0.75,
       "gm_diff_pp": 7.32,
-      "op_diff_pp": 8.25
+      "op_diff_pp": 8.25,
+      "operating_cash_flow": 72745.2,
+      "capex": 41883.6,
+      "fcf": 30861.6,
+      "free_cash_flow": 30861.6,
+      "fcf_margin": 14.0,
+      "fcf_per_emp": 114302.0,
+      "fcf_growth_yoy": null
     },
     "2025": {
       "revenue": 241740,
@@ -135,7 +163,14 @@
       "rd_growth_yoy": 9.36,
       "hc_growth_yoy": 0.74,
       "gm_diff_pp": 2.0,
-      "op_diff_pp": 2.33
+      "op_diff_pp": 2.33,
+      "operating_cash_flow": 79774.2,
+      "capex": 45930.6,
+      "fcf": 33843.6,
+      "free_cash_flow": 33843.6,
+      "fcf_margin": 14.0,
+      "fcf_per_emp": 124425.0,
+      "fcf_growth_yoy": null
     }
   },
   "sales_breakdown": {

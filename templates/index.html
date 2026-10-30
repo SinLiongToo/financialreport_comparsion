@@ -40,7 +40,7 @@
                         <i class="fa-solid fa-bolt text-blue-400 text-[10px]"></i> One-Click Workflow
                     </span>
                     <span class="text-xs bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap">
-                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.14.0
+                        <i class="fa-solid fa-code-branch text-[10px]"></i> v3.15.0
                     </span>
                     <span class="text-xs bg-purple-500/20 text-purple-300 border border-purple-500/30 px-2 py-0.5 rounded-full font-semibold flex items-center gap-1 shadow-sm whitespace-nowrap hidden md:inline-flex">
                         <i class="fa-regular fa-calendar-check text-[10px]"></i> <span data-i18n="header_updated">Updated: 2026-10-30</span>
@@ -540,6 +540,30 @@
                 </div>
             </section>
 
+            <!-- Chart 7: Free Cash Flow (FCF) & Capital Expenditure Intensity Trend -->
+            <section class="grid grid-cols-1 gap-6">
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group">
+                    <div>
+                        <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
+                            <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                                <i class="fa-solid fa-money-bill-trend-up text-emerald-400"></i>
+                                <span data-i18n="chart7_title">Chart 7: Free Cash Flow (FCF) & CapEx Conversion Dynamics</span>
+                            </h3>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded font-mono">Cash Generation</span>
+                                <button type="button" data-chart="chartFcfDynamics" data-title="chart7_title" data-badge="Cash Generation" data-insight="insightFcfText" data-icon="fa-money-bill-trend-up" onclick="zoomChart('chartFcfDynamics', 'chart7_title', 'Cash Generation', 'insightFcfText', 'fa-money-bill-trend-up')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-emerald-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-emerald-400 pointer-events-none"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed mb-2" id="insightFcfText">
+                            Loading cash flow dynamics insight...
+                        </p>
+                    </div>
+                    <div id="chartFcfDynamics" class="w-full h-80"></div>
+                </div>
+            </section>
+
             <!-- 4. Master Financial & Productivity Audited Table -->
             <section class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg">
                 <div class="flex flex-wrap items-center justify-between border-b border-slate-700 pb-3 mb-4 gap-2">
@@ -796,6 +820,28 @@
                     <div id="chartCompareRD" class="w-full h-80"></div>
                 </div>
 
+                <!-- Comparison Chart 6: Free Cash Flow (FCF) Margin % Benchmark -->
+                <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group lg:col-span-2">
+                    <div>
+                        <div class="flex items-center justify-between border-b border-slate-700 pb-3 mb-2">
+                            <h3 class="text-sm font-bold text-white flex items-center gap-2">
+                                <i class="fa-solid fa-money-bill-transfer text-emerald-400"></i>
+                                <span data-i18n="compare_chart6_title">Free Cash Flow (FCF) Margin % & Cash Conversion Benchmark</span>
+                            </h3>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded font-mono">Cash Conversion</span>
+                                <button type="button" data-chart="chartCompareFCF" data-title="compare_chart6_title" data-badge="Cash Conversion" data-insight="compare_chart6_desc" data-icon="fa-money-bill-transfer" onclick="zoomChart('chartCompareFCF', 'compare_chart6_title', 'Cash Conversion', 'compare_chart6_desc', 'fa-money-bill-transfer')" class="chart-expand-btn text-slate-400 hover:text-white p-1 px-1.5 rounded-lg hover:bg-slate-700/80 transition-all text-xs flex items-center gap-1 bg-slate-900/60 border border-slate-700 hover:border-emerald-500 cursor-pointer" title="一鍵放大 / Zoom In">
+                                    <i class="fa-solid fa-expand text-emerald-400 pointer-events-none"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <p class="text-xs text-slate-300 leading-relaxed mb-2" data-i18n="compare_chart6_desc" id="compare_chart6_desc">
+                            Cross-company cash conversion power: Quantifying the percentage of top-line revenue successfully converted into pure Free Cash Flow after all CapEx and operating commitments.
+                        </p>
+                    </div>
+                    <div id="chartCompareFCF" class="w-full h-80"></div>
+                </div>
+
                 <!-- Comparison Chart 5: Bivariate Strategic Quadrants & Bubble Matrix -->
                 <div class="bg-slate-800 border border-slate-700 rounded-2xl p-5 shadow-lg flex flex-col justify-between group lg:col-span-2">
                     <div>
@@ -834,6 +880,9 @@
                                 </button>
                                 <button type="button" id="presetBtn_rd_op" onclick="applyScatterPreset('rd_op')" class="scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer">
                                     ⚖️ <span data-i18n="preset_rd_op">研發獲利 (R&D vs OP)</span>
+                                </button>
+                                <button type="button" id="presetBtn_fcf_op" onclick="applyScatterPreset('fcf_op')" class="scatter-preset-btn px-2.5 py-1 rounded-lg border border-slate-700 bg-slate-800 text-slate-300 font-medium hover:bg-slate-700 hover:text-white transition-all cursor-pointer">
+                                    💰 <span data-i18n="preset_fcf_op">現金轉化 (FCF% vs OP%)</span>
                                 </button>
                             </div>
 
@@ -931,6 +980,12 @@
                                 </th>
                                 <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('gp_per_emp')">
                                     <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_gp_per_emp">GP / FTE ($)</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-gp_per_emp"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('fcf_margin')">
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_fcf_margin">FCF Margin %</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-fcf_margin"></i></span>
+                                </th>
+                                <th class="py-3 px-4 cursor-pointer hover:text-white transition-colors text-right" onclick="sortCompareTable('fcf')">
+                                    <span class="flex items-center justify-end gap-1.5"><span data-i18n="th_fcf">FCF ($M)</span> <i class="fa-solid fa-sort text-slate-500 text-[10px]" id="sort-icon-fcf"></i></span>
                                 </th>
                             </tr>
                         </thead>
@@ -2903,7 +2958,7 @@
             <div class="px-6 py-3 bg-slate-850 border-t border-slate-700 flex items-center justify-between">
                 <span class="text-[11px] text-slate-400 font-mono flex items-center gap-1.5">
                     <i class="fa-regular fa-calendar-check text-purple-400"></i>
-                    <span data-i18n="header_updated">Updated: 2026-10-30</span> (v3.14.0)
+                    <span data-i18n="header_updated">Updated: 2026-10-30</span> (v3.15.0)
                 </span>
                 <button id="closeHelpModalFooterBtn" class="bg-slate-700 hover:bg-slate-600 text-white px-4 py-1.5 rounded-xl text-xs font-semibold transition-colors">
                     Close Guide
