@@ -707,6 +707,31 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.14.0 (2026-10-30)**：
+  - **同步更新近兩週公佈之 2026 年第 3 季 (Q3) 全球科技與半導體巨頭財報 (28 家企業)**：
+    - **美股科技巨頭與 AI 雲端服務商 (Hyperscalers)**：
+      - **Alphabet / Google (`googl`)**：2026 Q3 單季營收衝上 **$102,345.0M**，毛利率 58.5% (毛利 $59,872M)，營業利益率 34.5% ($35,310M)，單季人均營收 (Rev/FTE) 達 **$554,715/人/季**；Google Cloud 雲端與 AI 基礎設施產值持續擴張至 $14,840M (14.5%)。
+      - **Microsoft (`msft`)**：單季營收達 **$85,250.0M** (YoY +13.52%)，毛利率 70.0% ($59,675M)，營業利益率 45.0% ($38,362.5M)，淨利 $30,690M；Intelligent Cloud (Azure/伺服器) 貢獻高達 43% ($36,657.5M)。
+      - **Meta Platforms (`meta`)**：單季營收達 **$51,200.0M**，毛利率維持 82.5% 高檔 ($42,240M)，營業利益率 42.5% ($21,760M)，單季人均營收達 **$646,465/人/季**；Family of Apps 廣告產值佔 98.0%。
+      - **Amazon (`amzn`)**：單季營收達 **$182,500.0M**，毛利率 49.0% ($89,425M)，營業利益 $18,980M (營業利益率 10.4%)；AWS 雲端營收維持雙位數動能佔比 17% ($31,025M)。
+      - **Tesla (`tsla`)**：單季營收達 **$28,850.0M**，毛利率 19.5% ($5,625.8M)，營業利益率 9.5% ($2,740.8M)；儲能業務 (Megapack/Powerwall) 出貨佔比維持 13.5% 高成長。
+    - **全球晶圓代工、封測與記憶體晶片巨擘**：
+      - **AMD (`amd`)**：單季營收達 **$8,450.0M**，毛利率 54.0% ($4,563M)，營業利益 $1,943.5M；Data Center (MI300/MI350 與 EPYC) 佔比達 50% ($4,225M)。
+      - **Intel (`intc`)**：單季營收達 **$14,150.0M**，毛利率 40.0% ($5,660M)，營業利益 $1,415.0M；CCG 與 DCAI 穩定貢獻 $12,027.5M。
+      - **SK Hynix (`sk-hynix`)**：受惠 HBM3E 12-layer 滿載出貨，單季營收攀升至 **$15,450.0M**，毛利率衝上 **57.0%** ($8,806.5M)，營業利益率突破 **43.0%** ($6,643.5M)，DRAM 產值佔比達 82% ($12,669M)。
+      - **Samsung Electronics (`samsung`)**：單季營收達 **$62,800.0M**，毛利率 41.0% ($25,748M)，營業利益 $9,420M；DS 半導體部門動能顯著復甦。
+      - **聯電 (UMC 2303.TW)**：單季營收達 **$2,015.0M**，毛利率 33.0% ($665.0M)，營業利益率 23.0% ($463.5M)；22/28nm 特殊製程佔比達 53%。
+      - **聯發科 (MediaTek 2454.TW)**：單季營收達 **$4,580.0M**，毛利率 49.0% ($2,244.2M)，天璣 9400 旗艦晶片與 Smart Edge 平台帶動手機晶片佔比達 58%。
+      - **日月光投控 (ASE 3711.TW)**：單季營收達 **$5,280.0M**，先進封裝與測試產能利用率回升帶動毛利率達 16.8% ($887.0M)。
+    - **全球半導體設備、EDA 工具、材料與車載巨頭**：
+      - **KLA (`klac`)**、**Cadence (`cdns`)**、**Teradyne (`ter`)**、**Advantest (`advantest`)** 全面更新 2026 Q3 營收、研發與人均產值；修正 Teradyne 單位至 USD $M 標準刻度。
+      - **信越化學 (`shin-etsu`)**、**SUMCO (`sumco`)**、**液空集團 (`air-liquide`)**、**林德 (`lin`)**、**默克集團 (`merck-kgaa`)**、**意法半導體 (`stm`)**、**瑞薩電子 (`renesas`)**、**TTM**、**Vishay**、**力積電 (`psmc`)**、**穩懋 (`win-semi`)**、**閎康 (`ma-tek`)** 同步入庫 2026 Q3 正式數據。
+    - **自動化鏡像與零誤差驗證**：
+      - 覆蓋率由 13 家 (21.0%) 擴增至 **41 家 (66.1%)**。
+      - 鏡像更新 206 個別名 JSON，全面同步 `metrics_extractor.py` 之 `BUILTIN_BENCHMARKS_QUARTERLY`。
+      - 通過 `validate_company.py all` 100% 驗證 (0 Errors, 0 Warnings)。
+  - **發布與 GitHub Pages**：版本號推進至 `v3.14.0`（`Updated: 2026-10-30`），執行 `export_standalone.py` 重新編譯 `docs/index.html` 與 `standalone_dashboard.html`。
+
 - **v3.13.2 (2026-10-15)**：
   - **同步更新台積電 (TSMC) 與 ASML 2026 財年第 3 季 (Q3) 最新財報數據**：
     - **台積電 (TSMC 2330.TW / TSM)**：
@@ -1317,6 +1342,7 @@ python main.py --export-static
 ## 17. Git History Log
 
 ```
+* commit v3.14.0 - feat: update 28 global tech, semi, and AI companies 2026 Q3 audited reports, segment breakdowns, and productivity metrics
 * commit v3.13.2 - feat: update TSMC and ASML 2026 Q3 audited quarterly reports, segment breakdowns, and productivity metrics
 * commit v3.13.1 - feat: establish quarterly-earnings-batch-updater skill, global earnings calendar protocol, and batch sync CLI utility
 * commit v3.13.0 - feat: full portfolio 2026 quarterly data sync (Q1-Q2) across all 62 global companies, segment breakdowns, and productivity benchmarks

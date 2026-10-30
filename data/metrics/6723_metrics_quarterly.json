@@ -23,7 +23,8 @@
     "2025 Q3",
     "2025 Q4",
     "2026 Q1",
-    "2026 Q2"
+    "2026 Q2",
+    "2026 Q3"
   ],
   "financials": {
     "2023 Q1": {
@@ -389,6 +390,33 @@
       "hc_growth_yoy": 5.08,
       "gm_diff_pp": 1.08,
       "op_diff_pp": 8.12
+    },
+    "2026 Q3": {
+      "revenue": 2510.0,
+      "cogs": 1091.8,
+      "cost_of_revenue": 1091.8,
+      "gross_profit": 1418.2,
+      "gross_margin": 56.5,
+      "operating_income": 765.6,
+      "operating_margin": 30.5,
+      "net_income": 612.4,
+      "net_margin": 24.4,
+      "rd_expense": 425.0,
+      "rd_pct_rev": 16.93,
+      "headcount": 21800,
+      "rev_per_emp": 115138.0,
+      "gp_per_emp": 65055.0,
+      "op_per_emp": 35119.0,
+      "ni_per_emp": 28092.0,
+      "rd_per_emp": 19495.0,
+      "rev_growth_yoy": -1.57,
+      "gp_growth_yoy": -0.69,
+      "op_growth_yoy": 24.49,
+      "ni_growth_yoy": 14.47,
+      "rd_growth_yoy": -6.8,
+      "hc_growth_yoy": 5.19,
+      "gm_diff_pp": 0.5,
+      "op_diff_pp": 6.38
     }
   },
   "sales_breakdown": {
@@ -570,6 +598,18 @@
           51,
           39,
           10
+        ]
+      },
+      "2026 Q3": {
+        "value": [
+          1305.2,
+          953.8,
+          251.0
+        ],
+        "volume": [
+          52.0,
+          38.0,
+          10.0
         ]
       }
     }

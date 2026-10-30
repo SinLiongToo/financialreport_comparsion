@@ -70438,7 +70438,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -70692,6 +70693,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -4.73,
                 "gm_diff_pp": 3.2,
                 "op_diff_pp": 5.71
+            },
+            "2026 Q3": {
+                "revenue": 1260.0,
+                "cogs": 554.4,
+                "cost_of_revenue": 554.4,
+                "gross_profit": 705.6,
+                "gross_margin": 56.0,
+                "operating_income": 378.0,
+                "operating_margin": 30.0,
+                "net_income": 283.5,
+                "net_margin": 22.5,
+                "rd_expense": 145.0,
+                "rd_pct_rev": 11.51,
+                "headcount": 7100,
+                "rev_per_emp": 177465.0,
+                "gp_per_emp": 99380.0,
+                "op_per_emp": 53239.0,
+                "ni_per_emp": 39930.0,
+                "rd_per_emp": 20423.0,
+                "rev_growth_yoy": -30.77,
+                "gp_growth_yoy": -30.82,
+                "op_growth_yoy": -32.5,
+                "ni_growth_yoy": -35.27,
+                "rd_growth_yoy": -29.27,
+                "hc_growth_yoy": -4.7,
+                "gm_diff_pp": 0.0,
+                "op_diff_pp": -0.77
             }
         },
         "sales_breakdown": {
@@ -70824,6 +70852,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         74,
                         17,
                         9
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        945.0,
+                        201.6,
+                        113.4
+                    ],
+                    "volume": [
+                        75.0,
+                        16.0,
+                        9.0
                     ]
                 }
             }
@@ -71512,7 +71552,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -71878,6 +71919,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -0.37,
                 "gm_diff_pp": -1.2,
                 "op_diff_pp": 0.5
+            },
+            "2026 Q3": {
+                "revenue": 7820.0,
+                "cogs": 3088.9,
+                "cost_of_revenue": 3088.9,
+                "gross_profit": 4731.1,
+                "gross_margin": 60.5,
+                "operating_income": 1509.3,
+                "operating_margin": 19.3,
+                "net_income": 946.2,
+                "net_margin": 12.1,
+                "rd_expense": 98.0,
+                "rd_pct_rev": 1.25,
+                "headcount": 68200,
+                "rev_per_emp": 114663.0,
+                "gp_per_emp": 69371.0,
+                "op_per_emp": 22130.0,
+                "ni_per_emp": 13874.0,
+                "rd_per_emp": 1437.0,
+                "rev_growth_yoy": -2.97,
+                "gp_growth_yoy": -2.15,
+                "op_growth_yoy": -3.95,
+                "ni_growth_yoy": -2.92,
+                "rd_growth_yoy": -8.07,
+                "hc_growth_yoy": -0.26,
+                "gm_diff_pp": 0.5,
+                "op_diff_pp": -0.2
             }
         },
         "sales_breakdown": {
@@ -72089,6 +72157,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         31,
                         22,
                         5
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        3284.4,
+                        2424.2,
+                        1642.2,
+                        469.2
+                    ],
+                    "volume": [
+                        42.0,
+                        31.0,
+                        21.0,
+                        6.0
                     ]
                 }
             }
@@ -73078,7 +73160,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -73654,6 +73737,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 4.0,
                 "gm_diff_pp": 1.49,
                 "op_diff_pp": -2.43
+            },
+            "2026 Q3": {
+                "revenue": 8450.0,
+                "cogs": 3887.0,
+                "cost_of_revenue": 3887.0,
+                "gross_profit": 4563.0,
+                "gross_margin": 54.0,
+                "operating_income": 1943.5,
+                "operating_margin": 23.0,
+                "net_income": 1605.5,
+                "net_margin": 19.0,
+                "rd_expense": 1880.0,
+                "rd_pct_rev": 22.25,
+                "headcount": 27500,
+                "rev_per_emp": 307273.0,
+                "gp_per_emp": 165927.0,
+                "op_per_emp": 70673.0,
+                "ni_per_emp": 58382.0,
+                "rd_per_emp": 68364.0,
+                "rev_growth_yoy": -7.14,
+                "gp_growth_yoy": -7.99,
+                "op_growth_yoy": 42.38,
+                "ni_growth_yoy": 31.6,
+                "rd_growth_yoy": -2.08,
+                "hc_growth_yoy": 2.23,
+                "gm_diff_pp": -0.5,
+                "op_diff_pp": 8.0
             }
         },
         "sales_breakdown": {
@@ -73991,6 +74101,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         27,
                         23
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        4225.0,
+                        2112.5,
+                        1183.0,
+                        929.5
+                    ],
+                    "volume": [
+                        50.0,
+                        25.0,
+                        14.0,
+                        11.0
+                    ]
                 }
             }
         },
@@ -74043,7 +74167,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -74633,6 +74758,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -1.04,
                 "gm_diff_pp": 0.3,
                 "op_diff_pp": -0.01
+            },
+            "2026 Q3": {
+                "revenue": 182500.0,
+                "cogs": 93075.0,
+                "cost_of_revenue": 93075.0,
+                "gross_profit": 89425.0,
+                "gross_margin": 49.0,
+                "operating_income": 18980.0,
+                "operating_margin": 10.4,
+                "net_income": 16425.0,
+                "net_margin": 9.0,
+                "rd_expense": 24800.0,
+                "rd_pct_rev": 13.59,
+                "headcount": 1565000,
+                "rev_per_emp": 116613.0,
+                "gp_per_emp": 57141.0,
+                "op_per_emp": 12128.0,
+                "ni_per_emp": 10495.0,
+                "rd_per_emp": 15847.0,
+                "rev_growth_yoy": -2.93,
+                "gp_growth_yoy": -3.71,
+                "op_growth_yoy": -14.44,
+                "ni_growth_yoy": -15.34,
+                "rd_growth_yoy": -4.62,
+                "hc_growth_yoy": -0.95,
+                "gm_diff_pp": -0.4,
+                "op_diff_pp": -1.4
             }
         },
         "sales_breakdown": {
@@ -75033,6 +75185,22 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         16,
                         8,
                         12
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        69350.0,
+                        43800.0,
+                        31025.0,
+                        20075.0,
+                        18250.0
+                    ],
+                    "volume": [
+                        38.0,
+                        24.0,
+                        17.0,
+                        11.0,
+                        10.0
                     ]
                 }
             }
@@ -77491,7 +77659,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -77745,6 +77914,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -2.8,
                 "gm_diff_pp": 0.9,
                 "op_diff_pp": 0.8
+            },
+            "2026 Q3": {
+                "revenue": 5280.0,
+                "cogs": 4393.0,
+                "cost_of_revenue": 4393.0,
+                "gross_profit": 887.0,
+                "gross_margin": 16.8,
+                "operating_income": 411.8,
+                "operating_margin": 7.8,
+                "net_income": 327.4,
+                "net_margin": 6.2,
+                "rd_expense": 242.0,
+                "rd_pct_rev": 4.58,
+                "headcount": 97500,
+                "rev_per_emp": 54154.0,
+                "gp_per_emp": 9097.0,
+                "op_per_emp": 4224.0,
+                "ni_per_emp": 3358.0,
+                "rd_per_emp": 2482.0,
+                "rev_growth_yoy": -8.17,
+                "gp_growth_yoy": -12.87,
+                "op_growth_yoy": -18.62,
+                "ni_growth_yoy": -21.11,
+                "rd_growth_yoy": 0.0,
+                "hc_growth_yoy": -2.99,
+                "gm_diff_pp": -0.9,
+                "op_diff_pp": -1.0
             }
         },
         "sales_breakdown": {
@@ -77877,6 +78073,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         54,
                         43,
                         3
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        2851.2,
+                        580.8,
+                        1848.0
+                    ],
+                    "volume": [
+                        54.0,
+                        11.0,
+                        35.0
                     ]
                 }
             }
@@ -78293,14 +78501,14 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "op_per_emp": 71311.0,
                 "ni_per_emp": 61123.0,
                 "rd_per_emp": 27533.0,
-                "rev_growth_yoy": 23.89,
-                "gp_growth_yoy": 31.17,
-                "op_growth_yoy": 32.63,
-                "ni_growth_yoy": 33.61,
-                "rd_growth_yoy": 17.92,
-                "hc_growth_yoy": 2.02,
-                "gm_diff_pp": 3.0,
-                "op_diff_pp": 2.3
+                "rev_growth_yoy": 10.12,
+                "gp_growth_yoy": 13.93,
+                "op_growth_yoy": 18.59,
+                "ni_growth_yoy": 18.09,
+                "rd_growth_yoy": 5.93,
+                "hc_growth_yoy": 1.57,
+                "gm_diff_pp": 1.8,
+                "op_diff_pp": 2.5
             }
         },
         "sales_breakdown": {
@@ -79912,7 +80120,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -80242,6 +80451,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -1.64,
                 "gm_diff_pp": 0.2,
                 "op_diff_pp": 11.94
+            },
+            "2026 Q3": {
+                "revenue": 1350.0,
+                "cogs": 135.0,
+                "cost_of_revenue": 135.0,
+                "gross_profit": 1215.0,
+                "gross_margin": 90.0,
+                "operating_income": 472.5,
+                "operating_margin": 35.0,
+                "net_income": 371.3,
+                "net_margin": 27.5,
+                "rd_expense": 440.0,
+                "rd_pct_rev": 32.59,
+                "headcount": 12100,
+                "rev_per_emp": 111570.0,
+                "gp_per_emp": 100413.0,
+                "op_per_emp": 39050.0,
+                "ni_per_emp": 30686.0,
+                "rd_per_emp": 36364.0,
+                "rev_growth_yoy": -0.74,
+                "gp_growth_yoy": 0.95,
+                "op_growth_yoy": 11.18,
+                "ni_growth_yoy": null,
+                "rd_growth_yoy": null,
+                "hc_growth_yoy": -2.02,
+                "gm_diff_pp": 1.5,
+                "op_diff_pp": 3.75
             }
         },
         "sales_breakdown": {
@@ -80449,6 +80685,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         75,
                         15,
                         10
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        634.5,
+                        391.5,
+                        175.5,
+                        148.5
+                    ],
+                    "volume": [
+                        47.0,
+                        29.0,
+                        13.0,
+                        11.0
                     ]
                 }
             }
@@ -83390,7 +83640,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -83956,6 +84207,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 0.75,
                 "gm_diff_pp": 1.51,
                 "op_diff_pp": -1.57
+            },
+            "2026 Q3": {
+                "revenue": 102345.0,
+                "cogs": 42473.0,
+                "cost_of_revenue": 42473.0,
+                "gross_profit": 59872.0,
+                "gross_margin": 58.5,
+                "operating_income": 35310.0,
+                "operating_margin": 34.5,
+                "net_income": 30192.0,
+                "net_margin": 29.5,
+                "rd_expense": 14124.0,
+                "rd_pct_rev": 13.8,
+                "headcount": 184500,
+                "rev_per_emp": 554715.0,
+                "gp_per_emp": 324509.0,
+                "op_per_emp": 191382.0,
+                "ni_per_emp": 163642.0,
+                "rd_per_emp": 76553.0,
+                "rev_growth_yoy": 0.83,
+                "gp_growth_yoy": 1.48,
+                "op_growth_yoy": 2.35,
+                "ni_growth_yoy": 1.32,
+                "rd_growth_yoy": 1.61,
+                "hc_growth_yoy": 0.82,
+                "gm_diff_pp": 0.37,
+                "op_diff_pp": 0.51
             }
         },
         "sales_breakdown": {
@@ -84324,6 +84602,22 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         8,
                         14,
                         12
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        56290.0,
+                        10746.0,
+                        7676.0,
+                        14840.0,
+                        12793.0
+                    ],
+                    "volume": [
+                        55.0,
+                        10.5,
+                        7.5,
+                        14.5,
+                        12.5
                     ]
                 }
             }
@@ -84898,7 +85192,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -85252,6 +85547,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 4.31,
                 "gm_diff_pp": 3.55,
                 "op_diff_pp": 2.37
+            },
+            "2026 Q3": {
+                "revenue": 14150.0,
+                "cogs": 8490.0,
+                "cost_of_revenue": 8490.0,
+                "gross_profit": 5660.0,
+                "gross_margin": 40.0,
+                "operating_income": 1415.0,
+                "operating_margin": 10.0,
+                "net_income": 1132.0,
+                "net_margin": 8.0,
+                "rd_expense": 4050.0,
+                "rd_pct_rev": 28.62,
+                "headcount": 109000,
+                "rev_per_emp": 129817.0,
+                "gp_per_emp": 51927.0,
+                "op_per_emp": 12982.0,
+                "ni_per_emp": 10385.0,
+                "rd_per_emp": 37156.0,
+                "rev_growth_yoy": -7.08,
+                "gp_growth_yoy": -3.84,
+                "op_growth_yoy": 336.73,
+                "ni_growth_yoy": 393.25,
+                "rd_growth_yoy": -5.06,
+                "hc_growth_yoy": 5.09,
+                "gm_diff_pp": 1.35,
+                "op_diff_pp": 7.87
             }
         },
         "sales_breakdown": {
@@ -85464,6 +85786,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         8,
                         7
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        7641.0,
+                        4386.5,
+                        1132.0,
+                        990.5
+                    ],
+                    "volume": [
+                        54.0,
+                        31.0,
+                        8.0,
+                        7.0
+                    ]
                 }
             }
         },
@@ -85533,7 +85869,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -85787,6 +86124,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 2.56,
                 "gm_diff_pp": 0.51,
                 "op_diff_pp": -0.31
+            },
+            "2026 Q3": {
+                "revenue": 2980.0,
+                "cogs": 1117.5,
+                "cost_of_revenue": 1117.5,
+                "gross_profit": 1862.5,
+                "gross_margin": 62.5,
+                "operating_income": 1192.0,
+                "operating_margin": 40.0,
+                "net_income": 968.5,
+                "net_margin": 32.5,
+                "rd_expense": 390.0,
+                "rd_pct_rev": 13.09,
+                "headcount": 16100,
+                "rev_per_emp": 185093.0,
+                "gp_per_emp": 115683.0,
+                "op_per_emp": 74037.0,
+                "ni_per_emp": 60155.0,
+                "rd_per_emp": 24224.0,
+                "rev_growth_yoy": 5.67,
+                "gp_growth_yoy": 8.6,
+                "op_growth_yoy": 7.39,
+                "ni_growth_yoy": 13.27,
+                "rd_growth_yoy": 8.94,
+                "hc_growth_yoy": 2.55,
+                "gm_diff_pp": 1.68,
+                "op_diff_pp": 0.64
             }
         },
         "sales_breakdown": {
@@ -85934,6 +86298,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         88,
                         12
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        2622.4,
+                        149.0,
+                        89.4,
+                        119.2
+                    ],
+                    "volume": [
+                        88.0,
+                        5.0,
+                        3.0,
+                        4.0
+                    ]
                 }
             }
         },
@@ -85981,7 +86359,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -86347,6 +86726,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 1.44,
                 "gm_diff_pp": 0.5,
                 "op_diff_pp": 1.0
+            },
+            "2026 Q3": {
+                "revenue": 8750.0,
+                "cogs": 4593.7,
+                "cost_of_revenue": 4593.7,
+                "gross_profit": 4156.3,
+                "gross_margin": 47.5,
+                "operating_income": 2493.8,
+                "operating_margin": 28.5,
+                "net_income": 1697.5,
+                "net_margin": 19.4,
+                "rd_expense": 50.0,
+                "rd_pct_rev": 0.57,
+                "headcount": 67000,
+                "rev_per_emp": 130597.0,
+                "gp_per_emp": 62034.0,
+                "op_per_emp": 37221.0,
+                "ni_per_emp": 25336.0,
+                "rd_per_emp": 746.0,
+                "rev_growth_yoy": -0.34,
+                "gp_growth_yoy": -1.38,
+                "op_growth_yoy": 5.2,
+                "ni_growth_yoy": -5.69,
+                "rd_growth_yoy": -45.65,
+                "hc_growth_yoy": 1.48,
+                "gm_diff_pp": -0.5,
+                "op_diff_pp": 1.5
             }
         },
         "sales_breakdown": {
@@ -86558,6 +86964,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         25,
                         23,
                         10
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        3675.0,
+                        2187.5,
+                        2012.5,
+                        875.0
+                    ],
+                    "volume": [
+                        42.0,
+                        25.0,
+                        23.0,
+                        10.0
                     ]
                 }
             }
@@ -87394,7 +87814,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -87760,6 +88181,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -6.23,
                 "gm_diff_pp": 8.7,
                 "op_diff_pp": 10.13
+            },
+            "2026 Q3": {
+                "revenue": 44.0,
+                "cogs": 27.3,
+                "cost_of_revenue": 27.3,
+                "gross_profit": 16.7,
+                "gross_margin": 38.0,
+                "operating_income": 9.2,
+                "operating_margin": 21.0,
+                "net_income": 7.5,
+                "net_margin": 17.0,
+                "rd_expense": 3.8,
+                "rd_pct_rev": 8.64,
+                "headcount": 1590,
+                "rev_per_emp": 27673.0,
+                "gp_per_emp": 10503.0,
+                "op_per_emp": 5786.0,
+                "ni_per_emp": 4717.0,
+                "rd_per_emp": 2390.0,
+                "rev_growth_yoy": -0.23,
+                "gp_growth_yoy": 32.86,
+                "op_growth_yoy": 108.14,
+                "ni_growth_yoy": 131.48,
+                "rd_growth_yoy": 7.95,
+                "hc_growth_yoy": -6.64,
+                "gm_diff_pp": 9.5,
+                "op_diff_pp": 10.98
             }
         },
         "sales_breakdown": {
@@ -88014,6 +88462,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         29,
                         10
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        26.8,
+                        12.8,
+                        4.4
+                    ],
+                    "volume": [
+                        61.0,
+                        29.0,
+                        10.0
+                    ]
                 }
             }
         },
@@ -88092,7 +88552,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -88458,6 +88919,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 0.88,
                 "gm_diff_pp": -1.0,
                 "op_diff_pp": 0.5
+            },
+            "2026 Q3": {
+                "revenue": 4580.0,
+                "cogs": 2335.8,
+                "cost_of_revenue": 2335.8,
+                "gross_profit": 2244.2,
+                "gross_margin": 49.0,
+                "operating_income": 961.8,
+                "operating_margin": 21.0,
+                "net_income": 861.0,
+                "net_margin": 18.8,
+                "rd_expense": 1020.0,
+                "rd_pct_rev": 22.27,
+                "headcount": 22900,
+                "rev_per_emp": 200000.0,
+                "gp_per_emp": 98000.0,
+                "op_per_emp": 42000.0,
+                "ni_per_emp": 37598.0,
+                "rd_per_emp": 44541.0,
+                "rev_growth_yoy": -2.29,
+                "gp_growth_yoy": -4.25,
+                "op_growth_yoy": 3.63,
+                "ni_growth_yoy": -10.78,
+                "rd_growth_yoy": -12.82,
+                "hc_growth_yoy": 0.88,
+                "gm_diff_pp": -1.0,
+                "op_diff_pp": 1.2
             }
         },
         "sales_breakdown": {
@@ -88639,6 +89127,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         34,
                         8
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        2656.4,
+                        1557.2,
+                        366.4
+                    ],
+                    "volume": [
+                        58.0,
+                        34.0,
+                        8.0
+                    ]
                 }
             }
         },
@@ -88690,7 +89190,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -89056,6 +89557,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 1.51,
                 "gm_diff_pp": -0.5,
                 "op_diff_pp": 2.2
+            },
+            "2026 Q3": {
+                "revenue": 5880.0,
+                "cogs": 2322.6,
+                "cost_of_revenue": 2322.6,
+                "gross_profit": 3557.4,
+                "gross_margin": 60.5,
+                "operating_income": 1205.4,
+                "operating_margin": 20.5,
+                "net_income": 846.7,
+                "net_margin": 14.4,
+                "rd_expense": 655.0,
+                "rd_pct_rev": 11.14,
+                "headcount": 64000,
+                "rev_per_emp": 91875.0,
+                "gp_per_emp": 55584.0,
+                "op_per_emp": 18834.0,
+                "ni_per_emp": 13230.0,
+                "rd_per_emp": 10234.0,
+                "rev_growth_yoy": -5.11,
+                "gp_growth_yoy": -8.29,
+                "op_growth_yoy": -6.56,
+                "ni_growth_yoy": -12.71,
+                "rd_growth_yoy": -11.49,
+                "hc_growth_yoy": 1.55,
+                "gm_diff_pp": -2.1,
+                "op_diff_pp": -0.32
             }
         },
         "sales_breakdown": {
@@ -89310,6 +89838,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         36,
                         19
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        2646.0,
+                        2116.8,
+                        1117.2
+                    ],
+                    "volume": [
+                        45.0,
+                        36.0,
+                        19.0
+                    ]
                 }
             }
         },
@@ -89394,7 +89934,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -90032,6 +90573,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -22.16,
                 "gm_diff_pp": 0.0,
                 "op_diff_pp": -37632.69
+            },
+            "2026 Q3": {
+                "revenue": 51200.0,
+                "cogs": 8960.0,
+                "cost_of_revenue": 8960.0,
+                "gross_profit": 42240.0,
+                "gross_margin": 82.5,
+                "operating_income": 21760.0,
+                "operating_margin": 42.5,
+                "net_income": 18432.0,
+                "net_margin": 36.0,
+                "rd_expense": 12800.0,
+                "rd_pct_rev": 25.0,
+                "headcount": 79200,
+                "rev_per_emp": 646465.0,
+                "gp_per_emp": 533333.0,
+                "op_per_emp": 274747.0,
+                "ni_per_emp": 232727.0,
+                "rd_per_emp": 161616.0,
+                "rev_growth_yoy": 2.81,
+                "gp_growth_yoy": 2.81,
+                "op_growth_yoy": -0.69,
+                "ni_growth_yoy": -3.5,
+                "rd_growth_yoy": 1.59,
+                "hc_growth_yoy": 2.19,
+                "gm_diff_pp": 0.0,
+                "op_diff_pp": -1.5
             }
         },
         "sales_breakdown": {
@@ -90310,6 +90878,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                     "volume": [
                         98.6,
                         1.4
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        50176.0,
+                        819.0,
+                        205.0
+                    ],
+                    "volume": [
+                        98.0,
+                        1.6,
+                        0.4
                     ]
                 }
             }
@@ -90945,7 +91525,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -91522,6 +92103,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 4.74,
                 "gm_diff_pp": -194.32,
                 "op_diff_pp": 85441.07
+            },
+            "2026 Q3": {
+                "revenue": 85250.0,
+                "cogs": 25575.0,
+                "cost_of_revenue": 25575.0,
+                "gross_profit": 59675.0,
+                "gross_margin": 70.0,
+                "operating_income": 38362.5,
+                "operating_margin": 45.0,
+                "net_income": 30690.0,
+                "net_margin": 36.0,
+                "rd_expense": 8525.0,
+                "rd_pct_rev": 10.0,
+                "headcount": 238000,
+                "rev_per_emp": 358193.0,
+                "gp_per_emp": 250735.0,
+                "op_per_emp": 161187.0,
+                "ni_per_emp": 128950.0,
+                "rd_per_emp": 35819.0,
+                "rev_growth_yoy": 13.52,
+                "gp_growth_yoy": 14.33,
+                "op_growth_yoy": 13.16,
+                "ni_growth_yoy": 11.6,
+                "rd_growth_yoy": 0.89,
+                "hc_growth_yoy": 2.15,
+                "gm_diff_pp": 0.5,
+                "op_diff_pp": -0.14
             }
         },
         "sales_breakdown": {
@@ -91810,6 +92418,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         38,
                         32,
                         30
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        36657.5,
+                        27280.0,
+                        21312.5
+                    ],
+                    "volume": [
+                        43.0,
+                        32.0,
+                        25.0
                     ]
                 }
             }
@@ -96842,7 +97462,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -97196,6 +97817,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -8.66,
                 "gm_diff_pp": 6.0,
                 "op_diff_pp": -1.51
+            },
+            "2026 Q3": {
+                "revenue": 395.0,
+                "cogs": 331.8,
+                "cost_of_revenue": 331.8,
+                "gross_profit": 63.2,
+                "gross_margin": 16.0,
+                "operating_income": 19.8,
+                "operating_margin": 5.0,
+                "net_income": 14.2,
+                "net_margin": 3.6,
+                "rd_expense": 44.0,
+                "rd_pct_rev": 11.14,
+                "headcount": 7700,
+                "rev_per_emp": 51299.0,
+                "gp_per_emp": 8208.0,
+                "op_per_emp": 2571.0,
+                "ni_per_emp": 1844.0,
+                "rd_per_emp": 5714.0,
+                "rev_growth_yoy": -9.69,
+                "gp_growth_yoy": 44.62,
+                "op_growth_yoy": 127.59,
+                "ni_growth_yoy": 115.15,
+                "rd_growth_yoy": 54.93,
+                "hc_growth_yoy": -8.19,
+                "gm_diff_pp": 6.01,
+                "op_diff_pp": 3.01
             }
         },
         "sales_breakdown": {
@@ -97373,6 +98021,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                     "volume": [
                         57,
                         43
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        217.3,
+                        142.2,
+                        35.5
+                    ],
+                    "volume": [
+                        55.0,
+                        36.0,
+                        9.0
                     ]
                 }
             }
@@ -99399,7 +100059,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -99765,6 +100426,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 5.08,
                 "gm_diff_pp": 1.08,
                 "op_diff_pp": 8.12
+            },
+            "2026 Q3": {
+                "revenue": 2510.0,
+                "cogs": 1091.8,
+                "cost_of_revenue": 1091.8,
+                "gross_profit": 1418.2,
+                "gross_margin": 56.5,
+                "operating_income": 765.6,
+                "operating_margin": 30.5,
+                "net_income": 612.4,
+                "net_margin": 24.4,
+                "rd_expense": 425.0,
+                "rd_pct_rev": 16.93,
+                "headcount": 21800,
+                "rev_per_emp": 115138.0,
+                "gp_per_emp": 65055.0,
+                "op_per_emp": 35119.0,
+                "ni_per_emp": 28092.0,
+                "rd_per_emp": 19495.0,
+                "rev_growth_yoy": -1.57,
+                "gp_growth_yoy": -0.69,
+                "op_growth_yoy": 24.49,
+                "ni_growth_yoy": 14.47,
+                "rd_growth_yoy": -6.8,
+                "hc_growth_yoy": 5.19,
+                "gm_diff_pp": 0.5,
+                "op_diff_pp": 6.38
             }
         },
         "sales_breakdown": {
@@ -99947,6 +100635,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         39,
                         10
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        1305.2,
+                        953.8,
+                        251.0
+                    ],
+                    "volume": [
+                        52.0,
+                        38.0,
+                        10.0
+                    ]
                 }
             }
         },
@@ -99985,7 +100685,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -100239,6 +100940,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 0.74,
                 "gm_diff_pp": 4.4,
                 "op_diff_pp": 3.04
+            },
+            "2026 Q3": {
+                "revenue": 62800.0,
+                "cogs": 37052.0,
+                "cost_of_revenue": 37052.0,
+                "gross_profit": 25748.0,
+                "gross_margin": 41.0,
+                "operating_income": 9420.0,
+                "operating_margin": 15.0,
+                "net_income": 7850.0,
+                "net_margin": 12.5,
+                "rd_expense": 6100.0,
+                "rd_pct_rev": 9.71,
+                "headcount": 274000,
+                "rev_per_emp": 229197.0,
+                "gp_per_emp": 93971.0,
+                "op_per_emp": 34380.0,
+                "ni_per_emp": 28650.0,
+                "rd_per_emp": 22263.0,
+                "rev_growth_yoy": 0.48,
+                "gp_growth_yoy": 2.48,
+                "op_growth_yoy": 11.48,
+                "ni_growth_yoy": 11.35,
+                "rd_growth_yoy": -3.94,
+                "hc_growth_yoy": 0.74,
+                "gm_diff_pp": 0.8,
+                "op_diff_pp": 1.48
             }
         },
         "sales_breakdown": {
@@ -100393,6 +101121,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         35,
                         11,
                         5
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        31400.0,
+                        21980.0,
+                        6280.0,
+                        3140.0
+                    ],
+                    "volume": [
+                        50.0,
+                        35.0,
+                        10.0,
+                        5.0
                     ]
                 }
             }
@@ -101464,7 +102206,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -101818,6 +102561,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -3.88,
                 "gm_diff_pp": 0.0,
                 "op_diff_pp": 3.26
+            },
+            "2026 Q3": {
+                "revenue": 4520.0,
+                "cogs": 2779.8,
+                "cost_of_revenue": 2779.8,
+                "gross_profit": 1740.2,
+                "gross_margin": 38.5,
+                "operating_income": 1288.2,
+                "operating_margin": 28.5,
+                "net_income": 958.2,
+                "net_margin": 21.2,
+                "rd_expense": 172.0,
+                "rd_pct_rev": 3.81,
+                "headcount": 26700,
+                "rev_per_emp": 169288.0,
+                "gp_per_emp": 65176.0,
+                "op_per_emp": 48247.0,
+                "ni_per_emp": 35888.0,
+                "rd_per_emp": 6442.0,
+                "rev_growth_yoy": 5.12,
+                "gp_growth_yoy": -8.02,
+                "op_growth_yoy": 3.47,
+                "ni_growth_yoy": 7.66,
+                "rd_growth_yoy": 7.5,
+                "hc_growth_yoy": -3.58,
+                "gm_diff_pp": -5.5,
+                "op_diff_pp": -0.45
             }
         },
         "sales_breakdown": {
@@ -102004,6 +102774,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         16,
                         10
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        2169.6,
+                        1265.6,
+                        1084.8
+                    ],
+                    "volume": [
+                        48.0,
+                        28.0,
+                        24.0
+                    ]
                 }
             }
         },
@@ -102082,7 +102864,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -102436,6 +103219,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -6.12,
                 "gm_diff_pp": 4.0,
                 "op_diff_pp": 0.5
+            },
+            "2026 Q3": {
+                "revenue": 15450.0,
+                "cogs": 6643.5,
+                "cost_of_revenue": 6643.5,
+                "gross_profit": 8806.5,
+                "gross_margin": 57.0,
+                "operating_income": 6643.5,
+                "operating_margin": 43.0,
+                "net_income": 5253.0,
+                "net_margin": 34.0,
+                "rd_expense": 1380.0,
+                "rd_pct_rev": 8.93,
+                "headcount": 33200,
+                "rev_per_emp": 465361.0,
+                "gp_per_emp": 265256.0,
+                "op_per_emp": 200105.0,
+                "ni_per_emp": 158223.0,
+                "rd_per_emp": 41566.0,
+                "rev_growth_yoy": 4.39,
+                "gp_growth_yoy": 16.67,
+                "op_growth_yoy": 12.22,
+                "ni_growth_yoy": 7.2,
+                "rd_growth_yoy": 28.97,
+                "hc_growth_yoy": -6.41,
+                "gm_diff_pp": 6.0,
+                "op_diff_pp": 3.0
             }
         },
         "sales_breakdown": {
@@ -102617,6 +103427,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         81,
                         17,
                         2
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        12669.0,
+                        2472.0,
+                        309.0
+                    ],
+                    "volume": [
+                        82.0,
+                        16.0,
+                        2.0
                     ]
                 }
             }
@@ -103291,7 +104113,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -103657,6 +104480,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 6.03,
                 "gm_diff_pp": 1.21,
                 "op_diff_pp": 4.02
+            },
+            "2026 Q3": {
+                "revenue": 3720.0,
+                "cogs": 2213.4,
+                "cost_of_revenue": 2213.4,
+                "gross_profit": 1506.6,
+                "gross_margin": 40.5,
+                "operating_income": 465.0,
+                "operating_margin": 12.5,
+                "net_income": 383.2,
+                "net_margin": 10.3,
+                "rd_expense": 505.0,
+                "rd_pct_rev": 13.58,
+                "headcount": 51200,
+                "rev_per_emp": 72656.0,
+                "gp_per_emp": 29426.0,
+                "op_per_emp": 9082.0,
+                "ni_per_emp": 7484.0,
+                "rd_per_emp": 9863.0,
+                "rev_growth_yoy": 12.73,
+                "gp_growth_yoy": 16.34,
+                "op_growth_yoy": 17.72,
+                "ni_growth_yoy": 4.99,
+                "rd_growth_yoy": 5.21,
+                "hc_growth_yoy": 6.78,
+                "gm_diff_pp": 1.26,
+                "op_diff_pp": 0.53
             }
         },
         "sales_breakdown": {
@@ -103839,6 +104689,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         35,
                         20
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        1711.2,
+                        1264.8,
+                        744.0
+                    ],
+                    "volume": [
+                        46.0,
+                        34.0,
+                        20.0
+                    ]
                 }
             }
         },
@@ -103917,7 +104779,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -104271,6 +105134,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -7.5,
                 "gm_diff_pp": 4.2,
                 "op_diff_pp": 7.98
+            },
+            "2026 Q3": {
+                "revenue": 745.0,
+                "cogs": 555.0,
+                "cost_of_revenue": 555.0,
+                "gross_profit": 190.0,
+                "gross_margin": 25.5,
+                "operating_income": 93.1,
+                "operating_margin": 12.5,
+                "net_income": 63.3,
+                "net_margin": 8.5,
+                "rd_expense": 40.0,
+                "rd_pct_rev": 5.37,
+                "headcount": 9300,
+                "rev_per_emp": 80108.0,
+                "gp_per_emp": 20430.0,
+                "op_per_emp": 10011.0,
+                "ni_per_emp": 6806.0,
+                "rd_per_emp": 4301.0,
+                "rev_growth_yoy": 4.93,
+                "gp_growth_yoy": -6.13,
+                "op_growth_yoy": 10.83,
+                "ni_growth_yoy": 19.43,
+                "rd_growth_yoy": 32.45,
+                "hc_growth_yoy": -7.46,
+                "gm_diff_pp": -3.0,
+                "op_diff_pp": 0.67
             }
         },
         "sales_breakdown": {
@@ -104448,6 +105338,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                     "volume": [
                         81,
                         19
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        603.5,
+                        104.3,
+                        37.2
+                    ],
+                    "volume": [
+                        81.0,
+                        14.0,
+                        5.0
                     ]
                 }
             }
@@ -105760,7 +106662,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -106259,20 +107162,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "op_diff_pp": -13.77
             },
             "2026 Q1": {
-                "revenue": 1282494.0,
-                "gross_profit": 780949.0,
-                "operating_income": 473002.0,
-                "net_income": 398908.0,
-                "cost_of_revenue": 413855.0,
+                "revenue": 1282.5,
+                "gross_profit": 780.9,
+                "operating_income": 473.0,
+                "net_income": 398.9,
+                "cost_of_revenue": 413.9,
                 "headcount": 6850,
                 "gross_margin": 60.89,
                 "operating_margin": 36.88,
                 "net_margin": 31.1,
                 "rd_pct_rev": 0.0,
-                "rev_per_emp": 187225401.0,
-                "gp_per_emp": 114007153.0,
-                "op_per_emp": 69051387.0,
-                "ni_per_emp": 58234745.0,
+                "rev_per_emp": 187226.0,
+                "gp_per_emp": 114000.0,
+                "op_per_emp": 69051.0,
+                "ni_per_emp": 58234.0,
                 "rd_per_emp": 0,
                 "rev_growth_yoy": 168649.21,
                 "gp_growth_yoy": 175394.16,
@@ -106284,20 +107187,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "op_diff_pp": 15.83
             },
             "2026 Q2": {
-                "revenue": 1328990.0,
-                "gross_profit": 794618.0,
-                "operating_income": 437810.0,
-                "net_income": 78372.0,
-                "cost_of_revenue": 438344.0,
+                "revenue": 1329.0,
+                "gross_profit": 794.6,
+                "operating_income": 437.8,
+                "net_income": 78.4,
+                "cost_of_revenue": 438.3,
                 "headcount": 6900,
                 "gross_margin": 59.79,
                 "operating_margin": 32.94,
                 "net_margin": 5.9,
                 "rd_pct_rev": 0.0,
-                "rev_per_emp": 192607246.0,
-                "gp_per_emp": 115162029.0,
-                "op_per_emp": 63450725.0,
-                "ni_per_emp": 11358261.0,
+                "rev_per_emp": 192609.0,
+                "gp_per_emp": 115159.0,
+                "op_per_emp": 63449.0,
+                "ni_per_emp": 11362.0,
                 "rd_per_emp": 0,
                 "rev_growth_yoy": 158113.1,
                 "gp_growth_yoy": 160105.24,
@@ -106307,6 +107210,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 2.99,
                 "gm_diff_pp": 0.79,
                 "op_diff_pp": 10.92
+            },
+            "2026 Q3": {
+                "revenue": 795.0,
+                "cogs": 329.9,
+                "cost_of_revenue": 329.9,
+                "gross_profit": 465.1,
+                "gross_margin": 58.5,
+                "operating_income": 198.8,
+                "operating_margin": 25.0,
+                "net_income": 163.0,
+                "net_margin": 20.5,
+                "rd_expense": 122.0,
+                "rd_pct_rev": 15.35,
+                "headcount": 6950,
+                "rev_per_emp": 114388.0,
+                "gp_per_emp": 66921.0,
+                "op_per_emp": 28604.0,
+                "ni_per_emp": 23453.0,
+                "rd_per_emp": 17554.0,
+                "rev_growth_yoy": -8.62,
+                "gp_growth_yoy": -9.69,
+                "op_growth_yoy": 2.47,
+                "ni_growth_yoy": -7.91,
+                "rd_growth_yoy": -5.43,
+                "hc_growth_yoy": 2.96,
+                "gm_diff_pp": -0.7,
+                "op_diff_pp": 2.7
             }
         },
         "sales_breakdown": {
@@ -106563,9 +107493,9 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2026 Q1": {
                     "value": [
-                        934388,
-                        161228,
-                        186878
+                        934.4,
+                        161.2,
+                        186.9
                     ],
                     "volume": [
                         73,
@@ -106575,14 +107505,26 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 },
                 "2026 Q2": {
                     "value": [
-                        968264,
-                        167073,
-                        193653
+                        968.3,
+                        167.1,
+                        193.7
                     ],
                     "volume": [
                         73,
                         12,
                         15
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        580.4,
+                        111.3,
+                        103.3
+                    ],
+                    "volume": [
+                        73.0,
+                        14.0,
+                        13.0
                     ]
                 }
             }
@@ -106631,7 +107573,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -106997,6 +107940,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 3.25,
                 "gm_diff_pp": -0.3,
                 "op_diff_pp": 0.2
+            },
+            "2026 Q3": {
+                "revenue": 28850.0,
+                "cogs": 23224.2,
+                "cost_of_revenue": 23224.2,
+                "gross_profit": 5625.8,
+                "gross_margin": 19.5,
+                "operating_income": 2740.8,
+                "operating_margin": 9.5,
+                "net_income": 2452.3,
+                "net_margin": 8.5,
+                "rd_expense": 1320.0,
+                "rd_pct_rev": 4.58,
+                "headcount": 127500,
+                "rev_per_emp": 226275.0,
+                "gp_per_emp": 44124.0,
+                "op_per_emp": 21496.0,
+                "ni_per_emp": 19234.0,
+                "rd_per_emp": 10353.0,
+                "rev_growth_yoy": 1.58,
+                "gp_growth_yoy": 0.05,
+                "op_growth_yoy": 4.89,
+                "ni_growth_yoy": -0.76,
+                "rd_growth_yoy": -4.69,
+                "hc_growth_yoy": 2.82,
+                "gm_diff_pp": -0.3,
+                "op_diff_pp": 0.3
             }
         },
         "sales_breakdown": {
@@ -107178,6 +108148,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         78,
                         13,
                         9
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        22214.5,
+                        3894.8,
+                        2740.7
+                    ],
+                    "volume": [
+                        77.0,
+                        13.5,
+                        9.5
                     ]
                 }
             }
@@ -107871,7 +108853,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -108133,6 +109116,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": -5.78,
                 "gm_diff_pp": 2.3,
                 "op_diff_pp": 1.11
+            },
+            "2026 Q3": {
+                "revenue": 660.0,
+                "cogs": 524.7,
+                "cost_of_revenue": 524.7,
+                "gross_profit": 135.3,
+                "gross_margin": 20.5,
+                "operating_income": 62.7,
+                "operating_margin": 9.5,
+                "net_income": 44.9,
+                "net_margin": 6.8,
+                "rd_expense": 17.0,
+                "rd_pct_rev": 2.58,
+                "headcount": 16350,
+                "rev_per_emp": 40367.0,
+                "gp_per_emp": 8275.0,
+                "op_per_emp": 3835.0,
+                "ni_per_emp": 2746.0,
+                "rd_per_emp": 1040.0,
+                "rev_growth_yoy": -11.41,
+                "gp_growth_yoy": -12.71,
+                "op_growth_yoy": -11.69,
+                "ni_growth_yoy": -6.46,
+                "rd_growth_yoy": 132.88,
+                "hc_growth_yoy": -7.89,
+                "gm_diff_pp": -0.31,
+                "op_diff_pp": -0.03
             }
         },
         "sales_breakdown": {
@@ -108305,6 +109315,22 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         25,
                         16,
                         12
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        310.2,
+                        178.2,
+                        92.4,
+                        52.8,
+                        26.4
+                    ],
+                    "volume": [
+                        47.0,
+                        27.0,
+                        14.0,
+                        8.0,
+                        4.0
                     ]
                 }
             }
@@ -109024,7 +110050,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -109390,6 +110417,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 2.49,
                 "gm_diff_pp": -0.8,
                 "op_diff_pp": -0.88
+            },
+            "2026 Q3": {
+                "revenue": 2015.0,
+                "cogs": 1350.0,
+                "cost_of_revenue": 1350.0,
+                "gross_profit": 665.0,
+                "gross_margin": 33.0,
+                "operating_income": 463.5,
+                "operating_margin": 23.0,
+                "net_income": 419.1,
+                "net_margin": 20.8,
+                "rd_expense": 202.0,
+                "rd_pct_rev": 10.02,
+                "headcount": 20700,
+                "rev_per_emp": 97343.0,
+                "gp_per_emp": 32126.0,
+                "op_per_emp": 22391.0,
+                "ni_per_emp": 20246.0,
+                "rd_per_emp": 9758.0,
+                "rev_growth_yoy": 2.81,
+                "gp_growth_yoy": -0.15,
+                "op_growth_yoy": -1.38,
+                "ni_growth_yoy": 2.22,
+                "rd_growth_yoy": 71.19,
+                "hc_growth_yoy": 2.73,
+                "gm_diff_pp": -1.0,
+                "op_diff_pp": -0.98
             }
         },
         "sales_breakdown": {
@@ -109574,6 +110628,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         26,
                         13,
                         10
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        1068.0,
+                        564.2,
+                        382.8
+                    ],
+                    "volume": [
+                        53.0,
+                        28.0,
+                        19.0
                     ]
                 }
             }
@@ -110279,7 +111345,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2024 Q1": {
@@ -110533,6 +111600,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 1.51,
                 "gm_diff_pp": 3.0,
                 "op_diff_pp": 2.57
+            },
+            "2026 Q3": {
+                "revenue": 840.0,
+                "cogs": 625.8,
+                "cost_of_revenue": 625.8,
+                "gross_profit": 214.2,
+                "gross_margin": 25.5,
+                "operating_income": 71.4,
+                "operating_margin": 8.5,
+                "net_income": 48.7,
+                "net_margin": 5.8,
+                "rd_expense": 29.0,
+                "rd_pct_rev": 3.45,
+                "headcount": 23600,
+                "rev_per_emp": 35593.0,
+                "gp_per_emp": 9076.0,
+                "op_per_emp": 3025.0,
+                "ni_per_emp": 2064.0,
+                "rd_per_emp": 1229.0,
+                "rev_growth_yoy": -1.18,
+                "gp_growth_yoy": 2.98,
+                "op_growth_yoy": -0.83,
+                "ni_growth_yoy": 1.46,
+                "rd_growth_yoy": 26.09,
+                "hc_growth_yoy": 1.72,
+                "gm_diff_pp": 1.0,
+                "op_diff_pp": 0.03
             }
         },
         "sales_breakdown": {
@@ -110680,6 +111774,20 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         61,
                         39
                     ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        327.6,
+                        151.2,
+                        235.2,
+                        126.0
+                    ],
+                    "volume": [
+                        39.0,
+                        18.0,
+                        28.0,
+                        15.0
+                    ]
                 }
             }
         },
@@ -110727,7 +111835,8 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
             "2025 Q3",
             "2025 Q4",
             "2026 Q1",
-            "2026 Q2"
+            "2026 Q2",
+            "2026 Q3"
         ],
         "financials": {
             "2023 Q1": {
@@ -111093,6 +112202,33 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                 "hc_growth_yoy": 8.33,
                 "gm_diff_pp": -0.4,
                 "op_diff_pp": 3.5
+            },
+            "2026 Q3": {
+                "revenue": 148.0,
+                "cogs": 106.6,
+                "cost_of_revenue": 106.6,
+                "gross_profit": 41.4,
+                "gross_margin": 28.0,
+                "operating_income": 16.3,
+                "operating_margin": 11.0,
+                "net_income": 13.0,
+                "net_margin": 8.8,
+                "rd_expense": 17.0,
+                "rd_pct_rev": 11.49,
+                "headcount": 3280,
+                "rev_per_emp": 45122.0,
+                "gp_per_emp": 12622.0,
+                "op_per_emp": 4970.0,
+                "ni_per_emp": 3963.0,
+                "rd_per_emp": 5183.0,
+                "rev_growth_yoy": -7.5,
+                "gp_growth_yoy": -13.75,
+                "op_growth_yoy": 1.88,
+                "ni_growth_yoy": -12.16,
+                "rd_growth_yoy": -24.44,
+                "hc_growth_yoy": 8.61,
+                "gm_diff_pp": -2.0,
+                "op_diff_pp": 1.0
             }
         },
         "sales_breakdown": {
@@ -111274,6 +112410,18 @@ BUILTIN_BENCHMARKS_QUARTERLY = {
                         62,
                         28,
                         10
+                    ]
+                },
+                "2026 Q3": {
+                    "value": [
+                        91.8,
+                        41.4,
+                        14.8
+                    ],
+                    "volume": [
+                        62.0,
+                        28.0,
+                        10.0
                     ]
                 }
             }
