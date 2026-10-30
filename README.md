@@ -1404,3 +1404,5 @@ python main.py --export-static
 * commit v1.0.0 - feat: initialize financial annual report crawler, pdf-to-markdown parser and strategic OpEx dashboard workflow
 ```
 
+---
+**Last Updated**: 2026-10-30 | **Current Version**: v3.14.0
