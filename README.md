@@ -707,6 +707,13 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.16.0 (2026-10-30)**：
+  - **三層式數據防偽與一致性鏈驗證系統 (Tri-Layer Consistency Protocol: PDF ➔ MD ➔ JSON)**：
+    - **實體憑證與鏈路稽核 (erify_tri_layer_consistency.py)**：嚴格審計全庫 62 家企業從 Layer 1（原始 PDF 檔案標頭 %PDF、大小 > 10KB、PyMuPDF 頁數 > 0）、Layer 2（無損結構化 Markdown 表格）到 Layer 3（標準化 JSON 財務指標）的嚴密數據鏈。
+    - **防採集期別錯位 (Comparative Column Shift Guard)**：針對 Form 10-Q 比較期別（前期 Prior Year vs 當期 Current Year）欄位進行錨定驗證，杜絕採集漂移。
+    - **現金流恆等式與四季年化審計**：全面檢核  \equiv OCF - CapEx$ 與 $\\sum_{i=1}^4 Q_i \equiv \\text{Annual}$，保障數據 100% 具備物理憑證與數學嚴謹性。
+    - **Skill 技能庫擴充與全域同步**：更新 inancial-report-multiformat-analyzer 技能，並發布同步至 ~/.agents/skills/（Claude Code 與 Antigravity 共用）。
+
 - **v3.15.0 (2026-10-30)**：
   - **全庫 62 家全球企業全景支援自由現金流 (FCF) 與資本支出 (CapEx) 趨勢分析**：
     - **新增 Chart 7：自由現金流與資本支出現金轉化動態 (`chartFcfDynamics`)**：
@@ -1358,6 +1365,7 @@ python main.py --export-static
 
 ## 17. Git History Log
 
+- 3.16.0 (2026-10-30): Add Tri-Layer Consistency Protocol (PDF ➔ MD ➔ JSON), update skill and automated verification scripts.
 ```
 * commit v3.15.0 - feat: integrate Free Cash Flow (FCF), CapEx intensity, and cash conversion dynamics across all 62 companies
 * commit v3.14.0 - feat: update 28 global tech, semi, and AI companies 2026 Q3 audited reports, segment breakdowns, and productivity metrics

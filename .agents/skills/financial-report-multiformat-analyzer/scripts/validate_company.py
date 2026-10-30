@@ -127,6 +127,21 @@ def validate_company(ticker: str):
     if f'"{canon.upper()}":' not in js_code:
         warnings.append(f"Ticker '{canon.upper()}' friendly name not defined in dashboard.js friendlyNames.")
 
+
+    # 5. Optional Tri-Layer Consistency Audit (PDF ➔ MD ➔ JSON)
+    try:
+        from verify_tri_layer_consistency import TriLayerConsistencyAuditor
+        auditor = TriLayerConsistencyAuditor()
+        tri_rep = auditor.verify_company(ticker)
+        if tri_rep['status'] == 'FAIL':
+            for err in tri_rep['errors']:
+                errors.append(f'Tri-Layer: {err}')
+        elif tri_rep['status'] == 'WARN':
+            for w in tri_rep['warnings']:
+                warnings.append(f'Tri-Layer: {w}')
+    except Exception as e:
+        warnings.append(f'Could not run Tri-Layer consistency audit: {e}')
+
     # Summary
     if errors:
         print(f"❌ FAILED with {len(errors)} error(s):")

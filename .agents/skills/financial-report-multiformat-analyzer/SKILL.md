@@ -1,7 +1,7 @@
 ---
 name: financial-report-multiformat-analyzer
 description: >-
-  Systematically analyzes, extracts, normalizes, and audits corporate financial reports across multiple filing formats (SEC 10-K, 10-Q, 20-F, 6-K, Taiwan TWSE annual reports, Japan Yuho, IFRS/US GAAP), currencies (USD, TWD, EUR, JPY, KRW, GBP), scales (thousands, millions, billions), reporting frequencies (Annual vs. Quarterly with linear headcount interpolation), and calculates strategic productivity indices (Rev/GP/OI per FTE, Gross Margin %, Operating Margin %, R&D Reinvestment %, The Pivot inflection point, Value-vs-volume Paradox, Country / Regional tagging, and 5-Stage Lean Maturity rating).
+  Systematically analyzes, extracts, normalizes, and audits corporate financial reports across multiple filing formats (SEC 10-K, 10-Q, 20-F, 6-K, Taiwan TWSE annual reports, Japan Yuho, IFRS/US GAAP), verifies tri-layer consistency across physical source PDFs, lossless structured Markdown, and normalized JSON metrics (PDF to MD to JSON chain-of-custody, FCF equations, 4-quarter annual reconciliation, column shift detection), currencies (USD, TWD, EUR, JPY, KRW, GBP), scales (thousands, millions, billions), reporting frequencies (Annual vs. Quarterly with linear headcount interpolation), and calculates strategic productivity indices (Rev/GP/OI per FTE, Gross Margin %, Operating Margin %, R&D Reinvestment %, The Pivot inflection point, Value-vs-volume Paradox, Country / Regional tagging, and 5-Stage Lean Maturity rating).
 ---
 
 # Multi-Format Corporate Financial & OpEx Strategic Analyzer
@@ -280,7 +280,8 @@ When user triggers Fullscreen Zoom on Chart 6:
 ### B. Defense & Military AI Systems (Shield AI, Anduril, Ondas, Palantir)
 - **Long Hardware Prototyping to DoD Production Scaling Cycle**:
   - Companies like Anduril (Roadrunner, Fury) and Shield AI (V-BAT, Hivemind) self-fund initial hardware prototyping and airframe testing.
-  - As software licensing (Lattice OS, Hivemind) scales into DoD Programs of Record (PoR), operating margins rapidly compress their deficits (-70% $ightarrow$ -4.1% in 2025).
+  - As software licensing (Lattice OS, Hivemind) scales into DoD Programs of Record (PoR), operating margins rapidly compress their deficits (-70% $
+ightarrow$ -4.1% in 2025).
   - **Dual-Sector Multi-Token Matching**: Classified under both `MILITARY` and `HYPERSCALE` sectors to support dual-view cross-comparison.
 
 ---
@@ -375,5 +376,58 @@ For quarterly earnings seasons (Q1, Q2, Q3) across the 62-company catalog, utili
   python .agents/skills/quarterly-earnings-batch-updater/scripts/batch_quarterly_sync.py --all
   ```
 
+---
 
+## 14. Tri-Layer Data Chain-of-Custody & Cross-Verification Protocol (PDF ➔ MD ➔ JSON)
+
+To uphold the absolute standard of **Zero Hallucination / Zero Fictitious Numbers**, every financial figure rendered on the dashboard or stored in data/metrics/ must be directly grounded in and mathematically verifiable against physical regulatory filings through a strict 3-layer chain-of-custody:
+
+`
+[Layer 1: Physical Source PDF] 
+       │  (data/downloads/{ticker}/*.pdf)
+       ▼  PyMuPDF fitz table & text extraction
+[Layer 2: Lossless Markdown] 
+       │  (data/parsed_md/{ticker}/*.md)
+       ▼  Multi-format extractor & currency normalizer
+[Layer 3: Normalized Metric JSON] 
+          (data/metrics/{ticker}_metrics.json & _quarterly.json)
+`
+
+### The 5 Golden Consistency Proofs:
+
+1. **Proof 1: Non-Zero Physical PDF Artifact Verification (Layer 1)**:
+   - Validates that every registered company possesses authentic binary PDF filings in data/downloads/{ticker}/.
+   - Checks file header magic bytes (%PDF-), minimum payload size (> 10 KB), and PyMuPDF itz page count (> 0).
+   - Flags and eliminates placeholder 0-byte or 1-byte HTML error response files (0 stubs guarantee).
+
+2. **Proof 2: Lossless Structured Markdown Traceability (Layer 2)**:
+   - Ensures structured Markdown equivalents exist in data/parsed_md/{ticker}/ retaining raw tabular formatting (Consolidated Statements of Income, Balance Sheets, Cash Flows, Segment Reporting).
+   - Guarantees numbers in Layer 3 map directly back to exact character strings in Layer 2 text.
+
+3. **Proof 3: Comparative Period Column Disambiguation (Column Shift Guard)**:
+   - SEC Form 10-Q interim income statements format quarterly data in side-by-side comparative columns:
+     - **Column 1**: Three Months Ended [Date], *Prior Year* (e.g. 2025).
+     - **Column 2**: Three Months Ended [Date], *Current Year* (e.g. 2026).
+   - Rapid or automated scraping can inadvertently latch onto Column 1 instead of Column 2.
+   - The Tri-Layer Auditor scans table column headers to guarantee the current period metrics strictly bind to the Current Year column.
+
+4. **Proof 4: Statutory Cash Flow Equation Proof ( \equiv OCF - \text{CapEx}$)**:
+   - Validates mathematical identity across every reported quarter and annual filing:
+     \text{Free Cash Flow (FCF)} = \text{Cash Provided by Operating Activities (OCF)} - \text{Capital Expenditures (CapEx)}
+   - Prevents signs or scaling discrepancies in capital expenditure accounting (e.g. Google 2026 Q3 CapEx .3B, OCF .3B -> FCF -.0B).
+
+5. **Proof 5: 4-Quarter Annual Reconciliation Proof (sum(4Q) = Annual)**:
+   - For all completed fiscal years, sums the 4 reported quarterly revenues and reconciles against the audited 10-K / Annual Report total:
+     \Delta\% = \frac{|\sum_{i=1}^4 Q_i - \text{Annual}|}{\text{Annual}} \times 100\% \le 2.0\%
+   - Flags discrepancies caused by calendar shifts, discontinued operations restatements, or missing historical quarters.
+
+### Automated Tri-Layer Consistency CLI (erify_tri_layer_consistency.py):
+
+`powershell
+# 1. Audit a single corporate entity across all 3 layers:
+python .agents/skills/financial-report-multiformat-analyzer/scripts/verify_tri_layer_consistency.py googl
+
+# 2. Audit the entire corporate fleet (62 entities):
+python .agents/skills/financial-report-multiformat-analyzer/scripts/verify_tri_layer_consistency.py all
+`
 
