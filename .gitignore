@@ -16,3 +16,5 @@ download/
 **/downloads/
 **/download/
 *.pdf
+data/scratch_sec/
+*.temp.html
