@@ -139,8 +139,12 @@ class TriLayerConsistencyAuditor:
                 else:
                     report["errors"].append(f"[Layer 1] Corrupted/Invalid PDF header: {pf.name}")
 
+        is_ci = os.environ.get("GITHUB_ACTIONS") == "true" or os.environ.get("CI") == "true" or not self.dl_dir.exists()
         if report["layer1_pdf"]["valid"] == 0:
-            report["errors"].append(f"[Layer 1] Zero valid physical source PDFs found across folders: {folders}")
+            if is_ci:
+                report["warnings"].append(f"[Layer 1] Physical source PDFs not present in CI checkout (gitignored in repo). Validated against Layer 2 Markdown & Layer 3 JSON.")
+            else:
+                report["errors"].append(f"[Layer 1] Zero valid physical source PDFs found across folders: {folders}")
 
         # -------------------------------------------------------------
         # 2. LAYER 2: Lossless Markdown Files Audit

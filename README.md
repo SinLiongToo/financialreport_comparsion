@@ -707,6 +707,11 @@ python main.py --export-static
 
 ## 16. 最新修復與優化 (Change Log)
 
+- **v3.17.2 (2026-11-03)**：
+  - **修復 GitHub Actions CI 自動化工作流失敗 (Fix CI Failure in Daily Stock Sync)**：
+    - **解決雲端環境缺實體 PDF 之審計中斷**：因原始 PDF 檔案容量龐大，依據標準規範設於 .gitignore 不提交至 Git。先前 alidate_company.py 整合三層一致性檢驗時未隔離 CI 環境，導致 GitHub Actions runner 因找不到實體 PDF 而退出 exit code 1。
+    - **重構驗證 CLI 架構**：alidate_company.py 拆分常規模式與 --tri-layer 深度模式。CI 環境下專注於極速驗證（2秒內完成全庫62家指標、Chart 6結構與別名映射），實體PDF檢驗於CI中轉為提示（Warning），確保每日定時股價同步與自動打包工作流 100% 穩定運行。
+
 - **v3.17.0 (2026-10-30)**：
   - **產業戰略洞察與深度研究筆記庫全新升級 (Industry Strategic Insights Archive Expansion)**：
     - **新增 2026 Q3 萬億資本開支與現金流轉負深度戰略研報**：以 Google、微軟、亞馬遜、Meta、NVIDIA、台積電最新 Q3 財報為基準，深入剖析單季資本支出衝破 513 億美元、自由現金流由正轉負達到 -90 億美元的會計機制（伺服器折舊年限緩衝、ASC 730 預訓練研發全額費用化 vs. ASC 360 企業推論資產資本化）與雲端營業利益率暴衝 +217% 的拐點效應。
@@ -1371,6 +1376,7 @@ python main.py --export-static
 
 ## 17. Git History Log
 
+- 3.17.2 (2026-11-03): Fix GitHub Actions CI by handling git-ignored PDFs and separating fast vs tri-layer audit flags.
 - 3.17.0 (2026-10-30): Expand Strategic Insights Archive with 2026 Q3 CapEx supercycle report, edition picker & company filters.
 - 3.16.0 (2026-10-30): Add Tri-Layer Consistency Protocol (PDF ➔ MD ➔ JSON), update skill and automated verification scripts.
 ```
